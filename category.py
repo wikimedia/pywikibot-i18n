@@ -9,6 +9,7 @@ msg = {
 		'category-replacing': u'روبوت: استبدال التصنيف %(oldcat)s ب %(newcat)s',
 		'category-adding': u'روبوت: إضافة [[تصنيف:%(newcat)s]]',
 		'category-removing': u'روبوت: إزالة من %(oldcat)',
+		'category-renamed': u'ﺭﻮﺑﻮﺗ: ﻦﻘﻟ ﻢﻧ %(oldcat)s. ﺎﻠﻣﺆﻠﻓﻮﻧ: %(authors)s',
 	},
 	'bat-smg': {
 		'category-was-moved': u'Robots: Kateguorėjė bova parvadėnta i [[:Kateguorėjė:%(newcat)|%(title)s]]',
@@ -58,6 +59,7 @@ msg = {
 		'category-replacing': u'Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s',
 		'category-adding': u'Bot: Ergänze [[Kategorie:%(newcat)s]]',
 		'category-removing': u'Bot: Entferne aus %(oldcat)',
+		'category-renamed': u'Bot: Verschoben von %(oldcat)s. Autoren: %(authors)s',
 	},
 	'en': {
 		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)|%(title)s]]',
@@ -68,6 +70,7 @@ msg = {
 		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
 		'category-adding': u'Robot: Adding [[Category:%(newcat)s]]',
 		'category-removing': u'Bot: Removing from %(oldcat)',
+		'category-renamed': u'Robot: Moved from %(oldcat)s. Authors: %(authors)s',
 	},
 	'es': {
 		'category-was-moved': u'Robot: La categoría ha sido movida a [[:Category:%(newcat)|%(title)s]]',
@@ -95,6 +98,7 @@ msg = {
 		'category-listifying': u'Botti listasi luokan %(fromcat) (%(num)d jäsentä)',
 		'category-adding': u'Botti lisäsi luokkaan [[Luokka:%(newcat)s]]',
 		'category-removing': u'Botti poisti luokasta %(oldcat)',
+		'category-renamed': u'Botti siirsi luokan %(oldcat)s. Muokkaajat: %(authors)s',
 	},
 	'fr': {
 		'category-was-moved': u'Robot : catégorie déplacée sur [[:Category:%(newcat)|%(title)s]]',
@@ -102,6 +106,7 @@ msg = {
 		'category-changing': u'Robot : modifie [[%(oldcat)s]]',
 		'category-adding': u'Robot : ajoute [[Catégorie:%(newcat)s]]',
 		'category-removing': u'Robot : Retiré depuis %(oldcat)',
+		'category-renamed': u'Robot : déplacé depuis %(oldcat)s. Auteurs: %(authors)s',
 	},
 	'he': {
 		'category-was-moved': u'בוט: הקטגוריה הועברה לשם [[:קטגוריה:%(newcat)|%(title)s]]',
@@ -111,6 +116,8 @@ msg = {
 		'category-listifying': u'בוט: יוצר רשימה מהקטגוריה %(fromcat) (%(num)d דפים)',
 		'category-adding': u'בוט: מוסיף [[קטגוריה:%(newcat)s]]',
 		'category-removing': u'בוט: מסיר את הדף מהקטגוריה %(oldcat)',
+		'category-renamed': u'בוט: הועבר מהשם %(oldcat)s. כותבים: %(authors)s'
+
 	},
 	'hu': {
 		'category-was-moved': u'A bot áthelyezte a kategória tartalmát ide: [[:Kategória:%(newcat)|%(title)s]]',
@@ -130,11 +137,13 @@ msg = {
 		'category-replacing': u'Robot: Reimplacia categoria %(oldcat)s per %(newcat)s',
 		'category-adding': u'Robot: Addition de [[Categoria:%(newcat)s]]',
 		'category-removing': u'Robot: Eliminate de %(oldcat)',
+		'category-renamed': u'Robot: Transferite de %(oldcat)s. Autores: %(authors)s'
 	},
 	'id': {
 		'category-was-moved': u'Bot: Kategori dipindahkan ke [[:Category:%(newcat)|%(title)s]]',
 		'category-changing': u'Bot: Mengganti %(oldcat)s',
 		'category-adding': u'Bot: Menambahkan [[Kategori:%(newcat)s]]',
+		'category-renamed': u'Bot: Memindahkan dari %(oldcat)s. Kontributor: %(authors)s',
 	},
 	'is': {
 		'category-also-in': u'(einnig í %(alsocat))',
@@ -146,6 +155,7 @@ msg = {
 		'category-was-moved': u'Bot: La categoria è stata sostituita da [[:Categoria:%(newcat)|%(title)s]]',
 		'category-changing': u'Bot: Modifico %(oldcat)s',
 		'category-adding': u'Bot: Aggiungo [[Categoria:%(newcat)s]]',
+		'category-renamed': u'Bot: Voce spostata da %(oldcat)s. Autori: %(authors)s',
 	},
 	'ja': {
 		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)]]へ移動',
@@ -153,6 +163,7 @@ msg = {
 		'category-replacing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-adding': u'ロボットによる: カテゴリ追加 [[Category:%(newcat)s]]',
 		'category-removing': u'ロボットによる:[[%(oldcat)]]を除去',
+		'category-renamed': u'ロボットによる: %(oldcat)s から移動しました。原作者は %(authors)s',
 	},
 	'kk': {
 		'category-was-moved': u'Бот: Санат [[:Санат:%(newcat)|%(title)s]] дегенге жылжытылды',
@@ -174,6 +185,7 @@ msg = {
 		'category-was-disbanded': u'Bot: de Saachjropp is nu opjelööß',
 		'category-adding': u'Bot: [[Saachjropp:%(newcat)s]] erinjedonn',
 		'category-removing': u'Bot: uß de %(oldcat) ußjedraare',
+		'category-renamed': u'Bot: hääjeholldt von %(oldcat)s. Schriiver: %(authors)s',
 	},
 	'lb': {
 		'category-was-moved': u'Bot: Kategorie gouf gréckelt: Nei [[:Kategorie:%(newcat)|%(title)s]]',
@@ -202,6 +214,7 @@ msg = {
 		'category-was-disbanded': u'Kat-Bot: Kategorie is nu oplööst',
 		'category-adding': u'Kat-Bot: [[Kategorie:%(newcat)s]] rin',
 		'category-removing': u'Kat-Bot: rut ut %(oldcat)',
+		'category-renamed': u'Kat-Bot: herschaven von %(oldcat)s. Schriever: %(authors)s'
 	},
 	'nds-nl': {
 		'category-was-moved': u'Bot: kattegerie is herneumd naor [[:Kattegerie:%(newcat)|%(title)s]]',
@@ -222,6 +235,7 @@ msg = {
 		'category-replacing': u'Robot: categorie %(oldcat)s is vervangen door %(newcat)s',
 		'category-adding': u'Robot: [[Categorie:%(newcat)s]] toegevoegd',
 		'category-removing': u'Robot: verwijderd uit %(oldcat)',
+		'category-renamed': u'Bot: hernoemd van %(oldcat)s. Auteurs: %(authors)s',
 	},
 	'nn': {
 		'category-was-moved': u'robot: kategorien blei flytta til [[:Kategori:%(newcat)|%(title)s]]',
@@ -253,6 +267,7 @@ msg = {
 		'category-listifying': u'Robot: listuje kategorię %(fromcat) (%(num)d stron)',
 		'category-adding': u'Robot dodaje [[Kategoria:%(newcat)s]]',
 		'category-removing': u'Robot: Usuwa z kategorii %(oldcat)',
+		'category-renamed': u'Robot przenosi z %(oldcat)s. Autorzy: %(authors)s',
 	},
 	'pt': {
 		'category-was-moved': u'Bot: Categoria [[:Category:%(newcat)|%(title)s]] foi movida',
@@ -262,6 +277,7 @@ msg = {
 		'category-listifying': u'Bot: Listando de %(fromcat) (%(num)d entradas)',
 		'category-adding': u'Bot: Adicionando [[Categoria:%(newcat)s]]',
 		'category-removing': u'Bot: Removendo [[%(oldcat)]]',
+		'category-renamed': u'Bot: Movido de %(oldcat)s. Autor: %(authors)s',
 	},
 	'ru': {
 		'category-was-moved': u'Робот: категория переименована в [[:Категория:%(newcat)|%(title)s]]',
@@ -316,5 +332,6 @@ msg = {
 		'category-replacing': u'機器人:變更目錄 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-adding': u'機器人:新增目錄 [[Category:%(newcat)s]]',
 		'category-removing': u'機器人:移除目錄 [[%(oldcat)]]',
+		'category-renamed': u'機器人: 已從 %(oldcat)s 移動。原作者是 %(authors)s'
 	},
 }
