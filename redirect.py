@@ -35,7 +35,7 @@ msg = {
 	'de': {
 		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung zu %(to)s',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
-		'redirect-broken-redirect-template': u'{{sla|Defekte Weiterleitung --~~~~}}',
+		'redirect-broken-redirect-template': u'{{sla|Kaputte Weiterleitung --~~~~}}',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
 	},
 	'en': {
