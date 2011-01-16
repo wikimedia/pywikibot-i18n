@@ -2,7 +2,7 @@
 msg = {
 	'als': {
 		'redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s',
-		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch--[[User:FuzzyBot|FuzzyBot]] 00:52, 15 January 2011 (UTC)',
+		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch--~~~~',
 		'redirect-remove-broken': u'Wyterleitig wo kaputt isch',
 	},
 	'ar': {
@@ -12,7 +12,7 @@ msg = {
 		'redirect-remove-broken': u'روبوت: هدف التحويلة غير موجود',
 	},
 	'bar': {
-		'redirect-broken-redirect-template': u'{{delete}}Kaputte Weiterleitung--[[User:FuzzyBot|FuzzyBot]] 00:52, 15 January 2011 (UTC)',
+		'redirect-broken-redirect-template': u'{{delete}}Kaputte Weiterleitung--~~~~',
 	},
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
@@ -35,7 +35,7 @@ msg = {
 	'de': {
 		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung zu %(to)s',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
-		'redirect-broken-redirect-template': u'{{sla|Defekte Weiterleitung --[[User:FuzzyBot|FuzzyBot]] 00:52, 15 January 2011 (UTC)}}',
+		'redirect-broken-redirect-template': u'{{sla|Defekte Weiterleitung --~~~~}}',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
 	},
 	'en': {
@@ -65,7 +65,7 @@ msg = {
 	'frr': {
 		'redirect-fix-double': u'Bot: Ferbeedre dobelt widjerfeerang tu %(to)s',
 		'redirect-remove-loop': u'Bot: Widjerfeerang üüb ham salew',
-		'redirect-broken-redirect-template': u'{{delete|Widjerfeerang uunstaken --[[User:FuzzyBot|FuzzyBot]] 00:52, 15 January 2011 (UTC)}}',
+		'redirect-broken-redirect-template': u'{{delete|Widjerfeerang uunstaken --~~~~}}',
 		'redirect-remove-broken': u'Bot: Widjerfeerang tu en duad sidj.',
 	},
 	'ga': {
@@ -83,7 +83,7 @@ msg = {
 	'hu': {
 		'redirect-fix-double': u'Bot: %(to)s lapra mutató dupla átirányítás javítása',
 		'redirect-remove-loop': u'Bot: A cél átirányítási hurkot hoz létre',
-		'redirect-broken-redirect-template': u'{{azonnali|Hibás átirányítás|[[User:FuzzyBot|FuzzyBot]] 00:52, 15 January 2011 (UTC)}}',
+		'redirect-broken-redirect-template': u'{{azonnali|Hibás átirányítás|~~~~}}',
 		'redirect-remove-broken': u'Bot: Törölt vagy nemlétező lapra mutató [[WP:REDIR|átirányítás]] törlése',
 	},
 	# Author: McDutchie
@@ -119,7 +119,7 @@ msg = {
 	},
 	'ksh': {
 		'redirect-fix-double': u'Bot: [[special:doubleredirects|Dubbel Ömlëijdong]] fottjemaat → %(to)s',
-		'redirect-broken-redirect-template': u'{{Schmieß fott}}Di Ömlëijdong jeiht noh nörjendwoh hen.<br />--00:52, 15 January 2011 (UTC)',
+		'redirect-broken-redirect-template': u'{{Schmieß fott}}Di Ömlëijdong jeiht noh nörjendwoh hen.<br />--~~~~',
 		'redirect-remove-broken': u'Bot: Dė [[Special:BrokenRedirects|Ömlëijdong jingk ennet Liiere]]',
 	},
 	'lb': {
@@ -142,7 +142,7 @@ msg = {
 	},
 	'nds': {
 		'redirect-fix-double': u'Bot: Dubbelte Wiederleiden rutmakt → %(to)s',
-		'redirect-broken-redirect-template': u'{{delete}}Kaputte Wiederleiden, wat nich brukt ward.<br />--[[User:FuzzyBot|FuzzyBot]] 00:52, 15 January 2011 (UTC)',
+		'redirect-broken-redirect-template': u'{{delete}}Kaputte Wiederleiden, wat nich brukt ward.<br />--~~~~',
 		'redirect-remove-broken': u'Bot: Kaputte Wiederleiden ward nich brukt',
 	},
 	# Author: Siebrand
@@ -159,7 +159,7 @@ msg = {
 		'redirect-remove-broken': u'robot: målet for omdirigeringen eksisterer ikke',
 	},
 	'pdc': {
-		'redirect-broken-redirect-template': u'{{lesche|Kaputte Weiderleiding --[[User:FuzzyBot|FuzzyBot]] 00:53, 15 January 2011 (UTC)}}',
+		'redirect-broken-redirect-template': u'{{lesche|Kaputte Weiderleiding --~~~~}}',
 	},
 	'pfl': {
 		'redirect-fix-double': u'Bot: E doppelte Waiterlaitung vabessat zu %(to)s',
@@ -206,7 +206,7 @@ msg = {
 	},
 	'war': {
 		'redirect-fix-double': u'Robot: Gin-ayad in nagduduha nga redirek → %(to)s',
-		'redirect-broken-redirect-template': u'{{delete}}Nautod o nagbinalikbalik nga redirek.--[[User:FuzzyBot|FuzzyBot]] 00:53, 15 January 2011 (UTC)',
+		'redirect-broken-redirect-template': u'{{delete}}Nautod o nagbinalikbalik nga redirek.--~~~~',
 		'redirect-remove-broken': u'Robot: Waray dida an karadto-an han redirek',
 	},
 	'yi': {
