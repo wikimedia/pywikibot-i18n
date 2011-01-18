@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
-    'ar': {'basic-changing': {'basic-changing': u'روبوت: تغيير ...',
+    'ar': {'basic-changing': u'روبوت: تغيير ...',
     },
     'cs': {'basic-changing': u'Robot změnil ...',
     },
@@ -31,4 +31,5 @@ msg = {
     'uk': {'basic-changing': u'Бот: змінив ...',
     },
     'zh': {'basic-changing': u'機器人：編輯.....',
+    },
 }
