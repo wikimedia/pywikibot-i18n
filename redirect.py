@@ -265,9 +265,7 @@ msg = {
 	'qqq': {
 		'redirect-fix-double': u'Edit summary when the bot fixes double redirects. %(to)s displays the new redirect target as a wiki link.',
 		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion.',
-		'redirect-broken-redirect-template': u'Template for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.
-
-NOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.',
+		'redirect-broken-redirect-template': u'Template for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request. NOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.',
 		'redirect-remove-broken': u'Edit summary when the bot tags a deleted or non-existent page for speedy deletion.',
 	},
 	# Author: Minisarm
