@@ -131,7 +131,7 @@ msg = {
 		'category-also-in': u'(επίσης στο %(alsocat)sες)',
 		'category-changing': u'Robot: Αλλάζοντας %(oldcat)sες',
 		'category-listifying': u'Bot: Καταλογίζοντας από %(fromcat)s (%(num)d entries)',
-		'category-replacing': u'Robot: Αντικατάσταση κατηγοριών %(oldcat)ες με %(newcat)ες',
+		'category-replacing': u'Robot: Αντικατάσταση κατηγοριών %(oldcat)sες με %(newcat)ες',
 	},
 	'en': {
 		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
@@ -259,12 +259,12 @@ msg = {
 		'category-changing': u'Bot: Modifico %(oldcat)s',
 		'category-was-disbanded': u'Bot: La categoria è stata eliminata',
 		'category-listifying': u'Bot: Lista del contento dalla %(fromcat)s (%(num)d pagine)',
-		'category-replacing': u'Bot: Sostituzione di %(oldcat) con %(newcat)',
+		'category-replacing': u'Bot: Sostituzione di %(oldcat)s con %(newcat)s',
 		'category-adding': u'Bot: Aggiungo [[Categoria:%(newcat)s]]',
 		'category-removing': u'Bot: Rimozione da %(oldcat)s',
 	},
 	'ja': {
-		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)]]へ移動',
+		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)s]]へ移動',
 		'category-changing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-replacing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-adding': u'ロボットによる: カテゴリ追加 [[Category:%(newcat)s]]',
@@ -272,12 +272,12 @@ msg = {
 	},
 	'kk': {
 		'category-was-moved': u'Бот: Санат [[:Санат:%(newcat)s|%(title)s]] дегенге жылжытылды',
-		'category-also-in': u'(тағы да %(alsocat) дегенде)',
+		'category-also-in': u'(тағы да %(alsocat)s дегенде)',
 		'category-changing': u'Бот: %(oldcat)s дегенді түзетті',
 		'category-was-disbanded': u'Бот: Санат тарқатылды',
 		'category-listifying': u'Бот: %(fromcat)s дегеннен (%(num)d буын) тізімдеді',
 		'category-adding': u'Бот: [[Санат:%(newcat)s]] үстеді',
-		'category-removing': u'Бот: %(oldcat) дегеннен аластатты',
+		'category-removing': u'Бот: %(oldcat)s дегеннен аластатты',
 	},
 	'ko': {
 		'category-was-moved': u'로봇: 분류가 [[:분류:%(newcat)s|%(title)s]]로 옮겨짐',
@@ -293,7 +293,7 @@ msg = {
 		'category-listifying': u'Bot: Leß vun dä %(fromcat)s (%(num)d Enndrääsch)',
 		'category-replacing': u'Bot: [[%(oldcat)s]] jääje [[%(newcat)s]] ußjetuusch.',
 		'category-adding': u'Bot: [[Saachjropp:%(newcat)s]] erinjedonn',
-		'category-removing': u'Bot: uß de %(oldcat) ußjedraare',
+		'category-removing': u'Bot: uß de %(oldcat)s ußjedraare',
 	},
 	# Author: UV
 	'la': {
@@ -402,7 +402,7 @@ msg = {
 		'category-changing': u'Robot przenosi %(oldcat)s',
 		'category-was-disbanded': u'Robot usuwa kategorię',
 		'category-listifying': u'Robot listuje kategorię %(fromcat)s (%(num)d pozycji)',
-		'category-replacing': u'Robot zastępuje kategorię %(oldcat) przez %(newcat)',
+		'category-replacing': u'Robot zastępuje kategorię %(oldcat)s przez %(newcat)s',
 		'category-adding': u'Robot dodaje [[Category:%(newcat)s]]',
 		'category-removing': u'Robot usuwa z kategorii %(oldcat)s',
 	},
@@ -449,7 +449,7 @@ msg = {
 		'category-also-in': u'(также в %(alsocat)s)',
 		'category-changing': u'Робот: изменение %(oldcat)s',
 		'category-was-disbanded': u'Робот: категория расформирована',
-		'category-listifying': u'Робот: Составляется список из (%(num)d элементов) %(fromcat)',
+		'category-listifying': u'Робот: Составляется список из (%(num)d элементов) %(fromcat)s',
 		'category-replacing': u'Робот: Замена категории %(oldcat)s на %(newcat)s',
 		'category-adding': u'Робот: добавление [[Категория:%(newcat)s]]',
 		'category-removing': u'Робот: исключение из %(oldcat)s',
@@ -484,14 +484,14 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'category-was-moved': u'Робот: категорија је премештена у [[:Category:%(newcat)|%(title)s]]',
+		'category-was-moved': u'Робот: категорија је премештена у [[:Category:%(newcat)s|%(title)s]]',
 		'category-also-in': u'(такође у %(alsocat))',
 		'category-changing': u'Робот: мењање %(oldcat)s',
 		'category-was-disbanded': u'Бот: категорија је распуштена',
-		'category-listifying': u'Бот: сврставање из %(fromcat) (%(num)d entries)',
+		'category-listifying': u'Бот: сврставање из %(fromcat)s (%(num)d entries)',
 		'category-replacing': u'Робот: мењање категорије %(oldcat)s са %(newcat)s',
 		'category-adding': u'Робот: додавање [[Category:%(newcat)s]]',
-		'category-removing': u'Бот: уклањање из %(oldcat)',
+		'category-removing': u'Бот: уклањање из %(oldcat)s',
 	},
 	# Author: Rancher
 	'sr-el': {
@@ -561,6 +561,6 @@ msg = {
 	},
 	# Author: Hydra
 	'zh-hans': {
-		'category-was-moved': u'机器人： 类别移动到 [[:Category:%(newcat)s|%(title)]]',
+		'category-was-moved': u'机器人： 类别移动到 [[:Category:%(newcat)s|%(title)s]]',
 	},
 }
