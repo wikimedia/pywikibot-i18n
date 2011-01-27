@@ -128,7 +128,7 @@ msg = {
 	# Author: Xqt
 	'el': {
 		'category-was-moved': u'Bot: Η κατηγορία μετακινείθηκε στο [[:Κατηγορία:%(newcat)s|%(title)s]]',
-		'category-also-in': u'(επίσης στο %(alsocat)ες)',
+		'category-also-in': u'(επίσης στο %(alsocat)sες)',
 		'category-changing': u'Robot: Αλλάζοντας %(oldcat)sες',
 		'category-listifying': u'Bot: Καταλογίζοντας από %(fromcat)s (%(num)d entries)',
 		'category-replacing': u'Robot: Αντικατάσταση κατηγοριών %(oldcat)ες με %(newcat)ες',
