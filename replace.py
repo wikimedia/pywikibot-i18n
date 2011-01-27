@@ -47,14 +47,26 @@ msg = {
 	'fr': {
 		'replace-replacing': u'Robot : Remplacement de texte automatisé %(description)s',
 	},
+	# Author: ChrisPtDe
+	'frp': {
+		'replace-replacing': u'Bot : remplacement de tèxto ôtomatisâ %(description)s',
+	},
 	'frr': {
 		'replace-replacing': u'Bot: Automatisiaret ütjwakselt tekst %(description)s',
+	},
+	# Author: Toliño
+	'gl': {
+		'replace-replacing': u'Bot: Substitución automática de texto %(description)s',
 	},
 	'he': {
 		'replace-replacing': u'בוט: החלפת טקסט אוטומטית %(description)s',
 	},
 	'hu': {
 		'replace-replacing': u'Robot: Automatikus szövegcsere %(description)s',
+	},
+	# Author: Xelgen
+	'hy': {
+		'replace-replacing': u'Ռոբոտ․ Տեքստի ավտոմատ փոխարինում %(description)s',
 	},
 	'ia': {
 		'replace-replacing': u'Robot: Reimplaciamento automatic de texto %(description)s',
@@ -95,6 +107,10 @@ msg = {
 	'mk': {
 		'replace-replacing': u'Бот: Автоматизирана замена на текст %(description)s',
 	},
+	# Author: Kurniasan
+	'ms': {
+		'replace-replacing': u'Bot: Penggantian teks automatik %(description)s',
+	},
 	'nds': {
 		'replace-replacing': u'Bot: Text automaatsch utwesselt: %(description)s',
 	},
@@ -124,6 +140,10 @@ msg = {
 	'ru': {
 		'replace-replacing': u'Робот: Автоматизированная замена текста %(description)s',
 	},
+	# Author: Gazeb
+	'rue': {
+		'replace-replacing': u'Робот: Автоматізована заміна тексту: %(description)s',
+	},
 	# Author: Dbc334
 	'sl': {
 		'replace-replacing': u'Bot: Samodejna zamenjava besedila %(description)s',
@@ -141,6 +161,10 @@ msg = {
 	},
 	'sv': {
 		'replace-replacing': u'Bot: Automatisk textersättning: %(description)s',
+	},
+	# Author: Emperyan
+	'tr': {
+		'replace-replacing': u'Bot: Otomatik metin değiştirme %(description)s',
 	},
 	'uk': {
 		'replace-replacing': u'Бот: Автоматизована заміна тексту: %(description)s',

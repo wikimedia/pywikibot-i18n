@@ -4,6 +4,7 @@ msg = {
 	'af': {
 		'isbn-formatting': u'Robot: Formatteer ISBN',
 	},
+	# Author: Meno25
 	'ar': {
 		'isbn-formatting': u'روبوت: تهيئة ISBN',
 	},
@@ -12,8 +13,9 @@ msg = {
 		'isbn-formatting': u'Робат: фарматаваньне ISBN',
 	},
 	# Author: Wikitanvir
+	# Author: Bellayet
 	'bn': {
-		'isbn-formatting': u'বট: আইএসবিএন নম্বরের ফরম্যাট ঠিক করছে',
+		'isbn-formatting': u'রোবট: আইএসবিএন নম্বরের ফরম্যাট ঠিক করছে',
 	},
 	# Author: Fulup
 	'br': {
@@ -29,6 +31,10 @@ msg = {
 	},
 	'de': {
 		'isbn-formatting': u'Bot: Formatiere ISBN',
+	},
+	# Author: Evropi
+	'el': {
+		'isbn-formatting': u'Ρομπότ: Μορφοποίηση ISBN',
 	},
 	'en': {
 		'isbn-formatting': u'Robot: Formatting ISBN',
@@ -47,6 +53,10 @@ msg = {
 	# Author: Sherbrooke
 	'fr': {
 		'isbn-formatting': u'Robot : Mise en forme du ISBN',
+	},
+	# Author: ChrisPtDe
+	'frp': {
+		'isbn-formatting': u'Robot : misa en fôrma du ISBN',
 	},
 	# Author: Toliño
 	'gl': {
@@ -86,6 +96,10 @@ msg = {
 	'mk': {
 		'isbn-formatting': u'Робот: Форматирам ISBN',
 	},
+	# Author: Kurniasan
+	'ms': {
+		'isbn-formatting': u'Bot: Memformatkan ISBN',
+	},
 	'nl': {
 		'isbn-formatting': u'Robot: ISBN opgemaakt',
 	},
@@ -117,6 +131,10 @@ msg = {
 	'ru': {
 		'isbn-formatting': u'Робот: преобразование ISBN',
 	},
+	# Author: Gazeb
+	'rue': {
+		'isbn-formatting': u'Робот: Форматованя ISBN',
+	},
 	# Author: Dbc334
 	'sl': {
 		'isbn-formatting': u'Robot: Oblikovanje ISBN',
@@ -132,6 +150,10 @@ msg = {
 	# Author: Ainali
 	'sv': {
 		'isbn-formatting': u'Robot: Formaterar ISBN',
+	},
+	# Author: Emperyan
+	'tr': {
+		'isbn-formatting': u'Robot: ISBN biçimlendirmesi',
 	},
 	# Author: Тест
 	'uk': {
