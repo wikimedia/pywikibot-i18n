@@ -62,8 +62,16 @@ msg = {
 	'gl': {
 		'isbn-formatting': u'Bot: Dou formato ISBN',
 	},
+	# Author: Als-Holder
+	'gsw': {
+		'isbn-formatting': u'Bot: ISBN formatiert',
+	},
 	'he': {
 		'isbn-formatting': u'בוט: מעצב ISBN',
+	},
+	# Author: Michawiki
+	'hsb': {
+		'isbn-formatting': u'Boćik: ISBN so formatuje',
 	},
 	# Author: Dani
 	'hu': {
@@ -92,6 +100,10 @@ msg = {
 	'lb': {
 		'isbn-formatting': u'Bot: ISBN formatéiert',
 	},
+	# Author: Hugo.arg
+	'lt': {
+		'isbn-formatting': u'Robotas: Formatuojamas ISBN',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'isbn-formatting': u'Робот: Форматирам ISBN',
@@ -100,8 +112,16 @@ msg = {
 	'ms': {
 		'isbn-formatting': u'Bot: Memformatkan ISBN',
 	},
+	# Author: RajeshPandey
+	'ne': {
+		'isbn-formatting': u'रोबोट: ISBN मिलाउँदै',
+	},
 	'nl': {
 		'isbn-formatting': u'Robot: ISBN opgemaakt',
+	},
+	# Author: Harald Khan
+	'nn': {
+		'isbn-formatting': u'robot: formaterer ISBN',
 	},
 	# Author: Jon Harald Søby
 	'no': {
@@ -116,8 +136,9 @@ msg = {
 		'isbn-formatting': u'Robô: A formatar o ISBN',
 	},
 	# Author: Hamilton Abreu
+	# Author: Helder.wiki
 	'pt-br': {
-		'isbn-formatting': u'Bot: Formatando ISBN',
+		'isbn-formatting': u'Robô: Formatando ISBN',
 	},
 	# Author: Xqt
 	'qqq': {
@@ -155,6 +176,10 @@ msg = {
 	'tr': {
 		'isbn-formatting': u'Robot: ISBN biçimlendirmesi',
 	},
+	# Author: Ильнар
+	'tt-cyrl': {
+		'isbn-formatting': u'Робот: ISBN үзләштерү',
+	},
 	# Author: Тест
 	'uk': {
 		'isbn-formatting': u'Робот: Форматування ISBN',
@@ -165,5 +190,9 @@ msg = {
 	},
 	'zh': {
 		'isbn-formatting': u'機器人：ISBN格式化',
+	},
+	# Author: Hydra
+	'zh-hans': {
+		'isbn-formatting': u'机器人：ISBN格式化',
 	},
 }

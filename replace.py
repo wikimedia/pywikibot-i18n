@@ -58,8 +58,16 @@ msg = {
 	'gl': {
 		'replace-replacing': u'Bot: Substitución automática de texto %(description)s',
 	},
+	# Author: Als-Holder
+	'gsw': {
+		'replace-replacing': u'Bot: het dr Text automatisch uustuscht: %(description)s',
+	},
 	'he': {
 		'replace-replacing': u'בוט: החלפת טקסט אוטומטית %(description)s',
+	},
+	# Author: Michawiki
+	'hsb': {
+		'replace-replacing': u'Boćik: Awtomatiske narunanje teksta %(description)s',
 	},
 	'hu': {
 		'replace-replacing': u'Robot: Automatikus szövegcsere %(description)s',
@@ -117,6 +125,10 @@ msg = {
 	'nds-nl': {
 		'replace-replacing': u'Bot: autematisch tekse vervungen %(description)s',
 	},
+	# Author: RajeshPandey
+	'ne': {
+		'replace-replacing': u'बोट: स्वचालित रुपमा हरफहरु परिवर्तन गरिएको %(description)s',
+	},
 	# Author: Siebrand
 	'nl': {
 		'replace-replacing': u'Robot: automatisch tekst vervangen %(description)s',
@@ -136,6 +148,10 @@ msg = {
 	# Author: Xqt
 	'qqq': {
 		'replace-replacing': u'Default edit summary when the bot does text replacements. %(descriptions)s gives further informations like the source and target strings or regex of the replacement.',
+	},
+	# Author: Minisarm
+	'ro': {
+		'replace-replacing': u'Robot. Înlocuire automată de text %(description)s',
 	},
 	'ru': {
 		'replace-replacing': u'Робот: Автоматизированная замена текста %(description)s',
@@ -165,6 +181,10 @@ msg = {
 	# Author: Emperyan
 	'tr': {
 		'replace-replacing': u'Bot: Otomatik metin değiştirme %(description)s',
+	},
+	# Author: Ильнар
+	'tt-cyrl': {
+		'replace-replacing': u'Робот: %(description)s текстын автомат алмаштыру',
 	},
 	'uk': {
 		'replace-replacing': u'Бот: Автоматизована заміна тексту: %(description)s',

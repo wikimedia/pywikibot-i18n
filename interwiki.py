@@ -27,6 +27,10 @@ msg = {
 		'interwiki-modifying': u'ሎሌ ማስተካከል: %(modifying)s',
 		'interwiki-removing-modifying': u'ሎሌ ማስወገድ: %(removing)s ማስተካከል: %(modifying)s',
 	},
+	# Author: Hugo.arg
+	'an': {
+		'interwiki-adding-removing-modifying': u'Robot Adhibito: %(adding)s Suprimito: %(removing)s Modificato: %(modifying)s',
+	},
 	'ang': {
 		'interwiki-adding-modifying': u'Robot ēcung: %(adding)s onhweorfung: %(modifying)s',
 		'interwiki-adding-removing': u'Robot ēcung: %(adding)s fornimung: %(removing)s',
@@ -739,6 +743,10 @@ msg = {
 		'interwiki-modifying': u'Bot Änneren: %(modifying)s',
 		'interwiki-removing-modifying': u'Bot Ewech huelen: %(removing)s Änneren: %(modifying)s',
 	},
+	# Author: Hugo.arg
+	'li': {
+		'interwiki-adding-removing-modifying': u'Robot Debie: %(adding)s D\'raaf: %(removing)s Angers: %(modifying)s',
+	},
 	'lmo': {
 		'interwiki-adding-modifying': u'Robot jontant: %(adding)s modifiant: %(modifying)s',
 		'interwiki-adding-removing': u'Robot jontant: %(adding)s trant via: %(removing)s',
@@ -875,6 +883,10 @@ msg = {
 		'interwiki-modifying': u'bot mengubah: %(modifying)s',
 		'interwiki-removing-modifying': u'bot membuang: %(removing)s mengubah: %(modifying)s',
 	},
+	# Author: Hugo.arg
+	'my': {
+		'interwiki-adding-removing-modifying': u'ရိုဘော ပေါင်းထည့်နေသည: %(adding)s ဖယ်ရှားနေသည: %(removing)s ပြင်ဆင်နေသည: %(modifying)s',
+	},
 	'myv': {
 		'interwiki-adding-modifying': u'роботось путызеть: %(adding)s полавтызеть: %(modifying)s',
 		'interwiki-adding-removing': u'роботось путызеть: %(adding)s нардызеть: %(removing)s',
@@ -919,6 +931,16 @@ msg = {
 		'interwiki-adding-removing-modifying': u'bot derbie: %(adding)s derof: %(removing)s aanders: %(modifying)s',
 		'interwiki-modifying': u'bot aanders: %(modifying)s',
 		'interwiki-removing-modifying': u'bot derof: %(removing)s aanders: %(modifying)s',
+	},
+	# Author: RajeshPandey
+	'ne': {
+		'interwiki-adding-modifying': u'↓ रोबोट ले थप्दै: %(adding)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-adding-removing': u'↓ रोबोट ले थप्दै: %(adding)s हटाउँदै: %(removing)s',
+		'interwiki-adding': u'↓ रोबोट ले थप्दै: %(adding)s',
+		'interwiki-removing': u'↓ रोबोट ले हटाउँदै: %(removing)s',
+		'interwiki-adding-removing-modifying': u'↓ रोबोट ले थप्दै: %(adding)s हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-modifying': u'↓ रोबोट ले परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-removing-modifying': u'रोबोट ले हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -1034,14 +1056,15 @@ msg = {
 		'interwiki-removing-modifying': u'Robô: A remover: %(removing)s A modificar: %(modifying)s',
 	},
 	# Author: Hamilton Abreu
+	# Author: Helder.wiki
 	'pt-br': {
-		'interwiki-adding-modifying': u'Bot: Adicionando: %(adding)s Modificando: %(modifying)s',
-		'interwiki-adding-removing': u'Bot: Adicionando: %(adding)s Removendo: %(removing)s',
-		'interwiki-adding': u'Bot: Adicionando: %(adding)s',
-		'interwiki-removing': u'Bot: Removendo: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot: Adicionando: %(adding)s Removendo: %(removing)s Modificando: %(modifying)s',
-		'interwiki-modifying': u'Bot: Modificando: %(modifying)s',
-		'interwiki-removing-modifying': u'Bot: Removendo: %(removing)s Modificando: %(modifying)s',
+		'interwiki-adding-modifying': u'Robô: Adicionando: %(adding)s Modificando: %(modifying)s',
+		'interwiki-adding-removing': u'Robô: Adicionando: %(adding)s Removendo: %(removing)s',
+		'interwiki-adding': u'Robô: Adicionando: %(adding)s',
+		'interwiki-removing': u'Robô: Removendo: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robô: Adicionando: %(adding)s Removendo: %(removing)s Modificando: %(modifying)s',
+		'interwiki-modifying': u'Robô: Modificando: %(modifying)s',
+		'interwiki-removing-modifying': u'Robô: Removendo: %(removing)s Modificando: %(modifying)s',
 	},
 	# Author: The Evil IP address
 	'qqq': {
@@ -1282,6 +1305,16 @@ msg = {
 		'interwiki-modifying': u'робот үзгәртте: %(modifying)s',
 		'interwiki-removing-modifying': u'робот бетерде: %(removing)s үзгәртте: %(modifying)s',
 	},
+	# Author: Ильнар
+	'tt-cyrl': {
+		'interwiki-adding-modifying': u'робот өстәде: %(adding)s үзгәртте: %(modifying)s',
+		'interwiki-adding-removing': u'робот өстәде: %(adding)s бетерде: %(removing)s',
+		'interwiki-adding': u'робот өстәде: %(adding)s',
+		'interwiki-removing': u'робот бетерде: %(removing)s',
+		'interwiki-adding-removing-modifying': u'робот өстәде: %(adding)s бетерде: %(removing)s иүзгәртте: %(modifying)s',
+		'interwiki-modifying': u'робот үзгәртте: %(modifying)s',
+		'interwiki-removing-modifying': u'робот бетерде: %(removing)s үзгәртте: %(modifying)s',
+	},
 	'udm': {
 		'interwiki-adding-modifying': u'робот ватсаз: %(adding)s воштӥз: %(modifying)s',
 		'interwiki-adding-removing': u'робот ватсаз: %(adding)s ӵушиз: %(removing)s',
@@ -1344,6 +1377,12 @@ msg = {
 		'interwiki-adding-removing-modifying': u'bot läükon: %(adding)s moükon: %(removing)s votükon: %(modifying)s',
 		'interwiki-modifying': u'bot votükon: %(modifying)s',
 		'interwiki-removing-modifying': u'bot moükon: %(removing)s votükon: %(modifying)s',
+	},
+	# Author: Hugo.arg
+	'wa': {
+		'interwiki-adding': u'robot radjouter: %(adding)s',
+		'interwiki-removing': u'↓ robot rissaetchî: %(removing)s',
+		'interwiki-adding-removing-modifying': u'robot radjouter: %(adding)s rissaetchî: %(removing)s candjî: %(modifying)s',
 	},
 	'war': {
 		'interwiki-adding-modifying': u'robot Gindugngan: %(adding)s Ginliwat: %(modifying)s',
