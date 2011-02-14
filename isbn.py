@@ -8,6 +8,10 @@ msg = {
 	'ar': {
 		'isbn-formatting': u'روبوت: تهيئة ISBN',
 	},
+	# Author: Yury Tarasievich
+	'be': {
+		'isbn-formatting': u'робат аформіў ISBN',
+	},
 	# Author: Jim-by
 	'be-tarask': {
 		'isbn-formatting': u'Робат: фарматаваньне ISBN',
@@ -24,6 +28,10 @@ msg = {
 	# Author: CERminator
 	'bs': {
 		'isbn-formatting': u'Robot: Oblikovanje ISBN',
+	},
+	# Author: Dontlietome7
+	'cs': {
+		'isbn-formatting': u'Robot: Formátování ISBN',
 	},
 	# Author: Peter Alberti
 	'da': {
@@ -43,6 +51,10 @@ msg = {
 	'eo': {
 		'isbn-formatting': u'Roboto: Aranĝis ISBN',
 	},
+	# Author: Dferg
+	'es': {
+		'isbn-formatting': u'Robot: dando formato al ISBN',
+	},
 	'fa': {
 		'isbn-formatting': u'ربات:استانداردسازی شابک',
 	},
@@ -57,6 +69,10 @@ msg = {
 	# Author: ChrisPtDe
 	'frp': {
 		'isbn-formatting': u'Robot : misa en fôrma du ISBN',
+	},
+	# Author: Klenje
+	'fur': {
+		'isbn-formatting': u'Robot: o formati il codiç ISBN',
 	},
 	# Author: Toliño
 	'gl': {
@@ -96,6 +112,10 @@ msg = {
 	'ksh': {
 		'isbn-formatting': u'Bot: ISBN zerääsch jemaat.',
 	},
+	# Author: George Animal
+	'ku-latn': {
+		'isbn-formatting': u'Robot:Formatkirina ISBN',
+	},
 	# Author: Robby
 	'lb': {
 		'isbn-formatting': u'Bot: ISBN formatéiert',
@@ -111,6 +131,14 @@ msg = {
 	# Author: Kurniasan
 	'ms': {
 		'isbn-formatting': u'Bot: Memformatkan ISBN',
+	},
+	# Author: Chrisportelli
+	'mt': {
+		'isbn-formatting': u'Bot: Format ISBN',
+	},
+	# Author: Lionslayer
+	'my': {
+		'isbn-formatting': u'ရိုဘော့ - ISBN နံပါတ်ကို ပုံစံချနေသည်',
 	},
 	# Author: RajeshPandey
 	'ne': {
@@ -155,6 +183,10 @@ msg = {
 	# Author: Gazeb
 	'rue': {
 		'isbn-formatting': u'Робот: Форматованя ISBN',
+	},
+	# Author: බිඟුවා
+	'si': {
+		'isbn-formatting': u'රොබෝ: ISBN ආකෘතිකරණය',
 	},
 	# Author: Dbc334
 	'sl': {

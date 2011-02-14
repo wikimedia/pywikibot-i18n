@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Naudefj
+	'af': {
+		'replace-replacing': u'Robot: geoutomatiseerde teks vervanging %(description)s',
+	},
 	# Author: Meno25
 	'ar': {
 		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
@@ -53,6 +57,10 @@ msg = {
 	},
 	'frr': {
 		'replace-replacing': u'Bot: Automatisiaret ütjwakselt tekst %(description)s',
+	},
+	# Author: Klenje
+	'fur': {
+		'replace-replacing': u'Robot: Sostituzion automatiche di test %(description)s',
 	},
 	# Author: Toliño
 	'gl': {
@@ -119,6 +127,14 @@ msg = {
 	'ms': {
 		'replace-replacing': u'Bot: Penggantian teks automatik %(description)s',
 	},
+	# Author: Chrisportelli
+	'mt': {
+		'replace-replacing': u'Bot: Sostituzzjoni awtomatika %(description)s',
+	},
+	# Author: Lionslayer
+	'my': {
+		'replace-replacing': u'ဘော့ - စာသားများကို အလိုအလျောက် အစားထိုးခြင်း %(description)s',
+	},
 	'nds': {
 		'replace-replacing': u'Bot: Text automaatsch utwesselt: %(description)s',
 	},
@@ -145,9 +161,13 @@ msg = {
 	'pt': {
 		'replace-replacing': u'Bot: Mudança automática %(description)s',
 	},
+	# Author: Raylton P. Sousa
+	'pt-br': {
+		'replace-replacing': u'Robô: Substituição automática de texto %(description)s',
+	},
 	# Author: Xqt
 	'qqq': {
-		'replace-replacing': u'Default edit summary when the bot does text replacements. %(descriptions)s gives further informations like the source and target strings or regex of the replacement.',
+		'replace-replacing': u'Default edit summary when the bot does text replacements. <code>%(descriptions)s</code> gives further informations like the source and target strings or regex of the replacement.',
 	},
 	# Author: Minisarm
 	'ro': {
