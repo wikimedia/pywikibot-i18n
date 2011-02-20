@@ -80,6 +80,10 @@ msg = {
 		'cosmetic_changes-standalone': u'bot tekstwiziging',
 		'cosmetic_changes-append': u'; tekstwiziging',
 	},
+	'ga': {
+		'cosmetic_changes-standalone': u'Róbat: Athruithe cosmaideacha',
+		'cosmetic_changes-append': u'; athruithe cosmaideacha',
+	},
 	'gl': {
 		'cosmetic_changes-standalone': u'bot Cambios estética',
 		'cosmetic_changes-append': u'; cambios estética',
