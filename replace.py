@@ -4,9 +4,17 @@ msg = {
 	'af': {
 		'replace-replacing': u'Robot: geoutomatiseerde teks vervanging %(description)s',
 	},
+	# Author: Xqt
+	'als': {
+		'replace-replacing': u'Bot: het dr Text automatisch uustuscht: %(description)s',
+	},
 	# Author: Meno25
 	'ar': {
 		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
+	},
+	# Author: Xuacu
+	'ast': {
+		'replace-replacing': u'Bot: Troquéu automáticu de testu %(description)s',
 	},
 	# Author: Jim-by
 	'be-tarask': {
@@ -26,6 +34,10 @@ msg = {
 	'cs': {
 		'replace-replacing': u'Robot automaticky nahradil text: %(description)s',
 	},
+	# Author: Xxglennxx
+	'cy': {
+		'replace-replacing': u'Bot: Amnewid testun awtomataidd %(description)s',
+	},
 	'de': {
 		'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',
 	},
@@ -41,6 +53,10 @@ msg = {
 	},
 	'es': {
 		'replace-replacing': u'Robot: Reemplazo automático de texto %(description)s',
+	},
+	# Author: An13sa
+	'eu': {
+		'replace-replacing': u'Robota: Testu aldaketa automatikoa %(description)s',
 	},
 	'fa': {
 		'replace-replacing': u'ربات: تغییر خودکار متن %(description)s',
@@ -215,5 +231,13 @@ msg = {
 	},
 	'zh': {
 		'replace-replacing': u'機器人:執行文字代換作業 %(description)s',
+	},
+	# Author: 阿pp
+	'zh-hans': {
+		'replace-replacing': u'机器人：自动文本替换%(description)s',
+	},
+	# Author: Andrew971218
+	'zh-hant': {
+		'replace-replacing': u'機器人：自動替換文字%(description)s',
 	},
 }
