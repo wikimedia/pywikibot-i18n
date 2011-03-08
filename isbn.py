@@ -231,8 +231,9 @@ msg = {
 		'isbn-formatting': u'บอต: การจัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ',
 	},
 	# Author: Emperyan
+	# Author: Vito Genovese
 	'tr': {
-		'isbn-formatting': u'Robot: ISBN biçimlendirmesi',
+		'isbn-formatting': u'Robot: ISBN biçimleniyor',
 	},
 	# Author: Ильнар
 	'tt-cyrl': {
