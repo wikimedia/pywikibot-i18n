@@ -47,6 +47,9 @@ msg = {
 		'category-was-disbanded': u'بوت: التصنيف تم الاستغناء عنه',
 		'category-was-moved': u'روبوت: التصنيف نقل إلى [[:تصنيف:%(newcat)s|%(title)s]]',
 	},
+	'arc': {
+		'category-adding': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ [[Category:%(newcat)s]]',
+	},
 	# Author: Xuacu
 	'ast': {
 		'category-adding': u'Robot: Amestando [[Category:%(newcat)s]]',
@@ -66,6 +69,9 @@ msg = {
 		'category-was-disbanded': u'Bot: Kateqoriya ləğv edildi',
 		'category-was-moved': u'Robot: Kateqoriya köçürüldü: [[:Category:%(newcat)s|%(title)s]]',
 	},
+	'ba': {
+		'category-adding': u'робот: өҫтәне [[Category:%(newcat)s]]',
+	},
 	# Author: Xqt
 	'bar': {
 		'category-adding': u'Bot: Aini [[Kategorie:%(newcat)s]]',
@@ -75,6 +81,9 @@ msg = {
 		'category-adding': u'Robots: Pridedama [[Kateguorėjė:%(newcat)s]]',
 		'category-removing': u'Robots: Trėnama ėš %(oldcat)s',
 		'category-was-moved': u'Robots: Kateguorėjė bova parvadėnta i [[:Kateguorėjė:%(newcat)s|%(title)s]]',
+	},
+	'bcl': {
+		'category-adding': u'robot: minadugang [[Category:%(newcat)s]]',
 	},
 	# Author: Yury Tarasievich
 	# Author: Xqt
@@ -104,10 +113,22 @@ msg = {
 		'category-was-disbanded': u'Робат: катэгорыя расфармаваная',
 		'category-was-moved': u'Робат: катэгорыя перайменаваная ў [[:Катэгорыя:%(newcat)s|%(title)s]]',
 	},
+	'bg': {
+		'category-adding': u'Робот: Добавяне [[Category:%(newcat)s]]',
+	},
+	'bjn': {
+		'category-adding': u'bot: Manambah [[Category:%(newcat)s]]',
+	},
 	# Author: Wikitanvir
 	# Author: Bellayet
 	'bn': {
 		'category-was-moved': u'রোবট: বিষয়শ্রেণী [[:বিষয়শ্রেণী:%(newcat)s|%(title)s]]-এ স্থানান্তরিত হয়েছে',
+	},
+	'bo': {
+		'category-adding': u'འཕྲུལ་ཆས་ཀྱི་མི།: ཁ་སྣོན་རྒྱག་པ། [[Category:%(newcat)s]]',
+	},
+	'bpy': {
+		'category-adding': u'রোবট: তিলকরের [[Category:%(newcat)s]]',
 	},
 	# Author: Fulup
 	'br': {
@@ -142,9 +163,18 @@ msg = {
 		'category-was-disbanded': u'Robot: La categoria s\'ha eliminat',
 		'category-was-moved': u'Robot: La categoria s\'ha mogut a [[:Categoria:%(newcat)s|%(title)s]]',
 	},
+	'ce': {
+		'category-adding': u'робот: тIетоьхна [[Category:%(newcat)s]]',
+	},
 	# Author: Xqt
 	'ceb': {
 		'category-adding': u'Robot: Gidugang [[Category:%(newcat)s]]',
+	},
+	'ckb': {
+		'category-adding': u'بۆت: زیادکردن [[Category:%(newcat)s]]',
+	},
+	'crh': {
+		'category-adding': u'robot: ekley [[Category:%(newcat)s]]',
 	},
 	'cs': {
 		'category-adding': u'Robot přidal [[Kategorie:%(newcat)s]]',
@@ -155,6 +185,15 @@ msg = {
 		'category-replacing': u'Robot nahradil kategorii %(oldcat)s za %(newcat)s',
 		'category-was-disbanded': u'Robot: kategorie byla vyprázdněna',
 		'category-was-moved': u'Kategorie přesunuta na [[:Kategorie:%(newcat)s|%(title)s]]',
+	},
+	'csb': {
+		'category-adding': u'robot: dodôwô [[Category:%(newcat)s]]',
+	},
+	'cu': {
+		'category-adding': u'аѵтоматъ: добавихъ [[Category:%(newcat)s]]',
+	},
+	'cv': {
+		'category-adding': u'робот: хушрĕ [[Category:%(newcat)s]]',
 	},
 	# Author: Xxglennxx
 	'cy': {
@@ -199,6 +238,9 @@ msg = {
 		'category-was-disbanded': u'Ρομπότ: Η κατηγορία διαγράφηκε',
 		'category-was-moved': u'Ρομπότ: Η κατηγορία μετακινήθηκε στην [[:Κατηγορία:%(newcat)s|%(title)s]]',
 	},
+	'eml': {
+		'category-adding': u'Robot: A Śònt [[Category:%(newcat)s]]',
+	},
 	'en': {
 		'category-adding': u'Robot: Adding [[Category:%(newcat)s]]',
 		'category-also-in': u'(also in %(alsocat)s)',
@@ -239,6 +281,9 @@ msg = {
 		'category-removing': u'Robota: %(oldcat)s -tik ezabatzen',
 		'category-was-moved': u'Robota: Kategoria [[:Kategoria:%(newcat)s|%(title)s]]-ra mugitu da',
 	},
+	'ext': {
+		'category-adding': u'Robó: Añiiu [[Category:%(newcat)s]]',
+	},
 	'fa': {
 		'category-adding': u'ربات: افزودن [[رده:%(newcat)s]]',
 		'category-also-in': u'(ﻪﻣچﻥیﻥ ﺩﺭ %(alsocat)s)',
@@ -259,6 +304,9 @@ msg = {
 		'category-replacing': u'Botti korvasi luokan %(oldcat)s luokalla %(newcat)s',
 		'category-was-disbanded': u'Botti tyhjensi luokan',
 		'category-was-moved': u'Botti siirsi luokan nimelle [[:Luokka:%(newcat)s|%(title)s]]',
+	},
+	'fiu-vro': {
+		'category-adding': u'robot: manopandminõ [[Category:%(newcat)s]]',
 	},
 	# Author: IAlex
 	# Author: Xqt
@@ -294,6 +342,9 @@ msg = {
 	'fy': {
 		'category-adding': u'Bot: derby [[Category:%(newcat)s]]',
 	},
+	'ga': {
+		'category-adding': u'róbat: ag suimiú [[Category:%(newcat)s]]',
+	},
 	# Author: Toliño
 	'gl': {
 		'category-adding': u'Bot: Engado [[Category:%(newcat)s]]',
@@ -304,6 +355,9 @@ msg = {
 		'category-replacing': u'Bot: Substitución da categoría %(oldcat)s pola %(newcat)s',
 		'category-was-disbanded': u'Bot: A categoría foi eliminada',
 		'category-was-moved': u'Bot: A categoría trasladouse a [[:Category:%(newcat)s|%(title)s]]',
+	},
+	'gn': {
+		'category-adding': u'bot: ojoapy [[Category:%(newcat)s]]',
 	},
 	# Author: Als-Holder
 	'gsw': {
@@ -316,6 +370,9 @@ msg = {
 		'category-was-disbanded': u'Bot: Kategori isch ufglest wore',
 		'category-was-moved': u'Bot: Kategori isch no [[:Kategorie:%(newcat)s|%(title)s]] verschobe wore',
 	},
+	'gu': {
+		'category-adding': u'રોબોટ: ઉમેરણ [[Category:%(newcat)s]]',
+	},
 	# Author: Amire80
 	'he': {
 		'category-adding': u'בוט: מוסיף [[קטגוריה:%(newcat)s]]',
@@ -326,6 +383,15 @@ msg = {
 		'category-replacing': u'בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s',
 		'category-was-disbanded': u'בוט: הקטגוריה פורקה',
 		'category-was-moved': u'בוט: הקטגוריה הועברה לשם [[:קטגוריה:%(newcat)s|%(title)s]]',
+	},
+	'hr': {
+		'category-adding': u'robot: Dodaje [[Category:%(newcat)s]]',
+	},
+	'hsb': {
+		'category-adding': u'bot: přidał [[Category:%(newcat)s]]',
+	},
+	'ht': {
+		'category-adding': u'wobo: Ajoute [[Category:%(newcat)s]]',
 	},
 	# Author: Dani
 	'hu': {
@@ -409,6 +475,9 @@ msg = {
 		'category-was-disbanded': u'ボット：カテゴリが廃止されています',
 		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)s|%(title)s]]へ移動',
 	},
+	'ka': {
+		'category-adding': u'ბოტის: დამატება [[Category:%(newcat)s]]',
+	},
 	# Author: Xqt
 	'kab': {
 		'category-adding': u'a rubut ti merniwt: [[Category:%(newcat)s]]',
@@ -423,8 +492,12 @@ msg = {
 		'category-was-disbanded': u'Бот: Санат тарқатылды',
 		'category-was-moved': u'Бот: Санат [[:Санат:%(newcat)s|%(title)s]] дегенге жылжытылды',
 	},
+	'kl': {
+		'category-adding': u'Robot: Ilassut [[Category:%(newcat)s]]',
+	},
 	# Author: គីមស៊្រុន
 	'km': {
+		'category-adding': u'រ៉ូបូ: បន្ថែម [[Category:%(newcat)s]]',
 		'category-was-moved': u'រូបូ៖ ចំណាត់ថ្នាក់ក្រុមត្រូវបានលុបចេញពី [[:Category:%(newcat)s|%(title)s]]',
 	},
 	'ko': {
@@ -458,6 +531,12 @@ msg = {
 		'category-also-in': u'(herwiha di %(alsocat)s)',
 		'category-changing': u'Robot: Biguherîne %(oldcat)s',
 	},
+	'kv': {
+		'category-adding': u'робот: содтi [[Category:%(newcat)s]]',
+	},
+	'ky': {
+		'category-adding': u'робот: кошту [[Category:%(newcat)s]]',
+	},
 	# Author: UV
 	'la': {
 		'category-adding': u'automaton: addens [[Categoria:%(newcat)s]]',
@@ -467,6 +546,9 @@ msg = {
 		'category-replacing': u'automaton: mutans categoriam %(oldcat)s→[[%(newcat)s]]',
 		'category-was-disbanded': u'automaton: categoria dissoluta est',
 		'category-was-moved': u'automaton: categoria mota est ad [[:Category:%(newcat)s|%(title)s]]',
+	},
+	'lad': {
+		'category-adding': u'robot: Adjustado [[Category:%(newcat)s]]',
 	},
 	# Author: Robby
 	'lb': {
@@ -478,6 +560,15 @@ msg = {
 		'category-replacing': u'Bot: Ersetze vun der Kategorie %(oldcat)s duerch %(newcat)s',
 		'category-was-disbanded': u'Bot: Kategorie gouf opgeléist',
 		'category-was-moved': u'Bot: Kategorie gouf geréckelt: Nei [[:Kategorie:%(newcat)s|%(title)s]]',
+	},
+	'li': {
+		'category-adding': u'Robot: Debie [[Category:%(newcat)s]]',
+	},
+	'lmo': {
+		'category-adding': u'Robot: jontant [[Category:%(newcat)s]]',
+	},
+	'ln': {
+		'category-adding': u'bot: ebakísí [[Category:%(newcat)s]]',
 	},
 	# Author: Xqt
 	'lo': {
@@ -496,6 +587,18 @@ msg = {
 	'lv': {
 		'category-adding': u'Robots: Tiek pievienots [[Kategorija:%(newcat)s]]',
 	},
+	'map-bms': {
+		'category-adding': u'Robot: Nambah [[Category:%(newcat)s]]',
+	},
+	'mdf': {
+		'category-adding': u'бот: поладозе [[Category:%(newcat)s]]',
+	},
+	'mg': {
+		'category-adding': u'Rôbô: Nanampy [[Category:%(newcat)s]]',
+	},
+	'mhr': {
+		'category-adding': u'робот: ешарен [[Category:%(newcat)s]]',
+	},
 	# Author: Bjankuloski06
 	# Author: Brest
 	'mk': {
@@ -510,6 +613,7 @@ msg = {
 	},
 	# Author: Praveenp
 	'ml': {
+		'category-adding': u'യന്ത്രം: ചേര്‍ക്കുന്നു [[Category:%(newcat)s]]',
 		'category-was-moved': u'യന്ത്രം: വർഗ്ഗം [[:Category:%(newcat)s|%(title)s]] എന്നാക്കി മാറ്റിയിരിക്കുന്നു',
 	},
 	# Author: Node ue
@@ -521,6 +625,12 @@ msg = {
 		'category-replacing': u'Робот: Ынлокуит категория %(oldcat)s ку %(newcat)s',
 		'category-was-disbanded': u'Робот: Категория а фост десфиинцатэ',
 		'category-was-moved': u'Робот: Категория а фост мутатэ ла [[:Category:%(newcat)s|%(title)s]]',
+	},
+	'mr': {
+		'category-adding': u'सांगकाम्याने: वाढविले [[Category:%(newcat)s]]',
+	},
+	'mrj': {
+		'category-adding': u'робот: темен [[Category:%(newcat)s]]',
 	},
 	# Author: Kurniasan
 	'ms': {
@@ -554,6 +664,12 @@ msg = {
 		'category-replacing': u'ရိုဘော့ - %(oldcat)s ကို %(newcat)s ဖြင့် အစားထိုးနေသည်',
 		'category-was-disbanded': u'ဘော့ - ကဏ္ဍကို ပယ်ဖျက်လိုက်သည်',
 		'category-was-moved': u'ရိုဘော့ - ကဏ္ဍကို [[- ကဏ္ဍ - %(newcat)s|%(title)s]]သို့ ရွှေ့လိုက်သည်',
+	},
+	'myv': {
+		'category-adding': u'роботось: путызеть [[Category:%(newcat)s]]',
+	},
+	'mzn': {
+		'category-adding': u'ربوت: بیشتن [[Category:%(newcat)s]]',
 	},
 	# Author: Teòtlalili
 	'nah': {
@@ -628,6 +744,9 @@ msg = {
 	'nov': {
 		'category-adding': u'robote: Adid [[Category:%(newcat)s]]',
 	},
+	'nrm': {
+		'category-adding': u'robot: ajouôte [[Category:%(newcat)s]]',
+	},
 	# Author: Xqt
 	'oc': {
 		'category-adding': u'Robòt: Apondre [[Category:%(newcat)s]]',
@@ -666,6 +785,9 @@ msg = {
 		'category-replacing': u'Robot zastępuje kategorię %(oldcat)s przez %(newcat)s',
 		'category-was-disbanded': u'Robot usuwa kategorię',
 		'category-was-moved': u'Robot przenosi kategorię do [[:Category:%(newcat)s|%(title)s]]',
+	},
+	'ps': {
+		'category-adding': u'روباټ: زیاتول [[Category:%(newcat)s]]',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -737,6 +859,9 @@ msg = {
 	'rw': {
 		'category-adding': u'Roboti: Guterana [[Category:%(newcat)s]]',
 	},
+	'sah': {
+		'category-adding': u'робот: эптэ [[Category:%(newcat)s]]',
+	},
 	# Author: Xqt
 	'scn': {
 		'category-adding': u'robot: junciennu [[Category:%(newcat)s]]',
@@ -796,6 +921,9 @@ msg = {
 		'category-was-disbanded': u'Bot: kategorija je raspuštena',
 		'category-was-moved': u'Robot: kategorija je premeštena u [[:Category:%(newcat)s|%(title)s]]',
 	},
+	'su': {
+		'category-adding': u'bot: Nambih [[Category:%(newcat)s]]',
+	},
 	# Author: Ainali
 	'sv': {
 		'category-adding': u'Robot: Lägger till [[Kategori:%(newcat)s]]',
@@ -814,11 +942,26 @@ msg = {
 	'szl': {
 		'category-adding': u'Bot dodowo: [[Kategoria:%(newcat)s]]',
 	},
+	'ta': {
+		'category-adding': u'தானியங்கிஇணைப்பு [[Category:%(newcat)s]]',
+	},
 	# Author: Veeven
 	'te': {
 		'category-adding': u'బాటు: [[వర్గం:%(newcat)s]] వర్గాన్ని చేర్చింది',
 		'category-also-in': u'(%(alsocat)s లలో కూడా ఉంది)',
 		'category-changing': u'బాటు: %(oldcat)s వర్గాన్ని మార్చింది',
+	},
+	'th': {
+		'category-adding': u'โรบอต: เพิ่ม [[Category:%(newcat)s]]',
+	},
+	'tk': {
+		'category-adding': u'robot: goşdy [[Category:%(newcat)s]]',
+	},
+	'tl': {
+		'category-adding': u'robot: dinagdag [[Category:%(newcat)s]]',
+	},
+	'to': {
+		'category-adding': u'mīsiniʻoku: tānaki [[Category:%(newcat)s]]',
 	},
 	# Author: Joseph
 	# Author: Emperyan
@@ -844,6 +987,9 @@ msg = {
 		'category-was-disbanded': u'Робот: төркем яңадан ясалган',
 		'category-was-moved': u'Робот: Төркемнең исеме  [[:Төркем:%(newcat)s|%(title)s]] битенә күчерелде',
 	},
+	'udm': {
+		'category-adding': u'робот: ватсаз [[Category:%(newcat)s]]',
+	},
 	# Author: Тест
 	'uk': {
 		'category-adding': u'Робот: додавання [[Категорія:%(newcat)s]]',
@@ -854,6 +1000,12 @@ msg = {
 		'category-replacing': u'Робот: заміна категорії %(oldcat)s на %(newcat)s',
 		'category-was-disbanded': u'Робот: категорія розформована',
 		'category-was-moved': u'Робот: категорію перейменовано на [[:Категорія:%(newcat)s|%(title)s]]',
+	},
+	'ur': {
+		'category-adding': u'روبالہ: جمع [[Category:%(newcat)s]]',
+	},
+	'uz': {
+		'category-adding': u'Bot: Qoʻshdi [[Category:%(newcat)s]]',
 	},
 	# Author: Minh Nguyen
 	'vi': {
@@ -886,6 +1038,15 @@ msg = {
 	'war': {
 		'category-adding': u'Robot: Gindugngan [[Category:%(newcat)s]]',
 	},
+	'xal': {
+		'category-adding': u'көдлвр: немв [[Category:%(newcat)s]]',
+	},
+	'yi': {
+		'category-adding': u'באט: צוגעלייגט [[Category:%(newcat)s]]',
+	},
+	'yo': {
+		'category-adding': u'Bot: Fífikún [[Category:%(newcat)s]]',
+	},
 	# Author: Xqt
 	'yue': {
 		'category-adding': u'機械人: 加 [[Category:%(newcat)s]]',
@@ -899,6 +1060,9 @@ msg = {
 		'category-replacing': u'機器人:變更目錄 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-was-disbanded': u'機器人:本目錄已解散',
 		'category-was-moved': u'機器人:移動目錄至 [[:Category:%(newcat)s|%(title)s]]',
+	},
+	'zh-classical': {
+		'category-adding': u'僕: 增 [[Category:%(newcat)s]]',
 	},
 	# Author: Hydra
 	# Author: Xqt
@@ -923,5 +1087,11 @@ msg = {
 		'category-replacing': u'機器人：類別由[[%(oldcat)s]]更改至[[%(newcat)s]]',
 		'category-was-disbanded': u'機器人：分類被解散',
 		'category-was-moved': u'機器人：分類被轉移到[[:Category:%(newcat)s|%(title)s]]',
+	},
+	'zh-min-nan': {
+		'category-adding': u'bot: ka-thiam [[Category:%(newcat)s]]',
+	},
+	'zh-yue': {
+		'category-adding': u'機械人: 加 [[Category:%(newcat)s]]',
 	},
 }
