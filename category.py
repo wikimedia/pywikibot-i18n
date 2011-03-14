@@ -36,6 +36,12 @@ msg = {
 		'category-adding': u'Robot: ēcung [[Category:%(newcat)s]]',
 		'category-was-moved': u'Searuþrǣl: Flocc ƿæs ƿeȝed tō [[:Category:%(newcat)s|%(title)s]]',
 	},
+	# Author: Angpradesh
+	'anp': {
+		'category-changing': u'रोबोट : %(oldcat)s बदलाय रहलॊ छै.',
+		'category-listifying': u'बोट : %(fromcat)s (%(num)d entries) सॆं बनैलॊ गेलॊ सूची',
+		'category-was-moved': u'रोबोट : श्रेणी  [[:Category:%(newcat)s|%(title)s]] दन्नॆ भेजलॊ गेलै.',
+	},
 	# Author: Meno25
 	'ar': {
 		'category-adding': u'روبوت: إضافة [[تصنيف:%(newcat)s]]',
@@ -49,6 +55,10 @@ msg = {
 	},
 	'arc': {
 		'category-adding': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ [[Category:%(newcat)s]]',
+	},
+	# Author: Jaminianurag
+	'as': {
+		'category-was-moved': u'ৰবট: শ্ৰেণী [[:শ্ৰেণী::%(newcat)s|%(title)s]]-লৈ স্থানান্তৰিত কৰা হ’ল',
 	},
 	# Author: Xuacu
 	'ast': {
@@ -122,6 +132,8 @@ msg = {
 	# Author: Wikitanvir
 	# Author: Bellayet
 	'bn': {
+		'category-changing': u'বট: পরিবর্তন করছে %(oldcat)s',
+		'category-listifying': u'বট: তালিকাভুক্ত করছে %(fromcat)s থেকে (%(num)dটি ভুক্তি)',
 		'category-was-moved': u'রোবট: বিষয়শ্রেণী [[:বিষয়শ্রেণী:%(newcat)s|%(title)s]]-এ স্থানান্তরিত হয়েছে',
 	},
 	'bo': {

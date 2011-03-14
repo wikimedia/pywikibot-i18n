@@ -349,6 +349,10 @@ msg = {
 	'ml': {
 		'solve_disambiguation-unknown-page': u'(അപരിചിതം)',
 	},
+	# Author: Kurniasan
+	'ms': {
+		'solve_disambiguation-unknown-page': u'(tidak diketahui)',
+	},
 	# Author: Chrisportelli
 	'mt': {
 		'solve_disambiguation-adding-dn-template': u'Sistemazzjoni awtomatika tar-rindirizz: %(from)s - Immarkata bħala li teħtieġ attenzjoni minn espert/i',
@@ -392,9 +396,12 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(ukjend)',
 	},
 	# Author: Laaknor
+	# Author: Jon Harald Søby
 	'no': {
+		'solve_disambiguation-adding-dn-template': u'Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp',
 		'solve_disambiguation-links-removed': u'bot: Retter lenke til peker: %(from)s - Fjernet lenke(r)',
 		'solve_disambiguation-links-resolved': u'bot: Retter lenke til peker: %(from)s - Endret lenke(r) til %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp',
 		'solve_disambiguation-redirect-removed': u'bot: Endrer omdirigeringslenke: %(from)s - Fjernet lenke(r)',
 		'solve_disambiguation-redirect-resolved': u'bot: Endrer omdirigeringslenke: %(from)s - Endret lenke(r) til %(to)s',
 		'solve_disambiguation-unknown-page': u'(ukjent)',

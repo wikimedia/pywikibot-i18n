@@ -21,6 +21,10 @@ msg = {
 		'redirect-remove-broken': u'تحويلة إلى صفحة محذوفة أو غير موجودة',
 		'redirect-remove-loop': u'هدف التحويلة يصنع عقدة تحويل',
 	},
+	# Author: Jaminianurag
+	'as': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Xuacu
 	'ast': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -281,6 +285,8 @@ msg = {
 	'ms': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Memperbetulkan pelencongan berganda ke %(to)s',
+		'redirect-remove-broken': u'[[:en:WP:CSD#G8|G8]]: [[Wikipedia:Lencongan|Lencongan]] kepada laman terhapus atau tak wujud',
+		'redirect-remove-loop': u'[[:en:WP:CSD#G8|G8]]: Sasaran [[Wikipedia:Lencongan|lencongan]] target membentuk gelung lencongan',
 	},
 	# Author: Chrisportelli
 	'mt': {

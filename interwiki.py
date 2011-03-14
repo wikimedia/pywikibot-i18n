@@ -73,6 +73,10 @@ msg = {
 		'interwiki-adding-removing': u'تزويد روبوت: %(adding)s مسح: %(removing)s',
 		'interwiki-adding-removing-modifying': u'تزويد روبوت: %(adding)s مسح: %(removing)s تحوير: %(modifying)s',
 	},
+	# Author: Jaminianurag
+	'as': {
+		'interwiki-adding-modifying': u'ৰবট যোগ দিছে :%(adding)s পৰিবৰ্তন কৰিছে: %(modifying)s',
+	},
 	# Author: Hugo.arg
 	# Author: Xqt
 	'ast': {
