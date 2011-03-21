@@ -6,6 +6,14 @@ msg = {
 	'als': {
 		'category_redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig',
 	},
+	'ar': {
+		'category_redirect-change-category': u'روبوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'روبوت: إضافة قالب تحويل تصنيف للصيانة',
+		'category_redirect-fix-double': u'بوت: إصلاح تحويل مزدوج',
+		'category_redirect-comment': u'بوت صيانة تحويلات التصنيفات',
+		'category_redirect-edit-request-item': u'* %(title)s في %(oldcat)s, وهي تحويلة إلى %(newcat)s',
+		'category_redirect-edit-request': u'الصفحات المحمية التالية تم كشفها كمحتاجة للتحديث لوصلات التحويلات: %(itemlist)s',
+	},
 	'bat-smg': {
 		'category_redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms',
 	},
