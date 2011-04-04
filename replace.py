@@ -132,6 +132,10 @@ msg = {
 	'lb': {
 		'replace-replacing': u'Bot: Automatescht Ersetze vun Text %(description)s',
 	},
+	# Author: Pahles
+	'li': {
+		'replace-replacing': u'Robot: autematis teks vervange %(description)s',
+	},
 	'lt': {
 		'replace-replacing': u'robotas: Automatinis teksto keitimas %(description)s',
 	},
@@ -214,6 +218,10 @@ msg = {
 	'sv': {
 		'replace-replacing': u'Bot: Automatisk textersättning: %(description)s',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'replace-replacing': u'Bot: Kusang pagpapalit ng teksto %(description)s',
+	},
 	# Author: Emperyan
 	'tr': {
 		'replace-replacing': u'Bot: Otomatik metin değiştirme %(description)s',
@@ -227,7 +235,7 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'replace-replacing': u'Rôbốt: Tự động thay thế văn bản %(description)s',
+		'replace-replacing': u'Robot: Tự động thay thế văn bản %(description)s',
 	},
 	'zh': {
 		'replace-replacing': u'機器人:執行文字代換作業 %(description)s',

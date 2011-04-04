@@ -850,14 +850,15 @@ msg = {
 	},
 	# Author: Hugo.arg
 	# Author: Xqt
+	# Author: Pahles
 	'li': {
-		'interwiki-adding': u'Robot Debie: %(adding)s',
-		'interwiki-adding-modifying': u'Robot Debie: %(adding)s Angers: %(modifying)s',
-		'interwiki-adding-removing': u'Robot Debie: %(adding)s D\'raaf: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot Debie: %(adding)s D\'raaf: %(removing)s Angers: %(modifying)s',
-		'interwiki-modifying': u'Robot Angers: %(modifying)s',
-		'interwiki-removing': u'Robot D\'raaf: %(removing)s',
-		'interwiki-removing-modifying': u'Robot D\'raaf: %(removing)s Angers: %(modifying)s',
+		'interwiki-adding': u'Robot: debie: %(adding)s',
+		'interwiki-adding-modifying': u'Robot: debie: %(adding)s verangerd: %(modifying)s',
+		'interwiki-adding-removing': u'Robot: debie: %(adding)s eweg: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: debie: %(adding)s eweg: %(removing)s verangerd: %(modifying)s',
+		'interwiki-modifying': u'Robot: verangerd: %(modifying)s',
+		'interwiki-removing': u'Robot: eweg: %(removing)s',
+		'interwiki-removing-modifying': u'Robot: eweg: %(removing)s verangerd: %(modifying)s',
 	},
 	'lmo': {
 		'interwiki-adding': u'Robot jontant: %(adding)s',
@@ -1626,14 +1627,15 @@ msg = {
 		'interwiki-removing': u'Bot: Cavo: %(removing)s',
 		'interwiki-removing-modifying': u'Bot: Cavo: %(removing)s Canbio: %(modifying)s',
 	},
+	# Author: Minh Nguyen
 	'vi': {
-		'interwiki-adding': u'robot Thêm: %(adding)s',
-		'interwiki-adding-modifying': u'robot Thêm: %(adding)s Thay: %(modifying)s',
-		'interwiki-adding-removing': u'robot Thêm: %(adding)s Dời: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Thêm: %(adding)s Dời: %(removing)s Thay: %(modifying)s',
-		'interwiki-modifying': u'robot Thay: %(modifying)s',
-		'interwiki-removing': u'robot Dời: %(removing)s',
-		'interwiki-removing-modifying': u'robot Dời: %(removing)s Thay: %(modifying)s',
+		'interwiki-adding': u'Robot: Thêm %(adding)s',
+		'interwiki-adding-modifying': u'Robot: Thêm %(adding)s; sửa %(modifying)s',
+		'interwiki-adding-removing': u'Robot: Thêm %(adding)s; dời %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: Thêm %(adding)s; dời %(removing)s; sửa %(modifying)s',
+		'interwiki-modifying': u'Robot: Sửa %(modifying)s',
+		'interwiki-removing': u'Robot: Dời %(removing)s',
+		'interwiki-removing-modifying': u'Robot: Dời %(removing)s; sửa %(modifying)s',
 	},
 	# Author: Hugo.arg
 	# Author: Xqt

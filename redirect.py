@@ -266,6 +266,13 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Viruleedung]] op eng geläschte Säit oder eng Säit déi et net gëtt',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Viruleedung]] där hiert Zil zu enger endlos Schleef féiert',
 	},
+	# Author: Pahles
+	'li': {
+		'redirect-broken-redirect-template': u'{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}',
+		'redirect-fix-double': u'Robot: dobbel doorverwiezing aangepas nao %(to)s',
+		'redirect-remove-broken': u'Robot: de doelpagina van de doorverwiezing besjteit neet',
+		'redirect-remove-loop': u'Doorverwiezing vörmp \'n óneindige lus',
+	},
 	'lt': {
 		'redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas → %(to)s',
 		'redirect-remove-broken': u'robotas: Peradresavimas į niekur',
@@ -305,10 +312,12 @@ msg = {
 		'redirect-fix-double': u'ربوت:عوض هایتن دکشیه‌ئون دِتایی → %(to)s',
 		'redirect-remove-broken': u'ربوت:بی‌جاء ِدکشی‌یه‌ئون',
 	},
+	# Author: Slomox
 	'nds': {
 		'redirect-broken-redirect-template': u'{{delete}}Kaputte Wiederleiden, wat nich brukt ward.',
 		'redirect-fix-double': u'Bot: Dubbelte Wiederleiden rutmakt → %(to)s',
 		'redirect-remove-broken': u'Bot: Kaputte Wiederleiden ward nich brukt',
+		'redirect-remove-loop': u'Bot: Redirect wiest wedder op sik sülvs',
 	},
 	# Author: RajeshPandey
 	'ne': {
@@ -438,6 +447,13 @@ msg = {
 		'redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s',
 		'redirect-remove-broken': u'โรบอต: หน้าเปลี่ยนทางเสีย',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Bot: Kinukumpuni ang nagkadalawang pagpapapunta sa %(to)s',
+		'redirect-remove-broken': u' [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Papuntahin]] sa isang pahinang nabura o hindi umiiral',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Ang puntiryang [[Wikipedia:Redirect|Pagpapapunta sa iba]] ay bumubuo ng nakalikaw na pagpapapunta',
+	},
 	# Author: Emperyan
 	# Author: Vito Genovese
 	# Author: Xqt
@@ -465,7 +481,7 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'redirect-broken-redirect-template': u'{{Chờ xóa}}',
-		'redirect-fix-double': u'Rôbốt: Giải quyết đổi hướng kép đến %(to)s',
+		'redirect-fix-double': u'Robot: Giải quyết đổi hướng kép đến %(to)s',
 		'redirect-remove-broken': u'[[Wikipedia:Trang đổi hướng|Chuyển hướng]] đến trang không tồn tại',
 		'redirect-remove-loop': u'[[Wikipedia:Trang đổi hướng|Chuyển hướng]] qua lại',
 	},

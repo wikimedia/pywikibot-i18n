@@ -142,6 +142,10 @@ msg = {
 	'lb': {
 		'isbn-formatting': u'Bot: ISBN formatéiert',
 	},
+	# Author: Pahles
+	'li': {
+		'isbn-formatting': u'Robot: ISBN opgemaak',
+	},
 	# Author: Hugo.arg
 	'lt': {
 		'isbn-formatting': u'Robotas: Formatuojamas ISBN',
@@ -161,6 +165,10 @@ msg = {
 	# Author: Lionslayer
 	'my': {
 		'isbn-formatting': u'ရိုဘော့ - ISBN နံပါတ်ကို ပုံစံချနေသည်',
+	},
+	# Author: Slomox
+	'nds': {
+		'isbn-formatting': u'Bot: ISBN-Format',
 	},
 	# Author: RajeshPandey
 	'ne': {
@@ -230,6 +238,10 @@ msg = {
 	'th': {
 		'isbn-formatting': u'บอต: การจัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'isbn-formatting': u'Robot: Inaayos ang anyo ng ISBN',
+	},
 	# Author: Emperyan
 	# Author: Vito Genovese
 	'tr': {
@@ -245,7 +257,7 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'isbn-formatting': u'Rôbốt: Định dạng ISBN',
+		'isbn-formatting': u'Robot: Định dạng ISBN',
 	},
 	'zh': {
 		'isbn-formatting': u'機器人：ISBN格式化',

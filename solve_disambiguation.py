@@ -82,6 +82,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Desambiguació assistida: %(from)s - Canviant enllaç(os) a %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconegut)',
 	},
+	# Author: Asoxor
+	'ckb': {
+		'solve_disambiguation-unknown-page': u'(نەناسراو)',
+	},
 	# Author: Dontlietome7
 	'cs': {
 		'solve_disambiguation-adding-dn-template': u'Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka',
@@ -350,7 +354,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(അപരിചിതം)',
 	},
 	# Author: Kurniasan
+	# Author: Anakmalaysia
 	'ms': {
+		'solve_disambiguation-adding-dn-template': u'Penyahkekaburan bantuan bot: %(from)s - Ditandai kerana memerlukan perhatian pakar',
+		'solve_disambiguation-links-removed': u'Penyahkekaburan bantuan bot: %(from)s - Pautan digugurkan',
+		'solve_disambiguation-links-resolved': u'Penyahkekaburan bantuan bot: %(from)s - Pautan ditukar kepada %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Penyahkekaburan bantuan bot: %(from)s - Ditandai kerana memerlukan perhatian pakar',
+		'solve_disambiguation-redirect-removed': u'Penyahkekaburan bantuan bot: %(from)s - Pautan digugurkan',
+		'solve_disambiguation-redirect-resolved': u'Penyahkekaburan bantuan bot: %(from)s - Pautan ditukar kepada %(to)s',
 		'solve_disambiguation-unknown-page': u'(tidak diketahui)',
 	},
 	# Author: Chrisportelli
@@ -371,6 +382,16 @@ msg = {
 	'nah': {
 		'solve_disambiguation-unknown-page': u'(âmò ìxmatkàyö)',
 	},
+	# Author: Slomox
+	'nds': {
+		'solve_disambiguation-adding-dn-template': u'Bot-stütt MB: %(from)s - Hülp von en Experten nödig',
+		'solve_disambiguation-links-removed': u'Bot-stütt MB: %(from)s - Lenken rutnahmen',
+		'solve_disambiguation-links-resolved': u'Bot-stütt MB: %(from)s - %(from)s - Lenk(en) ännert na %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot-stütt MB: %(from)s - Hülp von en Experten nödig',
+		'solve_disambiguation-redirect-removed': u'Bot-stütt MB: %(from)s - Lenken rutnahmen',
+		'solve_disambiguation-redirect-resolved': u'Bot-stütt MB: %(from)s - Lenk(en) ännert na %(to)s',
+		'solve_disambiguation-unknown-page': u'(nich kennt)',
+	},
 	# Author: RajeshPandey
 	'ne': {
 		'solve_disambiguation-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)s लाइ - विशेषज्ञ को ध्यानाकर्षण गराउँदै',
@@ -384,11 +405,11 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'solve_disambiguation-adding-dn-template': u'Robotgeholpen disambiguatie: %(from)s - heeft aandacht van een expert nodig',
-		'solve_disambiguation-links-removed': u'Botgeholpen doorverwijzing: [[%(from)s]] - Verwijzing(en) verwijderd',
-		'solve_disambiguation-links-resolved': u'Botgeholpen doorverwijzing: [[%(from)s]] - Verwijzing(en) gewijzigd naar %(to)s',
+		'solve_disambiguation-links-removed': u'Robotgeholpen doorverwijzing: [[%(from)s]] - Verwijzing(en) verwijderd',
+		'solve_disambiguation-links-resolved': u'Robotgeholpen doorverwijzing: [[%(from)s]] - Verwijzing(en) gewijzigd naar %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Robotgeholpen disambiguatie: %(from)s - heeft aandacht van een expert nodig',
-		'solve_disambiguation-redirect-removed': u'Botgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Verwijzing(en) verwijderd',
-		'solve_disambiguation-redirect-resolved': u'Botgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Verwijzing(en) gewijzigd naar %(to)s',
+		'solve_disambiguation-redirect-removed': u'Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Verwijzing(en) verwijderd',
+		'solve_disambiguation-redirect-resolved': u'Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Verwijzing(en) gewijzigd naar %(to)s',
 		'solve_disambiguation-unknown-page': u'(onbekend)',
 	},
 	# Author: Harald Khan
@@ -397,6 +418,7 @@ msg = {
 	},
 	# Author: Laaknor
 	# Author: Jon Harald Søby
+	# Author: Nghtwlkr
 	'no': {
 		'solve_disambiguation-adding-dn-template': u'Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp',
 		'solve_disambiguation-links-removed': u'bot: Retter lenke til peker: %(from)s - Fjernet lenke(r)',
@@ -521,6 +543,16 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Länkar direkt till rätt artikel för: %(from)s - Bytte länk(ar) till %(to)s',
 		'solve_disambiguation-unknown-page': u'(okänd)',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'solve_disambiguation-adding-dn-template': u'Paglilinaw na may tulong ng robot: %(from)s - Tinatakan bilang kailangan ng pagpansin ng dalubhasa',
+		'solve_disambiguation-links-removed': u'Paglilinaw na may tulong ng robot: %(from)s - Tinanggal na (mga) kawing.',
+		'solve_disambiguation-links-resolved': u'Paglilinaw na tinutulungan ng robot: %(from)s - Binago ang (mga) kawing na naging %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Paglilinaw na may tulong ng robot: %(from)s - Minarkahan bilang nangangailangan ng pagpansin ng dalubhasa',
+		'solve_disambiguation-redirect-removed': u'Paglilinaw na tinutulungan ng robot: %(from)s - Tinanggal na (mga) kawing',
+		'solve_disambiguation-redirect-resolved': u'Paglilinaw na tinutulungan ng robot: %(from)s - Binago ang (mga) kawing na naging %(to)s',
+		'solve_disambiguation-unknown-page': u'(hindi nalalaman)',
+	},
 	# Author: Emperyan
 	# Author: Vito Genovese
 	'tr': {
@@ -556,12 +588,12 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'solve_disambiguation-adding-dn-template': u'Rôbốt giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
-		'solve_disambiguation-links-removed': u'Rôbốt giúp định hướng: %(from)s – Dời liên kết',
-		'solve_disambiguation-links-resolved': u'Rôbốt giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Rôbốt giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
-		'solve_disambiguation-redirect-removed': u'Rôbốt giúp định hướng: %(from)s – Dời liên kết',
-		'solve_disambiguation-redirect-resolved': u'Rôbốt giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Robot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
+		'solve_disambiguation-links-removed': u'Robot giúp định hướng: %(from)s – Dời liên kết',
+		'solve_disambiguation-links-resolved': u'Robot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
+		'solve_disambiguation-redirect-removed': u'Robot giúp định hướng: %(from)s – Dời liên kết',
+		'solve_disambiguation-redirect-resolved': u'Robot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
 		'solve_disambiguation-unknown-page': u'(không rõ)',
 	},
 	# Author: Malafaya

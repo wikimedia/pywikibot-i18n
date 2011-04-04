@@ -182,8 +182,9 @@ msg = {
 	'ceb': {
 		'category-adding': u'Robot: Gidugang [[Category:%(newcat)s]]',
 	},
+	# Author: Asoxor
 	'ckb': {
-		'category-adding': u'بۆت: زیادکردن [[Category:%(newcat)s]]',
+		'category-adding': u'ڕۆبۆت: زیادکردنی [[Category:%(newcat)s]]',
 	},
 	'crh': {
 		'category-adding': u'robot: ekley [[Category:%(newcat)s]]',
@@ -396,6 +397,10 @@ msg = {
 		'category-was-disbanded': u'בוט: הקטגוריה פורקה',
 		'category-was-moved': u'בוט: הקטגוריה הועברה לשם [[:קטגוריה:%(newcat)s|%(title)s]]',
 	},
+	# Author: रोहित रावत
+	'hi': {
+		'category-changing': u'रोबॉट: %(oldcat)s को बदल रहा है',
+	},
 	'hr': {
 		'category-adding': u'robot: Dodaje [[Category:%(newcat)s]]',
 	},
@@ -573,8 +578,16 @@ msg = {
 		'category-was-disbanded': u'Bot: Kategorie gouf opgeléist',
 		'category-was-moved': u'Bot: Kategorie gouf geréckelt: Nei [[:Kategorie:%(newcat)s|%(title)s]]',
 	},
+	# Author: Pahles
 	'li': {
-		'category-adding': u'Robot: Debie [[Category:%(newcat)s]]',
+		'category-adding': u'Robot: debie [[Category:%(newcat)s]]',
+		'category-also-in': u'(ouch in %(alsocat)s)',
+		'category-changing': u'Robot: verangering %(oldcat)s',
+		'category-listifying': u'Robot: lies van %(fromcat)s (%(num)d pagina\'s)',
+		'category-removing': u'Robot: eweggesjaf oet %(oldcat)s',
+		'category-replacing': u'Robot: categorie %(oldcat)s is vervange door %(newcat)s',
+		'category-was-disbanded': u'Robot: categorie is opgehöf',
+		'category-was-moved': u'Robot: categorie is verplaats nao [[:Categorie:%(newcat)s|%(title)s]]',
 	},
 	'lmo': {
 		'category-adding': u'Robot: jontant [[Category:%(newcat)s]]',
@@ -594,6 +607,10 @@ msg = {
 		'category-replacing': u'robotas: kategorija %(oldcat)s keičiama į %(newcat)s',
 		'category-was-disbanded': u'robotas: kategorija išformuota',
 		'category-was-moved': u'robotas: Kategorija pervadinta į [[:Category:%(newcat)s|%(title)s]]',
+	},
+	# Author: Dark Eagle
+	'ltg': {
+		'category-adding': u'Robots: Dalik [[Kategoreja:%(newcat)s]]',
 	},
 	# Author: Dark Eagle
 	'lv': {
@@ -627,6 +644,10 @@ msg = {
 	'ml': {
 		'category-adding': u'യന്ത്രം: ചേര്‍ക്കുന്നു [[Category:%(newcat)s]]',
 		'category-was-moved': u'യന്ത്രം: വർഗ്ഗം [[:Category:%(newcat)s|%(title)s]] എന്നാക്കി മാറ്റിയിരിക്കുന്നു',
+	},
+	# Author: Xqt
+	'mn': {
+		'category-adding': u'робот: Нэмж байна [[Category:%(newcat)s]]',
 	},
 	# Author: Node ue
 	'mo': {
@@ -692,10 +713,14 @@ msg = {
 		'category-was-disbanded': u'Tepostekitkatl: Yi tlaìxpôpolòlli in tlaìxmatkàtlàlilòtl',
 		'category-was-moved': u'Tepostekitkatl: In tlaìxmatkatlàlilòtl òmotitlan ìpan [[:Category:%(newcat)s|%(title)s]]',
 	},
+	# Author: Slomox
 	'nds': {
 		'category-adding': u'Kat-Bot: [[Kategorie:%(newcat)s]] rin',
+		'category-also-in': u'(ok in %(alsocat)s)',
 		'category-changing': u'Kat-Bot: %(oldcat)s utwesselt',
+		'category-listifying': u'Bot: List von %(fromcat)s (%(num)d Sieden)',
 		'category-removing': u'Kat-Bot: rut ut %(oldcat)s',
+		'category-replacing': u'Bot: Kategorie %(oldcat)s gegen %(newcat)s utwesselt',
 		'category-was-disbanded': u'Kat-Bot: Kategorie is nu oplööst',
 		'category-was-moved': u'Kat-Bot: Kategorie na [[:Category:%(newcat)s|%(title)s]] schaven',
 	},
@@ -963,14 +988,26 @@ msg = {
 		'category-also-in': u'(%(alsocat)s లలో కూడా ఉంది)',
 		'category-changing': u'బాటు: %(oldcat)s వర్గాన్ని మార్చింది',
 	},
+	# Author: Xqt
+	'tet': {
+		'category-adding': u'bot: tau tan [[Category:%(newcat)s]]',
+	},
 	'th': {
 		'category-adding': u'โรบอต: เพิ่ม [[Category:%(newcat)s]]',
 	},
 	'tk': {
 		'category-adding': u'robot: goşdy [[Category:%(newcat)s]]',
 	},
+	# Author: AnakngAraw
 	'tl': {
 		'category-adding': u'robot: dinagdag [[Category:%(newcat)s]]',
+		'category-also-in': u'(nasa loob din ng %(alsocat)s)',
+		'category-changing': u'Robot: Binabago ang %(oldcat)s',
+		'category-listifying': u'Bot: Isinalilista mula sa %(fromcat)s (%(num)d entries)',
+		'category-removing': u'Bot: Tinatanggal mula sa %(oldcat)s',
+		'category-replacing': u'Robot: Pinapalitan ng kategoryang %(oldcat)s ng %(newcat)s',
+		'category-was-disbanded': u'Bot: Pinagwatak-watak ang kategorya',
+		'category-was-moved': u'Robot: Inilipat ang kategorya sa [[:Category:%(newcat)s|%(title)s]]',
 	},
 	'to': {
 		'category-adding': u'mīsiniʻoku: tānaki [[Category:%(newcat)s]]',
@@ -1021,14 +1058,14 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'category-adding': u'Rôbốt: Thêm [[Thể loại:%(newcat)s]]',
+		'category-adding': u'Robot: Thêm [[Thể loại:%(newcat)s]]',
 		'category-also-in': u'(cũng trong %(alsocat)s)',
-		'category-changing': u'Rôbốt: Thay đổi %(oldcat)s',
-		'category-listifying': u'Rôbốt: Danh sách hóa từ %(fromcat)s (%(num)d trang)',
-		'category-removing': u'Rôbốt: Dời khỏi %(oldcat)s',
-		'category-replacing': u'Rôbốt: Thay thể loại %(oldcat)s bằng %(newcat)s',
-		'category-was-disbanded': u'Rôbốt: Thể loại bị giải tán',
-		'category-was-moved': u'Rôbốt: Di chuyển thể loại qua [[:Thể loại:%(newcat)s|%(title)s]]',
+		'category-changing': u'Robot: Thay đổi %(oldcat)s',
+		'category-listifying': u'Robot: Danh sách hóa từ %(fromcat)s (%(num)d trang)',
+		'category-removing': u'Robot: Dời khỏi %(oldcat)s',
+		'category-replacing': u'Robot: Thay thể loại %(oldcat)s bằng %(newcat)s',
+		'category-was-disbanded': u'Robot: Thể loại bị giải tán',
+		'category-was-moved': u'Robot: Di chuyển thể loại qua [[:Thể loại:%(newcat)s|%(title)s]]',
 	},
 	# Author: Xqt
 	'vls': {
