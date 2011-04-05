@@ -1109,7 +1109,7 @@ msg = {
 		'interwiki-adding-removing': u'Robot: toegevoegd: %(adding)s, gewijzigd: %(removing)s',
 		'interwiki-adding-removing-modifying': u'Robot: toegevoegd: %(adding)s, verwijderd: %(removing)s, gewijzigd: %(modifying)s',
 		'interwiki-modifying': u'Robot: gewijzigd: %(modifying)s',
-		'interwiki-removing': u'Robot: toegevoegd: %(removing)s',
+		'interwiki-removing': u'Robot: verwijderd: %(removing)s',
 		'interwiki-removing-modifying': u'Robot: verwijderd: %(removing)s, gewijzigd: %(modifying)s',
 	},
 	'nn': {
