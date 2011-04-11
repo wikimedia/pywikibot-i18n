@@ -28,7 +28,7 @@ msg = {
 	# Author: Wikitanvir
 	# Author: Bellayet
 	'bn': {
-		'isbn-formatting': u'রোবট: আইএসবিএন নম্বরের ফরম্যাট ঠিক করছে',
+		'isbn-formatting': u'বট: আইএসবিএন নম্বরের ফরম্যাট ঠিক করছে',
 	},
 	# Author: Fulup
 	'br': {

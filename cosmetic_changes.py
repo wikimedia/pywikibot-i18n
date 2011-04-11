@@ -27,6 +27,11 @@ msg = {
 		'cosmetic_changes-append': u'; козметични промени',
 		'cosmetic_changes-standalone': u'Робот козметични промени',
 	},
+	# Author: Wikitanvir
+	'bn': {
+		'cosmetic_changes-append': u'; কসমেটিক পরিবর্তন',
+		'cosmetic_changes-standalone': u'বট: কসমেটিক পরিবর্তন',
+	},
 	'br': {
 		'cosmetic_changes-append': u'; Kemm dister',
 		'cosmetic_changes-standalone': u'Bot: Kemm dister',
@@ -215,9 +220,10 @@ msg = {
 		'cosmetic_changes-append': u'; zmiany kosmetyczne',
 		'cosmetic_changes-standalone': u'Robot dokonuje poprawek kosmetycznych',
 	},
+	# Author: Hamilton Abreu
 	'pt': {
 		'cosmetic_changes-append': u'; mudanças triviais',
-		'cosmetic_changes-standalone': u'Bot: Mudanças triviais',
+		'cosmetic_changes-standalone': u'Robô: Mudanças triviais',
 	},
 	# Author: Xqt
 	'qqq': {

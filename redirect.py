@@ -93,6 +93,11 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wicipedia:Ailgyfeirio|Ailgyfeirio]] i dudalen nad ydyw\'n bodoli neu ddilëwyd',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Mae targed [[Wicipedia:Ailgyfeirio|ailgyfeirio]] yn creu dolen ailgyfeirio',
 	},
+	# Author: Sarrus
+	'da': {
+		'redirect-fix-double': u'Bot: Retter dobbelt omdirigering til  %(to)s',
+		'redirect-remove-broken': u'Bot: Omdirigering til en slettet eller ikke-eksisterende side',
+	},
 	# Author: The Evil IP address
 	'de': {
 		'redirect-broken-redirect-template': u'{{Löschen|Kaputte Weiterleitung}}',
@@ -132,10 +137,11 @@ msg = {
 		'redirect-fix-double': u'Robota: Birzuzenketa bikoitza zuzentzen %(to)s -ra',
 	},
 	# Author: Mjbmr
+	# Author: Ebraminio
 	'fa': {
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
 		'redirect-fix-double': u'ربات:اصلاح تغییر مسیر دوتایی ← %(to)s',
-		'redirect-remove-broken': u'ربات: (بن بست) تغییرمسیر به صفحه‌ای که وجود ندارد',
+		'redirect-remove-broken': u'ربات: (بن بست) تغییر مسیر به صفحه‌ای که وجود ندارد',
 		'redirect-remove-loop': u'ربات: تغییر مسیر حلقه‌ای',
 	},
 	# Author: Crochet.david

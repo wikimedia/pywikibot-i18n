@@ -106,11 +106,14 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Gwahaniaethu gyda chymorth robot: %(from)s - Dolenni a newidiwyd i %(to)s',
 		'solve_disambiguation-unknown-page': u'(anhysbys)',
 	},
+	# Author: Sarrus
 	'da': {
 		'solve_disambiguation-links-removed': u'Retter flertydigt link til: %(from)s - Fjernede link(s)',
 		'solve_disambiguation-links-resolved': u'Retter flertydigt link til: %(from)s - Ændrede link(s) til %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robotassisteret flertydig: %(from)s - markeret til at kræve en eksperts opmærksomhed',
 		'solve_disambiguation-redirect-removed': u'Retter flertydigt link til: %(from)s - Fjernede link(s)',
 		'solve_disambiguation-redirect-resolved': u'Retter flertydigt link til: %(from)s - Ændrede link(s) til %(to)s',
+		'solve_disambiguation-unknown-page': u'(ukendt)',
 	},
 	# Author: The Evil IP address
 	# Author: Kebap
@@ -443,13 +446,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(ناڅرګند)',
 	},
 	# Author: Malafaya
+	# Author: Hamilton Abreu
 	'pt': {
-		'solve_disambiguation-adding-dn-template': u'Desambiguação assistida por bot: %(from)s - Marcada como necessitando de atenção especializada',
-		'solve_disambiguation-links-removed': u'Desambiguação assistida por bot: %(from)s link(s) removido(s)',
-		'solve_disambiguation-links-resolved': u'Desambiguação assistida por bot: %(from)s link(s) mudado(s) para %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Desambiguação assistida por bot: %(from)s - Marcada como necessitando de atenção especializada',
-		'solve_disambiguation-redirect-removed': u'Desambiguação assistida por bot: %(from)s link(s) removidos',
-		'solve_disambiguation-redirect-resolved': u'Desambiguação assistida por bot: %(from)s link(s) mudados para %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Desambiguação auxiliada por robô: %(from)s - Marcada como necessitando de atenção especializada',
+		'solve_disambiguation-links-removed': u'Desambiguação auxiliada por robô: %(from)s - Links removidos.',
+		'solve_disambiguation-links-resolved': u'Desambiguação auxiliada por robô: %(from)s - Links mudados para %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Desambiguação auxiliada por robô: %(from)s - Marcada como necessitando de atenção especializada',
+		'solve_disambiguation-redirect-removed': u'Desambiguação auxiliada por robô: %(from)s - Link(s) removidos',
+		'solve_disambiguation-redirect-resolved': u'Desambiguação auxiliada por robô: %(from)s - Links mudados para %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconhecido)',
 	},
 	# Author: Helder.wiki

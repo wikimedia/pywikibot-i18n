@@ -132,9 +132,13 @@ msg = {
 	# Author: Wikitanvir
 	# Author: Bellayet
 	'bn': {
+		'category-adding': u'বট: যোগ করছে [[বিষয়শ্রেণী:%(newcat)s]]',
+		'category-also-in': u'(%(alsocat)s বিষয়শ্রেণীতেও আছে)',
 		'category-changing': u'বট: পরিবর্তন করছে %(oldcat)s',
 		'category-listifying': u'বট: তালিকাভুক্ত করছে %(fromcat)s থেকে (%(num)dটি ভুক্তি)',
-		'category-was-moved': u'রোবট: বিষয়শ্রেণী [[:বিষয়শ্রেণী:%(newcat)s|%(title)s]]-এ স্থানান্তরিত হয়েছে',
+		'category-removing': u'বট: %(oldcat)s থেকে বিষয়শ্রেণী অপসারণ',
+		'category-replacing': u'বট: %(oldcat)s কে %(newcat)s দ্বারা প্রতিস্থাপন করছে',
+		'category-was-moved': u'বট: বিষয়শ্রেণী [[:বিষয়শ্রেণী:%(newcat)s|%(title)s]]-এ স্থানান্তরিত হয়েছে',
 	},
 	'bo': {
 		'category-adding': u'འཕྲུལ་ཆས་ཀྱི་མི།: ཁ་སྣོན་རྒྱག་པ། [[Category:%(newcat)s]]',
@@ -219,11 +223,13 @@ msg = {
 		'category-was-disbanded': u'Bot: Dadfyddinwyd y categori',
 		'category-was-moved': u'Robot: Symudwyd y categori i [[:Categori:%(newcat)s|%(title)s]]',
 	},
+	# Author: Sarrus
 	'da': {
 		'category-adding': u'Robot: Tilføjer [[Kategori:%(newcat)s]]',
 		'category-also-in': u'(også i %(alsocat)s)',
 		'category-changing': u'Robot: Ændrer %(oldcat)s',
 		'category-removing': u'Robot: Fjerner fra %(oldcat)s',
+		'category-replacing': u'Robot: Erstatter kategori %(oldcat)s, %(newcat)s',
 		'category-was-disbanded': u'Robot: Kategorien blev opløst',
 		'category-was-moved': u'Robot: Kategori flyttet til [[:Category:%(newcat)s|%(title)s]]',
 	},
@@ -735,14 +741,14 @@ msg = {
 	},
 	# Author: RajeshPandey
 	'ne': {
-		'category-adding': u'↓ रोबोट:  [[Category:%(newcat)s]] थप्दै',
-		'category-also-in': u'↓ (%(alsocat)s मा पनि)',
-		'category-changing': u'↓ रोबोट: ले %(oldcat)s मा परिवर्तन गरेको',
-		'category-listifying': u'↓ बोट: %(fromcat)s बाट (%(num)d entries) मा श्रृङ्खलाबद्ध गर्दै',
-		'category-removing': u'↓ रोबोट: %(oldcat)s बाट हटाउँदै',
-		'category-replacing': u'↓ रोबोट: %(oldcat)s श्रेणी लाइ %(newcat)s संग साट्दै',
-		'category-was-disbanded': u'↓ बोट: श्रेणी लाइ छोडियो',
-		'category-was-moved': u'↓ Robot: श्रेणीलाइ  [[:Category:%(newcat)s|%(title)s]] मा सारियो',
+		'category-adding': u'रोबोट:  [[Category:%(newcat)s]] थप्दै',
+		'category-also-in': u'(%(alsocat)s मा पनि)',
+		'category-changing': u'रोबोट: ले %(oldcat)s मा परिवर्तन गरेको',
+		'category-listifying': u'बोट: %(fromcat)s बाट (%(num)d entries) मा श्रृङ्खलाबद्ध गर्दै',
+		'category-removing': u'रोबोट: %(oldcat)s बाट हटाउँदै',
+		'category-replacing': u'रोबोट: %(oldcat)s श्रेणी लाइ %(newcat)s संग साट्दै',
+		'category-was-disbanded': u'बोट: श्रेणी लाइ छोडियो',
+		'category-was-moved': u'Robot: श्रेणीलाइ  [[:Category:%(newcat)s|%(title)s]] मा सारियो',
 	},
 	# Author: Siebrand
 	'nl': {

@@ -38,6 +38,10 @@ msg = {
 	'cy': {
 		'replace-replacing': u'Bot: Amnewid testun awtomataidd %(description)s',
 	},
+	# Author: Sarrus
+	'da': {
+		'replace-replacing': u'Bot: Automatisk teksterstatning: %(description)s',
+	},
 	'de': {
 		'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',
 	},
@@ -178,8 +182,9 @@ msg = {
 	'pl': {
 		'replace-replacing': u'Robot automatycznie zamienia tekst %(description)s',
 	},
+	# Author: Hamilton Abreu
 	'pt': {
-		'replace-replacing': u'Bot: Mudança automática %(description)s',
+		'replace-replacing': u'Robô: Substituição de texto automática %(description)s',
 	},
 	# Author: Raylton P. Sousa
 	'pt-br': {

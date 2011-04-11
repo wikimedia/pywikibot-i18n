@@ -182,14 +182,15 @@ msg = {
 		'interwiki-removing': u'bot Mambuang: %(removing)s',
 		'interwiki-removing-modifying': u'bot Mambuang: %(removing)s Ma\'ubah: %(modifying)s',
 	},
+	# Author: Wikitanvir
 	'bn': {
-		'interwiki-adding': u'রোবট যোগ করছে: %(adding)s',
-		'interwiki-adding-modifying': u'রোবট যোগ করছে: %(adding)s পরিবর্তন করছে: %(modifying)s',
-		'interwiki-adding-removing': u'রোবট যোগ করছে: %(adding)s মুছে ফেলছে: %(removing)s',
-		'interwiki-adding-removing-modifying': u'রোবট যোগ করছে: %(adding)s মুছে ফেলছে: %(removing)s পরিবর্তন করছে: %(modifying)s',
-		'interwiki-modifying': u'রোবট পরিবর্তন করছে: %(modifying)s',
-		'interwiki-removing': u'রোবট মুছে ফেলছে: %(removing)s',
-		'interwiki-removing-modifying': u'রোবট মুছে ফেলছে: %(removing)s পরিবর্তন করছে: %(modifying)s',
+		'interwiki-adding': u'বট যোগ করছে: %(adding)s',
+		'interwiki-adding-modifying': u'বট যোগ করছে: %(adding)s পরিবর্তন করছে: %(modifying)s',
+		'interwiki-adding-removing': u'বট যোগ করছে: %(adding)s মুছে ফেলছে: %(removing)s',
+		'interwiki-adding-removing-modifying': u'বট যোগ করছে: %(adding)s মুছে ফেলছে: %(removing)s পরিবর্তন করছে: %(modifying)s',
+		'interwiki-modifying': u'বট পরিবর্তন করছে: %(modifying)s',
+		'interwiki-removing': u'বট মুছে ফেলছে: %(removing)s',
+		'interwiki-removing-modifying': u'বট মুছে ফেলছে: %(removing)s পরিবর্তন করছে: %(modifying)s',
 	},
 	'bo': {
 		'interwiki-adding': u'འཕྲུལ་ཆས་ཀྱི་མི། ཁ་སྣོན་རྒྱག་པ།: %(adding)s',
@@ -1094,15 +1095,16 @@ msg = {
 	# Author: RajeshPandey
 	# Author: Hugo.arg
 	'ne': {
-		'interwiki-adding': u'↓ रोबोट ले थप्दै: %(adding)s',
-		'interwiki-adding-modifying': u'↓ रोबोट ले थप्दै: %(adding)s परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-adding-removing': u'↓ रोबोट ले थप्दै: %(adding)s हटाउँदै: %(removing)s',
+		'interwiki-adding': u'रोबोट ले थप्दै: %(adding)s',
+		'interwiki-adding-modifying': u'रोबोट ले थप्दै: %(adding)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-adding-removing': u'रोबोट ले थप्दै: %(adding)s हटाउँदै: %(removing)s',
 		'interwiki-adding-removing-modifying': u'रोबोट ले थप्दै: %(adding)s हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-modifying': u'↓ रोबोट ले परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-removing': u'↓ रोबोट ले हटाउँदै: %(removing)s',
+		'interwiki-modifying': u'रोबोट ले परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-removing': u'रोबोट ले हटाउँदै: %(removing)s',
 		'interwiki-removing-modifying': u'रोबोट ले हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
 	},
 	# Author: Siebrand
+	# Author: Romaine
 	'nl': {
 		'interwiki-adding': u'Robot: toegevoegd: %(adding)s',
 		'interwiki-adding-modifying': u'Robot: toegevoegd: %(adding)s, gewijzigd: %(modifying)s',

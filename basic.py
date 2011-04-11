@@ -11,6 +11,10 @@ msg = {
 	'be-tarask': {
 		'basic-changing': u'Робат: зьмяніў…',
 	},
+	# Author: Wikitanvir
+	'bn': {
+		'basic-changing': u'বট: পরিবর্তন করছে ...',
+	},
 	# Author: Fulup
 	'br': {
 		'basic-changing': u'Robot : O cheñch ...',
@@ -29,6 +33,10 @@ msg = {
 	},
 	'cs': {
 		'basic-changing': u'Robot změnil ...',
+	},
+	# Author: Sarrus
+	'da': {
+		'basic-changing': u'Bot: Ændrer',
 	},
 	'de': {
 		'basic-changing': u'Bot: Ändere ...',
@@ -65,6 +73,10 @@ msg = {
 	# Author: Michawiki
 	'hsb': {
 		'basic-changing': u'Bot: Měnja so ...',
+	},
+	# Author: Dani
+	'hu': {
+		'basic-changing': u'Bot: módosítás ...',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -114,8 +126,9 @@ msg = {
 	'pl': {
 		'basic-changing': u'Bot: zmienia ...',
 	},
+	# Author: Hamilton Abreu
 	'pt': {
-		'basic-changing': u'Bot: alterando...',
+		'basic-changing': u'Robô: A alterar ...',
 	},
 	'ru': {
 		'basic-changing': u'Бот: изменил ...',
