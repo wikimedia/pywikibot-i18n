@@ -144,6 +144,13 @@ msg = {
 		'redirect-remove-broken': u'ربات: (بن بست) تغییر مسیر به صفحه‌ای که وجود ندارد',
 		'redirect-remove-loop': u'ربات: تغییر مسیر حلقه‌ای',
 	},
+	# Author: Nedergard
+	# Author: Nike
+	'fi': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Botti korjasi kaksinkertaisen ohjauksen → %(to)s',
+		'redirect-remove-broken': u'Botti: Ohjauksen kohdesivua ei ole olemassa',
+	},
 	# Author: Crochet.david
 	# Author: IAlex
 	'fr': {

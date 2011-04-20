@@ -225,6 +225,11 @@ msg = {
 		'cosmetic_changes-append': u'; mudanças triviais',
 		'cosmetic_changes-standalone': u'Robô: Mudanças triviais',
 	},
+	# Author: Giro720
+	'pt-br': {
+		'cosmetic_changes-append': u'; mudanças triviais',
+		'cosmetic_changes-standalone': u'Robô: Mudanças triviais',
+	},
 	# Author: Xqt
 	'qqq': {
 		'cosmetic_changes-append': u'Summary message  that will be appended to the normal edit summary when cosmetic changes are made on the fly',

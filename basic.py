@@ -130,6 +130,10 @@ msg = {
 	'pt': {
 		'basic-changing': u'Robô: A alterar ...',
 	},
+	# Author: Giro720
+	'pt-br': {
+		'basic-changing': u'Robô: Alterando ...',
+	},
 	'ru': {
 		'basic-changing': u'Бот: изменил ...',
 	},
