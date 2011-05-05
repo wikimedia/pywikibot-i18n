@@ -91,6 +91,10 @@ msg = {
 	'frp': {
 		'isbn-formatting': u'Robot : misa en fôrma du ISBN',
 	},
+	# Author: Murma174
+	'frr': {
+		'isbn-formatting': u'Bot: Formatiare ISBN',
+	},
 	# Author: Klenje
 	'fur': {
 		'isbn-formatting': u'Robot: o formati il codiç ISBN',
@@ -106,6 +110,10 @@ msg = {
 	# Author: YaronSh
 	'he': {
 		'isbn-formatting': u'בוט: מעצב מסת״ב',
+	},
+	# Author: Ex13
+	'hr': {
+		'isbn-formatting': u'Bot: Oblikovanje ISBN',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -234,6 +242,10 @@ msg = {
 	'sv': {
 		'isbn-formatting': u'Robot: Formaterar ISBN',
 	},
+	# Author: செல்வா
+	'ta': {
+		'isbn-formatting': u'தானியங்கி: ISBN ஐ வடிவமைத்தல்',
+	},
 	# Author: Horus
 	'th': {
 		'isbn-formatting': u'บอต: การจัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ',
@@ -257,7 +269,7 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'isbn-formatting': u'Robot: Định dạng ISBN',
+		'isbn-formatting': u'Bot: Định dạng ISBN',
 	},
 	'zh': {
 		'isbn-formatting': u'機器人：ISBN格式化',

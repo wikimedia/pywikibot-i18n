@@ -32,6 +32,10 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redireición]] a una páxina desaniciada o que nun esiste',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: El destín de [[Wikipedia:Redirect|redireición]] forma un bucle de redireición',
 	},
+	# Author: Cekli829
+	'az': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	'bar': {
 		'redirect-broken-redirect-template': u'{{delete}}Kaputte Weiterleitung',
 	},
@@ -146,10 +150,12 @@ msg = {
 	},
 	# Author: Nedergard
 	# Author: Nike
+	# Author: Olli
 	'fi': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Botti korjasi kaksinkertaisen ohjauksen → %(to)s',
+		'redirect-fix-double': u'Botti: korjataan kaksinkertainen ohjaus sivulle %(to)s',
 		'redirect-remove-broken': u'Botti: Ohjauksen kohdesivua ei ole olemassa',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Uudelleenohjauksen]] kohteen uudelleenohjaussilmukka',
 	},
 	# Author: Crochet.david
 	# Author: IAlex
@@ -203,8 +209,12 @@ msg = {
 		'redirect-remove-broken': u'בוט: יעד ההפניה אינו קיים',
 		'redirect-remove-loop': u'הפניה זו גורמת ללולאה אין־סופית של הפניות',
 	},
+	# Author: Ex13
 	'hr': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Popravak dvostrukih preusmjeravanja → %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -295,11 +305,12 @@ msg = {
 		'redirect-fix-double': u'Rôbô : mamaha olam-pihodinana mankany amin\'i %(to)s',
 	},
 	# Author: Bjankuloski06
+	# Author: Xqt
 	'mk': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-broken-redirect-template': u'{{db|[[ВП:КББ|O8]]}}',
 		'redirect-fix-double': u'Бот: Исправка на двојни пренасочувања → %(to)s',
-		'redirect-remove-broken': u'[[ВП:КББ|О8]]: [[Википедија:Пренасочување|Пренасочување]] кон избришана или непостоечка страница',
-		'redirect-remove-loop': u'[[ВП:КББ|О8]]: Одредницата за [[Википедија:Пренасочување|пренасочување]] образува јамка',
+		'redirect-remove-broken': u'[[ВП:КББ|О6]: [[Википедија:Пренасочување|Пренасочување]] кон избришана или непостоечка страница',
+		'redirect-remove-loop': u'[[ВП:КББ|О6]]: Одредницата за [[Википедија:Пренасочување|пренасочување]] образува јамка',
 	},
 	# Author: Kurniasan
 	'ms': {
@@ -456,6 +467,11 @@ msg = {
 	'szl': {
 		'redirect-fix-double': u'Robot sprowjo tuplowane przekerowańa → %(to)s',
 	},
+	# Author: செல்வா
+	'ta': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
+	},
 	'th': {
 		'redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s',
 		'redirect-remove-broken': u'โรบอต: หน้าเปลี่ยนทางเสีย',
@@ -494,7 +510,7 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'redirect-broken-redirect-template': u'{{Chờ xóa}}',
-		'redirect-fix-double': u'Robot: Giải quyết đổi hướng kép đến %(to)s',
+		'redirect-fix-double': u'Bot: Giải quyết đổi hướng kép đến %(to)s',
 		'redirect-remove-broken': u'[[Wikipedia:Trang đổi hướng|Chuyển hướng]] đến trang không tồn tại',
 		'redirect-remove-loop': u'[[Wikipedia:Trang đổi hướng|Chuyển hướng]] qua lại',
 	},

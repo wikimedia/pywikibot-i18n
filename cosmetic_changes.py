@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Naudefj
+	'af': {
+		'cosmetic_changes-append': u'; kosmetiese veranderinge',
+		'cosmetic_changes-standalone': u'Robot: Kosmetiese veranderinge',
+	},
 	'als': {
 		'cosmetic_changes-append': u'; chleineri Änderige',
 		'cosmetic_changes-standalone': u'Bötli: chleineri Änderige',
@@ -12,6 +17,15 @@ msg = {
 	'ast': {
 		'cosmetic_changes-append': u'; cambéos cosméticos',
 		'cosmetic_changes-standalone': u'Robot: Cambéos cosméticos',
+	},
+	# Author: Vago
+	'az': {
+		'cosmetic_changes-append': u'; kosmetik dəyişmələr',
+		'cosmetic_changes-standalone': u'Robot: Kosmetik dəyişmələr',
+	},
+	# Author: LexArt
+	'be': {
+		'cosmetic_changes-append': u'; дробныя змены',
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
@@ -269,6 +283,16 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetiska ändringar',
 		'cosmetic_changes-standalone': u'Bot: Kosmetiska ändringar',
 	},
+	# Author: செல்வா
+	'ta': {
+		'cosmetic_changes-append': u'; மேலோட்டமான மாற்றங்கள்',
+		'cosmetic_changes-standalone': u'தானியங்கி: மேலோட்டமான மாற்றங்கள்',
+	},
+	# Author: Veeven
+	'te': {
+		'cosmetic_changes-append': u'; పైపై మార్పులు',
+		'cosmetic_changes-standalone': u'బాటు: పైపై మార్పులు',
+	},
 	'th': {
 		'cosmetic_changes-append': u'; ปรับแต่งให้อ่านง่าย',
 		'cosmetic_changes-standalone': u'บอต ปรับแต่งให้อ่านง่าย',
@@ -301,7 +325,7 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'cosmetic_changes-append': u'; sửa cách trình bày',
-		'cosmetic_changes-standalone': u'Robot: Sửa cách trình bày',
+		'cosmetic_changes-standalone': u'Bot: Sửa cách trình bày',
 	},
 	'war': {
 		'cosmetic_changes-append': u'; kosmetiko nga mga pagbag-o',

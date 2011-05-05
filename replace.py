@@ -93,6 +93,10 @@ msg = {
 	'he': {
 		'replace-replacing': u'בוט: החלפת טקסט אוטומטית %(description)s',
 	},
+	# Author: Ex13
+	'hr': {
+		'replace-replacing': u'Bot: Automatska zamjena teksta %(description)s',
+	},
 	# Author: Michawiki
 	'hsb': {
 		'replace-replacing': u'Boćik: Awtomatiske narunanje teksta %(description)s',
@@ -223,6 +227,10 @@ msg = {
 	'sv': {
 		'replace-replacing': u'Bot: Automatisk textersättning: %(description)s',
 	},
+	# Author: செல்வா
+	'ta': {
+		'replace-replacing': u'தானியங்கி:  தானியக்கமாய் உரை மாற்றம் %(description)s',
+	},
 	# Author: AnakngAraw
 	'tl': {
 		'replace-replacing': u'Bot: Kusang pagpapalit ng teksto %(description)s',
@@ -240,7 +248,7 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'replace-replacing': u'Robot: Tự động thay thế văn bản %(description)s',
+		'replace-replacing': u'Bot: Tự động thay thế văn bản %(description)s',
 	},
 	'zh': {
 		'replace-replacing': u'機器人:執行文字代換作業 %(description)s',

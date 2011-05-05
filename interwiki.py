@@ -1631,13 +1631,13 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'interwiki-adding': u'Robot: Thêm %(adding)s',
-		'interwiki-adding-modifying': u'Robot: Thêm %(adding)s; sửa %(modifying)s',
-		'interwiki-adding-removing': u'Robot: Thêm %(adding)s; dời %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: Thêm %(adding)s; dời %(removing)s; sửa %(modifying)s',
-		'interwiki-modifying': u'Robot: Sửa %(modifying)s',
-		'interwiki-removing': u'Robot: Dời %(removing)s',
-		'interwiki-removing-modifying': u'Robot: Dời %(removing)s; sửa %(modifying)s',
+		'interwiki-adding': u'Bot: Thêm %(adding)s',
+		'interwiki-adding-modifying': u'Bot: Thêm %(adding)s; sửa %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Thêm %(adding)s; dời %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Thêm %(adding)s; dời %(removing)s; sửa %(modifying)s',
+		'interwiki-modifying': u'Bot: Sửa %(modifying)s',
+		'interwiki-removing': u'Bot: Dời %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Dời %(removing)s; sửa %(modifying)s',
 	},
 	# Author: Hugo.arg
 	# Author: Xqt

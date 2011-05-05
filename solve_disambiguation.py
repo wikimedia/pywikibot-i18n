@@ -172,9 +172,12 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'ابهام زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]',
 		'solve_disambiguation-unknown-page': u'(نامعلوم)',
 	},
+	# Author: Olli
 	'fi': {
+		'solve_disambiguation-adding-dn-template': u'Bottiavusteinen täsmennyssivu: %(from)s - merkittiin huomiota tarvitsevaksi',
 		'solve_disambiguation-links-removed': u'Täsmennystä botin avulla: %(from)s - poistettiin linkkejä.',
 		'solve_disambiguation-links-resolved': u'Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bottiavusteinen täsmennyssivu: %(from)s - merkittiin huomiota tarvitsevaksi',
 		'solve_disambiguation-redirect-removed': u'Täsmennystä botin avulla: %(from)s - poistettiin linkkejä',
 		'solve_disambiguation-redirect-resolved': u'Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s',
 		'solve_disambiguation-unknown-page': u'(tuntematon)',
@@ -199,6 +202,16 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Homonimia solucionâ avouéc un robot : %(from)s - Retrèt du (des) lim(s)',
 		'solve_disambiguation-redirect-resolved': u'Homonimia solucionâ avouéc un robot : %(from)s - Changements du (des) lim(s) por %(to)s',
 		'solve_disambiguation-unknown-page': u'(encognu)',
+	},
+	# Author: Murma174
+	'frr': {
+		'solve_disambiguation-adding-dn-template': u'Bot-maaget ferklaarang: %(from)s - uunstregen, skal nuadag auerwerket wurd',
+		'solve_disambiguation-links-removed': u'Bot-maaget ferklaarang: %(from)s - Link(s) wechnimen',
+		'solve_disambiguation-links-resolved': u'Bot-maaget ferklaarang: %(from)s - Link(s) ütjbütjet mä %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot-maaget ferklaarang: %(from)s - uunstregen, skal nuadag auerwerket wurd',
+		'solve_disambiguation-redirect-removed': u'Bot-maaget widjerfeerangsapliasang: %(from)s - Link(s) wechnimen',
+		'solve_disambiguation-redirect-resolved': u'Bot-maaget widjerfeerangsapliasang: %(from)s - Link(s) ütjbütjet mä %(to)s',
+		'solve_disambiguation-unknown-page': u'(ei bekäänd)',
 	},
 	# Author: Klenje
 	'fur': {
@@ -234,13 +247,26 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'תיקון קישור לדף פירושונים באמצעות בוט: %(from)s שונה ל%(to)s',
 		'solve_disambiguation-unknown-page': u'(לא ידוע)',
 	},
+	# Author: Ex13
+	'hr': {
+		'solve_disambiguation-adding-dn-template': u'Razdvojba podržana od bota: %(from)s - označen kao potrebna stručna pozornost',
+		'solve_disambiguation-links-removed': u'Razdvojba podržana od bota: %(from)s - Uklonjena(ne) poveznica(ce)',
+		'solve_disambiguation-links-resolved': u'Razdvojba podržana od bota: %(from)s - Promijenjena(ne) poveznica(ce) u %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Razdvojba podržana od bota: %(from)s - označen kao potrebna stručna pozornost',
+		'solve_disambiguation-redirect-removed': u'Razdvojba podržan od bota: %(from)s - Uklonjena(ne) poveznica(ce)',
+		'solve_disambiguation-redirect-resolved': u'Razdvojba podržana od bota: %(from)s - Promijenjena(ne) poveznica(ce) u %(to)s',
+		'solve_disambiguation-unknown-page': u'(nepoznato)',
+	},
 	# Author: Michawiki
 	'hsb': {
 		'solve_disambiguation-unknown-page': u'[njeznaty]',
 	},
+	# Author: Dani
 	'hu': {
+		'solve_disambiguation-adding-dn-template': u'Bottal végzett egyértelműsítés: %(from)s – megjelölve, hogy szakértő figyelmét igényli',
 		'solve_disambiguation-links-removed': u'Bottal végzett egyértelműsítés: %(from)s – hivatkozások eltávolítása',
 		'solve_disambiguation-links-resolved': u'Bottal végzett egyértelműsítés: %(from)s –> %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bottal végzett egyértelműsítés: %(from)s – megjelölve, hogy szakértő figyelmét igényli',
 		'solve_disambiguation-redirect-removed': u'Bottal támogatott egyértelműsítés: %(from)s – hivatkozások eltávolítása',
 		'solve_disambiguation-redirect-resolved': u'Bottal végzett egyértelműsítés: %(from)s –> %(to)s',
 		'solve_disambiguation-unknown-page': u'(ismeretlen)',
@@ -288,6 +314,10 @@ msg = {
 		'solve_disambiguation-links-resolved': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s',
 		'solve_disambiguation-redirect-removed': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).',
 		'solve_disambiguation-redirect-resolved': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s',
+	},
+	# Author: វ័ណថារិទ្ធ
+	'km': {
+		'solve_disambiguation-unknown-page': u'(មិនស្គាល់)',
 	},
 	'ko': {
 		'solve_disambiguation-links-removed': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - 링크 제거',
@@ -355,6 +385,10 @@ msg = {
 	# Author: Praveenp
 	'ml': {
 		'solve_disambiguation-unknown-page': u'(അപരിചിതം)',
+	},
+	# Author: Htt
+	'mr': {
+		'solve_disambiguation-unknown-page': u'(अज्ञात)',
 	},
 	# Author: Kurniasan
 	# Author: Anakmalaysia
@@ -547,6 +581,15 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Länkar direkt till rätt artikel för: %(from)s - Bytte länk(ar) till %(to)s',
 		'solve_disambiguation-unknown-page': u'(okänd)',
 	},
+	# Author: செல்வா
+	'ta': {
+		'solve_disambiguation-adding-dn-template': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - வல்லுநர் தேவை என்று குறிக்கப்பெற்றது',
+		'solve_disambiguation-links-removed': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - link(s) தொடுப்புகள் நீக்கப்பட்டன',
+		'solve_disambiguation-links-resolved': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) தொடுப்புகள்  %(to)s உக்கு மாற்றப்பட்டன',
+		'solve_disambiguation-redirect-adding-dn-template': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - வல்லுநர் தேவை என்று குறிக்கப்பெற்றது',
+		'solve_disambiguation-redirect-removed': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) நீக்கப்பட்டன',
+		'solve_disambiguation-unknown-page': u'(அறியாதது)',
+	},
 	# Author: AnakngAraw
 	'tl': {
 		'solve_disambiguation-adding-dn-template': u'Paglilinaw na may tulong ng robot: %(from)s - Tinatakan bilang kailangan ng pagpansin ng dalubhasa',
@@ -592,12 +635,12 @@ msg = {
 	},
 	# Author: Minh Nguyen
 	'vi': {
-		'solve_disambiguation-adding-dn-template': u'Robot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
-		'solve_disambiguation-links-removed': u'Robot giúp định hướng: %(from)s – Dời liên kết',
-		'solve_disambiguation-links-resolved': u'Robot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
-		'solve_disambiguation-redirect-removed': u'Robot giúp định hướng: %(from)s – Dời liên kết',
-		'solve_disambiguation-redirect-resolved': u'Robot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Bot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
+		'solve_disambiguation-links-removed': u'Bot giúp định hướng: %(from)s – Dời liên kết',
+		'solve_disambiguation-links-resolved': u'Bot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý',
+		'solve_disambiguation-redirect-removed': u'Bot giúp định hướng: %(from)s – Dời liên kết',
+		'solve_disambiguation-redirect-resolved': u'Bot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s',
 		'solve_disambiguation-unknown-page': u'(không rõ)',
 	},
 	# Author: Malafaya
