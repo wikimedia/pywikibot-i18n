@@ -262,7 +262,7 @@ msg = {
 		'category-adding': u'Robot: A Śònt [[Category:%(newcat)s]]',
 	},
 	'en': {
-		'category-adding': u'Robot: Adding [[Category:%(newcat)s]]',
+		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(also in %(alsocat)s)',
 		'category-changing': u'Robot: Changing %(oldcat)s',
 		'category-listifying': u'Bot: Listifying from %(fromcat)s (%(num)d entries)',
@@ -884,7 +884,8 @@ msg = {
 	# Author: Valhallasw
 	# Author: Xqt
 	'qqq': {
-		'category-also-in': u'Translations to say that the current category is in more categories than the one we\'re coming from',
+		'category-adding': u'Do not change ":Category:%(newcat)s" so this message will work in any language.',
+		'category-also-in': u'Translations to say that the current category is in more categories than the one we are coming from',
 		'category-changing': u'Edit summary when the bot move pages from one category to another. <code>%(oldcat)s</code> is the source category, <code>%(newcat)s</code> the target.',
 	},
 	# Author: Xqt
