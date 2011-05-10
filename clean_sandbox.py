@@ -27,6 +27,9 @@ msg = {
 	'fi': {
 		'clean_sandbox-cleaned': u'Botti siivosi hiekkalaatikon.',
 	},
+	'gsw': {
+		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
+	},
 	'he': {
 		'clean_sandbox-cleaned': u'בוט: דף זה ינוקה אוטומטית.',
 	},
