@@ -264,7 +264,7 @@ msg = {
 	'en': {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(also in %(alsocat)s)',
-		'category-changing': u'Robot: Changing %(oldcat)s',
+		'category-changing': u'Robot: Changing %(oldcat)s to %(newcat)s',
 		'category-listifying': u'Bot: Listifying from %(fromcat)s (%(num)d entries)',
 		'category-removing': u'Bot: Removing from %(oldcat)s',
 		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
