@@ -35,8 +35,9 @@ msg = {
 		'replace-replacing': u'Robot automaticky nahradil text: %(description)s',
 	},
 	# Author: Xxglennxx
+	# Author: Lloffiwr
 	'cy': {
-		'replace-replacing': u'Bot: Amnewid testun awtomataidd %(description)s',
+		'replace-replacing': u'Bot: Yn amnewid testun yn awtomatig %(description)s',
 	},
 	# Author: Sarrus
 	'da': {
@@ -114,6 +115,10 @@ msg = {
 	'id': {
 		'replace-replacing': u'Bot: Penggantian teks otomatis %(description)s',
 	},
+	# Author: Renan
+	'ie': {
+		'replace-replacing': u'Machine: Substituition de textu automatizat %(description)s',
+	},
 	'is': {
 		'replace-replacing': u'Vélmenni: breyti texta %(description)s',
 	},
@@ -128,6 +133,10 @@ msg = {
 	},
 	'kk': {
 		'replace-replacing': u'Бот: Мәтінді өздікті алмастырды: %(description)s',
+	},
+	# Author: Cwt96
+	'ko': {
+		'replace-replacing': u'봇: 자동 텍스트 교체 %(description)s',
 	},
 	'ksh': {
 		'replace-replacing': u'Bot: hät outomatesch Täx jetuusch: %(description)s',
@@ -146,6 +155,14 @@ msg = {
 	},
 	'lt': {
 		'replace-replacing': u'robotas: Automatinis teksto keitimas %(description)s',
+	},
+	# Author: Karlis
+	'lv': {
+		'replace-replacing': u'Bots: Automātisks teksta aizvietojums %(description)s',
+	},
+	# Author: Luthfi94
+	'min': {
+		'replace-replacing': u'Bot: Panggantian teks otomatis %(description)s',
 	},
 	# Author: Bjankuloski06
 	'mk': {
@@ -213,6 +230,10 @@ msg = {
 	'sl': {
 		'replace-replacing': u'Bot: Samodejna zamenjava besedila %(description)s',
 	},
+	# Author: Vinie007
+	'sq': {
+		'replace-replacing': u'Bot: Automated text replacement %(description)s',
+	},
 	'sr': {
 		'replace-replacing': u'Бот: Аутоматска замена текста %(description)s',
 	},
@@ -240,8 +261,9 @@ msg = {
 		'replace-replacing': u'Bot: Otomatik metin değiştirme %(description)s',
 	},
 	# Author: Ильнар
+	# Author: Zahidulla
 	'tt-cyrl': {
-		'replace-replacing': u'Робот: %(description)s текстын автомат алмаштыру',
+		'replace-replacing': u'Робот: %(description)s текстын автоматик рәвештә алмаштыру',
 	},
 	'uk': {
 		'replace-replacing': u'Бот: Автоматизована заміна тексту: %(description)s',

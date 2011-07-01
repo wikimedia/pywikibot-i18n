@@ -74,8 +74,11 @@ msg = {
 		'interwiki-adding-removing-modifying': u'تزويد روبوت: %(adding)s مسح: %(removing)s تحوير: %(modifying)s',
 	},
 	# Author: Jaminianurag
+	# Author: Xqt
 	'as': {
+		'interwiki-adding': u'ৰবট যোগ দিছে :%(adding)s',
 		'interwiki-adding-modifying': u'ৰবট যোগ দিছে :%(adding)s পৰিবৰ্তন কৰিছে: %(modifying)s',
+		'interwiki-modifying': u'ৰবট পৰিবৰ্তন কৰিছে: %(modifying)s',
 	},
 	# Author: Hugo.arg
 	# Author: Xqt
@@ -954,6 +957,16 @@ msg = {
 		'interwiki-removing': u'he karetao e tango ana: %(removing)s',
 		'interwiki-removing-modifying': u'he karetao e tango ana: %(removing)s e whakarerekē ana: %(modifying)s',
 	},
+	# Author: Luthfi94
+	'min': {
+		'interwiki-adding': u'bot Manambah: %(adding)s',
+		'interwiki-adding-modifying': u'bot Manambah: %(adding)s Maubah: %(modifying)s',
+		'interwiki-adding-removing': u'bot Manambah: %(adding)s Mambuang: %(removing)s',
+		'interwiki-adding-removing-modifying': u'bot Manambah: %(adding)s Mambuang: %(removing)s Maubah: %(modifying)s',
+		'interwiki-modifying': u'bot Maubah: %(modifying)s',
+		'interwiki-removing': u'bot Mambuang: %(removing)s',
+		'interwiki-removing-modifying': u'bot Mambuang: %(removing)s Maubah: %(modifying)s',
+	},
 	'mk': {
 		'interwiki-adding': u'Бот Додава: %(adding)s',
 		'interwiki-adding-modifying': u'Бот Додава: %(adding)s Менува: %(modifying)s',
@@ -1171,14 +1184,15 @@ msg = {
 		'interwiki-removing': u'Robòt Tirar: %(removing)s',
 		'interwiki-removing-modifying': u'Robòt Tirar: %(removing)s Modificar: %(modifying)s',
 	},
+	# Author: Bouron
 	'os': {
-		'interwiki-adding': u'Робот баххæст кодта: %(adding)s',
-		'interwiki-adding-modifying': u'Робот баххæст кодта: %(adding)s Аиуварс: %(modifying)s',
-		'interwiki-adding-removing': u'Робот баххæст кодта: %(adding)s Баивта: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Робот баххæст кодта: %(adding)s Баивта: %(removing)s Аиуварс: %(modifying)s',
-		'interwiki-modifying': u'Робот Аиуварс: %(modifying)s',
-		'interwiki-removing': u'Робот Баивта: %(removing)s',
-		'interwiki-removing-modifying': u'Робот Баивта: %(removing)s Аиуварс: %(modifying)s',
+		'interwiki-adding': u'Робот бавæрдта: %(adding)s',
+		'interwiki-adding-modifying': u'робот бавæрдта: %(adding)s фæивта: %(modifying)s',
+		'interwiki-adding-removing': u'Робот бавæрдта: %(adding)s схафта: %(removing)s',
+		'interwiki-adding-removing-modifying': u'робот бавæрдта: %(adding)s схафта: %(removing)s фæивта: %(modifying)s',
+		'interwiki-modifying': u'робот фæивта: %(modifying)s',
+		'interwiki-removing': u'робот схафта: %(removing)s',
+		'interwiki-removing-modifying': u'робот схафта: %(removing)s фæивта: %(modifying)s',
 	},
 	# Author: Hugo.arg
 	# Author: Xqt

@@ -25,6 +25,10 @@ msg = {
 	'be-tarask': {
 		'isbn-formatting': u'Робат: фарматаваньне ISBN',
 	},
+	# Author: DCLXVI
+	'bg': {
+		'isbn-formatting': u'Робот: Форматиране на ISBN',
+	},
 	# Author: Wikitanvir
 	# Author: Bellayet
 	'bn': {
@@ -47,8 +51,9 @@ msg = {
 		'isbn-formatting': u'Robot: Formátování ISBN',
 	},
 	# Author: Xxglennxx
+	# Author: Lloffiwr
 	'cy': {
-		'isbn-formatting': u'Robot: Yn fformatio\'r ISBN',
+		'isbn-formatting': u'Robot: Yn fformatio\'r rhif ISBN',
 	},
 	# Author: Peter Alberti
 	'da': {
@@ -131,6 +136,10 @@ msg = {
 	'id': {
 		'isbn-formatting': u'Bot: Memformat ISBN',
 	},
+	# Author: Renan
+	'ie': {
+		'isbn-formatting': u'Machine: Formatant ISBN',
+	},
 	# Author: Beta16
 	'it': {
 		'isbn-formatting': u'Bot: Formatto ISBN',
@@ -158,9 +167,21 @@ msg = {
 	'lt': {
 		'isbn-formatting': u'Robotas: Formatuojamas ISBN',
 	},
+	# Author: Karlis
+	'lv': {
+		'isbn-formatting': u'Robots: ISBN formatējums',
+	},
+	# Author: Luthfi94
+	'min': {
+		'isbn-formatting': u'Bot: Mamformat ISBN',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'isbn-formatting': u'Робот: Форматирам ISBN',
+	},
+	# Author: Htt
+	'mr': {
+		'isbn-formatting': u'सांगकाम्या: आयएसबीएन स्वरूपण',
 	},
 	# Author: Kurniasan
 	'ms': {
@@ -178,6 +199,10 @@ msg = {
 	'nds': {
 		'isbn-formatting': u'Bot: ISBN-Format',
 	},
+	# Author: Servien
+	'nds-nl': {
+		'isbn-formatting': u'Bot: ISBN op-emaak',
+	},
 	# Author: RajeshPandey
 	'ne': {
 		'isbn-formatting': u'रोबोट: ISBN मिलाउँदै',
@@ -193,6 +218,10 @@ msg = {
 	'no': {
 		'isbn-formatting': u'robot: Formaterer ISBN',
 	},
+	# Author: Bouron
+	'os': {
+		'isbn-formatting': u'Робот: фæивта ISBN',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'isbn-formatting': u'Robot sformatował numer ISBN',
@@ -207,8 +236,9 @@ msg = {
 		'isbn-formatting': u'Robô: Formatando ISBN',
 	},
 	# Author: Xqt
+	# Author: Lloffiwr
 	'qqq': {
-		'isbn-formatting': u'Edit summary when the bot fixes ISBN number formatting.',
+		'isbn-formatting': u'Edit summary when the bot fixes [http://en.wikipedia.org/wiki/International_Standard_Book_Number ISBN] number formatting.',
 	},
 	# Author: Minisarm
 	'ro': {
@@ -229,6 +259,10 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'isbn-formatting': u'Robot: Oblikovanje ISBN',
+	},
+	# Author: Vinie007
+	'sq': {
+		'isbn-formatting': u'Robot: ISBN Formatimi',
 	},
 	# Author: Rancher
 	'sr-ec': {
@@ -256,12 +290,14 @@ msg = {
 	},
 	# Author: Emperyan
 	# Author: Vito Genovese
+	# Author: Stultiwikia
 	'tr': {
-		'isbn-formatting': u'Robot: ISBN biçimleniyor',
+		'isbn-formatting': u'Robot: ISBN biçimlendiriliyor',
 	},
 	# Author: Ильнар
+	# Author: Zahidulla
 	'tt-cyrl': {
-		'isbn-formatting': u'Робот: ISBN үзләштерү',
+		'isbn-formatting': u'Робот: ISBN үзгәртеп кору',
 	},
 	# Author: Тест
 	'uk': {
@@ -270,6 +306,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'isbn-formatting': u'Bot: Định dạng ISBN',
+	},
+	# Author: פוילישער
+	'yi': {
+		'isbn-formatting': u'באט: פֿארמאַטירן ISBN',
 	},
 	'zh': {
 		'isbn-formatting': u'機器人：ISBN格式化',

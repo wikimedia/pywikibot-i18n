@@ -11,6 +11,10 @@ msg = {
 	'ast': {
 		'basic-changing': u'Bot: Camudando ...',
 	},
+	# Author: Xqt
+	'bar': {
+		'basic-changing': u'Bot: Obàsse ...',
+	},
 	# Author: EugeneZelenko
 	'be-tarask': {
 		'basic-changing': u'Робат: зьмяніў…',
@@ -37,6 +41,10 @@ msg = {
 	},
 	'cs': {
 		'basic-changing': u'Robot změnil ...',
+	},
+	# Author: Lloffiwr
+	'cy': {
+		'basic-changing': u'Bot: Yn newid ...',
 	},
 	# Author: Sarrus
 	'da': {
@@ -69,6 +77,10 @@ msg = {
 	},
 	'fr': {
 		'basic-changing': u'Robot: Changé ...',
+	},
+	# Author: ChrisPtDe
+	'frp': {
+		'basic-changing': u'Robot : Changiê ...',
 	},
 	# Author: Murma174
 	'frr': {
@@ -106,6 +118,14 @@ msg = {
 	'id': {
 		'basic-changing': u'Bot: Mengganti ...',
 	},
+	# Author: Renan
+	'ie': {
+		'basic-changing': u'Machine: Alterant...',
+	},
+	# Author: Sapral Mikail
+	'inh': {
+		'basic-changing': u'БIат: хийцай ...',
+	},
 	# Author: Pietrodn
 	'it': {
 		'basic-changing': u'Bot: Modifica ...',
@@ -117,8 +137,16 @@ msg = {
 	'km': {
 		'basic-changing': u'Bot: កំពុងផ្លាស់ប្ដូរ ...',
 	},
+	# Author: Cwt96
+	'ko': {
+		'basic-changing': u'봇 : 수정중...',
+	},
 	'ksh': {
 		'basic-changing': u'Bot: Änderung ...',
+	},
+	# Author: UV
+	'la': {
+		'basic-changing': u'automaton: mutans ...',
 	},
 	# Author: Robby
 	'lb': {
@@ -128,9 +156,21 @@ msg = {
 	'li': {
 		'basic-changing': u'Robot: verangering ...',
 	},
+	# Author: Eitvys200
+	'lt': {
+		'basic-changing': u'Robotas: keitimas...',
+	},
 	# Author: GreenZeb
 	'lv': {
 		'basic-changing': u'Bots: Izmainu',
+	},
+	# Author: Vinitutpal
+	'mai': {
+		'basic-changing': u'बॉट: बदलि रहल अछि ...',
+	},
+	# Author: Luthfi94
+	'min': {
+		'basic-changing': u'Bot: Maganti ...',
 	},
 	# Author: Bjankuloski06
 	'mk': {
@@ -148,8 +188,16 @@ msg = {
 	'my': {
 		'basic-changing': u'ဘော့ - ပြောင်းနေသည်...',
 	},
+	# Author: محک
+	'mzn': {
+		'basic-changing': u'ربوت: تغییر ...',
+	},
 	'nds': {
 		'basic-changing': u'Bot: Ännern ...',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'basic-changing': u'Bot: wieziging ...',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -174,12 +222,20 @@ msg = {
 	'pt-br': {
 		'basic-changing': u'Robô: Alterando ...',
 	},
+	# Author: Firilacroco
+	'ro': {
+		'basic-changing': u'Robot: Schimb ...',
+	},
 	'ru': {
 		'basic-changing': u'Бот: изменил ...',
 	},
 	# Author: Dbc334
 	'sl': {
 		'basic-changing': u'Bot: Spreminjanje ...',
+	},
+	# Author: Vinie007
+	'sq': {
+		'basic-changing': u'Bot: Ndryshimi ...',
 	},
 	# Author: Rancher
 	'sr-ec': {
@@ -205,12 +261,13 @@ msg = {
 		'basic-changing': u'Bot: Binabago ...',
 	},
 	# Author: Emperyan
+	# Author: Stultiwikia
 	'tr': {
-		'basic-changing': u'Bot: Değiştiriliyor...',
+		'basic-changing': u'Bot: Değiştiriliyor ...',
 	},
 	# Author: Zahidulla
 	'tt-cyrl': {
-		'basic-changing': u'Робот: Үзгәртте ...',
+		'basic-changing': u'Робот: үзгәртте ...',
 	},
 	'uk': {
 		'basic-changing': u'Бот: змінив ...',

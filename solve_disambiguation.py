@@ -25,6 +25,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
 		'solve_disambiguation-unknown-page': u'(غير معروف)',
 	},
+	# Author: Basharh
+	'arc': {
+		'solve_disambiguation-unknown-page': u'(ܠܐ ܝܕܝܥܐ)',
+	},
 	# Author: Xuacu
 	'ast': {
 		'solve_disambiguation-adding-dn-template': u'Dixebra asistida por robot: %(from)s - Marcada pa pidir l\'atención d\'un espertu',
@@ -97,13 +101,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(neznámé)',
 	},
 	# Author: Xxglennxx
+	# Author: Lloffiwr
 	'cy': {
-		'solve_disambiguation-adding-dn-template': u'Gwahaniaethu gyda chymorth robot: %(from)s - Marcir ar gyfer sylw arbenigwr',
-		'solve_disambiguation-links-removed': u'Gwahaniaethu gyda chymorth robot: %(from)s - Dolenni a dynnwyd.',
-		'solve_disambiguation-links-resolved': u'Gwahaniaethu gyda chymorth robot: %(from)s - Dolenni a newidiwyd i %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Gwahaniaethu gyda chymorth robot: %(from)s - Marcir ar gyfer sylw arbenigwr',
+		'solve_disambiguation-adding-dn-template': u'Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Nodwyd at sylw arbenigwr',
+		'solve_disambiguation-links-removed': u'Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Tynnwyd dolenni.',
+		'solve_disambiguation-links-resolved': u'Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Newidiwyd dolenni i %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Nodwyd at sylw arbenigwr',
 		'solve_disambiguation-redirect-removed': u'Gwahaniaethu gyda chymorth robot: %(from)s - Dolenni a dynnwyd',
-		'solve_disambiguation-redirect-resolved': u'Gwahaniaethu gyda chymorth robot: %(from)s - Dolenni a newidiwyd i %(to)s',
+		'solve_disambiguation-redirect-resolved': u'Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Newidiwyd dolenni i %(to)s',
 		'solve_disambiguation-unknown-page': u'(anhysbys)',
 	},
 	# Author: Sarrus
@@ -173,11 +178,12 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(نامعلوم)',
 	},
 	# Author: Olli
+	# Author: Silvonen
 	'fi': {
-		'solve_disambiguation-adding-dn-template': u'Bottiavusteinen täsmennyssivu: %(from)s - merkittiin huomiota tarvitsevaksi',
+		'solve_disambiguation-adding-dn-template': u'Täsmennystä botin avulla: %(from)s - merkittiin huomiota tarvitsevaksi',
 		'solve_disambiguation-links-removed': u'Täsmennystä botin avulla: %(from)s - poistettiin linkkejä.',
 		'solve_disambiguation-links-resolved': u'Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Bottiavusteinen täsmennyssivu: %(from)s - merkittiin huomiota tarvitsevaksi',
+		'solve_disambiguation-redirect-adding-dn-template': u'Täsmennystä botin avulla: %(from)s - merkittiin huomiota tarvitsevaksi',
 		'solve_disambiguation-redirect-removed': u'Täsmennystä botin avulla: %(from)s - poistettiin linkkejä',
 		'solve_disambiguation-redirect-resolved': u'Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s',
 		'solve_disambiguation-unknown-page': u'(tuntematon)',
@@ -291,10 +297,27 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Disambiguasi berbantuan bot: %(from)s - Tautan diubah menjadi %(to)s',
 		'solve_disambiguation-unknown-page': u'(tidak dikenal)',
 	},
+	# Author: Renan
+	'ie': {
+		'solve_disambiguation-adding-dn-template': u'Disambiguiton auxiliat per machine: %(from)s - Marcat quam necessitant de atention special',
+		'solve_disambiguation-links-removed': u'Disambiguiton auxiliat per machine: %(from)s - Catenun(es) removet.',
+		'solve_disambiguation-links-resolved': u'Disambiguition auxiliat per machine: %(from)s - Catenun(es) changet por %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Disambiguition auxiliat per machine: %(from)s - Marcat quam necessitant de atention special',
+		'solve_disambiguation-redirect-removed': u'Disambiguition auxiliat per machine: %(from)s - Catenun(es) removet',
+		'solve_disambiguation-redirect-resolved': u'Disambiguition auxiliat per machine: %(from)s - Catenun(es) changet por %(to)s',
+		'solve_disambiguation-unknown-page': u'(desconosset)',
+	},
+	# Author: Sapral Mikail
+	'inh': {
+		'solve_disambiguation-unknown-page': u'(довзаш дац)',
+	},
 	# Author: Beta16
+	# Author: Rippitippi
 	'it': {
+		'solve_disambiguation-adding-dn-template': u'La disambiguazione mediante bot: %(from)s -  Deve essere controllata',
 		'solve_disambiguation-links-removed': u'Sistemazione automatica della disambigua: %(from)s - Collegamenti rimossi',
 		'solve_disambiguation-links-resolved': u'Sistemazione automatica della disambigua: %(from)s - Inversione di redirect %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'La disambiguazione mediante bot: %(from)s -  Deve essere controllata',
 		'solve_disambiguation-redirect-removed': u'Sistemazione automatica del redirect: %(from)s - Collegamenti rimossi',
 		'solve_disambiguation-redirect-resolved': u'Sistemazione automatica del redirect: %(from)s - Inversione di redirect %(to)s',
 		'solve_disambiguation-unknown-page': u'(sconosciuto)',
@@ -319,11 +342,13 @@ msg = {
 	'km': {
 		'solve_disambiguation-unknown-page': u'(មិនស្គាល់)',
 	},
+	# Author: Ricolyuki
 	'ko': {
 		'solve_disambiguation-links-removed': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - 링크 제거',
 		'solve_disambiguation-links-resolved': u'로봇의 도움을 받아 동음이의 처리 : [[%(from)s]] - %(to)s 문서로 링크 걸음',
 		'solve_disambiguation-redirect-removed': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - 링크 제거',
 		'solve_disambiguation-redirect-resolved': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - %(to)s 문서로 링크 걸음',
+		'solve_disambiguation-unknown-page': u'(알 수 없음)',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -338,6 +363,10 @@ msg = {
 	# Author: George Animal
 	'ku-latn': {
 		'solve_disambiguation-unknown-page': u'(nenas)',
+	},
+	# Author: MissPetticoats
+	'la': {
+		'solve_disambiguation-unknown-page': u'(ignotus)',
 	},
 	# Author: Robby
 	'lb': {
@@ -371,6 +400,16 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Fanitsiana rohy mankany amin\'ny fihodinana %(from)s - rohy voala',
 		'solve_disambiguation-redirect-resolved': u'Fanitsiana rohy mankany amin\'ny fihodinana : %(from)s - Fanovana rohy ho an\'i %(to)s',
 		'solve_disambiguation-unknown-page': u'(tsy fantatra)',
+	},
+	# Author: Luthfi94
+	'min': {
+		'solve_disambiguation-adding-dn-template': u'Disambiguasi babantuan bot: %(from)s - Paralu parhatian pakar',
+		'solve_disambiguation-links-removed': u'Disambiguasi babantuan bot: %(from)s - Tautan dihapuih',
+		'solve_disambiguation-links-resolved': u'Disambiguasi babantuan bot: %(from)s - Tautan diubah manjadi %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Disambiguasi babantuan bot: %(from)s - Paralu parhatian pakar',
+		'solve_disambiguation-redirect-removed': u'Disambiguasi babantuan bot: %(from)s - Tautan dihapuih',
+		'solve_disambiguation-redirect-resolved': u'Disambiguasi babantuan bot: %(from)s - Tautan diubah manjadi %(to)s',
+		'solve_disambiguation-unknown-page': u'(indak dikenal)',
 	},
 	# Author: Bjankuloski06
 	'mk': {
@@ -465,6 +504,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'bot: Endrer omdirigeringslenke: %(from)s - Endret lenke(r) til %(to)s',
 		'solve_disambiguation-unknown-page': u'(ukjent)',
 	},
+	# Author: Bouron
+	'os': {
+		'solve_disambiguation-unknown-page': u'(нæзонгæ)',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'solve_disambiguation-adding-dn-template': u'Wspomagane robotem ujednoznacznienie – %(from)s – oznaczone jako wymagające uwagi eksperta',
@@ -544,6 +587,16 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Razločitev s pomočjo robota: %(from)s – Sprememba povezav v %(to)s',
 		'solve_disambiguation-unknown-page': u'(neznano)',
 	},
+	# Author: Vinie007
+	'sq': {
+		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
+		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
+		'solve_disambiguation-links-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
+		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
+		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
+		'solve_disambiguation-unknown-page': u'e panjohur',
+	},
 	'sr': {
 		'solve_disambiguation-links-removed': u'Решавање вишезначних одредница помоћу бота: %(from)s - Removed link(s)',
 		'solve_disambiguation-links-resolved': u'Решавање вишезначних одредница помоћу бота: %(from)s - Changed link(s) to %(to)s',
@@ -602,12 +655,13 @@ msg = {
 	},
 	# Author: Emperyan
 	# Author: Vito Genovese
+	# Author: Stultiwikia
 	'tr': {
-		'solve_disambiguation-adding-dn-template': u'Robot destekli anlam ayrımı: %(from)s - Uzman ilgisine ihtiyaç duyduğuna dair işaretleme gerçekleştirildi',
-		'solve_disambiguation-links-removed': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı.',
+		'solve_disambiguation-adding-dn-template': u'Robot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi',
+		'solve_disambiguation-links-removed': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı',
 		'solve_disambiguation-links-resolved': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robot destekli anlam ayrımı: %(from)s - Uzman ilgisine ihtiyaç duyduğuna dair işaretleme gerçekleştirildi',
-		'solve_disambiguation-redirect-removed': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı.',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi',
+		'solve_disambiguation-redirect-removed': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı',
 		'solve_disambiguation-redirect-resolved': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi',
 		'solve_disambiguation-unknown-page': u'(bilinmiyor)',
 	},

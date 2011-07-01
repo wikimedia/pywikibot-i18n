@@ -67,6 +67,11 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetické úpravy',
 		'cosmetic_changes-standalone': u'Robotické: kosmetické úpravy',
 	},
+	# Author: Lloffiwr
+	'cy': {
+		'cosmetic_changes-append': u'; Newidiadau i ymddangosiad y dudalen',
+		'cosmetic_changes-standalone': u'Robot: Newidiadau i ymddangosiad y dudalen',
+	},
 	'da': {
 		'cosmetic_changes-append': u'; kosmetiske ændringer',
 		'cosmetic_changes-standalone': u'Bot: Kosmetiske ændringer',
@@ -107,6 +112,11 @@ msg = {
 	'fr': {
 		'cosmetic_changes-append': u'; changement de type cosmétique',
 		'cosmetic_changes-standalone': u'Robot : Changement de type cosmétique',
+	},
+	# Author: ChrisPtDe
+	'frp': {
+		'cosmetic_changes-append': u'; changement de tipo cosmètico',
+		'cosmetic_changes-standalone': u'Robot : Changement de tipo cosmètico',
 	},
 	'frr': {
 		'cosmetic_changes-append': u'; kosmeetisk feranerangen',
@@ -149,9 +159,15 @@ msg = {
 		'cosmetic_changes-append': u'; cambios cosmetic',
 		'cosmetic_changes-standalone': u'Robot: Cambios cosmetic',
 	},
+	# Author: Kenrick95
 	'id': {
 		'cosmetic_changes-append': u'; kosmetik perubahan',
-		'cosmetic_changes-standalone': u'bot kosmetik perubahan',
+		'cosmetic_changes-standalone': u'Robot: Perubahan kosmetika',
+	},
+	# Author: Renan
+	'ie': {
+		'cosmetic_changes-append': u'; changes cosmetic',
+		'cosmetic_changes-standalone': u'Machine: Changes cosmetic',
 	},
 	'it': {
 		'cosmetic_changes-append': u'; modifiche estetiche',
@@ -192,6 +208,11 @@ msg = {
 		'cosmetic_changes-append': u'; kosmētiskās izmaiņas',
 		'cosmetic_changes-standalone': u'robots kosmētiskās izmaiņas',
 	},
+	# Author: Luthfi94
+	'min': {
+		'cosmetic_changes-append': u'; kosmetik parubahan',
+		'cosmetic_changes-standalone': u'Robot: Parubahan kosmetika',
+	},
 	'mk': {
 		'cosmetic_changes-append': u'; козметички промени',
 		'cosmetic_changes-standalone': u'Бот: козметички промени',
@@ -208,6 +229,11 @@ msg = {
 	'nds': {
 		'cosmetic_changes-append': u'; kosmeetsch Ännern',
 		'cosmetic_changes-standalone': u'Bot: kosmeetsch Ännern',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'cosmetic_changes-append': u'; cosmetische wiezigingen',
+		'cosmetic_changes-standalone': u'Robot: cosmetische wiezigingen',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -246,7 +272,7 @@ msg = {
 	},
 	# Author: Xqt
 	'qqq': {
-		'cosmetic_changes-append': u'Summary message  that will be appended to the normal edit summary when cosmetic changes are made on the fly',
+		'cosmetic_changes-append': u'Summary message that will be appended to the normal edit summary when cosmetic changes are made on the fly.\n\n"Cosmetic changes" here means changes to the appearance of the page only, without any changes to the substance of the page.',
 		'cosmetic_changes-standalone': u'Summary message when the bot using cosmetic changes as a stand-alone script',
 	},
 	'ro': {
@@ -264,6 +290,11 @@ msg = {
 	'sl': {
 		'cosmetic_changes-append': u'; kozmetične spremembe',
 		'cosmetic_changes-standalone': u'robot kozmetične spremembe',
+	},
+	# Author: Vinie007
+	'sq': {
+		'cosmetic_changes-append': u'; Ndryshime kozmetike',
+		'cosmetic_changes-standalone': u'Robot: ndryshime kozmetike',
 	},
 	'sr': {
 		'cosmetic_changes-append': u'; козметичке промене',
@@ -305,14 +336,15 @@ msg = {
 		'cosmetic_changes-append': u'; Kosmetiko pagbabago',
 		'cosmetic_changes-standalone': u'robot Kosmetiko pagbabago',
 	},
+	# Author: Stultiwikia
 	'tr': {
-		'cosmetic_changes-append': u'; Kozmetik değişiklikler',
-		'cosmetic_changes-standalone': u'Bot Kozmetik değişiklikler',
+		'cosmetic_changes-append': u'; kozmetik değişiklikler',
+		'cosmetic_changes-standalone': u'Robot: Kozmetik değişiklikler',
 	},
 	# Author: Zahidulla
 	'tt-cyrl': {
 		'cosmetic_changes-append': u'; косметик үзгәртүләр',
-		'cosmetic_changes-standalone': u'Робот: Косметик үзгәртүләр',
+		'cosmetic_changes-standalone': u'Робот: косметик үзгәртүләр',
 	},
 	'uk': {
 		'cosmetic_changes-append': u'; косметичні зміни',
