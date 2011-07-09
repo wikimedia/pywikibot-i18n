@@ -19,7 +19,7 @@ msg = {
                 'commons-file-now-available' : u'اینک پرونده در ویکی‌انبار قابل دسترسی است.',
 	},
         'he': {
-                'commons-file-now-available' : u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+                'commons-file-now-available' : u'הקובץ זמין כעת בוויקישיתוף.',
 	},
         'hu': {
                 'commons-file-moved' : u'[[:File:%(localfile)s|Kép]] átmozgatva a [[:commons:File:%(commonsfile)s|Commons]]ba.',
