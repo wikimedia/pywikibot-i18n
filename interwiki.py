@@ -109,14 +109,15 @@ msg = {
 		'interwiki-removing': u'робот юйҙы: %(removing)s',
 		'interwiki-removing-modifying': u'робот юйҙы: %(removing)s үҙгәртте: %(modifying)s',
 	},
+	# Author: Mucalexx
 	'bar': {
-		'interwiki-adding': u'Boterl: Aini: %(adding)s',
-		'interwiki-adding-modifying': u'Boterl: Aini: %(adding)s Obàsst: %(modifying)s',
-		'interwiki-adding-removing': u'Boterl: Aini: %(adding)s Aussi: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Boterl: Aini: %(adding)s Aussi: %(removing)s Obàsst: %(modifying)s',
-		'interwiki-modifying': u'Boterl: Obàsst: %(modifying)s',
-		'interwiki-removing': u'Boterl: Aussi: %(removing)s',
-		'interwiki-removing-modifying': u'Boterl: Aussi: %(removing)s Obàsst: %(modifying)s',
+		'interwiki-adding': u'Bot: Ergänz: %(adding)s',
+		'interwiki-adding-modifying': u'Bot: Ergänz: %(adding)s; änderd: %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Ergänz: %(adding)s; entfern: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Ergänz: %(adding)s; entfern: %(removing)s; änderd: %(modifying)s',
+		'interwiki-modifying': u'Bot: Änderd: %(modifying)s',
+		'interwiki-removing': u'Bot: Entfern: %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Entfern: %(removing)s; änderd: %(modifying)s',
 	},
 	'bat-smg': {
 		'interwiki-adding': u'robots Pridedama: %(adding)s',
@@ -332,14 +333,15 @@ msg = {
 		'interwiki-removing': u'robot Fjerner: %(removing)s',
 		'interwiki-removing-modifying': u'robot Fjerner: %(removing)s Ændrer: %(modifying)s',
 	},
+	# Author: Xqt
 	'de': {
 		'interwiki-adding': u'Bot: Ergänze: %(adding)s',
-		'interwiki-adding-modifying': u'Bot: Ergänze: %(adding)s Ändere: %(modifying)s',
-		'interwiki-adding-removing': u'Bot: Ergänze: %(adding)s Entferne: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot: Ergänze: %(adding)s Entferne: %(removing)s Ändere: %(modifying)s',
+		'interwiki-adding-modifying': u'Bot: Ergänze: %(adding)s; ändere: %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s; ändere: %(modifying)s',
 		'interwiki-modifying': u'Bot: Ändere: %(modifying)s',
 		'interwiki-removing': u'Bot: Entferne: %(removing)s',
-		'interwiki-removing-modifying': u'Bot: Entferne: %(removing)s Ändere: %(modifying)s',
+		'interwiki-removing-modifying': u'Bot: Entferne: %(removing)s; ändere: %(modifying)s',
 	},
 	'dv': {
 		'interwiki-adding': u'ރޮބޮޓ އިތުރު ކުރުނ: %(adding)s',
@@ -900,6 +902,10 @@ msg = {
 		'interwiki-removing': u'robotas Šalinama: %(removing)s',
 		'interwiki-removing-modifying': u'robotas Šalinama: %(removing)s Keičiama: %(modifying)s',
 	},
+	# Author: Dark Eagle
+	'ltg': {
+		'interwiki-adding': u'robots dalika: %(adding)s',
+	},
 	'lv': {
 		'interwiki-adding': u'robots pievieno: %(adding)s',
 		'interwiki-adding-modifying': u'robots pievieno: %(adding)s izmaina: %(modifying)s',
@@ -1303,14 +1309,15 @@ msg = {
 	},
 	# Author: Hugo.arg
 	# Author: Xqt
+	# Author: Kazu89
 	'rm': {
-		'interwiki-adding': u'Bot Agiunt: %(adding)s',
-		'interwiki-adding-modifying': u'Bot Agiunt: %(adding)s Midà: %(modifying)s',
-		'interwiki-adding-removing': u'Bot Agiunt: %(adding)s Stizzà: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot Agiunt: %(adding)s Stizzà: %(removing)s Midà: %(modifying)s',
-		'interwiki-modifying': u'Bot Midà: %(modifying)s',
-		'interwiki-removing': u'Bot Stizzà: %(removing)s',
-		'interwiki-removing-modifying': u'Bot Stizzà: %(removing)s Midà: %(modifying)s',
+		'interwiki-adding': u'Bot: Agiunt: %(adding)s',
+		'interwiki-adding-modifying': u'Bot: Agiunt: %(adding)s Midà: %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Agiunt: %(adding)s Stizzà: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Agiunt: %(adding)s Stizzà: %(removing)s Midà: %(modifying)s',
+		'interwiki-modifying': u'Bot: Midà: %(modifying)s',
+		'interwiki-removing': u'Bot: Stizzà: %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Stizzà: %(removing)s Midà: %(modifying)s',
 	},
 	'ro': {
 		'interwiki-adding': u'Robot interwiki: Adăugat: %(adding)s',

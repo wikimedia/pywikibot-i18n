@@ -23,6 +23,11 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetik dəyişmələr',
 		'cosmetic_changes-standalone': u'Robot: Kosmetik dəyişmələr',
 	},
+	# Author: Mucalexx
+	'bar': {
+		'cosmetic_changes-append': u'; kósmeetische Änderrungen',
+		'cosmetic_changes-standalone': u'Bot: Kósmeetische Änderrungen',
+	},
 	# Author: LexArt
 	'be': {
 		'cosmetic_changes-append': u'; дробныя змены',
@@ -105,9 +110,10 @@ msg = {
 		'cosmetic_changes-append': u'; زیباسازی',
 		'cosmetic_changes-standalone': u'ربات: زیباسازی',
 	},
+	# Author: Crt
 	'fi': {
 		'cosmetic_changes-append': u'; kosmeettisia muutoksia',
-		'cosmetic_changes-standalone': u'Botti kosmeettisia muutoksia',
+		'cosmetic_changes-standalone': u'Botti teki kosmeettisia muutoksia',
 	},
 	'fr': {
 		'cosmetic_changes-append': u'; changement de type cosmétique',
@@ -168,6 +174,11 @@ msg = {
 	'ie': {
 		'cosmetic_changes-append': u'; changes cosmetic',
 		'cosmetic_changes-standalone': u'Machine: Changes cosmetic',
+	},
+	# Author: Ukabia
+	'ig': {
+		'cosmetic_changes-append': u'; mgbanwe na ihü',
+		'cosmetic_changes-standalone': u'Rọbọt: Mgbanwe na ihü',
 	},
 	'it': {
 		'cosmetic_changes-append': u'; modifiche estetiche',
@@ -282,6 +293,11 @@ msg = {
 	'ru': {
 		'cosmetic_changes-append': u'; косметические изменения',
 		'cosmetic_changes-standalone': u'робот косметические изменения',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'cosmetic_changes-append': u'; cosmetic chynges',
+		'cosmetic_changes-standalone': u'Robot: Cosmetic chynges',
 	},
 	'sk': {
 		'cosmetic_changes-append': u'; kozmetické zmeny',

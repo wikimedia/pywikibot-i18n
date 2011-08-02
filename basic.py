@@ -12,8 +12,9 @@ msg = {
 		'basic-changing': u'Bot: Camudando ...',
 	},
 	# Author: Xqt
+	# Author: Mucalexx
 	'bar': {
-		'basic-changing': u'Bot: Obàsse ...',
+		'basic-changing': u'Bot: Åpassen ...',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -72,8 +73,9 @@ msg = {
 		'basic-changing': u'ربات: تغییر ...',
 	},
 	# Author: Olli
+	# Author: Crt
 	'fi': {
-		'basic-changing': u'Botti: Muutetaan ...',
+		'basic-changing': u'Botti: Muutetaan...',
 	},
 	'fr': {
 		'basic-changing': u'Robot: Changé ...',
@@ -121,6 +123,10 @@ msg = {
 	# Author: Renan
 	'ie': {
 		'basic-changing': u'Machine: Alterant...',
+	},
+	# Author: Ukabia
+	'ig': {
+		'basic-changing': u'Bot: Na gbanwe ...',
 	},
 	# Author: Sapral Mikail
 	'inh': {
@@ -228,6 +234,10 @@ msg = {
 	},
 	'ru': {
 		'basic-changing': u'Бот: изменил ...',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'basic-changing': u'Bot: Chyngin\' ...',
 	},
 	# Author: Dbc334
 	'sl': {

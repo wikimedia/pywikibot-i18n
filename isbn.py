@@ -17,6 +17,10 @@ msg = {
 	'ast': {
 		'isbn-formatting': u'Robot: Iguando formatu ISBN',
 	},
+	# Author: Mucalexx
+	'bar': {
+		'isbn-formatting': u'Bot: Formaatir ISBN',
+	},
 	# Author: Yury Tarasievich
 	'be': {
 		'isbn-formatting': u'робат аформіў ISBN',
@@ -251,6 +255,10 @@ msg = {
 	# Author: Gazeb
 	'rue': {
 		'isbn-formatting': u'Робот: Форматованя ISBN',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'isbn-formatting': u'Robot: Formatting ISBN',
 	},
 	# Author: බිඟුවා
 	'si': {

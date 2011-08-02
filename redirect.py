@@ -36,8 +36,12 @@ msg = {
 	'az': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Mucalexx
 	'bar': {
-		'redirect-broken-redirect-template': u'{{delete}}Kaputte Weiterleitung',
+		'redirect-broken-redirect-template': u'{{Löschen|hinige Weiderloattung}}',
+		'redirect-fix-double': u'Bot: richtt dóppéde Weiderloattung auf %(to)s',
+		'redirect-remove-broken': u'Bot: Weiderloattungszü gibts néd',
+		'redirect-remove-loop': u'Bot: Weiderloattungszü auf sé söwer',
 	},
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
@@ -134,7 +138,7 @@ msg = {
 	},
 	# Author: Dferg
 	'es': {
-		'redirect-broken-redirect-template': u'{{destruir}}',
+		'redirect-broken-redirect-template': u'{{destruir|1=La página a la que redirige no existe --~~~~}}',
 		'redirect-fix-double': u'Robot: Arreglando doble redirección → %(to)s',
 		'redirect-remove-broken': u'Robot: La página a la que redirige no existe',
 		'redirect-remove-loop': u'Redirección infinita: la página redirige sobre sí misma',
@@ -155,11 +159,12 @@ msg = {
 	# Author: Nedergard
 	# Author: Nike
 	# Author: Olli
+	# Author: Crt
 	'fi': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Botti: korjataan kaksinkertainen ohjaus sivulle %(to)s',
-		'redirect-remove-broken': u'Botti: Ohjauksen kohdesivua ei ole olemassa',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Uudelleenohjauksen]] kohteen uudelleenohjaussilmukka',
+		'redirect-fix-double': u'Botti korjasi kaksinkertaisen ohjauksen sivulle %(to)s',
+		'redirect-remove-broken': u'Ohjauksen kohdesivua ei ole olemassa',
+		'redirect-remove-loop': u'Ohjauksen kohde muodostaa ohjaussilmukan',
 	},
 	# Author: Crochet.david
 	# Author: IAlex
@@ -255,6 +260,10 @@ msg = {
 		'redirect-fix-double': u'Machine: Fixant redirection duplic por %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] por un págine deletet o non-existent',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] cible forma un lace de redirection',
+	},
+	# Author: Ukabia
+	'ig': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	'is': {
 		'redirect-fix-double': u'Vélmenni: Lagfæri tvöfalda tilvísun → %(to)s',
@@ -452,6 +461,8 @@ msg = {
 	'ro': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot: Reparat dubla redirecționare înspre %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD # G8|G8]]: [[Wikipedia:Redirect|Redirecționare]] către o pagină ștearsă sau inexistentă',
+		'redirect-remove-loop': u'[[WP:CSD # G8|G8]]: Ținta [[Wikipedia:Redirect|redirecționării]] formează o buclă de redirecționare',
 	},
 	# Author: Rubin
 	# Author: Xqt
@@ -467,6 +478,13 @@ msg = {
 		'redirect-fix-double': u'Робот: справив двоїте напрямлїня → %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Напрямлїня]] на змазану або неекзістуючу сторінку',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Напрямлїня]] формує петлю напрямлїнь',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'redirect-broken-redirect-template': u'{{delete}}',
+		'redirect-fix-double': u'Bot: Fixin\' dooble reguidal tae %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deletit or non-existent page',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 	},
 	# Author: Dbc334
 	'sl': {

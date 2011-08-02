@@ -39,6 +39,16 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Dixebra asistida por robot: %(from)s - Enllaz camudáu a %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconocíu)',
 	},
+	# Author: Mucalexx
+	'bar': {
+		'solve_disambiguation-adding-dn-template': u'Bot-unterstytzde Begrifsklärung: %(from)s - markird, braucht a kundige Wartung',
+		'solve_disambiguation-links-removed': u'Bot-unterstytzde Begrifsklärung: %(from)s - Link(s) entfernd',
+		'solve_disambiguation-links-resolved': u'Bot-unterstytzde Begrifsklärung: %(from)s - Link(s) ersetzd durch %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot-unterstytzde Begrifsklärung: %(from)s - markird, braucht a kundige Wartung',
+		'solve_disambiguation-redirect-removed': u'Bot-unterstytzde Weiderloattungsauflésung: %(from)s - Link(s) entfernd',
+		'solve_disambiguation-redirect-resolved': u'Bot-unterstytzde Weiderloattungsauflésung: %(from)s - Link(s) ersetzd durch %(to)s',
+		'solve_disambiguation-unknown-page': u'(néd bekånnt)',
+	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	'be-tarask': {
@@ -307,6 +317,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Disambiguition auxiliat per machine: %(from)s - Catenun(es) changet por %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconosset)',
 	},
+	# Author: Ukabia
+	'ig': {
+		'solve_disambiguation-unknown-page': u'(nke námaghi)',
+	},
 	# Author: Sapral Mikail
 	'inh': {
 		'solve_disambiguation-unknown-page': u'(довзаш дац)',
@@ -556,7 +570,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'{{Identical|Unknown}}',
 	},
 	# Author: Minisarm
+	# Author: KlaudiuMihaila
 	'ro': {
+		'solve_disambiguation-adding-dn-template': u'Dezambiguizare asistată de robot: %(from)s - Marcat ca necesitând atenția unui expert',
+		'solve_disambiguation-links-removed': u'Dezambiguizare asistată de robot: %(from)s - Legături eliminate.',
+		'solve_disambiguation-links-resolved': u'Dezambiguizare asistată de robot: %(from)s - Legături modificate spre %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Dezambiguizare asistată de robot: %(from)s - Marcat ca necesitând atenția unui expert',
+		'solve_disambiguation-redirect-removed': u'Dezambiguizare asistată de robot: %(from)s - Legături eliminate',
+		'solve_disambiguation-redirect-resolved': u'Dezambiguizare asistată de robot: %(from)s - Legături modificate spre %(to)s',
 		'solve_disambiguation-unknown-page': u'(necunoscut)',
 	},
 	# Author: Александр Сигачёв
@@ -572,6 +593,16 @@ msg = {
 	# Author: Gazeb
 	'rue': {
 		'solve_disambiguation-unknown-page': u'(незнаме)',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
+		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
+		'solve_disambiguation-links-resolved': u'Robot-assisted disambiguation: %(from)s - Chynged link(s) tae %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
+		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
+		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambiguation: %(from)s - Chynged link(s) tae %(to)s',
+		'solve_disambiguation-unknown-page': u'(unknown)',
 	},
 	# Author: බිඟුවා
 	'si': {

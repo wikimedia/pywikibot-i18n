@@ -16,6 +16,10 @@ msg = {
 	'ast': {
 		'replace-replacing': u'Bot: Troquéu automáticu de testu %(description)s',
 	},
+	# Author: Mucalexx
+	'bar': {
+		'replace-replacing': u'Bot: Autómaatisirde Textersétzung %(description)s',
+	},
 	# Author: Jim-by
 	'be-tarask': {
 		'replace-replacing': u'Робат: аўтаматызаваная замена тэксту %(description)s',
@@ -225,6 +229,10 @@ msg = {
 	# Author: Gazeb
 	'rue': {
 		'replace-replacing': u'Робот: Автоматізована заміна тексту: %(description)s',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'replace-replacing': u'Bot: Automated text replacement %(description)s',
 	},
 	# Author: Dbc334
 	'sl': {

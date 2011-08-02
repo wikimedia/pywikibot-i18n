@@ -25,6 +25,15 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s ta en %(oldcat)s, que ye una redireición a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: iguando doble-redireición',
 	},
+	# Author: Mucalexx
+	'bar': {
+		'category_redirect-add-template': u'Bot: Fiag Kategorieweiderloattungs-Vurlog fyr d\' Wartung einé',
+		'category_redirect-change-category': u'Bot: Änderd weidergloaterde Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] auf [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Bot zur Wartung voh Kategorieweiderloattungen',
+		'category_redirect-edit-request': u'D\' fóigend gschytzden Seiten brauchen noh a Kategorielink-Aktualisiarung: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s befindt sé auf %(oldcat)s, dé noch %(newcat)s weiderloatt',
+		'category_redirect-fix-double': u'Bot: Korrigiar dóppéde Weiderloattung',
+	},
 	'bat-smg': {
 		'category_redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms',
 	},
@@ -154,11 +163,11 @@ msg = {
 	# Author: Crt
 	# Author: Olli
 	'fi': {
-		'category_redirect-add-template': u'Botti: lisätään luokan uudelleenohjausmalline huoltoa varten',
-		'category_redirect-change-category': u'Botti: vaihdettiin uudelleenohjattu luokka [[:%(oldCatLink)s|%(oldCatTitle)s]] luokaksi [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Luokkaohjauksien huoltobotti',
+		'category_redirect-add-template': u'Botti lisäsi luokan ohjausmallineen ylläpitotoimia varten',
+		'category_redirect-change-category': u'Botti vaihtoi ohjatun luokan [[:%(oldCatLink)s|%(oldCatTitle)s]] luokaksi [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Luokkaohjauksien ylläpitobotti',
 		'category_redirect-edit-request': u'Seuraavat suojatut sivut tarvitsevat päivityksiä luokkalinkkeihin: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s on luokassa %(oldcat)s, joka on uudelleenohjaus luokkaan %(newcat)s',
+		'category_redirect-edit-request-item': u'* %(title)s on luokassa %(oldcat)s, joka on ohjaus luokkaan %(newcat)s',
 		'category_redirect-fix-double': u'Botti korjasi kaksinkertaisen ohjauksen',
 	},
 	# Author: Crochet.david
@@ -425,8 +434,10 @@ msg = {
 	},
 	# Author: Minisarm
 	'ro': {
-		'category_redirect-add-template': u'Robot: adăugat formatul de întreținere pentru categorie redirecționată',
+		'category_redirect-add-template': u'Robot: Adăugat formatul de întreținere pentru categorie redirecționată',
+		'category_redirect-change-category': u'Robot: Modificat categoria redirecționată [[:%(oldCatLink)s|%(oldCatTitle)s]] în [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Robot de întreținere a redirecționărilor de categorii',
+		'category_redirect-edit-request': u'Următoarele pagini protejate au fost detectate ca necesitând actualizări la legăturile de categorie: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s se află în %(oldcat)s, care este o redirecționare către %(newcat)s',
 		'category_redirect-fix-double': u'Robot: Reparat dubla redirecționare înspre',
 	},
@@ -441,6 +452,15 @@ msg = {
 	},
 	'rue': {
 		'category_redirect-fix-double': u'Робот: справив двоїте напрямлїня',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'category_redirect-add-template': u'Robot: adding category redirect template for maintenance',
+		'category_redirect-change-category': u'Robot: chynge redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] tae [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Category redirect maintenance bot',
+		'category_redirect-edit-request': u'The following protected pages have been detected as needin\' updates tae category links: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect tae %(newcat)s',
+		'category_redirect-fix-double': u'Bot: fixin\' dooble-reguidals',
 	},
 	# Author: Dbc334
 	'sl': {

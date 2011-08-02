@@ -3,6 +3,22 @@ msg = {
 	'ar': {
 		'editarticle-edit': u'تعديل يدوي: %(description)s',
 	},
+	# Author: Mucalexx
+	'bar': {
+		'editarticle-edit': u'Manuelle Beorweitung: %(description)s',
+	},
+	# Author: EugeneZelenko
+	'be-tarask': {
+		'editarticle-edit': u'Ручное рэдагаваньне з робатам: %(description)s',
+	},
+	# Author: Fulup
+	'br': {
+		'editarticle-edit': u'Kemmm dornel a-drugarez d\'ur bot : %(description)s',
+	},
+	# Author: Peter Alberti
+	'da': {
+		'editarticle-edit': u'Manuel redigering udført med robot: %(description)s',
+	},
 	'de': {
 		'editarticle-edit': u'Manuelle Bearbeitung: %(description)s',
 	},
@@ -12,14 +28,70 @@ msg = {
 	'fa': {
 		'editarticle-edit': u'ویرایش دستی: %(description)s',
 	},
+	# Author: Crt
+	'fi': {
+		'editarticle-edit': u'Manuaalinen muutos botillla: %(description)s',
+	},
+	# Author: Romainhk
+	'fr': {
+		'editarticle-edit': u'Modification manuelle grâce à un bot : %(description)s',
+	},
+	# Author: ChrisPtDe
+	'frp': {
+		'editarticle-edit': u'Changement manuèl grâce a un bot : %(description)s',
+	},
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
+	},
+	# Author: McDutchie
+	'ia': {
+		'editarticle-edit': u'Modification manual con robot: %(description)s',
+	},
+	# Author: Renan
+	'ie': {
+		'editarticle-edit': u'Redaction manual che machine: %(description)s',
 	},
 	'is': {
 		'editarticle-edit': u'Handvirk breyting: %(description)s',
 	},
+	# Author: Beta16
+	'it': {
+		'editarticle-edit': u'Modifica manuale tramite bot: %(description)s',
+	},
 	'ja': {
 		'editarticle-edit': u'手動編集: %(description)s',
+	},
+	# Author: Purodha
+	'ksh': {
+		'editarticle-edit': u'Vun Hand mem Botprojramm jeändert: %(description)s',
+	},
+	# Author: Robby
+	'lb': {
+		'editarticle-edit': u'Manuell Ännerungen mam Bot: %(description)s',
+	},
+	# Author: Luthfi94
+	'min': {
+		'editarticle-edit': u'Penyuntingan manual dengan memakai Bot: %(description)s',
+	},
+	# Author: Bjankuloski06
+	'mk': {
+		'editarticle-edit': u'Рачно уредување со бот: %(description)s',
+	},
+	# Author: Anakmalaysia
+	'ms': {
+		'editarticle-edit': u'Suntingan manual dengan bot: %(description)s',
+	},
+	# Author: SPQRobin
+	'nl': {
+		'editarticle-edit': u'Handmatige bewerking met bot: %(description)s',
+	},
+	# Author: Nghtwlkr
+	'no': {
+		'editarticle-edit': u'Manuell redigert med robot: %(description)s',
+	},
+	# Author: Sp5uhe
+	'pl': {
+		'editarticle-edit': u'Ręczna zmiana przy pomocy bota: %(description)s',
 	},
 	'pt': {
 		'editarticle-edit': u'Editando manualmente com bot: %(description)s',
@@ -27,10 +99,46 @@ msg = {
 	'qqq': {
 		'editarticle-edit': u'Edit summary when the bot owner edits a text while the bot invoked an editor. <code>%(descriptions)s</code> gives further informations.',
 	},
+	# Author: KlaudiuMihaila
+	'ro': {
+		'editarticle-edit': u'Modificare manuală cu bot: %(description)s',
+	},
+	# Author: Александр Сигачёв
+	'ru': {
+		'editarticle-edit': u'Ручное редактирование с помощью бота: %(description)s',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'editarticle-edit': u'Manual edit with bot: %(description)s',
+	},
+	# Author: Dbc334
+	'sl': {
+		'editarticle-edit': u'Ročno urejanje z botom: %(description)s',
+	},
+	# Author: Rancher
+	'sr-ec': {
+		'editarticle-edit': u'Ручно уређивање с ботом: %(description)s',
+	},
+	# Author: Rancher
+	'sr-el': {
+		'editarticle-edit': u'Ručno uređivanje s botom: %(description)s',
+	},
 	'sv': {
 		'editarticle-edit': u'Manuell redigering: %(description)s',
 	},
+	# Author: Ильнар
+	'tt-cyrl': {
+		'editarticle-edit': u'Бот белән идарә итү өчен кулланма: %(description)s',
+	},
+	# Author: Minh Nguyen
+	'vi': {
+		'editarticle-edit': u'Sửa đổi thủ công dùng bot: %(description)s',
+	},
 	'zh': {
 		'editarticle-edit': u'手動編輯: %(description)s',
+	},
+	# Author: Hydra
+	'zh-hans': {
+		'editarticle-edit': u'利用机器方式手动编辑：%(description)s',
 	},
 }

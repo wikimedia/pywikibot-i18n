@@ -6,8 +6,13 @@ msg = {
 	'ar': {
 		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
 	},
+	# Author: Xuacu
+	'ast': {
+		'clean_sandbox-cleaned': u'Robot: Llimpia automática',
+	},
+	# Author: Mucalexx
 	'bar': {
-		'clean_sandbox-cleaned': u'Bot: Spielwiesn gmaht.',
+		'clean_sandbox-cleaned': u'Bot: Sétz d\' Spüwiesen zruck.',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -48,8 +53,9 @@ msg = {
 	'fa': {
 		'clean_sandbox-cleaned': u'ربات: صفحه به طور خودکار تميز شد',
 	},
+	# Author: Crt
 	'fi': {
-		'clean_sandbox-cleaned': u'Botti siivosi hiekkalaatikon.',
+		'clean_sandbox-cleaned': u'Botti siivosi hiekkalaatikon',
 	},
 	# Author: Sherbrooke
 	'fr': {
@@ -100,6 +106,10 @@ msg = {
 	'lb': {
 		'clean_sandbox-cleaned': u'Bot:Automatesch gebotzt',
 	},
+	# Author: Luthfi94
+	'min': {
+		'clean_sandbox-cleaned': u'Bot: Otomatis dibersihkan',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'clean_sandbox-cleaned': u'Робот: Чистење на песокот',
@@ -134,6 +144,10 @@ msg = {
 	},
 	'ru': {
 		'clean_sandbox-cleaned': u'Бот: очистка песочницы',
+	},
+	# Author: Avicennasis
+	'sco': {
+		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},
 	# Author: Lesko987
 	'sl': {
@@ -170,5 +184,9 @@ msg = {
 	},
 	'zh': {
 		'clean_sandbox-cleaned': u'Bot: 本页被自动清理',
+	},
+	# Author: Hydra
+	'zh-hans': {
+		'clean_sandbox-cleaned': u'机器人： 自动清除',
 	},
 }
