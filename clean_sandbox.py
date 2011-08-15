@@ -42,6 +42,10 @@ msg = {
 	'en': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},
+	# Author: Airon90
+	'eo': {
+		'clean_sandbox-cleaned': u'Roboto: Aŭtomate viŝita',
+	},
 	# Author: Dferg
 	'es': {
 		'clean_sandbox-cleaned': u'Robot: limpieza automatizada',
@@ -105,6 +109,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'clean_sandbox-cleaned': u'Bot:Automatesch gebotzt',
+	},
+	# Author: Jagwar
+	'mg': {
+		'clean_sandbox-cleaned': u'Rôbô : fanadiovana ho azy',
 	},
 	# Author: Luthfi94
 	'min': {

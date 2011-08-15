@@ -3,6 +3,10 @@ msg = {
 	'ar': {
 		'editarticle-edit': u'تعديل يدوي: %(description)s',
 	},
+	# Author: Xuacu
+	'ast': {
+		'editarticle-edit': u'Edición manual con bot: %(description)s',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'editarticle-edit': u'Manuelle Beorweitung: %(description)s',
@@ -25,6 +29,14 @@ msg = {
 	'en': {
 		'editarticle-edit': u'Manual edit with bot: %(description)s',
 	},
+	# Author: Airon90
+	'eo': {
+		'editarticle-edit': u'Permana redakto per roboto: %(description)s',
+	},
+	# Author: Fitoschido
+	'es': {
+		'editarticle-edit': u'Edición manual con bot: %(description)s',
+	},
 	'fa': {
 		'editarticle-edit': u'ویرایش دستی: %(description)s',
 	},
@@ -39,6 +51,10 @@ msg = {
 	# Author: ChrisPtDe
 	'frp': {
 		'editarticle-edit': u'Changement manuèl grâce a un bot : %(description)s',
+	},
+	# Author: Toliño
+	'gl': {
+		'editarticle-edit': u'Edición manual con bot: %(description)s',
 	},
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
@@ -68,6 +84,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'editarticle-edit': u'Manuell Ännerungen mam Bot: %(description)s',
+	},
+	# Author: Jagwar
+	'mg': {
+		'editarticle-edit': u'Asa tanana nataon\'ny rôbô : %(description)s',
 	},
 	# Author: Luthfi94
 	'min': {

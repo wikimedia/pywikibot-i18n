@@ -5,6 +5,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|الصورة]] تم نقلها إلى [[:commons:File:%(commonsfile)s|كومنز]].',
 		'commons-file-now-available': u'الملف متوفر الآن في [[:commons:File:%(commonsfile)s|ويكيميديا كومنز]].',
 	},
+	# Author: Xuacu
+	'ast': {
+		'commons-file-moved': u'El [[:File:%(localfile)s|ficheru]] se treslladó a [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'El ficheru ta disponible agora en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'commons-file-moved': u'Bot: [[:File:%(localfile)s|Daatei]] is auf [[:commons:File:%(commonsfile)s|commons]] vaschóm.',
@@ -20,6 +25,10 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Restr]] kaset da [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Emañ bremañ ar restr war [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Kuvaly
+	'cs': {
+		'commons-file-now-available': u'Soubor je nyní dostupný na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Peter Alberti
 	'da': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttet til [[:commons:File:%(commonsfile)s|commons]].',
@@ -34,8 +43,15 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Airon90
+	'eo': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Dosiero]] movita al [[:commons:File:%(commonsfile)s|Komunejon]].',
+		'commons-file-now-available': u'Dosiero nun disponeblas en [[:commons:File:%(commonsfile)s|Vikimedia Komunejo]].',
+	},
 	# Author: Mor
+	# Author: Fitoschido
 	'es': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] movido a [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'El archivo ya está disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	'fa': {
@@ -56,6 +72,11 @@ msg = {
 	'frp': {
 		'commons-file-moved': u'Lo [[:File:%(localfile)s|fichiér]] at étâ dèplaciê vers [[:commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'Ora, lo fichiér est disponiblo dessus [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Toliño
+	'gl': {
+		'commons-file-moved': u'O [[:File:%(localfile)s|ficheiro]] agora está en [[:commons:File:%(commonsfile)s|Commons]].',
+		'commons-file-now-available': u'O ficheiro agora está dispoñible na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Amire80
 	'he': {
@@ -98,6 +119,11 @@ msg = {
 	'ltg': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Failu]] puorsacyluoja iz [[:commons:File:%(commonsfile)s|Vikiteku]].',
 		'commons-file-now-available': u'Fails niule irā dabojams [[:commons:File:%(commonsfile)s|Vikitekā]].',
+	},
+	# Author: Jagwar
+	'mg': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Rakitra]] nafindra tany amin\'i  [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Azo ampiasina eo amin\'i  [[:commons:File:%(commonsfile)s|Wikimedia Commons]] io rakitra io ankehitriny.',
 	},
 	# Author: Luthfi94
 	'min': {

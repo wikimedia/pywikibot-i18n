@@ -169,8 +169,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(nesciata)',
 	},
 	# Author: Dferg
+	# Author: Fitoschido
 	'es': {
+		'solve_disambiguation-adding-dn-template': u'Desambiguación asistida por robot: %(from)s - Marcado que necesita atención de especialista',
+		'solve_disambiguation-links-removed': u'Desambiguación asistida por robot: %(from)s - Enlace(s) eliminados.',
 		'solve_disambiguation-links-resolved': u'Bot:Desambiguación asistida: %(from)s - Cambiando enlace(s) para %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Desambiguación asistida por robot: %(from)s - Marcado que necesita atención de especialista',
+		'solve_disambiguation-redirect-removed': u'Desambiguación asistida por robot: %(from)s - Enlace(s) eliminados',
+		'solve_disambiguation-redirect-resolved': u'Desambiguación asistida por robot: %(from)s - Enlace(s) cambiado(s) a %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconocido)',
 	},
 	# Author: An13sa
@@ -410,6 +416,9 @@ msg = {
 	},
 	# Author: Jagwar
 	'mg': {
+		'solve_disambiguation-adding-dn-template': u'Iditra mitovy anarana voavaha olana tamin\'ny alalan\'ny rôbô : %(from)s - voamarika ho mila fampitandreman\'olomahay',
+		'solve_disambiguation-links-removed': u'Iditra mitovy anarana voavaha olana tamin\'ny alalan\'ny rôbô %(from)s - fanalana ny rohy',
+		'solve_disambiguation-links-resolved': u'Iditra mitovy anarana voavaha olana tamin\'ny alalan\'ny rôbô : %(from)s fanovana ny rohy ho an\'i %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Fitovizana anarana voavahaolana tamin\'ny alàlan\'ny rôbô : %(from)s - mila fitandreman\'ny mpahay.',
 		'solve_disambiguation-redirect-removed': u'Fanitsiana rohy mankany amin\'ny fihodinana %(from)s - rohy voala',
 		'solve_disambiguation-redirect-resolved': u'Fanitsiana rohy mankany amin\'ny fihodinana : %(from)s - Fanovana rohy ho an\'i %(to)s',

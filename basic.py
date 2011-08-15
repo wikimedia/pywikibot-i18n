@@ -61,6 +61,10 @@ msg = {
 	'en': {
 		'basic-changing': u'Bot: Changing ...',
 	},
+	# Author: Airon90
+	'eo': {
+		'basic-changing': u'Roboto: Ŝanĝanta ...',
+	},
 	# Author: Fitoschido
 	'es': {
 		'basic-changing': u'Bot: Cambiando...',
@@ -173,6 +177,10 @@ msg = {
 	# Author: Vinitutpal
 	'mai': {
 		'basic-changing': u'बॉट: बदलि रहल अछि ...',
+	},
+	# Author: Jagwar
+	'mg': {
+		'basic-changing': u'Rôbô : Nanova ...',
 	},
 	# Author: Luthfi94
 	'min': {

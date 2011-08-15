@@ -175,6 +175,10 @@ msg = {
 	'lv': {
 		'isbn-formatting': u'Robots: ISBN formatējums',
 	},
+	# Author: Jagwar
+	'mg': {
+		'isbn-formatting': u'Rôbô : manao formatage ny ISBN',
+	},
 	# Author: Luthfi94
 	'min': {
 		'isbn-formatting': u'Bot: Mamformat ISBN',

@@ -135,7 +135,12 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
 		'category_redirect-fix-double': u'Bot: fixing double-redirect',
 	},
+	# Author: Airon90
 	'eo': {
+		'category_redirect-add-template': u'Roboto: aldonanta ŝablonon pri alidirekta kategorio por prizorgado',
+		'category_redirect-change-category': u'Roboto: ŝanĝi alidirektan kategorion [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Zorga roboto pri kategoria alidirekto',
+		'category_redirect-edit-request-item': u'* %(title)s estas en %(oldcat)s, kiu estas alidirekto al %(newcat)s',
 		'category_redirect-fix-double': u'Roboto: Riparis duoblan alidirekton',
 	},
 	# Author: Dferg
@@ -327,6 +332,15 @@ msg = {
 	},
 	'lt': {
 		'category_redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas',
+	},
+	# Author: Jagwar
+	'mg': {
+		'category_redirect-add-template': u'Rôbô : fanampiana endrika mampihodina ny sokajy ho an\'ny fikojakojana.',
+		'category_redirect-change-category': u'Rôbô : Fanovan any fihodinana [[:%(oldCatLink)s|%(oldCatTitle)s]] mankany [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Rôbô mikojakoja ny fihodinan-tsokajy',
+		'category_redirect-edit-request': u'Mila fanavaozana ny rohin-tsokajy ireo pejy voaaro manaraka ireo : %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s dia ao amin\'i %(oldcat)s, izay fihodinana mankany amin\'i %(newcat)s',
+		'category_redirect-fix-double': u'Rôbô : mamaha olana ny fihodinana mampihodina mankany amina fihodinana.',
 	},
 	# Author: Luthfi94
 	'min': {

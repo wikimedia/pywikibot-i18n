@@ -219,6 +219,11 @@ msg = {
 		'cosmetic_changes-append': u'; kosmētiskās izmaiņas',
 		'cosmetic_changes-standalone': u'robots kosmētiskās izmaiņas',
 	},
+	# Author: Jagwar
+	'mg': {
+		'cosmetic_changes-append': u'; fanovana arak\'endrika.',
+		'cosmetic_changes-standalone': u'Rôbô : Fanovana arak\'endrika',
+	},
 	# Author: Luthfi94
 	'min': {
 		'cosmetic_changes-append': u'; kosmetik parubahan',

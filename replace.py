@@ -164,6 +164,10 @@ msg = {
 	'lv': {
 		'replace-replacing': u'Bots: Automātisks teksta aizvietojums %(description)s',
 	},
+	# Author: Jagwar
+	'mg': {
+		'replace-replacing': u'Rôbô : Fanoloana soratra ho azy %(description)s',
+	},
 	# Author: Luthfi94
 	'min': {
 		'replace-replacing': u'Bot: Panggantian teks otomatis %(description)s',

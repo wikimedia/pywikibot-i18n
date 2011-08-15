@@ -288,7 +288,9 @@ msg = {
 		'redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті → %(to)s',
 		'redirect-remove-broken': u'Бот: Айдату нысанасы жоқ болды',
 	},
+	# Author: Cwt96
 	'ko': {
+		'redirect-broken-redirect-template': u'{{ㅅ}}',
 		'redirect-fix-double': u'로봇: 이중 넘겨주기 수정 → %(to)s',
 		'redirect-remove-broken': u'로봇: 끊긴 넘겨주기',
 	},
@@ -331,7 +333,10 @@ msg = {
 	},
 	# Author: Jagwar
 	'mg': {
+		'redirect-broken-redirect-template': u'{{fafao}}',
 		'redirect-fix-double': u'Rôbô : mamaha olam-pihodinana mankany amin\'i %(to)s',
+		'redirect-remove-broken': u'Rôbô : tanjon\'ny fihodinana voafafa na tsy misy',
+		'redirect-remove-loop': u'Rôbô : mifolaka ny fihodinana',
 	},
 	# Author: Luthfi94
 	'min': {

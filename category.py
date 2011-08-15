@@ -291,10 +291,11 @@ msg = {
 		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Mihxil
+	# Author: Airon90
 	'eo': {
-		'category-adding': u'Robot: Aldonis [[Kategorion:%(newcat)s]]',
+		'category-adding': u'Roboto: Aldonanta kategorion [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(ankaŭ en  %(alsocat)s)',
-		'category-changing': u'Roboto: ŝanĝo de %(oldcat)s',
+		'category-changing': u'Roboto: Ŝanĝanta %(oldcat)s al %(newcat)s',
 		'category-listifying': u'Roboto: listo de %(fromcat)s (%(num)d da objektoj)',
 		'category-removing': u'Roboto: Forigis el %(oldcat)s',
 		'category-replacing': u'Roboto: anstataŭigis %(oldcat)s per $(newcat)s',
@@ -692,6 +693,34 @@ msg = {
 		'category-adding': u'Robots: Daškier kategoreju [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Robots: Izjimšona nu %(oldcat)s',
 		'category-replacing': u'Robots: Kategorejis %(oldcat)s puormeišona ar %(newcat)s',
+	},
+	# Author: Xqt
+	'lv': {
+		'category-adding': u'Robots: Tiek pievienots kategorija [[:Category:%(newcat)s|%(newcat)s]]',
+	},
+	# Author: Xqt
+	'map-bms': {
+		'category-adding': u'Robot: Nambah [[:Category:%(newcat)s]]',
+	},
+	# Author: Xqt
+	'mdf': {
+		'category-adding': u'бот: поладозе [[:Category:%(newcat)s]]',
+	},
+	# Author: Jagwar
+	# Author: Xqt
+	'mg': {
+		'category-adding': u'Rôbô: Nanampy [[:Category:%(newcat)s]]',
+		'category-also-in': u'(ao amin\'i %(alsocat)s koa)',
+		'category-changing': u'Rôbô : fanovana an\'i %(oldcat)s à %(newcat)s',
+		'category-listifying': u'Rôbô : Fanaovana lisitra avy amin\'ny  %(fromcat)s (zavatra %(num))',
+		'category-removing': u'Rôbô : Nesorina tamin\'i %(oldcat)s',
+		'category-replacing': u'Rôbô : Fanovana anarana ny sokajy %(oldcat)s miaraka amin\'i %(newcat)s',
+		'category-was-disbanded': u'Rôbô : Voafafa ny sokajy',
+		'category-was-moved': u'rôbô : sokajy nafindea tany amin\'ny [[:Category:%(newcat)s|%(title)s]]',
+	},
+	# Author: Xqt
+	'mhr': {
+		'category-adding': u'робот: ешарен [[:Category:%(newcat)s]]',
 	},
 	# Author: Luthfi94
 	'min': {
