@@ -65,7 +65,7 @@ msg = {
         },
         'lt': {
                 'template-changing': u'robotas: {{PLURAL:%(num)d|Keičiamas šablonas|Keičiami šablonai}}: %(list)s',
-                'template-removing': u'robotas: {{PLURAL;%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s',
+                'template-removing': u'robotas: {{PLURAL:%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s',
         },
         'nds': {
                 'template-changing': u'Bot: {{PLURAL:%(num)d|Vörlaag|Vörlagen}} utwesselt: %(list)s',
