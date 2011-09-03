@@ -1,4 +1,5 @@
-﻿msg = {
+# -*- coding: utf-8 -*-
+msg = {
         'am': {
                 'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
                 'welcome-updating': u'Bot: Updating log',
