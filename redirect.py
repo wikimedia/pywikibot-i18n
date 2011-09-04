@@ -399,7 +399,7 @@ msg = {
 	},
 	# Author: Servien
 	'nds-nl': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-broken-redirect-template': u'{{vort|Kapotte deurverwiezing of deurverwijzing naor vort-edaone pagina}}',
 		'redirect-fix-double': u'Bot: dubbele deurverwiezing verbeterd naor %(to)s',
 		'redirect-remove-broken': u'Bot: de doelpagina van de deurverwiezing besteet niet',
 		'redirect-remove-loop': u'Deurverwiezing vormp n oneindige lusse',
