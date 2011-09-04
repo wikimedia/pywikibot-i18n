@@ -4,12 +4,17 @@ msg = {
 	'af': {
 		'basic-changing': u'Bot: Wysig ...',
 	},
+	# Author: ترجمان05
 	'ar': {
-		'basic-changing': u'روبوت: تغيير ...',
+		'basic-changing': u'بوت: تغيير ...',
 	},
 	# Author: Xuacu
 	'ast': {
 		'basic-changing': u'Bot: Camudando ...',
+	},
+	# Author: Cekli829
+	'az': {
+		'basic-changing': u'Bot: Dəyişdirilir...',
 	},
 	# Author: Xqt
 	# Author: Mucalexx
@@ -81,8 +86,9 @@ msg = {
 	'fi': {
 		'basic-changing': u'Botti: Muutetaan...',
 	},
+	# Author: Od1n
 	'fr': {
-		'basic-changing': u'Robot: Changé ...',
+		'basic-changing': u'Robot : Changé ...',
 	},
 	# Author: ChrisPtDe
 	'frp': {
@@ -215,7 +221,7 @@ msg = {
 	},
 	# Author: Siebrand
 	'nl': {
-		'basic-changing': u'Robot: wijziging ...',
+		'basic-changing': u'Robot: bezig met wijzigen...',
 	},
 	# Author: Nghtwlkr
 	'no': {
@@ -257,11 +263,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'basic-changing': u'Бот: мењање…',
+		'basic-changing': u'Бот: мењам…',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'basic-changing': u'Bot: menjanje…',
+		'basic-changing': u'Bot: menjam…',
 	},
 	'sv': {
 		'basic-changing': u'Bot: Ändrar ...',
@@ -289,6 +295,10 @@ msg = {
 	},
 	'uk': {
 		'basic-changing': u'Бот: змінив ...',
+	},
+	# Author: Candalua
+	'vec': {
+		'basic-changing': u'Bot: Canbiando...',
 	},
 	# Author: Minh Nguyen
 	'vi': {

@@ -10,6 +10,11 @@ msg = {
 		'commons-file-moved': u'El [[:File:%(localfile)s|ficheru]] se treslladó a [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'El ficheru ta disponible agora en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Ebrahimi-amir
+	'az': {
+		'commons-file-moved': u'[[:Fayl:%(localfile)s|Fayl]], [[:commons:File:%(commonsfile)s|commons]] saytına keçirildi.',
+		'commons-file-now-available': u'Fayl artıq [[:commons:File:%(commonsfile)s|Wikimedia Commons]] layihəsində vardır.',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'commons-file-moved': u'Bot: [[:File:%(localfile)s|Daatei]] is auf [[:commons:File:%(commonsfile)s|commons]] vaschóm.',
@@ -54,9 +59,10 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] movido a [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'El archivo ya está disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Mjbmr
 	'fa': {
 		'commons-file-moved': u'[[:پرونده:%(localfile)s|پرونده]] به [[:commons:File:%(commonsfile)s|commons]] منتقل شد.',
-		'commons-file-now-available': u'اینک پرونده در ویکی‌انبار قابل دسترسی است.',
+		'commons-file-now-available': u'پرونده اکنون در [[:commons:File:%(commonsfile)s|ویکی‌انبار]] در دسترس است.',
 	},
 	# Author: Crt
 	'fi': {
@@ -92,6 +98,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] displaciate a [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Le file es ora disponibile in [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Farras
+	'id': {
+		'commons-file-moved': u'[[:Berkas:%(localfile)s|Berkas]] dipindahkan ke [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Berkas ini sekarang tersedia di [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Renan
 	'ie': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] movet por li [[:commons:File:%(commonsfile)s|commons]].',
@@ -101,6 +112,11 @@ msg = {
 	'it': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] trasferito su [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'L\'immagine è adesso disponibile su [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Fryed-peach
+	'ja': {
+		'commons-file-moved': u'[[:File:%(localfile)s|このファイル]]は[[:commons:File:%(commonsfile)s|コモンズ]]へと移動しました。',
+		'commons-file-now-available': u'このファイルは[[:commons:File:%(commonsfile)s|ウィキメディア・コモンズ]]で利用できるようになりました。',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -140,8 +156,10 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fail]] dipindahkan ke [[:commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'Fail kini terdapat di [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Servien
 	'nds-nl': {
-		'commons-file-now-available': u'Disse ofbeelding is beschikbaor op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|Bestaand]] is verplaotst naor [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-now-available': u'Dit bestaand is noen beschikbaor op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	'nl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Bestand]] is verplaatst naar [[:commons:File:%(commonsfile)s|commons]].',
@@ -157,9 +175,15 @@ msg = {
 		'commons-file-now-available': u'Plik jest teraz dostępny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Hamilton Abreu
+	# Author: Giro720
 	'pt': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Ficheiro]] movido para a [[:commons:File:%(commonsfile)s|Commons]].',
-		'commons-file-now-available': u'Arquivo está agora na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-now-available': u'O ficheiro está agora no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Giro720
+	'pt-br': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] movido para o [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'O arquivo está agora no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	'qqq': {
 		'commons-file-moved': u'Edit summary when the bot replaces usage of an image available under a different name. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons.',
@@ -200,10 +224,20 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttad till [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Filen är nu tillgänglig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Khutuck
+	'tr': {
+		'commons-file-moved': u'[[:Dosya:%(localfile)s|Dosya]], [[:commons:File:%(commonsfile)s|commons]] sitesine taşındı.',
+		'commons-file-now-available': u'Dosya artık [[:commons:File:%(commonsfile)s|Wikimedia Commons]] projesinde bulunmaktadır.',
+	},
 	# Author: Ильнар
 	'tt-cyrl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Файл]]  [[:commons:File:%(commonsfile)s|Викиҗыентык]]ка күчерелде.',
 		'commons-file-now-available': u'Файлны хәзер  [[:commons:File:%(commonsfile)s|Викиҗыентык]]та карап була.',
+	},
+	# Author: Candalua
+	'vec': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] spostà su [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Sto file desso te lo cati su [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Minh Nguyen
 	'vi': {

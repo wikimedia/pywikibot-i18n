@@ -16,6 +16,10 @@ msg = {
 	'ast': {
 		'replace-replacing': u'Bot: Troquéu automáticu de testu %(description)s',
 	},
+	# Author: Khutuck
+	'az': {
+		'replace-replacing': u'Bot: Avtomatik mətn dəyişdirmə %(description)s',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'replace-replacing': u'Bot: Autómaatisirde Textersétzung %(description)s',
@@ -191,8 +195,9 @@ msg = {
 	'nds': {
 		'replace-replacing': u'Bot: Text automaatsch utwesselt: %(description)s',
 	},
+	# Author: Servien
 	'nds-nl': {
-		'replace-replacing': u'Bot: autematisch tekse vervungen %(description)s',
+		'replace-replacing': u'Bot: automatiese tekste vervöngen %(description)s',
 	},
 	# Author: RajeshPandey
 	'ne': {
@@ -251,11 +256,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'replace-replacing': u'Бот: самостална замена текста %(description)s',
+		'replace-replacing': u'Бот: самозамењивање текста %(description)s',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'replace-replacing': u'Bot: samostalna zamena teksta %(description)s',
+		'replace-replacing': u'Bot: samozamenjivanje teksta %(description)s',
 	},
 	'sv': {
 		'replace-replacing': u'Bot: Automatisk textersättning: %(description)s',
@@ -279,6 +284,10 @@ msg = {
 	},
 	'uk': {
 		'replace-replacing': u'Бот: Автоматизована заміна тексту: %(description)s',
+	},
+	# Author: Candalua
+	'vec': {
+		'replace-replacing': u'Bot: Sostitussion automatica %(description)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {

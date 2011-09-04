@@ -10,6 +10,10 @@ msg = {
 	'ast': {
 		'clean_sandbox-cleaned': u'Robot: Llimpia automática',
 	},
+	# Author: Ebrahimi-amir
+	'az': {
+		'clean_sandbox-cleaned': u'Bot: Avtomatik olaraq təmizləndi',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'clean_sandbox-cleaned': u'Bot: Sétz d\' Spüwiesen zruck.',
@@ -129,6 +133,10 @@ msg = {
 	'nds': {
 		'clean_sandbox-cleaned': u'Bot: Speelwisch leddig maakt.',
 	},
+	# Author: Servien
+	'nds-nl': {
+		'clean_sandbox-cleaned': u'Bot: automaties an-ekeerd.',
+	},
 	# Author: Siebrand
 	'nl': {
 		'clean_sandbox-cleaned': u'Robot: automatisch voorzien van schoon zand.',
@@ -142,6 +150,10 @@ msg = {
 	# Author: Hamilton Abreu
 	'pt': {
 		'clean_sandbox-cleaned': u'Robô: Limpeza da página de testes',
+	},
+	# Author: Giro720
+	'pt-br': {
+		'clean_sandbox-cleaned': u'Robô: Limpado automaticamente',
 	},
 	'qqq': {
 		'clean_sandbox-cleaned': u'Summary message when the bot cleans sandbox',
@@ -177,6 +189,10 @@ msg = {
 	},
 	'th': {
 		'clean_sandbox-cleaned': u'โรบอต: กำลังจะเก็บกวาดหน้านี้โดยอัตโนมัติ',
+	},
+	# Author: Khutuck
+	'tr': {
+		'clean_sandbox-cleaned': u'Bot: Deneme tahtası temizlendi',
 	},
 	# Author: Zahidulla
 	'tt-cyrl': {

@@ -39,6 +39,17 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Dixebra asistida por robot: %(from)s - Enllaz camudáu a %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconocíu)',
 	},
+	# Author: Cekli829
+	# Author: Khutuck
+	'az': {
+		'solve_disambiguation-adding-dn-template': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Mütəxəssis əlaqəsi ehtiyacına dair işaretlendi',
+		'solve_disambiguation-links-removed': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Bağlantı(lar) götürüldü',
+		'solve_disambiguation-links-resolved': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Bağlantı(lar) dəyişdirilərək %(to)s halına gətirildi',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Mütəxəssis əlaqəsi ehtiyacına dair işaretlendi',
+		'solve_disambiguation-redirect-removed': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Bağlantı(lar) götürüldü',
+		'solve_disambiguation-redirect-resolved': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Bağlantı(lar) dəyişdirilərək %(to)s halına gətirildi',
+		'solve_disambiguation-unknown-page': u'(bilinmir)',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'solve_disambiguation-adding-dn-template': u'Bot-unterstytzde Begrifsklärung: %(from)s - markird, braucht a kundige Wartung',
@@ -206,13 +217,14 @@ msg = {
 	},
 	# Author: IAlex
 	# Author: Sherbrooke
+	# Author: Od1n
 	'fr': {
 		'solve_disambiguation-adding-dn-template': u'Homonymie résolue à l’aide du robot : %(from)s - marquée comme demandant l\'attention d\'un expert',
-		'solve_disambiguation-links-removed': u'Homonymie résolue à l’aide du robot: %(from)s - Retrait du (des) lien(s)',
-		'solve_disambiguation-links-resolved': u'Homonymie résolue à l’aide du robot: %(from)s - Modifications du (des) lien(s) pour %(to)s',
+		'solve_disambiguation-links-removed': u'Homonymie résolue à l’aide du robot : %(from)s - Retrait du (des) lien(s)',
+		'solve_disambiguation-links-resolved': u'Homonymie résolue à l’aide du robot : %(from)s - Modifications du (des) lien(s) pour %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Homonymie résolue à l’aide du robot : %(from)s - marquée comme demandant l\'attention d\'un expert',
-		'solve_disambiguation-redirect-removed': u'Correction de lien vers redirect: %(from)s - Retrait du (des) lien(s)',
-		'solve_disambiguation-redirect-resolved': u'Correction de lien vers redirect: %(from)s - Modifications du (des) lien(s) pour %(to)s',
+		'solve_disambiguation-redirect-removed': u'Correction de lien vers redirect : %(from)s - Retrait du (des) lien(s)',
+		'solve_disambiguation-redirect-resolved': u'Correction de lien vers redirect : %(from)s - Modifications du (des) lien(s) pour %(to)s',
 		'solve_disambiguation-unknown-page': u'(inconnu)',
 	},
 	# Author: ChrisPtDe
@@ -491,6 +503,16 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Bot-stütt MB: %(from)s - Lenk(en) ännert na %(to)s',
 		'solve_disambiguation-unknown-page': u'(nich kennt)',
 	},
+	# Author: Servien
+	'nds-nl': {
+		'solve_disambiguation-adding-dn-template': u'Bot-ehölpen deurverwiespagina: %(from)s - hef de andacht van n expert neudig',
+		'solve_disambiguation-links-removed': u'Bot-ehölpen deurverwiezing: [[%(from)s]] - Verwiezing(en) vortedaon',
+		'solve_disambiguation-links-resolved': u'Bot-ehölpen deurverwiezing: [[%(from)s]] - Verwiezing(en) ewiezigd naor %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot-ehölpen deurverwiespagina: %(from)s - hef de andacht van n expert neudig',
+		'solve_disambiguation-redirect-removed': u'Bot-ehölpen oplossing veur deurverwiezing: [[%(from)s]] - Verwiezing(en) vortedaon',
+		'solve_disambiguation-redirect-resolved': u'Bot-ehölpen oplossing veur deurverwiezing: [[%(from)s]] - Verwiezing(en) ewiezigd naor %(to)s',
+		'solve_disambiguation-unknown-page': u'(onbekend)',
+	},
 	# Author: RajeshPandey
 	'ne': {
 		'solve_disambiguation-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)s लाइ - विशेषज्ञ को ध्यानाकर्षण गराउँदै',
@@ -696,13 +718,14 @@ msg = {
 	# Author: Emperyan
 	# Author: Vito Genovese
 	# Author: Stultiwikia
+	# Author: Khutuck
 	'tr': {
-		'solve_disambiguation-adding-dn-template': u'Robot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi',
-		'solve_disambiguation-links-removed': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı',
-		'solve_disambiguation-links-resolved': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi',
-		'solve_disambiguation-redirect-removed': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı',
-		'solve_disambiguation-redirect-resolved': u'Robot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi',
+		'solve_disambiguation-adding-dn-template': u'Bot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi',
+		'solve_disambiguation-links-removed': u'Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı',
+		'solve_disambiguation-links-resolved': u'Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi',
+		'solve_disambiguation-redirect-removed': u'Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı',
+		'solve_disambiguation-redirect-resolved': u'Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi',
 		'solve_disambiguation-unknown-page': u'(bilinmiyor)',
 	},
 	# Author: Ильнар

@@ -19,9 +19,10 @@ msg = {
 		'cosmetic_changes-standalone': u'Robot: Cambéos cosméticos',
 	},
 	# Author: Vago
+	# Author: Khutuck
 	'az': {
 		'cosmetic_changes-append': u'; kosmetik dəyişmələr',
-		'cosmetic_changes-standalone': u'Robot: Kosmetik dəyişmələr',
+		'cosmetic_changes-standalone': u'Bot: Kosmetik dəyişmələr',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -106,8 +107,9 @@ msg = {
 		'cosmetic_changes-append': u'; aldaketa kosmetikoak',
 		'cosmetic_changes-standalone': u'Robota: Aldaketa kosmetikoak',
 	},
+	# Author: Mjbmr
 	'fa': {
-		'cosmetic_changes-append': u'; زیباسازی',
+		'cosmetic_changes-append': u'؛ زیباسازی',
 		'cosmetic_changes-standalone': u'ربات: زیباسازی',
 	},
 	# Author: Crt
@@ -248,12 +250,12 @@ msg = {
 	},
 	# Author: Servien
 	'nds-nl': {
-		'cosmetic_changes-append': u'; cosmetische wiezigingen',
-		'cosmetic_changes-standalone': u'Robot: cosmetische wiezigingen',
+		'cosmetic_changes-append': u'; kosmetiese wiezigingen',
+		'cosmetic_changes-standalone': u'Bot: kosmetiese wiezigingen',
 	},
 	# Author: Siebrand
 	'nl': {
-		'cosmetic_changes-append': u'; cosmetische veranderingen',
+		'cosmetic_changes-append': u'; cosmetische wijzigingen',
 		'cosmetic_changes-standalone': u'Robot: cosmetische wijzigingen',
 	},
 	'nn': {
@@ -358,9 +360,10 @@ msg = {
 		'cosmetic_changes-standalone': u'robot Kosmetiko pagbabago',
 	},
 	# Author: Stultiwikia
+	# Author: Khutuck
 	'tr': {
 		'cosmetic_changes-append': u'; kozmetik değişiklikler',
-		'cosmetic_changes-standalone': u'Robot: Kozmetik değişiklikler',
+		'cosmetic_changes-standalone': u'Bot: Kozmetik değişiklikler',
 	},
 	# Author: Zahidulla
 	'tt-cyrl': {
@@ -371,9 +374,10 @@ msg = {
 		'cosmetic_changes-append': u'; косметичні зміни',
 		'cosmetic_changes-standalone': u'робот косметичні зміни',
 	},
+	# Author: Candalua
 	'vec': {
-		'cosmetic_changes-append': u'; modifiche estetiche',
-		'cosmetic_changes-standalone': u'Bot: Modifiche estetiche',
+		'cosmetic_changes-append': u'; modifiche de beleza',
+		'cosmetic_changes-standalone': u'Bot: Modifiche de beleza',
 	},
 	# Author: Minh Nguyen
 	'vi': {

@@ -7,6 +7,10 @@ msg = {
 	'ast': {
 		'editarticle-edit': u'Edición manual con bot: %(description)s',
 	},
+	# Author: Ebrahimi-amir
+	'az': {
+		'editarticle-edit': u'Bot hesabından əllə tənzimləmə: %(description)s',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'editarticle-edit': u'Manuelle Beorweitung: %(description)s',
@@ -63,6 +67,10 @@ msg = {
 	'ia': {
 		'editarticle-edit': u'Modification manual con robot: %(description)s',
 	},
+	# Author: Farras
+	'id': {
+		'editarticle-edit': u'Suntingan manual dengan bot: %(description)s',
+	},
 	# Author: Renan
 	'ie': {
 		'editarticle-edit': u'Redaction manual che machine: %(description)s',
@@ -101,9 +109,14 @@ msg = {
 	'ms': {
 		'editarticle-edit': u'Suntingan manual dengan bot: %(description)s',
 	},
+	# Author: Servien
+	'nds-nl': {
+		'editarticle-edit': u'Haandmaotige bewarking mit bot: %(description)s',
+	},
 	# Author: SPQRobin
+	# Author: Siebrand
 	'nl': {
-		'editarticle-edit': u'Handmatige bewerking met bot: %(description)s',
+		'editarticle-edit': u'Handmatige bewerking met robot: %(description)s',
 	},
 	# Author: Nghtwlkr
 	'no': {
@@ -113,8 +126,13 @@ msg = {
 	'pl': {
 		'editarticle-edit': u'Ręczna zmiana przy pomocy bota: %(description)s',
 	},
+	# Author: Giro720
 	'pt': {
-		'editarticle-edit': u'Editando manualmente com bot: %(description)s',
+		'editarticle-edit': u'A editar manualmente com bot: %(description)s',
+	},
+	# Author: Giro720
+	'pt-br': {
+		'editarticle-edit': u'Editando manualmente com um bot: %(description)s',
 	},
 	'qqq': {
 		'editarticle-edit': u'Edit summary when the bot owner edits a text while the bot invoked an editor. <code>%(descriptions)s</code> gives further informations.',
@@ -146,9 +164,17 @@ msg = {
 	'sv': {
 		'editarticle-edit': u'Manuell redigering: %(description)s',
 	},
+	# Author: Khutuck
+	'tr': {
+		'editarticle-edit': u'Bot hesabından elle düzenleme: %(description)s',
+	},
 	# Author: Ильнар
 	'tt-cyrl': {
 		'editarticle-edit': u'Бот белән идарә итү өчен кулланма: %(description)s',
+	},
+	# Author: Candalua
+	'vec': {
+		'editarticle-edit': u'Modifica a man tramite bot: %(description)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {

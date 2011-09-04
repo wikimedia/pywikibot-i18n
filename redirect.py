@@ -33,8 +33,13 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: El destín de [[Wikipedia:Redirect|redireición]] forma un bucle de redireición',
 	},
 	# Author: Cekli829
+	# Author: Ebrahimi-amir
+	# Author: Khutuck
 	'az': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Bot: %(to)s səhifəsinə istiqamətli ikiqat istiqamətləndirmə düzəldilir',
+		'redirect-remove-broken': u'[[Vikipediya:sil#istiqamətləndirmə|VP:sil]]: Silinen ya da var olmayan səhifəyə olan istiqaməyləndirmə',
+		'redirect-remove-loop': u'Bot: İstiqamətləndirmə hədəfi bir istiqamətləndirmə dövriyyəsi yaradır',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -168,9 +173,10 @@ msg = {
 	},
 	# Author: Crochet.david
 	# Author: IAlex
+	# Author: Od1n
 	'fr': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Robot: répare double redirection à %(to)s',
+		'redirect-fix-double': u'Robot : répare double redirection à %(to)s',
 		'redirect-remove-broken': u'Robot : Cible du redirect inexistante',
 		'redirect-remove-loop': u'Bot : la cible de la redirection forme une boucle de redirection',
 	},
@@ -393,8 +399,10 @@ msg = {
 	},
 	# Author: Servien
 	'nds-nl': {
-		'redirect-broken-redirect-template': u'{{vort|Kapotte deurverwiezing of deurverwijzing naor vort-edaone pagina}}',
-		'redirect-remove-broken': u'Bot: de doelpagina van de deurverwiezing besteet neet',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Bot: dubbele deurverwiezing verbeterd naor %(to)s',
+		'redirect-remove-broken': u'Bot: de doelpagina van de deurverwiezing besteet niet',
+		'redirect-remove-loop': u'Deurverwiezing vormp n oneindige lusse',
 	},
 	# Author: RajeshPandey
 	'ne': {
@@ -515,14 +523,14 @@ msg = {
 	# Author: Rancher
 	'sr-ec': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Бот: исправљање двоструких преусмерења у %(to)s',
+		'redirect-fix-double': u'Бот: исправљам двострука преусмерења у %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Преусмерење]] до обрисане или непостојеће странице',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Циљ [[Wikipedia:Redirect|преусмерења]] гради петљу',
 	},
 	# Author: Rancher
 	'sr-el': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Bot: ispravljanje dvostrukih preusmerenja u %(to)s',
+		'redirect-fix-double': u'Bot: ispravljam dvostruka preusmerenja u %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmerenje]] do obrisane ili nepostojeće stranice',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmerenja]] gradi petlju',
 	},
@@ -557,11 +565,12 @@ msg = {
 	# Author: Vito Genovese
 	# Author: Xqt
 	# Author: Stultiwikia
+	# Author: Khutuck
 	'tr': {
 		'redirect-broken-redirect-template': u'{{sil|y1}}',
 		'redirect-fix-double': u'Bot: %(to)s sayfasına yönelik çift yönlendirme düzeltiliyor',
 		'redirect-remove-broken': u'[[Vikipedi:Hızlı_silme#Yönlendirmeler|VP:HS]]: Silinen ya da var olmayan sayfaya olan yönlendirme',
-		'redirect-remove-loop': u'Robot: Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor',
+		'redirect-remove-loop': u'Bot: Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor',
 	},
 	# Author: Ильнар
 	'tt-cyrl': {
@@ -577,6 +586,11 @@ msg = {
 		'redirect-fix-double': u'Робот: виправлення подвійного перенаправлення → %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Перенаправлення]] на вилучену або неіснуючу сторінку',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Перенаправлення]] формує петлю перенаправлень',
+	},
+	# Author: Candalua
+	'vec': {
+		'redirect-fix-double': u'Bot: Sistemo i dopi rimandi a %(to)s',
+		'redirect-remove-broken': u'Bot: El rimando el ponta a na pagina che no esiste',
 	},
 	# Author: Minh Nguyen
 	'vi': {

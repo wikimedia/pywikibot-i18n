@@ -25,6 +25,17 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s ta en %(oldcat)s, que ye una redireición a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: iguando doble-redireición',
 	},
+	# Author: Ebrahimi-amir
+	# Author: Khutuck
+	# Author: Sortilegus
+	'az': {
+		'category_redirect-add-template': u'Bot: Saxlamaq üçün kateqoriya istiqamətləndirmə şablonu əlavə olunur',
+		'category_redirect-change-category': u'Bot: İstiqamətləndirilən [[:%(oldCatLink)s|%(oldCatTitle)s]] kateqoriyasını [[:%(newCatLink)s|%(newCatTitle)s]] halına çevirir',
+		'category_redirect-comment': u'Kateqoriya istiqamətləndirilmə vəzifəli bot',
+		'category_redirect-edit-request': u'Muhafizə altındaki bu səhifələrdəki kateqoriya bağlantılarının yeniləmə gerektirdiği bəlli olmuşdur: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s\'ə istiqamətləndirilən %(oldcat)s\'də',
+		'category_redirect-fix-double': u'Bot: ikiqat istiqamətləndirmə düzəldirilir',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'category_redirect-add-template': u'Bot: Fiag Kategorieweiderloattungs-Vurlog fyr d\' Wartung einé',
@@ -178,13 +189,14 @@ msg = {
 	# Author: Crochet.david
 	# Author: Hashar
 	# Author: IAlex
+	# Author: Od1n
 	'fr': {
 		'category_redirect-add-template': u'Robot : ajout de modèle de redirection de catégorie pour maintenance',
 		'category_redirect-change-category': u'Robot : Changement de la redirection de [[:%(oldCatLink)s|%(oldCatTitle)s]] à [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Bot de maintenance des redirections de catégories',
 		'category_redirect-edit-request': u'Les pages protégées suivantes ont été détectés comme nécessitant des mises à jour des liens de catégorie : %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s est dans %(oldcat)s, qui est une redirection vers %(newcat)s',
-		'category_redirect-fix-double': u'Robot: répare double redirection',
+		'category_redirect-fix-double': u'Robot : répare double redirection',
 	},
 	# Author: ChrisPtDe
 	'frp': {
@@ -230,6 +242,11 @@ msg = {
 		'category_redirect-edit-request': u'הדפים המוגנים הבאים זוהו כדפים שיש לעדכן בהם קישורים לקטגוריות: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* הדף %(title)s נמצא בקטגוריה %(oldcat)s, שמפנה ל%(newcat)s',
 		'category_redirect-fix-double': u'בוט: מתקן הפניה כפולה',
+	},
+	# Author: Mayur
+	'hi': {
+		'category_redirect-add-template': u'रखरखाव के लिए अनुप्रेषित साँचा जोड़ा गया',
+		'category_redirect-fix-double': u'दुगना अनुप्रेषण सही किया गया',
 	},
 	# Author: Ex13
 	'hr': {
@@ -386,6 +403,11 @@ msg = {
 	},
 	# Author: Servien
 	'nds-nl': {
+		'category_redirect-add-template': u'Bot: kategoriedeurverwiezingsmal derbie ezet',
+		'category_redirect-change-category': u'Bot: kategorie van deurverwiezing ewiezigd van [[:%(oldCatLink)s|%(oldCatTitle)s]] naor [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Bot veur kategoriedeurverwiezing',
+		'category_redirect-edit-request': u'Veur de volgende beveiligden pagina\'s mutten de kategorieverwiezingen an-epast wörden: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s steet in %(oldcat)s, n deurverwiezing naor %(newcat)s',
 		'category_redirect-fix-double': u'Bot: dubbele deurverwiezingen verbeteren',
 	},
 	# Author: Siebrand
@@ -499,21 +521,21 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'category_redirect-add-template': u'Робот: додавање шаблона за преусмеравање категорија на одржавање',
-		'category_redirect-change-category': u'Робот: преусмерење категорије [[:%(oldCatLink)s|%(oldCatTitle)s]] је промењено у [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Бот за одржавање преусмерења категорија',
+		'category_redirect-add-template': u'Робот: додајем шаблон за преусмеравање категорије ради одржавања',
+		'category_redirect-change-category': u'Робот: мењам преусмерење категорије [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Бот за одржавање преусмеравања категорија',
 		'category_redirect-edit-request': u'Следеће заштићене странице имају застареле везе категорија: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s',
-		'category_redirect-fix-double': u'Бот: исправљање двоструких преусмерења',
+		'category_redirect-fix-double': u'Бот: исправљам двострука преусмерења',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'category_redirect-add-template': u'Robot: dodavanje šablona za preusmeravanje kategorija na održavanje',
-		'category_redirect-change-category': u'Robot: preusmerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] je promenjeno u [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Bot za održavanje preusmerenja kategorija',
+		'category_redirect-add-template': u'Robot: dodajem šablon za preusmeravanje kategorije radi održavanja',
+		'category_redirect-change-category': u'Robot: menjam preusmerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Bot za održavanje preusmeravanja kategorija',
 		'category_redirect-edit-request': u'Sledeće zaštićene stranice imaju zastarele veze kategorija: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s je u %(oldcat)s, a to je preusmerenje na %(newcat)s',
-		'category_redirect-fix-double': u'Bot: ispravljanje dvostrukih preusmerenja',
+		'category_redirect-fix-double': u'Bot: ispravljam dvostruka preusmerenja',
 	},
 	# Author: Lokal Profil
 	'sv': {
@@ -545,13 +567,14 @@ msg = {
 		'category_redirect-fix-double': u'Bot: kinukumpuni ang nagkadalawang pagpapapunta sa iba',
 	},
 	# Author: Stultiwikia
+	# Author: Khutuck
 	'tr': {
-		'category_redirect-add-template': u'Robot: bakım için kategori yönlendirme şablonu ekleniyor',
-		'category_redirect-change-category': u'Robot: yönlendirilen [[:%(oldCatLink)s|%(oldCatTitle)s]] kategorisini [[:%(newCatLink)s|%(newCatTitle)s]] haline dönüştür',
+		'category_redirect-add-template': u'Bot: Bakım için kategori yönlendirme şablonu ekleniyor',
+		'category_redirect-change-category': u'Bot: Yönlendirilen [[:%(oldCatLink)s|%(oldCatTitle)s]] kategorisini [[:%(newCatLink)s|%(newCatTitle)s]] haline dönüştürüyor',
 		'category_redirect-comment': u'Kategori yönlendirmesi bakım botu',
 		'category_redirect-edit-request': u'Koruma altındaki şu sayfalardaki kategori bağlantılarının güncelleme gerektirdiği tespit edilmiştir: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s\'e yönlendirilen %(oldcat)s\'te',
-		'category_redirect-fix-double': u'Bot: çift-yönlendirme düzeltiliyor',
+		'category_redirect-fix-double': u'Bot: Çift yönlendirme düzeltiliyor',
 	},
 	'tt': {
 		'category_redirect-fix-double': u'Робот: икеле күчешне дөресләү',
@@ -575,6 +598,10 @@ msg = {
 		'category_redirect-edit-request': u'У таких захищених сторінках треба оновити посилання на категорії: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s є в %(oldcat)s, яка є перенаправленням на %(newcat)s',
 		'category_redirect-fix-double': u'Робот: виправлення подвійного перенаправлення',
+	},
+	# Author: Candalua
+	'vec': {
+		'category_redirect-fix-double': u'Bot: Sistemo i dopi rimandi',
 	},
 	# Author: Minh Nguyen
 	'vi': {

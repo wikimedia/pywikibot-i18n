@@ -17,6 +17,10 @@ msg = {
 	'ast': {
 		'isbn-formatting': u'Robot: Iguando formatu ISBN',
 	},
+	# Author: Khutuck
+	'az': {
+		'isbn-formatting': u'Bot: ISBN formatlandırılır',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'isbn-formatting': u'Bot: Formaatir ISBN',
@@ -209,7 +213,7 @@ msg = {
 	},
 	# Author: Servien
 	'nds-nl': {
-		'isbn-formatting': u'Bot: ISBN op-emaak',
+		'isbn-formatting': u'Bot: ISBN op-emaakt',
 	},
 	# Author: RajeshPandey
 	'ne': {
@@ -303,8 +307,9 @@ msg = {
 	# Author: Emperyan
 	# Author: Vito Genovese
 	# Author: Stultiwikia
+	# Author: Khutuck
 	'tr': {
-		'isbn-formatting': u'Robot: ISBN biçimlendiriliyor',
+		'isbn-formatting': u'Bot: ISBN biçimlendiriliyor',
 	},
 	# Author: Ильнар
 	# Author: Zahidulla
