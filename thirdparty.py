@@ -1,7 +1,7 @@
 # coding=utf-8
 msg = {
         'en': {
-                'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot ',
+                'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
                 'thirdparty-drtrigonbot-sum_disc-summary-add': u'Discussion summary added: %(num)i entries',
                 'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summary updated: %(num)i entries in %(page)s',
                 'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion summary added with clean up: %(num)i entries',
