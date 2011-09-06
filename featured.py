@@ -70,10 +70,10 @@ msg = {
 		'featured-featured': u'Bot: %(page)s jo wuběrny nastawk',
 	},
 	'en': {
-		'featured-featured': u'Bot: %(page)s is a featured article',
-		'featured-former': u'Bot: %(page)s is a former featured article',
-		'featured-good': u'Bot: %(page)s is a good article',
-		'featured-list': u'Bot: %(page)s is a featured list',
+		'featured-featured': u'Robot: %(page)s is a featured article',
+		'featured-former': u'Robot: %(page)s is a former featured article',
+		'featured-good': u'Robot: %(page)s is a good article',
+		'featured-list': u'Robot: %(page)s is a featured list',
 	},
 	'eo': {
 		'featured-featured': u'roboto: %(page)s estas artikolo elstara',

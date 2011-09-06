@@ -36,9 +36,9 @@ msg = {
 		'table2wiki-warnings': u'Bot: Tabellensyntax konvertiert - %(count)d Warnungen!',
 	},
 	'en': {
-		'table2wiki-no-warning': u'User-controlled Bot: table syntax updated',
-		'table2wiki-one-warning': u'User-controlled Bot: table syntax updated - 1 warning!',
-		'table2wiki-warnings': u'User-controlled Bot: table syntax updated - %(count)d warnings!',
+		'table2wiki-no-warning': u'User-controlled Robot: table syntax updated',
+		'table2wiki-one-warning': u'User-controlled Robot: table syntax updated - 1 warning!',
+		'table2wiki-warnings': u'User-controlled Robot: table syntax updated - %(count)d warnings!',
 	},
 	'es': {
 		'table2wiki-no-warning': u'Bot controlado: actualizada sintaxis de tabla',

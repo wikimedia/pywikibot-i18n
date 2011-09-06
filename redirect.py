@@ -130,7 +130,7 @@ msg = {
 	},
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Bot: Fixing double redirect to %(to)s',
+		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deleted or non-existent page',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 	},

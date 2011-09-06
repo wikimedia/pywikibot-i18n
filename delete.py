@@ -20,11 +20,11 @@ msg = {
 		'delete-referring-pages': u'Bot: Lösche alle auf %(page)s linkenden Seiten',
 	},
 	'en': {
-		'delete-from-category': u'Bot: Deleting all pages from category %(page)s',
-		'delete-from-file': u'Bot: Deleting a list of files.',
-		'delete-images': u'Bot: Deleting all images on page %(page)s',
-		'delete-linked-pages': u'Bot: Deleting all pages linked from %(page)s',
-		'delete-referring-pages': u'Bot: Deleting all pages referring from %(page)s',
+		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
+		'delete-from-file': u'Robot: Deleting a list of files.',
+		'delete-images': u'Robot: Deleting all images on page %(page)s',
+		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
+		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
 	},
 	'fa': {
 		'delete-from-category': u'ربات:حذف تمام صفحه‌های رده %(page)s',

@@ -121,7 +121,7 @@ msg = {
 		'add_text-adding': u'Robot A Śònt %(adding)s',
 	},
 	'en': {
-		'add_text-adding': u'Bot: Adding %(adding)s',
+		'add_text-adding': u'Robot: Adding %(adding)s',
 	},
 	'eo': {
 		'add_text-adding': u'robota aldono de %(adding)s',

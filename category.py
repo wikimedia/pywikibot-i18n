@@ -292,10 +292,10 @@ msg = {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(also in %(alsocat)s)',
 		'category-changing': u'Robot: Changing %(oldcat)s to %(newcat)s',
-		'category-listifying': u'Bot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
-		'category-removing': u'Bot: Removing from %(oldcat)s',
+		'category-listifying': u'Robot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+		'category-removing': u'Robot: Removing from %(oldcat)s',
 		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
-		'category-was-disbanded': u'Bot: Category was disbanded',
+		'category-was-disbanded': u'Robot: Category was disbanded',
 		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Mihxil

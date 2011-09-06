@@ -64,7 +64,7 @@ msg = {
 		'basic-changing': u'Bot: Αλλάζει ...',
 	},
 	'en': {
-		'basic-changing': u'Bot: Changing ...',
+		'basic-changing': u'Robot: Changing ...',
 	},
 	# Author: Airon90
 	'eo': {

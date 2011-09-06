@@ -55,8 +55,8 @@ msg = {
 		'welcome-welcome': u'Καλώς ήρθατε!',
 	},
 	'en': {
-		'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
-		'welcome-updating': u'Bot: Updating log',
+		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
+		'welcome-updating': u'Robot: Updating log',
 		'welcome-welcome': u'Welcome!',
 	},
 	# Author: Crazymadlover

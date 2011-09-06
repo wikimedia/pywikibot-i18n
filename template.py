@@ -16,7 +16,7 @@ msg = {
 		'template-substituting': u'Bot: Umgehe {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 	},
 	'en': {
-		'template-changing': u'Bot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-changing': u'Robot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-removing': u'Robot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
 	},

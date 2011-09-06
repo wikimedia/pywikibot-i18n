@@ -58,7 +58,7 @@ msg = {
 		'replace-replacing': u'Ρομπότ: Αυτόματη αντικατάσταση κειμένου %(description)s',
 	},
 	'en': {
-		'replace-replacing': u'Bot: Automated text replacement %(description)s',
+		'replace-replacing': u'Robot: Automated text replacement %(description)s',
 	},
 	# Author: Mihxil
 	'eo': {
