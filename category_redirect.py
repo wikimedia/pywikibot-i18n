@@ -139,12 +139,12 @@ msg = {
 		'category_redirect-fix-double': u'Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης',
 	},
 	'en': {
-		'category_redirect-add-template': u'Robot: adding category redirect template for maintenance',
-		'category_redirect-change-category': u'Robot: change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Category redirect maintenance bot',
+		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
+		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Category redirect maintenance robot',
 		'category_redirect-edit-request': u'The following protected pages have been detected as requiring updates to category links: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
-		'category_redirect-fix-double': u'Bot: fixing double-redirect',
+		'category_redirect-fix-double': u'Robot: Fixing double-redirect',
 	},
 	# Author: Airon90
 	'eo': {

@@ -31,7 +31,7 @@ msg = {
 		'editarticle-edit': u'Manuelle Bearbeitung: %(description)s',
 	},
 	'en': {
-		'editarticle-edit': u'Manual edit with bot: %(description)s',
+		'editarticle-edit': u'Manual edit with robot: %(description)s',
 	},
 	# Author: Airon90
 	'eo': {
