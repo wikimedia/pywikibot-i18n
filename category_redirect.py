@@ -439,12 +439,12 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'category_redirect-add-template': u'Robot: Dodaje szablon przekierowanej kategorii',
-		'category_redirect-change-category': u'Robot: Zmienia przekierowaną kategorię z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Robot porządkujący przekierowania kategorii',
+		'category_redirect-add-template': u'Robot dodaje szablon przekierowanej kategorii',
+		'category_redirect-change-category': u'Robot zmienia przekierowaną kategorię z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robot uporządkował przekierowania kategorii',
 		'category_redirect-edit-request': u'Następujące zabezpieczone strony wykryto jako wymagające poprawy kategorii: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s jest w %(oldcat)s, która jest przekierowaniem do %(newcat)s',
-		'category_redirect-fix-double': u'Robot: Naprawia podwójne przekierowanie',
+		'category_redirect-fix-double': u'Robot naprawia podwójne przekierowanie',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -639,6 +639,15 @@ msg = {
 		'category_redirect-edit-request': u'以下受保护的页面被检测到需要更新分类链接：%(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向',
 		'category_redirect-fix-double': u'机器人:修正双重重定向',
+	},
+	# Author: Waihorace
+	'zh-hant': {
+		'category_redirect-add-template': u'機械人：增加分類重定向模板供維護',
+		'category_redirect-change-category': u'機械人：更改分類重定向由[[:%(oldCatLink)s|%(oldCatTitle)s]]至[[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'分類重定向維護機械人',
+		'category_redirect-edit-request': u'以下被保護頁面已經被檢測到要更新分類連結：%(itemlist)s',
+		'category_redirect-edit-request-item': u'%(title)s是在%(oldcat)s，那是一個連結到%(newcat)s的重定向',
+		'category_redirect-fix-double': u'機械人：修復雙重重定向',
 	},
 	'zh-yue': {
 		'category_redirect-fix-double': u'機械人：拉直連串跳轉',

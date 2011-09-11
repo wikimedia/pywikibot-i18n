@@ -398,6 +398,7 @@ msg = {
 		'redirect-remove-loop': u'Bot: Redirect wiest wedder op sik sülvs',
 	},
 	# Author: Servien
+	# Author: Xqt
 	'nds-nl': {
 		'redirect-broken-redirect-template': u'{{vort|Kapotte deurverwiezing of deurverwijzing naor vort-edaone pagina}}',
 		'redirect-fix-double': u'Bot: dubbele deurverwiezing verbeterd naor %(to)s',

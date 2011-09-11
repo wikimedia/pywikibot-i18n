@@ -231,11 +231,12 @@ msg = {
 	'nv': {
 		'featured-featured': u'Naaltsoos %(page)s kʼad nizhónígo ályaa',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'featured-featured': u'Bot: Link do artykułu wyróżnionego %(page)s',
-		'featured-former': u'Bot: %(page)s jest byłym artykułem na medal',
-		'featured-good': u'Bot: Link do dobrego artykułu: %(page)s',
-		'featured-list': u'Bot: %(page)s jest listą medalową',
+		'featured-featured': u'Robot informuje, że %(page)s jest artykułem na medal',
+		'featured-former': u'Robot informuje, że %(page)s już nie jest artykułem na medal',
+		'featured-good': u'Robot informuje, że %(page)s jest dobrym artykułem',
+		'featured-list': u'Robot informuje, że %(page)s jest listą medalową',
 	},
 	# Author: Giro720
 	'pt': {

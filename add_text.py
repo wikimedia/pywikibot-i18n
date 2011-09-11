@@ -392,8 +392,9 @@ msg = {
 	'pfl': {
 		'add_text-adding': u'Bot: Aigfiecht %(adding)s',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'add_text-adding': u'Robot dodaje: %(adding)s',
+		'add_text-adding': u'Robot dopisał: %(adding)s',
 	},
 	'pms': {
 		'add_text-adding': u'ël trigomiro a gionta %(adding)s',

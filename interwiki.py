@@ -1234,12 +1234,12 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'interwiki-adding': u'robot dodaje %(adding)s',
-		'interwiki-adding-modifying': u'robot dodaje %(adding)s poprawia %(modifying)s',
-		'interwiki-adding-removing': u'robot dodaje %(adding)s usuwa %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot dodaje %(adding)s usuwa %(removing)s poprawia %(modifying)s',
+		'interwiki-adding': u'Robot dodaje %(adding)s',
+		'interwiki-adding-modifying': u'Robot dodaje %(adding)s i poprawia %(modifying)s',
+		'interwiki-adding-removing': u'Robot dodaje %(adding)s i usuwa %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot dodaje %(adding)s, usuwa %(removing)s i poprawia %(modifying)s',
 		'interwiki-modifying': u'robot poprawia %(modifying)s',
-		'interwiki-removing': u'robot usuwa %(removing)s',
+		'interwiki-removing': u'Robot usuwa %(removing)s',
 		'interwiki-removing-modifying': u'robot usuwa %(removing)s poprawia %(modifying)s',
 	},
 	'pms': {

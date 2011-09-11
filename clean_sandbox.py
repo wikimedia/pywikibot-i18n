@@ -213,4 +213,8 @@ msg = {
 	'zh-hans': {
 		'clean_sandbox-cleaned': u'机器人： 自动清除',
 	},
+	# Author: Waihorace
+	'zh-hant': {
+		'clean_sandbox-cleaned': u'機械人：自動清除',
+	},
 }

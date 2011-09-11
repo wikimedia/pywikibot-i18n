@@ -124,7 +124,7 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'editarticle-edit': u'Ręczna zmiana przy pomocy bota: %(description)s',
+		'editarticle-edit': u'Ręczna zmiana przy pomocy robota – %(description)s',
 	},
 	# Author: Giro720
 	'pt': {

@@ -231,8 +231,9 @@ msg = {
 	'pdc': {
 		'basic-changing': u'Waddefresser: ... ennere',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'basic-changing': u'Bot: zmienia ...',
+		'basic-changing': u'Robot zmienia...',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -315,5 +316,9 @@ msg = {
 	# Author: Shizhao
 	'zh-hans': {
 		'basic-changing': u'机器人： 修改...',
+	},
+	# Author: Waihorace
+	'zh-hant': {
+		'basic-changing': u'機械人：修改中...',
 	},
 }

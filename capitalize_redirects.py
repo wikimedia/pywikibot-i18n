@@ -95,7 +95,7 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'capitalize_redirects-create-redirect': u'Robot – utworzenie przekierowania do [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot tworzy przekierowanie do [[%(to)s]]',
 	},
 	# Author: Giro720
 	'pt': {
@@ -152,5 +152,9 @@ msg = {
 	},
 	'zh': {
 		'capitalize_redirects-create-redirect': u'機器人: 建立重定向至[[%(to)s]]',
+	},
+	# Author: Waihorace
+	'zh-hant': {
+		'capitalize_redirects-create-redirect': u'機械人：創建重定向至[[%(to)s]]',
 	},
 }
