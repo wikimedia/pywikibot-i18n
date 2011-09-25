@@ -274,9 +274,10 @@ msg = {
 		'cosmetic_changes-append': u'; klännere Ännerunge',
 		'cosmetic_changes-standalone': u'Bot: Klännere Ännerunge',
 	},
+	# Author: Sp5uhe
 	'pl': {
 		'cosmetic_changes-append': u'; zmiany kosmetyczne',
-		'cosmetic_changes-standalone': u'Robot dokonuje poprawek kosmetycznych',
+		'cosmetic_changes-standalone': u'Robot wykonał kosmetyczne poprawki',
 	},
 	# Author: Hamilton Abreu
 	'pt': {

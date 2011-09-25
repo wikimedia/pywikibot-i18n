@@ -157,8 +157,9 @@ msg = {
 	'frp': {
 		'add_text-adding': u'robot Apond %(adding)s',
 	},
+	# Author: Murma174
 	'frr': {
-		'add_text-adding': u'Bot:Diartudu %(adding)s',
+		'add_text-adding': u'Bot:Du %(adding)s diartu',
 	},
 	'fur': {
 		'add_text-adding': u'Robot: o zonti %(adding)s',

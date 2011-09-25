@@ -56,6 +56,10 @@ msg = {
 	'frp': {
 		'editarticle-edit': u'Changement manuèl grâce a un bot : %(description)s',
 	},
+	# Author: Murma174
+	'frr': {
+		'editarticle-edit': u'Manuel bewerke: %(description)s',
+	},
 	# Author: Toliño
 	'gl': {
 		'editarticle-edit': u'Edición manual con bot: %(description)s',

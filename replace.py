@@ -213,8 +213,9 @@ msg = {
 	'no': {
 		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'replace-replacing': u'Robot automatycznie zamienia tekst %(description)s',
+		'replace-replacing': u'Robot automatycznie zastąpił tekst %(description)s',
 	},
 	# Author: Hamilton Abreu
 	'pt': {

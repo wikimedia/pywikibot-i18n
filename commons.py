@@ -79,6 +79,11 @@ msg = {
 		'commons-file-moved': u'Lo [[:File:%(localfile)s|fichiér]] at étâ dèplaciê vers [[:commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'Ora, lo fichiér est disponiblo dessus [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Murma174
+	'frr': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Datei]] fersköwen tu [[:commons:File:%(commonsfile)s|Commons]].',
+		'commons-file-now-available': u'Datei as nü üüb [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Toliño
 	'gl': {
 		'commons-file-moved': u'O [[:File:%(localfile)s|ficheiro]] agora está en [[:commons:File:%(commonsfile)s|Commons]].',
@@ -170,8 +175,9 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttet til [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Filen er nå tilgjengelig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'commons-file-moved': u'[[:File:%(localfile)s|Plik]] przeniesiona do [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|Plik]] został przeniesiony do [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Plik jest teraz dostępny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Hamilton Abreu

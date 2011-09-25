@@ -51,6 +51,10 @@ msg = {
 	'frp': {
 		'noreferences-add-tag': u'Robot : aponsa de la balisa <references /> manquenta',
 	},
+	# Author: Murma174
+	'frr': {
+		'noreferences-add-tag': u'Bot: Ütjdruk <references /> waant',
+	},
 	# Author: Toliño
 	'gl': {
 		'noreferences-add-tag': u'Bot: Engado a etiqueta <references />, que faltaba',
@@ -116,8 +120,9 @@ msg = {
 	'pdc': {
 		'noreferences-add-tag': u'Waddefresse: Fehlendes <references /> dezu geduh',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'noreferences-add-tag': u'Robot dodaje szablon {{przypisy}}',
+		'noreferences-add-tag': u'Robot dodał brakujący znacznik <references />',
 	},
 	# Author: Giro720
 	'pt': {

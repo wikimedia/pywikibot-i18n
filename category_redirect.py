@@ -209,10 +209,10 @@ msg = {
 	},
 	# Author: Murma174
 	'frr': {
-		'category_redirect-add-template': u'Bot: Saat Kategoriiwidjerfeerangsföörlag diartu',
+		'category_redirect-add-template': u'Bot: Du kategoriiwidjerfeerangsföörlag diartu',
 		'category_redirect-change-category': u'Bot: Feranere widjerfeerd kategorii [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Bot för\'t üübpaasin faan kategoriiwidjerfeerangen',
-		'category_redirect-edit-request': u'Joheer seekert sidjen brük noch an en aktuel Kategoriilink: %(itemlist)s',
+		'category_redirect-edit-request': u'Joheer seekert sidjen brük noch an en aktuelen kategoriilink: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s leit uun %(oldcat)s, wat tu %(newcat)s widjerfeert',
 		'category_redirect-fix-double': u'Bot: Ferbeedre dobelt widjerfeerang',
 	},
@@ -268,12 +268,12 @@ msg = {
 	},
 	# Author: McDutchie
 	'ia': {
-		'category_redirect-add-template': u'Robot: adde patrono de redirection de categoria pro mantenentia',
-		'category_redirect-change-category': u'Robot: cambia le categoria redirigite [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Robot pro mantener categorias redirigite',
+		'category_redirect-add-template': u'Robot: Adde patrono de redirection de categoria pro mantenentia',
+		'category_redirect-change-category': u'Robot: Cambia le categoria redirigite [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robot pro mantener redirectiones de categorias',
 		'category_redirect-edit-request': u'Le sequente paginas protegite require actualisationes de ligamines a categorias: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s es in %(oldcat)s, le qual es un redirection a %(newcat)s',
-		'category_redirect-fix-double': u'Robot: reparation de duple redirection',
+		'category_redirect-edit-request-item': u'* %(title)s es in %(oldcat)s, que es un redirection a %(newcat)s',
+		'category_redirect-fix-double': u'Robot: Repara redirection duple',
 	},
 	# Author: IvanLanin
 	'id': {
@@ -439,12 +439,12 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'category_redirect-add-template': u'Robot dodaje szablon przekierowanej kategorii',
-		'category_redirect-change-category': u'Robot zmienia przekierowaną kategorię z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Robot uporządkował przekierowania kategorii',
-		'category_redirect-edit-request': u'Następujące zabezpieczone strony wykryto jako wymagające poprawy kategorii: %(itemlist)s',
+		'category_redirect-add-template': u'Robot dodał szablon przekierowania do kategorii',
+		'category_redirect-change-category': u'Robot zmienił przekierowanie do kategorii z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robot porządkuje przekierowania do kategorii',
+		'category_redirect-edit-request': u'Następujące zabezpieczone strony wykryto jako wymagające naprawy kategorii: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s jest w %(oldcat)s, która jest przekierowaniem do %(newcat)s',
-		'category_redirect-fix-double': u'Robot naprawia podwójne przekierowanie',
+		'category_redirect-fix-double': u'Robot naprawił podwójne przekierowanie',
 	},
 	# Author: Hamilton Abreu
 	'pt': {

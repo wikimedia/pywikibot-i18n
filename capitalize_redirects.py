@@ -36,6 +36,10 @@ msg = {
 	'fa': {
 		'capitalize_redirects-create-redirect': u'ربات: ایجاد تغییرمسیر به [[%(to)s]]',
 	},
+	# Author: Crt
+	'fi': {
+		'capitalize_redirects-create-redirect': u'Botti loi ohjauksen sivulle [[%(to)s]]',
+	},
 	# Author: Od1n
 	'fr': {
 		'capitalize_redirects-create-redirect': u'Robot : Créer redirection à [[%(to)s]]',
@@ -43,6 +47,10 @@ msg = {
 	# Author: ChrisPtDe
 	'frp': {
 		'capitalize_redirects-create-redirect': u'Robot : fâre una redirèccion a [[%(to)s]]',
+	},
+	# Author: Murma174
+	'frr': {
+		'capitalize_redirects-create-redirect': u'Bot: Maage widjerfeerang tu [[%(to)s]]',
 	},
 	# Author: Toliño
 	'gl': {
@@ -53,7 +61,7 @@ msg = {
 	},
 	# Author: McDutchie
 	'ia': {
-		'capitalize_redirects-create-redirect': u'Robot: Crear redirection a [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot: Crea redirection a [[%(to)s]]',
 	},
 	# Author: Farras
 	'id': {
@@ -80,6 +88,10 @@ msg = {
 	# Author: Diagramma Della Verita
 	'ms': {
 		'capitalize_redirects-create-redirect': u'Robot: Menghasilkan redirect ke [[%(to)s]]',
+	},
+	# Author: Chrisportelli
+	'mt': {
+		'capitalize_redirects-create-redirect': u'Robot: Maħluq rindirizz lejn [[%(to)s]]',
 	},
 	# Author: Servien
 	'nds-nl': {

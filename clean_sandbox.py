@@ -73,6 +73,10 @@ msg = {
 	'frp': {
 		'clean_sandbox-cleaned': u'Robot : neteyê ôtomaticament',
 	},
+	# Author: Murma174
+	'frr': {
+		'clean_sandbox-cleaned': u'Bot: Automaatisk apredet',
+	},
 	# Author: Toliño
 	'gl': {
 		'clean_sandbox-cleaned': u'Bot: Limpeza automática',
@@ -144,8 +148,9 @@ msg = {
 	'no': {
 		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'clean_sandbox-cleaned': u'Robot czyści brudnopis',
+		'clean_sandbox-cleaned': u'Robot oczyścił automatycznie',
 	},
 	# Author: Hamilton Abreu
 	'pt': {

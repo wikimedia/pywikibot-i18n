@@ -196,9 +196,9 @@ msg = {
 	},
 	# Author: SMP
 	'ca': {
-		'category-adding': u'Robot: Afegint [[Categoria:%(newcat)s]]',
+		'category-adding': u'Robot: Afegint la categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(també a %(alsocat)s)',
-		'category-changing': u'Robot: Canviant %(oldcat)s',
+		'category-changing': u'Robot: Canviant %(oldcat)s a %(newcat)s',
 		'category-listifying': u'Robot: Llistant de %(fromcat)s (%(num)d entrades)',
 		'category-removing': u'Robot: Eliminant de %(oldcat)s',
 		'category-replacing': u'Robot: Substitució de la categoria %(oldcat)s per %(newcat)s',
@@ -397,9 +397,9 @@ msg = {
 	# Author: Murma174
 	# Author: Merlissimo
 	'frr': {
-		'category-adding': u'Bot: Saat Kategoriie [[:Category:%(newcat)s|%(newcat)s]] diartu',
+		'category-adding': u'Bot: Du kategoriie [[:Category:%(newcat)s|%(newcat)s]] diartu',
 		'category-also-in': u'(uk uun %(alsocat)s)',
-		'category-changing': u'Bot: Feranere %(oldcat)s',
+		'category-changing': u'Feranere %(oldcat)s tu %(newcat)s',
 		'category-listifying': u'Bot: List faan %(fromcat)s (%(num)d iindracher)',
 		'category-removing': u'Bot: Strik ütj %(oldcat)s',
 		'category-replacing': u'Bot: Waksle kategorii %(oldcat)s ütj mä %(newcat)s',
@@ -509,8 +509,8 @@ msg = {
 		'category-adding': u'Robot: Addition del categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(equalmente in %(alsocat)s)',
 		'category-changing': u'Robot: Cambia %(oldcat)s a %(newcat)s',
-		'category-listifying': u'Robot: Face lista de articulos in %(fromcat)s (%(num)d elementos)',
-		'category-removing': u'Robot: Eliminate de %(oldcat)s',
+		'category-listifying': u'Robot: Face lista de articulos in %(fromcat)s ({{PLURAL:%(num)d|1 entrata|%(num)d entratas}})',
+		'category-removing': u'Robot: Removite de %(oldcat)s',
 		'category-replacing': u'Robot: Reimplacia categoria %(oldcat)s per %(newcat)s',
 		'category-was-disbanded': u'Robot: Le categoria ha essite dissolvite',
 		'category-was-moved': u'Robot: Categoria renominate a [[:Category:%(newcat)s|%(title)s]]',
@@ -805,9 +805,9 @@ msg = {
 	},
 	# Author: Chrisportelli
 	'mt': {
-		'category-adding': u'Bot: Żieda ta\' [[Kategorija:%(newcat)s]]',
+		'category-adding': u'Robot: Miżjuda l-kategorija [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(anki f\'%(alsocat)s)',
-		'category-changing': u'Bot: Bidla f\'%(oldcat)s',
+		'category-changing': u'Robot: Bidla f\'%(oldcat)s għal %(newcat)s',
 		'category-listifying': u'Bot: Lista tal-kontenut minn %(fromcat)s (%(num)d paġna)',
 		'category-removing': u'Bot: Tneħħija minn %(oldcat)s',
 		'category-replacing': u'Bot: Sostituzzjoni tal-kategorija %(oldcat)s ma\' %(newcat)s',

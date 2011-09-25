@@ -555,12 +555,12 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'solve_disambiguation-adding-dn-template': u'Wspomagane robotem ujednoznacznienie – %(from)s – oznaczone jako wymagające uwagi eksperta',
-		'solve_disambiguation-links-removed': u'Wspomagane przez robota ujednoznacznienie: %(from)s - Usunięto link(i)',
-		'solve_disambiguation-links-resolved': u'Wspomagane przez robota ujednoznacznienie: %(from)s - Zmieniono link(i) %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Wspomagane robotem ujednoznacznienie – %(from)s – oznaczone jako wymagające uwagi eksperta',
-		'solve_disambiguation-redirect-removed': u'Wspomagane przez robota ujednoznacznienie: %(from)s - Usunięto link(i)',
-		'solve_disambiguation-redirect-resolved': u'Wspomagane przez robota ujednoznacznienie: %(from)s - Zmieniono link(i) %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – oznaczono jako wymagające uwagi eksperta',
+		'solve_disambiguation-links-removed': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – usunięto link(i)',
+		'solve_disambiguation-links-resolved': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – zmieniono link(i) do %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – oznaczono jako wymagające uwagi eksperta',
+		'solve_disambiguation-redirect-removed': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – usunięto link(i)',
+		'solve_disambiguation-redirect-resolved': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – zmieniono link(i) do %(to)s',
 		'solve_disambiguation-unknown-page': u'(nieznana)',
 	},
 	# Author: Ahmed-Najib-Biabani-Ibrahimkhel

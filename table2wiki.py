@@ -63,6 +63,12 @@ msg = {
 		'table2wiki-one-warning': u'Robot : vouiquificacion sintaxa tablôs - 1 avèrtissement !',
 		'table2wiki-warnings': u'Robot : vouiquificacion sintaxa tablôs - %(count)d avèrtissements !',
 	},
+	# Author: Murma174
+	'frr': {
+		'table2wiki-no-warning': u'Bot: Tabelenformaat apwerket',
+		'table2wiki-one-warning': u'Bot: Tabelenformaat apwerket - 1 wäärnang!',
+		'table2wiki-warnings': u'Bot: Tabelenformaat apwerket - %(count)d wäärnangen!',
+	},
 	# Author: Toliño
 	'gl': {
 		'table2wiki-no-warning': u'Bot: Actualizo a sintaxe da táboa',
@@ -140,10 +146,11 @@ msg = {
 		'table2wiki-one-warning': u'bot: Konverterer tabellsyntaks – 1 advarsel!',
 		'table2wiki-warnings': u'bot: Konverterer tabellsyntaks – %(count)d advarsler!',
 	},
+	# Author: Sp5uhe
 	'pl': {
-		'table2wiki-no-warning': u'Kontrolowany przez użytkownika robot poprawia składnię tabeli',
-		'table2wiki-one-warning': u'Kontrolowany przez użytkownika robot poprawia składnię tabeli - 1 ostrzeżenie!',
-		'table2wiki-warnings': u'Kontrolowany przez użytkownika robot poprawia składnię tabeli - %(count)d ostrzeżeń!',
+		'table2wiki-no-warning': u'Kontrolowany przez użytkownika robot poprawił składnię tabeli',
+		'table2wiki-one-warning': u'Kontrolowany przez użytkownika robot poprawił składnię tabeli – 1 ostrzeżenie!',
+		'table2wiki-warnings': u'Kontrolowany przez użytkownika robot poprawił składnię tabeli – %(count)d ostrzeżeń!',
 	},
 	'pt': {
 		'table2wiki-no-warning': u'Bot: Sintaxe da tabela HTML para Wiki atualizada',

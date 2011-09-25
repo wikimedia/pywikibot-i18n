@@ -443,7 +443,7 @@ msg = {
 	# Author: Sp5uhe
 	'pl': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Robot naprawia podwójne przekierowanie do %(to)s',
+		'redirect-fix-double': u'Robot naprawił podwójne przekierowanie do %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]] – [[Wikipedia:Redirect|przekierowanie]] do usuniętej lub nieistniejącej strony',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]] – pętla [[Wikipedia:Redirect|przekierowań]]',
 	},

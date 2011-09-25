@@ -204,6 +204,10 @@ msg = {
 	'ms': {
 		'basic-changing': u'Bot: Mengubah ...',
 	},
+	# Author: Chrisportelli
+	'mt': {
+		'basic-changing': u'Robot: Qiegħed jimmodifika ...',
+	},
 	# Author: Lionslayer
 	'my': {
 		'basic-changing': u'ဘော့ - ပြောင်းနေသည်...',

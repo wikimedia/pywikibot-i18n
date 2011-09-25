@@ -69,6 +69,10 @@ msg = {
 		'welcome-updating': u'ربات: به روز رسانی سیاهه',
 		'welcome-welcome': u'خوش آمدید!',
 	},
+	# Author: Crt
+	'fi': {
+		'welcome-updating': u'Botti päivitti lokia',
+	},
 	# Author: Od1n
 	'fr': {
 		'welcome-bad_username': u'Bot : Ajout d\'un nom d\'utilisateur qui doit être vérifié',
@@ -80,6 +84,12 @@ msg = {
 		'welcome-bad_username': u'Bot : aponsa d’un nom d’utilisator que dêt étre controlâ',
 		'welcome-updating': u'Bot : misa a jorn du jornal',
 		'welcome-welcome': u'Benvegnua !',
+	},
+	# Author: Murma174
+	'frr': {
+		'welcome-bad_username': u'Bot: Du en brükernööm diartu, di auerwerket wurd skal',
+		'welcome-updating': u'Bot: Logdatei woort auerwerket',
+		'welcome-welcome': u'Welkimen!',
 	},
 	'ga': {
 		'welcome-updating': u'Bot: Log a thabhairt suas chun dáta',
@@ -146,6 +156,10 @@ msg = {
 		'welcome-updating': u'Bot: Pengemaskinian log',
 		'welcome-welcome': u'Selamat datang!',
 	},
+	# Author: Chrisportelli
+	'mt': {
+		'welcome-welcome': u'Merħba!',
+	},
 	# Author: Servien
 	'nds-nl': {
 		'welcome-bad_username': u'Bot: nao te kieken gebrukersnaam derbie ezet',
@@ -171,8 +185,8 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'welcome-bad_username': u'Bot – dodanie nazwy użytkownika, która wymaga sprawdzenia',
-		'welcome-updating': u'Bot – aktualizacja dziennika',
+		'welcome-bad_username': u'Robot dodał nazwę użytkownika, która wymaga sprawdzenia',
+		'welcome-updating': u'Robot zaktualizował dziennik',
 		'welcome-welcome': u'Witaj!',
 	},
 	# Author: Giro720

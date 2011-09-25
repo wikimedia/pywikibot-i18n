@@ -142,7 +142,7 @@ msg = {
 	},
 	# Author: McDutchie
 	'ia': {
-		'featured-featured': u'Robot: Ligamine verso articulo eminente %(page)s',
+		'featured-featured': u'Robot: %(page)s es un articulo eminente',
 		'featured-former': u'Robot: %(page)s es un ancian articulo eminente',
 		'featured-good': u'Robot: %(page)s es un bon articulo',
 		'featured-list': u'Robot: %(page)s es un lista eminente',

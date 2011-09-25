@@ -324,14 +324,15 @@ msg = {
 		'interwiki-removing': u'robot yn tynnu: %(removing)s',
 		'interwiki-removing-modifying': u'robot yn tynnu: %(removing)s yn newid: %(modifying)s',
 	},
+	# Author: Peter Alberti
 	'da': {
-		'interwiki-adding': u'robot Tilføjer: %(adding)s',
-		'interwiki-adding-modifying': u'robot Tilføjer: %(adding)s Ændrer: %(modifying)s',
-		'interwiki-adding-removing': u'robot Tilføjer: %(adding)s Fjerner: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Tilføjer: %(adding)s Fjerner: %(removing)s Ændrer: %(modifying)s',
-		'interwiki-modifying': u'robot Ændrer: %(modifying)s',
-		'interwiki-removing': u'robot Fjerner: %(removing)s',
-		'interwiki-removing-modifying': u'robot Fjerner: %(removing)s Ændrer: %(modifying)s',
+		'interwiki-adding': u'Robot tilføjer %(adding)s',
+		'interwiki-adding-modifying': u'Robot tilføjer: %(adding)s og ændrer: %(modifying)s',
+		'interwiki-adding-removing': u'Robot tilføjer: %(adding)s og fjerner: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot tilføjer: %(adding)s, fjerner: %(removing)s og ændrer: %(modifying)s',
+		'interwiki-modifying': u'Robot ændrer %(modifying)s',
+		'interwiki-removing': u'Robot fjerner %(removing)s',
+		'interwiki-removing-modifying': u'Robot fjerner: %(removing)s og ændrer: %(modifying)s',
 	},
 	# Author: Xqt
 	'de': {
@@ -484,11 +485,12 @@ msg = {
 		'interwiki-removing': u'robot Enlève: %(removing)s',
 		'interwiki-removing-modifying': u'robot Enlève: %(removing)s Change: %(modifying)s',
 	},
+	# Author: Murma174
 	'frr': {
-		'interwiki-adding': u'Bot:Diartudu: %(adding)s',
-		'interwiki-adding-modifying': u'Bot:Diartudu: %(adding)s Feranere: %(modifying)s',
-		'interwiki-adding-removing': u'Bot:Diartudu: %(adding)s Wechnem: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot:Diartudu: %(adding)s Wechnem: %(removing)s Feranere: %(modifying)s',
+		'interwiki-adding': u'Bot:Du %(adding)s diartu',
+		'interwiki-adding-modifying': u'Bot:Du %(adding)s diartu; feranere: %(modifying)s',
+		'interwiki-adding-removing': u'Bot:Du %(adding)s diartu; nem %(removing)s wech',
+		'interwiki-adding-removing-modifying': u'Bot:Du %(adding)s diartu; nem %(removing)s wech; feranere: %(modifying)s',
 		'interwiki-modifying': u'Bot:Feranere: %(modifying)s',
 		'interwiki-removing': u'Bot:Wechnem: %(removing)s',
 		'interwiki-removing-modifying': u'Bot:Wechnem: %(removing)s Feranere: %(modifying)s',
@@ -629,14 +631,15 @@ msg = {
 		'interwiki-removing': u'Ռոբոտը հեռացնում է․: %(removing)s',
 		'interwiki-removing-modifying': u'Ռոբոտը հեռացնում է․: %(removing)s փոփոխում է․: %(modifying)s',
 	},
+	# Author: McDutchie
 	'ia': {
-		'interwiki-adding': u'Robot: Addition de: %(adding)s',
-		'interwiki-adding-modifying': u'Robot: Addition de: %(adding)s Modification de: %(modifying)s',
-		'interwiki-adding-removing': u'Robot: Addition de: %(adding)s Elimination de: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: Addition de: %(adding)s Elimination de: %(removing)s Modification de: %(modifying)s',
-		'interwiki-modifying': u'Robot: Modification de: %(modifying)s',
-		'interwiki-removing': u'Robot: Elimination de: %(removing)s',
-		'interwiki-removing-modifying': u'Robot: Elimination de: %(removing)s Modification de: %(modifying)s',
+		'interwiki-adding': u'Robot: Addition de %(adding)s',
+		'interwiki-adding-modifying': u'Robot: Addition de %(adding)s; modification de %(modifying)s',
+		'interwiki-adding-removing': u'Robot: Addition de %(adding)s; elimination de %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: Addition de %(adding)s; elimination de %(removing)s; modification de %(modifying)s',
+		'interwiki-modifying': u'Robot: Modification de %(modifying)s',
+		'interwiki-removing': u'Robot: Elimination de %(removing)s',
+		'interwiki-removing-modifying': u'Robot: Elimination de %(removing)s; modification de %(modifying)s',
 	},
 	'id': {
 		'interwiki-adding': u'bot Menambah: %(adding)s',
@@ -1126,10 +1129,11 @@ msg = {
 	},
 	# Author: Siebrand
 	# Author: Romaine
+	# Author: McDutchie
 	'nl': {
 		'interwiki-adding': u'Robot: toegevoegd: %(adding)s',
 		'interwiki-adding-modifying': u'Robot: toegevoegd: %(adding)s, gewijzigd: %(modifying)s',
-		'interwiki-adding-removing': u'Robot: toegevoegd: %(adding)s, gewijzigd: %(removing)s',
+		'interwiki-adding-removing': u'Robot: toegevoegd: %(adding)s, verwijderd: %(removing)s',
 		'interwiki-adding-removing-modifying': u'Robot: toegevoegd: %(adding)s, verwijderd: %(removing)s, gewijzigd: %(modifying)s',
 		'interwiki-modifying': u'Robot: gewijzigd: %(modifying)s',
 		'interwiki-removing': u'Robot: verwijderd: %(removing)s',
@@ -1234,13 +1238,13 @@ msg = {
 	},
 	# Author: Sp5uhe
 	'pl': {
-		'interwiki-adding': u'Robot dodaje %(adding)s',
-		'interwiki-adding-modifying': u'Robot dodaje %(adding)s i poprawia %(modifying)s',
-		'interwiki-adding-removing': u'Robot dodaje %(adding)s i usuwa %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot dodaje %(adding)s, usuwa %(removing)s i poprawia %(modifying)s',
-		'interwiki-modifying': u'robot poprawia %(modifying)s',
-		'interwiki-removing': u'Robot usuwa %(removing)s',
-		'interwiki-removing-modifying': u'robot usuwa %(removing)s poprawia %(modifying)s',
+		'interwiki-adding': u'Robot dodał %(adding)s',
+		'interwiki-adding-modifying': u'Robot dodał %(adding)s i poprawił %(modifying)s',
+		'interwiki-adding-removing': u'Robot dodał %(adding)s i usunął %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot dodał %(adding)s, usunął %(removing)s i poprawił %(modifying)s',
+		'interwiki-modifying': u'Robot poprawił %(modifying)s',
+		'interwiki-removing': u'Robot usunął %(removing)s',
+		'interwiki-removing-modifying': u'Robot usunął %(removing)s i poprawił %(modifying)s',
 	},
 	'pms': {
 		'interwiki-adding': u'ël trigomiro a gionta: %(adding)s',
