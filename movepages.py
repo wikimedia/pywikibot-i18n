@@ -7,13 +7,13 @@ msg = {
 		'movepages-moving': u'Robot přesunul stránku',
 	},
 	'de': {
-		'movepages-moving': u'Bot: Seite %(from)s nach %(to)s verschoben',
+		'movepages-moving': u'Bot: Seite verschoben',
 	},
 	'el': {
 		'movepages-moving': u'Μετακίνηση σελίδων με bot',
 	},
 	'en': {
-		'movepages-moving': u'Robot: Moved page %(from)s to %(to)s',
+		'movepages-moving': u'Robot: Moved page',
 	},
 	'fa': {
 		'movepages-moving': u'ربات: صفحه منتقل شد',
