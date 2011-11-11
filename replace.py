@@ -274,6 +274,10 @@ msg = {
 	'tl': {
 		'replace-replacing': u'Bot: Kusang pagpapalit ng teksto %(description)s',
 	},
+	# Author: Гусейн
+	'tly': {
+		'replace-replacing': u'Робот: Мәтни автоматик дәгиш кардеј %(description)s',
+	},
 	# Author: Emperyan
 	'tr': {
 		'replace-replacing': u'Bot: Otomatik metin değiştirme %(description)s',
@@ -293,6 +297,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'replace-replacing': u'Bot: Tự động thay thế văn bản %(description)s',
+	},
+	# Author: Demmy
+	'yo': {
+		'replace-replacing': u'Bot: Ìdípò ìkọ̀rọ̀ oníaraẹni %(description)s',
 	},
 	'zh': {
 		'replace-replacing': u'機器人:執行文字代換作業 %(description)s',

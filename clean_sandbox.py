@@ -30,6 +30,10 @@ msg = {
 	'bs': {
 		'clean_sandbox-cleaned': u'Robot: Automatsko čišćenje',
 	},
+	# Author: SMP
+	'ca': {
+		'clean_sandbox-cleaned': u'Robot: Netejat automàticament',
+	},
 	'cs': {
 		'clean_sandbox-cleaned': u'Uhrabání pískoviště',
 	},
@@ -101,6 +105,10 @@ msg = {
 	# Author: Renan
 	'ie': {
 		'clean_sandbox-cleaned': u'Machine: Demuddat automaticmen',
+	},
+	# Author: Snævar
+	'is': {
+		'clean_sandbox-cleaned': u'Vélmenni: Hreinsaði sandkassann sjálfvirkt',
 	},
 	'it': {
 		'clean_sandbox-cleaned': u'Bot: pulitura sandbox',
@@ -194,6 +202,10 @@ msg = {
 	},
 	'th': {
 		'clean_sandbox-cleaned': u'โรบอต: กำลังจะเก็บกวาดหน้านี้โดยอัตโนมัติ',
+	},
+	# Author: Гусейн
+	'tly': {
+		'clean_sandbox-cleaned': u'Робот: Автоматик тәмиз кардеј',
 	},
 	# Author: Khutuck
 	'tr': {

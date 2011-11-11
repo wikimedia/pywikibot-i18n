@@ -215,6 +215,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s',
 		'solve_disambiguation-unknown-page': u'(tuntematon)',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'solve_disambiguation-unknown-page': u'(ókent)',
+	},
 	# Author: IAlex
 	# Author: Sherbrooke
 	# Author: Od1n
@@ -342,6 +346,16 @@ msg = {
 	# Author: Sapral Mikail
 	'inh': {
 		'solve_disambiguation-unknown-page': u'(довзаш дац)',
+	},
+	# Author: Snævar
+	'is': {
+		'solve_disambiguation-adding-dn-template': u'Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Beiðni um aðkomu sérfræðings',
+		'solve_disambiguation-links-removed': u'Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Fjarlægði tengilinn',
+		'solve_disambiguation-links-resolved': u'Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Breytti tenglum í %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Beiðni um aðkomu sérfræðings',
+		'solve_disambiguation-redirect-removed': u'Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Fjarlægði tengilinn',
+		'solve_disambiguation-redirect-resolved': u'Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Breytti tenglinum í %(to)s',
+		'solve_disambiguation-unknown-page': u'(óþekkt)',
 	},
 	# Author: Beta16
 	# Author: Rippitippi
@@ -714,6 +728,16 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Paglilinaw na tinutulungan ng robot: %(from)s - Tinanggal na (mga) kawing',
 		'solve_disambiguation-redirect-resolved': u'Paglilinaw na tinutulungan ng robot: %(from)s - Binago ang (mga) kawing na naging %(to)s',
 		'solve_disambiguation-unknown-page': u'(hindi nalalaman)',
+	},
+	# Author: Гусейн
+	'tly': {
+		'solve_disambiguation-adding-dn-template': u'Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Нышон ноә быә бәнә әһлихыбирә дығғәти тәләб кардејдә',
+		'solve_disambiguation-links-removed': u'Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Тәмиз карде ситот(он)',
+		'solve_disambiguation-links-resolved': u'Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Changed link(s) to %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Нышон ноә быә бәнә әһлихыбирә дығғәти тәләб кардејдә',
+		'solve_disambiguation-redirect-removed': u'Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Тәмиз карде ситот(он)',
+		'solve_disambiguation-redirect-resolved': u'Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Changed link(s) to %(to)s',
+		'solve_disambiguation-unknown-page': u'(номәлум)',
 	},
 	# Author: Emperyan
 	# Author: Vito Genovese

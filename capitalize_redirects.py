@@ -19,8 +19,16 @@ msg = {
 	'br': {
 		'capitalize_redirects-create-redirect': u'Robot : Krouiñ un adkas evit [[%(to)s]]',
 	},
+	# Author: SMP
+	'ca': {
+		'capitalize_redirects-create-redirect': u'Robot: Crea una redirecció a [[%(to)s]]',
+	},
 	'cs': {
 		'capitalize_redirects-create-redirect': u'Robot vytvořil přesměrování na [[%(to)s]]',
+	},
+	# Author: Pwyll
+	'cy': {
+		'capitalize_redirects-create-redirect': u'Robot: Creu ailgyfeiriad i [[%(to)s]]',
 	},
 	# Author: Peter Alberti
 	'da': {
@@ -56,6 +64,10 @@ msg = {
 	'gl': {
 		'capitalize_redirects-create-redirect': u'Bot: Creo unha redirección cara a "[[%(to)s]]"',
 	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'capitalize_redirects-create-redirect': u'Bötli: e Wyterleitig uff [[%(to)s]] aaglait',
+	},
 	'he': {
 		'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
 	},
@@ -66,6 +78,10 @@ msg = {
 	# Author: Farras
 	'id': {
 		'capitalize_redirects-create-redirect': u'Robot: Buat pengalihan ke [[%(to)s]]',
+	},
+	# Author: Snævar
+	'is': {
+		'capitalize_redirects-create-redirect': u'Vélmenni: Bý til tilvísun á [[%(to)s]]',
 	},
 	# Author: Beta16
 	'it': {
@@ -80,6 +96,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'capitalize_redirects-create-redirect': u'Bot:Viruleedung op [[%(to)s]] ugeluecht',
+	},
+	# Author: Jagwar
+	'mg': {
+		'capitalize_redirects-create-redirect': u'Rôbô : famoronana fihodinana mankany amin\'i [[%(to)s]]',
 	},
 	# Author: Bjankuloski06
 	'mk': {
@@ -100,6 +120,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'capitalize_redirects-create-redirect': u'Robot: doorverwijzing gemaakt naar [[%(to)s]]',
+	},
+	# Author: Marinsb
+	'nn': {
+		'capitalize_redirects-create-redirect': u'Omdirigerar til [[%(to)s]]',
 	},
 	# Author: Nghtwlkr
 	'no': {
@@ -138,6 +162,10 @@ msg = {
 	},
 	'sv': {
 		'capitalize_redirects-create-redirect': u'Bot: Omdirigerar till [[%(to)s]]',
+	},
+	# Author: Гусейн
+	'tly': {
+		'capitalize_redirects-create-redirect': u'Робот: Офәјә быә унвони дәгиш кардеј бә [[%(to)s]]',
 	},
 	# Author: Khutuck
 	'tr': {

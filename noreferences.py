@@ -22,6 +22,10 @@ msg = {
 	'br': {
 		'noreferences-add-tag': u'Robot: Ouzhpennañ ar balizenn <references /> hag a vank',
 	},
+	# Author: SMP
+	'ca': {
+		'noreferences-add-tag': u'Robot: Afegint l\'etiqueta <references /> que mancava',
+	},
 	'cs': {
 		'noreferences-add-tag': u'Robot doplnil chybějící <references />',
 	},
@@ -59,6 +63,10 @@ msg = {
 	'gl': {
 		'noreferences-add-tag': u'Bot: Engado a etiqueta <references />, que faltaba',
 	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'noreferences-add-tag': u'Bötli: Due e <references /> Markierig, wo no gfäält het, yyfiege',
+	},
 	'he': {
 		'noreferences-add-tag': u'בוט: מוסיף תגית <references /> חסרה',
 	},
@@ -76,6 +84,10 @@ msg = {
 	# Author: Farras
 	'id': {
 		'noreferences-add-tag': u'Robot: Menambahkan tag <references /> yang hilang',
+	},
+	# Author: Snævar
+	'is': {
+		'noreferences-add-tag': u'Vélmenni: Bæti við <references /> tákni',
 	},
 	'it': {
 		'noreferences-add-tag': u'Bot: Aggiungo il tag <references /> mancante',
@@ -97,6 +109,10 @@ msg = {
 	'lt': {
 		'noreferences-add-tag': u'robotas: Pridedama trūkstama <references /> žymė',
 	},
+	# Author: Jagwar
+	'mg': {
+		'noreferences-add-tag': u'Rôbô : Fanampiana ny balizy <references/> izay tsy ampy',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'noreferences-add-tag': u'Робот: Додава отсутна ознака <references />',
@@ -117,8 +133,9 @@ msg = {
 	'no': {
 		'noreferences-add-tag': u'Robot: Legger til manglende <references />-element',
 	},
+	# Author: Xqt
 	'pdc': {
-		'noreferences-add-tag': u'Waddefresse: Fehlendes <references /> dezu geduh',
+		'noreferences-add-tag': u'Waddefresser: Fehlendes <references /> dezu geduh',
 	},
 	# Author: Sp5uhe
 	'pl': {
@@ -157,6 +174,10 @@ msg = {
 	},
 	'szl': {
 		'noreferences-add-tag': u'Bot dodowo szablon {{Przipisy}}',
+	},
+	# Author: Гусейн
+	'tly': {
+		'noreferences-add-tag': u'Робот: Ныбә <references /> әломәт зијод кардә быә',
 	},
 	# Author: Khutuck
 	'tr': {

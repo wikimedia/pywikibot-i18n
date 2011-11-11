@@ -486,14 +486,15 @@ msg = {
 		'interwiki-removing-modifying': u'robot Enlève: %(removing)s Change: %(modifying)s',
 	},
 	# Author: Murma174
+	# Author: Merlissimo
 	'frr': {
 		'interwiki-adding': u'Bot:Du %(adding)s diartu',
 		'interwiki-adding-modifying': u'Bot:Du %(adding)s diartu; feranere: %(modifying)s',
 		'interwiki-adding-removing': u'Bot:Du %(adding)s diartu; nem %(removing)s wech',
 		'interwiki-adding-removing-modifying': u'Bot:Du %(adding)s diartu; nem %(removing)s wech; feranere: %(modifying)s',
 		'interwiki-modifying': u'Bot:Feranere: %(modifying)s',
-		'interwiki-removing': u'Bot:Wechnem: %(removing)s',
-		'interwiki-removing-modifying': u'Bot:Wechnem: %(removing)s Feranere: %(modifying)s',
+		'interwiki-removing': u'Bot:Nem %(removing)s wech',
+		'interwiki-removing-modifying': u'Bot:Nem %(removing)s wech; Feranere: %(modifying)s',
 	},
 	'fur': {
 		'interwiki-adding': u'Robot: o zonti: %(adding)s',
@@ -668,14 +669,15 @@ msg = {
 		'interwiki-removing': u'roboto efacas: %(removing)s',
 		'interwiki-removing-modifying': u'roboto efacas: %(removing)s modifikas: %(modifying)s',
 	},
+	# Author: Snævar
 	'is': {
-		'interwiki-adding': u'robot Bæti við: %(adding)s',
-		'interwiki-adding-modifying': u'robot Bæti við: %(adding)s Breyti: %(modifying)s',
-		'interwiki-adding-removing': u'robot Bæti við: %(adding)s Fjarlægi: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Bæti við: %(adding)s Fjarlægi: %(removing)s Breyti: %(modifying)s',
-		'interwiki-modifying': u'robot Breyti: %(modifying)s',
-		'interwiki-removing': u'robot Fjarlægi: %(removing)s',
-		'interwiki-removing-modifying': u'robot Fjarlægi: %(removing)s Breyti: %(modifying)s',
+		'interwiki-adding': u'Vélmenni: Bæti við: %(adding)s',
+		'interwiki-adding-modifying': u'Vélmenni: Bæti við: %(adding)s Breyti: %(modifying)s',
+		'interwiki-adding-removing': u'Vélmenni: Bæti við: %(adding)s Fjarlægi: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Vélmenni: Bæti við: %(adding)s Fjarlægi: %(removing)s Breyti: %(modifying)s',
+		'interwiki-modifying': u'Vélmenni: Breyti: %(modifying)s',
+		'interwiki-removing': u'Vélmenni: Fjarlægi: %(removing)s',
+		'interwiki-removing-modifying': u'Vélmenni: Fjarlægi: %(removing)s Breyti: %(modifying)s',
 	},
 	'it': {
 		'interwiki-adding': u'Bot: Aggiungo: %(adding)s',
@@ -1572,6 +1574,16 @@ msg = {
 		'interwiki-removing': u'robot tinanggal: %(removing)s',
 		'interwiki-removing-modifying': u'robot tinanggal: %(removing)s binago: %(modifying)s',
 	},
+	# Author: Гусейн
+	'tly': {
+		'interwiki-adding': u'Робот: зијод кардыше %(adding)s',
+		'interwiki-adding-modifying': u'Робот: зијод кардыше %(adding)s; дәгиш кардыше %(modifying)s',
+		'interwiki-adding-removing': u'Робот: зијод кардыше %(adding)s; тәмиз кардыше: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Робот: Зијод кардыше %(adding)s; тәмиз кардыше %(removing)s; дәгиш кардыше %(modifying)s',
+		'interwiki-modifying': u'Робот: Дәгиш кардыше %(modifying)s',
+		'interwiki-removing': u'Робот: тәмиз кардыше %(removing)s',
+		'interwiki-removing-modifying': u'Робот: Тәмиз кардыше %(removing)s; дәгиш кардыше %(modifying)s',
+	},
 	'to': {
 		'interwiki-adding': u'mīsiniʻoku tānaki: %(adding)s',
 		'interwiki-adding-modifying': u'mīsiniʻoku tānaki: %(adding)s ʻoku liliu: %(modifying)s',
@@ -1725,14 +1737,15 @@ msg = {
 		'interwiki-removing': u'באט אראפגענומען: %(removing)s',
 		'interwiki-removing-modifying': u'באט אראפגענומען: %(removing)s געענדערט: %(modifying)s',
 	},
+	# Author: Demmy
 	'yo': {
-		'interwiki-adding': u'Bot Fífikún: %(adding)s',
-		'interwiki-adding-modifying': u'Bot Fífikún: %(adding)s Títúnṣe: %(modifying)s',
-		'interwiki-adding-removing': u'Bot Fífikún: %(adding)s Yíyọkúrò: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot Fífikún: %(adding)s Yíyọkúrò: %(removing)s Títúnṣe: %(modifying)s',
-		'interwiki-modifying': u'Bot Títúnṣe: %(modifying)s',
-		'interwiki-removing': u'Bot Yíyọkúrò: %(removing)s',
-		'interwiki-removing-modifying': u'Bot Yíyọkúrò: %(removing)s Títúnṣe: %(modifying)s',
+		'interwiki-adding': u'Bot: Ìfikún %(adding)s',
+		'interwiki-adding-modifying': u'Bot: Ìfikún %(adding)s; ìtúnṣe %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Ìfikún %(adding)s; ìyọkúrò: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Ìfikún %(adding)s; ìyọkúrò %(removing)s; ìtúnṣe %(modifying)s',
+		'interwiki-modifying': u'Bot: Ìtúnṣe %(modifying)s',
+		'interwiki-removing': u'Bot: Ìyọkúrò %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Ìyọkúrò %(removing)s; ìtúnṣe %(modifying)s',
 	},
 	'yue': {
 		'interwiki-adding': u'機械人 加: %(adding)s',

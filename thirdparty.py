@@ -49,7 +49,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nСтворанае апісаньне з і на: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(няма рэдагаваньняў зробленых чалавекам)',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> — апошняе рэдагаваньне [[User:%(user)s]] (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Папярэджаньне робата: %(page)s «\'\'%(warning)s\'\'»',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Дададзенае кароткае апісаньне абмеркаваньня: %(num)i запіс(ы/аў)',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Дададзенае апісаньне абмеркаваньня з папраўкамі: %(num)i запіс(ы/аў)',
@@ -79,8 +79,22 @@ msg = {
 	},
 	# Author: SMP
 	'ca': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussió alterada',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussió tancada',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MISSATGE DE ROBOT',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova discussió',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notificació',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s; [%(history_link)s darrera modificació] (%(page_size)s octets) per %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s les discussions han acabat (vigilància aturada). Darrera modificació per %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResum generat des de: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(no s\'ha trobat cap editor humà)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span>; darrera modificació per [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Missatge d\'advertiment de robot: %(page)s «%(warning)s»',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Afegit resum de discussió: %(num)i entrades',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Resum de discussió afegit amb neteja: %(num)i entrades',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Actualitzat resum de discussió:  %(num)i entrades a %(page)s',
 	},
 	# Author: DrTrigon
 	'de': {
@@ -139,6 +153,11 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Uusi keskustelu',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'botti',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Kjakið er broytt',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Kjak er stongt',
+	},
 	# Author: Gomoko
 	# Author: DrTrigon
 	# Author: Od1n
@@ -190,7 +209,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Nooracht',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s leetst feranerang] (%(page_size)s bytes) faan %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s aal jo diskusjuunen san ufslööden (woort ei muar beaachtet) - leetst feranerang faan %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nTuupfaadet faan:\n\n\nSummary generated from and at: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nTuupfaadet faan: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nään bewerker fünjen)',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - leetst feranerang faan [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
@@ -220,6 +239,25 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Actualizado o resumo da conversa: %(num)i entradas en %(page)s',
 	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussion veränderet',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion abgschlosse',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT MESSAGE',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nöii Diskussion',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Mitteilig',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s letschti Bearbeitig] (%(page_size)s Bytes) vo %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alli Diskussione sin abgschlosse worde (Überwachig gstoppt) - letschti Bearbeitig vo %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nZämmefassig erstellt vo un um: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(kei mänschliche Benutzer gfunde)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - letschti Bearbeitg vum [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bötli Warnmäldig: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskussions-Zämmefassig dezuegfiegt (%(num)i Yyträg)',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskussions-Zämmefassig dezuegfiegt un uffgrüümt (%(num)i Yyträg)',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bötli:',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskussions-Zämmefassig aktualisiert (%(num)i Yyträg in %(page)s)',
+	},
 	# Author: DrTrigon
 	# Author: McDutchie
 	'ia': {
@@ -240,6 +278,25 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summario del discussion actualisate: %(num)i entratas in %(page)s',
 	},
+	# Author: Snævar
+	'is': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Umræðu breytt',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Loka umræðu',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'Skilaboð vélmennis',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Ný umræða',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Tilkynning',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: [%(history_link)s síðustu breytingu] (%(page_size)s bæti) undir %(page sections)s eftir %(user)s (%(time)s).',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: Umræðu á %(page)s er lokið. Síðasta breyting var eftir %(user)s (%(time)s).',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSkilaboð búin til frá: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(enginn mannlegur notandi fannst)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: síðustu breytingu eftir [[User:%(user)s]] (%(time)s) á  <span class="plainlinks">[%(page_link)s %(page)s]</span>',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u';  %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u'Vélmenni: Sendi viðvörunarskilaboðin "\'\'%(warning)s\'\'" á %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Yfirliti umræðu bætt við: %(num)i færslur',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Yfirliti umræðu bætt við með fjarlægingu %(num)i færslna',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'vélmenni',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Yfirlit umræðu uppfært: %(num)i færslur á %(page)s',
+	},
 	# Author: Purodha
 	'ksh': {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Dä Klaaf es vörbei.',
@@ -254,13 +311,22 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'Message vun engem Bot',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nei Diskussioun',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Matdeelung',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s lescht Ännerung] (%(page_size)s Byten) vum %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alle Diskussiounen si fäerdeg (Iwwerwaachung gestoppt) - lescht Ännerung vum %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResumé generéiert vun an ëm: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(kee mënschlechen Auteur fonnt)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - lescht Ännerung vum [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bot Warn-Messagen: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Resumé vun der Diskussioun derbäigesat: %(num)i Entréeën',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskussioun: Resumé derbäigesat an Inhalt gekierzt (%(num)i Entréeën)',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot:',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Resumé vun der Diskussioun aktualiséiert: %(num)i Entréeën op %(page)s',
+	},
+	# Author: Jagwar
+	'mg': {
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(tsy nahitana olombelona manova)',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'rôbô',
 	},
 	# Author: Bjankuloski06
 	# Author: DrTrigon
@@ -323,6 +389,30 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Overlegsamenvatting bijgewerkt: %(num)i regels in pagina %(page)s',
 	},
+	# Author: Jon Harald Søby
+	'no': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusjon endret',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusjon stengt',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOTMELDING',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Ny diskusjon',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Varsel',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_section)s – [%(history_link)s siste endring] (%(page_size)s byte) av %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alle diskusjoner er ferdige (overvåkning stoppet) – siste endring av %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSammendrag generert fra og på: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ingen menneskelig bidragsyter funnet)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – siste endring av [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %Y-%m-%d',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Botadvarsel: %(page)s «\'\'%(warning)s\'\'»',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskusjonssammendrag lagt til: %(num)i oppføringer',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskusjonssammendrag lagt til med opprydning: %(num)i oppføringer',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskusjonssammendrag oppdatert: %(num)i oppføringer i %(page)s',
+	},
+	# Author: Xqt
+	'pdc': {
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'\nWaddefresser',
+	},
 	# Author: Sp5uhe
 	# Author: DrTrigon
 	'pl': {
@@ -359,7 +449,9 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mensagem de aviso do robô: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Adicionado resumo da discussão: %(num)i entradas',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Resumo da discussão adicionado com limpeza: %(num)i entradas',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robô',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Atualizado o resumo da discussão: %(num)i entradas em %(page)s',
 	},
 	# Author: DrTrigon
 	# Author: Siebrand
@@ -402,6 +494,12 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Добавлен итог и скорректировано обсуждение: %(num)i записей',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Робот',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Резюме обсуждения обновлено: %(num)i записей на %(page)s',
+	},
+	# Author: බිඟුවා
+	'si': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'සාකච්ඡාව වෙනස් කරන ලදී',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'සාකච්ඡාව හමාරයි',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'රොබෝ',
 	},
 	# Author: Dbc334
 	# Author: DrTrigon
@@ -462,6 +560,63 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Dodat je pročišćeni kratak pregled rasprave: %(num)i unosa',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Kratak pregled rasprave je ažuriran: %(num)i unosa u %(page)s',
+	},
+	# Author: WikiPhoenix
+	'sv': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussion ändrad',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion stängt',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOTMEDDELANDE',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Ny diskussion',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Meddelande',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s senaste redigering] (%(page_size)s byte) av %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alla diskussioner är klara (övervakning stoppades) - senaste redigering av %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSammanfattning genererades från och på: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(inga mänskliga redigerare hittades)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - senaste redigering av [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u': * Botvarningsmeddelande: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskussionssammanfattning lades till: %(num)i poster',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskussionssammanfattning lades till med resning : %(num)i poster',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskussionssammanfattning uppdaterades: % %(num)i poster i %(page)s',
+	},
+	# Author: Гусейн
+	'tly': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Мызокирә дәгиш быә',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Мызокирә бастә быә',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТИ ХӘБӘ',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Нуә Мызокирә',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Хәбәдо',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s охонә дәгиш] (%(page_size)s бајт) иштирокәкә %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s һәммәј мызокирон орохәјн (тәмшо орохәј) - иштирокәкәси охонә дәгиш %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nСәкыштә сохтә быә: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(иштирокәкәсон-редәкторон пәјдо кардә бәнин)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - иштирокәкәси охонә дәгиш [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Роботи чәшнави кардеј: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Мызокирә сәкыштә зијод кардә быә: %(num)i нывыштәјон',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Сәкыштә зијод кардә быә ијән сәрост кардә быә мызокирә: %(num)i нывыштәјон',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'робот',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Мызокирә сәкыштә нуә кардә быә: %(num)i нывыштәјон бә %(page)s',
+	},
+	# Author: Khutuck
+	'tr': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Tartışma değiştirildi.',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Tartışma kapandı.',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESAJ',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Yeni Tartışma',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Bilgilendirme',
+		'thirdparty-drtrigonbot-sum_disc-parse': u'Bot:* %(notify)s: %(page_sections)s - [%(history_link)s son değişiklik] (%(page_size)s byte) kullanıcı %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s tüm tartışmalar sona erdi (izleme sonlandırıldı) - son değişiklik %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nÖzet hazırlandı: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(insan editör bulunamadı)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - son değişiklik [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot uyarı mesajı: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Tartışma özeti eklendi: %(num)i bilgi.',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Tartışma özeti eklendi ve düzenlendi: %(num)i bilgi.',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Tartışma özeti güncellendi: %(page)s sayfada %(num)i bilgi.',
 	},
 	# Author: Minh Nguyen
 	# Author: DrTrigon

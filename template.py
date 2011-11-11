@@ -14,6 +14,7 @@ msg = {
 	# Author: Vago
 	'az': {
 		'template-changing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
+		'template-removing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -26,6 +27,12 @@ msg = {
 		'template-changing': u'Robot : O kemmañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s',
 		'template-removing': u'Robot : O tiverkañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s',
 		'template-substituting': u'Robot : Oc\'h erlec\'hiañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s',
+	},
+	# Author: SMP
+	'ca': {
+		'template-changing': u'Robot: Canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
+		'template-removing': u'Robot: Retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
+		'template-substituting': u'Robot: Substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
 	},
 	'da': {
 		'template-changing': u'Bot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
@@ -81,6 +88,12 @@ msg = {
 		'template-removing': u'Bot: Elimino {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s',
 		'template-substituting': u'Bot: Substitúo {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s',
 	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'template-changing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s',
+		'template-removing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ussenee: %(list)s',
+		'template-substituting': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} usstuusche: %(list)s',
+	},
 	'he': {
 		'template-changing': u'בוט: משנה {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
 		'template-removing': u'בוט: מסיר {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
@@ -91,6 +104,12 @@ msg = {
 		'template-changing': u'Robot: Cambiamento de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s',
 		'template-removing': u'Robot: Elimination de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s',
 		'template-substituting': u'Robot: Substitution de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s',
+	},
+	# Author: Snævar
+	'is': {
+		'template-changing': u'Vélmenni: Breyti %(num)d snið: %(list)s',
+		'template-removing': u'Vélmenni: Fjarlægi %(num)d snið: %(list)s',
+		'template-substituting': u'Vélmenni: Skipti út {{PLURAL:%(num)d|sniði|sniðum}}: %(list)s',
 	},
 	'kk': {
 		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',
@@ -175,6 +194,24 @@ msg = {
 		'template-changing': u'Bot: menjam {{PLURAL:%(num)d|šablon|šablona|šablona}}: %(list)s',
 		'template-removing': u'Robot: uklanjam {{PLURAL:%(num)d|šablon|šablona|šablona}}: %(list)s',
 		'template-substituting': u'Robot: zamenjujem {{PLURAL:%(num)d|šablon|šablona|šablona}}: %(list)s',
+	},
+	# Author: WikiPhoenix
+	'sv': {
+		'template-changing': u'Bot: Ändrade {{PLURAL:%(num)d|mall|mallar}}: %(list)s',
+		'template-removing': u'Bot: Tog bort {{PLURAL:%(num)d|mall|mallar}}: %(list)s',
+		'template-substituting': u'Bot: Ersatte {{PLURAL:%(num)d|mall|mallar}}: %(list)s',
+	},
+	# Author: Гусейн
+	'tly': {
+		'template-changing': u'Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} әвәз карде: %(list)s',
+		'template-removing': u'Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} тәмиз кардеј : %(list)s',
+		'template-substituting': u'Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} әвәз карде: %(list)s',
+	},
+	# Author: Khutuck
+	'tr': {
+		'template-changing': u'Bot: Değiştiriyor: {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-removing': u'Bot: Çıkarıyor: {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-substituting': u'Bot: Yer değiştiriyor: {{PLURAL:%(num)d|template|templates}}: %(list)s',
 	},
 	'uk': {
 		'template-changing': u'Бот: заміна {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s',

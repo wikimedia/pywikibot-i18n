@@ -436,10 +436,11 @@ msg = {
 	},
 	# Author: Als-Holder
 	# Author: Xqt
+	# Author: Als-Chlämens
 	'gsw': {
 		'category-adding': u'Bot: Kategori [[:Category:%(newcat)s|%(newcat)s]] ergänzt',
 		'category-also-in': u'(au in %(alsocat)s)',
-		'category-changing': u'Bot: %(oldcat)s gänderet',
+		'category-changing': u'Bötli: Due %(oldcat)s zue %(newcat)s ändere',
 		'category-listifying': u'Bot: Lischt us %(fromcat)s (%(num)d Yytreg)',
 		'category-removing': u'Bot: us %(oldcat)s  uusegnuu',
 		'category-replacing': u'Bot: Kategori %(oldcat)s uustuscht dur %(newcat)s',
@@ -475,6 +476,7 @@ msg = {
 		'category-was-disbanded': u'Bot: Kategorija je raspuštena',
 		'category-was-moved': u'Bot: Kategorija je premještena u [[:Category:%(newcat)s|%(title)s]]',
 	},
+	# Author: Michawiki
 	'hsb': {
 		'category-adding': u'bot: přidał [[Category:%(newcat)s]]',
 	},
@@ -551,11 +553,16 @@ msg = {
 		'category-changing': u'roboto modifikas: %(oldcat)s',
 		'category-was-moved': u'roboto: Kategorio movesis a(d) [[:Kategorio:%(newcat)s|%(title)s]]',
 	},
+	# Author: Snævar
 	'is': {
-		'category-adding': u'Vélmenni: Bæti við [[Flokkur:%(newcat)s]]',
+		'category-adding': u'Vélmenni: Bæti við [[:Flokkur:%(newcat)s]]',
 		'category-also-in': u'(einnig í %(alsocat)s)',
-		'category-changing': u'Vélmenni: Breyti flokknum [[%(oldcat)s]]',
+		'category-changing': u'Vélmenni: Færi greinar frá %(oldcat)s yfir í %(newcat)s',
+		'category-listifying': u'Vélmenni: Bæti {{PLURAL:%(num)d|1 færslu|%(num)d færslum}} frá %(fromcat)s við listann.',
 		'category-removing': u'Vélmenni: Fjarlægi [[%(oldcat)s]]',
+		'category-replacing': u'Vélmenni: Skipti flokknum %(oldcat)s út fyrir %(newcat)s',
+		'category-was-disbanded': u'Vélmenni: Flokkurinn var tæmdur.',
+		'category-was-moved': u'Vélmenni: Færði flokk á [[:Flokkur:%(newcat)s|%(title)s]]',
 	},
 	# Author: EdoDodo
 	# Author: Beta16
@@ -731,7 +738,7 @@ msg = {
 		'category-adding': u'Rôbô: Nanampy [[:Category:%(newcat)s]]',
 		'category-also-in': u'(ao amin\'i %(alsocat)s koa)',
 		'category-changing': u'Rôbô : fanovana an\'i %(oldcat)s à %(newcat)s',
-		'category-listifying': u'Rôbô : Fanaovana lisitra avy amin\'ny  %(fromcat)s (zavatra %(num))',
+		'category-listifying': u'Rôbô : fanaovana lisitra avy amin\'i %(fromcat)s (zavatra %(num)d)',
 		'category-removing': u'Rôbô : Nesorina tamin\'i %(oldcat)s',
 		'category-replacing': u'Rôbô : Fanovana anarana ny sokajy %(oldcat)s miaraka amin\'i %(newcat)s',
 		'category-was-disbanded': u'Rôbô : Voafafa ny sokajy',
@@ -937,7 +944,7 @@ msg = {
 	},
 	# Author: Xqt
 	'pfl': {
-		'category-adding': u'Bot: [[Kategorie:%(newcat)s]] aigfiecht',
+		'category-adding': u'Bot: Kadegorie [[:Category:%(newcat)s|%(newcat)s] aigfiecht',
 		'category-also-in': u'(aa in %(alsocat)s)',
 		'category-changing': u'Bot: %(oldcat)s gä\'ännat',
 		'category-removing': u'Bot: Aus %(oldcat)s rausgenumme',
@@ -1090,7 +1097,7 @@ msg = {
 		'category-adding': u'Робот: додавање [[Category:%(newcat)s]]',
 		'category-also-in': u'(такође у %(alsocat)s)',
 		'category-changing': u'Робот: мењање %(oldcat)s',
-		'category-listifying': u'Робот: сврставање из %(fromcat)s (%(num)d entries)',
+		'category-listifying': u'Робот: пописујем из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})',
 		'category-removing': u'Робот: уклањање из %(oldcat)s',
 		'category-replacing': u'Робот: мењање категорије %(oldcat)s са %(newcat)s',
 		'category-was-disbanded': u'Робот: категорија је распуштена',
@@ -1181,6 +1188,17 @@ msg = {
 		'category-replacing': u'Robot: Pinapalitan ng kategoryang %(oldcat)s ng %(newcat)s',
 		'category-was-disbanded': u'Bot: Pinagwatak-watak ang kategorya',
 		'category-was-moved': u'Robot: Inilipat ang kategorya sa [[:Category:%(newcat)s|%(title)s]]',
+	},
+	# Author: Гусейн
+	'tly': {
+		'category-adding': u'Робот: Категоријә зијод карде [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(һажыго бә %(alsocat)s)',
+		'category-changing': u'Робот: %(oldcat)s дәгиш кардә быә бә %(newcat)s',
+		'category-listifying': u'Робот: %(fromcat)s (%(num)d әсосонку) сијоһи тумо бејдә',
+		'category-removing': u'Робот: %(oldcat)s категоријәку истисно',
+		'category-replacing': u'Робот: %(oldcat)s бә %(newcat)s әвәз карде',
+		'category-was-disbanded': u'Робот: категоријә ләғв кардә быә',
+		'category-was-moved': u'Робот: категоријә тожәдан ном ноә быә [[:Категоријә:%(newcat)s|%(title)s]]',
 	},
 	'to': {
 		'category-adding': u'mīsiniʻoku: tānaki [[Category:%(newcat)s]]',
@@ -1287,6 +1305,7 @@ msg = {
 		'category-was-disbanded': u'באָט: קאַטעגאָריע איז געווארן ליקווידירט',
 		'category-was-moved': u'ראָבאָט: קאַטעגאָריע איז אריבערגעפֿירט צו [[: קאַטעגאָריע: %(newcat)s| %(title)s]]',
 	},
+	# Author: Demmy
 	'yo': {
 		'category-adding': u'Bot: Fífikún [[Category:%(newcat)s]]',
 	},

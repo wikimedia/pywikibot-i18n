@@ -142,6 +142,11 @@ msg = {
 		'cosmetic_changes-append': u'; cambios estética',
 		'cosmetic_changes-standalone': u'bot Cambios estética',
 	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'cosmetic_changes-append': u'; oberflächlichi Änderige',
+		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
+	},
 	'he': {
 		'cosmetic_changes-append': u'; שינויים קוסמטיים',
 		'cosmetic_changes-standalone': u'בוט: שינויים קוסמטיים',
@@ -181,6 +186,11 @@ msg = {
 	'ig': {
 		'cosmetic_changes-append': u'; mgbanwe na ihü',
 		'cosmetic_changes-standalone': u'Rọbọt: Mgbanwe na ihü',
+	},
+	# Author: Snævar
+	'is': {
+		'cosmetic_changes-append': u'; útlitsbreytingar',
+		'cosmetic_changes-standalone': u'Vélmenni: Útlitsbreytingar',
 	},
 	'it': {
 		'cosmetic_changes-append': u'; modifiche estetiche',
@@ -359,6 +369,11 @@ msg = {
 	'tl': {
 		'cosmetic_changes-append': u'; Kosmetiko pagbabago',
 		'cosmetic_changes-standalone': u'robot Kosmetiko pagbabago',
+	},
+	# Author: Гусейн
+	'tly': {
+		'cosmetic_changes-append': u'; косметикә дәгишон',
+		'cosmetic_changes-standalone': u'Робот: Косметикә дәгишон',
 	},
 	# Author: Stultiwikia
 	# Author: Khutuck

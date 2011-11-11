@@ -96,6 +96,10 @@ msg = {
 	'fi': {
 		'isbn-formatting': u'Botti muotoili ISBN-tunnuksen',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'isbn-formatting': u'Bottur: Formaterar ISBN',
+	},
 	# Author: Sherbrooke
 	'fr': {
 		'isbn-formatting': u'Robot : Mise en forme du ISBN',
@@ -147,6 +151,10 @@ msg = {
 	# Author: Renan
 	'ie': {
 		'isbn-formatting': u'Machine: Formatant ISBN',
+	},
+	# Author: Snævar
+	'is': {
+		'isbn-formatting': u'Vélmenni: Forsnið ISBN',
 	},
 	# Author: Beta16
 	'it': {
@@ -303,6 +311,10 @@ msg = {
 	# Author: AnakngAraw
 	'tl': {
 		'isbn-formatting': u'Robot: Inaayos ang anyo ng ISBN',
+	},
+	# Author: Гусейн
+	'tly': {
+		'isbn-formatting': u'Робот: ISBN симо дәгиш карде',
 	},
 	# Author: Emperyan
 	# Author: Vito Genovese

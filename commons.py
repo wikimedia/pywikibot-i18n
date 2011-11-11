@@ -30,9 +30,18 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Restr]] kaset da [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Emañ bremañ ar restr war [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: SMP
+	'ca': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Fitxer]] traslladat a [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'El fitxer ja es troba disponible a [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Kuvaly
 	'cs': {
 		'commons-file-now-available': u'Soubor je nyní dostupný na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Pwyll
+	'cy': {
+		'commons-file-now-available': u'Mae\'r ffeil bellach ar gael ar [[:commons:File:%(commonsfile)s|Comin Wicifryngau]].',
 	},
 	# Author: Peter Alberti
 	'da': {
@@ -89,6 +98,11 @@ msg = {
 		'commons-file-moved': u'O [[:File:%(localfile)s|ficheiro]] agora está en [[:commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'O ficheiro agora está dispoñible na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'commons-file-moved': u'D [[:File:%(localfile)s|Datei]] isch uff [[:commons:File:%(commonsfile)s|d Allmänd]] verschobe worde.',
+		'commons-file-now-available': u'Die Datei isch jetz uff de [[:commons:File:%(commonsfile)s|Allmänd]] verfügbar.',
+	},
 	# Author: Amire80
 	'he': {
 		'commons-file-moved': u'[[:File:%(localfile)s|הקובץ]] הועבר [[:commons:File:%(commonsfile)s|לוויקישיתוף]].',
@@ -112,6 +126,11 @@ msg = {
 	'ie': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] movet por li [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File es nu disponibil in li [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Snævar
+	'is': {
+		'commons-file-moved': u'[[:Mynd:%(localfile)s|Skráin]] var færð yfir á [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Myndin var færð yfir á [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Beta16
 	'it': {
@@ -229,6 +248,11 @@ msg = {
 	'sv': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttad till [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Filen är nu tillgänglig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Гусейн
+	'tly': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Фајл]] вырәј дәгиш кардә быә бә [[:commons:File:%(commonsfile)s|Викиамбо]].',
+		'commons-file-now-available': u'Фајл һәни бәбе винде ијо [[:commons:File:%(commonsfile)s|Викиамбоәдә]].',
 	},
 	# Author: Khutuck
 	'tr': {

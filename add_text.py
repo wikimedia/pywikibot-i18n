@@ -215,8 +215,9 @@ msg = {
 	'io': {
 		'add_text-adding': u'roboto adjuntas %(adding)s',
 	},
+	# Author: Snævar
 	'is': {
-		'add_text-adding': u'robot Bæti við %(adding)s',
+		'add_text-adding': u'Vélmenni: Bæti við %(adding)s',
 	},
 	'it': {
 		'add_text-adding': u'Bot: Aggiungo %(adding)s',
@@ -499,6 +500,10 @@ msg = {
 	'tl': {
 		'add_text-adding': u'robot dinagdag %(adding)s',
 	},
+	# Author: Гусейн
+	'tly': {
+		'add_text-adding': u'Робот: Зијод кардә бе %(adding)s',
+	},
 	'to': {
 		'add_text-adding': u'mīsiniʻoku tānaki %(adding)s',
 	},
@@ -548,8 +553,9 @@ msg = {
 	'yi': {
 		'add_text-adding': u'באט צוגעלייגט %(adding)s',
 	},
+	# Author: Demmy
 	'yo': {
-		'add_text-adding': u'Bot Fífikún %(adding)s',
+		'add_text-adding': u'Bot: Ìfikún %(adding)s',
 	},
 	'yue': {
 		'add_text-adding': u'機械人 加 %(adding)s',

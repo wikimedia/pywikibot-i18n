@@ -23,6 +23,10 @@ msg = {
 	'br': {
 		'editarticle-edit': u'Kemmm dornel a-drugarez d\'ur bot : %(description)s',
 	},
+	# Author: SMP
+	'ca': {
+		'editarticle-edit': u'Edició manual amb robot: %(description)s',
+	},
 	# Author: Peter Alberti
 	'da': {
 		'editarticle-edit': u'Manuel redigering udført med robot: %(description)s',
@@ -63,6 +67,10 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'editarticle-edit': u'Edición manual con bot: %(description)s',
+	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'editarticle-edit': u'Manuelli Bearbeitig: %(description)s',
 	},
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
@@ -167,6 +175,10 @@ msg = {
 	},
 	'sv': {
 		'editarticle-edit': u'Manuell redigering: %(description)s',
+	},
+	# Author: Гусейн
+	'tly': {
+		'editarticle-edit': u'Дастә редәктә кардеј де боти воситә: %(description)s',
 	},
 	# Author: Khutuck
 	'tr': {

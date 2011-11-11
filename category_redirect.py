@@ -231,7 +231,13 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s está en %(oldcat)s, que é unha redirección cara a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Arranxo a redirección dobre cara',
 	},
+	# Author: Als-Chlämens
 	'gsw': {
+		'category_redirect-add-template': u'Bötli: Due d Kategoriwyterleitigsvorlag für Wartigszweck dezue',
+		'category_redirect-change-category': u'Bötli: due di wytergleiteti Kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] uff [[:%(newCatLink)s|%(newCatTitle)s]] ändere',
+		'category_redirect-comment': u'Bötli zur Wartig vo Kategoriwyterleitige',
+		'category_redirect-edit-request': u'Uff dänne gschütze Syte wo folge, isch feschtgstellt worde dass e Kategorielink-Aktualisierig notwändig isch: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, wo uff %(newcat)s wyterleite duet',
 		'category_redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig',
 	},
 	# Author: Amire80
@@ -293,7 +299,13 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s es in %(oldcat)s, quel es un redirection por %(newcat)s',
 		'category_redirect-fix-double': u'Machine: fixant redirection duplic',
 	},
+	# Author: Snævar
 	'is': {
+		'category_redirect-add-template': u'Vélmenni: Bæti við tilvísun vegna viðhalds',
+		'category_redirect-change-category': u'Vélmenni: Breyti tilvísuðum flokki [[:%(oldCatLink)s|%(oldCatTitle)s]] í [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Vélmenni sem framkvæmir viðhald á tilvísunum flokka',
+		'category_redirect-edit-request': u'Eftirfarandi vernduðu síður þurfa uppfærslu á flokkatenglum: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s er í %(oldcat)s, sem er tilvísun á %(newcat)s',
 		'category_redirect-fix-double': u'Vélmenni: Lagfæri tvöfalda tilvísun',
 	},
 	# Author: Pietrodn
@@ -565,6 +577,15 @@ msg = {
 		'category_redirect-edit-request': u'Ang sumusunod na nakaprutektang mga pahina ay napansing kailangan ng mga pagsasapanahon sa mga kawing na pangkategorya: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s ay nasa loob ng %(oldcat)s, na isang pagpapapunta sa %(newcat)s',
 		'category_redirect-fix-double': u'Bot: kinukumpuni ang nagkadalawang pagpapapunta sa iba',
+	},
+	# Author: Гусейн
+	'tly': {
+		'category_redirect-add-template': u'Робот: Унвони дәгиш кардә категоријә ғәлиби зијод кардеј бо мыбәти',
+		'category_redirect-change-category': u'Робот: унвони дәгиш кардә категоријә дәгиш кардеј чымәдәку [[:%(oldCatLink)s|%(oldCatTitle)s]] бә [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Категоријон унвони дәгиш кардә хыдмәтәкә бот',
+		'category_redirect-edit-request': u'Омәнинә мыдофијә быә сәһифон тәләб кардејдән ын категоријон ситотон тожә кардеј: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s, %(oldcat)s\'әдәј, унвони дәгиш кардејеј %(newcat)s\'ку',
+		'category_redirect-fix-double': u'Робот: дығатә унвон дәгиш кардеј сәрост карде',
 	},
 	# Author: Stultiwikia
 	# Author: Khutuck

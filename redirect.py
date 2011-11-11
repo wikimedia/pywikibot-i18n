@@ -271,7 +271,9 @@ msg = {
 	'ig': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Snævar
 	'is': {
+		'redirect-broken-redirect-template': u'{{eyða}}',
 		'redirect-fix-double': u'Vélmenni: Lagfæri tvöfalda tilvísun → %(to)s',
 	},
 	# Author: Rippitippi
@@ -562,6 +564,13 @@ msg = {
 		'redirect-remove-broken': u' [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Papuntahin]] sa isang pahinang nabura o hindi umiiral',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Ang puntiryang [[Wikipedia:Redirect|Pagpapapunta sa iba]] ay bumubuo ng nakalikaw na pagpapapunta',
 	},
+	# Author: Гусейн
+	'tly': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Робот: дығатә унвон дәгиш кардеј сәрост карде → %(to)s',
+		'redirect-remove-broken': u'[[ВП:ТК#У8|У8]]: [[Википедијә:Унвони дәгиш кардеј|Унвони дәгиш кардеј]] бо тәмиз карде јанки бо мывҹуд ныбә сәһифә',
+		'redirect-remove-loop': u'[[ВП:ТК#У8|У8]]: [[Википедијә:Унвони дәгиш карде|Унвони дәгиш карде]] бешә формон унвони дәгиш кардеј мәрә',
+	},
 	# Author: Emperyan
 	# Author: Vito Genovese
 	# Author: Xqt
@@ -614,6 +623,10 @@ msg = {
 		'redirect-broken-redirect-template': u'ווײַטערפֿירונג אןָ א ציל',
 		'redirect-fix-double': u'באט: פארראכטן פארטאפלטע ווייטערפירונג → %(to)s',
 		'redirect-remove-broken': u'באט: ווײַטערפֿירן ציל עקזיסטירט נישט',
+	},
+	# Author: Demmy
+	'yo': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	'zh': {
 		'redirect-broken-redirect-template': u'{{delete|R1}}',

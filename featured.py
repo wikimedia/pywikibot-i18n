@@ -19,8 +19,9 @@ msg = {
 		'featured-list': u'Bot: %(page)s ye una llista destacada',
 	},
 	# Author: Ebrahimi-amir
+	# Author: Khutuck
 	'az': {
-		'featured-featured': u'Bot: %(page)s seçilmiş siyahıdadır',
+		'featured-featured': u'Bot: %(page)s seçilmiş məqalədir',
 		'featured-former': u'Bot: %(page)s keşmiş seçilmiş məqalədir',
 		'featured-good': u'Bot: %(page)s yaxşı məqalədir',
 		'featured-list': u'Bot: %(page)s seçilmiş siyahıdadır',
@@ -50,8 +51,12 @@ msg = {
 	'bs': {
 		'featured-featured': u'Bot: Interwiki za izabrane članke za %(page)s',
 	},
+	# Author: SMP
 	'ca': {
 		'featured-featured': u'Bot: Enllaç a article destacat per: %(page)s',
+		'featured-former': u'Robot: %(page)s és un antic article de qualitat',
+		'featured-good': u'Robot: %(page)s és un article bo',
+		'featured-list': u'Robot: %(page)s és una llista de qualitat',
 	},
 	'cs': {
 		'featured-featured': u'Robot přidal nejlepší článek: %(page)s',
@@ -97,6 +102,12 @@ msg = {
 		'featured-good': u'Botti: %(page)s on hyvä artikkeli',
 		'featured-list': u'Botti: %(page)s on suositeltu luettelo',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'featured-featured': u'Bottur: %(page)s er ein útvald grein',
+		'featured-former': u'Bottur: %(page)s er ein fyrrverandi útvald grein',
+		'featured-good': u'Bottur: %(page)s er ein góð grein',
+	},
 	# Author: Od1n
 	'fr': {
 		'featured-featured': u'Bot : Lien AdQ pour %(page)s',
@@ -123,6 +134,13 @@ msg = {
 		'featured-former': u'Bot: "%(page)s" é un antigo artigo destacado',
 		'featured-good': u'Bot: "%(page)s" é un artigo bo',
 		'featured-list': u'Bot: "%(page)s" é unha lista destacada',
+	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'featured-featured': u'Bötli: %(page)s isch e bsundersch glungener Artikel',
+		'featured-former': u'Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi',
+		'featured-good': u'Bötli: %(page)s isch e läsige Artikel',
+		'featured-list': u'Bötli: %(page)s isch e bsunders glungeni Lischt',
 	},
 	# Author: Amire80
 	'he': {
@@ -153,6 +171,13 @@ msg = {
 		'featured-former': u'Bot: %(page)s adalah bekas artikel pilihanis a former featured article',
 		'featured-good': u'Bot: %(page)s adalah artikel bagus',
 		'featured-list': u'Bot: %(page)s adalah daftar pilihanis a featured list',
+	},
+	# Author: Snævar
+	'is': {
+		'featured-featured': u'Vélmenni: %(page)s er úrvalsgrein',
+		'featured-former': u'Vélmenni: %(page)s er fyrrum úrvalsgrein',
+		'featured-good': u'Vélmenni: %(page)s er gæðagrein',
+		'featured-list': u'Vélmenni: %(page)s er gæðalisti',
 	},
 	'it': {
 		'featured-featured': u'Bot: collegamento articolo in vetrina %(page)s',
@@ -188,6 +213,13 @@ msg = {
 	},
 	'lt': {
 		'featured-featured': u'Bot: Pavyzdinis straipsnis %(page)s',
+	},
+	# Author: Jagwar
+	'mg': {
+		'featured-featured': u'Rôbô : Rohin-dahatsoratra tsara vita ho an\'i pejy %(page)s',
+		'featured-former': u'Rôbô : lahatsoratra tsara vita efa nofoanana i %(page)s',
+		'featured-good': u'Rôbô : Lahatsoratra tsara i %(page)s',
+		'featured-list': u'Rôbô : %(page)s dia lisitra tsara vita',
 	},
 	# Author: Bjankuloski06
 	'mk': {
@@ -303,9 +335,16 @@ msg = {
 	'th': {
 		'featured-featured': u'บอต: ลิงก์บทความคัดสรร %(page)s',
 	},
+	# Author: Гусейн
+	'tly': {
+		'featured-featured': u'Робот: выжнијә быә мәғолә %(page)s',
+		'featured-former': u'Робот: %(page)s дәвәрдә выжнијә быә мәғолә',
+		'featured-good': u'Робот: чокә мәғолә %(page)s',
+		'featured-list': u'Робот: %(page)s выжнијә быә сијоһије',
+	},
 	# Author: Khutuck
 	'tr': {
-		'featured-featured': u'Bot değişikliği: %(page)s madde bağlantısı eklendi',
+		'featured-featured': u'Bot değişikliği: %(page)s bir [[VP:SM|seçkin maddedir]]',
 		'featured-former': u'Bot: %(page)s [[Vikipedi:Eski seçkin maddeler|eski bir seçkin maddedir]]',
 		'featured-good': u'Bot: %(page)s kaliteli maddedir',
 		'featured-list': u'Bot: %(page)s bir [[VP:SL|seçkin listedir]]',

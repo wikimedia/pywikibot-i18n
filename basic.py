@@ -86,6 +86,10 @@ msg = {
 	'fi': {
 		'basic-changing': u'Botti: Muutetaan...',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'basic-changing': u'Bottur: Broytur ...',
+	},
 	# Author: Od1n
 	'fr': {
 		'basic-changing': u'Robot : Changé ...',
@@ -96,11 +100,15 @@ msg = {
 	},
 	# Author: Murma174
 	'frr': {
-		'basic-changing': u'Bot: feranere ...',
+		'basic-changing': u'Bot: Feranere ...',
 	},
 	# Author: Toliño
 	'gl': {
 		'basic-changing': u'Bot: Cambiando...',
+	},
+	# Author: Als-Chlämens
+	'gsw': {
+		'basic-changing': u'Bötli: duet ändere...',
 	},
 	# Author: Amire80
 	'he': {
@@ -141,6 +149,10 @@ msg = {
 	# Author: Sapral Mikail
 	'inh': {
 		'basic-changing': u'БIат: хийцай ...',
+	},
+	# Author: Snævar
+	'is': {
+		'basic-changing': u'Vélmenni: Breyti ...',
 	},
 	# Author: Pietrodn
 	'it': {
@@ -227,6 +239,10 @@ msg = {
 	'nl': {
 		'basic-changing': u'Robot: bezig met wijzigen...',
 	},
+	# Author: Marinsb
+	'nn': {
+		'basic-changing': u'Endrar...',
+	},
 	# Author: Nghtwlkr
 	'no': {
 		'basic-changing': u'Bot: Endrer ...',
@@ -258,6 +274,10 @@ msg = {
 	'sco': {
 		'basic-changing': u'Bot: Chyngin\' ...',
 	},
+	# Author: බිඟුවා
+	'si': {
+		'basic-changing': u'රොබෝ: වෙනස් කරමින්...',
+	},
 	# Author: Dbc334
 	'sl': {
 		'basic-changing': u'Bot: Spreminjanje ...',
@@ -288,6 +308,10 @@ msg = {
 	# Author: AnakngAraw
 	'tl': {
 		'basic-changing': u'Bot: Binabago ...',
+	},
+	# Author: Гусейн
+	'tly': {
+		'basic-changing': u'Робот: дәгиш кардыше ...',
 	},
 	# Author: Emperyan
 	# Author: Stultiwikia
