@@ -6,8 +6,8 @@ msg = {
 		'cosmetic_changes-standalone': u'Robot: Kosmetiese veranderinge',
 	},
 	'als': {
-		'cosmetic_changes-append': u'; chleineri Änderige',
-		'cosmetic_changes-standalone': u'Bötli: chleineri Änderige',
+		'cosmetic_changes-append': u'; oberflächlichi Änderige',
+		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
 	},
 	'ar': {
 		'cosmetic_changes-append': u'; تغييرات تجميلية',

@@ -15,7 +15,7 @@ msg = {
 	'als': {
 		'category-adding': u'Bot: Kategori [[:Category:%(newcat)s|%(newcat)s]] ergänzt',
 		'category-also-in': u'(au in %(alsocat)s)',
-		'category-changing': u'Bot: %(oldcat)s gänderet',
+		'category-changing': u'Bötli: Due %(oldcat)s zue %(newcat)s ändere',
 		'category-listifying': u'Bot: Lischt us %(fromcat)s (%(num)d Yytreg)',
 		'category-removing': u'Bot: us %(oldcat)s  uusegnuu',
 		'category-replacing': u'Bot: Kategori %(oldcat)s uustuscht dur %(newcat)s',

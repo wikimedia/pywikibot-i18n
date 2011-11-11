@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
 	'als': {
-		'featured-featured': u'Bötli: %(page)s isch en bsunders glungener Artikel',
-		'featured-good': u'Bötli: %(page)s isch en glungener Artikel',
-		'featured-list': u'Bötli: %(page)s isch e bsunders glungene Lischte',
+		'featured-featured': u'Bötli: %(page)s isch e bsundersch glungener Artikel',
+		'featured-former': u'Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi',
+		'featured-good': u'Bötli: %(page)s isch e läsige Artikel',
+		'featured-list': u'Bötli: %(page)s isch e bsunders glungeni Lischt',
 	},
 	'ar': {
 		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
