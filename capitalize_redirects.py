@@ -23,8 +23,9 @@ msg = {
 	'ca': {
 		'capitalize_redirects-create-redirect': u'Robot: Crea una redirecció a [[%(to)s]]',
 	},
+	# Author: Spiffyk
 	'cs': {
-		'capitalize_redirects-create-redirect': u'Robot vytvořil přesměrování na [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot: Vytvořte přesměrování na [[%(to)s]]',
 	},
 	# Author: Pwyll
 	'cy': {
@@ -37,8 +38,20 @@ msg = {
 	'de': {
 		'capitalize_redirects-create-redirect': u'Bot: Weiterleitung angelegt auf [[%(to)s]]',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'capitalize_redirects-create-redirect': u'Bot: Weiterleitung angelegt auf [[%(to)s]]',
+	},
+	# Author: Geraki
+	'el': {
+		'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]',
+	},
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},
+	# Author: Vivaelcelta
+	'es': {
+		'capitalize_redirects-create-redirect': u'Bot: Creo una redirección hacia "[[%(to)s]]"',
 	},
 	# Author: Mjbmr
 	'fa': {
@@ -70,6 +83,10 @@ msg = {
 	},
 	'he': {
 		'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
+	},
+	# Author: Dj
+	'hu': {
+		'capitalize_redirects-create-redirect': u'Bot: árirányítás létrehozása a(z) [[%(to)s]] lapra.',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -122,8 +139,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Robot: doorverwijzing gemaakt naar [[%(to)s]]',
 	},
 	# Author: Marinsb
+	# Author: Harald Khan
 	'nn': {
-		'capitalize_redirects-create-redirect': u'Omdirigerar til [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'robot: omdirigerer til [[%(to)s]]',
 	},
 	# Author: Nghtwlkr
 	'no': {

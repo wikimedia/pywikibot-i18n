@@ -84,8 +84,9 @@ msg = {
 	'ceb': {
 		'add_text-adding': u'robot Gidugang %(adding)s',
 	},
+	# Author: Asoxor
 	'ckb': {
-		'add_text-adding': u'بۆت زیادکردن %(adding)s',
+		'add_text-adding': u'ڕۆبۆت: زێدەکردنی %(adding)s',
 	},
 	'crh': {
 		'add_text-adding': u'robot ekley %(adding)s',
@@ -109,6 +110,10 @@ msg = {
 		'add_text-adding': u'robot Tilføjer %(adding)s',
 	},
 	'de': {
+		'add_text-adding': u'Bot: %(adding)s hinzugefügt',
+	},
+	# Author: Eruedin
+	'de-ch': {
 		'add_text-adding': u'Bot: %(adding)s hinzugefügt',
 	},
 	'dv': {
@@ -222,8 +227,9 @@ msg = {
 	'it': {
 		'add_text-adding': u'Bot: Aggiungo %(adding)s',
 	},
+	# Author: Fryed-peach
 	'ja': {
-		'add_text-adding': u'ロボットによる: 追加 %(adding)s',
+		'add_text-adding': u'ロボット: %(adding)s を追加',
 	},
 	'ka': {
 		'add_text-adding': u'ბოტის დამატება %(adding)s',
@@ -364,8 +370,9 @@ msg = {
 	'nl': {
 		'add_text-adding': u'Robot: toegevoegd %(adding)s',
 	},
+	# Author: Harald Khan
 	'nn': {
-		'add_text-adding': u'Robot: La til %(adding)s',
+		'add_text-adding': u'robot: la til %(adding)s',
 	},
 	'no': {
 		'add_text-adding': u'robot Legger til %(adding)s',

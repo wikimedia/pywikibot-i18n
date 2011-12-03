@@ -36,7 +36,9 @@ msg = {
 		'commons-file-now-available': u'El fitxer ja es troba disponible a [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Kuvaly
+	# Author: Spiffyk
 	'cs': {
+		'commons-file-moved': u'Soubor [[:File:%(localfile)s|File]] byl přesunut na [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Soubor je nyní dostupný na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Pwyll
@@ -52,6 +54,11 @@ msg = {
 	'de': {
 		'commons-file-moved': u'Bot: [[:File:%(localfile)s|Datei]] wurde nach [[:commons:File:%(commonsfile)s|commons]] verschoben.',
 		'commons-file-now-available': u'Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar.',
+	},
+	# Author: Geraki
+	'el': {
+		'commons-file-moved': u'Το [[:File:%(localfile)s|αρχείο]] μετακινήθηκε στα [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Το αρχείο είναι τώρα διαθέσιμο στα [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	'en': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
@@ -108,9 +115,10 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|הקובץ]] הועבר [[:commons:File:%(commonsfile)s|לוויקישיתוף]].',
 		'commons-file-now-available': u'הקובץ זמין כעת [[:commons:File:%(commonsfile)s|בוויקישיתוף]].',
 	},
+	# Author: Dj
 	'hu': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Kép]] átmozgatva a [[:commons:File:%(commonsfile)s|Commons]]ba.',
-		'commons-file-now-available': u'A fájl most már elérhető a Wikimedia Commonson.',
+		'commons-file-now-available': u'A fájl most már elérhető a [[:commons:File:%(commonsfile)s|Wikimedia Commonson]].',
 	},
 	# Author: McDutchie
 	'ia': {

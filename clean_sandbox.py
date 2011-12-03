@@ -47,6 +47,10 @@ msg = {
 	'de': {
 		'clean_sandbox-cleaned': u'Bot: Setze Spielwiese zurück.',
 	},
+	# Author: Geraki
+	'el': {
+		'clean_sandbox-cleaned': u'Ρομπότ: Καθαρίστηκε αυτόματα',
+	},
 	'en': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},

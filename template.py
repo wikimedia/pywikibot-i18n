@@ -34,6 +34,12 @@ msg = {
 		'template-removing': u'Robot: Retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
 		'template-substituting': u'Robot: Substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
 	},
+	# Author: Spiffyk
+	'cs': {
+		'template-changing': u'Robot: Upravuji {{PLURAL:%(num)d|šablonu|šablon}}: %(list)s',
+		'template-removing': u'Robot: Odstraňuji {{PLURAL:%(num)d|šablonu|šablon}}: %(list)s',
+		'template-substituting': u'Robot: Nahrazuji {{PLURAL:%(num)d|šablonu|šablon}}: %(list)s',
+	},
 	'da': {
 		'template-changing': u'Bot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
 		'template-removing': u'Bot: Fjerner {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
@@ -43,6 +49,12 @@ msg = {
 		'template-changing': u'Bot: Ändere {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 		'template-removing': u'Bot: Entferne {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 		'template-substituting': u'Bot: Umgehe {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
+	},
+	# Author: Geraki
+	'el': {
+		'template-changing': u'Ρομπότ: Αλλαγή {{PLURAL:%(num)d| προτύπου|προτύπων}}: %(list)s',
+		'template-removing': u'Ρομπότ: Αφαίρεση {{PLURAL:%(num)d| προτύπου|προτύπων}}: %(list)s',
+		'template-substituting': u'Ρομπότ: Ενσωμάτωση {{PLURAL:%(num)d| προτύπου|προτύπων}}: %(list)s',
 	},
 	'en': {
 		'template-changing': u'Robot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
@@ -99,6 +111,12 @@ msg = {
 		'template-removing': u'בוט: מסיר {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
 		'template-substituting': u'בוט: מכליל {{PLURAL:%(num)d|תבנית|תבניות}} בקוד הדף: %(list)s',
 	},
+	# Author: Dj
+	'hu': {
+		'template-changing': u'Bot: {{PLURAL:%(num)d|sablon csere|sablonok cseréje}}: %(list)s',
+		'template-removing': u'Bot: {{PLURAL:%(num)d|sablon|sablonok}} eltávolítása: %(list)s',
+		'template-substituting': u'Bot: {{PLURAL:%(num)d|sablon|sablonok}} cseréje: %(list)s',
+	},
 	# Author: McDutchie
 	'ia': {
 		'template-changing': u'Robot: Cambiamento de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s',
@@ -110,6 +128,12 @@ msg = {
 		'template-changing': u'Vélmenni: Breyti %(num)d snið: %(list)s',
 		'template-removing': u'Vélmenni: Fjarlægi %(num)d snið: %(list)s',
 		'template-substituting': u'Vélmenni: Skipti út {{PLURAL:%(num)d|sniði|sniðum}}: %(list)s',
+	},
+	# Author: Fryed-peach
+	'ja': {
+		'template-changing': u'ロボット: {{PLURAL:%(num)d|テンプレート}}の変更: %(list)s',
+		'template-removing': u'ロボット: {{PLURAL:%(num)d|テンプレート}}の除去: %(list)s',
+		'template-substituting': u'ロボット: {{PLURAL:%(num)d|テンプレート}}の展開: %(list)s',
 	},
 	'kk': {
 		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',
@@ -171,6 +195,12 @@ msg = {
 		'template-changing': u'Robô: A alterar {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
 		'template-removing': u'Robô: A remover {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
 		'template-substituting': u'Robô: A substituir {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
+	},
+	# Author: Pedroca cerebral
+	'pt-br': {
+		'template-changing': u'Robô: Alterando {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
+		'template-removing': u'Robô: Removendo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
+		'template-substituting': u'Robô: Substituindo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
 	},
 	'ru': {
 		'template-changing': u'Бот: замена {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',

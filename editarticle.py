@@ -27,12 +27,20 @@ msg = {
 	'ca': {
 		'editarticle-edit': u'Edició manual amb robot: %(description)s',
 	},
+	# Author: Spiffyk
+	'cs': {
+		'editarticle-edit': u'Ruční úprava s pomocí robota: %(description)s',
+	},
 	# Author: Peter Alberti
 	'da': {
 		'editarticle-edit': u'Manuel redigering udført med robot: %(description)s',
 	},
 	'de': {
 		'editarticle-edit': u'Manuelle Bearbeitung: %(description)s',
+	},
+	# Author: Geraki
+	'el': {
+		'editarticle-edit': u'Μη αυτόματη επεξεργασία με ρομπότ: %(description)s',
 	},
 	'en': {
 		'editarticle-edit': u'Manual edit with robot: %(description)s',
@@ -74,6 +82,10 @@ msg = {
 	},
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
+	},
+	# Author: Dj
+	'hu': {
+		'editarticle-edit': u'Kézi szerkesztés bottal: %(description)s',
 	},
 	# Author: McDutchie
 	'ia': {

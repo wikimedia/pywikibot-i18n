@@ -43,10 +43,11 @@ msg = {
 	},
 	# Author: Asoxor
 	'ckb': {
-		'basic-changing': u'بۆت: گۆڕین ...',
+		'basic-changing': u'ڕۆبۆت: گۆڕین ...',
 	},
+	# Author: Spiffyk
 	'cs': {
-		'basic-changing': u'Robot změnil ...',
+		'basic-changing': u'Robot: Měním ...',
 	},
 	# Author: Lloffiwr
 	'cy': {
@@ -57,6 +58,10 @@ msg = {
 		'basic-changing': u'Bot: Ændrer',
 	},
 	'de': {
+		'basic-changing': u'Bot: Ändere ...',
+	},
+	# Author: Eruedin
+	'de-ch': {
 		'basic-changing': u'Bot: Ändere ...',
 	},
 	# Author: Glavkos
@@ -240,8 +245,9 @@ msg = {
 		'basic-changing': u'Robot: bezig met wijzigen...',
 	},
 	# Author: Marinsb
+	# Author: Harald Khan
 	'nn': {
-		'basic-changing': u'Endrar...',
+		'basic-changing': u'robot: endrar...',
 	},
 	# Author: Nghtwlkr
 	'no': {

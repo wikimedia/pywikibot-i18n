@@ -93,9 +93,10 @@ msg = {
 		'redirect-remove-loop': u'[[VP:CSR#R1]]: [[Viquipèdia:Redirecció|Redirecció]] trencada, formant un bucle',
 	},
 	# Author: Dontlietome7
+	# Author: Spiffyk
 	'cs': {
 		'redirect-broken-redirect-template': u'{{smazat|přerušené přesměrování}}',
-		'redirect-fix-double': u'Robot opravil dvojité přesměrování → %(to)s',
+		'redirect-fix-double': u'Robot: Opravuji dvojité přesměrování na %(to)s',
 		'redirect-remove-broken': u'Přerušené přesměrování',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cíl [[Wikipedia:Redirect|přesměrování]] target tvoří přesměrovací smyčku',
 	},

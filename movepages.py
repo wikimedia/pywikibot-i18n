@@ -31,6 +31,10 @@ msg = {
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
 	},
+	# Author: Vivaelcelta
+	'es': {
+		'movepages-moving': u'Bot: Página trasladada',
+	},
 	'fa': {
 		'movepages-moving': u'ربات: صفحه منتقل شد',
 	},
@@ -62,6 +66,10 @@ msg = {
 	'he': {
 		'movepages-moving': u'בוט: מעביר דף',
 	},
+	# Author: Dj
+	'hu': {
+		'movepages-moving': u'Bot: átmozgatott lap',
+	},
 	# Author: McDutchie
 	'ia': {
 		'movepages-moving': u'Robot: Pagina renominate',
@@ -72,6 +80,10 @@ msg = {
 	},
 	'ja': {
 		'movepages-moving': u'ロボットによる: ページの移動',
+	},
+	# Author: Purodha
+	'ksh': {
+		'movepages-moving': u'Bot: di Sigg wood ömjenannt',
 	},
 	# Author: Robby
 	'lb': {
@@ -105,6 +117,10 @@ msg = {
 	'pt': {
 		'movepages-moving': u'Robô: Página movida',
 	},
+	# Author: Pedroca cerebral
+	'pt-br': {
+		'movepages-moving': u'Robô: Página movida',
+	},
 	'ru': {
 		'movepages-moving': u'Переименование страницы при помощи робота',
 	},
@@ -135,6 +151,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'movepages-moving': u'Bot: Di chuyển trang',
+	},
+	# Author: פוילישער
+	'yi': {
+		'movepages-moving': u'באט: באַוועגט בלאַט',
 	},
 	'zh': {
 		'movepages-moving': u'機器人:移動頁面',

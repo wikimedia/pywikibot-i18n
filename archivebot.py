@@ -50,6 +50,18 @@ msg = {
 		'archivebot-older-than': u'més antic que',
 		'archivebot-page-summary': u'Arxivant %(count)d fils de discussió (%(why)s) a %(archives)s.',
 	},
+	# Author: Asoxor
+	'ckb': {
+		'archivebot-older-than': u'کۆنتر لە',
+	},
+	# Author: Spiffyk
+	'cs': {
+		'archivebot-archive-full': u'(ARCHIV JE PLNÝ)',
+		'archivebot-archive-summary': u'Archivuji %(count)d vláken z [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'starší než',
+		'archivebot-page-summary': u'Archivuji %(count)d vlákno/vláken (%(why)s) do %(archives)s.',
+	},
 	# Author: Pwyll
 	'cy': {
 		'archivebot-archive-full': u'(ARCHIF YN LLAWN)',
@@ -67,12 +79,33 @@ msg = {
 		'archivebot-older-than': u'älter als',
 		'archivebot-page-summary': u'%(count)d Abschnitt(e) (%(why)s) nach %(archives)s archiviert.',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'archivebot-archive-full': u'(ARCHIV VOLL)',
+		'archivebot-archive-summary': u'Archiviere %(count)d Abschnitt(e) von [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'älter als',
+		'archivebot-page-summary': u'%(count)d Abschnitt(e) (%(why)s) in %(archives)s archiviert.',
+	},
+	# Author: Glavkos
+	'el': {
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'παλαιότερο από',
+	},
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
 		'archivebot-archive-summary': u'Archiving %(count)d thread(s) from [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'older than',
 		'archivebot-page-summary': u'Archiving %(count)d thread(s) (%(why)s) to %(archives)s.',
+	},
+	# Author: Vivaelcelta
+	'es': {
+		'archivebot-archive-full': u'(ARCHIVO COMPLETO)',
+		'archivebot-archive-summary': u'Archivo %(count)d hilo(s) de [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'más viejo que',
+		'archivebot-page-summary': u'Archivo %(count)d hilo(s) (%(why)s) en % %(archives)s.',
 	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
@@ -173,6 +206,19 @@ msg = {
 		'archivebot-older-than': u'eldri en',
 		'archivebot-page-summary': u'Færi %(count)d þræði í skjalasafnið %(archives)s. (%(why)s)',
 	},
+	# Author: Fryed-peach
+	'ja': {
+		'archivebot-archive-full': u'(過去ログ満杯)',
+		'archivebot-archive-summary': u'%(count)d個のスレッドを[[%(from)s]]より過去ログ化',
+		'archivebot-archiveheader': u'{{Archives}}',
+		'archivebot-older-than': u'次より古い',
+		'archivebot-page-summary': u'%(count)d個のスレッド (%(why)s) を%(archives)sへ過去ログ化',
+	},
+	# Author: Kwj2772
+	'ko': {
+		'archivebot-archive-summary': u'[[%(from)s]]에서 스레드 %(count)d개를 보존함.',
+		'archivebot-archiveheader': u'{{보존}}',
+	},
 	'ksh': {
 		'archivebot-archive-full': u'(DAT ASCHIHV ES VOLL)',
 		'archivebot-archive-summary': u'* %(count)d Schtö) vun [[%(from)s]] noh heh en et Aschihf jedonn.',
@@ -225,12 +271,13 @@ msg = {
 		'archivebot-older-than': u'ouder dan',
 		'archivebot-page-summary': u'Robot: %(count)d thread(s) gearchiveerd naar %(archives)s (%(why)s).',
 	},
+	# Author: Harald Khan
 	'nn': {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
-		'archivebot-archive-summary': u'Arkiverer %(count)d trådar frå [[%(from)s]].',
+		'archivebot-archive-summary': u'arkiverer %(count)d trådar frå [[%(from)s]].',
 		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'eldre enn',
-		'archivebot-page-summary': u'Arkiverer %(count)d trådar (%(why)s) til %(archives)s.',
+		'archivebot-page-summary': u'arkiverer %(count)d trådar (%(why)s) til %(archives)s.',
 	},
 	'no': {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
@@ -252,6 +299,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'older than',
 		'archivebot-page-summary': u'Arquivando %(count)d thread(s) (%(why)s) to %(archives)s.',
+	},
+	# Author: Pedroca cerebral
+	'pt-br': {
+		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
+		'archivebot-archive-summary': u'Arquivo %(count)d thread(s) de [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'mais velho que',
+		'archivebot-page-summary': u'Arquivando %(count)d thread(s) (%(why)s) em %(archives)s.',
 	},
 	# Author: McDutchie
 	'qqq': {
@@ -329,6 +384,10 @@ msg = {
 		'archivebot-archiveheader': u'{{Thảo luận lưu}}',
 		'archivebot-older-than': u'cũ hơn',
 		'archivebot-page-summary': u'Lưu trữ %(count)d luồng (%(why)s) qua %(archives)s.',
+	},
+	# Author: פוילישער
+	'yi': {
+		'archivebot-older-than': u'עלטער פֿון',
 	},
 	# Author: Demmy
 	'yo': {

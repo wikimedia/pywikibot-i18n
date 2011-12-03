@@ -67,6 +67,10 @@ msg = {
 	'es': {
 		'replace-replacing': u'Robot: Reemplazo automático de texto %(description)s',
 	},
+	# Author: AivoK
+	'et': {
+		'replace-replacing': u'robot asendas: %(description)s',
+	},
 	# Author: An13sa
 	'eu': {
 		'replace-replacing': u'Robota: Testu aldaketa automatikoa %(description)s',
@@ -110,8 +114,9 @@ msg = {
 	'hsb': {
 		'replace-replacing': u'Boćik: Awtomatiske narunanje teksta %(description)s',
 	},
+	# Author: Dj
 	'hu': {
-		'replace-replacing': u'Robot: Automatikus szövegcsere %(description)s',
+		'replace-replacing': u'Bot: Automatikus szövegcsere %(description)s',
 	},
 	# Author: Xelgen
 	'hy': {
@@ -207,8 +212,9 @@ msg = {
 	'nl': {
 		'replace-replacing': u'Robot: automatisch tekst vervangen %(description)s',
 	},
+	# Author: Harald Khan
 	'nn': {
-		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
+		'replace-replacing': u'robot: automatisk tekstbyte: %(description)s',
 	},
 	'no': {
 		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',

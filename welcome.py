@@ -50,6 +50,16 @@ msg = {
 		'welcome-updating': u'Robot: Actualitzant el registre',
 		'welcome-welcome': u'Benvinguts!',
 	},
+	# Author: Asoxor
+	'ckb': {
+		'welcome-welcome': u'بەخێربێی!',
+	},
+	# Author: Spiffyk
+	'cs': {
+		'welcome-bad_username': u'Robot: Přidávám uživatelské jméno, které je potřeba zkontrolovat',
+		'welcome-updating': u'Robot: Aktualizuji log',
+		'welcome-welcome': u'Vítejte!',
+	},
 	'da': {
 		'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
 		'welcome-updating': u'Bot: Updating log',
@@ -60,8 +70,17 @@ msg = {
 		'welcome-updating': u'Bot: Aktualisiere Logdatei',
 		'welcome-welcome': u'Herzlich willkommen!',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'welcome-bad_username': u'Bot: Ergänze zu überprüfenden Benutzernamen',
+		'welcome-updating': u'Bot: Aktualisiere Logdatei',
+		'welcome-welcome': u'Grüezi!',
+	},
 	# Author: Crazymadlover
+	# Author: Geraki
 	'el': {
+		'welcome-bad_username': u'Ρομπότ: Προσθήκη ονόματος χρήστη που χρειάζεται έλεγχο',
+		'welcome-updating': u'Ρομπότ: Ενημέρωση αρχείου καταγραφής',
 		'welcome-welcome': u'Καλώς ήρθατε!',
 	},
 	'en': {
@@ -70,7 +89,10 @@ msg = {
 		'welcome-welcome': u'Welcome!',
 	},
 	# Author: Crazymadlover
+	# Author: Vivaelcelta
 	'es': {
+		'welcome-bad_username': u'Bot: Agregar un nombre de usuario que necesita ser comprobado',
+		'welcome-updating': u'Bot: Actualizo el registro',
 		'welcome-welcome': u'Bienvenido!',
 	},
 	# Author: Mjbmr
@@ -128,6 +150,12 @@ msg = {
 		'welcome-updating': u'בוט: עדכון יומן',
 		'welcome-welcome': u'ברוך הבא!',
 	},
+	# Author: Dj
+	'hu': {
+		'welcome-bad_username': u'Bot: ellenőrizendő szerkesztőnév hozzáadása',
+		'welcome-updating': u'Bot: napló aktualizálás',
+		'welcome-welcome': u'Üdvözlet!',
+	},
 	# Author: McDutchie
 	'ia': {
 		'welcome-bad_username': u'Robot: Addition de un nomine de usator que debe esser verificate',
@@ -159,6 +187,10 @@ msg = {
 	'ka': {
 		'welcome-welcome': u'კეთილი იყოს თქვენი მობრძანება!',
 	},
+	# Author: Kwj2772
+	'ko': {
+		'welcome-welcome': u'환영합니다!',
+	},
 	# Author: Rentenirer
 	'ksh': {
 		'welcome-bad_username': u'Bot: Däm singe Metmaacher-Name sullt mer ens prööfe.',
@@ -170,6 +202,10 @@ msg = {
 		'welcome-bad_username': u'Bot: E Benotzernumm derbäigesat deen nogekuckt muss ginn',
 		'welcome-updating': u'Bot: Aktualisatioun vum Logbuch',
 		'welcome-welcome': u'Wëllkomm!',
+	},
+	# Author: Eruedin
+	'ln': {
+		'welcome-welcome': u'Mbɔ́tɛ',
 	},
 	# Author: Bjankuloski06
 	'mk': {
@@ -198,6 +234,11 @@ msg = {
 		'welcome-bad_username': u'Robot: te controleren gebruikersnaam toegevoegd',
 		'welcome-updating': u'Robot: logboek bijwerken',
 		'welcome-welcome': u'Welkom!',
+	},
+	# Author: Harald Khan
+	'nn': {
+		'welcome-updating': u'robot: oppdaterer logg',
+		'welcome-welcome': u'velkomen!',
 	},
 	# Author: Lokal Profil
 	'no': {

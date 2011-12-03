@@ -153,8 +153,10 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(unbekannt)',
 	},
 	# Author: Glavkos
+	# Author: Geraki
 	'el': {
 		'solve_disambiguation-links-removed': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν).',
+		'solve_disambiguation-links-resolved': u'Υποβοηθούμενη από ρομπότ αποσαφήνιση: %(from)s - Αλλαγή συνδέσμου(ων) στο %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενος ειδικού',
 		'solve_disambiguation-redirect-removed': u'Υποβοηθούμενη αποσαφήνιση από ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν)',
 		'solve_disambiguation-redirect-resolved': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αλλάχτηκε(αν) προς  %(to)s',
@@ -369,13 +371,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(sconosciuto)',
 	},
 	# Author: Whym
+	# Author: Fryed-peach
 	'ja': {
-		'solve_disambiguation-adding-dn-template': u'ロボット補助による曖昧さ回避：　%(from)s - 専門家のチェックが必要として印付けしました',
-		'solve_disambiguation-links-removed': u'ロボット補助による曖昧さ回避：　%(from)s - リンクを除去しました',
-		'solve_disambiguation-links-resolved': u'ロボット補助による曖昧さ回避：　%(from)s - リンクを%(to)sに変更しました',
-		'solve_disambiguation-redirect-adding-dn-template': u'ロボット補助による曖昧さ回避：　%(from)s - 専門家のチェックが必要として印付けしました',
-		'solve_disambiguation-redirect-removed': u'ロボット補助による曖昧さ回避：　%(from)s - リンクを除去しました',
-		'solve_disambiguation-redirect-resolved': u'ロボット補助による曖昧さ回避：　%(from)s - リンクを%(to)sに変更しました',
+		'solve_disambiguation-adding-dn-template': u'ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました',
+		'solve_disambiguation-links-removed': u'ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました',
+		'solve_disambiguation-links-resolved': u'ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました',
+		'solve_disambiguation-redirect-adding-dn-template': u'ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました',
+		'solve_disambiguation-redirect-removed': u'ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました',
+		'solve_disambiguation-redirect-resolved': u'ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました',
 		'solve_disambiguation-unknown-page': u'（不明）',
 	},
 	'kk': {

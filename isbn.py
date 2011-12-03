@@ -86,8 +86,9 @@ msg = {
 		'isbn-formatting': u'Robot: dando formato al ISBN',
 	},
 	# Author: An13sa
+	# Author: Xabier Armendaritz
 	'eu': {
-		'isbn-formatting': u'Robota: ISBN formatua ematen',
+		'isbn-formatting': u'Robota: ISBNari formatua ematen',
 	},
 	'fa': {
 		'isbn-formatting': u'ربات:استانداردسازی شابک',
@@ -160,8 +161,9 @@ msg = {
 	'it': {
 		'isbn-formatting': u'Bot: Formatto ISBN',
 	},
+	# Author: Fryed-peach
 	'ja': {
-		'isbn-formatting': u'ロボットによる ISBN の書式化',
+		'isbn-formatting': u'ロボット: ISBN の整形',
 	},
 	# Author: Purodha
 	'ksh': {

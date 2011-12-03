@@ -35,11 +35,19 @@ msg = {
 	'de': {
 		'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',
 	},
+	# Author: Geraki
+	'el': {
+		'noreferences-add-tag': u'Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε',
+	},
 	'en': {
 		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
 	},
 	'eo': {
 		'noreferences-add-tag': u'Roboto: Aldono de "<references />"',
+	},
+	# Author: Vivaelcelta
+	'es': {
+		'noreferences-add-tag': u'Bot: Añado la etiqueta que faltaba <references />',
 	},
 	'fa': {
 		'noreferences-add-tag': u'ربات: برچسب <references /> فراموش شده‌است',
@@ -74,8 +82,9 @@ msg = {
 	'hi': {
 		'noreferences-add-tag': u'<references /> टैग जोड़ा',
 	},
+	# Author: Dj
 	'hu': {
-		'noreferences-add-tag': u'Hiányzó {{Források}} pótlása',
+		'noreferences-add-tag': u'Bot: hiányzó {{Források}} pótlása',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -128,6 +137,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'noreferences-add-tag': u'Robot: toevoeging ontbrekende <references /> tag',
+	},
+	# Author: Harald Khan
+	'nn': {
+		'noreferences-add-tag': u'robot: la til manglande <references />-merke',
 	},
 	# Author: Nghtwlkr
 	'no': {
@@ -190,6 +203,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'noreferences-add-tag': u'Bot: Thêm thẻ <references /> bị thiếu',
+	},
+	# Author: פוילישער
+	'yi': {
+		'noreferences-add-tag': u'באט: צולייגן פֿעלנדן <references /> טאַג',
 	},
 	'zh': {
 		'noreferences-add-tag': u'機器人: 增加遺失的 <references /> 標籤',

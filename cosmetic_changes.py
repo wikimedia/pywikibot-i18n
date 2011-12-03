@@ -5,6 +5,7 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetiese veranderinge',
 		'cosmetic_changes-standalone': u'Robot: Kosmetiese veranderinge',
 	},
+	# Author: Xqt
 	'als': {
 		'cosmetic_changes-append': u'; oberflächlichi Änderige',
 		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
@@ -65,9 +66,10 @@ msg = {
 		'cosmetic_changes-append': u'; canvis cosmètics',
 		'cosmetic_changes-standalone': u'Robot: Canvis cosmètics',
 	},
+	# Author: Asoxor
 	'ckb': {
-		'cosmetic_changes-append': u'; دەستکاریی جوانکاری',
-		'cosmetic_changes-standalone': u'بۆت: دەستکاریی جوانکاری',
+		'cosmetic_changes-append': u'؛ دەستکاریی جوانکاری',
+		'cosmetic_changes-standalone': u'ڕۆبۆت: دەستکاریی جوانکاری',
 	},
 	'cs': {
 		'cosmetic_changes-append': u'; kosmetické úpravy',
@@ -268,9 +270,10 @@ msg = {
 		'cosmetic_changes-append': u'; cosmetische wijzigingen',
 		'cosmetic_changes-standalone': u'Robot: cosmetische wijzigingen',
 	},
+	# Author: Harald Khan
 	'nn': {
 		'cosmetic_changes-append': u'; kosmetiske endringar',
-		'cosmetic_changes-standalone': u'Robot: Kosmetiske endringar',
+		'cosmetic_changes-standalone': u'robot: kosmetiske endringar',
 	},
 	'no': {
 		'cosmetic_changes-append': u'; kosmetiske endringer',

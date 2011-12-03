@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Xqt
 	'als': {
 		'featured-featured': u'Bötli: %(page)s isch e bsundersch glungener Artikel',
 		'featured-former': u'Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi',
@@ -59,8 +60,12 @@ msg = {
 		'featured-good': u'Robot: %(page)s és un article bo',
 		'featured-list': u'Robot: %(page)s és una llista de qualitat',
 	},
+	# Author: Spiffyk
 	'cs': {
-		'featured-featured': u'Robot přidal nejlepší článek: %(page)s',
+		'featured-featured': u'Robot: %(page)s je na seznamu nejlepších článků',
+		'featured-former': u'Robot: %(page)s býval na seznamu nejlepších článků',
+		'featured-good': u'Robot: %(page)s je dobrý článek',
+		'featured-list': u'Robot: %(page)s je seznam nejlepších',
 	},
 	'cy': {
 		'featured-featured': u'Robot: Mae %(page)s yn erthygl ddethol',
@@ -74,6 +79,13 @@ msg = {
 	},
 	'dsb': {
 		'featured-featured': u'Bot: %(page)s jo wuběrny nastawk',
+	},
+	# Author: Geraki
+	'el': {
+		'featured-featured': u'Ρομπότ: το %(page)s είναι αξιόλογο άρθρο',
+		'featured-former': u'Ρομπότ: το %(page)s είναι πρώην αξιόλογο άρθρο',
+		'featured-good': u'Ρομπότ: το %(page)s είναι καλό άρθρο',
+		'featured-list': u'Ρομπότ: το %(page)s είναι ένας αξιόλογος κατάλογος',
 	},
 	'en': {
 		'featured-featured': u'Robot: %(page)s is a featured article',
@@ -156,8 +168,12 @@ msg = {
 	'hsb': {
 		'featured-featured': u'Bot: %(page)s je wuběrny nastawk',
 	},
+	# Author: Dj
 	'hu': {
 		'featured-featured': u'Bot: a(z) %(page)s kiemelt szócikk',
+		'featured-former': u'Bot: %(page)s egy korábban kiemelt cikk',
+		'featured-good': u'Bot: %(page)s egy kiemelt cikk',
+		'featured-list': u'Bot: %(page)s egy kiemelt kiemelt lista',
 	},
 	# Author: McDutchie
 	'ia': {

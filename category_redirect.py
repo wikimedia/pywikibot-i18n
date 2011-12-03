@@ -100,7 +100,13 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s està a %(oldcat)s, que és una redirecció a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: arreglant redirecció doble',
 	},
+	# Author: Spiffyk
 	'cs': {
+		'category_redirect-add-template': u'Robot: Přidávání šablony přesměrování kategorie kvůli údržbě',
+		'category_redirect-change-category': u'Robot: Změňte přesměrovanou kategorii [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robot na údržbu přesměrování kategorií',
+		'category_redirect-edit-request': u'Následující chráněné stránky potřebují úpravu odkazů ke kategoriím: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s je v kategorii %(oldcat)s, která je přesměrovaná na %(newcat)s',
 		'category_redirect-fix-double': u'Robot opravil dvojité přesměrování',
 	},
 	# Author: Lloffiwr
@@ -131,11 +137,22 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
 		'category_redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'category_redirect-add-template': u'Bot: Füge Kategorieweiterleitungs-Vorlage für die Wartung hinzu',
+		'category_redirect-change-category': u'Bot: Ändere weitergeleitete Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Bot zur Wartung von Kategorieweiterleitungen',
+		'category_redirect-edit-request': u'Die folgenden geschützten Seiten benötigen noch eine Kategorielink-Aktualisierung: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
+	},
 	# Author: Glavkos
+	# Author: Geraki
 	'el': {
 		'category_redirect-add-template': u'Ρομπότ: προσθήκη  πρότυπου κατηγορίας ανακατεύθυνσης για συντήρηση',
-		'category_redirect-change-category': u'Ρομπότ: αλλαγή ανακατευθυνόμενης κατηγορίας [[:%(oldCatLink)s|%(oldCatTitle) s]] σε  [[:%(newCatLink)s|%(newCatTitle) s]]',
+		'category_redirect-change-category': u'Ρομπότ: αλλαγή ανακατευθυνόμενης κατηγορίας [[:%(oldCatLink)s|%(oldCatTitle)s]] σε [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Κατηγορία ανακατεύθυνση συντήρησης ρομπότ',
+		'category_redirect-edit-request': u'Οι ακόλουθες προστατευμένες σελίδες έχουν ανιχνευθεί ως χρήζουσες ενημέρωσης στις συνδέσεις κατηγορίας: %(itemlist)s',
+		'category_redirect-edit-request-item': u'Το %(title)s είναι στην %(oldcat)s, η οποία είναι ανακατεύθυνση στην %(newcat)s',
 		'category_redirect-fix-double': u'Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης',
 	},
 	'en': {
@@ -264,10 +281,11 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Popravak dvostrukih preusmjeravanja',
 	},
 	# Author: Dani
+	# Author: Dj
 	'hu': {
 		'category_redirect-add-template': u'Bot: kategóriaátirányító sablon hozzáadása karbantartáshoz',
 		'category_redirect-change-category': u'Bot: átirányított kategória ([[:%(oldCatLink)s|%(oldCatTitle)s]]) cseréje a következőre: [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Kategóriaátirányításokat karbantartó bot',
+		'category_redirect-comment': u'Kategória-átirányításokat karbantartó bot',
 		'category_redirect-edit-request': u'A következő védett lapokon kell frissíteni a kategóriahivatkozásokat: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s a(z) %(oldcat)s kategóriában van, ami átirányít a következőre: %(newcat)s',
 		'category_redirect-fix-double': u'Bot: dupla átirányítás javítása',
@@ -317,7 +335,13 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s è in %(oldcat)s, che è un redirect verso %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Sistemo i redirect doppi',
 	},
+	# Author: Fryed-peach
 	'ja': {
+		'category_redirect-add-template': u'ロボット: 保守のためカテゴリー転送テンプレートを追加',
+		'category_redirect-change-category': u'ロボット: 転送されているカテゴリー[[:%(oldCatLink)s|%(oldCatTitle)s]]を[[:%(newCatLink)s|%(newCatTitle)s]]へと変更',
+		'category_redirect-comment': u'カテゴリー転送保守ロボット',
+		'category_redirect-edit-request': u'以下の保護されたページは、カテゴリーリンクの更新が必要であると検出されました: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)sは、%(newcat)sへのリダイレクトである%(oldcat)sに入っています',
 		'category_redirect-fix-double': u'ロボットによる: 二重リダイレクト修正',
 	},
 	'ka': {
