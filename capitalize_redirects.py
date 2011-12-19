@@ -140,6 +140,7 @@ msg = {
 	},
 	# Author: Marinsb
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'capitalize_redirects-create-redirect': u'robot: omdirigerer til [[%(to)s]]',
 	},
@@ -165,6 +166,10 @@ msg = {
 	},
 	'ru': {
 		'capitalize_redirects-create-redirect': u'Бот: Создано перенаправление на [[%(to)s]]',
+	},
+	# Author: Wizzard
+	'sk': {
+		'capitalize_redirects-create-redirect': u'Robot:Pridať presmerovanie na [[%(to)s]]',
 	},
 	# Author: Dbc334
 	'sl': {

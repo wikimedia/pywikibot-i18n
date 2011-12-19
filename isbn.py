@@ -233,6 +233,7 @@ msg = {
 		'isbn-formatting': u'Robot: ISBN opgemaakt',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'isbn-formatting': u'robot: formaterer ISBN',
 	},
@@ -281,6 +282,10 @@ msg = {
 	# Author: බිඟුවා
 	'si': {
 		'isbn-formatting': u'රොබෝ: ISBN ආකෘතිකරණය',
+	},
+	# Author: Wizzard
+	'sk': {
+		'isbn-formatting': u'Robot: Formátovanie ISBN',
 	},
 	# Author: Dbc334
 	'sl': {

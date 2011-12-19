@@ -246,6 +246,7 @@ msg = {
 	},
 	# Author: Marinsb
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'basic-changing': u'robot: endrar...',
 	},
@@ -283,6 +284,10 @@ msg = {
 	# Author: බිඟුවා
 	'si': {
 		'basic-changing': u'රොබෝ: වෙනස් කරමින්...',
+	},
+	# Author: Wizzard
+	'sk': {
+		'basic-changing': u'Robot: Mením ...',
 	},
 	# Author: Dbc334
 	'sl': {

@@ -520,6 +520,7 @@ msg = {
 	},
 	# Author: Xqt
 	'pdc': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Dischbedutt geennert',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'\nWaddefresser',
 	},
@@ -633,6 +634,18 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'නිවේදනය',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'රොබෝ',
 	},
+	# Author: Wizzard
+	'sk': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusia zmenená',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusia zatvorená',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'SPRÁVA ROBOTA',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nová diskusia',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Upozornenie',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nZhrnutie vygenerované z a v: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nebol nájdený žiadny ľudský redaktor)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+	},
 	# Author: Dbc334
 	# Author: DrTrigon
 	'sl': {
@@ -712,6 +725,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskussionssammanfattning uppdaterades: % %(num)i poster i %(page)s',
 	},
+	# Author: Shanmugamp7
+	'ta': {
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(மனித திருத்தி காணப்படவில்லை)',
+	},
 	# Author: Гусейн
 	'tly': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Мызокирә дәгиш быә',
@@ -732,19 +749,20 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Мызокирә сәкыштә нуә кардә быә: %(num)i нывыштәјон бә %(page)s',
 	},
 	# Author: Khutuck
+	# Author: Emperyan
 	'tr': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Tartışma değiştirildi.',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Tartışma kapandı.',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESAJ',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT İLETİ',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Yeni Tartışma',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Bilgilendirme',
 		'thirdparty-drtrigonbot-sum_disc-parse': u'Bot:* %(notify)s: %(page_sections)s - [%(history_link)s son değişiklik] (%(page_size)s byte) kullanıcı %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s tüm tartışmalar sona erdi (izleme sonlandırıldı) - son değişiklik %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nÖzet hazırlandı: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(insan editör bulunamadı)',
-		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - son değişiklik [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - son değişiklik [[Kullanıcı:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
-		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot uyarı mesajı: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot uyarı iletisi: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Tartışma özeti eklendi: %(num)i bilgi.',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Tartışma özeti eklendi ve düzenlendi: %(num)i bilgi.',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot',

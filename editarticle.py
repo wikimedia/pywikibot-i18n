@@ -173,6 +173,10 @@ msg = {
 	'sco': {
 		'editarticle-edit': u'Manual edit with bot: %(description)s',
 	},
+	# Author: Wizzard
+	'sk': {
+		'editarticle-edit': u'Ručná úprava s pomocou robota: %(description)s',
+	},
 	# Author: Dbc334
 	'sl': {
 		'editarticle-edit': u'Ročno urejanje z botom: %(description)s',

@@ -551,6 +551,7 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(onbekend)',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'solve_disambiguation-unknown-page': u'(ukjend)',
 	},
@@ -569,6 +570,10 @@ msg = {
 	# Author: Bouron
 	'os': {
 		'solve_disambiguation-unknown-page': u'(нæзонгæ)',
+	},
+	# Author: Xqt
+	'pdc': {
+		'solve_disambiguation-unknown-page': u'(net bekannt)',
 	},
 	# Author: Sp5uhe
 	'pl': {
@@ -655,6 +660,10 @@ msg = {
 	# Author: බිඟුවා
 	'si': {
 		'solve_disambiguation-unknown-page': u'(නොදත්)',
+	},
+	# Author: Wizzard
+	'sk': {
+		'solve_disambiguation-unknown-page': u'(neznáme)',
 	},
 	# Author: Dbc334
 	'sl': {

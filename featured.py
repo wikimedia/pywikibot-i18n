@@ -71,6 +71,13 @@ msg = {
 		'featured-featured': u'Robot: Mae %(page)s yn erthygl ddethol',
 		'featured-good': u'Robot: Mae %(page)s yn erthygl dda',
 	},
+	# Author: Emaus
+	'da': {
+		'featured-featured': u'Bot: %(page)s er en fremragende artikel',
+		'featured-former': u'Bot: %(page)s er en tidligere fremragende artikel',
+		'featured-good': u'Bot: %(page)s er en god artikel',
+		'featured-list': u'Bot: %(page)s er en fremragende liste',
+	},
 	'de': {
 		'featured-featured': u'Bot: %(page)s ist ein ausgezeichneter Artikel',
 		'featured-former': u'Bot: %(page)s ist ein ehemaliger ausgezeichneter Artikel',
@@ -315,8 +322,12 @@ msg = {
 		'featured-good': u'Робот: хорошая статья %(page)s',
 		'featured-list': u'Робот: %(page)s является избранным списком',
 	},
+	# Author: Wizzard
 	'sk': {
 		'featured-featured': u'Bot: %(page)s je najlepší článok',
+		'featured-former': u'Robot: %(page)s je bývalý najlepší článok',
+		'featured-good': u'Robot: %(page)s je dobrý článok',
+		'featured-list': u'Robot: %(page)s je zoznam najlepších',
 	},
 	# Author: Dbc334
 	'sl': {
@@ -372,6 +383,11 @@ msg = {
 		'featured-former': u'Робот:%(page)s элеккеге сайланган мәкалә',
 		'featured-good': u'Робот:%(page)s яхшы мәкалә',
 		'featured-list': u'Робот: %(page)s сайланган исемлек',
+	},
+	# Author: Emaus
+	'uk': {
+		'featured-featured': u'Робот: вибрана стаття %(page)s',
+		'featured-good': u'Робот: добра стаття %(page)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {

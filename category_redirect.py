@@ -534,6 +534,11 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect tae %(newcat)s',
 		'category_redirect-fix-double': u'Bot: fixin\' dooble-reguidals',
 	},
+	# Author: Wizzard
+	'sk': {
+		'category_redirect-comment': u'Robot na údržbu presmerovaní kategórií',
+		'category_redirect-fix-double': u'Robot opravil dvojité presmerovanie',
+	},
 	# Author: Dbc334
 	'sl': {
 		'category_redirect-add-template': u'Robot: dodajanje predloge preusmeritve kategorije za vzdrževanje',

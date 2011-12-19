@@ -75,7 +75,7 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'table2wiki-no-warning': u'Bot: Actualizo a sintaxe da táboa',
-		'table2wiki-warnings': u'Bot: Actualizo a sintaxe da táboa; {{PLURAL:count|1|%(count)d}} aviso!',
+		'table2wiki-warnings': u'Bot: Actualizo a sintaxe da táboa; {{PLURAL:count|1 aviso|%(count)d avisos}}!',
 	},
 	# Author: Als-Chlämens
 	# Author: Xqt
@@ -91,7 +91,7 @@ msg = {
 	# Author: Dj
 	'hu': {
 		'table2wiki-no-warning': u'Bot kézi ellenőrzéssel: Táblázat szintaxis frissítve',
-		'table2wiki-warnings': u'Bot kézi ellenőrzéssel: Táblázat szintaxis frissítve - %(count)d figyelmeztetés!',
+		'table2wiki-warnings': u'Bot kézi ellenőrzéssel: Táblázat szintaxis frissítve - {{PLURAL:count|egy|%(count)d}} figyelmeztetés!',
 	},
 	# Author: Xqt
 	'ia': {
@@ -182,18 +182,23 @@ msg = {
 		'table2wiki-warnings': u'Robô controlado por usuário: sintaxe de tabela atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}!',
 	},
 	# Author: Xqt
+	# Author: Siebrand
 	'qqq': {
-		'table2wiki-warnings': u'The message is used as an edit comment.\n\n* Variable "%(count)d" is probably a number.\n* You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(count)d|1 entry|%(count)d entries}}</nowiki></code>)\n* You may also use PLURAL tag like (<code><nowiki>{{PLURAL:count|1 entry|%(count)d entries}}</nowiki></code>)\nDo not translate the variable.',
+		'table2wiki-warnings': u'The message is used as an edit comment. Variables:\n* Variable "%(count)d" is probably a number.\n* You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(count)d|1 entry|%(count)d entries}}</nowiki></code>)\n* You may also use PLURAL tag like (<code><nowiki>{{PLURAL:count|1 entry|%(count)d entries}}</nowiki></code>)',
 	},
 	# Author: Minisarm
 	'ro': {
 		'table2wiki-no-warning': u'Robot controlat de utilizator: sintaxa tabelului actualizată',
-		'table2wiki-warnings': u'Robot controlat de utilizator: sintaxa tabelului actualizată - {{PLURAL:count|1 avertisment|%(count)d avertismente}}!',
+		'table2wiki-warnings': u'Robot controlat de utilizator: actualizat sintaxa tabelului — {{PLURAL:count|1 avertisment|%(count)d avertismente}}!',
 	},
 	# Author: Rubin
 	'ru': {
 		'table2wiki-no-warning': u'Полуавтоматический робот: синтаксис таблицы обновлен',
 		'table2wiki-warnings': u'Полуавтоматический робот: синтаксис таблицы обновлен - {{PLURAL:count|1 предупреждение|%(count)d предупреждения(-ий)}}!',
+	},
+	# Author: Wizzard
+	'sk': {
+		'table2wiki-no-warning': u'Užívateľom riadený robot: Syntax tabuľky zmenená',
 	},
 	# Author: Dbc334
 	'sl': {

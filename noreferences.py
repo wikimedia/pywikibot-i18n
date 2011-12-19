@@ -139,6 +139,7 @@ msg = {
 		'noreferences-add-tag': u'Robot: toevoeging ontbrekende <references /> tag',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'noreferences-add-tag': u'robot: la til manglande <references />-merke',
 	},
@@ -168,6 +169,10 @@ msg = {
 	},
 	'ru': {
 		'noreferences-add-tag': u'Robot: Добавлен отсутствующий тег <references />',
+	},
+	# Author: Wizzard
+	'sk': {
+		'noreferences-add-tag': u'Robot doplnil chýbajúci tag <references />',
 	},
 	# Author: Dbc334
 	'sl': {

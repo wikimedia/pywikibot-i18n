@@ -271,6 +271,7 @@ msg = {
 		'cosmetic_changes-standalone': u'Robot: cosmetische wijzigingen',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'cosmetic_changes-append': u'; kosmetiske endringar',
 		'cosmetic_changes-standalone': u'robot: kosmetiske endringar',

@@ -118,7 +118,7 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'welcome-bad_username': u'Bot : aponsa d’un nom d’utilisator que dêt étre controlâ',
+		'welcome-bad_username': u'Bot : aponsa d’un nom d’usanciér que dêt étre controlâ',
 		'welcome-updating': u'Bot : misa a jorn du jornal',
 		'welcome-welcome': u'Benvegnua !',
 	},
@@ -236,6 +236,7 @@ msg = {
 		'welcome-welcome': u'Welkom!',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'welcome-updating': u'robot: oppdaterer logg',
 		'welcome-welcome': u'velkomen!',
@@ -292,6 +293,12 @@ msg = {
 	# Author: බිඟුවා
 	'si': {
 		'welcome-welcome': u'ආයුබෝවන් !',
+	},
+	# Author: Wizzard
+	'sk': {
+		'welcome-bad_username': u'Robot: Pridávam používateľské meno, ktoré je potrebné skontrolovať',
+		'welcome-updating': u'Robot: Aktualizujem log',
+		'welcome-welcome': u'Vitajte!',
 	},
 	# Author: Dbc334
 	'sl': {

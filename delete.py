@@ -245,7 +245,10 @@ msg = {
 		'delete-referring-pages': u'Robot: alle pagina\'s die naar de pagina %(page)s verwijzen worden verwijderd',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
+		'delete-from-category': u'robot: sletta alle sidene i kategorien %(page)s',
+		'delete-from-file': u'robot: sletta ei liste med filer',
 		'delete-images': u'robot: sletta alle bileta på sida %(page)s',
 	},
 	# Author: Jon Harald Søby
@@ -285,6 +288,14 @@ msg = {
 		'delete-images': u'Бот: Удаление всех изображений на странице %(page)s',
 		'delete-linked-pages': u'Бот: Удаление всех страниц связанных с %(page)s',
 		'delete-referring-pages': u'Бот: Удаление всех страниц, относящихся к %(page)s',
+	},
+	# Author: Wizzard
+	'sk': {
+		'delete-from-category': u'Robot: Odstránenie všetkých strán z kategórie %(page)s',
+		'delete-from-file': u'Robot: Mazanie zoznamu súborov.',
+		'delete-images': u'Robot: Odstránenie všetkých obrázkov na stránke %(page)s',
+		'delete-linked-pages': u'Robot zmazal všetko odkazované z %(page)s',
+		'delete-referring-pages': u'Robot: Odstránenie všetkých strán s odkazom z %(page)s',
 	},
 	# Author: Dbc334
 	'sl': {

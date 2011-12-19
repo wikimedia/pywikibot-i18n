@@ -124,6 +124,10 @@ msg = {
 	'ru': {
 		'movepages-moving': u'Переименование страницы при помощи робота',
 	},
+	# Author: Wizzard
+	'sk': {
+		'movepages-moving': u'Robot presunul stránku',
+	},
 	# Author: Dbc334
 	'sl': {
 		'movepages-moving': u'Robot: Prestavil stran',
@@ -143,6 +147,10 @@ msg = {
 	# Author: Гусейн
 	'tly': {
 		'movepages-moving': u'Де роботи комаги сәһифә номи дәгиш кардеј',
+	},
+	# Author: Emperyan
+	'tr': {
+		'movepages-moving': u'Bot: Taşınmış sayfa',
 	},
 	# Author: Тест
 	'uk': {

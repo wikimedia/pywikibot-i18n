@@ -371,6 +371,7 @@ msg = {
 		'add_text-adding': u'Robot: toegevoegd %(adding)s',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'add_text-adding': u'robot: la til %(adding)s',
 	},

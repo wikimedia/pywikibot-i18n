@@ -188,6 +188,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fail]] dipindahkan ke [[:commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'Fail kini terdapat di [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Alchimista
+	'mwl': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] mobido para [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'L fexeiro stá agora ne l [[:commons:File:%(commonsfile)s|Wikimedia Commons]]',
+	},
 	# Author: Servien
 	'nds-nl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Bestaand]] is verplaotst naor [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
@@ -236,6 +241,10 @@ msg = {
 	'sco': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] flitted tae [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Wizzard
+	'sk': {
+		'commons-file-now-available': u'Súbor je teraz k dispozícii na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Dbc334
 	'sl': {

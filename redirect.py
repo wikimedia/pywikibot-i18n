@@ -188,8 +188,9 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]] : [[Wikipedia:Redirect|redirèccion]] de vers una pâge suprimâ ou ben pas ègzistenta',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]] : la ciba de la [[Wikipedia:Redirect|redirèccion]] fôrme una boclla de redirèccion',
 	},
+	# Author: Murma174
 	'frr': {
-		'redirect-broken-redirect-template': u'{{delete|Widjerfeerang uunstaken',
+		'redirect-broken-redirect-template': u'{{delete|Widjerfeerang uunstaken}}',
 		'redirect-fix-double': u'Bot: Ferbeedre dobelt widjerfeerang tu %(to)s',
 		'redirect-remove-broken': u'Bot: Widjerfeerang tu en duad sidj.',
 		'redirect-remove-loop': u'Bot: Widjerfeerang üüb ham salew',
@@ -502,6 +503,11 @@ msg = {
 		'redirect-fix-double': u'Bot: Fixin\' dooble reguidal tae %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deletit or non-existent page',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
+	},
+	# Author: Wizzard
+	'sk': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Robot: Opravujem dvojité presmerovanie na %(to)s',
 	},
 	# Author: Dbc334
 	'sl': {

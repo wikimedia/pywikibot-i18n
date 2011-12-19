@@ -220,6 +220,7 @@ msg = {
 	'crh': {
 		'category-adding': u'robot: ekley [[Category:%(newcat)s]]',
 	},
+	# Author: Spiffyk
 	'cs': {
 		'category-adding': u'Robot: Přidávám kategorii [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(také v %(alsocat)s)',
@@ -349,7 +350,7 @@ msg = {
 	# Author: Xabier Armendaritz
 	'eu': {
 		'category-adding': u'Robota: [[:Kategoria:%(newcat)s|%(newcat)s]] kategoria eransten',
-		'category-changing': u'Robota: %(oldcat)s aldatu eta %(newcat)s kategoriara eraman da',
+		'category-changing': u'Robota: «%(oldcat)s» kategoria «%(newcat)s» kategoriara aldatzen',
 		'category-removing': u'Robota: %(oldcat)s -tik ezabatzen',
 		'category-was-moved': u'Robota: Kategoria [[:Kategoria:%(newcat)s|%(title)s]]-ra mugitu da',
 	},
@@ -910,6 +911,7 @@ msg = {
 		'category-was-moved': u'Robot: categorie is hernoemd naar [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'category-adding': u'robot: la til kategorien [[Kategori:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(òg i %(alsocat)s)',
@@ -1079,10 +1081,14 @@ msg = {
 		'category-was-disbanded': u'Bot: Category wis disbanded',
 		'category-was-moved': u'Robot: Category wis flitted tae [[:Category:%(newcat)s|%(title)s]]',
 	},
+	# Author: Wizzard
 	'sk': {
-		'category-adding': u'Robot pridal [[Kategória:%(newcat)s]]',
-		'category-changing': u'Robot zmenil [[%(oldcat)s]]→[[%(newcat)s]]',
+		'category-adding': u'Robot: Pridanie kategórie [[: Kategória: %(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(aj v %(alsocat)s)',
+		'category-changing': u'Robot: Zmena %(oldcat)s na %(newcat)s',
+		'category-removing': u'Robot: Odstránenie z %(oldcat)s',
 		'category-replacing': u'Robot nahradil kategóriu %(oldcat)s za %(newcat)s',
+		'category-was-disbanded': u'Robot: Kategória bola vyprázdnená',
 		'category-was-moved': u'Kategória bola presunutá na [[:Kategória:%(newcat)s|%(title)s]]',
 	},
 	# Author: Dbc334

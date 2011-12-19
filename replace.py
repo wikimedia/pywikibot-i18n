@@ -213,6 +213,7 @@ msg = {
 		'replace-replacing': u'Robot: automatisch tekst vervangen %(description)s',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'replace-replacing': u'robot: automatisk tekstbyte: %(description)s',
 	},

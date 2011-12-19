@@ -272,6 +272,7 @@ msg = {
 		'archivebot-page-summary': u'Robot: %(count)d thread(s) gearchiveerd naar %(archives)s (%(why)s).',
 	},
 	# Author: Harald Khan
+	# Author: Njardarlogar
 	'nn': {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
 		'archivebot-archive-summary': u'arkiverer %(count)d trådar frå [[%(from)s]].',
@@ -326,6 +327,12 @@ msg = {
 	'si': {
 		'archivebot-older-than': u'වඩා වයස',
 	},
+	# Author: Wizzard
+	'sk': {
+		'archivebot-archive-full': u'(ARCHÍV JE PLNÝ)',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'staršie ako',
+	},
 	# Author: Dbc334
 	'sl': {
 		'archivebot-archive-full': u'(ARHIV JE POLN)',
@@ -360,6 +367,10 @@ msg = {
 		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'äldre än',
 		'archivebot-page-summary': u'Arkiverar %(count)d trådar (%(why)s) till %(archives)s.',
+	},
+	# Author: Shanmugamp7
+	'ta': {
+		'archivebot-older-than': u'முந்தையது',
 	},
 	# Author: Гусейн
 	'tly': {

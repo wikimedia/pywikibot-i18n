@@ -157,6 +157,10 @@ msg = {
 	'nl': {
 		'clean_sandbox-cleaned': u'Robot: automatisch voorzien van schoon zand.',
 	},
+	# Author: Njardarlogar
+	'nn': {
+		'clean_sandbox-cleaned': u'robot: automatisk rydjing',
+	},
 	'no': {
 		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
 	},
@@ -185,6 +189,10 @@ msg = {
 	# Author: Avicennasis
 	'sco': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
+	},
+	# Author: Wizzard
+	'sk': {
+		'clean_sandbox-cleaned': u'Robot: Automaticky vyčistené',
 	},
 	# Author: Lesko987
 	'sl': {
