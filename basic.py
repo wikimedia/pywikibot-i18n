@@ -25,6 +25,10 @@ msg = {
 	'be-tarask': {
 		'basic-changing': u'Робат: зьмяніў…',
 	},
+	# Author: DCLXVI
+	'bg': {
+		'basic-changing': u'Робот: Промяна...',
+	},
 	# Author: Wikitanvir
 	'bn': {
 		'basic-changing': u'বট: পরিবর্তন করছে ...',
@@ -151,6 +155,10 @@ msg = {
 	'ig': {
 		'basic-changing': u'Bot: Na gbanwe ...',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'basic-changing': u'Robot: Agsuksuksat ...',
+	},
 	# Author: Sapral Mikail
 	'inh': {
 		'basic-changing': u'БIат: хийцай ...',
@@ -201,6 +209,10 @@ msg = {
 	'mai': {
 		'basic-changing': u'बॉट: बदलि रहल अछि ...',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'basic-changing': u'Bot: Ngowahi ...',
+	},
 	# Author: Jagwar
 	'mg': {
 		'basic-changing': u'Rôbô : Nanova ...',
@@ -210,8 +222,9 @@ msg = {
 		'basic-changing': u'Bot: Maganti ...',
 	},
 	# Author: Bjankuloski06
+	# Author: Rancher
 	'mk': {
-		'basic-changing': u'Бот: менува ...',
+		'basic-changing': u'Робот: менува…',
 	},
 	# Author: Htt
 	'mr': {
@@ -233,6 +246,10 @@ msg = {
 	'mzn': {
 		'basic-changing': u'ربوت: تغییر ...',
 	},
+	# Author: Nghtwlkr
+	'no': {
+		'basic-changing': u'Bot: Endrer ...',
+	},
 	'nds': {
 		'basic-changing': u'Bot: Ännern ...',
 	},
@@ -250,10 +267,6 @@ msg = {
 	'nn': {
 		'basic-changing': u'robot: endrar...',
 	},
-	# Author: Nghtwlkr
-	'no': {
-		'basic-changing': u'Bot: Endrer ...',
-	},
 	# Author: Xqt
 	'pdc': {
 		'basic-changing': u'Waddefresser: ... ennere',
@@ -261,6 +274,10 @@ msg = {
 	# Author: Sp5uhe
 	'pl': {
 		'basic-changing': u'Robot zmienia...',
+	},
+	# Author: Borichèt
+	'pms': {
+		'basic-changing': u'Robò: Cangiament ...',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -299,11 +316,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'basic-changing': u'Бот: мењам…',
+		'basic-changing': u'Робот: мења…',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'basic-changing': u'Bot: menjam…',
+		'basic-changing': u'Robot: menja…',
 	},
 	'sv': {
 		'basic-changing': u'Bot: Ändrar ...',

@@ -74,9 +74,17 @@ msg = {
 	'ia': {
 		'movepages-moving': u'Robot: Pagina renominate',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'movepages-moving': u'Robot: Inyalis ti panid',
+	},
 	# Author: Snævar
 	'is': {
 		'movepages-moving': u'Vélmenni: Færði síðu',
+	},
+	# Author: Nemo bis
+	'it': {
+		'movepages-moving': u'Bot: Pagina spostata',
 	},
 	'ja': {
 		'movepages-moving': u'ロボットによる: ページの移動',
@@ -101,18 +109,22 @@ msg = {
 	'ms': {
 		'movepages-moving': u'Robot: Memindahkah laman',
 	},
+	# Author: Nghtwlkr
+	'no': {
+		'movepages-moving': u'Robot: Flyttet side',
+	},
 	'nl': {
 		'movepages-moving': u'Robot: paginanaam gewijzigd',
 	},
 	'nn': {
 		'movepages-moving': u'robot: flytta sida',
 	},
-	# Author: Nghtwlkr
-	'no': {
-		'movepages-moving': u'Robot: Flyttet side',
-	},
 	'pl': {
 		'movepages-moving': u'Przeniesienie artykułu przez robota',
+	},
+	# Author: Borichèt
+	'pms': {
+		'movepages-moving': u'Trigomiro: Pàgina tramudà',
 	},
 	'pt': {
 		'movepages-moving': u'Robô: Página movida',
@@ -144,6 +156,10 @@ msg = {
 	'sv': {
 		'movepages-moving': u'Bot: Flyttade sida',
 	},
+	# Author: Aswn
+	'ta': {
+		'movepages-moving': u'தானியங்கி: பக்கம் நகர்த்தப்பட்டது',
+	},
 	# Author: Гусейн
 	'tly': {
 		'movepages-moving': u'Де роботи комаги сәһифә номи дәгиш кардеј',
@@ -166,5 +182,9 @@ msg = {
 	},
 	'zh': {
 		'movepages-moving': u'機器人:移動頁面',
+	},
+	# Author: Anakmalaysia
+	'zh-hans': {
+		'movepages-moving': u'机器人：移动页面',
 	},
 }

@@ -189,6 +189,11 @@ msg = {
 		'cosmetic_changes-append': u'; mgbanwe na ihü',
 		'cosmetic_changes-standalone': u'Rọbọt: Mgbanwe na ihü',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'cosmetic_changes-append': u'; babassit laeng a panagsukat',
+		'cosmetic_changes-standalone': u'Robot: Babassit laeng a panagsukat',
+	},
 	# Author: Snævar
 	'is': {
 		'cosmetic_changes-append': u'; útlitsbreytingar',
@@ -233,6 +238,11 @@ msg = {
 		'cosmetic_changes-append': u'; kosmētiskās izmaiņas',
 		'cosmetic_changes-standalone': u'robots kosmētiskās izmaiņas',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'cosmetic_changes-append': u'; owahan kosmetika',
+		'cosmetic_changes-standalone': u'Bot: Owahan kosmetika',
+	},
 	# Author: Jagwar
 	'mg': {
 		'cosmetic_changes-append': u'; fanovana arak\'endrika.',
@@ -255,6 +265,10 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetiċi bidliet',
 		'cosmetic_changes-standalone': u'Bot: kosmetiċi bidliet',
 	},
+	'no': {
+		'cosmetic_changes-append': u'; kosmetiske endringer',
+		'cosmetic_changes-standalone': u'Bot: Kosmetiske endringer',
+	},
 	# Author: Slomox
 	'nds': {
 		'cosmetic_changes-append': u'; kosmeetsch Ännern',
@@ -276,10 +290,6 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetiske endringar',
 		'cosmetic_changes-standalone': u'robot: kosmetiske endringar',
 	},
-	'no': {
-		'cosmetic_changes-append': u'; kosmetiske endringer',
-		'cosmetic_changes-standalone': u'Bot: Kosmetiske endringer',
-	},
 	'pdc': {
 		'cosmetic_changes-append': u'; gleenere Enneringe',
 		'cosmetic_changes-standalone': u'Waddefresser: gleenere Enneringe',
@@ -292,6 +302,11 @@ msg = {
 	'pl': {
 		'cosmetic_changes-append': u'; zmiany kosmetyczne',
 		'cosmetic_changes-standalone': u'Robot wykonał kosmetyczne poprawki',
+	},
+	# Author: Borichèt
+	'pms': {
+		'cosmetic_changes-append': u'; cangiament cosmétich',
+		'cosmetic_changes-standalone': u'Trigomiro: Cangiament cosmétich',
 	},
 	# Author: Hamilton Abreu
 	'pt': {

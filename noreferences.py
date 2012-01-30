@@ -18,6 +18,10 @@ msg = {
 	'be-tarask': {
 		'noreferences-add-tag': u'Робат: дадаў адсутнічаючы тэг <references />',
 	},
+	# Author: DCLXVI
+	'bg': {
+		'noreferences-add-tag': u'Робот: Добавяне на липсващ етикет <references />',
+	},
 	# Author: Y-M D
 	'br': {
 		'noreferences-add-tag': u'Robot: Ouzhpennañ ar balizenn <references /> hag a vank',
@@ -54,6 +58,10 @@ msg = {
 	},
 	'fi': {
 		'noreferences-add-tag': u'Botti lisäsi puuttuvan {{viitteet}}-mallineen',
+	},
+	# Author: EileenSanda
+	'fo': {
+		'noreferences-add-tag': u'Bottur: Leggur afturat vantandi <references /> tag',
 	},
 	# Author: Od1n
 	'fr': {
@@ -94,6 +102,10 @@ msg = {
 	'id': {
 		'noreferences-add-tag': u'Robot: Menambahkan tag <references /> yang hilang',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'noreferences-add-tag': u'Robot: Agnaynayon ti kurang a <references /> nga etiketa',
+	},
 	# Author: Snævar
 	'is': {
 		'noreferences-add-tag': u'Vélmenni: Bæti við <references /> tákni',
@@ -130,6 +142,10 @@ msg = {
 	'ms': {
 		'noreferences-add-tag': u'Robot: Menambah tag  <references /> yang hilang',
 	},
+	# Author: Nghtwlkr
+	'no': {
+		'noreferences-add-tag': u'Robot: Legger til manglende <references />-element',
+	},
 	# Author: Servien
 	'nds-nl': {
 		'noreferences-add-tag': u'Bot: ontbrekende <references />-kode derbie ezet',
@@ -143,10 +159,6 @@ msg = {
 	'nn': {
 		'noreferences-add-tag': u'robot: la til manglande <references />-merke',
 	},
-	# Author: Nghtwlkr
-	'no': {
-		'noreferences-add-tag': u'Robot: Legger til manglende <references />-element',
-	},
 	# Author: Xqt
 	'pdc': {
 		'noreferences-add-tag': u'Waddefresser: Fehlendes <references /> dezu geduh',
@@ -154,6 +166,10 @@ msg = {
 	# Author: Sp5uhe
 	'pl': {
 		'noreferences-add-tag': u'Robot dodał brakujący znacznik <references />',
+	},
+	# Author: Borichèt
+	'pms': {
+		'noreferences-add-tag': u'Trigomiro: Gionta ëd la tichëtta <references /> mancanta',
 	},
 	# Author: Giro720
 	'pt': {
@@ -180,11 +196,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'noreferences-add-tag': u'Робот: додајем недостајућу <references /> ознаку',
+		'noreferences-add-tag': u'Робот: додата одсутна ознака <references />',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'noreferences-add-tag': u'Robot: dodajem nedostajuću <references /> oznaku',
+		'noreferences-add-tag': u'Robot: dodata odsutna oznaka <references />',
 	},
 	# Author: Lokal Profil
 	'sv': {
@@ -215,5 +231,9 @@ msg = {
 	},
 	'zh': {
 		'noreferences-add-tag': u'機器人: 增加遺失的 <references /> 標籤',
+	},
+	# Author: Anakmalaysia
+	'zh-hans': {
+		'noreferences-add-tag': u'机器人：添加缺少的<references />标签',
 	},
 }

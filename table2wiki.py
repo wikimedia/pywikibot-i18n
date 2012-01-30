@@ -103,10 +103,20 @@ msg = {
 		'table2wiki-no-warning': u'Bot pengguna: sintaks tabel dimutakhirkan',
 		'table2wiki-warnings': u'Bot pengguna: sintaks tabel dimutakhirkan - {{PLURAL:count|1|%(count)d}} peringatan!',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'table2wiki-no-warning': u'Robot a tengtenglen ti agar-aramat: Napabaro ti tabla ti gramatiko',
+		'table2wiki-warnings': u'Robot a tengtenglen ti agar-aramat: Napabaro ti tabla ti gramatiko - {{PLURAL:count|1 ballaag|%(count)d dagiti ballaag}}!',
+	},
 	# Author: Snævar
 	'is': {
 		'table2wiki-no-warning': u'Handvirkt vélmenni: Málskipan töflu uppfærð',
 		'table2wiki-warnings': u'Handvirkt vélmenni: Málskipan töflu uppfært - {{PLURAL:count|1|%(count)d}} viðvaranir!',
+	},
+	# Author: Gianfranco
+	'it': {
+		'table2wiki-no-warning': u'Robot controllato da utente: aggiornata sintassi tabelle',
+		'table2wiki-warnings': u'Robot controllato da utente: tabella sintassi aggiornata - {{PLURAL:count|1 avviso|%(count)d avvisi}}!',
 	},
 	# Author: Xqt
 	'ja': {
@@ -141,8 +151,9 @@ msg = {
 		'table2wiki-warnings': u'Rôbô : {{PLURAL:count|Fanawikiavana ary fanavaozana ny rafi-pehezantenin\'ny tabilao - 1 fampitandremana !|fanawikiavana ny firafitry ny tabilao - fampitandremana %(count)d}}',
 	},
 	# Author: Bjankuloski06
+	# Author: Rancher
 	'mk': {
-		'table2wiki-no-warning': u'Кориснички-управуван бот: подновена синтаксата за табели',
+		'table2wiki-no-warning': u'Кориснички-управуван робот: подновена синтаксата за табели',
 		'table2wiki-warnings': u'Кориснички-управуван бот: подновена синтаксата за табели - {{PLURAL:count|1 предупредување|%(count)d предупредувања}}!',
 	},
 	# Author: Diagramma Della Verita
@@ -150,6 +161,11 @@ msg = {
 	'ms': {
 		'table2wiki-no-warning': u'Bot kawalan pengguna: jadual syntax dikemaskinikan',
 		'table2wiki-warnings': u'Bot kawalan pengguna: jadual syntax dikemaskinikan -{{PLURAL:count|1|%(count)d}} amaran!',
+	},
+	# Author: Xqt
+	'no': {
+		'table2wiki-no-warning': u'bot: Konverter tabellsyntaks',
+		'table2wiki-warnings': u'bot: Konverterer tabellsyntaks – {{PLURAL:count|1 advarsel|%(count)d advarsler}}!',
 	},
 	# Author: Servien
 	'nds-nl': {
@@ -161,15 +177,15 @@ msg = {
 		'table2wiki-no-warning': u'Tabel gewijzigd van HTML- naar Wikisyntax',
 		'table2wiki-warnings': u'Tabel gewijzigd van HTML- naar Wikisyntax - {{PLURAL:count|1 waarschuwing|%(count)d waarschuwingen}}!',
 	},
-	# Author: Xqt
-	'no': {
-		'table2wiki-no-warning': u'bot: Konverter tabellsyntaks',
-		'table2wiki-warnings': u'bot: Konverterer tabellsyntaks – {{PLURAL:count|1 advarsel|%(count)d advarsler}}!',
-	},
 	# Author: Sp5uhe
 	'pl': {
 		'table2wiki-no-warning': u'Kontrolowany przez użytkownika robot poprawił składnię tabeli',
 		'table2wiki-warnings': u'Kontrolowany przez użytkownika robot poprawił składnię tabeli – {{PLURAL:count||%(count)d ostrzeżeń!',
+	},
+	# Author: Borichèt
+	'pms': {
+		'table2wiki-no-warning': u'Trigomiro controlà da utent: Sintassi ëd tàula agiornà',
+		'table2wiki-warnings': u'Trigomiro controlà da utent: Sintassi ëd tàula agiornà - {{PLURAL:count|1 avertiment|%(count)d avertiment}}!',
 	},
 	# Author: Xqt
 	'pt': {
@@ -207,13 +223,13 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'table2wiki-no-warning': u'Бот којим управља корисник: синтакса табеле је ажурирана',
-		'table2wiki-warnings': u'Бот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења}})',
+		'table2wiki-no-warning': u'Робот којим управља корисник: синтакса табеле је ажурирана',
+		'table2wiki-warnings': u'Бот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења|%(count)d упозорења}})',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'table2wiki-no-warning': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana',
-		'table2wiki-warnings': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja}})',
+		'table2wiki-no-warning': u'Robot kojim upravlja korisnik: sintaksa tabele je ažurirana',
+		'table2wiki-warnings': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja|%(count)d upozorenja}})',
 	},
 	# Author: WikiPhoenix
 	'sv': {
@@ -245,5 +261,10 @@ msg = {
 	'zh': {
 		'table2wiki-no-warning': u'機器人：表格語法更新',
 		'table2wiki-warnings': u'機器人：表格語法更新 - 注意 {{PLURAL:count|1 注意！|注意 %(count)d}}',
+	},
+	# Author: Anakmalaysia
+	'zh-hans': {
+		'table2wiki-no-warning': u'用户控制机器人：更新表语法',
+		'table2wiki-warnings': u'用户控制机器人：更新表语法——但有%(count)d个警告！',
 	},
 }

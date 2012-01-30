@@ -62,6 +62,10 @@ msg = {
 		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня → %(to)s',
 		'redirect-remove-broken': u'Робат: мэта перанакіраваньня не існуе',
 	},
+	# Author: DCLXVI
+	'bg': {
+		'redirect-fix-double': u'Робот: Поправяне на двойно пренасочване към %(to)s',
+	},
 	'bjn': {
 		'redirect-fix-double': u'Robot: Pamasangan paugahan ganda ka %(to)s',
 	},
@@ -172,6 +176,12 @@ msg = {
 		'redirect-remove-broken': u'Ohjauksen kohdesivua ei ole olemassa',
 		'redirect-remove-loop': u'Ohjauksen kohde muodostaa ohjaussilmukan',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Bottur: Rættar dupulta umdirigering til %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Umstilling]] til eina strikaða síðu ella síðu sum ikki er til',
+	},
 	# Author: Crochet.david
 	# Author: IAlex
 	# Author: Od1n
@@ -273,17 +283,27 @@ msg = {
 	'ig': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'redirect-broken-redirect-template': u'{{delete}}',
+		'redirect-fix-double': u'Robot: Agsimsimpa ti doble a baw-ing idiay %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Baw-ing]] idiay naikkat wenno awan a panid',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Baw-ing]] ti puntaan ket agporporma ti baw-ing silo',
+	},
 	# Author: Snævar
 	'is': {
 		'redirect-broken-redirect-template': u'{{eyða}}',
 		'redirect-fix-double': u'Vélmenni: Lagfæri tvöfalda tilvísun → %(to)s',
+		'redirect-remove-broken': u'[[Wikipedia:Eyðingar#A9|A9]]: Tilvísun bendir á síðu sem hefur verið eytt eða er ekki til',
+		'redirect-remove-loop': u'[[Wikipedia:Eyðingar#A9|A9]]: Tilvísun bendir á óendanlega tilvísunar lykkju',
 	},
 	# Author: Rippitippi
+	# Author: Nemo bis
 	'it': {
 		'redirect-broken-redirect-template': u'{{Cancella subito|9}}',
 		'redirect-fix-double': u'Bot: Sistemo i redirect doppi a %(to)s',
-		'redirect-remove-broken': u'Bot: Il redirect indirizza ad una pagina inesistente',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] la destinazione rimanda alla pagina di partenza',
+		'redirect-remove-broken': u'Bot: Redirect a una pagina inesistente',
+		'redirect-remove-loop': u'La destinazione del [[{{ns:project}}:Redirect|redirect]] rimanda alla pagina di partenza',
 	},
 	# Author: 赤の旋律
 	'ja': {
@@ -357,9 +377,10 @@ msg = {
 	},
 	# Author: Bjankuloski06
 	# Author: Xqt
+	# Author: Rancher
 	'mk': {
 		'redirect-broken-redirect-template': u'{{db|[[ВП:КББ|O8]]}}',
-		'redirect-fix-double': u'Бот: Исправка на двојни пренасочувања → %(to)s',
+		'redirect-fix-double': u'Робот: Исправка на двојни пренасочувања → %(to)s',
 		'redirect-remove-broken': u'[[ВП:КББ|О6]: [[Википедија:Пренасочување|Пренасочување]] кон избришана или непостоечка страница',
 		'redirect-remove-loop': u'[[ВП:КББ|О6]]: Одредницата за [[Википедија:Пренасочување|пренасочување]] образува јамка',
 	},
@@ -393,6 +414,12 @@ msg = {
 		'redirect-fix-double': u'ربوت:عوض هایتن دکشیه‌ئون دِتایی → %(to)s',
 		'redirect-remove-broken': u'ربوت:بی‌جاء ِدکشی‌یه‌ئون',
 		'redirect-remove-loop': u'ربوت: تغییر مسیر حلقه‌یی',
+	},
+	'no': {
+		'redirect-broken-redirect-template': u'{{hurtigslett|Feilaktig omdirigering}}',
+		'redirect-fix-double': u'robot: Retter dobbel omdirigering til %(to)s',
+		'redirect-remove-broken': u'robot: Målet for omdirigeringen eksisterer ikke',
+		'redirect-remove-loop': u'robot: Omdirigering til seg selv',
 	},
 	# Author: Slomox
 	'nds': {
@@ -428,13 +455,6 @@ msg = {
 		'redirect-fix-double': u'robot: retta dobbel omdirigering → %(to)s',
 		'redirect-remove-broken': u'robot: målet for omdirigeringa eksisterer ikkje',
 	},
-	# Author: Jon Harald Søby
-	'no': {
-		'redirect-broken-redirect-template': u'{{hurtigslett|Feilaktig omdirigering}}',
-		'redirect-fix-double': u'robot: Retter dobbel omdirigering til %(to)s',
-		'redirect-remove-broken': u'robot: Målet for omdirigeringen eksisterer ikke',
-		'redirect-remove-loop': u'robot: Omdirigering til seg selv',
-	},
 	# Author: Xqt
 	'pdc': {
 		'redirect-broken-redirect-template': u'{{lesche|Kaputte Weiderleiding)}}',
@@ -450,6 +470,14 @@ msg = {
 		'redirect-fix-double': u'Robot naprawił podwójne przekierowanie do %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]] – [[Wikipedia:Redirect|przekierowanie]] do usuniętej lub nieistniejącej strony',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]] – pętla [[Wikipedia:Redirect|przekierowań]]',
+	},
+	# Author: Borichèt
+	# Author: Dragonòt
+	'pms': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Trigomiro: a coregg ridiression dobia a %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Ridiression]] a na pàgina scancelà o ch\'a esist nen',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|La ridiression]] ëd destinassion a forma un sicl ëd ridiression',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -533,16 +561,16 @@ msg = {
 	# Author: Rancher
 	'sr-ec': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Бот: исправљам двострука преусмерења у %(to)s',
+		'redirect-fix-double': u'Робот: исправљена двострука преусмерења у %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Преусмерење]] до обрисане или непостојеће странице',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Циљ [[Wikipedia:Redirect|преусмерења]] гради петљу',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: одредиште [[Wikipedia:Redirect|преусмерења]] образује петљу',
 	},
 	# Author: Rancher
 	'sr-el': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Bot: ispravljam dvostruka preusmerenja u %(to)s',
+		'redirect-fix-double': u'Robot: ispravljena dvostruka preusmerenja u %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmerenje]] do obrisane ili nepostojeće stranice',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmerenja]] gradi petlju',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: odredište [[Wikipedia:Redirect|preusmerenja]] obrazuje petlju',
 	},
 	# Author: Tobulos1
 	# Author: Boivie

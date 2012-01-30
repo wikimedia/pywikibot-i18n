@@ -87,6 +87,10 @@ msg = {
 		'archivebot-older-than': u'älter als',
 		'archivebot-page-summary': u'%(count)d Abschnitt(e) (%(why)s) in %(archives)s archiviert.',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'archivebot-archive-full': u'(ARŞİW HEME)',
+	},
 	# Author: Glavkos
 	'el': {
 		'archivebot-archiveheader': u'{{talkarchive}}',
@@ -171,7 +175,10 @@ msg = {
 		'archivebot-page-summary': u'Due %(count)d thread(s) (%(why)s) uff %(archives)s archiviere.',
 	},
 	# Author: Amire80
+	# Author: Ofekalef
 	'he': {
+		'archivebot-archive-full': u'ארכיון מלא',
+		'archivebot-archive-summary': u'ארכוב %(count)d שיחות מ[[%(from)s]]',
 		'archivebot-older-than': u'ישן מ:',
 		'archivebot-page-summary': u'ארכוב %(count)d שיחות (%(why)s) אל %(archives)s.',
 	},
@@ -198,6 +205,14 @@ msg = {
 		'archivebot-older-than': u'lebih tua dari',
 		'archivebot-page-summary': u'Pengarsipan %(count)d, thread(s) (%(why)s) %(archives)s.',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'archivebot-archive-full': u'(NAPUNNO TI PAGIDULINAN)',
+		'archivebot-archive-summary': u'Iduldulin%(count)d thread(s) from [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'nadatdaan ngem',
+		'archivebot-page-summary': u'Iduldulin %(count)d thread(s) (%(why)s) idiay %(archives)s.',
+	},
 	# Author: Snævar
 	'is': {
 		'archivebot-archive-full': u'(Skjalasafn fullt)',
@@ -205,6 +220,15 @@ msg = {
 		'archivebot-archiveheader': u'{{Spjallskjalasafn}}',
 		'archivebot-older-than': u'eldri en',
 		'archivebot-page-summary': u'Færi %(count)d þræði í skjalasafnið %(archives)s. (%(why)s)',
+	},
+	# Author: Aushulz
+	# Author: Gianfranco
+	'it': {
+		'archivebot-archive-full': u'(ARCHIVIO PIENO)',
+		'archivebot-archive-summary': u'Archiviazione di %(count)d discussioni da [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'più vecchio di',
+		'archivebot-page-summary': u'Archiviazione di %(count)d discussioni (%(why)s) in %(archives)s.',
 	},
 	# Author: Fryed-peach
 	'ja': {
@@ -234,6 +258,22 @@ msg = {
 		'archivebot-older-than': u'méi al wéi',
 		'archivebot-page-summary': u'%(count)d thread(s) (%(why)s) ginn an %(archives)s archivéiert.',
 	},
+	# Author: Pahles
+	'li': {
+		'archivebot-archive-full': u'(ARSJIEF VOL)',
+		'archivebot-archive-summary': u'Robot: %(count)d óngerwerp(e) gearchiveerd van [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'auwer es',
+		'archivebot-page-summary': u'Robot: %(count)d thread(s) gearchiveerd nao %(archives)s (%(why)s).',
+	},
+	# Author: StefanusRA
+	'map-bms': {
+		'archivebot-archive-full': u'(ARSIP KOMPLIT)',
+		'archivebot-archive-summary': u'Ngarsipna %(count)d topik sekang [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'lewih tua sekang',
+		'archivebot-page-summary': u'Ngarsipna %(count)d topik (%(why)s) %(archives)s.',
+	},
 	# Author: Jagwar
 	'mg': {
 		'archivebot-archive-full': u'(FENO NY TAHIRY)',
@@ -250,6 +290,10 @@ msg = {
 		'archivebot-older-than': u'постаро од',
 		'archivebot-page-summary': u'Архивирање на %(count)d нишки (%(why)s) во %(archives)s.',
 	},
+	# Author: Kaajawa
+	'mr': {
+		'archivebot-older-than': u'याहून जुने',
+	},
 	# Author: Anakmalaysia
 	'ms': {
 		'archivebot-archive-full': u'(ARKIB PENUH)',
@@ -261,6 +305,13 @@ msg = {
 	# Author: Chrisportelli
 	'mt': {
 		'archivebot-older-than': u'eqdem minn',
+	},
+	'no': {
+		'archivebot-archive-full': u'(ARKIV FULLT)',
+		'archivebot-archive-summary': u'Arkiverer %(count)d tråder fra [[%(from)s]].',
+		'archivebot-archiveheader': u'{{arkiv}}',
+		'archivebot-older-than': u'eldre enn',
+		'archivebot-page-summary': u'Arkiverer %(count)d tråder (%(why)s) til %(archives)s.',
 	},
 	# Author: SPQRobin
 	# Author: Siebrand
@@ -280,19 +331,20 @@ msg = {
 		'archivebot-older-than': u'eldre enn',
 		'archivebot-page-summary': u'arkiverer %(count)d trådar (%(why)s) til %(archives)s.',
 	},
-	'no': {
-		'archivebot-archive-full': u'(ARKIV FULLT)',
-		'archivebot-archive-summary': u'Arkiverer %(count)d tråder fra [[%(from)s]].',
-		'archivebot-archiveheader': u'{{arkiv}}',
-		'archivebot-older-than': u'eldre enn',
-		'archivebot-page-summary': u'Arkiverer %(count)d tråder (%(why)s) til %(archives)s.',
-	},
 	'pl': {
 		'archivebot-archive-full': u'(ARCHIWUM PEŁNE)',
 		'archivebot-archive-summary': u'Archiwizacja %(count)d wątków z [[%(from)s]].',
 		'archivebot-archiveheader': u'{{archiwum}}',
 		'archivebot-older-than': u'starsze niż',
 		'archivebot-page-summary': u'Archiwizacja %(count)d wątków (%(why)s) do %(archives)s.',
+	},
+	# Author: Dragonòt
+	'pms': {
+		'archivebot-archive-full': u'(ARCHIVI PIEN)',
+		'archivebot-archive-summary': u'Archivié %(count)d discussion da [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'pi vej che',
+		'archivebot-page-summary': u'Archivié %(count)d discussion (%(why)s) an %(archives)s.',
 	},
 	'pt': {
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
@@ -324,7 +376,9 @@ msg = {
 		'archivebot-page-summary': u'Архивация %(count)d тем (%(why)s) в %(archives)s.',
 	},
 	# Author: බිඟුවා
+	# Author: පසිඳු කාවින්ද
 	'si': {
+		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'වඩා වයස',
 	},
 	# Author: Wizzard
@@ -348,18 +402,18 @@ msg = {
 	# Author: Rancher
 	'sr-ec': {
 		'archivebot-archive-full': u'(АРХИВА ЈЕ ПУНА)',
-		'archivebot-archive-summary': u'Архивирам %(count)d теме из [[%(from)s]].',
+		'archivebot-archive-summary': u'Архивиране %(count)d теме из [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'старије од',
-		'archivebot-page-summary': u'Архивирам %(count)d теме (%(why)s) у %(archives)s.',
+		'archivebot-page-summary': u'Архивиране %(count)d теме (%(why)s) у %(archives)s.',
 	},
 	# Author: Rancher
 	'sr-el': {
 		'archivebot-archive-full': u'(ARHIVA JE PUNA)',
-		'archivebot-archive-summary': u'Arhiviram %(count)d teme iz [[%(from)s]].',
+		'archivebot-archive-summary': u'Arhivirane %(count)d teme iz [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'starije od',
-		'archivebot-page-summary': u'Arhiviram %(count)d teme (%(why)s) u %(archives)s.',
+		'archivebot-page-summary': u'Arhivirane %(count)d teme (%(why)s) u %(archives)s.',
 	},
 	'sv': {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
@@ -388,6 +442,14 @@ msg = {
 		'archivebot-older-than': u'daha eski',
 		'archivebot-page-summary': u'Arşivliyor: %(count)d başlık (%(why)s) buraya: %(archives)s.',
 	},
+	# Author: A1
+	# Author: Dim Grits
+	'uk': {
+		'archivebot-archive-full': u'(ARCHIVE FULL)',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'старше',
+		'archivebot-page-summary': u'Архівація %(count)d тем (%(why)s) в %(archives)s.',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'archivebot-archive-full': u'(LƯU TRỮ ĐÃ ĐẦY)',
@@ -403,6 +465,14 @@ msg = {
 	# Author: Demmy
 	'yo': {
 		'archivebot-archiveheader': u'{{talkarchive}}',
+	},
+	# Author: Anakmalaysia
+	'zh-hans': {
+		'archivebot-archive-full': u'（存档已满）',
+		'archivebot-archive-summary': u'正在存档%(count)d个来自[[%(from)s]]的讨论。',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'旧于',
+		'archivebot-page-summary': u'正在存档%(count)d个%(why)s到%(archives)s。',
 	},
 	# Author: Waihorace
 	'zh-hant': {

@@ -152,6 +152,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Bot-unterstützte Weiterleitungsauflösung: %(from)s - Link(s) ersetzt durch %(to)s',
 		'solve_disambiguation-unknown-page': u'(unbekannt)',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'solve_disambiguation-unknown-page': u'(Ne sılasneno)',
+	},
 	# Author: Glavkos
 	# Author: Geraki
 	'el': {
@@ -219,6 +223,7 @@ msg = {
 	},
 	# Author: EileenSanda
 	'fo': {
+		'solve_disambiguation-redirect-removed': u'Rættar leinkju við fleiri týdningum til: %(from)s - Tók burtur leinkju(r)',
 		'solve_disambiguation-unknown-page': u'(ókent)',
 	},
 	# Author: IAlex
@@ -344,6 +349,16 @@ msg = {
 	# Author: Ukabia
 	'ig': {
 		'solve_disambiguation-unknown-page': u'(nke námaghi)',
+	},
+	# Author: Lam-ang
+	'ilo': {
+		'solve_disambiguation-adding-dn-template': u'Tinultulongan ti robot a panangipalpalawag: %(from)s - Namarkaan a kas makasapul ti eksperto a tulong',
+		'solve_disambiguation-links-removed': u'Tinultulongan ti robot a panangipalpalawag: %(from)s - Inikkat ti panilpo (dagiti panilpo).',
+		'solve_disambiguation-links-resolved': u'Tinultulongan ti robot a panangipalpalawag: %(from)s - Sinukatan ti panilpo (dagiti panilpo) idiay %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Tinultulongan ti robot a panangipalpalawag: %(from)s - Namarkaan a kas makasapul ti eksperto a tulong',
+		'solve_disambiguation-redirect-removed': u'Tinultulongan ti robot a panangipalpalawag: %(from)s - Inikkat ti panilpo (dagiti panilpo)',
+		'solve_disambiguation-redirect-resolved': u'Tinultulongan ti robot a panangipalpalawag: %(from)s - Sinukatan ti panilpo (dagiti panilpo) idiay %(to)s',
+		'solve_disambiguation-unknown-page': u'(di amammo)',
 	},
 	# Author: Sapral Mikail
 	'inh': {
@@ -510,6 +525,17 @@ msg = {
 	'nah': {
 		'solve_disambiguation-unknown-page': u'(âmò ìxmatkàyö)',
 	},
+	# Author: Laaknor
+	# Author: Nghtwlkr
+	'no': {
+		'solve_disambiguation-adding-dn-template': u'Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp',
+		'solve_disambiguation-links-removed': u'bot: Retter lenke til peker: %(from)s - Fjernet lenke(r)',
+		'solve_disambiguation-links-resolved': u'bot: Retter lenke til peker: %(from)s - Endret lenke(r) til %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp',
+		'solve_disambiguation-redirect-removed': u'bot: Endrer omdirigeringslenke: %(from)s - Fjernet lenke(r)',
+		'solve_disambiguation-redirect-resolved': u'bot: Endrer omdirigeringslenke: %(from)s - Endret lenke(r) til %(to)s',
+		'solve_disambiguation-unknown-page': u'(ukjent)',
+	},
 	# Author: Slomox
 	'nds': {
 		'solve_disambiguation-adding-dn-template': u'Bot-stütt MB: %(from)s - Hülp von en Experten nödig',
@@ -555,18 +581,6 @@ msg = {
 	'nn': {
 		'solve_disambiguation-unknown-page': u'(ukjend)',
 	},
-	# Author: Laaknor
-	# Author: Jon Harald Søby
-	# Author: Nghtwlkr
-	'no': {
-		'solve_disambiguation-adding-dn-template': u'Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp',
-		'solve_disambiguation-links-removed': u'bot: Retter lenke til peker: %(from)s - Fjernet lenke(r)',
-		'solve_disambiguation-links-resolved': u'bot: Retter lenke til peker: %(from)s - Endret lenke(r) til %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp',
-		'solve_disambiguation-redirect-removed': u'bot: Endrer omdirigeringslenke: %(from)s - Fjernet lenke(r)',
-		'solve_disambiguation-redirect-resolved': u'bot: Endrer omdirigeringslenke: %(from)s - Endret lenke(r) til %(to)s',
-		'solve_disambiguation-unknown-page': u'(ukjent)',
-	},
 	# Author: Bouron
 	'os': {
 		'solve_disambiguation-unknown-page': u'(нæзонгæ)',
@@ -584,6 +598,17 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – usunięto link(i)',
 		'solve_disambiguation-redirect-resolved': u'Robot wspomógł poprawę ujednoznacznienia %(from)s – zmieniono link(i) do %(to)s',
 		'solve_disambiguation-unknown-page': u'(nieznana)',
+	},
+	# Author: Borichèt
+	# Author: Dragonòt
+	'pms': {
+		'solve_disambiguation-adding-dn-template': u'Omonimìa arzolvùa con l\'agiut dël trigomiro:  %(from)s - Marcà com avenda damanca dl\'atension ëd n\'espert',
+		'solve_disambiguation-links-removed': u'Omonimìa arzolvùa con l\'agiut dël trigomiro:  %(from)s - Liura (o liure) gavà.',
+		'solve_disambiguation-links-resolved': u'Omonimìa arzolvùa con l\'agiut dël trigomiro:  %(from)s - Modìfiche dla liura (o dle liure) a %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Omonimìa arzolvùa con l\'agiut dël trigomiro:  %(from)s - Marcà com avenda damanca dl\'atension ëd n\'espert',
+		'solve_disambiguation-redirect-removed': u'Coression ëd liura giutà da \'n trigomiro:  %(from)s - Liura o liure gavà',
+		'solve_disambiguation-redirect-resolved': u'Coression ëd liura giutà da \'n trigomiro:  %(from)s - Modìfiche dla liura (o dle liure) a %(to)s',
+		'solve_disambiguation-unknown-page': u'(pa conossù)',
 	},
 	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
 	'ps': {
@@ -693,22 +718,22 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'solve_disambiguation-adding-dn-template': u'Роботова вишезначна одредница: %(from)s – означено као „потребна стручна пажња“',
-		'solve_disambiguation-links-removed': u'Роботова вишезначна одредница: %(from)s – уклоњене везе.',
-		'solve_disambiguation-links-resolved': u'Роботова вишезначна одредница: %(from)s – промењена веза у %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Роботова вишезначна одредница: %(from)s – означено као „потребна стручна пажња“',
-		'solve_disambiguation-redirect-removed': u'Роботова вишезначна одредница: %(from)s – уклоњене везе',
-		'solve_disambiguation-redirect-resolved': u'Роботова вишезначна одредница: %(from)s – промењена веза у %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Роботизована вишезначна одредница: %(from)s – означено као „потребна стручна пажња“',
+		'solve_disambiguation-links-removed': u'Роботизована вишезначна одредница: %(from)s – уклоњене везе.',
+		'solve_disambiguation-links-resolved': u'Роботизована вишезначна одредница: %(from)s – промењене везе у %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Роботизована вишезначна одредница: %(from)s – означено као „потребна стручна пажња“',
+		'solve_disambiguation-redirect-removed': u'Роботизована вишезначна одредница: %(from)s – уклоњене везе',
+		'solve_disambiguation-redirect-resolved': u'Роботизована вишезначна одредница: %(from)s – промењене везе у %(to)s',
 		'solve_disambiguation-unknown-page': u'(непознато)',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'solve_disambiguation-adding-dn-template': u'Robotova višeznačna odrednica: %(from)s – označeno kao „potrebna stručna pažnja“',
-		'solve_disambiguation-links-removed': u'Robotova višeznačna odrednica: %(from)s – uklonjene veze.',
-		'solve_disambiguation-links-resolved': u'Robotova višeznačna odrednica: %(from)s – promenjena veza u %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robotova višeznačna odrednica: %(from)s – označeno kao „potrebna stručna pažnja“',
-		'solve_disambiguation-redirect-removed': u'Robotova višeznačna odrednica: %(from)s – uklonjene veze',
-		'solve_disambiguation-redirect-resolved': u'Robotova višeznačna odrednica: %(from)s – promenjena veza u %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Robotizovana višeznačna odrednica: %(from)s – označeno kao „potrebna stručna pažnja“',
+		'solve_disambiguation-links-removed': u'Robotizovana višeznačna odrednica: %(from)s – uklonjene veze.',
+		'solve_disambiguation-links-resolved': u'Robotizovana višeznačna odrednica: %(from)s – promenjene veze u %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robotizovana višeznačna odrednica: %(from)s – označeno kao „potrebna stručna pažnja“',
+		'solve_disambiguation-redirect-removed': u'Robotizovana višeznačna odrednica: %(from)s – uklonjene veze',
+		'solve_disambiguation-redirect-resolved': u'Robotizovana višeznačna odrednica: %(from)s – promenjene veze u %(to)s',
 		'solve_disambiguation-unknown-page': u'(nepoznato)',
 	},
 	# Author: Tobulos1

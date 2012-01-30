@@ -203,6 +203,10 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s on luokassa %(oldcat)s, joka on ohjaus luokkaan %(newcat)s',
 		'category_redirect-fix-double': u'Botti korjasi kaksinkertaisen ohjauksen',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'category_redirect-comment': u'Bottur til at viðlíkahalda bólka flytingar',
+	},
 	# Author: Crochet.david
 	# Author: Hashar
 	# Author: IAlex
@@ -317,6 +321,15 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s es in %(oldcat)s, quel es un redirection por %(newcat)s',
 		'category_redirect-fix-double': u'Machine: fixant redirection duplic',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'category_redirect-add-template': u'Robot: Agnaynayon ti panagbaw-ing ti kategoria a plantilia para iti panagsimpa',
+		'category_redirect-change-category': u'Robot: Agsuksukat ti naibaw-ing a kategoria [[:%(oldCatLink)s|%(oldCatTitle)s]] idiay [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robot nga agsimsimpa kadagiti baw-ing ti kategoria',
+		'category_redirect-edit-request': u'Ti sumaganad a nasalakniban a pampanid ket nasiputan a makasapul ti panagpabaro kadagiti panilpo ti kategoria: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s ket adda idiay %(oldcat)s, nga maysa a baw-ing idiay %(newcat)s',
+		'category_redirect-fix-double': u'Robot: Agsimsimpa ti doble a baw-ing',
+	},
 	# Author: Snævar
 	'is': {
 		'category_redirect-add-template': u'Vélmenni: Bæti við tilvísun vegna viðhalds',
@@ -386,6 +399,15 @@ msg = {
 	'lt': {
 		'category_redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'category_redirect-add-template': u'Bot: nambahna cithakan pemeliharaan pengalihan kategori',
+		'category_redirect-change-category': u'Bot: Ngganti kategori sing dialihna [[:%(oldCatLink)s|%(oldCatTitle)s]] dadi [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Bot pemeliharaan pengalihan kategori',
+		'category_redirect-edit-request': u'Kaca-kaca sing direksa kiye kuwe wis ke-deteksi nek merlokna \'\'updates\'\' kanggo pranala kategori: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s kuwe mlebu nang %(oldcat)s, sing wis dialihna maring %(newcat)s',
+		'category_redirect-fix-double': u'Bot: Mbenerna pengalihan ganda',
+	},
 	# Author: Jagwar
 	'mg': {
 		'category_redirect-add-template': u'Rôbô : fanampiana endrika mampihodina ny sokajy ho an\'ny fikojakojana.',
@@ -405,13 +427,14 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Mampeloki pangalihan gando',
 	},
 	# Author: Bjankuloski06
+	# Author: Rancher
 	'mk': {
 		'category_redirect-add-template': u'Робот: додава шаблон за пренасочена категорија за одржување',
 		'category_redirect-change-category': u'Робот: ја менува пренасочената категорија [[:%(oldCatLink)s|%(oldCatTitle)s]] во [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Бот за одржување на пренасочени категории',
+		'category_redirect-comment': u'Робот за одржување на пренасочени категории',
 		'category_redirect-edit-request': u'Утврдено е дека на следниве заштитени страници треба да им се подноват категориските врски: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s е во %(oldcat)s, што е пренасочување кон %(newcat)s',
-		'category_redirect-fix-double': u'Бот: Исправка на двојни пренасочувања',
+		'category_redirect-fix-double': u'Робот: Исправка на двојни пренасочувања',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -427,6 +450,15 @@ msg = {
 	},
 	'mzn': {
 		'category_redirect-fix-double': u'ربوت:عوض هایتن دکشیه‌ئون دِتایی',
+	},
+	# Author: Nghtwlkr
+	'no': {
+		'category_redirect-add-template': u'Robot: legger til kategoriomdirigeringsmal for vedlikehold',
+		'category_redirect-change-category': u'Robot: endre omdirigert kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Vedlikeholdsbot for kategoriomdirigering',
+		'category_redirect-edit-request': u'Det har blitt oppdaget at følgende beskyttede sider krever oppdateringer til kategorilenker: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s',
+		'category_redirect-fix-double': u'robot: Retter dobbel omdirigering',
 	},
 	# Author: Slomox
 	'nds': {
@@ -458,15 +490,6 @@ msg = {
 	'nn': {
 		'category_redirect-fix-double': u'robot: retta dobbel omdirigering',
 	},
-	# Author: Nghtwlkr
-	'no': {
-		'category_redirect-add-template': u'Robot: legger til kategoriomdirigeringsmal for vedlikehold',
-		'category_redirect-change-category': u'Robot: endre omdirigert kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Vedlikeholdsbot for kategoriomdirigering',
-		'category_redirect-edit-request': u'Det har blitt oppdaget at følgende beskyttede sider krever oppdateringer til kategorilenker: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s',
-		'category_redirect-fix-double': u'robot: Retter dobbel omdirigering',
-	},
 	'pdc': {
 		'category_redirect-fix-double': u'Waddefresser: Doppelte Weiderleiding',
 	},
@@ -481,6 +504,15 @@ msg = {
 		'category_redirect-edit-request': u'Następujące zabezpieczone strony wykryto jako wymagające naprawy kategorii: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s jest w %(oldcat)s, która jest przekierowaniem do %(newcat)s',
 		'category_redirect-fix-double': u'Robot naprawił podwójne przekierowanie',
+	},
+	# Author: Borichèt
+	'pms': {
+		'category_redirect-add-template': u'Trigomiro: Gionta dlë stamp ëd ridiression ëd categorìa për manutension',
+		'category_redirect-change-category': u'Trigomiro: Cangiament ëd la ridiression ëd categorìa da [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Trigomiro ëd manutension dle ridiression ëd categorìe',
+		'category_redirect-edit-request': u'Le pàgine protegiùe sì-dapress a son stàite trovà com ch\'a l\'han damanca d\'agiornament a le liure ëd categorìa: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s a l\'é an %(oldcat)s, ch\'a l\'é na ridiression a %(newcat)s',
+		'category_redirect-fix-double': u'Trigomiro: a rangia le ridiression dobie',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -562,21 +594,21 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'category_redirect-add-template': u'Робот: додајем шаблон за преусмеравање категорије ради одржавања',
-		'category_redirect-change-category': u'Робот: мењам преусмерење категорије [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Бот за одржавање преусмеравања категорија',
+		'category_redirect-add-template': u'Робот: додат шаблон за преусмерену категорију за одржавање',
+		'category_redirect-change-category': u'Робот: мења преусмерење категорије [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Робот за одржавање преусмерених категорија',
 		'category_redirect-edit-request': u'Следеће заштићене странице имају застареле везе категорија: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s',
-		'category_redirect-fix-double': u'Бот: исправљам двострука преусмерења',
+		'category_redirect-fix-double': u'Бот: исправљена двострука преусмерења',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'category_redirect-add-template': u'Robot: dodajem šablon za preusmeravanje kategorije radi održavanja',
-		'category_redirect-change-category': u'Robot: menjam preusmerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Bot za održavanje preusmeravanja kategorija',
+		'category_redirect-add-template': u'Robot: dodat šablon za preusmerenu kategoriju za održavanje',
+		'category_redirect-change-category': u'Robot: menja preusmerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robot za održavanje preusmerenih kategorija',
 		'category_redirect-edit-request': u'Sledeće zaštićene stranice imaju zastarele veze kategorija: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s je u %(oldcat)s, a to je preusmerenje na %(newcat)s',
-		'category_redirect-fix-double': u'Bot: ispravljam dvostruka preusmerenja',
+		'category_redirect-fix-double': u'Bot: ispravljena dvostruka preusmerenja',
 	},
 	# Author: Lokal Profil
 	'sv': {

@@ -127,6 +127,7 @@ msg = {
 		'featured-featured': u'Bottur: %(page)s er ein útvald grein',
 		'featured-former': u'Bottur: %(page)s er ein fyrrverandi útvald grein',
 		'featured-good': u'Bottur: %(page)s er ein góð grein',
+		'featured-list': u'Bottur: %(page)s er ein útvaldur listi',
 	},
 	# Author: Od1n
 	'fr': {
@@ -196,6 +197,13 @@ msg = {
 		'featured-good': u'Bot: %(page)s adalah artikel bagus',
 		'featured-list': u'Bot: %(page)s adalah daftar pilihanis a featured list',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'featured-featured': u'Robot: %(page)s ket maysa a nailasin nga artikulo',
+		'featured-former': u'Robot: %(page)s ket maysa a nailasin idi nga artikulo',
+		'featured-good': u'Robot: %(page)s ket nasayaat nga artikulo',
+		'featured-list': u'Robot: %(page)s ket maysa a lista a nailasin',
+	},
 	# Author: Snævar
 	'is': {
 		'featured-featured': u'Vélmenni: %(page)s er úrvalsgrein',
@@ -203,9 +211,13 @@ msg = {
 		'featured-good': u'Vélmenni: %(page)s er gæðagrein',
 		'featured-list': u'Vélmenni: %(page)s er gæðalisti',
 	},
+	# Author: Gianfranco
+	# Author: Nemo bis
 	'it': {
-		'featured-featured': u'Bot: collegamento articolo in vetrina %(page)s',
-		'featured-good': u'Bot: collegamento articolo di qualità %(page)s',
+		'featured-featured': u'Bot: Collegamento alla voce in vetrina %(page)s',
+		'featured-former': u'Robot: %(page)s è una voce che è stata in vetrina',
+		'featured-good': u'Bot: Collegamento alla voce di qualità %(page)s',
+		'featured-list': u'Robot: %(page)s è un elenco da vetrina',
 	},
 	# Author: Fryed-peach
 	'ja': {
@@ -246,11 +258,12 @@ msg = {
 		'featured-list': u'Rôbô : %(page)s dia lisitra tsara vita',
 	},
 	# Author: Bjankuloski06
+	# Author: Rancher
 	'mk': {
-		'featured-featured': u'Бот: Интервики за избрани статии за %(page)s',
-		'featured-former': u'Бот: %(page)s е поранешна избрана статија',
-		'featured-good': u'Бот: %(page)s е добра статија',
-		'featured-list': u'Бот: %(page)s е избран список',
+		'featured-featured': u'Робот: Интервики за избрани статии за %(page)s',
+		'featured-former': u'Робот: %(page)s е поранешна избрана статија',
+		'featured-good': u'Робот: %(page)s е добра статија',
+		'featured-list': u'Робот: %(page)s е избран список',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -258,6 +271,13 @@ msg = {
 		'featured-former': u'Bot: %(page)s merupakan rencana pilihan arkib',
 		'featured-good': u'Bot: %(page)s merupakan artikel yang baik',
 		'featured-list': u'Bot: %(page)s merupakan senarai pilihan',
+	},
+	# Author: Nghtwlkr
+	'no': {
+		'featured-featured': u'bot: %(page)s er en utmerka artikkel',
+		'featured-former': u'Bot: %(page)s er en tidligere utmerket artikkel',
+		'featured-good': u'bot: %(page)s er en anbefalt artikkel',
+		'featured-list': u'Bot: %(page)s er en utmerket liste',
 	},
 	# Author: Servien
 	'nds-nl': {
@@ -277,13 +297,6 @@ msg = {
 		'featured-featured': u'bot: %(page)s er ein god artikkel',
 		'featured-good': u'bot: %(page)s er ein god artikkel',
 	},
-	# Author: Nghtwlkr
-	'no': {
-		'featured-featured': u'bot: %(page)s er en utmerka artikkel',
-		'featured-former': u'Bot: %(page)s er en tidligere utmerket artikkel',
-		'featured-good': u'bot: %(page)s er en anbefalt artikkel',
-		'featured-list': u'Bot: %(page)s er en utmerket liste',
-	},
 	'nv': {
 		'featured-featured': u'Naaltsoos %(page)s kʼad nizhónígo ályaa',
 	},
@@ -293,6 +306,14 @@ msg = {
 		'featured-former': u'Robot informuje, że %(page)s już nie jest artykułem na medal',
 		'featured-good': u'Robot informuje, że %(page)s jest dobrym artykułem',
 		'featured-list': u'Robot informuje, że %(page)s jest listą medalową',
+	},
+	# Author: Borichèt
+	# Author: Dragonòt
+	'pms': {
+		'featured-featured': u'Trigomiro: %(page)s a l\'é n\'artìcol caraterisà',
+		'featured-former': u'Trigomiro: %(page)s a l\'é n\'artìcol ëd qualità vej',
+		'featured-good': u'Trigomiro: %(page)s a l\'é n\'artìcol bon',
+		'featured-list': u'Trigomiro: %(page)s a l\'é na lista caraterisà',
 	},
 	# Author: Giro720
 	'pt': {
@@ -341,17 +362,17 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'featured-featured': u'Бот: %(page)s је изабран чланак',
-		'featured-former': u'Бот: %(page)s је бивши изабрани чланак',
-		'featured-good': u'Бот: %(page)s је добар чланак',
-		'featured-list': u'Бот: %(page)s је изабран списак',
+		'featured-featured': u'Робот: %(page)s је сјајан чланак',
+		'featured-former': u'Робот: %(page)s је био сјајан чланак',
+		'featured-good': u'Робот: %(page)s је добар чланак',
+		'featured-list': u'Робот: %(page)s је сјајан списак',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'featured-featured': u'Bot: %(page)s je izabran članak',
-		'featured-former': u'Bot: %(page)s je bivši izabrani članak',
-		'featured-good': u'Bot: %(page)s je dobar članak',
-		'featured-list': u'Bot: %(page)s je izabran spisak',
+		'featured-featured': u'Robot: %(page)s je sjajan članak',
+		'featured-former': u'Robot: %(page)s je bio sjajan članak',
+		'featured-good': u'Robot: %(page)s je dobar članak',
+		'featured-list': u'Robot: %(page)s je sjajan spisak',
 	},
 	# Author: Lokal Profil
 	'sv': {
@@ -405,5 +426,12 @@ msg = {
 	},
 	'zh': {
 		'featured-featured': u'機器人: 連結特色條目 %(page)s',
+	},
+	# Author: Anakmalaysia
+	'zh-hans': {
+		'featured-featured': u'机器人：%(page)s是一篇精选文章',
+		'featured-former': u'机器人：%(page)s以前是一篇精选文章',
+		'featured-good': u'机器人：%(page)s是一篇好文章',
+		'featured-list': u'机器人：%(page)s是一篇精选列表',
 	},
 }

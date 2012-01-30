@@ -217,6 +217,10 @@ msg = {
 	'ie': {
 		'add_text-adding': u'Bot: Adjuntet %(adding)s',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'add_text-adding': u'Robot: Agnaynayon %(adding)s',
+	},
 	'io': {
 		'add_text-adding': u'roboto adjuntas %(adding)s',
 	},
@@ -300,8 +304,9 @@ msg = {
 	'lv': {
 		'add_text-adding': u'robots pievieno %(adding)s',
 	},
+	# Author: StefanusRA
 	'map-bms': {
-		'add_text-adding': u'Robot Nambah %(adding)s',
+		'add_text-adding': u'Bot Nambah %(adding)s',
 	},
 	'mdf': {
 		'add_text-adding': u'бот поладозе %(adding)s',
@@ -318,8 +323,9 @@ msg = {
 	'min': {
 		'add_text-adding': u'bot Manambah %(adding)s',
 	},
+	# Author: Rancher
 	'mk': {
-		'add_text-adding': u'Бот Додава %(adding)s',
+		'add_text-adding': u'Робот: Додава %(adding)s',
 	},
 	'ml': {
 		'add_text-adding': u'യന്ത്രം ചേര്‍ക്കുന്നു %(adding)s',
@@ -357,6 +363,9 @@ msg = {
 	'nah': {
 		'add_text-adding': u'TepozcuayollotlTlamahxiltilli %(adding)s',
 	},
+	'no': {
+		'add_text-adding': u'robot Legger til %(adding)s',
+	},
 	'nds': {
 		'add_text-adding': u'Bot: tofoiegt: %(adding)s',
 	},
@@ -374,9 +383,6 @@ msg = {
 	# Author: Njardarlogar
 	'nn': {
 		'add_text-adding': u'robot: la til %(adding)s',
-	},
-	'no': {
-		'add_text-adding': u'robot Legger til %(adding)s',
 	},
 	'nov': {
 		'add_text-adding': u'robote Adid %(adding)s',
@@ -469,11 +475,13 @@ msg = {
 	'sr': {
 		'add_text-adding': u'Робот додаје %(adding)s',
 	},
+	# Author: Rancher
 	'sr-ec': {
-		'add_text-adding': u'Робот додаде %(adding)s',
+		'add_text-adding': u'Робот: додато %(adding)s',
 	},
+	# Author: Rancher
 	'sr-el': {
-		'add_text-adding': u'Robot dodade %(adding)s',
+		'add_text-adding': u'Robot: dodato %(adding)s',
 	},
 	'su': {
 		'add_text-adding': u'bot Nambih %(adding)s',

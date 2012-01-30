@@ -110,7 +110,9 @@ msg = {
 	# Author: EileenSanda
 	'fo': {
 		'delete-from-category': u'Bottur: Strikar allar síður frá bólki %(page)s',
+		'delete-from-file': u'Bottur: Strikar ein lista við fílum.',
 		'delete-images': u'Bottur: Strikar allar myndir á síðu %(page)s',
+		'delete-linked-pages': u'Bottur: Strikar allar síðu sum slóða frá %(page)s',
 		'delete-referring-pages': u'Bottur: Strikar allar síður víkjandi %(page)s',
 	},
 	'fr': {
@@ -175,6 +177,14 @@ msg = {
 		'delete-linked-pages': u'Robot: Deletion de tote le paginas ligate ab %(page)s',
 		'delete-referring-pages': u'Robot: Deletion de tote le paginas que refere ab %(page)s',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'delete-from-category': u'Robot: Ikikkaten amin a pampanid manipud idiay kategoria %(page)s',
+		'delete-from-file': u'Robot: Agikikkat ti maysa a listaan kadagiti papeles.',
+		'delete-images': u'Robot: Ikikkaten amin nga imahen iti daytoy a panid %(page)s',
+		'delete-linked-pages': u'Robot: Ikikkaten amin a pampanid a naisilpo manipud idiay %(page)s',
+		'delete-referring-pages': u'Robot: Ikikkaten amin a pampanid nga agiturturong manipud idiay %(page)s',
+	},
 	# Author: Snævar
 	'is': {
 		'delete-from-category': u'Vélmenni: Eyði öllum síðum í flokknum %(page)s',
@@ -182,6 +192,15 @@ msg = {
 		'delete-images': u'Vélmenni: Eyði öllum myndum á %(page)s',
 		'delete-linked-pages': u'Vélmenni: Eyði öllum síðum sem tengjast %(page)s',
 		'delete-referring-pages': u'Vélmenni: Eyði öllum síðum sem tengjast %(page)s',
+	},
+	# Author: Gianfranco
+	# Author: Nemo bis
+	'it': {
+		'delete-from-category': u'Bot: Cancellazione di tutte le pagine dalla categoria %(page)s',
+		'delete-from-file': u'Bot: Cancellazione di una lista di file.',
+		'delete-images': u'Bot: Cancellazione di tutte le immagini contenute nella pagina %(page)s',
+		'delete-linked-pages': u'Bot: Cancellazione di tutte le pagine collegate da %(page)s',
+		'delete-referring-pages': u'Robot: Cancellazione di tutte le pagine collegate da %(page)s',
 	},
 	# Author: Fryed-peach
 	'ja': {
@@ -212,6 +231,10 @@ msg = {
 		'delete-linked-pages': u'robotas: Trinami visi puslapiai į kuriuos yra nuoroda iš %(page)s',
 		'delete-referring-pages': u'robotas: Trinami visi puslapiai rodantys į %(page)s',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'delete-images': u'Bot: Mbusek kabeh gambar nang kaca %(page)s',
+	},
 	# Author: Jagwar
 	'mg': {
 		'delete-from-category': u'Rôbô : Mamafa ny pejy rehetra ao amin\'ny sokajy %(page)s',
@@ -221,12 +244,13 @@ msg = {
 		'delete-referring-pages': u'Rôbô : mamafa ny pejy rehetra mikasika an\'i %(page)s',
 	},
 	# Author: Bjankuloski06
+	# Author: Rancher
 	'mk': {
-		'delete-from-category': u'Бот: Бришење на сите страници од категоријата %(page)s',
-		'delete-from-file': u'Бот: Бришење на список на сите податотеки.',
-		'delete-images': u'Бот: бришење на сите слики на page %(page)s',
-		'delete-linked-pages': u'Бот: бришење на сите страници што водат од %(page)s',
-		'delete-referring-pages': u'Бот: бришење на сите страници што водат од %(page)s',
+		'delete-from-category': u'Робот: Бришење на сите страници од категоријата %(page)s',
+		'delete-from-file': u'Робот: Бришење на список на сите податотеки.',
+		'delete-images': u'Робот: бришење на сите слики на page %(page)s',
+		'delete-linked-pages': u'Робот: бришење на сите страници што водат од %(page)s',
+		'delete-referring-pages': u'Робот: бришење на сите страници што водат од %(page)s',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -235,6 +259,14 @@ msg = {
 		'delete-images': u'Bot: Menghapuskan semua imej pada laman %(page)s',
 		'delete-linked-pages': u'Bot: Menghapuskan semua laman yang berpaut dari %(page)s',
 		'delete-referring-pages': u'Bot: Menghapuskan semua laman yang dirujuk dari %(page)s',
+	},
+	# Author: Jon Harald Søby
+	'no': {
+		'delete-from-category': u'Bot: Sletter alle sider i kategorien %(page)s',
+		'delete-from-file': u'Bot: Sletter en liste over filer.',
+		'delete-images': u'Bot: Sletter alle bilder på siden %(page)s',
+		'delete-linked-pages': u'Bot: Sletter alle sider som lenkes fra %(page)s',
+		'delete-referring-pages': u'Bot: Sletter alle sider som lenker til %(page)s',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -251,14 +283,6 @@ msg = {
 		'delete-from-file': u'robot: sletta ei liste med filer',
 		'delete-images': u'robot: sletta alle bileta på sida %(page)s',
 	},
-	# Author: Jon Harald Søby
-	'no': {
-		'delete-from-category': u'Bot: Sletter alle sider i kategorien %(page)s',
-		'delete-from-file': u'Bot: Sletter en liste over filer.',
-		'delete-images': u'Bot: Sletter alle bilder på siden %(page)s',
-		'delete-linked-pages': u'Bot: Sletter alle sider som lenkes fra %(page)s',
-		'delete-referring-pages': u'Bot: Sletter alle sider som lenker til %(page)s',
-	},
 	# Author: Sp5uhe
 	'pl': {
 		'delete-from-category': u'Robot usuwa wszystkie strony z kategorii %(page)s',
@@ -266,6 +290,14 @@ msg = {
 		'delete-images': u'Robot usunął wszystkie obrazy ze strony %(page)s',
 		'delete-linked-pages': u'Robot usuwa wszystkie artykuły, do których linkuje %(page)s',
 		'delete-referring-pages': u'Robot usuwa wszystkie strony, które linkują do %(page)s',
+	},
+	# Author: Borichèt
+	'pms': {
+		'delete-from-category': u'Trigomiro: A scancela tute le pàgine da la categorìa %(page)s',
+		'delete-from-file': u'Trigomiro: Scancelassion ëd na lista d\'archivi.',
+		'delete-images': u'Trigomiro: A scancela tute le figure an sla pàgina %(page)s',
+		'delete-linked-pages': u'Trigomiro: A scancela tute le pàgine colegà da %(page)s',
+		'delete-referring-pages': u'Trigomiro: A scancela tute le pàgine ch\'a arferisso a %(page)s',
 	},
 	'pt': {
 		'delete-from-category': u'Bot: Apagando todas as páginas da categoria %(page)s',
@@ -307,19 +339,19 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'delete-from-category': u'Бот: бришем све странице из категорије %(page)s',
-		'delete-from-file': u'Бот: бришем списак датотека.',
-		'delete-images': u'Бот: бришем све слике на страници %(page)s',
-		'delete-linked-pages': u'Бот: бришем све странице које воде из %(page)s',
-		'delete-referring-pages': u'Бот: бришем све странице које потичу из %(page)s',
+		'delete-from-category': u'Робот: обрисане све странице из категорије %(page)s',
+		'delete-from-file': u'Робот: обрисан списак датотека.',
+		'delete-images': u'Робот: обрисане све слике на страници %(page)s',
+		'delete-linked-pages': u'Робот: обрисане све странице које воде из %(page)s',
+		'delete-referring-pages': u'Робот: обрисане све странице које потичу из %(page)s',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'delete-from-category': u'Bot: brišem sve stranice iz kategorije %(page)s',
-		'delete-from-file': u'Bot: brišem spisak datoteka.',
-		'delete-images': u'Bot: brišem sve slike na stranici %(page)s',
-		'delete-linked-pages': u'Bot: brišem sve stranice koje vode iz %(page)s',
-		'delete-referring-pages': u'Bot: brišem sve stranice koje potiču iz %(page)s',
+		'delete-from-category': u'Robot: obrisane sve stranice iz kategorije %(page)s',
+		'delete-from-file': u'Robot: obrisan spisak datoteka.',
+		'delete-images': u'Robot: obrisane sve slike na stranici %(page)s',
+		'delete-linked-pages': u'Robot: obrisane sve stranice koje vode iz %(page)s',
+		'delete-referring-pages': u'Robot: obrisane sve stranice koje potiču iz %(page)s',
 	},
 	# Author: WikiPhoenix
 	'sv': {
@@ -359,5 +391,13 @@ msg = {
 		'delete-images': u'Bot: Xóa tất cả các hình ảnh khỏi trang “%(page)s”',
 		'delete-linked-pages': u'Bot: Xóa tất cả các trang được liên kết từ “%(page)s”',
 		'delete-referring-pages': u'Bot: Xóa tất cả các trang có liên kết đến “%(page)s”',
+	},
+	# Author: Anakmalaysia
+	'zh-hans': {
+		'delete-from-category': u'机器人：删除来自%(page)s类别所有页面',
+		'delete-from-file': u'机器人：删除文件列表。',
+		'delete-images': u'机器人：删除%(page)s页上所有图像',
+		'delete-linked-pages': u'机器人：删除从%(page)s链接所有页面',
+		'delete-referring-pages': u'机器人：删除指从%(page)s所有页面',
 	},
 }

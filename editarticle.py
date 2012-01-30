@@ -60,6 +60,10 @@ msg = {
 	'fi': {
 		'editarticle-edit': u'Manuaalinen muutos botillla: %(description)s',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'editarticle-edit': u'Manuel rætting við botti: %(description)s',
+	},
 	# Author: Romainhk
 	'fr': {
 		'editarticle-edit': u'Modification manuelle grâce à un bot : %(description)s',
@@ -99,6 +103,10 @@ msg = {
 	'ie': {
 		'editarticle-edit': u'Redaction manual che machine: %(description)s',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'editarticle-edit': u'Manual a panag-urnos ti robot: %(description)s',
+	},
 	'is': {
 		'editarticle-edit': u'Handvirk breyting: %(description)s',
 	},
@@ -126,12 +134,17 @@ msg = {
 		'editarticle-edit': u'Penyuntingan manual dengan memakai Bot: %(description)s',
 	},
 	# Author: Bjankuloski06
+	# Author: Rancher
 	'mk': {
-		'editarticle-edit': u'Рачно уредување со бот: %(description)s',
+		'editarticle-edit': u'Рачно уредување со робот: %(description)s',
 	},
 	# Author: Anakmalaysia
 	'ms': {
 		'editarticle-edit': u'Suntingan manual dengan bot: %(description)s',
+	},
+	# Author: Nghtwlkr
+	'no': {
+		'editarticle-edit': u'Manuell redigert med robot: %(description)s',
 	},
 	# Author: Servien
 	'nds-nl': {
@@ -142,13 +155,13 @@ msg = {
 	'nl': {
 		'editarticle-edit': u'Handmatige bewerking met robot: %(description)s',
 	},
-	# Author: Nghtwlkr
-	'no': {
-		'editarticle-edit': u'Manuell redigert med robot: %(description)s',
-	},
 	# Author: Sp5uhe
 	'pl': {
 		'editarticle-edit': u'Ręczna zmiana przy pomocy robota – %(description)s',
+	},
+	# Author: Borichèt
+	'pms': {
+		'editarticle-edit': u'Modìfica manual con un trigomiro: %(description)s',
 	},
 	# Author: Giro720
 	'pt': {
@@ -183,11 +196,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'editarticle-edit': u'Ручно уређивање с ботом: %(description)s',
+		'editarticle-edit': u'Ручно уређивање с роботом: %(description)s',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'editarticle-edit': u'Ručno uređivanje s botom: %(description)s',
+		'editarticle-edit': u'Ručno uređivanje s robotom: %(description)s',
 	},
 	'sv': {
 		'editarticle-edit': u'Manuell redigering: %(description)s',
@@ -203,6 +216,10 @@ msg = {
 	# Author: Ильнар
 	'tt-cyrl': {
 		'editarticle-edit': u'Бот белән идарә итү өчен кулланма: %(description)s',
+	},
+	# Author: Dim Grits
+	'uk': {
+		'editarticle-edit': u'Ручне редагування за допомогою бота: %(description)s',
 	},
 	# Author: Candalua
 	'vec': {

@@ -146,6 +146,7 @@ msg = {
 	# Author: DCLXVI
 	'bg': {
 		'category-adding': u'Робот: Добавяне на категория [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-changing': u'Робот: Променяне от %(oldcat)s на %(newcat)s',
 		'category-removing': u'Робот: Премахване от %(oldcat)s',
 		'category-replacing': u'Робот: Заменяне на категория %(oldcat)s с %(newcat)s',
 	},
@@ -383,6 +384,17 @@ msg = {
 	'fiu-vro': {
 		'category-adding': u'robot: manopandminõ [[Category:%(newcat)s]]',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'category-adding': u'Bottur: Leggur afturat bólkin [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(eisini í %(alsocat)s)',
+		'category-changing': u'Bottur: Broytir %(oldcat)s til %(newcat)s',
+		'category-listifying': u'Bottur: Umskapar frá %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+		'category-removing': u'Bottur: Tekur burtur frá %(oldcat)s',
+		'category-replacing': u'Bottur: Skiftir út bólk %(oldcat)s við %(newcat)s',
+		'category-was-disbanded': u'Bottur: Bólkurin varð upploystur',
+		'category-was-moved': u'Bottur: Bólkur varð fluttur til [[:Category:%(newcat)s|%(title)s]]',
+	},
 	# Author: IAlex
 	# Author: Xqt
 	# Author: Crochet.david
@@ -564,6 +576,17 @@ msg = {
 		'category-removing': u'Bot: Ne wéfu fuọ %(oldcat)s',
 		'category-was-disbanded': u'Bot: Gbásàrà ébéanọ',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'category-adding': u'Robot: Agnaynayon ti kategoria [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(idiay pay %(alsocat)s)',
+		'category-changing': u'Robot: Agsuksukat %(oldcat)s idiay %(newcat)s',
+		'category-listifying': u'Robot: Agilislista manipud idiay %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+		'category-removing': u'Robot: Agikikkat manipud idiay %(oldcat)s',
+		'category-replacing': u'Robot: Suksukatan ti kategoria %(oldcat)s iti %(newcat)s',
+		'category-was-disbanded': u'Robot: Ti kategoria ket naikkat',
+		'category-was-moved': u'Robot: Ti kategoria ket naiyalis idiay [[:Category:%(newcat)s|%(title)s]]',
+	},
 	# Author: Malafaya
 	'io': {
 		'category-adding': u'roboto adjuntas: [[Kategorio:%(newcat)s]]',
@@ -585,8 +608,9 @@ msg = {
 	# Author: Beta16
 	# Author: Xqt
 	# Author: Rippitippi
+	# Author: Nemo bis
 	'it': {
-		'category-adding': u'BOT: Aggiunta la categoria [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Bot: Aggiunta la categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(anche in %(alsocat)s)',
 		'category-changing': u'Robot: Modifico %(oldcat)s in %(newcat)s',
 		'category-listifying': u'Bot: Lista del contento dalla %(fromcat)s (%(num)d pagine)',
@@ -742,8 +766,16 @@ msg = {
 		'category-adding': u'Robots: Tiek pievienots kategorija [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Xqt
+	# Author: StefanusRA
 	'map-bms': {
-		'category-adding': u'Robot: Nambah [[:Category:%(newcat)s]]',
+		'category-adding': u'Bot: Nambah [[:Category:%(newcat)s]]',
+		'category-also-in': u'(uga nang %(alsocat)s)',
+		'category-changing': u'Bor: Ngowahi %(oldcat)s dadi %(newcat)s',
+		'category-listifying': u'Bot:Gawe daftar sekang %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+		'category-removing': u'Bot: Mbusek sekang %(oldcat)s',
+		'category-replacing': u'Bot: Ngganti kategori %(oldcat) dadi %(newcat)s',
+		'category-was-disbanded': u'Bot: Kategori dipecah',
+		'category-was-moved': u'Bot: Kategori wis dipindahna maring [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Xqt
 	'mdf': {
@@ -778,14 +810,15 @@ msg = {
 	},
 	# Author: Bjankuloski06
 	# Author: Brest
+	# Author: Rancher
 	'mk': {
 		'category-adding': u'Робот: Додава [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(и во %(alsocat)s)',
 		'category-changing': u'Робот: Ја менувам %(oldcat)s во %(newcat)s',
-		'category-listifying': u'Бот: Попишувам од %(fromcat)s (%(num)d ставки)',
-		'category-removing': u'Бот: Отстранувам од %(oldcat)s',
+		'category-listifying': u'Робот: Попишувам од %(fromcat)s (%(num)d ставки)',
+		'category-removing': u'Робот: Отстранувам од %(oldcat)s',
 		'category-replacing': u'Робот: Ја заменувам категоријата %(oldcat)s со %(newcat)s',
-		'category-was-disbanded': u'Бот: Категоријата е распуштена',
+		'category-was-disbanded': u'Робот: Категоријата е распуштена',
 		'category-was-moved': u'Бот: Категоријата е преместена во [[:Категорија:%(newcat)s|%(title)s]]',
 	},
 	# Author: Praveenp
@@ -865,6 +898,18 @@ msg = {
 		'category-was-disbanded': u'Tepostekitkatl: Yi tlaìxpôpolòlli in tlaìxmatkàtlàlilòtl',
 		'category-was-moved': u'Tepostekitkatl: In tlaìxmatkatlàlilòtl òmotitlan ìpan [[:Category:%(newcat)s|%(title)s]]',
 	},
+	# Author: Jon Harald Søby
+	# Author: Nghtwlkr
+	'no': {
+		'category-adding': u'Robot: Legger til kategorien [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(også i %(alsocat)s)',
+		'category-changing': u'Robot: Endrer %(oldcat)s til %(newcat)s',
+		'category-listifying': u'Robot: Gjør om kategorien %(fromcat)s til liste (%(num)d elementer)',
+		'category-removing': u'Robot: Fjerner ifra %(oldcat)s',
+		'category-replacing': u'Robot: Erstatter kategorien %(oldcat)s med %(newcat)s',
+		'category-was-disbanded': u'Robot: Kategorien ble oppløst',
+		'category-was-moved': u'Robot: Kategorien ble flyttet til [[:Category:%(newcat)s|%(title)s]]',
+	},
 	# Author: Slomox
 	# Author: Xqt
 	'nds': {
@@ -921,18 +966,6 @@ msg = {
 		'category-was-disbanded': u'robot: kategorien vart løyst opp',
 		'category-was-moved': u'robot: kategorien vart flytt til [[:Kategori:%(newcat)s|%(title)s]]',
 	},
-	# Author: Jon Harald Søby
-	# Author: Nghtwlkr
-	'no': {
-		'category-adding': u'Robot: Legger til kategorien [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(også i %(alsocat)s)',
-		'category-changing': u'Robot: Endrer %(oldcat)s til %(newcat)s',
-		'category-listifying': u'Robot: Gjør om kategorien %(fromcat)s til liste (%(num)d elementer)',
-		'category-removing': u'Robot: Fjerner ifra %(oldcat)s',
-		'category-replacing': u'Robot: Erstatter kategorien %(oldcat)s med %(newcat)s',
-		'category-was-disbanded': u'Robot: Kategorien ble oppløst',
-		'category-was-moved': u'Robot: Kategorien ble flyttet til [[:Category:%(newcat)s|%(title)s]]',
-	},
 	# Author: Xqt
 	'nov': {
 		'category-adding': u'robote: Adid [[Category:%(newcat)s]]',
@@ -978,6 +1011,18 @@ msg = {
 		'category-replacing': u'Robot zastąpił kategorię %(oldcat)s przez %(newcat)s',
 		'category-was-disbanded': u'Robot usunął kategorię',
 		'category-was-moved': u'Robot przeniósł kategorię do [[:Category:%(newcat)s|%(title)s]]',
+	},
+	# Author: Borichèt
+	# Author: Dragonòt
+	'pms': {
+		'category-adding': u'Trigomiro: Gionta dla categorìa [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(ëdcò an %(alsocat)s)',
+		'category-changing': u'Trigomiro: Cangé%(oldcat)s a %(newcat)s',
+		'category-listifying': u'Trigomiro: listé da %(fromcat)s ({{PLURAL:%(num)d|1 vos|%(num)d vos}})',
+		'category-removing': u'Trigomiro: Gavé da %(oldcat)s',
+		'category-replacing': u'Trigomiro: Rampiass ëd la categorìa %(oldcat)s con %(newcat)s',
+		'category-was-disbanded': u'Trigomiro: La categorìa a l\'é stàita gavà',
+		'category-was-moved': u'Trigomiro: Le categorìe a son stàite tramudà a [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
 	'ps': {
@@ -1128,24 +1173,24 @@ msg = {
 	# Author: Rancher
 	# Author: Xqt
 	'sr-ec': {
-		'category-adding': u'Робот: додајем категорију [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(такође у %(alsocat)s)',
-		'category-changing': u'Робот: мењам %(oldcat)s у %(newcat)s',
-		'category-listifying': u'Бот: исписујем из %(fromcat)s (%(num)d ставки)',
-		'category-removing': u'Бот: уклањам из %(oldcat)s',
-		'category-replacing': u'Робот: мењам категорију %(oldcat)s са %(newcat)s',
-		'category-was-disbanded': u'Бот: категорија је распуштена',
+		'category-adding': u'Робот: додато [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(и у %(alsocat)s)',
+		'category-changing': u'Робот: промењено %(oldcat)s у %(newcat)s',
+		'category-listifying': u'Робот: исписује из %(fromcat)s (%(num)d ставки)',
+		'category-removing': u'Робот: уклоњено из %(oldcat)s',
+		'category-replacing': u'Робот: замењена категорија %(oldcat)s са %(newcat)s',
+		'category-was-disbanded': u'Робот: категорија је распуштена',
 		'category-was-moved': u'Робот: категорија је премештена у [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'category-adding': u'Robot: dodajem kategoriju [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(takođe u %(alsocat)s)',
-		'category-changing': u'Robot: menjam %(oldcat)s u %(newcat)s',
-		'category-listifying': u'Bot: ispisujem iz %(fromcat)s (%(num)d stavki)',
-		'category-removing': u'Bot: uklanjam iz %(oldcat)s',
-		'category-replacing': u'Robot: menjanje kategorije %(oldcat)s sa %(newcat)s',
-		'category-was-disbanded': u'Bot: kategorija je raspuštena',
+		'category-adding': u'Robot: dodato [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(i u %(alsocat)s)',
+		'category-changing': u'Robot: promenjeno %(oldcat)s u %(newcat)s',
+		'category-listifying': u'Robot: ispisuje iz %(fromcat)s (%(num)d stavki)',
+		'category-removing': u'Robot: uklonjeno iz %(oldcat)s',
+		'category-replacing': u'Robot: zamenjena kategorija %(oldcat)s sa %(newcat)s',
+		'category-was-disbanded': u'Robot: kategorija je raspuštena',
 		'category-was-moved': u'Robot: kategorija je premeštena u [[:Category:%(newcat)s|%(title)s]]',
 	},
 	'su': {
@@ -1309,9 +1354,9 @@ msg = {
 	'wa': {
 		'category-adding': u'robot: radjouter [[Category:%(newcat)s]]',
 	},
-	# Author: Xqt
+	# Author: JinJian
 	'war': {
-		'category-adding': u'Robot: Gindugngan [[Category:%(newcat)s]]',
+		'category-adding': u'Robot: Gindudugngan hin kaarangay [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	'xal': {
 		'category-adding': u'көдлвр: немв [[Category:%(newcat)s]]',
@@ -1352,11 +1397,12 @@ msg = {
 	# Author: Xqt
 	# Author: 阿pp
 	# Author: Shizhao
+	# Author: Anakmalaysia
 	'zh-hans': {
 		'category-adding': u'机器人： 添加类别 [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(同样在%(alsocat)s)',
 		'category-changing': u'机器人： 更改 %(newcat)s 至 %(oldcat)s',
-		'category-listifying': u'机器人: 从%(fromcat)s提取列表(%(num)d个项目)',
+		'category-listifying': u'机器人：从%(fromcat)s提取列表(%(num)d个项目)',
 		'category-removing': u'机器人：移除目录[[%(oldcat)s]]',
 		'category-replacing': u'机器人：变更类别[[%(oldcat)s]]为[[%(newcat)s]]',
 		'category-was-disbanded': u'机器人：类别已被解散',

@@ -73,6 +73,10 @@ msg = {
 	'fi': {
 		'clean_sandbox-cleaned': u'Botti siivosi hiekkalaatikon',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'clean_sandbox-cleaned': u'Bottur: Sjálvvirkandi reinsað',
+	},
 	# Author: Sherbrooke
 	'fr': {
 		'clean_sandbox-cleaned': u'Robot : automatiquement nettoyé',
@@ -110,12 +114,17 @@ msg = {
 	'ie': {
 		'clean_sandbox-cleaned': u'Machine: Demuddat automaticmen',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'clean_sandbox-cleaned': u'Robot: Automatiko a nadalusan',
+	},
 	# Author: Snævar
 	'is': {
 		'clean_sandbox-cleaned': u'Vélmenni: Hreinsaði sandkassann sjálfvirkt',
 	},
+	# Author: Nemo bis
 	'it': {
-		'clean_sandbox-cleaned': u'Bot: pulitura sandbox',
+		'clean_sandbox-cleaned': u'Bot: Pulitura sandbox',
 	},
 	'ja': {
 		'clean_sandbox-cleaned': u'ロボットによる: 砂場ならし',
@@ -129,6 +138,14 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'clean_sandbox-cleaned': u'Bot:Automatesch gebotzt',
+	},
+	# Author: Pahles
+	'li': {
+		'clean_sandbox-cleaned': u'Robot: outomatisch veurzeen van nuuj zandj.',
+	},
+	# Author: StefanusRA
+	'map-bms': {
+		'clean_sandbox-cleaned': u'Bot: Tata ulang',
 	},
 	# Author: Jagwar
 	'mg': {
@@ -146,6 +163,9 @@ msg = {
 	'ms': {
 		'clean_sandbox-cleaned': u'Robot: Dibersihkan secara automatik',
 	},
+	'no': {
+		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
+	},
 	'nds': {
 		'clean_sandbox-cleaned': u'Bot: Speelwisch leddig maakt.',
 	},
@@ -161,12 +181,13 @@ msg = {
 	'nn': {
 		'clean_sandbox-cleaned': u'robot: automatisk rydjing',
 	},
-	'no': {
-		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
-	},
 	# Author: Sp5uhe
 	'pl': {
 		'clean_sandbox-cleaned': u'Robot oczyścił automatycznie',
+	},
+	# Author: Dragonòt
+	'pms': {
+		'clean_sandbox-cleaned': u'Trigomiro: Polidà automaticament',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -203,11 +224,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'clean_sandbox-cleaned': u'Робот: самостално очишћено',
+		'clean_sandbox-cleaned': u'Робот: очишћен песак',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'clean_sandbox-cleaned': u'Robot: samostalno očišćeno',
+		'clean_sandbox-cleaned': u'Robot: očišćen pesak',
 	},
 	'sv': {
 		'clean_sandbox-cleaned': u'Robot krattar sandlådan.',

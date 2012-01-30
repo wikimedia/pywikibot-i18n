@@ -81,6 +81,10 @@ msg = {
 	'fi': {
 		'replace-replacing': u'Botti korvasi automaattisesti tekstin %(description)s',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'replace-replacing': u'Bottur: Sjálvvirkandi tekst umbýtan %(description)s',
+	},
 	'fr': {
 		'replace-replacing': u'Robot : Remplacement de texte automatisé %(description)s',
 	},
@@ -132,6 +136,10 @@ msg = {
 	'ie': {
 		'replace-replacing': u'Machine: Substituition de textu automatizat %(description)s',
 	},
+	# Author: Lam-ang
+	'ilo': {
+		'replace-replacing': u'Robot: Automatiko a panagsukat ti teksto %(description)s',
+	},
 	'is': {
 		'replace-replacing': u'Vélmenni: breyti texta %(description)s',
 	},
@@ -182,8 +190,9 @@ msg = {
 		'replace-replacing': u'Bot: Panggantian teks otomatis %(description)s',
 	},
 	# Author: Bjankuloski06
+	# Author: Rancher
 	'mk': {
-		'replace-replacing': u'Бот: Автоматизирана замена на текст %(description)s',
+		'replace-replacing': u'Робот: Автоматизирана замена на текст %(description)s',
 	},
 	# Author: Kurniasan
 	'ms': {
@@ -196,6 +205,9 @@ msg = {
 	# Author: Lionslayer
 	'my': {
 		'replace-replacing': u'ဘော့ - စာသားများကို အလိုအလျောက် အစားထိုးခြင်း %(description)s',
+	},
+	'no': {
+		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
 	},
 	'nds': {
 		'replace-replacing': u'Bot: Text automaatsch utwesselt: %(description)s',
@@ -217,12 +229,13 @@ msg = {
 	'nn': {
 		'replace-replacing': u'robot: automatisk tekstbyte: %(description)s',
 	},
-	'no': {
-		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
-	},
 	# Author: Sp5uhe
 	'pl': {
 		'replace-replacing': u'Robot automatycznie zastąpił tekst %(description)s',
+	},
+	# Author: Dragonòt
+	'pms': {
+		'replace-replacing': u'Trigomiro: Rimpiassament automàtich ëd test %(description)s',
 	},
 	# Author: Hamilton Abreu
 	'pt': {
@@ -264,11 +277,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr-ec': {
-		'replace-replacing': u'Бот: самозамењивање текста %(description)s',
+		'replace-replacing': u'Робот: самозамењивање текста %(description)s',
 	},
 	# Author: Rancher
 	'sr-el': {
-		'replace-replacing': u'Bot: samozamenjivanje teksta %(description)s',
+		'replace-replacing': u'Robot: samozamenjivanje teksta %(description)s',
 	},
 	'sv': {
 		'replace-replacing': u'Bot: Automatisk textersättning: %(description)s',
