@@ -276,8 +276,10 @@ msg = {
 		'category-listifying': u'Bot: Liste aus %(fromcat)s ({{PLURAL:num|1 Eintrag|%(num)d Einträge}})',
 		'category-removing': u'Bot: Entferne aus %(oldcat)s',
 		'category-replacing': u'Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s',
+		'category-section-title': u'Versionsgeschichte of ursprünglichen %(oldcat)s',
 		'category-was-disbanded': u'Bot: Kategorie wurde aufgelöst',
 		'category-was-moved': u'Bot: Kategorie wurde nach [[:Kategorie:%(newcat)s|%(title)s]] verschoben',
+		'category-version-history': u'Bot: Sichere Versionsgeschichte der alten %(oldcat)s',
 	},
 	# Author: Eruedin
 	'de-ch': {
@@ -314,8 +316,10 @@ msg = {
 		'category-listifying': u'Robot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
 		'category-removing': u'Robot: Removing from %(oldcat)s',
 		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
+		'category-section-title': u'Page history of former %(oldcat)s',
 		'category-was-disbanded': u'Robot: Category was disbanded',
 		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
+		'category-version-history': u'Robot: Saving version history of former %(oldcat)s',
 	},
 	# Author: Mihxil
 	# Author: Airon90
@@ -520,6 +524,7 @@ msg = {
 		'category-listifying': u'%(fromcat)s listázása bottal (%(num)d lap)',
 		'category-removing': u'Bot: eltávolítás [[%(oldcat)s]] kategóriából',
 		'category-replacing': u'Bot: következő kategória cseréje: %(oldcat)s erre: %(newcat)s',
+		'category-section-title': u'A megszűnt %(oldcat)s laptörténete',
 		'category-was-disbanded': u'Bot: a kategória kiürítve',
 		'category-was-moved': u'A bot áthelyezte a kategória tartalmát ide: [[:Kategória:%(newcat)s|%(title)s]]',
 	},
@@ -1062,6 +1067,8 @@ msg = {
 		'category-also-in': u'Translations to say that the current category is in more categories than the one we are coming from',
 		'category-changing': u'Edit summary when the bot moves pages from one category to another. <code>%(oldcat)s</code> is the source category, <code>%(newcat)s</code> the target.',
 		'category-listifying': u'Definition of [http://meta.wikimedia.org/wiki/Pywikipediabot/category.py#Syntax listify] - make a list of all of the articles that are in a category.\n\n*Variable "%(fromcat)s" = the category to make a list of in the listify option.\n*Variable "%(num)d" is probably a number.\n*You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(num)d|1 entry|%(num)d entries}}</nowiki></code>)\nDo not translate the variables.',
+		'category-section-title': u'Section title for keeping page history',
+		'category-version-history': u'Edit summary when the bot saves page\' version history while category moving',
 	},
 	# Author: Xqt
 	'rm': {
