@@ -184,7 +184,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion summary added with clean up: %(num)i entries',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summary updated: %(num)i entries in %(page)s',
-		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s).',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
 	},
 	# Author: Vivaelcelta
 	'es': {
@@ -698,6 +698,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Summary line second part if there are additional results and old get removed.',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Summary line first part.',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summary line second part if the page had to be modified due to new results. Parameters:\n* %(num)i is the numer of entries\n* %(page)s is the page that was updated',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'Summary line (second part) if the page had to be modified due to new results. Parameters:\n* %(tags)s is a list of tag(s) updated on page',
 	},
 	# Author: DrTrigon
 	# Author: Rubin
