@@ -315,7 +315,7 @@ msg = {
 		'basic-changing': u'Bot: Ndryshimi ...',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'basic-changing': u'Робот: мења…',
 	},
 	# Author: Rancher
@@ -347,7 +347,7 @@ msg = {
 		'basic-changing': u'Bot: Değiştiriliyor ...',
 	},
 	# Author: Zahidulla
-	'tt-cyrl': {
+	'tt': {
 		'basic-changing': u'Робот: үзгәртте ...',
 	},
 	'uk': {
@@ -365,12 +365,9 @@ msg = {
 	'yi': {
 		'basic-changing': u'באָט: ענדערן ...',
 	},
-	'zh': {
-		'basic-changing': u'機器人：編輯.....',
-	},
 	# Author: Hydra
 	# Author: Shizhao
-	'zh-hans': {
+	'zh': {
 		'basic-changing': u'机器人： 修改...',
 	},
 	# Author: Waihorace

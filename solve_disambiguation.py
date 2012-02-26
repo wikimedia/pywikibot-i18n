@@ -425,7 +425,7 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(onbekannt)',
 	},
 	# Author: George Animal
-	'ku-latn': {
+	'ku': {
 		'solve_disambiguation-unknown-page': u'(nenas)',
 	},
 	# Author: MissPetticoats
@@ -457,6 +457,16 @@ msg = {
 	# Author: Dark Eagle
 	'lv': {
 		'solve_disambiguation-unknown-page': u'(nezināms)',
+	},
+	# Author: StefanusRA
+	'map-bms': {
+		'solve_disambiguation-adding-dn-template': u'Disambiguasi ""sing direwangi bot": %(from)s - ditandani nek kiye kuwe perlu \'\'perhatian sekang pakar\'\'',
+		'solve_disambiguation-links-removed': u'Disambiguasi "sing direwangi bot": %(from)s - Pranala dibusek',
+		'solve_disambiguation-links-resolved': u'Disambiguasi "sing direwangi bot": %(from)s - Pranala diganti dadi %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Disambiguasi ""sing direwangi bot": %(from)s - Perlu \'\'perhatian sekang pakar\'\'',
+		'solve_disambiguation-redirect-removed': u'Disambiguasi "sing direwangi bot": %(from)s - Pranala dibusek',
+		'solve_disambiguation-redirect-resolved': u'Disambiguasi "sing direwangi bot": %(from)s - Pranala diganti dadi %(to)s',
+		'solve_disambiguation-unknown-page': u'(ora konangan)',
 	},
 	# Author: Jagwar
 	'mg': {
@@ -710,14 +720,8 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
 		'solve_disambiguation-unknown-page': u'e panjohur',
 	},
-	'sr': {
-		'solve_disambiguation-links-removed': u'Решавање вишезначних одредница помоћу бота: %(from)s - Removed link(s)',
-		'solve_disambiguation-links-resolved': u'Решавање вишезначних одредница помоћу бота: %(from)s - Changed link(s) to %(to)s',
-		'solve_disambiguation-redirect-removed': u'Решавање вишезначних одредница помоћу бота: %(from)s - Removed link(s)',
-		'solve_disambiguation-redirect-resolved': u'Решавање вишезначних одредница помоћу бота: %(from)s - Changed link(s) to %(to)s',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'solve_disambiguation-adding-dn-template': u'Роботизована вишезначна одредница: %(from)s – означено као „потребна стручна пажња“',
 		'solve_disambiguation-links-removed': u'Роботизована вишезначна одредница: %(from)s – уклоњене везе.',
 		'solve_disambiguation-links-resolved': u'Роботизована вишезначна одредница: %(from)s – промењене везе у %(to)s',
@@ -790,7 +794,7 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(bilinmiyor)',
 	},
 	# Author: Ильнар
-	'tt-cyrl': {
+	'tt': {
 		'solve_disambiguation-adding-dn-template': u'Робот ярдәмендә: %(from)s — экспертның игътибарын сораучы дип билгеләнде',
 		'solve_disambiguation-links-removed': u'Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Removed link(s)',
 		'solve_disambiguation-links-resolved': u'Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Changed link(s) to %(to)s',
@@ -831,7 +835,7 @@ msg = {
 	},
 	# Author: Hydra
 	# Author: 阿pp
-	'zh-hans': {
+	'zh': {
 		'solve_disambiguation-adding-dn-template': u'机器人辅助消歧义：%(from)s - 已标记为需要专家关注',
 		'solve_disambiguation-links-removed': u'机器人辅助消歧义：%(from)s - 移除链接',
 		'solve_disambiguation-links-resolved': u'机器人辅助消歧义：%(from)s - 链接改为%(to)s',

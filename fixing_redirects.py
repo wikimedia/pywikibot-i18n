@@ -25,6 +25,10 @@ msg = {
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
 	},
+	# Author: Armando-Martin
+	'es': {
+		'fixing_redirects-fixing': u'Bot: Arreglando redirecciones',
+	},
 	'fa': {
 		'fixing_redirects-fixing': u'ربات:تصحیح تغییرمسیرها',
 	},
@@ -77,6 +81,10 @@ msg = {
 	'lb': {
 		'fixing_redirects-fixing': u'Bot: Viruleedunge flécken',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'fixing_redirects-fixing': u'Bot: Mbenerna pengalihan',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'fixing_redirects-fixing': u'Бот: Поправа пренасочувања',
@@ -87,6 +95,10 @@ msg = {
 	},
 	'no': {
 		'fixing_redirects-fixing': u'Robot: Retter omdirigeringer',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'fixing_redirects-fixing': u'Bot: deurverwiezingen verbeterd',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -109,6 +121,10 @@ msg = {
 	'pt-br': {
 		'fixing_redirects-fixing': u'Bot: Arrumando redirects',
 	},
+	# Author: Minisarm
+	'ro': {
+		'fixing_redirects-fixing': u'Robot: Reparat redirecționările',
+	},
 	# Author: Eleferen
 	'ru': {
 		'fixing_redirects-fixing': u'Бот: Исправление перенаправлений',
@@ -118,7 +134,7 @@ msg = {
 		'fixing_redirects-fixing': u'Bot: Popravljanje preusmeritev',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'fixing_redirects-fixing': u'Бот: исправљена преусмерења',
 	},
 	# Author: Rancher
@@ -128,6 +144,10 @@ msg = {
 	'sv': {
 		'fixing_redirects-fixing': u'Bot: Rättar omdirigeringar',
 	},
+	# Author: Incelemeelemani
+	'tr': {
+		'fixing_redirects-fixing': u'Bot: Yönlendirmeler düzeltildi',
+	},
 	# Author: A1
 	'uk': {
 		'fixing_redirects-fixing': u'Бот: Виправлення перенаправлень',
@@ -135,11 +155,12 @@ msg = {
 	'vi': {
 		'fixing_redirects-fixing': u'Robot: Sửa đổi hướng',
 	},
-	'zh': {
-		'fixing_redirects-fixing': u'機器人: 修復重定向',
-	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'fixing_redirects-fixing': u'机器人：修理重定向',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'fixing_redirects-fixing': u'Bot： 固定的重定向',
 	},
 }

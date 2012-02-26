@@ -24,6 +24,10 @@ msg = {
 		'welcome-updating': u'Bot: Qeyd etmə yeniləmə',
 		'welcome-welcome': u'Xoş gəlmisiniz!',
 	},
+	# Author: Roustammr
+	'ba': {
+		'welcome-welcome': u'Рәхим итегеҙ!',
+	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	'be-tarask': {
@@ -221,6 +225,16 @@ msg = {
 	'ln': {
 		'welcome-welcome': u'Mbɔ́tɛ',
 	},
+	# Author: Eitvys200
+	'lt': {
+		'welcome-welcome': u'Sveiki atvykę!',
+	},
+	# Author: StefanusRA
+	'map-bms': {
+		'welcome-bad_username': u'Bot:Nambahna jeneng panganggo sing perlu dipriksa',
+		'welcome-updating': u'Bot: Mutakhirna log',
+		'welcome-welcome': u'Sugeng teka!',
+	},
 	# Author: Bjankuloski06
 	# Author: Rancher
 	'mk': {
@@ -278,10 +292,11 @@ msg = {
 		'welcome-welcome': u'Witaj!',
 	},
 	# Author: Dragonòt
+	# Author: Borichèt
 	'pms': {
-		'welcome-bad_username': u'Trigomiro: Gionté un nòm utent ch\'a deuv esse controlà',
-		'welcome-updating': u'Trigomiro: Modifiché registr',
-		'welcome-welcome': u'Bin ëvnù/a!',
+		'welcome-bad_username': u'Trigomiro: Gionta ëd në stranòm ch\'a dev esse controlà',
+		'welcome-updating': u'Trigomiro: Agiornament dël registr',
+		'welcome-welcome': u'Bin ëvnù!',
 	},
 	# Author: Giro720
 	'pt': {
@@ -336,12 +351,8 @@ msg = {
 		'welcome-updating': u'Bot: Rifreskoj log',
 		'welcome-welcome': u'Tung',
 	},
-	'sr': {
-		'welcome-updating': u'Bot: Освежавање записа',
-		'welcome-welcome': u'Добродошли!',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'welcome-bad_username': u'Робот: додато корисничко име које треба да се провери',
 		'welcome-updating': u'Робот: ажурирана историја',
 		'welcome-welcome': u'Добро дошли!',
@@ -376,7 +387,7 @@ msg = {
 		'welcome-welcome': u'Hoş geldiniz!',
 	},
 	# Author: Ajdar
-	'tt-cyrl': {
+	'tt': {
 		'welcome-bad_username': u'Робот:Шикле кулланучы исеме өстәлгән',
 		'welcome-updating': u'Робот:Яңарту',
 		'welcome-welcome': u'Рәхим итегез!',
@@ -405,20 +416,18 @@ msg = {
 	'yo': {
 		'welcome-welcome': u'Ẹkúàbọ̀!',
 	},
-	'zh': {
-		'welcome-bad_username': u'Bot: 回報不適當的用戶名稱',
-		'welcome-updating': u'Bot: 更新日志',
-		'welcome-welcome': u'欢迎！',
-	},
 	# Author: Anakmalaysia
 	# Author: Hzy980512
-	'zh-hans': {
+	'zh': {
 		'welcome-bad_username': u'机器人：添加一个需要进行检查的用户名',
 		'welcome-updating': u'机器人：更新日志',
 		'welcome-welcome': u'欢迎！',
 	},
 	# Author: Lauhenry
+	# Author: Breawycker
 	'zh-hant': {
+		'welcome-bad_username': u'機器人： 添加需要檢查的使用者名',
+		'welcome-updating': u'機器人： 更新日誌',
 		'welcome-welcome': u'歡迎！',
 	},
 	'zh-yue': {

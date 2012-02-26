@@ -181,6 +181,10 @@ msg = {
 	'lv': {
 		'replace-replacing': u'Bots: Automātisks teksta aizvietojums %(description)s',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'replace-replacing': u'Bot: Ngganti teks otomatis %(description)s',
+	},
 	# Author: Jagwar
 	'mg': {
 		'replace-replacing': u'Rôbô : Fanoloana soratra ho azy %(description)s',
@@ -272,11 +276,8 @@ msg = {
 	'sq': {
 		'replace-replacing': u'Bot: Automated text replacement %(description)s',
 	},
-	'sr': {
-		'replace-replacing': u'Бот: Аутоматска замена текста %(description)s',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'replace-replacing': u'Робот: самозамењивање текста %(description)s',
 	},
 	# Author: Rancher
@@ -304,7 +305,7 @@ msg = {
 	},
 	# Author: Ильнар
 	# Author: Zahidulla
-	'tt-cyrl': {
+	'tt': {
 		'replace-replacing': u'Робот: %(description)s текстын автоматик рәвештә алмаштыру',
 	},
 	'uk': {
@@ -322,11 +323,8 @@ msg = {
 	'yo': {
 		'replace-replacing': u'Bot: Ìdípò ìkọ̀rọ̀ oníaraẹni %(description)s',
 	},
-	'zh': {
-		'replace-replacing': u'機器人:執行文字代換作業 %(description)s',
-	},
 	# Author: 阿pp
-	'zh-hans': {
+	'zh': {
 		'replace-replacing': u'机器人：自动文本替换%(description)s',
 	},
 	# Author: Andrew971218

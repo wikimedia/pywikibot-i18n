@@ -283,7 +283,7 @@ msg = {
 		'commons-file-now-available': u'Datoteka je sedaj na voljo na [[:commons:File:%(commonsfile)s|Zbirki Wikimedia]].',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Датотека]] је премештена у [[:commons:File:%(commonsfile)s|Оставу]].',
 		'commons-file-now-available': u'Датотека је сада доступна у [[:commons:File:%(commonsfile)s|Викимедијиној остави]].',
 	},
@@ -308,7 +308,7 @@ msg = {
 		'commons-file-now-available': u'Dosya artık [[:commons:File:%(commonsfile)s|Wikimedia Commons]] projesinde bulunmaktadır.',
 	},
 	# Author: Ильнар
-	'tt-cyrl': {
+	'tt': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Файл]]  [[:commons:File:%(commonsfile)s|Викиҗыентык]]ка күчерелде.',
 		'commons-file-now-available': u'Файлны хәзер  [[:commons:File:%(commonsfile)s|Викиҗыентык]]та карап була.',
 	},
@@ -327,12 +327,8 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Tập tin]] được chuyển qua [[:Commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'Tập tin mới có sẵn tại [[:Commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
-	'zh': {
-		'commons-file-moved': u'[[:File:%(localfile)s|本檔案]]已移至[[:commons:File:%(commonsfile)s|維基共享資源]]',
-		'commons-file-now-available': u'檔案已存在於維基共享資源。',
-	},
 	# Author: Hydra
-	'zh-hans': {
+	'zh': {
 		'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
 		'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
 	},

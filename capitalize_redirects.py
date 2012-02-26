@@ -200,7 +200,7 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Robot: Ustvari preusmeritev na [[%(to)s]]',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'capitalize_redirects-create-redirect': u'Робот: направљено преусмерење на [[%(to)s]]',
 	},
 	# Author: Rancher
@@ -219,7 +219,7 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Bot: [[%(to)s]] sayfasına yönlendirildi',
 	},
 	# Author: Ajdar
-	'tt-cyrl': {
+	'tt': {
 		'capitalize_redirects-create-redirect': u'Бот: [[%(to)s]]ка юнәлтү эшләнгән',
 	},
 	'uk': {
@@ -237,11 +237,8 @@ msg = {
 	'yi': {
 		'capitalize_redirects-create-redirect': u'באט: שאפן ווייטערפירונג צו בלאט [[%(to)s]]',
 	},
-	'zh': {
-		'capitalize_redirects-create-redirect': u'機器人: 建立重定向至[[%(to)s]]',
-	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'capitalize_redirects-create-redirect': u'机械人：创建重定向至[[%(to)s]]',
 	},
 	# Author: Waihorace

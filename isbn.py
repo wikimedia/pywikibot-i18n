@@ -174,7 +174,7 @@ msg = {
 		'isbn-formatting': u'Bot: ISBN zerääsch jemaat.',
 	},
 	# Author: George Animal
-	'ku-latn': {
+	'ku': {
 		'isbn-formatting': u'Robot:ISBN\'ê format bike',
 	},
 	# Author: Robby
@@ -192,6 +192,10 @@ msg = {
 	# Author: Karlis
 	'lv': {
 		'isbn-formatting': u'Robots: ISBN formatējums',
+	},
+	# Author: StefanusRA
+	'map-bms': {
+		'isbn-formatting': u'Bot: Mbeneri format ISBN',
 	},
 	# Author: Jagwar
 	'mg': {
@@ -303,7 +307,7 @@ msg = {
 		'isbn-formatting': u'Robot: ISBN Formatimi',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'isbn-formatting': u'Робот: обликовање ISBN-а',
 	},
 	# Author: Rancher
@@ -339,7 +343,7 @@ msg = {
 	},
 	# Author: Ильнар
 	# Author: Zahidulla
-	'tt-cyrl': {
+	'tt': {
 		'isbn-formatting': u'Робот: ISBN үзгәртеп кору',
 	},
 	# Author: Тест
@@ -354,11 +358,8 @@ msg = {
 	'yi': {
 		'isbn-formatting': u'באט: פֿארמאַטירן ISBN',
 	},
-	'zh': {
-		'isbn-formatting': u'機器人：ISBN格式化',
-	},
 	# Author: Hydra
-	'zh-hans': {
+	'zh': {
 		'isbn-formatting': u'机器人：ISBN格式化',
 	},
 	# Author: Andrew971218

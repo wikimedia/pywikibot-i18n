@@ -26,6 +26,10 @@ msg = {
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
 	},
+	# Author: Armando-Martin
+	'es': {
+		'unlink-unlinking': u'Robot: Eliminando el enlace "%s"',
+	},
 	'fa': {
 		'unlink-unlinking': u'ربات: حذف پیوند %s',
 	},
@@ -70,6 +74,10 @@ msg = {
 	'lb': {
 		'unlink-unlinking': u'Bot: Entlinke vun "%s"',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'unlink-unlinking': u'Bot: ngeculna pranala "%s"',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'unlink-unlinking': u'Робот: Ја отстранува врската „%s“',
@@ -80,6 +88,10 @@ msg = {
 	},
 	'no': {
 		'unlink-unlinking': u'robot: fjerner lenke til "%s"',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'unlink-unlinking': u'Bot: verwiezing naor "%s" vortedaon',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -102,6 +114,10 @@ msg = {
 	'pt-br': {
 		'unlink-unlinking': u'Bot: Retirando link para "%s"',
 	},
+	# Author: Minisarm
+	'ro': {
+		'unlink-unlinking': u'Robot: Eliminat legături către „%s”',
+	},
 	# Author: Eleferen
 	'ru': {
 		'unlink-unlinking': u'Бот: Удаление ссылки «%s»',
@@ -111,16 +127,24 @@ msg = {
 		'unlink-unlinking': u'Robot: Odstranjevanje povezave na »%s«',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'unlink-unlinking': u'Робот: уклоњена веза „%s“',
 	},
 	# Author: Rancher
 	'sr-el': {
 		'unlink-unlinking': u'Robot: uklonjena veza „%s“',
 	},
+	# Author: Lokal Profil
+	'sv': {
+		'unlink-unlinking': u'Robot: avlänkar "%s"',
+	},
 	# Author: Гусейн
 	'tly': {
 		'unlink-unlinking': u'Робот: Сәбони моле «%s»',
+	},
+	# Author: Incelemeelemani
+	'tr': {
+		'unlink-unlinking': u'Robot: " %s " bağlantısı kaldırıldı',
 	},
 	# Author: Dim Grits
 	'uk': {
@@ -131,7 +155,11 @@ msg = {
 		'unlink-unlinking': u'Bot: Bỏ liên kết đến “%s”',
 	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'unlink-unlinking': u'机器人：取消“%s”链接',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'unlink-unlinking': u'機器人： 斷開連結" %s "',
 	},
 }

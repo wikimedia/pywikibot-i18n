@@ -12,7 +12,7 @@ msg = {
 		'archivebot-archive-full': u'(ARCHIVU LLENU)',
 		'archivebot-archive-summary': u'Archivando %(count)d filu(os) de [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-older-than': u'más antiguo que',
+		'archivebot-older-than': u'más antiguu que',
 		'archivebot-page-summary': u'Archivando %(count)d filu(os) (%(why)s) en %(archives)s.',
 	},
 	# Author: Vago
@@ -266,6 +266,11 @@ msg = {
 		'archivebot-older-than': u'auwer es',
 		'archivebot-page-summary': u'Robot: %(count)d thread(s) gearchiveerd nao %(archives)s (%(why)s).',
 	},
+	# Author: Eitvys200
+	'lt': {
+		'archivebot-archive-full': u'(ARCHYVAS PILNAS)',
+		'archivebot-older-than': u'senesnis nei',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'archivebot-archive-full': u'(ARSIP KOMPLIT)',
@@ -312,6 +317,14 @@ msg = {
 		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'eldre enn',
 		'archivebot-page-summary': u'Arkiverer %(count)d tråder (%(why)s) til %(archives)s.',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'archivebot-archive-full': u'(ARCHIEF VOL)',
+		'archivebot-archive-summary': u'Bot: %(count)d onderwarp(en) verplaotst vanuut t archief [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'ouwer as',
+		'archivebot-page-summary': u'Bot: %(count)d onderwarp(en) verplaotst naor t archief %(archives)s (%(why)s).',
 	},
 	# Author: SPQRobin
 	# Author: Siebrand
@@ -367,6 +380,10 @@ msg = {
 		'archivebot-archiveheader': u'Template that will be put on new archive pages as the header.',
 		'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
 	},
+	# Author: Minisarm
+	'ro': {
+		'archivebot-older-than': u'mai vechi de',
+	},
 	# Author: Rubin
 	'ru': {
 		'archivebot-archive-full': u'(АРХИВ ЗАПОЛНЕН)',
@@ -400,7 +417,7 @@ msg = {
 		'archivebot-older-than': u'më e vjetër se',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'archivebot-archive-full': u'(АРХИВА ЈЕ ПУНА)',
 		'archivebot-archive-summary': u'Архивиране %(count)d теме из [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
@@ -446,6 +463,7 @@ msg = {
 	# Author: Dim Grits
 	'uk': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
+		'archivebot-archive-summary': u'Архівування %(count)d тем з [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'старше',
 		'archivebot-page-summary': u'Архівація %(count)d тем (%(why)s) в %(archives)s.',
@@ -467,7 +485,7 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'archivebot-archive-full': u'（存档已满）',
 		'archivebot-archive-summary': u'正在存档%(count)d个来自[[%(from)s]]的讨论。',
 		'archivebot-archiveheader': u'{{talkarchive}}',

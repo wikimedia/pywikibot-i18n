@@ -125,6 +125,10 @@ msg = {
 	'lb': {
 		'editarticle-edit': u'Manuell Ännerungen mam Bot: %(description)s',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'editarticle-edit': u'Suntingan manual nganggo bot: %(description)s',
+	},
 	# Author: Jagwar
 	'mg': {
 		'editarticle-edit': u'Asa tanana nataon\'ny rôbô : %(description)s',
@@ -175,8 +179,9 @@ msg = {
 		'editarticle-edit': u'Edit summary when the bot owner edits a text while the bot invoked an editor. <code>%(descriptions)s</code> gives further informations.',
 	},
 	# Author: KlaudiuMihaila
+	# Author: Minisarm
 	'ro': {
-		'editarticle-edit': u'Modificare manuală cu bot: %(description)s',
+		'editarticle-edit': u'Modificare manuală cu robot: %(description)s',
 	},
 	# Author: Александр Сигачёв
 	'ru': {
@@ -195,7 +200,7 @@ msg = {
 		'editarticle-edit': u'Ročno urejanje z botom: %(description)s',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'editarticle-edit': u'Ручно уређивање с роботом: %(description)s',
 	},
 	# Author: Rancher
@@ -214,7 +219,7 @@ msg = {
 		'editarticle-edit': u'Bot hesabından elle düzenleme: %(description)s',
 	},
 	# Author: Ильнар
-	'tt-cyrl': {
+	'tt': {
 		'editarticle-edit': u'Бот белән идарә итү өчен кулланма: %(description)s',
 	},
 	# Author: Dim Grits
@@ -229,11 +234,8 @@ msg = {
 	'vi': {
 		'editarticle-edit': u'Sửa đổi thủ công dùng bot: %(description)s',
 	},
-	'zh': {
-		'editarticle-edit': u'手動編輯: %(description)s',
-	},
 	# Author: Hydra
-	'zh-hans': {
+	'zh': {
 		'editarticle-edit': u'利用机器方式手动编辑：%(description)s',
 	},
 }

@@ -130,6 +130,10 @@ msg = {
 	'lt': {
 		'noreferences-add-tag': u'robotas: Pridedama trūkstama <references /> žymė',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'noreferences-add-tag': u'Bot: Nambahna tag <references /> sing ilang',
+	},
 	# Author: Jagwar
 	'mg': {
 		'noreferences-add-tag': u'Rôbô : Fanampiana ny balizy <references/> izay tsy ampy',
@@ -195,7 +199,7 @@ msg = {
 		'noreferences-add-tag': u'Robot: Dodajanje manjkajoče oznake <references />',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'noreferences-add-tag': u'Робот: додата одсутна ознака <references />',
 	},
 	# Author: Rancher
@@ -218,8 +222,12 @@ msg = {
 		'noreferences-add-tag': u'Bot: Eksik <references /> etiketi ekleniyor',
 	},
 	# Author: Ajdar
-	'tt-cyrl': {
+	'tt': {
 		'noreferences-add-tag': u'Робот: <references /> дигән булмаган тег өстәлде',
+	},
+	# Author: Dim Grits
+	'uk': {
+		'noreferences-add-tag': u'Robot: Дадано відсутній тег <references />',
 	},
 	# Author: Minh Nguyen
 	'vi': {
@@ -229,11 +237,12 @@ msg = {
 	'yi': {
 		'noreferences-add-tag': u'באט: צולייגן פֿעלנדן <references /> טאַג',
 	},
-	'zh': {
-		'noreferences-add-tag': u'機器人: 增加遺失的 <references /> 標籤',
-	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'noreferences-add-tag': u'机器人：添加缺少的<references />标签',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'noreferences-add-tag': u'機器人： 添加缺少<references></references>標記',
 	},
 }

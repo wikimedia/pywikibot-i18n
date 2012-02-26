@@ -97,6 +97,10 @@ msg = {
 	'lb': {
 		'movepages-moving': u'Bot: Säit geréckelt',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'movepages-moving': u'Bot: Mindahna kaca',
+	},
 	# Author: Jagwar
 	'mg': {
 		'movepages-moving': u'Rôbô : Pejy voaova anarana',
@@ -112,6 +116,10 @@ msg = {
 	# Author: Nghtwlkr
 	'no': {
 		'movepages-moving': u'Robot: Flyttet side',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'movepages-moving': u'Bot: paginanaam ewiezigd',
 	},
 	'nl': {
 		'movepages-moving': u'Robot: paginanaam gewijzigd',
@@ -133,6 +141,10 @@ msg = {
 	'pt-br': {
 		'movepages-moving': u'Robô: Página movida',
 	},
+	# Author: Minisarm
+	'ro': {
+		'movepages-moving': u'Robot: Redenumit pagina',
+	},
 	'ru': {
 		'movepages-moving': u'Переименование страницы при помощи робота',
 	},
@@ -145,7 +157,7 @@ msg = {
 		'movepages-moving': u'Robot: Prestavil stran',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'movepages-moving': u'Робот: премештена страница',
 	},
 	# Author: Rancher
@@ -180,11 +192,12 @@ msg = {
 	'yi': {
 		'movepages-moving': u'באט: באַוועגט בלאַט',
 	},
-	'zh': {
-		'movepages-moving': u'機器人:移動頁面',
-	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'movepages-moving': u'机器人：移动页面',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'movepages-moving': u'機器人： 移動頁',
 	},
 }

@@ -29,6 +29,10 @@ msg = {
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
 	},
+	# Author: Armando-Martin
+	'es': {
+		'catall-changing': u'Robot: Cambiando categorías',
+	},
 	'fa': {
 		'catall-changing': u'ربات: تغییر رده‌ها',
 	},
@@ -100,9 +104,17 @@ msg = {
 	'no': {
 		'catall-changing': u'Robot: Endrer kategorier',
 	},
+	# Author: Servien
+	'nds-nl': {
+		'catall-changing': u'Bot: wieziging van kategorieën',
+	},
 	# Author: Siebrand
 	'nl': {
 		'catall-changing': u'Robot: wijziging van categorieën',
+	},
+	# Author: Xqt
+	'pdc': {
+		'catall-changing': u'Waddefresser:  Abdeelinge ennere',
 	},
 	'pl': {
 		'catall-changing': u'Bot: Zmiana kategorii',
@@ -118,6 +130,10 @@ msg = {
 	'pt-br': {
 		'catall-changing': u'Bot: Categorizando',
 	},
+	# Author: Minisarm
+	'ro': {
+		'catall-changing': u'Robot: Schimbat categorii',
+	},
 	# Author: Eleferen
 	'ru': {
 		'catall-changing': u'Бот: Изменение категорий',
@@ -126,11 +142,8 @@ msg = {
 	'sl': {
 		'catall-changing': u'Robot: Spreminjanje kategorij',
 	},
-	'sr': {
-		'catall-changing': u'Bot: Ð˜Ð·Ð¼ÐµÐ½Ð° ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ˜Ð°',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'catall-changing': u'Робот: промењене категорије',
 	},
 	# Author: Rancher
@@ -148,6 +161,10 @@ msg = {
 	'tly': {
 		'catall-changing': u'Робот: Категоријон дагиш кардеј',
 	},
+	# Author: Incelemeelemani
+	'tr': {
+		'catall-changing': u'Robot: Kategorileri değiştiriyor',
+	},
 	# Author: A1
 	'uk': {
 		'catall-changing': u'Бот: Зміна категорій',
@@ -156,11 +173,12 @@ msg = {
 	'vi': {
 		'catall-changing': u'Bot: Thay đổi thể loại',
 	},
-	'zh': {
-		'catall-changing': u'機器人: 更改分類',
-	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'catall-changing': u'机器人：修改类别',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'catall-changing': u'機器人： 更改類別',
 	},
 }

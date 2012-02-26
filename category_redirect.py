@@ -185,11 +185,12 @@ msg = {
 		'category_redirect-fix-double': u'Robota: birzuzenketa bikoitza konpontzen',
 	},
 	# Author: Ebraminio
+	# Author: ZxxZxxZ
 	'fa': {
 		'category_redirect-add-template': u'ربات:افزودن الگوی رده بهتر',
 		'category_redirect-change-category': u'ربات:تغییر ردهٔ تغییر مسیر داده شده از [[:%(oldCatLink)s|%(oldCatTitle)s]] به [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'ربات:مرتب‌سازی رده‌های منتقل‌شده',
-		'category_redirect-edit-request': u'صفحات حفاظت‌شده زیر نیاز به بروزرسانی دارند صفحات: %(itemlist)s',
+		'category_redirect-edit-request': u'این صفحه‌های محافظت‌شده به عنوان صفحه‌های نیازمند به‌روزرسانی رده‌ها تشخیص داده شده‌اند: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s در %(oldcat)s قرار دارد،که به %(newcat)s انتقال یافته‌است.',
 		'category_redirect-fix-double': u'ربات:تصحیح تغییرمسیرهای دوتایی',
 	},
@@ -401,7 +402,7 @@ msg = {
 	},
 	# Author: StefanusRA
 	'map-bms': {
-		'category_redirect-add-template': u'Bot: nambahna cithakan pemeliharaan pengalihan kategori',
+		'category_redirect-add-template': u'Bot: Nambahna cithakan pemeliharaan pengalihan kategori',
 		'category_redirect-change-category': u'Bot: Ngganti kategori sing dialihna [[:%(oldCatLink)s|%(oldCatTitle)s]] dadi [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Bot pemeliharaan pengalihan kategori',
 		'category_redirect-edit-request': u'Kaca-kaca sing direksa kiye kuwe wis ke-deteksi nek merlokna \'\'updates\'\' kanggo pranala kategori: %(itemlist)s',
@@ -589,11 +590,8 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s s është në %(oldcat)s, e cila është një përcjellëse tek %(newcat)s',
 		'category_redirect-fix-double': u'Bot: ndreqim double-përcjellëse',
 	},
-	'sr': {
-		'category_redirect-fix-double': u'Бот: исправљање двоструких преусмерења',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'category_redirect-add-template': u'Робот: додат шаблон за преусмерену категорију за одржавање',
 		'category_redirect-change-category': u'Робот: мења преусмерење категорије [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Робот за одржавање преусмерених категорија',
@@ -658,12 +656,9 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s\'e yönlendirilen %(oldcat)s\'te',
 		'category_redirect-fix-double': u'Bot: Çift yönlendirme düzeltiliyor',
 	},
-	'tt': {
-		'category_redirect-fix-double': u'Робот: икеле күчешне дөресләү',
-	},
 	# Author: Zahidulla
 	# Author: Ильнар
-	'tt-cyrl': {
+	'tt': {
 		'category_redirect-add-template': u'Робот: карау өчен күчерү үрнәге өстәү',
 		'category_redirect-change-category': u'Робот:  [[:%(oldCatLink)s|%(oldCatTitle)s]] төркеменнән  [[:%(newCatLink)s|%(newCatTitle)s]] төркеменә күчерелүче үзгәртүләр',
 		'category_redirect-comment': u'Төркемнәрне юнәлтүләр буенча хезмәт итүче робот',
@@ -702,25 +697,18 @@ msg = {
 		'category_redirect-comment': u'קאַטעגאריע ווײַטערפֿירן אויפֿהאַלטן באט',
 		'category_redirect-fix-double': u'באט: פארראכטן פארטאפלטע ווייטערפירונג',
 	},
-	'zh': {
-		'category_redirect-add-template': u'机器人: 增加分类重定向模板，用于维护',
-		'category_redirect-change-category': u'机器人：改变已重定向分类中的页面的分类',
-		'category_redirect-comment': u'分类重定向维护机器人',
-		'category_redirect-edit-request': u'下列被保护页面被检测出需要更新 分类链接: %(itemlist)s',
-		'category_redirect-fix-double': u'機器人:修正雙重重定向',
-	},
 	'zh-classical': {
 		'category_redirect-fix-double': u'僕:復修渡口',
 	},
 	# Author: Hydra
 	# Author: Liangent
-	'zh-hans': {
+	'zh': {
 		'category_redirect-add-template': u'机器人：添加分类重定向模板用于维护',
 		'category_redirect-change-category': u'机器人：更改重定向分类[[:%(oldCatLink)s|%(oldCatTitle)s]]到[[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'类别重定向维修机器',
 		'category_redirect-edit-request': u'以下受保护的页面被检测到需要更新分类链接：%(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向',
-		'category_redirect-fix-double': u'机器人:修正双重重定向',
+		'category_redirect-fix-double': u'機器人:修正雙重重定向',
 	},
 	# Author: Waihorace
 	'zh-hant': {

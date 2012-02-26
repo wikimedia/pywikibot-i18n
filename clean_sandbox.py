@@ -219,11 +219,8 @@ msg = {
 	'sl': {
 		'clean_sandbox-cleaned': u'Robot: Samodejno čiščenje',
 	},
-	'sr': {
-		'clean_sandbox-cleaned': u'Чишћење песка',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'clean_sandbox-cleaned': u'Робот: очишћен песак',
 	},
 	# Author: Rancher
@@ -245,7 +242,7 @@ msg = {
 		'clean_sandbox-cleaned': u'Bot: Deneme tahtası temizlendi',
 	},
 	# Author: Zahidulla
-	'tt-cyrl': {
+	'tt': {
 		'clean_sandbox-cleaned': u'Робот: автоматик рәвештә чистарту',
 	},
 	# Author: Тест
@@ -256,11 +253,8 @@ msg = {
 	'vi': {
 		'clean_sandbox-cleaned': u'Bot: Tự động dọn sạch',
 	},
-	'zh': {
-		'clean_sandbox-cleaned': u'Bot: 本页被自动清理',
-	},
 	# Author: Hydra
-	'zh-hans': {
+	'zh': {
 		'clean_sandbox-cleaned': u'机器人： 自动清除',
 	},
 	# Author: Waihorace

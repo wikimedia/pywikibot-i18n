@@ -250,6 +250,13 @@ msg = {
 	'lt': {
 		'featured-featured': u'Bot: Pavyzdinis straipsnis %(page)s',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'featured-featured': u'Bot: %(page)s kuwe artikel pilihan',
+		'featured-former': u'Bot: %(page)s kuwe maune tau dadi artikel pilihan',
+		'featured-good': u'Bot: %(page)s kuwe artikel apik',
+		'featured-list': u'Bot: %(page)s kuwe daftar pilihan',
+	},
 	# Author: Jagwar
 	'mg': {
 		'featured-featured': u'Rôbô : Rohin-dahatsoratra tsara vita ho an\'i pejy %(page)s',
@@ -357,11 +364,8 @@ msg = {
 		'featured-good': u'Bot: %(page)s je dober članek',
 		'featured-list': u'Bot: %(page)s je izbrani seznam',
 	},
-	'sr': {
-		'featured-featured': u'Bot: Међувики за изабране чланке за %(page)s',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'featured-featured': u'Робот: %(page)s је сјајан чланак',
 		'featured-former': u'Робот: %(page)s је био сјајан чланак',
 		'featured-good': u'Робот: %(page)s је добар чланак',
@@ -399,16 +403,19 @@ msg = {
 		'featured-list': u'Bot: %(page)s bir [[VP:SL|seçkin listedir]]',
 	},
 	# Author: Ajdar
-	'tt-cyrl': {
+	'tt': {
 		'featured-featured': u'Робот: %(page)s сайланган мәкалә',
 		'featured-former': u'Робот:%(page)s элеккеге сайланган мәкалә',
 		'featured-good': u'Робот:%(page)s яхшы мәкалә',
 		'featured-list': u'Робот: %(page)s сайланган исемлек',
 	},
 	# Author: Emaus
+	# Author: Dim Grits
 	'uk': {
 		'featured-featured': u'Робот: вибрана стаття %(page)s',
+		'featured-former': u'Робот: %(page)s є колишньою вибраною статтею',
 		'featured-good': u'Робот: добра стаття %(page)s',
+		'featured-list': u'Бот: %(page)s вибраний список',
 	},
 	# Author: Minh Nguyen
 	'vi': {
@@ -424,11 +431,8 @@ msg = {
 	'yi': {
 		'featured-good': u'באט: %(page)s איז א גוטער אַרטיקל',
 	},
-	'zh': {
-		'featured-featured': u'機器人: 連結特色條目 %(page)s',
-	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'featured-featured': u'机器人：%(page)s是一篇精选文章',
 		'featured-former': u'机器人：%(page)s以前是一篇精选文章',
 		'featured-good': u'机器人：%(page)s是一篇好文章',

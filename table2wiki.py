@@ -123,7 +123,6 @@ msg = {
 		'table2wiki-no-warning': u'ロボットによる: 表をHTMLからウィキ文法に更新',
 		'table2wiki-warnings': u'ボットによる: 表をHTMLからウィキ文法に更新 - 警告 {{PLURAL:count|1|%(count)d}}',
 	},
-	# Author: Xqt
 	'kk': {
 		'table2wiki-no-warning': u'Басқарылмалы бот: Кесте пішімі түзетілді',
 		'table2wiki-warnings': u'Басқарылмалы бот: Кесте пішімі түзетілді - {{PLURAL:count|1|%(count)d}} құлақтандыру!',
@@ -143,6 +142,11 @@ msg = {
 	'lt': {
 		'table2wiki-no-warning': u'kontroliuojamas robotas: atnaujinta lentelės sintaksė',
 		'table2wiki-warnings': u'kontroliuojamas robotas: atnaujinta lentelės sintaksė - {{PLURAL:count|1 įspėjimas|%(count)d įspėjimai!}}',
+	},
+	# Author: StefanusRA
+	'map-bms': {
+		'table2wiki-no-warning': u'Bot panganggo: Sintaks tabel dimutakhirna',
+		'table2wiki-warnings': u'Bot panganggo: sintaks tabel dimutakhirna -  {{PLURAL:count|1|%(count)d}} pengétan!',
 	},
 	# Author: Jagwar
 	# Author: Xqt
@@ -222,7 +226,7 @@ msg = {
 		'table2wiki-warnings': u'Uporabniško nadzorovan Bot: sintaksa tabele je posodobljena - {{PLURAL:count|1 opozorilo|%(count)d opozoril}}!',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'table2wiki-no-warning': u'Робот којим управља корисник: синтакса табеле је ажурирана',
 		'table2wiki-warnings': u'Бот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења|%(count)d упозорења}})',
 	},
@@ -248,23 +252,28 @@ msg = {
 		'table2wiki-warnings': u'Kullanıcı Kontrollü Bot: Tablo imlası güncellendi - {{PLURAL:count|1|%(count)d}} uyarı!',
 	},
 	# Author: Ajdar
-	'tt-cyrl': {
+	'tt': {
 		'table2wiki-no-warning': u'Ярым-автоматик робот: җәдвәл синтаксисы яңартылган',
 		'table2wiki-warnings': u'Ярым-автоматик робот: җәдвәл синтаксисы яңартылган - {{PLURAL:count|1|%(count)d}} кисәтү!',
+	},
+	# Author: Dim Grits
+	'uk': {
+		'table2wiki-no-warning': u'Напівавтоматичний бот: синтаксис таблиці оновлено',
+		'table2wiki-warnings': u'Напівавтоматичний бот: синтаксис таблиці оновлено - {{PLURAL:count|1 попередження|%(count)d попереджень}}!',
 	},
 	# Author: Minh Nguyen
 	'vi': {
 		'table2wiki-no-warning': u'Bot có người điều khiển: Cập nhật cú pháp bảng',
 		'table2wiki-warnings': u'Bot có người điều khiển: Cập nhật cú pháp bảng – {{PLURAL:count|1|%(count)d}} cảnh báo!',
 	},
-	# Author: Xqt
-	'zh': {
-		'table2wiki-no-warning': u'機器人：表格語法更新',
-		'table2wiki-warnings': u'機器人：表格語法更新 - 注意 {{PLURAL:count|1 注意！|注意 %(count)d}}',
-	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'table2wiki-no-warning': u'用户控制机器人：更新表语法',
 		'table2wiki-warnings': u'用户控制机器人：更新表语法——但有%(count)d个警告！',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'table2wiki-no-warning': u'使用者控制的機器人： 表更新的語法',
+		'table2wiki-warnings': u'使用者控制的機器人： 表語法更新-  {{PLURAL:count| 1 warning| %(計數） d 警告}} ！',
 	},
 }

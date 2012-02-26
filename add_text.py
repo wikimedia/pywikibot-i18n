@@ -149,9 +149,6 @@ msg = {
 	'fi': {
 		'add_text-adding': u'Botti lisäsi %(adding)s',
 	},
-	'fiu-vro': {
-		'add_text-adding': u'robot manopandminõ %(adding)s',
-	},
 	'fo': {
 		'add_text-adding': u'bottur leggur aftrat %(adding)s',
 	},
@@ -264,9 +261,6 @@ msg = {
 	},
 	'ku': {
 		'add_text-adding': u'robot serzêde kirin %(adding)s',
-	},
-	'ku-latn': {
-		'add_text-adding': u'robot zêdekirin:%(adding)s',
 	},
 	'kv': {
 		'add_text-adding': u'робот содтi %(adding)s',
@@ -472,11 +466,8 @@ msg = {
 	'sq': {
 		'add_text-adding': u'roboti shtoj %(adding)s',
 	},
-	'sr': {
-		'add_text-adding': u'Робот додаје %(adding)s',
-	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'add_text-adding': u'Робот: додато %(adding)s',
 	},
 	# Author: Rancher
@@ -489,8 +480,9 @@ msg = {
 	'sv': {
 		'add_text-adding': u'Bot: Lägger till %(adding)s',
 	},
+	# Author: Muddyb Blast Producer
 	'sw': {
-		'add_text-adding': u'roboti Nyongeza %(adding)s',
+		'add_text-adding': u'Roboti: Imeongeza %(adding)s',
 	},
 	'szl': {
 		'add_text-adding': u'Bot dodowo: %(adding)s',
@@ -530,9 +522,6 @@ msg = {
 	'tt': {
 		'add_text-adding': u'робот кушты %(adding)s',
 	},
-	'tt-cyrl': {
-		'add_text-adding': u'робот өстәде %(adding)s',
-	},
 	'udm': {
 		'add_text-adding': u'робот ватсаз %(adding)s',
 	},
@@ -557,6 +546,9 @@ msg = {
 	'vo': {
 		'add_text-adding': u'Bot: Läükon vödemi: %(adding)s',
 	},
+	'fiu-vro': {
+		'add_text-adding': u'robot manopandminõ %(adding)s',
+	},
 	'wa': {
 		'add_text-adding': u'robot radjouter %(adding)s',
 	},
@@ -576,14 +568,11 @@ msg = {
 	'yue': {
 		'add_text-adding': u'機械人 加 %(adding)s',
 	},
-	'zh': {
-		'add_text-adding': u'機器人: 正在新增 %(adding)s',
-	},
 	'zh-classical': {
 		'add_text-adding': u'僕 增 %(adding)s',
 	},
-	'zh-hans': {
-		'add_text-adding': u'机器人添加：%(adding)s',
+	'zh': {
+		'add_text-adding': u'機器人: 正在新增 %(adding)s',
 	},
 	'zh-hant': {
 		'add_text-adding': u'機器人新增：%(adding)s',

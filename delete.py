@@ -233,7 +233,11 @@ msg = {
 	},
 	# Author: StefanusRA
 	'map-bms': {
+		'delete-from-category': u'Bot: Mbusek kabeh kaca sekang kategori %(page)s',
+		'delete-from-file': u'Bot: mbusek daftar berkas.',
 		'delete-images': u'Bot: Mbusek kabeh gambar nang kaca %(page)s',
+		'delete-linked-pages': u'Bot: Mbusek kabeh kaca sing nggandeng sekang %(page)s',
+		'delete-referring-pages': u'Bot: Mbusek kabeh kaca sing direferensikna sekang %(page)s',
 	},
 	# Author: Jagwar
 	'mg': {
@@ -260,13 +264,20 @@ msg = {
 		'delete-linked-pages': u'Bot: Menghapuskan semua laman yang berpaut dari %(page)s',
 		'delete-referring-pages': u'Bot: Menghapuskan semua laman yang dirujuk dari %(page)s',
 	},
-	# Author: Jon Harald Søby
 	'no': {
 		'delete-from-category': u'Bot: Sletter alle sider i kategorien %(page)s',
 		'delete-from-file': u'Bot: Sletter en liste over filer.',
 		'delete-images': u'Bot: Sletter alle bilder på siden %(page)s',
 		'delete-linked-pages': u'Bot: Sletter alle sider som lenkes fra %(page)s',
 		'delete-referring-pages': u'Bot: Sletter alle sider som lenker til %(page)s',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'delete-from-category': u'Bot: alle pagina\'s uut kategorie %(page)s wörden vortedaon',
+		'delete-from-file': u'Bot: lieste mit pagina\'s wörden vortedaon.',
+		'delete-images': u'Robot: alle media op pagina %(page)s wörden vortedaon',
+		'delete-linked-pages': u'Bot: alle pagina\'s waor de pagina %(page)s naor verwis wörden vortedaon',
+		'delete-referring-pages': u'Bot: alle pagina\'s die naor de pagina %(page)s verwiezen wörden vortedaon',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -314,6 +325,13 @@ msg = {
 		'delete-linked-pages': u'Robô: Apagando todas as páginas ligadas a %(page)s',
 		'delete-referring-pages': u'Robô: Apagando todas as páginas afluentes de %(page)s',
 	},
+	# Author: Minisarm
+	'ro': {
+		'delete-from-category': u'Robot: Șters toate paginile din categoria %(page)s',
+		'delete-from-file': u'Robot: Șters o listă de fișiere.',
+		'delete-images': u'Robot: Șters toate imaginile de pe pagina %(page)s',
+		'delete-linked-pages': u'Robot: Șters toate paginile care se leagă de %(page)s',
+	},
 	'ru': {
 		'delete-from-category': u'Бот: Удаление всех страниц из категории %(page)s',
 		'delete-from-file': u'Бот: Удаление списка файлов.',
@@ -338,7 +356,7 @@ msg = {
 		'delete-referring-pages': u'Robot: Brisanje vseh strani, ki se povezujejo na %(page)s',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'delete-from-category': u'Робот: обрисане све странице из категорије %(page)s',
 		'delete-from-file': u'Робот: обрисан списак датотека.',
 		'delete-images': u'Робот: обрисане све слике на страници %(page)s',
@@ -393,11 +411,19 @@ msg = {
 		'delete-referring-pages': u'Bot: Xóa tất cả các trang có liên kết đến “%(page)s”',
 	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'delete-from-category': u'机器人：删除来自%(page)s类别所有页面',
 		'delete-from-file': u'机器人：删除文件列表。',
 		'delete-images': u'机器人：删除%(page)s页上所有图像',
 		'delete-linked-pages': u'机器人：删除从%(page)s链接所有页面',
 		'delete-referring-pages': u'机器人：删除指从%(page)s所有页面',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'delete-from-category': u'機器人： 刪除類別 （頁） %s 中的所有頁面',
+		'delete-from-file': u'機器人： 刪除的檔的清單。',
+		'delete-images': u'機器人： 刪除頁 （第頁） %s 上的所有圖像',
+		'delete-linked-pages': u'機器人： 刪除所有頁面連結從 （頁） %s',
+		'delete-referring-pages': u'機器人： 刪除所有頁，指的從 %（頁） s',
 	},
 }

@@ -34,6 +34,10 @@ msg = {
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},
+	# Author: Armando-Martin
+	'es': {
+		'djvutext-creating': u'Robot: Creando página con texto extraído de DjVu',
+	},
 	'fa': {
 		'djvutext-creating': u'ربات: ایجاد صفحه با متنی که از دژاوو استخراج شد',
 	},
@@ -80,6 +84,10 @@ msg = {
 	'lb': {
 		'djvutext-creating': u'Bot: Opmaache vun enger Säit mam Text deen aus DjVu erausgeholl gouf',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'djvutext-creating': u'Bot: Nggawe kaca nganggo teks sing diekstrak sekang DjVu',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'djvutext-creating': u'Робот: Создава страница со текст изваден од DjVu',
@@ -91,6 +99,10 @@ msg = {
 	# Author: Nghtwlkr
 	'no': {
 		'djvutext-creating': u'Robot: Oppretter side med tekst som er trukket ut fra DjVu',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'djvutext-creating': u'Bot: pagina an-emaakt mit tekste uut n DjVu-bestaand',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -115,6 +127,10 @@ msg = {
 	'qqq': {
 		'djvutext-creating': u'Robot: Creació de pàgina amb text extret de DjVu',
 	},
+	# Author: Minisarm
+	'ro': {
+		'djvutext-creating': u'Robot: Creat pagină cu text extras din DjVu',
+	},
 	# Author: Eleferen
 	'ru': {
 		'djvutext-creating': u'Бот: Создание страницы с текстом, извлечённым из DjVu',
@@ -124,7 +140,7 @@ msg = {
 		'djvutext-creating': u'Robot: Ustvarjanje strani z besedilom, izvlečenim iz DjVu',
 	},
 	# Author: Rancher
-	'sr-ec': {
+	'sr': {
 		'djvutext-creating': u'Робот: направљена страница с текстом изведеним из DjVu-а',
 	},
 	# Author: Rancher
@@ -135,6 +151,10 @@ msg = {
 	'tly': {
 		'djvutext-creating': u'Робот: Чы DjVu-ку пегәтә мәтни сәһифә сохте',
 	},
+	# Author: Incelemeelemani
+	'tr': {
+		'djvutext-creating': u'Robot: DjVu çıkartılan metni sayfaya ekledi',
+	},
 	# Author: Dim Grits
 	'uk': {
 		'djvutext-creating': u'Бот: Створення сторінки з текстом, витягнутим з DjVu-файла',
@@ -144,7 +164,11 @@ msg = {
 		'djvutext-creating': u'Bot: Tạo trang theo văn bản trích từ DjVu',
 	},
 	# Author: Anakmalaysia
-	'zh-hans': {
+	'zh': {
 		'djvutext-creating': u'机器人：创建文本由DjVu提取的页面',
+	},
+	# Author: Breawycker
+	'zh-hant': {
+		'djvutext-creating': u'機器人： 創建頁，從 DjVu 中提取文本',
 	},
 }

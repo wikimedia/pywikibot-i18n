@@ -361,6 +361,13 @@ msg = {
 	'lv': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Bot: Mbenerna pengalihan ganda maring %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Pengalihan]] maring kaca sing wis dibusek utawa kaca sing ora ana',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
+	},
 	# Author: Jagwar
 	'mg': {
 		'redirect-broken-redirect-template': u'{{fafao}}',
@@ -457,7 +464,7 @@ msg = {
 	},
 	# Author: Xqt
 	'pdc': {
-		'redirect-broken-redirect-template': u'{{lesche|Kaputte Weiderleiding)}}',
+		'redirect-broken-redirect-template': u'{{verwische|Kaputte Weiderleiding)}}',
 		'redirect-fix-double': u'Waddefresser: Doppelte Weiderleiding nooch %(to)s gennert',
 		'redirect-remove-broken': u'Kaputte Weiderleiding',
 	},
@@ -554,13 +561,6 @@ msg = {
 	# Author: Rancher
 	'sr': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Бот: исправљање двоструких преусмерења у %(to)s',
-		'redirect-remove-broken': u'Бот: Преусмерење не постоји',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Циљ [[Wikipedia:Redirect|преусмерења]] гради петљу',
-	},
-	# Author: Rancher
-	'sr-ec': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Робот: исправљена двострука преусмерења у %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Преусмерење]] до обрисане или непостојеће странице',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: одредиште [[Wikipedia:Redirect|преусмерења]] образује петљу',
@@ -618,7 +618,7 @@ msg = {
 		'redirect-remove-loop': u'Bot: Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor',
 	},
 	# Author: Ильнар
-	'tt-cyrl': {
+	'tt': {
 		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 		'redirect-fix-double': u'Робот: икеле күчешне дөресләү → %(to)s',
 		'redirect-remove-broken': u'[[ВП:ТБК#П1|П1]]: беркаяда күчеш ясамау',
@@ -636,6 +636,10 @@ msg = {
 	'vec': {
 		'redirect-fix-double': u'Bot: Sistemo i dopi rimandi a %(to)s',
 		'redirect-remove-broken': u'Bot: El rimando el ponta a na pagina che no esiste',
+	},
+	# Author: Emaus
+	'vep': {
+		'redirect-fix-double': u'Bot kohenzi kaksitadud läbikosketusen %(to)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {
@@ -663,17 +667,12 @@ msg = {
 	'yo': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
-	'zh': {
-		'redirect-broken-redirect-template': u'{{delete|R1}}',
-		'redirect-fix-double': u'機器人:修正雙重重定向 → %(to)s',
-		'redirect-remove-broken': u'機器人:該重定向的目標不存在',
-	},
 	'zh-classical': {
 		'redirect-fix-double': u'僕:復修渡口 → %(to)s',
 	},
 	# Author: Hydra
 	# Author: 阿pp
-	'zh-hans': {
+	'zh': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'机器人：修正双重重定向至%(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的页面',
