@@ -98,10 +98,10 @@ msg = {
 	},
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Archiving %(count)d thread(s) from [[%(from)s]].',
+		'archivebot-archive-summary': u'Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'older than',
-		'archivebot-page-summary': u'Archiving %(count)d thread(s) (%(why)s) to %(archives)s.',
+		'archivebot-page-summary': u'Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
 	},
 	# Author: Vivaelcelta
 	'es': {
