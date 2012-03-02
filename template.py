@@ -28,6 +28,12 @@ msg = {
 		'template-removing': u'Robot : O tiverkañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s',
 		'template-substituting': u'Robot : Oc\'h erlec\'hiañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'template-changing': u'Bot: Izmjena {{PLURAL:%(num)d|šablona|šablona}}: %(list)s.',
+		'template-removing': u'Bot: Brisanje {{PLURAL:%(num)d|šablona|šablona}}: %(list)s.',
+		'template-substituting': u'Bot: Zamjena {{PLURAL:%(num)d|šablona|šablona}}: %(list)s.',
+	},
 	# Author: SMP
 	'ca': {
 		'template-changing': u'Robot: Canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',

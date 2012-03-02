@@ -68,8 +68,9 @@ msg = {
 		'replace-replacing': u'Robot: Reemplazo automático de texto %(description)s',
 	},
 	# Author: AivoK
+	# Author: Pikne
 	'et': {
-		'replace-replacing': u'robot asendas: %(description)s',
+		'replace-replacing': u'Robot: automaatselt asendatud tekst %(description)s',
 	},
 	# Author: An13sa
 	'eu': {
@@ -303,7 +304,6 @@ msg = {
 	'tr': {
 		'replace-replacing': u'Bot: Otomatik metin değiştirme %(description)s',
 	},
-	# Author: Ильнар
 	# Author: Zahidulla
 	'tt': {
 		'replace-replacing': u'Робот: %(description)s текстын автоматик рәвештә алмаштыру',

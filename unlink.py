@@ -15,6 +15,10 @@ msg = {
 	'br': {
 		'unlink-unlinking': u'Robot: O tiliammañ "%s"',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'unlink-unlinking': u'Bot: Odvajanje "%s".',
+	},
 	# Author: Utar
 	'cs': {
 		'unlink-unlinking': u'Robot: Odlinkovávám "%s"',
@@ -29,6 +33,10 @@ msg = {
 	# Author: Armando-Martin
 	'es': {
 		'unlink-unlinking': u'Robot: Eliminando el enlace "%s"',
+	},
+	# Author: Pikne
+	'et': {
+		'unlink-unlinking': u'Robot: eemaldatud link "%s"',
 	},
 	'fa': {
 		'unlink-unlinking': u'ربات: حذف پیوند %s',

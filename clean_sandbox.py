@@ -27,8 +27,9 @@ msg = {
 		'clean_sandbox-cleaned': u'Robot : Kempennet ent emgefre',
 	},
 	# Author: CERminator
+	# Author: Edinwiki
 	'bs': {
-		'clean_sandbox-cleaned': u'Robot: Automatsko čišćenje',
+		'clean_sandbox-cleaned': u'Bot: Automatsko čišćenje',
 	},
 	# Author: SMP
 	'ca': {

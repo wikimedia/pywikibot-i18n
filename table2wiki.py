@@ -26,6 +26,11 @@ msg = {
 		'table2wiki-no-warning': u'Robot : ereadurezh an daolenn hizivaet',
 		'table2wiki-warnings': u'Robot : ereadurezh an daolenn hizivaet - {{PLURAL:count|1 c\'hemenn-diwall|%(count)d kemenn-diwall}} !',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'table2wiki-no-warning': u'Bot pod korisnkičkom kontrolom: Sintaksna tabela ažurirana.',
+		'table2wiki-warnings': u'Bot pod korisničkom kontrolom: Sintaksna tabela ažurirana - {{PLURAL:count|1 upozorenje|%(count)d upozorenja}}!',
+	},
 	# Author: SMP
 	# Author: Xqt
 	'ca': {

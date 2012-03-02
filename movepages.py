@@ -15,6 +15,10 @@ msg = {
 	'br': {
 		'movepages-moving': u'Robot: Pajenn adanvet',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'movepages-moving': u'Bot: Premještena stranica.',
+	},
 	# Author: Gemmaa
 	'ca': {
 		'movepages-moving': u'Robot: Moure pàgina',
@@ -34,6 +38,10 @@ msg = {
 	# Author: Vivaelcelta
 	'es': {
 		'movepages-moving': u'Bot: Página trasladada',
+	},
+	# Author: Pikne
+	'et': {
+		'movepages-moving': u'Robot: lehekülg teisaldatud',
 	},
 	'fa': {
 		'movepages-moving': u'ربات: صفحه منتقل شد',
@@ -126,6 +134,10 @@ msg = {
 	},
 	'nn': {
 		'movepages-moving': u'robot: flytta sida',
+	},
+	# Author: Xqt
+	'pdc': {
+		'movepages-moving': u'Waddefresser: Blatt gezoge',
 	},
 	'pl': {
 		'movepages-moving': u'Przeniesienie artykułu przez robota',

@@ -15,6 +15,10 @@ msg = {
 	'br': {
 		'fixing_redirects-fixing': u'Robot: O reizhañ an adkasoù',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'fixing_redirects-fixing': u'Bot: Ispravljanje preusmjeravanja.',
+	},
 	'cs': {
 		'fixing_redirects-fixing': u'Robot opravil přesměrování',
 	},
@@ -28,6 +32,10 @@ msg = {
 	# Author: Armando-Martin
 	'es': {
 		'fixing_redirects-fixing': u'Bot: Arreglando redirecciones',
+	},
+	# Author: Pikne
+	'et': {
+		'fixing_redirects-fixing': u'Robot: ümbersuunamised parandatud',
 	},
 	'fa': {
 		'fixing_redirects-fixing': u'ربات:تصحیح تغییرمسیرها',

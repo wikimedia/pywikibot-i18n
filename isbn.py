@@ -47,8 +47,9 @@ msg = {
 		'isbn-formatting': u'Robot : O furmadiñ an ISBN',
 	},
 	# Author: CERminator
+	# Author: Edinwiki
 	'bs': {
-		'isbn-formatting': u'Robot: Oblikovanje ISBN',
+		'isbn-formatting': u'Bot: Oblikovanje ISBN',
 	},
 	# Author: SMP
 	'ca': {
@@ -84,6 +85,10 @@ msg = {
 	# Author: Dferg
 	'es': {
 		'isbn-formatting': u'Robot: dando formato al ISBN',
+	},
+	# Author: Pikne
+	'et': {
+		'isbn-formatting': u'Robot: ISBN vormindatud',
 	},
 	# Author: An13sa
 	# Author: Xabier Armendaritz
@@ -341,7 +346,6 @@ msg = {
 	'tr': {
 		'isbn-formatting': u'Bot: ISBN biçimlendiriliyor',
 	},
-	# Author: Ильнар
 	# Author: Zahidulla
 	'tt': {
 		'isbn-formatting': u'Робот: ISBN үзгәртеп кору',

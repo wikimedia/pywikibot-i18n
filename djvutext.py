@@ -15,6 +15,10 @@ msg = {
 	'br': {
 		'djvutext-creating': u'Robot: O krouiñ ur bajenn enni testenn tennet eus DjVu',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'djvutext-creating': u'Bot: Napravljena stranica sa tekstom iz DjVu datoteke.',
+	},
 	# Author: KRLS
 	'ca': {
 		'djvutext-creating': u'Robot: Creació de pàgina amb text extret de DjVu',
@@ -37,6 +41,10 @@ msg = {
 	# Author: Armando-Martin
 	'es': {
 		'djvutext-creating': u'Robot: Creando página con texto extraído de DjVu',
+	},
+	# Author: Pikne
+	'et': {
+		'djvutext-creating': u'Robot: lehekülg loodud teksti eraldamisega DjVu-failist',
 	},
 	'fa': {
 		'djvutext-creating': u'ربات: ایجاد صفحه با متنی که از دژاوو استخراج شد',

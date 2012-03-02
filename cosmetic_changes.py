@@ -58,9 +58,10 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: Kemm dister',
 	},
 	# Author: CERminator
+	# Author: Edinwiki
 	'bs': {
 		'cosmetic_changes-append': u'; kozmetičke promjene',
-		'cosmetic_changes-standalone': u'Robot: kozmetičke promjene',
+		'cosmetic_changes-standalone': u'Bot: kozmetičke promjene',
 	},
 	'ca': {
 		'cosmetic_changes-append': u'; canvis cosmètics',
@@ -100,9 +101,10 @@ msg = {
 		'cosmetic_changes-append': u'; cambios triviales',
 		'cosmetic_changes-standalone': u'Robot: Cambios triviales',
 	},
+	# Author: Pikne
 	'et': {
 		'cosmetic_changes-append': u'; kosmeetilised muudatused',
-		'cosmetic_changes-standalone': u'robot: kosmeetilised muudatused',
+		'cosmetic_changes-standalone': u'Robot: kosmeetilised muudatused',
 	},
 	# Author: An13sa
 	'eu': {

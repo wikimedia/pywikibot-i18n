@@ -833,7 +833,6 @@ msg = {
 	'yi': {
 		'solve_disambiguation-unknown-page': u'(אומבאַקאַנט)',
 	},
-	# Author: Hydra
 	# Author: 阿pp
 	'zh': {
 		'solve_disambiguation-adding-dn-template': u'机器人辅助消歧义：%(from)s - 已标记为需要专家关注',

@@ -50,8 +50,12 @@ msg = {
 		'featured-good': u'Bot : %(page)s a zo ur pennad vat',
 		'featured-list': u'Bot : %(page)s a zo ur roll a-feson',
 	},
+	# Author: Edinwiki
 	'bs': {
 		'featured-featured': u'Bot: Interwiki za izabrane članke za %(page)s',
+		'featured-former': u'Bot: %(page)s je bivši izabrani članak.',
+		'featured-good': u'Bot: %(page)s je dobar članak.',
+		'featured-list': u'Bot: %(page)s je istaknuti spisak.',
 	},
 	# Author: SMP
 	'ca': {

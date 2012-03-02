@@ -26,6 +26,10 @@ msg = {
 	'br': {
 		'noreferences-add-tag': u'Robot: Ouzhpennañ ar balizenn <references /> hag a vank',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'noreferences-add-tag': u'Bot: Dodavanje nedostajuće <references /> oznake.',
+	},
 	# Author: SMP
 	'ca': {
 		'noreferences-add-tag': u'Robot: Afegint l\'etiqueta <references /> que mancava',
@@ -52,6 +56,10 @@ msg = {
 	# Author: Vivaelcelta
 	'es': {
 		'noreferences-add-tag': u'Bot: Añado la etiqueta que faltaba <references />',
+	},
+	# Author: Pikne
+	'et': {
+		'noreferences-add-tag': u'Robot: lisatud puuduv <references />-märgend',
 	},
 	'fa': {
 		'noreferences-add-tag': u'ربات: برچسب <references /> فراموش شده‌است',

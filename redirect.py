@@ -153,6 +153,10 @@ msg = {
 		'redirect-remove-broken': u'Robot: La página a la que redirige no existe',
 		'redirect-remove-loop': u'Redirección infinita: la página redirige sobre sí misma',
 	},
+	# Author: Pikne
+	'et': {
+		'redirect-fix-double': u'Robot: parandatud kahekordne ümbersuunamine leheküljele %(to)s',
+	},
 	# Author: An13sa
 	'eu': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -670,7 +674,6 @@ msg = {
 	'zh-classical': {
 		'redirect-fix-double': u'僕:復修渡口 → %(to)s',
 	},
-	# Author: Hydra
 	# Author: 阿pp
 	'zh': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',

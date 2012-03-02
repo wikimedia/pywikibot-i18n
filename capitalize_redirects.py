@@ -23,6 +23,10 @@ msg = {
 	'br': {
 		'capitalize_redirects-create-redirect': u'Robot : Krouiñ un adkas evit [[%(to)s]]',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'capitalize_redirects-create-redirect': u'Bot: Napravljeno preusmjerenje na [[%(to)s]].',
+	},
 	# Author: SMP
 	'ca': {
 		'capitalize_redirects-create-redirect': u'Robot: Crea una redirecció a [[%(to)s]]',

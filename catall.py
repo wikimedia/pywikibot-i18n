@@ -19,6 +19,10 @@ msg = {
 	'br': {
 		'catall-changing': u'Robot: O cheñch rummadoù',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'catall-changing': u'Bot: Promjena kategorija.',
+	},
 	# Author: Utar
 	'cs': {
 		'catall-changing': u'Robot: Měním kategorie',
@@ -32,6 +36,10 @@ msg = {
 	# Author: Armando-Martin
 	'es': {
 		'catall-changing': u'Robot: Cambiando categorías',
+	},
+	# Author: Pikne
+	'et': {
+		'catall-changing': u'Robot: kategooriad muudetud',
 	},
 	'fa': {
 		'catall-changing': u'ربات: تغییر رده‌ها',
@@ -114,7 +122,7 @@ msg = {
 	},
 	# Author: Xqt
 	'pdc': {
-		'catall-changing': u'Waddefresser:  Abdeelinge ennere',
+		'catall-changing': u'Waddefresser: Abdeelinge ennere',
 	},
 	'pl': {
 		'catall-changing': u'Bot: Zmiana kategorii',

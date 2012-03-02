@@ -23,6 +23,10 @@ msg = {
 	'br': {
 		'editarticle-edit': u'Kemmm dornel a-drugarez d\'ur bot : %(description)s',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'editarticle-edit': u'Ručna izmjena sa botom: %(description)s.',
+	},
 	# Author: SMP
 	'ca': {
 		'editarticle-edit': u'Edició manual amb robot: %(description)s',

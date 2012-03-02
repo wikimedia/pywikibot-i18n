@@ -48,6 +48,12 @@ msg = {
 		'welcome-updating': u'Bot : Hizivadenn ar renabl',
 		'welcome-welcome': u'Degemer mat !',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'welcome-bad_username': u'Bot: Dodavanje korisničkog imena koje treba provjeriti.',
+		'welcome-updating': u'Bot: Ažuriranje zapisnika.',
+		'welcome-welcome': u'Dobrodošli!',
+	},
 	# Author: SMP
 	'ca': {
 		'welcome-bad_username': u'Robot: Afegint un nom d\'usuari que ha de ser revisat',
@@ -102,6 +108,10 @@ msg = {
 		'welcome-bad_username': u'Bot: Agregar un nombre de usuario que necesita ser comprobado',
 		'welcome-updating': u'Bot: Actualizo el registro',
 		'welcome-welcome': u'Bienvenido!',
+	},
+	# Author: Pikne
+	'et': {
+		'welcome-updating': u'Robot: logi uuendatud',
 	},
 	# Author: Mjbmr
 	'fa': {

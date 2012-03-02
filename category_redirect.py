@@ -83,9 +83,10 @@ msg = {
 		'category_redirect-fix-double': u'Kempennet adkas doubl gant robot',
 	},
 	# Author: CERminator
+	# Author: Edinwiki
 	'bs': {
-		'category_redirect-add-template': u'Robot: dodaje šablon preusmjerenja kategorije radi održavanja',
-		'category_redirect-change-category': u'Robot: mijenja preusmjerenu kategoriju [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Bot: dodaje šablon preusmjerenja kategorije radi održavanja',
+		'category_redirect-change-category': u'Bot: mijenja preusmjerenu kategoriju [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Bot za održavanje preusmjeravanja kategorije',
 		'category_redirect-edit-request': u'Sljedeće zaštićene stranice su otkrivene a koje trebaju ažuriranje linkova kategorija: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s je u %(oldcat)s, koja je preusmjerenje na %(newcat)s',
@@ -179,6 +180,10 @@ msg = {
 		'category_redirect-edit-request': u'Se han detectado las siguientes páginas protegidas y se requieren actualizaciones de enlaces de categorías: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s está en %(oldcat)s, el cual redirecciona a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Arreglando doble redirección',
+	},
+	# Author: Pikne
+	'et': {
+		'category_redirect-fix-double': u'Robot: parandatud kahekordne ümbersuunamine',
 	},
 	# Author: An13sa
 	'eu': {

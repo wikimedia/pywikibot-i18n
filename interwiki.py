@@ -224,14 +224,15 @@ msg = {
 		'interwiki-removing-modifying': u'Robot tennet: %(removing)s kemmet: %(modifying)s',
 	},
 	# Author: CERminator
+	# Author: Edinwiki
 	'bs': {
-		'interwiki-adding': u'robot dodaje: %(adding)s',
-		'interwiki-adding-modifying': u'robot dodaje: %(adding)s mijenja: %(modifying)s',
-		'interwiki-adding-removing': u'robot dodaje: %(adding)s uklanja: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot dodaje: %(adding)s uklanja: %(removing)s mijenja: %(modifying)s',
-		'interwiki-modifying': u'robot mijenja: %(modifying)s',
-		'interwiki-removing': u'robot uklanja: %(removing)s',
-		'interwiki-removing-modifying': u'robot uklanja: %(removing)s mijenja: %(modifying)s',
+		'interwiki-adding': u'Bot dodaje: %(adding)s',
+		'interwiki-adding-modifying': u'Bot: dodaje %(adding)s mijenja: %(modifying)s',
+		'interwiki-adding-removing': u'Bot: dodaje %(adding)s uklanja: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot dodaje: %(adding)s uklanja: %(removing)s mijenja: %(modifying)s',
+		'interwiki-modifying': u'Bot mijenja: %(modifying)s',
+		'interwiki-removing': u'Bot uklanja: %(removing)s',
+		'interwiki-removing-modifying': u'Bot uklanja: %(removing)s mijenja: %(modifying)s',
 	},
 	'ca': {
 		'interwiki-adding': u'Robot afegeix: %(adding)s',
@@ -402,14 +403,15 @@ msg = {
 		'interwiki-removing': u'robot Eliminado: %(removing)s',
 		'interwiki-removing-modifying': u'robot Eliminado: %(removing)s Modificado: %(modifying)s',
 	},
+	# Author: Pikne
 	'et': {
-		'interwiki-adding': u'robot lisas: %(adding)s',
-		'interwiki-adding-modifying': u'robot lisas: %(adding)s muutis: %(modifying)s',
-		'interwiki-adding-removing': u'robot lisas: %(adding)s kustutas: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot lisas: %(adding)s kustutas: %(removing)s muutis: %(modifying)s',
-		'interwiki-modifying': u'robot muutis: %(modifying)s',
-		'interwiki-removing': u'robot kustutas: %(removing)s',
-		'interwiki-removing-modifying': u'robot kustutas: %(removing)s muutis: %(modifying)s',
+		'interwiki-adding': u'Robot: lisatud %(adding)s',
+		'interwiki-adding-modifying': u'Robot: lisatud %(adding)s; muudetud %(modifying)s',
+		'interwiki-adding-removing': u'Robot: lisatud %(adding)s; eemaldatud %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: lisatud %(adding)s; eemaldatud %(removing)s; muudetud %(modifying)s',
+		'interwiki-modifying': u'Robot: muudetud %(modifying)s',
+		'interwiki-removing': u'Robot: eemaldatud %(removing)s',
+		'interwiki-removing-modifying': u'Robot: eemaldatud %(removing)s; muudetud %(modifying)s',
 	},
 	'eu': {
 		'interwiki-adding': u'robota Erantsia: %(adding)s',

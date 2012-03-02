@@ -365,7 +365,6 @@ msg = {
 	'yi': {
 		'basic-changing': u'באָט: ענדערן ...',
 	},
-	# Author: Hydra
 	# Author: Shizhao
 	'zh': {
 		'basic-changing': u'机器人： 修改...',

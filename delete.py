@@ -40,6 +40,14 @@ msg = {
 		'delete-linked-pages': u'Robot : O tiverkañ an holl bajennoù liammet adalek %(page)s',
 		'delete-referring-pages': u'Robot : O tiverkañ an holl bajennoù a ra dave da %(page)s',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'delete-from-category': u'Bot: Brisanje svih stranica iz kategorije %(page)s.',
+		'delete-from-file': u'Bot: Brisanje spiska fajlova.',
+		'delete-images': u'Bot: Brisanje svih slika na stranici %(page)s.',
+		'delete-linked-pages': u'Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.',
+		'delete-referring-pages': u'Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.',
+	},
 	# Author: SMP
 	'ca': {
 		'delete-from-category': u'Robot: Esborrant totes les pàgines de la categoria %(page)s',
@@ -94,6 +102,14 @@ msg = {
 		'delete-images': u'Bot: Elimino todas las imágenes de la página "%(page)s"',
 		'delete-linked-pages': u'Bot: Elimino todas las páginas enlazadas desde "%(page)s"',
 		'delete-referring-pages': u'Bot: Elimino todas las páginas que van dar a "%(page)s"',
+	},
+	# Author: Pikne
+	'et': {
+		'delete-from-category': u'Robot: kustutatud kõik leheküljed kategoorias %(page)s',
+		'delete-from-file': u'Robot: kustutatud nimekirjas toodud failid',
+		'delete-images': u'Robot: kustutatud kõik pildid leheküljel %(page)s',
+		'delete-linked-pages': u'Robot: kustutatud kõik asukohas %(page)s lingitud leheküljed',
+		'delete-referring-pages': u'Robot: kustutatud kõik asukohas %(page)s viidatud leheküljed',
 	},
 	'fa': {
 		'delete-from-category': u'ربات:حذف تمام صفحه‌های رده %(page)s',
@@ -331,6 +347,7 @@ msg = {
 		'delete-from-file': u'Robot: Șters o listă de fișiere.',
 		'delete-images': u'Robot: Șters toate imaginile de pe pagina %(page)s',
 		'delete-linked-pages': u'Robot: Șters toate paginile care se leagă de %(page)s',
+		'delete-referring-pages': u'Robot: Șters toate paginile referindu-se la %(page)s',
 	},
 	'ru': {
 		'delete-from-category': u'Бот: Удаление всех страниц из категории %(page)s',

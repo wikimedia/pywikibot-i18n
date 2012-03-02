@@ -134,8 +134,9 @@ msg = {
 	'es': {
 		'add_text-adding': u'robot Añadido %(adding)s',
 	},
+	# Author: Pikne
 	'et': {
-		'add_text-adding': u'robot lisas %(adding)s',
+		'add_text-adding': u'Robot: lisatud %(adding)s',
 	},
 	'eu': {
 		'add_text-adding': u'robota Erantsia %(adding)s',

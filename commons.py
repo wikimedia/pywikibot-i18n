@@ -34,6 +34,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Restr]] kaset da [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Emañ bremañ ar restr war [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] premještena na [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Ova datoteka je sada dostupna na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: SMP
 	'ca': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fitxer]] traslladat a [[:commons:File:%(commonsfile)s|commons]].',
