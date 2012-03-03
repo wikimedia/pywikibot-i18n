@@ -4,10 +4,6 @@ msg = {
 	'af': {
 		'isbn-formatting': u'Robot: Formatteer ISBN',
 	},
-	# Author: Xqt
-	'als': {
-		'isbn-formatting': u'Bot: ISBN formatiert',
-	},
 	# Author: Meno25
 	# Author: OsamaK
 	'ar': {
@@ -127,7 +123,7 @@ msg = {
 		'isbn-formatting': u'Bot: Dou formato ISBN',
 	},
 	# Author: Als-Holder
-	'gsw': {
+	'als': {
 		'isbn-formatting': u'Bot: ISBN formatiert',
 	},
 	# Author: YaronSh

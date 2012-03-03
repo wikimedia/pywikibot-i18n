@@ -120,7 +120,7 @@ msg = {
 		'commons-file-now-available': u'O ficheiro agora está dispoñible na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'commons-file-moved': u'D [[:File:%(localfile)s|Datei]] isch uff [[:commons:File:%(commonsfile)s|d Allmänd]] verschobe worde.',
 		'commons-file-now-available': u'Die Datei isch jetz uff de [[:commons:File:%(commonsfile)s|Allmänd]] verfügbar.',
 	},
@@ -156,7 +156,7 @@ msg = {
 	},
 	# Author: Snævar
 	'is': {
-		'commons-file-moved': u'[[:Mynd:%(localfile)s|Skráin]] var færð yfir á [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|Skráin]] var færð yfir á [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Myndin var færð yfir á [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Beta16

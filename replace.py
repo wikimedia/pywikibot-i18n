@@ -4,10 +4,6 @@ msg = {
 	'af': {
 		'replace-replacing': u'Robot: geoutomatiseerde teks vervanging %(description)s',
 	},
-	# Author: Xqt
-	'als': {
-		'replace-replacing': u'Bot: het dr Text automatisch uustuscht: %(description)s',
-	},
 	# Author: Meno25
 	'ar': {
 		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
@@ -105,7 +101,7 @@ msg = {
 		'replace-replacing': u'Bot: Substitución automática de texto %(description)s',
 	},
 	# Author: Als-Holder
-	'gsw': {
+	'als': {
 		'replace-replacing': u'Bot: het dr Text automatisch uustuscht: %(description)s',
 	},
 	'he': {

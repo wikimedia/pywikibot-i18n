@@ -85,7 +85,7 @@ msg = {
 		'editarticle-edit': u'Edición manual con bot: %(description)s',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'editarticle-edit': u'Manuelli Bearbeitig: %(description)s',
 	},
 	'he': {

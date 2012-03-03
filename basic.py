@@ -116,7 +116,7 @@ msg = {
 		'basic-changing': u'Bot: Cambiando...',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'basic-changing': u'Bötli: duet ändere...',
 	},
 	# Author: Amire80

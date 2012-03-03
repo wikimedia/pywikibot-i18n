@@ -3,9 +3,6 @@ msg = {
 	'af': {
 		'add_text-adding': u'robot Bygevoeg %(adding)s',
 	},
-	'als': {
-		'add_text-adding': u'Bötli: Ygfüegt %(adding)s',
-	},
 	'am': {
 		'add_text-adding': u'ሎሌ መጨመር %(adding)s',
 	},
@@ -179,7 +176,7 @@ msg = {
 	'gn': {
 		'add_text-adding': u'bot ojoapy %(adding)s',
 	},
-	'gsw': {
+	'als': {
 		'add_text-adding': u'Bötli: Ygfüegt %(adding)s',
 	},
 	'gu': {

@@ -9,15 +9,6 @@ msg = {
 		'interwiki-removing': u'robot Verwyder: %(removing)s',
 		'interwiki-removing-modifying': u'robot Verwyder: %(removing)s Verander: %(modifying)s',
 	},
-	'als': {
-		'interwiki-adding': u'Bötli: Ygfüegt: %(adding)s',
-		'interwiki-adding-modifying': u'Bötli: Ygfüegt: %(adding)s Gändret: %(modifying)s',
-		'interwiki-adding-removing': u'Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s Gändret: %(modifying)s',
-		'interwiki-modifying': u'Bötli: Gändret: %(modifying)s',
-		'interwiki-removing': u'Bötli: Ussergnoh: %(removing)s',
-		'interwiki-removing-modifying': u'Bötli: Ussergnoh: %(removing)s Gändret: %(modifying)s',
-	},
 	'am': {
 		'interwiki-adding': u'ሎሌ መጨመር: %(adding)s',
 		'interwiki-adding-modifying': u'ሎሌ መጨመር: %(adding)s ማስተካከል: %(modifying)s',
@@ -541,7 +532,7 @@ msg = {
 		'interwiki-removing-modifying': u'bot oñembogue: %(removing)s oñemoambue: %(modifying)s',
 	},
 	# Author: Xqt
-	'gsw': {
+	'als': {
 		'interwiki-adding': u'Bötli: Ygfüegt: %(adding)s',
 		'interwiki-adding-modifying': u'Bötli: Ygfüegt: %(adding)s Gändret: %(modifying)s',
 		'interwiki-adding-removing': u'Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s',

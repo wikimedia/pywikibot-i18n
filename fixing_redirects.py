@@ -71,8 +71,9 @@ msg = {
 	'ilo': {
 		'fixing_redirects-fixing': u'Bot: Agsimsimpa kadagiti baw-ing',
 	},
+	# Author: Snævar
 	'is': {
-		'fixing_redirects-fixing': u'Robot: Laga tilvísanir',
+		'fixing_redirects-fixing': u'Vélmenni: Lagfæri tilvísanir',
 	},
 	# Author: Nemo bis
 	'it': {

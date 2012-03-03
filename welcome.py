@@ -160,7 +160,7 @@ msg = {
 		'welcome-welcome': u'Benvido!',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'welcome-bad_username': u'Bötli: due e Benutzername ergänze, wo no überprieft werde muess',
 		'welcome-updating': u'Bötli: Logbuech wird aktualisiert',
 		'welcome-welcome': u'Willchu!',

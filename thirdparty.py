@@ -347,7 +347,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Actualizado o resumo da conversa: %(num)i entradas en %(page)s',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussion veränderet',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion abgschlosse',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT MESSAGE',
@@ -439,6 +439,7 @@ msg = {
 	},
 	# Author: Snævar
 	'is': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'skipti út %(tags)s tögum',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Umræðu breytt',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Loka umræðu',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'Skilaboð vélmennis',
@@ -709,6 +710,7 @@ msg = {
 	# Author: Dragonòt
 	# Author: Borichèt
 	'pms': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'sustituì %(tags)s tag(s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion cangià',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion sarà',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MËSSAGI ËD TRIGOMIRO',

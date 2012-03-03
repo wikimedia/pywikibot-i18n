@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'als': {
-		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
-	},
 	'ar': {
 		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
 	},
@@ -94,7 +91,7 @@ msg = {
 	'gl': {
 		'clean_sandbox-cleaned': u'Bot: Limpeza automática',
 	},
-	'gsw': {
+	'als': {
 		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
 	},
 	'he': {

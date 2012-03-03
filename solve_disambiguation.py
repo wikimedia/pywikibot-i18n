@@ -5,16 +5,6 @@ msg = {
 		'solve_disambiguation-links-removed': u'Robot-ondersteunde aanstuur: %(from)s - skakel(s) verwyder.',
 		'solve_disambiguation-unknown-page': u'(onbekend)',
 	},
-	# Author: Xqt
-	'als': {
-		'solve_disambiguation-adding-dn-template': u'Bot-unterstitzti Begriffsklärig: %(from)s - brucht Ufmerksamkeit vun eme Expert',
-		'solve_disambiguation-links-removed': u'Bot-unterstitzti Begriffsklärig: %(from)s - Link uusegnuu',
-		'solve_disambiguation-links-resolved': u'Bot-unterstitzti Begriffsklärig: %(from)s - Link uustuscht dur %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Bot-unterstitzti Begriffsklärig: %(from)s - brucht Ufmerksamkeit vun eme Expert',
-		'solve_disambiguation-redirect-removed': u'Bot-unterstitzti Wyterleitigsuflesig: %(from)s - Link uusegnuu',
-		'solve_disambiguation-redirect-resolved': u'Bot-unterstitzti Wyterleitigsuflesig: %(from)s - Link uustuscht dur %(to)s',
-		'solve_disambiguation-unknown-page': u'(nit bekannt)',
-	},
 	# Author: Meno25
 	'ar': {
 		'solve_disambiguation-adding-dn-template': u'توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
@@ -273,7 +263,7 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(descoñecido)',
 	},
 	# Author: Als-Holder
-	'gsw': {
+	'als': {
 		'solve_disambiguation-adding-dn-template': u'Bot-unterstitzti Begriffsklärig: %(from)s - brucht Ufmerksamkeit vun eme Expert',
 		'solve_disambiguation-links-removed': u'Bot-unterstitzti Begriffsklärig: %(from)s - Link uusegnuu',
 		'solve_disambiguation-links-resolved': u'Bot-unterstitzti Begriffsklärig: %(from)s - Link uustuscht dur %(to)s',

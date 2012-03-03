@@ -84,7 +84,7 @@ msg = {
 	},
 	# Author: Als-Chlämens
 	# Author: Xqt
-	'gsw': {
+	'als': {
 		'table2wiki-no-warning': u'Bötli: Tabellesyntax aktualisiert',
 		'table2wiki-warnings': u'Bötli: Tabellesyntax aktualisiert - {{PLURAL:count|ei Warnig|%(count)d Warnige}}!',
 	},

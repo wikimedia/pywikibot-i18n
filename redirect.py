@@ -7,13 +7,6 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: Verwyder [[Wikipedia:Redirect|aanstuur]] na nie-bestaande bladsy',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Sirkulêre [[Wikipedia:Redirect|aanstuur]]',
 	},
-	# Author: Xqt
-	'als': {
-		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch',
-		'redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s',
-		'redirect-remove-broken': u'Wyterleitig wo kaputt isch',
-		'redirect-remove-loop': u'{{delete}}Wyterleitig wo kaputt isch',
-	},
 	# Author: Meno25
 	'ar': {
 		'redirect-broken-redirect-template': u'{{شطب|تحويلة مكسورة}}',
@@ -227,11 +220,11 @@ msg = {
 	},
 	# Author: Xqt
 	# Author: Als-Holder
-	'gsw': {
+	'als': {
 		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch',
 		'redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s',
 		'redirect-remove-broken': u'Wyterleitig wo kaputt isch',
-		'redirect-remove-loop': u'Bot: Wyterleitige bilde ne Zirkel',
+		'redirect-remove-loop': u'{{delete}}Wyterleitig wo kaputt isch',
 	},
 	# Author: Amire80
 	'he': {
@@ -296,7 +289,7 @@ msg = {
 	},
 	# Author: Snævar
 	'is': {
-		'redirect-broken-redirect-template': u'{{eyða}}',
+		'redirect-broken-redirect-template': u'{{eyða|tilvísun á síðu sem er ekki til}}',
 		'redirect-fix-double': u'Vélmenni: Lagfæri tvöfalda tilvísun → %(to)s',
 		'redirect-remove-broken': u'[[Wikipedia:Eyðingar#A9|A9]]: Tilvísun bendir á síðu sem hefur verið eytt eða er ekki til',
 		'redirect-remove-loop': u'[[Wikipedia:Eyðingar#A9|A9]]: Tilvísun bendir á óendanlega tilvísunar lykkju',

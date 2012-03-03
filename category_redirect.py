@@ -3,9 +3,6 @@ msg = {
 	'af': {
 		'category_redirect-fix-double': u'Robot: dubbele aanstuur reggemaak',
 	},
-	'als': {
-		'category_redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig',
-	},
 	# Author: OsamaK
 	# Author: Meno25
 	'ar': {
@@ -259,7 +256,7 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Arranxo a redirección dobre cara',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'category_redirect-add-template': u'Bötli: Due d Kategoriwyterleitigsvorlag für Wartigszweck dezue',
 		'category_redirect-change-category': u'Bötli: due di wytergleiteti Kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] uff [[:%(newCatLink)s|%(newCatTitle)s]] ändere',
 		'category_redirect-comment': u'Bötli zur Wartig vo Kategoriwyterleitige',

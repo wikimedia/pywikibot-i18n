@@ -68,7 +68,7 @@ msg = {
 		'movepages-moving': u'Bot: Páxina trasladada',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'movepages-moving': u'Bötli: Syte verschobe',
 	},
 	'he': {

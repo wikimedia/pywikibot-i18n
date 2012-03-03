@@ -5,11 +5,6 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetiese veranderinge',
 		'cosmetic_changes-standalone': u'Robot: Kosmetiese veranderinge',
 	},
-	# Author: Xqt
-	'als': {
-		'cosmetic_changes-append': u'; oberflächlichi Änderige',
-		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
-	},
 	'ar': {
 		'cosmetic_changes-append': u'; تغييرات تجميلية',
 		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
@@ -147,7 +142,7 @@ msg = {
 		'cosmetic_changes-standalone': u'bot Cambios estética',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'cosmetic_changes-append': u'; oberflächlichi Änderige',
 		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
 	},

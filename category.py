@@ -12,17 +12,6 @@ msg = {
 		'category-was-moved': u'Robot: kategorie is geskuif na [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Xqt
-	'als': {
-		'category-adding': u'Bot: Kategori [[:Category:%(newcat)s|%(newcat)s]] ergänzt',
-		'category-also-in': u'(au in %(alsocat)s)',
-		'category-changing': u'Bötli: Due %(oldcat)s zue %(newcat)s ändere',
-		'category-listifying': u'Bot: Lischt us %(fromcat)s (%(num)d Yytreg)',
-		'category-removing': u'Bot: us %(oldcat)s  uusegnuu',
-		'category-replacing': u'Bot: Kategori %(oldcat)s uustuscht dur %(newcat)s',
-		'category-was-disbanded': u'Bot: Kategori isch ufglest wore',
-		'category-was-moved': u'Bot: Kategori isch no [[:Kategorie:%(newcat)s|%(title)s]] verschobe wore',
-	},
-	# Author: Xqt
 	'am': {
 		'category-adding': u'ሎሌ: መጨመር [[Category:%(newcat)s|%(newcat)s]]',
 	},
@@ -492,7 +481,7 @@ msg = {
 	# Author: Als-Holder
 	# Author: Xqt
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'category-adding': u'Bot: Kategori [[:Category:%(newcat)s|%(newcat)s]] ergänzt',
 		'category-also-in': u'(au in %(alsocat)s)',
 		'category-changing': u'Bötli: Due %(oldcat)s zue %(newcat)s ändere',
@@ -634,8 +623,10 @@ msg = {
 		'category-listifying': u'Vélmenni: Bæti {{PLURAL:%(num)d|1 færslu|%(num)d færslum}} frá %(fromcat)s við listann.',
 		'category-removing': u'Vélmenni: Fjarlægi [[%(oldcat)s]]',
 		'category-replacing': u'Vélmenni: Skipti flokknum %(oldcat)s út fyrir %(newcat)s',
+		'category-section-title': u'Breytingarskrá fyrri %(oldcat)s',
+		'category-version-history': u'Vélmenni: Vista breytingaskrá fyrri %(oldcat)s',
 		'category-was-disbanded': u'Vélmenni: Flokkurinn var tæmdur.',
-		'category-was-moved': u'Vélmenni: Færði flokk á [[:Flokkur:%(newcat)s|%(title)s]]',
+		'category-was-moved': u'Vélmenni: Færði flokk á [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: EdoDodo
 	# Author: Beta16
@@ -649,6 +640,8 @@ msg = {
 		'category-listifying': u'Bot: Lista del contento dalla %(fromcat)s (%(num)d pagine)',
 		'category-removing': u'Bot: Rimozione da %(oldcat)s',
 		'category-replacing': u'Bot: Sostituzione di %(oldcat)s con %(newcat)s',
+		'category-section-title': u'Cronologia della precedente %(oldcat)s',
+		'category-version-history': u'Bot: salvo la cronologia della precedente %(oldcat)s',
 		'category-was-disbanded': u'Bot: La categoria è stata eliminata',
 		'category-was-moved': u'Bot: La categoria è stata sostituita da [[:Categoria:%(newcat)s|%(title)s]]',
 	},
@@ -1061,6 +1054,8 @@ msg = {
 		'category-listifying': u'Trigomiro: listé da %(fromcat)s ({{PLURAL:%(num)d|1 vos|%(num)d vos}})',
 		'category-removing': u'Trigomiro: Gavé da %(oldcat)s',
 		'category-replacing': u'Trigomiro: Rampiass ëd la categorìa %(oldcat)s con %(newcat)s',
+		'category-section-title': u'Stòria da pagina dla vzin %(oldcat)s',
+		'category-version-history': u'Robot: Salvé la stòria dle vërsion dla vzin %(oldcat)s',
 		'category-was-disbanded': u'Trigomiro: La categorìa a l\'é stàita gavà',
 		'category-was-moved': u'Trigomiro: Le categorìe a son stàite tramudà a [[:Category:%(newcat)s|%(title)s]]',
 	},

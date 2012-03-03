@@ -90,7 +90,7 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Bot: Creo unha redirección cara a "[[%(to)s]]"',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'capitalize_redirects-create-redirect': u'Bötli: e Wyterleitig uff [[%(to)s]] aaglait',
 	},
 	'he': {

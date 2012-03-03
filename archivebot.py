@@ -179,7 +179,7 @@ msg = {
 	},
 	# Author: Als-Chlämens
 	# Author: Xqt
-	'gsw': {
+	'als': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
 		'archivebot-archive-summary': u'Due %(count)d Abschnitt(e) vo [[%(from)s]] archiviere.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
@@ -229,10 +229,10 @@ msg = {
 	# Author: Snævar
 	'is': {
 		'archivebot-archive-full': u'(Skjalasafn fullt)',
-		'archivebot-archive-summary': u'Færi %(count)d þræði í skjalasafn frá [[%(from)s]].',
+		'archivebot-archive-summary': u'Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafn frá [[%(from)s]].',
 		'archivebot-archiveheader': u'{{Spjallskjalasafn}}',
 		'archivebot-older-than': u'eldri en',
-		'archivebot-page-summary': u'Færi %(count)d þræði í skjalasafnið %(archives)s. (%(why)s)',
+		'archivebot-page-summary': u'Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafnið %(archives)s. (%(why)s)',
 	},
 	# Author: Aushulz
 	# Author: Gianfranco
@@ -373,10 +373,10 @@ msg = {
 	# Author: Dragonòt
 	'pms': {
 		'archivebot-archive-full': u'(ARCHIVI PIEN)',
-		'archivebot-archive-summary': u'Archivié %(count)d discussion da [[%(from)s]].',
+		'archivebot-archive-summary': u'Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] da [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'pi vej che',
-		'archivebot-page-summary': u'Archivié %(count)d discussion (%(why)s) an %(archives)s.',
+		'archivebot-page-summary': u'Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] (%(why)s) an %(archives)s.',
 	},
 	'pt': {
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
@@ -487,12 +487,13 @@ msg = {
 	},
 	# Author: A1
 	# Author: Dim Grits
+	# Author: Тест
 	'uk': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Архівування %(count)d тем з [[%(from)s]].',
+		'archivebot-archive-summary': u'Архівування %(count)d {{PLURAL:%(count)d|теми|тем}} з [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'старше',
-		'archivebot-page-summary': u'Архівація %(count)d тем (%(why)s) в %(archives)s.',
+		'archivebot-page-summary': u'Архівація %(count)d {{PLURAL:%(count)d|теми|тем}} (%(why)s) в %(archives)s.',
 	},
 	# Author: Minh Nguyen
 	'vi': {

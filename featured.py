@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: Xqt
-	'als': {
-		'featured-featured': u'Bötli: %(page)s isch e bsundersch glungener Artikel',
-		'featured-former': u'Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi',
-		'featured-good': u'Bötli: %(page)s isch e läsige Artikel',
-		'featured-list': u'Bötli: %(page)s isch e bsunders glungeni Lischt',
-	},
 	'ar': {
 		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
 		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
@@ -161,7 +154,7 @@ msg = {
 		'featured-list': u'Bot: "%(page)s" é unha lista destacada',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'featured-featured': u'Bötli: %(page)s isch e bsundersch glungener Artikel',
 		'featured-former': u'Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi',
 		'featured-good': u'Bötli: %(page)s isch e läsige Artikel',

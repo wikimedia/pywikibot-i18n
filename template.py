@@ -107,7 +107,7 @@ msg = {
 		'template-substituting': u'Bot: Substitúo {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'template-changing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s',
 		'template-removing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ussenee: %(list)s',
 		'template-substituting': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} usstuusche: %(list)s',

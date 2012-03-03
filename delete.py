@@ -163,7 +163,7 @@ msg = {
 		'delete-referring-pages': u'Bot: Borro todas as páxinas que van dar a "%(page)s"',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'delete-from-category': u'Bötli: Due alli Syte in de Kategori %(page)s lösche',
 		'delete-from-file': u'Bötli: due e Lischt vo Dateie lösche',
 		'delete-images': u'Bötli: due alli Bilder uff de Syte %(page)s lösche',

@@ -88,7 +88,7 @@ msg = {
 		'noreferences-add-tag': u'Bot: Engado a etiqueta <references />, que faltaba',
 	},
 	# Author: Als-Chlämens
-	'gsw': {
+	'als': {
 		'noreferences-add-tag': u'Bötli: Due e <references /> Markierig, wo no gfäält het, yyfiege',
 	},
 	'he': {
