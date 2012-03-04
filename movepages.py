@@ -8,7 +8,7 @@ msg = {
 		'movepages-moving': u'Robot: Páxina treslladada',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'movepages-moving': u'робат перанёс старонку',
 	},
 	# Author: Fulup

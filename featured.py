@@ -26,14 +26,11 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'featured-featured': u'Робат: %(page)s зьяўляецца абраным артыкулам',
 		'featured-former': u'Робат: %(page)s зьяўляўся абраным артыкулам у мінулым',
 		'featured-good': u'Робат: %(page)s зьяўляецца добрым артыкулам',
 		'featured-list': u'Робат: %(page)s зьяўляецца абраных сьпісам',
-	},
-	'be-x-old': {
-		'featured-featured': u'Робат: %(page)s — абраны артыкул',
 	},
 	# Author: Fulup
 	# Author: Y-M D

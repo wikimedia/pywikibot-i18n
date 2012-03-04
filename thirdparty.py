@@ -45,7 +45,7 @@ msg = {
 	# Author: Jim-by
 	# Author: DrTrigon
 	# Author: Renessaince
-	'be-tarask': {
+	'be-x-old': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'замена %(tags)s цэтлікаў',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Абмеркаваньне зьмененае',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Абмеркаваньне закрытае',

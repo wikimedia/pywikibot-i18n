@@ -15,7 +15,7 @@ msg = {
 		'noreferences-add-tag': u'Robot: дабаўлены адсутнічаючы тэг <references />',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'noreferences-add-tag': u'Робат: дадаў адсутнічаючы тэг <references />',
 	},
 	# Author: DCLXVI

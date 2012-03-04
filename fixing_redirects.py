@@ -8,7 +8,7 @@ msg = {
 		'fixing_redirects-fixing': u'Bot: Iguando redireiciones',
 	},
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'fixing_redirects-fixing': u'Робат: Выпраўленьне перанакіраваньняў',
 	},
 	# Author: Fulup

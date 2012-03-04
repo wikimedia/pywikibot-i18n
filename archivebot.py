@@ -22,7 +22,7 @@ msg = {
 		'archivebot-older-than': u'böyükdür',
 	},
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'archivebot-archive-full': u'(ПОЎНЫ АРХІЎ)',
 		'archivebot-archive-summary': u'Архівацыя %(count)d галіны(аў) з [[%(from)s]].',
 		'archivebot-archiveheader': u'{{архіў абмеркаваньня}}',

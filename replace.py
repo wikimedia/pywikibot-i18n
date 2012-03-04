@@ -21,7 +21,7 @@ msg = {
 		'replace-replacing': u'Bot: Autómaatisirde Textersétzung %(description)s',
 	},
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'replace-replacing': u'Робат: аўтаматызаваная замена тэксту %(description)s',
 	},
 	# Author: Fulup

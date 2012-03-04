@@ -141,15 +141,6 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Wizardist
-	'be-tarask': {
-		'interwiki-adding': u'робат дадаў: %(adding)s',
-		'interwiki-adding-modifying': u'робат дадаў: %(adding)s зьмяніў: %(modifying)s',
-		'interwiki-adding-removing': u'робат дадаў: %(adding)s выдаліў: %(removing)s',
-		'interwiki-adding-removing-modifying': u'робат дадаў: %(adding)s выдаліў: %(removing)s зьмяніў: %(modifying)s',
-		'interwiki-modifying': u'робат зьмяніў: %(modifying)s',
-		'interwiki-removing': u'робат выдаліў: %(removing)s',
-		'interwiki-removing-modifying': u'робат выдаліў: %(removing)s зьмяніў: %(modifying)s',
-	},
 	'be-x-old': {
 		'interwiki-adding': u'робат дадаў: %(adding)s',
 		'interwiki-adding-modifying': u'робат дадаў: %(adding)s зьмяніў: %(modifying)s',

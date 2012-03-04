@@ -16,7 +16,7 @@ msg = {
 		'editarticle-edit': u'Manuelle Beorweitung: %(description)s',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'editarticle-edit': u'Ручное рэдагаваньне з робатам: %(description)s',
 	},
 	# Author: Fulup

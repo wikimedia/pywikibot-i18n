@@ -12,7 +12,7 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Bot: [[%(to)s]] səhifəsinə istiqamətləndirildi',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'capitalize_redirects-create-redirect': u'Робат: стварыў перанакіраваньне на [[%(to)s]]',
 	},
 	# Author: DCLXVI

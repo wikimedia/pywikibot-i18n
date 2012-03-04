@@ -26,7 +26,7 @@ msg = {
 		'isbn-formatting': u'робат аформіў ISBN',
 	},
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'isbn-formatting': u'Робат: фарматаваньне ISBN',
 	},
 	# Author: DCLXVI

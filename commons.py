@@ -21,7 +21,7 @@ msg = {
 		'commons-file-now-available': u'Daatei ist iatz auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] vafiagbor.',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Файл]] перанесены ў [[:commons:File:%(commonsfile)s|ВікіCховішча]].',
 		'commons-file-now-available': u'Цяпер файл даступны ў [[:commons:File:%(commonsfile)s|ВікіCховішчы]].',
 	},

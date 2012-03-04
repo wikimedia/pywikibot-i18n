@@ -30,7 +30,7 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'welcome-bad_username': u'Робат: дадаў імя карыстальніка, якое неабходна праверыць',
 		'welcome-updating': u'Робат: журнал абнаўленьняў',
 		'welcome-welcome': u'Вітаем!',

@@ -22,7 +22,7 @@ msg = {
 		'basic-changing': u'Bot: Åpassen ...',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'basic-changing': u'Робат: зьмяніў…',
 	},
 	# Author: DCLXVI

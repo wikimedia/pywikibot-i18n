@@ -16,7 +16,7 @@ msg = {
 		'clean_sandbox-cleaned': u'Bot: Sétz d\' Spüwiesen zruck.',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'clean_sandbox-cleaned': u'Робат: аўтаматычная ачыстка',
 	},
 	# Author: Fulup

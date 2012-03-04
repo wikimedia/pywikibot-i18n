@@ -45,15 +45,11 @@ msg = {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'redirect-broken-redirect-template': u'{{Выдаліць|некарэктнае перанакіраваньне}}',
 		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня на %(to)s',
 		'redirect-remove-broken': u'[[Wikipedia:Redirect|Перанакіраваньне]] на выдаленую ці неіснуючую старонку',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Мэтавае [[Project:Перанакіраваньне|перанакіраваньне]] стварае пятлю перанакіраваньняў',
-	},
-	'be-x-old': {
-		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня → %(to)s',
-		'redirect-remove-broken': u'Робат: мэта перанакіраваньня не існуе',
 	},
 	# Author: DCLXVI
 	'bg': {

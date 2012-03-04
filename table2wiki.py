@@ -17,7 +17,7 @@ msg = {
 		'table2wiki-warnings': u'İstifadəçi Kontrollü Bot: Cədvəl imlası yeniləndi - {{PLURAL:count|1|%(count)d}} xəbərdarlıq}}!',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'table2wiki-no-warning': u'Кіраваны ўдзельнікам робат: сынтаксіс табліцы абноўлены',
 		'table2wiki-warnings': u'Кіраваны ўдзельнікам робат: сынтаксіс табліцы абноўлены: {{PLURAL:count|1 папярэджаньне|%(count)d папярэджаньне/і/яў}}!',
 	},

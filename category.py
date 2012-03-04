@@ -117,7 +117,7 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
-	'be-tarask': {
+	'be-x-old': {
 		'category-adding': u'Робат: дададзеная катэгорыя [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(таксама ў %(alsocat)s)',
 		'category-changing': u'Робат: зьмяніў %(oldcat)s на %(newcat)s',
@@ -128,14 +128,6 @@ msg = {
 		'category-version-history': u'Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s',
 		'category-was-disbanded': u'Робат: катэгорыя была расфарміраваная',
 		'category-was-moved': u'Робат: катэгорыя перанесеная ў [[:Category:%(newcat)s|%(title)s]]',
-	},
-	'be-x-old': {
-		'category-adding': u'Робат: дадаваньне category [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(таксама ў %(alsocat)s)',
-		'category-changing': u'Робат: зьмена %(oldcat)s',
-		'category-removing': u'Робат: выключэньне з [[%(oldcat)s]]',
-		'category-was-disbanded': u'Робат: катэгорыя расфармаваная',
-		'category-was-moved': u'Робат: катэгорыя перайменаваная ў [[:Катэгорыя:%(newcat)s|%(title)s]]',
 	},
 	# Author: DCLXVI
 	'bg': {

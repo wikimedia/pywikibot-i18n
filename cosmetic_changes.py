@@ -31,10 +31,6 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
-	'be-tarask': {
-		'cosmetic_changes-append': u'; касмэтычныя зьмены',
-		'cosmetic_changes-standalone': u'Робат: касмэтычныя зьмены',
-	},
 	'be-x-old': {
 		'cosmetic_changes-append': u'; касмэтычныя зьмены',
 		'cosmetic_changes-standalone': u'Робат: касмэтычныя зьмены',

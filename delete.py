@@ -25,7 +25,7 @@ msg = {
 		'delete-referring-pages': u'Bot: %(page)s səhifəsinə keçid verən bütün səhifələr silinir',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'delete-from-category': u'Робат: выдаліў усе старонкі з катэгорыі %(page)s',
 		'delete-from-file': u'Робат: выдаліў сьпіс файлаў.',
 		'delete-images': u'Робат: выдаліў усе выявы на старонцы %(page)s',

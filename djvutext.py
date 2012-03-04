@@ -8,7 +8,7 @@ msg = {
 		'djvutext-creating': u'Robot: Creando una páxina con testu sacáu de DjVu',
 	},
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'djvutext-creating': u'Робат: Стварэньне старонкі з тэкстам, узятым з DjVu',
 	},
 	# Author: Fulup

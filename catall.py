@@ -8,7 +8,7 @@ msg = {
 		'catall-changing': u'Robot: Camudando categoríes',
 	},
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'catall-changing': u'Робат: Зьмена катэгорыяў',
 	},
 	# Author: DCLXVI

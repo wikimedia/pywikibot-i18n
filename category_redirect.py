@@ -46,15 +46,12 @@ msg = {
 		'category_redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'category_redirect-add-template': u'Робат: дадаў шаблён перанакіраваньня катэгорыі',
 		'category_redirect-change-category': u'Робат: зьмяніў перанакіраваную катэгорыю [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Робат падтрымкі перанакіраваньняў катэгорыяў',
 		'category_redirect-edit-request': u'Наступныя абароненыя старонкі патрабуюць абнаўленьня спасылак на катэгорыю: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s знаходзіцца ў %(oldcat)s, якая перанакіраваная на %(newcat)s',
-		'category_redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня',
-	},
-	'be-x-old': {
 		'category_redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня',
 	},
 	# Author: DCLXVI

@@ -52,7 +52,7 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
-	'be-tarask': {
+	'be-x-old': {
 		'solve_disambiguation-adding-dn-template': u'Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — пазначаная як патрабуючая увагі экспэртаў',
 		'solve_disambiguation-links-removed': u'Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — выдаленая спасылка(і).',
 		'solve_disambiguation-links-resolved': u'Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — зьмененая спасылка(і) на %(to)s',

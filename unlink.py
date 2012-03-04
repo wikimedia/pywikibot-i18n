@@ -8,7 +8,7 @@ msg = {
 		'unlink-unlinking': u'Robot: Desenllazando "%s"',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
+	'be-x-old': {
 		'unlink-unlinking': u'Робат: Выдаленьне спасылак на «%s»',
 	},
 	# Author: Fulup

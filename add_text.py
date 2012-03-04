@@ -45,9 +45,6 @@ msg = {
 	'be': {
 		'add_text-adding': u'робат дадаў %(adding)s',
 	},
-	'be-tarask': {
-		'add_text-adding': u'робат дадаў %(adding)s',
-	},
 	'be-x-old': {
 		'add_text-adding': u'робат дадаў %(adding)s',
 	},
