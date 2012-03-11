@@ -46,8 +46,9 @@ msg = {
 	'et': {
 		'djvutext-creating': u'Robot: lehekülg loodud teksti eraldamisega DjVu-failist',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'djvutext-creating': u'ربات: ایجاد صفحه با متنی که از دژاوو استخراج شد',
+		'djvutext-creating': u'ربات: ایجاد صفحه با متن استخراج‌شده از دژاوو',
 	},
 	# Author: EileenSanda
 	'fo': {
@@ -124,8 +125,9 @@ msg = {
 	'pms': {
 		'djvutext-creating': u'Trigomiro: Creassion ëd na pàgina con dël test pijà da DjVu',
 	},
+	# Author: Xqt
 	'pt': {
-		'djvutext-creating': u'Bot: criando página com texto extraído do DjVu',
+		'djvutext-creating': u'Robô: criando página com texto extraído do DjVu',
 	},
 	# Author: Pedroca cerebral
 	'pt-br': {

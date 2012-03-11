@@ -72,8 +72,9 @@ msg = {
 	'eu': {
 		'replace-replacing': u'Robota: Testu aldaketa automatikoa %(description)s',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'replace-replacing': u'ربات: تغییر خودکار متن %(description)s',
+		'replace-replacing': u'ربات: جایگزینی خودکار متن %(description)s',
 	},
 	'fi': {
 		'replace-replacing': u'Botti korvasi automaattisesti tekstin %(description)s',
@@ -100,9 +101,9 @@ msg = {
 	'gl': {
 		'replace-replacing': u'Bot: Substitución automática de texto %(description)s',
 	},
-	# Author: Als-Holder
+	# Author: Xqt
 	'als': {
-		'replace-replacing': u'Bot: het dr Text automatisch uustuscht: %(description)s',
+		'replace-replacing': u'Bötli: het dr Text automatisch uustuscht: %(description)s',
 	},
 	'he': {
 		'replace-replacing': u'בוט: החלפת טקסט אוטומטית %(description)s',

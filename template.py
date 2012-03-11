@@ -72,10 +72,11 @@ msg = {
 		'template-removing': u'Robot: Retirando {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
 		'template-substituting': u'Robot: Sustituyendo la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'template-changing': u'ربات:تغییر {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
+		'template-changing': u'ربات: تغییر {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
 		'template-removing': u'ربات:حذف {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
-		'template-substituting': u'ربات: جایگزینی {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
+		'template-substituting': u'ربات: جانشانی {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
 	},
 	# Author: Crt
 	'fi': {
@@ -274,6 +275,11 @@ msg = {
 		'template-changing': u'Bot: Ändrade {{PLURAL:%(num)d|mall|mallar}}: %(list)s',
 		'template-removing': u'Bot: Tog bort {{PLURAL:%(num)d|mall|mallar}}: %(list)s',
 		'template-substituting': u'Bot: Ersatte {{PLURAL:%(num)d|mall|mallar}}: %(list)s',
+	},
+	# Author: Aswn
+	'ta': {
+		'template-changing': u'தானியங்கி:{{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} மாற்றப்பட்டது: %(list)s',
+		'template-removing': u'தானியங்கி: {{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} நீக்கப்பட்டது: %(list)s',
 	},
 	# Author: Гусейн
 	'tly': {

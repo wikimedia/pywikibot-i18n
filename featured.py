@@ -104,10 +104,11 @@ msg = {
 		'featured-good': u'Bot: Enlace a artículo bueno para: %(page)s',
 		'featured-list': u'Bot: Enlace a lista destacada para: %(page)s',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'featured-featured': u'ربات: %(page)s یک مقاله برگزیده است',
-		'featured-former': u'ربات:نوشتار %(page)s یک نوشتار برگزیده پیشین است.',
-		'featured-good': u'ربات: %(page)s یک مقاله خوب است',
+		'featured-featured': u'ربات: %(page)s یک مقالهٔ برگزیده است',
+		'featured-former': u'ربات: %(page)s مقالهٔ برگزیدهٔ پیشین است',
+		'featured-good': u'ربات: %(page)s یک مقالهٔ خوب است',
 		'featured-list': u'ربات: %(page)s یک فهرست برگزیده است',
 	},
 	'fi': {
@@ -378,6 +379,10 @@ msg = {
 		'featured-former': u'Bot: %(page)s är en före detta utmärkt artikel',
 		'featured-good': u'Bot: %(page)s är en läsvärd artikel',
 		'featured-list': u'Bot: %(page)s är en utmärkt list',
+	},
+	# Author: Aswn
+	'ta': {
+		'featured-good': u'தானியங்கி: %(page)s ஒரு நல்ல கட்டுரையாகும்',
 	},
 	'th': {
 		'featured-featured': u'บอต: ลิงก์บทความคัดสรร %(page)s',

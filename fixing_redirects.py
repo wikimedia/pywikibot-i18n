@@ -123,8 +123,9 @@ msg = {
 	'pms': {
 		'fixing_redirects-fixing': u'Trigomiro: Coression dle ridiression',
 	},
+	# Author: Xqt
 	'pt': {
-		'fixing_redirects-fixing': u'Bot: Arrumando redirects',
+		'fixing_redirects-fixing': u'Robô: Arrumando redirects',
 	},
 	# Author: Pedroca cerebral
 	'pt-br': {
@@ -152,6 +153,10 @@ msg = {
 	},
 	'sv': {
 		'fixing_redirects-fixing': u'Bot: Rättar omdirigeringar',
+	},
+	# Author: Aswn
+	'ta': {
+		'fixing_redirects-fixing': u'தானியங்கி: வழிமாற்றிகள் சரிபார்க்கப்படுகின்றன',
 	},
 	# Author: Incelemeelemani
 	'tr': {

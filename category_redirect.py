@@ -186,12 +186,12 @@ msg = {
 	# Author: Ebraminio
 	# Author: ZxxZxxZ
 	'fa': {
-		'category_redirect-add-template': u'ربات:افزودن الگوی رده بهتر',
-		'category_redirect-change-category': u'ربات:تغییر ردهٔ تغییر مسیر داده شده از [[:%(oldCatLink)s|%(oldCatTitle)s]] به [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'ربات:مرتب‌سازی رده‌های منتقل‌شده',
+		'category_redirect-add-template': u'ربات: افزودن الگوی {{رده بهتر}}',
+		'category_redirect-change-category': u'ربات: تغییر ردهٔ تغییرمسیرداده‌شدهٔ [[:%(oldCatLink)s|%(oldCatTitle)s]] به [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'ربات نگهداری ردهٔ منتقل‌شده',
 		'category_redirect-edit-request': u'این صفحه‌های محافظت‌شده به عنوان صفحه‌های نیازمند به‌روزرسانی رده‌ها تشخیص داده شده‌اند: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s در %(oldcat)s قرار دارد،که به %(newcat)s انتقال یافته‌است.',
-		'category_redirect-fix-double': u'ربات:تصحیح تغییرمسیرهای دوتایی',
+		'category_redirect-edit-request-item': u'* %(title)s در %(oldcat)s قرار دارد، که به %(newcat)s تغییرمسیر دارد',
+		'category_redirect-fix-double': u'ربات: تصحیح تغییرمسیر دوتایی',
 	},
 	# Author: Crt
 	# Author: Olli

@@ -228,6 +228,10 @@ msg = {
 	'sv': {
 		'clean_sandbox-cleaned': u'Robot krattar sandlådan.',
 	},
+	# Author: Aswn
+	'ta': {
+		'clean_sandbox-cleaned': u'தானியங்கி: தானாகவே சுத்தப்படுத்தப்பட்டது',
+	},
 	'th': {
 		'clean_sandbox-cleaned': u'โรบอต: กำลังจะเก็บกวาดหน้านี้โดยอัตโนมัติ',
 	},

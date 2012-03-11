@@ -57,8 +57,9 @@ msg = {
 	'es': {
 		'editarticle-edit': u'Edición manual con bot: %(description)s',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'editarticle-edit': u'ویرایش دستی: %(description)s',
+		'editarticle-edit': u'ویرایش دستی با ربات: %(description)s',
 	},
 	# Author: Crt
 	'fi': {

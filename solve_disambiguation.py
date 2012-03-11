@@ -191,13 +191,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(ezezaguna)',
 	},
 	# Author: Huji
+	# Author: ZxxZxxZ
 	'fa': {
-		'solve_disambiguation-adding-dn-template': u'ربات نیمه خودکار: علامت زدن %(from)s به عنوان نیازمند بررسی بیشتر',
-		'solve_disambiguation-links-removed': u'ابهام زدایی به کمک ربات: حذف %(from)s',
-		'solve_disambiguation-links-resolved': u'ابهام زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]',
-		'solve_disambiguation-redirect-adding-dn-template': u'ربات نیمه خودکار: علامت زدن %(from)s به عنوان نیازمند بررسی بیشتر',
-		'solve_disambiguation-redirect-removed': u'ابهام زدایی به کمک ربات: حذف %(from)s',
-		'solve_disambiguation-redirect-resolved': u'ابهام زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]',
+		'solve_disambiguation-adding-dn-template': u'ابهام‌زدایی به کمک ربات: %(from)s - علامت‌زدن به عنوان نیازمند توجه متخصص',
+		'solve_disambiguation-links-removed': u'ابهام‌زدایی به کمک ربات: %(from)s - حذف پیوند(ها).',
+		'solve_disambiguation-links-resolved': u'ابهام‌زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]',
+		'solve_disambiguation-redirect-adding-dn-template': u'ابهام‌زدایی به کمک ربات: %(from)s - علامت‌گذاری به عنوان نیازمند توجه متخصص',
+		'solve_disambiguation-redirect-removed': u'ابهام‌زدایی به کمک ربات: %(from)s - حذف پیوند(ها)',
+		'solve_disambiguation-redirect-resolved': u'ابهام‌زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]',
 		'solve_disambiguation-unknown-page': u'(نامعلوم)',
 	},
 	# Author: Olli

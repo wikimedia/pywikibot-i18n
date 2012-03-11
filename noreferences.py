@@ -61,8 +61,9 @@ msg = {
 	'et': {
 		'noreferences-add-tag': u'Robot: lisatud puuduv <references />-märgend',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'noreferences-add-tag': u'ربات: برچسب <references /> فراموش شده‌است',
+		'noreferences-add-tag': u'ربات: افزودن برچسب <references /> که فراموش شده بود',
 	},
 	'fi': {
 		'noreferences-add-tag': u'Botti lisäsi puuttuvan {{viitteet}}-mallineen',
@@ -220,6 +221,10 @@ msg = {
 	},
 	'szl': {
 		'noreferences-add-tag': u'Bot dodowo szablon {{Przipisy}}',
+	},
+	# Author: Aswn
+	'ta': {
+		'noreferences-add-tag': u'தானியங்கி: <references /> குறியீடினை இணைத்தல்',
 	},
 	# Author: Гусейн
 	'tly': {

@@ -139,7 +139,6 @@ msg = {
 		'interwiki-removing-modifying': u'робат выдаліў: %(removing)s змяніў: %(modifying)s',
 	},
 	# Author: EugeneZelenko
-	# Author: Jim-by
 	# Author: Wizardist
 	'be-x-old': {
 		'interwiki-adding': u'робат дадаў: %(adding)s',
@@ -415,14 +414,15 @@ msg = {
 		'interwiki-removing': u'Robó Hondeau: %(removing)s',
 		'interwiki-removing-modifying': u'Robó Hondeau: %(removing)s Moificau: %(modifying)s',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'interwiki-adding': u'ربات افزودن: %(adding)s',
-		'interwiki-adding-modifying': u'ربات افزودن: %(adding)s اصلاح: %(modifying)s',
-		'interwiki-adding-removing': u'ربات افزودن: %(adding)s حذف: %(removing)s',
-		'interwiki-adding-removing-modifying': u'ربات افزودن: %(adding)s حذف: %(removing)s اصلاح: %(modifying)s',
-		'interwiki-modifying': u'ربات اصلاح: %(modifying)s',
-		'interwiki-removing': u'ربات حذف: %(removing)s',
-		'interwiki-removing-modifying': u'ربات حذف: %(removing)s اصلاح: %(modifying)s',
+		'interwiki-adding': u'ربات: افزودن %(adding)s',
+		'interwiki-adding-modifying': u'ربات: افزودن %(adding)s؛ اصلاح %(modifying)s',
+		'interwiki-adding-removing': u'ربات: افزودن %(adding)s؛ حذف: %(removing)s',
+		'interwiki-adding-removing-modifying': u'ربات: افزودن %(adding)s؛ حذف %(removing)s؛ اصلاح %(modifying)s',
+		'interwiki-modifying': u'ربات: اصلاح %(modifying)s',
+		'interwiki-removing': u'ربات: حذف %(removing)s',
+		'interwiki-removing-modifying': u'ربات: حذف %(removing)s؛ اصلاح %(modifying)s',
 	},
 	'fi': {
 		'interwiki-adding': u'Botti lisäsi: %(adding)s',
@@ -1489,14 +1489,15 @@ msg = {
 		'interwiki-removing': u'Bot wyćepuje: %(removing)s',
 		'interwiki-removing-modifying': u'Bot wyćepuje: %(removing)s zmjyńo: %(modifying)s',
 	},
+	# Author: Aswn
 	'ta': {
-		'interwiki-adding': u'தானியங்கிஇணைப்பு: %(adding)s',
-		'interwiki-adding-modifying': u'தானியங்கிஇணைப்பு: %(adding)s மாற்றல்: %(modifying)s',
-		'interwiki-adding-removing': u'தானியங்கிஇணைப்பு: %(adding)s அழிப்பு: %(removing)s',
-		'interwiki-adding-removing-modifying': u'தானியங்கிஇணைப்பு: %(adding)s அழிப்பு: %(removing)s மாற்றல்: %(modifying)s',
-		'interwiki-modifying': u'தானியங்கிமாற்றல்: %(modifying)s',
-		'interwiki-removing': u'தானியங்கிஅழிப்பு: %(removing)s',
-		'interwiki-removing-modifying': u'தானியங்கிஅழிப்பு: %(removing)s மாற்றல்: %(modifying)s',
+		'interwiki-adding': u'தானியங்கி இணைப்பு: %(adding)s',
+		'interwiki-adding-modifying': u'தானியங்கி இணைப்பு: %(adding)s மாற்றல்: %(modifying)s',
+		'interwiki-adding-removing': u'தானியங்கி இணைப்பு: %(adding)s அழிப்பு: %(removing)s',
+		'interwiki-adding-removing-modifying': u'தானியங்கி இணைப்பு: %(adding)s அழிப்பு: %(removing)s மாற்றல்: %(modifying)s',
+		'interwiki-modifying': u'தானியங்கி மாற்றல்: %(modifying)s',
+		'interwiki-removing': u'தானியங்கி அழிப்பு: %(removing)s',
+		'interwiki-removing-modifying': u'தானியங்கி அழிப்பு: %(removing)s மாற்றல்: %(modifying)s',
 	},
 	'te': {
 		'interwiki-adding': u'యంత్రము  కలుపుతున్నది: %(adding)s',

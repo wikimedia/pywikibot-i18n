@@ -199,7 +199,7 @@ msg = {
 	# Author: Xqt
 	'pt': {
 		'table2wiki-no-warning': u'Bot: Sintaxe da tabela HTML para Wiki atualizada',
-		'table2wiki-warnings': u'Bot: Sintaxe da tabela HTML para Wiki atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}',
+		'table2wiki-warnings': u'Robô: Sintaxe da tabela HTML para Wiki atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}',
 	},
 	# Author: Giro720
 	'pt-br': {

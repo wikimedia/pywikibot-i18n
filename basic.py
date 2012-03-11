@@ -201,6 +201,10 @@ msg = {
 	'lt': {
 		'basic-changing': u'Robotas: keitimas...',
 	},
+	# Author: RMizo
+	'lus': {
+		'basic-changing': u'Khawlmi: Tidanglam mék...',
+	},
 	# Author: GreenZeb
 	'lv': {
 		'basic-changing': u'Bots: Izmainu',

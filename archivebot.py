@@ -37,10 +37,10 @@ msg = {
 	# Author: Y-M D
 	'br': {
 		'archivebot-archive-full': u'(DIELLOÙ LEUN)',
-		'archivebot-archive-summary': u'O tiellaouiñ %(count)d thread(s) adalek [[%(from)s]].',
+		'archivebot-archive-summary': u'O tiellaouiñ %(count)d {{PLURAL:%(count)d|neudennad|neudennad}} adalek [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'koshoc\'h eget',
-		'archivebot-page-summary': u'O tiellaouiñ %(count)d thread(s) (%(why)s) war-zu %(archives)s.',
+		'archivebot-page-summary': u'O tiellaouiñ %(count)d {{PLURAL:%(count)d|neudennad|neudennad}} (%(why)s) war-zu %(archives)s.',
 	},
 	# Author: Edinwiki
 	'bs': {
@@ -126,10 +126,10 @@ msg = {
 	# Author: ZxxZxxZ
 	'fa': {
 		'archivebot-archive-full': u'(بایگانی پر است)',
-		'archivebot-archive-summary': u'بایگانی %(count)d بحث از [[%(from)s]].',
+		'archivebot-archive-summary': u'بایگانی %(count)d {{PLURAL:%(count)d|بحث|بحث}} از [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-older-than': u'قدیمی تر از',
-		'archivebot-page-summary': u'بایگانی %(count)d بحث (%(why)s) به %(archives)s.',
+		'archivebot-older-than': u'قدیمی‌تر از',
+		'archivebot-page-summary': u'بایگانی %(count)d {{PLURAL:%(count)d|بحث|بحث}} (%(why)s) به %(archives)s.',
 	},
 	# Author: Crt
 	'fi': {
@@ -181,10 +181,10 @@ msg = {
 	# Author: Xqt
 	'als': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Due %(count)d Abschnitt(e) vo [[%(from)s]] archiviere.',
+		'archivebot-archive-summary': u'Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} vo [[%(from)s]] archiviere.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'elter wie',
-		'archivebot-page-summary': u'Due %(count)d {{PLURAL:count|Thead|Threads}} (%(why)s) uff %(archives)s archiviere.',
+		'archivebot-page-summary': u'Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) uff %(archives)s archiviere.',
 	},
 	# Author: Amire80
 	# Author: Ofekalef
@@ -197,7 +197,7 @@ msg = {
 	# Author: Dj
 	'hu': {
 		'archivebot-archive-full': u'(ARCHÍVUM BETELT)',
-		'archivebot-archive-summary': u'%(count)d szakasz archiválása a(z) [[%(from)s]] lapról.',
+		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Egy szakasz|%(count)d szakasz}} archiválása a(z) [[%(from)s]] lapról.',
 		'archivebot-archiveheader': u'{{archív lap}}',
 		'archivebot-older-than': u'régebbi, mint',
 		'archivebot-page-summary': u'{{PLURAL:%(count)d|Egy szakasz|%(count) szakasz archiválása (%(why)s) a(z) %(archives)s lapra.',
@@ -267,10 +267,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'archivebot-archive-full': u'(ARCHIV VOLL)',
-		'archivebot-archive-summary': u'Archivéierung vu(n) %(count)d thread(s) vu(n) [[%(from)s]].',
+		'archivebot-archive-summary': u'Archivéierung vu(n) %(count)d {{PLURAL:%(count)d|Thread|Threads}} vu(n) [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'méi al wéi',
-		'archivebot-page-summary': u'%(count)d thread(s) (%(why)s) ginn an %(archives)s archivéiert.',
+		'archivebot-page-summary': u'%(count)d {{PLURAL:%(count)d|Thread|Threads}} (%(why)s) ginn an %(archives)s archivéiert.',
 	},
 	# Author: Pahles
 	'li': {
@@ -284,6 +284,12 @@ msg = {
 	'lt': {
 		'archivebot-archive-full': u'(ARCHYVAS PILNAS)',
 		'archivebot-older-than': u'senesnis nei',
+	},
+	# Author: RMizo
+	'lus': {
+		'archivebot-archive-full': u'(Hluihlawn khur a khat ta)',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'hlui zâwk',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -344,10 +350,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'archivebot-archive-full': u'(ARCHIEF VOL)',
-		'archivebot-archive-summary': u'Robot: %(count)d  {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd van [[%(from)s]].',
+		'archivebot-archive-summary': u'%(count)d  {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd van [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'ouder dan',
-		'archivebot-page-summary': u'Robot: %(count)d {{PLURAL:%(count)d|thread|threads}} gearchiveerd naar %(archives)s (%(why)s).',
+		'archivebot-page-summary': u'Robot: %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd naar %(archives)s (%(why)s).',
 	},
 	# Author: Harald Khan
 	# Author: Njardarlogar
@@ -378,12 +384,13 @@ msg = {
 		'archivebot-older-than': u'pi vej che',
 		'archivebot-page-summary': u'Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] (%(why)s) an %(archives)s.',
 	},
+	# Author: Waldir
 	'pt': {
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
-		'archivebot-archive-summary': u'Archiving %(count)d thread(s) from [[%(from)s]].',
+		'archivebot-archive-summary': u'A arquivar {{PLURAL:%(count)d|thread|threads}} de [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'older than',
-		'archivebot-page-summary': u'Arquivando %(count)d thread(s) (%(why)s) to %(archives)s.',
+		'archivebot-page-summary': u'A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s.',
 	},
 	# Author: Pedroca cerebral
 	'pt-br': {
@@ -444,18 +451,18 @@ msg = {
 	# Author: Rancher
 	'sr': {
 		'archivebot-archive-full': u'(АРХИВА ЈЕ ПУНА)',
-		'archivebot-archive-summary': u'Архивиране %(count)d теме из [[%(from)s]].',
+		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} из [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'старије од',
-		'archivebot-page-summary': u'Архивиране %(count)d теме (%(why)s) у %(archives)s.',
+		'archivebot-page-summary': u'{{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} (%(why)s) у %(archives)s.',
 	},
 	# Author: Rancher
 	'sr-el': {
 		'archivebot-archive-full': u'(ARHIVA JE PUNA)',
-		'archivebot-archive-summary': u'Arhivirane %(count)d teme iz [[%(from)s]].',
+		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} iz [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'starije od',
-		'archivebot-page-summary': u'Arhivirane %(count)d teme (%(why)s) u %(archives)s.',
+		'archivebot-page-summary': u'{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} (%(why)s) u %(archives)s.',
 	},
 	'sv': {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
@@ -471,10 +478,10 @@ msg = {
 	# Author: Гусейн
 	'tly': {
 		'archivebot-archive-full': u'(АРХИВ ПУР БЫӘ)',
-		'archivebot-archive-summary': u'Архивасијә %(count)d мывзујон де [[%(from)s]].',
+		'archivebot-archive-summary': u'Архивасијә %(count)d {{PLURAL:%(count)d|мывзу|мывзујон}} де [[%(from)s]].',
 		'archivebot-archiveheader': u'{{Мызокирон архив}}',
 		'archivebot-older-than': u'һәнијән синине чымисә',
-		'archivebot-page-summary': u'Архивасијә %(count)d мывзујон (%(why)s) бә %(archives)s.',
+		'archivebot-page-summary': u'Архивасијә %(count)d {{PLURAL:%(count)d|мывзу|мывзујон}} (%(why)s) бә %(archives)s.',
 	},
 	# Author: Khutuck
 	# Author: Emperyan

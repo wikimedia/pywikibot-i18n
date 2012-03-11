@@ -214,6 +214,10 @@ msg = {
 	'sv': {
 		'capitalize_redirects-create-redirect': u'Bot: Omdirigerar till [[%(to)s]]',
 	},
+	# Author: Aswn
+	'ta': {
+		'capitalize_redirects-create-redirect': u'தானியங்கி: [[%(to)s]] இற்கு வழிமாற்றி ஒன்றினை உருவாக்கு',
+	},
 	# Author: Гусейн
 	'tly': {
 		'capitalize_redirects-create-redirect': u'Робот: Офәјә быә унвони дәгиш кардеј бә [[%(to)s]]',

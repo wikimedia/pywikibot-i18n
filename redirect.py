@@ -153,11 +153,12 @@ msg = {
 	},
 	# Author: Mjbmr
 	# Author: Ebraminio
+	# Author: ZxxZxxZ
 	'fa': {
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
-		'redirect-fix-double': u'ربات:اصلاح تغییر مسیر دوتایی ← %(to)s',
-		'redirect-remove-broken': u'ربات: (بن بست) تغییر مسیر به صفحه‌ای که وجود ندارد',
-		'redirect-remove-loop': u'ربات: تغییر مسیر حلقه‌ای',
+		'redirect-fix-double': u'ربات: اصلاح تغییرمسیر دوتایی به %(to)s',
+		'redirect-remove-broken': u'[[وپ:محس#تغ۱|تغ۱]]: [[وپ:تغییرمسیر|تغییرمسیر]] به صفحهٔ ناموجود یا حذف‌شده',
+		'redirect-remove-loop': u'ربات: [[وپ:تغییرمسیر|تغییرمسیر]] حلقه‌ای',
 	},
 	# Author: Nedergard
 	# Author: Nike
@@ -215,7 +216,6 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: O destino da [[Wikipedia:Redirect|redirección]] crea un bucle',
 	},
 	# Author: Xqt
-	# Author: Als-Holder
 	'als': {
 		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch',
 		'redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s',
@@ -496,8 +496,9 @@ msg = {
 	},
 	# Author: Xqt
 	# Author: Lloffiwr
+	# Author: ZxxZxxZ
 	'qqq': {
-		'redirect-broken-redirect-template': u'Template for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki><code> which exist on your local project}}.',
+		'redirect-broken-redirect-template': u'Template for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
 		'redirect-fix-double': u'Edit summary when the bot fixes double redirects. <code>%(to)s</code> displays the new redirect target as a wiki link.',
 		'redirect-remove-broken': u'Edit summary when the bot tags a deleted or non-existent page for speedy deletion. The message was designed for use on en:Wikipedia. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
 		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',

@@ -275,6 +275,10 @@ msg = {
 	'lb': {
 		'add_text-adding': u'Bot Derbäi setzen %(adding)s',
 	},
+	# Author: Namik
+	'lez': {
+		'add_text-adding': u'Робот:авунаj кар %(adding)s',
+	},
 	'li': {
 		'add_text-adding': u'Robot: debie %(adding)s',
 	},
@@ -289,6 +293,10 @@ msg = {
 	},
 	'lt': {
 		'add_text-adding': u'robotas Pridedama %(adding)s',
+	},
+	# Author: RMizo
+	'lus': {
+		'add_text-adding': u'Khawlmi: %(adding)s telh mek a ni',
 	},
 	'lv': {
 		'add_text-adding': u'robots pievieno %(adding)s',

@@ -85,9 +85,10 @@ msg = {
 		'commons-file-now-available': u'El archivo ya está disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Mjbmr
+	# Author: ZxxZxxZ
 	'fa': {
-		'commons-file-moved': u'[[:پرونده:%(localfile)s|پرونده]] به [[:commons:File:%(commonsfile)s|commons]] منتقل شد.',
-		'commons-file-now-available': u'پرونده اکنون در [[:commons:File:%(commonsfile)s|ویکی‌انبار]] در دسترس است.',
+		'commons-file-moved': u'[[:پرونده:%(localfile)s|پرونده]] به [[:commons:File:%(commonsfile)s|انبار]] منتقل شد.',
+		'commons-file-now-available': u'پرونده همکنون در [[:commons:File:%(commonsfile)s|انبار ویکی‌مدیا]] در دسترس است.',
 	},
 	# Author: Crt
 	'fi': {

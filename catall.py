@@ -59,6 +59,10 @@ msg = {
 	'gl': {
 		'catall-changing': u'Bot: Cambio algunhas categorías',
 	},
+	# Author: Xqt
+	'als': {
+		'catall-changing': u'Bötli: Ändere Kategorie',
+	},
 	'he': {
 		'catall-changing': u'בוט: משנה קטגוריות',
 	},
@@ -131,8 +135,9 @@ msg = {
 	'pms': {
 		'catall-changing': u'Trigomiro: Cangé categorìe',
 	},
+	# Author: Xqt
 	'pt': {
-		'catall-changing': u'Bot: Categorizando',
+		'catall-changing': u'Robô: Categorizando',
 	},
 	# Author: Pedroca cerebral
 	'pt-br': {

@@ -23,6 +23,10 @@ msg = {
 	'cs': {
 		'unlink-unlinking': u'Robot: Odlinkovávám "%s"',
 	},
+	# Author: Peter Alberti
+	'da': {
+		'unlink-unlinking': u'Robot: fjerner henvisning til "%s"',
+	},
 	# Author: Purodha
 	'de': {
 		'unlink-unlinking': u'Bot: Entlinke „%s“',
@@ -38,8 +42,9 @@ msg = {
 	'et': {
 		'unlink-unlinking': u'Robot: eemaldatud link "%s"',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'unlink-unlinking': u'ربات: حذف پیوند %s',
+		'unlink-unlinking': u'ربات: از پیوند درآوردن «%s»',
 	},
 	'fi': {
 		'unlink-unlinking': u'Botti poisti linkin sivulle "%s"',
@@ -115,8 +120,9 @@ msg = {
 	'pms': {
 		'unlink-unlinking': u'Trigomiro: Dëscoleghé "%s"',
 	},
+	# Author: Xqt
 	'pt': {
-		'unlink-unlinking': u'Bot: Retirando link para "%s"',
+		'unlink-unlinking': u'Robô: Retirando link para "%s"',
 	},
 	# Author: Pedroca cerebral
 	'pt-br': {
@@ -145,6 +151,10 @@ msg = {
 	# Author: Lokal Profil
 	'sv': {
 		'unlink-unlinking': u'Robot: avlänkar "%s"',
+	},
+	# Author: Aswn
+	'ta': {
+		'unlink-unlinking': u'தானியங்கி: "%s" இணைப்பு நீக்கப்படுகின்றது',
 	},
 	# Author: Гусейн
 	'tly': {

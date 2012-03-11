@@ -91,8 +91,9 @@ msg = {
 	'eu': {
 		'isbn-formatting': u'Robota: ISBNari formatua ematen',
 	},
+	# Author: ZxxZxxZ
 	'fa': {
-		'isbn-formatting': u'ربات:استانداردسازی شابک',
+		'isbn-formatting': u'ربات: استانداردسازی شابک',
 	},
 	# Author: Crt
 	'fi': {

@@ -114,9 +114,10 @@ msg = {
 		'welcome-updating': u'Robot: logi uuendatud',
 	},
 	# Author: Mjbmr
+	# Author: ZxxZxxZ
 	'fa': {
 		'welcome-bad_username': u'ربات: افزودن یک حساب کاربری که نیاز به بررسی دارد',
-		'welcome-updating': u'ربات: به روز رسانی سیاهه',
+		'welcome-updating': u'ربات: به‌روزرسانی سیاهه',
 		'welcome-welcome': u'خوش آمدید!',
 	},
 	# Author: Crt
@@ -381,6 +382,7 @@ msg = {
 	},
 	# Author: Aswn
 	'ta': {
+		'welcome-updating': u'தானியங்கி: பதிவேடு புதுப்பிக்கப்படுகிறது',
 		'welcome-welcome': u'வருக ! வணக்கம் !',
 	},
 	# Author: Гусейн
