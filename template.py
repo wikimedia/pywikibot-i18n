@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'template-changing': u'روبوت: تغيير {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
+		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
+		'template-substituting': u'روبوت: نسخ {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
+	},
 	'ar': {
 		'template-changing': u'روبوت: تغيير {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
 		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
@@ -39,6 +45,12 @@ msg = {
 		'template-changing': u'Robot: Canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
 		'template-removing': u'Robot: Retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
 		'template-substituting': u'Robot: Substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'template-changing': u'ڕۆبۆت: گۆڕینی {{PLURAL:%(num)d|داڕێژە|داڕێژەکان}}: %(list)s',
+		'template-removing': u'ڕۆبۆت: لابردنی {{PLURAL:%(num)d|داڕێژە|داڕێژەکان}}: %(list)s',
+		'template-substituting': u'ڕۆبۆت: لەجێدانانی {{PLURAL:%(num)d|داڕێژە|داڕێژەکان}}: %(list)s',
 	},
 	# Author: Spiffyk
 	'cs': {
@@ -251,6 +263,12 @@ msg = {
 		'template-changing': u'Бот: замена {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
 		'template-removing': u'Бот: удаление {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
 		'template-substituting': u'Бот: подстановка {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
+	},
+	# Author: Teslaton
+	'sk': {
+		'template-changing': u'Robot: Úprava {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s',
+		'template-removing': u'Robot: Odstránenie {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s',
+		'template-substituting': u'Robot: Náhrada {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s',
 	},
 	# Author: Dbc334
 	'sl': {

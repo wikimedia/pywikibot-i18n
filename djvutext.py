@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'djvutext-creating': u'روبوت: إنشاء صفحة بنص مستخرج من DjVu',
+	},
 	'ar': {
 		'djvutext-creating': u'روبوت: إنشاء صفحة بنص مستخرج من DjVu',
 	},
@@ -54,8 +58,13 @@ msg = {
 	'fo': {
 		'djvutext-creating': u'Bottur: Upprættar síðu við teksti sum er tikin frá DjVu',
 	},
+	# Author: Grondin
 	'fr': {
-		'djvutext-creating': u'Bot: Creating page with texte extracted from DjVu',
+		'djvutext-creating': u'Robot : Création de la page avec le texte extrait depuis DjVu',
+	},
+	# Author: Murma174
+	'frr': {
+		'djvutext-creating': u'Bot: Maage en sidj mä en tekst faan DjVu',
 	},
 	# Author: Toliño
 	'gl': {
@@ -92,6 +101,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'djvutext-creating': u'Bot: Opmaache vun enger Säit mam Text deen aus DjVu erausgeholl gouf',
+	},
+	# Author: Ooswesthoesbes
+	'li': {
+		'djvutext-creating': u'Bot: maak pagina aan mit tèks oet DjVu',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -145,6 +158,10 @@ msg = {
 	'ru': {
 		'djvutext-creating': u'Бот: Создание страницы с текстом, извлечённым из DjVu',
 	},
+	# Author: Teslaton
+	'sk': {
+		'djvutext-creating': u'Robot: Vytvorenie stránky s textom extrahovaným z DjVu',
+	},
 	# Author: Dbc334
 	'sl': {
 		'djvutext-creating': u'Robot: Ustvarjanje strani z besedilom, izvlečenim iz DjVu',
@@ -156,6 +173,10 @@ msg = {
 	# Author: Rancher
 	'sr-el': {
 		'djvutext-creating': u'Robot: napravljena stranica s tekstom izvedenim iz DjVu-a',
+	},
+	# Author: WikiPhoenix
+	'sv': {
+		'djvutext-creating': u'Robot: Skapar sida med extraherad text från DjVu',
 	},
 	# Author: Гусейн
 	'tly': {

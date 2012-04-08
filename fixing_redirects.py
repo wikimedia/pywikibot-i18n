@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
+	},
 	'ar': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},
@@ -18,6 +22,10 @@ msg = {
 	# Author: Edinwiki
 	'bs': {
 		'fixing_redirects-fixing': u'Bot: Ispravljanje preusmjeravanja.',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'fixing_redirects-fixing': u'بۆت: چاکسازیی ڕەوانەکردنەوەکان',
 	},
 	'cs': {
 		'fixing_redirects-fixing': u'Robot opravil přesměrování',
@@ -51,6 +59,10 @@ msg = {
 	# Author: Gomoko
 	'fr': {
 		'fixing_redirects-fixing': u'Robot: Correction des redirections',
+	},
+	# Author: Murma174
+	'frr': {
+		'fixing_redirects-fixing': u'Bot: Maage widjerfeerangen hial',
 	},
 	# Author: Toliño
 	'gl': {
@@ -89,6 +101,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'fixing_redirects-fixing': u'Bot: Viruleedunge flécken',
+	},
+	# Author: Ooswesthoesbes
+	'li': {
+		'fixing_redirects-fixing': u'Bot: fix redireks',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -138,6 +154,10 @@ msg = {
 	# Author: Eleferen
 	'ru': {
 		'fixing_redirects-fixing': u'Бот: Исправление перенаправлений',
+	},
+	# Author: Teslaton
+	'sk': {
+		'fixing_redirects-fixing': u'Robot opravil presmerovania',
 	},
 	# Author: Dbc334
 	'sl': {

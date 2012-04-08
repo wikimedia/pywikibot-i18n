@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'editarticle-edit': u'تعديل يدوي: %(description)s',
+	},
 	'ar': {
 		'editarticle-edit': u'تعديل يدوي: %(description)s',
 	},
@@ -30,6 +34,10 @@ msg = {
 	# Author: SMP
 	'ca': {
 		'editarticle-edit': u'Edició manual amb robot: %(description)s',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'editarticle-edit': u'چاکسازیی دەستی بە ڕۆبۆت: %(description)s',
 	},
 	# Author: Spiffyk
 	'cs': {
@@ -129,6 +137,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'editarticle-edit': u'Manuell Ännerungen mam Bot: %(description)s',
+	},
+	# Author: Ooswesthoesbes
+	'li': {
+		'editarticle-edit': u'Handjmaotige botbewirking: %(description)s',
 	},
 	# Author: StefanusRA
 	'map-bms': {

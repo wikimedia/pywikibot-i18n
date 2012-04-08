@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'redirect-broken-redirect-template': u'{{شطب|تحويلة مكسورة}}',
+		'redirect-fix-double': u'بوت: تصليح تحويلة مزدوجة إلى %(to)s',
+		'redirect-remove-broken': u'تحويلة إلى صفحة محذوفة أو غير موجودة',
+		'redirect-remove-loop': u'هدف التحويلة يصنع عقدة تحويل',
+	},
 	# Author: Naudefj
 	'af': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -84,6 +91,10 @@ msg = {
 		'redirect-fix-double': u'Bot: Reparació de les redireccions dobles a %(to)s',
 		'redirect-remove-broken': u'[[VP:CSR#R1]]: [[Viquipèdia:Redirecció|Redirecció]] trencada, a una pàgina esborrada o inexistent',
 		'redirect-remove-loop': u'[[VP:CSR#R1]]: [[Viquipèdia:Redirecció|Redirecció]] trencada, formant un bucle',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجار-ڕەوانەکردنەوە بۆ %(to)s',
 	},
 	# Author: Dontlietome7
 	# Author: Spiffyk
@@ -664,12 +675,13 @@ msg = {
 	'zh-classical': {
 		'redirect-fix-double': u'僕:復修渡口 → %(to)s',
 	},
+	# Author: Yfdyh000
 	# Author: 阿pp
 	'zh': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'机器人：修正双重重定向至%(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的页面',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]目标构成循环',
+		'redirect-remove-broken': u'[[WP:CSD#G15|G15]]：[[Wikipedia:重定向|重定向]]到了已删除或不存在的页面',
+		'redirect-remove-loop': u'[[WP:CSD#R5|R5]]：[[Wikipedia:重定向|重定向]]目标构成循环',
 	},
 	# Author: Andrew971218
 	'zh-hant': {

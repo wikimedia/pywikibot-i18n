@@ -1,5 +1,18 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'category-adding': u'روبوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(أيضا في %(alsocat)s)',
+		'category-changing': u'Robot: baddel %(oldcat)s il %(newcat)s',
+		'category-listifying': u'بوت: عرض من %(fromcat)s (%(num)d مدخلة)',
+		'category-removing': u'بوت: إزالة من %(oldcat)s',
+		'category-replacing': u'روبوت: استبدال التصنيف %(oldcat)s ب %(newcat)s',
+		'category-section-title': u'el historique mte3 el page fi %(oldcat)s 9dim',
+		'category-version-history': u'Robot: sajjel el historique mte3 el versions mte3 el %(oldcat)s el 9dom',
+		'category-was-disbanded': u'بوت: التصنيف تم الاستغناء عنه',
+		'category-was-moved': u'روبوت: التصنيف نقل إلى [[:تصنيف:%(newcat)s|%(title)s]]',
+	},
 	# Author: Naudefj
 	'af': {
 		'category-adding': u'Robot: kategorie [[:Category:%(newcat)s|%(newcat)s]] bygevoeg',
@@ -208,6 +221,13 @@ msg = {
 	# Author: Asoxor
 	'ckb': {
 		'category-adding': u'ڕۆبۆت: زێدەکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(ھەروەھا لە %(alsocat)s)',
+		'category-changing': u'ڕۆبۆت: گۆڕانی %(oldcat)s بۆ %(newcat)s',
+		'category-listifying': u'ڕۆبۆت: بەلیستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})',
+		'category-removing': u'ڕۆبۆت: لابردن لە %(oldcat)s',
+		'category-replacing': u'ڕۆبۆت: دانانی پۆلی %(newcat)s لەجێگەی  %(oldcat)s',
+		'category-section-title': u'مێژووی پەڕەی %(oldcat)s پێشوو',
+		'category-was-moved': u'ڕۆبۆت: پۆل گوازرایەوە بۆ [[:پۆل:%(newcat)s|%(title)s]]',
 	},
 	'crh': {
 		'category-adding': u'robot: ekley category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -441,6 +461,8 @@ msg = {
 		'category-listifying': u'Bot: List faan %(fromcat)s (%(num)d iindracher)',
 		'category-removing': u'Bot: Strik ütj %(oldcat)s',
 		'category-replacing': u'Bot: Waksle kategorii %(oldcat)s ütj mä %(newcat)s',
+		'category-section-title': u'Wersjuunshistoore faan det ual %(oldcat)s',
+		'category-version-history': u'Bot: Seekere wersjuunshistoore faan det ual %(oldcat)s',
 		'category-was-disbanded': u'Bot: Kategorii as apliaset wurden',
 		'category-was-moved': u'Bot: Kategorii as fersköwen wurden tu [[:Kategorie:%(newcat)s|%(title)s]]',
 	},
@@ -956,6 +978,8 @@ msg = {
 		'category-listifying': u'Bot: lieste van %(fromcat)s (%(num)d pagina\'s)',
 		'category-removing': u'Bot: vortehaold uut %(oldcat)s',
 		'category-replacing': u'Robot: kategorie %(oldcat)s is vervöngen deur %(newcat)s',
+		'category-section-title': u'Paginageschiedenisse van veurmaolige %(oldcat)s',
+		'category-version-history': u'Bot: versiegeschiedenisse van veurmaolige %(oldcat)s op-esleugen',
 		'category-was-disbanded': u'Bot: kategorie besteet niet meer',
 		'category-was-moved': u'Bot: kategorie is herneumd naor [[:Category:%(newcat)s|%(title)s]]',
 	},
@@ -1168,12 +1192,16 @@ msg = {
 		'category-was-moved': u'Robot: Category wis flitted tae [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Wizzard
+	# Author: Teslaton
 	'sk': {
 		'category-adding': u'Robot: Pridanie kategórie [[: Kategória: %(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(aj v %(alsocat)s)',
 		'category-changing': u'Robot: Zmena %(oldcat)s na %(newcat)s',
+		'category-listifying': u'Robot: vytvorenie zoznamu obsahu kategórie %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položiek}})',
 		'category-removing': u'Robot: Odstránenie z %(oldcat)s',
 		'category-replacing': u'Robot nahradil kategóriu %(oldcat)s za %(newcat)s',
+		'category-section-title': u'História verzií bývalej %(oldcat)s',
+		'category-version-history': u'Robot: Uloženie histórie verzií bývalej %(oldcat)s',
 		'category-was-disbanded': u'Robot: Kategória bola vyprázdnená',
 		'category-was-moved': u'Kategória bola presunutá na [[:Kategória:%(newcat)s|%(title)s]]',
 	},
@@ -1234,6 +1262,7 @@ msg = {
 	},
 	# Author: Ainali
 	# Author: Lokal Profil
+	# Author: WikiPhoenix
 	'sv': {
 		'category-adding': u'Robot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(också i %(alsocat)s)',
@@ -1241,6 +1270,8 @@ msg = {
 		'category-listifying': u'Robot: Skapar en lista från %(fromcat)s (%(num)d)',
 		'category-removing': u'Robot: Tar bort från %(oldcat)s',
 		'category-replacing': u'Robot: Ersätter kategorin %(oldcat)s med %(newcat)s',
+		'category-section-title': u'Sidhistorik från tidigare %(oldcat)s',
+		'category-version-history': u'Robot: Sparar versionshistorik från tidigare %(oldcat)s',
 		'category-was-disbanded': u'Robot: Kategorin upplöstes',
 		'category-was-moved': u'Robot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]',
 	},
@@ -1430,14 +1461,17 @@ msg = {
 	# Author: Anakmalaysia
 	# Author: Hydra
 	# Author: Shizhao
+	# Author: Yfdyh000
 	# Author: 阿pp
 	'zh': {
-		'category-adding': u'机器人： 添加类别 [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'机器人：添加分类 [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(同样在%(alsocat)s)',
 		'category-changing': u'机器人： 更改 %(newcat)s 至 %(oldcat)s',
 		'category-listifying': u'机器人：从%(fromcat)s提取列表(%(num)d个项目)',
 		'category-removing': u'机器人：移除目录[[%(oldcat)s]]',
 		'category-replacing': u'机器人：变更类别[[%(oldcat)s]]为[[%(newcat)s]]',
+		'category-section-title': u'前%(oldcat)s的页面历史',
+		'category-version-history': u'机器人：保存之前%(oldcat)s的历史版本记录',
 		'category-was-disbanded': u'机器人：类别已被解散',
 		'category-was-moved': u'机器人：移动分类至[[:Category:%(newcat)s|%(title)s]]',
 	},

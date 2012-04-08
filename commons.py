@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'commons-file-moved': u'[[:File:%(localfile)s|الصورة]] تم نقلها إلى [[:commons:File:%(commonsfile)s|كومنز]].',
+		'commons-file-now-available': u'الملف متوفر الآن في [[:commons:File:%(commonsfile)s|ويكيميديا كومنز]].',
+	},
 	# Author: Meno25
 	'ar': {
 		'commons-file-moved': u'[[:File:%(localfile)s|الصورة]] تم نقلها إلى [[:commons:File:%(commonsfile)s|كومنز]].',
@@ -129,6 +134,10 @@ msg = {
 	'he': {
 		'commons-file-moved': u'[[:File:%(localfile)s|הקובץ]] הועבר [[:commons:File:%(commonsfile)s|לוויקישיתוף]].',
 		'commons-file-now-available': u'הקובץ זמין כעת [[:commons:File:%(commonsfile)s|בוויקישיתוף]].',
+	},
+	# Author: Michawiki
+	'hsb': {
+		'commons-file-now-available': u'Dataja steji nětko na [[:commons:File:%(commonsfile)s|Wikimedia Commons]] k dispoziciji.',
 	},
 	# Author: Dj
 	'hu': {
@@ -280,7 +289,9 @@ msg = {
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Wizzard
+	# Author: Teslaton
 	'sk': {
+		'commons-file-moved': u'Súbor [[:File:%(localfile)s|File]] bol presunutý na [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Súbor je teraz k dispozícii na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Dbc334

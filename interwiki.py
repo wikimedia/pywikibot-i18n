@@ -1,5 +1,15 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'interwiki-adding': u'روبوت إضافة: %(adding)s',
+		'interwiki-adding-modifying': u'روبوت إضافة: %(adding)s تعديل: %(modifying)s',
+		'interwiki-adding-removing': u'روبوت إضافة: %(adding)s إزالة: %(removing)s',
+		'interwiki-adding-removing-modifying': u'روبوت إضافة: %(adding)s إزالة: %(removing)s تعديل: %(modifying)s',
+		'interwiki-modifying': u'روبوت تعديل: %(modifying)s',
+		'interwiki-removing': u'روبوت إزالة: %(removing)s',
+		'interwiki-removing-modifying': u'روبوت إزالة: %(removing)s تعديل: %(modifying)s',
+	},
 	'af': {
 		'interwiki-adding': u'robot Bygevoeg: %(adding)s',
 		'interwiki-adding-modifying': u'robot Bygevoeg: %(adding)s Verander: %(modifying)s',
@@ -828,14 +838,15 @@ msg = {
 		'interwiki-removing': u'robot Efassado: %(removing)s',
 		'interwiki-removing-modifying': u'robot Efassado: %(removing)s Trokado: %(modifying)s',
 	},
+	# Author: Robby
 	'lb': {
-		'interwiki-adding': u'Bot Derbäi setzen: %(adding)s',
-		'interwiki-adding-modifying': u'Bot Derbäi setzen: %(adding)s Änneren: %(modifying)s',
-		'interwiki-adding-removing': u'Bot Derbäi setzen: %(adding)s Ewech huelen: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot Derbäi setzen: %(adding)s Ewech huelen: %(removing)s Änneren: %(modifying)s',
-		'interwiki-modifying': u'Bot Änneren: %(modifying)s',
-		'interwiki-removing': u'Bot Ewech huelen: %(removing)s',
-		'interwiki-removing-modifying': u'Bot Ewech huelen: %(removing)s Änneren: %(modifying)s',
+		'interwiki-adding': u'Bot: Derbäi setzen: %(adding)s',
+		'interwiki-adding-modifying': u'Bot: Derbäi setzen: %(adding)s Änneren: %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Derbäi setzen: %(adding)s Ewech huelen: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Derbäi setzen: %(adding)s Ewech huelen: %(removing)s Änneren: %(modifying)s',
+		'interwiki-modifying': u'Bot: Änneren: %(modifying)s',
+		'interwiki-removing': u'Bot: Ewech huelen: %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Ewech huelen: %(removing)s Änneren: %(modifying)s',
 	},
 	# Author: Namik
 	'lez': {
@@ -850,11 +861,12 @@ msg = {
 	# Author: Hugo.arg
 	# Author: Xqt
 	# Author: Pahles
+	# Author: Ooswesthoesbes
 	'li': {
-		'interwiki-adding': u'Robot: debie: %(adding)s',
-		'interwiki-adding-modifying': u'Robot: debie: %(adding)s verangerd: %(modifying)s',
-		'interwiki-adding-removing': u'Robot: debie: %(adding)s eweg: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: debie: %(adding)s eweg: %(removing)s verangerd: %(modifying)s',
+		'interwiki-adding': u'Robot: d\'rbie: %(adding)s',
+		'interwiki-adding-modifying': u'Robot: d\'rbie: %(adding)s verangerd: %(modifying)s',
+		'interwiki-adding-removing': u'Robot: d\'rbie: %(adding)s eweg: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: d\'rbie: %(adding)s eweg: %(removing)s verangerd: %(modifying)s',
 		'interwiki-modifying': u'Robot: verangerd: %(modifying)s',
 		'interwiki-removing': u'Robot: eweg: %(removing)s',
 		'interwiki-removing-modifying': u'Robot: eweg: %(removing)s verangerd: %(modifying)s',
@@ -1754,16 +1766,16 @@ msg = {
 		'interwiki-removing': u'僕 削: %(removing)s',
 		'interwiki-removing-modifying': u'僕 削: %(removing)s 修: %(modifying)s',
 	},
-	# Author: Hydra
+	# Author: Yfdyh000
 	# Author: 阿pp
 	'zh': {
 		'interwiki-adding': u'机器人添加：%(adding)s',
 		'interwiki-adding-modifying': u'机器人添加：%(adding)s 修改：%(modifying)s',
-		'interwiki-adding-removing': u'机器人添加：%(adding)s 删除：%(removing)s',
-		'interwiki-adding-removing-modifying': u'机器人添加：%(adding)s 删除：%(removing)s 修改：%(modifying)s',
+		'interwiki-adding-removing': u'机器人添加：%(adding)s 去除：%(removing)s',
+		'interwiki-adding-removing-modifying': u'机器人添加：%(adding)s 去除：%(removing)s 修改：%(modifying)s',
 		'interwiki-modifying': u'机器人修改：%(modifying)s',
-		'interwiki-removing': u'机器人删除：%(removing)s',
-		'interwiki-removing-modifying': u'机器人删除： %(removing)s 修改：%(modifying)s',
+		'interwiki-removing': u'机器人去除：%(removing)s',
+		'interwiki-removing-modifying': u'机器人去除：%(removing)s 修改：%(modifying)s',
 	},
 	# Author: Alexsh
 	# Author: Andrew971218

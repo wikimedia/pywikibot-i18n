@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'cosmetic_changes-append': u'; تغييرات تجميلية',
+		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
+	},
 	# Author: Naudefj
 	'af': {
 		'cosmetic_changes-append': u'; kosmetiese veranderinge',

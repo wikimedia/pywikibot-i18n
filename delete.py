@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
+		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
+		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
+		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
+		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
+	},
 	'ar': {
 		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
 		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
@@ -58,6 +66,7 @@ msg = {
 	},
 	# Author: Asoxor
 	'ckb': {
+		'delete-from-category': u'ڕۆبۆت: سڕینەوەی گشت پەڕەکان لە پۆلی %(page)s',
 		'delete-images': u'ڕۆبۆت: سڕینەوەی گشت وێنەکانی پەڕەی %(page)s',
 	},
 	'cs': {
@@ -398,6 +407,10 @@ msg = {
 		'delete-linked-pages': u'Bot: Tar bort alla sidor länkade från %(page)s',
 		'delete-referring-pages': u'Bot: Ta bort alla sidor som hänvisar från %(page)s',
 	},
+	# Author: Baba Tabita
+	'sw': {
+		'delete-from-file': u'Karagosi: Kuondoa orodha ya faili.',
+	},
 	# Author: Aswn
 	'ta': {
 		'delete-from-category': u'தானியங்கி: %(page)s பகுப்பில் உள்ள அனைத்து பக்கங்களும் நீக்கப்படுகின்றன',
@@ -437,10 +450,11 @@ msg = {
 		'delete-referring-pages': u'Bot: Xóa tất cả các trang có liên kết đến “%(page)s”',
 	},
 	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
 		'delete-from-category': u'机器人：删除来自%(page)s类别所有页面',
 		'delete-from-file': u'机器人：删除文件列表。',
-		'delete-images': u'机器人：删除%(page)s页上所有图像',
+		'delete-images': u'机器人：删除%(page)s页面上的所有图像',
 		'delete-linked-pages': u'机器人：删除从%(page)s链接所有页面',
 		'delete-referring-pages': u'机器人：删除指从%(page)s所有页面',
 	},

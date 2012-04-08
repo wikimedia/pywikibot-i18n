@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
+	},
 	'ar': {
 		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
 	},
@@ -31,6 +35,10 @@ msg = {
 	# Author: SMP
 	'ca': {
 		'clean_sandbox-cleaned': u'Robot: Netejat automàticament',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'clean_sandbox-cleaned': u'ڕۆبۆت: خۆگەڕانە پاککرایەوە',
 	},
 	'cs': {
 		'clean_sandbox-cleaned': u'Uhrabání pískoviště',
@@ -255,9 +263,9 @@ msg = {
 	'vi': {
 		'clean_sandbox-cleaned': u'Bot: Tự động dọn sạch',
 	},
-	# Author: Hydra
+	# Author: Yfdyh000
 	'zh': {
-		'clean_sandbox-cleaned': u'机器人： 自动清除',
+		'clean_sandbox-cleaned': u'机器人：自动清理',
 	},
 	# Author: Waihorace
 	'zh-hant': {

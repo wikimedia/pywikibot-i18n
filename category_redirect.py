@@ -1,5 +1,14 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'category_redirect-add-template': u'روبوت: إضافة قالب تحويل تصنيف للصيانة',
+		'category_redirect-change-category': u'روبوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'بوت صيانة تحويلات التصانيف',
+		'category_redirect-edit-request': u'الصفحات المحمية التالية تم كشفها كمحتاجة تحديثات لوصلات التصنيف: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s في %(oldcat)s, وهو تحويل إلى %(newcat)s',
+		'category_redirect-fix-double': u'بوت: إصلاح تحويلة مزدوجة',
+	},
 	'af': {
 		'category_redirect-fix-double': u'Robot: dubbele aanstuur reggemaak',
 	},
@@ -94,6 +103,10 @@ msg = {
 		'category_redirect-edit-request': u'S\'ha detectat que les següents pàgines protegides necessiten actualitzar les categories: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s està a %(oldcat)s, que és una redirecció a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: arreglant redirecció doble',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'category_redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجارڕەوانەکردنەوە',
 	},
 	# Author: Spiffyk
 	'cs': {
@@ -567,8 +580,13 @@ msg = {
 		'category_redirect-fix-double': u'Bot: fixin\' dooble-reguidals',
 	},
 	# Author: Wizzard
+	# Author: Teslaton
 	'sk': {
+		'category_redirect-add-template': u'Robot: Pridanie šablóny presmerovania kategórie kvôli údržbe',
+		'category_redirect-change-category': u'Robot: Zmeňte presmerovanú kategóriu [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Robot na údržbu presmerovaní kategórií',
+		'category_redirect-edit-request': u'Nasledujúce zamknuté stránky vyžadujú úpravu odkazov ku kategóriám: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s je v kategórii %(oldcat)s, ktorá je presmerovaná na %(newcat)s',
 		'category_redirect-fix-double': u'Robot opravil dvojité presmerovanie',
 	},
 	# Author: Dbc334
@@ -699,15 +717,15 @@ msg = {
 	'zh-classical': {
 		'category_redirect-fix-double': u'僕:復修渡口',
 	},
-	# Author: Hydra
 	# Author: Liangent
+	# Author: Yfdyh000
 	'zh': {
 		'category_redirect-add-template': u'机器人：添加分类重定向模板用于维护',
-		'category_redirect-change-category': u'机器人：更改重定向分类[[:%(oldCatLink)s|%(oldCatTitle)s]]到[[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'类别重定向维修机器',
+		'category_redirect-change-category': u'机器人：更改已重定向的分类 [[:%(oldCatLink)s|%(oldCatTitle)s]]到[[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'分类重定向维护机器人',
 		'category_redirect-edit-request': u'以下受保护的页面被检测到需要更新分类链接：%(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向',
-		'category_redirect-fix-double': u'機器人:修正雙重重定向',
+		'category_redirect-fix-double': u'机器人：修正双重重定向',
 	},
 	# Author: Waihorace
 	'zh-hant': {

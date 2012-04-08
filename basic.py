@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'basic-changing': u'بوت: تغيير ...',
+	},
 	# Author: Naudefj
 	'af': {
 		'basic-changing': u'Bot: Wysig ...',
@@ -328,6 +332,10 @@ msg = {
 	},
 	'sv': {
 		'basic-changing': u'Bot: Ändrar ...',
+	},
+	# Author: Baba Tabita
+	'sw': {
+		'basic-changing': u'Karagosi: Yafanya mabadiliko ...',
 	},
 	# Author: செல்வா
 	'ta': {

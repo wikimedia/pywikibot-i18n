@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'table2wiki-no-warning': u'بوت بواسطة مستخدم: تحديث تهيئة الجدول',
+		'table2wiki-warnings': u'بوت بواسطة مستخدم: تحديث تهيئة الجدول - {{PLURAL:count|1 تحذير|%(count)d تحذير}}!',
+	},
 	# Author: Xqt
 	'ar': {
 		'table2wiki-no-warning': u'بوت بواسطة مستخدم: تحديث تهيئة الجدول',
@@ -36,6 +41,10 @@ msg = {
 	'ca': {
 		'table2wiki-no-warning': u'Robot controlat per usuari: Actualitzant la sintaxi de la taula.',
 		'table2wiki-warnings': u'Robot controlat per usuari: Actualitzant la sintaxi de la taula. {{PLURAL:count|Un advertiment|%(count)d advertiments}}!',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'table2wiki-warnings': u'ڕۆبۆتی کۆنترۆڵکراو بەدەستی بەکارھێنەر: ڕستەسازیی خشتە نوێکرایەوە - {{PLURAL:count|١ ئاگاداری|%(count)d ئاگاداری}}!',
 	},
 	# Author: Spiffyk
 	'cs': {
@@ -94,9 +103,10 @@ msg = {
 		'table2wiki-warnings': u'בוט בפיקוח משתמש: עדכון תחביר הטבלה - {{PLURAL:count|אזהרה אחת|%(count)d אזהרות}}!',
 	},
 	# Author: Dj
+	# Author: Bináris
 	'hu': {
-		'table2wiki-no-warning': u'Bot kézi ellenőrzéssel: Táblázat szintaxis frissítve',
-		'table2wiki-warnings': u'Bot kézi ellenőrzéssel: Táblázat szintaxis frissítve - {{PLURAL:count|egy|%(count)d}} figyelmeztetés!',
+		'table2wiki-no-warning': u'Bot kézi ellenőrzéssel: táblázat szintaxisa frissítve',
+		'table2wiki-warnings': u'Bot kézi ellenőrzéssel: táblázat szintaxisa frissítve - {{PLURAL:count|egy|%(count)d}} figyelmeztetés!',
 	},
 	# Author: Xqt
 	'ia': {
@@ -222,8 +232,10 @@ msg = {
 		'table2wiki-warnings': u'Полуавтоматический робот: синтаксис таблицы обновлен - {{PLURAL:count|1 предупреждение|%(count)d предупреждения(-ий)}}!',
 	},
 	# Author: Wizzard
+	# Author: Teslaton
 	'sk': {
-		'table2wiki-no-warning': u'Užívateľom riadený robot: Syntax tabuľky zmenená',
+		'table2wiki-no-warning': u'Používateľom riadený robot: Syntax tabuľky zmenená',
+		'table2wiki-warnings': u'Používateľom riadený robot: Syntax tabuľky zmenená – {{PLURAL:count|1 varovanie|%(count)d varovania|%(count)d varovaní}}!',
 	},
 	# Author: Dbc334
 	'sl': {

@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'welcome-bad_username': u'بوت: إضافة اسم مستخدم يحتاج للفحص',
+		'welcome-updating': u'بوت: تحديث السجل',
+		'welcome-welcome': u'مرحبا!',
+	},
 	'am': {
 		'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
 		'welcome-updating': u'Bot: Updating log',
@@ -172,6 +178,10 @@ msg = {
 		'welcome-updating': u'בוט: עדכון יומן',
 		'welcome-welcome': u'ברוך הבא!',
 	},
+	# Author: Michawiki
+	'hsb': {
+		'welcome-welcome': u'Witaj!',
+	},
 	# Author: Dj
 	'hu': {
 		'welcome-bad_username': u'Bot: ellenőrizendő szerkesztőnév hozzáadása',
@@ -216,6 +226,10 @@ msg = {
 	'ka': {
 		'welcome-welcome': u'კეთილი იყოს თქვენი მობრძანება!',
 	},
+	# Author: Nayvik
+	'kn': {
+		'welcome-welcome': u'ಸುಸ್ವಾಗತ!',
+	},
 	# Author: Kwj2772
 	'ko': {
 		'welcome-welcome': u'환영합니다!',
@@ -239,6 +253,12 @@ msg = {
 	# Author: Eitvys200
 	'lt': {
 		'welcome-welcome': u'Sveiki atvykę!',
+	},
+	# Author: RMizo
+	'lus': {
+		'welcome-bad_username': u'Khawlmi: Hmangtuhming finfiah ngai telh',
+		'welcome-updating': u'Khawlmi: Chanchin siamthat',
+		'welcome-welcome': u'Kan lo lawm a che!',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -379,6 +399,10 @@ msg = {
 		'welcome-bad_username': u'Bot: Lägger till ett användarnamn som behöver kontrolleras',
 		'welcome-updating': u'Bot: Uppdaterar logg',
 		'welcome-welcome': u'Välkommen!',
+	},
+	# Author: Baba Tabita
+	'sw': {
+		'welcome-welcome': u'Karibu!',
 	},
 	# Author: Aswn
 	'ta': {

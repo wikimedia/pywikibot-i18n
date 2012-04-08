@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'add_text-adding': u'بوت: إضافة %(adding)s',
+	},
 	'af': {
 		'add_text-adding': u'robot Bygevoeg %(adding)s',
 	},
@@ -272,8 +276,9 @@ msg = {
 	'lad': {
 		'add_text-adding': u'robot Adjustado %(adding)s',
 	},
+	# Author: Robby
 	'lb': {
-		'add_text-adding': u'Bot Derbäi setzen %(adding)s',
+		'add_text-adding': u'Bot: Derbäi setzen %(adding)s',
 	},
 	# Author: Namik
 	'lez': {
@@ -460,8 +465,9 @@ msg = {
 	'si': {
 		'add_text-adding': u'රොබෝ එකතු කරමින් %(adding)s',
 	},
+	# Author: Teslaton
 	'sk': {
-		'add_text-adding': u'robot Pridal %(adding)s',
+		'add_text-adding': u'Robot pridal %(adding)s',
 	},
 	'sl': {
 		'add_text-adding': u'robot Dodajanje %(adding)s',
@@ -574,8 +580,9 @@ msg = {
 	'zh-classical': {
 		'add_text-adding': u'僕 增 %(adding)s',
 	},
+	# Author: Yfdyh000
 	'zh': {
-		'add_text-adding': u'機器人: 正在新增 %(adding)s',
+		'add_text-adding': u'机器人: 添加 %(adding)s',
 	},
 	'zh-hant': {
 		'add_text-adding': u'機器人新增：%(adding)s',

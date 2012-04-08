@@ -1,5 +1,15 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'solve_disambiguation-adding-dn-template': u'توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
+		'solve_disambiguation-links-removed': u'توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات.',
+		'solve_disambiguation-links-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
+		'solve_disambiguation-redirect-removed': u'توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات',
+		'solve_disambiguation-redirect-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
+		'solve_disambiguation-unknown-page': u'(غير معروف)',
+	},
 	# Author: Naudefj
 	'af': {
 		'solve_disambiguation-links-removed': u'Robot-ondersteunde aanstuur: %(from)s - skakel(s) verwyder.',
@@ -688,7 +698,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(නොදත්)',
 	},
 	# Author: Wizzard
+	# Author: Teslaton
 	'sk': {
+		'solve_disambiguation-adding-dn-template': u'Rozlíšenie za pomoci robota: %(from)s – Označené, že vyžaduje pozornosť odborníka',
+		'solve_disambiguation-links-removed': u'Rozlíšenie za pomoci robota: %(from)s – Odstránené odkazy',
+		'solve_disambiguation-links-resolved': u'Rozlíšenie za pomoci robota: %(from)s – zmenené odkazy na %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Rozlíšenie za pomoci robota: %(from)s – označené, že vyžaduje pozornosť odborníka',
+		'solve_disambiguation-redirect-removed': u'Robot opravil presmerovanie na %(from)s – Odstránené odkazy',
+		'solve_disambiguation-redirect-resolved': u'Robot opravil presmerovanie na %(from)s – Zmenené odkazy na %(to)s',
 		'solve_disambiguation-unknown-page': u'(neznáme)',
 	},
 	# Author: Dbc334
@@ -741,6 +758,10 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Länkar direkt till rätt artikel för: %(from)s - Tog bort länk(ar)',
 		'solve_disambiguation-redirect-resolved': u'Länkar direkt till rätt artikel för: %(from)s - Bytte länk(ar) till %(to)s',
 		'solve_disambiguation-unknown-page': u'(okänd)',
+	},
+	# Author: Baba Tabita
+	'sw': {
+		'solve_disambiguation-unknown-page': u'{haijulikani}',
 	},
 	# Author: செல்வா
 	'ta': {

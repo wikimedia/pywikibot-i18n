@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
+	},
 	'ar': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},
@@ -52,6 +56,10 @@ msg = {
 	'fr': {
 		'unlink-unlinking': u'Robot: Retire le lien "%s"',
 	},
+	# Author: Murma174
+	'frr': {
+		'unlink-unlinking': u'Bot: Nem link wech faan „%s“',
+	},
 	# Author: Toliño
 	'gl': {
 		'unlink-unlinking': u'Bot: Quito a ligazón cara a "%s"',
@@ -86,6 +94,14 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'unlink-unlinking': u'Bot: Entlinke vun "%s"',
+	},
+	# Author: Ooswesthoesbes
+	'li': {
+		'unlink-unlinking': u'Bot: wös verwiezing nao "%s"',
+	},
+	# Author: RMizo
+	'lus': {
+		'unlink-unlinking': u'Khawlmi: "%s" zawmna phelh mek a ni',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -135,6 +151,10 @@ msg = {
 	# Author: Eleferen
 	'ru': {
 		'unlink-unlinking': u'Бот: Удаление ссылки «%s»',
+	},
+	# Author: Teslaton
+	'sk': {
+		'unlink-unlinking': u'Robot: Odstránenie prepojenia na "%s"',
 	},
 	# Author: Dbc334
 	'sl': {

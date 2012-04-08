@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
+	},
 	# Author: Naudefj
 	'af': {
 		'replace-replacing': u'Robot: geoutomatiseerde teks vervanging %(description)s',
@@ -34,6 +38,10 @@ msg = {
 	},
 	'ca': {
 		'replace-replacing': u'Robot: Reemplaçament automàtic de text %(description)s',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'replace-replacing': u'ڕۆبۆت: لەجێدانانی خۆگەڕی دەق %(description)s',
 	},
 	'cs': {
 		'replace-replacing': u'Robot automaticky nahradil text: %(description)s',
@@ -265,6 +273,10 @@ msg = {
 	# Author: Avicennasis
 	'sco': {
 		'replace-replacing': u'Bot: Automated text replacement %(description)s',
+	},
+	# Author: Teslaton
+	'sk': {
+		'replace-replacing': u'Robot automaticky nahradil text: %(description)s',
 	},
 	# Author: Dbc334
 	'sl': {

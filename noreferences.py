@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
+	},
 	'ar': {
 		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
 	},
@@ -33,6 +37,10 @@ msg = {
 	# Author: SMP
 	'ca': {
 		'noreferences-add-tag': u'Robot: Afegint l\'etiqueta <references /> que mancava',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'noreferences-add-tag': u'ڕۆبۆت: زێدەکردنی تاگی بەجێماوی <references />',
 	},
 	'cs': {
 		'noreferences-add-tag': u'Robot doplnil chybějící <references />',
@@ -136,8 +144,16 @@ msg = {
 	'lb': {
 		'noreferences-add-tag': u'Bot: Tag <references /> dee gefeelt huet derbäigesat',
 	},
+	# Author: Ooswesthoesbes
+	'li': {
+		'noreferences-add-tag': u'Bot: veug óntbraekendje tag <references /> tou',
+	},
 	'lt': {
 		'noreferences-add-tag': u'robotas: Pridedama trūkstama <references /> žymė',
+	},
+	# Author: RMizo
+	'lus': {
+		'noreferences-add-tag': u'Khawlmi: <thlulâkna /> kim lo belh',
 	},
 	# Author: StefanusRA
 	'map-bms': {

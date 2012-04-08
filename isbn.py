@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'isbn-formatting': u'روبوت: تنسيق ISBN',
+	},
 	# Author: Naudefj
 	'af': {
 		'isbn-formatting': u'Robot: Formatteer ISBN',
@@ -50,6 +54,10 @@ msg = {
 	# Author: SMP
 	'ca': {
 		'isbn-formatting': u'Robot: Format de l\'ISBN',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'isbn-formatting': u'ڕۆبۆت: ڕاستکردنەوەی شێوازی ISBN',
 	},
 	# Author: Dontlietome7
 	'cs': {

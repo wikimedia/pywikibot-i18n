@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'movepages-moving': u'روبوت: نقل الصفحة',
+	},
 	'ar': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
 	},
@@ -22,6 +26,10 @@ msg = {
 	# Author: Gemmaa
 	'ca': {
 		'movepages-moving': u'Robot: Moure pàgina',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'movepages-moving': u'ڕۆبۆت: پەڕەی گواستەوە',
 	},
 	'cs': {
 		'movepages-moving': u'Robot přesunul stránku',
@@ -105,6 +113,10 @@ msg = {
 	'lb': {
 		'movepages-moving': u'Bot: Säit geréckelt',
 	},
+	# Author: Ooswesthoesbes
+	'li': {
+		'movepages-moving': u'Bot: verplaats pagina',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'movepages-moving': u'Bot: Mindahna kaca',
@@ -179,6 +191,10 @@ msg = {
 	# Author: WikiPhoenix
 	'sv': {
 		'movepages-moving': u'Bot: Flyttade sida',
+	},
+	# Author: Baba Tabita
+	'sw': {
+		'movepages-moving': u'Karagosi: Kuhamisha ukurasa',
 	},
 	# Author: Aswn
 	'ta': {

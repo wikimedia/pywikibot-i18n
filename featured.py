@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
+		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
+		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
+		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
+	},
 	'ar': {
 		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
 		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
@@ -430,11 +437,11 @@ msg = {
 	'yi': {
 		'featured-good': u'באט: %(page)s איז א גוטער אַרטיקל',
 	},
-	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
-		'featured-featured': u'机器人：%(page)s是一篇精选文章',
-		'featured-former': u'机器人：%(page)s以前是一篇精选文章',
-		'featured-good': u'机器人：%(page)s是一篇好文章',
-		'featured-list': u'机器人：%(page)s是一篇精选列表',
+		'featured-featured': u'机器人：%(page)s是一篇特色条目',
+		'featured-former': u'机器人：%(page)s曾经是一篇特色条目',
+		'featured-good': u'机器人：%(page)s是一篇优良条目',
+		'featured-list': u'机器人：%(page)s是一篇特色列表',
 	},
 }

@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'catall-changing': u'بوت: تغيير التصنيفات',
+	},
 	'ar': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
 	},
@@ -22,6 +26,14 @@ msg = {
 	# Author: Edinwiki
 	'bs': {
 		'catall-changing': u'Bot: Promjena kategorija.',
+	},
+	# Author: Grondin
+	'ca': {
+		'catall-changing': u'Robot: canvi categories',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'catall-changing': u'ڕۆبۆت: گۆڕینی پۆلەکان',
 	},
 	# Author: Utar
 	'cs': {
@@ -54,6 +66,10 @@ msg = {
 	},
 	'fr': {
 		'catall-changing': u'Bot: Change categories',
+	},
+	# Author: Murma174
+	'frr': {
+		'catall-changing': u'Bot: Feranere kategoriin',
 	},
 	# Author: Toliño
 	'gl': {
@@ -151,6 +167,10 @@ msg = {
 	'ru': {
 		'catall-changing': u'Бот: Изменение категорий',
 	},
+	# Author: Teslaton
+	'sk': {
+		'catall-changing': u'Robot: Zmena kategórií',
+	},
 	# Author: Dbc334
 	'sl': {
 		'catall-changing': u'Robot: Spreminjanje kategorij',
@@ -165,6 +185,10 @@ msg = {
 	},
 	'sv': {
 		'catall-changing': u'Bot: Ändrar kategori',
+	},
+	# Author: Baba Tabita
+	'sw': {
+		'catall-changing': u'Karagosi: Kubadilisha jamii',
 	},
 	# Author: Aswn
 	'ta': {
@@ -186,9 +210,9 @@ msg = {
 	'vi': {
 		'catall-changing': u'Bot: Thay đổi thể loại',
 	},
-	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
-		'catall-changing': u'机器人：修改类别',
+		'catall-changing': u'机器人：修改分类',
 	},
 	# Author: Breawycker
 	'zh-hant': {

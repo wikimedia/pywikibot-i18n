@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
+	},
 	'ar': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},
@@ -30,6 +34,10 @@ msg = {
 	# Author: SMP
 	'ca': {
 		'capitalize_redirects-create-redirect': u'Robot: Crea una redirecció a [[%(to)s]]',
+	},
+	# Author: Asoxor
+	'ckb': {
+		'capitalize_redirects-create-redirect': u'ڕۆبۆت: دروستکردنی ڕەوانەکردنەوە بۆ [[%(to)s]]',
 	},
 	# Author: Spiffyk
 	'cs': {
@@ -196,8 +204,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Бот: Создано перенаправление на [[%(to)s]]',
 	},
 	# Author: Wizzard
+	# Author: Teslaton
 	'sk': {
-		'capitalize_redirects-create-redirect': u'Robot:Pridať presmerovanie na [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot: Pridajte presmerovanie na [[%(to)s]]',
 	},
 	# Author: Dbc334
 	'sl': {
@@ -220,7 +229,7 @@ msg = {
 	},
 	# Author: Гусейн
 	'tly': {
-		'capitalize_redirects-create-redirect': u'Робот: Офәјә быә унвони дәгиш кардеј бә [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Робот: Офәјә быә унвони дәгиш карде бә [[%(to)s]]',
 	},
 	# Author: Khutuck
 	'tr': {
