@@ -54,6 +54,9 @@ msg = {
 	'el': {
 		'editarticle-edit': u'Μη αυτόματη επεξεργασία με ρομπότ: %(description)s',
 	},
+	'en': {
+		'editarticle-edit': u'Manual edit with robot: %(description)s',
+	},
 	# Author: Airon90
 	'eo': {
 		'editarticle-edit': u'Permana redakto per roboto: %(description)s',
@@ -251,13 +254,5 @@ msg = {
 	# Author: Hydra
 	'zh': {
 		'editarticle-edit': u'利用机器方式手动编辑：%(description)s',
-	},
-	# Author: Justincheng12345
-	'zh-hant': {
-		'editarticle-edit': u'手動控制機械人進行更改：%(description)s',
-	},
-	# Author: Justincheng12345
-	'zh-hk': {
-		'editarticle-edit': u'手動控制機械人進行更改：%(description)s',
 	},
 }

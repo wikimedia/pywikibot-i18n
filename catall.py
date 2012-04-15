@@ -42,6 +42,9 @@ msg = {
 	'de': {
 		'catall-changing': u'Bot: Wechsele Kategorien',
 	},
+	'en': {
+		'catall-changing': u'Robot: Changing categories',
+	},
 	# Author: Armando-Martin
 	'es': {
 		'catall-changing': u'Robot: Cambiando categorías',
@@ -212,12 +215,7 @@ msg = {
 		'catall-changing': u'机器人：修改分类',
 	},
 	# Author: Breawycker
-	# Author: Justincheng12345
 	'zh-hant': {
-		'catall-changing': u'機器人：更改分類',
-	},
-	# Author: Justincheng12345
-	'zh-hk': {
-		'catall-changing': u'機械人更改分類',
+		'catall-changing': u'機器人： 更改類別',
 	},
 }

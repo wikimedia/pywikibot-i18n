@@ -62,6 +62,9 @@ msg = {
 	'el': {
 		'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]',
 	},
+	'en': {
+		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},
 	# Author: Vivaelcelta
 	'es': {
 		'capitalize_redirects-create-redirect': u'Bot: Creo una redirección hacia "[[%(to)s]]"',
@@ -258,9 +261,5 @@ msg = {
 	# Author: Waihorace
 	'zh-hant': {
 		'capitalize_redirects-create-redirect': u'機械人：創建重定向至[[%(to)s]]',
-	},
-	# Author: Justincheng12345
-	'zh-hk': {
-		'capitalize_redirects-create-redirect': u'機械人創建重定向至[[%(to)s]]',
 	},
 }

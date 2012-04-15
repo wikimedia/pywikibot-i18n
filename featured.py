@@ -95,6 +95,12 @@ msg = {
 		'featured-good': u'Ρομπότ: το %(page)s είναι καλό άρθρο',
 		'featured-list': u'Ρομπότ: το %(page)s είναι ένας αξιόλογος κατάλογος',
 	},
+	'en': {
+		'featured-featured': u'Robot: %(page)s is a featured article',
+		'featured-former': u'Robot: %(page)s is a former featured article',
+		'featured-good': u'Robot: %(page)s is a good article',
+		'featured-list': u'Robot: %(page)s is a featured list',
+	},
 	'eo': {
 		'featured-featured': u'roboto: %(page)s estas artikolo elstara',
 		'featured-good': u'roboto: %(page)s estas artikolo leginda',
@@ -437,19 +443,5 @@ msg = {
 		'featured-former': u'机器人：%(page)s曾经是一篇特色条目',
 		'featured-good': u'机器人：%(page)s是一篇优良条目',
 		'featured-list': u'机器人：%(page)s是一篇特色列表',
-	},
-	# Author: Justincheng12345
-	'zh-hant': {
-		'featured-featured': u'機械人：%(page)s為特色條目',
-		'featured-former': u'機械人：%(page)s曾經是一特色條目',
-		'featured-good': u'機械人：%(page)s為優良條目',
-		'featured-list': u'機械人：%(page)s為特色列表',
-	},
-	# Author: Justincheng12345
-	'zh-hk': {
-		'featured-featured': u'機械人將%(page)s列為特色條目',
-		'featured-former': u'機械人將%(page)s列為曾經的特色條目',
-		'featured-good': u'機械人將%(page)s列為優良條目',
-		'featured-list': u'機械人將%(page)s列為特色列表',
 	},
 }

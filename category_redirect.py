@@ -163,6 +163,14 @@ msg = {
 		'category_redirect-edit-request-item': u'Το %(title)s είναι στην %(oldcat)s, η οποία είναι ανακατεύθυνση στην %(newcat)s',
 		'category_redirect-fix-double': u'Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης',
 	},
+	'en': {
+		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
+		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Category redirect maintenance robot',
+		'category_redirect-edit-request': u'The following protected pages have been detected as requiring updates to category links: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
+		'category_redirect-fix-double': u'Robot: Fixing double-redirect',
+	},
 	# Author: Airon90
 	'eo': {
 		'category_redirect-add-template': u'Roboto: aldonanta ŝablonon pri alidirekta kategorio por prizorgado',
@@ -720,23 +728,13 @@ msg = {
 		'category_redirect-fix-double': u'机器人：修正双重重定向',
 	},
 	# Author: Waihorace
-	# Author: Justincheng12345
 	'zh-hant': {
 		'category_redirect-add-template': u'機械人：增加分類重定向模板供維護',
 		'category_redirect-change-category': u'機械人：更改分類重定向由[[:%(oldCatLink)s|%(oldCatTitle)s]]至[[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'分類重定向機械人',
+		'category_redirect-comment': u'分類重定向維護機械人',
 		'category_redirect-edit-request': u'以下被保護頁面已經被檢測到要更新分類連結：%(itemlist)s',
 		'category_redirect-edit-request-item': u'%(title)s是在%(oldcat)s，那是一個連結到%(newcat)s的重定向',
 		'category_redirect-fix-double': u'機械人：修復雙重重定向',
-	},
-	# Author: Justincheng12345
-	'zh-hk': {
-		'category_redirect-add-template': u'機械人增加分類重定向模板以供維護',
-		'category_redirect-change-category': u'機械人將分類[[:%(oldCatLink)s|%(oldCatTitle)s]]重定向至[[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'分類重定向機械人',
-		'category_redirect-edit-request': u'以下被保護頁面檢測到要更新分類連結：%(itemlist)s',
-		'category_redirect-edit-request-item': u'%(title)s的分類%(oldcat)s已重定向至%(newcat)s',
-		'category_redirect-fix-double': u'機械人修復雙重重定向',
 	},
 	'zh-yue': {
 		'category_redirect-fix-double': u'機械人：拉直連串跳轉',

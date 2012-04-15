@@ -74,6 +74,10 @@ msg = {
 		'commons-file-moved': u'Το [[:File:%(localfile)s|αρχείο]] μετακινήθηκε στα [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Το αρχείο είναι τώρα διαθέσιμο στα [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	'en': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Airon90
 	'eo': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Dosiero]] movita al [[:commons:File:%(commonsfile)s|Komunejon]].',
@@ -344,15 +348,5 @@ msg = {
 	'zh': {
 		'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
 		'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
-	},
-	# Author: Justincheng12345
-	'zh-hant': {
-		'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
-		'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有此檔案。',
-	},
-	# Author: Justincheng12345
-	'zh-hk': {
-		'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
-		'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有此檔案。',
 	},
 }

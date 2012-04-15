@@ -323,6 +323,19 @@ msg = {
 	'eml': {
 		'category-adding': u'Robot: A Śònt category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Xqt
+	'en': {
+		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(also in %(alsocat)s)',
+		'category-changing': u'Robot: Changing %(oldcat)s to %(newcat)s',
+		'category-listifying': u'Robot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+		'category-removing': u'Robot: Removing from %(oldcat)s',
+		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
+		'category-section-title': u'Page history of former %(oldcat)s',
+		'category-version-history': u'Robot: Saving version history of former %(oldcat)s',
+		'category-was-disbanded': u'Robot: Category was disbanded',
+		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
+	},
 	# Author: Mihxil
 	# Author: Airon90
 	'eo': {
@@ -1446,19 +1459,20 @@ msg = {
 		'category-adding': u'僕: 增 category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Anakmalaysia
+	# Author: Hydra
 	# Author: Shizhao
 	# Author: Yfdyh000
 	# Author: 阿pp
 	'zh': {
-		'category-adding': u'机器人：添加分类[[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'机器人：添加分类 [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(同样在%(alsocat)s)',
-		'category-changing': u'机器人：更改%(newcat)s至%(oldcat)s',
+		'category-changing': u'机器人： 更改 %(newcat)s 至 %(oldcat)s',
 		'category-listifying': u'机器人：从%(fromcat)s提取列表(%(num)d个项目)',
-		'category-removing': u'机器人：从[[%(oldcat)s]]中移除',
-		'category-replacing': u'机器人：变更分类[[%(oldcat)s]]为[[%(newcat)s]]',
+		'category-removing': u'机器人：移除目录[[%(oldcat)s]]',
+		'category-replacing': u'机器人：变更类别[[%(oldcat)s]]为[[%(newcat)s]]',
 		'category-section-title': u'前%(oldcat)s的页面历史',
 		'category-version-history': u'机器人：保存之前%(oldcat)s的历史版本记录',
-		'category-was-disbanded': u'机器人：分类已被解散',
+		'category-was-disbanded': u'机器人：类别已被解散',
 		'category-was-moved': u'机器人：移动分类至[[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Andrew971218
@@ -1468,26 +1482,12 @@ msg = {
 		'category-adding': u'機器人：添加分類[[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'（也在%(alsocat)s）',
 		'category-changing': u'機器人：更換%(oldcat)s至%(newcat)s',
-		'category-listifying': u'機械人：從%(fromcat)s提取列表(%(num)d個紀錄)',
-		'category-removing': u'機械人：從[[%(oldcat)s]]中移除',
-		'category-replacing': u'機械人：分類由[[%(oldcat)s]]替換成[[%(newcat)s]]',
-		'category-section-title': u'%(oldcat)s的頁面歷史',
-		'category-version-history': u'機械人：正在儲存%(oldcat)s的歷史記錄',
-		'category-was-disbanded': u'機械人：分類已放棄使用',
-		'category-was-moved': u'機械人：分類轉移到[[:Category:%(newcat)s|%(title)s]]',
-	},
-	# Author: Justincheng12345
-	'zh-hk': {
-		'category-adding': u'機械人添加分類[[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'（也在%(alsocat)s）',
-		'category-changing': u'機械人更換%(oldcat)s至%(newcat)s',
-		'category-listifying': u'機械人從%(fromcat)s提取列表(%(num)d個紀錄)',
-		'category-removing': u'機械人從[[%(oldcat)s]]中移除',
-		'category-replacing': u'機械人將分類由[[%(oldcat)s]]替換成[[%(newcat)s]]',
-		'category-section-title': u'%(oldcat)s的頁面歷史',
-		'category-version-history': u'機械人正在儲存%(oldcat)s的歷史記錄',
-		'category-was-disbanded': u'機械人：分類已放棄使用',
-		'category-was-moved': u'機械人將分類轉移到[[:Category:%(newcat)s|%(title)s]]',
+		'category-listifying': u'機器人: 重%(fromcat)s提取列表(%(num)d個紀錄)',
+		'category-removing': u'機器人：從[[%(oldcat)s]]中移除',
+		'category-replacing': u'機器人：類別由[[%(oldcat)s]]更改至[[%(newcat)s]]',
+		'category-version-history': u'機械人： 正在儲存%(oldcat)s的歷史記錄',
+		'category-was-disbanded': u'機器人：分類被解散',
+		'category-was-moved': u'機器人：分類被轉移到[[:Category:%(newcat)s|%(title)s]]',
 	},
 	'zh-min-nan': {
 		'category-adding': u'bot: ka-thiam category [[:Category:%(newcat)s|%(newcat)s]]',
