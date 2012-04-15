@@ -154,6 +154,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
+		'solve_disambiguation-links-removed': u'Rehberinda Roboti ra maneê bin: %(ra) - gırey hewadayış(i).',
 		'solve_disambiguation-unknown-page': u'(Ne sılasneno)',
 	},
 	# Author: Glavkos
@@ -165,15 +166,6 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Υποβοηθούμενη αποσαφήνιση από ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν)',
 		'solve_disambiguation-redirect-resolved': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αλλάχτηκε(αν) προς  %(to)s',
 		'solve_disambiguation-unknown-page': u'(άγνωστο)',
-	},
-	'en': {
-		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
-		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
-		'solve_disambiguation-links-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
-		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
-		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
-		'solve_disambiguation-unknown-page': u'(unknown)',
 	},
 	# Author: Mihxil
 	'eo': {
@@ -863,6 +855,16 @@ msg = {
 		'solve_disambiguation-redirect-adding-dn-template': u'機器人輔助消除歧義：%(from)s - 標記為需要專家關注',
 		'solve_disambiguation-redirect-removed': u'機器人輔助消除歧義：%(from)s - 刪除鏈接',
 		'solve_disambiguation-redirect-resolved': u'機器人輔助消除歧義：%(from)s - 連接改為%(to)s',
+		'solve_disambiguation-unknown-page': u'(未知)',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'solve_disambiguation-adding-dn-template': u'機械人消歧義：%(from)s-標記為需要專家關注',
+		'solve_disambiguation-links-removed': u'機械人消歧義：%(from)s-刪除鏈接',
+		'solve_disambiguation-links-resolved': u'機械人消歧義：%(from)s-更改鏈接至%(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'機械人消歧義：%(from)s-標記為需專家關注',
+		'solve_disambiguation-redirect-removed': u'機械人消歧義：%(from)s-刪除鏈接',
+		'solve_disambiguation-redirect-resolved': u'機械人消歧義：%(from)s-更改鏈接至%(to)s',
 		'solve_disambiguation-unknown-page': u'(未知)',
 	},
 }

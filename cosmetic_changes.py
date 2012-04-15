@@ -89,10 +89,6 @@ msg = {
 		'cosmetic_changes-append': u'; διακοσμητικές αλλαγές',
 		'cosmetic_changes-standalone': u'Ρομπότ: διακοσμητικές αλλαγές',
 	},
-	'en': {
-		'cosmetic_changes-append': u'; cosmetic changes',
-		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
-	},
 	'es': {
 		'cosmetic_changes-append': u'; cambios triviales',
 		'cosmetic_changes-standalone': u'Robot: Cambios triviales',
@@ -427,14 +423,20 @@ msg = {
 		'cosmetic_changes-append': u'; קאסמעטישע ענדערונגען',
 		'cosmetic_changes-standalone': u'באט: קאסמעטישע ענדערונגען',
 	},
-	# Author: Hydra
+	# Author: Yfdyh000
 	'zh': {
-		'cosmetic_changes-append': u';化妆品的变化',
-		'cosmetic_changes-standalone': u'机器人： 化妆品的变化',
+		'cosmetic_changes-append': u';整洁的变更',
+		'cosmetic_changes-standalone': u'机器人：整洁的变更',
 	},
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'cosmetic_changes-append': u';化妝品的變化',
-		'cosmetic_changes-standalone': u'機器人： 化妝品改變',
+		'cosmetic_changes-append': u';整潔化更改',
+		'cosmetic_changes-standalone': u'機械人：整潔化',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'cosmetic_changes-append': u'; 整潔化更改',
+		'cosmetic_changes-standalone': u'機械人整潔化',
 	},
 }

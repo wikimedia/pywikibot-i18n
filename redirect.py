@@ -93,8 +93,10 @@ msg = {
 		'redirect-remove-loop': u'[[VP:CSR#R1]]: [[Viquipèdia:Redirecció|Redirecció]] trencada, formant un bucle',
 	},
 	# Author: Asoxor
+	# Author: Marmzok
 	'ckb': {
 		'redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجار-ڕەوانەکردنەوە بۆ %(to)s',
+		'redirect-remove-broken': u'[[en:WP:CSD#G8|G8]]: [[en:Wikipedia:Redirec|ڕەوانەکەر]] بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە',
 	},
 	# Author: Dontlietome7
 	# Author: Spiffyk
@@ -132,12 +134,6 @@ msg = {
 		'redirect-fix-double': u'Ρομπότ: Διόρθωση διπλής ανακατεύθυνσης προς %(to)s',
 		'redirect-remove-broken': u'[[Βικιπαίδεια:Ανακατεύθυνση|Ανακατεύθυνση]] σε μια [[Βικιπαίδεια:Γρήγορη διαγραφή σελίδων#Ανακατευθύνσεις|σελίδα που διαγράφηκε ή δεν υπάρχει]].',
 		'redirect-remove-loop': u'Ο στόχος [[Βικιπαίδεια:Ανακατεύθυνση|ανακατεύθυνσης]] προκαλεί [[Βικιπαίδεια:Γρήγορη διαγραφή σελίδων#Ανακατευθύνσεις|βρόχο ανακατεύθυνσης]]',
-	},
-	'en': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deleted or non-existent page',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 	},
 	# Author: Mihxil
 	'eo': {
@@ -684,9 +680,17 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#R5|R5]]：[[Wikipedia:重定向|重定向]]目标构成循环',
 	},
 	# Author: Andrew971218
+	# Author: Justincheng12345
 	'zh-hant': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'機器人：修正雙重定向至%(to)s',
+		'redirect-fix-double': u'機械人：修正雙重定向至%(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的頁面',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]目標構成循環',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'機械人修正雙重定向至%(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的頁面',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]目標構成循環',
 	},

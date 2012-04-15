@@ -97,13 +97,6 @@ msg = {
 		'delete-linked-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που συνδέονται από την %(page)s',
 		'delete-referring-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που αναφέρονται από την %(page)s',
 	},
-	'en': {
-		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
-		'delete-from-file': u'Robot: Deleting a list of files.',
-		'delete-images': u'Robot: Deleting all images on page %(page)s',
-		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
-		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
-	},
 	# Author: Vivaelcelta
 	'es': {
 		'delete-from-category': u'Bot: Elimino todas las páginas de la categoría "%(page)s"',
@@ -460,11 +453,20 @@ msg = {
 	},
 	# Author: Breawycker
 	# Author: Lauhenry
+	# Author: Justincheng12345
 	'zh-hant': {
-		'delete-from-category': u'機器人： 刪除類別 （頁） %s 中的所有頁面',
-		'delete-from-file': u'機器人： 刪除的檔的清單。',
+		'delete-from-category': u'機械人：刪除所有来自%(page)s分類的頁面',
+		'delete-from-file': u'機械人：刪除列表中的檔案。',
 		'delete-images': u'機器人： 刪除「%(page)s」頁上的所有圖像',
-		'delete-linked-pages': u'機器人： 刪除所有頁面連結從 （頁） %s',
-		'delete-referring-pages': u'機器人： 刪除所有頁，指的從 %（頁） s',
+		'delete-linked-pages': u'機械人：删除所有從%(page)s鏈接的頁面',
+		'delete-referring-pages': u'機械人：删除所有從%(page)s指向的頁面',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'delete-from-category': u'機械人刪除所有来自%(page)s分類的頁面',
+		'delete-from-file': u'機械人正在刪除列表中的檔案。',
+		'delete-images': u'機械人刪除%(page)s中所有圖像',
+		'delete-linked-pages': u'機械人删除所有從%(page)s鏈接的頁面',
+		'delete-referring-pages': u'機械人删除所有從%(page)s指向的頁面',
 	},
 }

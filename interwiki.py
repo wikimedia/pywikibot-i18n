@@ -367,15 +367,6 @@ msg = {
 		'interwiki-removing': u'Robot A Tir via: %(removing)s',
 		'interwiki-removing-modifying': u'Robot A Tir via: %(removing)s A Cambi: %(modifying)s',
 	},
-	'en': {
-		'interwiki-adding': u'Robot: Adding %(adding)s',
-		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
-		'interwiki-adding-removing': u'Robot: Adding %(adding)s; removing: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: Adding %(adding)s; removing %(removing)s; modifying %(modifying)s',
-		'interwiki-modifying': u'Robot: Modifying %(modifying)s',
-		'interwiki-removing': u'Robot: Removing %(removing)s',
-		'interwiki-removing-modifying': u'Robot: Removing %(removing)s; modifying %(modifying)s',
-	},
 	'eo': {
 		'interwiki-adding': u'robota aldono de: %(adding)s',
 		'interwiki-adding-modifying': u'robota aldono de: %(adding)s modifo de: %(modifying)s',
@@ -1779,14 +1770,25 @@ msg = {
 	},
 	# Author: Alexsh
 	# Author: Andrew971218
+	# Author: Justincheng12345
 	'zh-hant': {
-		'interwiki-adding': u'機器人新增：%(adding)s',
-		'interwiki-adding-modifying': u'機器人添加：%(adding)s 修改：%(modifying)s',
-		'interwiki-adding-removing': u'機器人新增：%(adding)s 刪除：%(removing)s',
-		'interwiki-adding-removing-modifying': u'機器人添加：%(adding)s 刪除：%(removing)s 修改：%(modifying)s',
-		'interwiki-modifying': u'機器人修改：%(modifying)s',
-		'interwiki-removing': u'機器人移除： %(removing)s',
-		'interwiki-removing-modifying': u'機器人移除：%(removing)s 修改：%(modifying)s',
+		'interwiki-adding': u'機械人：新增%(adding)s',
+		'interwiki-adding-modifying': u'機械人：增加%(adding)s、修改%(modifying)s',
+		'interwiki-adding-removing': u'機械人：新增%(adding)s、刪除%(removing)s',
+		'interwiki-adding-removing-modifying': u'機械人：添加%(adding)s、刪除%(removing)s、修改%(modifying)s',
+		'interwiki-modifying': u'機械人：修改%(modifying)s',
+		'interwiki-removing': u'機械人：刪除%(removing)s',
+		'interwiki-removing-modifying': u'機械人：刪除%(removing)s、修改%(modifying)s',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'interwiki-adding': u'機械人新增%(adding)s',
+		'interwiki-adding-modifying': u'機械人增加%(adding)s、修改%(modifying)s',
+		'interwiki-adding-removing': u'機械人新增%(adding)s、刪除%(removing)s',
+		'interwiki-adding-removing-modifying': u'機械人添加%(adding)s、刪除%(removing)s、修改%(modifying)s',
+		'interwiki-modifying': u'機械人修改%(modifying)s',
+		'interwiki-removing': u'機械人刪除%(removing)s',
+		'interwiki-removing-modifying': u'機械人刪除%(removing)s、修改%(modifying)s',
 	},
 	'zh-min-nan': {
 		'interwiki-adding': u'bot ka-thiam: %(adding)s',

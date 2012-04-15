@@ -57,9 +57,6 @@ msg = {
 	'el': {
 		'clean_sandbox-cleaned': u'Ρομπότ: Καθαρίστηκε αυτόματα',
 	},
-	'en': {
-		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
-	},
 	# Author: Airon90
 	'eo': {
 		'clean_sandbox-cleaned': u'Roboto: Aŭtomate viŝita',
@@ -270,5 +267,9 @@ msg = {
 	# Author: Waihorace
 	'zh-hant': {
 		'clean_sandbox-cleaned': u'機械人：自動清除',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'clean_sandbox-cleaned': u'機械人自動清除',
 	},
 }

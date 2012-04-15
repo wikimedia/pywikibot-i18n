@@ -35,8 +35,9 @@ msg = {
 	'de': {
 		'unlink-unlinking': u'Bot: Entlinke „%s“',
 	},
-	'en': {
-		'unlink-unlinking': u'Robot: Unlinking "%s"',
+	# Author: Erdemaslancan
+	'diq': {
+		'unlink-unlinking': u'Robot: "%s" bê gıreyo',
 	},
 	# Author: Armando-Martin
 	'es': {
@@ -199,5 +200,9 @@ msg = {
 	# Author: Breawycker
 	'zh-hant': {
 		'unlink-unlinking': u'機器人： 斷開連結" %s "',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'unlink-unlinking': u'機械人取消“%s”鏈接',
 	},
 }

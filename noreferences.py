@@ -55,9 +55,6 @@ msg = {
 	'el': {
 		'noreferences-add-tag': u'Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε',
 	},
-	'en': {
-		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
-	},
 	'eo': {
 		'noreferences-add-tag': u'Roboto: Aldono de "<references />"',
 	},
@@ -271,7 +268,12 @@ msg = {
 		'noreferences-add-tag': u'机器人：添加缺少的<references />标签',
 	},
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'noreferences-add-tag': u'機器人： 添加缺少<references></references>標記',
+		'noreferences-add-tag': u'機械人：添加缺少的<references/>標記',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'noreferences-add-tag': u'機械人添加缺少的<references/>標記',
 	},
 }

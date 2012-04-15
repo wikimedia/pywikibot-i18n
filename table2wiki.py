@@ -56,10 +56,10 @@ msg = {
 		'table2wiki-no-warning': u'Bot: Tabellensyntax konvertiert',
 		'table2wiki-warnings': u'Bot: Tabellensyntax konvertiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!',
 	},
-	# Author: Xqt
-	'en': {
-		'table2wiki-no-warning': u'User-controlled robot: Table syntax updated',
-		'table2wiki-warnings': u'User-controlled robot: Table syntax updated - {{PLURAL:count|1 warning|%(count)d warnings}}!',
+	# Author: Erdemaslancan
+	'diq': {
+		'table2wiki-no-warning': u'Karberê qontrolkarê boti: imlay tabloy kerd newi',
+		'table2wiki-warnings': u'Karberê qontrolkarê boti: imlay tabloy kerd newi {{PLURAL:count|1|%(count)d}}',
 	},
 	# Author: Xqt
 	'es': {
@@ -289,8 +289,14 @@ msg = {
 		'table2wiki-warnings': u'用户控制机器人：更新表语法——但有%(count)d个警告！',
 	},
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
 		'table2wiki-no-warning': u'使用者控制的機器人： 表更新的語法',
-		'table2wiki-warnings': u'使用者控制的機器人： 表語法更新-  {{PLURAL:count| 1 warning| %(計數） d 警告}} ！',
+		'table2wiki-warnings': u'手動控制機械人進行表語法更新-出現%(count)d個警告！',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'table2wiki-no-warning': u'手動控制機械人進行表語法更新',
+		'table2wiki-warnings': u'手動控制機械人進行表語法更新-出現%(count)d個警告！',
 	},
 }

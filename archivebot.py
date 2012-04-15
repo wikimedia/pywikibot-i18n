@@ -117,13 +117,6 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'παλαιότερο από',
 	},
-	'en': {
-		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].',
-		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-older-than': u'older than',
-		'archivebot-page-summary': u'Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
-	},
 	# Author: Vivaelcelta
 	# Author: Armando-Martin
 	'es': {
@@ -552,11 +545,20 @@ msg = {
 		'archivebot-page-summary': u'正在存档%(count)d个%(why)s到%(archives)s。',
 	},
 	# Author: Waihorace
+	# Author: Justincheng12345
 	'zh-hant': {
 		'archivebot-archive-full': u'(存檔已滿)',
-		'archivebot-archive-summary': u'正在存檔%(count)d個來自[[%(from)s]]的討論。',
+		'archivebot-archive-summary': u'正在儲存%(count)d個來自[[%(from)s]]的執行緒。',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'早於',
-		'archivebot-page-summary': u'正在存檔%(count)d個%(why)s到%(archives)s。',
+		'archivebot-page-summary': u'正在將%(count)d個執行緒(%(why)s)儲存至%(archives)s。',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'archivebot-archive-full': u'(存檔已滿)',
+		'archivebot-archive-summary': u'正在儲存%(count)d個來自[[%(from)s]]的執行緒。',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'早於',
+		'archivebot-page-summary': u'正在將%(count)d個執行緒(%(why)s)儲存至%(archives)s。',
 	},
 }

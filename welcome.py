@@ -94,6 +94,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
+		'welcome-updating': u'Robot:Qeyd newekerdış',
 		'welcome-welcome': u'Xeyr amey',
 	},
 	# Author: Crazymadlover
@@ -102,11 +103,6 @@ msg = {
 		'welcome-bad_username': u'Ρομπότ: Προσθήκη ονόματος χρήστη που χρειάζεται έλεγχο',
 		'welcome-updating': u'Ρομπότ: Ενημέρωση αρχείου καταγραφής',
 		'welcome-welcome': u'Καλώς ήρθατε!',
-	},
-	'en': {
-		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
-		'welcome-updating': u'Robot: Updating log',
-		'welcome-welcome': u'Welcome!',
 	},
 	# Author: Crazymadlover
 	# Author: Vivaelcelta
@@ -461,9 +457,16 @@ msg = {
 	},
 	# Author: Lauhenry
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'welcome-bad_username': u'機器人： 添加需要檢查的使用者名',
+		'welcome-bad_username': u'機械人添加需要檢查的用戶名',
 		'welcome-updating': u'機器人： 更新日誌',
+		'welcome-welcome': u'歡迎！',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'welcome-bad_username': u'機械人添加需要檢查的用戶名',
+		'welcome-updating': u'機械人更新日誌',
 		'welcome-welcome': u'歡迎！',
 	},
 	'zh-yue': {

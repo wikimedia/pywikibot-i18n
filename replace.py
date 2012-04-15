@@ -61,9 +61,6 @@ msg = {
 	'el': {
 		'replace-replacing': u'Ρομπότ: Αυτόματη αντικατάσταση κειμένου %(description)s',
 	},
-	'en': {
-		'replace-replacing': u'Robot: Automated text replacement %(description)s',
-	},
 	# Author: Mihxil
 	'eo': {
 		'replace-replacing': u'Roboto: Automata tekst-anstataŭigo: %(description)s',
@@ -337,7 +334,12 @@ msg = {
 		'replace-replacing': u'机器人：自动文本替换%(description)s',
 	},
 	# Author: Andrew971218
+	# Author: Justincheng12345
 	'zh-hant': {
-		'replace-replacing': u'機器人：自動替換文字%(description)s',
+		'replace-replacing': u'機械人：自動替換文字%(description)s',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'replace-replacing': u'機械人自動替換文字%(description)s',
 	},
 }

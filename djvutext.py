@@ -39,9 +39,6 @@ msg = {
 	'de': {
 		'djvutext-creating': u'Robot: Erstelle eine Seite mit aus DjVu extrahiertem Text',
 	},
-	'en': {
-		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
-	},
 	# Author: Armando-Martin
 	'es': {
 		'djvutext-creating': u'Robot: Creando página con texto extraído de DjVu',
@@ -199,7 +196,12 @@ msg = {
 		'djvutext-creating': u'机器人：创建文本由DjVu提取的页面',
 	},
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'djvutext-creating': u'機器人： 創建頁，從 DjVu 中提取文本',
+		'djvutext-creating': u'機械人：為從DjVu中提取頁面創建檔案',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'djvutext-creating': u'機械人為從DjVu中提取頁面創建檔案',
 	},
 }
