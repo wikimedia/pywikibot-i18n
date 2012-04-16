@@ -349,4 +349,14 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
 		'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
 	},
+	# Author: Justincheng12345
+	'zh-hant': {
+		'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
+		'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有此檔案。',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
+		'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有此檔案。',
+	},
 }

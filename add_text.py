@@ -114,6 +114,10 @@ msg = {
 	'de-ch': {
 		'add_text-adding': u'Bot: %(adding)s hinzugefügt',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'add_text-adding': u'Robot: Debêno %(adding)s',
+	},
 	'dv': {
 		'add_text-adding': u'ރޮބޮޓ އިތުރު ކުރުނ %(adding)s',
 	},
@@ -582,10 +586,14 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'add_text-adding': u'机器人: 添加 %(adding)s',
+		'add_text-adding': u'机器人：添加 %(adding)s',
 	},
 	'zh-hant': {
 		'add_text-adding': u'機器人新增：%(adding)s',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'add_text-adding': u'機械人新增：%(adding)s',
 	},
 	'zh-min-nan': {
 		'add_text-adding': u'bot ka-thiam %(adding)s',

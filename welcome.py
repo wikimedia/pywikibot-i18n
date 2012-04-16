@@ -94,6 +94,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
+		'welcome-updating': u'Robot:Qeyd newekerdış',
 		'welcome-welcome': u'Xeyr amey',
 	},
 	# Author: Crazymadlover
@@ -461,9 +462,16 @@ msg = {
 	},
 	# Author: Lauhenry
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'welcome-bad_username': u'機器人： 添加需要檢查的使用者名',
+		'welcome-bad_username': u'機械人添加需要檢查的用戶名',
 		'welcome-updating': u'機器人： 更新日誌',
+		'welcome-welcome': u'歡迎！',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'welcome-bad_username': u'機械人添加需要檢查的用戶名',
+		'welcome-updating': u'機械人更新日誌',
 		'welcome-welcome': u'歡迎！',
 	},
 	'zh-yue': {

@@ -37,6 +37,10 @@ msg = {
 	'de': {
 		'movepages-moving': u'Bot: Seite verschoben',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'movepages-moving': u'Robot: Pelaya berdin',
+	},
 	'el': {
 		'movepages-moving': u'Μετακίνηση σελίδων με bot',
 	},
@@ -225,7 +229,12 @@ msg = {
 		'movepages-moving': u'机器人：移动页面',
 	},
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'movepages-moving': u'機器人： 移動頁',
+		'movepages-moving': u'機械人：移動頁面',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'movepages-moving': u'機械人移動頁面',
 	},
 }

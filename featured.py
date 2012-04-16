@@ -444,4 +444,18 @@ msg = {
 		'featured-good': u'机器人：%(page)s是一篇优良条目',
 		'featured-list': u'机器人：%(page)s是一篇特色列表',
 	},
+	# Author: Justincheng12345
+	'zh-hant': {
+		'featured-featured': u'機械人：%(page)s為特色條目',
+		'featured-former': u'機械人：%(page)s曾經是一特色條目',
+		'featured-good': u'機械人：%(page)s為優良條目',
+		'featured-list': u'機械人：%(page)s為特色列表',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'featured-featured': u'機械人將%(page)s列為特色條目',
+		'featured-former': u'機械人將%(page)s列為曾經的特色條目',
+		'featured-good': u'機械人將%(page)s列為優良條目',
+		'featured-list': u'機械人將%(page)s列為特色列表',
+	},
 }

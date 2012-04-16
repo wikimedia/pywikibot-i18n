@@ -194,7 +194,12 @@ msg = {
 		'fixing_redirects-fixing': u'机器人：修理重定向',
 	},
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'fixing_redirects-fixing': u'Bot： 固定的重定向',
+		'fixing_redirects-fixing': u'機械人：修補重定向',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'fixing_redirects-fixing': u'機械人修補重定向',
 	},
 }

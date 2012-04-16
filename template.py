@@ -68,6 +68,12 @@ msg = {
 		'template-removing': u'Bot: Entferne {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 		'template-substituting': u'Bot: Umgehe {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'template-changing': u'Robot: {{PLURAL:%(num)d|şablon|şablona}}: %(list)s ra Vurneno',
+		'template-removing': u'Robot: {{PLURAL:%(num)d|şablon|şabloni}}: %(list)s ra Wedarênê',
+		'template-substituting': u'Robot: {{PLURAL:%(num)d|şablon|şablon}}: %(list)s Cay cı vurneno',
+	},
 	# Author: Geraki
 	'el': {
 		'template-changing': u'Ρομπότ: Αλλαγή {{PLURAL:%(num)d| προτύπου|προτύπων}}: %(list)s',
@@ -327,5 +333,17 @@ msg = {
 		'template-changing': u'机器人：修改{{PLURAL:%(num)d|模板|模板}}：%(list)s',
 		'template-removing': u'机器人：删除{{PLURAL:%(num)d|模板|模板}}：%(list)s',
 		'template-substituting': u'机器人：替换{{PLURAL:%(num)d|模板|模板}}：%(list)s',
+	},
+	# Author: Justincheng12345
+	'zh-hant': {
+		'template-changing': u'機械人更改%(num)d個模板：%(list)s',
+		'template-removing': u'機械人刪除%(num)d個模板：%(list)s',
+		'template-substituting': u'機械人替換%(num)d個模板：%(list)s',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'template-changing': u'機械人更改%(num)d個模板：%(list)s',
+		'template-removing': u'機械人刪除%(num)d個模板：%(list)s',
+		'template-substituting': u'機械人替換%(num)d個模板：%(list)s',
 	},
 }

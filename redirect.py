@@ -93,8 +93,10 @@ msg = {
 		'redirect-remove-loop': u'[[VP:CSR#R1]]: [[Viquipèdia:Redirecció|Redirecció]] trencada, formant un bucle',
 	},
 	# Author: Asoxor
+	# Author: Marmzok
 	'ckb': {
 		'redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجار-ڕەوانەکردنەوە بۆ %(to)s',
+		'redirect-remove-broken': u'[[en:WP:CSD#G8|G8]]: [[en:Wikipedia:Redirec|ڕەوانەکەر]] بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە',
 	},
 	# Author: Dontlietome7
 	# Author: Spiffyk
@@ -123,6 +125,10 @@ msg = {
 		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
+	},
+	# Author: Erdemaslancan
+	'diq': {
+		'redirect-broken-redirect-template': u'{{bestere|y1}}',
 	},
 	# Author: Evropi
 	# Author: Geraki
@@ -684,9 +690,17 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#R5|R5]]：[[Wikipedia:重定向|重定向]]目标构成循环',
 	},
 	# Author: Andrew971218
+	# Author: Justincheng12345
 	'zh-hant': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'機器人：修正雙重定向至%(to)s',
+		'redirect-fix-double': u'機械人：修正雙重定向至%(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的頁面',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]目標構成循環',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'機械人修正雙重定向至%(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的頁面',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]目標構成循環',
 	},

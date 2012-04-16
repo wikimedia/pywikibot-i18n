@@ -271,4 +271,8 @@ msg = {
 	'zh-hant': {
 		'clean_sandbox-cleaned': u'機械人：自動清除',
 	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'clean_sandbox-cleaned': u'機械人自動清除',
+	},
 }

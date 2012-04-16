@@ -72,6 +72,10 @@ msg = {
 	'de-ch': {
 		'basic-changing': u'Bot: Ändere ...',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'basic-changing': u'Robot: Vurneyêno ...',
+	},
 	# Author: Glavkos
 	'el': {
 		'basic-changing': u'Bot: Αλλάζει ...',
@@ -377,12 +381,16 @@ msg = {
 	'yi': {
 		'basic-changing': u'באָט: ענדערן ...',
 	},
-	# Author: Shizhao
+	# Author: Yfdyh000
 	'zh': {
-		'basic-changing': u'机器人： 修改...',
+		'basic-changing': u'机器人：修改...',
 	},
 	# Author: Waihorace
 	'zh-hant': {
 		'basic-changing': u'機械人：修改中...',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'basic-changing': u'機械人修改中...',
 	},
 }

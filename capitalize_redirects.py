@@ -58,6 +58,10 @@ msg = {
 	'de-ch': {
 		'capitalize_redirects-create-redirect': u'Bot: Weiterleitung angelegt auf [[%(to)s]]',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'capitalize_redirects-create-redirect': u'Robot: Vıraştışi açarneno [[%(to)s]]',
+	},
 	# Author: Geraki
 	'el': {
 		'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]',
@@ -261,5 +265,9 @@ msg = {
 	# Author: Waihorace
 	'zh-hant': {
 		'capitalize_redirects-create-redirect': u'機械人：創建重定向至[[%(to)s]]',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'capitalize_redirects-create-redirect': u'機械人創建重定向至[[%(to)s]]',
 	},
 }

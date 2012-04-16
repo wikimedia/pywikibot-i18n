@@ -215,7 +215,12 @@ msg = {
 		'catall-changing': u'机器人：修改分类',
 	},
 	# Author: Breawycker
+	# Author: Justincheng12345
 	'zh-hant': {
-		'catall-changing': u'機器人： 更改類別',
+		'catall-changing': u'機器人：更改分類',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'catall-changing': u'機械人更改分類',
 	},
 }
