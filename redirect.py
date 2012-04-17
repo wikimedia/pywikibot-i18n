@@ -124,7 +124,7 @@ msg = {
 	'de': {
 		'redirect-broken-redirect-template': u'{{Löschen|Kaputte Weiterleitung}}',
 		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
-		'redirect-fix-double': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
+		'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
 	},
@@ -202,7 +202,7 @@ msg = {
 	'fr': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot : répare double redirection à %(to)s',
-		'redirect-fix-double': u'Robot : répare boucle de redirection à %(to)s',
+		'redirect-fix-loop': u'Robot : répare boucle de redirection à %(to)s',
 		'redirect-remove-broken': u'Robot : Cible du redirect inexistante',
 		'redirect-remove-loop': u'Bot : la cible de la redirection forme une boucle de redirection',
 	},
