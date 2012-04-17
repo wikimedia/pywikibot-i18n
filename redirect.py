@@ -11,6 +11,7 @@ msg = {
 	'af': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot: dubbele aanstuur na %(to)s reggemaak',
+		'redirect-fix-loop': u'Robot: sirkulêre aanstuur na %(to)s reggemaak',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: Verwyder [[Wikipedia:Redirect|aanstuur]] na nie-bestaande bladsy',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Sirkulêre [[Wikipedia:Redirect|aanstuur]]',
 	},
@@ -123,6 +124,7 @@ msg = {
 	'de': {
 		'redirect-broken-redirect-template': u'{{Löschen|Kaputte Weiterleitung}}',
 		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
+		'redirect-fix-double': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
 	},
@@ -142,6 +144,7 @@ msg = {
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
+		'redirect-fix-loop': u'Robot: Fixing redirect loop to %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deleted or non-existent page',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 	},
@@ -199,6 +202,7 @@ msg = {
 	'fr': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot : répare double redirection à %(to)s',
+		'redirect-fix-double': u'Robot : répare boucle de redirection à %(to)s',
 		'redirect-remove-broken': u'Robot : Cible du redirect inexistante',
 		'redirect-remove-loop': u'Bot : la cible de la redirection forme une boucle de redirection',
 	},
