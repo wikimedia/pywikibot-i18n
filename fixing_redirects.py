@@ -91,8 +91,9 @@ msg = {
 	'it': {
 		'fixing_redirects-fixing': u'Bot: Correzione redirect',
 	},
+	# Author: Shirayuki
 	'ja': {
-		'fixing_redirects-fixing': u'ロボットによる:リダイレクト回避',
+		'fixing_redirects-fixing': u'ロボットによる: リダイレクト回避',
 	},
 	# Author: Purodha
 	'ksh': {

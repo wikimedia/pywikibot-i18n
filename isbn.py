@@ -180,8 +180,9 @@ msg = {
 		'isbn-formatting': u'Bot: Formatto ISBN',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
-		'isbn-formatting': u'ロボット: ISBN の整形',
+		'isbn-formatting': u'ロボットによる: ISBN の整形',
 	},
 	# Author: Purodha
 	'ksh': {

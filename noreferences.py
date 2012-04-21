@@ -130,8 +130,9 @@ msg = {
 	'it': {
 		'noreferences-add-tag': u'Bot: Aggiungo il tag <references /> mancante',
 	},
+	# Author: Shirayuki
 	'ja': {
-		'noreferences-add-tag': u'ロボットによる: <references /> タグの補完。',
+		'noreferences-add-tag': u'ロボットによる: <references /> タグの補完',
 	},
 	'ko': {
 		'noreferences-add-tag': u'봇: 이전에 없던 <references /> 추가',

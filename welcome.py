@@ -184,9 +184,10 @@ msg = {
 		'welcome-welcome': u'Witaj!',
 	},
 	# Author: Dj
+	# Author: Bináris
 	'hu': {
 		'welcome-bad_username': u'Bot: ellenőrizendő szerkesztőnév hozzáadása',
-		'welcome-updating': u'Bot: napló aktualizálás',
+		'welcome-updating': u'Bot: napló aktualizálása',
 		'welcome-welcome': u'Üdvözlet!',
 	},
 	# Author: McDutchie
@@ -219,9 +220,10 @@ msg = {
 		'welcome-updating': u'Bot: Aggiorno il log',
 		'welcome-welcome': u'Benvenuto/a!',
 	},
+	# Author: Shirayuki
 	'ja': {
-		'welcome-bad_username': u'Bot: 不適切な利用者名の報告',
-		'welcome-updating': u'Bot: 更新記録',
+		'welcome-bad_username': u'ロボットによる: 不適切な利用者名の報告',
+		'welcome-updating': u'ロボットによる: 更新記録',
 		'welcome-welcome': u'ウィキペディア日本語版へようこそ！',
 	},
 	'ka': {

@@ -11,7 +11,6 @@ msg = {
 	'af': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot: dubbele aanstuur na %(to)s reggemaak',
-		'redirect-fix-loop': u'Robot: sirkulêre aanstuur na %(to)s reggemaak',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: Verwyder [[Wikipedia:Redirect|aanstuur]] na nie-bestaande bladsy',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Sirkulêre [[Wikipedia:Redirect|aanstuur]]',
 	},
@@ -124,7 +123,6 @@ msg = {
 	'de': {
 		'redirect-broken-redirect-template': u'{{Löschen|Kaputte Weiterleitung}}',
 		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
-		'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
 	},
@@ -149,9 +147,10 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 	},
 	# Author: Mihxil
+	# Author: Xqt
 	'eo': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Roboto: Riparis duoblan alidirekton al  %(to)s',
+		'redirect-fix-double': u'Roboto: Riparis duoblan alidirekton al %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Alidirekto]] al forigita aŭ neekzistanta paĝo',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Alidirekta]] celas sin mem',
 	},
@@ -202,7 +201,6 @@ msg = {
 	'fr': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot : répare double redirection à %(to)s',
-		'redirect-fix-loop': u'Robot : répare boucle de redirection à %(to)s',
 		'redirect-remove-broken': u'Robot : Cible du redirect inexistante',
 		'redirect-remove-loop': u'Bot : la cible de la redirection forme une boucle de redirection',
 	},
@@ -261,11 +259,12 @@ msg = {
 	'hsb': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Bináris
 	'hu': {
 		'redirect-broken-redirect-template': u'{{azonnali|Hibás átirányítás}}',
 		'redirect-fix-double': u'Bot: %(to)s lapra mutató dupla átirányítás javítása',
-		'redirect-remove-broken': u'Bot: Törölt vagy nemlétező lapra mutató [[WP:REDIR|átirányítás]] törlése',
-		'redirect-remove-loop': u'Bot: A cél átirányítási hurkot hoz létre',
+		'redirect-remove-broken': u'Bot: Törölt vagy nem létező lapra mutató [[WP:REDIR|átirányítás]] törlése',
+		'redirect-remove-loop': u'Bot: körkörös átirányítás',
 	},
 	# Author: Xelgen
 	'hy': {
@@ -402,6 +401,7 @@ msg = {
 	'mk': {
 		'redirect-broken-redirect-template': u'{{db|[[ВП:КББ|O8]]}}',
 		'redirect-fix-double': u'Робот: Исправка на двојни пренасочувања → %(to)s',
+		'redirect-fix-loop': u'Робот: Поправа јамка на пренасочување кон %(to)s',
 		'redirect-remove-broken': u'[[ВП:КББ|О6]: [[Википедија:Пренасочување|Пренасочување]] кон избришана или непостоечка страница',
 		'redirect-remove-loop': u'[[ВП:КББ|О6]]: Одредницата за [[Википедија:Пренасочување|пренасочување]] образува јамка',
 	},

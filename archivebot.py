@@ -112,6 +112,7 @@ msg = {
 	'diq': {
 		'archivebot-archive-full': u'(ARŞİW HEME)',
 		'archivebot-archiveheader': u'{{Arşivê vatışan}}',
+		'archivebot-older-than': u'tewr verên',
 	},
 	# Author: Glavkos
 	'el': {
@@ -263,12 +264,13 @@ msg = {
 		'archivebot-page-summary': u'Archiviazione di %(count)d {{PLURAL:%(count)d|discussione|discussioni}} (%(why)s) in %(archives)s.',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
 		'archivebot-archive-full': u'(過去ログ満杯)',
-		'archivebot-archive-summary': u'%(count)d個のスレッドを[[%(from)s]]より過去ログ化',
+		'archivebot-archive-summary': u'%(count)d{{PLURAL:%(count)d|個のスレッド}}を[[%(from)s]]より過去ログ化',
 		'archivebot-archiveheader': u'{{Archives}}',
 		'archivebot-older-than': u'次より古い',
-		'archivebot-page-summary': u'%(count)d個のスレッド (%(why)s) を%(archives)sへ過去ログ化',
+		'archivebot-page-summary': u'%(count)d{{PLURAL:%(count)d|個のスレッド}} (%(why)s) を%(archives)sへ過去ログ化',
 	},
 	# Author: Kwj2772
 	'ko': {
@@ -547,10 +549,10 @@ msg = {
 	# Author: Yfdyh000
 	'zh': {
 		'archivebot-archive-full': u'（存档已满）',
-		'archivebot-archive-summary': u'正在存档%(count)d个来自[[%(from)s]]的讨论。',
+		'archivebot-archive-summary': u'存档%(count)d个来自[[%(from)s]]的讨论。',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'早于',
-		'archivebot-page-summary': u'正在存档%(count)d个%(why)s到%(archives)s。',
+		'archivebot-page-summary': u'存档%(count)d个%(why)s至%(archives)s。',
 	},
 	# Author: Waihorace
 	# Author: Justincheng12345

@@ -232,8 +232,9 @@ msg = {
 		'add_text-adding': u'Bot: Aggiungo %(adding)s',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
-		'add_text-adding': u'ロボット: %(adding)s を追加',
+		'add_text-adding': u'ロボットによる: %(adding)s を追加',
 	},
 	'ka': {
 		'add_text-adding': u'ბოტის დამატება %(adding)s',

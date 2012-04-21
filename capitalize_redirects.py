@@ -109,8 +109,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
 	},
 	# Author: Dj
+	# Author: Bináris
 	'hu': {
-		'capitalize_redirects-create-redirect': u'Bot: árirányítás létrehozása a(z) [[%(to)s]] lapra.',
+		'capitalize_redirects-create-redirect': u'Bot: árirányítás létrehozása a(z) [[%(to)s]] lapra',
 	},
 	# Author: McDutchie
 	'ia': {

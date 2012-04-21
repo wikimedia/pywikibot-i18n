@@ -229,12 +229,13 @@ msg = {
 		'delete-referring-pages': u'Robot: Cancellazione di tutte le pagine collegate da %(page)s',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
-		'delete-from-category': u'ロボット: カテゴリー「%(page)s」にあるページをすべて削除',
-		'delete-from-file': u'ロボット: ファイルのリストを削除',
-		'delete-images': u'ロボット: ページ「%(page)s」上の画像をすべて削除',
-		'delete-linked-pages': u'ロボット: 「%(page)s」からリンクされているページをすべて削除',
-		'delete-referring-pages': u'ロボット: 「%(page)s」を参照しているページをすべて削除',
+		'delete-from-category': u'ロボットによる: カテゴリー「%(page)s」にあるページをすべて削除',
+		'delete-from-file': u'ロボットによる: ファイルのリストを削除',
+		'delete-images': u'ロボットによる: ページ「%(page)s」上の画像をすべて削除',
+		'delete-linked-pages': u'ロボットによる: 「%(page)s」からリンクされているページをすべて削除',
+		'delete-referring-pages': u'ロボットによる: 「%(page)s」を参照しているページをすべて削除',
 	},
 	# Author: Purodha
 	'ksh': {

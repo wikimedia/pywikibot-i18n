@@ -91,6 +91,10 @@ msg = {
 	'it': {
 		'unlink-unlinking': u'Bot: Eliminazione collegamenti a "%s"',
 	},
+	# Author: Shirayuki
+	'ja': {
+		'unlink-unlinking': u'ロボット: リンクを解除中 "%s"',
+	},
 	# Author: Purodha
 	'ksh': {
 		'unlink-unlinking': u'Bot: Lenk op „%s“ fott nämme.',

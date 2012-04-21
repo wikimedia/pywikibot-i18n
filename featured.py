@@ -85,6 +85,13 @@ msg = {
 		'featured-good': u'Bot: %(page)s ist ein lesenswerter Artikel',
 		'featured-list': u'Bot: %(page)s ist eine informative Liste',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'featured-featured': u'Robot: %(page)s Wesiqeyo weşo',
+		'featured-former': u'Robot: %(page)s wesiqeyo weşo verêno',
+		'featured-good': u'Robot: %(page)s wesiqaya weşa',
+		'featured-list': u'Robot: %(page)s listeyo tewr weşan',
+	},
 	'dsb': {
 		'featured-featured': u'Bot: %(page)s jo wuběrny nastawk',
 	},
@@ -222,9 +229,10 @@ msg = {
 		'featured-list': u'Robot: %(page)s è un elenco da vetrina',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
 		'featured-featured': u'ロボットによる: 秀逸な記事へのリンク %(page)s',
-		'featured-former': u'ボットによる: %(page)s はかつて秀逸な記事でした',
+		'featured-former': u'ロボットによる: %(page)s はかつて秀逸な記事でした',
 		'featured-good': u'ロボットによる: 良質な記事へのリンク %(page)s',
 		'featured-list': u'ロボットによる: 秀逸な一覧へのリンク %(page)s',
 	},

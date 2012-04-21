@@ -1127,8 +1127,18 @@ msg = {
 		'category-version-history': u'Edit summary when the bot saves page\' version history while category moving',
 	},
 	# Author: Xqt
+	# Author: Kazu89
 	'rm': {
-		'category-adding': u'Bot: Agiunt category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Bot: Agiunt la categoria [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(era en %(alsocat)s)',
+		'category-changing': u'Bot: Midar %(oldcat)s tar %(newcat)s',
+		'category-listifying': u'Bot: Glista dal cuntegn da %(fromcat)s ({{PLURAL:%(num)d|1 pagina|%(num)d paginas}})',
+		'category-removing': u'Bot: Allontanar da %(oldcat)s',
+		'category-replacing': u'Bot: Remplazzar %(oldcat)s cun %(newcat)s',
+		'category-section-title': u'Cronologia da l\'anteriura %(oldcat)s',
+		'category-version-history': u'Bot: Memorisar la cronologia da versiuns da l\'anteriura %(oldcat)s',
+		'category-was-disbanded': u'Bot: La categoria è vegnida eliminada',
+		'category-was-moved': u'Bot: La categoria è vegnida spustada tar [[:Categoria:%(newcat)s|%(title)s]]',
 	},
 	# Author: Minisarm
 	'ro': {

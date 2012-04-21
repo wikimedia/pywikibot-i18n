@@ -71,7 +71,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'template-changing': u'Robot: {{PLURAL:%(num)d|şablon|şablona}}: %(list)s ra Vurneno',
-		'template-removing': u'Robot: {{PLURAL:%(num)d|şablon|şabloni}}: %(list)s ra Wedarênê',
+		'template-removing': u'Bot: Veceno: {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: {{PLURAL:%(num)d|şablon|şablon}}: %(list)s Cay cı vurneno',
 	},
 	# Author: Geraki
@@ -167,10 +167,11 @@ msg = {
 		'template-substituting': u'Robot: Sostituzione di {{PLURAL:%(num)d|template|template}}: %(list)s',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
-		'template-changing': u'ロボット: {{PLURAL:%(num)d|テンプレート}}の変更: %(list)s',
-		'template-removing': u'ロボット: {{PLURAL:%(num)d|テンプレート}}の除去: %(list)s',
-		'template-substituting': u'ロボット: {{PLURAL:%(num)d|テンプレート}}の展開: %(list)s',
+		'template-changing': u'ロボットによる: {{PLURAL:%(num)d|テンプレート}}の変更: %(list)s',
+		'template-removing': u'ロボットによる: {{PLURAL:%(num)d|テンプレート}}の除去: %(list)s',
+		'template-substituting': u'ロボットによる: {{PLURAL:%(num)d|テンプレート}}の展開: %(list)s',
 	},
 	'kk': {
 		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',

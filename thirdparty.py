@@ -156,8 +156,9 @@ msg = {
 	},
 	# Author: Spiffyk
 	# Author: Tchoř
+	# Author: Jezevec
 	'cs': {
-		'thirdparty-drtrigonbot-subster-summary-mod': u'nahrazuji: %(tags)',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'nahrazuji: %(tags)s tag(y)',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskuse změněna',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskuse uzavřena',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ZPRÁVA ROBOTA',
@@ -201,7 +202,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESACE ROBOTİ',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Mınaqeşeyo newe',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Xeberdar',
-		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s vurnayışê peyêni] (%(page_size)s bytes) by %(karber)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s vurnayışê verêni] (%(page_size)s bayto)  %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(Vurneber merdum nê vineya)',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - vurnayışê peyenê [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
@@ -427,10 +428,12 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskusijne zjeće zaktualizowane: %(num)i zapiskow w %(page)s',
 	},
 	# Author: Dj
+	# Author: Bináris
 	'hu': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'%(tags)s tagek helyettesítése',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Vita módosult',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Téma lezárva',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT ÜZENET',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOTÜZENET',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Új téma',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Értesítés',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s utolsó szerkesztés] (%(page_size)s bájt) szerkesztette: %(user)s (%(time)s)',
@@ -439,11 +442,11 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nem található emberi szerkesztő)',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - utoljára [[User:%(user)s]] szerkesztette (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %Y. %B %d.',
-		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':*Bot figyelmeztető üzenet: %(page)s "\'\'%(warning)s\'\'"',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Vita összefoglaló hozzáadva: %(num)i hozzászólás',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Vita összefoglaló hozzáadva takarítással: %(num)i hozzászólás',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':*Figyelmeztetés a bottól: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Vita-összefoglaló hozzáadva: %(num)i hozzászólás',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Vita-összefoglaló hozzáadva takarítással: %(num)i hozzászólás',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Vita összefoglaló módosítva: %(num)i hozzászólás a(z) %(page)s oldalon',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Vita-összefoglaló módosítva: %(num)i hozzászólás a(z) %(page)s oldalon',
 	},
 	# Author: DrTrigon
 	# Author: McDutchie

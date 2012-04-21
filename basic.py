@@ -179,8 +179,9 @@ msg = {
 	'it': {
 		'basic-changing': u'Bot: Modifica ...',
 	},
+	# Author: Shirayuki
 	'ja': {
-		'basic-changing': u'ロボットによる：編集',
+		'basic-changing': u'ロボットによる: 編集',
 	},
 	# Author: វ័ណថារិទ្ធ
 	'km': {
