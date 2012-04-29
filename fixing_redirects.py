@@ -4,6 +4,10 @@ msg = {
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},
+	# Author: Naudefj
+	'af': {
+		'fixing_redirects-fixing': u'Robot: aansture reggemaak',
+	},
 	'ar': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},
@@ -67,6 +71,10 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'fixing_redirects-fixing': u'Bot: Arranxo a redirección',
+	},
+	# Author: Als-Holder
+	'als': {
+		'fixing_redirects-fixing': u'Bot: Umleitige repariert',
 	},
 	'he': {
 		'fixing_redirects-fixing': u'בוט: מתקן הפניות',
@@ -178,6 +186,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'fixing_redirects-fixing': u'தானியங்கி: வழிமாற்றிகள் சரிபார்க்கப்படுகின்றன',
+	},
+	# Author: Гусейн
+	'tly': {
+		'fixing_redirects-fixing': u'Бот: Истиғомәтон дәгиш карде печыније',
 	},
 	# Author: Incelemeelemani
 	'tr': {

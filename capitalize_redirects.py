@@ -4,6 +4,10 @@ msg = {
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},
+	# Author: Naudefj
+	'af': {
+		'capitalize_redirects-create-redirect': u'Robot: Skep aanstuur na [[%(to)s]]',
+	},
 	'ar': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},

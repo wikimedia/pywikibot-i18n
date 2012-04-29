@@ -8,6 +8,10 @@ msg = {
 		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
 		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
 	},
+	# Author: Naudefj
+	'af': {
+		'delete-from-file': u'Robot: skrap \'n lys van lêers.',
+	},
 	'ar': {
 		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
 		'delete-from-file': u'بوت: حذف قائمة من الملفات.',

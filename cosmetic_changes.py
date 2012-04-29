@@ -93,9 +93,10 @@ msg = {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
 	},
+	# Author: Xqt
 	'es': {
 		'cosmetic_changes-append': u'; cambios triviales',
-		'cosmetic_changes-standalone': u'Robot: Cambios triviales',
+		'cosmetic_changes-standalone': u'Bot: Cambios triviales',
 	},
 	# Author: Pikne
 	'et': {

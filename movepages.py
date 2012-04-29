@@ -4,6 +4,10 @@ msg = {
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
 	},
+	# Author: Naudefj
+	'af': {
+		'movepages-moving': u'Robot: bladsynaam gewysig',
+	},
 	'ar': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
 	},

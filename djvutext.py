@@ -43,8 +43,9 @@ msg = {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},
 	# Author: Armando-Martin
+	# Author: Xqt
 	'es': {
-		'djvutext-creating': u'Robot: Creando página con texto extraído de DjVu',
+		'djvutext-creating': u'Bot: Creando página con texto extraído de DjVu',
 	},
 	# Author: Pikne
 	'et': {
@@ -69,6 +70,10 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'djvutext-creating': u'Bot: Creo a páxina co texto extraído do DjVu',
+	},
+	# Author: Als-Holder
+	'als': {
+		'djvutext-creating': u'Robot: e Syte mit us DjVu extrahiertem Text aagleit',
 	},
 	# Author: Ofekalef
 	'he': {

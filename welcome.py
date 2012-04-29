@@ -314,6 +314,10 @@ msg = {
 		'welcome-updating': u'robot: oppdaterer logg',
 		'welcome-welcome': u'velkomen!',
 	},
+	# Author: Boulaur
+	'oc': {
+		'welcome-welcome': u'Benvenguda!',
+	},
 	'pdc': {
 		'welcome-bad_username': u'Bot: Yuusernaame zum iwwerpriefe',
 		'welcome-updating': u'Bot: Logfeil ennere',

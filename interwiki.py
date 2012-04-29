@@ -340,10 +340,10 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'interwiki-adding': u'Robot: Debêno %(adding)s',
+		'interwiki-adding': u'Boti: %(adding)s dekerd de',
 		'interwiki-adding-modifying': u'Robot: Debyayen %(adding)s; Vurnayen %(modifying)s o',
-		'interwiki-adding-removing': u'Robot: Debêno %(adding)s ; hewadeyêno: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: Debêno %(adding)s; Hewadeyêno %(removing)s; Vurneyêno %(modifying)s',
+		'interwiki-adding-removing': u'Boti: %(adding)s Dekerd de: %(removing)s Hewada',
+		'interwiki-adding-removing-modifying': u'Boti: %(adding)s Dekerd de: %(removing)s Hewada: %(modifying)s Vurna',
 		'interwiki-modifying': u'Robot: Vurneyêno %(modifying)s',
 		'interwiki-removing': u'Robot: Hewadeyêno %(removing)s',
 		'interwiki-removing-modifying': u'Robot: Hewadeyêno %(removing)s; Vurneyêno %(modifying)s',
@@ -395,14 +395,15 @@ msg = {
 		'interwiki-removing': u'robota forigo de: %(removing)s',
 		'interwiki-removing-modifying': u'robota forigo de: %(removing)s modifo de: %(modifying)s',
 	},
+	# Author: Xqt
 	'es': {
-		'interwiki-adding': u'robot Añadido: %(adding)s',
-		'interwiki-adding-modifying': u'robot Añadido: %(adding)s Modificado: %(modifying)s',
-		'interwiki-adding-removing': u'robot Añadido: %(adding)s Eliminado: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Añadido: %(adding)s Eliminado: %(removing)s Modificado: %(modifying)s',
-		'interwiki-modifying': u'robot Modificado: %(modifying)s',
-		'interwiki-removing': u'robot Eliminado: %(removing)s',
-		'interwiki-removing-modifying': u'robot Eliminado: %(removing)s Modificado: %(modifying)s',
+		'interwiki-adding': u'Bot Añadido: %(adding)s',
+		'interwiki-adding-modifying': u'Bot Añadido: %(adding)s Modificado: %(modifying)s',
+		'interwiki-adding-removing': u'Bot Añadido: %(adding)s Eliminado: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot Añadido: %(adding)s Eliminado: %(removing)s Modificado: %(modifying)s',
+		'interwiki-modifying': u'Bot Modificado: %(modifying)s',
+		'interwiki-removing': u'Bot Eliminado: %(removing)s',
+		'interwiki-removing-modifying': u'Bot Eliminado: %(removing)s Modificado: %(modifying)s',
 	},
 	# Author: Pikne
 	'et': {

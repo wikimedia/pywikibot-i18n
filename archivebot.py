@@ -8,12 +8,19 @@ msg = {
 		'archivebot-older-than': u'أقدم من',
 		'archivebot-page-summary': u'el archivage mte3 %(count) {{PLURAL:%(count)d|thread|threads}} (%(why)s) ila %(archives)s.',
 	},
+	# Author: Naudefj
+	'af': {
+		'archivebot-archive-full': u'(ARGIEF VOL)',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'ouer as',
+	},
+	# Author: DRIHEM
 	'ar': {
 		'archivebot-archive-full': u'(الأرشيف ممتلئ)',
-		'archivebot-archive-summary': u'أرشفة %(count)d قسم(أقسام) من [[%(from)s]].',
+		'archivebot-archive-summary': u'أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} من [[%(from)s]].',
 		'archivebot-archiveheader': u'{{أرشيف نقاش}}',
 		'archivebot-older-than': u'أقدم من',
-		'archivebot-page-summary': u'أرشفة %(count)d قسم(أقسام) (%(why)s) إلى %(archives)s.',
+		'archivebot-page-summary': u'أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} (%(why)s) إلى %(archives)s.',
 	},
 	# Author: Xuacu
 	'ast': {
@@ -59,12 +66,13 @@ msg = {
 		'archivebot-page-summary': u'Arhiviranje %(count)d nitova (%(why)s) u %(archives)s.',
 	},
 	# Author: SMP
+	# Author: Xqt
 	'ca': {
 		'archivebot-archive-full': u'(ARXIU PLE)',
-		'archivebot-archive-summary': u'Arxivant %(count)d fils de discussió de [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Arxivant %(count)d fils de discussió de [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'més antic que',
-		'archivebot-page-summary': u'Arxivant %(count)d fils de discussió (%(why)s) a %(archives)s.',
+		'archivebot-page-summary': u'Robot: Arxivant %(count)d fils de discussió (%(why)s) a %(archives)s.',
 	},
 	# Author: Asoxor
 	'ckb': {
@@ -94,10 +102,10 @@ msg = {
 	# Author: Xqt
 	'de': {
 		'archivebot-archive-full': u'(ARCHIV VOLL)',
-		'archivebot-archive-summary': u'Archiviere %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} von [[%(from)s]].',
+		'archivebot-archive-summary': u'Bot: Archiviere %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} von [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'älter als',
-		'archivebot-page-summary': u'%(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) nach %(archives)s archiviert.',
+		'archivebot-page-summary': u'Bot: %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) nach %(archives)s archiviert.',
 	},
 	# Author: Eruedin
 	# Author: Geitost
@@ -113,27 +121,30 @@ msg = {
 		'archivebot-archive-full': u'(ARŞİW HEME)',
 		'archivebot-archiveheader': u'{{Arşivê vatışan}}',
 		'archivebot-older-than': u'tewr verên',
+		'archivebot-page-summary': u'Boti: %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s.',
 	},
 	# Author: Glavkos
 	'el': {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'παλαιότερο από',
 	},
+	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'older than',
-		'archivebot-page-summary': u'Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
+		'archivebot-page-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
 	},
 	# Author: Vivaelcelta
 	# Author: Armando-Martin
+	# Author: Xqt
 	'es': {
 		'archivebot-archive-full': u'(ARCHIVO COMPLETO)',
-		'archivebot-archive-summary': u'Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} de [[%(from)s]].',
+		'archivebot-archive-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} de [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'más viejo que',
-		'archivebot-page-summary': u'Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s.',
+		'archivebot-page-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s.',
 	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
@@ -159,12 +170,13 @@ msg = {
 		'archivebot-older-than': u'eldri enn',
 	},
 	# Author: Gomoko
+	# Author: Xqt
 	'fr': {
 		'archivebot-archive-full': u'(ARCHIVE PLEINE)',
-		'archivebot-archive-summary': u'Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'plus ancien que',
-		'archivebot-page-summary': u'Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
+		'archivebot-page-summary': u'Robot: Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
 	},
 	# Author: ChrisPtDe
 	'frp': {
@@ -175,12 +187,13 @@ msg = {
 		'archivebot-page-summary': u'Arch·ivâjo de %(count)d fil(s) (%(why)s) de vers %(archives)s.',
 	},
 	# Author: Murma174
+	# Author: Xqt
 	'frr': {
 		'archivebot-archive-full': u'(ARCHIIF FOL)',
-		'archivebot-archive-summary': u'Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} faan [[%(from)s]].',
+		'archivebot-archive-summary': u'Bot: Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} faan [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'ääler üs',
-		'archivebot-page-summary': u'Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} (%(why)s) efter %(archives)s.',
+		'archivebot-page-summary': u'Bot: Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} (%(why)s) efter %(archives)s.',
 	},
 	# Author: Toliño
 	'gl': {
@@ -194,10 +207,10 @@ msg = {
 	# Author: Xqt
 	'als': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} vo [[%(from)s]] archiviere.',
+		'archivebot-archive-summary': u'Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} vo [[%(from)s]] archiviere.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'elter wie',
-		'archivebot-page-summary': u'Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) uff %(archives)s archiviere.',
+		'archivebot-page-summary': u'Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) uff %(archives)s archiviere.',
 	},
 	# Author: Amire80
 	# Author: Ofekalef
@@ -246,12 +259,13 @@ msg = {
 		'archivebot-page-summary': u'Iduldulin %(count)d thread(s) (%(why)s) idiay %(archives)s.',
 	},
 	# Author: Snævar
+	# Author: Xqt
 	'is': {
 		'archivebot-archive-full': u'(Skjalasafn fullt)',
-		'archivebot-archive-summary': u'Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafn frá [[%(from)s]].',
+		'archivebot-archive-summary': u'Vélmenni: Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafn frá [[%(from)s]].',
 		'archivebot-archiveheader': u'{{Spjallskjalasafn}}',
 		'archivebot-older-than': u'eldri en',
-		'archivebot-page-summary': u'Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafnið %(archives)s. (%(why)s)',
+		'archivebot-page-summary': u'Vélmenni: Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafnið %(archives)s. (%(why)s)',
 	},
 	# Author: Aushulz
 	# Author: Gianfranco
@@ -293,6 +307,7 @@ msg = {
 		'archivebot-page-summary': u'%(count)d {{PLURAL:%(count)d|Thread|Threads}} (%(why)s) ginn an %(archives)s archivéiert.',
 	},
 	# Author: Pahles
+	# Author: Xqt
 	'li': {
 		'archivebot-archive-full': u'(ARSJIEF VOL)',
 		'archivebot-archive-summary': u'Robot: %(count)d óngerwerp(e) gearchiveerd van [[%(from)s]].',
@@ -351,13 +366,13 @@ msg = {
 	'mt': {
 		'archivebot-older-than': u'eqdem minn',
 	},
-	# Author: Nghtwlkr
+	# Author: Xqt
 	'no': {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
-		'archivebot-archive-summary': u'Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].',
 		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'eldre enn',
-		'archivebot-page-summary': u'Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} (%(why)s) til %(archives)s.',
+		'archivebot-page-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} (%(why)s) til %(archives)s.',
 	},
 	# Author: Servien
 	'nds-nl': {
@@ -369,9 +384,10 @@ msg = {
 	},
 	# Author: SPQRobin
 	# Author: Siebrand
+	# Author: Xqt
 	'nl': {
 		'archivebot-archive-full': u'(ARCHIEF VOL)',
-		'archivebot-archive-summary': u'%(count)d  {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd van [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: %(count)d  {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd van [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'ouder dan',
 		'archivebot-page-summary': u'Robot: %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd naar %(archives)s (%(why)s).',
@@ -379,24 +395,26 @@ msg = {
 	# Author: Harald Khan
 	# Author: Njardarlogar
 	# Author: Nghtwlkr
+	# Author: Xqt
 	'nn': {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
-		'archivebot-archive-summary': u'Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} frå [[%(from)s]].',
+		'archivebot-archive-summary': u'robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} frå [[%(from)s]].',
 		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'eldre enn',
-		'archivebot-page-summary': u'Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} (%(why)s) til %(archives)s.',
+		'archivebot-page-summary': u'robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} (%(why)s) til %(archives)s.',
 	},
 	# Author: Xqt
 	'pdc': {
 		'archivebot-older-than': u'elder ass',
 	},
 	# Author: BeginaFelicysym
+	# Author: Xqt
 	'pl': {
 		'archivebot-archive-full': u'(ARCHIWUM PEŁNE)',
-		'archivebot-archive-summary': u'Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} z [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} z [[%(from)s]].',
 		'archivebot-archiveheader': u'{{archiwum}}',
 		'archivebot-older-than': u'starsze niż',
-		'archivebot-page-summary': u'Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} (%(why)s) do %(archives)s.',
+		'archivebot-page-summary': u'Robot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} (%(why)s) do %(archives)s.',
 	},
 	# Author: Dragonòt
 	'pms': {
@@ -407,12 +425,13 @@ msg = {
 		'archivebot-page-summary': u'Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] (%(why)s) an %(archives)s.',
 	},
 	# Author: Waldir
+	# Author: Xqt
 	'pt': {
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
-		'archivebot-archive-summary': u'A arquivar {{PLURAL:%(count)d|thread|threads}} de [[%(from)s]].',
+		'archivebot-archive-summary': u'Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} de [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'older than',
-		'archivebot-page-summary': u'A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s.',
+		'archivebot-page-summary': u'Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s.',
 	},
 	# Author: Pedroca cerebral
 	'pt-br': {
@@ -430,12 +449,13 @@ msg = {
 	},
 	# Author: Minisarm
 	# Author: Strainu
+	# Author: Xqt
 	'ro': {
 		'archivebot-archive-full': u'(ARHIVĂ COMPLETĂ)',
-		'archivebot-archive-summary': u'Se arhivează %(count)d discuții de la [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Se arhivează %(count)d discuții de la [[%(from)s]].',
 		'archivebot-archiveheader': u'{{arhivă}}',
 		'archivebot-older-than': u'mai vechi de',
-		'archivebot-page-summary': u'Se arhivează %(count)d discuții (%(why)s) în %(archives)s',
+		'archivebot-page-summary': u'Robot: Se arhivează %(count)d discuții (%(why)s) în %(archives)s',
 	},
 	# Author: Rubin
 	# Author: Express2000
@@ -512,12 +532,13 @@ msg = {
 	},
 	# Author: Khutuck
 	# Author: Emperyan
+	# Author: Xqt
 	'tr': {
 		'archivebot-archive-full': u'(TÜM ARŞİV)',
-		'archivebot-archive-summary': u'Arşivliyor: [[%(from)s]] sayfasından %(count)d başlık  .',
+		'archivebot-archive-summary': u'Bot: Arşivliyor: [[%(from)s]] sayfasından %(count)d başlık  .',
 		'archivebot-archiveheader': u'{{Arşiv alt}}',
 		'archivebot-older-than': u'daha eski',
-		'archivebot-page-summary': u'Arşivliyor: %(count)d {{PLURAL:%(count)d|başlık|başlık}} (%(why)s) buraya: %(archives)s.',
+		'archivebot-page-summary': u'Bot: Arşivliyor: %(count)d {{PLURAL:%(count)d|başlık|başlık}} (%(why)s) buraya: %(archives)s.',
 	},
 	# Author: A1
 	# Author: Dim Grits

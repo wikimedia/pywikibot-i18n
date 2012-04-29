@@ -116,7 +116,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'add_text-adding': u'Robot: Debêno %(adding)s',
+		'add_text-adding': u'Boti: %(adding)s dekerd de',
 	},
 	'dv': {
 		'add_text-adding': u'ރޮބޮޓ އިތުރު ކުރުނ %(adding)s',
@@ -133,8 +133,9 @@ msg = {
 	'eo': {
 		'add_text-adding': u'robota aldono de %(adding)s',
 	},
+	# Author: Xqt
 	'es': {
-		'add_text-adding': u'robot Añadido %(adding)s',
+		'add_text-adding': u'Bot Añadido %(adding)s',
 	},
 	# Author: Pikne
 	'et': {

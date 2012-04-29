@@ -4,6 +4,10 @@ msg = {
 	'aeb': {
 		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
 	},
+	# Author: Naudefj
+	'af': {
+		'noreferences-add-tag': u'Robot: Voeg vermiste <references />-etikette by',
+	},
 	'ar': {
 		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
 	},

@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: DRIHEM
+	'ar': {
+		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
+	},
 	# Author: Xuacu
 	'ast': {
 		'ndashredir-create': u'Bot: Creando redireición con guión a [[%(title)s]]',
@@ -23,6 +27,10 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'ndashredir-create': u'Bot: Creo unha redirección con guión cara a "[[%(title)s]]"',
+	},
+	# Author: Als-Holder
+	'als': {
+		'ndashredir-create': u'Bot: E Wyterleitig mit Bindestrich uf [[%(title)s]] aagleit',
 	},
 	# Author: Bináris
 	'hu': {
@@ -53,16 +61,33 @@ msg = {
 		'ndashredir-create': u'Robot: doorverwijzing met afbreekteken naar [[%(title)s]] aangemaakt',
 	},
 	# Author: Dragonòt
+	# Author: Borichèt
 	'pms': {
-		'ndashredir-create': u'Trigomiro: Creé rediression con "-" a [[%(title)s]]',
+		'ndashredir-create': u'Trigomiro: Creassion ëd ridiression con tratin vers [[%(title)s]]',
+	},
+	# Author: Malafaya
+	'pt': {
+		'ndashredir-create': u'Robô: A criar um redireccionamento hifenizado para [[%(title)s]]',
 	},
 	# Author: Ignatus
 	'ru': {
 		'ndashredir-create': u'Бот: Создание перенаправления с дефисом на [[%(title)s]]',
 	},
+	# Author: Rancher
+	'sr': {
+		'ndashredir-create': u'Бот: направљено преусмерење појма са цртицом на [[%(title)s]]',
+	},
+	# Author: Rancher
+	'sr-el': {
+		'ndashredir-create': u'Bot: napravljeno preusmerenje pojma sa crticom na [[%(title)s]]',
+	},
 	# Author: VickyC
 	'sv': {
 		'ndashredir-create': u'Bot: Skapar omdirigering med bindestreck till [[%(title)s]]',
+	},
+	# Author: Гусейн
+	'tly': {
+		'ndashredir-create': u'Бот: Истиғомәти дәгиш карде сохтеј де дефиси бә [[%(title)s]]',
 	},
 	# Author: Minh Nguyen
 	'vi': {
@@ -71,5 +96,13 @@ msg = {
 	# Author: Yfdyh000
 	'zh': {
 		'ndashredir-create': u'机器人：创建连字符的重定向到[[%(title)s]]',
+	},
+	# Author: Justincheng12345
+	'zh-hant': {
+		'ndashredir-create': u'機械人：創建連字符重定向到[[%(title)s]]',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'ndashredir-create': u'機械人創建連字符重定向到[[%(title)s]]',
 	},
 }

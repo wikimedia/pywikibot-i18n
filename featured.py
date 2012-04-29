@@ -7,6 +7,11 @@ msg = {
 		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
 		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
 	},
+	# Author: Naudefj
+	'af': {
+		'featured-good': u'Robot: %(page)s is \'n goeie artikel',
+		'featured-list': u'Robot: %(page)s is \'n uitgeligte lys',
+	},
 	'ar': {
 		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
 		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',

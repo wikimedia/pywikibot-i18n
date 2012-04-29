@@ -68,8 +68,9 @@ msg = {
 	'eo': {
 		'replace-replacing': u'Roboto: Automata tekst-anstataŭigo: %(description)s',
 	},
+	# Author: Xqt
 	'es': {
-		'replace-replacing': u'Robot: Reemplazo automático de texto %(description)s',
+		'replace-replacing': u'Bot: Reemplazo automático de texto %(description)s',
 	},
 	# Author: AivoK
 	# Author: Pikne

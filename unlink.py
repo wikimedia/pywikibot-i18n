@@ -43,8 +43,9 @@ msg = {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
 	},
 	# Author: Armando-Martin
+	# Author: Xqt
 	'es': {
-		'unlink-unlinking': u'Robot: Eliminando el enlace "%s"',
+		'unlink-unlinking': u'Bot: Eliminando el enlace "%s"',
 	},
 	# Author: Pikne
 	'et': {
@@ -67,6 +68,10 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'unlink-unlinking': u'Bot: Quito a ligazón cara a "%s"',
+	},
+	# Author: Als-Holder
+	'als': {
+		'unlink-unlinking': u'Bot: „%s“ entlinkt',
 	},
 	'he': {
 		'unlink-unlinking': u'בוט: מסיר קישורים לדף "%s"',

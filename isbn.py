@@ -91,8 +91,9 @@ msg = {
 		'isbn-formatting': u'Roboto: Aranĝis ISBN',
 	},
 	# Author: Dferg
+	# Author: Xqt
 	'es': {
-		'isbn-formatting': u'Robot: dando formato al ISBN',
+		'isbn-formatting': u'Bot: dando formato al ISBN',
 	},
 	# Author: Pikne
 	'et': {

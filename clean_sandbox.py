@@ -65,8 +65,9 @@ msg = {
 		'clean_sandbox-cleaned': u'Roboto: Aŭtomate viŝita',
 	},
 	# Author: Dferg
+	# Author: Xqt
 	'es': {
-		'clean_sandbox-cleaned': u'Robot: limpieza automatizada',
+		'clean_sandbox-cleaned': u'Bot: limpieza automatizada',
 	},
 	# Author: An13sa
 	'eu': {

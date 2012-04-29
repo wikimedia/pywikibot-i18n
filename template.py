@@ -85,10 +85,11 @@ msg = {
 		'template-removing': u'Robot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
 	},
+	# Author: Xqt
 	'es': {
 		'template-changing': u'Bot: Cambiada la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
-		'template-removing': u'Robot: Retirando {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
-		'template-substituting': u'Robot: Sustituyendo la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
+		'template-removing': u'Bot: Retirando {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
+		'template-substituting': u'Bot: Sustituyendo la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
 	},
 	# Author: ZxxZxxZ
 	'fa': {

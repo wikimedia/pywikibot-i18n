@@ -4,6 +4,10 @@ msg = {
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
 	},
+	# Author: Naudefj
+	'af': {
+		'catall-changing': u'Robot: wysig kategorieë',
+	},
 	'ar': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
 	},
@@ -46,8 +50,9 @@ msg = {
 		'catall-changing': u'Robot: Changing categories',
 	},
 	# Author: Armando-Martin
+	# Author: Xqt
 	'es': {
-		'catall-changing': u'Robot: Cambiando categorías',
+		'catall-changing': u'Bot: Cambiando categorías',
 	},
 	# Author: Pikne
 	'et': {
@@ -144,8 +149,9 @@ msg = {
 	'pdc': {
 		'catall-changing': u'Waddefresser: Abdeelinge ennere',
 	},
+	# Author: Xqt
 	'pl': {
-		'catall-changing': u'Bot: Zmiana kategorii',
+		'catall-changing': u'Robot: Zmiana kategorii',
 	},
 	# Author: Dragonòt
 	'pms': {

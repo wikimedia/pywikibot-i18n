@@ -22,12 +22,33 @@ msg = {
 	},
 	# Author: Naudefj
 	'af': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Bespreking gewysig',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Bespreking gesluit',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nuwe bespreking',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Kennisgewing',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 	},
 	# Author: Meno25
+	# Author: DRIHEM
 	'ar': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'أستبدال %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'تغير النقاش',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'أغلاق النقاش',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'رسالة روبوت',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'نقاش جديد',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'إعلام',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s آخر تعديل] (%(page_size)s بايت) من طرف %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s انتهت جميع النقاشات (توقفت المراقبة) - آخر تعديل تم من طرف %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nتم أنشاء التلخيص من طرف وعند: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(لم يعثر على أي محرر بشري)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - آخر تعديل تم من طرف [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* رسالة تحذير الروبوت: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'تم إضافة تلخيص للنقاس: %(num)i إدخالات',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'تم إضافة ملخص النقاش مع التعديل: %(num)i إدخالات',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'تم تحديث ملخص النقاش: %(num)i إدخالات في %(page)s',
 	},
 	# Author: DrTrigon
 	# Author: Xuacu
@@ -384,7 +405,9 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Actualizado o resumo da conversa: %(num)i entradas en %(page)s',
 	},
 	# Author: Als-Chlämens
+	# Author: Als-Holder
 	'als': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'%(tags)s tag(s) substituiert',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussion veränderet',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion abgschlosse',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT MESSAGE',
@@ -743,6 +766,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Overlegsamenvatting bijgewerkt: %(num)i regels in pagina %(page)s',
 	},
+	# Author: Boulaur
+	'oc': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robòt',
+	},
 	# Author: Xqt
 	'pdc': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Dischbedutt geennert',
@@ -862,6 +889,7 @@ msg = {
 	# Author: Minisarm
 	# Author: Strainu
 	'ro': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'se substituie eticheta/ele %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discuție modificată',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discuție închisă',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESAJ AUTOMAT',
@@ -873,7 +901,9 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – ultima modificare de [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mesaj de avertizare de la robot: %(page)s „\'\'%(warning)s\'\'”',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Adăugat rezumatul discuției: %(num)i intrări',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Rezumatul discuției actualizat: %(num)i intrări în %(page)s',
 	},
 	# Author: DrTrigon
 	# Author: Rubin
@@ -1036,6 +1066,7 @@ msg = {
 	},
 	# Author: Гусейн
 	'tly': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'Ым тегон дәгиш бејдән %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Мызокирә дәгиш быә',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Мызокирә бастә быә',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТИ ХӘБӘ',
@@ -1120,8 +1151,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'באט',
 	},
 	# Author: Anakmalaysia
+	# Author: Linforest
 	# Author: Yfdyh000
 	'zh': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'替换%(tags)s标签',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'讨论改变',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'关闭的讨论',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'机器人的消息',
