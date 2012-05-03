@@ -154,8 +154,9 @@ msg = {
 		'unlink-unlinking': u'Robô: Retirando link para "%s"',
 	},
 	# Author: Pedroca cerebral
+	# Author: 555
 	'pt-br': {
-		'unlink-unlinking': u'Bot: Retirando link para "%s"',
+		'unlink-unlinking': u'Bot: Removendo link para "%s"',
 	},
 	# Author: Minisarm
 	'ro': {

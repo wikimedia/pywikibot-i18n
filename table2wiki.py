@@ -217,9 +217,10 @@ msg = {
 		'table2wiki-warnings': u'Robô: Sintaxe da tabela HTML para Wiki atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'table2wiki-no-warning': u'Robô controlado por usuário: sintaxe de tabela atualizada',
-		'table2wiki-warnings': u'Robô controlado por usuário: sintaxe de tabela atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}!',
+		'table2wiki-no-warning': u'Bot controlado por usuário: Sintaxe de tabela atualizada',
+		'table2wiki-warnings': u'Bot controlado por usuário: Sintaxe de tabela atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}!',
 	},
 	# Author: Xqt
 	# Author: Siebrand

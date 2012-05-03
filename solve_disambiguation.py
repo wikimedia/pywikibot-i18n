@@ -154,7 +154,12 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'solve_disambiguation-links-removed': u'Rehberinda Roboti ra maneê bin: %(ra) - gırey hewadayış(i).',
+		'solve_disambiguation-adding-dn-template': u'Destegin da botiya maneo bin: %(from)s - Resber icab keno deye mor be',
+		'solve_disambiguation-links-removed': u'Rehberinda Boti ra maneo bin: %(from)s - gırey hewadeya.',
+		'solve_disambiguation-links-resolved': u'Destegin da Botiya maneo bin: %(from)s - Gıre(y) vurneyay u ard %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Destegin da botiya maneo bin: %(from)s - Resber icab keno deye mor be',
+		'solve_disambiguation-redirect-removed': u'Rehberinda Boti ra maneo bin: %(from)s - gırey hewadeya.',
+		'solve_disambiguation-redirect-resolved': u'Destegin da Botiya maneo bin: %(from)s - Gıre(y) vurneyay u ard %(to)s',
 		'solve_disambiguation-unknown-page': u'(Ne sılasneno)',
 	},
 	# Author: Glavkos
@@ -639,13 +644,14 @@ msg = {
 	},
 	# Author: Helder.wiki
 	# Author: Raylton P. Sousa
+	# Author: 555
 	'pt-br': {
-		'solve_disambiguation-adding-dn-template': u'Desambiguação assistida por bot: %(from)s - Marcada como necessitando de atenção especializada',
-		'solve_disambiguation-links-removed': u'Desambiguação auxiliada por robô: %(from)s link(s) removido(s)',
-		'solve_disambiguation-links-resolved': u'Desambiguação auxiliada por robô: %(from)s link(s) mudado(s) para %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Desambiguação auxiliada por robô: %(from)s - Marcado como precisando de atenção de especialistas',
-		'solve_disambiguation-redirect-removed': u'Desambiguação auxiliada por robô: %(from)s - link(s) removido(s)',
-		'solve_disambiguation-redirect-resolved': u'Desambiguação auxiliada por robô: %(from)s link(s) mudado(s) para %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Desambiguação assistida por bot: %(from)s - Marcado como precisando de atenção especializada',
+		'solve_disambiguation-links-removed': u'Desambiguação assistida por bot: %(from)s link(s) removido(s)',
+		'solve_disambiguation-links-resolved': u'Desambiguação assistida por bot: link para %(from)s trocado para %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Desambiguação assistida por bot: %(from)s - Marcado como precisando de atenção especializada',
+		'solve_disambiguation-redirect-removed': u'Desambiguação assistida por bot: %(from)s - link(s) removido(s)',
+		'solve_disambiguation-redirect-resolved': u'Desambiguação assistida por bot: link para %(from)s trocado por %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconhecido)',
 	},
 	# Author: EugeneZelenko

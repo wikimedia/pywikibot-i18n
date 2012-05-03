@@ -74,7 +74,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'basic-changing': u'Robot: Vurneyêno ...',
+		'basic-changing': u'Boti: Keno bıvurno ...',
 	},
 	# Author: Glavkos
 	'el': {
@@ -297,8 +297,9 @@ msg = {
 		'basic-changing': u'Robô: A alterar ...',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'basic-changing': u'Robô: Alterando ...',
+		'basic-changing': u'Bot: Alterando...',
 	},
 	# Author: Firilacroco
 	'ro': {

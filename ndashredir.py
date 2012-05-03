@@ -12,6 +12,10 @@ msg = {
 	'br': {
 		'ndashredir-create': u'Robot: o krouiñ adkasoù gant barrennigoù-stagañ war-zu [[%(title)s]]',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'ndashredir-create': u'Boti: nuşte de [[%(title)s]] melumato hetanayış vıraşt',
+	},
 	# Author: Bináris
 	'en': {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
@@ -69,9 +73,17 @@ msg = {
 	'pt': {
 		'ndashredir-create': u'Robô: A criar um redireccionamento hifenizado para [[%(title)s]]',
 	},
+	# Author: 555
+	'pt-br': {
+		'ndashredir-create': u'Bot: Criando redirecionamento hifenizado para [[%(title)s]]',
+	},
 	# Author: Ignatus
 	'ru': {
 		'ndashredir-create': u'Бот: Создание перенаправления с дефисом на [[%(title)s]]',
+	},
+	# Author: Dbc334
+	'sl': {
+		'ndashredir-create': u'Bot: Ustvarjanje preusmeritve z vezajem na [[%(title)s]]',
 	},
 	# Author: Rancher
 	'sr': {

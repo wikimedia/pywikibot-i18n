@@ -53,6 +53,10 @@ msg = {
 	'de': {
 		'clean_sandbox-cleaned': u'Bot: Setze Spielwiese zurück.',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'clean_sandbox-cleaned': u'Boti: Caye cerbnayışi besterna',
+	},
 	# Author: Geraki
 	'el': {
 		'clean_sandbox-cleaned': u'Ρομπότ: Καθαρίστηκε αυτόματα',
@@ -201,8 +205,9 @@ msg = {
 		'clean_sandbox-cleaned': u'Robô: Limpeza da página de testes',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'clean_sandbox-cleaned': u'Robô: Limpado automaticamente',
+		'clean_sandbox-cleaned': u'Bot: Limpeza automática',
 	},
 	'qqq': {
 		'clean_sandbox-cleaned': u'Summary message when the bot cleans sandbox',

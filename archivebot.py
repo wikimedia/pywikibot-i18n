@@ -118,7 +118,8 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'archivebot-archive-full': u'(ARŞİW HEME)',
+		'archivebot-archive-full': u'(ARŞİV PÊRO)',
+		'archivebot-archive-summary': u'Boti: [[%(from)s]] ke arşiv pela da %(count)d sernuşte  .',
 		'archivebot-archiveheader': u'{{Arşivê vatışan}}',
 		'archivebot-older-than': u'tewr verên',
 		'archivebot-page-summary': u'Boti: %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s.',
@@ -434,12 +435,13 @@ msg = {
 		'archivebot-page-summary': u'Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s.',
 	},
 	# Author: Pedroca cerebral
+	# Author: 555
 	'pt-br': {
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
-		'archivebot-archive-summary': u'Arquivo %(count)d thread(s) de [[%(from)s]].',
+		'archivebot-archive-summary': u'Arquivando %(count)d {{PLURAL:%(count)d|tópico|tópicos}} de [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'mais velho que',
-		'archivebot-page-summary': u'Arquivando %(count)d thread(s) (%(why)s) em %(archives)s.',
+		'archivebot-page-summary': u'Arquivando %(count)d {{PLURAL:%(count)d|tópico|tópicos}} (%(why)s) em %(archives)s.',
 	},
 	# Author: McDutchie
 	'qqq': {

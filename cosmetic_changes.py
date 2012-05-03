@@ -85,6 +85,11 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetische Änderungen',
 		'cosmetic_changes-standalone': u'Bot: Kosmetische Änderungen',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'cosmetic_changes-append': u'; kozmetik vurnayışi',
+		'cosmetic_changes-standalone': u'Boti: Kozmetik vurnayış ke',
+	},
 	'el': {
 		'cosmetic_changes-append': u'; διακοσμητικές αλλαγές',
 		'cosmetic_changes-standalone': u'Ρομπότ: διακοσμητικές αλλαγές',
@@ -313,9 +318,10 @@ msg = {
 		'cosmetic_changes-standalone': u'Robô: Mudanças triviais',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
 		'cosmetic_changes-append': u'; mudanças triviais',
-		'cosmetic_changes-standalone': u'Robô: Mudanças triviais',
+		'cosmetic_changes-standalone': u'Bot: Mudanças triviais',
 	},
 	# Author: Xqt
 	'qqq': {

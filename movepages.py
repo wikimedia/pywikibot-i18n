@@ -43,7 +43,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'movepages-moving': u'Robot: Pelaya berdin',
+		'movepages-moving': u'Boti:Pela wedarne',
 	},
 	'el': {
 		'movepages-moving': u'Μετακίνηση σελίδων με bot',
@@ -170,8 +170,9 @@ msg = {
 		'movepages-moving': u'Robô: Página movida',
 	},
 	# Author: Pedroca cerebral
+	# Author: 555
 	'pt-br': {
-		'movepages-moving': u'Robô: Página movida',
+		'movepages-moving': u'Bot: Página movida',
 	},
 	# Author: Minisarm
 	'ro': {

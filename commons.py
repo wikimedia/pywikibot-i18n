@@ -69,6 +69,11 @@ msg = {
 		'commons-file-moved': u'Bot: [[:File:%(localfile)s|Datei]] wurde nach [[:commons:File:%(commonsfile)s|commons]] verschoben.',
 		'commons-file-now-available': u'Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar.',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'commons-file-moved': u'[[:Dosya:%(localfile)s|Dosya]], berd site da [[:commons:File:%(commonsfile)s|commons]]i.',
+		'commons-file-now-available': u'Ena dosya henda proce de[[:commons:File:%(commonsfile)s|Wikimedia Commons]] zeredeya.',
+	},
 	# Author: Geraki
 	'el': {
 		'commons-file-moved': u'Το [[:File:%(localfile)s|αρχείο]] μετακινήθηκε στα [[:commons:File:%(commonsfile)s|commons]].',
@@ -265,9 +270,10 @@ msg = {
 		'commons-file-now-available': u'O ficheiro está agora no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'commons-file-moved': u'[[:File:%(localfile)s|File]] movido para o [[:commons:File:%(commonsfile)s|commons]].',
-		'commons-file-now-available': u'O arquivo está agora no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|Arquivo]] movido para o [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'O arquivo agora está disponível no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	'qqq': {
 		'commons-file-moved': u'Edit summary when the bot replaces usage of an image available under a different name. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons.',

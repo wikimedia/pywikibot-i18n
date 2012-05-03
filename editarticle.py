@@ -50,6 +50,10 @@ msg = {
 	'de': {
 		'editarticle-edit': u'Manuelle Bearbeitung: %(description)s',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'editarticle-edit': u'Boti: %(description)s xo desti timar ke',
+	},
 	# Author: Geraki
 	'el': {
 		'editarticle-edit': u'Μη αυτόματη επεξεργασία με ρομπότ: %(description)s',
@@ -189,8 +193,9 @@ msg = {
 		'editarticle-edit': u'A editar manualmente com bot: %(description)s',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'editarticle-edit': u'Editando manualmente com um bot: %(description)s',
+		'editarticle-edit': u'Edição manual via Bot: %(description)s',
 	},
 	'qqq': {
 		'editarticle-edit': u'Edit summary when the bot owner edits a text while the bot invoked an editor. <code>%(descriptions)s</code> gives further informations.',

@@ -256,10 +256,11 @@ msg = {
 		'template-substituting': u'Robô: A substituir {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
 	},
 	# Author: Pedroca cerebral
+	# Author: 555
 	'pt-br': {
-		'template-changing': u'Robô: Alterando {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
-		'template-removing': u'Robô: Removendo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
-		'template-substituting': u'Robô: Substituindo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
+		'template-changing': u'Bot: Alterando {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
+		'template-removing': u'Bot: Removendo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
+		'template-substituting': u'Bot: Substituindo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
 	},
 	# Author: Minisarm
 	'ro': {

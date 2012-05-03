@@ -153,6 +153,15 @@ msg = {
 		'category_redirect-edit-request': u'Die folgenden geschützten Seiten benötigen noch eine Kategorielink-Aktualisierung: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'category_redirect-add-template': u'Boti: Qande wereni şablone hetenayışe kategoriya dekerd de',
+		'category_redirect-change-category': u'Boti: Kategoriya da [[:%(oldCatLink)s|%(oldCatTitle)s]]ra  frotu berd[[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Boti werene kategoriya hetanayışi',
+		'category_redirect-edit-request': u'Peleye ke stare deyê greye kategoriya re newe kerdış icab keno: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s re hetanayışkar ita do %(oldcat)s\'',
+		'category_redirect-fix-double': u'Boti: Dılet hetenayış timar ke',
+	},
 	# Author: Glavkos
 	# Author: Geraki
 	'el': {
@@ -538,13 +547,14 @@ msg = {
 		'category_redirect-fix-double': u'Robô: Correcção de redireccionamento duplo',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'category_redirect-add-template': u'Robô: Adição da predefinição de redirecionamento da categoria',
-		'category_redirect-change-category': u'Robô: Alteração da categoria redirecionada [[:%(oldCatLink)s|%(oldCatTitle)s]] para [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Robô de manutenção de redirecionamentos de categorias',
-		'category_redirect-edit-request': u'As seguintes páginas protegidas necessitam de atualização dos links de categorias: %(itemlist)s',
+		'category_redirect-add-template': u'Bot: Adicionando predefinição de redirecionamento de categoria',
+		'category_redirect-change-category': u'Bot: Alterando categoria redirecionada [[:%(oldCatLink)s|%(oldCatTitle)s]] para [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Script para manutenção de redirecionamentos de categorias',
+		'category_redirect-edit-request': u'As seguintes páginas protegidas precisam receber atualizações em seus links de categorias: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s está em %(oldcat)s, que é um redirecionamento para %(newcat)s',
-		'category_redirect-fix-double': u'Robô: Corrigido redirecionamento duplo',
+		'category_redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo',
 	},
 	# Author: Xqt
 	'qqq': {

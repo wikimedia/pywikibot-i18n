@@ -46,6 +46,10 @@ msg = {
 	'de': {
 		'catall-changing': u'Bot: Wechsele Kategorien',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'catall-changing': u'Boti: Kategoriy vurnay',
+	},
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
 	},
@@ -162,8 +166,9 @@ msg = {
 		'catall-changing': u'Robô: Categorizando',
 	},
 	# Author: Pedroca cerebral
+	# Author: 555
 	'pt-br': {
-		'catall-changing': u'Bot: Categorizando',
+		'catall-changing': u'Bot: Alterando categorias',
 	},
 	# Author: Minisarm
 	'ro': {

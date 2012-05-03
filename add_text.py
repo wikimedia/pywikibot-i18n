@@ -432,8 +432,9 @@ msg = {
 	'pt': {
 		'add_text-adding': u'Robô: Adicionando %(adding)s',
 	},
+	# Author: 555
 	'pt-br': {
-		'add_text-adding': u'Robô: Adicionando %(adding)s',
+		'add_text-adding': u'Bot: Adicionando %(adding)s',
 	},
 	'qqq': {
 		'add_text-adding': u'Edit summary when the bot adds text to a given page. %(adding)s is the added text truncated to 200 characters.',

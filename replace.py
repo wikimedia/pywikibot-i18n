@@ -58,6 +58,10 @@ msg = {
 	'de': {
 		'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'replace-replacing': u'Boti: %(description)s otomatik metn vurnayış kerd',
+	},
 	'el': {
 		'replace-replacing': u'Ρομπότ: Αυτόματη αντικατάσταση κειμένου %(description)s',
 	},
@@ -253,8 +257,9 @@ msg = {
 		'replace-replacing': u'Robô: Substituição de texto automática %(description)s',
 	},
 	# Author: Raylton P. Sousa
+	# Author: 555
 	'pt-br': {
-		'replace-replacing': u'Robô: Substituição automática de texto %(description)s',
+		'replace-replacing': u'Bot: Substituição automática de texto %(description)s',
 	},
 	# Author: Xqt
 	'qqq': {

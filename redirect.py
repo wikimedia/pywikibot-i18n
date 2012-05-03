@@ -106,9 +106,11 @@ msg = {
 	},
 	# Author: Dontlietome7
 	# Author: Spiffyk
+	# Author: Jezevec
 	'cs': {
 		'redirect-broken-redirect-template': u'{{smazat|přerušené přesměrování}}',
 		'redirect-fix-double': u'Robot: Opravuji dvojité přesměrování na %(to)s',
+		'redirect-fix-loop': u'Robot: Oprava smyčky přesměrování na %(to)s',
 		'redirect-remove-broken': u'Přerušené přesměrování',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cíl [[Wikipedia:Redirect|přesměrování]] target tvoří přesměrovací smyčku',
 	},
@@ -135,7 +137,11 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'redirect-broken-redirect-template': u'{{bestere|y1}}',
+		'redirect-broken-redirect-template': u'{{bestere|m1}}',
+		'redirect-fix-double': u'Boti: pela da %(to)s re hetanayışe dıleti timar ke',
+		'redirect-fix-loop': u'Boti:  %(to)s re dılet hetanayış ke',
+		'redirect-remove-broken': u'[[Wikipedia:Rew besternayış|RB]]: pelaya besterni yana zi pelaya ke [[Wikipedia:Hetenayış|Hetanayış]] cı çıno',
+		'redirect-remove-loop': u'Boti: Menzilê hetanayışi re hetanayışe çerxkerdışi vıraşt',
 	},
 	# Author: Evropi
 	# Author: Geraki
@@ -515,7 +521,7 @@ msg = {
 	'pms': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Trigomiro: a coregg ridiression dobia a %(to)s',
-		'redirect-fix-loop': u'Trigomiro: Corege sicl ëd rediression a %(to)s',
+		'redirect-fix-loop': u'Trigomiro: Coression dël sicl ëd ridiression a %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Ridiression]] a na pàgina scancelà o ch\'a esist nen',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|La ridiression]] ëd destinassion a forma un sicl ëd ridiression',
 	},
@@ -530,9 +536,11 @@ msg = {
 	},
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
+	# Author: 555
 	'pt-br': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Robô: Corrigido redirecionamento duplo para %(to)s',
+		'redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo para %(to)s',
+		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirecionamento]] para uma página eliminada ou inexistente',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: O destino do [[Wikipedia:Redirect|redirecionamento]] cria um ciclo de redirecionamentos',
 	},
@@ -586,6 +594,7 @@ msg = {
 	'sl': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Popravljanje dvojnih preusmeritev na %(to)s',
+		'redirect-fix-loop': u'Robot: Popravljanje preusmeritvene zanke na %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedija:Preusmeritev|Preusmeritev]] na izbrisano ali neobstoječo stran',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedija:Preusmeritev|preusmeritve]] je ustvarjal preusmeritveno zanko',
 	},

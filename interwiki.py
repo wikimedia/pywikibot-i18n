@@ -341,12 +341,12 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'interwiki-adding': u'Boti: %(adding)s dekerd de',
-		'interwiki-adding-modifying': u'Robot: Debyayen %(adding)s; Vurnayen %(modifying)s o',
-		'interwiki-adding-removing': u'Boti: %(adding)s Dekerd de: %(removing)s Hewada',
-		'interwiki-adding-removing-modifying': u'Boti: %(adding)s Dekerd de: %(removing)s Hewada: %(modifying)s Vurna',
-		'interwiki-modifying': u'Robot: Vurneyêno %(modifying)s',
-		'interwiki-removing': u'Robot: Hewadeyêno %(removing)s',
-		'interwiki-removing-modifying': u'Robot: Hewadeyêno %(removing)s; Vurneyêno %(modifying)s',
+		'interwiki-adding-modifying': u'Boti: %(adding)s dekerd de; %(modifying)s vurna',
+		'interwiki-adding-removing': u'Boti: %(adding)s dekerd de: %(removing)s hewada',
+		'interwiki-adding-removing-modifying': u'Boti: %(adding)s dekerd de: %(removing)s hewada: %(modifying)s vurna',
+		'interwiki-modifying': u'Boti: %(modifying)s vurna',
+		'interwiki-removing': u'Boti: %(removing)s hewada',
+		'interwiki-removing-modifying': u'Boti: %(removing)s hewada; %(modifying)s vurna',
 	},
 	'dv': {
 		'interwiki-adding': u'ރޮބޮޓ އިތުރު ކުރުނ: %(adding)s',
@@ -1297,14 +1297,15 @@ msg = {
 	},
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
+	# Author: 555
 	'pt-br': {
-		'interwiki-adding': u'Robô: Adicionando: %(adding)s',
-		'interwiki-adding-modifying': u'Robô: Adicionando: %(adding)s Modificando: %(modifying)s',
-		'interwiki-adding-removing': u'Robô: Adicionando: %(adding)s Removendo: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robô: Adicionando: %(adding)s Removendo: %(removing)s Modificando: %(modifying)s',
-		'interwiki-modifying': u'Robô: Modificando: %(modifying)s',
-		'interwiki-removing': u'Robô: Removendo: %(removing)s',
-		'interwiki-removing-modifying': u'Robô: Removendo: %(removing)s Modificando: %(modifying)s',
+		'interwiki-adding': u'Bot: Adicionando %(adding)s',
+		'interwiki-adding-modifying': u'Bot: Adicionando: %(adding)s; modificando: %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Adicionando: %(adding)s; removendo: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Adicionando: %(adding)s; removendo: %(removing)s; modificando: %(modifying)s',
+		'interwiki-modifying': u'Bot: Modificando: %(modifying)s',
+		'interwiki-removing': u'Bot: Removendo %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Removendo %(removing)s; modificando: %(modifying)s',
 	},
 	# Author: The Evil IP address
 	'qqq': {

@@ -39,6 +39,10 @@ msg = {
 	'de': {
 		'djvutext-creating': u'Robot: Erstelle eine Seite mit aus DjVu extrahiertem Text',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'djvutext-creating': u'Boti: Vetane DjVu fına çekerdi pela',
+	},
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},

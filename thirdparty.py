@@ -220,15 +220,22 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'%(tags)s ê etiket(i) vurnayış',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Werênayış vurneya',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Werênayış racneya',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESACE ROBOTİ',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Mınaqeşeyo newe',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Xeberdar',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s vurnayışê verêni] (%(page_size)s bayto)  %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s werênayışi pêro (seyr kerdış) hewadeya - vurnayışe peyênê %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\n%(sign)s:Xulasa vıraziye </noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(Vurneber merdum nê vineya)',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - vurnayışê peyenê [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot mesacê ikazi: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'%(num)i re xulasay werênayışi debyê.',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'%(num)i re xulasay werênayışi  debye de u timar bi',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'pelada %(page)s re %(num)i xulasay werênayışi kerd newe',
 	},
 	# Author: Geraki
 	# Author: Glavkos
@@ -844,24 +851,25 @@ msg = {
 	},
 	# Author: Pedroca cerebral
 	# Author: Luigipiccoli
+	# Author: 555
 	'pt-br': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituindo %(tags)s tag(s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussão alterada',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussão encerrada',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAGEM DO ROBÔ',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAGEM DO BOT',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova discussão',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notificação',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s última modificação] (%(page_size)s bytes) por %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s todas as discussões terminaram (vigilância parada) - última edição feita por %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResumo gerado a partir de e em: %(sign)s</noinclude>',
-		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(Nenhum editor humano encontrado)',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(não foi encontrado nenhum editor humano)',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - última edição feita por [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
-		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mensagem de aviso do robô: %(page)s "\'\'%(warning)s\'\'"',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Adicionado resumo da discussão: %(num)i entradas',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mensagem de aviso do bot: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Adicionado sumários de discussão: %(num)i entradas',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Resumo da discussão adicionado com limpeza: %(num)i entradas',
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robô',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Atualizado o resumo da discussão: %(num)i entradas em %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Sumário de discussão atualizado: %(num)i entradas em %(page)s',
 	},
 	# Author: DrTrigon
 	# Author: Siebrand

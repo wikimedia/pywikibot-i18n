@@ -55,6 +55,10 @@ msg = {
 	'de': {
 		'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'noreferences-add-tag': u'Boti: Etikete <references /> dekerd de',
+	},
 	# Author: Geraki
 	'el': {
 		'noreferences-add-tag': u'Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε',
@@ -210,8 +214,9 @@ msg = {
 		'noreferences-add-tag': u'Robô: A adicionar a tag <references />',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'noreferences-add-tag': u'Robô: Adicionando a tag <references />',
+		'noreferences-add-tag': u'Bot: Adicionando tag <references />',
 	},
 	# Author: Minisarm
 	'ro': {

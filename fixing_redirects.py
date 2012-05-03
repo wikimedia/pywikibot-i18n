@@ -38,6 +38,10 @@ msg = {
 	'de': {
 		'fixing_redirects-fixing': u'Bot: Reparieren von Umleitungen',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'fixing_redirects-fixing': u'Boti: Hetenakerdışi kerdi araşt',
+	},
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
 	},
@@ -153,8 +157,9 @@ msg = {
 		'fixing_redirects-fixing': u'Robô: Arrumando redirects',
 	},
 	# Author: Pedroca cerebral
+	# Author: 555
 	'pt-br': {
-		'fixing_redirects-fixing': u'Bot: Arrumando redirects',
+		'fixing_redirects-fixing': u'Bot: Corrigindo redirecionamentos',
 	},
 	# Author: Minisarm
 	'ro': {

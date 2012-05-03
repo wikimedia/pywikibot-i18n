@@ -77,7 +77,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'isbn-formatting': u'Robot: ISBN Timar beno',
+		'isbn-formatting': u'Boti: ISBN Timar ke',
 	},
 	# Author: Evropi
 	'el': {
@@ -282,8 +282,9 @@ msg = {
 	},
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
+	# Author: 555
 	'pt-br': {
-		'isbn-formatting': u'Robô: Formatando ISBN',
+		'isbn-formatting': u'Bot: Formatando ISBN',
 	},
 	# Author: Xqt
 	# Author: Lloffiwr

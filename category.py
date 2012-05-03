@@ -311,6 +311,19 @@ msg = {
 		'category-was-disbanded': u'Bot: Kategorie wurde aufgelöst',
 		'category-was-moved': u'Bot: Kategorie wurde nach [[:Kategorie:%(newcat)s|%(title)s]] verschoben',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'category-adding': u'Bot: [[Kategoriye:%(newcat)s]] dekerd de',
+		'category-also-in': u'(kategori da %(alsocat)s esto)',
+		'category-changing': u'Boti: %(oldcat)s deye %(newcat)s vurna',
+		'category-listifying': u'Boti: pela da %(fromcat)s ra nata (%(num)d deqewteni) liste kerd',
+		'category-removing': u'Boti:kategoriya da %(oldcat)s\'ira wederna',
+		'category-replacing': u'Boti: %(oldcat)s, kategoriya da %(newcat)s\'iya vurna',
+		'category-section-title': u'Werênayışê pela da %(oldcat)s',
+		'category-version-history': u'Boti: Qeydê verênayış de versiyoni ke %(oldcat)s',
+		'category-was-disbanded': u'Boti: Karkerdışe kategoriye wederna',
+		'category-was-moved': u'Boti: Kategori [[:Category:%(newcat)s|%(title)s]] name de ciya geriya',
+	},
 	# Author: Evropi
 	# Author: Xqt
 	# Author: Geraki
@@ -1110,15 +1123,18 @@ msg = {
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'category-adding': u'Robô: Adicionando a categoria [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Bot: Adicionando categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(também em %(alsocat)s)',
-		'category-changing': u'Robô: Alterando %(oldcat)s para %(newcat)s',
-		'category-listifying': u'Robô: Listando a partir de %(fromcat)s (%(num)d entradas)',
-		'category-removing': u'Robô: Removendo [[%(oldcat)s]]',
-		'category-replacing': u'Robô: Substituição da categoria %(oldcat)s por %(newcat)s',
-		'category-was-disbanded': u'Robô: A categoria foi separada',
-		'category-was-moved': u'Robô: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]',
+		'category-changing': u'Bot: Mudando de %(oldcat)s para %(newcat)s',
+		'category-listifying': u'Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|uma entrada|%(num)d entradas}})',
+		'category-removing': u'Bot: Removendo de [[%(oldcat)s]]',
+		'category-replacing': u'Bot: Trocando categoria %(oldcat)s por %(newcat)s',
+		'category-section-title': u'Histórico de edições da categoria anterior (%(oldcat)s)',
+		'category-version-history': u'Bot: Salvando histórico de edições da categoria anterior (%(oldcat)s)',
+		'category-was-disbanded': u'Bot: Categoria dissolvida',
+		'category-was-moved': u'Bot: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Valhallasw
 	# Author: Xqt

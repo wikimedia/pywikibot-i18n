@@ -92,10 +92,10 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'featured-featured': u'Robot: %(page)s Wesiqeyo weşo',
-		'featured-former': u'Robot: %(page)s wesiqeyo weşo verêno',
-		'featured-good': u'Robot: %(page)s wesiqaya weşa',
-		'featured-list': u'Robot: %(page)s listeyo tewr weşan',
+		'featured-featured': u'Boti: %(page)s wesiqeyo weşo',
+		'featured-former': u'Boti: %(page)s wesiqeyo weşo verêno',
+		'featured-good': u'Boti: %(page)s wesiqaya weşa',
+		'featured-list': u'Boti: %(page)s listeyo tewr weşo',
 	},
 	'dsb': {
 		'featured-featured': u'Bot: %(page)s jo wuběrny nastawk',
@@ -345,11 +345,12 @@ msg = {
 		'featured-list': u'Robô: %(page)s é um anexo destacado',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'featured-featured': u'Robô: %(page)s é um artigo destacado',
-		'featured-former': u'Robô : %(page)s é um ex-artigo destacado',
-		'featured-good': u'Robô: %(page)s é um artigo bom',
-		'featured-list': u'Robô: %(page)s é um anexo destacado',
+		'featured-featured': u'Bot: Link de \'artigo destacado\' para %(page)s',
+		'featured-former': u'Bot: %(page)s deixou de ser um \'artigo destacado\'',
+		'featured-good': u'Bot: Link de \'artigo bom\' para %(page)s',
+		'featured-list': u'Bot: Link de \'anexo destacado\' para %(page)s',
 	},
 	# Author: Strainu
 	'ro': {

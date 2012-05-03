@@ -94,6 +94,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
+		'welcome-bad_username': u'Boti: Eke namey cı do qontrol bo namey karberi kerd êna miyan',
 		'welcome-updating': u'Robot:Qeyd newekerdış',
 		'welcome-welcome': u'Xeyr amey',
 	},
@@ -344,9 +345,10 @@ msg = {
 	},
 	# Author: Giro720
 	# Author: Luckas Blade
+	# Author: 555
 	'pt-br': {
-		'welcome-bad_username': u'Robô : Adicionando um nome de usuário que precisa ser verificado',
-		'welcome-updating': u'Robô: Atualizando registro',
+		'welcome-bad_username': u'Bot: Adicionando um nome de usuário que precisa ser verificado',
+		'welcome-updating': u'Bot: Atualizando registro',
 		'welcome-welcome': u'Bem-vindo!',
 	},
 	# Author: EugeneZelenko

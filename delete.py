@@ -93,6 +93,14 @@ msg = {
 		'delete-linked-pages': u'Bot: Lösche alle in %(page)s verlinkte Seiten',
 		'delete-referring-pages': u'Bot: Lösche alle auf %(page)s linkenden Seiten',
 	},
+	# Author: Erdemaslancan
+	'diq': {
+		'delete-from-category': u'Boti: Kategoriya da %(page)s ra peley pêro besternay',
+		'delete-from-file': u'Boti: Dosyay ke liste deyê ê besternay.',
+		'delete-images': u'Boti: Pela da %(page)s ra dosyay pêro besternay',
+		'delete-linked-pages': u'Boti: pelada %(page)s re peleye ke gıre dane oyo êna pêron besterneno.',
+		'delete-referring-pages': u'Boti: Pela da %(page)s ra peley pêro besternay',
+	},
 	# Author: Geraki
 	'el': {
 		'delete-from-category': u'Ρομπότ: Διαγραφή όλων των σελίδων από την κατηγορία %(page)s',
@@ -350,12 +358,13 @@ msg = {
 		'delete-referring-pages': u'Robô: Apagando todas as páginas afluentes a %(page)s',
 	},
 	# Author: Pedroca cerebral
+	# Author: 555
 	'pt-br': {
-		'delete-from-category': u'Robô: Apagando todas as páginas da categoria %(page)s',
-		'delete-from-file': u'Robô: Apagando uma lista de arquivos.',
-		'delete-images': u'Robô: Apagando todas as imagens da página %(page)s',
-		'delete-linked-pages': u'Robô: Apagando todas as páginas ligadas a %(page)s',
-		'delete-referring-pages': u'Robô: Apagando todas as páginas afluentes de %(page)s',
+		'delete-from-category': u'Bot: Apagando todas as páginas da categoria %(page)s',
+		'delete-from-file': u'Bot: Apagando uma listagem de arquivos.',
+		'delete-images': u'Bot: Apagando todas as imagens da página %(page)s',
+		'delete-linked-pages': u'Bot: Apagando todas as páginas com links para %(page)s',
+		'delete-referring-pages': u'Bot: Apagando todas as páginas afluentes de %(page)s',
 	},
 	# Author: Minisarm
 	'ro': {

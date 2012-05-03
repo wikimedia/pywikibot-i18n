@@ -64,7 +64,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'capitalize_redirects-create-redirect': u'Robot: Vıraştışi açarneno [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Boti: pela [[%(to)s]] açarne',
 	},
 	# Author: Geraki
 	'el': {
@@ -202,8 +202,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Robô: Criando redirecionamento para [[%(to)s]]',
 	},
 	# Author: Giro720
+	# Author: 555
 	'pt-br': {
-		'capitalize_redirects-create-redirect': u'Robô: Criando redirecionamento para [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Bot: Criando redirecionamento para [[%(to)s]]',
 	},
 	# Author: Minisarm
 	'ro': {
