@@ -12,6 +12,10 @@ msg = {
 	'br': {
 		'ndashredir-create': u'Robot: o krouiñ adkasoù gant barrennigoù-stagañ war-zu [[%(title)s]]',
 	},
+	# Author: Tchoř
+	'cs': {
+		'ndashredir-create': u'Bot: Vytvářím spojovníkové přesměrování k [[%(title)s]]',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'ndashredir-create': u'Boti: nuşte de [[%(title)s]] melumato hetanayış vıraşt',
