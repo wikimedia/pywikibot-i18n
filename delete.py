@@ -20,12 +20,13 @@ msg = {
 		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'delete-from-category': u'Robot: Desaniciando toles páxines de la categoría %(page)s',
-		'delete-from-file': u'Robot: Desaniciando una llista de ficheros.',
-		'delete-images': u'Robot: Desaniciando toles imaxes de la páxina %(page)s',
-		'delete-linked-pages': u'Robot: Desaniciando toles páxines enllazaes dende %(page)s',
-		'delete-referring-pages': u'Robot: Desaniciando toles páxines con referencia dende %(page)s',
+		'delete-from-category': u'Robó: Desaniciando toles páxines de la categoría %(page)s',
+		'delete-from-file': u'Robó: Desaniciando una llista de ficheros.',
+		'delete-images': u'Robó: Desaniciando toles imáxenes de la páxina %(page)s',
+		'delete-linked-pages': u'Robó: Desaniciando toles páxines enllazaes dende %(page)s',
+		'delete-referring-pages': u'Robó: Desaniciando toles páxines con referencia dende %(page)s',
 	},
 	# Author: Vago
 	# Author: Khutuck

@@ -23,6 +23,7 @@ msg = {
 		'archivebot-page-summary': u'أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} (%(why)s) إلى %(archives)s.',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
 		'archivebot-archive-full': u'(ARCHIVU LLENU)',
 		'archivebot-archive-summary': u'Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} de [[%(from)s]].',

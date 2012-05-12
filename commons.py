@@ -11,9 +11,10 @@ msg = {
 		'commons-file-now-available': u'الملف متوفر الآن في [[:commons:File:%(commonsfile)s|ويكيميديا كومنز]].',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'commons-file-moved': u'El [[:File:%(localfile)s|ficheru]] se treslladó a [[:commons:File:%(commonsfile)s|commons]].',
-		'commons-file-now-available': u'El ficheru ta disponible agora en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|Ficheru]] treslladáu a [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'El ficheru yá ta disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Ebrahimi-amir
 	'az': {

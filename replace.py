@@ -13,8 +13,9 @@ msg = {
 		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'replace-replacing': u'Bot: Troquéu automáticu de testu %(description)s',
+		'replace-replacing': u'Robó: Troquéu automáticu de testu %(description)s',
 	},
 	# Author: Khutuck
 	'az': {

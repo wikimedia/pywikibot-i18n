@@ -12,8 +12,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'capitalize_redirects-create-redirect': u'Robot: Crear redireición a [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robó: Crear redireición a [[%(to)s]]',
 	},
 	# Author: Ebrahimi-amir
 	'az': {

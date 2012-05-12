@@ -30,12 +30,13 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Bot: Iguando doble redireición a %(to)s',
-		'redirect-fix-loop': u'Robot: Iguando la redireición circular a %(to)s',
+		'redirect-broken-redirect-template': u'{{Destruir|La páxina a la que redirixe nun esiste|--~~~~}}',
+		'redirect-fix-double': u'Robó: Iguando la redireición doble a %(to)s',
+		'redirect-fix-loop': u'Robó: Iguando la redireición cíclica a %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redireición]] a una páxina desaniciada o que nun esiste',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: El destín de [[Wikipedia:Redirect|redireición]] forma un bucle de redireición',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: El destín de la [[Wikipedia:Redirect|redireición]] forma un bucle de redireición',
 	},
 	# Author: Cekli829
 	# Author: Ebrahimi-amir
@@ -191,6 +192,7 @@ msg = {
 	'fa': {
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
 		'redirect-fix-double': u'ربات: اصلاح تغییرمسیر دوتایی به %(to)s',
+		'redirect-fix-loop': u'ربات: رفع حلقه در تغییرمسیر به %(to)s',
 		'redirect-remove-broken': u'[[وپ:محس#تغ۱|تغ۱]]: [[وپ:تغییرمسیر|تغییرمسیر]] به صفحهٔ ناموجود یا حذف‌شده',
 		'redirect-remove-loop': u'ربات: [[وپ:تغییرمسیر|تغییرمسیر]] حلقه‌ای',
 	},
@@ -231,6 +233,7 @@ msg = {
 	'frr': {
 		'redirect-broken-redirect-template': u'{{delete|Widjerfeerang uunstaken}}',
 		'redirect-fix-double': u'Bot: Ferbeedre dobelt widjerfeerang tu %(to)s',
+		'redirect-fix-loop': u'Bot: Maaget widjerfeerangs-sleuf hial tu %(to)s',
 		'redirect-remove-broken': u'Bot: Widjerfeerang tu en duad sidj.',
 		'redirect-remove-loop': u'Bot: Widjerfeerang üüb ham salew',
 	},
@@ -332,9 +335,11 @@ msg = {
 	},
 	# Author: Rippitippi
 	# Author: Nemo bis
+	# Author: Ximo17
 	'it': {
 		'redirect-broken-redirect-template': u'{{Cancella subito|9}}',
 		'redirect-fix-double': u'Bot: Sistemo i redirect doppi a %(to)s',
+		'redirect-fix-loop': u'Robot: Preparazione di un ciclo di reindirizzo a %(to)s',
 		'redirect-remove-broken': u'Bot: Redirect a una pagina inesistente',
 		'redirect-remove-loop': u'La destinazione del [[{{ns:project}}:Redirect|redirect]] rimanda alla pagina di partenza',
 	},

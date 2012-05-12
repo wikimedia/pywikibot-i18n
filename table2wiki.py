@@ -11,9 +11,10 @@ msg = {
 		'table2wiki-warnings': u'بوت بواسطة مستخدم: تحديث تهيئة الجدول - {{PLURAL:count|1 تحذير|%(count)d تحذير}}!',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'table2wiki-no-warning': u'Bot controláu por usuariu: anovada sintaxis de tabla',
-		'table2wiki-warnings': u'Bot controláu por usuariu: anovada sintaxis de tabla - ¡{{PLURAL:count|1 avisu|%(count)d avisos}}!',
+		'table2wiki-no-warning': u'Robó controláu por usuariu: Sintaxis de tabla anovada',
+		'table2wiki-warnings': u'Robó controláu por usuariu: Sintaxis de tabla anovada - ¡{{PLURAL:count|1 avisu|%(count)d avisos}}!',
 	},
 	# Author: Ebrahimi-amir
 	# Author: Khutuck

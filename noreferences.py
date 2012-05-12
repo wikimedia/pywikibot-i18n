@@ -12,8 +12,9 @@ msg = {
 		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'noreferences-add-tag': u'Robot: Amestando la etiqueta <references /> que falta',
+		'noreferences-add-tag': u'Robó: Amestando la etiqueta <references /> que falta',
 	},
 	# Author: Ebrahimi-amir
 	'az': {

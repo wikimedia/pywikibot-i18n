@@ -8,8 +8,9 @@ msg = {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'unlink-unlinking': u'Robot: Desenllazando "%s"',
+		'unlink-unlinking': u'Robó: Desenllaciando «%s»',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {

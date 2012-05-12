@@ -12,10 +12,11 @@ msg = {
 		'template-substituting': u'روبوت: نسخ {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'template-changing': u'Robot: Camudando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
-		'template-removing': u'Robot: Desaniciando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
-		'template-substituting': u'Robot: Trocando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
+		'template-changing': u'Robó: Camudando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
+		'template-removing': u'Robó: Desaniciando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
+		'template-substituting': u'Robó: Trocando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
 	},
 	# Author: Vago
 	'az': {

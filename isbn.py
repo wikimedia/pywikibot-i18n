@@ -14,8 +14,9 @@ msg = {
 		'isbn-formatting': u'روبوت: تنسيق ISBN',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'isbn-formatting': u'Robot: Iguando formatu ISBN',
+		'isbn-formatting': u'Robó: Formatiando l\'ISBN',
 	},
 	# Author: Khutuck
 	'az': {

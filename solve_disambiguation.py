@@ -30,13 +30,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(ܠܐ ܝܕܝܥܐ)',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'solve_disambiguation-adding-dn-template': u'Dixebra asistida por robot: %(from)s - Marcada pa pidir l\'atención d\'un espertu',
-		'solve_disambiguation-links-removed': u'Dixebra asistida por robot: %(from)s - Enllaz desaniciáu.',
-		'solve_disambiguation-links-resolved': u'Dixebra asistida por robot: %(from)s - Enllaz camudáu a %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Dixebra asistida por robot: %(from)s - Marcada pa pidir l\'atención d\'un espertu',
-		'solve_disambiguation-redirect-removed': u'Dixebra asistida por robot: %(from)s - Enllaz desaniciáu',
-		'solve_disambiguation-redirect-resolved': u'Dixebra asistida por robot: %(from)s - Enllaz camudáu a %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Dixebra asistida por robó: %(from)s - Marcao pa pidir l\'atención d\'un espertu',
+		'solve_disambiguation-links-removed': u'Dixebra asistida por robó: %(from)s - Enllaz o enllaces desaniciaos.',
+		'solve_disambiguation-links-resolved': u'Dixebra asistida por robó: %(from)s - Enllaz o enllaces camudaos a %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Dixebra asistida por robó: %(from)s - Marcao pa pidir l\'atención d\'un espertu',
+		'solve_disambiguation-redirect-removed': u'Dixebra asistida por robó: %(from)s - Enllaz desaniciáu',
+		'solve_disambiguation-redirect-resolved': u'Dixebra asistida por robó: %(from)s - Enllaz camudáu a %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconocíu)',
 	},
 	# Author: Cekli829

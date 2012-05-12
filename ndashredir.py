@@ -5,8 +5,9 @@ msg = {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'ndashredir-create': u'Bot: Creando redireición con guión a [[%(title)s]]',
+		'ndashredir-create': u'Robó: Creando redireición con guiones a [[%(title)s]]',
 	},
 	# Author: Fulup
 	'br': {
@@ -28,9 +29,17 @@ msg = {
 	'es': {
 		'ndashredir-create': u'Bot: Creando redirecciones con guiones a [[%(title)s]]',
 	},
+	# Author: ZxxZxxZ
+	'fa': {
+		'ndashredir-create': u'ربات: ایجاد تغییرمسیر خط‌تیره‌دار به [[%(title)s]]',
+	},
 	# Author: Gomoko
 	'fr': {
 		'ndashredir-create': u'Robot: Création de redirections à trait d\'union vers [[%(title)s]]',
+	},
+	# Author: Murma174
+	'frr': {
+		'ndashredir-create': u'Bot: Maaget en widjerfeerang mä binjstreg tu [[%(title)s]]',
 	},
 	# Author: Toliño
 	'gl': {
@@ -51,6 +60,10 @@ msg = {
 	# Author: Snævar
 	'is': {
 		'ndashredir-create': u'Vélmenni: Bý til tilvísun á grein með bandstrik í titli [[%(title)s]]',
+	},
+	# Author: Ximo17
+	'it': {
+		'ndashredir-create': u'Bot: Creazione di un reindirizzo con trattino a [[%(title)s]]',
 	},
 	# Author: Robby
 	'lb': {

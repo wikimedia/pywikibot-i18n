@@ -13,8 +13,9 @@ msg = {
 		'basic-changing': u'بوت: تغيير ...',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'basic-changing': u'Bot: Camudando ...',
+		'basic-changing': u'Robó: Camudando ...',
 	},
 	# Author: Cekli829
 	'az': {

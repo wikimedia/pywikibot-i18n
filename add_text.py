@@ -28,8 +28,9 @@ msg = {
 	'as': {
 		'add_text-adding': u'ৰবট যোগ দিছে %(adding)s',
 	},
+	# Author: Esbardu
 	'ast': {
-		'add_text-adding': u'Robó Añadíu %(adding)s',
+		'add_text-adding': u'Robó: Añadiendo %(adding)s',
 	},
 	'az': {
 		'add_text-adding': u'Bot redaktəsi əlavə edilir %(adding)s',

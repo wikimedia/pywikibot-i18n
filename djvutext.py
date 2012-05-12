@@ -8,8 +8,9 @@ msg = {
 		'djvutext-creating': u'روبوت: إنشاء صفحة بنص مستخرج من DjVu',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'djvutext-creating': u'Robot: Creando una páxina con testu sacáu de DjVu',
+		'djvutext-creating': u'Robó: Creando una páxina con testu sacáu de DjVu',
 	},
 	# Author: Jim-by
 	'be-x-old': {

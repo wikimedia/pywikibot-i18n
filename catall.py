@@ -12,8 +12,9 @@ msg = {
 		'catall-changing': u'بوت: تغيير التصنيفات',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'catall-changing': u'Robot: Camudando categoríes',
+		'catall-changing': u'Robó: Camudando categoríes',
 	},
 	# Author: Jim-by
 	'be-x-old': {

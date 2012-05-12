@@ -18,10 +18,11 @@ msg = {
 		'welcome-welcome': u'مرحبا!',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'welcome-bad_username': u'Bot: Amestando un nome d\'usuariu que necesita comprobase',
-		'welcome-updating': u'Bot: Anovando\'l rexistru',
-		'welcome-welcome': u'¡Bienveníu!',
+		'welcome-bad_username': u'Robó: Amestando un nome d\'usuariu que necesita comprobase',
+		'welcome-updating': u'Robó: Anovando\'l rexistru',
+		'welcome-welcome': u'¡Bienllegáu!',
 	},
 	# Author: Cekli829
 	# Author: Ebrahimi-amir

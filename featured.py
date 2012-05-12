@@ -19,11 +19,12 @@ msg = {
 		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'featured-featured': u'Bot: %(page)s ye un artículu destacáu',
-		'featured-former': u'Bot: %(page)s ye un artículu destacáu anterior',
-		'featured-good': u'Bot: %(page)s ye un artículu bonu',
-		'featured-list': u'Bot: %(page)s ye una llista destacada',
+		'featured-featured': u'Robó: %(page)s ye un artículu destacáu',
+		'featured-former': u'Robó: %(page)s ye un artículu destacáu anterior',
+		'featured-good': u'Robó: %(page)s ye un artículu bonu',
+		'featured-list': u'Robó: %(page)s ye una llista destacada',
 	},
 	# Author: Ebrahimi-amir
 	# Author: Khutuck
@@ -282,7 +283,7 @@ msg = {
 	# Author: Bjankuloski06
 	# Author: Rancher
 	'mk': {
-		'featured-featured': u'Робот: Интервики за избрани статии за %(page)s',
+		'featured-featured': u'Робот: Меѓувики за избрани статии за %(page)s',
 		'featured-former': u'Робот: %(page)s е поранешна избрана статија',
 		'featured-good': u'Робот: %(page)s е добра статија',
 		'featured-list': u'Робот: %(page)s е избран список',

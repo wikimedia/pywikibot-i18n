@@ -52,23 +52,24 @@ msg = {
 	},
 	# Author: DrTrigon
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'thirdparty-drtrigonbot-subster-summary-mod': u'trocando etiqueta(es) %(tags)s',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'trocando etiqueta o etiquetes %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Alderique camudáu',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Alderique zarráu',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAXE DE ROBOT',
-		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nuevu alderique',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAXE DE ROBÓ',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Alderique nuevu',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notificación',
-		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s cabera edición] (%(page_size)s bytes) fecha por %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s tolos alderiques acabaron (vixilancia detenida) - cabera edición fecha por %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s edición postrera] (%(page_size)s bytes) fecha por %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s acabaron tolos alderiques (vixilancia detenida) - edición postrera fecha por %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResume xeneráu dende y en: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nun s\'alcontró dengún editor humanu)',
-		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - cabera edición fecha por [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - edición postrera fecha por [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
-		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mensaxe d\'avisu de robot: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mensaxe d\'avisu de robó: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Amestáu resume d\'alderique: %(num)i entraes',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Amestáu resume d\'alderique con llimpieza: %(num)i entraes',
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robó',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Anováu resume d\'alderique: %(num)i entraes en %(page)s',
 	},
 	# Author: Cekli829

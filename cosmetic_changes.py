@@ -15,9 +15,10 @@ msg = {
 		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'cosmetic_changes-append': u'; cambéos cosméticos',
-		'cosmetic_changes-standalone': u'Robot: Cambéos cosméticos',
+		'cosmetic_changes-append': u'; cambeos cosméticos',
+		'cosmetic_changes-standalone': u'Robó: Cambeos cosméticos',
 	},
 	# Author: Vago
 	# Author: Khutuck

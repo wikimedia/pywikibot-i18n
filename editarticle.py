@@ -8,8 +8,9 @@ msg = {
 		'editarticle-edit': u'تعديل يدوي: %(description)s',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'editarticle-edit': u'Edición manual con bot: %(description)s',
+		'editarticle-edit': u'Edición manual con robó: %(description)s',
 	},
 	# Author: Ebrahimi-amir
 	'az': {

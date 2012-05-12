@@ -12,8 +12,9 @@ msg = {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'fixing_redirects-fixing': u'Bot: Iguando redireiciones',
+		'fixing_redirects-fixing': u'Robó: Iguando redireiciones',
 	},
 	# Author: Jim-by
 	'be-x-old': {

@@ -71,17 +71,18 @@ msg = {
 		'category-was-moved': u'ৰবট: শ্ৰেণী [[:শ্ৰেণী::%(newcat)s|%(title)s]]-লৈ স্থানান্তৰিত কৰা হ’ল',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'category-adding': u'Robot: Amestando [[Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Robó: Amestando la categoría [[Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(tamién en %(alsocat)s)',
-		'category-changing': u'Robot: Treslladando de %(oldcat)s a %(newcat)s',
-		'category-listifying': u'Bot: Faciendo llista de %(fromcat)s (%(num)d entraes)',
-		'category-removing': u'Bot: Desaniciando de %(oldcat)s',
-		'category-replacing': u'Robot: Trocando la categoría %(oldcat)s por %(newcat)s',
-		'category-section-title': u'Páxina d\'historial de los anteriores %(oldcat)s',
-		'category-version-history': u'Bot: Guardando l\'historial de versiones de los anteriores %(oldcat)s',
-		'category-was-disbanded': u'Bot: La categoría s\'esbandó',
-		'category-was-moved': u'Robot: La categoría se movió a [[:Category:%(newcat)s|%(title)s]]',
+		'category-changing': u'Robó: Camudando %(oldcat)s a %(newcat)s',
+		'category-listifying': u'Robó: Llistando de %(fromcat)s (%(num)d entraes)',
+		'category-removing': u'Robó: Desaniciando de %(oldcat)s',
+		'category-replacing': u'Robó: Trocando la categoría %(oldcat)s por %(newcat)s',
+		'category-section-title': u'Historial de páxina de %(oldcat)s anteriores',
+		'category-version-history': u'Robó: Guardando l\'historial de versiones de los %(oldcat)s anteriores',
+		'category-was-disbanded': u'Robó: Desanicióse la categoría',
+		'category-was-moved': u'Robó: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: PPerviz
 	# Author: Khutuck

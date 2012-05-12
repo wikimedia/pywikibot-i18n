@@ -83,14 +83,15 @@ msg = {
 	},
 	# Author: Hugo.arg
 	# Author: Xqt
+	# Author: Esbardu
 	'ast': {
-		'interwiki-adding': u'Robó Añadíu: %(adding)s',
-		'interwiki-adding-modifying': u'Robó Añadíu: %(adding)s Modificáu: %(modifying)s',
-		'interwiki-adding-removing': u'Robó Añadíu: %(adding)s Elimináu: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robó Añadíu: %(adding)s Elimináu: %(removing)s Modificáu: %(modifying)s',
-		'interwiki-modifying': u'Robó Modificáu: %(modifying)s',
-		'interwiki-removing': u'Robó Elimináu: %(removing)s',
-		'interwiki-removing-modifying': u'Robó Elimináu: %(removing)s Modificáu: %(modifying)s',
+		'interwiki-adding': u'Robó: Añadiendo %(adding)s',
+		'interwiki-adding-modifying': u'Robó: Añadiendo %(adding)s; modificando %(modifying)s',
+		'interwiki-adding-removing': u'Robó: Añadiendo %(adding)s; desaniciando %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robó: Añadiendo %(adding)s; desaniciando %(removing)s; modificando %(modifying)s',
+		'interwiki-modifying': u'Robó: Modificando %(modifying)s',
+		'interwiki-removing': u'Robó: Desaniciando %(removing)s',
+		'interwiki-removing-modifying': u'Robó: Desaniciando %(removing)s; modificando %(modifying)s',
 	},
 	'az': {
 		'interwiki-adding': u'Bot redaktəsi əlavə edilir: %(adding)s',

@@ -12,8 +12,9 @@ msg = {
 		'movepages-moving': u'روبوت: نقل الصفحة',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'movepages-moving': u'Robot: Páxina treslladada',
+		'movepages-moving': u'Robó: Páxina treslladada',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {

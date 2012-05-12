@@ -23,13 +23,14 @@ msg = {
 		'category_redirect-fix-double': u'بوت: إصلاح تحويلة مزدوجة',
 	},
 	# Author: Xuacu
+	# Author: Esbardu
 	'ast': {
-		'category_redirect-add-template': u'Robot: amestando plantía redireición de categoría por mantenimientu',
-		'category_redirect-change-category': u'Robot: camuda la categoría redirixida [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Categoría bot de mantenimientu de redireiciones',
-		'category_redirect-edit-request': u'Se deteutó que les páxines protexíes darréu necesiten anovamientos a enllaces de categoría: %(itemlist)s',
+		'category_redirect-add-template': u'Robó: Amestando plantía de redireición de categoríes pa mantenimientu',
+		'category_redirect-change-category': u'Robó: Cambéu de la categoría redirixida [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robó de mantenimientu de categoríes redirixíes',
+		'category_redirect-edit-request': u'Deteutóse que les páxines protexíes siguientes necesiten anovamientos d\'enllaces de categoría: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s ta en %(oldcat)s, que ye una redireición a %(newcat)s',
-		'category_redirect-fix-double': u'Bot: iguando doble-redireición',
+		'category_redirect-fix-double': u'Robó: Iguando redireición doble',
 	},
 	# Author: Ebrahimi-amir
 	# Author: Khutuck
