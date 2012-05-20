@@ -126,9 +126,13 @@ msg = {
 		'archivebot-page-summary': u'Boti: %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s.',
 	},
 	# Author: Glavkos
+	# Author: Geraki
 	'el': {
+		'archivebot-archive-full': u'(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)',
+		'archivebot-archive-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]]',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'παλαιότερο από',
+		'archivebot-page-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s.',
 	},
 	# Author: Xqt
 	'en': {

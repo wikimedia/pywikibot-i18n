@@ -150,6 +150,7 @@ msg = {
 	'el': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Ρομπότ: Διόρθωση διπλής ανακατεύθυνσης προς %(to)s',
+		'redirect-fix-loop': u'Ρομπότ: Διόρθωση βρόχου ανακατεύθυνσης στο %(to)s',
 		'redirect-remove-broken': u'[[Βικιπαίδεια:Ανακατεύθυνση|Ανακατεύθυνση]] σε μια [[Βικιπαίδεια:Γρήγορη διαγραφή σελίδων#Ανακατευθύνσεις|σελίδα που διαγράφηκε ή δεν υπάρχει]].',
 		'redirect-remove-loop': u'Ο στόχος [[Βικιπαίδεια:Ανακατεύθυνση|ανακατεύθυνσης]] προκαλεί [[Βικιπαίδεια:Γρήγορη διαγραφή σελίδων#Ανακατευθύνσεις|βρόχο ανακατεύθυνσης]]',
 	},
@@ -330,6 +331,7 @@ msg = {
 	'is': {
 		'redirect-broken-redirect-template': u'{{eyða|tilvísun á síðu sem er ekki til}}',
 		'redirect-fix-double': u'Vélmenni: Lagfæri tvöfalda tilvísun → %(to)s',
+		'redirect-fix-loop': u'Vélmenni: Lagfæri tilvísunar lykkju → %(to)s',
 		'redirect-remove-broken': u'[[Wikipedia:Eyðingar#A9|A9]]: Tilvísun bendir á síðu sem hefur verið eytt eða er ekki til',
 		'redirect-remove-loop': u'[[Wikipedia:Eyðingar#A9|A9]]: Tilvísun bendir á óendanlega tilvísunar lykkju',
 	},
@@ -344,7 +346,9 @@ msg = {
 		'redirect-remove-loop': u'La destinazione del [[{{ns:project}}:Redirect|redirect]] rimanda alla pagina di partenza',
 	},
 	# Author: 赤の旋律
+	# Author: Shirayuki
 	'ja': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'ロボットによる: 二重リダイレクト修正 → %(to)s',
 		'redirect-remove-broken': u'ロボットによる:リダイレクト先は存在しませんでした',
 	},

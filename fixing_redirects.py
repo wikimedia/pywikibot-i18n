@@ -35,6 +35,10 @@ msg = {
 	'cs': {
 		'fixing_redirects-fixing': u'Robot opravil přesměrování',
 	},
+	# Author: Sarrus
+	'da': {
+		'fixing_redirects-fixing': u'Bot: Retter omdirigering',
+	},
 	# Author: Purodha
 	'de': {
 		'fixing_redirects-fixing': u'Bot: Reparieren von Umleitungen',
@@ -42,6 +46,10 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'fixing_redirects-fixing': u'Boti: Hetenakerdışi kerdi araşt',
+	},
+	# Author: Geraki
+	'el': {
+		'fixing_redirects-fixing': u'Ρομπότ: Διόρθωση ανακατευθύνσεων',
 	},
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',

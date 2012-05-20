@@ -51,6 +51,10 @@ msg = {
 	'diq': {
 		'catall-changing': u'Boti: Kategoriy vurnay',
 	},
+	# Author: Geraki
+	'el': {
+		'catall-changing': u'Ρομπότ: Αλλαγή κατηγοριών',
+	},
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
 	},

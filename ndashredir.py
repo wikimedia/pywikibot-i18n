@@ -17,6 +17,9 @@ msg = {
 	'cs': {
 		'ndashredir-create': u'Bot: Vytvářím spojovníkové přesměrování k [[%(title)s]]',
 	},
+	'de': {
+		'ndashredir-create': u'Bot: Weiterleitung mit Bindestrich auf [[%(title)s]] erstellt',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'ndashredir-create': u'Boti: nuşte de [[%(title)s]] melumato hetanayış vıraşt',

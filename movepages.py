@@ -39,6 +39,10 @@ msg = {
 	'cs': {
 		'movepages-moving': u'Robot přesunul stránku',
 	},
+	# Author: Sarrus
+	'da': {
+		'movepages-moving': u'Robot: Flyttede side',
+	},
 	'de': {
 		'movepages-moving': u'Bot: Seite verschoben',
 	},

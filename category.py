@@ -335,6 +335,8 @@ msg = {
 		'category-listifying': u'Ρομπότ: Καταλογοποίηση από %(fromcat)s (%(num)d καταχωρίσεις)',
 		'category-removing': u'Ρομπότ: Αφαίρεση από την %(oldcat)s',
 		'category-replacing': u'Ρομπότ: Αντικατάσταση της κατηγορίας %(oldcat)s με την %(newcat)s',
+		'category-section-title': u'Ιστορικό της πρώην %(oldcat)s',
+		'category-version-history': u'Ρομπότ: Αποθήκευση ιστορικού από την πρώην %(oldcat)s',
 		'category-was-disbanded': u'Ρομπότ: Η κατηγορία διαγράφηκε',
 		'category-was-moved': u'Ρομπότ: Η κατηγορία μετακινήθηκε στην [[:Κατηγορία:%(newcat)s|%(title)s]]',
 	},

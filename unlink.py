@@ -40,6 +40,10 @@ msg = {
 	'diq': {
 		'unlink-unlinking': u'Robot: "%s" bê gıreyo',
 	},
+	# Author: Geraki
+	'el': {
+		'unlink-unlinking': u'Ρομπότ: Αποσύνδεση του "%s"',
+	},
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
 	},
