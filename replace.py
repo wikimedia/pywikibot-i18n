@@ -29,6 +29,10 @@ msg = {
 	'be-x-old': {
 		'replace-replacing': u'Робат: аўтаматызаваная замена тэксту %(description)s',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'replace-replacing': u'Bot: Panggantian tiks utumatis %(description)s',
+	},
 	# Author: Fulup
 	'br': {
 		'replace-replacing': u'Robot : Erlec\'hiañ testenn emgefre %(description)s',
@@ -328,8 +332,9 @@ msg = {
 		'replace-replacing': u'Бот: Автоматизована заміна тексту: %(description)s',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'replace-replacing': u'Bot: Sostitussion automatica %(description)s',
+		'replace-replacing': u'Robot: Sostitusion automatega %(description)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {

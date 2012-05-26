@@ -68,8 +68,12 @@ msg = {
 	'bg': {
 		'redirect-fix-double': u'Робот: Поправяне на двойно пренасочване към %(to)s',
 	},
+	# Author: Riemogerz
 	'bjn': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot: Pamasangan paugahan ganda ka %(to)s',
+		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Paalihan]] ka tungkaran nang dihapus atawa kada ada',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Bidikan [[Wikipedia:Redirect|paalihan]] mahasilakan paalihan siklik',
 	},
 	# Author: Wikitanvir
 	'bn': {
@@ -283,9 +287,11 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Bináris
+	# Author: Dj
 	'hu': {
 		'redirect-broken-redirect-template': u'{{azonnali|Hibás átirányítás}}',
 		'redirect-fix-double': u'Bot: %(to)s lapra mutató dupla átirányítás javítása',
+		'redirect-fix-loop': u'Bot: Ide mutató átirányítási hurkok javítása: %(to)s',
 		'redirect-remove-broken': u'Bot: Törölt vagy nem létező lapra mutató [[WP:REDIR|átirányítás]] törlése',
 		'redirect-remove-loop': u'Bot: körkörös átirányítás',
 	},
@@ -577,6 +583,7 @@ msg = {
 	'ru': {
 		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 		'redirect-fix-double': u'Робот: исправление двойного перенаправления → %(to)s',
+		'redirect-fix-loop': u'Робот: Исправление перенаправления на %(to)s',
 		'redirect-remove-broken': u'[[ВП:КБУ#П1|П1]]: перенаправление в никуда',
 		'redirect-remove-loop': u'[[ВП:КБУ#П1|критерий быстрого удаления \'\'П.1\'\']] — перенаправление в никуда',
 	},
@@ -694,9 +701,12 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Перенаправлення]] формує петлю перенаправлень',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'redirect-fix-double': u'Bot: Sistemo i dopi rimandi a %(to)s',
-		'redirect-remove-broken': u'Bot: El rimando el ponta a na pagina che no esiste',
+		'redirect-fix-double': u'Robot: Sistemo i dopi rimandi a %(to)s',
+		'redirect-fix-loop': u'Robot: Preparasion de un ciclo de rindirisamento a %(to)s',
+		'redirect-remove-broken': u'Robot: El rindirisamento el ponta a na pajina inexistente',
+		'redirect-remove-loop': u'Ła destinasion del rindirisamento rimanda ała pajina de partensa',
 	},
 	# Author: Emaus
 	'vep': {

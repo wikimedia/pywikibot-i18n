@@ -456,6 +456,14 @@ msg = {
 		'delete-linked-pages': u'Бот: Видалення усіх сторінок, пов\'язаних із %(page)s',
 		'delete-referring-pages': u'Бот: Видалення усіх сторінок, що відносяться до %(page)s',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'delete-from-category': u'Robot: Cancełasion de tute łe pajine dała categoria %(page)s',
+		'delete-from-file': u'Robot: Cancełasion de na lista de file.',
+		'delete-images': u'Robot: Cancełasion de tute łe imajini contegnude inte ła pajina %(page)s',
+		'delete-linked-pages': u'Robot: Cancełasion de tute łe pajine cołegade co riferimenti da %(page)s',
+		'delete-referring-pages': u'Robot: Cancełasion de tute łe pajine cołegade co riferimenti da %(page)s',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'delete-from-category': u'Bot: Xóa tất cả các trang trong thể loại “%(page)s”',

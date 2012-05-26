@@ -452,8 +452,9 @@ msg = {
 	'roa-tara': {
 		'add_text-adding': u'Robbot Stoche a mette %(adding)s',
 	},
+	# Author: Rubin
 	'ru': {
-		'add_text-adding': u'Бот: добавление %(adding)s',
+		'add_text-adding': u'Робот: добавление %(adding)s',
 	},
 	'rue': {
 		'add_text-adding': u'робот додав %(adding)s',
@@ -551,8 +552,9 @@ msg = {
 	'uz': {
 		'add_text-adding': u'Bot Qoʻshdi %(adding)s',
 	},
+	# Author: Alunardon90
 	'vec': {
-		'add_text-adding': u'Bot: Zonto %(adding)s',
+		'add_text-adding': u'Robot: Xonto %(adding)s',
 	},
 	'vi': {
 		'add_text-adding': u'Bot: Thêm %(adding)s',

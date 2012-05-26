@@ -23,6 +23,10 @@ msg = {
 	'be-x-old': {
 		'clean_sandbox-cleaned': u'Робат: аўтаматычная ачыстка',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'clean_sandbox-cleaned': u'Bot: Tata ulang',
+	},
 	# Author: Fulup
 	'br': {
 		'clean_sandbox-cleaned': u'Robot : Kempennet ent emgefre',
@@ -264,6 +268,10 @@ msg = {
 	# Author: Тест
 	'uk': {
 		'clean_sandbox-cleaned': u'Робот: Автоматична очистка',
+	},
+	# Author: Alunardon90
+	'vec': {
+		'clean_sandbox-cleaned': u'Robot: Pułitura automatega',
 	},
 	# Author: Minh Nguyen
 	'vi': {

@@ -326,17 +326,23 @@ msg = {
 		'template-removing': u'Робот: видалення {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s',
 		'template-substituting': u'Робот: підстановка {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'template-changing': u'Robot: Modifega de {{PLURAL:%(num)d|modeło|modełi}}: %(list)s',
+		'template-removing': u'Robot: Rimosion de {{PLURAL:%(num)d|modeło|modełi}}: %(list)s',
+		'template-substituting': u'Robot: Sostitusion de {{PLURAL:%(num)d|modeło|modełi}}: %(list)s',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'template-changing': u'Bot: Thay đổi {{PLURAL:%(num)d|bản mẫu|các bản mẫu}}: %(list)s',
 		'template-removing': u'Bot: Tháo gỡ {{PLURAL:%(num)d|bản mẫu|các bản mẫu}}: %(list)s',
 		'template-substituting': u'Bot: Đổ mã nguồn của {{PLURAL:%(num)d|bản mẫu|các bản mẫu}}: %(list)s',
 	},
-	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
-		'template-changing': u'机器人：修改{{PLURAL:%(num)d|模板|模板}}：%(list)s',
-		'template-removing': u'机器人：删除{{PLURAL:%(num)d|模板|模板}}：%(list)s',
-		'template-substituting': u'机器人：替换{{PLURAL:%(num)d|模板|模板}}：%(list)s',
+		'template-changing': u'机器人：修改%(num)d个模板：%(list)s',
+		'template-removing': u'机器人：删除%(num)d个模板：%(list)s',
+		'template-substituting': u'机器人：替换%(num)d个模板：%(list)s',
 	},
 	# Author: Justincheng12345
 	'zh-hant': {

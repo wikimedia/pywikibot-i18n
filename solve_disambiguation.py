@@ -72,6 +72,13 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — зьмененая спасылка(і) на %(to)s',
 		'solve_disambiguation-unknown-page': u'(невядома)',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'solve_disambiguation-links-resolved': u'Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Disambiguasi batutulungan bot: %(from)s - Parlu pahatian pakar',
+		'solve_disambiguation-redirect-removed': u'Disambiguasi batutulungan bot: %(from)s - Tautan dihapus',
+		'solve_disambiguation-redirect-resolved': u'Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s',
+	},
 	# Author: Bellayet
 	'bn': {
 		'solve_disambiguation-unknown-page': u'(অজানা)',
@@ -834,6 +841,16 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Виправлення посилання на багатозначність за допомогою бота: %(from)s вилучено',
 		'solve_disambiguation-redirect-resolved': u'Виправлення посилання на багатозначність за допомогою бота: %(from)s змінено на %(to)s',
 		'solve_disambiguation-unknown-page': u'(невідома)',
+	},
+	# Author: Alunardon90
+	'vec': {
+		'solve_disambiguation-adding-dn-template': u'Dixanbiguasion automatega: %(from)s -  Ga da esare controłà da esperti',
+		'solve_disambiguation-links-removed': u'Dixanbiguasion automatega: %(from)s - Cołegamenti rimosi',
+		'solve_disambiguation-links-resolved': u'Dixanbiguasion automatega: %(from)s - Inversion de rindirisamento/i verso %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Dixanbiguasion automatega: %(from)s -  Ga da esare controłà da esperti',
+		'solve_disambiguation-redirect-removed': u'Dixanbiguasion automatega:: %(from)s - Cołegamenti rimosi',
+		'solve_disambiguation-redirect-resolved': u'Dixanbiguasion automatega: %(from)s - Inversion rindirisamento/i verso %(to)s',
+		'solve_disambiguation-unknown-page': u'(sconosudo)',
 	},
 	# Author: Minh Nguyen
 	'vi': {

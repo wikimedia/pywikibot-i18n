@@ -28,6 +28,10 @@ msg = {
 	'bg': {
 		'capitalize_redirects-create-redirect': u'Робот: Създаване на пренасочване към [[%(to)s]]',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'capitalize_redirects-create-redirect': u'Robot: Ulah paalihan ka [[%(to)s]]',
+	},
 	# Author: Y-M D
 	'br': {
 		'capitalize_redirects-create-redirect': u'Robot : Krouiñ un adkas evit [[%(to)s]]',
@@ -254,8 +258,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Бот: Створено перенаправлення на [[%(to)s]]',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'capitalize_redirects-create-redirect': u'Bot: Crea rimando a [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot: Crea rindirisamento a [[%(to)s]]',
 	},
 	# Author: Minh Nguyen
 	'vi': {

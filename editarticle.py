@@ -24,6 +24,10 @@ msg = {
 	'be-x-old': {
 		'editarticle-edit': u'Ручное рэдагаваньне з робатам: %(description)s',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'editarticle-edit': u'Babakan manual lawan bot: %(description)s',
+	},
 	# Author: Fulup
 	'br': {
 		'editarticle-edit': u'Kemmm dornel a-drugarez d\'ur bot : %(description)s',
@@ -250,8 +254,9 @@ msg = {
 		'editarticle-edit': u'Ручне редагування за допомогою бота: %(description)s',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'editarticle-edit': u'Modifica a man tramite bot: %(description)s',
+		'editarticle-edit': u'Modifega a man tramite robot: %(description)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {

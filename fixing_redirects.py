@@ -213,6 +213,10 @@ msg = {
 	'uk': {
 		'fixing_redirects-fixing': u'Бот: Виправлення перенаправлень',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'fixing_redirects-fixing': u'Robot: Coresion rindirisamenti',
+	},
 	'vi': {
 		'fixing_redirects-fixing': u'Robot: Sửa đổi hướng',
 	},

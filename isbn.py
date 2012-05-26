@@ -38,6 +38,10 @@ msg = {
 	'bg': {
 		'isbn-formatting': u'Робот: Форматиране на ISBN',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'isbn-formatting': u'Bot: Mampurmat ISBN',
+	},
 	# Author: Wikitanvir
 	# Author: Bellayet
 	'bn': {
@@ -366,6 +370,10 @@ msg = {
 	# Author: Тест
 	'uk': {
 		'isbn-formatting': u'Робот: Форматування ISBN',
+	},
+	# Author: Alunardon90
+	'vec': {
+		'isbn-formatting': u'Robot: Formatasion de\'l ISBN',
 	},
 	# Author: Minh Nguyen
 	'vi': {

@@ -68,7 +68,13 @@ msg = {
 	'bg': {
 		'category_redirect-fix-double': u'Робот: оправяне на двойно пренасочване',
 	},
+	# Author: Riemogerz
 	'bjn': {
+		'category_redirect-add-template': u'Bot: manambahakan citakan pamaliharaan paalihan tumbung',
+		'category_redirect-change-category': u'Bot: mangganti tumbung nang dialihakan [[:%(oldCatLink)s|%(oldCatTitle)s]] manjadi [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Bot pamaliharaan paalihan tumbung',
+		'category_redirect-edit-request': u'Tungkaran nang dilindungi naya taditiksi mamarluakan pahanyaran gasan pranala tumbung: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s tamasuk di %(oldcat)s, nang tamasuk paalian ka %(newcat)s',
 		'category_redirect-fix-double': u'Robot: Pamasangan paugahan ganda',
 	},
 	# Author: Wikitanvir
@@ -706,8 +712,14 @@ msg = {
 		'category_redirect-fix-double': u'Робот: виправлення подвійного перенаправлення',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'category_redirect-fix-double': u'Bot: Sistemo i dopi rimandi',
+		'category_redirect-add-template': u'Robot: Xonto el modeło de rindirisamento a categoria par manutension',
+		'category_redirect-change-category': u'Robot: Canbio ła categoria co rindirisamento [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Robot de manutension de rindirisamenti a categorie',
+		'category_redirect-edit-request': u'Le seguenti pajine protete xe stà individuade come bixognoxe de ajornamenti pai link ałe categorie: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s xe inte %(oldcat)s, che el xe un rindirisamento verso %(newcat)s',
+		'category_redirect-fix-double': u'Robot: Sistemo i rindirisamenti dopi',
 	},
 	# Author: Minh Nguyen
 	'vi': {
@@ -723,6 +735,8 @@ msg = {
 	},
 	# Author: פוילישער
 	'yi': {
+		'category_redirect-add-template': u'ראבאט: לייגט צו קאטעגאריע ווייטערפירן מוסטער פאר אויפהאלטונג',
+		'category_redirect-change-category': u'ראבאט: ענדערט ווייטערגעפירטע קאטעגאריע [[:%(oldCatLink)s|%(oldCatTitle)s]] צו [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'קאַטעגאריע ווײַטערפֿירן אויפֿהאַלטן באט',
 		'category_redirect-fix-double': u'באט: פארראכטן פארטאפלטע ווייטערפירונג',
 	},

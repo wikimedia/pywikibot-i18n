@@ -31,6 +31,10 @@ msg = {
 	'bg': {
 		'noreferences-add-tag': u'Робот: Добавяне на липсващ етикет <references />',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'noreferences-add-tag': u'Bot: Manambahakan tag <references /> tag',
+	},
 	# Author: Y-M D
 	'br': {
 		'noreferences-add-tag': u'Robot: Ouzhpennañ ar balizenn <references /> hag a vank',
@@ -268,6 +272,10 @@ msg = {
 	# Author: Dim Grits
 	'uk': {
 		'noreferences-add-tag': u'Robot: Дадано відсутній тег <references />',
+	},
+	# Author: Alunardon90
+	'vec': {
+		'noreferences-add-tag': u'Robot: Xonto ła eticheta <references /> mancante',
 	},
 	# Author: Minh Nguyen
 	'vi': {

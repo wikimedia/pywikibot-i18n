@@ -42,6 +42,11 @@ msg = {
 		'welcome-updating': u'Робат: журнал абнаўленьняў',
 		'welcome-welcome': u'Вітаем!',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'welcome-bad_username': u'Bot: Manambahakan ngaran pamakai nang parlu dipariksa',
+		'welcome-welcome': u'Salamat datang',
+	},
 	'bn': {
 		'welcome-welcome': u'Welcome!',
 	},
@@ -444,6 +449,12 @@ msg = {
 		'welcome-bad_username': u'Бот: Додане підозріле ім\'я користувача',
 		'welcome-updating': u'Бот: Оновлення журналу',
 		'welcome-welcome': u'Ласкаво просимо!',
+	},
+	# Author: Alunardon90
+	'vec': {
+		'welcome-bad_username': u'Robot: Xontà utente da controłare',
+		'welcome-updating': u'Robot: Ajorno el log',
+		'welcome-welcome': u'Benvegnùo/a!',
 	},
 	# Author: Minh Nguyen
 	'vi': {

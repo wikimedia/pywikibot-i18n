@@ -154,8 +154,16 @@ msg = {
 		'category-replacing': u'Робот: Заменяне на категория %(oldcat)s с %(newcat)s',
 	},
 	# Author: Xqt
+	# Author: Riemogerz
 	'bjn': {
 		'category-adding': u'Bot: Manambah tumbung [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(jua dalam %(alsocat)s)',
+		'category-changing': u'Bot: Maubah %(oldcat)s manjadi %(newcat)s',
+		'category-listifying': u'Bot: Maulah daptar matan %(fromcat)s (%(num)d entri)',
+		'category-removing': u'Bot: Mahapus matan %(oldcat)s',
+		'category-replacing': u'Bot: Mangganti tumbung %(oldcat)s lawan %(newcat)s',
+		'category-was-disbanded': u'Bot: Tumbung dipacah',
+		'category-was-moved': u'Bot: Tumbung dipindahakan ka [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Wikitanvir
 	# Author: Bellayet
@@ -1429,14 +1437,18 @@ msg = {
 		'category-adding': u'Bot: Qoʻshdi category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'category-adding': u'Bot: Zonto la categoria [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Robot: Xonto ła categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(anca in %(alsocat)s)',
-		'category-changing': u'Bot: Canbio %(oldcat)s in %(newcat)s',
-		'category-removing': u'Bot: Cavo da %(oldcat)s',
-		'category-replacing': u'Bot: Canbio %(oldcat)s con %(newcat)s',
-		'category-was-disbanded': u'Bot: La categoria la xe stà scancelà',
-		'category-was-moved': u'Bot: La categoria la xe stà canbià con [[:Categoria:%(newcat)s|%(title)s]]',
+		'category-changing': u'Robot: Canbio %(oldcat)s in %(newcat)s',
+		'category-listifying': u'Robot: Creo ła lista da %(fromcat)s ({{PLURAL:%(num)d|1 voxe|%(num)d voxi}})',
+		'category-removing': u'Robot: Cavo da %(oldcat)s',
+		'category-replacing': u'Robot: Canbio %(oldcat)s co %(newcat)s',
+		'category-section-title': u'Cronołojia deła preçedente %(oldcat)s',
+		'category-version-history': u'Robot: salvo ła cronołojia de ła preçedente %(oldcat)s',
+		'category-was-disbanded': u'Robot: La categoria xe stà scancełà',
+		'category-was-moved': u'Robot: Ła categoria ła xe stà canbià co [[:Categoria:%(newcat)s|%(title)s]]',
 	},
 	# Author: Minh Nguyen
 	'vi': {
@@ -1482,11 +1494,13 @@ msg = {
 		'category-adding': u'באט: לייגט צו קאַטעגאריע [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(אויך אין %(alsocat)s)',
 		'category-changing': u'ראָבאָט: ענדערן %(oldcat)s צו %(newcat)s',
-		'category-listifying': u'באָט: שאַפֿן א רשימה פֿון %(fromcat)s (%(num)d בלעטער)',
+		'category-listifying': u'באָט: שאַפֿן א רשימה פֿון %(fromcat)s ({{PLURAL:%(num)d|1 בלאט|%(num)d בלעטער}})',
 		'category-removing': u'באט: נעמט אַוועק פֿון %(oldcat)s',
 		'category-replacing': u'באט: פֿאַרטוישט %(oldcat)s מיט %(newcat)s',
+		'category-section-title': u'בלאט היסטאריע פון פריערדיקע %(oldcat)s',
+		'category-version-history': u'באט: אויפהיטן ווערסיע היסטאריע פון פריערדיקע %(oldcat)s',
 		'category-was-disbanded': u'באָט: קאַטעגאָריע איז געווארן ליקווידירט',
-		'category-was-moved': u'ראָבאָט: קאַטעגאָריע איז אריבערגעפֿירט צו [[: קאַטעגאָריע: %(newcat)s| %(title)s]]',
+		'category-was-moved': u'ראָבאָט: קאַטעגאָריע איז אריבערגעפֿירט צו [[:קאַטעגאָריע: %(newcat)s| %(title)s]]',
 	},
 	# Author: Demmy
 	'yo': {

@@ -34,6 +34,10 @@ msg = {
 	'bg': {
 		'basic-changing': u'Робот: Промяна...',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'basic-changing': u'Bot: Mangganti ...',
+	},
 	# Author: Wikitanvir
 	'bn': {
 		'basic-changing': u'বট: পরিবর্তন করছে ...',
@@ -373,8 +377,9 @@ msg = {
 		'basic-changing': u'Бот: змінив ...',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'basic-changing': u'Bot: Canbiando...',
+		'basic-changing': u'Robot: Modifega...',
 	},
 	# Author: Minh Nguyen
 	'vi': {

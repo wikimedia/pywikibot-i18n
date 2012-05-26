@@ -45,6 +45,13 @@ msg = {
 		'featured-good': u'Робат: %(page)s зьяўляецца добрым артыкулам',
 		'featured-list': u'Робат: %(page)s зьяўляецца абраных сьпісам',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'featured-featured': u'Bot: %(page)s adalah artikal pilihan',
+		'featured-former': u'Bot: %(page)s adalah bakas artikal pilihan',
+		'featured-good': u'Bot: %(page)s adalah artikal baik',
+		'featured-list': u'Bot: %(page)s adalah daptar pilihan',
+	},
 	# Author: Fulup
 	# Author: Y-M D
 	'br': {
@@ -437,6 +444,13 @@ msg = {
 		'featured-former': u'Робот: %(page)s є колишньою вибраною статтею',
 		'featured-good': u'Робот: добра стаття %(page)s',
 		'featured-list': u'Бот: %(page)s вибраний список',
+	},
+	# Author: Alunardon90
+	'vec': {
+		'featured-featured': u'Robot: %(page)s el xe on articoło in evidensa',
+		'featured-former': u'Robot: %(page)s el jera on articoło in evidensa',
+		'featured-good': u'Robot: %(page)s el xe on articoło de cuałità',
+		'featured-list': u'Robot: %(page)s el xe inte un elenco de primo piano',
 	},
 	# Author: Minh Nguyen
 	'vi': {

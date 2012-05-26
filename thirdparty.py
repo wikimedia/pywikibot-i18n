@@ -110,6 +110,14 @@ msg = {
 	'bg': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'робот',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusi diganti',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusi ditutup',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT PASAN',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Pambaritahuan',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'rubut',
+	},
 	# Author: Fulup
 	# Author: Y-M D
 	# Author: DrTrigon
@@ -1134,6 +1142,26 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Резюме обговорення оновлено: %(num)i записів на %(page)s',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'sostitusion eticheta/e %(tags)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discusion modifegà',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discusion sarà',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESAJO DEL ROBOT',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova discusion',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notifega',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s ultima modifega] (%(page_size)s byte) efetuà da %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s - tute łe discusion xe ramai da considerarse terminade (monitorajo fermà) - ultima modifega efetuà da %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nRiasunto jenerà da e a: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(no xe stà catà nisun utente uman)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - ultima modifega efetuà da [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mesajo de avixo del Robò: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Xontà somario deła discusion: %(num)i articołi',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Xontà somario deła discusion co ripułitura: %(num)i articołi',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Ajornà el somario deła discusion: %(num)i articołi in %(page)s',
+	},
 	# Author: Minh Nguyen
 	# Author: DrTrigon
 	'vi': {
@@ -1157,6 +1185,7 @@ msg = {
 	},
 	# Author: פוילישער
 	'yi': {
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d ב%B %Y',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'באט',
 	},
 	# Author: Anakmalaysia

@@ -226,6 +226,10 @@ msg = {
 	'uk': {
 		'movepages-moving': u'Робот: перейменування сторінки',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'movepages-moving': u'Robot: Pajina spostà',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'movepages-moving': u'Bot: Di chuyển trang',

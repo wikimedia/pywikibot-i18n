@@ -285,6 +285,11 @@ msg = {
 		'table2wiki-no-warning': u'Напівавтоматичний бот: синтаксис таблиці оновлено',
 		'table2wiki-warnings': u'Напівавтоматичний бот: синтаксис таблиці оновлено - {{PLURAL:count|1 попередження|%(count)d попереджень}}!',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'table2wiki-no-warning': u'Robot controłà da\'l utente: sintasi dełe tabełe ajornà',
+		'table2wiki-warnings': u'Robot controłà da\'l utente: tabeła sintasi ajornada - {{PLURAL:count|1 avixo|%(count)d avixi}}!',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'table2wiki-no-warning': u'Bot có người điều khiển: Cập nhật cú pháp bảng',

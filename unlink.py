@@ -207,13 +207,17 @@ msg = {
 	'uk': {
 		'unlink-unlinking': u'Бот: Вилучення посилання "%s"',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'unlink-unlinking': u'Robot: Eliminasion cołegamenti a "%s"',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'unlink-unlinking': u'Bot: Bỏ liên kết đến “%s”',
 	},
-	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
-		'unlink-unlinking': u'机器人：取消“%s”链接',
+		'unlink-unlinking': u'机器人：断开“%s”链接',
 	},
 	# Author: Breawycker
 	'zh-hant': {

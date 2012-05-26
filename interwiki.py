@@ -1655,14 +1655,15 @@ msg = {
 		'interwiki-removing': u'Bot Tuzatdi: %(removing)s',
 		'interwiki-removing-modifying': u'Bot Tuzatdi: %(removing)s Oʻchirdi: %(modifying)s',
 	},
+	# Author: Alunardon90
 	'vec': {
-		'interwiki-adding': u'Bot: Zonto: %(adding)s',
-		'interwiki-adding-modifying': u'Bot: Zonto: %(adding)s Canbio: %(modifying)s',
-		'interwiki-adding-removing': u'Bot: Zonto: %(adding)s Cavo: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot: Zonto: %(adding)s Cavo: %(removing)s Canbio: %(modifying)s',
-		'interwiki-modifying': u'Bot: Canbio: %(modifying)s',
-		'interwiki-removing': u'Bot: Cavo: %(removing)s',
-		'interwiki-removing-modifying': u'Bot: Cavo: %(removing)s Canbio: %(modifying)s',
+		'interwiki-adding': u'Robot: Xonto %(adding)s',
+		'interwiki-adding-modifying': u'Robot: Xonto %(adding)s; Canbio: %(modifying)s',
+		'interwiki-adding-removing': u'Robot: Xonto %(adding)s; Cavo %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: Xonto %(adding)s; Cavo %(removing)s; Canbio %(modifying)s',
+		'interwiki-modifying': u'Robot: Canbio %(modifying)s',
+		'interwiki-removing': u'Robot: Cavo %(removing)s',
+		'interwiki-removing-modifying': u'Robot: Cavo %(removing)s; canbio %(modifying)s',
 	},
 	# Author: Emaus
 	'vep': {

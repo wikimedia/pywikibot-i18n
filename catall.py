@@ -222,9 +222,17 @@ msg = {
 	'uk': {
 		'catall-changing': u'Бот: Зміна категорій',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'catall-changing': u'Robot: Canbio categorie',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'catall-changing': u'Bot: Thay đổi thể loại',
+	},
+	# Author: פוילישער
+	'yi': {
+		'catall-changing': u'באט: ענדערן קאטעגאריעס',
 	},
 	# Author: Yfdyh000
 	'zh': {

@@ -45,6 +45,14 @@ msg = {
 		'archivebot-older-than': u'старэйшае за',
 		'archivebot-page-summary': u'Архівацыя %(count)d тэмы(аў) (%(why)s) для %(archives)s.',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'archivebot-archive-full': u'(ARSIP LANGKAP)',
+		'archivebot-archive-summary': u'Pangarsipan %(count)d thread(s) dari [[%(from)s]].',
+		'archivebot-archiveheader': u'{{Talkarchive}}',
+		'archivebot-older-than': u'tatuha matan',
+		'archivebot-page-summary': u'Pangarsipan %(count)d, thread(s) (%(why)s) %(archives)s.',
+	},
 	# Author: Bellayet
 	'bn': {
 		'archivebot-archiveheader': u'{{talkarchive}}',
@@ -556,6 +564,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'старше',
 		'archivebot-page-summary': u'Архівація %(count)d {{PLURAL:%(count)d|теми|тем}} (%(why)s) в %(archives)s.',
+	},
+	# Author: Alunardon90
+	'vec': {
+		'archivebot-archive-full': u'(ARCHIVIO PIEN)',
+		'archivebot-archive-summary': u'Robot: Archiviasion de %(count)d discusion da [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'pi vecio de',
+		'archivebot-page-summary': u'Robot: Archiviasion de %(count)d discusion (%(why)s) in %(archives)s.',
 	},
 	# Author: Minh Nguyen
 	'vi': {

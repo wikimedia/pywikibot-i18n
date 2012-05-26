@@ -121,6 +121,10 @@ msg = {
 	'tly': {
 		'ndashredir-create': u'Бот: Истиғомәти дәгиш карде сохтеј де дефиси бә [[%(title)s]]',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'ndashredir-create': u'Robot: Creasion de un rindirisamento co tratin a [[%(title)s]]',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'ndashredir-create': u'Bot: Tạo trang đổi hướng có dấu nối đến [[%(title)s]]',

@@ -35,6 +35,11 @@ msg = {
 	'bg': {
 		'commons-file-now-available': u'Файлът вече е наличен в [[:commons:File:%(commonsfile)s|Общомедия]].',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'commons-file-moved': u'[[:Barakas:%(localfile)s|Barakas]] dipindahakan ka [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Barakas naya wahini ada di [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Fulup
 	'br': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Restr]] kaset da [[:commons:File:%(commonsfile)s|commons]].',
@@ -342,9 +347,10 @@ msg = {
 		'commons-file-now-available': u'Файл тепер доступний на [[:commons:File:%(commonsfile)s|Вікісховищі]].',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] spostà su [[:commons:File:%(commonsfile)s|commons]].',
-		'commons-file-now-available': u'Sto file desso te lo cati su [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-now-available': u'Sto file deso te ło cati so [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Minh Nguyen
 	'vi': {

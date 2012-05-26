@@ -45,6 +45,11 @@ msg = {
 		'cosmetic_changes-append': u'; козметични промени',
 		'cosmetic_changes-standalone': u'Робот козметични промени',
 	},
+	# Author: Riemogerz
+	'bjn': {
+		'cosmetic_changes-append': u'; kusmitik parubahan',
+		'cosmetic_changes-standalone': u'Robot: Parubahan kusmitik',
+	},
 	# Author: Wikitanvir
 	'bn': {
 		'cosmetic_changes-append': u'; কসমেটিক পরিবর্তন',
@@ -413,9 +418,10 @@ msg = {
 		'cosmetic_changes-standalone': u'робот косметичні зміни',
 	},
 	# Author: Candalua
+	# Author: Alunardon90
 	'vec': {
-		'cosmetic_changes-append': u'; modifiche de beleza',
-		'cosmetic_changes-standalone': u'Bot: Modifiche de beleza',
+		'cosmetic_changes-append': u'; modifiche estetiche',
+		'cosmetic_changes-standalone': u'Robot: Modifiche estetiche',
 	},
 	# Author: Emaus
 	'vep': {

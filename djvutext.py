@@ -200,6 +200,10 @@ msg = {
 	'uk': {
 		'djvutext-creating': u'Бот: Створення сторінки з текстом, витягнутим з DjVu-файла',
 	},
+	# Author: Alunardon90
+	'vec': {
+		'djvutext-creating': u'Robot: Creasion pajina co testo ricavà da DjVu',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'djvutext-creating': u'Bot: Tạo trang theo văn bản trích từ DjVu',
