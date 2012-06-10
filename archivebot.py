@@ -38,12 +38,13 @@ msg = {
 		'archivebot-older-than': u'böyükdür',
 	},
 	# Author: Jim-by
+	# Author: Renessaince
 	'be-x-old': {
 		'archivebot-archive-full': u'(ПОЎНЫ АРХІЎ)',
-		'archivebot-archive-summary': u'Архівацыя %(count)d галіны(аў) з [[%(from)s]].',
+		'archivebot-archive-summary': u'Робат: Архівацыя %(count)d {{PLURAL:%(count)d|галіны|галінаў}} з [[%(from)s]].',
 		'archivebot-archiveheader': u'{{архіў абмеркаваньня}}',
 		'archivebot-older-than': u'старэйшае за',
-		'archivebot-page-summary': u'Архівацыя %(count)d тэмы(аў) (%(why)s) для %(archives)s.',
+		'archivebot-page-summary': u'Робат: Архівацыя %(count)d {{PLURAL:%(count)d|тэмы|тэмаў}} (%(why)s) для %(archives)s.',
 	},
 	# Author: Riemogerz
 	'bjn': {
@@ -232,7 +233,7 @@ msg = {
 		'archivebot-archive-full': u'ארכיון מלא',
 		'archivebot-archive-summary': u'ארכוב %(count)d שיחות מ[[%(from)s]]',
 		'archivebot-older-than': u'ישן מ:',
-		'archivebot-page-summary': u'ארכוב %(count)d שיחות (%(why)s) אל %(archives)s.',
+		'archivebot-page-summary': u'ארכוב {{PLURAL:%(count)d|שיחה אחת|%(count)d שיחות}} (%(why)s) אל %(archives)s.',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -257,12 +258,13 @@ msg = {
 		'archivebot-page-summary': u'Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} (%(why)s) verso %(archives)s.',
 	},
 	# Author: Aldnonymous
+	# Author: Farras
 	'id': {
 		'archivebot-archive-full': u'(ARSIP LENGKAP)',
-		'archivebot-archive-summary': u'Pengarsipan %(count)d thread(s) dari [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]].',
 		'archivebot-archiveheader': u'{{Talkarchive}}',
 		'archivebot-older-than': u'lebih tua dari',
-		'archivebot-page-summary': u'Pengarsipan %(count)d, thread(s) (%(why)s) %(archives)s.',
+		'archivebot-page-summary': u'Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ke %(archives)s.',
 	},
 	# Author: Lam-ang
 	'ilo': {
@@ -298,19 +300,20 @@ msg = {
 		'archivebot-archive-summary': u'%(count)d{{PLURAL:%(count)d|個のスレッド}}を[[%(from)s]]より過去ログ化',
 		'archivebot-archiveheader': u'{{Archives}}',
 		'archivebot-older-than': u'次より古い',
-		'archivebot-page-summary': u'%(count)d{{PLURAL:%(count)d|個のスレッド}} (%(why)s) を%(archives)sへ過去ログ化',
+		'archivebot-page-summary': u'ロボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}} (%(why)s) を%(archives)sへ過去ログ化',
 	},
 	# Author: Kwj2772
 	'ko': {
 		'archivebot-archive-summary': u'[[%(from)s]]에서 스레드 %(count)d개를 보존함.',
 		'archivebot-archiveheader': u'{{보존}}',
 	},
+	# Author: Purodha
 	'ksh': {
 		'archivebot-archive-full': u'(DAT ASCHIHV ES VOLL)',
-		'archivebot-archive-summary': u'* %(count)d Schtö) vun [[%(from)s]] noh heh en et Aschihf jedonn.',
+		'archivebot-archive-summary': u'Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} vun [[%(from)s]] en et Aschihf jedonn.',
 		'archivebot-archiveheader': u'{{Sigg weed aschiveet}}',
 		'archivebot-older-than': u'äer wi',
-		'archivebot-page-summary': u'* %(count)d Schtöe) (%(why)s) en et Aschif %(archives)s jedonn.',
+		'archivebot-page-summary': u'Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} (%(why)s) en et Aschihf %(archives)s jedonn.',
 	},
 	# Author: Robby
 	'lb': {
@@ -536,6 +539,14 @@ msg = {
 	# Author: Shanmugamp7
 	'ta': {
 		'archivebot-older-than': u'முந்தையது',
+	},
+	# Author: AnakngAraw
+	'tl': {
+		'archivebot-archive-full': u'(PUNO NA ANG SINUPAN)',
+		'archivebot-archive-summary': u'Robot: Nagsisinop ng %(count)d {{PLURAL:%(count)d|sinulid|mga sinulid}} mula sa [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'mas luma kaysa',
+		'archivebot-page-summary': u'Robot: Nagsisinop ng %(count)d {{PLURAL:%(count)d|sinulid|mga sinulid}} (%(why)s) sa %(archives)s.',
 	},
 	# Author: Гусейн
 	'tly': {

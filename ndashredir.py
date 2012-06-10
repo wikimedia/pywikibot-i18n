@@ -60,6 +60,10 @@ msg = {
 	'ia': {
 		'ndashredir-create': u'Bot: Crea un redirection con tracto de union verso [[%(title)s]]',
 	},
+	# Author: Farras
+	'id': {
+		'ndashredir-create': u'Bot: Membuat pengalihan hubung ke [[%(title)s]]',
+	},
 	# Author: Snævar
 	'is': {
 		'ndashredir-create': u'Vélmenni: Bý til tilvísun á grein með bandstrik í titli [[%(title)s]]',
@@ -67,6 +71,10 @@ msg = {
 	# Author: Ximo17
 	'it': {
 		'ndashredir-create': u'Bot: Creazione di un reindirizzo con trattino a [[%(title)s]]',
+	},
+	# Author: Purodha
+	'ksh': {
+		'ndashredir-create': u'Bot:  Han en Ömleidong met Bendeschresch op [[%(title)s]] aanjelaat.',
 	},
 	# Author: Robby
 	'lb': {
@@ -96,6 +104,10 @@ msg = {
 	# Author: 555
 	'pt-br': {
 		'ndashredir-create': u'Bot: Criando redirecionamento hifenizado para [[%(title)s]]',
+	},
+	# Author: Minisarm
+	'ro': {
+		'ndashredir-create': u'Robot: Creat redirecționare cu cratimă către [[%(title)s]]',
 	},
 	# Author: Ignatus
 	'ru': {
@@ -128,6 +140,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'ndashredir-create': u'Bot: Tạo trang đổi hướng có dấu nối đến [[%(title)s]]',
+	},
+	# Author: פוילישער
+	'yi': {
+		'ndashredir-create': u'באט: שאפן באהאפטענע ווײַטערפירונג צו [[%(title)s]]',
 	},
 	# Author: Yfdyh000
 	'zh': {

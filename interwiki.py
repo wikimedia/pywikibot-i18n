@@ -1743,13 +1743,14 @@ msg = {
 		'interwiki-removing': u'көдлвр һарһв: %(removing)s',
 		'interwiki-removing-modifying': u'көдлвр һарһв: %(removing)s сольв: %(modifying)s',
 	},
+	# Author: פוילישער
 	'yi': {
-		'interwiki-adding': u'באט צוגעלייגט: %(adding)s',
-		'interwiki-adding-modifying': u'באט צוגעלייגט: %(adding)s געענדערט: %(modifying)s',
-		'interwiki-adding-removing': u'באט צוגעלייגט: %(adding)s אראפגענומען: %(removing)s',
-		'interwiki-adding-removing-modifying': u'באט צוגעלייגט: %(adding)s אראפגענומען: %(removing)s געענדערט: %(modifying)s',
-		'interwiki-modifying': u'באט געענדערט: %(modifying)s',
-		'interwiki-removing': u'באט אראפגענומען: %(removing)s',
+		'interwiki-adding': u'באט: לייגט צו %(adding)s',
+		'interwiki-adding-modifying': u'באט: לייגט צו %(adding)s ענדערט: %(modifying)s',
+		'interwiki-adding-removing': u'באט: לייגט צו %(adding)s נעמט אראפ: %(removing)s',
+		'interwiki-adding-removing-modifying': u'באט: לייגט צו %(adding)s; נעמט אראפ %(removing)s; ענדערט %(modifying)s',
+		'interwiki-modifying': u'באט: ענדערט %(modifying)s',
+		'interwiki-removing': u'באט: נעמט אראפ %(removing)s',
 		'interwiki-removing-modifying': u'באט אראפגענומען: %(removing)s געענדערט: %(modifying)s',
 	},
 	# Author: Demmy
@@ -1785,11 +1786,11 @@ msg = {
 	'zh': {
 		'interwiki-adding': u'机器人添加：%(adding)s',
 		'interwiki-adding-modifying': u'机器人添加：%(adding)s 修改：%(modifying)s',
-		'interwiki-adding-removing': u'机器人添加：%(adding)s 去除：%(removing)s',
-		'interwiki-adding-removing-modifying': u'机器人添加：%(adding)s 去除：%(removing)s 修改：%(modifying)s',
+		'interwiki-adding-removing': u'机器人添加：%(adding)s 移除：%(removing)s',
+		'interwiki-adding-removing-modifying': u'机器人添加：%(adding)s 移除：%(removing)s 修改：%(modifying)s',
 		'interwiki-modifying': u'机器人修改：%(modifying)s',
-		'interwiki-removing': u'机器人去除：%(removing)s',
-		'interwiki-removing-modifying': u'机器人去除：%(removing)s 修改：%(modifying)s',
+		'interwiki-removing': u'机器人移除：%(removing)s',
+		'interwiki-removing-modifying': u'机器人移除：%(removing)s 修改：%(modifying)s',
 	},
 	# Author: Alexsh
 	# Author: Andrew971218

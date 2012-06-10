@@ -100,6 +100,10 @@ msg = {
 	'ia': {
 		'fixing_redirects-fixing': u'Robot: Correction de redirectiones',
 	},
+	# Author: Farras
+	'id': {
+		'fixing_redirects-fixing': u'Bot: Memperbaiki pengalihan',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'fixing_redirects-fixing': u'Bot: Agsimsimpa kadagiti baw-ing',
@@ -201,6 +205,10 @@ msg = {
 	'ta': {
 		'fixing_redirects-fixing': u'தானியங்கி: வழிமாற்றிகள் சரிபார்க்கப்படுகின்றன',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'fixing_redirects-fixing': u'Bot: Kinukumpuni ang mga pagpapapunta sa iba',
+	},
 	# Author: Гусейн
 	'tly': {
 		'fixing_redirects-fixing': u'Бот: Истиғомәтон дәгиш карде печыније',
@@ -219,6 +227,10 @@ msg = {
 	},
 	'vi': {
 		'fixing_redirects-fixing': u'Robot: Sửa đổi hướng',
+	},
+	# Author: פוילישער
+	'yi': {
+		'fixing_redirects-fixing': u'באט: פאררעכטן ווײַטערפירונגען',
 	},
 	# Author: Anakmalaysia
 	'zh': {

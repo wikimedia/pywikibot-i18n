@@ -89,6 +89,10 @@ msg = {
 	'ia': {
 		'unlink-unlinking': u'Robot: Disliga "%s"',
 	},
+	# Author: Farras
+	'id': {
+		'unlink-unlinking': u'Robot: Memutuskan tautan "%s"',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'unlink-unlinking': u'Robot: Agikikkat ti panilpo "%s"',
@@ -103,7 +107,7 @@ msg = {
 	},
 	# Author: Shirayuki
 	'ja': {
-		'unlink-unlinking': u'ロボット: リンクを解除中 "%s"',
+		'unlink-unlinking': u'ロボットによる: リンクを解除中 "%s"',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -194,6 +198,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'unlink-unlinking': u'தானியங்கி: "%s" இணைப்பு நீக்கப்படுகின்றது',
+	},
+	# Author: AnakngAraw
+	'tl': {
+		'unlink-unlinking': u'Robot: Hindi ikinakawing ang "%s"',
 	},
 	# Author: Гусейн
 	'tly': {

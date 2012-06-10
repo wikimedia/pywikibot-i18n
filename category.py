@@ -628,6 +628,8 @@ msg = {
 		'category-listifying': u'Bot: Membuat daftar dari %(fromcat)s (%(num)d entri)',
 		'category-removing': u'Bot: Menghapus dari %(oldcat)s',
 		'category-replacing': u'Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s',
+		'category-section-title': u'Versi terdahulu halaman bekas %(oldcat)s',
+		'category-version-history': u'Robot: Menyimpan versi terdahulu bekas %(oldcat)s',
 		'category-was-disbanded': u'Bot: Kategori dipecah',
 		'category-was-moved': u'Bot: Kategori dipindahkan ke [[:Category:%(newcat)s|%(title)s]]',
 	},
@@ -699,14 +701,15 @@ msg = {
 	# Author: Ohgi
 	# Author: Whym
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
 		'category-adding': u'ロボットによる: カテゴリ追加 [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'（%(alsocat)sにも入っています）',
 		'category-changing': u'ロボットによる: カテゴリ変更 %(oldcat)s→%(newcat)s',
-		'category-listifying': u'ボット： %(fromcat)sからリスト化（%(num)d件）',
-		'category-removing': u'ロボットによる:[[%(oldcat)s]]を除去',
+		'category-listifying': u'ロボットによる: %(fromcat)sからリスト化（%(num)d件）',
+		'category-removing': u'ロボットによる: [[%(oldcat)s]]を除去',
 		'category-replacing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
-		'category-was-disbanded': u'ボット：カテゴリが廃止されています',
+		'category-was-disbanded': u'ロボットによる: カテゴリが廃止されています',
 		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)s|%(title)s]]へ移動',
 	},
 	'ka': {
@@ -760,6 +763,8 @@ msg = {
 		'category-listifying': u'Bot: Leß vun dä %(fromcat)s (%(num)d Enndrääsch)',
 		'category-removing': u'Bot: uß de %(oldcat)s ußjedraare',
 		'category-replacing': u'Bot: [[%(oldcat)s]] jääje [[%(newcat)s]] ußjetuusch.',
+		'category-section-title': u'De ällder Version von de fröjere %(oldcat)s',
+		'category-version-history': u'Bot: De ällder Version von de fröjere %(oldcat)s faßjehallde.',
 		'category-was-disbanded': u'Bot: de Saachjropp is nu opjelööß',
 		'category-was-moved': u'Bot: Saachjropp noh [[:Category:%(newcat)s|%(title)s]] jeschovve',
 	},
@@ -1182,6 +1187,7 @@ msg = {
 		'category-listifying': u'Robot: Listare de la %(fromcat)s (%(num)d intrări)',
 		'category-removing': u'Robot: Înlăturat din %(oldcat)s',
 		'category-replacing': u'Robot: Înlocuit categoria %(oldcat)s cu %(newcat)s',
+		'category-section-title': u'Istoricul paginii pentru fosta %(oldcat)s',
 		'category-version-history': u'Robot: Se salvează istoricul versiunilor pentru vechea %(oldcat)s',
 		'category-was-disbanded': u'Robot: Categoria a fost desființată',
 		'category-was-moved': u'Robot: Categoria a fost mutată la [[:Category:%(newcat)s|%(title)s]]',
@@ -1362,10 +1368,11 @@ msg = {
 	'tl': {
 		'category-adding': u'Robot: Nagdaragdag ng kategoryang [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(nasa loob din ng %(alsocat)s)',
-		'category-changing': u'Robot: Binabago ang %(oldcat)s',
+		'category-changing': u'Robot: Binabago ang %(oldcat)s upang maging %(newcat)s',
 		'category-listifying': u'Bot: Isinalilista mula sa %(fromcat)s (%(num)d entries)',
 		'category-removing': u'Bot: Tinatanggal mula sa %(oldcat)s',
 		'category-replacing': u'Robot: Pinapalitan ng kategoryang %(oldcat)s ng %(newcat)s',
+		'category-version-history': u'Robot: Sinasagip ang kasaysayan ng bersiyon ng dating %(oldcat)s',
 		'category-was-disbanded': u'Bot: Pinagwatak-watak ang kategorya',
 		'category-was-moved': u'Robot: Inilipat ang kategorya sa [[:Category:%(newcat)s|%(title)s]]',
 	},

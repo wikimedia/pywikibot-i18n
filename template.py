@@ -150,6 +150,12 @@ msg = {
 		'template-removing': u'Robot: Elimination de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s',
 		'template-substituting': u'Robot: Substitution de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s',
 	},
+	# Author: Farras
+	'id': {
+		'template-changing': u'Robot: Mengubah {{PLURAL:%(num)d|templat|templat}}: %(list)s',
+		'template-removing': u'Robot: Menghapus {{PLURAL:%(num)d|templat|templat}}: %(list)s',
+		'template-substituting': u'Robot: Mengganti {{PLURAL:%(num)d|templat|templat}}: %(list)s',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'template-changing': u'Robot: Agsuksukat {{PLURAL:%(num)d|ti plantilia|dagiti plantilia}}: %(list)s',

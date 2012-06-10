@@ -103,6 +103,10 @@ msg = {
 	'ia': {
 		'movepages-moving': u'Robot: Pagina renominate',
 	},
+	# Author: Farras
+	'id': {
+		'movepages-moving': u'Robot: Memindahkan halaman',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'movepages-moving': u'Robot: Inyalis ti panid',
@@ -213,6 +217,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'movepages-moving': u'தானியங்கி: பக்கம் நகர்த்தப்பட்டது',
+	},
+	# Author: AnakngAraw
+	'tl': {
+		'movepages-moving': u'Robot: Inilipat ang pahina',
 	},
 	# Author: Гусейн
 	'tly': {

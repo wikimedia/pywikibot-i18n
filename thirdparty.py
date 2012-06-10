@@ -229,8 +229,8 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'%(tags)s ê etiket(i) vurnayış',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Werênayış vurneya',
-		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Werênayış racneya',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Persiyey vurneya',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Persiyey racneya',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESACE ROBOTİ',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Mınaqeşeyo newe',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Xeberdar',
@@ -508,6 +508,26 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summario del discussion actualisate: %(num)i entratas in %(page)s',
 	},
+	# Author: Farras
+	'id': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'mengganti %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusi berubah',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusi ditutup',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'PESAN ROBOT',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Diskusi Baru',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Pemberitahuan',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s suntingan terakhir] (%(page_size)s bita) oleh %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s semua diskusi telah ditutup (pemantauan dihentikan) - suntingan terakhir oleh %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nRingkasan diperoleh dari dan di: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(tidak ada penyunting manusia yang ditemukan)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - suntingan terakhir oleh [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Pesan peringatan robot: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Ringkasan diskusi ditambahkan: %(num)i entri',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ringkasan diskusi ditambahkan dengan pembersihan: %(num)i entri',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Ringkasan diskusi dimutakhirkan: %(num)i entri di %(page)s',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Nasukatan ti pagtungtungan',
@@ -591,6 +611,7 @@ msg = {
 	},
 	# Author: Purodha
 	'ksh': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'usjetuusch: %(tags)s Makeerong(e)',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'De Diskußjuhn wood verändert.',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Dä Klaaf es vörbei.',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'<span style="text-transform:uppercase">Nohreesch vum Bot: </span>',
@@ -1081,6 +1102,15 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* தானியங்கி எச்சரிக்கை: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'எந்திரம்',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAHE NG ROBOT',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Bagong Usapan',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Pagpapabatid',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(walang natagpuang patnugot na tao)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+	},
 	# Author: Гусейн
 	'tly': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'Ым тегон дәгиш бејдән %(tags)s',
@@ -1185,7 +1215,15 @@ msg = {
 	},
 	# Author: פוילישער
 	'yi': {
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'שמועס פארמאכט',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'נייער שמועס',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'אנזאג',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s לעצטע רעדאקטירונג] (%(page_size)s bytes) פון %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s אלע שמועסן געקאנטשעט (אויגהאלטונג אפגעשטעלט) - לעצטע רעדאקטירונג פון %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(קיין מענטשלעכער רעדאקטאר נישט געפונען)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - לעצטע רעדאקטירונג פון [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d ב%B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* באט ווארענונג־מעלדונג: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'באט',
 	},
 	# Author: Anakmalaysia

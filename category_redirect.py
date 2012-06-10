@@ -379,11 +379,12 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Sistemo i redirect doppi',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
-		'category_redirect-add-template': u'ロボット: 保守のためカテゴリー転送テンプレートを追加',
-		'category_redirect-change-category': u'ロボット: 転送されているカテゴリー[[:%(oldCatLink)s|%(oldCatTitle)s]]を[[:%(newCatLink)s|%(newCatTitle)s]]へと変更',
-		'category_redirect-comment': u'カテゴリー転送保守ロボット',
-		'category_redirect-edit-request': u'以下の保護されたページは、カテゴリーリンクの更新が必要であると検出されました: %(itemlist)s',
+		'category_redirect-add-template': u'ロボットによる: 保守のためカテゴリー転送テンプレートを追加',
+		'category_redirect-change-category': u'ロボットによる: 転送されているカテゴリ[[:%(oldCatLink)s|%(oldCatTitle)s]]を[[:%(newCatLink)s|%(newCatTitle)s]]へと変更',
+		'category_redirect-comment': u'カテゴリ転送保守ロボット',
+		'category_redirect-edit-request': u'以下の保護されたページは、カテゴリリンクの更新が必要であると検出されました: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)sは、%(newcat)sへのリダイレクトである%(oldcat)sに入っています',
 		'category_redirect-fix-double': u'ロボットによる: 二重リダイレクト修正',
 	},
@@ -738,6 +739,8 @@ msg = {
 		'category_redirect-add-template': u'ראבאט: לייגט צו קאטעגאריע ווייטערפירן מוסטער פאר אויפהאלטונג',
 		'category_redirect-change-category': u'ראבאט: ענדערט ווייטערגעפירטע קאטעגאריע [[:%(oldCatLink)s|%(oldCatTitle)s]] צו [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'קאַטעגאריע ווײַטערפֿירן אויפֿהאַלטן באט',
+		'category_redirect-edit-request': u'די פאלגנדע געשיצטע בלעטער פאדערן דערהיינטיקן די קאטעגאריע לינקען: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s געפינט זיך אין %(oldcat)s, וואס פירט ווײַטער צו %(newcat)s',
 		'category_redirect-fix-double': u'באט: פארראכטן פארטאפלטע ווייטערפירונג',
 	},
 	'zh-classical': {

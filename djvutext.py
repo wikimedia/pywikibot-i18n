@@ -92,6 +92,10 @@ msg = {
 	'ia': {
 		'djvutext-creating': u'Robot: Crea pagina con texto extrahite de DjVu',
 	},
+	# Author: Farras
+	'id': {
+		'djvutext-creating': u'Robot: Membuat halaman dengan teks yang diambil dari DjVu',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'djvutext-creating': u'Robot: Agar-aramid ti panid ti teksto a naala manipud idiay  DjVu',
@@ -103,6 +107,10 @@ msg = {
 	# Author: Nemo bis
 	'it': {
 		'djvutext-creating': u'Bot: Creazione pagina con testo estratto da DjVu',
+	},
+	# Author: Shirayuki
+	'ja': {
+		'djvutext-creating': u'ロボットによる: DjVuから抽出した文章でページを作成',
 	},
 	# Author: Purodha
 	'ksh': {

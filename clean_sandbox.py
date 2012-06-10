@@ -277,6 +277,10 @@ msg = {
 	'vi': {
 		'clean_sandbox-cleaned': u'Bot: Tự động dọn sạch',
 	},
+	# Author: פוילישער
+	'yi': {
+		'clean_sandbox-cleaned': u'באט: אויטאמאטיש געפוצט',
+	},
 	# Author: Yfdyh000
 	'zh': {
 		'clean_sandbox-cleaned': u'机器人：自动清理',

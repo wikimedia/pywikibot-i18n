@@ -58,9 +58,11 @@ msg = {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
 	},
 	# Author: EugeneZelenko
+	# Author: Renessaince
 	'be-x-old': {
 		'redirect-broken-redirect-template': u'{{Выдаліць|некарэктнае перанакіраваньне}}',
 		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня на %(to)s',
+		'redirect-fix-loop': u'Робат: Выпраўленьне перанакіраваньня на %(to)s',
 		'redirect-remove-broken': u'[[Wikipedia:Redirect|Перанакіраваньне]] на выдаленую ці неіснуючую старонку',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Мэтавае [[Project:Перанакіраваньне|перанакіраваньне]] стварае пятлю перанакіраваньняў',
 	},
@@ -309,9 +311,11 @@ msg = {
 		'redirect-remove-loop': u'Robot: Le destination del redirection forma un circulo de redirectiones',
 	},
 	# Author: IvanLanin
+	# Author: Farras
 	'id': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Memperbaiki pengalihan ganda ke %(to)s',
+		'redirect-fix-loop': u'Robot: Memperbaiki pengalihan ganda ke %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Pengalihan]] ke halaman yang dihapus atau tidak ada',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Target [[Wikipedia:Redirect|pengalihan]] menghasilkan pengalihan siklik',
 	},
@@ -356,7 +360,7 @@ msg = {
 	'ja': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'ロボットによる: 二重リダイレクト修正 → %(to)s',
-		'redirect-remove-broken': u'ロボットによる:リダイレクト先は存在しませんでした',
+		'redirect-remove-broken': u'ロボットによる: リダイレクト先は存在しませんでした',
 	},
 	'ka': {
 		'redirect-fix-double': u'რობოტი: ორმაგი გადამისამართების გასწორება → %(to)s',
@@ -376,6 +380,7 @@ msg = {
 	'ksh': {
 		'redirect-broken-redirect-template': u'{{Schmieß fott}}Di [[Wikipedia:Ömleijdung|Ömlëijdong]] jeiht noh nörjendswoh hen.',
 		'redirect-fix-double': u'Bot: [[Special:Doubleredirects|Dubbel Ömlëijdong]] fottjemaat → %(to)s',
+		'redirect-fix-loop': u'Bot: En Reih vun Ömleidonge jeng em Kreis eröm. Op %(to)s jescheck.',
 		'redirect-remove-broken': u'Bot: Dė [[Special:BrokenRedirects|Ömlëijdong jingk ennet Liiere]]',
 		'redirect-remove-loop': u'Bot: [[Wikipedia:Ömleidung|Ömleidunge]] jonn em Kreis eröm.',
 	},
@@ -733,7 +738,9 @@ msg = {
 	'yi': {
 		'redirect-broken-redirect-template': u'ווײַטערפֿירונג אןָ א ציל',
 		'redirect-fix-double': u'באט: פארראכטן פארטאפלטע ווייטערפירונג → %(to)s',
+		'redirect-fix-loop': u'באט: פאררעכטן ווייטערפירונג שלייף אויף %(to)s',
 		'redirect-remove-broken': u'באט: ווײַטערפֿירן ציל עקזיסטירט נישט',
+		'redirect-remove-loop': u'[[װיקיפּעדיע:ווייטערפירונג|ווייטערפירוג]] ציל שאפט א שלייף',
 	},
 	# Author: Demmy
 	'yo': {
@@ -758,16 +765,16 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'機械人：修正雙重定向至%(to)s',
 		'redirect-fix-loop': u'機械人：修復重定向迴圈至%(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的頁面',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]目標構成循環',
+		'redirect-remove-broken': u'[[WP:CSD#G15|G15]]：[[Wikipedia:重定向|重定向]]到不存在的頁面',
+		'redirect-remove-loop': u'[[WP:CSD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'機械人修正雙重定向至%(to)s',
 		'redirect-fix-loop': u'機械人修復重定向迴圈至%(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]到不存在的頁面',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]：[[Wikipedia:Redirect|重定向]]目標構成循環',
+		'redirect-remove-broken': u'[[WP:CSD#G15|G15]]：[[Wikipedia:重定向|重定向]]到不存在的頁面',
+		'redirect-remove-loop': u'[[WP:CSD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
 	},
 	'zh-yue': {
 		'redirect-fix-double': u'機械人：拉直連串跳轉 → %(to)s',

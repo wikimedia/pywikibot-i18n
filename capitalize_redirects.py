@@ -242,6 +242,10 @@ msg = {
 	'ta': {
 		'capitalize_redirects-create-redirect': u'தானியங்கி: [[%(to)s]] இற்கு வழிமாற்றி ஒன்றினை உருவாக்கு',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'capitalize_redirects-create-redirect': u'Robot: Lumikha ng pagpapapunta sa [[%(to)s]]',
+	},
 	# Author: Гусейн
 	'tly': {
 		'capitalize_redirects-create-redirect': u'Робот: Офәјә быә унвони дәгиш карде бә [[%(to)s]]',

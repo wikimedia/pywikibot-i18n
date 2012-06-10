@@ -140,9 +140,10 @@ msg = {
 		'table2wiki-warnings': u'Robot controllato da utente: tabella sintassi aggiornata - {{PLURAL:count|1 avviso|%(count)d avvisi}}!',
 	},
 	# Author: Xqt
+	# Author: Shirayuki
 	'ja': {
 		'table2wiki-no-warning': u'ロボットによる: 表をHTMLからウィキ文法に更新',
-		'table2wiki-warnings': u'ボットによる: 表をHTMLからウィキ文法に更新 - 警告 {{PLURAL:count|1|%(count)d}}',
+		'table2wiki-warnings': u'ロボットによる: 表をHTMLからウィキ文法に更新 - 警告 {{PLURAL:count|1|%(count)d}}',
 	},
 	'kk': {
 		'table2wiki-no-warning': u'Басқарылмалы бот: Кесте пішімі түзетілді',

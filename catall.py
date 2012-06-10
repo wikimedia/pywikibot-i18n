@@ -103,6 +103,10 @@ msg = {
 	'ia': {
 		'catall-changing': u'Bot: Alteration de categorias',
 	},
+	# Author: Farras
+	'id': {
+		'catall-changing': u'Robot: Mengubah kategori',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'catall-changing': u'Robot: Agsuksukat kadagiti kategoria',
@@ -209,6 +213,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'catall-changing': u'தானியங்கி: பகுப்புகள் மாற்றப்படுகின்றன',
+	},
+	# Author: AnakngAraw
+	'tl': {
+		'catall-changing': u'Robot: Binabago ang mga kategorya',
 	},
 	# Author: Гусейн
 	'tly': {

@@ -250,6 +250,10 @@ msg = {
 		'welcome-updating': u'Bot: Et Logbooch op der neue Schtand bränge',
 		'welcome-welcome': u'Wellkumme!',
 	},
+	# Author: George Animal
+	'ku': {
+		'welcome-welcome': u'Tu bi xêr hatî!',
+	},
 	# Author: Robby
 	'lb': {
 		'welcome-bad_username': u'Bot: E Benotzernumm derbäigesat deen nogekuckt muss ginn',
@@ -423,6 +427,12 @@ msg = {
 	'ta': {
 		'welcome-updating': u'தானியங்கி: பதிவேடு புதுப்பிக்கப்படுகிறது',
 		'welcome-welcome': u'வருக ! வணக்கம் !',
+	},
+	# Author: AnakngAraw
+	'tl': {
+		'welcome-bad_username': u'Robot: Nagdaragdag ng isang pangalan ng tagagamit na kailangang suriin',
+		'welcome-updating': u'Robot: Isinasapanahon ang talaan',
+		'welcome-welcome': u'Maligayang pagdating!',
 	},
 	# Author: Гусейн
 	'tly': {

@@ -216,6 +216,14 @@ msg = {
 		'delete-linked-pages': u'Robot: Deletion de tote le paginas ligate ab %(page)s',
 		'delete-referring-pages': u'Robot: Deletion de tote le paginas que refere ab %(page)s',
 	},
+	# Author: Farras
+	'id': {
+		'delete-from-category': u'Robot: Menghapus semua halaman dari kategori %(page)s',
+		'delete-from-file': u'Robot: Menghapus daftar berkas.',
+		'delete-images': u'Robot: Menghapus semua gambar pada halaman %(page)s',
+		'delete-linked-pages': u'Robot: Menghapus semua halaman yang tertaut dari %(page)s',
+		'delete-referring-pages': u'Robot: Menghapus semua halaman yang mengarah dari %(page)s',
+	},
 	# Author: Lam-ang
 	'ilo': {
 		'delete-from-category': u'Robot: Ikikkaten amin a pampanid manipud idiay kategoria %(page)s',

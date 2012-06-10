@@ -262,6 +262,10 @@ msg = {
 	'vi': {
 		'editarticle-edit': u'Sửa đổi thủ công dùng bot: %(description)s',
 	},
+	# Author: פוילישער
+	'yi': {
+		'editarticle-edit': u'האנט־רעדאקטירונג: %(description)s',
+	},
 	# Author: Hydra
 	'zh': {
 		'editarticle-edit': u'利用机器方式手动编辑：%(description)s',
