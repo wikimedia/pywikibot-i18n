@@ -237,6 +237,10 @@ msg = {
 	'sv': {
 		'editarticle-edit': u'Manuell redigering: %(description)s',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'editarticle-edit': u'Kinakamay na pamamatnugot na may robot: %(description)s',
+	},
 	# Author: Гусейн
 	'tly': {
 		'editarticle-edit': u'Дастә редәктә кардеј де боти воситә: %(description)s',

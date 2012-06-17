@@ -196,6 +196,10 @@ msg = {
 	'sv': {
 		'djvutext-creating': u'Robot: Skapar sida med extraherad text från DjVu',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'djvutext-creating': u'Robot: Nililikha ang pahina na may tekstong hinugot mula sa DjVu',
+	},
 	# Author: Гусейн
 	'tly': {
 		'djvutext-creating': u'Робот: Чы DjVu-ку пегәтә мәтни сәһифә сохте',

@@ -265,6 +265,11 @@ msg = {
 		'table2wiki-no-warning': u'Användarkontrollerad bot: tabellsyntax uppdaterad',
 		'table2wiki-warnings': u'Användarkontrollerad bot: tabellsyntax uppdaterad - {{PLURAL:count|1|%(count)d}}  varning!',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'table2wiki-no-warning': u'Robot na tinatabanan ng tagagamit: Naisapanahon ang palaugnayan ng talahanayan',
+		'table2wiki-warnings': u'Robot na tinatabanan ng tagagamit: Naisapanahon ang palaugnayan ng talahanayan - {{PLURAL:count|1 babala|%(count)d mga babala}}!',
+	},
 	# Author: Xqt
 	# Author: Гусейн
 	'tly': {

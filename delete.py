@@ -441,6 +441,14 @@ msg = {
 		'delete-images': u'தானியங்கி:%(page)s பக்கத்திலுள்ள அனைத்துக் கோப்புகளும் நீக்கப்படுகின்றன',
 		'delete-linked-pages': u'தானியங்கி:%(page)s பக்கத்துடன் இணைக்கப்பட்டுள்ள அனைத்து பக்கங்களும் நீக்கப்படுகின்றன',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'delete-from-category': u'Robot: Binubura ang lahat ng mga pahina mula sa kategoryang %(page)s',
+		'delete-from-file': u'Robot: Binubura ang isang listahan ng mga talaksan.',
+		'delete-images': u'Robot: Binubura ang lahat ng mga larawan na nasa pahinang %(page)s',
+		'delete-linked-pages': u'Robot: Binubura ang lahat ng mga pahinang nakakawing mula sa %(page)s',
+		'delete-referring-pages': u'Robot: Binubura ang lahat ng mga pahinang tinutukoy mula sa %(page)s',
+	},
 	# Author: Гусейн
 	'tly': {
 		'delete-from-category': u'Робот: %(page)s категоријәку һәммәј сәһифон тәмиз кардеј',

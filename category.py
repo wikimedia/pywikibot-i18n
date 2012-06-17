@@ -1372,6 +1372,7 @@ msg = {
 		'category-listifying': u'Bot: Isinalilista mula sa %(fromcat)s (%(num)d entries)',
 		'category-removing': u'Bot: Tinatanggal mula sa %(oldcat)s',
 		'category-replacing': u'Robot: Pinapalitan ng kategoryang %(oldcat)s ng %(newcat)s',
+		'category-section-title': u'Kasaysayan ng pahina ng dating %(oldcat)s',
 		'category-version-history': u'Robot: Sinasagip ang kasaysayan ng bersiyon ng dating %(oldcat)s',
 		'category-was-disbanded': u'Bot: Pinagwatak-watak ang kategorya',
 		'category-was-moved': u'Robot: Inilipat ang kategorya sa [[:Category:%(newcat)s|%(title)s]]',

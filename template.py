@@ -315,6 +315,12 @@ msg = {
 		'template-changing': u'தானியங்கி:{{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} மாற்றப்பட்டது: %(list)s',
 		'template-removing': u'தானியங்கி: {{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} நீக்கப்பட்டது: %(list)s',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'template-changing': u'Robot: Binabago ang {{PLURAL:%(num)d|suleras|mga suleras}}: %(list)s',
+		'template-removing': u'Robot: Tinatanggal ang {{PLURAL:%(num)d|suleras|mga suleras}}: %(list)s',
+		'template-substituting': u'Robot: Ipinapalit ang {{PLURAL:%(num)d|suleras|mga suleras}}: %(list)s',
+	},
 	# Author: Гусейн
 	'tly': {
 		'template-changing': u'Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} әвәз карде: %(list)s',

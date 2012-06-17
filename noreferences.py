@@ -257,6 +257,10 @@ msg = {
 	'ta': {
 		'noreferences-add-tag': u'தானியங்கி: <references /> குறியீடினை இணைத்தல்',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'noreferences-add-tag': u'Robot: Idinaragdag ang nawawalang tatak na <references />',
+	},
 	# Author: Гусейн
 	'tly': {
 		'noreferences-add-tag': u'Робот: Ныбә <references /> әломәт зијод кардә быә',

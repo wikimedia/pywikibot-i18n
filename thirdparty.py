@@ -1104,12 +1104,23 @@ msg = {
 	},
 	# Author: AnakngAraw
 	'tl': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'ipinapalit ang %(tags)s (mga) tatak',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Nabago ang talakayan',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Naisara na ang talakayan',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAHE NG ROBOT',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Bagong Usapan',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Pagpapabatid',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s huling pagbago] (%(page_size)s mga byte) ni %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s tapos na ang lahat ng mga talakayan (huminto ang pagmamanman) - huling pagbago ni %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nNilikha ang buod mula at sa: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(walang natagpuang patnugot na tao)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - huling pagbago ni [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mensaheng babala ng robot: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Idinagdag ang buod ng talakayan: %(num)i mga lahok',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Idinagdag ang buod ng talakayan na may paglilinis: %(num)i mga lahok',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Isinapanahon ang buod ng talakayan: %(num)i mga lahok sa %(page)s',
 	},
 	# Author: Гусейн
 	'tly': {

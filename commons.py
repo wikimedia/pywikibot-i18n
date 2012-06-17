@@ -326,6 +326,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttad till [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Filen är nu tillgänglig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'commons-file-moved': u'Nilipat ang [[:File:%(localfile)s|Talaksan]] papunta sa [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Makukuha na ngayon ang talaksan doon sa [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Гусейн
 	'tly': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Фајл]] вырәј дәгиш кардә быә бә [[:commons:File:%(commonsfile)s|Викиамбо]].',

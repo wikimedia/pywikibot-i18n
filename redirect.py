@@ -95,6 +95,7 @@ msg = {
 	'bs': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Popravlja dvostruka preusmjerenja na %(to)s',
+		'redirect-fix-loop': u'Robot: Popravlja petlje preusmjerenja na %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] pravi petlju na samo sebe',
 	},
@@ -530,9 +531,11 @@ msg = {
 		'redirect-fix-double': u'Bot: E doppelte Waiterlaitung vabessat zu %(to)s',
 	},
 	# Author: Sp5uhe
+	# Author: BeginaFelicysym
 	'pl': {
 		'redirect-broken-redirect-template': u'{{ek|przekierowanie do usuniętej lub nieistniejącej stron}}',
 		'redirect-fix-double': u'Robot naprawił podwójne przekierowanie do %(to)s',
+		'redirect-fix-loop': u'Robot: Naprawa pętli przekierowań do %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]] – [[Wikipedia:Redirect|przekierowanie]] do usuniętej lub nieistniejącej strony',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]] – pętla [[Wikipedia:Redirect|przekierowań]]',
 	},
@@ -668,6 +671,7 @@ msg = {
 	'tl': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Kinukumpuni ang nagkadalawang pagpapapunta sa %(to)s',
+		'redirect-fix-loop': u'Robot: Kinukumpuni ang silo ng pagpapapunta sa %(to)s',
 		'redirect-remove-broken': u' [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Papuntahin]] sa isang pahinang nabura o hindi umiiral',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Ang puntiryang [[Wikipedia:Redirect|Pagpapapunta sa iba]] ay bumubuo ng nakalikaw na pagpapapunta',
 	},

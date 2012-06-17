@@ -253,6 +253,10 @@ msg = {
 	'th': {
 		'clean_sandbox-cleaned': u'โรบอต: กำลังจะเก็บกวาดหน้านี้โดยอัตโนมัติ',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'clean_sandbox-cleaned': u'Robot: Kusang nalinis',
+	},
 	# Author: Гусейн
 	'tly': {
 		'clean_sandbox-cleaned': u'Робот: Автоматик тәмиз кардеј',

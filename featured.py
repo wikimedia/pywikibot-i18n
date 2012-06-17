@@ -416,6 +416,13 @@ msg = {
 	'th': {
 		'featured-featured': u'บอต: ลิงก์บทความคัดสรร %(page)s',
 	},
+	# Author: AnakngAraw
+	'tl': {
+		'featured-featured': u'Robot: Tampok na artikulo ang %(page)s',
+		'featured-former': u'Robot: Isang dating tampok na artikulo ang %(page)s',
+		'featured-good': u'Robot: Mabuting artikulo ang %(page)s',
+		'featured-list': u'Robot: Isang tampok na listahan ang %(page)s',
+	},
 	# Author: Гусейн
 	'tly': {
 		'featured-featured': u'Робот: выжнијә быә мәғолә %(page)s',

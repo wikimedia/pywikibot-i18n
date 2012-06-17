@@ -9,6 +9,10 @@ msg = {
 	'ast': {
 		'ndashredir-create': u'Robó: Creando redireición con guiones a [[%(title)s]]',
 	},
+	# Author: Jim-by
+	'be-x-old': {
+		'ndashredir-create': u'Робат: Стварэньне перанакіраваньня з дэфісам на [[%(title)s]]',
+	},
 	# Author: Fulup
 	'br': {
 		'ndashredir-create': u'Robot: o krouiñ adkasoù gant barrennigoù-stagañ war-zu [[%(title)s]]',
@@ -92,6 +96,10 @@ msg = {
 	'nl': {
 		'ndashredir-create': u'Robot: doorverwijzing met afbreekteken naar [[%(title)s]] aangemaakt',
 	},
+	# Author: BeginaFelicysym
+	'pl': {
+		'ndashredir-create': u'Bot: Tworzenie przekierowania z łącznikami do [[%(title)s]]',
+	},
 	# Author: Dragonòt
 	# Author: Borichèt
 	'pms': {
@@ -128,6 +136,10 @@ msg = {
 	# Author: VickyC
 	'sv': {
 		'ndashredir-create': u'Bot: Skapar omdirigering med bindestreck till [[%(title)s]]',
+	},
+	# Author: AnakngAraw
+	'tl': {
+		'ndashredir-create': u'Bot: Lumilikha ng nagigitlingan pagpapapunta sa [[%(title)s]]',
 	},
 	# Author: Гусейн
 	'tly': {
