@@ -1224,6 +1224,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Đã cập nhật tóm lược thảo luận: %(num)i mục tại “%(page)s”',
 	},
+	# Author: Srtxg
+	'wa': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+	},
 	# Author: פוילישער
 	'yi': {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'שמועס פארמאכט',

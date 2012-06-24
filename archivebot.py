@@ -129,10 +129,10 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'archivebot-archive-full': u'(ARŞİV PÊRO)',
-		'archivebot-archive-summary': u'Boti: [[%(from)s]] ke arşiv pela da %(count)d sernuşte  .',
+		'archivebot-archive-summary': u'Boti [[%(from)s]] ke arşiv; pela da %(count)d ra sernuşte  .',
 		'archivebot-archiveheader': u'{{Arşivê vatışan}}',
 		'archivebot-older-than': u'tewr verên',
-		'archivebot-page-summary': u'Boti: %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s.',
+		'archivebot-page-summary': u'Boti %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s.',
 	},
 	# Author: Glavkos
 	# Author: Geraki
@@ -591,6 +591,14 @@ msg = {
 		'archivebot-archiveheader': u'{{Thảo luận lưu}}',
 		'archivebot-older-than': u'cũ hơn',
 		'archivebot-page-summary': u'Lưu trữ %(count)d luồng (%(why)s) qua %(archives)s.',
+	},
+	# Author: Srtxg
+	'wa': {
+		'archivebot-archive-full': u'(ÅRTCHIVE PLINNE)',
+		'archivebot-archive-summary': u'Robot: årtchivaedje {{PLURAL:%(count)d|d\' on fyi|di %(count)d fyis}} foû d\' [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'pus vîs ki',
+		'archivebot-page-summary': u'Robot: årtchivaedje {{PLURAL:%(count)d|d\' on fyi|di %(count)d fyis}} (%(why)s) dins %(archives)s.',
 	},
 	# Author: פוילישער
 	'yi': {

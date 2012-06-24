@@ -45,7 +45,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'fixing_redirects-fixing': u'Boti: Hetenakerdışi kerdi araşt',
+		'fixing_redirects-fixing': u'Boti hetenayışi kerdi araşt',
 	},
 	# Author: Geraki
 	'el': {
@@ -227,6 +227,10 @@ msg = {
 	},
 	'vi': {
 		'fixing_redirects-fixing': u'Robot: Sửa đổi hướng',
+	},
+	# Author: Srtxg
+	'wa': {
+		'fixing_redirects-fixing': u'Robot: coridjaedje des redjiblaedjes',
 	},
 	# Author: פוילישער
 	'yi': {

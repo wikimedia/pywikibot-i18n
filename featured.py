@@ -100,10 +100,10 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'featured-featured': u'Boti: %(page)s wesiqeyo weşo',
-		'featured-former': u'Boti: %(page)s wesiqeyo weşo verêno',
-		'featured-good': u'Boti: %(page)s wesiqaya weşa',
-		'featured-list': u'Boti: %(page)s listeyo tewr weşo',
+		'featured-featured': u'Boti pela %(page)s [[Weş wesiqeya]]',
+		'featured-former': u'Boti pela %(page)s veri [[Weş wesiqeya verên]] biya',
+		'featured-good': u'Boti pela %(page)s [[Weş wesiqe]]ya',
+		'featured-list': u'Boti pela %(page)s [[Weş listey]]a',
 	},
 	'dsb': {
 		'featured-featured': u'Bot: %(page)s jo wuběrny nastawk',

@@ -26,7 +26,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'ndashredir-create': u'Boti: nuşte de [[%(title)s]] melumato hetanayış vıraşt',
+		'ndashredir-create': u'Boti [[%(title)s]] ra melumatê hetanayışi vıraşt',
 	},
 	# Author: Bináris
 	'en': {

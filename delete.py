@@ -96,11 +96,11 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'delete-from-category': u'Boti: Kategoriya da %(page)s ra peley pêro besternay',
-		'delete-from-file': u'Boti: Dosyay ke liste deyê ê besternay.',
-		'delete-images': u'Boti: Pela da %(page)s ra dosyay pêro besternay',
-		'delete-linked-pages': u'Boti: pelada %(page)s re peleye ke gıre dane oyo êna pêron besterneno.',
-		'delete-referring-pages': u'Boti: Pela da %(page)s ra peley pêro besternay',
+		'delete-from-category': u'Boti kategori da %(page)s ra peley pêro besternay',
+		'delete-from-file': u'Boti dosyeyê ke liste de ê besternay.',
+		'delete-images': u'Boti pela da %(page)s ra dosyay pêro besternay',
+		'delete-linked-pages': u'Boti pela da %(page)s re gıre pela pêron besternay.',
+		'delete-referring-pages': u'Boti pela da %(page)s ra peley pêro besternay',
 	},
 	# Author: Geraki
 	'el': {

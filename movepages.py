@@ -48,7 +48,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'movepages-moving': u'Boti:Pela wedarne',
+		'movepages-moving': u'Boti pela wedarne',
 	},
 	'el': {
 		'movepages-moving': u'Μετακίνηση σελίδων με bot',

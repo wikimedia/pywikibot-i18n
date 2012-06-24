@@ -146,10 +146,10 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'redirect-broken-redirect-template': u'{{bestere|m1}}',
-		'redirect-fix-double': u'Boti: pela da %(to)s re hetanayışe dıleti timar ke',
+		'redirect-fix-double': u'Boti pela da %(to)s re hetanayışe dıleti timar ke',
 		'redirect-fix-loop': u'Boti:  %(to)s re dılet hetanayış ke',
 		'redirect-remove-broken': u'[[Wikipedia:Rew besternayış|RB]]: pelaya besterni yana zi pelaya ke [[Wikipedia:Hetenayış|Hetanayış]] cı çıno',
-		'redirect-remove-loop': u'Boti: Menzilê hetanayışi re hetanayışe çerxkerdışi vıraşt',
+		'redirect-remove-loop': u'Boti menzilê hetanayışi re hetanayışe çerxkerdışi vıraşt',
 	},
 	# Author: Evropi
 	# Author: Geraki

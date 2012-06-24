@@ -100,7 +100,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'welcome-bad_username': u'Boti: Eke namey cı do qontrol bo namey karberi kerd êna miyan',
+		'welcome-bad_username': u'Boti êke namey cı do qontrol bo namey karberi kerd êna zerre',
 		'welcome-updating': u'Robot:Qeyd newekerdış',
 		'welcome-welcome': u'Xeyr amey',
 	},
@@ -474,6 +474,12 @@ msg = {
 	},
 	'vo': {
 		'welcome-welcome': u'Benokömö!',
+	},
+	# Author: Srtxg
+	'wa': {
+		'welcome-bad_username': u'Robot: radjouter on no d\' uzeu ki doet esse verifyî',
+		'welcome-updating': u'Robot: metaedje a djoû do djournå',
+		'welcome-welcome': u'Bénvnowe!',
 	},
 	# Author: פוילישער
 	'yi': {

@@ -341,13 +341,13 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'interwiki-adding': u'Boti: %(adding)s dekerd de',
-		'interwiki-adding-modifying': u'Boti: %(adding)s dekerd de; %(modifying)s vurna',
-		'interwiki-adding-removing': u'Boti: %(adding)s dekerd de: %(removing)s hewada',
+		'interwiki-adding': u'Boti %(adding)s rê interwiki dekerd de',
+		'interwiki-adding-modifying': u'Boti %(adding)s dekerd de; %(modifying)s vurna',
+		'interwiki-adding-removing': u'Boti %(adding)s dekerd de: %(removing)s wedarnê',
 		'interwiki-adding-removing-modifying': u'Boti: %(adding)s dekerd de: %(removing)s hewada: %(modifying)s vurna',
-		'interwiki-modifying': u'Boti: %(modifying)s vurna',
-		'interwiki-removing': u'Boti: %(removing)s hewada',
-		'interwiki-removing-modifying': u'Boti: %(removing)s hewada; %(modifying)s vurna',
+		'interwiki-modifying': u'Boti %(modifying)s vurna',
+		'interwiki-removing': u'Boti %(removing)s wedarna',
+		'interwiki-removing-modifying': u'Boti %(removing)s wedarnê; %(modifying)s vurna',
 	},
 	'dv': {
 		'interwiki-adding': u'ރޮބޮޓ އިތުރު ކުރުނ: %(adding)s',

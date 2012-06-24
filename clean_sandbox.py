@@ -59,7 +59,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'clean_sandbox-cleaned': u'Boti: Caye cerbnayışi besterna',
+		'clean_sandbox-cleaned': u'Boti heruna cerbnayışi besternê',
 	},
 	# Author: Geraki
 	'el': {
@@ -280,6 +280,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'clean_sandbox-cleaned': u'Bot: Tự động dọn sạch',
+	},
+	# Author: Srtxg
+	'wa': {
+		'clean_sandbox-cleaned': u'Robot: netyî otomaticmint',
 	},
 	# Author: פוילישער
 	'yi': {

@@ -94,7 +94,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'cosmetic_changes-append': u'; kozmetik vurnayışi',
-		'cosmetic_changes-standalone': u'Boti: Kozmetik vurnayış ke',
+		'cosmetic_changes-standalone': u'Boti Kozmetik vurnayışi kerdi',
 	},
 	'el': {
 		'cosmetic_changes-append': u'; διακοσμητικές αλλαγές',

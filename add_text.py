@@ -117,7 +117,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'add_text-adding': u'Boti: %(adding)s dekerd de',
+		'add_text-adding': u'Boti %(adding)s dekerd de',
 	},
 	'dv': {
 		'add_text-adding': u'ރޮބޮޓ އިތުރު ކުރުނ %(adding)s',

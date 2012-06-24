@@ -79,7 +79,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'basic-changing': u'Boti: Keno bıvurno ...',
+		'basic-changing': u'Boto vurneno ...',
 	},
 	# Author: Glavkos
 	'el': {
@@ -384,6 +384,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'basic-changing': u'Bot: Thay đổi…',
+	},
+	# Author: Srtxg
+	'wa': {
+		'basic-changing': u'Robot: dji candje...',
 	},
 	# Author: פוילישער
 	'yi': {

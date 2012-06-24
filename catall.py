@@ -49,7 +49,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'catall-changing': u'Boti: Kategoriy vurnay',
+		'catall-changing': u'Boti kategoriy vurnay',
 	},
 	# Author: Geraki
 	'el': {
@@ -237,6 +237,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'catall-changing': u'Bot: Thay đổi thể loại',
+	},
+	# Author: Srtxg
+	'wa': {
+		'catall-changing': u'Robot: candjant les categoreyes',
 	},
 	# Author: פוילישער
 	'yi': {

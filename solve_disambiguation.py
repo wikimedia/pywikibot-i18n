@@ -163,7 +163,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'solve_disambiguation-adding-dn-template': u'Destegin da botiya maneo bin: %(from)s - Resber icab keno deye mor be',
-		'solve_disambiguation-links-removed': u'Rehberinda Boti ra maneo bin: %(from)s - gırey hewadeya.',
+		'solve_disambiguation-links-removed': u'Peştiyin dê boti ra maneo bin: %(from)s - gıre(y) wedaryay.',
 		'solve_disambiguation-links-resolved': u'Destegin da Botiya maneo bin: %(from)s - Gıre(y) vurneyay u ard %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Destegin da botiya maneo bin: %(from)s - Resber icab keno deye mor be',
 		'solve_disambiguation-redirect-removed': u'Rehberinda Boti ra maneo bin: %(from)s - gırey hewadeya.',

@@ -42,7 +42,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'djvutext-creating': u'Boti: Vetane DjVu fına çekerdi pela',
+		'djvutext-creating': u'Boti: Vetene DjVu fına dekerde pela',
 	},
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',

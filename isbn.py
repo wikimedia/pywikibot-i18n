@@ -82,7 +82,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'isbn-formatting': u'Boti: ISBN Timar ke',
+		'isbn-formatting': u'Boti ISBN\'i timar kerd',
 	},
 	# Author: Evropi
 	'el': {

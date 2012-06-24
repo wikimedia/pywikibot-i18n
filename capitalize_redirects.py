@@ -69,7 +69,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'capitalize_redirects-create-redirect': u'Boti: pela [[%(to)s]] açarne',
+		'capitalize_redirects-create-redirect': u'Boti pela [[%(to)s]] ke hetena',
 	},
 	# Author: Geraki
 	'el': {
@@ -269,6 +269,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'capitalize_redirects-create-redirect': u'Bot: Tạo trang đổi hướng đến [[%(to)s]]',
+	},
+	# Author: Srtxg
+	'wa': {
+		'capitalize_redirects-create-redirect': u'Robot: ahivant on redjiblaedje viè [[%(to)s]]',
 	},
 	# Author: פוילישער
 	'yi': {

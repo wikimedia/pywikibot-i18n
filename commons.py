@@ -362,6 +362,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Tập tin]] được chuyển qua [[:Commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'Tập tin mới có sẵn tại [[:Commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Srtxg
+	'wa': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Fitchî]] displaecî so les [[:commons:File:%(commonsfile)s|cmons]].',
+		'commons-file-now-available': u'Li fitchî est asteure so les [[:commons:File:%(commonsfile)s|Cmons Wikimedia]].',
+	},
 	# Author: Hydra
 	'zh': {
 		'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',

@@ -60,7 +60,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'table2wiki-no-warning': u'Karberê qontrolkarê boti: imlay tabloy kerd newi',
-		'table2wiki-warnings': u'Karberê qontrolkarê boti: imlay tabloy kerd newi {{PLURAL:count|1|%(count)d}}',
+		'table2wiki-warnings': u'Botê kontrolkarê karberan: imlay tabloy kerd newi {{PLURAL:count|1|%(count)d}}',
 	},
 	# Author: Xqt
 	'en': {
