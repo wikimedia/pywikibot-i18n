@@ -381,7 +381,7 @@ msg = {
 	# Author: DrTrigon
 	# Author: Murma174
 	'frr': {
-		'thirdparty-drtrigonbot-subster-summary-mod': u'waksle %(tags)s tag(s) ütj',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'bütje %(tags)s tag(s) ütj',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusjuun feranert',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusjuun ufslööden',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT NOORACHT',
@@ -394,10 +394,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - leetst feranerang faan [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bot waarskauet: %(page)s "\'\'%(warning)s\'\'"',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskusjuun tuupfaadet: %(num)i entries',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskusjuun tuupfaadet an apredet: %(num)i entries',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskusjuun tuupfaadet: %(num)i bidracher',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskusjuun tuupfaadet an apredet: %(num)i bidracher',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot:',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskusjuun tuupfaadet an apredet: %(num)i entries in %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskusjuun tuupfaadet an apredet: %(num)i bidracher üüb %(page)s',
 	},
 	# Author: Toliño
 	# Author: DrTrigon
@@ -810,6 +810,7 @@ msg = {
 	# Author: Xqt
 	'pdc': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Dischbedutt geennert',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'SCHPELLS VUM WADDEFRESSER',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s Gebeschdl] (%(page_size)s Beit) vun %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'\nWaddefresser',

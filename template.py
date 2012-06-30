@@ -117,9 +117,9 @@ msg = {
 	},
 	# Author: Murma174
 	'frr': {
-		'template-changing': u'Bot: Feranere {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-changing': u'Bot: Feranre {{PLURAL:%(num)d|förlaag|föörlaagen}}: %(list)s',
 		'template-removing': u'Bot: Nem {{PLURAL:%(num)d|template|templates}}: %(list)s wech',
-		'template-substituting': u'Bot: Waksle {{PLURAL:%(num)d|template|templates}}: %(list)s ütj',
+		'template-substituting': u'Bot: Bütje {{PLURAL:%(num)d|föörlaag|föörlaagen}}: %(list)s ütj',
 	},
 	# Author: Toliño
 	'gl': {

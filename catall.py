@@ -83,7 +83,7 @@ msg = {
 	},
 	# Author: Murma174
 	'frr': {
-		'catall-changing': u'Bot: Feranere kategoriin',
+		'catall-changing': u'Bot: Feranre kategoriin',
 	},
 	# Author: Toliño
 	'gl': {

@@ -122,7 +122,7 @@ msg = {
 	},
 	# Author: Murma174
 	'frr': {
-		'basic-changing': u'Bot: Feranere ...',
+		'basic-changing': u'Bot: Feranre ...',
 	},
 	# Author: Toliño
 	'gl': {

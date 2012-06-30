@@ -515,13 +515,13 @@ msg = {
 	# Author: Merlissimo
 	'frr': {
 		'interwiki-adding': u'Bot:Du %(adding)s diartu',
-		'interwiki-adding-modifying': u'Bot:Du %(adding)s diartu; feranere: %(modifying)s',
+		'interwiki-adding-modifying': u'Bot:Du %(adding)s diartu; feranre: %(modifying)s',
 		'interwiki-adding-removing': u'Bot:Du %(adding)s diartu; nem %(removing)s wech',
-		'interwiki-adding-removing-modifying': u'Bot:Du %(adding)s diartu; nem %(removing)s wech; feranere: %(modifying)s',
-		'interwiki-modifying': u'Bot:Feranere: %(modifying)s',
+		'interwiki-adding-removing-modifying': u'Bot:Du %(adding)s diartu; nem %(removing)s wech; feranre: %(modifying)s',
+		'interwiki-modifying': u'Bot:Feranre: %(modifying)s',
 		'interwiki-modifying-from': u'Feranere %(from)s tu %(modifying)s',
 		'interwiki-removing': u'Bot:Nem %(removing)s wech',
-		'interwiki-removing-modifying': u'Bot:Nem %(removing)s wech; Feranere: %(modifying)s',
+		'interwiki-removing-modifying': u'Bot:Nem %(removing)s wech; Feranre: %(modifying)s',
 	},
 	'fur': {
 		'interwiki-adding': u'Robot: o zonti: %(adding)s',

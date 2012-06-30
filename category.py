@@ -487,10 +487,10 @@ msg = {
 	'frr': {
 		'category-adding': u'Bot: Du kategoriie [[:Category:%(newcat)s|%(newcat)s]] diartu',
 		'category-also-in': u'(uk uun %(alsocat)s)',
-		'category-changing': u'Feranere %(oldcat)s tu %(newcat)s',
+		'category-changing': u'Feranre %(oldcat)s tu %(newcat)s',
 		'category-listifying': u'Bot: List faan %(fromcat)s (%(num)d iindracher)',
 		'category-removing': u'Bot: Strik ütj %(oldcat)s',
-		'category-replacing': u'Bot: Waksle kategorii %(oldcat)s ütj mä %(newcat)s',
+		'category-replacing': u'Bot: Bütje kategorii %(oldcat)s ütj mä %(newcat)s',
 		'category-section-title': u'Wersjuunshistoore faan det ual %(oldcat)s',
 		'category-version-history': u'Bot: Seekere wersjuunshistoore faan det ual %(oldcat)s',
 		'category-was-disbanded': u'Bot: Kategorii as apliaset wurden',

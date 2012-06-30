@@ -239,7 +239,7 @@ msg = {
 	},
 	# Author: Murma174
 	'frr': {
-		'redirect-broken-redirect-template': u'{{delete|Widjerfeerang uunstaken}}',
+		'redirect-broken-redirect-template': u'{{Strik|Widjerfeerang uunstaken}}',
 		'redirect-fix-double': u'Bot: Ferbeedre dobelt widjerfeerang tu %(to)s',
 		'redirect-fix-loop': u'Bot: Maaget widjerfeerangs-sleuf hial tu %(to)s',
 		'redirect-remove-broken': u'Bot: Widjerfeerang tu en duad sidj.',

@@ -261,7 +261,7 @@ msg = {
 	# Author: Murma174
 	'frr': {
 		'category_redirect-add-template': u'Bot: Du kategoriiwidjerfeerangsföörlag diartu',
-		'category_redirect-change-category': u'Bot: Feranere widjerfeerd kategorii [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-change-category': u'Bot: Feranre widjerfeerd kategorii [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Bot för\'t üübpaasin faan kategoriiwidjerfeerangen',
 		'category_redirect-edit-request': u'Joheer seekert sidjen brük noch an en aktuelen kategoriilink: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s leit uun %(oldcat)s, wat tu %(newcat)s widjerfeert',
