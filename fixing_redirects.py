@@ -28,6 +28,10 @@ msg = {
 	'bs': {
 		'fixing_redirects-fixing': u'Bot: Ispravljanje preusmjeravanja.',
 	},
+	# Author: Vriullop
+	'ca': {
+		'fixing_redirects-fixing': u'Bot: arreglant redireccions',
+	},
 	# Author: Asoxor
 	'ckb': {
 		'fixing_redirects-fixing': u'بۆت: چاکسازیی ڕەوانەکردنەوەکان',

@@ -458,9 +458,10 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(onbekannt)',
 	},
 	# Author: Hugo.arg
+	# Author: Homo
 	'lt': {
-		'solve_disambiguation-links-removed': u'Nuorodų į nukrepiamąjį straipsnį keitimas: %(from)s - Pašalintos nuorodos',
-		'solve_disambiguation-links-resolved': u'Nuorodų į nukrepiamąjį straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s',
+		'solve_disambiguation-links-removed': u'Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pašalintos nuorodos',
+		'solve_disambiguation-links-resolved': u'Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s',
 		'solve_disambiguation-redirect-removed': u'Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pašalintos nuorodos',
 		'solve_disambiguation-redirect-resolved': u'Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s',
 		'solve_disambiguation-unknown-page': u'(nežinomas)',
@@ -843,6 +844,7 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(невідома)',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
 		'solve_disambiguation-adding-dn-template': u'Dixanbiguasion automatega: %(from)s -  Ga da esare controłà da esperti',
 		'solve_disambiguation-links-removed': u'Dixanbiguasion automatega: %(from)s - Cołegamenti rimosi',
@@ -850,7 +852,7 @@ msg = {
 		'solve_disambiguation-redirect-adding-dn-template': u'Dixanbiguasion automatega: %(from)s -  Ga da esare controłà da esperti',
 		'solve_disambiguation-redirect-removed': u'Dixanbiguasion automatega:: %(from)s - Cołegamenti rimosi',
 		'solve_disambiguation-redirect-resolved': u'Dixanbiguasion automatega: %(from)s - Inversion rindirisamento/i verso %(to)s',
-		'solve_disambiguation-unknown-page': u'(sconosudo)',
+		'solve_disambiguation-unknown-page': u'(sconosuo)',
 	},
 	# Author: Minh Nguyen
 	'vi': {

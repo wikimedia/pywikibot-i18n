@@ -340,6 +340,10 @@ msg = {
 	'vi': {
 		'replace-replacing': u'Bot: Tự động thay thế văn bản %(description)s',
 	},
+	# Author: פוילישער
+	'yi': {
+		'replace-replacing': u'באט: אויטאמאטישער טעקסט טויש %(description)s',
+	},
 	# Author: Demmy
 	'yo': {
 		'replace-replacing': u'Bot: Ìdípò ìkọ̀rọ̀ oníaraẹni %(description)s',

@@ -194,12 +194,13 @@ msg = {
 		'archivebot-page-summary': u'Robot: Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
 	},
 	# Author: ChrisPtDe
+	# Author: Xqt
 	'frp': {
 		'archivebot-archive-full': u'(ARCH·IVES PLÊNES)',
-		'archivebot-archive-summary': u'Arch·ivâjo de %(count)d fil(s) dês [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: Arch·ivâjo de %(count)d {{PLURAL:count|fil|fils}} dês [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'ples viely que',
-		'archivebot-page-summary': u'Arch·ivâjo de %(count)d fil(s) (%(why)s) de vers %(archives)s.',
+		'archivebot-page-summary': u'Robot: Arch·ivâjo de %(count)d {{PLURAL:count|fil|fils}} (%(why)s) de vers %(archives)s.',
 	},
 	# Author: Murma174
 	# Author: Xqt
@@ -536,9 +537,21 @@ msg = {
 		'archivebot-older-than': u'äldre än',
 		'archivebot-page-summary': u'Arkiverar %(count)d {PLURAL:%(count)d|tråd|trådar}} (%(why)s) till %(archives)s.',
 	},
+	# Author: Przemub
+	'szl': {
+		'archivebot-archive-full': u'(ARCHIWUM PEŁNE)',
+		'archivebot-archive-summary': u'Bot:Archiwizowańy %(count)d {{PLURAL:%(count)d|kůmyntarza|kůmyntarzy}} z [[%(from)s]].',
+		'archivebot-archiveheader': u'{{archiwum}}',
+		'archivebot-older-than': u'starsze uod',
+		'archivebot-page-summary': u'Bot:Archiwizowańy %(count)d {{PLURAL:%(count)d|kůmyntarza|kůmyntarzy}} (%(why)s) lo %(archives)s.',
+	},
 	# Author: Shanmugamp7
 	'ta': {
 		'archivebot-older-than': u'முந்தையது',
+	},
+	# Author: Jprmvnvijay5
+	'te': {
+		'archivebot-older-than': u'కన్నా పాతది',
 	},
 	# Author: AnakngAraw
 	'tl': {
@@ -564,7 +577,7 @@ msg = {
 		'archivebot-archive-summary': u'Bot: Arşivliyor: [[%(from)s]] sayfasından %(count)d başlık  .',
 		'archivebot-archiveheader': u'{{Arşiv alt}}',
 		'archivebot-older-than': u'daha eski',
-		'archivebot-page-summary': u'Bot: Arşivliyor: %(count)d {{PLURAL:%(count)d|başlık|başlık}} (%(why)s) buraya: %(archives)s.',
+		'archivebot-page-summary': u'Bot: Arşivliyor: %(count)d başlık (%(why)s) buraya: %(archives)s.',
 	},
 	# Author: A1
 	# Author: Dim Grits
@@ -602,6 +615,8 @@ msg = {
 	},
 	# Author: פוילישער
 	'yi': {
+		'archivebot-archive-full': u'(ארכיוו פֿול)',
+		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'עלטער פֿון',
 	},
 	# Author: Demmy

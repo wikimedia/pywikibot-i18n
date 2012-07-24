@@ -419,9 +419,10 @@ msg = {
 	},
 	# Author: Candalua
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'cosmetic_changes-append': u'; modifiche estetiche',
-		'cosmetic_changes-standalone': u'Robot: Modifiche estetiche',
+		'cosmetic_changes-append': u'; modifeghe esteteghe',
+		'cosmetic_changes-standalone': u'Robot: Modifeghe esteteghe',
 	},
 	# Author: Emaus
 	'vep': {

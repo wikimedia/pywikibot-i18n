@@ -210,6 +210,10 @@ msg = {
 	'sw': {
 		'catall-changing': u'Karagosi: Kubadilisha jamii',
 	},
+	# Author: Przemub
+	'szl': {
+		'catall-changing': u'Robot pomjyńa kategoryje',
+	},
 	# Author: Aswn
 	'ta': {
 		'catall-changing': u'தானியங்கி: பகுப்புகள் மாற்றப்படுகின்றன',

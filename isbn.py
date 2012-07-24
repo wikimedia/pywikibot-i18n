@@ -372,8 +372,9 @@ msg = {
 		'isbn-formatting': u'Робот: Форматування ISBN',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'isbn-formatting': u'Robot: Formatasion de\'l ISBN',
+		'isbn-formatting': u'Robot: Formatasion del ISBN',
 	},
 	# Author: Minh Nguyen
 	'vi': {

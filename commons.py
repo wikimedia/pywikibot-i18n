@@ -206,7 +206,9 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Besjtand]] is verplaats nao [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Dit besjtand steit noe op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Homo
 	'lt': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Failas]] perkeltas į [[:commons:File:%(commonsfile)s|Vikiteką]].',
 		'commons-file-now-available': u'Failas įkeltas į [[:commons:File:%(commonsfile)s|Wikimedia Commons projektą]].',
 	},
 	# Author: Dark Eagle
@@ -353,8 +355,9 @@ msg = {
 	},
 	# Author: Candalua
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'commons-file-moved': u'[[:File:%(localfile)s|File]] spostà su [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] spostà so [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Sto file deso te ło cati so [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Minh Nguyen

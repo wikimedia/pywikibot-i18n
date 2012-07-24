@@ -453,11 +453,12 @@ msg = {
 		'featured-list': u'Бот: %(page)s вибраний список',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'featured-featured': u'Robot: %(page)s el xe on articoło in evidensa',
-		'featured-former': u'Robot: %(page)s el jera on articoło in evidensa',
+		'featured-featured': u'Robot: %(page)s el xe un articoło in evidensa',
+		'featured-former': u'Robot: %(page)s el jera un articoło in evidensa',
 		'featured-good': u'Robot: %(page)s el xe on articoło de cuałità',
-		'featured-list': u'Robot: %(page)s el xe inte un elenco de primo piano',
+		'featured-list': u'Robot: %(page)s el xe inte un elenco de primo pian',
 	},
 	# Author: Minh Nguyen
 	'vi': {

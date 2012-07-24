@@ -714,11 +714,12 @@ msg = {
 	},
 	# Author: Candalua
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'category_redirect-add-template': u'Robot: Xonto el modeło de rindirisamento a categoria par manutension',
+		'category_redirect-add-template': u'Robot: Xonto el modèl de rindirisamento a categoria par manutension',
 		'category_redirect-change-category': u'Robot: Canbio ła categoria co rindirisamento [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Robot de manutension de rindirisamenti a categorie',
-		'category_redirect-edit-request': u'Le seguenti pajine protete xe stà individuade come bixognoxe de ajornamenti pai link ałe categorie: %(itemlist)s',
+		'category_redirect-edit-request': u'Le seguenti pajine protete xe stà individuade come bixognoxe de axornamenti pa\' i link a łe categorie: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s xe inte %(oldcat)s, che el xe un rindirisamento verso %(newcat)s',
 		'category_redirect-fix-double': u'Robot: Sistemo i rindirisamenti dopi',
 	},

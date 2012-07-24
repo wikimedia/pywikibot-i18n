@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
+	# Author: Csisc
+	'aeb': {
+		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
+	},
 	# Author: DRIHEM
 	'ar': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
@@ -91,6 +95,10 @@ msg = {
 	# Author: Anakmalaysia
 	'ms': {
 		'ndashredir-create': u'Bot: Membuat lencongan bertanda sempang ke [[%(title)s]]',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'ndashredir-create': u'Bot: deurverwiezing mit aofbreekteken naor [[%(title)s]] an-emaakt',
 	},
 	# Author: Siebrand
 	'nl': {

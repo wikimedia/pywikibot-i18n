@@ -348,6 +348,10 @@ msg = {
 	'sw': {
 		'basic-changing': u'Karagosi: Yafanya mabadiliko ...',
 	},
+	# Author: Przemub
+	'szl': {
+		'basic-changing': u'Robot pomjyńo...',
+	},
 	# Author: செல்வா
 	'ta': {
 		'basic-changing': u'தானியங்கி: மாற்றம் ...',

@@ -161,7 +161,9 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Sažetak rasprave ažuriran: %(num)i unosa kod %(page)s.',
 	},
 	# Author: SMP
+	# Author: Vriullop
 	'ca': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'substituint etiqueta/es %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussió alterada',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussió tancada',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MISSATGE DE ROBOT',
@@ -229,7 +231,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'%(tags)s ê etiket(i) vurnayış',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Persiyey vurneya',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Werênayış vurneya',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Persiyey racneya',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESACE ROBOTİ',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Mınaqeşeyo newe',
@@ -858,6 +860,11 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'trigomiro',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Modificà somari dla discussion: %(num)i vos an %(page)s',
 	},
+	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
+	'ps': {
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'نوی سکالو',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'يادګيرنه',
+	},
 	# Author: Giro720
 	# Author: DrTrigon
 	# Author: Waldir
@@ -1125,7 +1132,7 @@ msg = {
 	},
 	# Author: Гусейн
 	'tly': {
-		'thirdparty-drtrigonbot-subster-summary-mod': u'Ым тегон дәгиш бејдән %(tags)s',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'Ым нышонон дәгиш бејдән %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Мызокирә дәгиш быә',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Мызокирә бастә быә',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТИ ХӘБӘ',
@@ -1185,6 +1192,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Резюме обговорення оновлено: %(num)i записів на %(page)s',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'sostitusion eticheta/e %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discusion modifegà',
@@ -1192,17 +1200,17 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESAJO DEL ROBOT',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova discusion',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notifega',
-		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s ultima modifega] (%(page_size)s byte) efetuà da %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s - tute łe discusion xe ramai da considerarse terminade (monitorajo fermà) - ultima modifega efetuà da %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nRiasunto jenerà da e a: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s ultema modifega] (%(page_size)s byte) efetuà da %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s - tute łe discusion xe ramai da considerarse terminade (monitorajo fermà) - ultema modifega efetuà da %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nRiasunto xenerà da e a: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(no xe stà catà nisun utente uman)',
-		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - ultima modifega efetuà da [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - ultema modifega efetuà da [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mesajo de avixo del Robò: %(page)s "\'\'%(warning)s\'\'"',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Xontà somario deła discusion: %(num)i articołi',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Xontà somario deła discusion co ripułitura: %(num)i articołi',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Xontà somario de ła discusion: %(num)i articołi',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Xontà somario de ła discusion co ripułitura: %(num)i articołi',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Robot',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Ajornà el somario deła discusion: %(num)i articołi in %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Axornà el somario de ła discusion: %(num)i articołi in %(page)s',
 	},
 	# Author: Minh Nguyen
 	# Author: DrTrigon

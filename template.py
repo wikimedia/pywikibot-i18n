@@ -72,7 +72,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'template-changing': u'Robot: {{PLURAL:%(num)d|şablon|şablona}}: %(list)s ra Vurneno',
-		'template-removing': u'Bot: Veceno: {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-removing': u'Boto  {{PLURAL:%(num)d|şabloni|şablona}}: %(list)s veceno',
 		'template-substituting': u'Robot: {{PLURAL:%(num)d|şablon|şablon}}: %(list)s Cay cı vurneno',
 	},
 	# Author: Geraki
@@ -116,9 +116,10 @@ msg = {
 		'template-substituting': u'Robot : remplace {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s',
 	},
 	# Author: Murma174
+	# Author: Xqt
 	'frr': {
 		'template-changing': u'Bot: Feranre {{PLURAL:%(num)d|förlaag|föörlaagen}}: %(list)s',
-		'template-removing': u'Bot: Nem {{PLURAL:%(num)d|template|templates}}: %(list)s wech',
+		'template-removing': u'Bot: Nem {{PLURAL:%(num)d|förlaag|föörlaagen}}: %(list)s wech',
 		'template-substituting': u'Bot: Bütje {{PLURAL:%(num)d|föörlaag|föörlaagen}}: %(list)s ütj',
 	},
 	# Author: Toliño
@@ -339,10 +340,11 @@ msg = {
 		'template-substituting': u'Робот: підстановка {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'template-changing': u'Robot: Modifega de {{PLURAL:%(num)d|modeło|modełi}}: %(list)s',
-		'template-removing': u'Robot: Rimosion de {{PLURAL:%(num)d|modeło|modełi}}: %(list)s',
-		'template-substituting': u'Robot: Sostitusion de {{PLURAL:%(num)d|modeło|modełi}}: %(list)s',
+		'template-changing': u'Robot: Modifega de {{PLURAL:%(num)d|modèl|modełi}}: %(list)s',
+		'template-removing': u'Robot: Rimosion de {{PLURAL:%(num)d|modèl|modełi}}: %(list)s',
+		'template-substituting': u'Robot: Sostitusion de {{PLURAL:%(num)d|modèl|modełi}}: %(list)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {

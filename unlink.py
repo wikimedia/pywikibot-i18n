@@ -24,6 +24,10 @@ msg = {
 	'bs': {
 		'unlink-unlinking': u'Bot: Odvajanje "%s".',
 	},
+	# Author: Vriullop
+	'ca': {
+		'unlink-unlinking': u'Bot: desenllaçant "%s"',
+	},
 	# Author: Utar
 	'cs': {
 		'unlink-unlinking': u'Robot: Odlinkovávám "%s"',

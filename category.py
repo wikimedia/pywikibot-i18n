@@ -1331,8 +1331,11 @@ msg = {
 	'sw': {
 		'category-adding': u'Roboti: Imeongeza jamii ya [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Przemub
 	'szl': {
 		'category-adding': u'Bot dodowo: category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-listifying': u'Robot tworzi lista kategoryji %(fromcat)s ({{PLURAL:%(num)d|1 zajta|%(num)d zajt}})',
+		'category-was-moved': u'Robot przećepał kategoryjo do [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: செல்வா
 	'ta': {
@@ -1446,16 +1449,17 @@ msg = {
 	},
 	# Author: Candalua
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
 		'category-adding': u'Robot: Xonto ła categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(anca in %(alsocat)s)',
 		'category-changing': u'Robot: Canbio %(oldcat)s in %(newcat)s',
-		'category-listifying': u'Robot: Creo ła lista da %(fromcat)s ({{PLURAL:%(num)d|1 voxe|%(num)d voxi}})',
+		'category-listifying': u'Robot: Creo ła lista da %(fromcat)s ({{PLURAL:%(num)d|1 voxe|%(num)d voxe}})',
 		'category-removing': u'Robot: Cavo da %(oldcat)s',
 		'category-replacing': u'Robot: Canbio %(oldcat)s co %(newcat)s',
-		'category-section-title': u'Cronołojia deła preçedente %(oldcat)s',
+		'category-section-title': u'Cronołojia de ła preçedente %(oldcat)s',
 		'category-version-history': u'Robot: salvo ła cronołojia de ła preçedente %(oldcat)s',
-		'category-was-disbanded': u'Robot: La categoria xe stà scancełà',
+		'category-was-disbanded': u'Robot: La categoria xe stà scansełà',
 		'category-was-moved': u'Robot: Ła categoria ła xe stà canbià co [[:Categoria:%(newcat)s|%(title)s]]',
 	},
 	# Author: Minh Nguyen

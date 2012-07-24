@@ -238,6 +238,10 @@ msg = {
 	'sv': {
 		'capitalize_redirects-create-redirect': u'Bot: Omdirigerar till [[%(to)s]]',
 	},
+	# Author: Przemub
+	'szl': {
+		'capitalize_redirects-create-redirect': u'Robot tworzi půkńyńćy do [[%(to)s]]',
+	},
 	# Author: Aswn
 	'ta': {
 		'capitalize_redirects-create-redirect': u'தானியங்கி: [[%(to)s]] இற்கு வழிமாற்றி ஒன்றினை உருவாக்கு',

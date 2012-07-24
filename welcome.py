@@ -347,6 +347,10 @@ msg = {
 		'welcome-updating': u'Trigomiro: Agiornament dël registr',
 		'welcome-welcome': u'Bin ëvnù!',
 	},
+	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
+	'ps': {
+		'welcome-welcome': u'ښه راغلۍ!',
+	},
 	# Author: Giro720
 	'pt': {
 		'welcome-bad_username': u'Robô : A adicionar um nome de utilizador que precisa ser verificado',
@@ -428,6 +432,10 @@ msg = {
 		'welcome-updating': u'தானியங்கி: பதிவேடு புதுப்பிக்கப்படுகிறது',
 		'welcome-welcome': u'வருக ! வணக்கம் !',
 	},
+	# Author: Jprmvnvijay5
+	'te': {
+		'welcome-welcome': u'రండి',
+	},
 	# Author: AnakngAraw
 	'tl': {
 		'welcome-bad_username': u'Robot: Nagdaragdag ng isang pangalan ng tagagamit na kailangang suriin',
@@ -461,9 +469,10 @@ msg = {
 		'welcome-welcome': u'Ласкаво просимо!',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
 		'welcome-bad_username': u'Robot: Xontà utente da controłare',
-		'welcome-updating': u'Robot: Ajorno el log',
+		'welcome-updating': u'Robot: Axorno el log',
 		'welcome-welcome': u'Benvegnùo/a!',
 	},
 	# Author: Minh Nguyen

@@ -109,6 +109,10 @@ msg = {
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
 	},
+	# Author: Michawiki
+	'hsb': {
+		'editarticle-edit': u'Manuelna změna přez bot: %(description)s',
+	},
 	# Author: Dj
 	'hu': {
 		'editarticle-edit': u'Kézi szerkesztés bottal: %(description)s',

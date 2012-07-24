@@ -274,8 +274,9 @@ msg = {
 		'clean_sandbox-cleaned': u'Робот: Автоматична очистка',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'clean_sandbox-cleaned': u'Robot: Pułitura automatega',
+		'clean_sandbox-cleaned': u'Robot: Pułidura automatega',
 	},
 	# Author: Minh Nguyen
 	'vi': {

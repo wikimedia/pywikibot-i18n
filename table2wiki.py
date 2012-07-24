@@ -132,7 +132,7 @@ msg = {
 	# Author: Snævar
 	'is': {
 		'table2wiki-no-warning': u'Handvirkt vélmenni: Málskipan töflu uppfærð',
-		'table2wiki-warnings': u'Handvirkt vélmenni: Málskipan töflu uppfært - {{PLURAL:count|1|%(count)d}} viðvaranir!',
+		'table2wiki-warnings': u'Handvirkt vélmenni: Málskipan töflu uppfært - {{PLURAL:count|ein viðvörun|%(count)d viðvaranir}}!',
 	},
 	# Author: Gianfranco
 	'it': {
@@ -292,9 +292,10 @@ msg = {
 		'table2wiki-warnings': u'Напівавтоматичний бот: синтаксис таблиці оновлено - {{PLURAL:count|1 попередження|%(count)d попереджень}}!',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'table2wiki-no-warning': u'Robot controłà da\'l utente: sintasi dełe tabełe ajornà',
-		'table2wiki-warnings': u'Robot controłà da\'l utente: tabeła sintasi ajornada - {{PLURAL:count|1 avixo|%(count)d avixi}}!',
+		'table2wiki-no-warning': u'Robot controłà dal utente: sintasi de łe tabełe axornà',
+		'table2wiki-warnings': u'Robot controłà dal utente: tabeła sintasi axornada - {{PLURAL:count|1 avixo|%(count)d avixi}}!',
 	},
 	# Author: Minh Nguyen
 	'vi': {

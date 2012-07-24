@@ -274,10 +274,12 @@ msg = {
 		'delete-linked-pages': u'Bot: All Säite läschen déi vun der Säit %(page)s verlinkt sinn',
 		'delete-referring-pages': u'Bot: All Säite läschen déi mat der Säit %(page)s verlinkt sinn',
 	},
+	# Author: Homo
 	'lt': {
 		'delete-from-category': u'robotas: Trinami visi puslapiai iš kategorijos %(page)s',
-		'delete-linked-pages': u'robotas: Trinami visi puslapiai į kuriuos yra nuoroda iš %(page)s',
-		'delete-referring-pages': u'robotas: Trinami visi puslapiai rodantys į %(page)s',
+		'delete-from-file': u'Robotas: Trinamas failų sąrašas.',
+		'delete-linked-pages': u'robotas: Trinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s',
+		'delete-referring-pages': u'robotas: Trinami visi puslapiai, rodantys į %(page)s',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -473,12 +475,13 @@ msg = {
 		'delete-referring-pages': u'Бот: Видалення усіх сторінок, що відносяться до %(page)s',
 	},
 	# Author: Alunardon90
+	# Author: GatoSelvadego
 	'vec': {
-		'delete-from-category': u'Robot: Cancełasion de tute łe pajine dała categoria %(page)s',
-		'delete-from-file': u'Robot: Cancełasion de na lista de file.',
-		'delete-images': u'Robot: Cancełasion de tute łe imajini contegnude inte ła pajina %(page)s',
-		'delete-linked-pages': u'Robot: Cancełasion de tute łe pajine cołegade co riferimenti da %(page)s',
-		'delete-referring-pages': u'Robot: Cancełasion de tute łe pajine cołegade co riferimenti da %(page)s',
+		'delete-from-category': u'Robot: Scansełasion de tute łe pajine da ła categoria %(page)s',
+		'delete-from-file': u'Robot: Scansełasion de na lista de file.',
+		'delete-images': u'Robot: Scansełasion de tute łe imajini contegnude inte ła pajina %(page)s',
+		'delete-linked-pages': u'Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s',
+		'delete-referring-pages': u'Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s',
 	},
 	# Author: Minh Nguyen
 	'vi': {

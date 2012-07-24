@@ -223,6 +223,10 @@ msg = {
 	'pt-br': {
 		'noreferences-add-tag': u'Bot: Adicionando tag <references />',
 	},
+	# Author: Xqt
+	'qqq': {
+		'noreferences-add-tag': u'Edit summary when the bot adds a missing <code><references /></code> tag to the references section and if needed the section itself.\n\nDo not translate <code><references /></code>.',
+	},
 	# Author: Minisarm
 	'ro': {
 		'noreferences-add-tag': u'Robot: Adăugat tagul lipsă <references />',
