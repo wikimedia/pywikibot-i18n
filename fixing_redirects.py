@@ -128,6 +128,10 @@ msg = {
 	'ksh': {
 		'fixing_redirects-fixing': u'Bot: Ömleidong repareere.',
 	},
+	# Author: George Animal
+	'ku': {
+		'fixing_redirects-fixing': u'Bot:Beralîkirinan serast bike',
+	},
 	# Author: Robby
 	'lb': {
 		'fixing_redirects-fixing': u'Bot: Viruleedunge flécken',

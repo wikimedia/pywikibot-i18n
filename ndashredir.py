@@ -21,6 +21,10 @@ msg = {
 	'br': {
 		'ndashredir-create': u'Robot: o krouiñ adkasoù gant barrennigoù-stagañ war-zu [[%(title)s]]',
 	},
+	# Author: BroOk
+	'ca': {
+		'ndashredir-create': u'Bot: Creant redireccions amb guions a [[%(title)s]]',
+	},
 	# Author: Tchoř
 	'cs': {
 		'ndashredir-create': u'Bot: Vytvářím spojovníkové přesměrování k [[%(title)s]]',

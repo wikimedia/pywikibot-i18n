@@ -178,6 +178,10 @@ msg = {
 	'ksh': {
 		'replace-replacing': u'Bot: hät outomatesch Täx jetuusch: %(description)s',
 	},
+	# Author: Ghybu
+	'ku': {
+		'replace-replacing': u'Bot: Otomatîk nivîs guherandin %(description)s',
+	},
 	# Author: UV
 	'la': {
 		'replace-replacing': u'automaton: mutans textum automatice: %(description)s',

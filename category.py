@@ -212,6 +212,7 @@ msg = {
 		'category-was-moved': u'Bot: Kategorija je premještena u [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: SMP
+	# Author: BroOk
 	'ca': {
 		'category-adding': u'Robot: Afegint la categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(també a %(alsocat)s)',
@@ -219,6 +220,8 @@ msg = {
 		'category-listifying': u'Robot: Llistant de %(fromcat)s (%(num)d entrades)',
 		'category-removing': u'Robot: Eliminant de %(oldcat)s',
 		'category-replacing': u'Robot: Substitució de la categoria %(oldcat)s per %(newcat)s',
+		'category-section-title': u'Historial de la pàgina de %(oldcat)s previs',
+		'category-version-history': u'Bot: Guardant l\'historial de versions dels %(oldcat)s previs',
 		'category-was-disbanded': u'Robot: La categoria s\'ha eliminat',
 		'category-was-moved': u'Robot: La categoria s\'ha mogut a [[:Categoria:%(newcat)s|%(title)s]]',
 	},
