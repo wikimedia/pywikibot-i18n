@@ -160,10 +160,10 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'featured-featured': u'Bot : lim AdQ por %(page)s',
-		'featured-former': u'Bot : %(page)s est un viely articllo de qualitât',
-		'featured-good': u'Bot : lim BA por %(page)s',
-		'featured-list': u'Bot : %(page)s est una lista de qualitât',
+		'featured-featured': u'Robot : %(page)s est un articllo de qualitât',
+		'featured-former': u'Robot : %(page)s est un viely articllo de qualitât',
+		'featured-good': u'Robot : %(page)s est un bon articllo',
+		'featured-list': u'Robot : %(page)s est na lista de qualitât',
 	},
 	'frr': {
 		'featured-featured': u'Bot: %(page)s as en auer a miaten guden artiikel',
@@ -408,6 +408,13 @@ msg = {
 		'featured-former': u'Bot: %(page)s är en före detta utmärkt artikel',
 		'featured-good': u'Bot: %(page)s är en läsvärd artikel',
 		'featured-list': u'Bot: %(page)s är en utmärkt list',
+	},
+	# Author: Przemub
+	'szl': {
+		'featured-featured': u'Robot: %(page)s je medalowym artiklem',
+		'featured-former': u'Robot: %(page)s niy je medalowym artiklem',
+		'featured-good': u'Robot: %(page)s je dobrym artiklem',
+		'featured-list': u'Robot: %(page)s je dobrõ listõ.',
 	},
 	# Author: Aswn
 	'ta': {

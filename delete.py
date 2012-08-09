@@ -142,9 +142,13 @@ msg = {
 		'delete-referring-pages': u'ربات: حذف تمام صفحه‌هایی که به %(page)s پیوند داده‌اند',
 	},
 	# Author: Crt
+	# Author: Olli
 	'fi': {
 		'delete-from-category': u'Botti: Poistetaan kaikki sivut luokasta %(page)s',
+		'delete-from-file': u'Botti: Poistetaan tiedostoluettelo.',
 		'delete-images': u'Botti: Poistetaan kaikki kuvat sivulta %(page)s',
+		'delete-linked-pages': u'Botti: Poistetaan kaikki sivut, jotka on linkitetty sivulta %(page)s',
+		'delete-referring-pages': u'Botti: Poistetaan kaikki sivut, jotka viittaavat sivulta %(page)s',
 	},
 	# Author: EileenSanda
 	'fo': {
@@ -165,8 +169,8 @@ msg = {
 	'frp': {
 		'delete-from-category': u'Robot : suprime totes les pâges de la catègorie %(page)s',
 		'delete-from-file': u'Robot : suprèssion d’una lista de fichiérs.',
-		'delete-images': u'Robot : suprime tôs los fichiérs sur la pâge %(page)s',
-		'delete-linked-pages': u'Robot : suprime totes les pâges liyês dês %(page)s',
+		'delete-images': u'Robot : suprime totes les émâges sur la pâge %(page)s',
+		'delete-linked-pages': u'Robot : suprime totes les pâges liyêyes dês %(page)s',
 		'delete-referring-pages': u'Robot : suprime totes les pâges que s’en refèront a %(page)s',
 	},
 	# Author: Murma174
@@ -435,6 +439,14 @@ msg = {
 	# Author: Baba Tabita
 	'sw': {
 		'delete-from-file': u'Karagosi: Kuondoa orodha ya faili.',
+	},
+	# Author: Przemub
+	'szl': {
+		'delete-from-category': u'Robot: Wyciepaniy zajt z kategoryje %(page)s',
+		'delete-from-file': u'Robot: Wyciepaniy bildōw z listy.',
+		'delete-images': u'Robot: Wyciepaniy bildōw z zajty %(page)s',
+		'delete-linked-pages': u'Robot: Wyciepaniy zajt kere linkujōm z %(page)s',
+		'delete-referring-pages': u'Robot: Wyciepaniy zajt kere linkujōm dŏ %(page)s',
 	},
 	# Author: Aswn
 	'ta': {

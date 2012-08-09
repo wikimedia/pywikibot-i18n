@@ -135,7 +135,9 @@ msg = {
 		'welcome-welcome': u'خوش آمدید!',
 	},
 	# Author: Crt
+	# Author: Olli
 	'fi': {
+		'welcome-bad_username': u'Botti: Lisätään käyttäjätunnus, joka pitää tarkistaa',
 		'welcome-updating': u'Botti päivitti lokia',
 		'welcome-welcome': u'Tervetuloa!',
 	},
@@ -154,8 +156,8 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'welcome-bad_username': u'Bot : aponsa d’un nom d’usanciér que dêt étre controlâ',
-		'welcome-updating': u'Bot : misa a jorn du jornal',
+		'welcome-bad_username': u'Robot : aponsa d’un nom d’utilisator que dêt étre controlâ',
+		'welcome-updating': u'Robot : misa a jorn du jornal',
 		'welcome-welcome': u'Benvegnua !',
 	},
 	# Author: Murma174
@@ -426,6 +428,12 @@ msg = {
 	# Author: Baba Tabita
 	'sw': {
 		'welcome-welcome': u'Karibu!',
+	},
+	# Author: Przemub
+	'szl': {
+		'welcome-bad_username': u'Robot: Wkludzenie miana kere trza sprawdzić',
+		'welcome-updating': u'Robot: Rejer',
+		'welcome-welcome': u'Witej!',
 	},
 	# Author: Aswn
 	'ta': {

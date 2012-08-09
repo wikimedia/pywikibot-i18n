@@ -79,7 +79,7 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'movepages-moving': u'Robot : pâge renomâ',
+		'movepages-moving': u'Robot : pâge renomâye',
 	},
 	'frr': {
 		'movepages-moving': u'Bot: Sidj fersköwen',
@@ -213,6 +213,10 @@ msg = {
 	# Author: Baba Tabita
 	'sw': {
 		'movepages-moving': u'Karagosi: Kuhamisha ukurasa',
+	},
+	# Author: Przemub
+	'szl': {
+		'movepages-moving': u'Robot: Przeciepanŏ zajtã',
 	},
 	# Author: Aswn
 	'ta': {

@@ -52,6 +52,10 @@ msg = {
 	'fr': {
 		'ndashredir-create': u'Robot: Création de redirections à trait d\'union vers [[%(title)s]]',
 	},
+	# Author: ChrisPtDe
+	'frp': {
+		'ndashredir-create': u'Robot : crèacion d’una redirèccion a trèt d’union de vers [[%(title)s]]',
+	},
 	# Author: Murma174
 	'frr': {
 		'ndashredir-create': u'Bot: Maaget en widjerfeerang mä binjstreg tu [[%(title)s]]',
@@ -132,6 +136,10 @@ msg = {
 	# Author: Ignatus
 	'ru': {
 		'ndashredir-create': u'Бот: Создание перенаправления с дефисом на [[%(title)s]]',
+	},
+	# Author: Teslaton
+	'sk': {
+		'ndashredir-create': u'Robot: Vytvorenie spojovníkového presmerovania k [[%(title)s]]',
 	},
 	# Author: Dbc334
 	'sl': {

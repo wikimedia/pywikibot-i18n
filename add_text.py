@@ -161,8 +161,9 @@ msg = {
 	'fr': {
 		'add_text-adding': u'Robot : Ajoute %(adding)s',
 	},
+	# Author: ChrisPtDe
 	'frp': {
-		'add_text-adding': u'robot Apond %(adding)s',
+		'add_text-adding': u'Robot : apond %(adding)s',
 	},
 	# Author: Murma174
 	'frr': {
@@ -405,6 +406,10 @@ msg = {
 	'oc': {
 		'add_text-adding': u'Robòt Apondre %(adding)s',
 	},
+	# Author: Jnanaranjan Sahu
+	'or': {
+		'add_text-adding': u'Robot: Adding %(adding)s',
+	},
 	'os': {
 		'add_text-adding': u'Робот бавæрдта %(adding)s',
 	},
@@ -542,6 +547,10 @@ msg = {
 	},
 	'udm': {
 		'add_text-adding': u'робот ватсаз %(adding)s',
+	},
+	# Author: Sahran
+	'ug': {
+		'add_text-adding': u'ماشىنا ئادەم: %(adding)s قوشۇۋاتىدۇ',
 	},
 	'uk': {
 		'add_text-adding': u'робот додав %(adding)s',

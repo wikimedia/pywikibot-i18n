@@ -112,7 +112,7 @@ msg = {
 	# Author: ChrisPtDe
 	'frp': {
 		'template-changing': u'Robot : change {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s',
-		'template-removing': u'Robot : enlève {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s',
+		'template-removing': u'Robot : enléve {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s',
 		'template-substituting': u'Robot : remplace {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s',
 	},
 	# Author: Murma174

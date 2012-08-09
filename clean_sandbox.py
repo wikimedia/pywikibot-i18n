@@ -98,7 +98,7 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'clean_sandbox-cleaned': u'Robot : neteyê ôtomaticament',
+		'clean_sandbox-cleaned': u'Robot : neteyâjo ôtomatico',
 	},
 	# Author: Murma174
 	'frr': {
@@ -245,6 +245,10 @@ msg = {
 	},
 	'sv': {
 		'clean_sandbox-cleaned': u'Robot krattar sandlådan.',
+	},
+	# Author: Przemub
+	'szl': {
+		'clean_sandbox-cleaned': u'Robot: Pucowaniy',
 	},
 	# Author: Aswn
 	'ta': {

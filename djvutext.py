@@ -60,6 +60,10 @@ msg = {
 	'fa': {
 		'djvutext-creating': u'ربات: ایجاد صفحه با متن استخراج‌شده از دژاوو',
 	},
+	# Author: Olli
+	'fi': {
+		'djvutext-creating': u'Botti: Luodaan sivu DjVU:sta puretulle tekstille',
+	},
 	# Author: EileenSanda
 	'fo': {
 		'djvutext-creating': u'Bottur: Upprættar síðu við teksti sum er tikin frá DjVu',
@@ -67,6 +71,10 @@ msg = {
 	# Author: Grondin
 	'fr': {
 		'djvutext-creating': u'Robot : Création de la page avec le texte extrait depuis DjVu',
+	},
+	# Author: ChrisPtDe
+	'frp': {
+		'djvutext-creating': u'Robot : crèacion de la pâge avouéc de tèxto teriê fôr de DjVu',
 	},
 	# Author: Murma174
 	'frr': {
@@ -164,10 +172,6 @@ msg = {
 	'pt-br': {
 		'djvutext-creating': u'Bot: Criando página com texto extraído do DjVu',
 	},
-	# Author: KRLS
-	'qqq': {
-		'djvutext-creating': u'Robot: Creació de pàgina amb text extret de DjVu',
-	},
 	# Author: Minisarm
 	'ro': {
 		'djvutext-creating': u'Robot: Creat pagină cu text extras din DjVu',
@@ -195,6 +199,10 @@ msg = {
 	# Author: WikiPhoenix
 	'sv': {
 		'djvutext-creating': u'Robot: Skapar sida med extraherad text från DjVu',
+	},
+	# Author: Przemub
+	'szl': {
+		'djvutext-creating': u'Robot: Złōnaczyniy zajty z Djvu',
 	},
 	# Author: AnakngAraw
 	'tl': {

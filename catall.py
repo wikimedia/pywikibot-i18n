@@ -81,6 +81,10 @@ msg = {
 	'fr': {
 		'catall-changing': u'Bot: Change categories',
 	},
+	# Author: ChrisPtDe
+	'frp': {
+		'catall-changing': u'Robot : change catègories',
+	},
 	# Author: Murma174
 	'frr': {
 		'catall-changing': u'Bot: Feranre kategoriin',
@@ -229,6 +233,10 @@ msg = {
 	# Author: Incelemeelemani
 	'tr': {
 		'catall-changing': u'Robot: Kategorileri değiştiriyor',
+	},
+	# Author: Sahran
+	'ug': {
+		'catall-changing': u'ماشىنا ئادەم: كاتېگورىيە ئۆزگەرتىۋاتىدۇ',
 	},
 	# Author: A1
 	'uk': {

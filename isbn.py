@@ -340,6 +340,10 @@ msg = {
 	'sv': {
 		'isbn-formatting': u'Robot: Formaterar ISBN',
 	},
+	# Author: Przemub
+	'szl': {
+		'isbn-formatting': u'Robot: ISBN',
+	},
 	# Author: செல்வா
 	'ta': {
 		'isbn-formatting': u'தானியங்கி: ISBN ஐ வடிவமைத்தல்',

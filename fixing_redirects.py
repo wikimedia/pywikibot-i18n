@@ -81,6 +81,10 @@ msg = {
 	'fr': {
 		'fixing_redirects-fixing': u'Robot: Correction des redirections',
 	},
+	# Author: ChrisPtDe
+	'frp': {
+		'fixing_redirects-fixing': u'Robot : corrèccion de les redirèccions',
+	},
 	# Author: Murma174
 	'frr': {
 		'fixing_redirects-fixing': u'Bot: Maage widjerfeerangen hial',
@@ -208,6 +212,10 @@ msg = {
 	},
 	'sv': {
 		'fixing_redirects-fixing': u'Bot: Rättar omdirigeringar',
+	},
+	# Author: Przemub
+	'szl': {
+		'fixing_redirects-fixing': u'Bot: Naprawianiy pukniyńć',
 	},
 	# Author: Aswn
 	'ta': {

@@ -435,6 +435,7 @@ msg = {
 		'category-was-moved': u'ربات: رده به [[:رده:%(newcat)s|%(title)s]] منتقل شد',
 	},
 	# Author: Crt
+	# Author: Olli
 	'fi': {
 		'category-adding': u'Botti lisäsi luokkaan [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(myös luokassa %(alsocat)s)',
@@ -442,6 +443,8 @@ msg = {
 		'category-listifying': u'Botti listasi luokan %(fromcat)s (%(num)d jäsentä)',
 		'category-removing': u'Botti poisti luokasta %(oldcat)s',
 		'category-replacing': u'Botti korvasi luokan %(oldcat)s luokalla %(newcat)s',
+		'category-section-title': u'Sivun historia entisestä %(oldcat)s',
+		'category-version-history': u'Botti: Tallennetaan versiohistoria entisestä luokasta %(oldcat)s',
 		'category-was-disbanded': u'Botti tyhjensi luokan',
 		'category-was-moved': u'Botti siirsi luokan nimelle [[:Category:%(newcat)s|%(title)s]]',
 	},
@@ -477,13 +480,15 @@ msg = {
 	# Author: ChrisPtDe
 	'frp': {
 		'category-adding': u'Robot : apond la catègorie [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(tot pariér dens %(alsocat)s)',
+		'category-also-in': u'(tot-pariér dedens %(alsocat)s)',
 		'category-changing': u'Robot : changement de %(oldcat)s a %(newcat)s',
-		'category-listifying': u'Bot : lista de %(fromcat)s (%(num)d entrâs)',
-		'category-removing': u'Bot : enlevâ dês %(oldcat)s',
-		'category-replacing': u'Robot : remplacement de la catègorie %(oldcat)s avouéc %(newcat)s',
-		'category-was-disbanded': u'Bot : la catègorie at étâ suprimâ',
-		'category-was-moved': u'Robot : catègorie dèplaciê vers [[:Catègorie:%(newcat)s|%(title)s]]',
+		'category-listifying': u'Robot : listâjo de %(fromcat)s ({{PLURAL:%(num)d|1 èlèment|%(num)d èlèments}})',
+		'category-removing': u'Robot : enléve dês %(oldcat)s',
+		'category-replacing': u'Robot : remplacement de la catègorie %(oldcat)s per %(newcat)s',
+		'category-section-title': u'Historico de les vèrsions de la vielye %(oldcat)s',
+		'category-version-history': u'Robot : encartâjo de l’historico de les vèrsions de la vielye %(oldcat)s',
+		'category-was-disbanded': u'Robot : la catègorie est étâye suprimâye',
+		'category-was-moved': u'Robot : catègorie dèplaciêye vers [[:Catègorie:%(newcat)s|%(title)s]]',
 	},
 	# Author: Murma174
 	# Author: Merlissimo
@@ -772,10 +777,12 @@ msg = {
 		'category-was-moved': u'Bot: Saachjropp noh [[:Category:%(newcat)s|%(title)s]] jeschovve',
 	},
 	# Author: George Animal
+	# Author: Ghybu
 	'ku': {
 		'category-adding': u'Robot:Zêdebike category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(herwiha di %(alsocat)s)',
 		'category-changing': u'Robot: Biguherîne %(oldcat)s',
+		'category-removing': u'Bot: Ji kategoriya %(oldcat)s tê rakirin',
 	},
 	'kv': {
 		'category-adding': u'робот: содтi category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -1337,7 +1344,14 @@ msg = {
 	# Author: Przemub
 	'szl': {
 		'category-adding': u'Bot dodowo: category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(tyż we %(alsocat)s)',
+		'category-changing': u'Robot: Pomiynia %(oldcat)s dŏ %(newcat)s',
 		'category-listifying': u'Robot tworzi lista kategoryji %(fromcat)s ({{PLURAL:%(num)d|1 zajta|%(num)d zajt}})',
+		'category-removing': u'Bot: Wyciepaniy z %(oldcat)s',
+		'category-replacing': u'Bot: Pomiynia kategoryje %(oldcat)s z %(newcat)s',
+		'category-section-title': u'Gyszichta poprzednij zajty %(oldcat)s',
+		'category-version-history': u'Bot: Spamiyntaniy gyszichty starych %(oldcat)s',
+		'category-was-disbanded': u'Bot: Wyciepaniy kategoryje',
 		'category-was-moved': u'Robot przećepał kategoryjo do [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: செல்வா
@@ -1429,6 +1443,19 @@ msg = {
 	},
 	'udm': {
 		'category-adding': u'робот: ватсаз category [[:Category:%(newcat)s|%(newcat)s]]',
+	},
+	# Author: Sahran
+	'ug': {
+		'category-adding': u'ماشىنا ئادەم: [[:Category:%(newcat)s|%(newcat)s]] كاتېگورىيە قوشۇۋاتىدۇ',
+		'category-also-in': u'(%(alsocat)s كاتېگورىيەدىمۇ بار)',
+		'category-changing': u'ماشىنا ئادەم: %(oldcat)s دىن %(newcat)s غىچە ئۆزگەرتىۋاتىدۇ',
+		'category-listifying': u'ماشىنا ئادەم: %(fromcat)sدىن ({{PLURAL:%(num)d|1 تۈر|%(num)d تۈر}}) تىزىمىنى ئاجرىتىۋاتىدۇ',
+		'category-removing': u'ماشىنا ئادەم: %(oldcat)sدىن چىقىرىۋېتىۋاتىدۇ',
+		'category-replacing': u'ماشىنا ئادەم: كاتېگورىيە %(oldcat)sنى %(newcat)sغا ئالماشتۇرىۋاتىدۇ',
+		'category-section-title': u' %(oldcat)s نىڭ بەت تارىخى',
+		'category-version-history': u'ماشىنا ئادەم: ئىلگىرىكى %(oldcat)s تارىخى نەشرىنىڭ خاتىرىسىنى ساقلاۋاتىدۇ',
+		'category-was-disbanded': u'ماشىنا ئادەم: كاتېگورىيە تارقىتىۋېتىلدى',
+		'category-was-moved': u'ماشىنا ئادەم: كاتېگورىيە [[:Category:%(newcat)s|%(title)s]]غا يۆتكەلدى',
 	},
 	# Author: Тест
 	# Author: A1

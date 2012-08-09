@@ -136,7 +136,7 @@ msg = {
 	# Author: ChrisPtDe
 	'frp': {
 		'cosmetic_changes-append': u'; changement de tipo cosmètico',
-		'cosmetic_changes-standalone': u'Robot : Changement de tipo cosmètico',
+		'cosmetic_changes-standalone': u'Robot : changement de tipo cosmètico',
 	},
 	'frr': {
 		'cosmetic_changes-append': u'; kosmeetisk feranerangen',
@@ -374,6 +374,11 @@ msg = {
 	'sv': {
 		'cosmetic_changes-append': u'; kosmetiska ändringar',
 		'cosmetic_changes-standalone': u'Bot: Kosmetiska ändringar',
+	},
+	# Author: Przemub
+	'szl': {
+		'cosmetic_changes-append': u'; kosmetykŏ',
+		'cosmetic_changes-standalone': u'Robot: Kosmetykŏ',
 	},
 	# Author: செல்வா
 	'ta': {

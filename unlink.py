@@ -70,6 +70,10 @@ msg = {
 	'fr': {
 		'unlink-unlinking': u'Robot: Retire le lien "%s"',
 	},
+	# Author: ChrisPtDe
+	'frp': {
+		'unlink-unlinking': u'Robot : enléve lo lim « %s »',
+	},
 	# Author: Murma174
 	'frr': {
 		'unlink-unlinking': u'Bot: Nem link wech faan „%s“',

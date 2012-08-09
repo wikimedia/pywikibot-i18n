@@ -77,6 +77,11 @@ msg = {
 		'table2wiki-no-warning': u'ربات کنترل‌شده توسط کاربر: به‌روزرسانی ترکیب جدول',
 		'table2wiki-warnings': u'ربات کنترل‌شده توسط کاربر: به‌روز‌رسانی ترکیب جدول - {{PLURAL:count|۱ هشدار|%(count)d هشدار}}!',
 	},
+	# Author: Olli
+	'fi': {
+		'table2wiki-no-warning': u'Käyttäjän ohjaama botti: Taulukon syntaksi päivitetty',
+		'table2wiki-warnings': u'Käyttäjän ohjaama botti: Taulukon syntaksi päivitetty - {{PLURAL:count|1 varoitus|%(count)d varoitusta}}!',
+	},
 	# Author: Od1n
 	'fr': {
 		'table2wiki-no-warning': u'Robot : wikification syntaxe tableaux',
@@ -84,8 +89,8 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'table2wiki-no-warning': u'Robot : vouiquificacion sintaxa tablôs',
-		'table2wiki-warnings': u'Robot : vouiquificacion sintaxa tablôs - {{PLURAL:count|1 avèrtissement|%(count)d avèrtissements}} !',
+		'table2wiki-no-warning': u'Robot controlâ per un utilisator : sintaxa de les grelyes betâye a jorn',
+		'table2wiki-warnings': u'Robot controlâ per un utilisator : sintaxa de les grelyes betâye a jorn - {{PLURAL:count|1 avèrtissement|%(count)d avèrtissements}} !',
 	},
 	# Author: Murma174
 	'frr': {

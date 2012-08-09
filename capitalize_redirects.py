@@ -100,7 +100,7 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'capitalize_redirects-create-redirect': u'Robot : fâre una redirèccion a [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot : fâre na redirèccion a [[%(to)s]]',
 	},
 	# Author: Murma174
 	'frr': {
@@ -261,6 +261,10 @@ msg = {
 	# Author: Ajdar
 	'tt': {
 		'capitalize_redirects-create-redirect': u'Бот: [[%(to)s]]ка юнәлтү эшләнгән',
+	},
+	# Author: Sahran
+	'ug': {
+		'capitalize_redirects-create-redirect': u'ماشىنا ئادەم: [[%(to)s]]غا قايتا نىشانلىدى',
 	},
 	'uk': {
 		'capitalize_redirects-create-redirect': u'Бот: Створено перенаправлення на [[%(to)s]]',

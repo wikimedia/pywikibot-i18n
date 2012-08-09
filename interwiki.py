@@ -503,14 +503,14 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'interwiki-adding': u'robot Apond: %(adding)s',
-		'interwiki-adding-modifying': u'robot Apond: %(adding)s Change: %(modifying)s',
-		'interwiki-adding-removing': u'robot Apond: %(adding)s Enlève: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Apond: %(adding)s Enlève: %(removing)s Change: %(modifying)s',
-		'interwiki-modifying': u'robot Change: %(modifying)s',
+		'interwiki-adding': u'Robot : apond %(adding)s',
+		'interwiki-adding-modifying': u'Robot : apond %(adding)s ; change %(modifying)s',
+		'interwiki-adding-removing': u'Robot : apond %(adding)s ; enléve %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot : apond %(adding)s ; enléve %(removing)s ; change %(modifying)s',
+		'interwiki-modifying': u'Robot : change %(modifying)s',
 		'interwiki-modifying-from': u'Robot : changement de %(from)s a %(modifying)s',
-		'interwiki-removing': u'robot Enlève: %(removing)s',
-		'interwiki-removing-modifying': u'robot Enlève: %(removing)s Change: %(modifying)s',
+		'interwiki-removing': u'Robot : enléve %(removing)s',
+		'interwiki-removing-modifying': u'Robot : enléve %(removing)s ; change %(modifying)s',
 	},
 	# Author: Murma174
 	# Author: Merlissimo
@@ -1580,12 +1580,14 @@ msg = {
 		'interwiki-removing': u'Roboti: Imeondoa: %(removing)s',
 		'interwiki-removing-modifying': u'Roboti: Imeondoa %(removing)s Imebadilisha: %(modifying)s',
 	},
+	# Author: Przemub
 	'szl': {
 		'interwiki-adding': u'Bot dodowo: %(adding)s',
 		'interwiki-adding-modifying': u'Bot dodowo: %(adding)s zmjyńo: %(modifying)s',
 		'interwiki-adding-removing': u'Bot dodowo: %(adding)s wyćepuje: %(removing)s',
 		'interwiki-adding-removing-modifying': u'Bot dodowo: %(adding)s wyćepuje: %(removing)s zmjyńo: %(modifying)s',
 		'interwiki-modifying': u'Bot zmjyńo: %(modifying)s',
+		'interwiki-modifying-from': u'Robot: Sprowjaniy %(from)s dŏ %(modifying)s',
 		'interwiki-removing': u'Bot wyćepuje: %(removing)s',
 		'interwiki-removing-modifying': u'Bot wyćepuje: %(removing)s zmjyńo: %(modifying)s',
 	},

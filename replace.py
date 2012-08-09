@@ -106,7 +106,7 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'replace-replacing': u'Bot : remplacement de tèxto ôtomatisâ %(description)s',
+		'replace-replacing': u'Robot : remplacement de tèxto ôtomatisâ %(description)s',
 	},
 	'frr': {
 		'replace-replacing': u'Bot: Automatisiaret ütjwakselt tekst %(description)s',

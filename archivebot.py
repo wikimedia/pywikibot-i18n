@@ -197,10 +197,10 @@ msg = {
 	# Author: Xqt
 	'frp': {
 		'archivebot-archive-full': u'(ARCH·IVES PLÊNES)',
-		'archivebot-archive-summary': u'Robot: Arch·ivâjo de %(count)d {{PLURAL:count|fil|fils}} dês [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot : arch·ivâjo de %(count)d {{PLURAL:%(count)d|fil de discussion|fils de discussion}} dês [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'ples viely que',
-		'archivebot-page-summary': u'Robot: Arch·ivâjo de %(count)d {{PLURAL:count|fil|fils}} (%(why)s) de vers %(archives)s.',
+		'archivebot-page-summary': u'Robot : arch·ivâjo de %(count)d {{PLURAL:%(count)d|fil de discussion|fils de discussion}} (%(why)s) de vers %(archives)s.',
 	},
 	# Author: Murma174
 	# Author: Xqt
@@ -230,9 +230,11 @@ msg = {
 	},
 	# Author: Amire80
 	# Author: Ofekalef
+	# Author: YaronSh
 	'he': {
 		'archivebot-archive-full': u'ארכיון מלא',
 		'archivebot-archive-summary': u'ארכוב %(count)d שיחות מ[[%(from)s]]',
+		'archivebot-archiveheader': u'{{ארכיון דיונים}}',
 		'archivebot-older-than': u'ישן מ:',
 		'archivebot-page-summary': u'ארכוב {{PLURAL:%(count)d|שיחה אחת|%(count)d שיחות}} (%(why)s) אל %(archives)s.',
 	},
@@ -421,6 +423,12 @@ msg = {
 		'archivebot-older-than': u'eldre enn',
 		'archivebot-page-summary': u'robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} (%(why)s) til %(archives)s.',
 	},
+	# Author: Jnanaranjan Sahu
+	'or': {
+		'archivebot-archive-full': u'(ARCHIVE FULL)',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'ଠାରୁ ପୁରୁଣା',
+	},
 	# Author: Xqt
 	'pdc': {
 		'archivebot-older-than': u'elder ass',
@@ -578,6 +586,14 @@ msg = {
 		'archivebot-archiveheader': u'{{Arşiv alt}}',
 		'archivebot-older-than': u'daha eski',
 		'archivebot-page-summary': u'Bot: Arşivliyor: %(count)d başlık (%(why)s) buraya: %(archives)s.',
+	},
+	# Author: Sahran
+	'ug': {
+		'archivebot-archive-full': u'(ئارخىپ لىق)',
+		'archivebot-archive-summary': u'ماشىنا ئادەم: [[%(from)s]]دىن %(count)d {{PLURAL:%(count)d|جەريان|جەريان}}نى ئارخىپلاۋاتىدۇ.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'كونا',
+		'archivebot-page-summary': u'ماشىنا ئادەم: %(count)d {{PLURAL:%(count)d|جەريان|جەريان}} (%(why)s) نى %(archives)sغا ئاخىپلاۋاتىدۇ.',
 	},
 	# Author: A1
 	# Author: Dim Grits

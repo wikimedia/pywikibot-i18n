@@ -118,7 +118,7 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'basic-changing': u'Robot : Changiê ...',
+		'basic-changing': u'Robot : changement ...',
 	},
 	# Author: Murma174
 	'frr': {
@@ -198,6 +198,10 @@ msg = {
 	},
 	'ksh': {
 		'basic-changing': u'Bot: Änderung ...',
+	},
+	# Author: George Animal
+	'ku': {
+		'basic-changing': u'Robot: Diguherîne ...',
 	},
 	# Author: UV
 	'la': {
@@ -284,6 +288,10 @@ msg = {
 	# Author: Njardarlogar
 	'nn': {
 		'basic-changing': u'robot: endrar...',
+	},
+	# Author: Jnanaranjan Sahu
+	'or': {
+		'basic-changing': u'Robot: ବଦଳଯାଉଛି...',
 	},
 	# Author: Xqt
 	'pdc': {
@@ -376,6 +384,10 @@ msg = {
 	# Author: Zahidulla
 	'tt': {
 		'basic-changing': u'Робот: үзгәртте ...',
+	},
+	# Author: Sahran
+	'ug': {
+		'basic-changing': u'ماشىنا ئادەم: ئۆزگەرتىۋاتىدۇ…',
 	},
 	'uk': {
 		'basic-changing': u'Бот: змінив ...',

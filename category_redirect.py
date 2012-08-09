@@ -251,12 +251,12 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'category_redirect-add-template': u'Robot : apond de modèlo de redirèccion de catègorie por mantegnence',
+		'category_redirect-add-template': u'Robot : apond lo modèlo de redirèccion de catègorie por mantegnence',
 		'category_redirect-change-category': u'Robot : changement de la redirèccion de [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Bot de mantegnence de les redirèccions de catègories',
-		'category_redirect-edit-request': u'Cetes pâges protègiês ont étâ dècelâs coment èyent fôta de les mises a jorn des lims de catègorie : %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s est dens %(oldcat)s, qu’est una redirèccion de vers %(newcat)s',
-		'category_redirect-fix-double': u'Bot : rèpâre redirèccion dobla',
+		'category_redirect-comment': u'Robot de mantegnence de les redirèccions de catègories',
+		'category_redirect-edit-request': u'Cetes pâges protègiêyes sont étâyes dècelâyes coment èyent fôta de les mises a jorn des lims de catègorie : %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s est dedens %(oldcat)s qu’est na redirèccion de vers %(newcat)s',
+		'category_redirect-fix-double': u'Robot : rèpâre na redirèccion dobla',
 	},
 	# Author: Murma174
 	'frr': {
@@ -653,7 +653,10 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s är i %(oldcat)s, som är en omdirigering till %(newcat)s',
 		'category_redirect-fix-double': u'Robot: Rättar dubbel omdirigering',
 	},
+	# Author: Przemub
 	'szl': {
+		'category_redirect-add-template': u'Robot dodaje muster pukniyńcia kategoryje',
+		'category_redirect-comment': u'Naprawa pukniyńć',
 		'category_redirect-fix-double': u'Robot sprowjo tuplowane przekerowańa',
 	},
 	# Author: செல்வா
@@ -701,6 +704,10 @@ msg = {
 		'category_redirect-edit-request': u'Киләсе сакланган битләр төркемнед сылтамаларын яңартуны сорый: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s  %(oldcat)s эчендә урнашкан, ул шулай ук %(newcat)s битенә күчерелмә дә булып тора',
 		'category_redirect-fix-double': u'Робот: икеләтә юнәлтүне төзәтү',
+	},
+	# Author: Sahran
+	'ug': {
+		'category_redirect-comment': u'كاتېگورىيە ماشىنا ئادەمگە قايتا نىشانلاندى',
 	},
 	# Author: Ahonc
 	# Author: AS

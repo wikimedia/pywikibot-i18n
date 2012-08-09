@@ -92,7 +92,7 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'editarticle-edit': u'Changement manuèl grâce a un bot : %(description)s',
+		'editarticle-edit': u'Changement manuèl avouéc un robot : %(description)s',
 	},
 	# Author: Murma174
 	'frr': {
@@ -240,6 +240,10 @@ msg = {
 	},
 	'sv': {
 		'editarticle-edit': u'Manuell redigering: %(description)s',
+	},
+	# Author: Przemub
+	'szl': {
+		'editarticle-edit': u'Manualne sprowianiy z robotym: %(description)s',
 	},
 	# Author: AnakngAraw
 	'tl': {

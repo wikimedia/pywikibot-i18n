@@ -327,15 +327,33 @@ msg = {
 	},
 	# Author: Crt
 	# Author: Nedergard
+	# Author: Olli
 	'fi': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'substataan %(tags)s merkintää',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Keskustelua muokattu',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Keskustelu suljettu',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOTIN VIESTI',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Uusi keskustelu',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Ilmoitus',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s viimeisin muokkaus] (%(page_size)s tavua) käyttäjältä %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s kaikki keskustelut on lopetettu (valvonta pysäytetty) - viimeisin muokkaus käyttäjältä %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nYhteenveto luotu: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ei ihmismuokkaajaa löytynyt)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - viimeisin muokkaus käyttäjältä [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Botin varoitusviesti: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Keskustelun yhteenveto lisätty: %(num)i merkintää',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Keskusteluyhteenveto lisätty siivouksen yhteydessä: %(num)i',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'botti',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Keskusteluyhteenvetoa päivitetty: %(num)i merkintää sivulla %(page)s',
 	},
 	# Author: EileenSanda
 	'fo': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Kjakið er broytt',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Kjak er stongt',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ongin menniskja skrivari/rættari funnin)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'%d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bottur',
 	},
 	# Author: Gomoko
 	# Author: DrTrigon
@@ -363,22 +381,23 @@ msg = {
 	# Author: ChrisPtDe
 	# Author: DrTrigon
 	'frp': {
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion changiê',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'substitucion d’una balisa ou ben de les balises %(tags)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion changiêye',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion cllôsa',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MÈSSÂJO ROBOT',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MÈSSÂJO DU ROBOT',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Novèla discussion',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notificacion',
-		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s dèrriér changement] (%(page_size)s octèts) per %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s totes les discussions sont chavonâs (survelyence arrètâ) - dèrriér changement per %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s : %(page_sections)s - [%(history_link)s dèrriér changement] (%(page_size)s octèts) per %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s : %(page)s totes les discussions sont chavonâyes (survelyence arrètâye) - dèrriér changement per %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSomèro fêt dês et a : %(sign)s</noinclude>',
-		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(gins d’èditor humen trovâ)',
-		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - dèrriér changement per [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(gins de changior humen trovâ)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s : <span class="plainlinks">[%(page_link)s %(page)s]</span> - dèrriér changement per [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
-		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mèssâjo d’avèrtissement u robot : %(page)s "\'\'%(warning)s\'\'"',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Somèro de la discussion apondu : %(num)i entrâs',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Somèro de la discussion apondu avouéc neteyâjo : %(num)i entrâs',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mèssâjo d’avèrtissement du robot : %(page)s « \'\'%(warning)s\'\' »',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Somèro de la discussion apondu : %(num)i èlèments',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Somèro de la discussion apondu avouéc neteyâjo : %(num)i èlèments',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Somèro de la discussion betâ a jorn : %(num)i entrâs dens %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Somèro de la discussion betâ a jorn : %(num)i èlèments dedens %(page)s',
 	},
 	# Author: DrTrigon
 	# Author: Murma174
@@ -445,7 +464,9 @@ msg = {
 	},
 	# Author: Amire80
 	# Author: Ofekalef
+	# Author: YaronSh
 	'he': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'מוחלפים %(tags)s תגים',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'שיחה שונתה',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'שיחה נסגרה',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'הודעת רובוט',
@@ -454,7 +475,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nתקציר יוצר מתוך וב־: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(לא נמצא עורך אנושי)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d ב%B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'נוסף תקציר דיון: %(num)i רשומות',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'תקציר הדיון התווסף לאחר שעבר ניקיון: %(num)i רשומות',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'רובוט',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'תקציר הדיון עודכן: %(num)i ערכים ב־%(page)s עמודים',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -864,6 +888,7 @@ msg = {
 	'ps': {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'نوی سکالو',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'يادګيرنه',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوټ',
 	},
 	# Author: Giro720
 	# Author: DrTrigon
@@ -1109,6 +1134,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* தானியங்கி எச்சரிக்கை: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'எந்திரம்',
+	},
+	# Author: Veeven
+	'te': {
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'కొత్త చర్చ',
 	},
 	# Author: AnakngAraw
 	'tl': {

@@ -239,6 +239,7 @@ msg = {
 	# Author: EileenSanda
 	'fo': {
 		'solve_disambiguation-redirect-removed': u'Rættar leinkju við fleiri týdningum til: %(from)s - Tók burtur leinkju(r)',
+		'solve_disambiguation-redirect-resolved': u'Rætta leinkju við fleiri meiningum: %(from)s - Broytti leinkju(r) til %(to)s',
 		'solve_disambiguation-unknown-page': u'(ókent)',
 	},
 	# Author: IAlex
@@ -255,12 +256,12 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'solve_disambiguation-adding-dn-template': u'Homonimia solucionâ avouéc un robot : %(from)s - Marcâ coment demandent l’atencion d’un èxpèrt',
-		'solve_disambiguation-links-removed': u'Homonimia solucionâ avouéc un robot : %(from)s - Retrèt du (des) lim(s).',
-		'solve_disambiguation-links-resolved': u'Homonimia solucionâ avouéc un robot : %(from)s - Changements du (des) lim(s) por %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Homonimia solucionâ avouéc un robot : %(from)s - Marcâ coment demandent l’atencion d’un èxpèrt',
-		'solve_disambiguation-redirect-removed': u'Homonimia solucionâ avouéc un robot : %(from)s - Retrèt du (des) lim(s)',
-		'solve_disambiguation-redirect-resolved': u'Homonimia solucionâ avouéc un robot : %(from)s - Changements du (des) lim(s) por %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Homonimia solucionâye avouéc un robot : %(from)s - marcâye coment demandent l’atencion d’un èxpèrt',
+		'solve_disambiguation-links-removed': u'Homonimia solucionâye avouéc un robot : %(from)s - lim(s) enlevâ(s).',
+		'solve_disambiguation-links-resolved': u'Homonimia solucionâye avouéc un robot : %(from)s - lim(s) changiê(s) por %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Homonimia solucionâye avouéc un robot : %(from)s - marcâye coment demandent l’atencion d’un èxpèrt',
+		'solve_disambiguation-redirect-removed': u'Homonimia solucionâye avouéc un robot : %(from)s - lim(s) enlevâ(s)',
+		'solve_disambiguation-redirect-resolved': u'Homonimia solucionâye avouéc un robot : %(from)s - lim(s) changiê(s) por %(to)s',
 		'solve_disambiguation-unknown-page': u'(encognu)',
 	},
 	# Author: Murma174

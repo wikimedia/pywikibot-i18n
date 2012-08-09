@@ -123,8 +123,8 @@ msg = {
 	},
 	# Author: ChrisPtDe
 	'frp': {
-		'commons-file-moved': u'Lo [[:File:%(localfile)s|fichiér]] at étâ dèplaciê vers [[:commons:File:%(commonsfile)s|Commons]].',
-		'commons-file-now-available': u'Ora, lo fichiér est disponiblo dessus [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|Fichiér]] dèplaciê vers [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Ora lo fichiér est disponiblo dessus [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Murma174
 	'frr': {
@@ -327,6 +327,11 @@ msg = {
 	'sv': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttad till [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Filen är nu tillgänglig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Przemub
+	'szl': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Plik]] przeciepanŏ dŏ [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Plik terozki dostympny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: AnakngAraw
 	'tl': {
