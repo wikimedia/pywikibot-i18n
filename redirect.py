@@ -14,8 +14,8 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robot: dubbele aanstuur na %(to)s reggemaak',
 		'redirect-fix-loop': u'Robot: sirkulêre aanstuur na %(to)s reggemaak',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: Verwyder [[Wikipedia:Redirect|aanstuur]] na nie-bestaande bladsy',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Sirkulêre [[Wikipedia:Redirect|aanstuur]]',
+		'redirect-remove-broken': u'Robot: Aanstuur na \'n geskrapte of nie-bestaande bladsy',
+		'redirect-remove-loop': u'Robot: Aanstuur vorm \'n sirkulêre lus',
 	},
 	# Author: Meno25
 	# Author: DRIHEM
@@ -313,7 +313,7 @@ msg = {
 		'redirect-broken-redirect-template': u'{{azonnali|Hibás átirányítás}}',
 		'redirect-fix-double': u'Bot: %(to)s lapra mutató dupla átirányítás javítása',
 		'redirect-fix-loop': u'Bot: Ide mutató átirányítási hurkok javítása: %(to)s',
-		'redirect-remove-broken': u'Bot: Törölt vagy nem létező lapra mutató [[WP:REDIR|átirányítás]] törlése',
+		'redirect-remove-broken': u'Bot: Törölt vagy nem létező lapra mutató átirányítás törlése',
 		'redirect-remove-loop': u'Bot: körkörös átirányítás',
 	},
 	# Author: Xelgen
@@ -379,11 +379,21 @@ msg = {
 	'ja': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'ロボットによる: 二重リダイレクト修正 → %(to)s',
-		'redirect-remove-broken': u'ロボットによる: リダイレクト先は存在しませんでした',
+		'redirect-remove-broken': u'ロボットによる: 削除済みまたは存在しないページへのリダイレクト',
 	},
+	# Author: NoiX180
+	'jv': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-double': u'Bot: Mbenakaké rong pralihan nèng %(to)s',
+		'redirect-fix-loop': u'Bot: Mbenakaké ubengan pangalihan nèng %(to)s',
+		'redirect-remove-broken': u'Bot: Ngalihaké nèng kaca sing ora ana utawa wis kabusak',
+		'redirect-remove-loop': u'Bot: Patujon pangalihan dadi ubengan pangalihan',
+	},
+	# Author: David1010
 	'ka': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'რობოტი: ორმაგი გადამისამართების გასწორება → %(to)s',
-		'redirect-remove-broken': u'რობოტი: გადამისამართებული გვერდი არ არსებობს',
+		'redirect-remove-broken': u'რობოტი: გადამისამართება წაშლილ ან არარსებულ გვერდზე',
 	},
 	'kk': {
 		'redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті → %(to)s',
@@ -483,8 +493,8 @@ msg = {
 	'mt': {
 		'redirect-broken-redirect-template': u'{{Ħassar minnufih|9}}',
 		'redirect-fix-double': u'Bot: Tranġar ta\' rindirizz doppju lejn %(to)s',
-		'redirect-remove-broken': u'Bot: Ir-rindirizz huwa lejn paġna ineżistenti',
-		'redirect-remove-loop': u'Bot: Ir-rindirizz huwa wieħed rikursiv',
+		'redirect-remove-broken': u'Bot: Rindirizz lejn paġna mħassra jew li ma teżistix',
+		'redirect-remove-loop': u'Bot: Id-destinazzjoni tar-rindirizz qiegħed jifforma ċiklu ta\' rindirizzi',
 	},
 	# Author: Lionslayer
 	'my': {
@@ -565,8 +575,8 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Trigomiro: a coregg ridiression dobia a %(to)s',
 		'redirect-fix-loop': u'Trigomiro: Coression dël sicl ëd ridiression a %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Ridiression]] a na pàgina scancelà o ch\'a esist nen',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|La ridiression]] ëd destinassion a forma un sicl ëd ridiression',
+		'redirect-remove-broken': u'Trigomiro: Rediression a na pàgina scancelà o ch\'a esist nen',
+		'redirect-remove-loop': u'Trigomiro: La destinassion ëd la rediression a forma un sicl ëd ridiression',
 	},
 	# Author: Hamilton Abreu
 	# Author: Xqt

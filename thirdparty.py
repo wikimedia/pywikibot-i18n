@@ -22,12 +22,18 @@ msg = {
 	},
 	# Author: Naudefj
 	'af': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'vervanging van etiket(te) %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Bespreking gewysig',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Bespreking gesluit',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTBERIG',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nuwe bespreking',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Kennisgewing',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nOpsomming gemaak van en op: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Samevatting van bespreking bygevoeg: %(num)i reëls',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Samevatting van bespreking bygevoeg, asook skoongemaak: %(num)i reëls',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Bespreking se samevatting bygewerk: %(num)i reëls in bladsy %(page)s',
 	},
 	# Author: Meno25
 	# Author: DRIHEM
@@ -253,6 +259,8 @@ msg = {
 	# Author: Evropi
 	'el': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Η συζήτηση άλλαξε',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Η συζήτησε έκλεισε',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ΜΗΝΥΜΑ ΑΠΟ ROBOT',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Νέα συζήτηση',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Κοινοποίηση',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s τελευταία επεξεργασία] (%(page_size)s bytes) από %(user)s (%(time)s)',
@@ -303,6 +311,13 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Actualizando el resumen de la discusión: %(num)i entradas en %(page)s',
 	},
+	# Author: Avjoska
+	'et': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Arutelulehte muudeti',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Suletud arutelu',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Uus arutelu',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
 	# Author: Reza1615
@@ -349,9 +364,14 @@ msg = {
 	},
 	# Author: EileenSanda
 	'fo': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'skifta út %(tags)s tag(s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Kjakið er broytt',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Kjak er stongt',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOÐ FRÁ BOTTI',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nýtt kjak',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Boð',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ongin menniskja skrivari/rættari funnin)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - seinast broytt av [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'%d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bottur',
 	},
@@ -513,6 +533,12 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Vita-összefoglaló módosítva: %(num)i hozzászólás a(z) %(page)s oldalon',
 	},
+	# Author: Xelgen
+	'hy': {
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(խմբագրող անձիք չեն հայտնաբերվել)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u', %Y %Bի %d',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'ռոբոտ',
+	},
 	# Author: DrTrigon
 	# Author: McDutchie
 	'ia': {
@@ -635,6 +661,33 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'ロボット',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'議論の要約の更新: %(page)sで%(num)i件',
 	},
+	# Author: NoiX180
+	'jv': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'ngganti %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Rembugan diganti',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Rembugan ditutup',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'LAYANG BOT',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Rembugan Anyar',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Wara-wara',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [suntingan pungkasan %(history_link)s] (%(page_size)s bita) by %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s kabèh rembugan wis rampung (pangawasan dimandhegaké) - suntingan pungkasan saka %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nRingkesan diéntukaké saka lan nèng: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ora ana panyunting manungsa sing ditemokaké)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - suntingan pungkasan saka [[Panganggo:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Layang pèngetan bot: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Ringkesan rembugan ditambahaké: %(num)i lebon',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ringkesan rembugan ditambah karo paresikan: %(num)i lebon',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Ringkesan rembugan dianyari: %(num)i isi nèng %(page)s',
+	},
+	# Author: David1010
+	'ka': {
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'რობოტის შეტყობინება',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'ახალი განხილვა',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'რობოტი',
+	},
 	# Author: Purodha
 	'ksh': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'usjetuusch: %(tags)s Makeerong(e)',
@@ -654,6 +707,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'En Zosammefassong vun dä Diskußjuhn wood aanjeföösch un opjerühmp: %(num)i Enndrääsch.',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot:',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'De Zosammefassong vun dä Diskußjuhn wood op ene neue Schtand jebraat: %(num)i Enndrääsch en dä Sigg %(page)s',
+	},
+	# Author: George Animal
+	'ku': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Gotûbêj hat guhertin',
 	},
 	# Author: Robby
 	'lb': {
@@ -744,6 +801,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'робот',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Описот на разговорот е изменет: %(num)i записи во %(page)s',
 	},
+	# Author: Praveenp
+	'ml': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'യന്ത്രം',
+	},
 	# Author: Kaajawa
 	'mr': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'चर्चेत बदल',
@@ -768,6 +829,15 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ringkasan perbincangan baru dengan pengemasan: %(num)i entri',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Ringkasan perbincangan dikemas kini: %(num)i entri di %(page)s',
+	},
+	# Author: Chrisportelli
+	'mt': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussjoni mibdula',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussjoni magħluqa',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Diskussjoni ġdida',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notifika',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(l-ebda utent uman ma nstab)',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 	},
 	'no': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusjon endret',
@@ -1137,6 +1207,7 @@ msg = {
 	},
 	# Author: Veeven
 	'te': {
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'చర్చ ముగిసింది',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'కొత్త చర్చ',
 	},
 	# Author: AnakngAraw

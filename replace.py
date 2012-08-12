@@ -165,6 +165,10 @@ msg = {
 	'ja': {
 		'replace-replacing': u'ロボットによる: 文字置き換え %(description)s',
 	},
+	# Author: NoiX180
+	'jv': {
+		'replace-replacing': u'Bot: Panggantèn teks otomatis %(description)s',
+	},
 	'ka': {
 		'replace-replacing': u'რობოტი: ტექსტის ავტომატური შეცვლა %(description)s',
 	},

@@ -239,6 +239,10 @@ msg = {
 	'ja': {
 		'add_text-adding': u'ロボットによる: %(adding)s を追加',
 	},
+	# Author: NoiX180
+	'jv': {
+		'add_text-adding': u'Bot: Nambah %(adding)s',
+	},
 	'ka': {
 		'add_text-adding': u'ბოტის დამატება %(adding)s',
 	},
@@ -486,8 +490,9 @@ msg = {
 	'sl': {
 		'add_text-adding': u'robot Dodajanje %(adding)s',
 	},
+	# Author: FatosMorina
 	'sq': {
-		'add_text-adding': u'roboti shtoj %(adding)s',
+		'add_text-adding': u'roboti duke shtuar %(adding)s',
 	},
 	# Author: Rancher
 	'sr': {

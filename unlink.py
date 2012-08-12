@@ -4,6 +4,10 @@ msg = {
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},
+	# Author: Naudefj
+	'af': {
+		'unlink-unlinking': u'Robot: verwysing na "%s" verwyder',
+	},
 	'ar': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},
@@ -116,6 +120,10 @@ msg = {
 	# Author: Shirayuki
 	'ja': {
 		'unlink-unlinking': u'ロボットによる: リンクを解除中 "%s"',
+	},
+	# Author: NoiX180
+	'jv': {
+		'unlink-unlinking': u'Bot: Medhot pranala "%s"',
 	},
 	# Author: Purodha
 	'ksh': {

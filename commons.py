@@ -191,6 +191,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|このファイル]]は[[:commons:File:%(commonsfile)s|コモンズ]]へと移動しました。',
 		'commons-file-now-available': u'このファイルは[[:commons:File:%(commonsfile)s|ウィキメディア・コモンズ]]で利用できるようになりました。',
 	},
+	# Author: NoiX180
+	'jv': {
+		'commons-file-moved': u'[[:Berkas:%(localfile)s|Berkas]] dipindhahaké nèng [[:commons:Berkas:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Berkas saiki wis sumadhiya nèng [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Purodha
 	'ksh': {
 		'commons-file-moved': u'Di Dattei [[:File:%(localfile)s|File]] wood op [[:commons:File:%(commonsfile)s|Wikimedia Commons]] jelaat.',
@@ -235,6 +240,11 @@ msg = {
 	'mk': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Податотеката]] е преместена на [[:commons:File:%(commonsfile)s|Ризницата]].',
 		'commons-file-now-available': u'Податотеката сега е достапна на [[:commons:File:%(commonsfile)s|Заедничката Ризница]].',
+	},
+	# Author: Praveenp
+	'ml': {
+		'commons-file-moved': u'[[:File:%(localfile)s|പ്രമാണം]] [[:commons:File:%(commonsfile)s|കോമൺസിലേയ്ക്ക്]] മാറ്റിയിരിക്കുന്നു.',
+		'commons-file-now-available': u'പ്രമാണം ഇപ്പോൾ  [[:commons:File:%(commonsfile)s|വിക്കിമീഡിയ കോമൺസിൽ]] ലഭ്യമാണ്.',
 	},
 	# Author: Anakmalaysia
 	'ms': {

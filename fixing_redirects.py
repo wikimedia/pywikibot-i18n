@@ -128,6 +128,10 @@ msg = {
 	'ja': {
 		'fixing_redirects-fixing': u'ロボットによる: リダイレクト回避',
 	},
+	# Author: NoiX180
+	'jv': {
+		'fixing_redirects-fixing': u'Bot: Mbeneraké pangalihan',
+	},
 	# Author: Purodha
 	'ksh': {
 		'fixing_redirects-fixing': u'Bot: Ömleidong repareere.',
@@ -155,6 +159,10 @@ msg = {
 	# Author: Anakmalaysia
 	'ms': {
 		'fixing_redirects-fixing': u'Bot: Membaiki lencongan',
+	},
+	# Author: Chrisportelli
+	'mt': {
+		'fixing_redirects-fixing': u'Bot: Tiswija tar-rindirizzi',
 	},
 	'no': {
 		'fixing_redirects-fixing': u'Robot: Retter omdirigeringer',
@@ -220,6 +228,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'fixing_redirects-fixing': u'தானியங்கி: வழிமாற்றிகள் சரிபார்க்கப்படுகின்றன',
+	},
+	# Author: Veeven
+	'te': {
+		'fixing_redirects-fixing': u'బాటు: దారిమార్పులను సరిచేసింది',
 	},
 	# Author: AnakngAraw
 	'tl': {

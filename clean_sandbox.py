@@ -144,6 +144,10 @@ msg = {
 	'ja': {
 		'clean_sandbox-cleaned': u'ロボットによる: 砂場ならし',
 	},
+	# Author: NoiX180
+	'jv': {
+		'clean_sandbox-cleaned': u'Bot: Diresiki sacara otomatis',
+	},
 	'ko': {
 		'clean_sandbox-cleaned': u'로봇: 연습장 비움',
 	},

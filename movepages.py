@@ -99,6 +99,10 @@ msg = {
 	'hu': {
 		'movepages-moving': u'Bot: átmozgatott lap',
 	},
+	# Author: Xelgen
+	'hy': {
+		'movepages-moving': u'Ռոբոտը տեղափոխում է էջը',
+	},
 	# Author: McDutchie
 	'ia': {
 		'movepages-moving': u'Robot: Pagina renominate',
@@ -121,6 +125,10 @@ msg = {
 	},
 	'ja': {
 		'movepages-moving': u'ロボットによる: ページの移動',
+	},
+	# Author: NoiX180
+	'jv': {
+		'movepages-moving': u'Bot: Mindhahaké kaca',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -149,6 +157,10 @@ msg = {
 	# Author: Anakmalaysia
 	'ms': {
 		'movepages-moving': u'Robot: Memindahkah laman',
+	},
+	# Author: Chrisportelli
+	'mt': {
+		'movepages-moving': u'Bot: Il-paġna tmexxiet',
 	},
 	# Author: Nghtwlkr
 	'no': {
@@ -221,6 +233,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'movepages-moving': u'தானியங்கி: பக்கம் நகர்த்தப்பட்டது',
+	},
+	# Author: Veeven
+	'te': {
+		'movepages-moving': u'బాటు: పేజీని తరలించింది',
 	},
 	# Author: AnakngAraw
 	'tl': {

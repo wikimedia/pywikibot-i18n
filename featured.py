@@ -249,6 +249,13 @@ msg = {
 		'featured-good': u'ロボットによる: 良質な記事へのリンク %(page)s',
 		'featured-list': u'ロボットによる: 秀逸な一覧へのリンク %(page)s',
 	},
+	# Author: NoiX180
+	'jv': {
+		'featured-featured': u'Bot: %(page)s artikel pinilih',
+		'featured-former': u'Bot: %(page)s bekas artikel pinilih',
+		'featured-good': u'Bot: %(page)s artikel apik',
+		'featured-list': u'Bot: %(page)s daptar pinilih',
+	},
 	'ka': {
 		'featured-featured': u'ბოტი: რჩეული სტატიის ბმული გვერდისათვის %(page)s',
 	},

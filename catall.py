@@ -124,6 +124,10 @@ msg = {
 	'ja': {
 		'catall-changing': u'ロボットによる: カテゴリ変更',
 	},
+	# Author: NoiX180
+	'jv': {
+		'catall-changing': u'Bot: Nggawé katégori',
+	},
 	'ksh': {
 		'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',
 	},
@@ -221,6 +225,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'catall-changing': u'தானியங்கி: பகுப்புகள் மாற்றப்படுகின்றன',
+	},
+	# Author: Veeven
+	'te': {
+		'catall-changing': u'బాటు: వర్గాలను మార్చింది',
 	},
 	# Author: AnakngAraw
 	'tl': {

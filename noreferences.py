@@ -80,7 +80,7 @@ msg = {
 	},
 	# Author: Pikne
 	'et': {
-		'noreferences-add-tag': u'Robot: lisatud puuduv <references />-märgend',
+		'noreferences-add-tag': u'Robot: lisatud puuduv <references />-silt',
 	},
 	# Author: ZxxZxxZ
 	'fa': {
@@ -146,6 +146,10 @@ msg = {
 	# Author: Shirayuki
 	'ja': {
 		'noreferences-add-tag': u'ロボットによる: <references /> タグの補完',
+	},
+	# Author: NoiX180
+	'jv': {
+		'noreferences-add-tag': u'Bot: Nambahaké tag <references /> sing ilang',
 	},
 	'ko': {
 		'noreferences-add-tag': u'봇: 이전에 없던 <references /> 추가',

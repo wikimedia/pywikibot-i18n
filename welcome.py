@@ -6,6 +6,12 @@ msg = {
 		'welcome-updating': u'بوت: تحديث السجل',
 		'welcome-welcome': u'مرحبا!',
 	},
+	# Author: Naudefj
+	'af': {
+		'welcome-bad_username': u'Robot: voeg \'n gebruikersnaam wat gekontrolleer moet word by',
+		'welcome-updating': u'Robot: werk logboek by',
+		'welcome-welcome': u'Welkom!',
+	},
 	'am': {
 		'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
 		'welcome-updating': u'Bot: Updating log',
@@ -124,8 +130,10 @@ msg = {
 		'welcome-welcome': u'Bienvenido!',
 	},
 	# Author: Pikne
+	# Author: Avjoska
 	'et': {
 		'welcome-updating': u'Robot: logi uuendatud',
+		'welcome-welcome': u'Tere tulemast!',
 	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
@@ -199,6 +207,10 @@ msg = {
 		'welcome-updating': u'Bot: napló aktualizálása',
 		'welcome-welcome': u'Üdvözlet!',
 	},
+	# Author: Xelgen
+	'hy': {
+		'welcome-welcome': u'Բարի՛ գալուստ',
+	},
 	# Author: McDutchie
 	'ia': {
 		'welcome-bad_username': u'Robot: Addition de un nomine de usator que debe esser verificate',
@@ -234,6 +246,12 @@ msg = {
 		'welcome-bad_username': u'ロボットによる: 不適切な利用者名の報告',
 		'welcome-updating': u'ロボットによる: 更新記録',
 		'welcome-welcome': u'ウィキペディア日本語版へようこそ！',
+	},
+	# Author: NoiX180
+	'jv': {
+		'welcome-bad_username': u'Bot: Nambah jeneng panganggo sing kudu ditliti',
+		'welcome-updating': u'Bot: Nganyari log',
+		'welcome-welcome': u'Sugeng rawuh!',
 	},
 	'ka': {
 		'welcome-welcome': u'კეთილი იყოს თქვენი მობრძანება!',
@@ -288,6 +306,11 @@ msg = {
 		'welcome-bad_username': u'Робот: Додава корисничко име што треба да се провери',
 		'welcome-updating': u'Робот: Подновува дневник',
 		'welcome-welcome': u'Добредојдовте!',
+	},
+	# Author: Praveenp
+	'ml': {
+		'welcome-updating': u'യന്ത്രം: രേഖ പുതുക്കുന്നു',
+		'welcome-welcome': u'സ്വാഗതം!',
 	},
 	# Author: Kaajawa
 	'mr': {
@@ -436,12 +459,16 @@ msg = {
 		'welcome-welcome': u'Witej!',
 	},
 	# Author: Aswn
+	# Author: Karthi.dr
 	'ta': {
+		'welcome-bad_username': u'தானியங்கி: பயனர் பெயரைச் சேர்ப்பதை சோதிக்க வேண்டும்.',
 		'welcome-updating': u'தானியங்கி: பதிவேடு புதுப்பிக்கப்படுகிறது',
 		'welcome-welcome': u'வருக ! வணக்கம் !',
 	},
 	# Author: Jprmvnvijay5
+	# Author: Veeven
 	'te': {
+		'welcome-updating': u'బాటు: చిట్టాను తాజాకరించింది',
 		'welcome-welcome': u'రండి',
 	},
 	# Author: AnakngAraw

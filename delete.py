@@ -262,6 +262,14 @@ msg = {
 		'delete-linked-pages': u'ロボットによる: 「%(page)s」からリンクされているページをすべて削除',
 		'delete-referring-pages': u'ロボットによる: 「%(page)s」を参照しているページをすべて削除',
 	},
+	# Author: NoiX180
+	'jv': {
+		'delete-from-category': u'Bot: Mbusak kabèh kaca saka katégori %(page)s',
+		'delete-from-file': u'Bot: Mbusak daptar berkas.',
+		'delete-images': u'Bot: Mbusak kabèh gambar nèng kaca %(page)s',
+		'delete-linked-pages': u'Bot: Mbusak kabèh kaca sing kaubung saka %(page)s',
+		'delete-referring-pages': u'Bot: Mbusak kabèh kaca sing ngarah saka %(page)s',
+	},
 	# Author: Purodha
 	'ksh': {
 		'delete-from-category': u'Bot: Alle Sigge us dä Saachjropp %(page)s wääde fottjeschmeße.',

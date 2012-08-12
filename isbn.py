@@ -161,6 +161,10 @@ msg = {
 	'hu': {
 		'isbn-formatting': u'Bot: ISBN formázása',
 	},
+	# Author: Xelgen
+	'hy': {
+		'isbn-formatting': u'Ռոբոտը ուղղում է ԳՄՍՀի (ISBN) ձևաչափը',
+	},
 	# Author: McDutchie
 	'ia': {
 		'isbn-formatting': u'Robot: Formatation ISBN',
@@ -189,6 +193,10 @@ msg = {
 	# Author: Shirayuki
 	'ja': {
 		'isbn-formatting': u'ロボットによる: ISBN の整形',
+	},
+	# Author: NoiX180
+	'jv': {
+		'isbn-formatting': u'Bot: Mormat ISBN',
 	},
 	# Author: Purodha
 	'ksh': {

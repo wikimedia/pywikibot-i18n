@@ -150,6 +150,11 @@ msg = {
 		'table2wiki-no-warning': u'ロボットによる: 表をHTMLからウィキ文法に更新',
 		'table2wiki-warnings': u'ロボットによる: 表をHTMLからウィキ文法に更新 - 警告 {{PLURAL:count|1|%(count)d}}',
 	},
+	# Author: NoiX180
+	'jv': {
+		'table2wiki-no-warning': u'Boté panganggo: sintaks tabèl dianyari',
+		'table2wiki-warnings': u'Boté panganggo: sintaks tabèl dianyari - {{PLURAL:count|1 pèngetan|%(count)d pèngetan}}!',
+	},
 	'kk': {
 		'table2wiki-no-warning': u'Басқарылмалы бот: Кесте пішімі түзетілді',
 		'table2wiki-warnings': u'Басқарылмалы бот: Кесте пішімі түзетілді - {{PLURAL:count|1|%(count)d}} құлақтандыру!',

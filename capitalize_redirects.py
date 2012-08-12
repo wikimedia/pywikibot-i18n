@@ -145,6 +145,10 @@ msg = {
 	'ja': {
 		'capitalize_redirects-create-redirect': u'ロボットによる: リダイレクト作成 [[%(to)s]]',
 	},
+	# Author: NoiX180
+	'jv': {
+		'capitalize_redirects-create-redirect': u'Bot: Gawé pangalihan nèng [[%(to)s]]',
+	},
 	'ksh': {
 		'capitalize_redirects-create-redirect': u'Bot: oemleidung aanjelaat op [[%(to)s]]',
 	},

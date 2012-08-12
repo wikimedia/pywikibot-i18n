@@ -17,10 +17,12 @@ msg = {
 	'af': {
 		'category-adding': u'Robot: kategorie [[:Category:%(newcat)s|%(newcat)s]] bygevoeg',
 		'category-also-in': u'(ook in %(alsocat)s)',
-		'category-changing': u'Robot: verander %(oldcat)s na $(newcat)s',
+		'category-changing': u'Robot: verander %(oldcat)s na %(newcat)s',
 		'category-listifying': u'Robot: lys van %(fromcat)s (%(num)d bladsye)',
 		'category-removing': u'Robot: verwyder uit %(oldcat)s',
 		'category-replacing': u'Robot: kategorie %(oldcat)s is vervang met %(newcat)s',
+		'category-section-title': u'Bladsygeskiedenis van voormalige %(oldcat)s',
+		'category-version-history': u'Robot: Stoor wysigingsgeskiedenis van voormalige %(oldcat)s',
 		'category-was-disbanded': u'Bot: Kategorie is opgehef',
 		'category-was-moved': u'Robot: kategorie is geskuif na [[:Category:%(newcat)s|%(title)s]]',
 	},
@@ -553,6 +555,7 @@ msg = {
 		'category-adding': u'!રોબોટ: ઉમેરણ category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Amire80
+	# Author: ערן
 	'he': {
 		'category-adding': u'בוט: מוסיף את הקטגוריה [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(גם בקטגוריות %(alsocat)s)',
@@ -560,6 +563,7 @@ msg = {
 		'category-listifying': u'בוט: יוצר רשימה מהקטגוריה %(fromcat)s (%(num)d דפים)',
 		'category-removing': u'בוט: מסיר את הדף מהקטגוריה %(oldcat)s',
 		'category-replacing': u'בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s',
+		'category-version-history': u'בוט: שמירת היסטורית גרסאות של %(oldcat)',
 		'category-was-disbanded': u'בוט: הקטגוריה פורקה',
 		'category-was-moved': u'בוט: הקטגוריה הועברה לשם [[:קטגוריה:%(newcat)s|%(title)s]]',
 	},
@@ -719,6 +723,19 @@ msg = {
 		'category-replacing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-was-disbanded': u'ロボットによる: カテゴリが廃止されています',
 		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)s|%(title)s]]へ移動',
+	},
+	# Author: NoiX180
+	'jv': {
+		'category-adding': u'Bot: Nambah katégori [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(uga nèng %(alsocat)s)',
+		'category-changing': u'Bot: Ngganti %(oldcat)s dadi %(newcat)s',
+		'category-listifying': u'Bot: Ndaptari saka %(fromcat)s ({{PLURAL:%(num)d|1 isi|%(num)d isi}})',
+		'category-removing': u'Bot: Nyingkiraké saka %(oldcat)s',
+		'category-replacing': u'Bot: Ngganti katégori %(oldcat)s karo %(newcat)s',
+		'category-section-title': u'Riwaya kaca saka kaca bekas %(oldcat)s',
+		'category-version-history': u'Bot: Nyimpen riwayat vèrsi saka kaca bekas %(oldcat)s',
+		'category-was-disbanded': u'Bot: Katégori dibubaraké',
+		'category-was-moved': u'Bot: Katégori dipindhahaké nèng [[:Category:%(newcat)s|%(title)s]]',
 	},
 	'ka': {
 		'category-adding': u'ბოტის: დამატება category [[:Category:%(newcat)s|%(newcat)s]]',

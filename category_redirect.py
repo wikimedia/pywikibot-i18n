@@ -9,7 +9,9 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s في %(oldcat)s, وهو تحويل إلى %(newcat)s',
 		'category_redirect-fix-double': u'بوت: إصلاح تحويلة مزدوجة',
 	},
+	# Author: Naudefj
 	'af': {
+		'category_redirect-comment': u'Robot vir onderhoud van kategorie-aansture',
 		'category_redirect-fix-double': u'Robot: dubbele aanstuur reggemaak',
 	},
 	# Author: OsamaK
@@ -388,6 +390,15 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)sは、%(newcat)sへのリダイレクトである%(oldcat)sに入っています',
 		'category_redirect-fix-double': u'ロボットによる: 二重リダイレクト修正',
 	},
+	# Author: NoiX180
+	'jv': {
+		'category_redirect-add-template': u'Bot: Nambahaké témplat pangalihan katégori kanggo diruwat',
+		'category_redirect-change-category': u'Bot: Ganti katégori sing dialihaké [[:%(oldCatLink)s|%(oldCatTitle)s]] dadi [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Bot gatén pangalihan katégori',
+		'category_redirect-edit-request': u'Kaca sing dijaga iki mbutuhaké panganyaran kanggo pranala katégori: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s ana ing %(oldcat)s, yakuwi pangalihan nèng %(newcat)s',
+		'category_redirect-fix-double': u'Bot: Mbeneraké pangalihan dobel',
+	},
 	'ka': {
 		'category_redirect-fix-double': u'რობოტი: ორმაგი გადამისამართების გასწორება',
 	},
@@ -466,6 +477,10 @@ msg = {
 		'category_redirect-edit-request': u'Утврдено е дека на следниве заштитени страници треба да им се подноват категориските врски: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s е во %(oldcat)s, што е пренасочување кон %(newcat)s',
 		'category_redirect-fix-double': u'Робот: Исправка на двојни пренасочувања',
+	},
+	# Author: Praveenp
+	'ml': {
+		'category_redirect-fix-double': u'യന്ത്രം: ഇരട്ട-തിരിച്ചുവിടലുകൾ ശരിയാക്കുന്നു',
 	},
 	# Author: Anakmalaysia
 	'ms': {

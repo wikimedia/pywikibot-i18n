@@ -120,6 +120,10 @@ msg = {
 	'ja': {
 		'djvutext-creating': u'ロボットによる: DjVuから抽出した文章でページを作成',
 	},
+	# Author: NoiX180
+	'jv': {
+		'djvutext-creating': u'Bot: Nggawé kaca saka teks sing dijupuk saka DjVu',
+	},
 	# Author: Purodha
 	'ksh': {
 		'djvutext-creating': u'Bot: Donn en Sigg aanlääje, woh Täx drobb es, dä uss em <i lang=en">DjVu</i> eruß jetrocke wood.',

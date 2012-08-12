@@ -210,6 +210,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Desambiguación asistida por robot: %(from)s - Enlace(s) cambiado(s) a %(to)s',
 		'solve_disambiguation-unknown-page': u'(desconocido)',
 	},
+	# Author: Avjoska
+	'et': {
+		'solve_disambiguation-unknown-page': u'(tundmatu)',
+	},
 	# Author: An13sa
 	'eu': {
 		'solve_disambiguation-unknown-page': u'(ezezaguna)',
@@ -332,6 +336,10 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Bottal végzett egyértelműsítés: %(from)s –> %(to)s',
 		'solve_disambiguation-unknown-page': u'(ismeretlen)',
 	},
+	# Author: Xelgen
+	'hy': {
+		'solve_disambiguation-unknown-page': u'(անհայտ)',
+	},
 	# Author: McDutchie
 	'ia': {
 		'solve_disambiguation-adding-dn-template': u'Disambiguation con robot: %(from)s - Marcate como necessitante le attention de un experto',
@@ -411,6 +419,20 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました',
 		'solve_disambiguation-redirect-resolved': u'ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました',
 		'solve_disambiguation-unknown-page': u'（不明）',
+	},
+	# Author: NoiX180
+	'jv': {
+		'solve_disambiguation-adding-dn-template': u'Disambiguasi mawa pitulungan bot: %(from)s - Ditandhai amarga butuh pagatèné ahli',
+		'solve_disambiguation-links-removed': u'Disambiguasi mawa pitulungan bot: %(from)s - Pranala disingkiraké.',
+		'solve_disambiguation-links-resolved': u'Disambiguasi mawa pitulungan bot: %(from)s - Ngganti pranala dadi %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Disambiguasi mawa pitulungan bot: %(from)s - Ditandhai amarga butuh pagatèné ahli',
+		'solve_disambiguation-redirect-removed': u'Disambiguasi mawa pitulungan bot: %(from)s - Nyingkiraké pranala',
+		'solve_disambiguation-redirect-resolved': u'Disambiguasi mawa pitulungan bot: %(from)s - Ngganti pranala dadi %(to)s',
+		'solve_disambiguation-unknown-page': u'(ora dingertèni)',
+	},
+	# Author: David1010
+	'ka': {
+		'solve_disambiguation-unknown-page': u'(უცნობი)',
 	},
 	'kk': {
 		'solve_disambiguation-links-removed': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).',
@@ -788,6 +810,10 @@ msg = {
 		'solve_disambiguation-redirect-adding-dn-template': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - வல்லுநர் தேவை என்று குறிக்கப்பெற்றது',
 		'solve_disambiguation-redirect-removed': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) நீக்கப்பட்டன',
 		'solve_disambiguation-unknown-page': u'(அறியாதது)',
+	},
+	# Author: Veeven
+	'te': {
+		'solve_disambiguation-unknown-page': u'(తెలియదు)',
 	},
 	# Author: AnakngAraw
 	'tl': {

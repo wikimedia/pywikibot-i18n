@@ -188,6 +188,10 @@ msg = {
 	'ja': {
 		'basic-changing': u'ロボットによる: 編集',
 	},
+	# Author: NoiX180
+	'jv': {
+		'basic-changing': u'Bot: Ngganti ...',
+	},
 	# Author: វ័ណថារិទ្ធ
 	'km': {
 		'basic-changing': u'Bot: កំពុងផ្លាស់ប្ដូរ ...',

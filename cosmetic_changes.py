@@ -180,6 +180,10 @@ msg = {
 		'cosmetic_changes-append': u'; kozmetikai változtatások',
 		'cosmetic_changes-standalone': u'Bot: kozmetikai változtatások',
 	},
+	# Author: Xelgen
+	'hy': {
+		'cosmetic_changes-append': u'; կոսմետիկ փոփոխություններ',
+	},
 	'ia': {
 		'cosmetic_changes-append': u'; cambios cosmetic',
 		'cosmetic_changes-standalone': u'Robot: Cambios cosmetic',
@@ -216,6 +220,11 @@ msg = {
 	'ja': {
 		'cosmetic_changes-append': u'; 細部の編集',
 		'cosmetic_changes-standalone': u'ロボットによる: 細部の編集',
+	},
+	# Author: NoiX180
+	'jv': {
+		'cosmetic_changes-append': u'; panggantèn kosmètik',
+		'cosmetic_changes-standalone': u'Bot: Panggantèn kosmètik',
 	},
 	'ko': {
 		'cosmetic_changes-append': u'; 예쁘게 바꿈',
@@ -266,6 +275,11 @@ msg = {
 	'mk': {
 		'cosmetic_changes-append': u'; козметички промени',
 		'cosmetic_changes-standalone': u'Бот: козметички промени',
+	},
+	# Author: Praveenp
+	'ml': {
+		'cosmetic_changes-append': u'; സൗന്ദര്യമാറ്റങ്ങൾ',
+		'cosmetic_changes-standalone': u'യന്ത്രം: സൗന്ദര്യമാറ്റങ്ങൾ',
 	},
 	'ms': {
 		'cosmetic_changes-append': u'; perubahan kosmetik',

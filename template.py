@@ -182,6 +182,12 @@ msg = {
 		'template-removing': u'ロボットによる: {{PLURAL:%(num)d|テンプレート}}の除去: %(list)s',
 		'template-substituting': u'ロボットによる: {{PLURAL:%(num)d|テンプレート}}の展開: %(list)s',
 	},
+	# Author: NoiX180
+	'jv': {
+		'template-changing': u'Bot: Ngowah {{PLURAL:%(num)d|témplat|témplat}}: %(list)s',
+		'template-removing': u'Bot: Nyingkiraké {{PLURAL:%(num)d|témplat|témplat}}: %(list)s',
+		'template-substituting': u'Bot: Ngganti {{PLURAL:%(num)d|témplat|témplat}}: %(list)s',
+	},
 	'kk': {
 		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',
 		'template-removing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} аластатылды: %(list)s',
@@ -315,6 +321,10 @@ msg = {
 	'ta': {
 		'template-changing': u'தானியங்கி:{{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} மாற்றப்பட்டது: %(list)s',
 		'template-removing': u'தானியங்கி: {{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} நீக்கப்பட்டது: %(list)s',
+	},
+	# Author: Veeven
+	'te': {
+		'template-removing': u'బాటు: {{PLURAL:%(num)d|మూసను|మూసలను}} తొలగించింది: %(list)s',
 	},
 	# Author: AnakngAraw
 	'tl': {

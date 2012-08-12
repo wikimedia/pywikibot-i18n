@@ -4,6 +4,10 @@ msg = {
 	'aeb': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
 	},
+	# Author: Naudefj
+	'af': {
+		'ndashredir-create': u'Robot: aanstuur met afbreekteken na [[%(title)s]] geskep',
+	},
 	# Author: DRIHEM
 	'ar': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
@@ -68,6 +72,10 @@ msg = {
 	'als': {
 		'ndashredir-create': u'Bot: E Wyterleitig mit Bindestrich uf [[%(title)s]] aagleit',
 	},
+	# Author: ערן
+	'he': {
+		'ndashredir-create': u'בוט: יצירת הפניה עם מיקוף ל[[%(title)s]]',
+	},
 	# Author: Bináris
 	'hu': {
 		'ndashredir-create': u'Kiskötőjeles átirányítás létrehozása a(z) [[%(title)s]] lapra (automatikus botszerkesztés)',
@@ -87,6 +95,10 @@ msg = {
 	# Author: Ximo17
 	'it': {
 		'ndashredir-create': u'Bot: Creazione di un reindirizzo con trattino a [[%(title)s]]',
+	},
+	# Author: NoiX180
+	'jv': {
+		'ndashredir-create': u'Bot: Nggawé pangalihan mawa tandha pangubung nèng [[%(title)s]]',
 	},
 	# Author: Purodha
 	'ksh': {

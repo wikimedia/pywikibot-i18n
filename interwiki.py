@@ -11,13 +11,14 @@ msg = {
 		'interwiki-removing': u'روبوت إزالة: %(removing)s',
 		'interwiki-removing-modifying': u'روبوت إزالة: %(removing)s تعديل: %(modifying)s',
 	},
+	# Author: Naudefj
 	'af': {
 		'interwiki-adding': u'robot Bygevoeg: %(adding)s',
 		'interwiki-adding-modifying': u'robot Bygevoeg: %(adding)s Verander: %(modifying)s',
 		'interwiki-adding-removing': u'robot Bygevoeg: %(adding)s Verwyder: %(removing)s',
 		'interwiki-adding-removing-modifying': u'robot Bygevoeg: %(adding)s Verwyder: %(removing)s Verander: %(modifying)s',
 		'interwiki-modifying': u'robot Verander: %(modifying)s',
-		'interwiki-modifying-from': u'Robot: verander %(from)s na $(modifying)s',
+		'interwiki-modifying-from': u'Robot: verander %(from)s na %(modifying)s',
 		'interwiki-removing': u'robot Verwyder: %(removing)s',
 		'interwiki-removing-modifying': u'robot Verwyder: %(removing)s Verander: %(modifying)s',
 	},
@@ -748,6 +749,17 @@ msg = {
 		'interwiki-modifying-from': u'ロボットによる: カテゴリ変更 %(from)s→%(modifying)s',
 		'interwiki-removing': u'ロボットによる 除去: %(removing)s',
 		'interwiki-removing-modifying': u'ロボットによる 除去: %(removing)s 変更: %(modifying)s',
+	},
+	# Author: NoiX180
+	'jv': {
+		'interwiki-adding': u'Bot: Nambahaké %(adding)s',
+		'interwiki-adding-modifying': u'Bot: Nambahaké %(adding)s; ngowahi %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Nambahaké %(adding)s; nyingkiraké %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Nambahaké %(adding)s; nyingkiraké %(removing)s; ngowahi %(modifying)s',
+		'interwiki-modifying': u'Bot: Ngowahi %(modifying)s',
+		'interwiki-modifying-from': u'Bot: Ngowah %(from)s dadi %(modifying)s',
+		'interwiki-removing': u'Bot: Nyingkiraké %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Nyingkiraké %(removing)s; ngowah %(modifying)s',
 	},
 	'ka': {
 		'interwiki-adding': u'ბოტის დამატება: %(adding)s',

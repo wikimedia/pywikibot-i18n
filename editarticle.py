@@ -143,6 +143,10 @@ msg = {
 	'ja': {
 		'editarticle-edit': u'手動編集: %(description)s',
 	},
+	# Author: NoiX180
+	'jv': {
+		'editarticle-edit': u'Sunting manual mawa bot: %(description)s',
+	},
 	# Author: Purodha
 	'ksh': {
 		'editarticle-edit': u'Vun Hand mem Botprojramm jeändert: %(description)s',
