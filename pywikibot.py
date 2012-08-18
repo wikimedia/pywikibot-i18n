@@ -27,4 +27,14 @@ msg = {
 		'pywikibot-enter-page-processing': u'Question displayed to the bot owner which page should be processed.',
 		'pywikibot-enter-xml-filename': u'Message displayed to the bot owner to enter the XML dump\'s filename.',
 	},
+	# Author: Alex S.H. Lin
+	'zh': {
+		'pywikibot-enter-category-name': u'請輸入目錄名稱：',
+		'pywikibot-enter-file-links-processing': u'需要處理連結頁面的圖片頁面嗎？',
+		'pywikibot-enter-finished-browser': u'請在瀏覽器作業完成後按下Enter鍵。',
+		'pywikibot-enter-namespace-number': u'請輸入名稱空間號碼：',
+		'pywikibot-enter-new-text': u'請輸入新文字：',
+		'pywikibot-enter-page-processing': u'哪個頁面需要處理？',
+		'pywikibot-enter-xml-filename': u'請輸入XML Dump檔案名稱：',
+	},
 }
