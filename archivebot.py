@@ -153,6 +153,14 @@ msg = {
 		'archivebot-older-than': u'older than',
 		'archivebot-page-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
 	},
+	# Author: Remux
+	'eo': {
+		'archivebot-archive-full': u'(Plena Arkivo)',
+		'archivebot-archive-summary': u'Roboto: Arkivante %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} ekde [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'Malnova ol',
+		'archivebot-page-summary': u'Roboto: Arkivante %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.',
+	},
 	# Author: Vivaelcelta
 	# Author: Armando-Martin
 	# Author: Xqt
@@ -239,10 +247,16 @@ msg = {
 	# Author: YaronSh
 	'he': {
 		'archivebot-archive-full': u'ארכיון מלא',
-		'archivebot-archive-summary': u'ארכוב %(count)d שיחות מ[[%(from)s]]',
+		'archivebot-archive-summary': u'רובוט: ארכוב %(count)d שיחות מ[[%(from)s]]',
 		'archivebot-archiveheader': u'{{ארכיון דיונים}}',
 		'archivebot-older-than': u'ישן מ:',
 		'archivebot-page-summary': u'ארכוב {{PLURAL:%(count)d|שיחה אחת|%(count)d שיחות}} (%(why)s) אל %(archives)s.',
+	},
+	# Author: Ex13
+	'hr': {
+		'archivebot-archive-full': u'(ARHIV JE PUN)',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'starije od',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -369,6 +383,11 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'aia hlui zâwk',
 	},
+	# Author: Papuass
+	'lv': {
+		'archivebot-archive-full': u'(ARHĪVS PILNS)',
+		'archivebot-older-than': u'vecāks par',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'archivebot-archive-full': u'(ARSIP KOMPLIT)',
@@ -426,6 +445,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'ouwer as',
 		'archivebot-page-summary': u'Bot: %(count)d {{PLURAL:%(count)d|onderwarp|onderwarpen}} verplaotst naor t archief %(archives)s (%(why)s).',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'archivebot-archive-full': u'(पूरा अभिलेख)',
+		'archivebot-archive-summary': u'रोबोट : अभिलेखिकरण गर्धै  %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}  [[%(from)s]]बाट.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'भन्दा पुरानो',
+		'archivebot-page-summary': u'रोबोट: अभिलेख %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s) to %(archives)s',
 	},
 	# Author: SPQRobin
 	# Author: Siebrand

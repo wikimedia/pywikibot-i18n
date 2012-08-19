@@ -492,13 +492,22 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'הודעת רובוט',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'דיון חדש',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'הודעה',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s – [%(history_link)s עריכה אחרונה] (%(page_size)s בתים) על־ידי %(user)s ב־(%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s כל הדיונים הסתיימו (המעקב פסק) - עריכה אחרונה של %(user)s (ב־%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nתקציר יוצר מתוך וב־: %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(לא נמצא עורך אנושי)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - עריכה אחרונה של [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d ב%B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* הדעת אזהרה של רובוט: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'נוסף תקציר דיון: %(num)i רשומות',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'תקציר הדיון התווסף לאחר שעבר ניקיון: %(num)i רשומות',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'רובוט',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'תקציר הדיון עודכן: %(num)i ערכים ב־%(page)s עמודים',
+	},
+	# Author: Ex13
+	'hr': {
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'PORUKA BOTA',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -753,6 +762,9 @@ msg = {
 	},
 	# Author: Papuass
 	'lv': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusija izmainīta',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusija slēgta',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Jauna diskusija',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robots',
 	},
 	# Author: StefanusRA
@@ -877,6 +889,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Overlegsamenvatting bie-ewörken: %(num)i regels in pagina %(page)s',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'रोबोट सन्देश',
+	},
 	# Author: SPQRobin
 	# Author: Siebrand
 	# Author: DrTrigon
@@ -902,6 +918,11 @@ msg = {
 	# Author: Boulaur
 	'oc': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robòt',
+	},
+	# Author: Shisir 1945
+	'or': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'ଆଲୋଚନା ବଦଳିଲା',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'ଆଲୋଚନା ବନ୍ଦହେଲା',
 	},
 	# Author: Xqt
 	'pdc': {
@@ -1075,6 +1096,8 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'සාකච්ඡාව හමාරයි',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'නව සාකච්ඡාව',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'නිවේදනය',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) by %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'රොබෝ',
 	},
 	# Author: Wizzard

@@ -62,6 +62,10 @@ msg = {
 		'table2wiki-no-warning': u'Karberê qontrolkarê boti: imlay tabloy kerd newi',
 		'table2wiki-warnings': u'Botê kontrolkarê karberan: imlay tabloy kerd newi {{PLURAL:count|1|%(count)d}}',
 	},
+	# Author: Glavkos
+	'el': {
+		'table2wiki-no-warning': u'Ρομπότ ελεγχόμενο από το χρήστη: Ο πίνακας σύνταξης ενημερώθηκε',
+	},
 	# Author: Xqt
 	'en': {
 		'table2wiki-no-warning': u'User-controlled robot: Table syntax updated',

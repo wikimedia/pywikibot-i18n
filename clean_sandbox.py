@@ -200,6 +200,10 @@ msg = {
 	'nn': {
 		'clean_sandbox-cleaned': u'robot: automatisk rydjing',
 	},
+	# Author: Shisir 1945
+	'or': {
+		'clean_sandbox-cleaned': u'ରୋବଟ୍‌: ସ୍ୱଂୟ ସଫା ହେଲା',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'clean_sandbox-cleaned': u'Robot oczyścił automatycznie',

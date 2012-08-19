@@ -23,8 +23,8 @@ msg = {
 		'redirect-broken-redirect-template': u'{{شطب|تحويلة مكسورة}}',
 		'redirect-fix-double': u'بوت: تصليح تحويلة مزدوجة إلى %(to)s',
 		'redirect-fix-loop': u'روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
-		'redirect-remove-broken': u'تحويلة إلى صفحة محذوفة أو غير موجودة',
-		'redirect-remove-loop': u'هدف التحويلة يصنع عقدة تحويل',
+		'redirect-remove-broken': u'روبوت: تحويلة إلى صفحة محذوفة أو غير موجودة',
+		'redirect-remove-loop': u'روبوت: هدف التحويلة يصنع عقدة تحويل',
 	},
 	# Author: Jaminianurag
 	'as': {
@@ -122,12 +122,13 @@ msg = {
 	# Author: Dontlietome7
 	# Author: Spiffyk
 	# Author: Jezevec
+	# Author: Vks
 	'cs': {
 		'redirect-broken-redirect-template': u'{{smazat|přerušené přesměrování}}',
 		'redirect-fix-double': u'Robot: Opravuji dvojité přesměrování na %(to)s',
 		'redirect-fix-loop': u'Robot: Oprava smyčky přesměrování na %(to)s',
-		'redirect-remove-broken': u'Přerušené přesměrování',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cíl [[Wikipedia:Redirect|přesměrování]] target tvoří přesměrovací smyčku',
+		'redirect-remove-broken': u'Robot: Přerušené přesměrování',
+		'redirect-remove-loop': u'Robot: Cíl přesměrování tvoří smyčku',
 	},
 	# Author: Xxglennxx
 	# Author: Lloffiwr
@@ -167,8 +168,8 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Ρομπότ: Διόρθωση διπλής ανακατεύθυνσης προς %(to)s',
 		'redirect-fix-loop': u'Ρομπότ: Διόρθωση βρόχου ανακατεύθυνσης στο %(to)s',
-		'redirect-remove-broken': u'[[Βικιπαίδεια:Ανακατεύθυνση|Ανακατεύθυνση]] σε μια [[Βικιπαίδεια:Γρήγορη διαγραφή σελίδων#Ανακατευθύνσεις|σελίδα που διαγράφηκε ή δεν υπάρχει]].',
-		'redirect-remove-loop': u'Ο στόχος [[Βικιπαίδεια:Ανακατεύθυνση|ανακατεύθυνσης]] προκαλεί [[Βικιπαίδεια:Γρήγορη διαγραφή σελίδων#Ανακατευθύνσεις|βρόχο ανακατεύθυνσης]]',
+		'redirect-remove-broken': u'Ρομπότ: Ανακατεύθυνση σε μια σελίδα διαγεγραμμένη  ή ανύπαρκτη',
+		'redirect-remove-loop': u'Robot: Ανακατεύθυνση στόχου σχηματίζει έναν βρόγχο ανακατεύθυνσης',
 	},
 	# Author: Xqt
 	'en': {
@@ -335,8 +336,8 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Memperbaiki pengalihan ganda ke %(to)s',
 		'redirect-fix-loop': u'Robot: Memperbaiki pengalihan ganda ke %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Pengalihan]] ke halaman yang dihapus atau tidak ada',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Target [[Wikipedia:Redirect|pengalihan]] menghasilkan pengalihan siklik',
+		'redirect-remove-broken': u'Robot: Pengalihan ke halaman yang dihapus atau tidak ada',
+		'redirect-remove-loop': u'Robot: Target pengalihan menghasilkan pengalihan siklik',
 	},
 	# Author: Renan
 	'ie': {
@@ -575,8 +576,8 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Trigomiro: a coregg ridiression dobia a %(to)s',
 		'redirect-fix-loop': u'Trigomiro: Coression dël sicl ëd ridiression a %(to)s',
-		'redirect-remove-broken': u'Trigomiro: Rediression a na pàgina scancelà o ch\'a esist nen',
-		'redirect-remove-loop': u'Trigomiro: La destinassion ëd la rediression a forma un sicl ëd ridiression',
+		'redirect-remove-broken': u'Trigomiro: Ridiression a na pàgina scancelà o ch\'a esist nen',
+		'redirect-remove-loop': u'Trigomiro: La destinassion ëd la ridiression a forma un sicl ëd ridiression',
 	},
 	# Author: Hamilton Abreu
 	# Author: Xqt
@@ -639,6 +640,10 @@ msg = {
 		'redirect-fix-double': u'Bot: Fixin\' dooble reguidal tae %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deletit or non-existent page',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
+	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Wizzard
 	# Author: Teslaton

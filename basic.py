@@ -283,6 +283,10 @@ msg = {
 	'nds-nl': {
 		'basic-changing': u'Bot: wieziging ...',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'basic-changing': u'रोबोट : परिवर्तन गर्दै ...',
+	},
 	# Author: Siebrand
 	'nl': {
 		'basic-changing': u'Robot: bezig met wijzigen...',

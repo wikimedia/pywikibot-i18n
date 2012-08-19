@@ -95,6 +95,10 @@ msg = {
 	'he': {
 		'movepages-moving': u'בוט: מעביר דף',
 	},
+	# Author: Ex13
+	'hr': {
+		'movepages-moving': u'Bot: premještena stranica',
+	},
 	# Author: Dj
 	'hu': {
 		'movepages-moving': u'Bot: átmozgatott lap',
@@ -142,6 +146,10 @@ msg = {
 	'li': {
 		'movepages-moving': u'Bot: verplaats pagina',
 	},
+	# Author: Papuass
+	'lv': {
+		'movepages-moving': u'Robots: Pārvietoja lapu',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'movepages-moving': u'Bot: Mindahna kaca',
@@ -173,8 +181,9 @@ msg = {
 	'nl': {
 		'movepages-moving': u'Robot: paginanaam gewijzigd',
 	},
+	# Author: Njardarlogar
 	'nn': {
-		'movepages-moving': u'robot: flytta sida',
+		'movepages-moving': u'robot: flytte sida',
 	},
 	# Author: Xqt
 	'pdc': {

@@ -117,6 +117,12 @@ msg = {
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
 	},
+	# Author: Remux
+	'eo': {
+		'delete-from-category': u'Roboto: Forigante ĉiujn paĝojn de la kategorio %(page)s',
+		'delete-from-file': u'Roboto: Forigante liston da dosieroj',
+		'delete-images': u'Roboto: Forigante ĉiujn bildojn ĉe la paĝo %(page)s',
+	},
 	# Author: Vivaelcelta
 	'es': {
 		'delete-from-category': u'Bot: Elimino todas las páginas de la categoría "%(page)s"',
@@ -293,6 +299,10 @@ msg = {
 		'delete-linked-pages': u'robotas: Trinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s',
 		'delete-referring-pages': u'robotas: Trinami visi puslapiai, rodantys į %(page)s',
 	},
+	# Author: Papuass
+	'lv': {
+		'delete-from-file': u'Robots: Dzēš failu sarakstu.',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'delete-from-category': u'Bot: Mbusek kabeh kaca sekang kategori %(page)s',
@@ -355,6 +365,14 @@ msg = {
 		'delete-from-category': u'robot: sletta alle sidene i kategorien %(page)s',
 		'delete-from-file': u'robot: sletta ei liste med filer',
 		'delete-images': u'robot: sletta alle bileta på sida %(page)s',
+	},
+	# Author: Shisir 1945
+	'or': {
+		'delete-from-category': u'ରୋବଟ୍‌: ବର୍ଗ %(page)s ର ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି',
+		'delete-from-file': u'ରୋବଟ୍‌: ଗୋଟିଏ ଫାଇଲ୍‌ ତାଲିକା କଟା ହେଉଛି',
+		'delete-images': u'ରୋବଟ୍‌: %(page)s ର ସବୁ ଛବି କଟା ହେଉଛି',
+		'delete-linked-pages': u'ରୋବଟ୍‌: %(page)s ସହ ସଂଯୁକ୍ତ ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି',
+		'delete-referring-pages': u'ରୋବଟ୍‌: %(page)s ରୁ ଉଦ୍ଧୃତ ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି',
 	},
 	# Author: Sp5uhe
 	'pl': {

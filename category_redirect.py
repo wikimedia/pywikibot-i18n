@@ -441,6 +441,10 @@ msg = {
 	'lt': {
 		'category_redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas',
 	},
+	# Author: Papuass
+	'lv': {
+		'category_redirect-fix-double': u'Robots: Labo dubultu pāradresāciju',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'category_redirect-add-template': u'Bot: Nambahna cithakan pemeliharaan pengalihan kategori',

@@ -58,6 +58,10 @@ msg = {
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
 	},
+	# Author: Remux
+	'eo': {
+		'catall-changing': u'Roboto: Ŝanĝante kategoriojn',
+	},
 	# Author: Armando-Martin
 	# Author: Xqt
 	'es': {
@@ -142,6 +146,10 @@ msg = {
 	'lt': {
 		'catall-changing': u'robotas: Keičiamos kategorijos',
 	},
+	# Author: Papuass
+	'lv': {
+		'catall-changing': u'Robots: Maina kategorijas',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'catall-changing': u'Bot: Ngowahi kategori',
@@ -161,6 +169,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'catall-changing': u'Bot: wieziging van kategorieën',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'catall-changing': u'रोबोट : श्रेणीहरु बदल्दै',
 	},
 	# Author: Siebrand
 	'nl': {

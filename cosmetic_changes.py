@@ -104,6 +104,11 @@ msg = {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
 	},
+	# Author: Remux
+	'eo': {
+		'cosmetic_changes-append': u'; kosmetikaj ŝanĝoj',
+		'cosmetic_changes-standalone': u'Roboto: Kosmetikaj ŝanĝoj',
+	},
 	# Author: Xqt
 	'es': {
 		'cosmetic_changes-append': u'; cambios triviales',
@@ -313,6 +318,11 @@ msg = {
 	'nn': {
 		'cosmetic_changes-append': u'; kosmetiske endringar',
 		'cosmetic_changes-standalone': u'robot: kosmetiske endringar',
+	},
+	# Author: Shisir 1945
+	'or': {
+		'cosmetic_changes-append': u'; ପ୍ରସାଧନ ବଦଳ',
+		'cosmetic_changes-standalone': u'ରୋବଟ୍‌: ପ୍ରସାଧନ ବଦଳ',
 	},
 	'pdc': {
 		'cosmetic_changes-append': u'; gleenere Enneringe',

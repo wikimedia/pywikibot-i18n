@@ -270,6 +270,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Bestand]] is verplaatst naar [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Dit bestand staat nu op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Shisir 1945
+	'or': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] ଗଲା [[:commons:File:%(commonsfile)s|commons]] କୁ',
+		'commons-file-now-available': u'ଫାଇଲ୍‌ ଏଠାରେ ଉପଲବ୍ଧ [[:commons:File:%(commonsfile)s|Wikimedia Commons]]',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Plik]] został przeniesiony do [[:commons:File:%(commonsfile)s|commons]].',

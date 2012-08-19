@@ -109,11 +109,12 @@ msg = {
 		'featured-featured': u'Bot: %(page)s jo wuběrny nastawk',
 	},
 	# Author: Geraki
+	# Author: Glavkos
 	'el': {
 		'featured-featured': u'Ρομπότ: το %(page)s είναι αξιόλογο άρθρο',
 		'featured-former': u'Ρομπότ: το %(page)s είναι πρώην αξιόλογο άρθρο',
 		'featured-good': u'Ρομπότ: το %(page)s είναι καλό άρθρο',
-		'featured-list': u'Ρομπότ: το %(page)s είναι ένας αξιόλογος κατάλογος',
+		'featured-list': u'Ρομπότ: το %(page)s είναι ένας κατάλογος αξιόλογων',
 	},
 	'en': {
 		'featured-featured': u'Robot: %(page)s is a featured article',
@@ -336,6 +337,13 @@ msg = {
 	},
 	'nv': {
 		'featured-featured': u'Naaltsoos %(page)s kʼad nizhónígo ályaa',
+	},
+	# Author: Shisir 1945
+	'or': {
+		'featured-featured': u'ରୋବଟ୍‌: %(page)s ହେଉଛି ଗୋଟିଏ ବିଶେଷ ଲେଖା',
+		'featured-former': u'ରୋବଟ୍‌: %(page)s ହେଉଛି ଗୋଟିଏ ପୁର୍ବତନ ବିଶେଷ ଲେଖା',
+		'featured-good': u'ରୋବଟ୍‌: %(page)s ହେଉଛି ଗୋଟିଏ ଭଲ ଲେଖା',
+		'featured-list': u'ରୋବଟ୍‌: %(page)s ହେଉଛି ଏକ ବିଶେଷ ତାଲିକା',
 	},
 	# Author: Sp5uhe
 	'pl': {

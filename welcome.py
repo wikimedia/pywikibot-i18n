@@ -196,6 +196,11 @@ msg = {
 		'welcome-updating': u'בוט: עדכון יומן',
 		'welcome-welcome': u'ברוך הבא!',
 	},
+	# Author: Ex13
+	'hr': {
+		'welcome-updating': u'Bot: ažuriranje zapisnika',
+		'welcome-welcome': u'Dobrodošli!',
+	},
 	# Author: Michawiki
 	'hsb': {
 		'welcome-welcome': u'Witaj!',
@@ -294,6 +299,10 @@ msg = {
 		'welcome-updating': u'Khawlmi: Chanchin siamthat',
 		'welcome-welcome': u'Kan lo lawm a che!',
 	},
+	# Author: Papuass
+	'lv': {
+		'welcome-welcome': u'Laipni lūdzam!',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'welcome-bad_username': u'Bot:Nambahna jeneng panganggo sing perlu dipriksa',
@@ -353,6 +362,10 @@ msg = {
 	# Author: Boulaur
 	'oc': {
 		'welcome-welcome': u'Benvenguda!',
+	},
+	# Author: Shisir 1945
+	'or': {
+		'welcome-welcome': u'ସ୍ଵାଗତ!',
 	},
 	'pdc': {
 		'welcome-bad_username': u'Bot: Yuusernaame zum iwwerpriefe',

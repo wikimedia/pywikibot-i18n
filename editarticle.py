@@ -193,6 +193,10 @@ msg = {
 	'nl': {
 		'editarticle-edit': u'Handmatige bewerking met robot: %(description)s',
 	},
+	# Author: Shisir 1945
+	'or': {
+		'editarticle-edit': u'ରୋବଟ୍‌ ସହିତ ହସ୍ତକୃତ ସମ୍ପାଦନା: %(description)s',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'editarticle-edit': u'Ręczna zmiana przy pomocy robota – %(description)s',

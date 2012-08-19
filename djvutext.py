@@ -47,6 +47,10 @@ msg = {
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},
+	# Author: Remux
+	'eo': {
+		'djvutext-creating': u'Roboto: Kreante paĝon kun la teksto ekstraktita de DjVu',
+	},
 	# Author: Armando-Martin
 	# Author: Xqt
 	'es': {
@@ -159,6 +163,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'djvutext-creating': u'Robot: pagina aangemaakt met tekst uit een DjVu-bestand',
+	},
+	# Author: Shisir 1945
+	'or': {
+		'djvutext-creating': u'ରୋବଟ୍‌: DjVu ରୁ ଆସିଥିବା ପାଠ୍ୟରୁ ପୃଷ୍ଟା ତିଆରି ହେଉଛି',
 	},
 	# Author: Mikołka
 	'pl': {

@@ -563,7 +563,8 @@ msg = {
 		'category-listifying': u'בוט: יוצר רשימה מהקטגוריה %(fromcat)s (%(num)d דפים)',
 		'category-removing': u'בוט: מסיר את הדף מהקטגוריה %(oldcat)s',
 		'category-replacing': u'בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s',
-		'category-version-history': u'בוט: שמירת היסטורית גרסאות של %(oldcat)',
+		'category-section-title': u'גרסאות של %(oldcat)s הקודמת',
+		'category-version-history': u'רובוט: שמירת היסטוריית גרסאות של %(oldcat)s הקודמת',
 		'category-was-disbanded': u'בוט: הקטגוריה פורקה',
 		'category-was-moved': u'בוט: הקטגוריה הועברה לשם [[:קטגוריה:%(newcat)s|%(title)s]]',
 	},
@@ -575,7 +576,7 @@ msg = {
 	'hr': {
 		'category-adding': u'robot: Dodaje category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(također u %(alsocat)s)',
-		'category-changing': u'Bot: mijenja %(oldcat)s',
+		'category-changing': u'Bot: mijenja %(oldcat)s u %(newcat)s',
 		'category-listifying': u'Bot: ispisuje iz %(fromcat)s (%(num)d stavki)',
 		'category-removing': u'Bot: uklanja iz %(oldcat)s',
 		'category-replacing': u'Bot: Mijenja kategoriju %(oldcat)s s %(newcat)s',

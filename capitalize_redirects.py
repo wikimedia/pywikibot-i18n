@@ -78,6 +78,10 @@ msg = {
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
 	},
+	# Author: Remux
+	'eo': {
+		'capitalize_redirects-create-redirect': u'Roboto: Kreante redirektilo al [[%(to)s]]',
+	},
 	# Author: Vivaelcelta
 	'es': {
 		'capitalize_redirects-create-redirect': u'Bot: Creo una redirección hacia "[[%(to)s]]"',
@@ -187,6 +191,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'capitalize_redirects-create-redirect': u'Bot: deurverwiezing emaakt naor [[%(to)s]]',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'capitalize_redirects-create-redirect': u'रोबोट: [[%(to)s]]मा अनुप्रेषण गर्दै',
 	},
 	# Author: Siebrand
 	'nl': {

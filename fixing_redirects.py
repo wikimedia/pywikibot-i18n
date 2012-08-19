@@ -58,6 +58,10 @@ msg = {
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
 	},
+	# Author: Remux
+	'eo': {
+		'fixing_redirects-fixing': u'Boto: Riparante redirektilojn',
+	},
 	# Author: Armando-Martin
 	'es': {
 		'fixing_redirects-fixing': u'Bot: Arreglando redirecciones',
@@ -99,6 +103,10 @@ msg = {
 	},
 	'he': {
 		'fixing_redirects-fixing': u'בוט: מתקן הפניות',
+	},
+	# Author: Ex13
+	'hr': {
+		'fixing_redirects-fixing': u'Bot: popravljanje preusmjeravanja',
 	},
 	# Author: Dj
 	'hu': {
@@ -147,6 +155,10 @@ msg = {
 	# Author: Ooswesthoesbes
 	'li': {
 		'fixing_redirects-fixing': u'Bot: fix redireks',
+	},
+	# Author: Papuass
+	'lv': {
+		'fixing_redirects-fixing': u'Robots: Labo pāradresācijas',
 	},
 	# Author: StefanusRA
 	'map-bms': {
