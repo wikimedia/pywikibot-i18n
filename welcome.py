@@ -135,6 +135,10 @@ msg = {
 		'welcome-updating': u'Robot: logi uuendatud',
 		'welcome-welcome': u'Tere tulemast!',
 	},
+	# Author: An13sa
+	'eu': {
+		'welcome-welcome': u'Ongi etorri!',
+	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
 	'fa': {

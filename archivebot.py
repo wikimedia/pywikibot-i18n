@@ -87,8 +87,10 @@ msg = {
 		'archivebot-page-summary': u'Robot: Arxivant %(count)d fils de discussió (%(why)s) a %(archives)s.',
 	},
 	# Author: Asoxor
+	# Author: Muhammed taha
 	'ckb': {
 		'archivebot-archive-full': u'(ئەرشیڤ پڕە)',
+		'archivebot-archiveheader': u'{{ئەرشیڤی وتووێژ}}',
 		'archivebot-older-than': u'کۆنتر لە',
 		'archivebot-page-summary': u'ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s.',
 	},

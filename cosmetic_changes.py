@@ -471,10 +471,10 @@ msg = {
 		'cosmetic_changes-append': u'; קאסמעטישע ענדערונגען',
 		'cosmetic_changes-standalone': u'באט: קאסמעטישע ענדערונגען',
 	},
-	# Author: Yfdyh000
+	# Author: Bencmq
 	'zh': {
-		'cosmetic_changes-append': u';整洁的变更',
-		'cosmetic_changes-standalone': u'机器人：整洁的变更',
+		'cosmetic_changes-append': u';源码清理',
+		'cosmetic_changes-standalone': u'机器人：源码清理',
 	},
 	# Author: Breawycker
 	# Author: Justincheng12345

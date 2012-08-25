@@ -318,6 +318,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Uus arutelu',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 	},
+	# Author: Unai Fdz. de Betoño
+	'eu': {
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Jakinarazpena',
+	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
 	# Author: Reza1615
@@ -1374,12 +1378,13 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'באט',
 	},
 	# Author: Anakmalaysia
+	# Author: Bencmq
 	# Author: Linforest
 	# Author: Yfdyh000
 	'zh': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'替换%(tags)s标签',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'讨论改变',
-		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'关闭的讨论',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'讨论关闭',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'机器人的消息',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'新讨论',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'通知',
