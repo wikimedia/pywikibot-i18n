@@ -97,8 +97,9 @@ msg = {
 	},
 	# Author: Dferg
 	# Author: Xqt
+	# Author: Invadinado
 	'es': {
-		'isbn-formatting': u'Bot: dando formato al ISBN',
+		'isbn-formatting': u'Bot: Estandarizando ISBN',
 	},
 	# Author: Pikne
 	'et': {

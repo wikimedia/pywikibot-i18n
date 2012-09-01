@@ -199,9 +199,10 @@ msg = {
 	},
 	# Author: Dferg
 	# Author: Xqt
+	# Author: Invadinado
 	'es': {
-		'category_redirect-add-template': u'Bot: añadiendo plantilla de categoría redirigida para mantenimiento',
-		'category_redirect-change-category': u'Bot: cambiando categoría redirigida de [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Bot: Añadiendo plantilla de categoría redirigida para mantenimiento',
+		'category_redirect-change-category': u'Bot: Modificando categoría redirigida de «[[:%(oldCatLink)s|%(oldCatTitle)s]]» a «[[:%(newCatLink)s|%(newCatTitle)s]]»',
 		'category_redirect-comment': u'Bot de mantenimento de categorías redirigidas',
 		'category_redirect-edit-request': u'Se han detectado las siguientes páginas protegidas y se requieren actualizaciones de enlaces de categorías: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s está en %(oldcat)s, el cual redirecciona a %(newcat)s',

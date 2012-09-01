@@ -12,6 +12,10 @@ msg = {
 	'ar': {
 		'basic-changing': u'بوت: تغيير ...',
 	},
+	# Author: Man2fly2002
+	'arc': {
+		'basic-changing': u'ܪܘܒܘܛ: ܫܚܠܦܬܐ ...',
+	},
 	# Author: Xuacu
 	# Author: Esbardu
 	'ast': {

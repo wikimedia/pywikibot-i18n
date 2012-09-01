@@ -45,8 +45,9 @@ msg = {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
 	},
 	# Author: Ryo567
+	# Author: Invadinado
 	'es': {
-		'ndashredir-create': u'Bot: Creando redirecciones con guiones a [[%(title)s]]',
+		'ndashredir-create': u'Bot: Creando redirecciones con guiones a «[[%(title)s]]»',
 	},
 	# Author: ZxxZxxZ
 	'fa': {
@@ -115,6 +116,10 @@ msg = {
 	# Author: Anakmalaysia
 	'ms': {
 		'ndashredir-create': u'Bot: Membuat lencongan bertanda sempang ke [[%(title)s]]',
+	},
+	# Author: Danmichaelo
+	'no': {
+		'ndashredir-create': u'Bot: Oppretter omdirigering med bindestrek til [[%(title)s]]',
 	},
 	# Author: Servien
 	'nds-nl': {

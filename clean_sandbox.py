@@ -74,8 +74,9 @@ msg = {
 	},
 	# Author: Dferg
 	# Author: Xqt
+	# Author: Invadinado
 	'es': {
-		'clean_sandbox-cleaned': u'Bot: limpieza automatizada',
+		'clean_sandbox-cleaned': u'Bot: Limpieza automatizada',
 	},
 	# Author: An13sa
 	'eu': {

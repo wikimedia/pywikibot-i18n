@@ -11,6 +11,10 @@ msg = {
 	'ar': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},
+	# Author: Man2fly2002
+	'arc': {
+		'capitalize_redirects-create-redirect': u'ܪܘܒܘܛ: ܒܪܝܬܐ ܕܫܢܝܬܐ ܠ [[%(to)s]]',
+	},
 	# Author: Xuacu
 	# Author: Esbardu
 	'ast': {
@@ -83,8 +87,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Roboto: Kreante redirektilo al [[%(to)s]]',
 	},
 	# Author: Vivaelcelta
+	# Author: Invadinado
 	'es': {
-		'capitalize_redirects-create-redirect': u'Bot: Creo una redirección hacia "[[%(to)s]]"',
+		'capitalize_redirects-create-redirect': u'Bot: Creando redirección hacia «[[%(to)s]]»',
 	},
 	# Author: Mjbmr
 	'fa': {

@@ -24,6 +24,14 @@ msg = {
 		'archivebot-older-than': u'أقدم من',
 		'archivebot-page-summary': u'أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} (%(why)s) إلى %(archives)s.',
 	},
+	# Author: Man2fly2002
+	'arc': {
+		'archivebot-archive-full': u'(ܐܪܫܝܦܐ ܡܠܝܐ)',
+		'archivebot-archive-summary': u'ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} ܡܢ [[%(from)s]].',
+		'archivebot-archiveheader': u'{{ܐܪܫܝܦܐ ܕܡܡܠܠܐ}}',
+		'archivebot-older-than': u'ܩܕܝܡܐ ܡܢ',
+		'archivebot-page-summary': u'ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} (%(why)s) ܠ %(archives)s.',
+	},
 	# Author: Xuacu
 	# Author: Esbardu
 	'ast': {

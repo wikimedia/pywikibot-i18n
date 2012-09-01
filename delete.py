@@ -124,12 +124,13 @@ msg = {
 		'delete-images': u'Roboto: Forigante ĉiujn bildojn ĉe la paĝo %(page)s',
 	},
 	# Author: Vivaelcelta
+	# Author: Invadinado
 	'es': {
-		'delete-from-category': u'Bot: Elimino todas las páginas de la categoría "%(page)s"',
-		'delete-from-file': u'Bot: Eliminar una lista de archivos.',
-		'delete-images': u'Bot: Elimino todas las imágenes de la página "%(page)s"',
-		'delete-linked-pages': u'Bot: Elimino todas las páginas enlazadas desde "%(page)s"',
-		'delete-referring-pages': u'Bot: Elimino todas las páginas que van dar a "%(page)s"',
+		'delete-from-category': u'Bot: Eliminando todas las páginas contenidas en la categoría «%(page)s»',
+		'delete-from-file': u'Bot: Eliminando lista de archivos',
+		'delete-images': u'Bot: Eliminando todas las imágenes de la página «%(page)s»',
+		'delete-linked-pages': u'Bot: Eliminando todas las páginas enlazadas desde «%(page)s»',
+		'delete-referring-pages': u'Bot: Eliminando todas las páginas que enlazan hacia «%(page)s»',
 	},
 	# Author: Pikne
 	'et': {

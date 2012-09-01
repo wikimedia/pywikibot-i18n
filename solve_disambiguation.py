@@ -201,10 +201,11 @@ msg = {
 	},
 	# Author: Dferg
 	# Author: Fitoschido
+	# Author: Invadinado
 	'es': {
 		'solve_disambiguation-adding-dn-template': u'Desambiguación asistida por robot: %(from)s - Marcado que necesita atención de especialista',
 		'solve_disambiguation-links-removed': u'Desambiguación asistida por robot: %(from)s - Enlace(s) eliminados.',
-		'solve_disambiguation-links-resolved': u'Bot:Desambiguación asistida: %(from)s - Cambiando enlace(s) para %(to)s',
+		'solve_disambiguation-links-resolved': u'Bot: Desambiguación asistida, cambiando enlaces hacia «%(from)s» por «%(to)s»',
 		'solve_disambiguation-redirect-adding-dn-template': u'Desambiguación asistida por robot: %(from)s - Marcado que necesita atención de especialista',
 		'solve_disambiguation-redirect-removed': u'Desambiguación asistida por robot: %(from)s - Enlace(s) eliminados',
 		'solve_disambiguation-redirect-resolved': u'Desambiguación asistida por robot: %(from)s - Enlace(s) cambiado(s) a %(to)s',

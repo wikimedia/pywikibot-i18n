@@ -181,17 +181,19 @@ msg = {
 	},
 	# Author: Mihxil
 	# Author: Xqt
+	# Author: Objectivesea
 	'eo': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Roboto: Riparis duoblan alidirekton al %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Alidirekto]] al forigita aŭ neekzistanta paĝo',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Alidirekta]] celas sin mem',
+		'redirect-remove-broken': u'Roboto: Alidirekto indikas forigitan aŭ neekzistantan paĝon',
+		'redirect-remove-loop': u'Roboto: Alidirekta celas sin mem',
 	},
 	# Author: Dferg
 	# Author: Xqt
 	# Author: Armando-Martin
+	# Author: Invadinado
 	'es': {
-		'redirect-broken-redirect-template': u'{{destruir|1=La página a la que redirige no existe --~~~~}}',
+		'redirect-broken-redirect-template': u'{{destruir|1=La página a la que redirige no existe|bot=~~~~}}',
 		'redirect-fix-double': u'Bot: Arreglando doble redirección → %(to)s',
 		'redirect-fix-loop': u'Bot: Arreglando redirección infinita → %(to)s',
 		'redirect-remove-broken': u'Bot: Redirige a una página borrada o que no existe',
@@ -209,12 +211,13 @@ msg = {
 	# Author: Mjbmr
 	# Author: Ebraminio
 	# Author: ZxxZxxZ
+	# Author: جواد
 	'fa': {
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
 		'redirect-fix-double': u'ربات: اصلاح تغییرمسیر دوتایی به %(to)s',
 		'redirect-fix-loop': u'ربات: رفع حلقه در تغییرمسیر به %(to)s',
-		'redirect-remove-broken': u'[[وپ:محس#تغ۱|تغ۱]]: [[وپ:تغییرمسیر|تغییرمسیر]] به صفحهٔ ناموجود یا حذف‌شده',
-		'redirect-remove-loop': u'ربات: [[وپ:تغییرمسیر|تغییرمسیر]] حلقه‌ای',
+		'redirect-remove-broken': u'ربات:[[وپ:تغییرمسیر|تغییرمسیر]] به صفحهٔ ناموجود یا حذف‌شده',
+		'redirect-remove-loop': u'ربات:[[وپ:تغییرمسیر|تغییرمسیر]] حلقه‌ای',
 	},
 	# Author: Nedergard
 	# Author: Nike
@@ -510,11 +513,13 @@ msg = {
 		'redirect-remove-broken': u'ربوت:بی‌جاء ِدکشی‌یه‌ئون',
 		'redirect-remove-loop': u'ربوت: تغییر مسیر حلقه‌یی',
 	},
+	# Author: Danmichaelo
 	'no': {
 		'redirect-broken-redirect-template': u'{{hurtigslett|Feilaktig omdirigering}}',
 		'redirect-fix-double': u'robot: Retter dobbel omdirigering til %(to)s',
-		'redirect-remove-broken': u'robot: Målet for omdirigeringen eksisterer ikke',
-		'redirect-remove-loop': u'robot: Omdirigering til seg selv',
+		'redirect-fix-loop': u'Robot: Fikser omdirigeringsløkke til %(to)s',
+		'redirect-remove-broken': u'Robot: Målet for omdirigeringen eksisterer ikke',
+		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
 	},
 	# Author: Slomox
 	'nds': {

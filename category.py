@@ -62,10 +62,13 @@ msg = {
 		'category-was-moved': u'روبوت: التصنيف نقل إلى [[:تصنيف:%(newcat)s|%(title)s]]',
 	},
 	# Author: Basharh
+	# Author: Man2fly2002
 	'arc': {
 		'category-adding': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ ܕܣܕܪܐ [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(ܐܦ ܒ %(alsocat)s)',
+		'category-listifying': u'ܪܘܒܘܛ: ܚܘܝ ܡܢ %(fromcat)s (%(num)d ܡܥܠܬܐ)',
 		'category-removing': u'ܒܘܛ: ܠܚܝܐ ܡܢ %(oldcat)s',
+		'category-version-history': u'ܪܘܒܘܛ: ܠܒܟ ܣܝܩܘܡ ܡܦܩܢܘܬܐ ܠܩܕܡܝܬܐ %(oldcat)s',
 		'category-was-moved': u'ܪܘܒܘܛ: ܣܕܪܐ ܐܫܬܢܝܬ ܠ [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Jaminianurag
@@ -386,10 +389,11 @@ msg = {
 	# Author: Vivaelcelta
 	# Author: Armando-Martin
 	# Author: Xqt
+	# Author: Invadinado
 	'es': {
-		'category-adding': u'Bot: añadiendo la categoría [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Bot: Añadiendo la categoría «[[:Category:%(newcat)s|%(newcat)s]]»',
 		'category-also-in': u'(también en %(alsocat)s)',
-		'category-changing': u'Bot: modificadas %(oldcat)s a %(newcat)s',
+		'category-changing': u'Bot: Trasladando «%(oldcat)s» a «%(newcat)s»',
 		'category-listifying': u'Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada entradas|%(num)d entradas}})',
 		'category-removing': u'Bot: Eliminada de la %(oldcat)s',
 		'category-replacing': u'Bot: Reemplazando categoría %(oldcat)s por %(newcat)s',
@@ -684,7 +688,7 @@ msg = {
 	'is': {
 		'category-adding': u'Vélmenni: Bæti við [[:Category:%(newcat)s]]',
 		'category-also-in': u'(einnig í %(alsocat)s)',
-		'category-changing': u'Vélmenni: Færi greinar frá %(oldcat)s yfir í %(newcat)s',
+		'category-changing': u'Vélmenni: Breyti frá %(oldcat)s yfir í %(newcat)s',
 		'category-listifying': u'Vélmenni: Bæti {{PLURAL:%(num)d|1 færslu|%(num)d færslum}} frá %(fromcat)s við listann.',
 		'category-removing': u'Vélmenni: Fjarlægi [[%(oldcat)s]]',
 		'category-replacing': u'Vélmenni: Skipti flokknum %(oldcat)s út fyrir %(newcat)s',
@@ -1012,6 +1016,7 @@ msg = {
 		'category-was-disbanded': u'Tepostekitkatl: Yi tlaìxpôpolòlli in tlaìxmatkàtlàlilòtl',
 		'category-was-moved': u'Tepostekitkatl: In tlaìxmatkatlàlilòtl òmotitlan ìpan [[:Category:%(newcat)s|%(title)s]]',
 	},
+	# Author: Danmichaelo
 	# Author: Nghtwlkr
 	'no': {
 		'category-adding': u'Robot: Legger til kategorien [[:Category:%(newcat)s|%(newcat)s]]',
@@ -1020,6 +1025,8 @@ msg = {
 		'category-listifying': u'Robot: Gjør om kategorien %(fromcat)s til liste (%(num)d elementer)',
 		'category-removing': u'Robot: Fjerner ifra %(oldcat)s',
 		'category-replacing': u'Robot: Erstatter kategorien %(oldcat)s med %(newcat)s',
+		'category-section-title': u'Sidehistorikk fra den eldre %(oldcat)s',
+		'category-version-history': u'Robot: Lagrer versjonshistorikk fra den eldre %(oldcat)s',
 		'category-was-disbanded': u'Robot: Kategorien ble oppløst',
 		'category-was-moved': u'Robot: Kategorien ble flyttet til [[:Category:%(newcat)s|%(title)s]]',
 	},

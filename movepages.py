@@ -56,6 +56,10 @@ msg = {
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
 	},
+	# Author: Objectivesea
+	'eo': {
+		'movepages-moving': u'Roboto: Paĝon moviĝis',
+	},
 	# Author: Vivaelcelta
 	'es': {
 		'movepages-moving': u'Bot: Página trasladada',

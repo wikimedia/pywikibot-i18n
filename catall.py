@@ -11,6 +11,10 @@ msg = {
 	'ar': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
 	},
+	# Author: Man2fly2002
+	'arc': {
+		'catall-changing': u'ܪܘܒܘܛ: ܫܚܠܦܬܐ ܕܣܕܪ̈ܐ',
+	},
 	# Author: Xuacu
 	# Author: Esbardu
 	'ast': {

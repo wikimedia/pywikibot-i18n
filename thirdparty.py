@@ -56,6 +56,15 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'تم تحديث ملخص النقاش: %(num)i إدخالات في %(page)s',
 	},
+	# Author: Man2fly2002
+	'arc': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'ܕܕܘܪܫܐ ܐܫܬܚܠܦ',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'ܕܕܘܪܫܐ ܩܦܝܠܐ',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ܐܓܪܬܐ ܕܪܘܒܘܛ',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'ܕܘܪܫܐ ܚܕܬܐ',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'ܡܕܥܢܘܬܐ',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'ܪܘܒܘܛ',
+	},
 	# Author: DrTrigon
 	# Author: Xuacu
 	# Author: Esbardu
@@ -289,6 +298,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion summary added with clean up: %(num)i entries',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summary updated: %(num)i entries in %(page)s',
+	},
+	# Author: Objectivesea
+	'eo': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'roboto',
 	},
 	# Author: Vivaelcelta
 	# Author: Armando-Martin
@@ -855,7 +868,9 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(l-ebda utent uman ma nstab)',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 	},
+	# Author: Danmichaelo
 	'no': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'erstatter %(tags)s tagg(er)',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusjon endret',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusjon stengt',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOTMELDING',

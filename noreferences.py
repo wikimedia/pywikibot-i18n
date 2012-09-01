@@ -75,8 +75,9 @@ msg = {
 		'noreferences-add-tag': u'Roboto: Aldono de "<references />"',
 	},
 	# Author: Vivaelcelta
+	# Author: Invadinado
 	'es': {
-		'noreferences-add-tag': u'Bot: Añado la etiqueta que faltaba <references />',
+		'noreferences-add-tag': u'Bot: Añadiendo etiqueta <references /> que faltaba',
 	},
 	# Author: Pikne
 	'et': {

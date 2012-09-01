@@ -23,6 +23,10 @@ msg = {
 		'welcome-updating': u'بوت: تحديث السجل',
 		'welcome-welcome': u'مرحبا!',
 	},
+	# Author: Man2fly2002
+	'arc': {
+		'welcome-welcome': u'ܒܫܝܢܐ!',
+	},
 	# Author: Xuacu
 	# Author: Esbardu
 	'ast': {
@@ -122,12 +126,17 @@ msg = {
 		'welcome-updating': u'Robot: Updating log',
 		'welcome-welcome': u'Welcome!',
 	},
+	# Author: Objectivesea
+	'eo': {
+		'welcome-welcome': u'Bonvenon!',
+	},
 	# Author: Crazymadlover
 	# Author: Vivaelcelta
+	# Author: Invadinado
 	'es': {
-		'welcome-bad_username': u'Bot: Agregar un nombre de usuario que necesita ser comprobado',
-		'welcome-updating': u'Bot: Actualizo el registro',
-		'welcome-welcome': u'Bienvenido!',
+		'welcome-bad_username': u'Bot: Agregando nombre de usuario que necesita ser comprobado',
+		'welcome-updating': u'Bot: Actualizando registro',
+		'welcome-welcome': u'¡Bienvenido!',
 	},
 	# Author: Pikne
 	# Author: Avjoska
