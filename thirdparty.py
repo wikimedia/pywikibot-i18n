@@ -608,6 +608,7 @@ msg = {
 	},
 	# Author: Lam-ang
 	'ilo': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'agsuksujat %(tags)s (kadagiti) ti etiketa',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Nasukatan ti pagtungtungan',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Narikpan ti pagtungtungan',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAHE TI ROBOT',

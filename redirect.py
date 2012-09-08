@@ -87,12 +87,13 @@ msg = {
 	},
 	# Author: Fulup
 	# Author: Y-M D
+	# Author: Gwenn-Ael
 	'br': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Kempennet adkas doubl gant robot → %(to)s',
 		'redirect-fix-loop': u'Robot : O kempenn al lagadenn adkas war-zu %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: Ar bajenn ma vezer adkaset n\'eus ket anezhi',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]] : Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
+		'redirect-remove-broken': u'Robot : Ar bajenn ma vezer adkaset n\'eus ket anezhi',
+		'redirect-remove-loop': u'Robot: Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
 	},
 	# Author: CERminator
 	# Author: Xqt
@@ -357,8 +358,8 @@ msg = {
 	'ilo': {
 		'redirect-broken-redirect-template': u'{{delete}}',
 		'redirect-fix-double': u'Robot: Agsimsimpa ti doble a baw-ing idiay %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Baw-ing]] idiay naikkat wenno awan a panid',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Baw-ing]] ti puntaan ket agporporma ti baw-ing silo',
+		'redirect-remove-broken': u'Robot: Baw-ing a mapan ti naikkat wenno awan a panid',
+		'redirect-remove-loop': u'Robot: Ti baw-ing a puntaan ket agporma baw-ing a silo',
 	},
 	# Author: Snævar
 	'is': {

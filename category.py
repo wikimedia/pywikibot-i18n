@@ -675,6 +675,8 @@ msg = {
 		'category-listifying': u'Robot: Agilislista manipud idiay %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
 		'category-removing': u'Robot: Agikikkat manipud idiay %(oldcat)s',
 		'category-replacing': u'Robot: Suksukatan ti kategoria %(oldcat)s iti %(newcat)s',
+		'category-section-title': u'Dati a pakasaritaan ti panid ti  %(oldcat)s',
+		'category-version-history': u'Robot: Agiduldulin ti dati a pakasaritaan ti %(oldcat)s',
 		'category-was-disbanded': u'Robot: Ti kategoria ket naikkat',
 		'category-was-moved': u'Robot: Ti kategoria ket naiyalis idiay [[:Category:%(newcat)s|%(title)s]]',
 	},
