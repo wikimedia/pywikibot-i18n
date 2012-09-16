@@ -65,7 +65,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'replace-replacing': u'Boti %(description)s metn vurnayış xob xo kerd',
+		'replace-replacing': u'Boti metne %(description)s xob xo vurna',
 	},
 	'el': {
 		'replace-replacing': u'Ρομπότ: Αυτόματη αντικατάσταση κειμένου %(description)s',

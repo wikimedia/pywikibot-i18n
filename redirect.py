@@ -157,8 +157,8 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'redirect-broken-redirect-template': u'{{bestere|m1}}',
-		'redirect-fix-double': u'Boti pela da %(to)s re hetanayışe dıleti timar ke',
-		'redirect-fix-loop': u'Boti:  %(to)s re dılet hetanayış ke',
+		'redirect-fix-double': u'Boti per da %(to)s ra hetanayışo dılet cı timar ke',
+		'redirect-fix-loop': u'Boti %(to)s rê hetanayışo dılet deke',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]]: pela besternê yana pelaya cı nêasena',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt.',
 	},
@@ -597,11 +597,12 @@ msg = {
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
 	# Author: 555
+	# Author: Luckas Blade
 	'pt-br': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo para %(to)s',
 		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirecionamento]] para uma página eliminada ou inexistente',
+		'redirect-remove-broken': u'Robô: Redirecionamento para uma página eliminada ou inexistente',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: O destino do [[Wikipedia:Redirect|redirecionamento]] cria um ciclo de redirecionamentos',
 	},
 	# Author: Xqt
@@ -745,7 +746,7 @@ msg = {
 	'tr': {
 		'redirect-broken-redirect-template': u'{{sil|y1}}',
 		'redirect-fix-double': u'Bot: %(to)s sayfasına yönelik çift yönlendirme düzeltiliyor',
-		'redirect-remove-broken': u'[[Vikipedi:Hızlı_silme#Yönlendirmeler|VP:HS]]: Silinen ya da var olmayan sayfaya olan yönlendirme',
+		'redirect-remove-broken': u'Bot: Silinen ya da var olmayan sayfaya olan yönlendirme',
 		'redirect-remove-loop': u'Bot: Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor',
 	},
 	# Author: Ильнар

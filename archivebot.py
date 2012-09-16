@@ -141,7 +141,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'archivebot-archive-full': u'(ARŞİV PÊRO)',
-		'archivebot-archive-summary': u'Boti [[%(from)s]] ke arşiv; pela da %(count)d ra sernuşte  .',
+		'archivebot-archive-summary': u'Boti [[%(from)s]] ra ke arşiv; pela da %(count)d {{PLURAL:%(count)d|pine|piney}} ra sernuşte  .',
 		'archivebot-archiveheader': u'{{Arşivê vatışan}}',
 		'archivebot-older-than': u'tewr verên',
 		'archivebot-page-summary': u'Boti %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s.',

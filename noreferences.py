@@ -62,7 +62,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'noreferences-add-tag': u'Boti etiketê <references /> dekerd de',
+		'noreferences-add-tag': u'Boti etiketo ke kemiyo <references /> o dekerd de',
 	},
 	# Author: Geraki
 	'el': {

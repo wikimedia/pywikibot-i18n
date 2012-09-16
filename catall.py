@@ -53,7 +53,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'catall-changing': u'Boti kategoriy vurnay',
+		'catall-changing': u'Boti kategoriy pêro vurnay',
 	},
 	# Author: Geraki
 	'el': {

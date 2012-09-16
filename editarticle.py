@@ -57,7 +57,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'editarticle-edit': u'Boti %(description)s xo desti timar ke',
+		'editarticle-edit': u'Boti xo desti %(description)s  timar ke',
 	},
 	# Author: Geraki
 	'el': {

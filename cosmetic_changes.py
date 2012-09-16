@@ -94,7 +94,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'cosmetic_changes-append': u'; kozmetik vurnayışi',
-		'cosmetic_changes-standalone': u'Boti Kozmetik vurnayışi kerdi',
+		'cosmetic_changes-standalone': u'Boti vurnayışo kozmetik keno',
 	},
 	'el': {
 		'cosmetic_changes-append': u'; διακοσμητικές αλλαγές',
@@ -471,10 +471,10 @@ msg = {
 		'cosmetic_changes-append': u'; קאסמעטישע ענדערונגען',
 		'cosmetic_changes-standalone': u'באט: קאסמעטישע ענדערונגען',
 	},
-	# Author: Bencmq
+	# Author: Yfdyh000
 	'zh': {
-		'cosmetic_changes-append': u';源码清理',
-		'cosmetic_changes-standalone': u'机器人：源码清理',
+		'cosmetic_changes-append': u';整理源码',
+		'cosmetic_changes-standalone': u'机器人：整理源码',
 	},
 	# Author: Breawycker
 	# Author: Justincheng12345

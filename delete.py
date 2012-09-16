@@ -99,7 +99,7 @@ msg = {
 		'delete-from-category': u'Boti kategori da %(page)s ra peley pêro besternay',
 		'delete-from-file': u'Boti dosyeyê ke liste de ê besternay.',
 		'delete-images': u'Boti pela da %(page)s ra dosyay pêro besternay',
-		'delete-linked-pages': u'Boti pela da %(page)s re gıre pela pêron besternay.',
+		'delete-linked-pages': u'Boti %(page)s rê gırey peran pêron besterneno.',
 		'delete-referring-pages': u'Boti pela da %(page)s ra peley pêro besternay',
 	},
 	# Author: Geraki
@@ -533,11 +533,11 @@ msg = {
 	# Author: Anakmalaysia
 	# Author: Yfdyh000
 	'zh': {
-		'delete-from-category': u'机器人：删除来自%(page)s类别所有页面',
+		'delete-from-category': u'机器人：删除所有来自%(page)s分类的页面',
 		'delete-from-file': u'机器人：删除文件列表。',
 		'delete-images': u'机器人：删除%(page)s页面上的所有图像',
-		'delete-linked-pages': u'机器人：删除从%(page)s链接所有页面',
-		'delete-referring-pages': u'机器人：删除指从%(page)s所有页面',
+		'delete-linked-pages': u'机器人：删除所有从%(page)s链接的页面',
+		'delete-referring-pages': u'机器人：删除所有%(page)s提及的页面',
 	},
 	# Author: Breawycker
 	# Author: Lauhenry

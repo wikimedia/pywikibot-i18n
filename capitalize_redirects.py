@@ -73,7 +73,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'capitalize_redirects-create-redirect': u'Boti pela [[%(to)s]] ke hetena',
+		'capitalize_redirects-create-redirect': u'Boti pera [[%(to)s]] ke hetêna',
 	},
 	# Author: Geraki
 	'el': {
@@ -303,9 +303,9 @@ msg = {
 	'yi': {
 		'capitalize_redirects-create-redirect': u'באט: שאפן ווייטערפירונג צו בלאט [[%(to)s]]',
 	},
-	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
-		'capitalize_redirects-create-redirect': u'机械人：创建重定向至[[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'机器人：创建重定向至[[%(to)s]]',
 	},
 	# Author: Waihorace
 	'zh-hant': {

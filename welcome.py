@@ -110,7 +110,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'welcome-bad_username': u'Boti êke namey cı do qontrol bo namey karberi kerd êna zerre',
+		'welcome-bad_username': u'Boti namey karberanê ke qontrol bê, namey cı dekerd ênan miyan',
 		'welcome-updating': u'Robot:Qeyd newekerdış',
 		'welcome-welcome': u'Xeyr amey',
 	},

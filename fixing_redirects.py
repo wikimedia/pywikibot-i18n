@@ -49,7 +49,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'fixing_redirects-fixing': u'Boti hetenayışi kerdi araşt',
+		'fixing_redirects-fixing': u'Boti hetenayışi timar kerdi',
 	},
 	# Author: Geraki
 	'el': {
@@ -276,9 +276,9 @@ msg = {
 	'yi': {
 		'fixing_redirects-fixing': u'באט: פאררעכטן ווײַטערפירונגען',
 	},
-	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
-		'fixing_redirects-fixing': u'机器人：修理重定向',
+		'fixing_redirects-fixing': u'机器人：修正重定向',
 	},
 	# Author: Breawycker
 	# Author: Justincheng12345

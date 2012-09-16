@@ -59,7 +59,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'table2wiki-no-warning': u'Karberê qontrolkarê boti: imlay tabloy kerd newi',
+		'table2wiki-no-warning': u'Karberê qontrolkarê boti: İmlay tabloy kerd anewi',
 		'table2wiki-warnings': u'Botê kontrolkarê karberan: imlay tabloy kerd newi {{PLURAL:count|1|%(count)d}}',
 	},
 	# Author: Glavkos
@@ -316,10 +316,10 @@ msg = {
 		'table2wiki-no-warning': u'Bot có người điều khiển: Cập nhật cú pháp bảng',
 		'table2wiki-warnings': u'Bot có người điều khiển: Cập nhật cú pháp bảng – {{PLURAL:count|1|%(count)d}} cảnh báo!',
 	},
-	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
-		'table2wiki-no-warning': u'用户控制机器人：更新表语法',
-		'table2wiki-warnings': u'用户控制机器人：更新表语法——但有%(count)d个警告！',
+		'table2wiki-no-warning': u'用户控制的机器人：更新表语法',
+		'table2wiki-warnings': u'用户控制的机器人：更新表语法——但有%(count)d个警告！',
 	},
 	# Author: Breawycker
 	# Author: Justincheng12345

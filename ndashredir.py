@@ -38,7 +38,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	'diq': {
-		'ndashredir-create': u'Boti [[%(title)s]] ra melumatê hetanayışi vıraşt',
+		'ndashredir-create': u'Boti [[%(title)s]] ra hetanayışi melumatê vıraşt',
 	},
 	# Author: Bináris
 	'en': {
