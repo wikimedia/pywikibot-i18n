@@ -87,8 +87,9 @@ msg = {
 	'fa': {
 		'noreferences-add-tag': u'ربات: افزودن برچسب <references /> که فراموش شده بود',
 	},
+	# Author: Crt
 	'fi': {
-		'noreferences-add-tag': u'Botti lisäsi puuttuvan {{viitteet}}-mallineen',
+		'noreferences-add-tag': u'Botti lisäsi puuttuvan <references />-elementin',
 	},
 	# Author: EileenSanda
 	'fo': {

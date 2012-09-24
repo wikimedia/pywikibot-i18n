@@ -404,6 +404,10 @@ msg = {
 	'uk': {
 		'basic-changing': u'Бот: змінив ...',
 	},
+	# Author: CoderSI
+	'uz': {
+		'basic-changing': u'Bot: O\'zgartirildi ...',
+	},
 	# Author: Candalua
 	# Author: Alunardon90
 	'vec': {

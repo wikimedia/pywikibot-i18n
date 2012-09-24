@@ -366,6 +366,7 @@ msg = {
 		'delete-from-category': u'robot: sletta alle sidene i kategorien %(page)s',
 		'delete-from-file': u'robot: sletta ei liste med filer',
 		'delete-images': u'robot: sletta alle bileta på sida %(page)s',
+		'delete-linked-pages': u'robot: slettar alle sidene som er lenkja til frå %(page)s',
 	},
 	# Author: Shisir 1945
 	'or': {
@@ -512,6 +513,10 @@ msg = {
 		'delete-images': u'Бот: Видалення усіх зображень із сторінки %(page)s',
 		'delete-linked-pages': u'Бот: Видалення усіх сторінок, пов\'язаних із %(page)s',
 		'delete-referring-pages': u'Бот: Видалення усіх сторінок, що відносяться до %(page)s',
+	},
+	# Author: CoderSI
+	'uz': {
+		'delete-from-file': u'Bot: Fayllar ro‘yxati o‘chirildi',
 	},
 	# Author: Alunardon90
 	# Author: GatoSelvadego

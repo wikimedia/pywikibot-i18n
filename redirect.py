@@ -554,9 +554,10 @@ msg = {
 		'redirect-remove-broken': u'Robot: de doelpagina van de doorverwijzing bestaat niet',
 		'redirect-remove-loop': u'[[WP:NW|NUWEG]]: [[Wikipedia:Doorverwijzing|Doorverwijzing]] vormt een oneindige lus',
 	},
+	# Author: Njardarlogar
 	'nn': {
 		'redirect-fix-double': u'robot: retta dobbel omdirigering → %(to)s',
-		'redirect-remove-broken': u'robot: målet for omdirigeringa eksisterer ikkje',
+		'redirect-remove-broken': u'robot: målet for omdirigeringa finst ikkje',
 	},
 	# Author: Xqt
 	'pdc': {
@@ -587,12 +588,13 @@ msg = {
 	},
 	# Author: Hamilton Abreu
 	# Author: Xqt
+	# Author: Malafaya
 	'pt': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Robô: A corrigir o redireccionamento duplo para %(to)s',
 		'redirect-fix-loop': u'Robô: A corrigir o ciclo de redireccionamentos para %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redireccionamento]] para uma página eliminada ou inexistente',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: O destino do [[Wikipedia:Redirect|redireccionamento]] cria um ciclo de redireccionamentos',
+		'redirect-remove-broken': u'Robô: Redireccionamento para uma página eliminada ou inexistente',
+		'redirect-remove-loop': u'Robô: O destino do redireccionamento cria um ciclo de redireccionamentos',
 	},
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
@@ -631,7 +633,7 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 		'redirect-fix-double': u'Робот: исправление двойного перенаправления → %(to)s',
 		'redirect-fix-loop': u'Робот: Исправление перенаправления на %(to)s',
-		'redirect-remove-broken': u'Робот: Перенаправление на удаленную или несуществующую страницу',
+		'redirect-remove-broken': u'Робот: [[ВП:КБУ#П1|П1]] - Перенаправление на удаленную или несуществующую страницу',
 		'redirect-remove-loop': u'Робот: Перенаправление в никуда',
 	},
 	# Author: Gazeb

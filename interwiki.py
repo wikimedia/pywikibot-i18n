@@ -1743,14 +1743,15 @@ msg = {
 		'interwiki-removing': u'روبالہ محو: %(removing)s',
 		'interwiki-removing-modifying': u'روبالہ محو: %(removing)s ترمیم: %(modifying)s',
 	},
+	# Author: Abdulla
 	'uz': {
-		'interwiki-adding': u'Bot Qoʻshdi: %(adding)s',
-		'interwiki-adding-modifying': u'Bot Qoʻshdi: %(adding)s Oʻchirdi: %(modifying)s',
-		'interwiki-adding-removing': u'Bot Qoʻshdi: %(adding)s Tuzatdi: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot Qoʻshdi: %(adding)s Tuzatdi: %(removing)s Oʻchirdi: %(modifying)s',
-		'interwiki-modifying': u'Bot Oʻchirdi: %(modifying)s',
-		'interwiki-removing': u'Bot Tuzatdi: %(removing)s',
-		'interwiki-removing-modifying': u'Bot Tuzatdi: %(removing)s Oʻchirdi: %(modifying)s',
+		'interwiki-adding': u'Bot qoʻshdi: %(adding)s',
+		'interwiki-adding-modifying': u'Bot qoʻshdi: %(adding)s tuzatdi: %(modifying)s',
+		'interwiki-adding-removing': u'Bot qoʻshdi: %(adding)s oʻchirdi: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot qoʻshdi: %(adding)s oʻchirdi: %(removing)s tuzatdi: %(modifying)s',
+		'interwiki-modifying': u'Bot tuzatdi: %(modifying)s',
+		'interwiki-removing': u'Bot oʻchirdi: %(removing)s',
+		'interwiki-removing-modifying': u'Bot oʻchirdi: %(removing)s tuzatdi: %(modifying)s',
 	},
 	# Author: Alunardon90
 	'vec': {

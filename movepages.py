@@ -267,6 +267,10 @@ msg = {
 	'uk': {
 		'movepages-moving': u'Робот: перейменування сторінки',
 	},
+	# Author: CoderSI
+	'uz': {
+		'movepages-moving': u'Bot: Sahifa ko\'chirildi',
+	},
 	# Author: Alunardon90
 	'vec': {
 		'movepages-moving': u'Robot: Pajina spostà',
