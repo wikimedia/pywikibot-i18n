@@ -234,6 +234,10 @@ msg = {
 	'my': {
 		'replace-replacing': u'ဘော့ - စာသားများကို အလိုအလျောက် အစားထိုးခြင်း %(description)s',
 	},
+	# Author: محک
+	'mzn': {
+		'replace-replacing': u'ربوت: بنویشته‌ئون خادکار عوض-بدل بیّن %(description)s',
+	},
 	'no': {
 		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
 	},

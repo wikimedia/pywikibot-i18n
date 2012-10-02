@@ -219,6 +219,10 @@ msg = {
 	'sl': {
 		'catall-changing': u'Robot: Spreminjanje kategorij',
 	},
+	# Author: Euriditi
+	'sq': {
+		'catall-changing': u'Roboti: Duke ndryshuar kategoritë',
+	},
 	# Author: Rancher
 	'sr': {
 		'catall-changing': u'Робот: промењене категорије',
@@ -277,6 +281,10 @@ msg = {
 	# Author: Srtxg
 	'wa': {
 		'catall-changing': u'Robot: candjant les categoreyes',
+	},
+	# Author: Harvzsf
+	'war': {
+		'catall-changing': u'Robot: Ginbabalyo an mga kaarangay',
 	},
 	# Author: פוילישער
 	'yi': {

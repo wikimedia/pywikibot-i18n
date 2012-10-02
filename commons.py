@@ -328,6 +328,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] prestavljena v [[:commons:File:%(commonsfile)s|Zbirko]].',
 		'commons-file-now-available': u'Datoteka je sedaj na voljo na [[:commons:File:%(commonsfile)s|Zbirki Wikimedia]].',
 	},
+	# Author: Euriditi
+	'sq': {
+		'commons-file-moved': u'[[:Skeda:%(localfile)s|Skeda]] u zhvendos tek [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Skeda është e disponueshme në [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Rancher
 	'sr': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Датотека]] је премештена у [[:commons:File:%(commonsfile)s|Оставу]].',

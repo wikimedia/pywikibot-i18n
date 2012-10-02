@@ -472,13 +472,14 @@ msg = {
 		'interwiki-removing-modifying': u'ربات: حذف %(removing)s؛ اصلاح %(modifying)s',
 	},
 	# Author: Linnea
+	# Author: Crt
 	'fi': {
 		'interwiki-adding': u'Botti lisäsi: %(adding)s',
 		'interwiki-adding-modifying': u'Botti lisäsi: %(adding)s muokkasi: %(modifying)s',
 		'interwiki-adding-removing': u'Botti lisäsi: %(adding)s poisti: %(removing)s',
 		'interwiki-adding-removing-modifying': u'Botti lisäsi: %(adding)s poisti: %(removing)s muokkasi: %(modifying)s',
 		'interwiki-modifying': u'Botti muokkasi: %(modifying)s',
-		'interwiki-modifying-from': u'Botti muutti interwikilinkin %(from)s muotoon %(modifying)s',
+		'interwiki-modifying-from': u'Botti muutti kielilinkin %(from)s muotoon %(modifying)s',
 		'interwiki-removing': u'Botti poisti: %(removing)s',
 		'interwiki-removing-modifying': u'Botti poisti: %(removing)s muokkasi: %(modifying)s',
 	},
@@ -1533,12 +1534,14 @@ msg = {
 		'interwiki-removing': u'robot Odstranjevanje: %(removing)s',
 		'interwiki-removing-modifying': u'robot Odstranjevanje: %(removing)s Spreminjanje: %(modifying)s',
 	},
+	# Author: Euriditi
 	'sq': {
 		'interwiki-adding': u'roboti shtoj: %(adding)s',
 		'interwiki-adding-modifying': u'roboti shtoj: %(adding)s ndryshoj: %(modifying)s',
 		'interwiki-adding-removing': u'roboti shtoj: %(adding)s largoj: %(removing)s',
 		'interwiki-adding-removing-modifying': u'roboti shtoj: %(adding)s largoj: %(removing)s ndryshoj: %(modifying)s',
 		'interwiki-modifying': u'roboti ndryshoj: %(modifying)s',
+		'interwiki-modifying-from': u'Roboti: Duke redaktuar %(from)s në %(modifying)s',
 		'interwiki-removing': u'roboti largoj: %(removing)s',
 		'interwiki-removing-modifying': u'roboti largoj: %(removing)s ndryshoj: %(modifying)s',
 	},
@@ -1827,12 +1830,14 @@ msg = {
 		'interwiki-removing': u'robot rissaetchî: %(removing)s',
 		'interwiki-removing-modifying': u'robot rissaetchî: %(removing)s candjî: %(modifying)s',
 	},
+	# Author: Harvzsf
 	'war': {
 		'interwiki-adding': u'robot Gindugngan: %(adding)s',
 		'interwiki-adding-modifying': u'robot Gindugngan: %(adding)s Ginliwat: %(modifying)s',
 		'interwiki-adding-removing': u'robot Gindugngan: %(adding)s Gintanggal: %(removing)s',
 		'interwiki-adding-removing-modifying': u'robot Gindugngan: %(adding)s Gintanggal: %(removing)s Ginliwat: %(modifying)s',
 		'interwiki-modifying': u'robot Ginliwat: %(modifying)s',
+		'interwiki-modifying-from': u'Robot: Ginliliwat in %(from)s ngadto ha %(modifying)s',
 		'interwiki-removing': u'robot Gintanggal: %(removing)s',
 		'interwiki-removing-modifying': u'robot Gintanggal: %(removing)s Ginliwat: %(modifying)s',
 	},

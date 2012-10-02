@@ -225,10 +225,10 @@ msg = {
 	# Author: Olli
 	# Author: Crt
 	'fi': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-broken-redirect-template': u'{{Delete}}',
 		'redirect-fix-double': u'Botti korjasi kaksinkertaisen ohjauksen sivulle %(to)s',
-		'redirect-fix-loop': u'Botti: Korjataan uudelleenohjaussilmukka sivulle %(to)s',
-		'redirect-remove-broken': u'Botti: Ohjaus poistetulle tai ei-olemassaolevalle sivulle',
+		'redirect-fix-loop': u'Botti korjasi ohjaussilmukan sivulle %(to)s',
+		'redirect-remove-broken': u'Botti: Ohjaus poistetulle tai olemattomalle sivulle',
 		'redirect-remove-loop': u'Botti: Ohjauksen kohde muodostaa ohjaussilmukan',
 	},
 	# Author: EileenSanda
@@ -512,7 +512,7 @@ msg = {
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
 		'redirect-fix-double': u'ربوت:عوض هایتن دکشیه‌ئون دِتایی → %(to)s',
 		'redirect-remove-broken': u'ربوت:بی‌جاء ِدکشی‌یه‌ئون',
-		'redirect-remove-loop': u'ربوت: تغییر مسیر حلقه‌یی',
+		'redirect-remove-loop': u'ربوت:ناترینگی [[:fa:وپ:تغییرمسیر|دکشی‌یه]]',
 	},
 	# Author: Danmichaelo
 	'no': {
@@ -792,10 +792,13 @@ msg = {
 	'vo': {
 		'redirect-broken-redirect-template': u'{{moükön|Lüodüköm dädik}}',
 	},
+	# Author: Harvzsf
 	'war': {
 		'redirect-broken-redirect-template': u'{{delete}}Nautod o nagbinalikbalik nga redirek.',
 		'redirect-fix-double': u'Robot: Gin-ayad in nagduduha nga redirek → %(to)s',
-		'redirect-remove-broken': u'Robot: Waray dida an karadto-an han redirek',
+		'redirect-fix-loop': u'Robot: Gin-aayad in redirek nga loop ngadto ha %(to)s',
+		'redirect-remove-broken': u'Robot: Redirek ngadto hin ginpárà o waray-didâ nga pakli',
+		'redirect-remove-loop': u'Robot: An redirek nga ginkakadtoan naghihimo hin redirek nga loop',
 	},
 	# Author: פוילישער
 	'yi': {

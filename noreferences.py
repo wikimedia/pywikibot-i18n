@@ -295,6 +295,10 @@ msg = {
 	'vi': {
 		'noreferences-add-tag': u'Bot: Thêm thẻ <references /> bị thiếu',
 	},
+	# Author: Harvzsf
+	'war': {
+		'noreferences-add-tag': u'Robot: Gindudugang an mga kulang nga mga <references /> nga tag',
+	},
 	# Author: פוילישער
 	'yi': {
 		'noreferences-add-tag': u'באט: צולייגן פֿעלנדן <references /> טאַג',

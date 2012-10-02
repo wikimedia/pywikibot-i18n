@@ -1309,13 +1309,16 @@ msg = {
 		'category-was-moved': u'Robot: Kategorija je bila prestavljena na [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Vinie007
+	# Author: Euriditi
 	'sq': {
 		'category-adding': u'Robot: Shtimi kategori [[: Category: %(newcat)s|% (newcat) s]]',
 		'category-also-in': u'(Edhe në %(alsocat)s)',
-		'category-changing': u'Robot: Ndryshimi %(oldcat)s',
+		'category-changing': u'Roboti: Duke ndryshuar %(oldcat)s në %(newcat)s',
 		'category-listifying': u'Bot: Listifying nga %(fromcat)s, %(num)d',
 		'category-removing': u'Bot: Heqja nga %(oldcat)s',
 		'category-replacing': u'Robot:% Zëvendësimi kategori %(oldcat)s me %(newcat)s',
+		'category-section-title': u'Historiku i faqes së mëparshme %(oldcat)s',
+		'category-version-history': u'Roboti: Duke ruajtuar historikun e verionit të mëparshëm %(oldcat)s',
 		'category-was-disbanded': u'Bot: Category u shpërbë',
 		'category-was-moved': u'Robot: Category u zhvendos tek [[:Category:%(newcat)s|%(title)s]]',
 	},

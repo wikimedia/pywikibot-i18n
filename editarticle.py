@@ -238,6 +238,10 @@ msg = {
 	'sl': {
 		'editarticle-edit': u'Ročno urejanje z botom: %(description)s',
 	},
+	# Author: Euriditi
+	'sq': {
+		'editarticle-edit': u'Redaktim manual me robot: %(description)s',
+	},
 	# Author: Rancher
 	'sr': {
 		'editarticle-edit': u'Ручно уређивање с роботом: %(description)s',
@@ -281,6 +285,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'editarticle-edit': u'Sửa đổi thủ công dùng bot: %(description)s',
+	},
+	# Author: Harvzsf
+	'war': {
+		'editarticle-edit': u'Manwal nga pagliwat upod hin robot: %(description)s',
 	},
 	# Author: פוילישער
 	'yi': {

@@ -190,6 +190,10 @@ msg = {
 	'vi': {
 		'ndashredir-create': u'Bot: Tạo trang đổi hướng có dấu nối đến [[%(title)s]]',
 	},
+	# Author: Harvzsf
+	'war': {
+		'ndashredir-create': u'Bot: Ginhihimo in ginbatlang nga redirek ngadto ha [[%(title)s]]',
+	},
 	# Author: פוילישער
 	'yi': {
 		'ndashredir-create': u'באט: שאפן באהאפטענע ווײַטערפירונג צו [[%(title)s]]',

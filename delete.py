@@ -440,6 +440,14 @@ msg = {
 		'delete-linked-pages': u'Robot: Brisanje vseh strani, na katere se povezuje %(page)s',
 		'delete-referring-pages': u'Robot: Brisanje vseh strani, ki se povezujejo na %(page)s',
 	},
+	# Author: Euriditi
+	'sq': {
+		'delete-from-category': u'Roboti: Duke fshirë të gjitha faqet në kategorinë %(page)s',
+		'delete-from-file': u'Roboti: Duke fshirë të gjithë listën e skedave.',
+		'delete-images': u'Roboti: Duke fshirë të gjitha figurat në faqen %(page)s',
+		'delete-linked-pages': u'Roboti: Duke fshirë të gjitha faqet e lidhura nga %(page)s',
+		'delete-referring-pages': u'Roboti: Duke fshirë të gjitha faqet e lidhura nga %(page)s',
+	},
 	# Author: Rancher
 	'sr': {
 		'delete-from-category': u'Робот: обрисане све странице из категорије %(page)s',
@@ -534,6 +542,14 @@ msg = {
 		'delete-images': u'Bot: Xóa tất cả các hình ảnh khỏi trang “%(page)s”',
 		'delete-linked-pages': u'Bot: Xóa tất cả các trang được liên kết từ “%(page)s”',
 		'delete-referring-pages': u'Bot: Xóa tất cả các trang có liên kết đến “%(page)s”',
+	},
+	# Author: Harvzsf
+	'war': {
+		'delete-from-category': u'Robot: Ginpapara an ngatanan ng mga pakli nga tikang han kaarangay %(page)s',
+		'delete-from-file': u'Robot: Ginpapara in talaan hin mga paypay.',
+		'delete-images': u'Robot: Ginpapara an ngatanan nga mga hulagway ha pakli nga %(page)s',
+		'delete-linked-pages': u'Robot: Ginpapara an ngatanan nga mga pakli nga nahasumpay tikang ha %(page)s',
+		'delete-referring-pages': u'Robot: Ginpapara an ngatanan nga mga pakli nga nanarig tikang ha %(page)s',
 	},
 	# Author: Anakmalaysia
 	# Author: Yfdyh000

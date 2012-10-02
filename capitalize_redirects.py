@@ -244,6 +244,10 @@ msg = {
 	'sl': {
 		'capitalize_redirects-create-redirect': u'Robot: Ustvari preusmeritev na [[%(to)s]]',
 	},
+	# Author: Euriditi
+	'sq': {
+		'capitalize_redirects-create-redirect': u'Roboti: Duke krijuar ridrejtim tek [[%(to)s]]',
+	},
 	# Author: Rancher
 	'sr': {
 		'capitalize_redirects-create-redirect': u'Робот: направљено преусмерење на [[%(to)s]]',
@@ -298,6 +302,10 @@ msg = {
 	# Author: Srtxg
 	'wa': {
 		'capitalize_redirects-create-redirect': u'Robot: ahivant on redjiblaedje viè [[%(to)s]]',
+	},
+	# Author: Harvzsf
+	'war': {
+		'capitalize_redirects-create-redirect': u'Robot: Paghimo hin redirek ngadto ha [[%(to)s]]',
 	},
 	# Author: פוילישער
 	'yi': {

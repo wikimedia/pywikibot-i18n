@@ -389,7 +389,7 @@ msg = {
 		'category_redirect-comment': u'カテゴリ転送保守ロボット',
 		'category_redirect-edit-request': u'以下の保護されたページは、カテゴリリンクの更新が必要であると検出されました: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)sは、%(newcat)sへのリダイレクトである%(oldcat)sに入っています',
-		'category_redirect-fix-double': u'ロボットによる: 二重リダイレクト修正',
+		'category_redirect-fix-double': u'ロボットによる: 二重転送の修正',
 	},
 	# Author: NoiX180
 	'jv': {

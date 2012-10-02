@@ -670,6 +670,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Aggiornato sommario della discussione: %(num)i edit in %(page)s',
 	},
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'議論に変更',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'議論終了',
@@ -679,7 +680,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - %(user)sによる[%(history_link)s 最新の編集] (%(page_size)sバイト) (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s すべての議論が終わりました (監視停止) - %(user)sによる最新の編集 (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nボットによる出力: %(sign)s</noinclude>',
-		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(人間の編集者はみつかりませんでした)',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(人間の編集者は見つかりませんでした)',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u'* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - [[User:%(user)s]]による最新の編集 (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %Y-%m-%d',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* ロボットによる警告メッセージ: %(page)s "\'\'%(warning)s\'\'"',
@@ -1161,6 +1162,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Dodan povzetek razprave s čiščenjem: %(num)i vnosov',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Posodobljen povzetek razprave: %(num)i vnosov na %(page)s',
+	},
+	# Author: Euriditi
+	'sq': {
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'NJOFTIM NGA ROBOTI',
 	},
 	# Author: DrTrigon
 	# Author: Rancher

@@ -263,7 +263,7 @@ msg = {
 	'ja': {
 		'welcome-bad_username': u'ロボットによる: 不適切な利用者名の報告',
 		'welcome-updating': u'ロボットによる: 更新記録',
-		'welcome-welcome': u'ウィキペディア日本語版へようこそ！',
+		'welcome-welcome': u'ウィキペディア日本語版へようこそ!',
 	},
 	# Author: NoiX180
 	'jv': {

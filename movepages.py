@@ -223,6 +223,10 @@ msg = {
 	'sl': {
 		'movepages-moving': u'Robot: Prestavil stran',
 	},
+	# Author: Euriditi
+	'sq': {
+		'movepages-moving': u'Roboti: Faqe e zhvendosur',
+	},
 	# Author: Rancher
 	'sr': {
 		'movepages-moving': u'Робот: премештена страница',
@@ -278,6 +282,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'movepages-moving': u'Bot: Di chuyển trang',
+	},
+	# Author: Harvzsf
+	'war': {
+		'movepages-moving': u'Robot: Ginbalhin an pakli',
 	},
 	# Author: פוילישער
 	'yi': {

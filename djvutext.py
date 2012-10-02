@@ -37,8 +37,9 @@ msg = {
 		'djvutext-creating': u'Robot: Opretter side med tekst udtrykket fra DjVu',
 	},
 	# Author: Purodha
+	# Author: Das Schäfchen
 	'de': {
-		'djvutext-creating': u'Robot: Erstelle eine Seite mit aus DjVu extrahiertem Text',
+		'djvutext-creating': u'Bot: Erstelle eine Seite mit aus DjVu extrahiertem Text',
 	},
 	# Author: Erdemaslancan
 	'diq': {
@@ -65,8 +66,9 @@ msg = {
 		'djvutext-creating': u'ربات: ایجاد صفحه با متن استخراج‌شده از دژاوو',
 	},
 	# Author: Olli
+	# Author: Crt
 	'fi': {
-		'djvutext-creating': u'Botti: Luodaan sivu DjVU:sta puretulle tekstille',
+		'djvutext-creating': u'Botti: Luodaan sivu DjVu-tiedostosta puretulle tekstille',
 	},
 	# Author: EileenSanda
 	'fo': {
@@ -200,6 +202,10 @@ msg = {
 	'sl': {
 		'djvutext-creating': u'Robot: Ustvarjanje strani z besedilom, izvlečenim iz DjVu',
 	},
+	# Author: Euriditi
+	'sq': {
+		'djvutext-creating': u'Roboti: Duke krijuar faqe me tekst të ekstraktuar nga DjVu',
+	},
 	# Author: Rancher
 	'sr': {
 		'djvutext-creating': u'Робот: направљена страница с текстом изведеним из DjVu-а',
@@ -239,6 +245,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'djvutext-creating': u'Bot: Tạo trang theo văn bản trích từ DjVu',
+	},
+	# Author: Harvzsf
+	'war': {
+		'djvutext-creating': u'Robot: Ginhihimo in pakli pinaagi hin sinurat nga ginkuha tikang ha DjVu',
 	},
 	# Author: Anakmalaysia
 	'zh': {

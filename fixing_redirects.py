@@ -222,6 +222,10 @@ msg = {
 	'sl': {
 		'fixing_redirects-fixing': u'Bot: Popravljanje preusmeritev',
 	},
+	# Author: Euriditi
+	'sq': {
+		'fixing_redirects-fixing': u'Roboti: Duke korrigjuar ridrejtimet',
+	},
 	# Author: Rancher
 	'sr': {
 		'fixing_redirects-fixing': u'Бот: исправљена преусмерења',
@@ -271,6 +275,10 @@ msg = {
 	# Author: Srtxg
 	'wa': {
 		'fixing_redirects-fixing': u'Robot: coridjaedje des redjiblaedjes',
+	},
+	# Author: Harvzsf
+	'war': {
+		'fixing_redirects-fixing': u'Bot: Gin-aayad in mga redirek',
 	},
 	# Author: פוילישער
 	'yi': {

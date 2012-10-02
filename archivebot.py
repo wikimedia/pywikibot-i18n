@@ -580,7 +580,10 @@ msg = {
 	},
 	# Author: Marinari
 	# Author: FatosMorina
+	# Author: Euriditi
 	'sq': {
+		'archivebot-archive-full': u'(ARKIVA ËSHTË E MBUSHUR PLOT)',
+		'archivebot-archive-summary': u'Roboti: Duke arkivuar %(count)d {{PLURAL:%(count)d|temën|temat}} nga [[%(from)s]].',
 		'archivebot-older-than': u'më e vjetër se',
 		'archivebot-page-summary': u'Bot: Arkivimi i %(count)d {{PLURAL:%(count)d|temës|temave}} (%(why)s) në %(archives)s.',
 	},

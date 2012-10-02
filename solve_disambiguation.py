@@ -412,6 +412,7 @@ msg = {
 	},
 	# Author: Whym
 	# Author: Fryed-peach
+	# Author: Shirayuki
 	'ja': {
 		'solve_disambiguation-adding-dn-template': u'ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました',
 		'solve_disambiguation-links-removed': u'ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました',
@@ -419,7 +420,7 @@ msg = {
 		'solve_disambiguation-redirect-adding-dn-template': u'ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました',
 		'solve_disambiguation-redirect-removed': u'ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました',
 		'solve_disambiguation-redirect-resolved': u'ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました',
-		'solve_disambiguation-unknown-page': u'（不明）',
+		'solve_disambiguation-unknown-page': u'(不明)',
 	},
 	# Author: NoiX180
 	'jv': {
@@ -570,6 +571,16 @@ msg = {
 	# Author: Lionslayer
 	'my': {
 		'solve_disambiguation-unknown-page': u'(အမည်မသိ)',
+	},
+	# Author: محک
+	'mzn': {
+		'solve_disambiguation-adding-dn-template': u'گجگجی بیری ربوت کومک جه: %(from)s - عَلِمِک‌بزه، متخصص توجه محتاج بی‌ین وسّه',
+		'solve_disambiguation-links-removed': u'گجگجی بیری ربوت کومک جه: %(from)s - لینک(ئون) ِحذف.',
+		'solve_disambiguation-links-resolved': u'گجگجی بیری ربوت کومک جه: %(from)s - لینک [[%(to)s]] ره',
+		'solve_disambiguation-redirect-adding-dn-template': u'گجگجی بیری ربوت کومک جه: %(from)s - علمک بی‌یشته متخصص توجه هاکردن وسّه',
+		'solve_disambiguation-redirect-removed': u'گجگجی بیری ربوت کومک جه: %(from)s - لینک(ئون) ِحذف',
+		'solve_disambiguation-redirect-resolved': u'گجگجی بیری ربوت کومک جه: %(from)s - لینک [[%(to)s]] ره',
+		'solve_disambiguation-unknown-page': u'(نامعلوم)',
 	},
 	# Author: Teòtlalili
 	'nah': {

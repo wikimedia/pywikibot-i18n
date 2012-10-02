@@ -403,6 +403,10 @@ msg = {
 		'featured-good': u'Bot: %(page)s je dober članek',
 		'featured-list': u'Bot: %(page)s je izbrani seznam',
 	},
+	# Author: Euriditi
+	'sq': {
+		'featured-good': u'Roboti: %(page)s është një artikull i mirë',
+	},
 	# Author: Rancher
 	'sr': {
 		'featured-featured': u'Робот: %(page)s је сјајан чланак',

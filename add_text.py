@@ -585,8 +585,9 @@ msg = {
 	'wa': {
 		'add_text-adding': u'robot radjouter %(adding)s',
 	},
+	# Author: Harvzsf
 	'war': {
-		'add_text-adding': u'robot Gindugngan %(adding)s',
+		'add_text-adding': u'Robot: Gindudugang %(adding)s',
 	},
 	'xal': {
 		'add_text-adding': u'көдлвр немв %(adding)s',

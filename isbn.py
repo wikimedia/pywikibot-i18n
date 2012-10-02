@@ -393,6 +393,10 @@ msg = {
 	'vi': {
 		'isbn-formatting': u'Bot: Định dạng ISBN',
 	},
+	# Author: Harvzsf
+	'war': {
+		'isbn-formatting': u'Robot: Ginfoformat an ISBN',
+	},
 	# Author: פוילישער
 	'yi': {
 		'isbn-formatting': u'באט: פֿארמאַטירן ISBN',

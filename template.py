@@ -362,6 +362,12 @@ msg = {
 		'template-removing': u'Bot: Tháo gỡ {{PLURAL:%(num)d|bản mẫu|các bản mẫu}}: %(list)s',
 		'template-substituting': u'Bot: Đổ mã nguồn của {{PLURAL:%(num)d|bản mẫu|các bản mẫu}}: %(list)s',
 	},
+	# Author: Harvzsf
+	'war': {
+		'template-changing': u'Robot: Ginbabag- {{PLURAL:%(num)d|nga batakan|nga mga batakan}}: %(list)s',
+		'template-removing': u'Robot: Ginkukuha {{PLURAL: %(num)d|nga batakan|nga mga batakan}}: %(list)s',
+		'template-substituting': u'Robot: Ginsasalyo-an in {{PLURAL:%(num)d|nga batakan|nga mga batakan}}: %(list)s',
+	},
 	# Author: Yfdyh000
 	'zh': {
 		'template-changing': u'机器人：修改%(num)d个模板：%(list)s',

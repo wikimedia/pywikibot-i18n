@@ -244,6 +244,10 @@ msg = {
 	'sl': {
 		'clean_sandbox-cleaned': u'Robot: Samodejno čiščenje',
 	},
+	# Author: Euriditi
+	'sq': {
+		'clean_sandbox-cleaned': u'Roboti: Pastrim automatik',
+	},
 	# Author: Rancher
 	'sr': {
 		'clean_sandbox-cleaned': u'Робот: очишћен песак',
