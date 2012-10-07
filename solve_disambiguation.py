@@ -12,7 +12,12 @@ msg = {
 	},
 	# Author: Naudefj
 	'af': {
+		'solve_disambiguation-adding-dn-template': u'',
 		'solve_disambiguation-links-removed': u'Robot-ondersteunde aanstuur: %(from)s - skakel(s) verwyder.',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(onbekend)',
 	},
 	# Author: Meno25
@@ -27,6 +32,12 @@ msg = {
 	},
 	# Author: Basharh
 	'arc': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(ܠܐ ܝܕܝܥܐ)',
 	},
 	# Author: Xuacu
@@ -74,13 +85,22 @@ msg = {
 	},
 	# Author: Riemogerz
 	'bjn': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
 		'solve_disambiguation-links-resolved': u'Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Disambiguasi batutulungan bot: %(from)s - Parlu pahatian pakar',
 		'solve_disambiguation-redirect-removed': u'Disambiguasi batutulungan bot: %(from)s - Tautan dihapus',
 		'solve_disambiguation-redirect-resolved': u'Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s',
+		'solve_disambiguation-unknown-page': u'',
 	},
 	# Author: Bellayet
 	'bn': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(অজানা)',
 	},
 	# Author: Y-M D
@@ -117,6 +137,12 @@ msg = {
 	},
 	# Author: Asoxor
 	'ckb': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(نەناسراو)',
 	},
 	# Author: Dontlietome7
@@ -142,6 +168,7 @@ msg = {
 	},
 	# Author: Sarrus
 	'da': {
+		'solve_disambiguation-adding-dn-template': u'',
 		'solve_disambiguation-links-removed': u'Retter flertydigt link til: %(from)s - Fjernede link(s)',
 		'solve_disambiguation-links-resolved': u'Retter flertydigt link til: %(from)s - Ændrede link(s) til %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Robotassisteret flertydig: %(from)s - markeret til at kræve en eksperts opmærksomhed',
@@ -173,6 +200,7 @@ msg = {
 	# Author: Glavkos
 	# Author: Geraki
 	'el': {
+		'solve_disambiguation-adding-dn-template': u'',
 		'solve_disambiguation-links-removed': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν).',
 		'solve_disambiguation-links-resolved': u'Υποβοηθούμενη από ρομπότ αποσαφήνιση: %(from)s - Αλλαγή συνδέσμου(ων) στο %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενος ειδικού',
@@ -213,10 +241,22 @@ msg = {
 	},
 	# Author: Avjoska
 	'et': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(tundmatu)',
 	},
 	# Author: An13sa
 	'eu': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(ezezaguna)',
 	},
 	# Author: Huji
@@ -243,6 +283,10 @@ msg = {
 	},
 	# Author: EileenSanda
 	'fo': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
 		'solve_disambiguation-redirect-removed': u'Rættar leinkju við fleiri týdningum til: %(from)s - Tók burtur leinkju(r)',
 		'solve_disambiguation-redirect-resolved': u'Rætta leinkju við fleiri meiningum: %(from)s - Broytti leinkju(r) til %(to)s',
 		'solve_disambiguation-unknown-page': u'(ókent)',
@@ -281,6 +325,12 @@ msg = {
 	},
 	# Author: Klenje
 	'fur': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(no cognossût)',
 	},
 	# Author: Toliño
@@ -325,6 +375,12 @@ msg = {
 	},
 	# Author: Michawiki
 	'hsb': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'[njeznaty]',
 	},
 	# Author: Dani
@@ -339,6 +395,12 @@ msg = {
 	},
 	# Author: Xelgen
 	'hy': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(անհայտ)',
 	},
 	# Author: McDutchie
@@ -373,6 +435,12 @@ msg = {
 	},
 	# Author: Ukabia
 	'ig': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(nke námaghi)',
 	},
 	# Author: Lam-ang
@@ -387,6 +455,12 @@ msg = {
 	},
 	# Author: Sapral Mikail
 	'inh': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(довзаш дац)',
 	},
 	# Author: Snævar
@@ -434,22 +508,39 @@ msg = {
 	},
 	# Author: David1010
 	'ka': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(უცნობი)',
 	},
 	'kk': {
+		'solve_disambiguation-adding-dn-template': u'',
 		'solve_disambiguation-links-removed': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).',
 		'solve_disambiguation-links-resolved': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
 		'solve_disambiguation-redirect-removed': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).',
 		'solve_disambiguation-redirect-resolved': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s',
+		'solve_disambiguation-unknown-page': u'',
 	},
 	# Author: វ័ណថារិទ្ធ
 	'km': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(មិនស្គាល់)',
 	},
 	# Author: Ricolyuki
 	'ko': {
+		'solve_disambiguation-adding-dn-template': u'',
 		'solve_disambiguation-links-removed': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - 링크 제거',
 		'solve_disambiguation-links-resolved': u'로봇의 도움을 받아 동음이의 처리 : [[%(from)s]] - %(to)s 문서로 링크 걸음',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
 		'solve_disambiguation-redirect-removed': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - 링크 제거',
 		'solve_disambiguation-redirect-resolved': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - %(to)s 문서로 링크 걸음',
 		'solve_disambiguation-unknown-page': u'(알 수 없음)',
@@ -466,10 +557,22 @@ msg = {
 	},
 	# Author: George Animal
 	'ku': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(nenas)',
 	},
 	# Author: MissPetticoats
 	'la': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(ignotus)',
 	},
 	# Author: Robby
@@ -485,18 +588,32 @@ msg = {
 	# Author: Hugo.arg
 	# Author: Homo
 	'lt': {
+		'solve_disambiguation-adding-dn-template': u'',
 		'solve_disambiguation-links-removed': u'Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pašalintos nuorodos',
 		'solve_disambiguation-links-resolved': u'Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
 		'solve_disambiguation-redirect-removed': u'Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pašalintos nuorodos',
 		'solve_disambiguation-redirect-resolved': u'Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s',
 		'solve_disambiguation-unknown-page': u'(nežinomas)',
 	},
 	# Author: Dark Eagle
 	'ltg': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(nazynoms)',
 	},
 	# Author: Dark Eagle
 	'lv': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(nezināms)',
 	},
 	# Author: StefanusRA
@@ -541,10 +658,22 @@ msg = {
 	},
 	# Author: Praveenp
 	'ml': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(അപരിചിതം)',
 	},
 	# Author: Htt
 	'mr': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(अज्ञात)',
 	},
 	# Author: Kurniasan
@@ -570,6 +699,12 @@ msg = {
 	},
 	# Author: Lionslayer
 	'my': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(အမည်မသိ)',
 	},
 	# Author: محک
@@ -584,6 +719,12 @@ msg = {
 	},
 	# Author: Teòtlalili
 	'nah': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(âmò ìxmatkàyö)',
 	},
 	# Author: Laaknor
@@ -640,14 +781,32 @@ msg = {
 	# Author: Harald Khan
 	# Author: Njardarlogar
 	'nn': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(ukjend)',
 	},
 	# Author: Bouron
 	'os': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(нæзонгæ)',
 	},
 	# Author: Xqt
 	'pdc': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(net bekannt)',
 	},
 	# Author: Sp5uhe
@@ -673,6 +832,12 @@ msg = {
 	},
 	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
 	'ps': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(ناڅرګند)',
 	},
 	# Author: Malafaya
@@ -732,6 +897,12 @@ msg = {
 	},
 	# Author: Gazeb
 	'rue': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(незнаме)',
 	},
 	# Author: Avicennasis
@@ -746,6 +917,12 @@ msg = {
 	},
 	# Author: බිඟුවා
 	'si': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(නොදත්)',
 	},
 	# Author: Wizzard
@@ -812,6 +989,12 @@ msg = {
 	},
 	# Author: Baba Tabita
 	'sw': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'{haijulikani}',
 	},
 	# Author: செல்வா
@@ -821,10 +1004,17 @@ msg = {
 		'solve_disambiguation-links-resolved': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) தொடுப்புகள்  %(to)s உக்கு மாற்றப்பட்டன',
 		'solve_disambiguation-redirect-adding-dn-template': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - வல்லுநர் தேவை என்று குறிக்கப்பெற்றது',
 		'solve_disambiguation-redirect-removed': u'தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) நீக்கப்பட்டன',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(அறியாதது)',
 	},
 	# Author: Veeven
 	'te': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(తెలియదు)',
 	},
 	# Author: AnakngAraw
@@ -905,10 +1095,22 @@ msg = {
 	},
 	# Author: Malafaya
 	'vo': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(nesevädik)',
 	},
 	# Author: פוילישער
 	'yi': {
+		'solve_disambiguation-adding-dn-template': u'',
+		'solve_disambiguation-links-removed': u'',
+		'solve_disambiguation-links-resolved': u'',
+		'solve_disambiguation-redirect-adding-dn-template': u'',
+		'solve_disambiguation-redirect-removed': u'',
+		'solve_disambiguation-redirect-resolved': u'',
 		'solve_disambiguation-unknown-page': u'(אומבאַקאַנט)',
 	},
 	# Author: 阿pp

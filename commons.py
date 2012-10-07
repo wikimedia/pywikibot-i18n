@@ -33,6 +33,7 @@ msg = {
 	},
 	# Author: DCLXVI
 	'bg': {
+		'commons-file-moved': u'',
 		'commons-file-now-available': u'Файлът вече е наличен в [[:commons:File:%(commonsfile)s|Общомедия]].',
 	},
 	# Author: Riemogerz
@@ -63,6 +64,7 @@ msg = {
 	},
 	# Author: Pwyll
 	'cy': {
+		'commons-file-moved': u'',
 		'commons-file-now-available': u'Mae\'r ffeil bellach ar gael ar [[:commons:File:%(commonsfile)s|Comin Wicifryngau]].',
 	},
 	# Author: Peter Alberti
@@ -148,6 +150,7 @@ msg = {
 	},
 	# Author: Michawiki
 	'hsb': {
+		'commons-file-moved': u'',
 		'commons-file-now-available': u'Dataja steji nětko na [[:commons:File:%(commonsfile)s|Wikimedia Commons]] k dispoziciji.',
 	},
 	# Author: Dj
