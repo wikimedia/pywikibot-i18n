@@ -9,8 +9,6 @@ msg = {
 	},
 	# Author: Naudefj
 	'af': {
-		'featured-featured': u'',
-		'featured-former': u'',
 		'featured-good': u'Robot: %(page)s is \'n goeie artikel',
 		'featured-list': u'Robot: %(page)s is \'n uitgeligte lys',
 	},
@@ -38,9 +36,6 @@ msg = {
 	},
 	'bat-smg': {
 		'featured-featured': u'robots: Pavīzdėnė straipsnė nūruoda %(page)s',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
@@ -88,9 +83,7 @@ msg = {
 	},
 	'cy': {
 		'featured-featured': u'Robot: Mae %(page)s yn erthygl ddethol',
-		'featured-former': u'',
 		'featured-good': u'Robot: Mae %(page)s yn erthygl dda',
-		'featured-list': u'',
 	},
 	# Author: Emaus
 	'da': {
@@ -114,9 +107,6 @@ msg = {
 	},
 	'dsb': {
 		'featured-featured': u'Bot: %(page)s jo wuběrny nastawk',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	# Author: Geraki
 	# Author: Glavkos
@@ -134,9 +124,7 @@ msg = {
 	},
 	'eo': {
 		'featured-featured': u'roboto: %(page)s estas artikolo elstara',
-		'featured-former': u'',
 		'featured-good': u'roboto: %(page)s estas artikolo leginda',
-		'featured-list': u'',
 	},
 	'es': {
 		'featured-featured': u'Bot: Enlace a artículo destacado para: %(page)s',
@@ -207,15 +195,9 @@ msg = {
 	},
 	'hr': {
 		'featured-featured': u'Bot: Interwiki za izabrane članke za %(page)s',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	'hsb': {
 		'featured-featured': u'Bot: %(page)s je wuběrny nastawk',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	# Author: Dj
 	'hu': {
@@ -277,15 +259,10 @@ msg = {
 	},
 	'ka': {
 		'featured-featured': u'ბოტი: რჩეული სტატიის ბმული გვერდისათვის %(page)s',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	'ko': {
 		'featured-featured': u'로봇: 알찬 글 %(page)s',
-		'featured-former': u'',
 		'featured-good': u'로봇: 좋은 글 %(page)s',
-		'featured-list': u'',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -303,9 +280,6 @@ msg = {
 	},
 	'lt': {
 		'featured-featured': u'Bot: Pavyzdinis straipsnis %(page)s',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -359,15 +333,10 @@ msg = {
 	},
 	'nn': {
 		'featured-featured': u'bot: %(page)s er ein god artikkel',
-		'featured-former': u'',
 		'featured-good': u'bot: %(page)s er ein god artikkel',
-		'featured-list': u'',
 	},
 	'nv': {
 		'featured-featured': u'Naaltsoos %(page)s kʼad nizhónígo ályaa',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	# Author: Shisir 1945
 	'or': {
@@ -436,10 +405,7 @@ msg = {
 	},
 	# Author: Euriditi
 	'sq': {
-		'featured-featured': u'',
-		'featured-former': u'',
 		'featured-good': u'Roboti: %(page)s është një artikull i mirë',
-		'featured-list': u'',
 	},
 	# Author: Rancher
 	'sr': {
@@ -471,16 +437,10 @@ msg = {
 	},
 	# Author: Aswn
 	'ta': {
-		'featured-featured': u'',
-		'featured-former': u'',
 		'featured-good': u'தானியங்கி: %(page)s ஒரு நல்ல கட்டுரையாகும்',
-		'featured-list': u'',
 	},
 	'th': {
 		'featured-featured': u'บอต: ลิงก์บทความคัดสรร %(page)s',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	# Author: AnakngAraw
 	'tl': {
@@ -535,16 +495,10 @@ msg = {
 	},
 	'vo': {
 		'featured-featured': u'Bot: Yüm yegeda gudik tefü %(page)s',
-		'featured-former': u'',
-		'featured-good': u'',
-		'featured-list': u'',
 	},
 	# Author: פוילישער
 	'yi': {
-		'featured-featured': u'',
-		'featured-former': u'',
 		'featured-good': u'באט: %(page)s איז א גוטער אַרטיקל',
-		'featured-list': u'',
 	},
 	# Author: Yfdyh000
 	'zh': {

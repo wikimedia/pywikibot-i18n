@@ -34,7 +34,6 @@ msg = {
 	# Author: LexArt
 	'be': {
 		'cosmetic_changes-append': u'; дробныя змены',
-		'cosmetic_changes-standalone': u'',
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
@@ -189,7 +188,6 @@ msg = {
 	# Author: Xelgen
 	'hy': {
 		'cosmetic_changes-append': u'; կոսմետիկ փոփոխություններ',
-		'cosmetic_changes-standalone': u'',
 	},
 	'ia': {
 		'cosmetic_changes-append': u'; cambios cosmetic',

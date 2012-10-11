@@ -11,11 +11,7 @@ msg = {
 	},
 	# Author: Naudefj
 	'af': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
 		'category_redirect-comment': u'Robot vir onderhoud van kategorie-aansture',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robot: dubbele aanstuur reggemaak',
 	},
 	# Author: OsamaK
@@ -59,11 +55,6 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Korrigiar dóppéde Weiderloattung',
 	},
 	'bat-smg': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms',
 	},
 	# Author: EugeneZelenko
@@ -77,11 +68,6 @@ msg = {
 	},
 	# Author: DCLXVI
 	'bg': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Робот: оправяне на двойно пренасочване',
 	},
 	# Author: Riemogerz
@@ -96,10 +82,7 @@ msg = {
 	# Author: Wikitanvir
 	'bn': {
 		'category_redirect-add-template': u'বট: রক্ষণাবেক্ষণের জন্য বিষয়শ্রেণী পুনর্নির্দেশ টেমপ্লেট যোগ করছে',
-		'category_redirect-change-category': u'',
 		'category_redirect-comment': u'বিষয়শ্রেণী পুনর্নির্দেশ রক্ষণাবেক্ষণ বট',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'বট: দ্বিপুনর্নির্দেশনা ঠিক করছে',
 	},
 	# Author: Fulup
@@ -132,11 +115,6 @@ msg = {
 	},
 	# Author: Asoxor
 	'ckb': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجارڕەوانەکردنەوە',
 	},
 	# Author: Spiffyk
@@ -164,7 +142,6 @@ msg = {
 		'category_redirect-add-template': u'Robot: tilføjer kategoriomdirigeringsskabelon for vedligeholdelse',
 		'category_redirect-change-category': u'Robot: Ændrer omdirigeret kategori: %(oldCatLink)s, %(oldCatTitle)s, %(newCatLink)s, %(newCatTitle)s',
 		'category_redirect-comment': u'Bot til at vedligeholde kategoriomdirigeringer',
-		'category_redirect-edit-request': u'',
 		'category_redirect-edit-request-item': u'* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Retter dobbelt omdirigering',
 	},
@@ -184,7 +161,6 @@ msg = {
 		'category_redirect-comment': u'Bot zur Wartung von Kategorieweiterleitungen',
 		'category_redirect-edit-request': u'Die folgenden geschützten Seiten benötigen noch eine Kategorielink-Aktualisierung: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
-		'category_redirect-fix-double': u'',
 	},
 	# Author: Erdemaslancan
 	'diq': {
@@ -218,7 +194,6 @@ msg = {
 		'category_redirect-add-template': u'Roboto: aldonanta ŝablonon pri alidirekta kategorio por prizorgado',
 		'category_redirect-change-category': u'Roboto: ŝanĝi alidirektan kategorion [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Zorga roboto pri kategoria alidirekto',
-		'category_redirect-edit-request': u'',
 		'category_redirect-edit-request-item': u'* %(title)s estas en %(oldcat)s, kiu estas alidirekto al %(newcat)s',
 		'category_redirect-fix-double': u'Roboto: Riparis duoblan alidirekton',
 	},
@@ -235,20 +210,10 @@ msg = {
 	},
 	# Author: Pikne
 	'et': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robot: parandatud kahekordne ümbersuunamine',
 	},
 	# Author: An13sa
 	'eu': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robota: birzuzenketa bikoitza konpontzen',
 	},
 	# Author: Ebraminio
@@ -273,12 +238,7 @@ msg = {
 	},
 	# Author: EileenSanda
 	'fo': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
 		'category_redirect-comment': u'Bottur til at viðlíkahalda bólka flytingar',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
-		'category_redirect-fix-double': u'',
 	},
 	# Author: Crochet.david
 	# Author: Hashar
@@ -311,19 +271,9 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Ferbeedre dobelt widjerfeerang',
 	},
 	'fur': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robot: o comedi un re-indreçament dopli',
 	},
 	'ga': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Róbó: Ag socrú athsheolta dúbailte',
 	},
 	# Author: Toliño
@@ -356,10 +306,6 @@ msg = {
 	# Author: Mayur
 	'hi': {
 		'category_redirect-add-template': u'रखरखाव के लिए अनुप्रेषित साँचा जोड़ा गया',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'दुगना अनुप्रेषण सही किया गया',
 	},
 	# Author: Ex13
@@ -455,27 +401,12 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Mbeneraké pangalihan dobel',
 	},
 	'ka': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'რობოტი: ორმაგი გადამისამართების გასწორება',
 	},
 	'kk': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті',
 	},
 	'ko': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'로봇: 이중 넘겨주기 수정',
 	},
 	# Author: Purodha
@@ -488,11 +419,6 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Dubbel Ömlëijdong fottjemaat.',
 	},
 	'la': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'automaton: rectificatio redirectionis duplicis',
 	},
 	# Author: Robby
@@ -514,20 +440,10 @@ msg = {
 		'category_redirect-fix-double': u'Robot: dobbele doorverwiezing aangepas',
 	},
 	'lt': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas',
 	},
 	# Author: Papuass
 	'lv': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robots: Labo dubultu pāradresāciju',
 	},
 	# Author: StefanusRA
@@ -569,11 +485,6 @@ msg = {
 	},
 	# Author: Praveenp
 	'ml': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'യന്ത്രം: ഇരട്ട-തിരിച്ചുവിടലുകൾ ശരിയാക്കുന്നു',
 	},
 	# Author: Anakmalaysia
@@ -586,19 +497,9 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Memperbetulkan pelencongan berganda',
 	},
 	'mt': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Bot: Tranġar ta\' rindirizz doppju',
 	},
 	'mzn': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'ربوت:عوض هایتن دکشیه‌ئون دِتایی',
 	},
 	# Author: Nghtwlkr
@@ -638,27 +539,12 @@ msg = {
 		'category_redirect-fix-double': u'Robot: dubbele doorverwijzing gecorrigeerd',
 	},
 	'nn': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'robot: retta dobbel omdirigering',
 	},
 	'pdc': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Waddefresser: Doppelte Weiderleiding',
 	},
 	'pfl': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Bot: E doppelte Waiterlaitung vabessat',
 	},
 	# Author: Sp5uhe
@@ -700,11 +586,6 @@ msg = {
 	},
 	# Author: Xqt
 	'qqq': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Edit summary when the bot fixes double category redirects.',
 	},
 	# Author: Minisarm
@@ -726,11 +607,6 @@ msg = {
 		'category_redirect-fix-double': u'Робот: исправление двойного перенаправления',
 	},
 	'rue': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Робот: справив двоїте напрямлїня',
 	},
 	# Author: Avicennasis
@@ -800,27 +676,15 @@ msg = {
 	# Author: Przemub
 	'szl': {
 		'category_redirect-add-template': u'Robot dodaje muster pukniyńcia kategoryje',
-		'category_redirect-change-category': u'',
 		'category_redirect-comment': u'Naprawa pukniyńć',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robot sprowjo tuplowane przekerowańa',
 	},
 	# Author: செல்வா
 	'ta': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
 		'category_redirect-comment': u'வகைப்பாட்டு மாற்றுவழிப் பராமரிப்புத் தானியங்கி',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'தானியங்கி: எதிரெதிர் வழிமாற்றுதலைச் சரிசெய்தல்',
 	},
 	'th': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน',
 	},
 	# Author: AnakngAraw
@@ -863,12 +727,7 @@ msg = {
 	},
 	# Author: Sahran
 	'ug': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
 		'category_redirect-comment': u'كاتېگورىيە ماشىنا ئادەمگە قايتا نىشانلاندى',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
-		'category_redirect-fix-double': u'',
 	},
 	# Author: Ahonc
 	# Author: AS
@@ -901,11 +760,6 @@ msg = {
 		'category_redirect-fix-double': u'Bot: Sửa thể loại đổi hướng kép',
 	},
 	'war': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'Robot: Gin-ayad in nagduduha nga redirek',
 	},
 	# Author: פוילישער
@@ -918,11 +772,6 @@ msg = {
 		'category_redirect-fix-double': u'באט: פארראכטן פארטאפלטע ווייטערפירונג',
 	},
 	'zh-classical': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'僕:復修渡口',
 	},
 	# Author: Liangent
@@ -955,11 +804,6 @@ msg = {
 		'category_redirect-fix-double': u'機械人修復雙重重定向',
 	},
 	'zh-yue': {
-		'category_redirect-add-template': u'',
-		'category_redirect-change-category': u'',
-		'category_redirect-comment': u'',
-		'category_redirect-edit-request': u'',
-		'category_redirect-edit-request-item': u'',
 		'category_redirect-fix-double': u'機械人：拉直連串跳轉',
 	},
 }

@@ -25,8 +25,6 @@ msg = {
 	},
 	# Author: Man2fly2002
 	'arc': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'ܒܫܝܢܐ!',
 	},
 	# Author: Xuacu
@@ -45,8 +43,6 @@ msg = {
 	},
 	# Author: Roustammr
 	'ba': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Рәхим итегеҙ!',
 	},
 	# Author: EugeneZelenko
@@ -59,18 +55,13 @@ msg = {
 	# Author: Riemogerz
 	'bjn': {
 		'welcome-bad_username': u'Bot: Manambahakan ngaran pamakai nang parlu dipariksa',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Salamat datang',
 	},
 	'bn': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Welcome!',
 	},
 	# Author: Freeyak
 	'bo': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'དགའ་བསུ་ཞུ།',
 	},
 	# Author: Y-M D
@@ -93,8 +84,6 @@ msg = {
 	},
 	# Author: Asoxor
 	'ckb': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'بەخێربێی!',
 	},
 	# Author: Spiffyk
@@ -139,8 +128,6 @@ msg = {
 	},
 	# Author: Objectivesea
 	'eo': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Bonvenon!',
 	},
 	# Author: Crazymadlover
@@ -154,14 +141,11 @@ msg = {
 	# Author: Pikne
 	# Author: Avjoska
 	'et': {
-		'welcome-bad_username': u'',
 		'welcome-updating': u'Robot: logi uuendatud',
 		'welcome-welcome': u'Tere tulemast!',
 	},
 	# Author: An13sa
 	'eu': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Ongi etorri!',
 	},
 	# Author: Mjbmr
@@ -204,7 +188,6 @@ msg = {
 		'welcome-welcome': u'Welkimen!',
 	},
 	'ga': {
-		'welcome-bad_username': u'',
 		'welcome-updating': u'Bot: Log a thabhairt suas chun dáta',
 		'welcome-welcome': u'Fáilte!',
 	},
@@ -228,14 +211,11 @@ msg = {
 	},
 	# Author: Ex13
 	'hr': {
-		'welcome-bad_username': u'',
 		'welcome-updating': u'Bot: ažuriranje zapisnika',
 		'welcome-welcome': u'Dobrodošli!',
 	},
 	# Author: Michawiki
 	'hsb': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Witaj!',
 	},
 	# Author: Dj
@@ -247,8 +227,6 @@ msg = {
 	},
 	# Author: Xelgen
 	'hy': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Բարի՛ գալուստ',
 	},
 	# Author: McDutchie
@@ -294,20 +272,14 @@ msg = {
 		'welcome-welcome': u'Sugeng rawuh!',
 	},
 	'ka': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'კეთილი იყოს თქვენი მობრძანება!',
 	},
 	# Author: Nayvik
 	'kn': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'ಸುಸ್ವಾಗತ!',
 	},
 	# Author: Kwj2772
 	'ko': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'환영합니다!',
 	},
 	# Author: Rentenirer
@@ -318,8 +290,6 @@ msg = {
 	},
 	# Author: George Animal
 	'ku': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Tu bi xêr hatî!',
 	},
 	# Author: Robby
@@ -330,14 +300,10 @@ msg = {
 	},
 	# Author: Eruedin
 	'ln': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Mbɔ́tɛ',
 	},
 	# Author: Eitvys200
 	'lt': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Sveiki atvykę!',
 	},
 	# Author: RMizo
@@ -348,8 +314,6 @@ msg = {
 	},
 	# Author: Papuass
 	'lv': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Laipni lūdzam!',
 	},
 	# Author: StefanusRA
@@ -367,14 +331,11 @@ msg = {
 	},
 	# Author: Praveenp
 	'ml': {
-		'welcome-bad_username': u'',
 		'welcome-updating': u'യന്ത്രം: രേഖ പുതുക്കുന്നു',
 		'welcome-welcome': u'സ്വാഗതം!',
 	},
 	# Author: Kaajawa
 	'mr': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'सुस्वागतम्‌!',
 	},
 	# Author: Diagramma Della Verita
@@ -385,8 +346,6 @@ msg = {
 	},
 	# Author: Chrisportelli
 	'mt': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Merħba!',
 	},
 	# Author: Lokal Profil
@@ -410,20 +369,15 @@ msg = {
 	# Author: Harald Khan
 	# Author: Njardarlogar
 	'nn': {
-		'welcome-bad_username': u'',
 		'welcome-updating': u'robot: oppdaterer logg',
 		'welcome-welcome': u'velkomen!',
 	},
 	# Author: Boulaur
 	'oc': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Benvenguda!',
 	},
 	# Author: Shisir 1945
 	'or': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'ସ୍ଵାଗତ!',
 	},
 	'pdc': {
@@ -446,8 +400,6 @@ msg = {
 	},
 	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
 	'ps': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'ښه راغلۍ!',
 	},
 	# Author: Giro720
@@ -485,8 +437,6 @@ msg = {
 	},
 	# Author: බිඟුවා
 	'si': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'ආයුබෝවන් !',
 	},
 	# Author: Wizzard
@@ -526,8 +476,6 @@ msg = {
 	},
 	# Author: Baba Tabita
 	'sw': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Karibu!',
 	},
 	# Author: Przemub
@@ -546,7 +494,6 @@ msg = {
 	# Author: Jprmvnvijay5
 	# Author: Veeven
 	'te': {
-		'welcome-bad_username': u'',
 		'welcome-updating': u'బాటు: చిట్టాను తాజాకరించింది',
 		'welcome-welcome': u'రండి',
 	},
@@ -596,8 +543,6 @@ msg = {
 		'welcome-welcome': u'Hoan nghênh!',
 	},
 	'vo': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Benokömö!',
 	},
 	# Author: Srtxg
@@ -608,14 +553,10 @@ msg = {
 	},
 	# Author: פוילישער
 	'yi': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'ברוך הבא!',
 	},
 	# Author: Demmy
 	'yo': {
-		'welcome-bad_username': u'',
-		'welcome-updating': u'',
 		'welcome-welcome': u'Ẹkúàbọ̀!',
 	},
 	# Author: Anakmalaysia
@@ -640,7 +581,6 @@ msg = {
 		'welcome-welcome': u'歡迎！',
 	},
 	'zh-yue': {
-		'welcome-bad_username': u'',
 		'welcome-updating': u'Bot: 更新日誌',
 		'welcome-welcome': u'歡迎',
 	},

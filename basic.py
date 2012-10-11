@@ -196,10 +196,6 @@ msg = {
 	'jv': {
 		'basic-changing': u'Bot: Ngganti ...',
 	},
-	# Author: Amazigh84
-	'kab': {
-		'basic-changing': u'Aṛubut: Azdam ...',
-	},
 	# Author: វ័ណថារិទ្ធ
 	'km': {
 		'basic-changing': u'Bot: កំពុងផ្លាស់ប្ដូរ ...',

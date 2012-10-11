@@ -22,7 +22,6 @@ msg = {
 	'az': {
 		'template-changing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
 		'template-removing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
-		'template-substituting': u'',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -209,7 +208,6 @@ msg = {
 	'lt': {
 		'template-changing': u'robotas: {{PLURAL:%(num)d|Keičiamas šablonas|Keičiami šablonai}}: %(list)s',
 		'template-removing': u'robotas: {{PLURAL:%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s',
-		'template-substituting': u'',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -323,13 +321,10 @@ msg = {
 	'ta': {
 		'template-changing': u'தானியங்கி:{{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} மாற்றப்பட்டது: %(list)s',
 		'template-removing': u'தானியங்கி: {{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} நீக்கப்பட்டது: %(list)s',
-		'template-substituting': u'',
 	},
 	# Author: Veeven
 	'te': {
-		'template-changing': u'',
 		'template-removing': u'బాటు: {{PLURAL:%(num)d|మూసను|మూసలను}} తొలగించింది: %(list)s',
-		'template-substituting': u'',
 	},
 	# Author: AnakngAraw
 	'tl': {

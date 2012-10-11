@@ -10,11 +10,7 @@ msg = {
 	},
 	# Author: Naudefj
 	'af': {
-		'delete-from-category': u'',
 		'delete-from-file': u'Robot: skrap \'n lys van lêers.',
-		'delete-images': u'',
-		'delete-linked-pages': u'',
-		'delete-referring-pages': u'',
 	},
 	'ar': {
 		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
@@ -76,10 +72,7 @@ msg = {
 	# Author: Asoxor
 	'ckb': {
 		'delete-from-category': u'ڕۆبۆت: سڕینەوەی گشت پەڕەکان لە پۆلی %(page)s',
-		'delete-from-file': u'',
 		'delete-images': u'ڕۆبۆت: سڕینەوەی گشت وێنەکانی پەڕەی %(page)s',
-		'delete-linked-pages': u'',
-		'delete-referring-pages': u'',
 	},
 	'cs': {
 		'delete-from-category': u'Robot smazal obsah kategorie %(page)s',
@@ -90,11 +83,7 @@ msg = {
 	},
 	# Author: Tjernobyl
 	'da': {
-		'delete-from-category': u'',
-		'delete-from-file': u'',
 		'delete-images': u'Bot: Sletter alle billeder på siden %(page)s',
-		'delete-linked-pages': u'',
-		'delete-referring-pages': u'',
 	},
 	# Author: MF-Warburg
 	# Author: ChrisiPK
@@ -133,8 +122,6 @@ msg = {
 		'delete-from-category': u'Roboto: Forigante ĉiujn paĝojn de la kategorio %(page)s',
 		'delete-from-file': u'Roboto: Forigante liston da dosieroj',
 		'delete-images': u'Roboto: Forigante ĉiujn bildojn ĉe la paĝo %(page)s',
-		'delete-linked-pages': u'',
-		'delete-referring-pages': u'',
 	},
 	# Author: Vivaelcelta
 	# Author: Invadinado
@@ -310,17 +297,12 @@ msg = {
 	'lt': {
 		'delete-from-category': u'robotas: Trinami visi puslapiai iš kategorijos %(page)s',
 		'delete-from-file': u'Robotas: Trinamas failų sąrašas.',
-		'delete-images': u'',
 		'delete-linked-pages': u'robotas: Trinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s',
 		'delete-referring-pages': u'robotas: Trinami visi puslapiai, rodantys į %(page)s',
 	},
 	# Author: Papuass
 	'lv': {
-		'delete-from-category': u'',
 		'delete-from-file': u'Robots: Dzēš failu sarakstu.',
-		'delete-images': u'',
-		'delete-linked-pages': u'',
-		'delete-referring-pages': u'',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -385,7 +367,6 @@ msg = {
 		'delete-from-file': u'robot: sletta ei liste med filer',
 		'delete-images': u'robot: sletta alle bileta på sida %(page)s',
 		'delete-linked-pages': u'robot: slettar alle sidene som er lenkja til frå %(page)s',
-		'delete-referring-pages': u'',
 	},
 	# Author: Shisir 1945
 	'or': {
@@ -493,11 +474,7 @@ msg = {
 	},
 	# Author: Baba Tabita
 	'sw': {
-		'delete-from-category': u'',
 		'delete-from-file': u'Karagosi: Kuondoa orodha ya faili.',
-		'delete-images': u'',
-		'delete-linked-pages': u'',
-		'delete-referring-pages': u'',
 	},
 	# Author: Przemub
 	'szl': {
@@ -513,7 +490,6 @@ msg = {
 		'delete-from-file': u'தானியங்கி: ஒரு பட்டியலிலுள்ள கோப்புகள் நீக்கப்படுகின்றன.',
 		'delete-images': u'தானியங்கி:%(page)s பக்கத்திலுள்ள அனைத்துக் கோப்புகளும் நீக்கப்படுகின்றன',
 		'delete-linked-pages': u'தானியங்கி:%(page)s பக்கத்துடன் இணைக்கப்பட்டுள்ள அனைத்து பக்கங்களும் நீக்கப்படுகின்றன',
-		'delete-referring-pages': u'',
 	},
 	# Author: AnakngAraw
 	'tl': {
@@ -548,11 +524,7 @@ msg = {
 	},
 	# Author: CoderSI
 	'uz': {
-		'delete-from-category': u'',
 		'delete-from-file': u'Bot: Fayllar ro‘yxati o‘chirildi',
-		'delete-images': u'',
-		'delete-linked-pages': u'',
-		'delete-referring-pages': u'',
 	},
 	# Author: Alunardon90
 	# Author: GatoSelvadego

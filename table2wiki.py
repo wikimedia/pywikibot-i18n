@@ -45,7 +45,6 @@ msg = {
 	},
 	# Author: Asoxor
 	'ckb': {
-		'table2wiki-no-warning': u'',
 		'table2wiki-warnings': u'ڕۆبۆتی کۆنترۆڵکراو بەدەستی بەکارھێنەر: ڕستەسازیی خشتە نوێکرایەوە - {{PLURAL:count|١ ئاگاداری|%(count)d ئاگاداری}}!',
 	},
 	# Author: Spiffyk
@@ -66,7 +65,6 @@ msg = {
 	# Author: Glavkos
 	'el': {
 		'table2wiki-no-warning': u'Ρομπότ ελεγχόμενο από το χρήστη: Ο πίνακας σύνταξης ενημερώθηκε',
-		'table2wiki-warnings': u'',
 	},
 	# Author: Xqt
 	'en': {
@@ -243,7 +241,6 @@ msg = {
 	# Author: Xqt
 	# Author: Siebrand
 	'qqq': {
-		'table2wiki-no-warning': u'',
 		'table2wiki-warnings': u'The message is used as an edit comment. Variables:\n* Variable "%(count)d" is probably a number.\n* You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(count)d|1 entry|%(count)d entries}}</nowiki></code>)\n* You may also use PLURAL tag like (<code><nowiki>{{PLURAL:count|1 entry|%(count)d entries}}</nowiki></code>)',
 	},
 	# Author: Minisarm

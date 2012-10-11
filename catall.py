@@ -136,10 +136,6 @@ msg = {
 	'jv': {
 		'catall-changing': u'Bot: Nggawé katégori',
 	},
-	# Author: Amazigh84
-	'kab': {
-		'catall-changing': u'Aṛubut: Azdam taggayin',
-	},
 	'ksh': {
 		'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',
 	},

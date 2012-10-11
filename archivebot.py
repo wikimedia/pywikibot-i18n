@@ -44,10 +44,8 @@ msg = {
 	# Author: Vago
 	'az': {
 		'archivebot-archive-full': u'(TAM ARXİV)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'böyükdür',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Jim-by
 	# Author: Renessaince
@@ -68,11 +66,7 @@ msg = {
 	},
 	# Author: Bellayet
 	'bn': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-older-than': u'',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Fulup
 	# Author: Y-M D
@@ -104,7 +98,6 @@ msg = {
 	# Author: Muhammed taha
 	'ckb': {
 		'archivebot-archive-full': u'(ئەرشیڤ پڕە)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{ئەرشیڤی وتووێژ}}',
 		'archivebot-older-than': u'کۆنتر لە',
 		'archivebot-page-summary': u'ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s.',
@@ -121,18 +114,10 @@ msg = {
 	# Author: Pwyll
 	'cy': {
 		'archivebot-archive-full': u'(ARCHIF YN LLAWN)',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
-		'archivebot-older-than': u'',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Tjernobyl
 	'da': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'ældre end',
-		'archivebot-page-summary': u'',
 	},
 	# Author: MF-Warburg
 	# Author: ChrisiPK
@@ -198,11 +183,7 @@ msg = {
 	},
 	# Author: Avjoska
 	'et': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'vanem kui',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
@@ -224,10 +205,8 @@ msg = {
 	# Author: EileenSanda
 	'fo': {
 		'archivebot-archive-full': u'(ARKIVIÐ ER FULT)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'eldri enn',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Gomoko
 	# Author: Xqt
@@ -286,18 +265,14 @@ msg = {
 	# Author: Ex13
 	'hr': {
 		'archivebot-archive-full': u'(ARHIV JE PUN)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'starije od',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Michawiki
 	'hsb': {
 		'archivebot-archive-full': u'(ARCHIWA POŁNA)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'starši hač',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Dj
 	'hu': {
@@ -310,10 +285,7 @@ msg = {
 	# Author: Xelgen
 	'hy': {
 		'archivebot-archive-full': u'(ԱՐԽԻՎԸ ԼՑՎԱԾ Է)',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'ավելի հին քան',
-		'archivebot-page-summary': u'',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -379,26 +351,11 @@ msg = {
 	# Author: David1010
 	'ka': {
 		'archivebot-archive-full': u'(არქივი სავსეა)',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
-		'archivebot-older-than': u'',
-		'archivebot-page-summary': u'',
-	},
-	# Author: Amazigh84
-	'kab': {
-		'archivebot-archive-full': u'Aγbar iččuṛ',
-		'archivebot-archive-summary': u'Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} sγuṛ [[%(from)s]].',
-		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-older-than': u'D-aqbuṛ γef',
-		'archivebot-page-summary': u'Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) γer %(archives)s.',
 	},
 	# Author: Kwj2772
 	'ko': {
-		'archivebot-archive-full': u'',
 		'archivebot-archive-summary': u'[[%(from)s]]에서 스레드 %(count)d개를 보존함.',
 		'archivebot-archiveheader': u'{{보존}}',
-		'archivebot-older-than': u'',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -428,26 +385,18 @@ msg = {
 	# Author: Eitvys200
 	'lt': {
 		'archivebot-archive-full': u'(ARCHYVAS PILNAS)',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'senesnis nei',
-		'archivebot-page-summary': u'',
 	},
 	# Author: RMizo
 	'lus': {
 		'archivebot-archive-full': u'(HLUIHLAWN KHUR A KHAT TA)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'aia hlui zâwk',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Papuass
 	'lv': {
 		'archivebot-archive-full': u'(ARHĪVS PILNS)',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'vecāks par',
-		'archivebot-page-summary': u'',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -475,11 +424,7 @@ msg = {
 	},
 	# Author: Kaajawa
 	'mr': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'याहून जुने',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -492,10 +437,8 @@ msg = {
 	# Author: Chrisportelli
 	'mt': {
 		'archivebot-archive-full': u'(ARKIVJU MIMLI)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'eqdem minn',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Xqt
 	'no': {
@@ -545,18 +488,12 @@ msg = {
 	# Author: Jnanaranjan Sahu
 	'or': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'ଠାରୁ ପୁରୁଣା',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Xqt
 	'pdc': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'elder ass',
-		'archivebot-page-summary': u'',
 	},
 	# Author: BeginaFelicysym
 	# Author: Xqt
@@ -595,10 +532,8 @@ msg = {
 	},
 	# Author: McDutchie
 	'qqq': {
-		'archivebot-archive-full': u'',
 		'archivebot-archive-summary': u'Summary message when the bot adds threads to the archive.',
 		'archivebot-archiveheader': u'Template that will be put on new archive pages as the header.',
-		'archivebot-older-than': u'',
 		'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
 	},
 	# Author: Minisarm
@@ -623,11 +558,8 @@ msg = {
 	# Author: බිඟුවා
 	# Author: පසිඳු කාවින්ද
 	'si': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'වඩා වයස',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Wizzard
 	# Author: Teslaton
@@ -652,7 +584,6 @@ msg = {
 	'sq': {
 		'archivebot-archive-full': u'(ARKIVA ËSHTË E MBUSHUR PLOT)',
 		'archivebot-archive-summary': u'Roboti: Duke arkivuar %(count)d {{PLURAL:%(count)d|temën|temat}} nga [[%(from)s]].',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'më e vjetër se',
 		'archivebot-page-summary': u'Bot: Arkivimi i %(count)d {{PLURAL:%(count)d|temës|temave}} (%(why)s) në %(archives)s.',
 	},
@@ -683,11 +614,7 @@ msg = {
 	},
 	# Author: Stephenwanjau
 	'sw': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'nzee kuzidi',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Przemub
 	'szl': {
@@ -701,26 +628,16 @@ msg = {
 	# Author: Karthi.dr
 	'ta': {
 		'archivebot-archive-full': u'(காப்பகம் நிரம்பியுள்ளது)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{உரையாடல் காப்பகம்}}',
 		'archivebot-older-than': u'முந்தையது',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Jprmvnvijay5
 	'te': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'కన్నా పాతది',
-		'archivebot-page-summary': u'',
 	},
 	# Author: MF-Warburg
 	'tet': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
-		'archivebot-archiveheader': u'',
 		'archivebot-older-than': u'tuan liu',
-		'archivebot-page-summary': u'',
 	},
 	# Author: AnakngAraw
 	'tl': {
@@ -793,18 +710,12 @@ msg = {
 	# Author: פוילישער
 	'yi': {
 		'archivebot-archive-full': u'(ארכיוו פֿול)',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'עלטער פֿון',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Demmy
 	'yo': {
-		'archivebot-archive-full': u'',
-		'archivebot-archive-summary': u'',
 		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-older-than': u'',
-		'archivebot-page-summary': u'',
 	},
 	# Author: Anakmalaysia
 	# Author: Yfdyh000
