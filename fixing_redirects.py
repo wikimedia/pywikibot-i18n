@@ -40,8 +40,9 @@ msg = {
 		'fixing_redirects-fixing': u'Robot opravil přesměrování',
 	},
 	# Author: Sarrus
+	# Author: Christian List
 	'da': {
-		'fixing_redirects-fixing': u'Bot: Retter omdirigering',
+		'fixing_redirects-fixing': u'Robot: Retter omdirigeringer',
 	},
 	# Author: Purodha
 	'de': {

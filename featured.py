@@ -86,11 +86,12 @@ msg = {
 		'featured-good': u'Robot: Mae %(page)s yn erthygl dda',
 	},
 	# Author: Emaus
+	# Author: Christian List
 	'da': {
-		'featured-featured': u'Bot: %(page)s er en fremragende artikel',
-		'featured-former': u'Bot: %(page)s er en tidligere fremragende artikel',
-		'featured-good': u'Bot: %(page)s er en god artikel',
-		'featured-list': u'Bot: %(page)s er en fremragende liste',
+		'featured-featured': u'Robot: %(page)s er en fremragende artikel',
+		'featured-former': u'Robot: %(page)s er en tidligere fremragende artikel',
+		'featured-good': u'Robot: %(page)s er en god artikel',
+		'featured-list': u'Robot: %(page)s er en fremragende liste',
 	},
 	'de': {
 		'featured-featured': u'Bot: %(page)s ist ein ausgezeichneter Artikel',

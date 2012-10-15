@@ -59,10 +59,11 @@ msg = {
 		'template-removing': u'Robot: Odstraňuji {{PLURAL:%(num)d|šablonu|šablon}}: %(list)s',
 		'template-substituting': u'Robot: Nahrazuji {{PLURAL:%(num)d|šablonu|šablon}}: %(list)s',
 	},
+	# Author: Christian List
 	'da': {
-		'template-changing': u'Bot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
-		'template-removing': u'Bot: Fjerner {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
-		'template-substituting': u'Bot: Substituerer {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
+		'template-changing': u'Robot: Ændrer {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
+		'template-removing': u'Robot: Fjerner {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
+		'template-substituting': u'Robot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
 	},
 	'de': {
 		'template-changing': u'Bot: Ändere {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',

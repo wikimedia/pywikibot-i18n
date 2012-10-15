@@ -290,15 +290,18 @@ msg = {
 	},
 	# Author: Sarrus
 	# Author: Peter Alberti
+	# Author: Christian List
 	'da': {
 		'category-adding': u'Robot: Tilføjer kategorien [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(også i %(alsocat)s)',
 		'category-changing': u'Robot: Ændrer %(oldcat)s til %(newcat)s',
-		'category-listifying': u'Robot: Omdanner %(fromcat)s til liste (%(num)d poster)',
+		'category-listifying': u'Robot: Omdanner %(fromcat)s til liste ({{PLURAL:%(num)d|1 post|%(num)d poster}})',
 		'category-removing': u'Robot: Fjerner fra %(oldcat)s',
-		'category-replacing': u'Robot: Erstatter kategori %(oldcat)s, %(newcat)s',
+		'category-replacing': u'Robot: Erstatter kategori %(oldcat)s med %(newcat)s',
+		'category-section-title': u'Sidehistorik fra den tidligere %(oldcat)s',
+		'category-version-history': u'Robot: Gemmer versionshistorikken for den tidligere %(oldcat)s',
 		'category-was-disbanded': u'Robot: Kategorien blev opløst',
-		'category-was-moved': u'Robot: Kategori flyttet til [[:Category:%(newcat)s|%(title)s]]',
+		'category-was-moved': u'Robot flytter kategori til [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: The Evil IP address
 	# Author: Giftpflanze
@@ -748,8 +751,13 @@ msg = {
 		'category-adding': u'ბოტის: დამატება category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Xqt
+	# Author: Amazigh84
 	'kab': {
 		'category-adding': u'a rubut ti merniwt: category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-changing': u'Aṛubut: Beddel %(oldcat)s γer %(newcat)s',
+		'category-listifying': u'Aṛubut: Acraw sγuṛ %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+		'category-version-history': u'Aṛubut: Ssekles amezruy n llqem aqbuṛ %(oldcat)s',
+		'category-was-moved': u'Aṛubut: Taggayt tbeddel amḍiq γer [[:Category:%(newcat)s|%(title)s]]',
 	},
 	'kk': {
 		'category-adding': u'Бот: [[Санат:%(newcat)s]] үстеді',

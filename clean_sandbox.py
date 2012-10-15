@@ -51,8 +51,9 @@ msg = {
 	'cy': {
 		'clean_sandbox-cleaned': u'Robot: Wedi ei wacáu\'n awtomatig',
 	},
+	# Author: Christian List
 	'da': {
-		'clean_sandbox-cleaned': u'Bot: Nyt sand (fra[[Skabelon:Sandkasse tekst]])',
+		'clean_sandbox-cleaned': u'Robot: Nyt sand (fra[[Skabelon:Sandkasse tekst]])',
 	},
 	'de': {
 		'clean_sandbox-cleaned': u'Bot: Setze Spielwiese zurück.',

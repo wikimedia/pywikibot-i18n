@@ -577,6 +577,7 @@ msg = {
 		'interwiki-removing': u'bot oñembogue: %(removing)s',
 		'interwiki-removing-modifying': u'bot oñembogue: %(removing)s oñemoambue: %(modifying)s',
 	},
+	# Author: Als-Holder
 	# Author: Xqt
 	'als': {
 		'interwiki-adding': u'Bötli: Ygfüegt: %(adding)s',
@@ -585,8 +586,8 @@ msg = {
 		'interwiki-adding-removing-modifying': u'Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s Gändret: %(modifying)s',
 		'interwiki-modifying': u'Bötli: Gändret: %(modifying)s',
 		'interwiki-modifying-from': u'Bötli: Due %(from)s zue %(modifying)s ändere',
-		'interwiki-removing': u'Bötli: Ussergnoh: %(removing)s',
-		'interwiki-removing-modifying': u'Bötli: Ussergnoh: %(removing)s Gändret: %(modifying)s',
+		'interwiki-removing': u'Bötli: Ussegnuu: %(removing)s',
+		'interwiki-removing-modifying': u'Bötli: Ussegnuu: %(removing)s Gändret: %(modifying)s',
 	},
 	'gu': {
 		'interwiki-adding': u'રોબોટ ઉમેરણ: %(adding)s',

@@ -57,8 +57,9 @@ msg = {
 		'replace-replacing': u'Bot: Yn amnewid testun yn awtomatig %(description)s',
 	},
 	# Author: Sarrus
+	# Author: Christian List
 	'da': {
-		'replace-replacing': u'Bot: Automatisk teksterstatning: %(description)s',
+		'replace-replacing': u'Robot: Automatisk erstatning af tekst: %(description)s',
 	},
 	'de': {
 		'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',

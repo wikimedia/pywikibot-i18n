@@ -71,8 +71,9 @@ msg = {
 		'basic-changing': u'Bot: Yn newid ...',
 	},
 	# Author: Sarrus
+	# Author: Christian List
 	'da': {
-		'basic-changing': u'Bot: Ændrer',
+		'basic-changing': u'Robot ændrer ...',
 	},
 	'de': {
 		'basic-changing': u'Bot: Ändere ...',
@@ -195,6 +196,10 @@ msg = {
 	# Author: NoiX180
 	'jv': {
 		'basic-changing': u'Bot: Ngganti ...',
+	},
+	# Author: Amazigh84
+	'kab': {
+		'basic-changing': u'Aṛubut: Azdam ...',
 	},
 	# Author: វ័ណថារិទ្ធ
 	'km': {

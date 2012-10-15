@@ -92,10 +92,12 @@ msg = {
 		'welcome-updating': u'Robot: Aktualizuji log',
 		'welcome-welcome': u'Vítejte!',
 	},
+	# Author: Christian List
+	# Author: Sarrus
 	'da': {
-		'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
-		'welcome-updating': u'Bot: Updating log',
-		'welcome-welcome': u'Velkommen',
+		'welcome-bad_username': u'Robot: Tilføjer et brugernavn, der skal kontrolleres',
+		'welcome-updating': u'Robot: Opdaterer log',
+		'welcome-welcome': u'Velkommen!',
 	},
 	'de': {
 		'welcome-bad_username': u'Bot: Ergänze zu überprüfenden Benutzernamen',

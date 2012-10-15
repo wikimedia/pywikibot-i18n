@@ -61,8 +61,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Robot: Creu ailgyfeiriad i [[%(to)s]]',
 	},
 	# Author: Peter Alberti
+	# Author: Christian List
 	'da': {
-		'capitalize_redirects-create-redirect': u'Robot: Opretter omdirigering til [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot opretter omdirigering til [[%(to)s]]',
 	},
 	'de': {
 		'capitalize_redirects-create-redirect': u'Bot: Weiterleitung angelegt auf [[%(to)s]]',
@@ -157,6 +158,10 @@ msg = {
 	# Author: NoiX180
 	'jv': {
 		'capitalize_redirects-create-redirect': u'Bot: Gawé pangalihan nèng [[%(to)s]]',
+	},
+	# Author: Amazigh84
+	'kab': {
+		'capitalize_redirects-create-redirect': u'Aṛubut: Snulfud abeddel n webrid γer [[%(to)s]]',
 	},
 	'ksh': {
 		'capitalize_redirects-create-redirect': u'Bot: oemleidung aanjelaat op [[%(to)s]]',

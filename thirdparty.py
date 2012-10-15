@@ -223,6 +223,18 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Upraveno shrnutí diskuse: %(num)i příspěvků na %(page)s stránkách',
 	},
+	# Author: Christian List
+	'da': {
+		'thirdparty-drtrigonbot-subster-summary-mod': u'erstatter %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion lukket',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MEDDELELSE',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Ny diskussion',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Meddelelse',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSammendrag genereret fra og på: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ingen menneskelig bidragsyder fundet)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+	},
 	# Author: DrTrigon
 	'de': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituiere %(tags)s tag(s)',

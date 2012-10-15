@@ -142,8 +142,10 @@ msg = {
 	# Author: Sarrus
 	# Author: Christian List
 	'da': {
-		'redirect-fix-double': u'Bot: Retter dobbelt omdirigering til  %(to)s',
-		'redirect-remove-broken': u'Bot: Omdirigering til en slettet eller ikke-eksisterende side',
+		'redirect-fix-double': u'Robot: Retter dobbelt omdirigering til %(to)s',
+		'redirect-fix-loop': u'Robot: Retter løkke af omdirigeringer til %(to)s',
+		'redirect-remove-broken': u'Robot: Omdirigering til en slettet eller ikke-eksisterende side',
+		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en løkke af omdirigeringer',
 	},
 	# Author: The Evil IP address
 	# Author: Metalhead64
@@ -288,8 +290,8 @@ msg = {
 		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch',
 		'redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s',
 		'redirect-fix-loop': u' Bot: Wyterleitigschlupf uf %(to)s korrigiert',
-		'redirect-remove-broken': u'Wyterleitig wo kaputt isch',
-		'redirect-remove-loop': u'{{delete}}Wyterleitig wo kaputt isch',
+		'redirect-remove-broken': u'Bötli: Wyterleitigsziil git s nit',
+		'redirect-remove-loop': u'Bot: Wyterleitig goht im ringrum',
 	},
 	# Author: Amire80
 	# Author: ערן
@@ -563,7 +565,7 @@ msg = {
 	'pdc': {
 		'redirect-broken-redirect-template': u'{{verwische|Kaputte Weiderleiding)}}',
 		'redirect-fix-double': u'Waddefresser: Doppelte Weiderleiding nooch %(to)s gennert',
-		'redirect-remove-broken': u'Kaputte Weiderleiding',
+		'redirect-remove-broken': u'Waddefresser: Kaputte Weiderleiding',
 	},
 	'pfl': {
 		'redirect-fix-double': u'Bot: E doppelte Waiterlaitung vabessat zu %(to)s',

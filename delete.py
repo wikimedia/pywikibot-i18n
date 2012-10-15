@@ -82,8 +82,9 @@ msg = {
 		'delete-referring-pages': u'Robot smazal vše odkazující na %(page)s',
 	},
 	# Author: Tjernobyl
+	# Author: Christian List
 	'da': {
-		'delete-images': u'Bot: Sletter alle billeder på siden %(page)s',
+		'delete-images': u'Robot: Sletter alle billeder på siden %(page)s',
 	},
 	# Author: MF-Warburg
 	# Author: ChrisiPK

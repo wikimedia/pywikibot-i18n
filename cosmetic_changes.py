@@ -83,9 +83,10 @@ msg = {
 		'cosmetic_changes-append': u'; Newidiadau i ymddangosiad y dudalen',
 		'cosmetic_changes-standalone': u'Robot: Newidiadau i ymddangosiad y dudalen',
 	},
+	# Author: Christian List
 	'da': {
 		'cosmetic_changes-append': u'; kosmetiske ændringer',
-		'cosmetic_changes-standalone': u'Bot: Kosmetiske ændringer',
+		'cosmetic_changes-standalone': u'Robot: Kosmetiske ændringer',
 	},
 	'de': {
 		'cosmetic_changes-append': u'; kosmetische Änderungen',

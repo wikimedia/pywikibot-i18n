@@ -116,8 +116,13 @@ msg = {
 		'archivebot-archive-full': u'(ARCHIF YN LLAWN)',
 	},
 	# Author: Tjernobyl
+	# Author: Christian List
 	'da': {
+		'archivebot-archive-full': u'(ARKIV FULDT)',
+		'archivebot-archive-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} fra [[%(from)s]].',
+		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'ældre end',
+		'archivebot-page-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} (%(why)s) til %(archives)s.',
 	},
 	# Author: MF-Warburg
 	# Author: ChrisiPK
@@ -351,6 +356,14 @@ msg = {
 	# Author: David1010
 	'ka': {
 		'archivebot-archive-full': u'(არქივი სავსეა)',
+	},
+	# Author: Amazigh84
+	'kab': {
+		'archivebot-archive-full': u'Aγbar iččuṛ',
+		'archivebot-archive-summary': u'Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} sγuṛ [[%(from)s]].',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-older-than': u'D-aqbuṛ γef',
+		'archivebot-page-summary': u'Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) γer %(archives)s.',
 	},
 	# Author: Kwj2772
 	'ko': {

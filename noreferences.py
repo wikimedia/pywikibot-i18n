@@ -54,8 +54,9 @@ msg = {
 	'cs': {
 		'noreferences-add-tag': u'Robot doplnil chybějící <references />',
 	},
+	# Author: Christian List
 	'da': {
-		'noreferences-add-tag': u'Bot: Tilføj manglede {{reflist}}',
+		'noreferences-add-tag': u'Robot: Tilføjer manglende <references /> tag',
 	},
 	'de': {
 		'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',

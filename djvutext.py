@@ -33,8 +33,9 @@ msg = {
 		'djvutext-creating': u'Robot: Vytvářím stránku s textem extrahovaným z DjVu',
 	},
 	# Author: Peter Alberti
+	# Author: Christian List
 	'da': {
-		'djvutext-creating': u'Robot: Opretter side med tekst udtrykket fra DjVu',
+		'djvutext-creating': u'Robot: Opretter side med tekst fra DjVu',
 	},
 	# Author: Purodha
 	# Author: Das Schäfchen
@@ -44,6 +45,10 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'djvutext-creating': u'Boti: Vetışe metne DjVu fına dekerde pela',
+	},
+	# Author: Glavkos
+	'el': {
+		'djvutext-creating': u'Ρομπότ: Δημιουργία σελίδας με κείμενο που έχει εξαχθεί από το DjVu',
 	},
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',

@@ -33,6 +33,10 @@ msg = {
 	'cs': {
 		'ndashredir-create': u'Bot: Vytvářím spojovníkové přesměrování k [[%(title)s]]',
 	},
+	# Author: Christian List
+	'da': {
+		'ndashredir-create': u'Robot: Opretter omdirigering med bindestreg til [[%(title)s]]',
+	},
 	'de': {
 		'ndashredir-create': u'Bot: Weiterleitung mit Bindestrich auf [[%(title)s]] erstellt',
 	},

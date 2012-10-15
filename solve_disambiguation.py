@@ -141,12 +141,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(anhysbys)',
 	},
 	# Author: Sarrus
+	# Author: Christian List
 	'da': {
-		'solve_disambiguation-links-removed': u'Retter flertydigt link til: %(from)s - Fjernede link(s)',
-		'solve_disambiguation-links-resolved': u'Retter flertydigt link til: %(from)s - Ændrede link(s) til %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Robotassisteret flertydig: %(from)s - markeret til at kræve en eksperts opmærksomhed',
+		'solve_disambiguation-links-removed': u'Robotassisteret flertydig: %(from)s - Fjernede link(s).',
+		'solve_disambiguation-links-resolved': u'Robotassisteret flertydig: %(from)s - Ændrede link(s) til %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Robotassisteret flertydig: %(from)s - markeret til at kræve en eksperts opmærksomhed',
-		'solve_disambiguation-redirect-removed': u'Retter flertydigt link til: %(from)s - Fjernede link(s)',
-		'solve_disambiguation-redirect-resolved': u'Retter flertydigt link til: %(from)s - Ændrede link(s) til %(to)s',
+		'solve_disambiguation-redirect-removed': u'Robotassisteret flertydig: %(from)s - Fjernede link(s)',
+		'solve_disambiguation-redirect-resolved': u'Robotassisteret flertydig: %(from)s - Ændrede link(s) til %(to)s',
 		'solve_disambiguation-unknown-page': u'(ukendt)',
 	},
 	# Author: The Evil IP address

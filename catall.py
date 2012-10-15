@@ -48,6 +48,10 @@ msg = {
 	'cs': {
 		'catall-changing': u'Robot: Měním kategorie',
 	},
+	# Author: Christian List
+	'da': {
+		'catall-changing': u'Robot ændre kategorier',
+	},
 	'de': {
 		'catall-changing': u'Bot: Wechsele Kategorien',
 	},
@@ -135,6 +139,10 @@ msg = {
 	# Author: NoiX180
 	'jv': {
 		'catall-changing': u'Bot: Nggawé katégori',
+	},
+	# Author: Amazigh84
+	'kab': {
+		'catall-changing': u'Aṛubut: Azdam taggayin',
 	},
 	'ksh': {
 		'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',

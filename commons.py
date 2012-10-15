@@ -324,9 +324,10 @@ msg = {
 		'commons-file-now-available': u'Súbor je teraz k dispozícii na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Dbc334
+	# Author: Eleassar
 	'sl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] prestavljena v [[:commons:File:%(commonsfile)s|Zbirko]].',
-		'commons-file-now-available': u'Datoteka je sedaj na voljo na [[:commons:File:%(commonsfile)s|Zbirki Wikimedia]].',
+		'commons-file-now-available': u'Datoteka je odslej na razpolago v [[:commons:File:%(commonsfile)s|Wikimedijini Zbirki]].',
 	},
 	# Author: Euriditi
 	'sq': {
