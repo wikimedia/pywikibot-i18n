@@ -72,8 +72,9 @@ msg = {
 	},
 	# Author: Sarrus
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
-		'basic-changing': u'Robot ændrer ...',
+		'basic-changing': u'Robot: Ændrer ...',
 	},
 	'de': {
 		'basic-changing': u'Bot: Ändere ...',

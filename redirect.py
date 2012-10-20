@@ -50,6 +50,7 @@ msg = {
 		'redirect-remove-loop': u'Bot: İstiqamətləndirmə hədəfi bir istiqamətləndirmə dövriyyəsi yaradır',
 	},
 	# Author: Mucalexx
+	# Author: Xqt
 	'bar': {
 		'redirect-broken-redirect-template': u'{{Löschen|hinige Weiderloattung}}',
 		'redirect-fix-double': u'Bot: richtt dóppéde Weiderloattung auf %(to)s',
@@ -133,6 +134,7 @@ msg = {
 	},
 	# Author: Xxglennxx
 	# Author: Lloffiwr
+	# Author: Xqt
 	'cy': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'Bot: Yn trwsio ailgyfeiriad dwbl i %(to)s',
@@ -141,11 +143,13 @@ msg = {
 	},
 	# Author: Sarrus
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
+		'redirect-broken-redirect-template': u'{{slet}}',
 		'redirect-fix-double': u'Robot: Retter dobbelt omdirigering til %(to)s',
-		'redirect-fix-loop': u'Robot: Retter løkke af omdirigeringer til %(to)s',
+		'redirect-fix-loop': u'Robot: Retter omdirigeringsløkke til %(to)s',
 		'redirect-remove-broken': u'Robot: Omdirigering til en slettet eller ikke-eksisterende side',
-		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en løkke af omdirigeringer',
+		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
 	},
 	# Author: The Evil IP address
 	# Author: Metalhead64
@@ -423,6 +427,7 @@ msg = {
 	},
 	# Author: UV
 	# Author: MissPetticoats
+	# Author: Xqt
 	'la': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 		'redirect-fix-double': u'automaton: rectificatio redirectionis duplicis → %(to)s',

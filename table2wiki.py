@@ -52,6 +52,11 @@ msg = {
 		'table2wiki-no-warning': u'Uživatelem řízený robot: Syntaxe tabulky změněna',
 		'table2wiki-warnings': u'Uživatelem řízený robot: Syntaxe tabulky změněna - {{PLURAL:count|1 varování|%(count)d varování}}!',
 	},
+	# Author: Kaare
+	'da': {
+		'table2wiki-no-warning': u'Brugerkontrolleret robot: Tabelsyntaks opdateret',
+		'table2wiki-warnings': u'Brugerkontrolleret robot: Tabelsyntaks opdateret – {{PLURAL:count|1 advarsel|%(count)d advarsler}}!',
+	},
 	# Author: Xqt
 	'de': {
 		'table2wiki-no-warning': u'Bot: Tabellensyntax konvertiert',

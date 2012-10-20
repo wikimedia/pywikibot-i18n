@@ -142,8 +142,9 @@ msg = {
 	},
 	# Author: Sarrus
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
-		'solve_disambiguation-adding-dn-template': u'Robotassisteret flertydig: %(from)s - markeret til at kræve en eksperts opmærksomhed',
+		'solve_disambiguation-adding-dn-template': u'Robotassisteret flertydig: %(from)s - Markeret til at kræve en eksperts opmærksomhed',
 		'solve_disambiguation-links-removed': u'Robotassisteret flertydig: %(from)s - Fjernede link(s).',
 		'solve_disambiguation-links-resolved': u'Robotassisteret flertydig: %(from)s - Ændrede link(s) til %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Robotassisteret flertydig: %(from)s - markeret til at kræve en eksperts opmærksomhed',

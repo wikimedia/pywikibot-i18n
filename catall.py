@@ -49,8 +49,9 @@ msg = {
 		'catall-changing': u'Robot: Měním kategorie',
 	},
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
-		'catall-changing': u'Robot ændre kategorier',
+		'catall-changing': u'Robot: Ændrer kategorier',
 	},
 	'de': {
 		'catall-changing': u'Bot: Wechsele Kategorien',

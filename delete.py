@@ -83,8 +83,13 @@ msg = {
 	},
 	# Author: Tjernobyl
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
+		'delete-from-category': u'Robot: Sletter alle sider fra kategorien %(page)s',
+		'delete-from-file': u'Robot: Sletter en liste over filer.',
 		'delete-images': u'Robot: Sletter alle billeder på siden %(page)s',
+		'delete-linked-pages': u'Robot: Sletter alle sider som henvises fra %(page)s',
+		'delete-referring-pages': u'Robot: Sletter alle sider som henviser fra %(page)s',
 	},
 	# Author: MF-Warburg
 	# Author: ChrisiPK

@@ -62,8 +62,9 @@ msg = {
 	},
 	# Author: Peter Alberti
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
-		'capitalize_redirects-create-redirect': u'Robot opretter omdirigering til [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot: Opretter omdirigering til [[%(to)s]]',
 	},
 	'de': {
 		'capitalize_redirects-create-redirect': u'Bot: Weiterleitung angelegt auf [[%(to)s]]',

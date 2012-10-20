@@ -139,11 +139,12 @@ msg = {
 	# Author: Sarrus
 	# Author: Peter Alberti
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
-		'category_redirect-add-template': u'Robot: Tilføjer skabelon til omdirigering af kategori for vedligeholdelse',
+		'category_redirect-add-template': u'Robot: Tilføjer kategoriomdirigeringsskabelon til vedligeholdelse',
 		'category_redirect-change-category': u'Robot: Ændrer omdirigeret kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] til [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Robot til at vedligeholde omdirigeringer af kategorier',
-		'category_redirect-edit-request': u'\nDet er blevet opdaget at de følgende beskyttede sider kræver opdateringer af links til kategorier: %(itemlist)s',
+		'category_redirect-comment': u'Robot til vedligeholdelse af kategoriomdirigeringer',
+		'category_redirect-edit-request': u'Der er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s',
 		'category_redirect-fix-double': u'Robot: Retter dobbelt omdirigering',
 	},

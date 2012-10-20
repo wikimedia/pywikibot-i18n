@@ -224,16 +224,25 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Upraveno shrnutí diskuse: %(num)i příspěvků na %(page)s stránkách',
 	},
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'erstatter %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussion ændret',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion lukket',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MEDDELELSE',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTMEDDELELSE',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Ny diskussion',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Meddelelse',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s seneste redigering] (%(page_size)s bytes) af %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alle diskussioner er afsluttet (overvågning stoppet) – seneste redigering af %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSammendrag genereret fra og på: %(sign)s</noinclude>',
-		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ingen menneskelig bidragsyder fundet)',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ingen menneskelig bidragyder fundet)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – seneste redigering af [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robotadvarselsmeddelelse: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskussionsresume tilføjet: %(num)i forekomster',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskussionsresume tilføjet med oprydning: %(num)i forekomster',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskussionsresume opdateret: %(num)i forekomster i %(page)s',
 	},
 	# Author: DrTrigon
 	'de': {

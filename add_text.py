@@ -106,8 +106,9 @@ msg = {
 		'add_text-adding': u'robot yn ychwanegu %(adding)s',
 	},
 	# Author: Christian List
+	# Author: Kaare
 	'da': {
-		'add_text-adding': u'Robot tilføjer %(adding)s',
+		'add_text-adding': u'Robot: Tilføjer %(adding)s',
 	},
 	'de': {
 		'add_text-adding': u'Bot: %(adding)s hinzugefügt',
