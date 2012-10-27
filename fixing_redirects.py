@@ -33,8 +33,9 @@ msg = {
 		'fixing_redirects-fixing': u'Bot: arreglant redireccions',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	'ckb': {
-		'fixing_redirects-fixing': u'بۆت: چاکسازیی ڕەوانەکردنەوەکان',
+		'fixing_redirects-fixing': u'بۆت: چاکسازیی ڕەوانەکەرەکان',
 	},
 	'cs': {
 		'fixing_redirects-fixing': u'Robot opravil přesměrování',
@@ -164,6 +165,10 @@ msg = {
 	# Author: StefanusRA
 	'map-bms': {
 		'fixing_redirects-fixing': u'Bot: Mbenerna pengalihan',
+	},
+	# Author: Jagwar
+	'mg': {
+		'fixing_redirects-fixing': u'Rôbô: fanitsiana fihodinana',
 	},
 	# Author: Bjankuloski06
 	'mk': {

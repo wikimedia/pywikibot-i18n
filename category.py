@@ -915,6 +915,8 @@ msg = {
 		'category-listifying': u'Rôbô : fanaovana lisitra avy amin\'i %(fromcat)s (zavatra %(num)d)',
 		'category-removing': u'Rôbô : Nesorina tamin\'i %(oldcat)s',
 		'category-replacing': u'Rôbô : Fanovana anarana ny sokajy %(oldcat)s miaraka amin\'i %(newcat)s',
+		'category-section-title': u'Tantaram-pejin\'ilay  %(oldcat)s taloha',
+		'category-version-history': u'Rôbô: fitahirizana ny tantaran\'ny santiôna ny  %(oldcat)s taloha',
 		'category-was-disbanded': u'Rôbô : Voafafa ny sokajy',
 		'category-was-moved': u'rôbô : sokajy nafindea tany amin\'ny [[:Category:%(newcat)s|%(title)s]]',
 	},

@@ -113,6 +113,10 @@ msg = {
 	'lb': {
 		'ndashredir-create': u'Bot: Viruleedunge mat \'trait-d\'union\' op [[%(title)s]] uleeën',
 	},
+	# Author: Jagwar
+	'mg': {
+		'ndashredir-create': u'Rôbô: famoronana fihodinana misy fitsipi-panohizana mankany amin\'ny [[%(title)s]]',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'ndashredir-create': u'Бот: Создава пренасочување на поим со цртичка кон [[%(title)s]]',

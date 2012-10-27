@@ -151,6 +151,10 @@ msg = {
 	'map-bms': {
 		'djvutext-creating': u'Bot: Nggawe kaca nganggo teks sing diekstrak sekang DjVu',
 	},
+	# Author: Jagwar
+	'mg': {
+		'djvutext-creating': u'Rôbô : Famoronana ilay p ejy amin\'ny alalan\'ny lahatsoratra avy amin\'ny DjVu',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'djvutext-creating': u'Робот: Создава страница со текст изваден од DjVu',

@@ -828,7 +828,16 @@ msg = {
 	},
 	# Author: Jagwar
 	'mg': {
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Resaka voaova',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Resaka efa nakatona',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'HAFATRY NY RÔBÔ',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Resaka vaovao',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Filazana',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nAmbangovango noforonina avy amy ary ho any : %(sign)s</noinclude>',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(tsy nahitana olombelona manova)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u'Hafatra fampitandremana ny rôbô : %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Ambangovangon\'ilay resaka nampiana : %(num)i iditra',
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'rôbô',
 	},
 	# Author: Bjankuloski06

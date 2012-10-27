@@ -468,8 +468,8 @@ msg = {
 	'mg': {
 		'redirect-broken-redirect-template': u'{{fafao}}',
 		'redirect-fix-double': u'Rôbô : mamaha olam-pihodinana mankany amin\'i %(to)s',
-		'redirect-remove-broken': u'Rôbô : tanjon\'ny fihodinana voafafa na tsy misy',
-		'redirect-remove-loop': u'Rôbô : mifolaka ny fihodinana',
+		'redirect-remove-broken': u'Rôbô : fihodinana mankany amina pejy tsy misy na erfa voafafa.',
+		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Ny tanjon\'ny fihodinana dia manao fihodinana mifolaka',
 	},
 	# Author: Luthfi94
 	'min': {

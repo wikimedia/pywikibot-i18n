@@ -425,7 +425,7 @@ msg = {
 		'archivebot-archive-summary': u'Fitahirizana ny thread %(count)d avy any amin\'i  [[%(from)s]].',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'antitra noho',
-		'archivebot-page-summary': u'Fitahirizana ny %(count)d thread\'s(s) (%(why)s) mankany amin\'ny %(archives)s.',
+		'archivebot-page-summary': u'Rôbô : Fanatsofohana an-tahiry ny  %(count)d {{PLURAL:%(count)d||}} (%(why)s) mankany amin\'ny %(archives)s.',
 	},
 	# Author: Bjankuloski06
 	'mk': {

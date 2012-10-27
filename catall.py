@@ -167,6 +167,10 @@ msg = {
 	'map-bms': {
 		'catall-changing': u'Bot: Ngowahi kategori',
 	},
+	# Author: Jagwar
+	'mg': {
+		'catall-changing': u'Rôbô: manova sokajy',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'catall-changing': u'Робот: Менува категории',

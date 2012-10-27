@@ -324,6 +324,12 @@ msg = {
 		'welcome-updating': u'Bot: Mutakhirna log',
 		'welcome-welcome': u'Sugeng teka!',
 	},
+	# Author: Jagwar
+	'mg': {
+		'welcome-bad_username': u'Rôbô : Fanampiana anaram-pikambana tokony marihana',
+		'welcome-updating': u'Rôbô : Fanavaozana ny laogy',
+		'welcome-welcome': u'Tonga soa!',
+	},
 	# Author: Bjankuloski06
 	# Author: Rancher
 	'mk': {

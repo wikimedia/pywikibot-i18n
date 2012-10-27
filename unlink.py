@@ -145,6 +145,10 @@ msg = {
 	'map-bms': {
 		'unlink-unlinking': u'Bot: ngeculna pranala "%s"',
 	},
+	# Author: Jagwar
+	'mg': {
+		'unlink-unlinking': u'Rôbô : Manala ny rohy "%s"',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'unlink-unlinking': u'Робот: Ја отстранува врската „%s“',
