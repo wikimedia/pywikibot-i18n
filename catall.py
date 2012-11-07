@@ -64,6 +64,9 @@ msg = {
 	'el': {
 		'catall-changing': u'Ρομπότ: Αλλαγή κατηγοριών',
 	},
+	'en': {
+		'catall-changing': u'Robot: Changing categories',
+	},
 	# Author: Remux
 	'eo': {
 		'catall-changing': u'Roboto: Ŝanĝante kategoriojn',
@@ -218,9 +221,8 @@ msg = {
 		'catall-changing': u'Robot: Schimbat categorii',
 	},
 	# Author: Eleferen
-	# Author: Volkov
 	'ru': {
-		'catall-changing': u'бот: изменение категорий',
+		'catall-changing': u'Бот: Изменение категорий',
 	},
 	# Author: Teslaton
 	'sk': {

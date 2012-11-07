@@ -166,14 +166,13 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
 	},
 	# Author: Erdemaslancan
-	# Author: Mirzali
 	'diq': {
 		'category_redirect-add-template': u'Boti qande timar kerden şablone hetenayışe kategori dekerd de',
 		'category_redirect-change-category': u'Boti kategoriya [[:%(oldCatLink)s|%(oldCatTitle)s]] berd [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Boti timarin da hetanayışi kategoriyan',
 		'category_redirect-edit-request': u'Peleye ke stare deyê greye kategoriya re newe kerdış icab keno: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s re hetanayışkar ita do %(oldcat)s\'',
-		'category_redirect-fix-double': u'Robot: Sabıtkerdışê hetenayışê dıleti',
+		'category_redirect-fix-double': u'Boti hetenayışo dılet timar ke',
 	},
 	# Author: Glavkos
 	# Author: Geraki
@@ -184,6 +183,14 @@ msg = {
 		'category_redirect-edit-request': u'Οι ακόλουθες προστατευμένες σελίδες έχουν ανιχνευθεί ως χρήζουσες ενημέρωσης στις συνδέσεις κατηγορίας: %(itemlist)s',
 		'category_redirect-edit-request-item': u'Το %(title)s είναι στην %(oldcat)s, η οποία είναι ανακατεύθυνση στην %(newcat)s',
 		'category_redirect-fix-double': u'Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης',
+	},
+	'en': {
+		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
+		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-comment': u'Category redirect maintenance robot',
+		'category_redirect-edit-request': u'The following protected pages have been detected as requiring updates to category links: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
+		'category_redirect-fix-double': u'Robot: Fixing double-redirect',
 	},
 	# Author: Airon90
 	'eo': {
@@ -594,14 +601,13 @@ msg = {
 		'category_redirect-fix-double': u'Robot: Reparat dubla redirecționare înspre',
 	},
 	# Author: Александр Сигачёв
-	# Author: Volkov
 	'ru': {
-		'category_redirect-add-template': u'бот: добавление шаблона перенаправляющей категории для обслуживания',
-		'category_redirect-change-category': u'бот: изменение перенаправляющей категории с [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Робот: добавление шаблона перенаправляющей категории для обслуживания',
+		'category_redirect-change-category': u'Робот: изменение перенаправляющей категории с [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Бот, обслуживающий перенаправления категорий',
 		'category_redirect-edit-request': u'Следующие защищенные страницы требуют обновления ссылок категорий: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s находится в %(oldcat)s, являющейся перенаправлением на %(newcat)s',
-		'category_redirect-fix-double': u'бот: исправление двойного перенаправления',
+		'category_redirect-fix-double': u'Робот: исправление двойного перенаправления',
 	},
 	'rue': {
 		'category_redirect-fix-double': u'Робот: справив двоїте напрямлїня',

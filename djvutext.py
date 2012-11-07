@@ -50,6 +50,9 @@ msg = {
 	'el': {
 		'djvutext-creating': u'Ρομπότ: Δημιουργία σελίδας με κείμενο που έχει εξαχθεί από το DjVu',
 	},
+	'en': {
+		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
+	},
 	# Author: Remux
 	'eo': {
 		'djvutext-creating': u'Roboto: Kreante paĝon kun la teksto ekstraktita de DjVu',
@@ -197,9 +200,8 @@ msg = {
 		'djvutext-creating': u'Robot: Creat pagină cu text extras din DjVu',
 	},
 	# Author: Eleferen
-	# Author: Volkov
 	'ru': {
-		'djvutext-creating': u'бот: создание страницы с текстом, извлечённым из DjVu',
+		'djvutext-creating': u'Бот: Создание страницы с текстом, извлечённым из DjVu',
 	},
 	# Author: Teslaton
 	'sk': {

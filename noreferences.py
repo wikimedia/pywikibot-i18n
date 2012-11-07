@@ -70,6 +70,9 @@ msg = {
 	'el': {
 		'noreferences-add-tag': u'Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε',
 	},
+	'en': {
+		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
+	},
 	'eo': {
 		'noreferences-add-tag': u'Roboto: Aldono de "<references />"',
 	},
@@ -236,9 +239,8 @@ msg = {
 	'ro': {
 		'noreferences-add-tag': u'Robot: Adăugat tagul lipsă <references />',
 	},
-	# Author: Volkov
 	'ru': {
-		'noreferences-add-tag': u'бот добавил отсутствующий тег <references />',
+		'noreferences-add-tag': u'Robot: Добавлен отсутствующий тег <references />',
 	},
 	# Author: Wizzard
 	'sk': {

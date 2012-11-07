@@ -363,6 +363,19 @@ msg = {
 	'eml': {
 		'category-adding': u'Robot: A Śònt category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Xqt
+	'en': {
+		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(also in %(alsocat)s)',
+		'category-changing': u'Robot: Changing %(oldcat)s to %(newcat)s',
+		'category-listifying': u'Robot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+		'category-removing': u'Robot: Removing from %(oldcat)s',
+		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
+		'category-section-title': u'Page history of former %(oldcat)s',
+		'category-version-history': u'Robot: Saving version history of former %(oldcat)s',
+		'category-was-disbanded': u'Robot: Category was disbanded',
+		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
+	},
 	# Author: Mihxil
 	# Author: Airon90
 	'eo': {
@@ -1232,18 +1245,17 @@ msg = {
 	# Author: KorneySan
 	# Author: Александр Сигачёв
 	# Author: Express2000
-	# Author: Volkov
 	'ru': {
-		'category-adding': u'бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Робот: Добавление категории [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(также в %(alsocat)s)',
-		'category-changing': u'бот изменил: %(oldcat)s на %(newcat)s',
-		'category-listifying': u'бот: cоставляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s',
-		'category-removing': u'бот: исключение из %(oldcat)s',
-		'category-replacing': u'бот: замена категории %(oldcat)s на %(newcat)s',
+		'category-changing': u'Робот: изменение %(oldcat)s на %(newcat)s',
+		'category-listifying': u'Робот: Составляется список из (%(num)d элементов) %(fromcat)s',
+		'category-removing': u'Робот: исключение из %(oldcat)s',
+		'category-replacing': u'Робот: Замена категории %(oldcat)s на %(newcat)s',
 		'category-section-title': u'История страницы из бывшей %(oldcat)s',
-		'category-version-history': u'бот: сохранение истории версий из бывшей %(oldcat)s',
-		'category-was-disbanded': u'бот: категория расформирована',
-		'category-was-moved': u'бот: категория переименована в [[:Категория:%(newcat)s|%(title)s]]',
+		'category-version-history': u'Робот: Сохранение истории версий из бывшей %(oldcat)s',
+		'category-was-disbanded': u'Робот: категория расформирована',
+		'category-was-moved': u'Робот: категория переименована в [[:Категория:%(newcat)s|%(title)s]]',
 	},
 	# Author: Gazeb
 	'rue': {

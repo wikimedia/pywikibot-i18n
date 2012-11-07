@@ -88,6 +88,9 @@ msg = {
 	'el': {
 		'isbn-formatting': u'Ρομπότ: Μορφοποίηση ISBN',
 	},
+	'en': {
+		'isbn-formatting': u'Robot: Formatting ISBN',
+	},
 	# Author: Mihxil
 	'eo': {
 		'isbn-formatting': u'Roboto: Aranĝis ISBN',
@@ -307,9 +310,8 @@ msg = {
 		'isbn-formatting': u'Robot: Formatat codul ISBN',
 	},
 	# Author: Александр Сигачёв
-	# Author: Volkov
 	'ru': {
-		'isbn-formatting': u'бот: преобразование ISBN',
+		'isbn-formatting': u'Робот: преобразование ISBN',
 	},
 	# Author: Gazeb
 	'rue': {

@@ -91,6 +91,9 @@ msg = {
 	'el': {
 		'basic-changing': u'Bot: Αλλάζει ...',
 	},
+	'en': {
+		'basic-changing': u'Robot: Changing ...',
+	},
 	# Author: Airon90
 	'eo': {
 		'basic-changing': u'Roboto: Ŝanĝanta ...',
@@ -333,9 +336,8 @@ msg = {
 	'ro': {
 		'basic-changing': u'Robot: Schimb ...',
 	},
-	# Author: Volkov
 	'ru': {
-		'basic-changing': u'бот: изменил ...',
+		'basic-changing': u'Бот: изменил ...',
 	},
 	# Author: Avicennasis
 	'sco': {

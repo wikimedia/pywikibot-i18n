@@ -67,6 +67,9 @@ msg = {
 	'el': {
 		'clean_sandbox-cleaned': u'Ρομπότ: Καθαρίστηκε αυτόματα',
 	},
+	'en': {
+		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
+	},
 	# Author: Airon90
 	'eo': {
 		'clean_sandbox-cleaned': u'Roboto: Aŭtomate viŝita',
@@ -228,9 +231,8 @@ msg = {
 	'ro': {
 		'clean_sandbox-cleaned': u'Robot: Curățat automat',
 	},
-	# Author: Volkov
 	'ru': {
-		'clean_sandbox-cleaned': u'бот: очистка песочницы',
+		'clean_sandbox-cleaned': u'Бот: очистка песочницы',
 	},
 	# Author: Avicennasis
 	'sco': {

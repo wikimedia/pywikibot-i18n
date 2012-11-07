@@ -123,6 +123,11 @@ msg = {
 		'welcome-updating': u'Ρομπότ: Ενημέρωση αρχείου καταγραφής',
 		'welcome-welcome': u'Καλώς ήρθατε!',
 	},
+	'en': {
+		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
+		'welcome-updating': u'Robot: Updating log',
+		'welcome-welcome': u'Welcome!',
+	},
 	# Author: Objectivesea
 	'eo': {
 		'welcome-welcome': u'Bonvenon!',
@@ -433,10 +438,9 @@ msg = {
 		'welcome-updating': u'Robot: Actualizat jurnal',
 		'welcome-welcome': u'Bun venit!',
 	},
-	# Author: Volkov
 	'ru': {
-		'welcome-bad_username': u'бот: добавлено подозрительное имя участника',
-		'welcome-updating': u'бот: обновление журнала',
+		'welcome-bad_username': u'Bot: Добавлено подозрительное имя участника',
+		'welcome-updating': u'Bot: Обновление',
 		'welcome-welcome': u'Добро пожаловать!',
 	},
 	# Author: බිඟුවා

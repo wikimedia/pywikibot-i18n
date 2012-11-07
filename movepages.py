@@ -53,6 +53,9 @@ msg = {
 	'el': {
 		'movepages-moving': u'Μετακίνηση σελίδων με bot',
 	},
+	'en': {
+		'movepages-moving': u'Robot: Moved page',
+	},
 	# Author: Objectivesea
 	'eo': {
 		'movepages-moving': u'Roboto: Paĝon moviĝis',
@@ -209,9 +212,8 @@ msg = {
 	'ro': {
 		'movepages-moving': u'Robot: Redenumit pagina',
 	},
-	# Author: Volkov
 	'ru': {
-		'movepages-moving': u'переименование страницы при помощи бота',
+		'movepages-moving': u'Переименование страницы при помощи робота',
 	},
 	# Author: Wizzard
 	'sk': {

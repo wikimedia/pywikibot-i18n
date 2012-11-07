@@ -81,6 +81,9 @@ msg = {
 	'el': {
 		'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]',
 	},
+	'en': {
+		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},
 	# Author: Remux
 	'eo': {
 		'capitalize_redirects-create-redirect': u'Roboto: Kreante redirektilo al [[%(to)s]]',
@@ -235,9 +238,8 @@ msg = {
 	'ro': {
 		'capitalize_redirects-create-redirect': u'Robot: Creat redirecționare către [[%(to)s]]',
 	},
-	# Author: Volkov
 	'ru': {
-		'capitalize_redirects-create-redirect': u'бот: создано перенаправление на [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Бот: Создано перенаправление на [[%(to)s]]',
 	},
 	# Author: Wizzard
 	# Author: Teslaton
