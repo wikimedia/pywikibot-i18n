@@ -44,10 +44,6 @@ msg = {
 	'diq': {
 		'ndashredir-create': u'Boti [[%(title)s]] ra hetanayışi melumatê vıraşt',
 	},
-	# Author: Bináris
-	'en': {
-		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
-	},
 	# Author: Ryo567
 	# Author: Invadinado
 	'es': {
@@ -159,8 +155,9 @@ msg = {
 		'ndashredir-create': u'Robot: Creat redirecționare cu cratimă către [[%(title)s]]',
 	},
 	# Author: Ignatus
+	# Author: Volkov
 	'ru': {
-		'ndashredir-create': u'Бот: Создание перенаправления с дефисом на [[%(title)s]]',
+		'ndashredir-create': u'бот: создание перенаправления с дефисом на [[%(title)s]]',
 	},
 	# Author: Teslaton
 	'sk': {

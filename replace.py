@@ -71,9 +71,6 @@ msg = {
 	'el': {
 		'replace-replacing': u'Ρομπότ: Αυτόματη αντικατάσταση κειμένου %(description)s',
 	},
-	'en': {
-		'replace-replacing': u'Robot: Automated text replacement %(description)s',
-	},
 	# Author: Mihxil
 	'eo': {
 		'replace-replacing': u'Roboto: Automata tekst-anstataŭigo: %(description)s',
@@ -287,8 +284,9 @@ msg = {
 	'ro': {
 		'replace-replacing': u'Robot. Înlocuire automată de text %(description)s',
 	},
+	# Author: Volkov
 	'ru': {
-		'replace-replacing': u'Робот: Автоматизированная замена текста %(description)s',
+		'replace-replacing': u'бот: автоматизированная замена текста %(description)s',
 	},
 	# Author: Gazeb
 	'rue': {

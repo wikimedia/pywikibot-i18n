@@ -160,14 +160,6 @@ msg = {
 		'archivebot-older-than': u'παλαιότερο από',
 		'archivebot-page-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s.',
 	},
-	# Author: Xqt
-	'en': {
-		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].',
-		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-older-than': u'older than',
-		'archivebot-page-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
-	},
 	# Author: Remux
 	'eo': {
 		'archivebot-archive-full': u'(Plena Arkivo)',

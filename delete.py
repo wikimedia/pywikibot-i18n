@@ -116,13 +116,6 @@ msg = {
 		'delete-linked-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που συνδέονται από την %(page)s',
 		'delete-referring-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που αναφέρονται από την %(page)s',
 	},
-	'en': {
-		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
-		'delete-from-file': u'Robot: Deleting a list of files.',
-		'delete-images': u'Robot: Deleting all images on page %(page)s',
-		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
-		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
-	},
 	# Author: Remux
 	'eo': {
 		'delete-from-category': u'Roboto: Forigante ĉiujn paĝojn de la kategorio %(page)s',
@@ -423,12 +416,13 @@ msg = {
 		'delete-linked-pages': u'Robot: Șters toate paginile care se leagă de %(page)s',
 		'delete-referring-pages': u'Robot: Șters toate paginile referindu-se la %(page)s',
 	},
+	# Author: Volkov
 	'ru': {
-		'delete-from-category': u'Бот: Удаление всех страниц из категории %(page)s',
-		'delete-from-file': u'Бот: Удаление списка файлов.',
-		'delete-images': u'Бот: Удаление всех изображений на странице %(page)s',
-		'delete-linked-pages': u'Бот: Удаление всех страниц связанных с %(page)s',
-		'delete-referring-pages': u'Бот: Удаление всех страниц, относящихся к %(page)s',
+		'delete-from-category': u'бот: удаление всех страниц из категории %(page)s',
+		'delete-from-file': u'бот: удаление списка файлов',
+		'delete-images': u'бот: удаление всех изображений на странице %(page)s',
+		'delete-linked-pages': u'бот: удаление всех страниц, связанных с %(page)s',
+		'delete-referring-pages': u'бот: удаление всех страниц, относящихся к %(page)s',
 	},
 	# Author: Wizzard
 	'sk': {

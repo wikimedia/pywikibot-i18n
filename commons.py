@@ -85,10 +85,6 @@ msg = {
 		'commons-file-moved': u'Το [[:File:%(localfile)s|αρχείο]] μετακινήθηκε στα [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Το αρχείο είναι τώρα διαθέσιμο στα [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
-	'en': {
-		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
-		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
-	},
 	# Author: Airon90
 	'eo': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Dosiero]] movita al [[:commons:File:%(commonsfile)s|Komunejon]].',

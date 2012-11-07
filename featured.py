@@ -117,12 +117,6 @@ msg = {
 		'featured-good': u'Ρομπότ: το %(page)s είναι καλό άρθρο',
 		'featured-list': u'Ρομπότ: το %(page)s είναι ένας κατάλογος αξιόλογων',
 	},
-	'en': {
-		'featured-featured': u'Robot: %(page)s is a featured article',
-		'featured-former': u'Robot: %(page)s is a former featured article',
-		'featured-good': u'Robot: %(page)s is a good article',
-		'featured-list': u'Robot: %(page)s is a featured list',
-	},
 	'eo': {
 		'featured-featured': u'roboto: %(page)s estas artikolo elstara',
 		'featured-good': u'roboto: %(page)s estas artikolo leginda',
@@ -384,11 +378,12 @@ msg = {
 		'featured-list': u'Robot: %(page)s este o listă de calitate',
 	},
 	# Author: Rubin
+	# Author: Volkov
 	'ru': {
-		'featured-featured': u'Робот: избранная статья %(page)s',
-		'featured-former': u'Робот: %(page)s является бывшей избранной статьей',
-		'featured-good': u'Робот: хорошая статья %(page)s',
-		'featured-list': u'Робот: %(page)s является избранным списком',
+		'featured-featured': u'бот: избранная статья %(page)s',
+		'featured-former': u'бот: бывшая избранная статья %(page)s',
+		'featured-good': u'бот: хорошая статья %(page)s',
+		'featured-list': u'бот: избранный список %(page)s',
 	},
 	# Author: Wizzard
 	'sk': {

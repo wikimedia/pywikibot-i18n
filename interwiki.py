@@ -157,13 +157,14 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	# Author: Wizardist
+	# Author: Xqt
 	'be-x-old': {
 		'interwiki-adding': u'робат дадаў: %(adding)s',
 		'interwiki-adding-modifying': u'робат дадаў: %(adding)s зьмяніў: %(modifying)s',
 		'interwiki-adding-removing': u'робат дадаў: %(adding)s выдаліў: %(removing)s',
 		'interwiki-adding-removing-modifying': u'робат дадаў: %(adding)s выдаліў: %(removing)s зьмяніў: %(modifying)s',
 		'interwiki-modifying': u'робат зьмяніў: %(modifying)s',
-		'interwiki-modifying-from': u'Робат: зьмяніў %(from)s на %(modifying)s',
+		'interwiki-modifying-from': u'робат зьмяніў %(from)s на %(modifying)s',
 		'interwiki-removing': u'робат выдаліў: %(removing)s',
 		'interwiki-removing-modifying': u'робат выдаліў: %(removing)s зьмяніў: %(modifying)s',
 	},
@@ -396,16 +397,6 @@ msg = {
 		'interwiki-modifying': u'Robot A Cambi: %(modifying)s',
 		'interwiki-removing': u'Robot A Tir via: %(removing)s',
 		'interwiki-removing-modifying': u'Robot A Tir via: %(removing)s A Cambi: %(modifying)s',
-	},
-	'en': {
-		'interwiki-adding': u'Robot: Adding %(adding)s',
-		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
-		'interwiki-adding-removing': u'Robot: Adding %(adding)s; removing: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: Adding %(adding)s; removing %(removing)s; modifying %(modifying)s',
-		'interwiki-modifying': u'Robot: Modifying %(modifying)s',
-		'interwiki-modifying-from': u'Robot: Modifying %(from)s to %(modifying)s',
-		'interwiki-removing': u'Robot: Removing %(removing)s',
-		'interwiki-removing-modifying': u'Robot: Removing %(removing)s; modifying %(modifying)s',
 	},
 	'eo': {
 		'interwiki-adding': u'robota aldono de: %(adding)s',
@@ -1441,15 +1432,16 @@ msg = {
 		'interwiki-removing': u'Robbot Stoche a lève: %(removing)s',
 		'interwiki-removing-modifying': u'Robbot Stoche a lève: %(removing)s Stoche a cange: %(modifying)s',
 	},
+	# Author: Volkov
 	'ru': {
-		'interwiki-adding': u'робот добавил: %(adding)s',
-		'interwiki-adding-modifying': u'робот добавил: %(adding)s изменил: %(modifying)s',
-		'interwiki-adding-removing': u'робот добавил: %(adding)s удалил: %(removing)s',
-		'interwiki-adding-removing-modifying': u'робот добавил: %(adding)s удалил: %(removing)s изменил: %(modifying)s',
-		'interwiki-modifying': u'робот изменил: %(modifying)s',
-		'interwiki-modifying-from': u'Робот: изменение %(from)s на %(modifying)s',
-		'interwiki-removing': u'робот удалил: %(removing)s',
-		'interwiki-removing-modifying': u'робот удалил: %(removing)s изменил: %(modifying)s',
+		'interwiki-adding': u'бот добавил: %(adding)s',
+		'interwiki-adding-modifying': u'бот добавил: %(adding)s изменил: %(modifying)s',
+		'interwiki-adding-removing': u'бот добавил: %(adding)s удалил: %(removing)s',
+		'interwiki-adding-removing-modifying': u'бот добавил: %(adding)s удалил: %(removing)s изменил: %(modifying)s',
+		'interwiki-modifying': u'бот изменил: %(modifying)s',
+		'interwiki-modifying-from': u'бот изменил: %(from)s на %(modifying)s',
+		'interwiki-removing': u'бот удалил: %(removing)s',
+		'interwiki-removing-modifying': u'бот удалил: %(removing)s изменил: %(modifying)s',
 	},
 	# Author: Gazeb
 	'rue': {
@@ -1898,7 +1890,7 @@ msg = {
 		'interwiki-adding-removing': u'机器人添加：%(adding)s 移除：%(removing)s',
 		'interwiki-adding-removing-modifying': u'机器人添加：%(adding)s 移除：%(removing)s 修改：%(modifying)s',
 		'interwiki-modifying': u'机器人修改：%(modifying)s',
-		'interwiki-modifying-from': u'机器人：更改%(modifying)s至%(from)s',
+		'interwiki-modifying-from': u'机器人：修改%(from)s至%(modifying)s',
 		'interwiki-removing': u'机器人移除：%(removing)s',
 		'interwiki-removing-modifying': u'机器人移除：%(removing)s 修改：%(modifying)s',
 	},

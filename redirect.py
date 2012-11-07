@@ -163,7 +163,7 @@ msg = {
 	# Author: Erdemaslancan
 	'diq': {
 		'redirect-broken-redirect-template': u'{{bestere|m1}}',
-		'redirect-fix-double': u'Boti per da %(to)s ra hetanayışo dılet cı timar ke',
+		'redirect-fix-double': u'Boti Tespitê hetanayışê dıleti heta %(to)s',
 		'redirect-fix-loop': u'Boti %(to)s rê hetanayışo dılet deke',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]]: pela besternê yana pelaya cı nêasena',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt.',
@@ -177,14 +177,6 @@ msg = {
 		'redirect-fix-loop': u'Ρομπότ: Διόρθωση βρόχου ανακατεύθυνσης στο %(to)s',
 		'redirect-remove-broken': u'Ρομπότ: Ανακατεύθυνση σε μια σελίδα διαγεγραμμένη  ή ανύπαρκτη',
 		'redirect-remove-loop': u'Robot: Ανακατεύθυνση στόχου σχηματίζει έναν βρόγχο ανακατεύθυνσης',
-	},
-	# Author: Xqt
-	'en': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
-		'redirect-fix-loop': u'Robot: Fixing redirect loop to %(to)s',
-		'redirect-remove-broken': u'Robot: Redirect to a deleted or non-existent page',
-		'redirect-remove-loop': u'Robot: Redirect target forms a redirect loop',
 	},
 	# Author: Mihxil
 	# Author: Xqt
@@ -636,12 +628,13 @@ msg = {
 	# Author: Rubin
 	# Author: Xqt
 	# Author: DCamer
+	# Author: Volkov
 	'ru': {
 		'redirect-broken-redirect-template': u'{{db-redirnone}}',
-		'redirect-fix-double': u'Робот: исправление двойного перенаправления → %(to)s',
-		'redirect-fix-loop': u'Робот: Исправление перенаправления на %(to)s',
-		'redirect-remove-broken': u'Робот: [[ВП:КБУ#П1|П1]] - Перенаправление на удаленную или несуществующую страницу',
-		'redirect-remove-loop': u'Робот: Перенаправление в никуда',
+		'redirect-fix-double': u'бот: исправление двойного перенаправления → %(to)s',
+		'redirect-fix-loop': u'бот: исправление перенаправления на %(to)s',
+		'redirect-remove-broken': u'бот: [[ВП:КБУ#П1|П1]] - перенаправление на удалённую или несуществующую страницу',
+		'redirect-remove-loop': u'бот: перенаправление в никуда',
 	},
 	# Author: Gazeb
 	'rue': {

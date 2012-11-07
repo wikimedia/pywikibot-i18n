@@ -101,10 +101,6 @@ msg = {
 		'cosmetic_changes-append': u'; διακοσμητικές αλλαγές',
 		'cosmetic_changes-standalone': u'Ρομπότ: διακοσμητικές αλλαγές',
 	},
-	'en': {
-		'cosmetic_changes-append': u'; cosmetic changes',
-		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
-	},
 	# Author: Remux
 	'eo': {
 		'cosmetic_changes-append': u'; kosmetikaj ŝanĝoj',
@@ -364,9 +360,10 @@ msg = {
 		'cosmetic_changes-append': u'; modificări cosmetice',
 		'cosmetic_changes-standalone': u'Robot: Modificări cosmetice',
 	},
+	# Author: Volkov
 	'ru': {
 		'cosmetic_changes-append': u'; косметические изменения',
-		'cosmetic_changes-standalone': u'робот косметические изменения',
+		'cosmetic_changes-standalone': u'бот: косметические изменения',
 	},
 	# Author: Avicennasis
 	'sco': {

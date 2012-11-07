@@ -130,9 +130,6 @@ msg = {
 	'eml': {
 		'add_text-adding': u'Robot A Śònt %(adding)s',
 	},
-	'en': {
-		'add_text-adding': u'Robot: Adding %(adding)s',
-	},
 	'eo': {
 		'add_text-adding': u'robota aldono de %(adding)s',
 	},
@@ -464,8 +461,9 @@ msg = {
 		'add_text-adding': u'Robbot Stoche a mette %(adding)s',
 	},
 	# Author: Rubin
+	# Author: Volkov
 	'ru': {
-		'add_text-adding': u'Робот: добавление %(adding)s',
+		'add_text-adding': u'бот добавил: %(adding)s',
 	},
 	'rue': {
 		'add_text-adding': u'робот додав %(adding)s',

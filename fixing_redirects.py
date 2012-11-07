@@ -57,9 +57,6 @@ msg = {
 	'el': {
 		'fixing_redirects-fixing': u'Ρομπότ: Διόρθωση ανακατευθύνσεων',
 	},
-	'en': {
-		'fixing_redirects-fixing': u'Bot: Fixing redirects',
-	},
 	# Author: Remux
 	'eo': {
 		'fixing_redirects-fixing': u'Boto: Riparante redirektilojn',
@@ -217,8 +214,9 @@ msg = {
 		'fixing_redirects-fixing': u'Robot: Reparat redirecționările',
 	},
 	# Author: Eleferen
+	# Author: Volkov
 	'ru': {
-		'fixing_redirects-fixing': u'Бот: Исправление перенаправлений',
+		'fixing_redirects-fixing': u'бот: исправление перенаправлений',
 	},
 	# Author: Teslaton
 	'sk': {
