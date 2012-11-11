@@ -1,6 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: Csisc
+	'en': {
+		'replace-replacing': u'Robot: Automated text replacement %(description)s',
+	},
+	# Author: Xqt
+	'qqq': {
+		'replace-replacing': u'Default edit summary when the bot does text replacements. <code>%(descriptions)s</code> gives further informations like the source and target strings or regex of the replacement.',
+	},	# Author: Csisc
 	'aeb': {
 		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
 	},
@@ -8,12 +14,16 @@ msg = {
 	'af': {
 		'replace-replacing': u'Robot: geoutomatiseerde teks vervanging %(description)s',
 	},
+	# Author: Xqt
+	'als': {
+		'replace-replacing': u'Bötli: het dr Text automatisch uustuscht: %(description)s',
+	},
 	# Author: Meno25
 	'ar': {
 		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
 	},
-	# Author: Xuacu
 	# Author: Esbardu
+	# Author: Xuacu
 	'ast': {
 		'replace-replacing': u'Robó: Troquéu automáticu de testu %(description)s',
 	},
@@ -24,6 +34,10 @@ msg = {
 	# Author: Mucalexx
 	'bar': {
 		'replace-replacing': u'Bot: Autómaatisirde Textersétzung %(description)s',
+	},
+	# Author: Jim-by
+	'be-tarask': {
+		'replace-replacing': u'Робат: аўтаматызаваная замена тэксту %(description)s',
 	},
 	# Author: Jim-by
 	'be-x-old': {
@@ -51,13 +65,13 @@ msg = {
 	'cs': {
 		'replace-replacing': u'Robot automaticky nahradil text: %(description)s',
 	},
-	# Author: Xxglennxx
 	# Author: Lloffiwr
+	# Author: Xxglennxx
 	'cy': {
 		'replace-replacing': u'Bot: Yn amnewid testun yn awtomatig %(description)s',
 	},
-	# Author: Sarrus
 	# Author: Christian List
+	# Author: Sarrus
 	'da': {
 		'replace-replacing': u'Robot: Automatisk erstatning af tekst: %(description)s',
 	},
@@ -70,9 +84,6 @@ msg = {
 	},
 	'el': {
 		'replace-replacing': u'Ρομπότ: Αυτόματη αντικατάσταση κειμένου %(description)s',
-	},
-	'en': {
-		'replace-replacing': u'Robot: Automated text replacement %(description)s',
 	},
 	# Author: Mihxil
 	'eo': {
@@ -121,7 +132,7 @@ msg = {
 		'replace-replacing': u'Bot: Substitución automática de texto %(description)s',
 	},
 	# Author: Xqt
-	'als': {
+	'gsw': {
 		'replace-replacing': u'Bötli: het dr Text automatisch uustuscht: %(description)s',
 	},
 	'he': {
@@ -176,6 +187,9 @@ msg = {
 	'kk': {
 		'replace-replacing': u'Бот: Мәтінді өздікті алмастырды: %(description)s',
 	},
+	'kk-cyrl': {
+		'replace-replacing': u'Бот: Мәтінді өздікті алмастырды: %(description)s',
+	},
 	# Author: Cwt96
 	'ko': {
 		'replace-replacing': u'봇: 자동 텍스트 교체 %(description)s',
@@ -185,6 +199,10 @@ msg = {
 	},
 	# Author: Ghybu
 	'ku': {
+		'replace-replacing': u'Bot: Otomatîk nivîs guherandin %(description)s',
+	},
+	# Author: Ghybu
+	'ku-latn': {
 		'replace-replacing': u'Bot: Otomatîk nivîs guherandin %(description)s',
 	},
 	# Author: UV
@@ -239,7 +257,7 @@ msg = {
 	'mzn': {
 		'replace-replacing': u'ربوت: بنویشته‌ئون خادکار عوض-بدل بیّن %(description)s',
 	},
-	'no': {
+	'nb': {
 		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
 	},
 	'nds': {
@@ -262,6 +280,9 @@ msg = {
 	'nn': {
 		'replace-replacing': u'robot: automatisk tekstbyte: %(description)s',
 	},
+	'no': {
+		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'replace-replacing': u'Robot automatycznie zastąpił tekst %(description)s',
@@ -278,10 +299,6 @@ msg = {
 	# Author: 555
 	'pt-br': {
 		'replace-replacing': u'Bot: Substituição automática de texto %(description)s',
-	},
-	# Author: Xqt
-	'qqq': {
-		'replace-replacing': u'Default edit summary when the bot does text replacements. <code>%(descriptions)s</code> gives further informations like the source and target strings or regex of the replacement.',
 	},
 	# Author: Minisarm
 	'ro': {
@@ -316,6 +333,10 @@ msg = {
 		'replace-replacing': u'Робот: самозамењивање текста %(description)s',
 	},
 	# Author: Rancher
+	'sr-ec': {
+		'replace-replacing': u'Робот: самозамењивање текста %(description)s',
+	},
+	# Author: Rancher
 	'sr-el': {
 		'replace-replacing': u'Robot: samozamenjivanje teksta %(description)s',
 	},
@@ -342,11 +363,15 @@ msg = {
 	'tt': {
 		'replace-replacing': u'Робот: %(description)s текстын автоматик рәвештә алмаштыру',
 	},
+	# Author: Zahidulla
+	'tt-cyrl': {
+		'replace-replacing': u'Робот: %(description)s текстын автоматик рәвештә алмаштыру',
+	},
 	'uk': {
 		'replace-replacing': u'Бот: Автоматизована заміна тексту: %(description)s',
 	},
-	# Author: Candalua
 	# Author: Alunardon90
+	# Author: Candalua
 	'vec': {
 		'replace-replacing': u'Robot: Sostitusion automatega %(description)s',
 	},
@@ -366,6 +391,10 @@ msg = {
 	'zh': {
 		'replace-replacing': u'机器人：自动文本替换%(description)s',
 	},
+	# Author: 阿pp
+	'zh-hans': {
+		'replace-replacing': u'机器人：自动文本替换%(description)s',
+	},
 	# Author: Andrew971218
 	# Author: Justincheng12345
 	'zh-hant': {
@@ -375,4 +404,4 @@ msg = {
 	'zh-hk': {
 		'replace-replacing': u'機械人自動替換文字%(description)s',
 	},
-}
+};

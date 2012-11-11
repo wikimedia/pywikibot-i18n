@@ -1,8 +1,16 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: Csisc
+	'en': {
+		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
+	},
+	'qqq': {
+		'clean_sandbox-cleaned': u'Summary message when the bot cleans sandbox',
+	},	# Author: Csisc
 	'aeb': {
 		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
+	},
+	'als': {
+		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
 	},
 	'ar': {
 		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
@@ -18,6 +26,10 @@ msg = {
 	# Author: Mucalexx
 	'bar': {
 		'clean_sandbox-cleaned': u'Bot: Sétz d\' Spüwiesen zruck.',
+	},
+	# Author: EugeneZelenko
+	'be-tarask': {
+		'clean_sandbox-cleaned': u'Робат: аўтаматычная ачыстка',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -67,16 +79,13 @@ msg = {
 	'el': {
 		'clean_sandbox-cleaned': u'Ρομπότ: Καθαρίστηκε αυτόματα',
 	},
-	'en': {
-		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
-	},
 	# Author: Airon90
 	'eo': {
 		'clean_sandbox-cleaned': u'Roboto: Aŭtomate viŝita',
 	},
 	# Author: Dferg
-	# Author: Xqt
 	# Author: Invadinado
+	# Author: Xqt
 	'es': {
 		'clean_sandbox-cleaned': u'Bot: Limpieza automatizada',
 	},
@@ -111,7 +120,7 @@ msg = {
 	'gl': {
 		'clean_sandbox-cleaned': u'Bot: Limpeza automática',
 	},
-	'als': {
+	'gsw': {
 		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
 	},
 	'he': {
@@ -185,7 +194,7 @@ msg = {
 	'ms': {
 		'clean_sandbox-cleaned': u'Robot: Dibersihkan secara automatik',
 	},
-	'no': {
+	'nb': {
 		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
 	},
 	'nds': {
@@ -202,6 +211,9 @@ msg = {
 	# Author: Njardarlogar
 	'nn': {
 		'clean_sandbox-cleaned': u'robot: automatisk rydjing',
+	},
+	'no': {
+		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
 	},
 	# Author: Shisir 1945
 	'or': {
@@ -223,9 +235,6 @@ msg = {
 	# Author: 555
 	'pt-br': {
 		'clean_sandbox-cleaned': u'Bot: Limpeza automática',
-	},
-	'qqq': {
-		'clean_sandbox-cleaned': u'Summary message when the bot cleans sandbox',
 	},
 	# Author: Minisarm
 	'ro': {
@@ -253,6 +262,10 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
+		'clean_sandbox-cleaned': u'Робот: очишћен песак',
+	},
+	# Author: Rancher
+	'sr-ec': {
 		'clean_sandbox-cleaned': u'Робот: очишћен песак',
 	},
 	# Author: Rancher
@@ -289,6 +302,10 @@ msg = {
 	'tt': {
 		'clean_sandbox-cleaned': u'Робот: автоматик рәвештә чистарту',
 	},
+	# Author: Zahidulla
+	'tt-cyrl': {
+		'clean_sandbox-cleaned': u'Робот: автоматик рәвештә чистарту',
+	},
 	# Author: Тест
 	'uk': {
 		'clean_sandbox-cleaned': u'Робот: Автоматична очистка',
@@ -314,6 +331,10 @@ msg = {
 	'zh': {
 		'clean_sandbox-cleaned': u'机器人：自动清理',
 	},
+	# Author: Yfdyh000
+	'zh-hans': {
+		'clean_sandbox-cleaned': u'机器人：自动清理',
+	},
 	# Author: Waihorace
 	'zh-hant': {
 		'clean_sandbox-cleaned': u'機械人：自動清除',
@@ -322,4 +343,4 @@ msg = {
 	'zh-hk': {
 		'clean_sandbox-cleaned': u'機械人自動清除',
 	},
-}
+};

@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+	'en': {
+		'spellcheck-checking': u'Bot-aided spell checker',
+	},	# Author: Als-Holder
+	'als': {
+		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
+	},
 	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},
@@ -26,9 +32,6 @@ msg = {
 	'diq': {
 		'spellcheck-checking': u'Cerebnayoğê nuşteyanê bot-destegıni',
 	},
-	'en': {
-		'spellcheck-checking': u'Bot-aided spell checker',
-	},
 	'es': {
 		'spellcheck-checking': u'Bot asistido de correción ortográfica',
 	},
@@ -44,7 +47,7 @@ msg = {
 		'spellcheck-checking': u'Corrección ortográfica asistida por un bot',
 	},
 	# Author: Als-Holder
-	'als': {
+	'gsw': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
 	},
 	'he': {
@@ -87,8 +90,8 @@ msg = {
 	'pl': {
 		'spellcheck-checking': u'Wspomagane przez robota sprawdzanie pisowni',
 	},
-	# Author: Dragonòt
 	# Author: Borichèt
+	# Author: Dragonòt
 	'pms': {
 		'spellcheck-checking': u'Coretor d\'ortografìa për mojen d\'un trigomiro',
 	},
@@ -109,6 +112,10 @@ msg = {
 		'spellcheck-checking': u'Ботовска провера правописа',
 	},
 	# Author: Rancher
+	'sr-ec': {
+		'spellcheck-checking': u'Ботовска провера правописа',
+	},
+	# Author: Rancher
 	'sr-el': {
 		'spellcheck-checking': u'Botovska provera pravopisa',
 	},
@@ -124,8 +131,12 @@ msg = {
 	'zh': {
 		'spellcheck-checking': u'机器人辅助的拼写检查器',
 	},
+	# Author: Yfdyh000
+	'zh-hans': {
+		'spellcheck-checking': u'机器人辅助的拼写检查器',
+	},
 	# Author: Justincheng12345
 	'zh-hant': {
 		'spellcheck-checking': u'機械人輔助的拼字檢查',
 	},
-}
+};

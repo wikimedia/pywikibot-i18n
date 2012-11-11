@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: Csisc
+	'en': {
+		'movepages-moving': u'Robot: Moved page',
+	},	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
 	},
@@ -8,13 +10,21 @@ msg = {
 	'af': {
 		'movepages-moving': u'Robot: bladsynaam gewysig',
 	},
+	# Author: Als-Chlämens
+	'als': {
+		'movepages-moving': u'Bötli: Syte verschobe',
+	},
 	'ar': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
 	},
-	# Author: Xuacu
 	# Author: Esbardu
+	# Author: Xuacu
 	'ast': {
 		'movepages-moving': u'Robó: Páxina treslladada',
+	},
+	# Author: EugeneZelenko
+	'be-tarask': {
+		'movepages-moving': u'робат перанёс старонку',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -53,9 +63,6 @@ msg = {
 	'el': {
 		'movepages-moving': u'Μετακίνηση σελίδων με bot',
 	},
-	'en': {
-		'movepages-moving': u'Robot: Moved page',
-	},
 	# Author: Objectivesea
 	'eo': {
 		'movepages-moving': u'Roboto: Paĝon moviĝis',
@@ -93,7 +100,7 @@ msg = {
 		'movepages-moving': u'Bot: Páxina trasladada',
 	},
 	# Author: Als-Chlämens
-	'als': {
+	'gsw': {
 		'movepages-moving': u'Bötli: Syte verschobe',
 	},
 	'he': {
@@ -175,7 +182,7 @@ msg = {
 		'movepages-moving': u'Bot: Il-paġna tmexxiet',
 	},
 	# Author: Nghtwlkr
-	'no': {
+	'nb': {
 		'movepages-moving': u'Robot: Flyttet side',
 	},
 	# Author: Servien
@@ -188,6 +195,10 @@ msg = {
 	# Author: Njardarlogar
 	'nn': {
 		'movepages-moving': u'robot: flytte sida',
+	},
+	# Author: Nghtwlkr
+	'no': {
+		'movepages-moving': u'Robot: Flyttet side',
 	},
 	# Author: Xqt
 	'pdc': {
@@ -230,6 +241,10 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
+		'movepages-moving': u'Робот: премештена страница',
+	},
+	# Author: Rancher
+	'sr-ec': {
 		'movepages-moving': u'Робот: премештена страница',
 	},
 	# Author: Rancher
@@ -296,6 +311,10 @@ msg = {
 	'zh': {
 		'movepages-moving': u'机器人：移动页面',
 	},
+	# Author: Anakmalaysia
+	'zh-hans': {
+		'movepages-moving': u'机器人：移动页面',
+	},
 	# Author: Breawycker
 	# Author: Justincheng12345
 	'zh-hant': {
@@ -305,4 +324,4 @@ msg = {
 	'zh-hk': {
 		'movepages-moving': u'機械人移動頁面',
 	},
-}
+};
