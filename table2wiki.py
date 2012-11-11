@@ -254,9 +254,10 @@ msg = {
 		'table2wiki-warnings': u'Robot controlat de utilizator: actualizat sintaxa tabelului — {{PLURAL:count|1 avertisment|%(count)d avertismente}}!',
 	},
 	# Author: Rubin
+	# Author: Volkov
 	'ru': {
-		'table2wiki-no-warning': u'Полуавтоматический робот: синтаксис таблицы обновлен',
-		'table2wiki-warnings': u'Полуавтоматический робот: синтаксис таблицы обновлен - {{PLURAL:count|1 предупреждение|%(count)d предупреждения(-ий)}}!',
+		'table2wiki-no-warning': u'полуавтоматический бот: синтаксис таблицы обновлён',
+		'table2wiki-warnings': u'полуавтоматический бот: синтаксис таблицы обновлён - {{PLURAL:count|1 предупреждение|предупреждений: %(count)d}}!',
 	},
 	# Author: Wizzard
 	# Author: Teslaton

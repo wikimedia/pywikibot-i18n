@@ -724,13 +724,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(necunoscut)',
 	},
 	# Author: Александр Сигачёв
+	# Author: Volkov
 	'ru': {
-		'solve_disambiguation-adding-dn-template': u'Неоднозначность с помощью робота: %(from)s — помечена как требующая внимания эксперта',
-		'solve_disambiguation-links-removed': u'Разрешение значений с помощью бота: %(from)s - Removed link(s)',
-		'solve_disambiguation-links-resolved': u'Разрешение значений с помощью бота: %(from)s - Changed link(s) to %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Неоднозначность с помощью робота: %(from)s — помечена как требующая внимания эксперта',
-		'solve_disambiguation-redirect-removed': u'Разрешение значений с помощью бота: %(from)s - Removed link(s)',
-		'solve_disambiguation-redirect-resolved': u'Разрешение значений с помощью бота: %(from)s - Changed link(s) to %(to)s',
+		'solve_disambiguation-adding-dn-template': u'Разрешение значений с помощью бота: %(from)s — помечена как требующая внимания эксперта',
+		'solve_disambiguation-links-removed': u'Разрешение значений с помощью бота: %(from)s — удаление ссылок',
+		'solve_disambiguation-links-resolved': u'Разрешение значений с помощью бота: %(from)s — изменение ссылок на %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Разрешение значений с помощью бота: %(from)s — помечена как требующая внимания эксперта',
+		'solve_disambiguation-redirect-removed': u'Разрешение значений с помощью бота: %(from)s — удаление ссылок',
+		'solve_disambiguation-redirect-resolved': u'Разрешение значений с помощью бота: %(from)s — изменение ссылок на %(to)s',
 		'solve_disambiguation-unknown-page': u'(неизвестно)',
 	},
 	# Author: Gazeb

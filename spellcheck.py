@@ -7,6 +7,10 @@ msg = {
 	'ast': {
 		'spellcheck-checking': u'Correición ortográfica asistida por robot',
 	},
+	# Author: Gwenn-Ael
+	'br': {
+		'spellcheck-checking': u'Reizhskrivañ damemgefreek',
+	},
 	# Author: Tchoř
 	'cs': {
 		'spellcheck-checking': u'Kontrola  překlepů s pomocí robota',
@@ -39,8 +43,16 @@ msg = {
 	'gl': {
 		'spellcheck-checking': u'Corrección ortográfica asistida por un bot',
 	},
+	# Author: Als-Holder
+	'als': {
+		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
+	},
 	'he': {
 		'spellcheck-checking': u'בדיקת איות באמצעות בוט',
+	},
+	# Author: Dj
+	'hu': {
+		'spellcheck-checking': u'Bottal támogatott helyesírás ellenőrzés',
 	},
 	'ia': {
 		'spellcheck-checking': u'Correction de orthographia per robot',
@@ -76,15 +88,17 @@ msg = {
 		'spellcheck-checking': u'Wspomagane przez robota sprawdzanie pisowni',
 	},
 	# Author: Dragonòt
+	# Author: Borichèt
 	'pms': {
-		'spellcheck-checking': u'Coretor d\'ortografìa giutà da trigomiro',
+		'spellcheck-checking': u'Coretor d\'ortografìa për mojen d\'un trigomiro',
 	},
 	'pt': {
 		'spellcheck-checking': u'Bot de correção ortográfica',
 	},
 	# Author: Eleferen
+	# Author: Volkov
 	'ru': {
-		'spellcheck-checking': u'Бот, помогающий в проверке орфографии',
+		'spellcheck-checking': u'орфография с помощью бота',
 	},
 	# Author: Irena Plahuta
 	'sl': {
@@ -97,5 +111,21 @@ msg = {
 	# Author: Rancher
 	'sr-el': {
 		'spellcheck-checking': u'Botovska provera pravopisa',
+	},
+	# Author: Lokal Profil
+	'sv': {
+		'spellcheck-checking': u'Robot-assisterad stavningskontroll',
+	},
+	# Author: Minh Nguyen
+	'vi': {
+		'spellcheck-checking': u'Bộ kiểm tra chính tả dùng bot',
+	},
+	# Author: Yfdyh000
+	'zh': {
+		'spellcheck-checking': u'机器人辅助的拼写检查器',
+	},
+	# Author: Justincheng12345
+	'zh-hant': {
+		'spellcheck-checking': u'機械人輔助的拼字檢查',
 	},
 }

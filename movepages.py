@@ -212,8 +212,9 @@ msg = {
 	'ro': {
 		'movepages-moving': u'Robot: Redenumit pagina',
 	},
+	# Author: Volkov
 	'ru': {
-		'movepages-moving': u'Переименование страницы при помощи робота',
+		'movepages-moving': u'переименование страницы при помощи бота',
 	},
 	# Author: Wizzard
 	'sk': {

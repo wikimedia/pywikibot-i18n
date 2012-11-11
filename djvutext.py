@@ -200,8 +200,9 @@ msg = {
 		'djvutext-creating': u'Robot: Creat pagină cu text extras din DjVu',
 	},
 	# Author: Eleferen
+	# Author: Volkov
 	'ru': {
-		'djvutext-creating': u'Бот: Создание страницы с текстом, извлечённым из DjVu',
+		'djvutext-creating': u'бот: создание страницы с текстом, извлечённым из DjVu',
 	},
 	# Author: Teslaton
 	'sk': {

@@ -166,13 +166,14 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
 	},
 	# Author: Erdemaslancan
+	# Author: Mirzali
 	'diq': {
 		'category_redirect-add-template': u'Boti qande timar kerden şablone hetenayışe kategori dekerd de',
 		'category_redirect-change-category': u'Boti kategoriya [[:%(oldCatLink)s|%(oldCatTitle)s]] berd [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Boti timarin da hetanayışi kategoriyan',
 		'category_redirect-edit-request': u'Peleye ke stare deyê greye kategoriya re newe kerdış icab keno: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s re hetanayışkar ita do %(oldcat)s\'',
-		'category_redirect-fix-double': u'Boti hetenayışo dılet timar ke',
+		'category_redirect-fix-double': u'Robot: Sabıtkerdışê hetenayışê dıleti',
 	},
 	# Author: Glavkos
 	# Author: Geraki
@@ -601,13 +602,14 @@ msg = {
 		'category_redirect-fix-double': u'Robot: Reparat dubla redirecționare înspre',
 	},
 	# Author: Александр Сигачёв
+	# Author: Volkov
 	'ru': {
-		'category_redirect-add-template': u'Робот: добавление шаблона перенаправляющей категории для обслуживания',
-		'category_redirect-change-category': u'Робот: изменение перенаправляющей категории с [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'бот: добавление шаблона перенаправляющей категории для обслуживания',
+		'category_redirect-change-category': u'бот: изменение перенаправляющей категории с [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-comment': u'Бот, обслуживающий перенаправления категорий',
 		'category_redirect-edit-request': u'Следующие защищенные страницы требуют обновления ссылок категорий: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s находится в %(oldcat)s, являющейся перенаправлением на %(newcat)s',
-		'category_redirect-fix-double': u'Робот: исправление двойного перенаправления',
+		'category_redirect-fix-double': u'бот: исправление двойного перенаправления',
 	},
 	'rue': {
 		'category_redirect-fix-double': u'Робот: справив двоїте напрямлїня',

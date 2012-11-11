@@ -384,11 +384,12 @@ msg = {
 		'featured-list': u'Robot: %(page)s este o listă de calitate',
 	},
 	# Author: Rubin
+	# Author: Volkov
 	'ru': {
-		'featured-featured': u'Робот: избранная статья %(page)s',
-		'featured-former': u'Робот: %(page)s является бывшей избранной статьей',
-		'featured-good': u'Робот: хорошая статья %(page)s',
-		'featured-list': u'Робот: %(page)s является избранным списком',
+		'featured-featured': u'бот: избранная статья %(page)s',
+		'featured-former': u'бот: бывшая избранная статья %(page)s',
+		'featured-good': u'бот: хорошая статья %(page)s',
+		'featured-list': u'бот: избранный список %(page)s',
 	},
 	# Author: Wizzard
 	'sk': {

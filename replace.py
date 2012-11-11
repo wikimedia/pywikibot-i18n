@@ -287,8 +287,9 @@ msg = {
 	'ro': {
 		'replace-replacing': u'Robot. Înlocuire automată de text %(description)s',
 	},
+	# Author: Volkov
 	'ru': {
-		'replace-replacing': u'Робот: Автоматизированная замена текста %(description)s',
+		'replace-replacing': u'бот: автоматизированная замена текста %(description)s',
 	},
 	# Author: Gazeb
 	'rue': {

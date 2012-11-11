@@ -283,10 +283,11 @@ msg = {
 		'template-removing': u'Robot: Înlăturat {{PLURAL:%(num)d|formatul|formatele}}: %(list)s',
 		'template-substituting': u'Robot: Substituit {{PLURAL:%(num)d|formatul|formatele}}: %(list)s',
 	},
+	# Author: Volkov
 	'ru': {
-		'template-changing': u'Бот: замена {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
-		'template-removing': u'Бот: удаление {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
-		'template-substituting': u'Бот: подстановка {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
+		'template-changing': u'бот: замена {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
+		'template-removing': u'бот: удаление {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
+		'template-substituting': u'бот: подстановка {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
 	},
 	# Author: Teslaton
 	'sk': {

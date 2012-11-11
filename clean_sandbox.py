@@ -231,8 +231,9 @@ msg = {
 	'ro': {
 		'clean_sandbox-cleaned': u'Robot: Curățat automat',
 	},
+	# Author: Volkov
 	'ru': {
-		'clean_sandbox-cleaned': u'Бот: очистка песочницы',
+		'clean_sandbox-cleaned': u'бот: очистка песочницы',
 	},
 	# Author: Avicennasis
 	'sco': {

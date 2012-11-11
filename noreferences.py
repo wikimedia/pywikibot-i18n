@@ -239,8 +239,9 @@ msg = {
 	'ro': {
 		'noreferences-add-tag': u'Robot: Adăugat tagul lipsă <references />',
 	},
+	# Author: Volkov
 	'ru': {
-		'noreferences-add-tag': u'Robot: Добавлен отсутствующий тег <references />',
+		'noreferences-add-tag': u'бот добавил отсутствующий тег <references />',
 	},
 	# Author: Wizzard
 	'sk': {

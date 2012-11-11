@@ -221,8 +221,9 @@ msg = {
 		'catall-changing': u'Robot: Schimbat categorii',
 	},
 	# Author: Eleferen
+	# Author: Volkov
 	'ru': {
-		'catall-changing': u'Бот: Изменение категорий',
+		'catall-changing': u'бот: изменение категорий',
 	},
 	# Author: Teslaton
 	'sk': {

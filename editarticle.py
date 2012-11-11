@@ -56,8 +56,9 @@ msg = {
 		'editarticle-edit': u'Manuelle Bearbeitung: %(description)s',
 	},
 	# Author: Erdemaslancan
+	# Author: Mirzali
 	'diq': {
-		'editarticle-edit': u'Boti xo desti %(description)s  timar ke',
+		'editarticle-edit': u'Hesabê boti ra xo desti vurnayış: %(description)s',
 	},
 	# Author: Geraki
 	'el': {

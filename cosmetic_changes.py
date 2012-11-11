@@ -364,9 +364,10 @@ msg = {
 		'cosmetic_changes-append': u'; modificări cosmetice',
 		'cosmetic_changes-standalone': u'Robot: Modificări cosmetice',
 	},
+	# Author: Volkov
 	'ru': {
 		'cosmetic_changes-append': u'; косметические изменения',
-		'cosmetic_changes-standalone': u'робот косметические изменения',
+		'cosmetic_changes-standalone': u'бот: косметические изменения',
 	},
 	# Author: Avicennasis
 	'sco': {

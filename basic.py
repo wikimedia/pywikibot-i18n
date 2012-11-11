@@ -336,8 +336,9 @@ msg = {
 	'ro': {
 		'basic-changing': u'Robot: Schimb ...',
 	},
+	# Author: Volkov
 	'ru': {
-		'basic-changing': u'Бот: изменил ...',
+		'basic-changing': u'бот: изменил ...',
 	},
 	# Author: Avicennasis
 	'sco': {

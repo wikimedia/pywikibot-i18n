@@ -438,9 +438,10 @@ msg = {
 		'welcome-updating': u'Robot: Actualizat jurnal',
 		'welcome-welcome': u'Bun venit!',
 	},
+	# Author: Volkov
 	'ru': {
-		'welcome-bad_username': u'Bot: Добавлено подозрительное имя участника',
-		'welcome-updating': u'Bot: Обновление',
+		'welcome-bad_username': u'бот: добавлено подозрительное имя участника',
+		'welcome-updating': u'бот: обновление журнала',
 		'welcome-welcome': u'Добро пожаловать!',
 	},
 	# Author: බිඟුවා

@@ -310,8 +310,9 @@ msg = {
 		'isbn-formatting': u'Robot: Formatat codul ISBN',
 	},
 	# Author: Александр Сигачёв
+	# Author: Volkov
 	'ru': {
-		'isbn-formatting': u'Робот: преобразование ISBN',
+		'isbn-formatting': u'бот: преобразование ISBN',
 	},
 	# Author: Gazeb
 	'rue': {

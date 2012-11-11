@@ -1121,6 +1121,7 @@ msg = {
 	# Author: DrTrigon
 	# Author: Rubin
 	# Author: Express2000
+	# Author: Volkov
 	'ru': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'заменяются теги %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Обсуждение изменилось',
@@ -1137,7 +1138,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Предупреждение робота: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Резюме обсуждения добавлено: %(num)i записей',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Добавлен итог и скорректировано обсуждение: %(num)i записей',
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Робот',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Резюме обсуждения обновлено: %(num)i записей на %(page)s',
 	},
 	# Author: බිඟුවා

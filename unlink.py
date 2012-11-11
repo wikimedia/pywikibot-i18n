@@ -192,8 +192,9 @@ msg = {
 		'unlink-unlinking': u'Robot: Eliminat legături către „%s”',
 	},
 	# Author: Eleferen
+	# Author: Volkov
 	'ru': {
-		'unlink-unlinking': u'Бот: Удаление ссылки «%s»',
+		'unlink-unlinking': u'бот: удаление ссылки «%s»',
 	},
 	# Author: Teslaton
 	'sk': {
