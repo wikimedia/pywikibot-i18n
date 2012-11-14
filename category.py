@@ -7,6 +7,7 @@ msg = {
 		'category-changing': u'Robot: Changing %(oldcat)s to %(newcat)s',
 		'category-listifying': u'Robot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
 		'category-removing': u'Robot: Removing from %(oldcat)s',
+                'category-renamed': u'Robot: Moved from %s. Authors: %s',
 		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
 		'category-section-title': u'Page history of former %(oldcat)s',
 		'category-version-history': u'Robot: Saving version history of former %(oldcat)s',
@@ -100,6 +101,7 @@ msg = {
 		'category-replacing': u'روبوت: استبدال التصنيف %(oldcat)s ب %(newcat)s',
 		'category-adding': u'روبوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'بوت: إزالة من %(oldcat)s',
+                'category-renamed': u'روبوت: نقل من %s. المؤلفون: %s',
 	},
 	# Author: Basharh
 	# Author: Man2fly2002
@@ -375,6 +377,7 @@ msg = {
 		'category-replacing': u'Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s',
 		'category-adding': u'Bot: Ergänze Kategorie [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Bot: Entferne aus %(oldcat)s',
+                'category-renamed': u'Bot: Verschoben von %s. Autoren: %s',
 	},
 	# Author: Eruedin
 	'de-ch': {
@@ -499,6 +502,7 @@ msg = {
 		'category-replacing': u'Botti korvasi luokan %(oldcat)s luokalla %(newcat)s',
 		'category-adding': u'Botti lisäsi luokkaan [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Botti poisti luokasta %(oldcat)s',
+                'category-renamed': u'Botti siirsi luokan %s. Muokkaajat: %s',
 	},
 	'fiu-vro': {
 		'category-adding': u'robot: manopandminõ [[Category:%(newcat)s]]',
@@ -531,6 +535,7 @@ msg = {
 		'category-replacing': u'Robot : Remplacement de la catégorie %(oldcat)s par %(newcat)s',
 		'category-adding': u'Robot : Ajout de la catégorie [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Robot : Retiré depuis %(oldcat)s',
+                'category-renamed': u'Robot : déplacé depuis %s. Auteurs: %s',
 	},
 	# Author: ChrisPtDe
 	'frp': {
@@ -620,6 +625,7 @@ msg = {
 		'category-replacing': u'בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s',
 		'category-adding': u'בוט: מוסיף את הקטגוריה [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'בוט: מסיר את הדף מהקטגוריה %(oldcat)s',
+                'category-renamed': u'בוט: הועבר מהשם %s. כותבים: %s',
 	},
 	# Author: Siddhartha Ghai
 	'hi': {
@@ -683,6 +689,7 @@ msg = {
 		'category-replacing': u'Robot: Reimplacia categoria %(oldcat)s per %(newcat)s',
 		'category-adding': u'Robot: Addition del categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Robot: Removite de %(oldcat)s',
+                'category-renamed': u'Robot: Transferite de %s. Autores: %s',
 	},
 	# Author: Farras
 	# Author: IvanLanin
@@ -698,6 +705,7 @@ msg = {
 		'category-replacing': u'Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s',
 		'category-adding': u'Robot: Menambahkan kategori [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Bot: Menghapus dari %(oldcat)s',
+                'category-renamed': u'Bot: Memindahkan dari %s. Kontributor: %s',
 	},
 	# Author: Renan
 	'ie': {
@@ -764,6 +772,7 @@ msg = {
 		'category-replacing': u'Bot: Sostituzione di %(oldcat)s con %(newcat)s',
 		'category-adding': u'Bot: Aggiunta la categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Bot: Rimozione da %(oldcat)s',
+                'category-renamed': u'Bot: Voce spostata da %s. Autori: %s',
 	},
 	# Author: Fryed-peach
 	# Author: Ohgi
@@ -779,6 +788,7 @@ msg = {
 		'category-replacing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-adding': u'ロボットによる: カテゴリ追加 [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'ロボットによる: [[%(oldcat)s]]を除去',
+                'category-renamed': u'ロボットによる: %s から移動しました。原作者は %s',
 	},
 	# Author: NoiX180
 	'jv': {
@@ -862,6 +872,7 @@ msg = {
 		'category-replacing': u'Bot: [[%(oldcat)s]] jääje [[%(newcat)s]] ußjetuusch.',
 		'category-adding': u'Bot: Saachjropp [[:Category:%(newcat)s|%(newcat)s]] erinjedonn',
 		'category-removing': u'Bot: uß de %(oldcat)s ußjedraare',
+                'category-renamed': u'Bot: hääjeholldt von %s. Schriiver: %s',
 	},
 	# Author: George Animal
 	# Author: Ghybu
@@ -1116,6 +1127,7 @@ msg = {
 		'category-replacing': u'Bot: Kategorie %(oldcat)s gegen %(newcat)s utwesselt',
 		'category-adding': u'Kat-Bot: Kategorie [[:Category:%(newcat)s|%(newcat)s]] rin',
 		'category-removing': u'Kat-Bot: rut ut %(oldcat)s',
+                'category-renamed': u'Kat-Bot: herschaven von %s. Schriever: %s',
 	},
 	# Author: Servien
 	'nds-nl': {
@@ -1153,6 +1165,7 @@ msg = {
 		'category-replacing': u'Robot: categorie %(oldcat)s is vervangen door %(newcat)s',
 		'category-adding': u'Robot: categorie [[:Category:%(newcat)s|%(newcat)s]] toegevoegd',
 		'category-removing': u'Robot: verwijderd uit %(oldcat)s',
+                'category-renamed': u'Bot: hernoemd van %s. Auteurs: %s',
 	},
 	# Author: Harald Khan
 	# Author: Njardarlogar
@@ -1227,6 +1240,7 @@ msg = {
 		'category-replacing': u'Robot zastąpił kategorię %(oldcat)s przez %(newcat)s',
 		'category-adding': u'Robot dodał kategorię [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Robot usunął z kategorii %(oldcat)s',
+                'category-renamed': u'Robot przenosi z %s. Autorzy: %s',
 	},
 	# Author: Borichèt
 	# Author: Dragonòt
@@ -1259,6 +1273,7 @@ msg = {
 		'category-replacing': u'Robô: A substituir a categoria %(oldcat)s por %(newcat)s',
 		'category-adding': u'Robô: A adicionar a categoria [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-removing': u'Robô: A remover de [[%(oldcat)s]]',
+                'category-renamed': u'Bot: Movido de %s. Autor: %s',
 	},
 	# Author: Giro720
 	# Author: Hamilton Abreu
@@ -1721,6 +1736,7 @@ msg = {
 		'category-version-history': u'机器人：保存之前%(oldcat)s的历史版本记录',
 		'category-was-disbanded': u'机器人：分类已被解散',
 		'category-was-moved': u'机器人：移动分类至[[:Category:%(newcat)s|%(title)s]]',
+                'category-renamed': u'機器人: 已從 %s 移動。原作者是 %s',
 	},
 	'zh-classical': {
 		'category-adding': u'僕: 增 category [[:Category:%(newcat)s|%(newcat)s]]',
