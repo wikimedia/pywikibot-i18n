@@ -1,11 +1,19 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
 		'delete-from-file': u'Robot: Deleting a list of files.',
 		'delete-images': u'Robot: Deleting all images on page %(page)s',
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
+	},	# Author: Csisc
+	'aeb': {
+		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
+		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
+		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
+		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
+		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
 	},	# Author: Csisc
 	'aeb': {
 		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
@@ -341,6 +349,14 @@ msg = {
 		'delete-from-file': u'Rôbô : Famafana lisi-drakitra.',
 		'delete-linked-pages': u'Rôbô : Mamafa ny pejy rehetra misy fifandraisana amin\'i %(page)s',
 	},
+	# Author: Luthfi94
+	'min': {
+		'delete-images': u'Robot: Mahapuih sado gambar pado laman %(page)s',
+		'delete-referring-pages': u'Robot: Mahapuih sado laman nan mangarah dari %(page)s',
+		'delete-from-category': u'Robot: Mahapuih sado laman dari kategori %(page)s',
+		'delete-from-file': u'Robot: Mahapuih daftar berkas.',
+		'delete-linked-pages': u'Robot: Mahapuih sado laman nan tatauik dari %(page)s',
+	},
 	# Author: Bjankuloski06
 	# Author: Rancher
 	'mk': {
@@ -587,6 +603,14 @@ msg = {
 		'delete-from-category': u'Robot: Ginpapara an ngatanan ng mga pakli nga tikang han kaarangay %(page)s',
 		'delete-from-file': u'Robot: Ginpapara in talaan hin mga paypay.',
 		'delete-linked-pages': u'Robot: Ginpapara an ngatanan nga mga pakli nga nahasumpay tikang ha %(page)s',
+	},
+	# Author: פוילישער
+	'yi': {
+		'delete-images': u'באט: אויסמעקן אַלע בילדער אויפן בלאַט %(page)s',
+		'delete-referring-pages': u'באט: אויסמעקן אלע בלעטער וואס פארבינדן צו  %(page)s',
+		'delete-from-category': u'באט: אויסמעקן אלע בלעטער פון קאטעגאריע  %(page)s',
+		'delete-from-file': u'באט: אויסמעקן א ליסטע פון טעקעס.',
+		'delete-linked-pages': u'באט: אויסמעקן אלע בלעטער וואס זענען פארבונדן פון  %(page)s',
 	},
 	# Author: Anakmalaysia
 	# Author: Yfdyh000

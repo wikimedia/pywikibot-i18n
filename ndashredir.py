@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	# Author: Bináris
 	'en': {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
@@ -123,6 +127,10 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'ndashredir-create': u'Rôbô: famoronana fihodinana misy fitsipi-panohizana mankany amin\'ny [[%(title)s]]',
+	},
+	# Author: Luthfi94
+	'min': {
+		'ndashredir-create': u'Bot: Mambuek pangaliahan hubuang ka [[%(title)s]]',
 	},
 	# Author: Bjankuloski06
 	'mk': {

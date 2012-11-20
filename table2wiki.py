@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	# Author: Xqt
 	'en': {
 		'table2wiki-no-warning': u'User-controlled robot: Table syntax updated',
 		'table2wiki-warnings': u'User-controlled robot: Table syntax updated - {{PLURAL:count|1 warning|%(count)d warnings}}!',
 	},
+	# Author: Csisc
 	# Author: Siebrand
 	# Author: Xqt
 	'qqq': {

@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
@@ -29,6 +33,10 @@ msg = {
 	# Author: Ebrahimi-amir
 	'az': {
 		'capitalize_redirects-create-redirect': u'Bot: [[%(to)s]] səhifəsinə istiqamətləndirildi',
+	},
+	# Author: E THP
+	'azb': {
+		'capitalize_redirects-create-redirect': u'بوت: [[%(to)s]] صحیفه‌‌سینه ایستیقامتلندیریلدی',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -189,6 +197,10 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'capitalize_redirects-create-redirect': u'Rôbô : famoronana fihodinana mankany amin\'i [[%(to)s]]',
+	},
+	# Author: Luthfi94
+	'min': {
+		'capitalize_redirects-create-redirect': u'Robot: Buek pangaliahan ka [[%(to)s]]',
 	},
 	# Author: Bjankuloski06
 	'mk': {

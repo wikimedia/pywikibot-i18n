@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
+	},	# Author: Csisc
+	'aeb': {
+		'catall-changing': u'بوت: تغيير التصنيفات',
 	},	# Author: Csisc
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
@@ -177,6 +181,10 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'catall-changing': u'Rôbô: manova sokajy',
+	},
+	# Author: Luthfi94
+	'min': {
+		'catall-changing': u'Robot: Mangubah kategori',
 	},
 	# Author: Bjankuloski06
 	'mk': {

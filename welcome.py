@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
 		'welcome-updating': u'Robot: Updating log',
 		'welcome-welcome': u'Welcome!',
 	},
+	# Author: Csisc
 	# Author: EugeneZelenko
 	# Author: Xqt
 	'qqq': {
@@ -57,6 +59,10 @@ msg = {
 		'welcome-welcome': u'Xoş gəlmisiniz!',
 		'welcome-bad_username': u'Bot: İstifadəçinin adını kontorol edilməsi lazım olanlara əlavə edir',
 		'welcome-updating': u'Bot: Qeyd etmə yeniləmə',
+	},
+	# Author: E THP
+	'azb': {
+		'welcome-welcome': u'خوش گلمیسینیز!',
 	},
 	# Author: Roustammr
 	'ba': {
@@ -353,6 +359,10 @@ msg = {
 		'welcome-bad_username': u'Rôbô : Fanampiana anaram-pikambana tokony marihana',
 		'welcome-updating': u'Rôbô : Fanavaozana ny laogy',
 	},
+	# Author: Luthfi94
+	'min': {
+		'welcome-welcome': u'Salamaik datang!',
+	},
 	# Author: Bjankuloski06
 	# Author: Rancher
 	'mk': {
@@ -597,6 +607,7 @@ msg = {
 	# Author: פוילישער
 	'yi': {
 		'welcome-welcome': u'ברוך הבא!',
+		'welcome-bad_username': u'באט: צולייגן א באניצער נאמען וואס מ\'דארף קאנטראלירן',
 	},
 	# Author: Demmy
 	'yo': {

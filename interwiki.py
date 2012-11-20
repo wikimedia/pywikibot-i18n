@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'interwiki-adding': u'Robot: Adding %(adding)s',
 		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
@@ -10,6 +11,7 @@ msg = {
 		'interwiki-removing': u'Robot: Removing %(removing)s',
 		'interwiki-removing-modifying': u'Robot: Removing %(removing)s; modifying %(modifying)s',
 	},
+	# Author: Csisc
 	# Author: The Evil IP address
 	'qqq': {
 		'interwiki-modifying': u'Edit summary when the bot modifies interwiki(s). %(modifying)s is either an interwiki link or a comma-separated list of language codes.',
@@ -188,6 +190,7 @@ msg = {
 		'interwiki-removing-modifying': u'робат выдаліў: %(removing)s змяніў: %(modifying)s',
 	},
 	# Author: EugeneZelenko
+	# Author: Renessaince
 	# Author: Wizardist
 	# Author: Xqt
 	'be-tarask': {
@@ -198,7 +201,7 @@ msg = {
 		'interwiki-adding': u'робат дадаў: %(adding)s',
 		'interwiki-removing': u'робат выдаліў: %(removing)s',
 		'interwiki-removing-modifying': u'робат выдаліў: %(removing)s зьмяніў: %(modifying)s',
-		'interwiki-modifying-from': u'робат зьмяніў %(from)s на %(modifying)s',
+		'interwiki-modifying-from': u'робат зьмяніў: %(from)s на %(modifying)s',
 	},
 	# Author: EugeneZelenko
 	# Author: Wizardist
@@ -940,14 +943,15 @@ msg = {
 		'interwiki-removing': u'робот чышки: %(removing)s',
 		'interwiki-removing-modifying': u'робот чышки: %(removing)s вежи: %(modifying)s',
 	},
+	# Author: Kernoweger
 	'kw': {
-		'interwiki-modifying': u'robot ow chanjya: %(modifying)s',
-		'interwiki-adding-modifying': u'robot ow keworra: %(adding)s ow chanjya: %(modifying)s',
-		'interwiki-adding-removing': u'robot ow keworra: %(adding)s ow dilea: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot ow keworra: %(adding)s ow dilea: %(removing)s ow chanjya: %(modifying)s',
-		'interwiki-adding': u'robot ow keworra: %(adding)s',
-		'interwiki-removing': u'robot ow dilea: %(removing)s',
-		'interwiki-removing-modifying': u'robot ow dilea: %(removing)s ow chanjya: %(modifying)s',
+		'interwiki-modifying': u'Robot: ow chanjya %(modifying)s',
+		'interwiki-adding-modifying': u'Robot: ow keworra %(adding)s; ow chanjya %(modifying)s',
+		'interwiki-adding-removing': u'Robot: ow keworra %(adding)s; ow tilea %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: ow keworra %(adding)s; ow tilea %(removing)s; ow chanjya %(modifying)s',
+		'interwiki-adding': u'Robot: ow keworra %(adding)s',
+		'interwiki-removing': u'Robot: ow tilea %(removing)s',
+		'interwiki-removing-modifying': u'Robot: ow tilea %(removing)s; ow chanjya %(modifying)s',
 	},
 	# Author: Hugo.arg
 	# Author: Xqt

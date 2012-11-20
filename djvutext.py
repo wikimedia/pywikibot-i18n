@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},
+	# Author: Csisc
 	# Author: Przemub
 	'qqq': {
 		'djvutext-creating': u'',
@@ -165,6 +167,10 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'djvutext-creating': u'Rôbô : Famoronana ilay p ejy amin\'ny alalan\'ny lahatsoratra avy amin\'ny DjVu',
+	},
+	# Author: Luthfi94
+	'min': {
+		'djvutext-creating': u'Robot: Mambuek laman dangan teks nan diambiak dari DjVu',
 	},
 	# Author: Bjankuloski06
 	'mk': {

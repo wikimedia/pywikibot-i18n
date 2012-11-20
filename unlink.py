@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
+	},	# Author: Csisc
+	'aeb': {
+		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},	# Author: Csisc
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -9,6 +10,7 @@ msg = {
 		'pywikibot-enter-page-processing': u'Which page should be processed?',
 		'pywikibot-enter-xml-filename': u'Please enter the XML dump\'s filename:',
 	},
+	# Author: Als-Holder
 	'qqq': {
 		'pywikibot-enter-xml-filename': u'Message displayed to the bot owner to enter the XML dump\'s filename.',
 		'pywikibot-enter-page-processing': u'Question displayed to the bot owner which page should be processed.',
@@ -17,17 +19,7 @@ msg = {
 		'pywikibot-enter-new-text': u'Message displayed to the bot owner to enter the new text.',
 		'pywikibot-enter-category-name': u'Message displayed to the bot owner to enter the category name.',
 		'pywikibot-enter-finished-browser': u'Message displayed to the bot owner to press Enter button when browser edits are finished.',
-	},	# Author: Als-Holder
-	'als': {
-		'pywikibot-enter-category-name': u'Bitte gib dr Name vu dr Kategori yy:',
-		'pywikibot-enter-file-links-processing': u'Vu wellere Dateisyte solle d Link bearbeitet wäre?',
-		'pywikibot-enter-finished-browser': u'Druck noch eme Zuemache vum Browsewr uf «Enter».',
-		'pywikibot-enter-namespace-number': u'Bitte gib d Nummere vum Namensruum yy:',
-		'pywikibot-enter-new-text': u'Bitte gib dr nei Text yy:',
-		'pywikibot-enter-page-processing': u'Weli Syte soll bearbeitet wäre?',
-		'pywikibot-enter-xml-filename': u'Bitte gib dr Datename vum XML-Dump yy:',
-	},
-	# Author: TTMTT
+	},	# Author: TTMTT
 	'ar': {
 		'pywikibot-enter-new-text': u'فضلاً ادخل النص الجديد:',
 		'pywikibot-enter-category-name': u'فضلاً ادخل إسم التصنيف:',
@@ -41,6 +33,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Escribi\'l testu nuevu:',
 		'pywikibot-enter-category-name': u'Escribi\'l nome de categoría:',
 		'pywikibot-enter-finished-browser': u'Calca la tecla Intro cuando acabes nel navegador.',
+	},
+	# Author: Renessaince
+	'be-tarask': {
+		'pywikibot-enter-xml-filename': u'Калі ласка, увядзіце назву файлу дампу XML:',
+		'pywikibot-enter-page-processing': u'Якую старонку патрэбна апрацаваць?',
+		'pywikibot-enter-file-links-processing': u'Спасылкі на якую выяву патрэбна апрацаваць?',
+		'pywikibot-enter-namespace-number': u'Калі ласка, увядзіце нумар прасторы імёнаў:',
+		'pywikibot-enter-new-text': u'Калі ласка, увядзіце новы тэкст:',
+		'pywikibot-enter-category-name': u'Калі ласка, увядзіце назву катэгорыі:',
+		'pywikibot-enter-finished-browser': u'Націсьніце Enter, калі скончыце рэдагаваньне ў броўзэры.',
 	},
 	# Author: Gwenn-Ael
 	'br': {
@@ -228,6 +230,15 @@ msg = {
 		'pywikibot-enter-category-name': u'Atsofohy ny anaran-tsokajy:',
 		'pywikibot-enter-finished-browser': u'Tsindrio "ENTER" rehefa tapitra ny fanovana ao amin\'ny mpitety tranonkala.',
 	},
+	# Author: Luthfi94
+	'min': {
+		'pywikibot-enter-xml-filename': u'Masuakkan namo Berkas sarok XML:',
+		'pywikibot-enter-page-processing': u'Laman manokah nan harus diproses?',
+		'pywikibot-enter-file-links-processing': u'Pranala ka laman gambar manokah nan ka diproses?',
+		'pywikibot-enter-namespace-number': u'Masuakkan ruang namo manuruik nomornyo:',
+		'pywikibot-enter-new-text': u'Masuakkan teks baru:',
+		'pywikibot-enter-category-name': u'Masuakkan namo kategori:',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'pywikibot-enter-xml-filename': u'Внесете го името на XML-складот:',
@@ -247,6 +258,15 @@ msg = {
 		'pywikibot-enter-new-text': u'Sila masukkan teks baru:',
 		'pywikibot-enter-category-name': u'Sila masukkan nama kategori:',
 		'pywikibot-enter-finished-browser': u'Tekan Enter selepas siap dalam pelayar.',
+	},
+	'nb': {
+		'pywikibot-enter-xml-filename': u'Skriv inn XML-dumpens filnavn:',
+		'pywikibot-enter-page-processing': u'Hvilken side skal behandles?',
+		'pywikibot-enter-file-links-processing': u'Lenker til hvilken bildeside som skal behandles?',
+		'pywikibot-enter-namespace-number': u'Skriv inn et navneromtall:',
+		'pywikibot-enter-new-text': u'Skriv inn den nye teksten:',
+		'pywikibot-enter-category-name': u'Skriv inn kategorinavnet:',
+		'pywikibot-enter-finished-browser': u'Trykk Enter når du er ferdig i nettleseren.',
 	},
 	# Author: McDutchie
 	# Author: Siebrand

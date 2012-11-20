@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Csisc
 	'qqq': {
 		'commons-file-moved': u'Edit summary when the bot replaces usage of an image available under a different name. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons.',
 		'commons-file-now-available': u'Edit summary when the bot has moved a file to Commons and adds the NowCommons template. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons.',
@@ -419,6 +421,11 @@ msg = {
 	'wa': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fitchî]] displaecî so les [[:commons:File:%(commonsfile)s|cmons]].',
 		'commons-file-now-available': u'Li fitchî est asteure so les [[:commons:File:%(commonsfile)s|Cmons Wikimedia]].',
+	},
+	# Author: פוילישער
+	'yi': {
+		'commons-file-moved': u'[[:File:%(localfile)s|טעקע]] באוועגט צו [[:commons:File:%(commonsfile)s|קאמאנס]].',
+		'commons-file-now-available': u'מען קען דערגרייכן די טעקע אצינד ביי [[:commons:File:%(commonsfile)s|וויקימעדיע קאמאנס]].',
 	},
 	# Author: Hydra
 	'zh': {

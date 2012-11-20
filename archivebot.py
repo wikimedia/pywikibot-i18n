@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
@@ -8,6 +9,7 @@ msg = {
 		'archivebot-older-than': u'older than',
 		'archivebot-page-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
 	},
+	# Author: Csisc
 	# Author: McDutchie
 	'qqq': {
 		'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
@@ -68,6 +70,12 @@ msg = {
 		'archivebot-older-than': u'böyükdür',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(TAM ARXİV)',
+	},
+	# Author: E THP
+	'azb': {
+		'archivebot-older-than': u'داها کؤهنه',
+		'archivebot-page-summary': u'بوت: آرشیوائدیر: %(count)d باشلیق(%(why)s) بورایا: %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
 	},
 	# Author: Jim-by
 	# Author: Renessaince
@@ -449,6 +457,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(FENO NY TAHIRY)',
 		'archivebot-archive-summary': u'Fitahirizana ny thread %(count)d avy any amin\'i  [[%(from)s]].',
+	},
+	# Author: Luthfi94
+	'min': {
+		'archivebot-older-than': u'labiah gaek dari',
+		'archivebot-page-summary': u'Robot: Mangarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ka %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ARSIP PANUAH)',
+		'archivebot-archive-summary': u'Robot: Mangarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]].',
 	},
 	# Author: Bjankuloski06
 	'mk': {

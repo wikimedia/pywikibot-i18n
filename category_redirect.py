@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
 		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -8,6 +9,7 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
 		'category_redirect-fix-double': u'Robot: Fixing double-redirect',
 	},
+	# Author: Csisc
 	# Author: Xqt
 	'qqq': {
 		'category_redirect-fix-double': u'Edit summary when the bot fixes double category redirects.',

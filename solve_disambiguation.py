@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
 		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
@@ -9,6 +10,7 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
 		'solve_disambiguation-unknown-page': u'(unknown)',
 	},
+	# Author: Csisc
 	# Author: EugeneZelenko
 	# Author: Purodha
 	'qqq': {
@@ -79,6 +81,10 @@ msg = {
 		'solve_disambiguation-adding-dn-template': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Mütəxəssis əlaqəsi ehtiyacına dair işaretlendi',
 		'solve_disambiguation-unknown-page': u'(bilinmir)',
 		'solve_disambiguation-links-removed': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Bağlantı(lar) götürüldü',
+	},
+	# Author: E THP
+	'azb': {
+		'solve_disambiguation-unknown-page': u'(بیلینمیر)',
 	},
 	# Author: Mucalexx
 	'bar': {

@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
+	},	# Author: Csisc
+	'aeb': {
+		'basic-changing': u'بوت: تغيير ...',
 	},	# Author: Csisc
 	'aeb': {
 		'basic-changing': u'بوت: تغيير ...',
@@ -30,6 +34,10 @@ msg = {
 	# Author: Cekli829
 	'az': {
 		'basic-changing': u'Bot: Dəyişdirilir...',
+	},
+	# Author: E THP
+	'azb': {
+		'basic-changing': u'بوت: ديَیشدیریلیر...',
 	},
 	# Author: Mucalexx
 	# Author: Xqt
@@ -426,6 +434,10 @@ msg = {
 	# Author: Zahidulla
 	'tt-cyrl': {
 		'basic-changing': u'Робот: үзгәртте ...',
+	},
+	# Author: Tifinaghes
+	'tzm': {
+		'basic-changing': u'ⴰⵕⵓⴱⵓⵜ: ⴰⴱⴷⴷⴻⵍ ...',
 	},
 	# Author: Sahran
 	'ug': {

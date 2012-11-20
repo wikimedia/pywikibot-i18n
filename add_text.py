@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'add_text-adding': u'Robot: Adding %(adding)s',
 	},
+	# Author: Csisc
 	'qqq': {
 		'add_text-adding': u'Edit summary when the bot adds text to a given page. %(adding)s is the added text truncated to 200 characters.',
 	},	# Author: Csisc
@@ -42,6 +44,10 @@ msg = {
 	},
 	'az': {
 		'add_text-adding': u'Bot redaktəsi əlavə edilir %(adding)s',
+	},
+	# Author: E THP
+	'azb': {
+		'add_text-adding': u'بوت رئداکته‌سی علاوه‌‌ ائدی‌لیر  %(adding)s',
 	},
 	'ba': {
 		'add_text-adding': u'робот өҫтәне %(adding)s',
@@ -295,8 +301,9 @@ msg = {
 	'kv': {
 		'add_text-adding': u'робот содтi %(adding)s',
 	},
+	# Author: Kernoweger
 	'kw': {
-		'add_text-adding': u'robot ow keworra %(adding)s',
+		'add_text-adding': u'Robot: ow keworra %(adding)s',
 	},
 	'ky': {
 		'add_text-adding': u'робот кошту %(adding)s',
@@ -579,6 +586,10 @@ msg = {
 	},
 	'tt-cyrl': {
 		'add_text-adding': u'робот кушты %(adding)s',
+	},
+	# Author: Tifinaghes
+	'tzm': {
+		'add_text-adding': u'ⴰⵕⵓⴱⵓⵜ ⵜⵔⵏⵓⵜ %(adding)s',
 	},
 	'udm': {
 		'add_text-adding': u'робот ватсаз %(adding)s',

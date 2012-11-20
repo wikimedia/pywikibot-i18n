@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
 	},
+	# Author: Csisc
 	# Author: Xqt
 	'qqq': {
 		'cosmetic_changes-standalone': u'Summary message when the bot using cosmetic changes as a stand-alone script',

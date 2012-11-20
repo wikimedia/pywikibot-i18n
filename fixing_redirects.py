@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
+	},	# Author: Csisc
+	'aeb': {
+		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
@@ -180,6 +184,10 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'fixing_redirects-fixing': u'Rôbô: fanitsiana fihodinana',
+	},
+	# Author: Luthfi94
+	'min': {
+		'fixing_redirects-fixing': u'Bot: Mamelokkan pangaliahan',
 	},
 	# Author: Bjankuloski06
 	'mk': {

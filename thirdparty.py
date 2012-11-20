@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
@@ -20,6 +21,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summary updated: %(num)i entries in %(page)s',
 	},
+	# Author: Csisc
 	# Author: DrTrigon
 	# Author: EugeneZelenko
 	# Author: McDutchie
@@ -160,6 +162,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Müzakirə bağlandı',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Müzakirə səhifəsi dəyişildi',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESAJI',
+	},
+	# Author: E THP
+	'azb': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
 	},
 	# Author: DrTrigon
 	# Author: EugeneZelenko
@@ -1514,6 +1520,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'נייער שמועס',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - לעצטע רעדאקטירונג פון [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'אנזאג',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'אויסטוישן %(tags)s טאג(ן)',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'שמועס פארמאכט',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s אלע שמועסן געקאנטשעט (אויגהאלטונג אפגעשטעלט) - לעצטע רעדאקטירונג פון %(user)s (%(time)s)',
 	},

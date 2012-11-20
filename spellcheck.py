@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},	# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
-	},
-	'ar': {
+	},	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},
 	# Author: Xuacu
@@ -83,6 +83,9 @@ msg = {
 	# Author: Anakmalaysia
 	'ms': {
 		'spellcheck-checking': u'Penyemak ejaan dibantu bot',
+	},
+	'nb': {
+		'spellcheck-checking': u'Robothjulpet stavekontroll',
 	},
 	'nl': {
 		'spellcheck-checking': u'Spellingscontrole',

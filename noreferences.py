@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
 	},
+	# Author: Csisc
 	# Author: Xqt
 	'qqq': {
 		'noreferences-add-tag': u'Edit summary when the bot adds a missing <code><references /></code> tag to the references section and if needed the section itself.\n\nDo not translate <code><references /></code>.',
@@ -195,6 +197,10 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'noreferences-add-tag': u'Rôbô : Fanampiana ny balizy <references/> izay tsy ampy',
+	},
+	# Author: Luthfi94
+	'min': {
+		'noreferences-add-tag': u'Robot: Manambahkan tag <references /> nan hilang',
 	},
 	# Author: Bjankuloski06
 	'mk': {

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	# Author: Xqt
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -8,6 +9,7 @@ msg = {
 		'redirect-remove-broken': u'Robot: Redirect to a deleted or non-existent page',
 		'redirect-remove-loop': u'Robot: Redirect target forms a redirect loop',
 	},
+	# Author: Csisc
 	# Author: Lloffiwr
 	# Author: Xqt
 	# Author: ZxxZxxZ

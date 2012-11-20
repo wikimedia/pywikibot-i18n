@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
+	},	# Author: Csisc
+	'aeb': {
+		'movepages-moving': u'روبوت: نقل الصفحة',
 	},	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
@@ -168,6 +172,10 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'movepages-moving': u'Rôbô : Pejy voaova anarana',
+	},
+	# Author: Luthfi94
+	'min': {
+		'movepages-moving': u'Robot: Mamindahkan laman',
 	},
 	# Author: Bjankuloski06
 	'mk': {

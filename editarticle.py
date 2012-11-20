@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
+
 	'en': {
 		'editarticle-edit': u'Manual edit with robot: %(description)s',
 	},
+	# Author: Csisc
 	'qqq': {
 		'editarticle-edit': u'Edit summary when the bot owner edits a text while the bot invoked an editor. <code>%(descriptions)s</code> gives further informations.',
 	},	# Author: Csisc
@@ -211,6 +213,10 @@ msg = {
 	# Author: Shisir 1945
 	'or': {
 		'editarticle-edit': u'ରୋବଟ୍‌ ସହିତ ହସ୍ତକୃତ ସମ୍ପାଦନା: %(description)s',
+	},
+	# Author: Val2397
+	'pam': {
+		'editarticle-edit': u'↓Gamatan ya ing pamanalili kapamilatan ning robot: %(description)s',
 	},
 	# Author: Sp5uhe
 	'pl': {
