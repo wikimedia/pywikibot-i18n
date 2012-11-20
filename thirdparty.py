@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',

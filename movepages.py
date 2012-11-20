@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
+	},	# Author: Csisc
+	'aeb': {
+		'movepages-moving': u'روبوت: نقل الصفحة',
 	},	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',

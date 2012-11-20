@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},

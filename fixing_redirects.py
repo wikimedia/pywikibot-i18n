@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
+	},	# Author: Csisc
+	'aeb': {
+		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',

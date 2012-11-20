@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'add_text-adding': u'Robot: Adding %(adding)s',
 	},

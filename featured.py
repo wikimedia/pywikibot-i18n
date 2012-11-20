@@ -1,11 +1,18 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'featured-featured': u'Robot: %(page)s is a featured article',
 		'featured-former': u'Robot: %(page)s is a former featured article',
 		'featured-good': u'Robot: %(page)s is a good article',
 		'featured-list': u'Robot: %(page)s is a featured list',
+	},	# Author: Csisc
+	'aeb': {
+		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
+		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
+		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
+		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
 	},	# Author: Csisc
 	'aeb': {
 		'featured-good': u'بوت: %(page)s هي مقالة جيدة',

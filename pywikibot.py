@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -11,6 +12,7 @@ msg = {
 		'pywikibot-enter-xml-filename': u'Please enter the XML dump\'s filename:',
 	},
 	# Author: Als-Holder
+	# Author: TTMTT
 	'qqq': {
 		'pywikibot-enter-xml-filename': u'Message displayed to the bot owner to enter the XML dump\'s filename.',
 		'pywikibot-enter-page-processing': u'Question displayed to the bot owner which page should be processed.',

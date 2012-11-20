@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	# Author: Xqt
 	'en': {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',

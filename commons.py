@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
