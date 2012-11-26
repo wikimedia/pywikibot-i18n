@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},	# Author: Als-Holder
@@ -11,10 +12,16 @@ msg = {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
+	},	'ar': {
+		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},
 	# Author: Xuacu
 	'ast': {
 		'spellcheck-checking': u'Correición ortográfica asistida por robot',
+	},
+	# Author: E THP
+	'azb': {
+		'spellcheck-checking': u'یازی یانلیشی اوچون روبات یاردیم‌جی',
 	},
 	# Author: Gwenn-Ael
 	'br': {
@@ -28,8 +35,9 @@ msg = {
 	'da': {
 		'spellcheck-checking': u'Robothjulpen stavekontrol',
 	},
+	# Author: Xqt
 	'de': {
-		'spellcheck-checking': u'Bot-aided spell checker',
+		'spellcheck-checking': u'Bot-unterstützte Rechtschreibprüfung',
 	},
 	# Author: Mirzali
 	'diq': {

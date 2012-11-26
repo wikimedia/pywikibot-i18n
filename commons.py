@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
@@ -35,6 +36,11 @@ msg = {
 	'az': {
 		'commons-file-moved': u'[[:Fayl:%(localfile)s|Fayl]], [[:commons:File:%(commonsfile)s|commons]] saytına keçirildi.',
 		'commons-file-now-available': u'Fayl artıq [[:commons:File:%(commonsfile)s|Wikimedia Commons]] layihəsində vardır.',
+	},
+	# Author: E THP
+	'azb': {
+		'commons-file-moved': u'[[:فایل:%(localfile)s|فایل]], [[:commons:File:%(commonsfile)s|آمبار]] سایتینا کئچیریلدی.',
+		'commons-file-now-available': u'فایل ایندی [[:commons:File:%(commonsfile)s|آمبار ویکی‌مئدیا]] دا واردیر.',
 	},
 	# Author: Mucalexx
 	'bar': {

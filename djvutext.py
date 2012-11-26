@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},

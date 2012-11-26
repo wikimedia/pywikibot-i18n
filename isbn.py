@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'isbn-formatting': u'Robot: Formatting ISBN',
 	},

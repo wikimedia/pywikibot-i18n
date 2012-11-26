@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
+	},	# Author: Csisc
+	'aeb': {
+		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},	# Author: Csisc
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
@@ -29,6 +33,10 @@ msg = {
 	# Author: Xuacu
 	'ast': {
 		'unlink-unlinking': u'Robó: Desenllaciando «%s»',
+	},
+	# Author: E THP
+	'azb': {
+		'unlink-unlinking': u'بوت: " %s " باغلانتی‌سی قالدیریلدی',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {

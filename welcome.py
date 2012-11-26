@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
 		'welcome-updating': u'Robot: Updating log',
@@ -64,6 +65,8 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'welcome-welcome': u'خوش گلمیسینیز!',
+		'welcome-bad_username': u'بوت: ایستیفاده‌چی‌نین آدینی کونتورول ائدیلمه‌سی لازیم اولانلارا علاوه‌‌ ائدیر',
+		'welcome-updating': u'بوت: قئيد ائتمه يئنیله‌مه',
 	},
 	# Author: Roustammr
 	'ba': {
@@ -575,6 +578,10 @@ msg = {
 		'welcome-welcome': u'Рәхим итегез!',
 		'welcome-bad_username': u'Робот:Шикле кулланучы исеме өстәлгән',
 		'welcome-updating': u'Робот:Яңарту',
+	},
+	# Author: Tifinaghes
+	'tzm': {
+		'welcome-welcome': u'ⴰⵏⵙⵓⴼ!',
 	},
 	# Author: A1
 	# Author: Dim Grits

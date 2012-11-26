@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
 		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
@@ -941,6 +942,10 @@ msg = {
 		'solve_disambiguation-adding-dn-template': u'Робот ярдәмендә: %(from)s — экспертның игътибарын сораучы дип билгеләнде',
 		'solve_disambiguation-unknown-page': u'(билгесез)',
 		'solve_disambiguation-links-removed': u'Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Removed link(s)',
+	},
+	# Author: Tifinaghes
+	'tzm': {
+		'solve_disambiguation-unknown-page': u'(ⵓⵔ ⵢⵜⵢⴰⵡⵙⵙⴰⵏ)',
 	},
 	# Author: Ahonc
 	# Author: DixonD

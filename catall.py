@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
+	},	# Author: Csisc
+	'aeb': {
+		'catall-changing': u'بوت: تغيير التصنيفات',
 	},	# Author: Csisc
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
@@ -33,6 +37,10 @@ msg = {
 	# Author: Xuacu
 	'ast': {
 		'catall-changing': u'Robó: Camudando categoríes',
+	},
+	# Author: E THP
+	'azb': {
+		'catall-changing': u'روبات:بؤلمه دَییشدیریر',
 	},
 	# Author: Jim-by
 	'be-tarask': {

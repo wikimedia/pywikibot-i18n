@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
@@ -165,8 +166,18 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESAJI',
 	},
 	# Author: E THP
+	# Author: Mousa
 	'azb': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(دیَشدیرن اینسان بولونامادی)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'یئنی دانیشیق',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'بیلدیریش',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'دانیشیق باقلاندی',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'دانیشیق دیَیشیلدی',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'دانیشیق قیساسی گونجل‌لشدی: %(page)s صحیفه‌‌ده  %(num)i بیلگی',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'روبوت مئساژی',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nقیسا حاضرلاندی: %(sign)s</noinclude>',
 	},
 	# Author: DrTrigon
 	# Author: EugeneZelenko
@@ -1443,6 +1454,13 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Tartışma özeti güncellendi: %(page)s sayfada %(num)i bilgi.',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT İLETİ',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nÖzet hazırlandı: %(sign)s</noinclude>',
+	},
+	# Author: Tifinaghes
+	'tzm': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'ⵔⵓⴱⵓⵜ',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'ⴰⵎⵢⴰⵏⵏⴰⵏ ⴰⵎⴰⵢⵏⵓ',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'ⴰⴱⴷⴷⴻⵍ ⵓⵎⵢⴰⵏⵏⴰⵏ',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ⵜⴰⴱⵔⴰⵜ ⵏ ⵔⵓⴱⵓⵜ',
 	},
 	# Author: A1
 	# Author: Dim Grits

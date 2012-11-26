@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
@@ -77,6 +78,7 @@ msg = {
 		'archivebot-older-than': u'داها کؤهنه',
 		'archivebot-page-summary': u'بوت: آرشیوائدیر: %(count)d باشلیق(%(why)s) بورایا: %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(آرشیو دولو دیر)',
 	},
 	# Author: Jim-by
 	# Author: Renessaince

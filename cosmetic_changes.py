@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
@@ -41,6 +42,10 @@ msg = {
 	'az': {
 		'cosmetic_changes-standalone': u'Bot: Kosmetik dəyişmələr',
 		'cosmetic_changes-append': u'; kosmetik dəyişmələr',
+	},
+	# Author: E THP
+	'azb': {
+		'cosmetic_changes-standalone': u'روبات:گوزلتمک',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -96,8 +101,9 @@ msg = {
 		'cosmetic_changes-standalone': u'ڕۆبۆت: دەستکاریی جوانکاری',
 		'cosmetic_changes-append': u'؛ دەستکاریی جوانکاری',
 	},
+	# Author: Mormegil
 	'cs': {
-		'cosmetic_changes-standalone': u'Robotické: kosmetické úpravy',
+		'cosmetic_changes-standalone': u'Robot: kosmetické úpravy',
 		'cosmetic_changes-append': u'; kosmetické úpravy',
 	},
 	# Author: Lloffiwr

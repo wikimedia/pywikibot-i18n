@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
+	},	# Author: Csisc
+	'aeb': {
+		'movepages-moving': u'روبوت: نقل الصفحة',
 	},	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
@@ -29,6 +33,10 @@ msg = {
 	# Author: Xuacu
 	'ast': {
 		'movepages-moving': u'Robó: Páxina treslladada',
+	},
+	# Author: E THP
+	'azb': {
+		'movepages-moving': u'بوت:صحیفه داشیندی',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {

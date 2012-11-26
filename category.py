@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: Xqt
 	'en': {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -131,6 +132,7 @@ msg = {
 		'category-replacing': u'Robó: Trocando la categoría %(oldcat)s por %(newcat)s',
 		'category-removing': u'Robó: Desaniciando de %(oldcat)s',
 		'category-was-moved': u'Robó: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Movíu dende "%s". Autores: %s',
 		'category-section-title': u'Historial de páxina de %(oldcat)s anteriores',
 		'category-listifying': u'Robó: Llistando de %(fromcat)s (%(num)d entraes)',
 	},
@@ -316,6 +318,7 @@ msg = {
 	'crh': {
 		'category-adding': u'robot: ekley category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Mormegil
 	# Author: Spiffyk
 	# Author: Tchoř
 	'cs': {
@@ -324,9 +327,10 @@ msg = {
 		'category-adding': u'Robot: Přidávám kategorii [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(také v %(alsocat)s)',
 		'category-was-disbanded': u'Robot: kategorie byla vyprázdněna',
-		'category-replacing': u'Robot nahradil kategorii %(oldcat)s za %(newcat)s',
+		'category-replacing': u'Robot: nahrazení kategorie %(oldcat)s za %(newcat)s',
 		'category-removing': u'Robot: odstranění kategorie %(oldcat)s',
-		'category-was-moved': u'Kategorie přesunuta na [[:Kategorie:%(newcat)s|%(title)s]]',
+		'category-was-moved': u'Robot: Kategorie přesunuta na [[:Kategorie:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Přesunuto z %s. Autoři: %s',
 		'category-section-title': u'Historie verzí bývalé %(oldcat)s',
 		'category-listifying': u'Robot: vytvoření soupisu obsahu kategorie %(fromcat)s (%(num)d položek)',
 	},
@@ -365,6 +369,7 @@ msg = {
 		'category-replacing': u'Robot: Erstatter kategori %(oldcat)s med %(newcat)s',
 		'category-removing': u'Robot: Fjerner fra %(oldcat)s',
 		'category-was-moved': u'Robot: Flytter kategori til [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Flyttet fra %s. Forfattere: %s',
 		'category-section-title': u'Sidehistorik fra den tidligere %(oldcat)s',
 		'category-listifying': u'Robot: Omdanner %(fromcat)s til liste ({{PLURAL:%(num)d|1 post|%(num)d poster}})',
 	},
@@ -407,6 +412,7 @@ msg = {
 		'category-replacing': u'Boti kategori %(oldcat)s, kategori da %(newcat)s\'iya vurna',
 		'category-removing': u'Boti %(oldcat)s\' ra wederna',
 		'category-was-moved': u'Boti kategori name dê [[:Category:%(newcat)s|%(title)s]] ya ahûlnê',
+		'category-renamed': u'Boti, Nuştoğ %s ra wedarna %s',
 		'category-section-title': u'Werênayışê pela da %(oldcat)s',
 		'category-listifying': u'Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi',
 	},
@@ -455,6 +461,7 @@ msg = {
 		'category-replacing': u'Bot: Reemplazando categoría %(oldcat)s por %(newcat)s',
 		'category-removing': u'Bot: Eliminada de la %(oldcat)s',
 		'category-was-moved': u'Bot: La categoría ha sido movida a [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Trasladado de %s. Autores: %s',
 		'category-section-title': u'Historial de la página de %(oldcat)s previos',
 		'category-listifying': u'Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada entradas|%(num)d entradas}})',
 	},
@@ -595,6 +602,7 @@ msg = {
 		'category-replacing': u'Bot: Substitución da categoría "%(oldcat)s" pola categoría "%(newcat)s"',
 		'category-removing': u'Bot: Elimino desde "%(oldcat)s"',
 		'category-was-moved': u'Bot: A categoría trasladouse a "[[:Category:%(newcat)s|%(title)s]]"',
+		'category-renamed': u'Bot: Traslado desde "%s". Autores: %s',
 		'category-section-title': u'Historial da antiga "%(oldcat)s"',
 		'category-listifying': u'Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})',
 	},
@@ -794,7 +802,7 @@ msg = {
 		'category-replacing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-removing': u'ロボットによる: [[%(oldcat)s]]を除去',
 		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)s|%(title)s]]へ移動',
-		'category-renamed': u'ロボットによる: %s から移動しました。原作者は %s',
+		'category-renamed': u'ロボットによる: %s から移動しました。著者: %s',
 		'category-listifying': u'ロボットによる: %(fromcat)sからリスト化（%(num)d件）',
 	},
 	# Author: NoiX180
@@ -927,6 +935,7 @@ msg = {
 		'category-replacing': u'Bot: Ersetze vun der Kategorie %(oldcat)s duerch %(newcat)s',
 		'category-removing': u'Bot: Ewech huele vun %(oldcat)s',
 		'category-was-moved': u'Bot: Kategorie gouf geréckelt: Nei [[:Kategorie:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: Geréckelt vum %s. Auteuren: %s',
 		'category-section-title': u'Versioune vun de virege(n) %(oldcat)s',
 		'category-listifying': u'Bot: Lëscht vun der %(fromcat)s (%(num)d Memberen)',
 	},
@@ -1072,6 +1081,7 @@ msg = {
 		'category-replacing': u'Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s',
 		'category-removing': u'Bot: Mengeluarkan daripada %(oldcat)s',
 		'category-was-moved': u'Bot: Kategori telah dipindahkan ke [[:Kategori:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Berpindah dari %s. Pengarang: %s',
 		'category-section-title': u'Sejarah versi bekas %(oldcat)s',
 		'category-listifying': u'Bot: Menyenaraikan daripada %(fromcat)s (%(num)d entri)',
 	},
@@ -1277,6 +1287,7 @@ msg = {
 		'category-replacing': u'Trigomiro: Rampiass ëd la categorìa %(oldcat)s con %(newcat)s',
 		'category-removing': u'Trigomiro: Gavé da %(oldcat)s',
 		'category-was-moved': u'Trigomiro: Le categorìe a son stàite tramudà a [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Trigomiro: Tramudà da %s. Autor: %s',
 		'category-section-title': u'Stòria ëd pàgina dla veja %(oldcat)s',
 		'category-listifying': u'Trigomiro: listé da %(fromcat)s ({{PLURAL:%(num)d|1 vos|%(num)d vos}})',
 	},
@@ -1357,6 +1368,7 @@ msg = {
 		'category-replacing': u'бот: замена категории %(oldcat)s на %(newcat)s',
 		'category-removing': u'бот: исключение из %(oldcat)s',
 		'category-was-moved': u'бот: категория переименована в [[:Категория:%(newcat)s|%(title)s]]',
+		'category-renamed': u'бот: перенёс из %s. авторы: %s',
 		'category-section-title': u'История страницы из бывшей %(oldcat)s',
 		'category-listifying': u'бот: cоставляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s',
 	},
@@ -1419,6 +1431,7 @@ msg = {
 		'category-replacing': u'Robot: Zamenjava kategorije %(oldcat)s z/s %(newcat)s',
 		'category-removing': u'Bot: Odstranjevanje iz %(oldcat)s',
 		'category-was-moved': u'Robot: Kategorija je bila prestavljena na [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Prestavljanje z %s. Avtorji: %s',
 		'category-section-title': u'Zgodovina strani nekdanje %(oldcat)s',
 		'category-listifying': u'Bot: Poseznamljanje iz %(fromcat)s (%(num)d vnosov)',
 	},

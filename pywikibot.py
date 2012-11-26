@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -35,6 +36,10 @@ msg = {
 		'pywikibot-enter-new-text': u'Escribi\'l testu nuevu:',
 		'pywikibot-enter-category-name': u'Escribi\'l nome de categoría:',
 		'pywikibot-enter-finished-browser': u'Calca la tecla Intro cuando acabes nel navegador.',
+	},
+	# Author: E THP
+	'azb': {
+		'pywikibot-enter-new-text': u'یئنی یازینی آرتیرین',
 	},
 	# Author: Renessaince
 	'be-tarask': {
@@ -115,14 +120,15 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Presiona la tecla Enter cuando termine en el navegador.',
 	},
 	# Author: Reza1615
+	# Author: ZxxZxxZ
 	'fa': {
-		'pywikibot-enter-xml-filename': u'لطفا نام پروندهٔ نسخه‌بردارى XML را وارد کنید:',
+		'pywikibot-enter-xml-filename': u'لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:',
 		'pywikibot-enter-page-processing': u'کدام صفحه باید پردازش شود؟',
-		'pywikibot-enter-file-links-processing': u'پیوند به کدام تصویر که باید پردازش شود؟',
-		'pywikibot-enter-namespace-number': u'لطفا فضای نام را به وسیلهٔ شماره وارد نمائید:',
-		'pywikibot-enter-new-text': u'لطفا متن جدید را وارد کنید:',
-		'pywikibot-enter-category-name': u'لطفا نام رده را وارد کنید:',
-		'pywikibot-enter-finished-browser': u'لطفا زمانی که در مروگر خاتمه یافت دکمهٔ ورود را بفشارید',
+		'pywikibot-enter-file-links-processing': u'پیوند به کدام صفحهٔ تصویر باید پردازش شود؟',
+		'pywikibot-enter-namespace-number': u'لطفاً یک فضای نام (شماره‌اش) را وارد کنید:',
+		'pywikibot-enter-new-text': u'لطفاً متن جدید را وارد کنید:',
+		'pywikibot-enter-category-name': u'لطفاً نام رده را وارد کنید:',
+		'pywikibot-enter-finished-browser': u'هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید',
 	},
 	# Author: Gomoko
 	'fr': {
@@ -275,11 +281,11 @@ msg = {
 	'nl': {
 		'pywikibot-enter-xml-filename': u'Geef de bestandnaam van een XML-dump op:',
 		'pywikibot-enter-page-processing': u'Welke pagina moet verwerkt worden?',
-		'pywikibot-enter-file-links-processing': u'Naar welke afbeeldingspagina moeten er links verwerkt worden?',
+		'pywikibot-enter-file-links-processing': u'Naar welke afbeeldingspagina moeten er verwijzingen verwerkt worden?',
 		'pywikibot-enter-namespace-number': u'Geef een naamruimtenummer op:',
 		'pywikibot-enter-new-text': u'Geef de nieuwe tekst op:',
 		'pywikibot-enter-category-name': u'Geef de categorienaam op:',
-		'pywikibot-enter-finished-browser': u'Druk op "Enter" wanneer je in de browser klaar bent.',
+		'pywikibot-enter-finished-browser': u'Druk op "Enter" wanneer u klaar bent in de browser.',
 	},
 	# Author: Borichèt
 	# Author: Dragonòt

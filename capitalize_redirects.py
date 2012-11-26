@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
@@ -74,9 +78,10 @@ msg = {
 	'ckb': {
 		'capitalize_redirects-create-redirect': u'ڕۆبۆت: دروستکردنی ڕەوانەکردنەوە بۆ [[%(to)s]]',
 	},
+	# Author: Mormegil
 	# Author: Spiffyk
 	'cs': {
-		'capitalize_redirects-create-redirect': u'Robot: Vytvořte přesměrování na [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot: Vytvoření přesměrování na [[%(to)s]]',
 	},
 	# Author: Pwyll
 	'cy': {

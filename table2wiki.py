@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: Xqt
 	'en': {
 		'table2wiki-no-warning': u'User-controlled robot: Table syntax updated',

@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
+	},	# Author: Csisc
+	'aeb': {
+		'basic-changing': u'بوت: تغيير ...',
 	},	# Author: Csisc
 	'aeb': {
 		'basic-changing': u'بوت: تغيير ...',
@@ -98,8 +102,9 @@ msg = {
 	'da': {
 		'basic-changing': u'Robot: Ændrer ...',
 	},
+	# Author: Metalhead64
 	'de': {
-		'basic-changing': u'Bot: Ändere ...',
+		'basic-changing': u'Bot: Ändere…',
 	},
 	# Author: Eruedin
 	'de-ch': {
