@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -40,6 +41,7 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'pywikibot-enter-new-text': u'یئنی یازینی آرتیرین',
+		'pywikibot-enter-category-name': u'بؤلمه آدین یازین:',
 	},
 	# Author: Renessaince
 	'be-tarask': {
@@ -60,6 +62,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Ebarzhit an destenn nevez, mar plij:',
 		'pywikibot-enter-category-name': u'Ebarzhit anv ar rummad, mar plij',
 		'pywikibot-enter-finished-browser': u'Ebarzhit war Kas ur wech m\'ho peus echuet er merdeer.',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'pywikibot-enter-xml-filename': u'Unesite naziv datoteke XML ispisa:',
+		'pywikibot-enter-page-processing': u'Koja stranica treba da se obradi?',
+		'pywikibot-enter-file-links-processing': u'Prema kojoj stranici linkovi da se obrade?',
+		'pywikibot-enter-namespace-number': u'Unesite broj imenskog prostora:',
+		'pywikibot-enter-new-text': u'Unesite novi tekst:',
+		'pywikibot-enter-category-name': u'Unesite naziv kategorije:',
+		'pywikibot-enter-finished-browser': u'Pritisnite "Enter" kada završite u pregledniku.',
 	},
 	# Author: Pitort
 	'ca': {
@@ -171,10 +183,11 @@ msg = {
 		'pywikibot-enter-finished-browser': u'יש ללחוץ Enter כאשר מסתיימת הפעולה בדפדפן.',
 	},
 	# Author: Dj
+	# Author: R-Joe
 	'hu': {
 		'pywikibot-enter-xml-filename': u'Add meg az XML dump fájl nevét:',
 		'pywikibot-enter-page-processing': u'Melyik lapot kell feldolgozni?',
-		'pywikibot-enter-namespace-number': u'Add meg a névtért a számával:',
+		'pywikibot-enter-namespace-number': u'Add meg a névteret a számával:',
 		'pywikibot-enter-new-text': u'Add meg az új szöveget:',
 		'pywikibot-enter-category-name': u'Add meg a kategória nevet:',
 		'pywikibot-enter-finished-browser': u'Nyomd meg az Entert, ha végeztél a böngészővel!',
@@ -188,6 +201,15 @@ msg = {
 		'pywikibot-enter-new-text': u'Per favor entra le nove texto:',
 		'pywikibot-enter-category-name': u'Per favor entra le nomine del categoria:',
 		'pywikibot-enter-finished-browser': u'Preme Enter quando tu ha finite le modification in le navigator.',
+	},
+	# Author: Snævar
+	'is': {
+		'pywikibot-enter-page-processing': u'Hvaða síðu á að vinna við?',
+		'pywikibot-enter-file-links-processing': u'Tenglar til hverrar myndasíðu á að vinna við?',
+		'pywikibot-enter-namespace-number': u'Vinsamlegast skrifaðu númer nafnrýmisins:',
+		'pywikibot-enter-new-text': u'Vinsamlegast sláðu inn nýja textann:',
+		'pywikibot-enter-category-name': u'Vinsamlegast sláðu inn nafn flokksins:',
+		'pywikibot-enter-finished-browser': u'Ýttu á Enter þegar þú ert búinn í vafranum.',
 	},
 	# Author: Beta16
 	'it': {
@@ -298,6 +320,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Për piasì, ch\'a anserissa ël nòm ëd la categorìa:',
 		'pywikibot-enter-finished-browser': u'Ch\'a sgnaca A cap quand a l\'ha finì ant ël navigador.',
 	},
+	# Author: Alchimista
+	'pt': {
+		'pywikibot-enter-xml-filename': u'Por favor introduza o nome do ficheiro XML:',
+		'pywikibot-enter-page-processing': u'Que página deve ser processada?',
+		'pywikibot-enter-file-links-processing': u'Para qual imagem devem ser processados os links?',
+		'pywikibot-enter-namespace-number': u'Por favor introduza um namespace pelo seu número:',
+		'pywikibot-enter-new-text': u'Por favor introduza o novo texto:',
+		'pywikibot-enter-category-name': u'Por favor introduza o nome da categoria:',
+		'pywikibot-enter-finished-browser': u'Pressione Enter quando terminar no navegador',
+	},
 	# Author: Eleferen
 	# Author: Volkov
 	'ru': {
@@ -360,9 +392,17 @@ msg = {
 		'pywikibot-enter-category-name': u'Ange kategorinamnet:',
 		'pywikibot-enter-finished-browser': u'Tryck på Enter när du är klar i webbläsaren.',
 	},
+	# Author: Гусейн
+	'tly': {
+		'pywikibot-enter-xml-filename': u'Зәһмәт ныбо, бынывыштән XML дампи фајли ном:',
+		'pywikibot-enter-namespace-number': u'Зәһмәт ныбо, номон мәкон нумрә дәғандән:',
+		'pywikibot-enter-new-text': u'Зәһмәт ныбо, нујә мәтн дәғандән:',
+		'pywikibot-enter-category-name': u'Зәһмәт ныбо, тиспири ном дәғандән:',
+	},
 	# Author: A1
 	# Author: Base
 	'uk': {
+		'pywikibot-enter-xml-filename': u'Будь ласка, введіть назву файлу дампу XML:',
 		'pywikibot-enter-page-processing': u'Які сторінки потрібно переробити?',
 		'pywikibot-enter-file-links-processing': u'Посилання на які зображення слід обробити?',
 		'pywikibot-enter-namespace-number': u'Введіть номер простору імен:',

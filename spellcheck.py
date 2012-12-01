@@ -3,11 +3,14 @@ msg = {
 
 
 
+
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},	# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
+	},	'ar': {
+		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
@@ -26,6 +29,10 @@ msg = {
 	# Author: Gwenn-Ael
 	'br': {
 		'spellcheck-checking': u'Reizhskrivañ damemgefreek',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'spellcheck-checking': u'Botovska provjera pravopisa',
 	},
 	# Author: Tchoř
 	'cs': {
@@ -136,6 +143,10 @@ msg = {
 	# Author: Lokal Profil
 	'sv': {
 		'spellcheck-checking': u'Robot-assisterad stavningskontroll',
+	},
+	# Author: Base
+	'uk': {
+		'spellcheck-checking': u'перевірка орфографії за допомогою бота',
 	},
 	# Author: Minh Nguyen
 	'vi': {

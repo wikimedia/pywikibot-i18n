@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
 		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -48,6 +49,10 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s في %(oldcat)s, وهو تحويل إلى %(newcat)s',
 		'category_redirect-fix-double': u'بوت: إصلاح تحويلة مزدوجة',
 	},
+	# Author: Basharh
+	'arc': {
+		'category_redirect-change-category': u'ܪܘܒܘܛ: ܫܘܚܠܦܐ ܕܣܕܪܐ ܕܨܘܝܒܐ [[:%(oldCatLink)s|%(oldCatTitle)s]] ܠ [[:%(newCatLink)s|%(newCatTitle)s]]',
+	},
 	# Author: Esbardu
 	# Author: Xuacu
 	'ast': {
@@ -68,6 +73,12 @@ msg = {
 		'category_redirect-edit-request': u'Muhafizə altındaki bu səhifələrdəki kateqoriya bağlantılarının yeniləmə gerektirdiği bəlli olmuşdur: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s\'ə istiqamətləndirilən %(oldcat)s\'də',
 		'category_redirect-fix-double': u'Bot: ikiqat istiqamətləndirmə düzəldirilir',
+	},
+	# Author: E THP
+	'azb': {
+		'category_redirect-add-template': u'بوت: ساخلاماق اوچون کاتئقوریا ایستیقامتلندیرمه شابلونو علاوه اولونور',
+		'category_redirect-edit-request': u'موحافیزه آلتینداکی بو صحیفه‌لردکی کاتئقوریا باغلانتی‌لاری‌نین یئنیلمه گئرئکتیردیغی بل‌لی اولموش‌دور: %(itemlist)s',
+		'category_redirect-fix-double': u'بوت: ایکی‌قات ایستیقامتلندیرمه دوزلدیریلیر',
 	},
 	# Author: Mucalexx
 	'bar': {

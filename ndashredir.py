@@ -3,9 +3,13 @@ msg = {
 
 
 
+
 	# Author: Bináris
 	'en': {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
@@ -47,6 +51,10 @@ msg = {
 	# Author: Fulup
 	'br': {
 		'ndashredir-create': u'Robot: o krouiñ adkasoù gant barrennigoù-stagañ war-zu [[%(title)s]]',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'ndashredir-create': u'Bot: Napravljeno preusmjerenje povezano sa crticom prema [[%(title)s]]',
 	},
 	# Author: BroOk
 	'ca': {
@@ -221,6 +229,10 @@ msg = {
 	# Author: Гусейн
 	'tly': {
 		'ndashredir-create': u'Бот: Истиғомәти дәгиш карде сохтеј де дефиси бә [[%(title)s]]',
+	},
+	# Author: Base
+	'uk': {
+		'ndashredir-create': u'бот: створення перенаправлення з дефізом на [[%(title)s]]',
 	},
 	# Author: Alunardon90
 	'vec': {

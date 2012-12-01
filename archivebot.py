@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
@@ -79,6 +80,7 @@ msg = {
 		'archivebot-page-summary': u'بوت: آرشیوائدیر: %(count)d باشلیق(%(why)s) بورایا: %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(آرشیو دولو دیر)',
+		'archivebot-archive-summary': u'آرشیو%(count)d {{PLURAL:%(count)d|دانیشیق|دانیشیق}} از [[%(from)s]].',
 	},
 	# Author: Jim-by
 	# Author: Renessaince
@@ -429,9 +431,11 @@ msg = {
 		'archivebot-archive-full': u'(ARSJIEF VOL)',
 		'archivebot-archive-summary': u'Robot: %(count)d óngerwerp(e) gearchiveerd van [[%(from)s]].',
 	},
+	# Author: Cyklopas
 	# Author: Eitvys200
 	'lt': {
 		'archivebot-older-than': u'senesnis nei',
+		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHYVAS PILNAS)',
 	},
 	# Author: RMizo
@@ -459,7 +463,7 @@ msg = {
 		'archivebot-page-summary': u'Rôbô : Fanatsofohana an-tahiry ny  %(count)d {{PLURAL:%(count)d||}} (%(why)s) mankany amin\'ny %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(FENO NY TAHIRY)',
-		'archivebot-archive-summary': u'Fitahirizana ny thread %(count)d avy any amin\'i  [[%(from)s]].',
+		'archivebot-archive-summary': u'Rôbô: Fitahirizana ny thread %(count)d avy any amin\'i [[%(from)s]].',
 	},
 	# Author: Luthfi94
 	'min': {

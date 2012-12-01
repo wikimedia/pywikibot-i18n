@@ -3,10 +3,16 @@ msg = {
 
 
 
+
 	'en': {
 		'template-changing': u'Robot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-removing': u'Robot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
+	},	# Author: Csisc
+	'aeb': {
+		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
+		'template-changing': u'روبوت: تغيير {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
+		'template-substituting': u'روبوت: نسخ {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
 	},	# Author: Csisc
 	'aeb': {
 		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
@@ -39,6 +45,10 @@ msg = {
 		'template-changing': u'روبوت: تغيير {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
 		'template-substituting': u'روبوت: نسخ {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
 	},
+	# Author: Basharh
+	'arc': {
+		'template-changing': u'ܪܘܒܘܛ: ܫܘܚܠܦܐ {{PLURAL:%(num)d|ܩܠܒܐ|ܩܠܒ̈ܐ}}: %(list)s',
+	},
 	# Author: Esbardu
 	# Author: Xuacu
 	'ast': {
@@ -50,6 +60,10 @@ msg = {
 	'az': {
 		'template-removing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
 		'template-changing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
+	},
+	# Author: E THP
+	'azb': {
+		'template-changing': u'بوت: {{PLURAL:%(num)d|شابلونو}} دییشدیریلیر: %(list)s',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -99,10 +113,11 @@ msg = {
 		'template-changing': u'Robot: Ændrer {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
 		'template-substituting': u'Robot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s',
 	},
+	# Author: Xqt
 	'de': {
 		'template-removing': u'Bot: Entferne {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 		'template-changing': u'Bot: Ändere {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
-		'template-substituting': u'Bot: Umgehe {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
+		'template-substituting': u'Bot: Ersetze {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 	},
 	# Author: Erdemaslancan
 	'diq': {
@@ -249,6 +264,10 @@ msg = {
 		'template-removing': u'Bot: Mbusek {{PLURAL:%(num)d|cithakan|cithakan}}: %(list)s',
 		'template-changing': u'Bot: Ngowahi {{PLURAL:%(num)d|cithakan|cithakan}}: %(list)s',
 		'template-substituting': u'Bot: Ngganti {{PLURAL:%(num)d|cithakan|cithakan}}: %(list)s',
+	},
+	# Author: Jagwar
+	'mg': {
+		'template-removing': u'Rôbô: Manala ny endrika{{PLURAL:%(num)d}}: %(list)s',
 	},
 	# Author: Bjankuloski06
 	# Author: Rancher

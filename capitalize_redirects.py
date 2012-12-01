@@ -3,8 +3,12 @@ msg = {
 
 
 
+
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
@@ -198,6 +202,10 @@ msg = {
 	# Author: Pahles
 	'li': {
 		'capitalize_redirects-create-redirect': u'Robot: doorverwiezing gemaak nao [[%(to)s]]',
+	},
+	# Author: Cyklopas
+	'lt': {
+		'capitalize_redirects-create-redirect': u'Robotas: Sukurti nukreipimą į [[%(to)s]]',
 	},
 	# Author: StefanusRA
 	'map-bms': {

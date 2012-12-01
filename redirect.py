@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: Xqt
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -79,6 +80,13 @@ msg = {
 		'redirect-remove-broken': u'[[Vikipediya:sil#istiqamətləndirmə|VP:sil]]: Silinen ya da var olmayan səhifəyə olan istiqaməyləndirmə',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Amir a57
+	# Author: E THP
+	'azb': {
+		'redirect-fix-double': u'روبات :%(to)s صحیفه‌سینه ایستیقامت‌لی ایکیقات ایستیقامتلندیرمه دوزلدیلیر',
+		'redirect-remove-broken': u'[[ویکی‌پئدییا:سیل#یستیقامتلندیرمه|وپ:سیل]]: سیلینئن یا دا وار اولمایان صحیفه‌یه اولان ایستیقامیلندیرمه',
+		'redirect-broken-redirect-template': u'{{سیل|y1}}',
+	},
 	# Author: Mucalexx
 	# Author: Xqt
 	'bar': {
@@ -137,13 +145,14 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: CERminator
+	# Author: Edinwiki
 	# Author: Xqt
 	'bs': {
 		'redirect-fix-loop': u'Robot: Popravlja petlje preusmjerenja na %(to)s',
 		'redirect-remove-loop': u' [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] pravi petlju na samo sebe',
 		'redirect-fix-double': u'Bot: Popravlja dvostruka preusmjerenja na %(to)s',
 		'redirect-remove-broken': u' [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] na obrisanu ili nepostojeću stranicu',
-		'redirect-broken-redirect-template': u' {{db-r1}}',
+		'redirect-broken-redirect-template': u'{{Brisanje}}',
 	},
 	# Author: BroOk
 	# Author: SMP
@@ -502,6 +511,7 @@ msg = {
 	},
 	# Author: Jagwar
 	'mg': {
+		'redirect-fix-loop': u'Rôbô: nanamboatra ny fihodinana manao tondro mifolaka amin\'i %(to)s',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Ny tanjon\'ny fihodinana dia manao fihodinana mifolaka',
 		'redirect-fix-double': u'Rôbô : mamaha olam-pihodinana mankany amin\'i %(to)s',
 		'redirect-remove-broken': u'Rôbô : fihodinana mankany amina pejy tsy misy na erfa voafafa.',
@@ -816,11 +826,13 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 	},
 	# Author: Ahonc
+	# Author: Base
 	# Author: Тест
 	'uk': {
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Перенаправлення]] формує петлю перенаправлень',
+		'redirect-fix-loop': u'бот: виправлення петлі перенаправлень на %(to)s',
+		'redirect-remove-loop': u'бот: перенаправлення формують петлю',
 		'redirect-fix-double': u'Робот: виправлення подвійного перенаправлення → %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Перенаправлення]] на вилучену або неіснуючу сторінку',
+		'redirect-remove-broken': u'бот: перенаправлення на вилучену або неіснуючу сторінку',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Alunardon90

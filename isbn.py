@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'isbn-formatting': u'Robot: Formatting ISBN',
 	},
@@ -36,6 +37,10 @@ msg = {
 	# Author: Khutuck
 	'az': {
 		'isbn-formatting': u'Bot: ISBN formatlandırılır',
+	},
+	# Author: E THP
+	'azb': {
+		'isbn-formatting': u'بوت:شابک‌لری ایستاندارد ائتمک',
 	},
 	# Author: Mucalexx
 	'bar': {

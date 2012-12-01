@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
@@ -925,6 +926,8 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Resaka efa nakatona',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Ambangovangon\'ilay resaka nampiana : %(num)i iditra',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Resaka voaova',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ambangovangon\'ny resaka nasiana niaraka amin\'ny fandiovana %(num)i iditra',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Ambangovangon\'ny resaka novaozina %(num)i iditra anaty %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'HAFATRY NY RÔBÔ',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nAmbangovango noforonina avy amy ary ho any : %(sign)s</noinclude>',
 	},

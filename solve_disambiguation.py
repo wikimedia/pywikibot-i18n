@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
 		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
@@ -86,7 +87,11 @@ msg = {
 	},
 	# Author: E THP
 	'azb': {
+		'solve_disambiguation-redirect-resolved': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) دییش‌دیریله‌رک %(to)s حالینا گتیریلدی',
+		'solve_disambiguation-redirect-adding-dn-template': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - متخصص علاقه‌سی احتیاجینا دایر ایشارئتلئندی',
+		'solve_disambiguation-adding-dn-template': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - متخصص علاقه‌سی احتیاجینا دایر ایشارئتلئندی',
 		'solve_disambiguation-unknown-page': u'(بیلینمیر)',
+		'solve_disambiguation-links-removed': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) گؤتورولدو',
 	},
 	# Author: Mucalexx
 	'bar': {

@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: Xqt
 	'en': {
 		'table2wiki-no-warning': u'User-controlled robot: Table syntax updated',
@@ -40,6 +41,10 @@ msg = {
 	'az': {
 		'table2wiki-warnings': u'İstifadəçi Kontrollü Bot: Cədvəl imlası yeniləndi - {{PLURAL:count|1|%(count)d}} xəbərdarlıq}}!',
 		'table2wiki-no-warning': u'İstifadəçi Kontrollü Bot: Cədvəl imlası yeniləndi.',
+	},
+	# Author: E THP
+	'azb': {
+		'table2wiki-no-warning': u'ایستیفاده‌چی کنتروللو بوت: جدول ایملاسی يئنیلندی .',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
