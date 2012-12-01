@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',

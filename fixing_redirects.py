@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
 	},	# Author: Csisc

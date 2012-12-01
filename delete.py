@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
 		'delete-from-file': u'Robot: Deleting a list of files.',

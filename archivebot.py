@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',

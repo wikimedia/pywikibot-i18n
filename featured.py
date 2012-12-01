@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'featured-featured': u'Robot: %(page)s is a featured article',
 		'featured-former': u'Robot: %(page)s is a former featured article',

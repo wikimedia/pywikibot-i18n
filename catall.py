@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
 	},	# Author: Csisc

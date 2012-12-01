@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
 	},	# Author: Csisc

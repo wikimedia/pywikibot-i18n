@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'isbn-formatting': u'Robot: Formatting ISBN',
 	},

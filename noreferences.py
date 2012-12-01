@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
 	},

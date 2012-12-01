@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 msg = {
 
-
-
-
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
 	},	# Author: Csisc
