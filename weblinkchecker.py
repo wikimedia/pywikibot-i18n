@@ -74,7 +74,7 @@ msg = {
                 'weblinkchecker-archive_msg': u'Deze website is bewaard in het Internet Archive. Overweeg te verwijzen naar een gearchiveerde pagina: [%(URL)s].',
                 'weblinkchecker-caption': u'Dode verwijzing',
                 'weblinkchecker-summary': u'Bot: melding (tijdelijk) onbereikbare externe verwijzing',
-                'weblinkchecker-report': u'Tijdens enkele automatische controles bleek de onderstaande externe verwijzing onbereikbaar. Controleer alstublieft of de verwijzing inderdaad onbereikbaar is. Verwijder deze tekst alstublieft na een succesvolle controle of na het verwijderen of corrigeren van de externe verwijzing.[[Categorie:Wikipedia:Onbereikbare externe link]]',
+                'weblinkchecker-report': u'Tijdens enkele automatische controles bleek de onderstaande externe verwijzing onbereikbaar. Controleer alstublieft of de verwijzing inderdaad onbereikbaar is. Verwijder deze tekst alstublieft na een succesvolle controle of na het verwijderen of corrigeren van de externe verwijzing.',
         },
         'no': {
                 'weblinkchecker-archive_msg': u'Denne nettsiden er lagra i Internet Archive. Vurder om lenka kan endres til å peke til en av de arkiverte versjonene: [%(URL)s].',
@@ -82,7 +82,7 @@ msg = {
                 'weblinkchecker-summary': u'bot: Rapporter død eksternlenke',
         },
         'pl': {
-                'weblinkchecker-archive_msg': u'%s',
+                'weblinkchecker-archive_msg': u'%(URL)s',
                 'weblinkchecker-caption': u'',
                 'weblinkchecker-summary': u'Robot zgłasza niedostępny link zewnętrzny',
         },
@@ -90,7 +90,7 @@ msg = {
                 'weblinkchecker-archive_msg': u'Esta página web foi gravada na Internet Archive. Por favor considere o link para a versão arquivada: [%(URL)s].',
                 'weblinkchecker-caption': u'Link quebrado',
                 'weblinkchecker-summary': u'Bot: Link externo não funcionando',
-                'weblinkchecker-report': u'Foi checado os links externos deste artigo por vários minutos. Alguém verifique por favor se a ligação estiver fora do ar e tente arrumá-lo ou removê-la!\n\n%s\n--~~~~ ',
+                'weblinkchecker-report': u'Foi checado os links externos deste artigo por vários minutos. Alguém verifique por favor se a ligação estiver fora do ar e tente arrumá-lo ou removê-la!',
         },
         'qqq': {
                 'weblinkchecker-archive_msg': u'weblinkchecker report message for web archives',
