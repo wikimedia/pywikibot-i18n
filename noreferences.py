@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
 	},
@@ -271,6 +272,10 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'noreferences-add-tag': u'Robot: Dodajanje manjkajoče oznake <references />',
+	},
+	# Author: Euriditi
+	'sq': {
+		'noreferences-add-tag': u'Roboti: Duke shtuar etiketën <references /> që mungon',
 	},
 	# Author: Rancher
 	'sr': {

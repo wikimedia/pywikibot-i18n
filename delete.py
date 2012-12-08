@@ -1,12 +1,20 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
 		'delete-from-file': u'Robot: Deleting a list of files.',
 		'delete-images': u'Robot: Deleting all images on page %(page)s',
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
+	},	# Author: Csisc
+	'aeb': {
+		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
+		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
+		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
+		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
+		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
 	},	# Author: Csisc
 	'aeb': {
 		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
@@ -350,7 +358,9 @@ msg = {
 		'delete-linked-pages': u'Bot: All Säite läschen déi vun der Säit %(page)s verlinkt sinn',
 	},
 	# Author: Homo
+	# Author: Hugo.arg
 	'lt': {
+		'delete-images': u'robotas: Trinami visi puslapio %(page)s paveikslėliai',
 		'delete-referring-pages': u'robotas: Trinami visi puslapiai, rodantys į %(page)s',
 		'delete-from-category': u'robotas: Trinami visi puslapiai iš kategorijos %(page)s',
 		'delete-from-file': u'Robotas: Trinamas failų sąrašas.',

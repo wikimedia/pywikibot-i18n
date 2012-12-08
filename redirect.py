@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	# Author: Xqt
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -491,9 +492,10 @@ msg = {
 		'redirect-remove-broken': u'Robot: de doelpagina van de doorverwiezing besjteit neet',
 		'redirect-broken-redirect-template': u'{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}',
 	},
+	# Author: Hugo.arg
 	'lt': {
 		'redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas → %(to)s',
-		'redirect-remove-broken': u'robotas: Peradresavimas į niekur',
+		'redirect-remove-broken': u'robotas: peradresavimas į ištrintą ar nesantį puslapį',
 	},
 	# Author: Karlis
 	'lv': {
@@ -606,8 +608,10 @@ msg = {
 	},
 	# Author: Njardarlogar
 	'nn': {
+		'redirect-fix-loop': u'robot: retta omdirigeringslykkje til %(to)s',
 		'redirect-fix-double': u'robot: retta dobbel omdirigering → %(to)s',
 		'redirect-remove-broken': u'robot: målet for omdirigeringa finst ikkje',
+		'redirect-broken-redirect-template': u'{{snøggsletting|dette er ei øydelagd omdirigering}}',
 	},
 	# Author: Danmichaelo
 	'no': {

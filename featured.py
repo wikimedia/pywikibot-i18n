@@ -1,11 +1,18 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'featured-featured': u'Robot: %(page)s is a featured article',
 		'featured-former': u'Robot: %(page)s is a former featured article',
 		'featured-good': u'Robot: %(page)s is a good article',
 		'featured-list': u'Robot: %(page)s is a featured list',
+	},	# Author: Csisc
+	'aeb': {
+		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
+		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
+		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
+		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
 	},	# Author: Csisc
 	'aeb': {
 		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
@@ -325,8 +332,12 @@ msg = {
 		'featured-featured': u'Bot: Exzellenten Arikel Link op %(page)s',
 		'featured-former': u'Bot: %(page)s ass e fréiere Qualitéitsartikel',
 	},
+	# Author: Hugo.arg
 	'lt': {
+		'featured-good': u'robotas: %(page)s yra vertingas straipsnis',
+		'featured-list': u'robotas: %(page)s yra pavyzdinis sąrašas',
 		'featured-featured': u'Bot: Pavyzdinis straipsnis %(page)s',
+		'featured-former': u'robotas: %(page)s yra buvęs pavyzdiniu straipsniu',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -385,8 +396,9 @@ msg = {
 		'featured-featured': u'Robot: %(page)s is een etalage-artikel',
 		'featured-former': u'Robot: %(page)s is een voormalig uitgelicht artikel',
 	},
+	# Author: Njardarlogar
 	'nn': {
-		'featured-good': u'bot: %(page)s er ein god artikkel',
+		'featured-good': u'robot: %(page)s er ein god artikkel',
 		'featured-featured': u'bot: %(page)s er ein god artikkel',
 	},
 	# Author: Nghtwlkr
@@ -468,6 +480,7 @@ msg = {
 	# Author: Euriditi
 	'sq': {
 		'featured-good': u'Roboti: %(page)s është një artikull i mirë',
+		'featured-list': u'Roboti: %(page)s është zgjedhur si artikulli i javës',
 	},
 	# Author: Rancher
 	'sr': {

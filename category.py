@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	# Author: Xqt
 	'en': {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -289,6 +290,7 @@ msg = {
 	},
 	# Author: BroOk
 	# Author: SMP
+	# Author: XVEC
 	'ca': {
 		'category-version-history': u'Bot: Guardant l\'historial de versions dels %(oldcat)s previs',
 		'category-changing': u'Robot: Canviant %(oldcat)s a %(newcat)s',
@@ -298,6 +300,7 @@ msg = {
 		'category-replacing': u'Robot: Substitució de la categoria %(oldcat)s per %(newcat)s',
 		'category-removing': u'Robot: Eliminant de %(oldcat)s',
 		'category-was-moved': u'Robot: La categoria s\'ha mogut a [[:Categoria:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot:  Mogut des de %s. Autors : %s',
 		'category-section-title': u'Historial de la pàgina de %(oldcat)s previs',
 		'category-listifying': u'Robot: Llistant de %(fromcat)s (%(num)d entrades)',
 	},
@@ -978,6 +981,7 @@ msg = {
 		'category-replacing': u'robotas: kategorija %(oldcat)s keičiama į %(newcat)s',
 		'category-removing': u'robotas: šalinama iš %(oldcat)s',
 		'category-was-moved': u'robotas: Kategorija pervadinta į [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'robotas: Perkelta iš %s. Autoriai: %s',
 		'category-section-title': u'Puslapis istorija iš buvusio %(oldcat)s',
 	},
 	# Author: Dark Eagle
@@ -1145,6 +1149,7 @@ msg = {
 		'category-replacing': u'Robot: Erstatter kategorien %(oldcat)s med %(newcat)s',
 		'category-removing': u'Robot: Fjerner ifra %(oldcat)s',
 		'category-was-moved': u'Robot: Kategorien ble flyttet til [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'bot: Flytta fra %s. Forfattere: %s',
 		'category-section-title': u'Sidehistorikk fra den eldre %(oldcat)s',
 		'category-listifying': u'Robot: Gjør om kategorien %(fromcat)s til liste (%(num)d elementer)',
 	},
@@ -1361,6 +1366,7 @@ msg = {
 		'category-replacing': u'Robot: Înlocuit categoria %(oldcat)s cu %(newcat)s',
 		'category-removing': u'Robot: Înlăturat din %(oldcat)s',
 		'category-was-moved': u'Robot: Categoria a fost mutată la [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Mutat din %s. Autori: %s',
 		'category-section-title': u'Istoricul paginii pentru fosta %(oldcat)s',
 		'category-listifying': u'Robot: Listare de la %(fromcat)s (%(num)d intrări)',
 	},
@@ -1457,6 +1463,7 @@ msg = {
 		'category-replacing': u'Robot:% Zëvendësimi kategori %(oldcat)s me %(newcat)s',
 		'category-removing': u'Bot: Heqja nga %(oldcat)s',
 		'category-was-moved': u'Robot: Category u zhvendos tek [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Roboti: Zhvendosur nga %s. Autorët: %s',
 		'category-section-title': u'Historiku i faqes së mëparshme %(oldcat)s',
 		'category-listifying': u'Bot: Listifying nga %(fromcat)s, %(num)d',
 	},

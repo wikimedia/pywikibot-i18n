@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
@@ -1281,6 +1282,8 @@ msg = {
 	},
 	# Author: Euriditi
 	'sq': {
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Lajmërim',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskutim i mbyllur',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'NJOFTIM NGA ROBOTI',
 	},
 	# Author: DrTrigon

@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
@@ -289,6 +290,11 @@ msg = {
 	'nl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Bestand]] is verplaatst naar [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Dit bestand staat nu op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
+	# Author: Njardarlogar
+	'nn': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flytt til [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Fila er no tilgjengeleg på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Nghtwlkr
 	'no': {

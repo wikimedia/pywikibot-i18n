@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
+	},	# Author: Csisc
+	'aeb': {
+		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
@@ -185,6 +189,10 @@ msg = {
 	# Author: Ooswesthoesbes
 	'li': {
 		'fixing_redirects-fixing': u'Bot: fix redireks',
+	},
+	# Author: Hugo.arg
+	'lt': {
+		'fixing_redirects-fixing': u'robotas: Peradresavimų taisymas',
 	},
 	# Author: Papuass
 	'lv': {

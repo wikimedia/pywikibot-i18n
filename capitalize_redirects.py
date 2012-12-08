@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',

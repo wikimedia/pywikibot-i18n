@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'interwiki-adding': u'Robot: Adding %(adding)s',
 		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
@@ -1058,6 +1059,7 @@ msg = {
 		'interwiki-removing': u'ໂຣບົດ ພວມລຶບ: %(removing)s',
 		'interwiki-removing-modifying': u'ໂຣບົດ ພວມລຶບ: %(removing)s ພວມແປງ: %(modifying)s',
 	},
+	# Author: Hugo.arg
 	'lt': {
 		'interwiki-modifying': u'robotas Keičiama: %(modifying)s',
 		'interwiki-adding-modifying': u'robotas Pridedama: %(adding)s Keičiama: %(modifying)s',
@@ -1066,6 +1068,7 @@ msg = {
 		'interwiki-adding': u'robotas Pridedama: %(adding)s',
 		'interwiki-removing': u'robotas Šalinama: %(removing)s',
 		'interwiki-removing-modifying': u'robotas Šalinama: %(removing)s Keičiama: %(modifying)s',
+		'interwiki-modifying-from': u'robotas: Keičiama %(from)s į %(modifying)s',
 	},
 	# Author: Dark Eagle
 	'ltg': {

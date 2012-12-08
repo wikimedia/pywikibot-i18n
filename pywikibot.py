@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -71,8 +72,13 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Pritisnite "Enter" kada završite u pregledniku.',
 	},
 	# Author: Pitort
+	# Author: XVEC
 	'ca': {
+		'pywikibot-enter-xml-filename': u'Siusplau introdueix el nom del fitxer abocador d\'XML .',
 		'pywikibot-enter-page-processing': u'Quina pàgina ha de ser processada?',
+		'pywikibot-enter-new-text': u'Siusplau introdueix el nou text :',
+		'pywikibot-enter-category-name': u'Siusplau introdueix el nom de la categoria :',
+		'pywikibot-enter-finished-browser': u'Apreta Enter quan s\'hagi acabat amb el navegador',
 	},
 	# Author: Tchoř
 	'cs': {
@@ -138,6 +144,13 @@ msg = {
 		'pywikibot-enter-new-text': u'لطفاً متن جدید را وارد کنید:',
 		'pywikibot-enter-category-name': u'لطفاً نام رده را وارد کنید:',
 		'pywikibot-enter-finished-browser': u'هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید',
+	},
+	# Author: Nedergard
+	'fi': {
+		'pywikibot-enter-page-processing': u'Mikä sivu otetaan käsiteltäväksi?',
+		'pywikibot-enter-namespace-number': u'Kirjoita nimiavaruuden numero',
+		'pywikibot-enter-new-text': u'Kirjoita uusi teksti',
+		'pywikibot-enter-category-name': u'Kirjoita luokan nimi',
 	},
 	# Author: Gomoko
 	'fr': {
@@ -247,6 +260,13 @@ msg = {
 		'pywikibot-enter-category-name': u'Gitt w.e.g. den Numm vun der Kategorie an:',
 		'pywikibot-enter-finished-browser': u'Dréckt \'Enter\' wann Dir fäerdeg sidd.',
 	},
+	# Author: Hugo.arg
+	'lt': {
+		'pywikibot-enter-namespace-number': u'Įvestkite vardų srities numerį:',
+		'pywikibot-enter-new-text': u'Įveskite naują tekstą:',
+		'pywikibot-enter-category-name': u'Įveskite kategorijos pavadinimą:',
+		'pywikibot-enter-finished-browser': u'Paspauskite Enter kuomet baigsite naršyklėje.',
+	},
 	# Author: Jagwar
 	'mg': {
 		'pywikibot-enter-xml-filename': u'Atsofohy ny rakitra dump XML',
@@ -327,6 +347,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Por favor introduza o nome da categoria:',
 		'pywikibot-enter-finished-browser': u'Pressione Enter quando terminar no navegador',
 	},
+	# Author: Minisarm
+	'ro': {
+		'pywikibot-enter-xml-filename': u'Vă rugăm să introduceți numele fișierului XML de extracție:',
+		'pywikibot-enter-page-processing': u'Ce pagină ar trebui procesată?',
+		'pywikibot-enter-file-links-processing': u'Legăturile către care imagine ar trebui procesate?',
+		'pywikibot-enter-namespace-number': u'Vă rugăm să introduceți un spațiu de nume după numărul său:',
+		'pywikibot-enter-new-text': u'Vă rugăm să introduceți noul text:',
+		'pywikibot-enter-category-name': u'Vă rugăm să introduceți numele categoriei:',
+		'pywikibot-enter-finished-browser': u'Apăsați Enter odată ce ați terminat cu navigatorul.',
+	},
 	# Author: Eleferen
 	# Author: Volkov
 	'ru': {
@@ -347,6 +377,12 @@ msg = {
 		'pywikibot-enter-new-text': u'Prosimo, vnesite novo besedilo:',
 		'pywikibot-enter-category-name': u'Prosimo, vnesite ime kategorije:',
 		'pywikibot-enter-finished-browser': u'Ko končate v brskalniku, pritisnite Enter.',
+	},
+	# Author: Euriditi
+	'sq': {
+		'pywikibot-enter-page-processing': u'Me cilën faqe duhet të punohet?',
+		'pywikibot-enter-new-text': u'Ju lutem shtypni tekstin e ri:',
+		'pywikibot-enter-finished-browser': u'Shtypni Enter kur të përfondojë në shfletues.',
 	},
 	# Author: Rancher
 	'sr': {

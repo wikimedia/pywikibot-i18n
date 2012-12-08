@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
+	},	# Author: Csisc
+	'aeb': {
+		'movepages-moving': u'روبوت: نقل الصفحة',
 	},	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
@@ -173,6 +177,10 @@ msg = {
 	# Author: Ooswesthoesbes
 	'li': {
 		'movepages-moving': u'Bot: verplaats pagina',
+	},
+	# Author: Hugo.arg
+	'lt': {
+		'movepages-moving': u'robotas: perkeltas puslapis',
 	},
 	# Author: Papuass
 	'lv': {

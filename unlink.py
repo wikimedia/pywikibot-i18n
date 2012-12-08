@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
+	},	# Author: Csisc
+	'aeb': {
+		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},	# Author: Csisc
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
@@ -161,6 +165,10 @@ msg = {
 	'li': {
 		'unlink-unlinking': u'Bot: wös verwiezing nao "%s"',
 	},
+	# Author: Hugo.arg
+	'lt': {
+		'unlink-unlinking': u'robotas: panaikinamos nuorodos į "%s"',
+	},
 	# Author: RMizo
 	'lus': {
 		'unlink-unlinking': u'Khawlmi: "%s" zawmna phelh mek a ni',
@@ -192,8 +200,9 @@ msg = {
 	'nl': {
 		'unlink-unlinking': u'Robot: verwijzing naar "%s" verwijderd',
 	},
+	# Author: Njardarlogar
 	'nn': {
-		'unlink-unlinking': u'robot: fjerna lenkje til "%s"',
+		'unlink-unlinking': u'robot: fjerna lenkje til «%s»',
 	},
 	'no': {
 		'unlink-unlinking': u'robot: fjerner lenke til "%s"',

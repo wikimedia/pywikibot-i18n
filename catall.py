@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
+	},	# Author: Csisc
+	'aeb': {
+		'catall-changing': u'بوت: تغيير التصنيفات',
 	},	# Author: Csisc
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
@@ -222,6 +226,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'catall-changing': u'Robot: wijziging van categorieën',
+	},
+	# Author: Njardarlogar
+	'nn': {
+		'catall-changing': u'robot: endra kategoriar',
 	},
 	# Author: Nghtwlkr
 	'no': {

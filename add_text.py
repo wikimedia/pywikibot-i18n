@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 msg = {
 
+
 	'en': {
 		'add_text-adding': u'Robot: Adding %(adding)s',
 	},
@@ -47,7 +48,7 @@ msg = {
 	},
 	# Author: E THP
 	'azb': {
-		'add_text-adding': u'بوت رئداکته‌سی علاوه‌‌ ائدی‌لیر  %(adding)s',
+		'add_text-adding': u'بوت رئداکته‌سی علاوه‌‌ ائدیلدی %(adding)s',
 	},
 	'ba': {
 		'add_text-adding': u'робот өҫтәне %(adding)s',
