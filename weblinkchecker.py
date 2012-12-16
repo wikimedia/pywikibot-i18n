@@ -5,7 +5,7 @@ msg = {
                 'weblinkchecker-caption': u'وصلة ميتة',
                 'weblinkchecker-summary': u'روبوت: الإبلاغ عن وصلات خارجية غير متوفرة',
                 'weblinkchecker-report': u'خلال عدة عمليات أوتوماتيكية من البوت الوصلة الخارجية التالية كانت غير متوفرة. من فضلك تحقق من أن الوصلة لا تعمل وأزلها أو أصلحها في هذه الحالة!',
-        }
+        },
         'de': {
                 'weblinkchecker-archive_msg': u'Die Webseite wurde vom Internet Archive gespeichert. Bitte verlinke gegebenenfalls eine geeignete archivierte Version: [%(URL)s].',
                 'weblinkchecker-caption': u'Toter Weblink',
