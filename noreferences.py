@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
 	},
@@ -299,6 +300,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'noreferences-add-tag': u'தானியங்கி: <references /> குறியீடினை இணைத்தல்',
+	},
+	# Author: Nullzero
+	'th': {
+		'noreferences-add-tag': u'โรบอต: เพิ่มแท็ก <references /> ที่หายไป',
 	},
 	# Author: AnakngAraw
 	'tl': {

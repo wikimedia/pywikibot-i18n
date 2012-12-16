@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: Xqt
 	'en': {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -149,6 +150,7 @@ msg = {
 		'category-was-moved': u'Bot: Kateqoriya köçürüldü: [[:Category:%(newcat)s|%(title)s]]',
 		'category-listifying': u'Bot: %(fromcat)s kateqoriyasından sıralanır (%(num)d element)',
 	},
+	# Author: Amir a57
 	# Author: E THP
 	'azb': {
 		'category-version-history': u'روبات: گئچمیشی قئدائتمک %(oldcat)s سابیق',
@@ -156,7 +158,12 @@ msg = {
 		'category-adding': u'بوت: [[بؤلمه:%(newcat)s]] آرتیریلیر',
 		'category-also-in': u'(همچنین%(alsocat)s بؤلمه‌سینده)',
 		'category-was-disbanded': u'بوت: بؤلمه لغو ائدیلدی',
+		'category-replacing': u'بوت: %(oldcat)s  بؤلمه‌سینی %(newcat)s ایله یئربه‌یئر ائله‌دیر',
 		'category-removing': u'Bot: %(oldcat)s بؤلمه‌سیندن چیخاریلیر',
+		'category-was-moved': u'بوت: بؤلمه کؤچورولدو: [[:بؤلمه::%(newcat)s|%(title)s]]',
+		'category-renamed': u'بوت: ذن %s داشیندی. یارادان: %s',
+		'category-section-title': u'صحیفه نین گئچمیشی %(oldcat)s سابیق',
+		'category-listifying': u'بوت:%(fromcat)s بولمه لریندن سیرا‌لانیر (%(num)d ائلئمئنت)',
 	},
 	# Author: Xqt
 	'ba': {
@@ -1571,8 +1578,14 @@ msg = {
 		'category-also-in': u'(mós iha %(alsocat)s laran)',
 		'category-was-moved': u'Bot: Naran foun kategoria nian - [[:Category:%(newcat)s|%(title)s]]',
 	},
+	# Author: Nullzero
 	'th': {
-		'category-adding': u'โรบอต: เพิ่ม category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-changing': u'โรบอต: เปลี่ยนจาก %(oldcat)s ไปยัง %(newcat)s',
+		'category-adding': u'โรบอต: เพิ่มหมวดหมู่ [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-replacing': u'โรบอต: แทนที่หมวดหมู่ %(oldcat)s ด้วย %(newcat)s',
+		'category-removing': u'โรบอต: ลบออกจาก %(oldcat)s',
+		'category-was-moved': u'โรบอต: หมวดหมู่ได้ย้ายไป [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'โรบอต: ย้ายจาก %s ผู้เขียนเดิม:',
 	},
 	'tk': {
 		'category-adding': u'robot: goşdy category [[:Category:%(newcat)s|%(newcat)s]]',

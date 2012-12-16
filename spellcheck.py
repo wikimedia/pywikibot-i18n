@@ -2,11 +2,14 @@
 msg = {
 
 
+
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},	# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
+	},	'ar': {
+		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
@@ -62,8 +65,9 @@ msg = {
 		'spellcheck-checking': u'ربات کمک کنندهٔ اشتباهات املایی',
 	},
 	# Author: Nedergard
+	# Author: Nike
 	'fi': {
-		'spellcheck-checking': u'Botti-avusteinen oikeinkirjoituksen tarkistus',
+		'spellcheck-checking': u'Koneavusteinen oikeinkirjoituksen tarkistus',
 	},
 	'fr': {
 		'spellcheck-checking': u'Correction orthographique par robot',
@@ -155,6 +159,10 @@ msg = {
 	# Author: Lokal Profil
 	'sv': {
 		'spellcheck-checking': u'Robot-assisterad stavningskontroll',
+	},
+	# Author: Гусейн
+	'tly': {
+		'spellcheck-checking': u'Де боти комәги орфогрәфијә',
 	},
 	# Author: Base
 	'uk': {

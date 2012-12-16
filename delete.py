@@ -2,12 +2,20 @@
 msg = {
 
 
+
 	'en': {
 		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
 		'delete-from-file': u'Robot: Deleting a list of files.',
 		'delete-images': u'Robot: Deleting all images on page %(page)s',
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
+	},	# Author: Csisc
+	'aeb': {
+		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
+		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
+		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
+		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
+		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
 	},	# Author: Csisc
 	'aeb': {
 		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
@@ -92,7 +100,9 @@ msg = {
 	'azb': {
 		'delete-images': u'بوت: %(page)s صحیفه‌‌سینده‌کی بوتون شکیل‌لر سیلینیر',
 		'delete-referring-pages': u'بوت: %(page)s صحیفه‌‌سینه کئچید وئرن بوتون صحیفه‌‌لر سیلینیر',
+		'delete-from-category': u'بوت: %(page)s بؤلمه‌سینه عاید بوتون صحیفه‌‌لر سیلینیر',
 		'delete-from-file': u'بوت: فايللارین سیياهیسی سیلینیر.',
+		'delete-linked-pages': u'بوت: %(page)s صحیفه‌‌سیندن کئچید وئرن بوتون صحیفه‌‌لر سیلینیر',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -580,6 +590,13 @@ msg = {
 		'delete-from-category': u'தானியங்கி: %(page)s பகுப்பில் உள்ள அனைத்து பக்கங்களும் நீக்கப்படுகின்றன',
 		'delete-from-file': u'தானியங்கி: ஒரு பட்டியலிலுள்ள கோப்புகள் நீக்கப்படுகின்றன.',
 		'delete-linked-pages': u'தானியங்கி:%(page)s பக்கத்துடன் இணைக்கப்பட்டுள்ள அனைத்து பக்கங்களும் நீக்கப்படுகின்றன',
+	},
+	# Author: Nullzero
+	'th': {
+		'delete-images': u'โรบอต: ลบรูปภาพทั้งหมดจากหน้า %(page)s',
+		'delete-referring-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์ไป %(page)s',
+		'delete-from-category': u'โรบอต: ลบหน้าทั้งหมดจากหมวดหมู่ %(page)s',
+		'delete-linked-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์จาก %(page)s',
 	},
 	# Author: AnakngAraw
 	'tl': {

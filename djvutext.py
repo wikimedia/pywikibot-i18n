@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},
@@ -24,6 +25,10 @@ msg = {
 	# Author: Xuacu
 	'ast': {
 		'djvutext-creating': u'Robó: Creando una páxina con testu sacáu de DjVu',
+	},
+	# Author: E THP
+	'azb': {
+		'djvutext-creating': u'بوت: دژاوو چیخاریلان متنی صحیفه‌‌يه علاوه‌‌ ائتدی',
 	},
 	# Author: Jim-by
 	'be-tarask': {

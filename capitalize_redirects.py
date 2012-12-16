@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
@@ -318,6 +322,10 @@ msg = {
 	# Author: Aswn
 	'ta': {
 		'capitalize_redirects-create-redirect': u'தானியங்கி: [[%(to)s]] இற்கு வழிமாற்றி ஒன்றினை உருவாக்கு',
+	},
+	# Author: Nullzero
+	'th': {
+		'capitalize_redirects-create-redirect': u'โรบอต: สร้างหน้าเปลี่ยนทางไปยัง %(to)s',
 	},
 	# Author: AnakngAraw
 	'tl': {

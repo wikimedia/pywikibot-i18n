@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'interwiki-adding': u'Robot: Adding %(adding)s',
 		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
@@ -149,9 +150,11 @@ msg = {
 		'interwiki-modifying': u'بوت دَییشدیرمه‌سی دییشدیریلیر: %(modifying)s',
 		'interwiki-adding-modifying': u'بوت دَییشدیرمه‌سی علاوه ائدیلیر: %(adding)s دییشدیریلیر: %(modifying)s',
 		'interwiki-adding-removing': u'بوت دَییشدیرمه‌سی علاوه ائدیلیر: %(adding)s چیخاردیلیر: %(removing)s',
+		'interwiki-adding-removing-modifying': u'بوت دَییشدیرمه‌سی علاوه‌‌ ائدیلیر: %(adding)s چیخاردیلیر: %(removing)s ديَیشدیریلیر: %(modifying)s',
 		'interwiki-adding': u'بوت دَییشدیرمه‌سی علاوه‌‌ ائدی‌لیر  %(adding)s',
 		'interwiki-removing': u'بوت رئداکته‌سی چیخاردیلیر: %(removing)s',
 		'interwiki-removing-modifying': u'بوت رئداکته‌سی چیخاردیلیر: %(removing)s دییشدیریلیر: %(modifying)s',
+		'interwiki-modifying-from': u'بوت:%(from)s %(modifying)s اولاراق ديَیشدیریلیر',
 	},
 	'ba': {
 		'interwiki-modifying': u'робот үҙгәртте: %(modifying)s',
@@ -1756,6 +1759,7 @@ msg = {
 		'interwiki-removing': u'робот дигаргуни карда истодааст: %(removing)s',
 		'interwiki-removing-modifying': u'робот дигаргуни карда истодааст: %(removing)s ҳaвз карда истодааст: %(modifying)s',
 	},
+	# Author: Nullzero
 	'th': {
 		'interwiki-modifying': u'โรบอต แก้ไข: %(modifying)s',
 		'interwiki-adding-modifying': u'โรบอต เพิ่ม: %(adding)s แก้ไข: %(modifying)s',
@@ -1764,6 +1768,7 @@ msg = {
 		'interwiki-adding': u'โรบอต เพิ่ม: %(adding)s',
 		'interwiki-removing': u'โรบอต ลบ: %(removing)s',
 		'interwiki-removing-modifying': u'โรบอต ลบ: %(removing)s แก้ไข: %(modifying)s',
+		'interwiki-modifying-from': u'โรบอต: แก้ไขจาก %(from)s ไปเป็น %(modifying)s',
 	},
 	'tk': {
 		'interwiki-modifying': u'robot üýtgetdi: %(modifying)s',

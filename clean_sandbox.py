@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},

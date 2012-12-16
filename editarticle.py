@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'editarticle-edit': u'Manual edit with robot: %(description)s',
 	},
@@ -27,6 +28,10 @@ msg = {
 	# Author: Ebrahimi-amir
 	'az': {
 		'editarticle-edit': u'Bot hesabından əllə tənzimləmə: %(description)s',
+	},
+	# Author: E THP
+	'azb': {
+		'editarticle-edit': u'بوت حسابیندان الله تنزیمله‌مه: %(description)s',
 	},
 	# Author: Mucalexx
 	'bar': {

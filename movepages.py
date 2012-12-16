@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
+	},	# Author: Csisc
+	'aeb': {
+		'movepages-moving': u'روبوت: نقل الصفحة',
 	},	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
@@ -299,6 +303,10 @@ msg = {
 	# Author: Veeven
 	'te': {
 		'movepages-moving': u'బాటు: పేజీని తరలించింది',
+	},
+	# Author: Nullzero
+	'th': {
+		'movepages-moving': u'โรบอต: ย้ายหน้า',
 	},
 	# Author: AnakngAraw
 	'tl': {

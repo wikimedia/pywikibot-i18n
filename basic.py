@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
+	},	# Author: Csisc
+	'aeb': {
+		'basic-changing': u'بوت: تغيير ...',
 	},	# Author: Csisc
 	'aeb': {
 		'basic-changing': u'بوت: تغيير ...',
@@ -330,6 +334,10 @@ msg = {
 	'ne': {
 		'basic-changing': u'रोबोट : परिवर्तन गर्दै ...',
 	},
+	# Author: Eukesh
+	'new': {
+		'basic-changing': u'रोबोट: हिलाच्वंगु ...',
+	},
 	# Author: Siebrand
 	'nl': {
 		'basic-changing': u'Robot: bezig met wijzigen...',
@@ -427,6 +435,10 @@ msg = {
 	# Author: MF-Warburg
 	'tet': {
 		'basic-changing': u'Bot: Muda ...',
+	},
+	# Author: Nullzero
+	'th': {
+		'basic-changing': u'โรบอต: กำลังเปลี่ยน ...',
 	},
 	# Author: AnakngAraw
 	'tl': {

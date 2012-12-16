@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'isbn-formatting': u'Robot: Formatting ISBN',
 	},
@@ -384,8 +385,9 @@ msg = {
 		'isbn-formatting': u'தானியங்கி: ISBN ஐ வடிவமைத்தல்',
 	},
 	# Author: Horus
+	# Author: Nullzero
 	'th': {
-		'isbn-formatting': u'บอต: การจัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ',
+		'isbn-formatting': u'โรบอต: การจัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ',
 	},
 	# Author: AnakngAraw
 	'tl': {

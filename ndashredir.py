@@ -2,9 +2,13 @@
 msg = {
 
 
+
 	# Author: Bináris
 	'en': {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
@@ -40,6 +44,10 @@ msg = {
 	# Author: Xuacu
 	'ast': {
 		'ndashredir-create': u'Robó: Creando redireición con guiones a [[%(title)s]]',
+	},
+	# Author: Amir a57
+	'azb': {
+		'ndashredir-create': u'روبوت: آ خت تیره دار [[%(title)s]] یؤنلن‌دیرن',
 	},
 	# Author: Jim-by
 	'be-tarask': {

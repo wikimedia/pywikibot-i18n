@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
@@ -265,6 +266,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: Änderonge för de Schönheit',
 		'cosmetic_changes-append': u'; Änderonge för de Schönheit',
 	},
+	# Author: Growingup
+	'ky': {
+		'cosmetic_changes-standalone': u'бот: косметикалык өзгөртүүлөр',
+		'cosmetic_changes-append': u'; косметикалык өзгөртүүлөр',
+	},
 	'la': {
 		'cosmetic_changes-standalone': u'automaton: mutationes minores',
 		'cosmetic_changes-append': u'; mutationes minores',
@@ -444,8 +450,9 @@ msg = {
 		'cosmetic_changes-standalone': u'బాటు: పైపై మార్పులు',
 		'cosmetic_changes-append': u'; పైపై మార్పులు',
 	},
+	# Author: Nullzero
 	'th': {
-		'cosmetic_changes-standalone': u'บอต ปรับแต่งให้อ่านง่าย',
+		'cosmetic_changes-standalone': u'โรบอต ปรับแต่งให้อ่านง่าย',
 		'cosmetic_changes-append': u'; ปรับแต่งให้อ่านง่าย',
 	},
 	'tk': {

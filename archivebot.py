@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
@@ -412,6 +413,10 @@ msg = {
 		'archivebot-archive-full': u'(DAT ASCHIHV ES VOLL)',
 		'archivebot-archive-summary': u'Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} vun [[%(from)s]] en et Aschihf jedonn.',
 	},
+	# Author: Growingup
+	'ky': {
+		'archivebot-archive-full': u'(АРХИВ ТОЛУК)',
+	},
 	# Author: Robby
 	'lb': {
 		'archivebot-older-than': u'méi al wéi',
@@ -520,6 +525,11 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(पूरा अभिलेख)',
 		'archivebot-archive-summary': u'रोबोट : अभिलेखिकरण गर्धै  %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}  [[%(from)s]]बाट.',
+	},
+	# Author: Eukesh
+	'new': {
+		'archivebot-older-than': u'स्वया पुलांगु',
+		'archivebot-archive-full': u'(आर्काइभ जायेधुंकल)',
 	},
 	# Author: SPQRobin
 	# Author: Siebrand
@@ -705,6 +715,11 @@ msg = {
 	# Author: MF-Warburg
 	'tet': {
 		'archivebot-older-than': u'tuan liu',
+	},
+	# Author: Nullzero
+	'th': {
+		'archivebot-older-than': u'เก่ากว่า',
+		'archivebot-archiveheader': u'{{กรุ}}',
 	},
 	# Author: AnakngAraw
 	'tl': {

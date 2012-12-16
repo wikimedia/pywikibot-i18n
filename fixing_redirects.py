@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
+	},	# Author: Csisc
+	'aeb': {
+		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
@@ -302,6 +306,10 @@ msg = {
 	# Author: Veeven
 	'te': {
 		'fixing_redirects-fixing': u'బాటు: దారిమార్పులను సరిచేసింది',
+	},
+	# Author: Nullzero
+	'th': {
+		'fixing_redirects-fixing': u'โรบอต: แก้หน้าเปลี่ยนทาง',
 	},
 	# Author: AnakngAraw
 	'tl': {

@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
 		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -74,8 +75,11 @@ msg = {
 	},
 	# Author: E THP
 	'azb': {
+		'category_redirect-comment': u'بؤلمه ایستیقامتلندیریلمه وظیفه‌‌لی بوت',
+		'category_redirect-change-category': u'بوت: ایستیقامتلندیریلن [[:%(oldCatLink)s|%(oldCatTitle)s]] ب[[:%(newCatLink)s|%(newCatTitle)s]] حالینا چئویریر بؤلمه‌سینی',
 		'category_redirect-add-template': u'بوت: ساخلاماق اوچون کاتئقوریا ایستیقامتلندیرمه شابلونو علاوه اولونور',
 		'category_redirect-edit-request': u'موحافیزه آلتینداکی بو صحیفه‌لردکی کاتئقوریا باغلانتی‌لاری‌نین یئنیلمه گئرئکتیردیغی بل‌لی اولموش‌دور: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s، %(newcat)sده ایستیقامتلندیریلن %(oldcat)sعده',
 		'category_redirect-fix-double': u'بوت: ایکی‌قات ایستیقامتلندیرمه دوزلدیریلیر',
 	},
 	# Author: Mucalexx
@@ -740,7 +744,10 @@ msg = {
 		'category_redirect-comment': u'வகைப்பாட்டு மாற்றுவழிப் பராமரிப்புத் தானியங்கி',
 		'category_redirect-fix-double': u'தானியங்கி: எதிரெதிர் வழிமாற்றுதலைச் சரிசெய்தல்',
 	},
+	# Author: Nullzero
 	'th': {
+		'category_redirect-change-category': u'โรบอต: เปลี่ยนหมวดหมู่เปลี่ยนทางจาก [[:%(oldCatLink)s|%(oldCatTitle)s]] ไปยัง [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-edit-request-item': u'* %(title)s อยู่ใน %(oldcat)s ซึ่งเปลี่ยนทางไปยัง %(newcat)s',
 		'category_redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน',
 	},
 	# Author: AnakngAraw

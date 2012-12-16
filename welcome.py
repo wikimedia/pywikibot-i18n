@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
 		'welcome-updating': u'Robot: Updating log',
@@ -326,6 +327,10 @@ msg = {
 	'ku-latn': {
 		'welcome-welcome': u'Tu bi xêr hatî!',
 	},
+	# Author: Growingup
+	'ky': {
+		'welcome-welcome': u'Кош келиңиз!',
+	},
 	# Author: Robby
 	'lb': {
 		'welcome-welcome': u'Wëllkomm!',
@@ -546,6 +551,11 @@ msg = {
 	'te': {
 		'welcome-welcome': u'రండి',
 		'welcome-updating': u'బాటు: చిట్టాను తాజాకరించింది',
+	},
+	# Author: Nullzero
+	'th': {
+		'welcome-welcome': u'ยินดีต้อนรับ!',
+		'welcome-updating': u'โรบอต: กำลังปรับปรุงปูม',
 	},
 	# Author: AnakngAraw
 	'tl': {

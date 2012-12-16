@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
 		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
@@ -83,9 +84,12 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(bilinmir)',
 		'solve_disambiguation-links-removed': u'Bot dəstəkli məna ayrı-seçkiliyi: %(from)s - Bağlantı(lar) götürüldü',
 	},
+	# Author: Amir a57
 	# Author: E THP
 	'azb': {
+		'solve_disambiguation-redirect-removed': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) گؤتورولدو',
 		'solve_disambiguation-redirect-resolved': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) دییش‌دیریله‌رک %(to)s حالینا گتیریلدی',
+		'solve_disambiguation-links-resolved': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) دییش‌دیریله‌رک %(to)s حالینا گتیریلدی',
 		'solve_disambiguation-redirect-adding-dn-template': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - متخصص علاقه‌سی احتیاجینا دایر ایشارئتلئندی',
 		'solve_disambiguation-adding-dn-template': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - متخصص علاقه‌سی احتیاجینا دایر ایشارئتلئندی',
 		'solve_disambiguation-unknown-page': u'(بیلینمیر)',
@@ -522,6 +526,10 @@ msg = {
 	# Author: George Animal
 	'ku-latn': {
 		'solve_disambiguation-unknown-page': u'(nenas)',
+	},
+	# Author: Growingup
+	'ky': {
+		'solve_disambiguation-unknown-page': u'(белгисиз)',
 	},
 	# Author: MissPetticoats
 	'la': {

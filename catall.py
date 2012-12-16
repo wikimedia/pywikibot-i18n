@@ -2,8 +2,12 @@
 msg = {
 
 
+
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
+	},	# Author: Csisc
+	'aeb': {
+		'catall-changing': u'بوت: تغيير التصنيفات',
 	},	# Author: Csisc
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
@@ -307,6 +311,10 @@ msg = {
 	# Author: Veeven
 	'te': {
 		'catall-changing': u'బాటు: వర్గాలను మార్చింది',
+	},
+	# Author: Nullzero
+	'th': {
+		'catall-changing': u'โรบอต: กำลังเปลี่ยนหมวดหมู่',
 	},
 	# Author: AnakngAraw
 	'tl': {

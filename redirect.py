@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: Xqt
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -81,6 +82,8 @@ msg = {
 	# Author: Amir a57
 	# Author: E THP
 	'azb': {
+		'redirect-fix-loop': u'روبوت: فیخینگ اوزوک اولان%(to)s یؤنلن‌دیرن',
+		'redirect-remove-loop': u'بوت: ایستیقامتلندیرمه هدفی بیر ایستیقامتلندیرمه دؤورو تشکیل ائدیر',
 		'redirect-fix-double': u'روبات :%(to)s صحیفه‌سینه ایستیقامت‌لی ایکیقات ایستیقامتلندیرمه دوزلدیلیر',
 		'redirect-remove-broken': u'[[ویکی‌پئدییا:سیل#یستیقامتلندیرمه|وپ:سیل]]: سیلینئن یا دا وار اولمایان صحیفه‌یه اولان ایستیقامیلندیرمه',
 		'redirect-broken-redirect-template': u'{{سیل|y1}}',
@@ -314,6 +317,7 @@ msg = {
 	'fur': {
 		'redirect-fix-double': u'Robot: o comedi un re-indreçament dopli a %(to)s',
 	},
+	# Author: Alison
 	'ga': {
 		'redirect-fix-double': u'Róbó: Ag socrú athsheolta dúbailte → %(to)s',
 		'redirect-remove-broken': u'Róbó : Targaid athsheoladh ar iarraidh',
@@ -779,9 +783,13 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Nullzero
 	'th': {
+		'redirect-fix-loop': u'โรบอต: แก้หน้าเปลี่ยนทางวนรอบ → %(to)s',
+		'redirect-remove-loop': u'โรบอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ',
 		'redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s',
 		'redirect-remove-broken': u'โรบอต: หน้าเปลี่ยนทางเสีย',
+		'redirect-broken-redirect-template': u'{{ลบ|หน้าเปลี่ยนทางเสีย}}',
 	},
 	# Author: AnakngAraw
 	'tl': {

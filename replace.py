@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'replace-replacing': u'Robot: Automated text replacement %(description)s',
 	},
@@ -33,6 +34,10 @@ msg = {
 	# Author: Khutuck
 	'az': {
 		'replace-replacing': u'Bot: Avtomatik mətn dəyişdirmə %(description)s',
+	},
+	# Author: Amir a57
+	'azb': {
+		'replace-replacing': u'بوت: آوتوماتیک متن دییشدیرمه %(description)s',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -349,6 +354,10 @@ msg = {
 	# Author: செல்வா
 	'ta': {
 		'replace-replacing': u'தானியங்கி:  தானியக்கமாய் உரை மாற்றம் %(description)s',
+	},
+	# Author: Nullzero
+	'th': {
+		'replace-replacing': u'โรบอต: แทนที่ข้อความโดยอัตโนมัติ %(description)s',
 	},
 	# Author: AnakngAraw
 	'tl': {

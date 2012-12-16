@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -36,10 +37,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Escribi\'l nome de categoría:',
 		'pywikibot-enter-finished-browser': u'Calca la tecla Intro cuando acabes nel navegador.',
 	},
+	# Author: Amir a57
 	# Author: E THP
 	'azb': {
+		'pywikibot-enter-xml-filename': u'XML فایلین نوسخه گوتورولن آدین یازین:',
+		'pywikibot-enter-page-processing': u'هانسی صحیفه گرک پرداخت اولونا؟',
+		'pywikibot-enter-file-links-processing': u'باغلانتی اوچون هانسی شکیل گرک پرداخت اولونا؟',
+		'pywikibot-enter-namespace-number': u'آد آلان (نومره سی)، داخیل علاوه ائدین:',
 		'pywikibot-enter-new-text': u'یئنی یازینی آرتیرین',
 		'pywikibot-enter-category-name': u'بؤلمه آدین یازین:',
+		'pywikibot-enter-finished-browser': u'آختاریش برنامه سی اینتئر دویمه‌سینه متبوات بیتن زامان',
 	},
 	# Author: Renessaince
 	'be-tarask': {
@@ -72,10 +79,13 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Pritisnite "Enter" kada završite u pregledniku.',
 	},
 	# Author: Pitort
+	# Author: Toniher
 	# Author: XVEC
 	'ca': {
 		'pywikibot-enter-xml-filename': u'Siusplau introdueix el nom del fitxer abocador d\'XML .',
 		'pywikibot-enter-page-processing': u'Quina pàgina ha de ser processada?',
+		'pywikibot-enter-file-links-processing': u'Enllaços a la pàgina de la imatge que s\'hauria de processar?',
+		'pywikibot-enter-namespace-number': u'Introduïu un espai de noms pel seu número:',
 		'pywikibot-enter-new-text': u'Siusplau introdueix el nou text :',
 		'pywikibot-enter-category-name': u'Siusplau introdueix el nom de la categoria :',
 		'pywikibot-enter-finished-browser': u'Apreta Enter quan s\'hagi acabat amb el navegador',
@@ -425,12 +435,23 @@ msg = {
 		'pywikibot-enter-category-name': u'Ange kategorinamnet:',
 		'pywikibot-enter-finished-browser': u'Tryck på Enter när du är klar i webbläsaren.',
 	},
+	# Author: Nullzero
+	'th': {
+		'pywikibot-enter-page-processing': u'หน้าไหนที่จะประมวลผล',
+		'pywikibot-enter-namespace-number': u'กรุณาใส่หมายเลขของเนมสเปซ:',
+		'pywikibot-enter-new-text': u'กรุณาใส่ข้อความใหม่:',
+		'pywikibot-enter-category-name': u'กรุณาใส่ชื่อหมวดหมู่:',
+		'pywikibot-enter-finished-browser': u'กด Enter เมื่อทำงานในเบราว์เซอร์เรียบร้อยแล้ว',
+	},
 	# Author: Гусейн
 	'tly': {
 		'pywikibot-enter-xml-filename': u'Зәһмәт ныбо, бынывыштән XML дампи фајли ном:',
+		'pywikibot-enter-page-processing': u'Кон гылә сәһифә бәпе емол кардә быбу?',
+		'pywikibot-enter-file-links-processing': u'Сәбонон бә кон гылә шикилон сәһифә бәпе емол кардә быбун?',
 		'pywikibot-enter-namespace-number': u'Зәһмәт ныбо, номон мәкон нумрә дәғандән:',
 		'pywikibot-enter-new-text': u'Зәһмәт ныбо, нујә мәтн дәғандән:',
 		'pywikibot-enter-category-name': u'Зәһмәт ныбо, тиспири ном дәғандән:',
+		'pywikibot-enter-finished-browser': u'Enter егәтәдыгмә егәтәјон, кејнә обәрәхнејон бә браузер дәгишијон дәғандеј.',
 	},
 	# Author: A1
 	# Author: Base

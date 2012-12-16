@@ -2,6 +2,7 @@
 msg = {
 
 
+
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
@@ -164,16 +165,24 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Müzakirə səhifəsi dəyişildi',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESAJI',
 	},
+	# Author: Amir a57
 	# Author: E THP
 	# Author: Mousa
 	'azb': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(دیَشدیرن اینسان بولونامادی)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u'بوت:* %(notify)s: %(page_sections)s - [%(history_link)s سون دییشیک‌لیک] (%(page_size)s byte) ایستیفادچی%(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u': * روبوت خبردارلیق مئساژی:%(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'یئنی دانیشیق',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u': *%(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - سون دییشیک‌لیک [[ایستیفاده‌چی:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'بیلدیریش',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'برچسب عوض ائتمه (S)%(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'دانیشیق باقلاندی',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s بوتون موزاکیره‌لر سونا چاتدی (ایزلئمئ سونلاندیریلدی) - سون دییشیکلیک %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'موزاکیره خلاصه‌سی علاوه اولوندو:%(num)i معلومات.',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'دانیشیق دیَیشیلدی',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'موزاکیره خلاصه‌سی علاوه اولوندو و تشکیل ائدیلدی:%(num)i معلومات.',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'دانیشیق قیساسی گونجل‌لشدی: %(page)s صحیفه‌‌ده  %(num)i بیلگی',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'روبوت مئساژی',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nقیسا حاضرلاندی: %(sign)s</noinclude>',
@@ -848,6 +857,12 @@ msg = {
 	'ku-latn': {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Gotûbêj hat guhertin',
 	},
+	# Author: Growingup
+	'ky': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Кабарландыруу',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТТУН БИЛДИРМЕСИ',
+	},
 	# Author: Robby
 	'lb': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot:',
@@ -1397,6 +1412,14 @@ msg = {
 	'te': {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'కొత్త చర్చ',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'చర్చ ముగిసింది',
+	},
+	# Author: Nullzero
+	'th': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'โรบอต',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* ข้อความเตือนจากโรบอต: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'การอภิปรายใหม่',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'การแจ้งเตือน',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ข้อความจากโรบอต',
 	},
 	# Author: AnakngAraw
 	'tl': {
