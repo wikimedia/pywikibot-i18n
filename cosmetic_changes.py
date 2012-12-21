@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
@@ -30,6 +31,11 @@ msg = {
 	'ar': {
 		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
 		'cosmetic_changes-append': u'; تغييرات تجميلية',
+	},
+	# Author: Basharh
+	'arc': {
+		'cosmetic_changes-standalone': u'ܪܘܒܘܛ: ܫܘܚܠܦ̈ܐ ܫܘܦܪ̈ܢܝܐ',
+		'cosmetic_changes-append': u'; ܫܘܚܠܦ̈ܐ ܫܘܦܪ̈ܢܝܐ',
 	},
 	# Author: Esbardu
 	# Author: Xuacu

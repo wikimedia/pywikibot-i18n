@@ -3,11 +3,14 @@ msg = {
 
 
 
+
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},	# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
+	},	'ar': {
+		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
@@ -28,6 +31,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'spellcheck-checking': u'یازی یانلیشی اوچون روبات یاردیم‌جی',
+	},
+	# Author: Wizardist
+	'be-tarask': {
+		'spellcheck-checking': u'Выпраўленьне артаграфіі ботам',
 	},
 	# Author: Gwenn-Ael
 	'br': {
@@ -71,6 +78,10 @@ msg = {
 	},
 	'fr': {
 		'spellcheck-checking': u'Correction orthographique par robot',
+	},
+	# Author: Murma174
+	'frr': {
+		'spellcheck-checking': u'Halep faan en bot bi\'t rochtskriiwang',
 	},
 	# Author: Toliño
 	'gl': {
@@ -128,8 +139,13 @@ msg = {
 	'pms': {
 		'spellcheck-checking': u'Coretor d\'ortografìa për mojen d\'un trigomiro',
 	},
+	# Author: 555
 	'pt': {
-		'spellcheck-checking': u'Bot de correção ortográfica',
+		'spellcheck-checking': u'Correção ortográfica assistida por bot',
+	},
+	# Author: 555
+	'pt-br': {
+		'spellcheck-checking': u'Correção ortográfica assistida por bot',
 	},
 	# Author: Minisarm
 	'ro': {

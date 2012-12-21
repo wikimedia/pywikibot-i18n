@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
@@ -50,9 +51,10 @@ msg = {
 		'archivebot-archive-full': u'(الأرشيف ممتلئ)',
 		'archivebot-archive-summary': u'أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} من [[%(from)s]].',
 	},
+	# Author: Basharh
 	# Author: Man2fly2002
 	'arc': {
-		'archivebot-older-than': u'ܩܕܝܡܐ ܡܢ',
+		'archivebot-older-than': u'ܥܬܝܩ ܡܢ',
 		'archivebot-page-summary': u'ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} (%(why)s) ܠ %(archives)s.',
 		'archivebot-archiveheader': u'{{ܐܪܫܝܦܐ ܕܡܡܠܠܐ}}',
 		'archivebot-archive-full': u'(ܐܪܫܝܦܐ ܡܠܝܐ)',

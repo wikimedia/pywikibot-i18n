@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
@@ -123,13 +124,14 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'رسالة روبوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nتم أنشاء التلخيص من طرف وعند: %(sign)s</noinclude>',
 	},
+	# Author: Basharh
 	# Author: Man2fly2002
 	'arc': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'ܪܘܒܘܛ',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'ܕܘܪܫܐ ܚܕܬܐ',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'ܡܕܥܢܘܬܐ',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'ܕܕܘܪܫܐ ܩܦܝܠܐ',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'ܕܕܘܪܫܐ ܐܫܬܚܠܦ',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'ܕܘܪܫܐ ܐܫܬܚܠܦ',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ܐܓܪܬܐ ܕܪܘܒܘܛ',
 	},
 	# Author: DrTrigon
@@ -180,9 +182,9 @@ msg = {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'برچسب عوض ائتمه (S)%(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'دانیشیق باقلاندی',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s بوتون موزاکیره‌لر سونا چاتدی (ایزلئمئ سونلاندیریلدی) - سون دییشیکلیک %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'موزاکیره خلاصه‌سی علاوه اولوندو:%(num)i معلومات.',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'دانیشیق خلاصه‌سی علاوه اولوندو:%(num)i معلومات.',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'دانیشیق دیَیشیلدی',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'موزاکیره خلاصه‌سی علاوه اولوندو و تشکیل ائدیلدی:%(num)i معلومات.',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'دانیشیق خلاصه‌سی علاوه اولوندو و تشکیل ائدیلدی:%(num)i معلومات.',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'دانیشیق قیساسی گونجل‌لشدی: %(page)s صحیفه‌‌ده  %(num)i بیلگی',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'روبوت مئساژی',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nقیسا حاضرلاندی: %(sign)s</noinclude>',

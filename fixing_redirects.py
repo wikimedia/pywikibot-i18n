@@ -3,8 +3,12 @@ msg = {
 
 
 
+
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
+	},	# Author: Csisc
+	'aeb': {
+		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
@@ -37,6 +41,10 @@ msg = {
 	},
 	'ar': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
+	},
+	# Author: Basharh
+	'arc': {
+		'fixing_redirects-fixing': u'ܪܘܒܘܛ: ܚܕܬܘܬܐ ܕܨܘ̈ܝܒܐ',
 	},
 	# Author: Esbardu
 	# Author: Xuacu

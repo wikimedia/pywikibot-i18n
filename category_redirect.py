@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
 		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -51,6 +52,9 @@ msg = {
 	# Author: Basharh
 	'arc': {
 		'category_redirect-change-category': u'ܪܘܒܘܛ: ܫܘܚܠܦܐ ܕܣܕܪܐ ܕܨܘܝܒܐ [[:%(oldCatLink)s|%(oldCatTitle)s]] ܠ [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ ܕܩܠܒܐ ܕܨܘܝܒܐ ܕܣܕܪܐ ܠܚܕܬܘܬܐ',
+		'category_redirect-edit-request-item': u'* %(title)s ܒ %(oldcat)s, ܘܗܘ ܨܘܝܒܐ ܠ %(newcat)s',
+		'category_redirect-fix-double': u'ܪܘܒܘܛ: ܬܪܨܐ ܕܨܘܝܒܐ ܥܦܝܦܐ',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
@@ -428,7 +432,7 @@ msg = {
 	'ja': {
 		'category_redirect-comment': u'カテゴリ転送保守ロボット',
 		'category_redirect-change-category': u'ロボットによる: 転送されているカテゴリ[[:%(oldCatLink)s|%(oldCatTitle)s]]を[[:%(newCatLink)s|%(newCatTitle)s]]へと変更',
-		'category_redirect-add-template': u'ロボットによる: 保守のためカテゴリー転送テンプレートを追加',
+		'category_redirect-add-template': u'ロボットによる: 保守のためカテゴリ転送テンプレートを追加',
 		'category_redirect-edit-request': u'以下の保護されたページは、カテゴリリンクの更新が必要であると検出されました: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)sは、%(newcat)sへのリダイレクトである%(oldcat)sに入っています',
 		'category_redirect-fix-double': u'ロボットによる: 二重転送の修正',

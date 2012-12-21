@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: Xqt
 	'en': {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -116,6 +117,7 @@ msg = {
 		'category-also-in': u'(ܐܦ ܒ %(alsocat)s)',
 		'category-removing': u'ܒܘܛ: ܠܚܝܐ ܡܢ %(oldcat)s',
 		'category-was-moved': u'ܪܘܒܘܛ: ܣܕܪܐ ܐܫܬܢܝܬ ܠ [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'ܪܘܒܘܛ: ܫܢܝ ܡܢ %s. ܣܝܘ̈ܡܐ: %s',
 		'category-listifying': u'ܪܘܒܘܛ: ܚܘܝ ܡܢ %(fromcat)s (%(num)d ܡܥܠܬܐ)',
 	},
 	# Author: Jaminianurag
@@ -202,6 +204,7 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
+	# Author: Wizardist
 	'be-tarask': {
 		'category-version-history': u'Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s',
 		'category-changing': u'Робат: зьмяніў %(oldcat)s на %(newcat)s',
@@ -211,6 +214,7 @@ msg = {
 		'category-replacing': u'Робат: замена катэгорыі %(oldcat)s на %(newcat)s',
 		'category-removing': u'Робат: выдаленьне з %(oldcat)s',
 		'category-was-moved': u'Робат: катэгорыя перанесеная ў [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Робат: перанесена з %s. Аўтары: %s',
 		'category-section-title': u'Гісторыя старонкі папярэдняе %(oldcat)s',
 		'category-listifying': u'Робат: ствараецца сьпіс з %(fromcat)s (%(num)d элемэнтаў)',
 	},
@@ -592,6 +596,7 @@ msg = {
 		'category-replacing': u'Bot: Bütje kategorii %(oldcat)s ütj mä %(newcat)s',
 		'category-removing': u'Bot: Strik ütj %(oldcat)s',
 		'category-was-moved': u'Bot: Kategorii as fersköwen wurden tu [[:Kategorie:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: Fersköwen faan %s. Autooren: %s.',
 		'category-section-title': u'Wersjuunshistoore faan det ual %(oldcat)s',
 		'category-listifying': u'Bot: List faan %(fromcat)s (%(num)d iindracher)',
 	},
@@ -1320,6 +1325,7 @@ msg = {
 	},
 	# Author: Hamilton Abreu
 	# Author: Waldir
+	# Author: 555
 	'pt': {
 		'category-version-history': u'Robô: A guardar histórico de versões da antiga %(oldcat)s',
 		'category-changing': u'Robô: A modificar %(oldcat)s para %(newcat)s',
@@ -1329,7 +1335,7 @@ msg = {
 		'category-replacing': u'Robô: A substituir a categoria %(oldcat)s por %(newcat)s',
 		'category-removing': u'Robô: A remover de [[%(oldcat)s]]',
 		'category-was-moved': u'Robô: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]',
-		'category-renamed': u'Bot: Movido de %s. Autor: %s',
+		'category-renamed': u'Bot: Movido de %s. Autores: %s',
 		'category-section-title': u'Histórico de versões da antiga %(oldcat)s',
 		'category-listifying': u'Robô: A listar a partir de %(fromcat)s (%(num)d entradas)',
 	},
@@ -1346,6 +1352,7 @@ msg = {
 		'category-replacing': u'Bot: Trocando categoria %(oldcat)s por %(newcat)s',
 		'category-removing': u'Bot: Removendo de [[%(oldcat)s]]',
 		'category-was-moved': u'Bot: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: Movido de %s. Autores: %s',
 		'category-section-title': u'Histórico de edições da categoria anterior (%(oldcat)s)',
 		'category-listifying': u'Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|uma entrada|%(num)d entradas}})',
 	},

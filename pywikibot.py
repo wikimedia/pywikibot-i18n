@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -171,6 +172,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Veuillez entrer le nouveau texte:',
 		'pywikibot-enter-category-name': u'Veuillez entrer le nom de la catégorie:',
 		'pywikibot-enter-finished-browser': u'Appuyez sur Entrée une fois que vous avez fini dans le navigateur.',
+	},
+	# Author: Murma174
+	'frr': {
+		'pywikibot-enter-xml-filename': u'Du di datei-nööm faan\'t XML-dump iin:',
+		'pywikibot-enter-page-processing': u'Hün sidj skal bewerket wurd?',
+		'pywikibot-enter-file-links-processing': u'Faan hük datei-sidj skel a widjerfeerangen bewerket wurd?',
+		'pywikibot-enter-namespace-number': u'Du det numer faan di nöömrüm iin:',
+		'pywikibot-enter-new-text': u'Du di nei tekst iin:',
+		'pywikibot-enter-category-name': u'Du di nööm faan det kategorii iin:',
+		'pywikibot-enter-finished-browser': u'Trak Enter, wan di browser klaar as.',
 	},
 	# Author: Toliño
 	'gl': {
@@ -356,6 +367,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Por favor introduza o novo texto:',
 		'pywikibot-enter-category-name': u'Por favor introduza o nome da categoria:',
 		'pywikibot-enter-finished-browser': u'Pressione Enter quando terminar no navegador',
+	},
+	# Author: 555
+	'pt-br': {
+		'pywikibot-enter-xml-filename': u'Insira o nome de arquivo do dump em XML:',
+		'pywikibot-enter-page-processing': u'Qual página deve ser processada?',
+		'pywikibot-enter-file-links-processing': u'Para qual imagem os links devem ser processados?',
+		'pywikibot-enter-namespace-number': u'Insira o número de espaço nominal:',
+		'pywikibot-enter-new-text': u'Insira o novo texto:',
+		'pywikibot-enter-category-name': u'Insira o nome da categoria:',
+		'pywikibot-enter-finished-browser': u'Pressione Enter ao concluir no navegador.',
 	},
 	# Author: Minisarm
 	'ro': {

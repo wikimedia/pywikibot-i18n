@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	# Author: Xqt
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -668,7 +669,7 @@ msg = {
 	# Author: 555
 	'pt-br': {
 		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: O destino do [[Wikipedia:Redirect|redirecionamento]] cria um ciclo de redirecionamentos',
+		'redirect-remove-loop': u'Bot: O destino do redirecionamento cria um ciclo de redirecionamentos',
 		'redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo para %(to)s',
 		'redirect-remove-broken': u'Robô: Redirecionamento para uma página eliminada ou inexistente',
 		'redirect-broken-redirect-template': u'{{db-r1}}',

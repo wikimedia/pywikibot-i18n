@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},
@@ -18,6 +19,10 @@ msg = {
 	},
 	'ar': {
 		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
+	},
+	# Author: Basharh
+	'arc': {
+		'clean_sandbox-cleaned': u'ܪܘܒܘܛ: ܦܐܬܐ ܬܬܬܕܟܝܬ ܝܬܐܝܬ',
 	},
 	# Author: Xuacu
 	'ast': {

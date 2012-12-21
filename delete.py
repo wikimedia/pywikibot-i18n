@@ -3,12 +3,20 @@ msg = {
 
 
 
+
 	'en': {
 		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
 		'delete-from-file': u'Robot: Deleting a list of files.',
 		'delete-images': u'Robot: Deleting all images on page %(page)s',
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
+	},	# Author: Csisc
+	'aeb': {
+		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
+		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
+		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
+		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
+		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
 	},	# Author: Csisc
 	'aeb': {
 		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
@@ -77,6 +85,10 @@ msg = {
 		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
 		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
 		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
+	},
+	# Author: Basharh
+	'arc': {
+		'delete-from-file': u'ܪܘܒܘܛ: ܫܝܦܐ ܕܡܟܬܒܘܬܐ ܕܠܦܦ̈ܐ',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
@@ -339,7 +351,7 @@ msg = {
 	'ja': {
 		'delete-images': u'ロボットによる: ページ「%(page)s」上の画像をすべて削除',
 		'delete-referring-pages': u'ロボットによる: 「%(page)s」を参照しているページをすべて削除',
-		'delete-from-category': u'ロボットによる: カテゴリー「%(page)s」にあるページをすべて削除',
+		'delete-from-category': u'ロボットによる: カテゴリ「%(page)s」にあるページをすべて削除',
 		'delete-from-file': u'ロボットによる: ファイルのリストを削除',
 		'delete-linked-pages': u'ロボットによる: 「%(page)s」からリンクされているページをすべて削除',
 	},

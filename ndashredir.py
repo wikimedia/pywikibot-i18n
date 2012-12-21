@@ -3,9 +3,13 @@ msg = {
 
 
 
+
 	# Author: Bináris
 	'en': {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',

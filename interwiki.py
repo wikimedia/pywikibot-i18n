@@ -3,6 +3,7 @@ msg = {
 
 
 
+
 	'en': {
 		'interwiki-adding': u'Robot: Adding %(adding)s',
 		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
@@ -14,16 +15,17 @@ msg = {
 		'interwiki-removing-modifying': u'Robot: Removing %(removing)s; modifying %(modifying)s',
 	},
 	# Author: Csisc
+	# Author: Shirayuki
 	# Author: The Evil IP address
 	'qqq': {
-		'interwiki-modifying': u'Edit summary when the bot modifies interwiki(s). %(modifying)s is either an interwiki link or a comma-separated list of language codes.',
-		'interwiki-adding-modifying': u'Edit summary when the bot adds and modifies interwiki(s). %(adding)s and %(modifying)s is either an interwiki link or a comma-separated list of language codes.',
-		'interwiki-adding-removing': u'Edit summary when the bot adds and removes interwiki(s). %(adding)s and %(removing)s is either an interwiki link or a comma-separated list of language codes.',
-		'interwiki-adding-removing-modifying': u'Edit summary when the bot adds, removes and modifies interwiki(s). %(adding)s, %(removing)s and %(modifying)s is either an interwiki link or a comma-separated list of language codes.',
-		'interwiki-adding': u'Edit summary when the bot adds interwiki(s). %(adding)s is either an interwiki link or a comma-separated list of language codes.',
-		'interwiki-removing': u'Edit summary when the bot removes interwiki(s). %(removing)s is either an interwiki link or a comma-separated list of language codes.',
-		'interwiki-removing-modifying': u'Edit summary when the bot removes and modifies interwiki(s). %(removing)s and %(modifying)s is either an interwiki link or a comma-separated list of language codes.',
-		'interwiki-modifying-from': u'Edit summary when the bot modifies one interwiki link. %(from)s is an interwiki link which is modified to %(modifying)s interwiki link.',
+		'interwiki-modifying': u'Edit summary when the bot modifies interwiki(s).\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
+		'interwiki-adding-modifying': u'Edit summary when the bot adds and modifies interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
+		'interwiki-adding-removing': u'Edit summary when the bot adds and removes interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(removing)s - either an interwiki link or a comma-separated list of language codes',
+		'interwiki-adding-removing-modifying': u'Edit summary when the bot adds, removes and modifies interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(removing)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
+		'interwiki-adding': u'Edit summary when the bot adds interwiki(s).\n* %(adding)s is either an interwiki link or a comma-separated list of language codes',
+		'interwiki-removing': u'Edit summary when the bot removes interwiki(s).\n* %(removing)s - either an interwiki link or a comma-separated list of language codes',
+		'interwiki-removing-modifying': u'Edit summary when the bot removes and modifies interwiki(s).\n* %(removing)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
+		'interwiki-modifying-from': u'Edit summary when the bot modifies one interwiki link.\n* %(from)s - an interwiki link which is modified to %(modifying)s interwiki link\n* %(modifying)s - an interwiki link',
 	},	# Author: Csisc
 	'aeb': {
 		'interwiki-modifying': u'روبوت تعديل: %(modifying)s',
@@ -581,7 +583,7 @@ msg = {
 	# Author: Merlissimo
 	# Author: Murma174
 	'frr': {
-		'interwiki-modifying': u'Bot:Feranre: %(modifying)s',
+		'interwiki-modifying': u'Bot: Feranre: %(modifying)s',
 		'interwiki-adding-modifying': u'Bot:Du %(adding)s diartu; feranre: %(modifying)s',
 		'interwiki-adding-removing': u'Bot:Du %(adding)s diartu; nem %(removing)s wech',
 		'interwiki-adding-removing-modifying': u'Bot:Du %(adding)s diartu; nem %(removing)s wech; feranre: %(modifying)s',
@@ -812,15 +814,17 @@ msg = {
 		'interwiki-removing-modifying': u'Bot: Tolgo %(removing)s; modifico %(modifying)s',
 		'interwiki-modifying-from': u'Robot: Modifico %(from)s in %(modifying)s',
 	},
+	# Author: Shirayuki
+	# Author: 青子守歌
 	'ja': {
-		'interwiki-modifying': u'ロボットによる 変更: %(modifying)s',
-		'interwiki-adding-modifying': u'ロボットによる 追加: %(adding)s 変更: %(modifying)s',
-		'interwiki-adding-removing': u'ロボットによる 追加: %(adding)s 除去: %(removing)s',
-		'interwiki-adding-removing-modifying': u'ロボットによる 追加: %(adding)s 除去: %(removing)s 変更: %(modifying)s',
-		'interwiki-adding': u'ロボットによる 追加: %(adding)s',
-		'interwiki-removing': u'ロボットによる 除去: %(removing)s',
-		'interwiki-removing-modifying': u'ロボットによる 除去: %(removing)s 変更: %(modifying)s',
-		'interwiki-modifying-from': u'ロボットによる: カテゴリ変更 %(from)s→%(modifying)s',
+		'interwiki-modifying': u'ロボットによる: %(modifying)sを変更',
+		'interwiki-adding-modifying': u'ロボットによる: %(adding)sを追加、%(modifying)sを変更',
+		'interwiki-adding-removing': u'ロボットによる: %(adding)sを追加、%(removing)sを除去',
+		'interwiki-adding-removing-modifying': u'ロボットによる: %(adding)sを追加、%(removing)sを除去、%(modifying)sを変更',
+		'interwiki-adding': u'ロボットによる: %(adding)sを追加',
+		'interwiki-removing': u'ロボットによる: %(removing)sを除去',
+		'interwiki-removing-modifying': u'ロボットによる: %(removing)sを除去、%(modifying)sを変更',
+		'interwiki-modifying-from': u'ロボットによる: %(from)sから%(modifying)sへ変更',
 	},
 	# Author: NoiX180
 	'jv': {
