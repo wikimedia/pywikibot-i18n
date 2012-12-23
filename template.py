@@ -8,6 +8,7 @@ msg = {
 		'template-changing': u'Robot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-removing': u'Robot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-comma': u', ',
 	},	# Author: Csisc
 	'aeb': {
 		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
@@ -160,6 +161,7 @@ msg = {
 		'template-removing': u'ربات:حذف {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
 		'template-changing': u'ربات: تغییر {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
 		'template-substituting': u'ربات: جانشانی {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
+		'template-comma': u'، ',
 	},
 	# Author: Crt
 	'fi': {
