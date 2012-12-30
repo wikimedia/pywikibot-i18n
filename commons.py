@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
@@ -42,6 +43,11 @@ msg = {
 	'azb': {
 		'commons-file-moved': u'[[:فایل:%(localfile)s|فایل]], [[:commons:File:%(commonsfile)s|آمبار]] سایتینا کئچیریلدی.',
 		'commons-file-now-available': u'فایل ایندی [[:commons:File:%(commonsfile)s|آمبار ویکی‌مئدیا]] دا واردیر.',
+	},
+	# Author: Haqmar
+	'ba': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Файл]] [[:commons:File:%(commonsfile)s|Commons-ҡа]] күсерелгән.',
+		'commons-file-now-available': u'Был файлды [[:commons:File:%(commonsfile)s|Commons]]-та ҡарарға мөмкин.',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -219,6 +225,11 @@ msg = {
 		'commons-file-moved': u'[[:Berkas:%(localfile)s|Berkas]] dipindhahaké nèng [[:commons:Berkas:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Berkas saiki wis sumadhiya nèng [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: 아라
+	'ko': {
+		'commons-file-moved': u'[[:File:%(localfile)s|파일]]을 [[:commons:File:%(commonsfile)s|공용]]으로 옮겼습니다.',
+		'commons-file-now-available': u'파일은 이제 [[:commons:File:%(commonsfile)s|위키미디어 공용]]에 사용할 수 있습니다.',
+	},
 	# Author: Purodha
 	'ksh': {
 		'commons-file-moved': u'Di Dattei [[:File:%(localfile)s|File]] wood op [[:commons:File:%(commonsfile)s|Wikimedia Commons]] jelaat.',
@@ -358,6 +369,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] prestavljena v [[:commons:File:%(commonsfile)s|Zbirko]].',
 		'commons-file-now-available': u'Datoteka je odslej na razpolago v [[:commons:File:%(commonsfile)s|Wikimedijini Zbirki]].',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] u wareeji [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'File aan laga heli karin [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Euriditi
 	'sq': {
 		'commons-file-moved': u'[[:Skeda:%(localfile)s|Skeda]] u zhvendos tek [[:commons:File:%(commonsfile)s|commons]].',
@@ -439,6 +455,10 @@ msg = {
 	'yi': {
 		'commons-file-moved': u'[[:File:%(localfile)s|טעקע]] באוועגט צו [[:commons:File:%(commonsfile)s|קאמאנס]].',
 		'commons-file-now-available': u'מען קען דערגרייכן די טעקע אצינד ביי [[:commons:File:%(commonsfile)s|וויקימעדיע קאמאנס]].',
+	},
+	# Author: Demmy
+	'yo': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Fáìlì]] ti jẹ́ yíyípòpadà sí [[:commons:File:%(commonsfile)s|commons]].',
 	},
 	# Author: Hydra
 	'zh': {

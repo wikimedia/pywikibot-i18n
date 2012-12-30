@@ -4,8 +4,12 @@ msg = {
 
 
 
+
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
+	},	# Author: Csisc
+	'aeb': {
+		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
@@ -54,6 +58,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'fixing_redirects-fixing': u'بوت: ایستیقامت‌لندیرمه‌لر دوزلدیلدی',
+	},
+	# Author: Sagan
+	'ba': {
+		'fixing_redirects-fixing': u'Робот: йүнәлтеүҙәрҙе төҙәтеү',
 	},
 	# Author: Jim-by
 	'be-tarask': {
@@ -182,6 +190,14 @@ msg = {
 	'jv': {
 		'fixing_redirects-fixing': u'Bot: Mbeneraké pangalihan',
 	},
+	# Author: Akoppad
+	'kn': {
+		'fixing_redirects-fixing': u'ಬೋಟ್: ಸ್ಥಿರೀಕರಿಸುವ ಪುನರ್ನಿರ್ದೇಶನಗಳು',
+	},
+	# Author: 아라
+	'ko': {
+		'fixing_redirects-fixing': u'봇: 넘겨주기 고침',
+	},
 	# Author: Purodha
 	'ksh': {
 		'fixing_redirects-fixing': u'Bot: Ömleidong repareere.',
@@ -225,6 +241,10 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'fixing_redirects-fixing': u'Бот: Поправа пренасочувања',
+	},
+	# Author: Praveenp
+	'ml': {
+		'fixing_redirects-fixing': u'യന്ത്രം: തിരിച്ചുവിടലുകൾ ശരിയാക്കുന്നു',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -276,6 +296,10 @@ msg = {
 	'ru': {
 		'fixing_redirects-fixing': u'бот: исправление перенаправлений',
 	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'fixing_redirects-fixing': u'රොබෝ: යළියොමු සවි කරමින්',
+	},
 	# Author: Teslaton
 	'sk': {
 		'fixing_redirects-fixing': u'Robot opravil presmerovania',
@@ -283,6 +307,10 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'fixing_redirects-fixing': u'Bot: Popravljanje preusmeritev',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'fixing_redirects-fixing': u'Bot: Hagaajinta rogeyaasha',
 	},
 	# Author: Euriditi
 	'sq': {
@@ -334,6 +362,10 @@ msg = {
 	# Author: A1
 	'uk': {
 		'fixing_redirects-fixing': u'Бот: Виправлення перенаправлень',
+	},
+	# Author: CoderSI
+	'uz': {
+		'fixing_redirects-fixing': u'Bot: Qayta yo‘naltirishlar to‘g‘rilanishi',
 	},
 	# Author: Alunardon90
 	'vec': {

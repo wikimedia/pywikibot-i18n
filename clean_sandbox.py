@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},
@@ -35,6 +36,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'clean_sandbox-cleaned': u'بوت: آوتوماتیک اولاراق تمیزلندی',
+	},
+	# Author: Haqmar
+	'ba': {
+		'clean_sandbox-cleaned': u'Робот: автоматик юйылған',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -173,8 +178,9 @@ msg = {
 	'jv': {
 		'clean_sandbox-cleaned': u'Bot: Diresiki sacara otomatis',
 	},
+	# Author: 아라
 	'ko': {
-		'clean_sandbox-cleaned': u'로봇: 연습장 비움',
+		'clean_sandbox-cleaned': u'로봇: 연습장을 자동으로 비움',
 	},
 	'ksh': {
 		'clean_sandbox-cleaned': u'Bot: allt Zeush fott gedunn.',
@@ -202,6 +208,10 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'clean_sandbox-cleaned': u'Робот: Чистење на песокот',
+	},
+	# Author: Praveenp
+	'ml': {
+		'clean_sandbox-cleaned': u'യന്ത്രം: സ്വയം വൃത്തിയാക്കി',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -269,6 +279,10 @@ msg = {
 	'sl': {
 		'clean_sandbox-cleaned': u'Robot: Samodejno čiščenje',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'clean_sandbox-cleaned': u'Bot: Bogaan iskeed ay isku tirtiri',
+	},
 	# Author: Euriditi
 	'sq': {
 		'clean_sandbox-cleaned': u'Roboti: Pastrim automatik',
@@ -322,6 +336,10 @@ msg = {
 	# Author: Тест
 	'uk': {
 		'clean_sandbox-cleaned': u'Робот: Автоматична очистка',
+	},
+	# Author: CoderSI
+	'uz': {
+		'clean_sandbox-cleaned': u'Bot: Qumloqni tozalash',
 	},
 	# Author: Alunardon90
 	# Author: GatoSelvadego

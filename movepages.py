@@ -4,8 +4,12 @@ msg = {
 
 
 
+
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
+	},	# Author: Csisc
+	'aeb': {
+		'movepages-moving': u'روبوت: نقل الصفحة',
 	},	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
@@ -50,6 +54,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'movepages-moving': u'بوت:صحیفه داشیندی',
+	},
+	# Author: Sagan
+	'ba': {
+		'movepages-moving': u'Робот: биттең исемен үҙгәртеү',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -174,6 +182,14 @@ msg = {
 	'jv': {
 		'movepages-moving': u'Bot: Mindhahaké kaca',
 	},
+	# Author: Akoppad
+	'kn': {
+		'movepages-moving': u'ರೋಬೋಟ್: ಸರಿಸಲಾದ ಪುಟ',
+	},
+	# Author: 아라
+	'ko': {
+		'movepages-moving': u'로봇: 문서 이동함',
+	},
 	# Author: Purodha
 	'ksh': {
 		'movepages-moving': u'Bot: di Sigg wood ömjenannt',
@@ -209,6 +225,10 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'movepages-moving': u'Робот: Преместена страницата',
+	},
+	# Author: Praveenp
+	'ml': {
+		'movepages-moving': u'യന്ത്രം: താൾ മാറ്റി',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -264,6 +284,10 @@ msg = {
 	'ru': {
 		'movepages-moving': u'переименование страницы при помощи бота',
 	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'movepages-moving': u'රොබෝ: පිටුව ගෙනයන ලදී',
+	},
 	# Author: Wizzard
 	'sk': {
 		'movepages-moving': u'Robot presunul stránku',
@@ -271,6 +295,10 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'movepages-moving': u'Robot: Prestavil stran',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'movepages-moving': u'Bot: Bog la wareejiyey',
 	},
 	# Author: Euriditi
 	'sq': {

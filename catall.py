@@ -4,8 +4,12 @@ msg = {
 
 
 
+
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
+	},	# Author: Csisc
+	'aeb': {
+		'catall-changing': u'بوت: تغيير التصنيفات',
 	},	# Author: Csisc
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
@@ -54,6 +58,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'catall-changing': u'روبات:بؤلمه دَییشدیریر',
+	},
+	# Author: Haqmar
+	'ba': {
+		'catall-changing': u'Робот: категория үҙгәртеү',
 	},
 	# Author: Jim-by
 	'be-tarask': {
@@ -181,6 +189,14 @@ msg = {
 	'kab': {
 		'catall-changing': u'Aṛubut: Azdam taggayin',
 	},
+	# Author: Akoppad
+	'kn': {
+		'catall-changing': u'ರೋಬೋಟ್:   ವರ್ಗಗಳನ್ನು  ಬದಲಾಯಿಸುವುದು',
+	},
+	# Author: 아라
+	'ko': {
+		'catall-changing': u'로봇: 분류를 바꿈',
+	},
 	'ksh': {
 		'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',
 	},
@@ -215,6 +231,10 @@ msg = {
 	'mk': {
 		'catall-changing': u'Робот: Менува категории',
 	},
+	# Author: Praveenp
+	'ml': {
+		'catall-changing': u'യന്ത്രം: വർഗ്ഗങ്ങളിൽ മാറ്റം വരുത്തുന്നു',
+	},
 	# Author: Anakmalaysia
 	'ms': {
 		'catall-changing': u'Robot: Menukar kategori',
@@ -230,6 +250,10 @@ msg = {
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'catall-changing': u'रोबोट : श्रेणीहरु बदल्दै',
+	},
+	# Author: Eukesh
+	'new': {
+		'catall-changing': u'रोबोट:पुचः हिलाछ्वःगु',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -273,6 +297,14 @@ msg = {
 	'ru': {
 		'catall-changing': u'бот: изменение категорий',
 	},
+	# Author: Hemant wikikosh1
+	'sa': {
+		'catall-changing': u'कारुयन्त्रम् : वर्गान् परिवर्तयति',
+	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'catall-changing': u'රොබෝ: ප්‍රවර්ගයන් වෙනස් කරමින්',
+	},
 	# Author: Teslaton
 	'sk': {
 		'catall-changing': u'Robot: Zmena kategórií',
@@ -280,6 +312,10 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'catall-changing': u'Robot: Spreminjanje kategorij',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'catall-changing': u'Bot: Badala qaybaha',
 	},
 	# Author: Euriditi
 	'sq': {
@@ -344,6 +380,10 @@ msg = {
 	'uk': {
 		'catall-changing': u'Бот: Зміна категорій',
 	},
+	# Author: CoderSI
+	'uz': {
+		'catall-changing': u'Bot: Turkumlarni oʻzgartirish',
+	},
 	# Author: Alunardon90
 	'vec': {
 		'catall-changing': u'Robot: Canbio categorie',
@@ -363,6 +403,10 @@ msg = {
 	# Author: פוילישער
 	'yi': {
 		'catall-changing': u'באט: ענדערן קאטעגאריעס',
+	},
+	# Author: Demmy
+	'yo': {
+		'catall-changing': u'Bot: Únṣeàyípadà àwọn ẹ̀ka',
 	},
 	# Author: Yfdyh000
 	'zh': {

@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'isbn-formatting': u'Robot: Formatting ISBN',
 	},
@@ -41,6 +42,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'isbn-formatting': u'بوت:شابک‌لری ایستاندارد ائتمک',
+	},
+	# Author: Sagan
+	'ba': {
+		'isbn-formatting': u'Робот: ISBN үҙгәртеү',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -91,6 +96,10 @@ msg = {
 	# Author: Dontlietome7
 	'cs': {
 		'isbn-formatting': u'Robot: Formátování ISBN',
+	},
+	# Author: Salam
+	'cv': {
+		'isbn-formatting': u'робот: ISBN улӑштарни',
 	},
 	# Author: Lloffiwr
 	# Author: Xxglennxx
@@ -220,6 +229,10 @@ msg = {
 	'jv': {
 		'isbn-formatting': u'Bot: Mormat ISBN',
 	},
+	# Author: 아라
+	'ko': {
+		'isbn-formatting': u'로봇: ISBN 형식 지정',
+	},
 	# Author: Purodha
 	'ksh': {
 		'isbn-formatting': u'Bot: ISBN zerääsch jemaat.',
@@ -263,6 +276,10 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'isbn-formatting': u'Робот: Форматирам ISBN',
+	},
+	# Author: Praveenp
+	'ml': {
+		'isbn-formatting': u'യന്ത്രം: ഐ.എസ്.ബി.എൻ. ശൈലി ശരിയാക്കുന്നു',
 	},
 	# Author: Htt
 	'mr': {
@@ -357,6 +374,10 @@ msg = {
 	'sl': {
 		'isbn-formatting': u'Robot: Oblikovanje ISBN',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'isbn-formatting': u'Bot: Habayn ISBN',
+	},
 	# Author: Vinie007
 	'sq': {
 		'isbn-formatting': u'Robot: ISBN Formatimi',
@@ -416,6 +437,10 @@ msg = {
 	# Author: Тест
 	'uk': {
 		'isbn-formatting': u'Робот: Форматування ISBN',
+	},
+	# Author: CoderSI
+	'uz': {
+		'isbn-formatting': u'Bot: ISBNni formatlash',
 	},
 	# Author: Alunardon90
 	# Author: GatoSelvadego

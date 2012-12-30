@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'editarticle-edit': u'Manual edit with robot: %(description)s',
 	},
@@ -33,6 +34,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'editarticle-edit': u'بوت حسابیندان الله تنزیمله‌مه: %(description)s',
+	},
+	# Author: Sagan
+	'ba': {
+		'editarticle-edit': u'Робот ярҙамында ҡулдан мөхәррирләү: %(description)s',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -167,6 +172,10 @@ msg = {
 	'jv': {
 		'editarticle-edit': u'Sunting manual mawa bot: %(description)s',
 	},
+	# Author: 아라
+	'ko': {
+		'editarticle-edit': u'로봇으로 수동 편집: %(description)s',
+	},
 	# Author: Purodha
 	'ksh': {
 		'editarticle-edit': u'Vun Hand mem Botprojramm jeändert: %(description)s',
@@ -195,6 +204,10 @@ msg = {
 	# Author: Rancher
 	'mk': {
 		'editarticle-edit': u'Рачно уредување со робот: %(description)s',
+	},
+	# Author: Praveenp
+	'ml': {
+		'editarticle-edit': u'യന്ത്രം ഉപയോഗിച്ച് ഉപയോക്താവ് ചെയ്ത തിരുത്തൽ:  %(description)s',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -263,6 +276,10 @@ msg = {
 	'sl': {
 		'editarticle-edit': u'Ročno urejanje z botom: %(description)s',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'editarticle-edit': u'Gacan ku badal Bot ah: %(description)s',
+	},
 	# Author: Euriditi
 	'sq': {
 		'editarticle-edit': u'Redaktim manual me robot: %(description)s',
@@ -309,6 +326,10 @@ msg = {
 	# Author: Dim Grits
 	'uk': {
 		'editarticle-edit': u'Ручне редагування за допомогою бота: %(description)s',
+	},
+	# Author: CoderSI
+	'uz': {
+		'editarticle-edit': u'Bot yordamida qoʻlda tahrirlash: %(description)s',
 	},
 	# Author: Alunardon90
 	# Author: Candalua

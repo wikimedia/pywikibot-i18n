@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
 		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -85,6 +86,15 @@ msg = {
 		'category_redirect-edit-request': u'موحافیزه آلتینداکی بو صحیفه‌لردکی کاتئقوریا باغلانتی‌لاری‌نین یئنیلمه گئرئکتیردیغی بل‌لی اولموش‌دور: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s، %(newcat)sده ایستیقامتلندیریلن %(oldcat)sعده',
 		'category_redirect-fix-double': u'بوت: ایکی‌قات ایستیقامتلندیرمه دوزلدیریلیر',
+	},
+	# Author: Haqmar
+	'ba': {
+		'category_redirect-comment': u'Категорияларҙы йүнәлтеү хеҙмәтен башҡарыусы робот',
+		'category_redirect-change-category': u'Робот: йүнәлтелгән [[:%(oldCatLink)s|%(oldCatTitle)s]] категорияһын  [[:%(newCatLink)s|%(newCatTitle)s]] категорияһына үҙгәртеү',
+		'category_redirect-add-template': u'Робот: категория йүнәлтеү ҡалыбын хеҙмәтләндереү өсөн өҫтәү',
+		'category_redirect-edit-request': u'Түбәндәге һаҡланған биттәр категорияларҙың һылтанмаларын яңыртыуҙы һорай: %(itemlist)s',
+		'category_redirect-edit-request-item': u'%(title)s, %(newcat)s категорияһына йүнәлтеү булған %(oldcat)s эсендә',
+		'category_redirect-fix-double': u'Робот: Икеле йүнәлтеүҙе төҙәтеү',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -236,10 +246,12 @@ msg = {
 		'category_redirect-fix-double': u'Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης',
 	},
 	# Author: Airon90
+	# Author: Blahma
 	'eo': {
 		'category_redirect-comment': u'Zorga roboto pri kategoria alidirekto',
 		'category_redirect-change-category': u'Roboto: ŝanĝi alidirektan kategorion [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Roboto: aldonanta ŝablonon pri alidirekta kategorio por prizorgado',
+		'category_redirect-edit-request': u'Jenaj protektitaj paĝoj evidente bezonas ĝisdatigon de kategoriaj ligiloj: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s estas en %(oldcat)s, kiu estas alidirekto al %(newcat)s',
 		'category_redirect-fix-double': u'Roboto: Riparis duoblan alidirekton',
 	},
@@ -455,8 +467,18 @@ msg = {
 	'kk-cyrl': {
 		'category_redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті',
 	},
+	# Author: Akoppad
+	'kn': {
+		'category_redirect-comment': u'ಪೋಷಣೆ ರೋಬೋಟ್ ನಿಂದ ವರ್ಗದ ಮರುನಿರ್ದೇಶನ',
+	},
+	# Author: 아라
 	'ko': {
-		'category_redirect-fix-double': u'로봇: 이중 넘겨주기 수정',
+		'category_redirect-comment': u'분류 넘겨주기 유지 보수 로봇',
+		'category_redirect-change-category': u'로봇: [[:%(oldCatLink)s|%(oldCatTitle)s]]에서 [[:%(newCatLink)s|%(newCatTitle)s]](으)로 넘겨주기된 분류를 바꿈',
+		'category_redirect-add-template': u'로봇: 유지 보스에 대한 분류 넘겨주기 틀 추가',
+		'category_redirect-edit-request': u'다음 보호된 문서는 분류 링크 업데이트가 필요하다고 감지했습니다: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s(은)는 %(newcat)s(으)로 넘겨주기한 %(oldcat)s에 속해 있습니다',
+		'category_redirect-fix-double': u'로봇: 이중 넘겨주기 고침',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -534,6 +556,11 @@ msg = {
 	},
 	# Author: Praveenp
 	'ml': {
+		'category_redirect-comment': u'വർഗ്ഗം തിരിച്ചുവിടൽ പരിപാലന യന്ത്രം',
+		'category_redirect-change-category': u'യന്ത്രം: തിരിച്ചുവിടപ്പെട്ട [[:%(oldCatLink)s|%(oldCatTitle)s]]  എന്ന വർഗ്ഗം  [[:%(newCatLink)s|%(newCatTitle)s]]  എന്നാക്കി മാറ്റി',
+		'category_redirect-add-template': u'യന്ത്രം: പരിപാലനത്തിനായി വർഗ്ഗ തിരിച്ചുവിടൽ ഫലകം കൂട്ടിച്ചേർക്കുന്നു',
+		'category_redirect-edit-request': u'വർഗ്ഗ കണ്ണികളിലേയ്ക്ക് പുതുക്കലുകളാവശ്യമുള്ള പഴയ സംരക്ഷിക്കപ്പെട്ട താളുകൾ കാണാനിടയായി:  %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s ഉള്ളത് %(oldcat)s-ൽ ആണ്, അതാകട്ടെ %(newcat)s എന്നതിലേക്ക് തിരിച്ചുവിടപ്പെട്ടിരിക്കുന്നു',
 		'category_redirect-fix-double': u'യന്ത്രം: ഇരട്ട-തിരിച്ചുവിടലുകൾ ശരിയാക്കുന്നു',
 	},
 	# Author: Anakmalaysia
@@ -692,6 +719,15 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s je v %(oldcat)s, ki je preusmeritev na %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Popravljanje dvojnih preusmeritev',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'category_redirect-comment': u'Bot Qaybta dayactirka rogeha',
+		'category_redirect-change-category': u'Bot: Badalaha qaybta la rogogay [[:%(oldCatLink)s|%(oldCatTitle)s]] ee ku [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Bot: ku dar qayb roge template ee tayactir',
+		'category_redirect-edit-request': u'Bogagaan soo socda ee qarsoonaa waa la muujiyey si in loo baahanyahay dib u howl galinta xiriirka qaybta: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s ku %(oldcat)s, waxa uu ubadalaa %(newcat)s',
+		'category_redirect-fix-double': u'Bot: Hagaajin roge laba jiba-laaban',
+	},
 	# Author: Vinie007
 	'sq': {
 		'category_redirect-comment': u'Kategoria përcjellëse të mirëmbajtjes bot',
@@ -820,6 +856,10 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s є в %(oldcat)s, яка є перенаправленням на %(newcat)s',
 		'category_redirect-fix-double': u'Робот: виправлення подвійного перенаправлення',
 	},
+	# Author: CoderSI
+	'uz': {
+		'category_redirect-fix-double': u'Bot: Ikkilik qayta yoʻnaltirishlarni toʻgʻrilash',
+	},
 	# Author: Alunardon90
 	# Author: Candalua
 	# Author: GatoSelvadego
@@ -851,6 +891,11 @@ msg = {
 		'category_redirect-edit-request': u'די פאלגנדע געשיצטע בלעטער פאדערן דערהיינטיקן די קאטעגאריע לינקען: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s געפינט זיך אין %(oldcat)s, וואס פירט ווײַטער צו %(newcat)s',
 		'category_redirect-fix-double': u'באט: פארראכטן פארטאפלטע ווייטערפירונג',
+	},
+	# Author: Demmy
+	'yo': {
+		'category_redirect-comment': u'Bọt tó únṣètọ́jú àtúnjúwe ẹ̀ka',
+		'category_redirect-change-category': u'Bot: Ìyípadà ẹ̀ka alátùnhúnjúwe [[:%(oldCatLink)s|%(oldCatTitle)s]] sí [[:%(newCatLink)s|%(newCatTitle)s]]',
 	},
 	# Author: Liangent
 	# Author: Yfdyh000

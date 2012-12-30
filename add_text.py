@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'add_text-adding': u'Robot: Adding %(adding)s',
 	},
@@ -52,8 +53,9 @@ msg = {
 	'azb': {
 		'add_text-adding': u'بوت رئداکته‌سی علاوه‌‌ ائدیلدی %(adding)s',
 	},
+	# Author: Haqmar
 	'ba': {
-		'add_text-adding': u'робот өҫтәне %(adding)s',
+		'add_text-adding': u'Робот өҫтәне: %(adding)s',
 	},
 	'bar': {
 		'add_text-adding': u'Boterl: Aini %(adding)s',
@@ -283,8 +285,9 @@ msg = {
 	'km': {
 		'add_text-adding': u'រ៉ូបូ បន្ថែម %(adding)s',
 	},
+	# Author: 아라
 	'ko': {
-		'add_text-adding': u'로봇이 더함 %(adding)s',
+		'add_text-adding': u'로봇: %(adding)s 추가',
 	},
 	'koi': {
 		'add_text-adding': u'робот содтiс %(adding)s',
@@ -501,6 +504,10 @@ msg = {
 	'rw': {
 		'add_text-adding': u'Roboti Guterana %(adding)s',
 	},
+	# Author: Hemant wikikosh1
+	'sa': {
+		'add_text-adding': u'कारुयन्त्रम् : योजयति %(adding)s',
+	},
 	'sah': {
 		'add_text-adding': u'робот эптэ %(adding)s',
 	},
@@ -519,6 +526,10 @@ msg = {
 	},
 	'sl': {
 		'add_text-adding': u'robot Dodajanje %(adding)s',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'add_text-adding': u'Bot: dheeraad ah %(adding)s',
 	},
 	# Author: FatosMorina
 	'sq': {

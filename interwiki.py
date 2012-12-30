@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'interwiki-adding': u'Robot: Adding %(adding)s',
 		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
@@ -21,13 +22,13 @@ msg = {
 	'qqq': {
 		'interwiki-modifying': u'Edit summary when the bot modifies interwiki(s).\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
 		'interwiki-adding-modifying': u'Edit summary when the bot adds and modifies interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
+		'interwiki-comma': u'Localized comma character with a trailing space',
 		'interwiki-adding-removing': u'Edit summary when the bot adds and removes interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(removing)s - either an interwiki link or a comma-separated list of language codes',
 		'interwiki-adding-removing-modifying': u'Edit summary when the bot adds, removes and modifies interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(removing)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
 		'interwiki-adding': u'Edit summary when the bot adds interwiki(s).\n* %(adding)s is either an interwiki link or a comma-separated list of language codes',
 		'interwiki-removing': u'Edit summary when the bot removes interwiki(s).\n* %(removing)s - either an interwiki link or a comma-separated list of language codes',
 		'interwiki-removing-modifying': u'Edit summary when the bot removes and modifies interwiki(s).\n* %(removing)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes',
 		'interwiki-modifying-from': u'Edit summary when the bot modifies one interwiki link.\n* %(from)s - an interwiki link which is modified to %(modifying)s interwiki link\n* %(modifying)s - an interwiki link',
-		'interwiki-comma': u'Localized comma character with a trailing space',
 	},	# Author: Csisc
 	'aeb': {
 		'interwiki-modifying': u'روبوت تعديل: %(modifying)s',
@@ -160,14 +161,16 @@ msg = {
 		'interwiki-removing-modifying': u'بوت رئداکته‌سی چیخاردیلیر: %(removing)s دییشدیریلیر: %(modifying)s',
 		'interwiki-modifying-from': u'بوت:%(from)s %(modifying)s اولاراق ديَیشدیریلیر',
 	},
+	# Author: Haqmar
 	'ba': {
 		'interwiki-modifying': u'робот үҙгәртте: %(modifying)s',
-		'interwiki-adding-modifying': u'робот өҫтәне: %(adding)s үҙгәртте: %(modifying)s',
-		'interwiki-adding-removing': u'робот өҫтәне: %(adding)s юйҙы: %(removing)s',
-		'interwiki-adding-removing-modifying': u'робот өҫтәне: %(adding)s юйҙы: %(removing)s үҙгәртте: %(modifying)s',
+		'interwiki-adding-modifying': u'робот өҫтәне: %(adding)s; үҙгәртте: %(modifying)s',
+		'interwiki-adding-removing': u'робот өҫтәне: %(adding)s; юйҙы: %(removing)s',
+		'interwiki-adding-removing-modifying': u'робот өҫтәне: %(adding)s; юйҙы: %(removing)s; үҙгәртте: %(modifying)s',
 		'interwiki-adding': u'робот өҫтәне: %(adding)s',
 		'interwiki-removing': u'робот юйҙы: %(removing)s',
-		'interwiki-removing-modifying': u'робот юйҙы: %(removing)s үҙгәртте: %(modifying)s',
+		'interwiki-removing-modifying': u'робот юйҙы: %(removing)s; үҙгәртте: %(modifying)s',
+		'interwiki-modifying-from': u'робот  %(from)s интервикиһын %(modifying)s тип үҙгәртте',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -592,7 +595,7 @@ msg = {
 		'interwiki-adding': u'Bot:Du %(adding)s diartu',
 		'interwiki-removing': u'Bot:Nem %(removing)s wech',
 		'interwiki-removing-modifying': u'Bot:Nem %(removing)s wech; Feranre: %(modifying)s',
-		'interwiki-modifying-from': u'Feranere %(from)s tu %(modifying)s',
+		'interwiki-modifying-from': u'Feranre %(from)s tu %(modifying)s',
 	},
 	'fur': {
 		'interwiki-modifying': u'Robot: o gjavi: %(modifying)s',
@@ -893,14 +896,16 @@ msg = {
 		'interwiki-removing': u'រ៉ូបូ ដកចេញ: %(removing)s',
 		'interwiki-removing-modifying': u'រ៉ូបូ ដកចេញ: %(removing)s កែសំរួល: %(modifying)s',
 	},
+	# Author: 아라
 	'ko': {
-		'interwiki-modifying': u'로봇이 바꿈: %(modifying)s',
-		'interwiki-adding-modifying': u'로봇이 더함: %(adding)s 바꿈: %(modifying)s',
-		'interwiki-adding-removing': u'로봇이 더함: %(adding)s 지움: %(removing)s',
-		'interwiki-adding-removing-modifying': u'로봇이 더함: %(adding)s 지움: %(removing)s 바꿈: %(modifying)s',
-		'interwiki-adding': u'로봇이 더함: %(adding)s',
-		'interwiki-removing': u'로봇이 지움: %(removing)s',
-		'interwiki-removing-modifying': u'로봇이 지움: %(removing)s 바꿈: %(modifying)s',
+		'interwiki-modifying': u'로봇: %(modifying)s 바꿈',
+		'interwiki-adding-modifying': u'로봇: %(adding)s 추가, %(modifying)s 바꿈',
+		'interwiki-adding-removing': u'로봇: %(adding)s 추가, %(removing)s 지움',
+		'interwiki-adding-removing-modifying': u'로봇: %(adding)s 추가, %(removing)s 지움, %(modifying)s 바꿈',
+		'interwiki-adding': u'로봇: %(adding)s 추가',
+		'interwiki-removing': u'로봇: %(removing)s 지움',
+		'interwiki-removing-modifying': u'로봇: %(removing)s 지움, %(modifying)s 바꿈',
+		'interwiki-modifying-from': u'로봇: %(from)s에서 %(modifying)s(으)로 바꿈',
 	},
 	'koi': {
 		'interwiki-modifying': u'робот мöдкодьсьöтiс: %(modifying)s',
@@ -1164,6 +1169,7 @@ msg = {
 		'interwiki-removing-modifying': u'Робот: Брише %(removing)s; менува %(modifying)s',
 		'interwiki-modifying-from': u'Робот: Ја менувам %(from)s во %(modifying)s',
 	},
+	# Author: Praveenp
 	'ml': {
 		'interwiki-modifying': u'യന്ത്രം പുതുക്കുന്നു: %(modifying)s',
 		'interwiki-adding-modifying': u'യന്ത്രം ചേര്‍ക്കുന്നു: %(adding)s പുതുക്കുന്നു: %(modifying)s',
@@ -1172,6 +1178,7 @@ msg = {
 		'interwiki-adding': u'യന്ത്രം ചേര്‍ക്കുന്നു: %(adding)s',
 		'interwiki-removing': u'യന്ത്രം നീക്കുന്നു: %(removing)s',
 		'interwiki-removing-modifying': u'യന്ത്രം നീക്കുന്നു: %(removing)s പുതുക്കുന്നു: %(modifying)s',
+		'interwiki-modifying-from': u'യന്ത്രം: %(from)s എന്നത് %(modifying)s എന്നാക്കി മാറ്റുന്നു',
 	},
 	'mn': {
 		'interwiki-modifying': u'робот Өөрчилж байна: %(modifying)s',
@@ -1632,6 +1639,17 @@ msg = {
 		'interwiki-removing': u'robot Odstranjevanje: %(removing)s',
 		'interwiki-removing-modifying': u'robot Odstranjevanje: %(removing)s Spreminjanje: %(modifying)s',
 		'interwiki-modifying-from': u'Robot: Spreminjanje %(from)s v %(modifying)s',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'interwiki-modifying': u'Bot: Badalid %(modifying)s',
+		'interwiki-adding-modifying': u'Bot: Dheeraad %(adding)s; Badalid %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Dheeraad %(adding)s;tirtiris: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Dheeraad %(adding)s; Ka saaris %(removing)s; Badalid %(modifying)s',
+		'interwiki-adding': u'Bot: dheeraad %(adding)s',
+		'interwiki-removing': u'Bot: Ka saaris %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Jar %(removing)s; Badalid %(modifying)s',
+		'interwiki-modifying-from': u'Boot: U %(from)s Badalid %(modifying)s',
 	},
 	# Author: Euriditi
 	'sq': {

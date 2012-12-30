@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
 		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
@@ -96,6 +97,16 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(بیلینمیر)',
 		'solve_disambiguation-links-removed': u'بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) گؤتورولدو',
 	},
+	# Author: Haqmar
+	'ba': {
+		'solve_disambiguation-redirect-removed': u'Бот ярҙамында мәғәнә айырыу: %(from)s — һылтанмалар юйыу',
+		'solve_disambiguation-redirect-resolved': u'Бот ярҙамында мәғәнә айырыу: %(from)s - һылтанма(лар) үҙгәртелде: %(to)s',
+		'solve_disambiguation-links-resolved': u'Бот ярҙамында мәғәнә айырыу:  %(from)s - һылтанма(лар) үҙгәртелде: %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Бот ярҙамында мәғәнә айырыу: %(from)s - эксперт иғтибары кәрәк тип билдәләнде',
+		'solve_disambiguation-adding-dn-template': u'Бот ярҙамында мәғәнә айырыу: %(from)s - эксперт иғтибары кәрәк тип билдәләнде',
+		'solve_disambiguation-unknown-page': u'(билдәһеҙ)',
+		'solve_disambiguation-links-removed': u'Бот ярҙамында мәғәнә айырыу: %(from)s — һылтанма(лар) юйылды.',
+	},
 	# Author: Mucalexx
 	'bar': {
 		'solve_disambiguation-redirect-removed': u'Bot-unterstytzde Weiderloattungsauflésung: %(from)s - Link(s) entfernd',
@@ -184,6 +195,10 @@ msg = {
 		'solve_disambiguation-adding-dn-template': u'Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka',
 		'solve_disambiguation-unknown-page': u'(neznámé)',
 		'solve_disambiguation-links-removed': u'Odstranění linku na rozcestník [[%(from)s]] s použitím robota - Odstraněn(y) odkaz(y)',
+	},
+	# Author: Salam
+	'cv': {
+		'solve_disambiguation-unknown-page': u'(паллӑ мар)',
 	},
 	# Author: Lloffiwr
 	# Author: Xxglennxx
@@ -503,12 +518,15 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(មិនស្គាល់)',
 	},
 	# Author: Ricolyuki
+	# Author: 아라
 	'ko': {
-		'solve_disambiguation-redirect-removed': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - 링크 제거',
-		'solve_disambiguation-redirect-resolved': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - %(to)s 문서로 링크 걸음',
-		'solve_disambiguation-links-resolved': u'로봇의 도움을 받아 동음이의 처리 : [[%(from)s]] - %(to)s 문서로 링크 걸음',
+		'solve_disambiguation-redirect-removed': u'로봇의 도움을 받아 동음이의 처리: %(from)s - 링크 제거',
+		'solve_disambiguation-redirect-resolved': u'로봇의 도움을 받아 동음이의 처리: %(from)s - %(to)s 문서로 링크 바꿈',
+		'solve_disambiguation-links-resolved': u'로봇의 도움을 받아 동음이의 처리: %(from)s - %(to)s 문서로 링크 바꿈',
+		'solve_disambiguation-redirect-adding-dn-template': u'로봇의 도움을 받아 동음이의 처리: %(from)s - 전문가의 검사가 필요로 표시함',
+		'solve_disambiguation-adding-dn-template': u'로봇의 도움을 받아 동음이의 처리: %(from)s - 전문가의 검사가 필요로 표시함',
 		'solve_disambiguation-unknown-page': u'(알 수 없음)',
-		'solve_disambiguation-links-removed': u'로봇의 도움을 받아 동음이의 처리: [[%(from)s]] - 링크 제거',
+		'solve_disambiguation-links-removed': u'로봇의 도움을 받아 동음이의 처리: %(from)s - 링크를 제거했습니다.',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -605,7 +623,13 @@ msg = {
 	},
 	# Author: Praveenp
 	'ml': {
+		'solve_disambiguation-redirect-removed': u'യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണികൾ നീക്കം ചെയ്തിരിക്കുന്നു',
+		'solve_disambiguation-redirect-resolved': u'യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണികൾ %(to)s എന്നതിലേക്ക് മാറ്റി',
+		'solve_disambiguation-links-resolved': u'യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണികൾ %(to)s എന്നതിലേക്ക് മാറ്റി',
+		'solve_disambiguation-redirect-adding-dn-template': u'യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - വിദഗ്ദ്ധ ശ്രദ്ധ ആവശ്യമുണ്ടെന്ന് അടയാളപ്പെടുത്തി',
+		'solve_disambiguation-adding-dn-template': u'യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - വിദഗ്ദ്ധ ശ്രദ്ധ ആവശ്യമുണ്ടെന്ന് അടയാളപ്പെടുത്തി',
 		'solve_disambiguation-unknown-page': u'(അപരിചിതം)',
+		'solve_disambiguation-links-removed': u'യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണി(കൾ) നീക്കം ചെയ്തു.',
 	},
 	# Author: Htt
 	'mr': {
@@ -834,6 +858,16 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(neznano)',
 		'solve_disambiguation-links-removed': u'Razločitev s pomočjo robota: %(from)s – Odstranitev povezav',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'solve_disambiguation-redirect-removed': u'Caawiye-Bot ka saariska : %(from)s - linkiga(s)',
+		'solve_disambiguation-redirect-resolved': u'Caawiye-Bot badalid: %(from)s -  linkiga(s) to %(to)s',
+		'solve_disambiguation-links-resolved': u'Caawiye-Bot Badalid: %(from)s -  link(s) to %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Caawiye-Bot cadayn: %(from)s - Waa in la daba galaa',
+		'solve_disambiguation-adding-dn-template': u'Caawiye-Bot Cadayn: %(from)s - Waa in la daba galaa',
+		'solve_disambiguation-unknown-page': u'(aan la aqoon)',
+		'solve_disambiguation-links-removed': u'Caawiye-Bot Cadayn: %(from)s - Tirtiris linkiga.',
+	},
 	# Author: Vinie007
 	'sq': {
 		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
@@ -970,6 +1004,10 @@ msg = {
 		'solve_disambiguation-adding-dn-template': u'Усунення неоднозначності за допомогою робота: %(from)s — Позначена як така, що потребує уваги експерта',
 		'solve_disambiguation-unknown-page': u'(невідома)',
 		'solve_disambiguation-links-removed': u'Виправлення посилання на багатозначність за допомогою бота: %(from)s вилучено',
+	},
+	# Author: CoderSI
+	'uz': {
+		'solve_disambiguation-unknown-page': u'(nomaʼlum)',
 	},
 	# Author: Alunardon90
 	# Author: GatoSelvadego

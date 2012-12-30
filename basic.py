@@ -4,8 +4,12 @@ msg = {
 
 
 
+
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
+	},	# Author: Csisc
+	'aeb': {
+		'basic-changing': u'بوت: تغيير ...',
 	},	# Author: Csisc
 	'aeb': {
 		'basic-changing': u'بوت: تغيير ...',
@@ -59,6 +63,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'basic-changing': u'بوت: ديَیشدیریلیر...',
+	},
+	# Author: Haqmar
+	'ba': {
+		'basic-changing': u'Робот:үҙгәртеүе...',
 	},
 	# Author: Mucalexx
 	# Author: Xqt
@@ -243,9 +251,14 @@ msg = {
 	'km': {
 		'basic-changing': u'Bot: កំពុងផ្លាស់ប្ដូរ ...',
 	},
+	# Author: Akoppad
+	'kn': {
+		'basic-changing': u'ರೋಬೋಟ್: ಬದಲಾಯಿಸಲಾಗುತ್ತಿದೆ ...',
+	},
 	# Author: Cwt96
+	# Author: 아라
 	'ko': {
-		'basic-changing': u'봇 : 수정중...',
+		'basic-changing': u'로봇: 바꾸는 중...',
 	},
 	'ksh': {
 		'basic-changing': u'Bot: Änderung ...',
@@ -302,6 +315,10 @@ msg = {
 	# Author: Rancher
 	'mk': {
 		'basic-changing': u'Робот: менува…',
+	},
+	# Author: Praveenp
+	'ml': {
+		'basic-changing': u'യന്ത്രം: മാറ്റം വരുത്തുന്നു ...',
 	},
 	# Author: Htt
 	'mr': {
@@ -389,6 +406,10 @@ msg = {
 	'ru': {
 		'basic-changing': u'бот: изменил ...',
 	},
+	# Author: Hemant wikikosh1
+	'sa': {
+		'basic-changing': u'कारुयन्त्रम् : परिवर्तयति ...',
+	},
 	# Author: Avicennasis
 	'sco': {
 		'basic-changing': u'Bot: Chyngin\' ...',
@@ -404,6 +425,10 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'basic-changing': u'Bot: Spreminjanje ...',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'basic-changing': u'Bot: badalid ...',
 	},
 	# Author: Vinie007
 	'sq': {
@@ -500,6 +525,10 @@ msg = {
 	# Author: פוילישער
 	'yi': {
 		'basic-changing': u'באָט: ענדערן ...',
+	},
+	# Author: Demmy
+	'yo': {
+		'basic-changing': u'Bot: Únṣeàyípadà...',
 	},
 	# Author: Yfdyh000
 	'zh': {

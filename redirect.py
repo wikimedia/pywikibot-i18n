@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	# Author: Xqt
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -88,6 +89,15 @@ msg = {
 		'redirect-fix-double': u'روبات :%(to)s صحیفه‌سینه ایستیقامت‌لی ایکیقات ایستیقامتلندیرمه دوزلدیلیر',
 		'redirect-remove-broken': u'[[ویکی‌پئدییا:سیل#یستیقامتلندیرمه|وپ:سیل]]: سیلینئن یا دا وار اولمایان صحیفه‌یه اولان ایستیقامیلندیرمه',
 		'redirect-broken-redirect-template': u'{{سیل|y1}}',
+	},
+	# Author: Haqmar
+	# Author: Sagan
+	'ba': {
+		'redirect-fix-loop': u'Робот: %(to)s битенә йүнәлтеүҙе төҙәтеү',
+		'redirect-remove-loop': u'Робот: бер ҡайҙа ла йүнәлтелмәгән',
+		'redirect-fix-double': u'Робот:  %(to)s битенә икеле йүнәлтеүҙе төҙәтеү',
+		'redirect-remove-broken': u'Робот: булмаған йәки юйылған биткә йүнәлтеү',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Mucalexx
 	# Author: Xqt
@@ -229,10 +239,12 @@ msg = {
 		'redirect-remove-broken': u'Ρομπότ: Ανακατεύθυνση σε μια σελίδα διαγεγραμμένη  ή ανύπαρκτη',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Blahma
 	# Author: Mihxil
 	# Author: Objectivesea
 	# Author: Xqt
 	'eo': {
+		'redirect-fix-loop': u'Roboto: Riparanta ciklan alidirektilon al %(to)s',
 		'redirect-remove-loop': u'Roboto: Alidirekta celas sin mem',
 		'redirect-fix-double': u'Roboto: Riparis duoblan alidirekton al %(to)s',
 		'redirect-remove-broken': u'Roboto: Alidirekto indikas forigitan aŭ neekzistantan paĝon',
@@ -259,14 +271,15 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Ebraminio
+	# Author: Huji
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
 	# Author: جواد
 	'fa': {
 		'redirect-fix-loop': u'ربات: رفع حلقه در تغییرمسیر به %(to)s',
-		'redirect-remove-loop': u'ربات:[[وپ:تغییرمسیر|تغییرمسیر]] حلقه‌ای',
+		'redirect-remove-loop': u'ربات: مقصد تغییرمسیر یک تغییرمسیر حلقه‌ای ایجاد می‌کند',
 		'redirect-fix-double': u'ربات: اصلاح تغییرمسیر دوتایی به %(to)s',
-		'redirect-remove-broken': u'ربات:[[وپ:تغییرمسیر|تغییرمسیر]] به صفحهٔ ناموجود یا حذف‌شده',
+		'redirect-remove-broken': u'ربات: تغییرمسیر به صفحهٔ ناموجود یا حذف‌شده',
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
 	},
 	# Author: Crt
@@ -432,6 +445,7 @@ msg = {
 	# Author: Shirayuki
 	# Author: 赤の旋律
 	'ja': {
+		'redirect-fix-loop': u'ロボットによる: リダイレクトのループの修正 → %(to)s',
 		'redirect-fix-double': u'ロボットによる: 二重リダイレクト修正 → %(to)s',
 		'redirect-remove-broken': u'ロボットによる: 削除済みまたは存在しないページへのリダイレクト',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -461,7 +475,9 @@ msg = {
 	# Author: Cwt96
 	# Author: 아라
 	'ko': {
-		'redirect-fix-double': u'로봇: 이중 넘겨주기 수정 → %(to)s',
+		'redirect-fix-loop': u'로봇: %(to)s(으)로 재귀적인 넘겨주기 고침',
+		'redirect-remove-loop': u'로봇: 넘겨주기 대상이 재귀적인 넘겨주기로 생김',
+		'redirect-fix-double': u'로봇: %(to)s(으)로 이중 넘겨주기 고침',
 		'redirect-remove-broken': u'로봇: 끊긴 넘겨주기',
 		'redirect-broken-redirect-template': u'{{ㅅ}}',
 	},
@@ -508,9 +524,10 @@ msg = {
 	},
 	# Author: StefanusRA
 	'map-bms': {
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
+		'redirect-fix-loop': u'Robot: Ndandani pengalihan dobel maring %(to)s',
+		'redirect-remove-loop': u'Robot: Target pangalihan marekna dadi pengalihan siklik',
 		'redirect-fix-double': u'Bot: Mbenerna pengalihan ganda maring %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Pengalihan]] maring kaca sing wis dibusek utawa kaca sing ora ana',
+		'redirect-remove-broken': u'Robot: Pangalihan ming kaca sing ora ana utawa wis debusek',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Jagwar
@@ -537,6 +554,14 @@ msg = {
 		'redirect-fix-double': u'Робот: Исправка на двојни пренасочувања → %(to)s',
 		'redirect-remove-broken': u'[[ВП:КББ|О6]: [[Википедија:Пренасочување|Пренасочување]] кон избришана или непостоечка страница',
 		'redirect-broken-redirect-template': u'{{db|[[ВП:КББ|O8]]}}',
+	},
+	# Author: Praveenp
+	'ml': {
+		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
+		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
+		'redirect-fix-double': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുള്ള ഇരട്ട തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
+		'redirect-remove-broken': u'യന്ത്രം: മായ്ച്ച അല്ലെങ്കിൽ നിലവിലില്ലാത്ത താളിലോട്ടുള്ള തിരിച്ചുവിടൽ',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Htt
 	'mr': {
@@ -729,6 +754,14 @@ msg = {
 		'redirect-remove-broken': u'Robot: Preusmeritev na izbrisano ali neobstoječo stran',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'redirect-fix-loop': u'Bot: Diyaarinta dib u bilaabista ee %(to)s',
+		'redirect-remove-loop': u'Bot: Ujeedka u rogista bogga ee dhaqaaqa',
+		'redirect-fix-double': u'Bot: Hagaajin u rogid labalaaban ee %(to)s',
+		'redirect-remove-broken': u'Bot: U wareejin bog la tirtiray ama aan jirin',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Vinie007
 	'sq': {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
@@ -843,6 +876,10 @@ msg = {
 		'redirect-remove-loop': u'бот: перенаправлення формують петлю',
 		'redirect-fix-double': u'Робот: виправлення подвійного перенаправлення → %(to)s',
 		'redirect-remove-broken': u'бот: перенаправлення на вилучену або неіснуючу сторінку',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
+	# Author: CoderSI
+	'uz': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Alunardon90

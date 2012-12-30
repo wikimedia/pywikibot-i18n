@@ -4,6 +4,7 @@ msg = {
 
 
 
+
 	'en': {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
@@ -53,6 +54,11 @@ msg = {
 	'azb': {
 		'cosmetic_changes-standalone': u'روبات:گوزلتمک',
 		'cosmetic_changes-append': u'؛ زنگینلشدیرمه',
+	},
+	# Author: Sagan
+	'ba': {
+		'cosmetic_changes-standalone': u'Робот: косметик үҙгәртеүҙәр',
+		'cosmetic_changes-append': u'; косметик үҙгәртеүҙәр',
 	},
 	# Author: Mucalexx
 	'bar': {
@@ -263,6 +269,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: Panggantèn kosmètik',
 		'cosmetic_changes-append': u'; panggantèn kosmètik',
 	},
+	# Author: Akoppad
+	'kn': {
+		'cosmetic_changes-standalone': u'ರೋಬೋಟ್: ಕಾಂತಿವರ್ಧಕ ಬದಲಾವಣೆಗಳು',
+		'cosmetic_changes-append': u'ಅಂದಗೊಳಿಸುವ ಬದಲಾವಣೆಗಳು',
+	},
 	'ko': {
 		'cosmetic_changes-standalone': u'로봇: 예쁘게 바꿈',
 		'cosmetic_changes-append': u'; 예쁘게 바꿈',
@@ -345,6 +356,10 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: kosmetiese wiezigingen',
 		'cosmetic_changes-append': u'; kosmetiese wiezigingen',
 	},
+	# Author: Eukesh
+	'new': {
+		'cosmetic_changes-standalone': u'रोबोट:रुप हिलाछ्वगु',
+	},
 	# Author: Siebrand
 	'nl': {
 		'cosmetic_changes-standalone': u'Robot: cosmetische wijzigingen',
@@ -409,6 +424,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Robot: Cosmetic chynges',
 		'cosmetic_changes-append': u'; cosmetic chynges',
 	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'cosmetic_changes-standalone': u'රොබෝ: අංගරාග වෙනස්කම්',
+		'cosmetic_changes-append': u'; අංගරාග වෙනස්කම්',
+	},
 	'sk': {
 		'cosmetic_changes-standalone': u'robot kozmetické zmeny',
 		'cosmetic_changes-append': u'; kozmetické zmeny',
@@ -416,6 +436,11 @@ msg = {
 	'sl': {
 		'cosmetic_changes-standalone': u'robot kozmetične spremembe',
 		'cosmetic_changes-append': u'; kozmetične spremembe',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'cosmetic_changes-standalone': u'Bot: Badal qurxin ah',
+		'cosmetic_changes-append': u'; Badal qurxin ah',
 	},
 	# Author: Vinie007
 	'sq': {
@@ -493,6 +518,11 @@ msg = {
 	'uk': {
 		'cosmetic_changes-standalone': u'робот косметичні зміни',
 		'cosmetic_changes-append': u'; косметичні зміни',
+	},
+	# Author: CoderSI
+	'uz': {
+		'cosmetic_changes-standalone': u'Bot: Kosmetik oʻzgarishlar',
+		'cosmetic_changes-append': u'; kosmetik oʻzgarishlar',
 	},
 	# Author: Alunardon90
 	# Author: Candalua

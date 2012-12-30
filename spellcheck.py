@@ -4,11 +4,14 @@ msg = {
 
 
 
+
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},	# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
+	},	'ar': {
+		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},	'ar': {
@@ -31,6 +34,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'spellcheck-checking': u'یازی یانلیشی اوچون روبات یاردیم‌جی',
+	},
+	# Author: Sagan
+	'ba': {
+		'spellcheck-checking': u'робот ярҙамында орфография',
 	},
 	# Author: Wizardist
 	'be-tarask': {
@@ -64,12 +71,21 @@ msg = {
 	'diq': {
 		'spellcheck-checking': u'Cerebnayoğê nuşteyanê bot-destegıni',
 	},
+	# Author: Glavkos
+	'el': {
+		'spellcheck-checking': u'Ορθογραφικός έλεγχος βοηθούμενος από Bot',
+	},
+	# Author: Blahma
+	'eo': {
+		'spellcheck-checking': u'Robote asistata literumkontrolo',
+	},
 	'es': {
 		'spellcheck-checking': u'Bot asistido de correción ortográfica',
 	},
+	# Author: Huji
 	# Author: Reza1615
 	'fa': {
-		'spellcheck-checking': u'ربات کمک کنندهٔ اشتباهات املایی',
+		'spellcheck-checking': u'غلط‌گیری به کمک ربات',
 	},
 	# Author: Nedergard
 	# Author: Nike
@@ -105,6 +121,14 @@ msg = {
 	'it': {
 		'spellcheck-checking': u'Correttore ortografico semi-automatico',
 	},
+	# Author: Shirayuki
+	'ja': {
+		'spellcheck-checking': u'ロボット支援によるスペルチェック',
+	},
+	# Author: 아라
+	'ko': {
+		'spellcheck-checking': u'로봇 지원에 의한 맞춤법 검사기',
+	},
 	# Author: Purodha
 	'ksh': {
 		'spellcheck-checking': u'Tippfähler repareere med enem Bot singe Hölp',
@@ -113,6 +137,10 @@ msg = {
 	'lb': {
 		'spellcheck-checking': u'Bot-ënnerstëtzte Spellchecker',
 	},
+	# Author: StefanusRA
+	'map-bms': {
+		'spellcheck-checking': u'Bot-nulungi mriksa ejaan',
+	},
 	# Author: Jagwar
 	'mg': {
 		'spellcheck-checking': u'Fanitsiana tsipelina amin\'ny alalan\'ny rôbô',
@@ -120,6 +148,10 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'spellcheck-checking': u'Ботовска проверка на правопис',
+	},
+	# Author: Praveenp
+	'ml': {
+		'spellcheck-checking': u'യന്ത്രസഹായത്തോടെയുള്ള അക്ഷരത്തെറ്റ് പരിശോധന',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -159,6 +191,10 @@ msg = {
 	# Author: Irena Plahuta
 	'sl': {
 		'spellcheck-checking': u'Z botom dodan črkovalnik.',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'spellcheck-checking': u'Sixid yeeris ah ee caawiye Bot',
 	},
 	# Author: Rancher
 	'sr': {

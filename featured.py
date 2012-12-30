@@ -4,11 +4,18 @@ msg = {
 
 
 
+
 	'en': {
 		'featured-featured': u'Robot: %(page)s is a featured article',
 		'featured-former': u'Robot: %(page)s is a former featured article',
 		'featured-good': u'Robot: %(page)s is a good article',
 		'featured-list': u'Robot: %(page)s is a featured list',
+	},	# Author: Csisc
+	'aeb': {
+		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
+		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
+		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
+		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
 	},	# Author: Csisc
 	'aeb': {
 		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
@@ -99,6 +106,13 @@ msg = {
 		'featured-featured': u'بوت: %(page)sسئچیلمیش مقاله‌دیر',
 		'featured-former': u'بوت: %(page)s کئشمیش سئچیلمیش مقاله‌دیر',
 	},
+	# Author: Sagan
+	'ba': {
+		'featured-good': u'Робот: %(page)s яҡшы мәҡәлә',
+		'featured-list': u'Робот: %(page)s һайланған исемлек',
+		'featured-featured': u'Робот: %(page)s һайланған мәҡәлә',
+		'featured-former': u'Робот: %(page)s элекке һайланған мәҡәлә',
+	},
 	'bat-smg': {
 		'featured-featured': u'robots: Pavīzdėnė straipsnė nūruoda %(page)s',
 	},
@@ -154,6 +168,13 @@ msg = {
 		'featured-featured': u'Robot: %(page)s je na seznamu nejlepších článků',
 		'featured-former': u'Robot: %(page)s býval na seznamu nejlepších článků',
 	},
+	# Author: Salam
+	'cv': {
+		'featured-good': u'робот: лайӑх статья %(page)s',
+		'featured-list': u'робот: суйласа илнӗ ят-йыш %(page)s',
+		'featured-featured': u'робот: суйласа илнӗ статья %(page)s',
+		'featured-former': u'робот: суйласа илнӗ статья пулнӑ %(page)s',
+	},
 	'cy': {
 		'featured-good': u'Robot: Mae %(page)s yn erthygl dda',
 		'featured-featured': u'Robot: Mae %(page)s yn erthygl ddethol',
@@ -190,9 +211,12 @@ msg = {
 		'featured-featured': u'Ρομπότ: το %(page)s είναι αξιόλογο άρθρο',
 		'featured-former': u'Ρομπότ: το %(page)s είναι πρώην αξιόλογο άρθρο',
 	},
+	# Author: Blahma
 	'eo': {
 		'featured-good': u'roboto: %(page)s estas artikolo leginda',
+		'featured-list': u'Roboto: %(page)s estas listo de elstaraj',
 		'featured-featured': u'roboto: %(page)s estas artikolo elstara',
+		'featured-former': u'Roboto: %(page)s estas eksa elstara artikolo',
 	},
 	'es': {
 		'featured-good': u'Bot: Enlace a artículo bueno para: %(page)s',
@@ -328,9 +352,12 @@ msg = {
 	'ka': {
 		'featured-featured': u'ბოტი: რჩეული სტატიის ბმული გვერდისათვის %(page)s',
 	},
+	# Author: 아라
 	'ko': {
-		'featured-good': u'로봇: 좋은 글 %(page)s',
-		'featured-featured': u'로봇: 알찬 글 %(page)s',
+		'featured-good': u'로봇: %(page)s 문서는 좋은 글입니다',
+		'featured-list': u'로봇: %(page)s 문서는 알찬 목록입니다',
+		'featured-featured': u'로봇: %(page)s 문서는 알찬 글입니다',
+		'featured-former': u'로봇: %(page)s 문서는 과거에 알찬 글이었습니다',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -381,6 +408,13 @@ msg = {
 		'featured-list': u'Робот: %(page)s е избран список',
 		'featured-featured': u'Робот: Меѓувики за избрани статии за %(page)s',
 		'featured-former': u'Робот: %(page)s е поранешна избрана статија',
+	},
+	# Author: Praveenp
+	'ml': {
+		'featured-good': u'യന്ത്രം: %(page)s ഒരു നല്ല ലേഖനമാണ്',
+		'featured-list': u'യന്ത്രം: %(page)s ഒരു തിരഞ്ഞെടുക്കപ്പെട്ട പട്ടികയാണ്',
+		'featured-featured': u'യന്ത്രം: %(page)s ഒരു തിരഞ്ഞെടുക്കപ്പെട്ട ലേഖനമാണ്',
+		'featured-former': u'യന്ത്രം: %(page)s ഒരു പഴയ തിരഞ്ഞെടുക്കപ്പെട്ട ലേഖനമാണ്',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -447,6 +481,10 @@ msg = {
 		'featured-featured': u'Trigomiro: %(page)s a l\'é n\'artìcol caraterisà',
 		'featured-former': u'Trigomiro: %(page)s a l\'é n\'artìcol ëd qualità vej',
 	},
+	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
+	'ps': {
+		'featured-good': u'روبوټ: %(page)s يوه ښه ليکنه ده',
+	},
 	# Author: Giro720
 	'pt': {
 		'featured-good': u'Robô: %(page)s é um artigo bom',
@@ -490,6 +528,13 @@ msg = {
 		'featured-list': u'Bot: %(page)s je izbrani seznam',
 		'featured-featured': u'Bot: %(page)s je izbrani članek',
 		'featured-former': u'Bot: %(page)s je bivši izbrani članek',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'featured-good': u'Bot: %(page)s Waa maqaal muhim ah',
+		'featured-list': u'Bot: %(page)s Waa liis la xushay',
+		'featured-featured': u'Bot: %(page)s Waa maqaal la xushay',
+		'featured-former': u'Bot: %(page)s Waa maqaal horay loo xushay',
 	},
 	# Author: Euriditi
 	'sq': {
@@ -581,6 +626,11 @@ msg = {
 		'featured-list': u'Бот: %(page)s вибраний список',
 		'featured-featured': u'Робот: вибрана стаття %(page)s',
 		'featured-former': u'Робот: %(page)s є колишньою вибраною статтею',
+	},
+	# Author: CoderSI
+	'uz': {
+		'featured-good': u'Bot: %(page)s yaxshi maqola',
+		'featured-list': u'Bot: %(page)s tanlangan roʻyxat',
 	},
 	# Author: Alunardon90
 	# Author: GatoSelvadego

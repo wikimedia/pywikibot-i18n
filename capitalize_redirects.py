@@ -4,8 +4,12 @@ msg = {
 
 
 
+
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
+	},	# Author: Csisc
+	'aeb': {
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
@@ -58,6 +62,10 @@ msg = {
 	# Author: E THP
 	'azb': {
 		'capitalize_redirects-create-redirect': u'بوت: [[%(to)s]] صحیفه‌‌سینه ایستیقامتلندیریلدی',
+	},
+	# Author: Haqmar
+	'ba': {
+		'capitalize_redirects-create-redirect': u'Робот: [[%(to)s]] битенә йүнәлтеү яһалды',
 	},
 	# Author: EugeneZelenko
 	'be-tarask': {
@@ -201,6 +209,10 @@ msg = {
 	'kab': {
 		'capitalize_redirects-create-redirect': u'Aṛubut: Snulfud abeddel n webrid γer [[%(to)s]]',
 	},
+	# Author: 아라
+	'ko': {
+		'capitalize_redirects-create-redirect': u'로봇: [[%(to)s]] 문서로 넘겨주기를 만듦',
+	},
 	'ksh': {
 		'capitalize_redirects-create-redirect': u'Bot: oemleidung aanjelaat op [[%(to)s]]',
 	},
@@ -231,6 +243,10 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'capitalize_redirects-create-redirect': u'Роботот: Создава пренасочување кон [[%(to)s]]',
+	},
+	# Author: Praveenp
+	'ml': {
+		'capitalize_redirects-create-redirect': u'യന്ത്രം: [[%(to)s]] എന്നതിലേക്ക് തിരിച്ചുവിടൽ സൃഷ്ടിക്കുക',
 	},
 	# Author: Diagramma Della Verita
 	'ms': {
@@ -291,6 +307,10 @@ msg = {
 	'ru': {
 		'capitalize_redirects-create-redirect': u'бот: создано перенаправление на [[%(to)s]]',
 	},
+	# Author: Hemant wikikosh1
+	'sa': {
+		'capitalize_redirects-create-redirect': u'कारुयन्त्रम् : [[%(to)s]] इत्येतत् प्रति अनुप्रेषणं सृज्यताम्',
+	},
 	# Author: Teslaton
 	# Author: Wizzard
 	'sk': {
@@ -299,6 +319,10 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'capitalize_redirects-create-redirect': u'Robot: Ustvari preusmeritev na [[%(to)s]]',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'capitalize_redirects-create-redirect': u'Bot: Samayn loo wareejiyey [[%(to)s]]',
 	},
 	# Author: Euriditi
 	'sq': {
@@ -362,6 +386,10 @@ msg = {
 	'uk': {
 		'capitalize_redirects-create-redirect': u'Бот: Створено перенаправлення на [[%(to)s]]',
 	},
+	# Author: CoderSI
+	'uz': {
+		'capitalize_redirects-create-redirect': u'Bot: [[%(to)s]]ga qayta yo‘naltirish yaratildi',
+	},
 	# Author: Alunardon90
 	# Author: Candalua
 	'vec': {
@@ -382,6 +410,10 @@ msg = {
 	# Author: פוילישער
 	'yi': {
 		'capitalize_redirects-create-redirect': u'באט: שאפן ווייטערפירונג צו בלאט [[%(to)s]]',
+	},
+	# Author: Demmy
+	'yo': {
+		'capitalize_redirects-create-redirect': u'Bot: Dá àtúnjúwe sí [[%(to)s]]',
 	},
 	# Author: Yfdyh000
 	'zh': {

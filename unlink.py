@@ -4,8 +4,12 @@ msg = {
 
 
 
+
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
+	},	# Author: Csisc
+	'aeb': {
+		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},	# Author: Csisc
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
@@ -51,6 +55,10 @@ msg = {
 	'azb': {
 		'unlink-unlinking': u'بوت: " %s " باغلانتی‌سی قالدیریلدی',
 	},
+	# Author: Haqmar
+	'ba': {
+		'unlink-unlinking': u'Робот: «%s» һылтаһын юйыу',
+	},
 	# Author: EugeneZelenko
 	'be-tarask': {
 		'unlink-unlinking': u'Робат: Выдаленьне спасылак на «%s»',
@@ -90,6 +98,10 @@ msg = {
 	# Author: Geraki
 	'el': {
 		'unlink-unlinking': u'Ρομπότ: Αποσύνδεση του "%s"',
+	},
+	# Author: Blahma
+	'eo': {
+		'unlink-unlinking': u'Roboto: Malliganta "%s"',
 	},
 	# Author: Armando-Martin
 	# Author: Xqt
@@ -155,11 +167,15 @@ msg = {
 	},
 	# Author: Shirayuki
 	'ja': {
-		'unlink-unlinking': u'ロボットによる: リンクを解除中 "%s"',
+		'unlink-unlinking': u'ロボットによる: リンクを解除中「%s」',
 	},
 	# Author: NoiX180
 	'jv': {
 		'unlink-unlinking': u'Bot: Medhot pranala "%s"',
+	},
+	# Author: 아라
+	'ko': {
+		'unlink-unlinking': u'로봇: "%s" 링크 제거 중',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -192,6 +208,10 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'unlink-unlinking': u'Робот: Ја отстранува врската „%s“',
+	},
+	# Author: Praveenp
+	'ml': {
+		'unlink-unlinking': u'യന്ത്രം: "%s" കണ്ണികളിൽ നിന്നൊഴിവാക്കുന്നു',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -248,6 +268,10 @@ msg = {
 	'sl': {
 		'unlink-unlinking': u'Robot: Odstranjevanje povezave na »%s«',
 	},
+	# Author: Abshirdheere
+	'so': {
+		'unlink-unlinking': u'Bot: Tirtiris waxa la xiriira "%s"',
+	},
 	# Author: Rancher
 	'sr': {
 		'unlink-unlinking': u'Робот: уклоњена веза „%s“',
@@ -283,6 +307,10 @@ msg = {
 	# Author: Dim Grits
 	'uk': {
 		'unlink-unlinking': u'Бот: Вилучення посилання "%s"',
+	},
+	# Author: CoderSI
+	'uz': {
+		'unlink-unlinking': u'Bot: "%s" havolasini oʻchirish',
 	},
 	# Author: Alunardon90
 	'vec': {
