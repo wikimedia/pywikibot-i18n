@@ -1,13 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	# Author: Xqt
 	'en': {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
+		'redirect-fix-broken-moved': u'Robot: Fixing broken redirect to moved target page %(to)s',
 		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
 		'redirect-fix-loop': u'Robot: Fixing redirect loop to %(to)s',
 		'redirect-remove-broken': u'Robot: Redirect to a deleted or non-existent page',
@@ -18,11 +14,12 @@ msg = {
 	# Author: Xqt
 	# Author: ZxxZxxZ
 	'qqq': {
-		'redirect-fix-loop': u'Edit summary when the bot fixes redirect loops. <code>%(to)s</code> displays the new redirect target as a wiki link.',
-		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
-		'redirect-fix-double': u'Edit summary when the bot fixes double redirects. <code>%(to)s</code> displays the new redirect target as a wiki link.',
-		'redirect-remove-broken': u'Edit summary when the bot tags a deleted or non-existent page for speedy deletion. The message was designed for use on en:Wikipedia. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
 		'redirect-broken-redirect-template': u'Template for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
+		'redirect-fix-broken-moved': u'Edit summary when the bot fixes a broken redirect to a moved page whose origin has been deleted. <code>%(to)s</code> displays the new redirect target as a wiki link.',
+		'redirect-fix-double': u'Edit summary when the bot fixes double redirects. <code>%(to)s</code> displays the new redirect target as a wiki link.',
+		'redirect-fix-loop': u'Edit summary when the bot fixes redirect loops. <code>%(to)s</code> displays the new redirect target as a wiki link.',
+		'redirect-remove-broken': u'Edit summary when the bot tags a deleted or non-existent page for speedy deletion. The message was designed for use on en:Wikipedia. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
+		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
 	},	# Author: Csisc
 	'aeb': {
 		'redirect-fix-loop': u'روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
@@ -215,11 +212,12 @@ msg = {
 	# Author: Metalhead64
 	# Author: The Evil IP address
 	'de': {
+		'redirect-broken-redirect-template': u'{{Löschen|Defekte Weiterleitung}}',
+		'redirect-fix-broken-moved': u'Bot: Korrigiere defekte Weiterleitung auf Verschiebeziel %(to)s',
+		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
 		'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
-		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
-		'redirect-broken-redirect-template': u'{{Löschen|Kaputte Weiterleitung}}',
 	},
 	# Author: Erdemaslancan
 	'diq': {
@@ -973,4 +971,4 @@ msg = {
 		'redirect-fix-double': u'機械人：拉直連串跳轉 → %(to)s',
 		'redirect-remove-broken': u'機械人：跳轉目標唔存在',
 	},
-};
+}
