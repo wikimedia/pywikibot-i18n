@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'isbn-formatting': u'Robot: Formatting ISBN',
 	},
@@ -13,7 +8,8 @@ msg = {
 	# Author: Xqt
 	'qqq': {
 		'isbn-formatting': u'Edit summary when the bot fixes [http://en.wikipedia.org/wiki/International_Standard_Book_Number ISBN] number formatting.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'isbn-formatting': u'روبوت: تنسيق ISBN',
 	},

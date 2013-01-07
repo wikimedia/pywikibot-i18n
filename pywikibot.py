@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
@@ -24,7 +19,8 @@ msg = {
 		'pywikibot-enter-new-text': u'Message displayed to the bot owner to enter the new text.',
 		'pywikibot-enter-category-name': u'Message displayed to the bot owner to enter the category name.',
 		'pywikibot-enter-finished-browser': u'Message displayed to the bot owner to press Enter button when browser edits are finished.',
-	},	# Author: TTMTT
+	},
+	# Author: TTMTT
 	# Author: Zanatos
 	'ar': {
 		'pywikibot-enter-xml-filename': u'الرجاء إدخال اسم ملف تفريغ XML:',
@@ -419,12 +415,22 @@ msg = {
 		'pywikibot-enter-category-name': u'Skriv inn kategorinavnet:',
 		'pywikibot-enter-finished-browser': u'Trykk Enter når du er ferdig i nettleseren.',
 	},
+	# Author: Eukesh
+	'new': {
+		'pywikibot-enter-xml-filename': u'XML दम्पया फाइलनेम तियादिसँ:',
+		'pywikibot-enter-page-processing': u'गुगु पौ प्रोसेस यायेमा?',
+		'pywikibot-enter-file-links-processing': u'गुगु किपापौया लिंक प्रोसेस यायेमा?',
+		'pywikibot-enter-namespace-number': u'नेमस्पेसयात उकिया ल्याखँसं तियादिसँ:',
+		'pywikibot-enter-new-text': u'न्हुगु आखः(पाठ) तियादिसँ:',
+		'pywikibot-enter-category-name': u'पुचःया नां तियादिसँ:',
+		'pywikibot-enter-finished-browser': u'ब्राउजरय्‌ सिधइबिलय्‌ एन्तर तियादिसँ।',
+	},
 	# Author: McDutchie
 	# Author: Siebrand
 	'nl': {
 		'pywikibot-enter-xml-filename': u'Geef de bestandnaam van een XML-dump op:',
 		'pywikibot-enter-page-processing': u'Welke pagina moet verwerkt worden?',
-		'pywikibot-enter-file-links-processing': u'Naar welke afbeeldingspagina moeten er verwijzingen verwerkt worden?',
+		'pywikibot-enter-file-links-processing': u'Naar welke bestandspagina moeten er koppelingen verwerkt worden?',
 		'pywikibot-enter-namespace-number': u'Geef een naamruimtenummer op:',
 		'pywikibot-enter-new-text': u'Geef de nieuwe tekst op:',
 		'pywikibot-enter-category-name': u'Geef de categorienaam op:',
@@ -491,6 +497,11 @@ msg = {
 		'pywikibot-enter-new-text': u'Пожалуйста, введите новый текст:',
 		'pywikibot-enter-category-name': u'Пожалуйста, введите название категории:',
 		'pywikibot-enter-finished-browser': u'Нажмите клавишу Enter, когда закончите вносить изменения в браузере.',
+	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'pywikibot-enter-new-text': u'කරුණාකර නව පෙළ යොදන්න:',
+		'pywikibot-enter-category-name': u'කරුණාකර ප්‍රවර්ග නාමය යොදන්න:',
 	},
 	# Author: Irena Plahuta
 	'sl': {
@@ -559,8 +570,13 @@ msg = {
 		'pywikibot-enter-category-name': u'Ange kategorinamnet:',
 		'pywikibot-enter-finished-browser': u'Tryck på Enter när du är klar i webbläsaren.',
 	},
+	# Author: Kwisha
 	# Author: Stephenwanjau
 	'sw': {
+		'pywikibot-enter-xml-filename': u'Tafadhali ingiza jina la gali la dampo ya XML:',
+		'pywikibot-enter-page-processing': u'Ni ukurasa upi unafaa kusindikwa?',
+		'pywikibot-enter-file-links-processing': u'Viungo vya ukurasa wa picha amabo unfaa kusindikwa?',
+		'pywikibot-enter-namespace-number': u'Tafadhali ingiza eneo wiki kwa nambari zake:',
 		'pywikibot-enter-new-text': u'Tafadhali ingiza matini mpya:',
 		'pywikibot-enter-category-name': u'Tafadhali ingiza jina la jamii:',
 		'pywikibot-enter-finished-browser': u'Tafadhali ingiza wakati itamaliza katika kivinjari.',

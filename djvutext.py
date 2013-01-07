@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
 	},
@@ -12,7 +7,8 @@ msg = {
 	# Author: Przemub
 	'qqq': {
 		'djvutext-creating': u'',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'djvutext-creating': u'روبوت: إنشاء صفحة بنص مستخرج من DjVu',
 	},
@@ -212,6 +208,10 @@ msg = {
 	'nds-nl': {
 		'djvutext-creating': u'Bot: pagina an-emaakt mit tekste uut n DjVu-bestaand',
 	},
+	# Author: Eukesh
+	'new': {
+		'djvutext-creating': u'रोबट: DjVuनं लिकाःगु पाठ तया पौ दयेकाच्वंगु',
+	},
 	# Author: Siebrand
 	'nl': {
 		'djvutext-creating': u'Robot: pagina aangemaakt met tekst uit een DjVu-bestand',
@@ -280,6 +280,10 @@ msg = {
 	# Author: WikiPhoenix
 	'sv': {
 		'djvutext-creating': u'Robot: Skapar sida med extraherad text från DjVu',
+	},
+	# Author: Kwisha
+	'sw': {
+		'djvutext-creating': u'Roboti:Inatengeza ukurasa na hati zilizondondolewa kutoka DjVu',
 	},
 	# Author: Przemub
 	'szl': {

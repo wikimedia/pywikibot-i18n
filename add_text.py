@@ -1,17 +1,13 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'add_text-adding': u'Robot: Adding %(adding)s',
 	},
 	# Author: Csisc
 	'qqq': {
 		'add_text-adding': u'Edit summary when the bot adds text to a given page. %(adding)s is the added text truncated to 200 characters.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'add_text-adding': u'بوت: إضافة %(adding)s',
 	},
@@ -155,9 +151,10 @@ msg = {
 	'eo': {
 		'add_text-adding': u'robota aldono de %(adding)s',
 	},
+	# Author: TheBITLINK
 	# Author: Xqt
 	'es': {
-		'add_text-adding': u'Bot Añadido %(adding)s',
+		'add_text-adding': u'Bot: Añadiendo %(adding)s',
 	},
 	# Author: Pikne
 	'et': {

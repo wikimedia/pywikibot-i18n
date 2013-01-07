@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	# Author: Xqt
 	'en': {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -32,7 +27,8 @@ msg = {
 		'category-also-in': u'Translations to say that the current category is in more categories than the one we are coming from',
 		'category-section-title': u'Section title for keeping page history',
 		'category-listifying': u'Definition of [http://meta.wikimedia.org/wiki/Pywikipediabot/category.py#Syntax listify] - make a list of all of the articles that are in a category.\n\n*Variable "%(fromcat)s" = the category to make a list of in the listify option.\n*Variable "%(num)d" is probably a number.\n*You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(num)d|1 entry|%(num)d entries}}</nowiki></code>)\nDo not translate the variables.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'category-version-history': u'Robot: sajjel el historique mte3 el versions mte3 el %(oldcat)s el 9dom',
 		'category-changing': u'Robot: baddel %(oldcat)s il %(newcat)s',
@@ -686,7 +682,9 @@ msg = {
 		'category-changing': u'रोबॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है',
 	},
 	# Author: Ex13
+	# Author: SpeedyGonsales
 	'hr': {
+		'category-version-history': u'Bot: Pohrana povijesti uređivanja %(oldcat)s',
 		'category-changing': u'Bot: mijenja %(oldcat)s u %(newcat)s',
 		'category-adding': u'robot: Dodaje category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(također u %(alsocat)s)',
@@ -694,6 +692,8 @@ msg = {
 		'category-replacing': u'Bot: Mijenja kategoriju %(oldcat)s s %(newcat)s',
 		'category-removing': u'Bot: uklanja iz %(oldcat)s',
 		'category-was-moved': u'Bot: Kategorija je premještena u [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: Premješteno iz %s. Suradnici: %s',
+		'category-section-title': u'Povijest stranice od prethodne %(oldcat)s.',
 		'category-listifying': u'Bot: ispisuje iz %(fromcat)s (%(num)d stavki)',
 	},
 	# Author: Michawiki
@@ -1265,6 +1265,9 @@ msg = {
 		'category-was-disbanded': u'रोबोट:पुचः सिधयेकाछ्वःगु दु',
 		'category-replacing': u'रोबोट: पुचः %(oldcat)sयात %(newcat)sय् हिलाछ्वःगु दु',
 		'category-removing': u'रोबोट: %(oldcat)sनं त्वतकाच्वंगु',
+		'category-was-moved': u'रोबट: पुचः [[:Category:%(newcat)s|%(title)s]]य्‌ हिलाछ्वगु दु',
+		'category-renamed': u'रोबट: %sनं संकल। च्वमि: %s',
+		'category-section-title': u'पुलांगु %(oldcat)sया पौ इतिहास',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -1505,6 +1508,10 @@ msg = {
 		'category-was-moved': u'Robot: Category wis flitted tae [[:Category:%(newcat)s|%(title)s]]',
 		'category-listifying': u'Bot: Listifying frum %(fromcat)s (%(num)d entries)',
 	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'category-also-in': u'(%(alsocat)s තිබේ)',
+	},
 	# Author: Teslaton
 	# Author: Wizzard
 	'sk': {
@@ -1626,9 +1633,11 @@ msg = {
 		'category-section-title': u'Sidhistorik från tidigare %(oldcat)s',
 		'category-listifying': u'Robot: Skapar en lista från %(fromcat)s (%(num)d)',
 	},
+	# Author: Kwisha
 	# Author: Lloffiwr
 	'sw': {
 		'category-adding': u'Roboti: Imeongeza jamii ya [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-was-disbanded': u'Roboti: Jamii imefutiliwa mbali',
 	},
 	# Author: Przemub
 	'szl': {

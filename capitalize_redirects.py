@@ -1,37 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},
@@ -173,6 +145,10 @@ msg = {
 	'he': {
 		'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
 	},
+	# Author: SpeedyGonsales
+	'hr': {
+		'capitalize_redirects-create-redirect': u'Bot: Napravljeno preusmjerenje na [[%(to)s]].',
+	},
 	# Author: Bináris
 	# Author: Dj
 	'hu': {
@@ -267,6 +243,10 @@ msg = {
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'capitalize_redirects-create-redirect': u'रोबोट: [[%(to)s]]मा अनुप्रेषण गर्दै',
+	},
+	# Author: Eukesh
+	'new': {
+		'capitalize_redirects-create-redirect': u'रोबट: [[%(to)s]]य्‌ पुनर्निदेश दयेकादिसँ',
 	},
 	# Author: Siebrand
 	'nl': {

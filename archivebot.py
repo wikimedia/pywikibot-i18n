@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	# Author: Xqt
 	'en': {
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
@@ -19,7 +14,8 @@ msg = {
 		'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
 		'archivebot-archiveheader': u'Template that will be put on new archive pages as the header.',
 		'archivebot-archive-summary': u'Summary message when the bot adds threads to the archive.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'archivebot-older-than': u'أقدم من',
 		'archivebot-page-summary': u'el archivage mte3 %(count) {{PLURAL:%(count)d|thread|threads}} (%(why)s) ila %(archives)s.',
@@ -224,13 +220,14 @@ msg = {
 		'archivebot-archive-summary': u'Roboto: Arkivante %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} ekde [[%(from)s]].',
 	},
 	# Author: Armando-Martin
+	# Author: TheBITLINK
 	# Author: Vivaelcelta
 	# Author: Xqt
 	'es': {
-		'archivebot-older-than': u'más viejo que',
+		'archivebot-older-than': u'más antigup que',
 		'archivebot-page-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-archive-full': u'(ARCHIVO COMPLETO)',
+		'archivebot-archive-full': u'(ARCHIVO LLENO)',
 		'archivebot-archive-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} de [[%(from)s]].',
 	},
 	# Author: Avjoska
@@ -320,10 +317,13 @@ msg = {
 		'archivebot-page-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
 	},
 	# Author: Ex13
+	# Author: SpeedyGonsales
 	'hr': {
 		'archivebot-older-than': u'starije od',
+		'archivebot-page-summary': u'Bot: Arhiviram %(count)d {{PLURAL:%(count)d|temu|teme|tema}} (%(why)s) u %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARHIV JE PUN)',
+		'archivebot-archive-summary': u'Bot: Arhiviram %(count)d {{PLURAL:%(count)d|temu|teme|tema}} iz u %(from)s.',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -746,9 +746,12 @@ msg = {
 		'archivebot-archive-full': u'(ARKIV FULLT)',
 		'archivebot-archive-summary': u'Arkiverar %(count)d {{PLURAL:%(count)d|tråd|trådar}} från [[%(from)s]].',
 	},
+	# Author: Kwisha
 	# Author: Stephenwanjau
 	'sw': {
 		'archivebot-older-than': u'nzee kuzidi',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(KUMBUKUMBU IMEJAA)',
 	},
 	# Author: Przemub
 	'szl': {

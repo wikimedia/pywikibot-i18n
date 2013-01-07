@@ -1,37 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
-	'aeb': {
-		'catall-changing': u'بوت: تغيير التصنيفات',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',
 	},
@@ -156,6 +128,10 @@ msg = {
 	},
 	'he': {
 		'catall-changing': u'בוט: משנה קטגוריות',
+	},
+	# Author: SpeedyGonsales
+	'hr': {
+		'catall-changing': u'Bot: Promjena kategorija',
 	},
 	# Author: Dj
 	'hu': {

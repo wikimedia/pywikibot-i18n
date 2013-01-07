@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
@@ -13,7 +8,8 @@ msg = {
 	'qqq': {
 		'commons-file-moved': u'Edit summary when the bot replaces usage of an image available under a different name. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons.',
 		'commons-file-now-available': u'Edit summary when the bot has moved a file to Commons and adds the NowCommons template. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'commons-file-moved': u'[[:File:%(localfile)s|الصورة]] تم نقلها إلى [[:commons:File:%(commonsfile)s|كومنز]].',
 		'commons-file-now-available': u'الملف متوفر الآن في [[:commons:File:%(commonsfile)s|ويكيميديا كومنز]].',

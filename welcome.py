@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
 		'welcome-updating': u'Robot: Updating log',
@@ -17,7 +12,8 @@ msg = {
 		'welcome-welcome': u'Edit summary for the welcome message\n{{Identical|Welcome}}',
 		'welcome-bad_username': u'Edit summary for reporting a possibly bad username.',
 		'welcome-updating': u'Edit summary for updating the welcome log.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'welcome-welcome': u'مرحبا!',
 		'welcome-bad_username': u'بوت: إضافة اسم مستخدم يحتاج للفحص',
@@ -569,8 +565,11 @@ msg = {
 		'welcome-updating': u'Bot: Uppdaterar logg',
 	},
 	# Author: Baba Tabita
+	# Author: Kwisha
 	'sw': {
 		'welcome-welcome': u'Karibu!',
+		'welcome-bad_username': u'Roboti: Inaongeza jina la mtumiaji linalohitaji kuangaliwa',
+		'welcome-updating': u'Boti: Inasasisha kumbukumbu',
 	},
 	# Author: Przemub
 	'szl': {

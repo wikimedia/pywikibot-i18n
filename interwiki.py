@@ -1320,6 +1320,11 @@ msg = {
 		'interwiki-removing': u'रोबोट ले हटाउँदै: %(removing)s',
 		'interwiki-removing-modifying': u'रोबोट ले हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
 	},
+	# Author: Eukesh
+	'new': {
+		'interwiki-adding': u'रोबट: %(adding)s तनाच्वँगु',
+		'interwiki-removing': u'रोबट: %(removing)s लिकानाच्वँगु',
+	},
 	# Author: McDutchie
 	# Author: Romaine
 	# Author: Siebrand
@@ -1624,14 +1629,15 @@ msg = {
 		'interwiki-removing-modifying': u'robot Odobral: %(removing)s Zmenil: %(modifying)s',
 		'interwiki-modifying-from': u'Robot: Zmena %(from)s na %(modifying)s',
 	},
+	# Author: Dbc334
 	'sl': {
-		'interwiki-modifying': u'robot Spreminjanje: %(modifying)s',
-		'interwiki-adding-modifying': u'robot Dodajanje: %(adding)s Spreminjanje: %(modifying)s',
-		'interwiki-adding-removing': u'robot Dodajanje: %(adding)s Odstranjevanje: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Dodajanje: %(adding)s Odstranjevanje: %(removing)s Spreminjanje: %(modifying)s',
-		'interwiki-adding': u'robot Dodajanje: %(adding)s',
-		'interwiki-removing': u'robot Odstranjevanje: %(removing)s',
-		'interwiki-removing-modifying': u'robot Odstranjevanje: %(removing)s Spreminjanje: %(modifying)s',
+		'interwiki-modifying': u'Robot: Spreminjanje %(modifying)s',
+		'interwiki-adding-modifying': u'Robot: Dodajanje %(adding)s; spreminjanje: %(modifying)s',
+		'interwiki-adding-removing': u'Robot: Dodajanje %(adding)s; odstranjevanje: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: Dodajanje %(adding)s; odstranjevanje %(removing)s; spreminjanje %(modifying)s',
+		'interwiki-adding': u'Robot: Dodajanje %(adding)s',
+		'interwiki-removing': u'Robot: Odstranjevanje %(removing)s',
+		'interwiki-removing-modifying': u'Robot: Odstranjevanje %(removing)s; spreminjanje %(modifying)s',
 		'interwiki-modifying-from': u'Robot: Spreminjanje %(from)s v %(modifying)s',
 	},
 	# Author: Abshirdheere
@@ -1708,6 +1714,7 @@ msg = {
 		'interwiki-removing-modifying': u'robot Tar bort: %(removing)s Ändrar: %(modifying)s',
 		'interwiki-modifying-from': u'Robot: Ändrar %(from)s till %(modifying)s',
 	},
+	# Author: Kwisha
 	# Author: Muddyb Blast Producer
 	'sw': {
 		'interwiki-modifying': u'Roboti: Imebadilisha: %(modifying)s',
@@ -1717,6 +1724,7 @@ msg = {
 		'interwiki-adding': u'Roboti: Imeongeza %(adding)s',
 		'interwiki-removing': u'Roboti: Imeondoa: %(removing)s',
 		'interwiki-removing-modifying': u'Roboti: Imeondoa %(removing)s Imebadilisha: %(modifying)s',
+		'interwiki-modifying-from': u'Boti: Inarbadilisha %(from)s hadi %(modifying)s',
 	},
 	# Author: Przemub
 	'szl': {

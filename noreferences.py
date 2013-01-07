@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
 	},
@@ -12,7 +7,8 @@ msg = {
 	# Author: Xqt
 	'qqq': {
 		'noreferences-add-tag': u'Edit summary when the bot adds a missing <code><references /></code> tag to the references section and if needed the section itself.\n\nDo not translate <code><references /></code>.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
 	},
@@ -239,6 +235,10 @@ msg = {
 	'nds-nl': {
 		'noreferences-add-tag': u'Bot: ontbrekende <references />-kode derbie ezet',
 	},
+	# Author: Eukesh
+	'new': {
+		'noreferences-add-tag': u'रोबट: मदूगु <references /> ट्याग तनाच्वँगु',
+	},
 	# Author: Siebrand
 	'nl': {
 		'noreferences-add-tag': u'Robot: toevoeging ontbrekende <references /> tag',
@@ -312,6 +312,10 @@ msg = {
 	# Author: Lokal Profil
 	'sv': {
 		'noreferences-add-tag': u'Robot: Lägger till saknad <references />-tagg',
+	},
+	# Author: Kwisha
+	'sw': {
+		'noreferences-add-tag': u'Boti: Inaongeza tagi inayokosa ya <references />',
 	},
 	'szl': {
 		'noreferences-add-tag': u'Bot dodowo szablon {{Przipisy}}',

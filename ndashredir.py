@@ -1,38 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	# Author: Bináris
 	'en': {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
-	'aeb': {
-		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',
 	},
@@ -204,6 +176,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'ndashredir-create': u'Bot: deurverwiezing mit aofbreekteken naor [[%(title)s]] an-emaakt',
+	},
+	# Author: Eukesh
+	'new': {
+		'ndashredir-create': u'बोट:[[%(title)s]]य्‌ हाइफनेतेद पुनर्निर्देश दयेकाच्वँगु',
 	},
 	# Author: Siebrand
 	'nl': {

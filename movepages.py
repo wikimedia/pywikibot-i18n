@@ -1,37 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
-	'aeb': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
 	},
@@ -104,9 +76,10 @@ msg = {
 	'eo': {
 		'movepages-moving': u'Roboto: Paĝon moviĝis',
 	},
+	# Author: TheBITLINK
 	# Author: Vivaelcelta
 	'es': {
-		'movepages-moving': u'Bot: Página trasladada',
+		'movepages-moving': u'Bot: Página movida',
 	},
 	# Author: Pikne
 	'et': {
@@ -245,6 +218,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'movepages-moving': u'Bot: paginanaam ewiezigd',
+	},
+	# Author: Eukesh
+	'new': {
+		'movepages-moving': u'रोबट: पौ संकाछ्वल',
 	},
 	'nl': {
 		'movepages-moving': u'Robot: paginanaam gewijzigd',

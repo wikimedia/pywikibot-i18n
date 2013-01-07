@@ -1,37 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
-	'aeb': {
-		'basic-changing': u'بوت: تغيير ...',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'basic-changing': u'بوت: تغيير ...',
 	},

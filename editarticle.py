@@ -1,17 +1,13 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'editarticle-edit': u'Manual edit with robot: %(description)s',
 	},
 	# Author: Csisc
 	'qqq': {
 		'editarticle-edit': u'Edit summary when the bot owner edits a text while the bot invoked an editor. <code>%(descriptions)s</code> gives further informations.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'editarticle-edit': u'تعديل يدوي: %(description)s',
 	},
@@ -221,6 +217,10 @@ msg = {
 	'nds-nl': {
 		'editarticle-edit': u'Haandmaotige bewarking mit bot: %(description)s',
 	},
+	# Author: Eukesh
+	'new': {
+		'editarticle-edit': u'रोबटं याःगु म्यानुअल ज्या: %(description)s',
+	},
 	# Author: SPQRobin
 	# Author: Siebrand
 	'nl': {
@@ -298,6 +298,10 @@ msg = {
 	},
 	'sv': {
 		'editarticle-edit': u'Manuell redigering: %(description)s',
+	},
+	# Author: Kwisha
+	'sw': {
+		'editarticle-edit': u'Hariri kwa mkono na boti: %(description)s',
 	},
 	# Author: Przemub
 	'szl': {

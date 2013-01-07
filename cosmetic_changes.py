@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'cosmetic_changes-append': u'; cosmetic changes',
 		'cosmetic_changes-standalone': u'Robot: Cosmetic changes',
@@ -14,7 +9,8 @@ msg = {
 	'qqq': {
 		'cosmetic_changes-standalone': u'Summary message when the bot using cosmetic changes as a stand-alone script',
 		'cosmetic_changes-append': u'Summary message that will be appended to the normal edit summary when cosmetic changes are made on the fly.\n\n"Cosmetic changes" here means changes to the appearance of the page only, without any changes to the substance of the page.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
 		'cosmetic_changes-append': u'; تغييرات تجميلية',

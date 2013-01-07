@@ -1,64 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'featured-featured': u'Robot: %(page)s is a featured article',
 		'featured-former': u'Robot: %(page)s is a former featured article',
 		'featured-good': u'Robot: %(page)s is a good article',
 		'featured-list': u'Robot: %(page)s is a featured list',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
-	'aeb': {
-		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
-		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
-		'featured-featured': u'بوت: %(page)s هي مقالة مختارة',
-		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
 		'featured-list': u'بوت: %(page)s هي قائمة مختارة',
@@ -437,6 +385,13 @@ msg = {
 		'featured-featured': u'Bot: %(page)s is n etalazie-artikel',
 		'featured-former': u'Bot: %(page)s is n veurmaolig uutelocht artikel',
 	},
+	# Author: Eukesh
+	'new': {
+		'featured-good': u'रोबट: %(page)s बांलाःगु च्वसु ख',
+		'featured-list': u'रोबट: %(page)s ल्यया धलः ख।',
+		'featured-featured': u'रोबट: %(page)s ल्यया च्वसु ख।',
+		'featured-former': u'रोबट: %(page)s न्हापाया ल्यया च्वसु ख।',
+	},
 	# Author: Siebrand
 	'nl': {
 		'featured-good': u'Robot: %(page)s is een goed artikel',
@@ -568,6 +523,10 @@ msg = {
 		'featured-list': u'Bot: %(page)s är en utmärkt list',
 		'featured-featured': u'Bot: %(page)s är en utmärkt artikel',
 		'featured-former': u'Bot: %(page)s är en före detta utmärkt artikel',
+	},
+	# Author: Kwisha
+	'sw': {
+		'featured-good': u'Roboti: %(page)s ni makala mazuri',
 	},
 	# Author: Przemub
 	'szl': {

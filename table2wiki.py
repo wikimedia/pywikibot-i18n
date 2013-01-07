@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	# Author: Xqt
 	'en': {
 		'table2wiki-no-warning': u'User-controlled robot: Table syntax updated',
@@ -15,7 +10,8 @@ msg = {
 	# Author: Xqt
 	'qqq': {
 		'table2wiki-warnings': u'The message is used as an edit comment. Variables:\n* Variable "%(count)d" is probably a number.\n* You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(count)d|1 entry|%(count)d entries}}</nowiki></code>)\n* You may also use PLURAL tag like (<code><nowiki>{{PLURAL:count|1 entry|%(count)d entries}}</nowiki></code>)',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'table2wiki-warnings': u'بوت بواسطة مستخدم: تحديث تهيئة الجدول - {{PLURAL:count|1 تحذير|%(count)d تحذير}}!',
 		'table2wiki-no-warning': u'بوت بواسطة مستخدم: تحديث تهيئة الجدول',

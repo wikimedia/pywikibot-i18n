@@ -1,37 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
-	'aeb': {
-		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
 	},
@@ -113,8 +85,9 @@ msg = {
 		'fixing_redirects-fixing': u'Boto: Riparante redirektilojn',
 	},
 	# Author: Armando-Martin
+	# Author: TheBITLINK
 	'es': {
-		'fixing_redirects-fixing': u'Bot: Arreglando redirecciones',
+		'fixing_redirects-fixing': u'Bot: Reparando redirecciones',
 	},
 	# Author: Pikne
 	'et': {
@@ -261,6 +234,10 @@ msg = {
 	'nds-nl': {
 		'fixing_redirects-fixing': u'Bot: deurverwiezingen verbeterd',
 	},
+	# Author: Eukesh
+	'new': {
+		'fixing_redirects-fixing': u'बट: पुनर्निदेश मिलय्‌यानाच्वँगु',
+	},
 	# Author: Siebrand
 	'nl': {
 		'fixing_redirects-fixing': u'Robot: doorverwijzingen gecorrigeerd',
@@ -330,6 +307,10 @@ msg = {
 	},
 	'sv': {
 		'fixing_redirects-fixing': u'Bot: Rättar omdirigeringar',
+	},
+	# Author: Kwisha
+	'sw': {
+		'fixing_redirects-fixing': u'Boti: Inarekebisha uelekezaji',
 	},
 	# Author: Przemub
 	'szl': {

@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
 		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
@@ -25,7 +20,8 @@ msg = {
 		'solve_disambiguation-adding-dn-template': u'The message is used as an edit comment.\nDo not alter <code>%(from)s</code>.\nIt will be replaced with a page title.',
 		'solve_disambiguation-unknown-page': u'{{Identical|Unknown}}',
 		'solve_disambiguation-links-removed': u'The message is used as an edit comment.\nDo not alter <code>%(from)s</code>.\nIt will be replaced with a page title.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'solve_disambiguation-redirect-removed': u'توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات',
 		'solve_disambiguation-redirect-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
@@ -715,15 +711,19 @@ msg = {
 		'solve_disambiguation-unknown-page': u'[अज्ञात]',
 		'solve_disambiguation-links-removed': u'रोबोट-सहायक अस्पष्टता: %(from)s लाइ - लिङ्क(हरु) हटाइयो',
 	},
+	# Author: Eukesh
+	'new': {
+		'solve_disambiguation-unknown-page': u'(मस्युगु)',
+	},
 	# Author: Siebrand
 	'nl': {
-		'solve_disambiguation-redirect-removed': u'Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Verwijzing(en) verwijderd',
-		'solve_disambiguation-redirect-resolved': u'Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Verwijzing(en) gewijzigd naar %(to)s',
-		'solve_disambiguation-links-resolved': u'Robotgeholpen doorverwijzing: [[%(from)s]] - Verwijzing(en) gewijzigd naar %(to)s',
+		'solve_disambiguation-redirect-removed': u'Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Koppeling(en) verwijderd',
+		'solve_disambiguation-redirect-resolved': u'Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Koppeling(en) gewijzigd naar %(to)s',
+		'solve_disambiguation-links-resolved': u'Robotgeholpen doorverwijzing: [[%(from)s]] - Koppeling(en) gewijzigd naar %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Robotgeholpen disambiguatie: %(from)s - heeft aandacht van een expert nodig',
 		'solve_disambiguation-adding-dn-template': u'Robotgeholpen disambiguatie: %(from)s - heeft aandacht van een expert nodig',
 		'solve_disambiguation-unknown-page': u'(onbekend)',
-		'solve_disambiguation-links-removed': u'Robotgeholpen doorverwijzing: [[%(from)s]] - Verwijzing(en) verwijderd',
+		'solve_disambiguation-links-removed': u'Robotgeholpen doorverwijzing: [[%(from)s]] - Koppeling(en) verwijderd',
 	},
 	# Author: Harald Khan
 	# Author: Njardarlogar

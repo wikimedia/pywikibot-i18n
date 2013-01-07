@@ -1,73 +1,13 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
 		'delete-from-file': u'Robot: Deleting a list of files.',
 		'delete-images': u'Robot: Deleting all images on page %(page)s',
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
-	'aeb': {
-		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
-		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
-		'delete-from-category': u'روبوت - حذف كل الصفحات من التصنيف %(page)s',
-		'delete-from-file': u'بوت: حذف قائمة من الملفات.',
-		'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
 		'delete-referring-pages': u'روبوت - حذف كل الصفحات الراجعة من %(page)s',
@@ -491,6 +431,14 @@ msg = {
 		'delete-from-file': u'Bot: lieste mit pagina\'s wörden vortedaon.',
 		'delete-linked-pages': u'Bot: alle pagina\'s waor de pagina %(page)s naor verwis wörden vortedaon',
 	},
+	# Author: Eukesh
+	'new': {
+		'delete-images': u'रोबट:  %(page)sपतिइ दूगु सकल किपा दिलित यानाच्वंगु',
+		'delete-referring-pages': u'रोबट: %(page)sपतिं रिफर यानाच्वँगु सकल पौ दिलित यानाच्वंगु',
+		'delete-from-category': u'रोबट: पुचः %(page)sया सकल पौ दिलित यानाच्वंगु',
+		'delete-from-file': u'रोबट:छगु धलः फाइल दिलित यानाच्वँगु।',
+		'delete-linked-pages': u'रोबट: %(page)sनाप स्वापू दूगु सकल पौ दिलित यानाच्वंगु',
+	},
 	# Author: Siebrand
 	'nl': {
 		'delete-images': u'Robot: alle media op pagina %(page)s worden verwijderd',
@@ -636,8 +584,13 @@ msg = {
 		'delete-linked-pages': u'Bot: Tar bort alla sidor länkade från %(page)s',
 	},
 	# Author: Baba Tabita
+	# Author: Kwisha
 	'sw': {
+		'delete-images': u'Roboti: Inafuta picha zote katika ukurasa %(page)s',
+		'delete-referring-pages': u'Roboti: Inafuta kurasa zote zinazorejelea kutoka %(page)s',
+		'delete-from-category': u'Roboti: Unafuta kurasa zote katika jamii %(page)s',
 		'delete-from-file': u'Karagosi: Kuondoa orodha ya faili.',
+		'delete-linked-pages': u'Roboti:inafuta kurasa zote zilzounganishwa kutoka %(page)s',
 	},
 	# Author: Przemub
 	'szl': {

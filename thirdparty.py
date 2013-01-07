@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	# Author: DrTrigon
 	'en': {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
@@ -48,7 +43,8 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summary line second part if the page had to be modified due to new results. Parameters:\n* %(num)i is the numer of entries\n* %(page)s is the page that was updated',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'First part of message if it is a extraordinary maintenance message.\n\n(It\'s a system message that can only be triggered by the bot maintainer. Thus it\'s not important to translate the text.)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'Message footer for bot report output.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(7atta 3abd editeur lahou mawjoud)',
@@ -691,8 +687,11 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nתקציר יוצר מתוך וב־: %(sign)s</noinclude>',
 	},
 	# Author: Ex13
+	# Author: SpeedyGonsales
 	'hr': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Obavijest',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'zamjena %(tags)s oznaka',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'PORUKA BOTA',
 	},
 	# Author: Michawiki
@@ -1161,6 +1160,9 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'रोबोट',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(मनु सम्पादक मलूगु)',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'न्हुगु खँल्हाबल्हा',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'खँल्हाबल्हा क्वचागु',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'खँल्हाबल्हा हिलाछ्वगु',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'रोबट सन्देश',
 	},
 	# Author: DrTrigon
 	# Author: SPQRobin
@@ -1360,8 +1362,10 @@ msg = {
 	# Author: බිඟුවා
 	'si': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'රොබෝ',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(මනුෂ්‍ය සංස්කාරකයෙක් හමු නොවුණි)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) by %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* රොබෝ අනතුරු ඇඟවීම් පණිවුඩය: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'නව සාකච්ඡාව',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'නිවේදනය',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'සාකච්ඡාව හමාරයි',
@@ -1520,11 +1524,17 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSammanfattning genererades från och på: %(sign)s</noinclude>',
 	},
 	# Author: Baba Tabita
+	# Author: Kwisha
 	'sw': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'karagosi',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(hakuna mharairi binadamu amepatikani)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Majadiliano mapya',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'inabadilisha %(tags)s tagi',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Majadiliano yamefungwa',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Muhtasari wa majadiliano umeongezwa: Viingizo %(num)i',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Majadiliano yamebadilishwa',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Muhtasari wa majadiliano umesasishwa: viingizo %(num)i katika %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'UJUMBE WA KIKARAGOSI',
 	},
 	# Author: Aswn

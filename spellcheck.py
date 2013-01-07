@@ -1,30 +1,13 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
-	},	# Author: Als-Holder
+	},	
+# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
-	},	'ar': {
-		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
-	},	'ar': {
-		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
-	},	'ar': {
-		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
-	},	'ar': {
-		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
-	},	'ar': {
-		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
-	},	'ar': {
-		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
-	},	'ar': {
-		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
-	},	'ar': {
+	},	
+	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},
 	# Author: Xuacu
@@ -159,6 +142,10 @@ msg = {
 	},
 	'nb': {
 		'spellcheck-checking': u'Robothjulpet stavekontroll',
+	},
+	# Author: Eukesh
+	'new': {
+		'spellcheck-checking': u'बट-ग्वहालिया हिज्जे निरिक्षक',
 	},
 	'nl': {
 		'spellcheck-checking': u'Spellingscontrole',

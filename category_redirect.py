@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
 		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -17,7 +12,8 @@ msg = {
 	# Author: Xqt
 	'qqq': {
 		'category_redirect-fix-double': u'Edit summary when the bot fixes double category redirects.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'category_redirect-comment': u'بوت صيانة تحويلات التصانيف',
 		'category_redirect-change-category': u'روبوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -605,12 +601,19 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s steet in %(oldcat)s, n deurverwiezing naor %(newcat)s',
 		'category_redirect-fix-double': u'Bot: dubbele deurverwiezingen verbeteren',
 	},
+	# Author: Eukesh
+	'new': {
+		'category_redirect-comment': u'पुचः पुनर्निदेश स्वइगु रोबट',
+		'category_redirect-change-category': u'रोबट: पुनर्निदेशित पुचः [[:%(oldCatLink)s|%(oldCatTitle)s]]नं [[:%(newCatLink)s|%(newCatTitle)s]]य् हिलेगु',
+		'category_redirect-add-template': u'रोबट: मेन्तेनेन्सया पुचः पुनर्निदेश थासा तनाच्वंगु',
+		'category_redirect-fix-double': u'रोबट: निक्वःगु पुनर्निदेशयात मिलय्‌यानाच्वँगु',
+	},
 	# Author: Siebrand
 	'nl': {
 		'category_redirect-comment': u'Robot voor categoriedoorverwijzing',
 		'category_redirect-change-category': u'Robot: categorie van doorverwijzing gewijzigd van [[:%(oldCatLink)s|%(oldCatTitle)s]] naar [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Robot: categoriedoorverwijzingsjabloon toegevoegd',
-		'category_redirect-edit-request': u'Voor de volgende beveiligde pagina\'s moeten de categorieverwijzingen aangepast worden: %(itemlist)s',
+		'category_redirect-edit-request': u'Voor de volgende beveiligde pagina\'s moeten de categoriekoppelingen aangepast worden: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s staat in %(oldcat)s, een doorverwijzing naar %(newcat)s',
 		'category_redirect-fix-double': u'Robot: dubbele doorverwijzing gecorrigeerd',
 	},

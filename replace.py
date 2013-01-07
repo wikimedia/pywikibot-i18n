@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'replace-replacing': u'Robot: Automated text replacement %(description)s',
 	},
@@ -12,7 +7,8 @@ msg = {
 	# Author: Xqt
 	'qqq': {
 		'replace-replacing': u'Default edit summary when the bot does text replacements. <code>%(descriptions)s</code> gives further informations like the source and target strings or regex of the replacement.',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'replace-replacing': u'%(description)s بوت: استبدال تلقائي للنص',
 	},

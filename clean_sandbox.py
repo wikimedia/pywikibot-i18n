@@ -1,17 +1,13 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},
 	# Author: Csisc
 	'qqq': {
 		'clean_sandbox-cleaned': u'Summary message when the bot cleans sandbox',
-	},	# Author: Csisc
+	},
+	# Author: Csisc
 	'aeb': {
 		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
 	},
@@ -143,6 +139,10 @@ msg = {
 	},
 	'he': {
 		'clean_sandbox-cleaned': u'בוט: דף זה ינוקה אוטומטית.',
+	},
+	# Author: SpeedyGonsales
+	'hr': {
+		'clean_sandbox-cleaned': u'Bot: Automatsko čišćenje stranice za testiranje',
 	},
 	# Author: Dani
 	'hu': {

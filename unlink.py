@@ -1,37 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-
-
-
-
-
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
-	'aeb': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
-	},	# Author: Csisc
+	},	
+	# Author: Csisc
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},
@@ -226,7 +198,7 @@ msg = {
 	},
 	# Author: Siebrand
 	'nl': {
-		'unlink-unlinking': u'Robot: verwijzing naar "%s" verwijderd',
+		'unlink-unlinking': u'Robot: koppeling naar "%s" verwijderd',
 	},
 	# Author: Njardarlogar
 	'nn': {
@@ -260,6 +232,10 @@ msg = {
 	'ru': {
 		'unlink-unlinking': u'бот: удаление ссылки «%s»',
 	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'unlink-unlinking': u'රොබෝ: "%s" අසම්බන්ධ කරමින්',
+	},
 	# Author: Teslaton
 	'sk': {
 		'unlink-unlinking': u'Robot: Odstránenie prepojenia na "%s"',
@@ -287,6 +263,10 @@ msg = {
 	# Author: Lokal Profil
 	'sv': {
 		'unlink-unlinking': u'Robot: avlänkar "%s"',
+	},
+	# Author: Kwisha
+	'sw': {
+		'unlink-unlinking': u'Roboti: Inatoa viungo "%s"',
 	},
 	# Author: Aswn
 	'ta': {
