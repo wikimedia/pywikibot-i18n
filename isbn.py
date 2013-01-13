@@ -118,8 +118,9 @@ msg = {
 		'isbn-formatting': u'Ρομπότ: Μορφοποίηση ISBN',
 	},
 	# Author: Mihxil
+	# Author: Objectivesea
 	'eo': {
-		'isbn-formatting': u'Roboto: Aranĝis ISBN',
+		'isbn-formatting': u'Roboto: Aranĝas la ISBN',
 	},
 	# Author: Dferg
 	# Author: Invadinado
@@ -464,8 +465,9 @@ msg = {
 		'isbn-formatting': u'机器人：ISBN格式化',
 	},
 	# Author: Andrew971218
+	# Author: Simon Shek
 	'zh-hant': {
-		'isbn-formatting': u'機器人：格式化ISBN',
+		'isbn-formatting': u'機械人：格式化ISBN',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

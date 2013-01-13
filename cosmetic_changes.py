@@ -429,9 +429,10 @@ msg = {
 		'cosmetic_changes-standalone': u'robot kozmetické zmeny',
 		'cosmetic_changes-append': u'; kozmetické zmeny',
 	},
+	# Author: Mateju
 	'sl': {
-		'cosmetic_changes-standalone': u'robot kozmetične spremembe',
-		'cosmetic_changes-append': u'; kozmetične spremembe',
+		'cosmetic_changes-standalone': u'Robot: oblikovne spremembe',
+		'cosmetic_changes-append': u'; oblikovne spremembe',
 	},
 	# Author: Abshirdheere
 	'so': {

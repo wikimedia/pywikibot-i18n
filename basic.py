@@ -112,8 +112,9 @@ msg = {
 		'basic-changing': u'Bot: Αλλάζει ...',
 	},
 	# Author: Airon90
+	# Author: Objectivesea
 	'eo': {
-		'basic-changing': u'Roboto: Ŝanĝanta ...',
+		'basic-changing': u'Roboto: Ŝanĝas ...',
 	},
 	# Author: Fitoschido
 	'es': {

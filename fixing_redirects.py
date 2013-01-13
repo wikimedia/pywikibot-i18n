@@ -80,9 +80,10 @@ msg = {
 	'el': {
 		'fixing_redirects-fixing': u'Ρομπότ: Διόρθωση ανακατευθύνσεων',
 	},
+	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
-		'fixing_redirects-fixing': u'Boto: Riparante redirektilojn',
+		'fixing_redirects-fixing': u'Boto: Riparas redirektilojn',
 	},
 	# Author: Armando-Martin
 	# Author: TheBITLINK
@@ -352,8 +353,9 @@ msg = {
 	'vec': {
 		'fixing_redirects-fixing': u'Robot: Coresion rindirisamenti',
 	},
+	# Author: Minh Nguyen
 	'vi': {
-		'fixing_redirects-fixing': u'Robot: Sửa đổi hướng',
+		'fixing_redirects-fixing': u'Bot: Sửa trang đổi hướng',
 	},
 	# Author: Srtxg
 	'wa': {

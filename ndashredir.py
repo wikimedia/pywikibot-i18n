@@ -69,8 +69,9 @@ msg = {
 		'ndashredir-create': u'Boti [[%(title)s]] ra hetanayışi melumatê vıraşt',
 	},
 	# Author: Blahma
+	# Author: Objectivesea
 	'eo': {
-		'ndashredir-create': u'Roboto: Kreanta dividstrekan alidirektilon por [[%(title)s]]',
+		'ndashredir-create': u'Roboto: Kreas dividstrekan alidirektilon al [[%(title)s]]',
 	},
 	# Author: Invadinado
 	# Author: Ryo567

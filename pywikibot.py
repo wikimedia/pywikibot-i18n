@@ -155,6 +155,7 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Πιέστε το πλήκτρο Enter, όταν τελειώσει στο πρόγραμμα περιήγησης.',
 	},
 	# Author: Blahma
+	# Author: Objectivesea
 	'eo': {
 		'pywikibot-enter-xml-filename': u'Bonvolu enmeti la nomon de la XML-sekurkopia dosiero:',
 		'pywikibot-enter-page-processing': u'Kiu paĝo estu prilaborita?',
@@ -162,7 +163,7 @@ msg = {
 		'pywikibot-enter-namespace-number': u'Bonvolu enmeti nomspacon per ties numero:',
 		'pywikibot-enter-new-text': u'Bonvolu enmeti la novan tekston:',
 		'pywikibot-enter-category-name': u'Bonvolu enmeti la nomon de kategorio:',
-		'pywikibot-enter-finished-browser': u'Post fino de laboro en la retumilo premu Enter.',
+		'pywikibot-enter-finished-browser': u'Post laborfino en la retumilo, premu Enter.',
 	},
 	# Author: Armando-Martin
 	'es': {

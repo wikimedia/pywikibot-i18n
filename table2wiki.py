@@ -105,9 +105,10 @@ msg = {
 		'table2wiki-no-warning': u'Ρομπότ ελεγχόμενο από το χρήστη: Ο πίνακας σύνταξης ενημερώθηκε',
 	},
 	# Author: Blahma
+	# Author: Objectivesea
 	'eo': {
-		'table2wiki-warnings': u'Uzanto-regata roboto: Tabelsintakso ĝisdatigita - {{PLURAL:count|1 atentigo|%(count)d atentigoj}}!',
-		'table2wiki-no-warning': u'Uzanto-regata roboto: Tabelsintakso ĝisdatigita',
+		'table2wiki-warnings': u'Uzanto-regata roboto: Tabelsintakso ĝisdatiĝis - {{PLURAL:count|1 atentigo|%(count)d atentigoj}}!',
+		'table2wiki-no-warning': u'Uzanto-regata roboto: Tabelsintakso ĝisdatiĝis',
 	},
 	# Author: Xqt
 	'es': {
@@ -396,9 +397,10 @@ msg = {
 	},
 	# Author: Breawycker
 	# Author: Justincheng12345
+	# Author: Simon Shek
 	'zh-hant': {
 		'table2wiki-warnings': u'手動控制機械人進行表語法更新-出現%(count)d個警告！',
-		'table2wiki-no-warning': u'使用者控制的機器人： 表更新的語法',
+		'table2wiki-no-warning': u'使用者控制的機械人： 表更新的語法',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

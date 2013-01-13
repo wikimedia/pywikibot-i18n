@@ -24,6 +24,10 @@ msg = {
 	'ast': {
 		'djvutext-creating': u'Robó: Creando una páxina con testu sacáu de DjVu',
 	},
+	# Author: AZISS
+	'az': {
+		'djvutext-creating': u'Robot: DjVu-dən çixarılmış mətnlə səhifə yaratmaq',
+	},
 	# Author: E THP
 	'azb': {
 		'djvutext-creating': u'بوت: دژاوو چیخاریلان متنی صحیفه‌‌يه علاوه‌‌ ائتدی',
@@ -74,9 +78,10 @@ msg = {
 	'el': {
 		'djvutext-creating': u'Ρομπότ: Δημιουργία σελίδας με κείμενο που έχει εξαχθεί από το DjVu',
 	},
+	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
-		'djvutext-creating': u'Roboto: Kreante paĝon kun la teksto ekstraktita de DjVu',
+		'djvutext-creating': u'Roboto: Kreas paĝon kun la teksto ekstirita de DjVu',
 	},
 	# Author: Armando-Martin
 	# Author: Xqt

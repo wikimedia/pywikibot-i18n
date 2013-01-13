@@ -14,6 +14,10 @@ msg = {
 	'ast': {
 		'spellcheck-checking': u'Correición ortográfica asistida por robot',
 	},
+	# Author: AZISS
+	'az': {
+		'spellcheck-checking': u'Bot-orfoqrafiyanın avtomatlaşdırılmış yoxlaması',
+	},
 	# Author: E THP
 	'azb': {
 		'spellcheck-checking': u'یازی یانلیشی اوچون روبات یاردیم‌جی',

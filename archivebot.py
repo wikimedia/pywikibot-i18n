@@ -211,13 +211,14 @@ msg = {
 		'archivebot-archive-full': u'(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)',
 		'archivebot-archive-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]]',
 	},
+	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
 		'archivebot-older-than': u'Malnova ol',
-		'archivebot-page-summary': u'Roboto: Arkivante %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.',
-		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-page-summary': u'Roboto: Arkivas %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.',
+		'archivebot-archiveheader': u'{{diskutarkivo}}',
 		'archivebot-archive-full': u'(Plena Arkivo)',
-		'archivebot-archive-summary': u'Roboto: Arkivante %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} ekde [[%(from)s]].',
+		'archivebot-archive-summary': u'Roboto: Arkivas %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} ekde [[%(from)s]].',
 	},
 	# Author: Armando-Martin
 	# Author: TheBITLINK
@@ -894,13 +895,14 @@ msg = {
 		'archivebot-archive-summary': u'存档%(count)d个来自[[%(from)s]]的讨论。',
 	},
 	# Author: Justincheng12345
+	# Author: Simon Shek
 	# Author: Waihorace
 	'zh-hant': {
 		'archivebot-older-than': u'早於',
-		'archivebot-page-summary': u'正在將%(count)d個執行緒(%(why)s)儲存至%(archives)s。',
+		'archivebot-page-summary': u'機械人：%(count)d討論串(%(why)s)存檔至%(archives)s。',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(存檔已滿)',
-		'archivebot-archive-summary': u'正在儲存%(count)d個來自[[%(from)s]]的執行緒。',
+		'archivebot-archive-summary': u'機械人：從%(from)s存檔%(count)d。',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

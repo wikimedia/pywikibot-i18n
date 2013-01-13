@@ -462,6 +462,7 @@ msg = {
 		'interwiki-removing': u'Robot A Tir via: %(removing)s',
 		'interwiki-removing-modifying': u'Robot A Tir via: %(removing)s A Cambi: %(modifying)s',
 	},
+	# Author: Objectivesea
 	'eo': {
 		'interwiki-modifying': u'robota modifo de: %(modifying)s',
 		'interwiki-adding-modifying': u'robota aldono de: %(adding)s modifo de: %(modifying)s',
@@ -470,7 +471,7 @@ msg = {
 		'interwiki-adding': u'robota aldono de: %(adding)s',
 		'interwiki-removing': u'robota forigo de: %(removing)s',
 		'interwiki-removing-modifying': u'robota forigo de: %(removing)s modifo de: %(modifying)s',
-		'interwiki-modifying-from': u'Roboto: Ŝanĝanta %(from)s al %(modifying)s',
+		'interwiki-modifying-from': u'Roboto: Ŝanĝas %(from)s al %(modifying)s',
 	},
 	# Author: Invadinado
 	# Author: Xqt
@@ -2068,6 +2069,7 @@ msg = {
 	# Author: Alexsh
 	# Author: Andrew971218
 	# Author: Justincheng12345
+	# Author: Simon Shek
 	'zh-hant': {
 		'interwiki-modifying': u'機械人：修改%(modifying)s',
 		'interwiki-adding-modifying': u'機械人：增加%(adding)s、修改%(modifying)s',
@@ -2076,7 +2078,7 @@ msg = {
 		'interwiki-adding': u'機械人：新增%(adding)s',
 		'interwiki-removing': u'機械人：刪除%(removing)s',
 		'interwiki-removing-modifying': u'機械人：刪除%(removing)s、修改%(modifying)s',
-		'interwiki-modifying-from': u'機器人：更換%(from)s至%(modifying)s',
+		'interwiki-modifying-from': u'機械人：更換%(from)s至%(modifying)s',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

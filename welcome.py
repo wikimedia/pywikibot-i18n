@@ -166,8 +166,8 @@ msg = {
 	# Author: Objectivesea
 	'eo': {
 		'welcome-welcome': u'Bonvenon!',
-		'welcome-bad_username': u'Roboto: Aldonanta kontrolendan uzantonomon',
-		'welcome-updating': u'Roboto: Ĝisdatiganta protokolon',
+		'welcome-bad_username': u'Roboto: Aldonas kontrolendan uzantonomon',
+		'welcome-updating': u'Roboto: Ĝisdatigas protokolon',
 	},
 	# Author: Crazymadlover
 	# Author: Invadinado
@@ -690,10 +690,11 @@ msg = {
 	# Author: Breawycker
 	# Author: Justincheng12345
 	# Author: Lauhenry
+	# Author: Simon Shek
 	'zh-hant': {
 		'welcome-welcome': u'歡迎！',
-		'welcome-bad_username': u'機械人添加需要檢查的用戶名',
-		'welcome-updating': u'機器人： 更新日誌',
+		'welcome-bad_username': u'機械人：添加需要檢查的用戶名',
+		'welcome-updating': u'機械人：更新日誌',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

@@ -243,13 +243,14 @@ msg = {
 	},
 	# Author: Airon90
 	# Author: Blahma
+	# Author: Objectivesea
 	'eo': {
 		'category_redirect-comment': u'Zorga roboto pri kategoria alidirekto',
 		'category_redirect-change-category': u'Roboto: ŝanĝi alidirektan kategorion [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Roboto: aldonanta ŝablonon pri alidirekta kategorio por prizorgado',
 		'category_redirect-edit-request': u'Jenaj protektitaj paĝoj evidente bezonas ĝisdatigon de kategoriaj ligiloj: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s estas en %(oldcat)s, kiu estas alidirekto al %(newcat)s',
-		'category_redirect-fix-double': u'Roboto: Riparis duoblan alidirekton',
+		'category_redirect-fix-double': u'Roboto: Riparas duoblan alidirekton',
 	},
 	# Author: Dferg
 	# Author: Invadinado
@@ -426,11 +427,12 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s er í %(oldcat)s, sem er tilvísun á %(newcat)s',
 		'category_redirect-fix-double': u'Vélmenni: Lagfæri tvöfalda tilvísun',
 	},
+	# Author: Beta16
 	# Author: Pietrodn
 	'it': {
 		'category_redirect-comment': u'Bot di manutenzione dei redirect a categorie',
-		'category_redirect-change-category': u'Robot: cambio la categoria con redirect [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Robot: aggiungo il template del redirect a categoria per manutenzione',
+		'category_redirect-change-category': u'Bot: cambio la categoria con redirect [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Bot: aggiungo il template del redirect a categoria per manutenzione',
 		'category_redirect-edit-request': u'Le seguenti pagine protette sono state individuate come bisognose di aggiornamenti per i link alle categorie: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s è in %(oldcat)s, che è un redirect verso %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Sistemo i redirect doppi',

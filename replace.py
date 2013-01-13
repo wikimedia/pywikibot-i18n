@@ -62,8 +62,9 @@ msg = {
 		'replace-replacing': u'Robot : Erlec\'hiañ testenn emgefre %(description)s',
 	},
 	# Author: CERminator
+	# Author: Edinwiki
 	'bs': {
-		'replace-replacing': u'Bot: Automatska zamjena teksta %(description)s',
+		'replace-replacing': u'Bot: Automatska zamijena teksta %(description)s',
 	},
 	'ca': {
 		'replace-replacing': u'Robot: Reemplaçament automàtic de text %(description)s',

@@ -66,6 +66,7 @@ msg = {
 	'ast': {
 		'redirect-fix-double': u'Robó: Iguando la redireición doble a %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redireición]] a una páxina desaniciada o que nun esiste',
+		'redirect-fix-broken-moved': u'Bot: Arreglu de redireición frañada a la páxina de destín treslladada "%(to)s"',
 		'redirect-fix-loop': u'Robó: Iguando la redireición cíclica a %(to)s',
 		'redirect-remove-loop': u'Bot: El destín de la redireición forma un bucle de redireición',
 		'redirect-broken-redirect-template': u'{{Destruir|La páxina a la que redirixe nun esiste|--~~~~}}',
@@ -206,6 +207,7 @@ msg = {
 	'da': {
 		'redirect-fix-double': u'Robot: Retter dobbelt omdirigering til %(to)s',
 		'redirect-remove-broken': u'Robot: Omdirigering til en slettet eller ikke-eksisterende side',
+		'redirect-fix-broken-moved': u'Robot: Retter brudt omdirigering til flyttet målside %(to)s',
 		'redirect-fix-loop': u'Robot: Retter omdirigeringsløkke til %(to)s',
 		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
 		'redirect-broken-redirect-template': u'{{slet}}',
@@ -243,9 +245,10 @@ msg = {
 	# Author: Objectivesea
 	# Author: Xqt
 	'eo': {
-		'redirect-fix-double': u'Roboto: Riparis duoblan alidirekton al %(to)s',
+		'redirect-fix-double': u'Roboto: Riparas duoblan alidirekton al %(to)s',
 		'redirect-remove-broken': u'Roboto: Alidirekto indikas forigitan aŭ neekzistantan paĝon',
-		'redirect-fix-loop': u'Roboto: Riparanta ciklan alidirektilon al %(to)s',
+		'redirect-fix-broken-moved': u'Roboto: Riparas rompitan alidirekton al movita celpaĝo %(to)s',
+		'redirect-fix-loop': u'Roboto: Riparas ciklan alidirektilon al %(to)s',
 		'redirect-remove-loop': u'Roboto: Alidirekta celas sin mem',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
@@ -305,6 +308,7 @@ msg = {
 	'fr': {
 		'redirect-fix-double': u'Robot : répare double redirection à %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] vers une page supprimée ou inexistante',
+		'redirect-fix-broken-moved': u'Robot: Correction des redirections erronées vers la page cible %(to)s déplacée',
 		'redirect-fix-loop': u'Robot : répare boucle de redirection à %(to)s',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: La cible de [[Wikipedia:Redirect|redirection]] forme une boucle de redirection',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -432,13 +436,15 @@ msg = {
 		'redirect-remove-loop': u'Vélmenni: Tilvísun bendir á óendanlega tilvísunar lykkju',
 		'redirect-broken-redirect-template': u'{{eyða|tilvísun á síðu sem er ekki til}}',
 	},
+	# Author: Beta16
 	# Author: Nemo bis
 	# Author: Rippitippi
 	# Author: Ximo17
 	'it': {
 		'redirect-fix-double': u'Bot: Sistemo i redirect doppi a %(to)s',
 		'redirect-remove-broken': u'Bot: Redirect a una pagina inesistente',
-		'redirect-fix-loop': u'Robot: Preparazione di un ciclo di reindirizzo a %(to)s',
+		'redirect-fix-broken-moved': u'Bot: Correggo redirect errati alla pagina spostata %(to)s',
+		'redirect-fix-loop': u'Bot: Preparazione di un ciclo di reindirizzo a %(to)s',
 		'redirect-remove-loop': u'Bot: La destinazione del [[{{ns:project}}:Redirect|redirect]] rimanda alla pagina di partenza',
 		'redirect-broken-redirect-template': u'{{Cancella subito|9}}',
 	},
@@ -447,7 +453,9 @@ msg = {
 	'ja': {
 		'redirect-fix-double': u'ロボットによる: 二重リダイレクト修正 → %(to)s',
 		'redirect-remove-broken': u'ロボットによる: 削除済みまたは存在しないページへのリダイレクト',
+		'redirect-fix-broken-moved': u'ロボットによる: 迷子のリダイレクトのリダイレクト先を %(to)s に修正',
 		'redirect-fix-loop': u'ロボットによる: リダイレクトのループの修正 → %(to)s',
+		'redirect-remove-loop': u'ロボットによる: リダイレクト先にあるリダイレクトのループを修正',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: NoiX180
@@ -477,6 +485,7 @@ msg = {
 	'ko': {
 		'redirect-fix-double': u'로봇: %(to)s(으)로 이중 넘겨주기 고침',
 		'redirect-remove-broken': u'로봇: 끊긴 넘겨주기',
+		'redirect-fix-broken-moved': u'로봇: %(to)s(으)로 이동한 대상 문서로 끊긴 넘겨주기 고침',
 		'redirect-fix-loop': u'로봇: %(to)s(으)로 재귀적인 넘겨주기 고침',
 		'redirect-remove-loop': u'로봇: 넘겨주기 대상이 재귀적인 넘겨주기로 생김',
 		'redirect-broken-redirect-template': u'{{ㅅ}}',
@@ -502,6 +511,7 @@ msg = {
 	'lb': {
 		'redirect-fix-double': u'Bot: Duebel Viruleedung gefléckt → %(to)s',
 		'redirect-remove-broken': u'Bot: Viruleedung op eng geläschte Säit oder eng Säit déi et net gëtt',
+		'redirect-fix-broken-moved': u'Bot: Futtis Viruleedung op déi geréckelt Zilsäit %(to)s gouf gefléckt',
 		'redirect-fix-loop': u'Bot: Viruleedungsschleef op %(to)s verbessert',
 		'redirect-remove-loop': u'Bot: Viruleedung där hiert Zil zu enger endlos Schleef féiert',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -539,10 +549,11 @@ msg = {
 		'redirect-broken-redirect-template': u'{{fafao}}',
 	},
 	# Author: Luthfi94
+	# Author: Naval Scene
 	'min': {
 		'redirect-fix-double': u'Bot: Mampeloki pangalihan gando ka %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Pangalihan]] ka laman nan dihapuih atau indak ado',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Target [[Wikipedia:Redirect|pangalihan]] mahasilan pangalihan siklik',
+		'redirect-remove-broken': u'Robot: Pangaliahan ka laman nan dihapuih atau indak ado',
+		'redirect-remove-loop': u'Robot: Target pangaliahan mahasilan pangaliahan bapusiang',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Bjankuloski06
@@ -551,6 +562,7 @@ msg = {
 	'mk': {
 		'redirect-fix-double': u'Робот: Исправка на двојни пренасочувања → %(to)s',
 		'redirect-remove-broken': u'[[ВП:КББ|О6]: [[Википедија:Пренасочување|Пренасочување]] кон избришана или непостоечка страница',
+		'redirect-fix-broken-moved': u'Робот: Исправка на прекинато пренасочување кон преместена целна страница %(to)s',
 		'redirect-fix-loop': u'Робот: Поправа јамка на пренасочување кон %(to)s',
 		'redirect-remove-loop': u'[[ВП:КББ|О6]]: Одредницата за [[Википедија:Пренасочување|пренасочување]] образува јамка',
 		'redirect-broken-redirect-template': u'{{db|[[ВП:КББ|O8]]}}',
@@ -680,6 +692,7 @@ msg = {
 	'pms': {
 		'redirect-fix-double': u'Trigomiro: a coregg ridiression dobia a %(to)s',
 		'redirect-remove-broken': u'Trigomiro: Ridiression a na pàgina scancelà o ch\'a esist nen',
+		'redirect-fix-broken-moved': u'Trigomiro: Coregi le rediression pa bon-e a pagina ëd destinassion tramudò %(to)s',
 		'redirect-fix-loop': u'Trigomiro: Coression dël sicl ëd ridiression a %(to)s',
 		'redirect-remove-loop': u'Trigomiro: La destinassion ëd la ridiression a forma un sicl ëd ridiression',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -697,10 +710,12 @@ msg = {
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
 	# Author: Luckas Blade
+	# Author: Tuliouel
 	# Author: 555
 	'pt-br': {
 		'redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo para %(to)s',
 		'redirect-remove-broken': u'Robô: Redirecionamento para uma página eliminada ou inexistente',
+		'redirect-fix-broken-moved': u'Bot: consertando redirecionamento quebrado para página-alvo movida %(to)s',
 		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Bot: O destino do redirecionamento cria um ciclo de redirecionamentos',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -753,9 +768,11 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Dbc334
+	# Author: Mateju
 	'sl': {
 		'redirect-fix-double': u'Bot: Popravljanje dvojnih preusmeritev na %(to)s',
 		'redirect-remove-broken': u'Robot: Preusmeritev na izbrisano ali neobstoječo stran',
+		'redirect-fix-broken-moved': u'Robot: Popravljanje okvarjene povezave preusmeritve na premaknjeno ciljno stran %(to)s',
 		'redirect-fix-loop': u'Robot: Popravljanje preusmeritvene zanke na %(to)s',
 		'redirect-remove-loop': u'Robot: Cilj preusmeritve ustvarja preusmeritveno zanko',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -787,6 +804,7 @@ msg = {
 	'sr-ec': {
 		'redirect-fix-double': u'Робот: исправљена двострука преусмерења у %(to)s',
 		'redirect-remove-broken': u'Робот: преусмерење до обрисане или непостојеће странице',
+		'redirect-fix-broken-moved': u'Робот: исправљено покварено преусмерење до премештене циљне странице %(to)s',
 		'redirect-fix-loop': u'Робот: исправљена петља преусмерења на %(to)s',
 		'redirect-remove-loop': u'Робот: одредиште преусмерења образује петљу',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -795,6 +813,7 @@ msg = {
 	'sr-el': {
 		'redirect-fix-double': u'Robot: ispravljena dvostruka preusmerenja u %(to)s',
 		'redirect-remove-broken': u'Robot: preusmerenje do obrisane ili nepostojeće stranice',
+		'redirect-fix-broken-moved': u'Robot: ispravljeno pokvareno preusmerenje do premeštene ciljne stranice %(to)s',
 		'redirect-fix-loop': u'Robot: ispravljena petlja preusmerenja na %(to)s',
 		'redirect-remove-loop': u'Robot: odredište preusmerenja obrazuje petlju',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -885,6 +904,7 @@ msg = {
 	'uk': {
 		'redirect-fix-double': u'Робот: виправлення подвійного перенаправлення → %(to)s',
 		'redirect-remove-broken': u'бот: перенаправлення на вилучену або неіснуючу сторінку',
+		'redirect-fix-broken-moved': u'Робот: Виправлення розірваного перенаправлення на сторінку, перейменовану на %(to)s',
 		'redirect-fix-loop': u'бот: виправлення петлі перенаправлень на %(to)s',
 		'redirect-remove-loop': u'бот: перенаправлення формують петлю',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -911,6 +931,7 @@ msg = {
 	'vi': {
 		'redirect-fix-double': u'Bot: Giải quyết đổi hướng kép đến %(to)s',
 		'redirect-remove-broken': u'Bot: [[Wikipedia:Trang đổi hướng|Đổi hướng]] đến trang xóa hoặc không tồn tại',
+		'redirect-fix-broken-moved': u'Bot: Sửa đổi hướng sai; trang đích đã được di chuyển đến %(to)s',
 		'redirect-fix-loop': u'Bot: Sửa vòng lặp đổi hướng đến %(to)s',
 		'redirect-remove-loop': u'Bot: [[Wikipedia:Trang đổi hướng|Đổi hướng]] qua lại',
 		'redirect-broken-redirect-template': u'{{Chờ xóa}}',
@@ -965,11 +986,13 @@ msg = {
 	# Author: Andrew971218
 	# Author: Justincheng12345
 	# Author: Liangent
+	# Author: Simon Shek
 	'zh-hant': {
 		'redirect-fix-double': u'機械人：修正雙重定向至%(to)s',
-		'redirect-remove-broken': u'機器人：重定向到已刪除或不存在的頁面',
+		'redirect-remove-broken': u'機械人：重定向到已刪除或不存在的頁面',
+		'redirect-fix-broken-moved': u'機械人：修復損壞的重定向頁到移動目標頁面 %(to)s',
 		'redirect-fix-loop': u'機械人：修復重定向迴圈至%(to)s',
-		'redirect-remove-loop': u'機器人：重定向目標構成循環',
+		'redirect-remove-loop': u'機械人：重定向目標構成循環',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Justincheng12345

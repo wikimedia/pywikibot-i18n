@@ -23,6 +23,10 @@ msg = {
 	'ast': {
 		'movepages-moving': u'Robó: Páxina treslladada',
 	},
+	# Author: AZISS
+	'az': {
+		'movepages-moving': u'Robot: Yeri dəyişilmiş səhifə',
+	},
 	# Author: E THP
 	'azb': {
 		'movepages-moving': u'بوت:صحیفه داشیندی',

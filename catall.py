@@ -27,6 +27,10 @@ msg = {
 	'ast': {
 		'catall-changing': u'Robó: Camudando categoríes',
 	},
+	# Author: AZISS
+	'az': {
+		'catall-changing': u'Robot: Dəyişilmiş kateqoriyalar',
+	},
 	# Author: E THP
 	'azb': {
 		'catall-changing': u'روبات:بؤلمه دَییشدیریر',
@@ -83,9 +87,10 @@ msg = {
 	'el': {
 		'catall-changing': u'Ρομπότ: Αλλαγή κατηγοριών',
 	},
+	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
-		'catall-changing': u'Roboto: Ŝanĝante kategoriojn',
+		'catall-changing': u'Roboto: Ŝanĝas kategoriojn',
 	},
 	# Author: Armando-Martin
 	# Author: Xqt
@@ -394,8 +399,9 @@ msg = {
 	},
 	# Author: Breawycker
 	# Author: Justincheng12345
+	# Author: Simon Shek
 	'zh-hant': {
-		'catall-changing': u'機器人：更改分類',
+		'catall-changing': u'機械人：更改分類',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

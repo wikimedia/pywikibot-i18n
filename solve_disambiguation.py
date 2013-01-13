@@ -1059,14 +1059,15 @@ msg = {
 		'solve_disambiguation-links-removed': u'机器人辅助消歧义：%(from)s - 移除链接',
 	},
 	# Author: Andrew971218
+	# Author: Simon Shek
 	'zh-hant': {
-		'solve_disambiguation-redirect-removed': u'機器人輔助消除歧義：%(from)s - 刪除鏈接',
-		'solve_disambiguation-redirect-resolved': u'機器人輔助消除歧義：%(from)s - 連接改為%(to)s',
-		'solve_disambiguation-links-resolved': u'機器人輔助消除歧義：%(from)s - 連接改為%(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'機器人輔助消除歧義：%(from)s - 標記為需要專家關注',
-		'solve_disambiguation-adding-dn-template': u'機器人輔助消除歧義：%(from)s  - 標記為需要專家關注',
+		'solve_disambiguation-redirect-removed': u'機械人輔助消除歧義：%(from)s - 刪除鏈接',
+		'solve_disambiguation-redirect-resolved': u'機械人輔助消除歧義：%(from)s - 連接改為%(to)s',
+		'solve_disambiguation-links-resolved': u'機械人輔助消除歧義：%(from)s - 連接改為%(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'機械人輔助消除歧義：%(from)s - 標記為需要專家關注',
+		'solve_disambiguation-adding-dn-template': u'機械人輔助消除歧義：%(from)s  - 標記為需要專家關注',
 		'solve_disambiguation-unknown-page': u'(未知)',
-		'solve_disambiguation-links-removed': u'機器人輔助消除歧義：%(from)s - 移除鏈接。',
+		'solve_disambiguation-links-removed': u'機械人輔助消除歧義：%(from)s - 移除鏈接。',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

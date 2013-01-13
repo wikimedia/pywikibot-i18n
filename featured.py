@@ -274,13 +274,14 @@ msg = {
 		'featured-featured': u'Vélmenni: %(page)s er úrvalsgrein',
 		'featured-former': u'Vélmenni: %(page)s er fyrrum úrvalsgrein',
 	},
+	# Author: Beta16
 	# Author: Gianfranco
 	# Author: Nemo bis
 	'it': {
 		'featured-good': u'Bot: Collegamento alla voce di qualità %(page)s',
-		'featured-list': u'Robot: %(page)s è un elenco da vetrina',
+		'featured-list': u'Bot: %(page)s è un elenco da vetrina',
 		'featured-featured': u'Bot: Collegamento alla voce in vetrina %(page)s',
-		'featured-former': u'Robot: %(page)s è una voce che è stata in vetrina',
+		'featured-former': u'Bot: %(page)s è una voce che è stata in vetrina',
 	},
 	# Author: Fryed-peach
 	# Author: Shirayuki

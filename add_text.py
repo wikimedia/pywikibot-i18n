@@ -669,8 +669,9 @@ msg = {
 	'zh-hans': {
 		'add_text-adding': u'机器人：添加 %(adding)s',
 	},
+	# Author: Simon Shek
 	'zh-hant': {
-		'add_text-adding': u'機器人新增：%(adding)s',
+		'add_text-adding': u'機械人：新增%(adding)s',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

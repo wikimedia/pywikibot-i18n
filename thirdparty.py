@@ -301,7 +301,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova rasprava',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - zadnja izmjena od [[Korisnik:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Obavještenje',
-		'thirdparty-drtrigonbot-subster-summary-mod': u'zamjena %(tags)s oznaka',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'zamijena %(tags)s oznaka',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Rasprava zatvorena',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s sve rasprave su završene (nadzor zaustavljen) - zadnja izmjena od %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Sažetak rasprave dodan; %(num)i unosa.',
@@ -452,15 +452,15 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova diskuto',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - laste redaktita de [[Uzanto:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Sciigo',
-		'thirdparty-drtrigonbot-subster-summary-mod': u'anstataŭiganta etikedo(j)n %(tags)s',
-		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskuto fermita',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'anstataŭigas etikedo(j)n %(tags)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskuto fermis',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s ĉiuj diskutoj finiĝis (supervido ĉesis) - laste redaktita de %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Aldonita resumo de diskuto: %(num)i eroj',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskuto modifita',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Aldonita resumo de diskuto kun poluro: %(num)i eroj',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Aldonis resumo de diskuto: %(num)i eroj',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskuto modifis',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Resumo de diskuto aldoniĝis kun netigo: %(num)i eroj',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Resume de diskuto ĝisdatigita: %(num)i eroj en %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTA MESAĜO',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResumo generita el kaj en: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResumo generiĝis el kaj ĉe: %(sign)s</noinclude>',
 	},
 	# Author: Armando-Martin
 	# Author: Vivaelcelta
@@ -1778,6 +1778,7 @@ msg = {
 	},
 	# Author: Breawycker
 	# Author: Justincheng12345
+	# Author: Simon Shek
 	'zh-hant': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'機械人',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'（沒有發現人類編輯）',
@@ -1795,7 +1796,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'添加並修改討論摘要：%(num)i項',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'討論摘要更新：%(page)s中%(num)i項',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'機械人消息',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>摘要由在%(sign)s生成</noinclude></noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\n摘要由在%(sign)s生成</noinclude></noinclude>',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {

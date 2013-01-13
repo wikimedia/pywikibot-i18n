@@ -160,12 +160,13 @@ msg = {
 		'delete-linked-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που συνδέονται από την %(page)s',
 	},
 	# Author: Blahma
+	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
-		'delete-images': u'Roboto: Forigante ĉiujn bildojn ĉe la paĝo %(page)s',
-		'delete-referring-pages': u'Roboto: Forigante ĉiujn paĝojn ligantajn al %(page)s',
-		'delete-from-category': u'Roboto: Forigante ĉiujn paĝojn de la kategorio %(page)s',
-		'delete-from-file': u'Roboto: Forigante liston da dosieroj',
+		'delete-images': u'Roboto: Forigas ĉiujn bildojn ĉe la paĝo %(page)s',
+		'delete-referring-pages': u'Roboto: Forigas ĉiujn paĝojn kiuj ligas el %(page)s',
+		'delete-from-category': u'Roboto: Forigas ĉiujn paĝojn de la kategorio %(page)s',
+		'delete-from-file': u'Roboto: Forigas liston da dosieroj',
 		'delete-linked-pages': u'Roboto: Forigante ĉiujn paĝojn ligatajn el %(page)s',
 	},
 	# Author: Invadinado
@@ -703,8 +704,9 @@ msg = {
 	# Author: Breawycker
 	# Author: Justincheng12345
 	# Author: Lauhenry
+	# Author: Simon Shek
 	'zh-hant': {
-		'delete-images': u'機器人： 刪除「%(page)s」頁上的所有圖像',
+		'delete-images': u'機械人：刪除%(page)s上的所有圖像',
 		'delete-referring-pages': u'機械人：删除所有從%(page)s指向的頁面',
 		'delete-from-category': u'機械人：刪除所有来自%(page)s分類的頁面',
 		'delete-from-file': u'機械人：刪除列表中的檔案。',

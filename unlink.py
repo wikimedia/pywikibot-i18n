@@ -72,8 +72,9 @@ msg = {
 		'unlink-unlinking': u'Ρομπότ: Αποσύνδεση του "%s"',
 	},
 	# Author: Blahma
+	# Author: Objectivesea
 	'eo': {
-		'unlink-unlinking': u'Roboto: Malliganta "%s"',
+		'unlink-unlinking': u'Roboto: Malligas "%s"',
 	},
 	# Author: Armando-Martin
 	# Author: Xqt
@@ -309,8 +310,9 @@ msg = {
 		'unlink-unlinking': u'机器人：断开“%s”链接',
 	},
 	# Author: Breawycker
+	# Author: Simon Shek
 	'zh-hant': {
-		'unlink-unlinking': u'機器人： 斷開連結" %s "',
+		'unlink-unlinking': u'機械人： 斷開連結" %s "',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {
