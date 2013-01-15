@@ -507,9 +507,11 @@ msg = {
 		'template-substituting': u'机器人：替换%(num)d个模板：%(list)s',
 	},
 	# Author: Justincheng12345
+	# Author: Simon Shek
 	'zh-hant': {
 		'template-removing': u'機械人刪除%(num)d個模板：%(list)s',
 		'template-changing': u'機械人更改%(num)d個模板：%(list)s',
+		'template-comma': u',',
 		'template-substituting': u'機械人替換%(num)d個模板：%(list)s',
 	},
 	# Author: Justincheng12345

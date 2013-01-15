@@ -584,6 +584,7 @@ msg = {
 	'ms': {
 		'redirect-fix-double': u'Bot: Memperbetulkan pelencongan berganda ke %(to)s',
 		'redirect-remove-broken': u'Robot: Melencong kepada laman yang terhapus atau tidak wujud',
+		'redirect-fix-broken-moved': u'Robot: Membaiki lencongan yang terputus ke halaman sasaran yang terpindah iaitu %(to)s',
 		'redirect-fix-loop': u'Robot: Membaiki gelung lencongan ke %(to)s',
 		'redirect-remove-loop': u'Robot: Sasaran lencongan membentuk gelung lencongan',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
