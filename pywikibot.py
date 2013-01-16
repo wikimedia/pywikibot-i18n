@@ -8,6 +8,7 @@ msg = {
 		'pywikibot-enter-new-text': u'Please enter the new text:',
 		'pywikibot-enter-page-processing': u'Which page should be processed?',
 		'pywikibot-enter-xml-filename': u'Please enter the XML dump\'s filename:',
+		'comma-separator': ', ',
 	},
 	# Author: Als-Holder
 	# Author: TTMTT
@@ -19,6 +20,7 @@ msg = {
 		'pywikibot-enter-new-text': u'Message displayed to the bot owner to enter the new text.',
 		'pywikibot-enter-category-name': u'Message displayed to the bot owner to enter the category name.',
 		'pywikibot-enter-finished-browser': u'Message displayed to the bot owner to press Enter button when browser edits are finished.',
+		'comma-separator': 'Localized comma character with a trailing space',
 	},
 	# Author: TTMTT
 	# Author: Zanatos
@@ -190,6 +192,7 @@ msg = {
 		'pywikibot-enter-new-text': u'لطفاً متن جدید را وارد کنید:',
 		'pywikibot-enter-category-name': u'لطفاً نام رده را وارد کنید:',
 		'pywikibot-enter-finished-browser': u'هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید.',
+		'comma-separator': '، ',
 	},
 	# Author: Nedergard
 	# Author: VezonThunder
