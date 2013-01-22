@@ -112,9 +112,11 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
+	# Author: Zedlik
 	'be-tarask': {
 		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня на %(to)s',
 		'redirect-remove-broken': u'Робат: Перанакіраваньне на выдаленую ці неіснуючую старонку',
+		'redirect-fix-broken-moved': u'Робат: Выпраўленьне перанакіраваньня на старонку, перанесеную ў %(to)s',
 		'redirect-fix-loop': u'Робат: Выпраўленьне перанакіраваньня на %(to)s',
 		'redirect-remove-loop': u'Робат: Пятля перанакіраваньняў',
 		'redirect-broken-redirect-template': u'{{Выдаліць|некарэктнае перанакіраваньне}}',
@@ -166,11 +168,13 @@ msg = {
 		'redirect-broken-redirect-template': u'{{Brisanje}}',
 	},
 	# Author: BroOk
+	# Author: Grondin
 	# Author: SMP
 	# Author: Vriullop
 	'ca': {
 		'redirect-fix-double': u'Bot: Reparació de les redireccions dobles a %(to)s',
 		'redirect-remove-broken': u'Bot: La pàgina a la qual redirecciona no existeix',
+		'redirect-fix-broken-moved': u'Bot: Reparació de les redireccions trencades per moure-les a %(to)s',
 		'redirect-fix-loop': u'Bot: arreglant redirecció en bucle per %(to)s',
 		'redirect-remove-loop': u'Bot: El destí de la redirecció crea un bucle de redirecció',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -255,10 +259,12 @@ msg = {
 	# Author: Armando-Martin
 	# Author: Dferg
 	# Author: Invadinado
+	# Author: Vivaelcelta
 	# Author: Xqt
 	'es': {
 		'redirect-fix-double': u'Bot: Arreglando doble redirección → %(to)s',
 		'redirect-remove-broken': u'Bot: Redirige a una página borrada o que no existe',
+		'redirect-fix-broken-moved': u'Bot: arreglo la redirección rota hacia la página de destino trasladada "%(to)s"',
 		'redirect-fix-loop': u'Bot: Arreglando redirección infinita → %(to)s',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: El destino de la [[Wikipedia:Redirect|redirección]] crea un bucle de redirección',
 		'redirect-broken-redirect-template': u'{{destruir|1=La página a la que redirige no existe|bot=~~~~}}',
@@ -275,11 +281,13 @@ msg = {
 	# Author: Ebraminio
 	# Author: Huji
 	# Author: Mjbmr
+	# Author: Reza1615
 	# Author: ZxxZxxZ
 	# Author: جواد
 	'fa': {
 		'redirect-fix-double': u'ربات: اصلاح تغییرمسیر دوتایی به %(to)s',
 		'redirect-remove-broken': u'ربات: تغییرمسیر به صفحهٔ ناموجود یا حذف‌شده',
+		'redirect-fix-broken-moved': u'ربات:اصلاح تغییرمسیرهای خراب به صفحهٔ هدف %(to)s',
 		'redirect-fix-loop': u'ربات: رفع حلقه در تغییرمسیر به %(to)s',
 		'redirect-remove-loop': u'ربات: مقصد تغییرمسیر یک تغییرمسیر حلقه‌ای ایجاد می‌کند',
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
@@ -826,6 +834,7 @@ msg = {
 	'sv': {
 		'redirect-fix-double': u'Robot: Rättar dubbel omdirigering → %(to)s',
 		'redirect-remove-broken': u'Robot: Omdirigerar till en raderad eller en obefintlig sida',
+		'redirect-fix-broken-moved': u'Robot: Reparerade trasig omdirigering till den flyttade målsidan %(to)s',
 		'redirect-fix-loop': u'Robot: Fixar omdirigeringsslinga till %(to)s',
 		'redirect-remove-loop': u'Robot: Målet för omdirigeringen bildar en omdirigeringsloop',
 		'redirect-broken-redirect-template': u'{{radera|Trasig omdirigering}}',
@@ -976,10 +985,12 @@ msg = {
 	},
 	# Author: Liangent
 	# Author: Linforest
+	# Author: Yfdyh000
 	# Author: 阿pp
 	'zh-hans': {
 		'redirect-fix-double': u'机器人：修正双重重定向至%(to)s',
 		'redirect-remove-broken': u'机器人：重定向到已删除或不存在的页面',
+		'redirect-fix-broken-moved': u'机器人：修复破损的重定向到已移动的目标页面 %(to)s',
 		'redirect-fix-loop': u'机器人：修复重定向循环至%(to)s',
 		'redirect-remove-loop': u'机器人：重定向目标构成循环',
 		'redirect-broken-redirect-template': u'{{db-r1}}',

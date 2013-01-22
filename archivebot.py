@@ -225,7 +225,7 @@ msg = {
 	# Author: Vivaelcelta
 	# Author: Xqt
 	'es': {
-		'archivebot-older-than': u'más antigup que',
+		'archivebot-older-than': u'más antiguo que',
 		'archivebot-page-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHIVO LLENO)',

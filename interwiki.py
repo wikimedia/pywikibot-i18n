@@ -794,13 +794,13 @@ msg = {
 	},
 	# Author: Snævar
 	'is': {
-		'interwiki-modifying': u'Vélmenni: Breyti: %(modifying)s',
-		'interwiki-adding-modifying': u'Vélmenni: Bæti við: %(adding)s Breyti: %(modifying)s',
-		'interwiki-adding-removing': u'Vélmenni: Bæti við: %(adding)s Fjarlægi: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Vélmenni: Bæti við: %(adding)s Fjarlægi: %(removing)s Breyti: %(modifying)s',
-		'interwiki-adding': u'Vélmenni: Bæti við: %(adding)s',
-		'interwiki-removing': u'Vélmenni: Fjarlægi: %(removing)s',
-		'interwiki-removing-modifying': u'Vélmenni: Fjarlægi: %(removing)s Breyti: %(modifying)s',
+		'interwiki-modifying': u'Vélmenni: Breyti %(modifying)s',
+		'interwiki-adding-modifying': u'Vélmenni: Bæti við %(adding)s; breyti: %(modifying)s',
+		'interwiki-adding-removing': u'Vélmenni: Bæti við %(adding)s; fjarlægi: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Vélmenni: Bæti við %(adding)s; fjarlægi: %(removing)s; breyti: %(modifying)s',
+		'interwiki-adding': u'Vélmenni: Bæti við %(adding)s',
+		'interwiki-removing': u'Vélmenni: Fjarlægi %(removing)s',
+		'interwiki-removing-modifying': u'Vélmenni: Fjarlægi %(removing)s; breyti: %(modifying)s',
 		'interwiki-modifying-from': u'Vélmenni: Færi %(from)s yfir í %(modifying)s',
 	},
 	# Author: Nemo bis

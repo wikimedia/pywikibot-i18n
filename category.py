@@ -842,17 +842,17 @@ msg = {
 	# Author: Whym
 	# Author: Xqt
 	'ja': {
-		'category-version-history': u'ロボットによる: 以前の%(oldcat)sの更新履歴の保存',
+		'category-version-history': u'ロボットによる: 以前の %(oldcat)s の更新履歴の保存',
 		'category-changing': u'ロボットによる: カテゴリ変更 %(oldcat)s→%(newcat)s',
 		'category-adding': u'ロボットによる: カテゴリ追加 [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(%(alsocat)sにも入っています)',
+		'category-also-in': u'(%(alsocat)s にも入っています)',
 		'category-was-disbanded': u'ロボットによる: カテゴリが廃止されています',
 		'category-replacing': u'ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]',
 		'category-removing': u'ロボットによる: [[%(oldcat)s]]を除去',
-		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)s|%(title)s]]へ移動',
+		'category-was-moved': u'ロボットによる: カテゴリ [[:Category:%(newcat)s|%(title)s]] へ移動',
 		'category-renamed': u'ロボットによる: %s から移動しました。著者: %s',
-		'category-section-title': u'以前の%(oldcat)sのページ履歴',
-		'category-listifying': u'ロボットによる: %(fromcat)sからリスト化 (%(num)d件)',
+		'category-section-title': u'以前の %(oldcat)s のページ履歴',
+		'category-listifying': u'ロボットによる: %(fromcat)s からリスト化 ({{PLURAL:%(num)d|%(num)d件}})',
 	},
 	# Author: NoiX180
 	'jv': {
