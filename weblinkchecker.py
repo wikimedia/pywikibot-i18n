@@ -31,7 +31,7 @@ msg = {
                 'weblinkchecker-report': u'بر طبق بررسی‌های رباتیکی من چندین پیوند غیرقابل دسترس پیدا شد. لطفا آنها بررسی و در صورت لزوم درستش کنید.تشکر!',
         },
         'fr': {
-                'weblinkchecker-archive_msg': u'La page a été sauvegardée dans l’''Internet Archive''. Il serait peut-être utile de faire pointer le lien vers une des versions archivées : [%(URL)s].',
+                'weblinkchecker-archive_msg': u'La page a été sauvegardée dans l’Internet Archive. Il serait peut-être utile de faire pointer le lien vers une des versions archivées : [%(URL)s].',
                 'weblinkchecker-caption': u'Lien mort',
                 'weblinkchecker-summary': u'Robot : Rapporte lien externe inaccessible',
                 'weblinkchecker-report': u'Pendant plusieurs patrouilles par un robot, le lien suivant a été inaccessible. Veuillez vérifier si le lien est effectivement mort et si oui corrigez ou retirez-le.',
@@ -60,7 +60,7 @@ msg = {
                 'weblinkchecker-report': u'Өздікті бот бірнеше жегілгенде келесі сыртқы сілтемеге қатынай алмады. Бұл сілтеменің қатыналуын тексеріп шығыңыз да, не түзетіңіз, не аластаңыз!',
         },
         'ksh': {
-                'weblinkchecker-archive_msg': u'De Websick es em ''Internet Archive'' faßjehallde. Kannß jo felleijsj_obb_en Koppi doh verlengke, süsh hee: [%(URL)s].',
+                'weblinkchecker-archive_msg': u'De Websick es em Internet Archive faßjehallde. Kannß jo felleijsj_obb_en Koppi doh verlengke, süsh hee: [%(URL)s].',
                 'weblinkchecker-caption': u'Han enne kappodde Weblengk jefonge',
                 'weblinkchecker-summary': u'Bot: Ene Weblengk jeijt nit mih.',
                 'weblinkchecker-report': u'Esch han bonge die Weblingks paa Mol jetschäck. Se han allemoolde nit jedon Doht ens donnoh loore, un dä Lengk reparreere odo eruß nämme.',
@@ -78,12 +78,10 @@ msg = {
         },
         'no': {
                 'weblinkchecker-archive_msg': u'Denne nettsiden er lagra i Internet Archive. Vurder om lenka kan endres til å peke til en av de arkiverte versjonene: [%(URL)s].',
-                'weblinkchecker-caption': u'',
                 'weblinkchecker-summary': u'bot: Rapporter død eksternlenke',
         },
         'pl': {
                 'weblinkchecker-archive_msg': u'%(URL)s',
-                'weblinkchecker-caption': u'',
                 'weblinkchecker-summary': u'Robot zgłasza niedostępny link zewnętrzny',
         },
         'pt': {
