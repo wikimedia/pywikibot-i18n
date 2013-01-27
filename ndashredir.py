@@ -25,6 +25,10 @@ msg = {
 	'ast': {
 		'ndashredir-create': u'Robó: Creando redireición con guiones a [[%(title)s]]',
 	},
+	# Author: AZISS
+	'az': {
+		'ndashredir-create': u'Bot: [[%(title)s]] üçün defislə yönləndirmənin yaradılması',
+	},
 	# Author: Amir a57
 	'azb': {
 		'ndashredir-create': u'روبوت: آ خت تیره دار [[%(title)s]] یؤنلن‌دیرن',

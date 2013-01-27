@@ -346,6 +346,10 @@ msg = {
 	'no': {
 		'basic-changing': u'Bot: Endrer ...',
 	},
+	# Author: Cedric31
+	'oc': {
+		'basic-changing': u'Robot : Cambiat ...',
+	},
 	# Author: Jnanaranjan Sahu
 	'or': {
 		'basic-changing': u'Robot: ବଦଳଯାଉଛି...',

@@ -25,7 +25,7 @@ msg = {
 	},
 	# Author: AZISS
 	'az': {
-		'movepages-moving': u'Robot: Yeri dəyişilmiş səhifə',
+		'movepages-moving': u'Bot: Yeri dəyişilmiş səhifə',
 	},
 	# Author: E THP
 	'azb': {

@@ -142,17 +142,17 @@ msg = {
 	# Author: PPerviz
 	# Author: Wertuose
 	'az': {
-		'category-version-history': u'Robot: %(oldcat)ların keçmiş yaddaşa saxlanmış versiyaları',
-		'category-changing': u'Bot: %(oldcat)s kateqoriyası %(newcat)s kateqoriyası ilə dəyişdirildi',
-		'category-adding': u'Bot: [[Kateqoriya:%(newcat)s|%(newcat)s]] kateqoriyası əlavə olunur',
+		'category-version-history': u'Bot: Keçmiş %(oldcat)s kateqoriyasının yaddaşa saxlanmış versiyalar tarixçəsi',
+		'category-changing': u'Bot: %(oldcat)s kateqoriyası %(newcat)s kateqoriyasına dəyişdirildi',
+		'category-adding': u'Bot: [[:Category:%(newcat)s|%(newcat)s]] kateqoriyası əlavə olunur',
 		'category-also-in': u'(həmçinin %(alsocat)s kateqoriyasında)',
 		'category-was-disbanded': u'Bot: Kateqoriya ləğv edildi',
-		'category-replacing': u'Bot: %(oldcat)s kateqoriyasının %(newcat)s ilə əvəzlənməsi',
-		'category-removing': u'Bot: %(oldcat)s kateqoriyasından çıxarılır',
-		'category-was-moved': u'Bot: Kateqoriya köçürüldü: [[:Category:%(newcat)s|%(title)s]]',
-		'category-renamed': u'Robot: %s tərəfindən yeri dəyişilib. Müəlliflər: %s',
-		'category-section-title': u'%(oldcat)ların keçmiş səhifə tarixçəsi',
-		'category-listifying': u'Bot: %(fromcat)s kateqoriyasından sıralanır (%(num)d element)',
+		'category-replacing': u'Bot: %(oldcat)s kateqoriyası %(newcat)s kateqoriyası ilə əvəzləndi',
+		'category-removing': u'Bot: %(oldcat)s kateqoriyasından istisna edilir',
+		'category-was-moved': u'Bot: Kateqoriyanın yeri dəyişdirilib: [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: %s tərəfindən yeri dəyişdirilib. Müəlliflər: %s',
+		'category-section-title': u'%(oldcat)s keçmiş səhifə tarixçəsi',
+		'category-listifying': u'Bot: %(fromcat)s üçün ({{PLURAL:%(num)d|elementdən}}) ibarət siyahı hazırlanır',
 	},
 	# Author: Amir a57
 	# Author: E THP
@@ -379,8 +379,10 @@ msg = {
 		'category-adding': u'робот: хушрĕ category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Lloffiwr
+	# Author: Robin Owain
 	# Author: Xxglennxx
 	'cy': {
+		'category-version-history': u'Robot: Yn arbed pob fersiwn o hanes %(oldcat)s',
 		'category-changing': u'Robot: Yn newid %(oldcat)s yn %(newcat)s',
 		'category-adding': u'Robot: Yn ychwanegu [[:Category:%(newcat)s]]',
 		'category-also-in': u'(hefyd yn %(alsocat)s)',
@@ -388,6 +390,8 @@ msg = {
 		'category-replacing': u'Robot: Yn disodli\'r categori %(oldcat)s gan y categori %(newcat)s',
 		'category-removing': u'Bot: Yn ei dynnu o %(oldcat)s',
 		'category-was-moved': u'Robot: Symudwyd y categori i [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Symudwyd o %s. Awduron: %s',
+		'category-section-title': u'Hanes hen dudalennau %(oldcat)',
 		'category-listifying': u'Bot: Yn rhestru cynnwys %(fromcat)s (%(num)d o gofnodion)',
 	},
 	# Author: Christian List
@@ -1459,6 +1463,7 @@ msg = {
 		'category-section-title': u'Istoricul paginii pentru fosta %(oldcat)s',
 		'category-listifying': u'Robot: Listare de la %(fromcat)s (%(num)d intrări)',
 	},
+	# Author: AZISS
 	# Author: Express2000
 	# Author: KorneySan
 	# Author: Rubin
@@ -1476,7 +1481,7 @@ msg = {
 		'category-was-moved': u'бот: категория переименована в [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'бот: перенёс из %s. авторы: %s',
 		'category-section-title': u'История страницы из бывшей %(oldcat)s',
-		'category-listifying': u'бот: cоставляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s',
+		'category-listifying': u'бот: составляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s',
 	},
 	# Author: Gazeb
 	'rue': {

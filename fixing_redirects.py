@@ -27,6 +27,10 @@ msg = {
 	'ast': {
 		'fixing_redirects-fixing': u'Robó: Iguando redireiciones',
 	},
+	# Author: AZISS
+	'az': {
+		'fixing_redirects-fixing': u'Bot: Yönləndirmələrin düzəldilməsi',
+	},
 	# Author: E THP
 	'azb': {
 		'fixing_redirects-fixing': u'بوت: ایستیقامت‌لندیرمه‌لر دوزلدیلدی',

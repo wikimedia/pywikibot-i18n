@@ -29,7 +29,7 @@ msg = {
 	},
 	# Author: AZISS
 	'az': {
-		'catall-changing': u'Robot: Dəyişilmiş kateqoriyalar',
+		'catall-changing': u'Robot: Kateqoriyaların dəyişdirilməsi',
 	},
 	# Author: E THP
 	'azb': {
@@ -247,6 +247,10 @@ msg = {
 	# Author: Nghtwlkr
 	'no': {
 		'catall-changing': u'Robot: Endrer kategorier',
+	},
+	# Author: Cedric31
+	'oc': {
+		'catall-changing': u'Bot: Càmbia categorias',
 	},
 	# Author: Xqt
 	'pdc': {

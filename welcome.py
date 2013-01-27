@@ -131,6 +131,12 @@ msg = {
 	'cv': {
 		'welcome-welcome': u'Килӗрех!',
 	},
+	# Author: Robin Owain
+	'cy': {
+		'welcome-welcome': u'Croeso!',
+		'welcome-bad_username': u'Robot: Yn ychwanegu enwdefnyddiwr sydd angen ei wiro',
+		'welcome-updating': u'Robot: Yn ychwanegu at y log',
+	},
 	# Author: Christian List
 	# Author: Sarrus
 	'da': {

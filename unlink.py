@@ -23,6 +23,10 @@ msg = {
 	'ast': {
 		'unlink-unlinking': u'Robó: Desenllaciando «%s»',
 	},
+	# Author: AZISS
+	'az': {
+		'unlink-unlinking': u'Bot: "%s" linkinin silinməsi',
+	},
 	# Author: E THP
 	'azb': {
 		'unlink-unlinking': u'بوت: " %s " باغلانتی‌سی قالدیریلدی',

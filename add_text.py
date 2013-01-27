@@ -42,8 +42,9 @@ msg = {
 	'ast': {
 		'add_text-adding': u'Robó: Añadiendo %(adding)s',
 	},
+	# Author: AZISS
 	'az': {
-		'add_text-adding': u'Bot redaktəsi əlavə edilir %(adding)s',
+		'add_text-adding': u'Bot redaktəsi əlavə edilir: %(adding)s',
 	},
 	# Author: E THP
 	'azb': {

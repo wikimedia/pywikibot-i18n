@@ -66,11 +66,14 @@ msg = {
 		'archivebot-archive-full': u'(ARCHIVU LLENU)',
 		'archivebot-archive-summary': u'Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} de [[%(from)s]].',
 	},
+	# Author: AZISS
 	# Author: Vago
 	'az': {
-		'archivebot-older-than': u'böyükdür',
+		'archivebot-older-than': u'köhnədir',
+		'archivebot-page-summary': u'Bot: Arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}} (%(why)s) səbəbindən  %(archives)s yerləşdirilib.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-archive-full': u'(TAM ARXİV)',
+		'archivebot-archive-full': u'(ARXİV DOLUDUR)',
+		'archivebot-archive-summary': u'Bot: [[%(from)s]] tərəfindən arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}}.',
 	},
 	# Author: E THP
 	'azb': {
@@ -597,6 +600,12 @@ msg = {
 		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'eldre enn',
 		'archivebot-page-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} (%(why)s) til %(archives)s.',
+	},
+	# Author: Cedric31
+	'oc': {
+		'archivebot-older-than': u'mai ancian que',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ARCHIU PLEN)',
 	},
 	# Author: Jnanaranjan Sahu
 	'or': {

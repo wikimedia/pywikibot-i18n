@@ -63,16 +63,17 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s ta en %(oldcat)s, que ye una redireición a %(newcat)s',
 		'category_redirect-fix-double': u'Robó: Iguando redireición doble',
 	},
+	# Author: AZISS
 	# Author: Ebrahimi-amir
 	# Author: Khutuck
 	# Author: Sortilegus
 	'az': {
-		'category_redirect-comment': u'Kateqoriya istiqamətləndirilmə vəzifəli bot',
-		'category_redirect-change-category': u'Bot: İstiqamətləndirilən [[:%(oldCatLink)s|%(oldCatTitle)s]] kateqoriyasını [[:%(newCatLink)s|%(newCatTitle)s]] halına çevirir',
-		'category_redirect-add-template': u'Bot: Saxlamaq üçün kateqoriya istiqamətləndirmə şablonu əlavə olunur',
-		'category_redirect-edit-request': u'Muhafizə altındaki bu səhifələrdəki kateqoriya bağlantılarının yeniləmə gerektirdiği bəlli olmuşdur: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s\'ə istiqamətləndirilən %(oldcat)s\'də',
-		'category_redirect-fix-double': u'Bot: ikiqat istiqamətləndirmə düzəldirilir',
+		'category_redirect-comment': u'Kateqoriya istiqamətləndirmə vəzifəli bot',
+		'category_redirect-change-category': u'Bot: İstiqamətləndirən [[:%(oldCatLink)s|%(oldCatTitle)s]] kateqoriyası [[:%(newCatLink)s|%(newCatTitle)s]] ilə dəyişdirilir',
+		'category_redirect-add-template': u'Bot: Xidmət üçün yönləndirən kateqoriyanın şablonunun əlavə edilməsi',
+		'category_redirect-edit-request': u'Növbəti qorunan səhifələr kateqoriya istinadlarının yenilənməsini tələb edir: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(oldcat)s içində olan %(title)s, yeni %(newcat)s yönləndirilib',
+		'category_redirect-fix-double': u'Bot: İkiqat istiqamətləndirilmə düzəldirilir',
 	},
 	# Author: E THP
 	'azb': {

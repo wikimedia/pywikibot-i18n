@@ -41,6 +41,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Escribi\'l nome de categoría:',
 		'pywikibot-enter-finished-browser': u'Calca la tecla Intro cuando acabes nel navegador.',
 	},
+	# Author: AZISS
+	'az': {
+		'pywikibot-enter-xml-filename': u'Zəhmət olmasa, XML damp faylının adını daxil edin:',
+		'pywikibot-enter-page-processing': u'Hansı səhifə emal edilməlidir?',
+		'pywikibot-enter-file-links-processing': u'Şəkillərin hansı səhifəsinin istinadlarını emal etmək lazımdır?',
+		'pywikibot-enter-namespace-number': u'Zəhmət olmasa, ad sahəsinin nömrəsini daxil edin:',
+		'pywikibot-enter-new-text': u'Zəhmət olmasa, yeni mətni daxil edin:',
+		'pywikibot-enter-category-name': u'Zəhmət olmasa, kateqoriyanın adını daxil edin:',
+		'pywikibot-enter-finished-browser': u'Brauzerdə işinizi bitirdikdən sonra Enter düyməsinə basın.',
+	},
 	# Author: Amir a57
 	# Author: E THP
 	'azb': {

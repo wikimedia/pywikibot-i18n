@@ -91,7 +91,9 @@ msg = {
 		'commons-file-now-available': u'Soubor je nyní dostupný na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
 	# Author: Pwyll
+	# Author: Robin Owain
 	'cy': {
+		'commons-file-moved': u'Mae [[:File:%(localfile)s|File]] wedi symud i [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Mae\'r ffeil bellach ar gael ar [[:commons:File:%(commonsfile)s|Comin Wicifryngau]].',
 	},
 	# Author: Peter Alberti

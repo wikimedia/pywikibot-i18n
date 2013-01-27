@@ -27,9 +27,10 @@ msg = {
 	'ast': {
 		'capitalize_redirects-create-redirect': u'Robó: Crear redireición a [[%(to)s]]',
 	},
+	# Author: AZISS
 	# Author: Ebrahimi-amir
 	'az': {
-		'capitalize_redirects-create-redirect': u'Bot: [[%(to)s]] səhifəsinə istiqamətləndirildi',
+		'capitalize_redirects-create-redirect': u'Bot: [[%(to)s]] səhifəsinə istiqamətləndirilmə yaradıldı',
 	},
 	# Author: E THP
 	'azb': {

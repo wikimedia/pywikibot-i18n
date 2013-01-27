@@ -157,16 +157,27 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MENSAXE DE ROBÓ',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResume xeneráu dende y en: %(sign)s</noinclude>',
 	},
+	# Author: AZISS
 	# Author: Cekli829
 	# Author: Vago
 	'az': {
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(istifadəçi-redaktor tapılmadı)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s axırıncı dəyişiklik] (%(page_size)s bayt) %(user)s tərəfindən (%(time)s) edilib',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bot xəbərdarlıq mesajı: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Yeni müzakirə',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - [[User:%(user)s]] adlı istifadəçinin etdiyi axırıncı dəyişiklik (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Bildiriş',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'%(tags)s teqləri əvəz olunurlar',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Müzakirə bağlandı',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s bütün müzakirələr sona çatmışdır  (müşahidə qurtarmışdır) - %(user)s adlı istifadəçinin etdiyi axırıncı dəyişiklik (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Müzakirənin xülasəsi əlavə edilmişdir: %(num)i yazı',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Müzakirə səhifəsi dəyişildi',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESAJI',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Son nəticə əlavə edilərək, müzakirəyə düzəliş edilmişdir: %(num)i yazı',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Müzakirənin xülasəsi yenilənmişdir: %(page)s səhifədə %(num)i yazı',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT MESAJI',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nXülasə tərtib edilmişdir: %(sign)s</noinclude>',
 	},
 	# Author: Amir a57
 	# Author: E THP

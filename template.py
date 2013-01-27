@@ -33,10 +33,12 @@ msg = {
 		'template-changing': u'Robó: Camudando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
 		'template-substituting': u'Robó: Trocando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s',
 	},
+	# Author: AZISS
 	# Author: Vago
 	'az': {
-		'template-removing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
-		'template-changing': u'Bot: {{PLURAL:%(num)d|şablonu}} dəyişdirilir: %(list)s',
+		'template-removing': u'Bot: {{PLURAL:%(num)d|şablon}} silinir: %(list)s',
+		'template-changing': u'Bot: {{PLURAL:%(num)d|şablon}} dəyişdirilir: %(list)s',
+		'template-substituting': u'Bot: {{PLURAL:%(num)d|şablon}} əvəz edilir: %(list)s',
 	},
 	# Author: Amir a57
 	# Author: E THP

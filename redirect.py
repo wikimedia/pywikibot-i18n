@@ -71,13 +71,16 @@ msg = {
 		'redirect-remove-loop': u'Bot: El destín de la redireición forma un bucle de redireición',
 		'redirect-broken-redirect-template': u'{{Destruir|La páxina a la que redirixe nun esiste|--~~~~}}',
 	},
+	# Author: AZISS
 	# Author: Cekli829
 	# Author: Ebrahimi-amir
 	# Author: Khutuck
 	'az': {
-		'redirect-fix-double': u'Bot: %(to)s səhifəsinə istiqamətli ikiqat istiqamətləndirmə düzəldilir',
-		'redirect-remove-broken': u'[[Vikipediya:sil#istiqamətləndirmə|VP:sil]]: Silinen ya da var olmayan səhifəyə olan istiqaməyləndirmə',
-		'redirect-remove-loop': u'Bot: İstiqamətləndirmə hədəfi bir istiqamətləndirmə dövriyyəsi yaradır',
+		'redirect-fix-double': u'Bot: İkiqat yönləndirmənin düzəldilməsi → %(to)s',
+		'redirect-remove-broken': u'Bot: Silinmiş və ya mövcud olmayan səhifəyə yönləndirmə',
+		'redirect-fix-broken-moved': u'Bot: İşləməyən yönləndirilmənin yeri dəyişdirilmiş hədəf səhifəyə %(to)s düzəldilməsi',
+		'redirect-fix-loop': u'Bot:  Sonsuz yönləndirilmənin %(to)s düzəldilməsi',
+		'redirect-remove-loop': u'Bot: Yönləndirilmə sonsuz yönləndirilmə formalaşdırır',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Amir a57
@@ -186,12 +189,14 @@ msg = {
 		'redirect-remove-broken': u'[[en:WP:CSD#G8|G8]]: [[en:Wikipedia:Redirec|ڕەوانەکەر]] بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە',
 	},
 	# Author: Dontlietome7
+	# Author: JAn Dudík
 	# Author: Jezevec
 	# Author: Spiffyk
 	# Author: Vks
 	'cs': {
 		'redirect-fix-double': u'Robot: Opravuji dvojité přesměrování na %(to)s',
 		'redirect-remove-broken': u'Robot: Přerušené přesměrování',
+		'redirect-fix-broken-moved': u'Robot: Oprava přerušeného přesměrování na přesunutou cílovou stránku %(to)s',
 		'redirect-fix-loop': u'Robot: Oprava smyčky přesměrování na %(to)s',
 		'redirect-remove-loop': u'Robot: Cíl přesměrování tvoří smyčku',
 		'redirect-broken-redirect-template': u'{{smazat|přerušené přesměrování}}',
@@ -216,6 +221,7 @@ msg = {
 		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
 		'redirect-broken-redirect-template': u'{{slet}}',
 	},
+	# Author: Geitost
 	# Author: Metalhead64
 	# Author: The Evil IP address
 	'de': {
@@ -224,7 +230,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: Korrigiere defekte Weiterleitung auf Verschiebeziel %(to)s',
 		'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
-		'redirect-broken-redirect-template': u'{{Löschen|Kaputte Weiterleitung}}',
+		'redirect-broken-redirect-template': u'{{Löschen|Defekte Weiterleitung}}',
 	},
 	# Author: Erdemaslancan
 	'diq': {
@@ -313,12 +319,13 @@ msg = {
 	# Author: Gomoko
 	# Author: IAlex
 	# Author: Od1n
+	# Author: Xqt
 	'fr': {
 		'redirect-fix-double': u'Robot : répare double redirection à %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] vers une page supprimée ou inexistante',
 		'redirect-fix-broken-moved': u'Robot: Correction des redirections erronées vers la page cible %(to)s déplacée',
 		'redirect-fix-loop': u'Robot : répare boucle de redirection à %(to)s',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: La cible de [[Wikipedia:Redirect|redirection]] forme une boucle de redirection',
+		'redirect-remove-loop': u'Bot: la cible de la redirection forme une boucle de redirection',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: ChrisPtDe
@@ -334,6 +341,7 @@ msg = {
 	'frr': {
 		'redirect-fix-double': u'Bot: Ferbeedre dobelt widjerfeerang tu %(to)s',
 		'redirect-remove-broken': u'Bot: Widjerfeerang tu en duad sidj.',
+		'redirect-fix-broken-moved': u'Bot: Uunstaken widjerfeerang feert nü tu %(to)s',
 		'redirect-fix-loop': u'Bot: Maaget widjerfeerangs-sleuf hial tu %(to)s',
 		'redirect-remove-loop': u'Bot: Widjerfeerang üüb ham salew',
 		'redirect-broken-redirect-template': u'{{Strik|Widjerfeerang uunstaken}}',
@@ -678,11 +686,12 @@ msg = {
 		'redirect-remove-broken': u'Robot: Målet for omdirigeringen eksisterer ikke',
 		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
 	},
+	# Author: Geitost
 	# Author: Xqt
 	'pdc': {
 		'redirect-fix-double': u'Waddefresser: Doppelte Weiderleiding nooch %(to)s gennert',
 		'redirect-remove-broken': u'Waddefresser: Kaputte Weiderleiding',
-		'redirect-broken-redirect-template': u'{{verwische|Kaputte Weiderleiding)}}',
+		'redirect-broken-redirect-template': u'{{verwische|Kaputte Weiderleiding}}',
 	},
 	'pfl': {
 		'redirect-fix-double': u'Bot: E doppelte Waiterlaitung vabessat zu %(to)s',
@@ -745,6 +754,7 @@ msg = {
 	'ru': {
 		'redirect-fix-double': u'бот: исправление двойного перенаправления → %(to)s',
 		'redirect-remove-broken': u'бот: [[ВП:КБУ#П1|П1]] - перенаправление на удалённую или несуществующую страницу',
+		'redirect-fix-broken-moved': u'Робот: Исправление перенаправления на перемещенную целевую страницу %(to)s',
 		'redirect-fix-loop': u'бот: исправление перенаправления на %(to)s',
 		'redirect-remove-loop': u'бот: перенаправление в никуда',
 		'redirect-broken-redirect-template': u'{{db-redirnone}}',
@@ -790,6 +800,7 @@ msg = {
 	'so': {
 		'redirect-fix-double': u'Bot: Hagaajin u rogid labalaaban ee %(to)s',
 		'redirect-remove-broken': u'Bot: U wareejin bog la tirtiray ama aan jirin',
+		'redirect-fix-broken-moved': u'Bot: Dib u Sixidda qaldantay waxaa loo wareejiyey Bog kale %(to)s',
 		'redirect-fix-loop': u'Bot: Diyaarinta dib u bilaabista ee %(to)s',
 		'redirect-remove-loop': u'Bot: Ujeedka u rogista bogga ee dhaqaaqa',
 		'redirect-broken-redirect-template': u'{{db-r1}}',

@@ -135,14 +135,16 @@ msg = {
 		'interwiki-removing-modifying': u'Robó: Desaniciando %(removing)s; modificando %(modifying)s',
 		'interwiki-modifying-from': u'Robó: Camudando %(from)s a %(modifying)s',
 	},
+	# Author: AZISS
 	'az': {
-		'interwiki-modifying': u'Bot redaktəsi dəyişdirilir: %(modifying)s',
-		'interwiki-adding-modifying': u'Bot redaktəsi əlavə edilir: %(adding)s dəyişdirilir: %(modifying)s',
-		'interwiki-adding-removing': u'Bot redaktəsi əlavə edilir: %(adding)s çıxardılır: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bot redaktəsi əlavə edilir: %(adding)s çıxardılır: %(removing)s dəyişdirilir: %(modifying)s',
-		'interwiki-adding': u'Bot redaktəsi əlavə edilir: %(adding)s',
-		'interwiki-removing': u'Bot redaktəsi çıxardılır: %(removing)s',
-		'interwiki-removing-modifying': u'Bot redaktəsi çıxardılır: %(removing)s dəyişdirilir: %(modifying)s',
+		'interwiki-modifying': u'Bot redaktəsi dəyişdirir: %(modifying)s',
+		'interwiki-adding-modifying': u'Bot redaktəsi əlavə edir: %(adding)s; dəyişdirir: %(modifying)s',
+		'interwiki-adding-removing': u'Bot redaktəsi əlavə edir: %(adding)s; silir: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot redaktəsi əlavə edir: %(adding)s; silir: %(removing)s; dəyişdirir: %(modifying)s',
+		'interwiki-adding': u'Bot redaktəsi əlavə edir: %(adding)s',
+		'interwiki-removing': u'Bot redaktəsi silir: %(removing)s',
+		'interwiki-removing-modifying': u'Bot redaktəsi silir: %(removing)s; dəyişdirir: %(modifying)s',
+		'interwiki-modifying-from': u'Bot redaktəsi dəyişdirir: %(from)s - %(modifying)s',
 	},
 	# Author: E THP
 	'azb': {
