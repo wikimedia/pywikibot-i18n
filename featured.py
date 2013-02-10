@@ -542,6 +542,7 @@ msg = {
 	},
 	# Author: Nullzero
 	'th': {
+		'featured-good': u'โรบอต: %(page)s เป็นบทความคุณภาพ',
 		'featured-featured': u'โรบอต: ลิงก์บทความคัดสรร %(page)s',
 	},
 	# Author: AnakngAraw

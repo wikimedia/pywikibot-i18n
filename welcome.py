@@ -468,6 +468,10 @@ msg = {
 	'or': {
 		'welcome-welcome': u'ସ୍ଵାଗତ!',
 	},
+	# Author: Raj Singh
+	'pa': {
+		'welcome-welcome': u'ਸੁਆਗਤ!',
+	},
 	'pdc': {
 		'welcome-welcome': u'Wilkum!',
 		'welcome-bad_username': u'Bot: Yuusernaame zum iwwerpriefe',
@@ -599,6 +603,7 @@ msg = {
 	# Author: Nullzero
 	'th': {
 		'welcome-welcome': u'ยินดีต้อนรับ!',
+		'welcome-bad_username': u'โรบอต: เพิ่มชื่อผู้ใช้ที่ต้องการการตรวจสอบ',
 		'welcome-updating': u'โรบอต: กำลังปรับปรุงปูม',
 	},
 	# Author: AnakngAraw
@@ -642,6 +647,12 @@ msg = {
 		'welcome-welcome': u'Ласкаво просимо!',
 		'welcome-bad_username': u'Бот: Додане підозріле ім\'я користувача',
 		'welcome-updating': u'Бот: Оновлення журналу',
+	},
+	# Author: Muhammad Shuaib
+	'ur': {
+		'welcome-welcome': u'خوش آمدید!',
+		'welcome-bad_username': u'روبالہ: اضافہ صارف نام جس کی پڑتال درکار ہے',
+		'welcome-updating': u'روبالہ: تحدیث نوشتہ',
 	},
 	# Author: CoderSI
 	'uz': {

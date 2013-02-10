@@ -380,6 +380,7 @@ msg = {
 	'he': {
 		'redirect-fix-double': u'בוט: מתקן הפניה כפולה → %(to)s',
 		'redirect-remove-broken': u'רובוט: יעד ההפניה נמחק או שאינו קיים',
+		'redirect-fix-broken-moved': u'רובוט: תיקון הפניה שבורה לדף היעד %(to)s, שהועבר',
 		'redirect-fix-loop': u'בוט: תיקון הפניה מעגלית ל%(to)s',
 		'redirect-remove-loop': u'רובוט: הפניה זו גורמת ללולאה אין־סופית של הפניות',
 		'redirect-broken-redirect-template': u'הפניה ללא יעד',
@@ -890,6 +891,7 @@ msg = {
 	'tly': {
 		'redirect-fix-double': u'Робот: дығатә унвон дәгиш кардеј сәрост карде → %(to)s',
 		'redirect-remove-broken': u'Робот: Истиғомәти дәгиш карде бә молә быә јаанки бә мывҹуд ныбә сәһифә',
+		'redirect-fix-broken-moved': u'Робот: Бә вырәку дәгиш кардә быә мәғсәдә сәһифә %(to)s дәгиш быә истиғомәти сәрост кардеј',
 		'redirect-fix-loop': u'Робот: Истиғомәти дәгиш кардә ангыли сохте бә %(to)s',
 		'redirect-remove-loop': u'Bot: Унвони дәгиш карде бешә формон унвони дәгиш кардеј мәрә',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -929,6 +931,10 @@ msg = {
 		'redirect-fix-loop': u'бот: виправлення петлі перенаправлень на %(to)s',
 		'redirect-remove-loop': u'бот: перенаправлення формують петлю',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
+	# Author: Muhammad Shuaib
+	'ur': {
+		'redirect-fix-double': u'روبالہ: درستگی دوہرا رجوع مکرر بجانب %(to)s',
 	},
 	# Author: CoderSI
 	'uz': {

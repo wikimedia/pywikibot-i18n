@@ -294,6 +294,10 @@ msg = {
 	'szl': {
 		'djvutext-creating': u'Robot: Złōnaczyniy zajty z Djvu',
 	},
+	# Author: Nullzero
+	'th': {
+		'djvutext-creating': u'โรบอต: สร้างหน้าโดยเนื้อหานำมาจาก DjVu',
+	},
 	# Author: AnakngAraw
 	'tl': {
 		'djvutext-creating': u'Robot: Nililikha ang pahina na may tekstong hinugot mula sa DjVu',

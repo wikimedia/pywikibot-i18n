@@ -349,6 +349,10 @@ msg = {
 	'uk': {
 		'fixing_redirects-fixing': u'Бот: Виправлення перенаправлень',
 	},
+	# Author: Muhammad Shuaib
+	'ur': {
+		'fixing_redirects-fixing': u'روبالہ: درستگی رجوع مکررات',
+	},
 	# Author: CoderSI
 	'uz': {
 		'fixing_redirects-fixing': u'Bot: Qayta yo‘naltirishlar to‘g‘rilanishi',

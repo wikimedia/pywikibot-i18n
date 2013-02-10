@@ -1035,10 +1035,14 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'rôbô',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(tsy nahitana olombelona manova)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s : %(page_sections)s - [%(history_link)s fanovana farany] (%(page_size)s oktety) nataon\'i %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u'Hafatra fampitandremana ny rôbô : %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Resaka vaovao',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s : <span class="plainlinks">[%(page_link)s %(page)s]</span> - fanovana farany nataon\'i [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Filazana',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'fanivana ny balizy  %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Resaka efa nakatona',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s tapitra daholo ny fresaka rehetra (tsy miambina intsony) - fanovana farany nataon\'i %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Ambangovangon\'ilay resaka nampiana : %(num)i iditra',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Resaka voaova',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ambangovangon\'ny resaka nasiana niaraka amin\'ny fandiovana %(num)i iditra',
@@ -1576,6 +1580,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'การอภิปรายใหม่',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'การแจ้งเตือน',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ข้อความจากโรบอต',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nข้อความสรุปสร้างขึ้นจากและ ณ เวลา: %(sign)s</noinclude>',
 	},
 	# Author: AnakngAraw
 	'tl': {
@@ -1664,6 +1669,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Резюме обговорення оновлено: %(num)i записів на %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESSAGE',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nРезюме складене: %(sign)s</noinclude>',
+	},
+	# Author: Muhammad Shuaib
+	'ur': {
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'پیغام روبالہ',
 	},
 	# Author: CoderSI
 	'uz': {

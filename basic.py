@@ -482,6 +482,10 @@ msg = {
 	'uk': {
 		'basic-changing': u'Бот: змінив ...',
 	},
+	# Author: Muhammad Shuaib
+	'ur': {
+		'basic-changing': u'روبالہ: تبدیلی ۔۔۔',
+	},
 	# Author: CoderSI
 	'uz': {
 		'basic-changing': u'Bot: O\'zgartirildi ...',

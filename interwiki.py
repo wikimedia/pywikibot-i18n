@@ -99,14 +99,14 @@ msg = {
 	},
 	# Author: Basharh
 	'arc': {
-		'interwiki-modifying': u'ܪܘܒܘܛ: ܚܘܠܦܐ %(modifying)s',
-		'interwiki-adding-modifying': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܚܘܠܦܐ %(modifying)s',
+		'interwiki-modifying': u'ܪܘܒܘܛ: ܫܘܓܢܝܐ %(modifying)s',
+		'interwiki-adding-modifying': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܫܘܓܢܝܐ %(modifying)s',
 		'interwiki-adding-removing': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܠܚܝܐ: %(removing)s',
-		'interwiki-adding-removing-modifying': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܠܚܝܐ %(removing)s; ܚܘܠܦܐ %(modifying)s',
+		'interwiki-adding-removing-modifying': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܠܚܝܐ %(removing)s; ܫܘܓܢܝܐ %(modifying)s',
 		'interwiki-adding': u'ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s',
 		'interwiki-removing': u'ܪܘܒܘܛ: ܠܚܝܐ %(removing)s',
-		'interwiki-removing-modifying': u'ܪܘܒܘܛ: ܠܚܝܐ %(removing)s; ܚܘܠܦܐ %(modifying)s',
-		'interwiki-modifying-from': u'ܪܘܒܘܛ: ܚܘܠܦܐ  %(from)s ܠ %(modifying)s',
+		'interwiki-removing-modifying': u'ܪܘܒܘܛ: ܠܚܝܐ %(removing)s; ܫܘܓܢܝܐ %(modifying)s',
+		'interwiki-modifying-from': u'ܪܘܒܘܛ: ܫܘܓܢܝܐ %(from)s ܠ %(modifying)s',
 	},
 	# Author: Xqt
 	'arz': {
@@ -1892,6 +1892,7 @@ msg = {
 		'interwiki-removing-modifying': u'робот вилучив: %(removing)s, змінив: %(modifying)s',
 		'interwiki-modifying-from': u'Робот: замінив %(from)s на %(modifying)s',
 	},
+	# Author: Muhammad Shuaib
 	'ur': {
 		'interwiki-modifying': u'روبالہ ترمیم: %(modifying)s',
 		'interwiki-adding-modifying': u'روبالہ جمع: %(adding)s ترمیم: %(modifying)s',
@@ -1900,6 +1901,7 @@ msg = {
 		'interwiki-adding': u'روبالہ جمع: %(adding)s',
 		'interwiki-removing': u'روبالہ محو: %(removing)s',
 		'interwiki-removing-modifying': u'روبالہ محو: %(removing)s ترمیم: %(modifying)s',
+		'interwiki-modifying-from': u'روبالہ: تبدیل %(from)s بجانب %(modifying)s',
 	},
 	# Author: Abdulla
 	'uz': {

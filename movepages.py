@@ -337,6 +337,10 @@ msg = {
 	'uk': {
 		'movepages-moving': u'Робот: перейменування сторінки',
 	},
+	# Author: Muhammad Shuaib
+	'ur': {
+		'movepages-moving': u'روبالہ: منتقلی صفحہ',
+	},
 	# Author: CoderSI
 	'uz': {
 		'movepages-moving': u'Bot: Sahifa ko\'chirildi',

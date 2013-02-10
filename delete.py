@@ -622,6 +622,7 @@ msg = {
 		'delete-images': u'โรบอต: ลบรูปภาพทั้งหมดจากหน้า %(page)s',
 		'delete-referring-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์ไป %(page)s',
 		'delete-from-category': u'โรบอต: ลบหน้าทั้งหมดจากหมวดหมู่ %(page)s',
+		'delete-from-file': u'โรบอต: ลบหน้าจากไฟล์รายการ',
 		'delete-linked-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์จาก %(page)s',
 	},
 	# Author: AnakngAraw

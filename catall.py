@@ -365,6 +365,10 @@ msg = {
 	'uk': {
 		'catall-changing': u'Бот: Зміна категорій',
 	},
+	# Author: Muhammad Shuaib
+	'ur': {
+		'catall-changing': u'روبالہ: تبدیلی زمرہ جات',
+	},
 	# Author: CoderSI
 	'uz': {
 		'catall-changing': u'Bot: Turkumlarni oʻzgartirish',

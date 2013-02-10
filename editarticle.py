@@ -307,6 +307,10 @@ msg = {
 	'szl': {
 		'editarticle-edit': u'Manualne sprowianiy z robotym: %(description)s',
 	},
+	# Author: Nullzero
+	'th': {
+		'editarticle-edit': u'แก้ไขผ่านโรบอตด้วยตนเอง: %(description)s',
+	},
 	# Author: AnakngAraw
 	'tl': {
 		'editarticle-edit': u'Kinakamay na pamamatnugot na may robot: %(description)s',
