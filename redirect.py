@@ -511,6 +511,7 @@ msg = {
 	'ksh': {
 		'redirect-fix-double': u'Bot: [[Special:Doubleredirects|Dubbel Ömlëijdong]] fottjemaat → %(to)s',
 		'redirect-remove-broken': u'Bot: Di Ömlëijdong jingk ennet Liiere.',
+		'redirect-fix-broken-moved': u'Bot: De kappodde Ömleidong op de ömjenannte Sigg %(to)s es reppareert.',
 		'redirect-fix-loop': u'Bot: En Reih vun Ömleidonge jeng em Kreis eröm. Op %(to)s jescheck.',
 		'redirect-remove-loop': u'Bot: Di Ömleidunge jonn em Kreis eröm.',
 		'redirect-broken-redirect-template': u'{{Schmieß fott}}Di [[Wikipedia:Ömleijdung|Ömlëijdong]] jeiht noh nörjendswoh hen.',

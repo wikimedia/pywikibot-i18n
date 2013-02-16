@@ -535,11 +535,12 @@ msg = {
 		'category_redirect-fix-double': u'Rôbô : mamaha olana ny fihodinana mampihodina mankany amina fihodinana.',
 	},
 	# Author: Luthfi94
+	# Author: Naval Scene
 	'min': {
 		'category_redirect-comment': u'Bot pamaliharaan pangalihan kategori',
 		'category_redirect-change-category': u'Robot: maganti kategori nan dialihan [[:%(oldCatLink)s|%(oldCatTitle)s]] manjadi [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Robot: manambuahkan templat pamaliharaan pangalihan kategori',
-		'category_redirect-edit-request': u'Laman nan dilindungi barikuik tadeteksi mamaraluan pambaruan untuak pranala kategori: %(itemlist)s',
+		'category_redirect-edit-request': u'Laman nan dilinduangi barikuik ko tadeteksi mamaraluan pambaruan untuak pautan kategori: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s tamasuak dalam %(oldcat)s, nan marupokan pangalihan ka %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Mampeloki pangalihan gando',
 	},

@@ -89,6 +89,12 @@ msg = {
 		'weblinkchecker-summary': u'בוט: מדווח על קישור חיצוני בלתי זמין',
 		'weblinkchecker-report': u'במהלך מספר ריצות אוטומטיות של הבוט, נמצא שהקישור החיצוני הבא אינו זמין. אנא בדקו אם הקישור אכן שבור, ותקנו אותו או הסירו אותו במקרה זה!',
 	},
+	# Author: Dj
+	'hu': {
+		'weblinkchecker-caption': u'Halott hivatkozás',
+		'weblinkchecker-summary': u'bot: nem elérhető külső hivatkozás jelentése',
+		'weblinkchecker-report': u'Számos automatikus bot futtatás után az alábbi külső hivatkozás nem elérhető. Kérlek ellenőrizd, hogy a hivatkozás valóban nem elérhető, és ha így van, akkor javítsd ki vagy távolítsd el!',
+	},
 	'ia': {
 		'weblinkchecker-caption': u'Ligamine defuncte',
 		'weblinkchecker-summary': u'Robot: Reporto de un ligamine externe non functionante',
@@ -141,9 +147,10 @@ msg = {
 		'weblinkchecker-summary': u'Робот: Пријавува недостапна надворешна врска',
 		'weblinkchecker-report': u'По неколку обиди на ботот, востановено е дека следнава надворешна врска е недостапна. Проверете дали врската е навистина мртва и, во тој случај, исправете ја или отстранете ја!',
 	},
+	# Author: Praveenp
 	# Author: Santhosh.thottingal
 	'ml': {
-		'weblinkchecker-caption': u'ചത്ത കണ്ണി',
+		'weblinkchecker-caption': u'പ്രവർത്തിക്കാത്ത കണ്ണി',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -221,6 +228,13 @@ msg = {
 		'weblinkchecker-caption': u'Neispravna veza',
 		'weblinkchecker-summary': u'Robot: prijavljena neispravna spoljašnja veza',
 		'weblinkchecker-report': u'Pri nekoliko pokušaja bota, ustanovljeno je da sledeća spoljašnja veza nije dostupna. Proverite da li je veza uistinu neispravna i, ako jeste, ispravite je ili je uklonite.',
+	},
+	# Author: Tor.klingberg
+	'sv': {
+		'weblinkchecker-archive_msg': u'Webbsidan har sparats av Internet Archive. Överväg att länka till en lämplig arkiverad version: [%(URL)s].',
+		'weblinkchecker-caption': u'Död länk',
+		'weblinkchecker-summary': u'Robot: Rapporterar otillgänglig extern länk',
+		'weblinkchecker-report': u'Följande externa länk har inte kunnat nås under flera försök av en automatisk bot. Var vänlig kontrollera om länken faktiskt är nere, och ta i så fall bort den.',
 	},
 	# Author: Nullzero
 	'th': {

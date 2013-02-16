@@ -379,10 +379,11 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Tsindrio "ENTER" rehefa tapitra ny fanovana ao amin\'ny mpitety tranonkala.',
 	},
 	# Author: Luthfi94
+	# Author: Naval Scene
 	'min': {
 		'pywikibot-enter-xml-filename': u'Masuakkan namo Berkas sarok XML:',
 		'pywikibot-enter-page-processing': u'Laman manokah nan harus diproses?',
-		'pywikibot-enter-file-links-processing': u'Pranala ka laman gambar manokah nan ka diproses?',
+		'pywikibot-enter-file-links-processing': u'Pautan ka laman gambar manokah nan ka diproses?',
 		'pywikibot-enter-namespace-number': u'Masuakkan ruang namo manuruik nomornyo:',
 		'pywikibot-enter-new-text': u'Masuakkan teks baru:',
 		'pywikibot-enter-category-name': u'Masuakkan namo kategori:',
