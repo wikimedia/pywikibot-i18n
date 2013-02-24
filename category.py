@@ -295,6 +295,7 @@ msg = {
 		'category-replacing': u'Robot : Oc\'h erlec\'hiañ ar rummad %(oldcat)s gant %(newcat)s',
 		'category-removing': u'Robot : Tennet diwar %(oldcat)s',
 		'category-was-moved': u'Robot : Rummad dilec\'hiet da [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot : dilec\'hiet adalek %s. Aozerien : %s',
 		'category-section-title': u'Pajenn istor stummoù kent ar %(oldcat)s',
 		'category-listifying': u'Robot : Roll eus %(fromcat)s (%(num)d pajenn)',
 	},
@@ -1857,7 +1858,7 @@ msg = {
 	},
 	# Author: Malafaya
 	'vo': {
-		'category-changing': u'bot votükon: %(oldcat)s',
+		'category-changing': u'Bot: Votükon: %(oldcat)s ad %(newcat)s',
 		'category-adding': u'Bot: läükon: category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(i in %(alsocat)s)',
 		'category-removing': u'bot moükon se %(oldcat)s',

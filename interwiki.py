@@ -1429,7 +1429,7 @@ msg = {
 		'interwiki-adding': u'Waddefresser: dezu geduh: %(adding)s',
 		'interwiki-removing': u'Waddefresser: raus gnumme: %(removing)s',
 		'interwiki-removing-modifying': u'Waddefresser: raus gnumme: %(removing)s, gennert: %(modifying)s',
-		'interwiki-modifying-from': u'Waddefresser: Abdeeling vun %(from)s nooch %(modifying)s geennert',
+		'interwiki-modifying-from': u'Waddefresser: Gleecher vun %(from)s nooch %(modifying)s geennert',
 	},
 	'pfl': {
 		'interwiki-modifying': u'Bot: Gä\'ännat: %(modifying)s',
@@ -1956,6 +1956,7 @@ msg = {
 		'interwiki-removing': u'Robot Derof: %(removing)s',
 		'interwiki-removing-modifying': u'Robot Derof: %(removing)s Anders: %(modifying)s',
 	},
+	# Author: Malafaya
 	'vo': {
 		'interwiki-modifying': u'bot votükon: %(modifying)s',
 		'interwiki-adding-modifying': u'bot läükon: %(adding)s votükon: %(modifying)s',
@@ -1964,7 +1965,7 @@ msg = {
 		'interwiki-adding': u'bot läükon: %(adding)s',
 		'interwiki-removing': u'bot moükon: %(removing)s',
 		'interwiki-removing-modifying': u'bot moükon: %(removing)s votükon: %(modifying)s',
-		'interwiki-modifying-from': u'bot votükon: %(from)s',
+		'interwiki-modifying-from': u'Bot: Votükon: %(from)s ad %(modifying)s',
 	},
 	'vro': {
 		'interwiki-modifying': u'robot tävvendämine: %(modifying)s',

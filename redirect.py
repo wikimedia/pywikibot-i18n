@@ -52,6 +52,7 @@ msg = {
 	'ar': {
 		'redirect-fix-double': u'بوت: تصليح تحويلة مزدوجة إلى %(to)s',
 		'redirect-remove-broken': u'روبوت: تحويلة إلى صفحة محذوفة أو غير موجودة',
+		'redirect-fix-broken-moved': u'الروبوت: إصلاح إعادة التوجيه المعطل لصفحة الهدف المحركة %(to)s',
 		'redirect-fix-loop': u'روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
 		'redirect-remove-loop': u'روبوت: هدف التحويلة يصنع عقدة تحويل',
 		'redirect-broken-redirect-template': u'{{شطب|تحويلة مكسورة}}',
@@ -156,6 +157,7 @@ msg = {
 	'br': {
 		'redirect-fix-double': u'Kempennet adkas doubl gant robot → %(to)s',
 		'redirect-remove-broken': u'Robot : Ar bajenn ma vezer adkaset n\'eus ket anezhi',
+		'redirect-fix-broken-moved': u'Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s',
 		'redirect-fix-loop': u'Robot : O kempenn al lagadenn adkas war-zu %(to)s',
 		'redirect-remove-loop': u'Robot: Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -723,6 +725,7 @@ msg = {
 	'pt': {
 		'redirect-fix-double': u'Robô: A corrigir o redireccionamento duplo para %(to)s',
 		'redirect-remove-broken': u'Robô: Redireccionamento para uma página eliminada ou inexistente',
+		'redirect-fix-broken-moved': u'Robô: A corrigir redireccionamento quebrado para página alvo movida %(to)s',
 		'redirect-fix-loop': u'Robô: A corrigir o ciclo de redireccionamentos para %(to)s',
 		'redirect-remove-loop': u'Robô: O destino do redireccionamento cria um ciclo de redireccionamentos',
 		'redirect-broken-redirect-template': u'{{db-r1}}',

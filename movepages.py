@@ -333,6 +333,10 @@ msg = {
 	'tr': {
 		'movepages-moving': u'Bot: Taşınmış sayfa',
 	},
+	# Author: Tifinaghes
+	'tzm': {
+		'movepages-moving': u'ⴰⵔⵓⴱⵉⵜ: Moved page',
+	},
 	# Author: Тест
 	'uk': {
 		'movepages-moving': u'Робот: перейменування сторінки',

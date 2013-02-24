@@ -34,7 +34,10 @@ msg = {
 	},
 	# Author: Fulup
 	'br': {
+		'weblinkchecker-archive_msg': u'Saveteet eo bet ar bajenn Web gant Internet Archive. Marteze a-walc\'h e c\'hallfec\'h lakaat al liamm da vukañ war-zu unan eus ar stummoù diellaouet : [%(URL)s].',
 		'weblinkchecker-caption': u'Liamm dall',
+		'weblinkchecker-summary': u'Robot : A gemenn ez eus ul liamm diavaez diziraezus',
+		'weblinkchecker-report': u'E-pad meur a batrouilhenn robot n\'eus ket bet gallet diaraez arliamm da-heul. Gwiriit mat eo dall al liamm e gwirionez ha mard eo, reizhit-eñ pe lamit-eñ.',
 	},
 	# Author: Pitort
 	'ca': {
@@ -50,6 +53,13 @@ msg = {
 	# Author: Airon90
 	'eo': {
 		'weblinkchecker-caption': u'Neenretiĝa ligilo',
+	},
+	# Author: Vivaelcelta
+	'es': {
+		'weblinkchecker-archive_msg': u'Internet Archive guardó tu página web. Por favor, considera enlazar hacia una versión archivada apropiada: [%(URL)s].',
+		'weblinkchecker-caption': u'Enlace muerto',
+		'weblinkchecker-summary': u'Bot: Señalo un enlace externo no disponible',
+		'weblinkchecker-report': u'Durante varias ejecuciones automáticas, el bot constató que el siguiente enlace externo no está disponible. ¡Comprueba si el enlace está efectivamente caído y corrígelo o retíralo!',
 	},
 	'et': {
 		'weblinkchecker-archive_msg': u'Veebilehekülg on olemas Interneti arhiivis. Võid mõelda linkimisele selle lehekülje arhiveeritud versioonile: [%(URL)s].',
@@ -77,8 +87,9 @@ msg = {
 		'weblinkchecker-report': u'Di bot hää muarsis fersoocht, det wääbsidj tu finjen, man saner lok. Wees so gud an preewe det ferwisang, an nem det wech, wan\'t uunstaken as!',
 	},
 	# Author: Toliño
+	# Author: Vivaelcelta
 	'gl': {
-		'weblinkchecker-archive_msg': u'Internet Archive gardou a páxina web. Considere ligar cara á versión arquivada: [%(URL)s].',
+		'weblinkchecker-archive_msg': u'Internet Archive gardou a páxina web. Considere ligar cara á versión arquivada apropiada: [%(URL)s].',
 		'weblinkchecker-caption': u'Ligazón morta',
 		'weblinkchecker-summary': u'Bot: Sinalo a ligazón externa non dispoñible',
 		'weblinkchecker-report': u'Durante varias execucións automáticas, o bot constatou que a seguinte ligazón externa non está dispoñible. Comprobe se a ligazón está efectivamente caída e corríxaa ou retírea!',
@@ -275,5 +286,12 @@ msg = {
 		'weblinkchecker-caption': u'失效链接',
 		'weblinkchecker-summary': u'机器人：报告不可用的外部链接',
 		'weblinkchecker-report': u'自动运行的机器人发现下列外部链接可能已不可用。请帮助检查，修复或移除有问题的链接。',
+	},
+	# Author: Simon Shek
+	'zh-hant': {
+		'weblinkchecker-archive_msg': u'這個網頁已經被互聯網檔案館（Internet Archive）保存。請為該網頁挑選一個適合鏈接的存檔版本: [%(URL)s]。',
+		'weblinkchecker-caption': u'失效連結',
+		'weblinkchecker-summary': u'機械人：報告無效的外部連結',
+		'weblinkchecker-report': u'自動運行的機械人發現下列外部連結可能已不可用。請幫助檢查，修復或移除有問題的連結。',
 	},
 };
