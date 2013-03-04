@@ -109,6 +109,10 @@ msg = {
 	'de': {
 		'isbn-formatting': u'Bot: Formatiere ISBN',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'isbn-formatting': u'Bot: Formatiere ISBN',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'isbn-formatting': u'Boti ISBN\'i timar kerd',

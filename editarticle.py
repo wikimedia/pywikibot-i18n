@@ -78,6 +78,10 @@ msg = {
 	'de': {
 		'editarticle-edit': u'Manuelle Bearbeitung: %(description)s',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'editarticle-edit': u'Manuelle Bearbeitung mit Bot: %(description)s',
+	},
 	# Author: Erdemaslancan
 	# Author: Mirzali
 	'diq': {

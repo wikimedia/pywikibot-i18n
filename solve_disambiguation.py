@@ -230,6 +230,14 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(unbekannt)',
 		'solve_disambiguation-links-removed': u'Bot-unterstützte Begriffsklärung: %(from)s - Link(s) entfernt',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'solve_disambiguation-links-resolved': u'Bot-unterstützte Begriffsklärung: %(from)s - LinVerknüpfung(en) ersetzt durch %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Bot-unterstützte Begriffsklärung: %(from)s - markiert, benötigt kundige Wartung',
+		'solve_disambiguation-adding-dn-template': u'Bot-unterstützte Begriffsklärung: %(from)s - markiert, benötigt kundige Wartung',
+		'solve_disambiguation-unknown-page': u'(unbekannt)',
+		'solve_disambiguation-links-removed': u'Bot-unterstützte Begriffsklärung: %(from)s - Verknüpfung(en) entfernt',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'solve_disambiguation-redirect-removed': u'Peşti da boti ra maneo bin: %(from)s - gıre(y) wedaryay.',

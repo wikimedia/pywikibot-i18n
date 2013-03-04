@@ -95,6 +95,11 @@ msg = {
 		'table2wiki-warnings': u'Bot: Tabellensyntax konvertiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!',
 		'table2wiki-no-warning': u'Bot: Tabellensyntax konvertiert',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'table2wiki-warnings': u'Bot: Tabellensyntax konvertiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!',
+		'table2wiki-no-warning': u'Bot: Tabellensyntax konvertiert',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'table2wiki-warnings': u'Botê kontrolkarê karberan: imlay tabloy kerd newi {{PLURAL:count|1|%(count)d}}',

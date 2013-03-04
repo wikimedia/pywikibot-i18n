@@ -89,6 +89,10 @@ msg = {
 	'de': {
 		'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'replace-replacing': u'Boti metne %(description)s xob xo vurna',

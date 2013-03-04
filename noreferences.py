@@ -86,6 +86,10 @@ msg = {
 	'de': {
 		'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'noreferences-add-tag': u'Boti etiketo ke kemiyo <references /> o dekerd de',

@@ -54,6 +54,10 @@ msg = {
 	'de': {
 		'spellcheck-checking': u'Bot-unterstützte Rechtschreibprüfung',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'spellcheck-checking': u'Bot-unterstützte Rechtschreibprüfung',
+	},
 	# Author: Mirzali
 	'diq': {
 		'spellcheck-checking': u'Cerebnayoğê nuşteyanê bot-destegıni',

@@ -85,6 +85,10 @@ msg = {
 	'de': {
 		'clean_sandbox-cleaned': u'Bot: Setze Spielwiese zurück.',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'clean_sandbox-cleaned': u'Bot: Spielwiese aufgeräumt.',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'clean_sandbox-cleaned': u'Boti heruna cerbnayışi besternê',

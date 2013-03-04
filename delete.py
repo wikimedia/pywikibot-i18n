@@ -152,6 +152,14 @@ msg = {
 		'delete-from-file': u'Bot: Löschen einer Liste von Dateien.',
 		'delete-linked-pages': u'Bot: Lösche alle in %(page)s verlinkte Seiten',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'delete-images': u'Bot: Lösche alle in %(page)s eingebundenen Bilder',
+		'delete-referring-pages': u'Bot: Lösche alle auf %(page)s verweisenden Seiten',
+		'delete-from-category': u'Bot: Lösche alle Seiten von Kategorie %(page)s',
+		'delete-from-file': u'Bot: Löschen einer Liste von Dateien.',
+		'delete-linked-pages': u'Bot: Lösche alle auf %(page)s verlinkte Seiten',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'delete-images': u'Boti pela da %(page)s ra dosyay pêro besternay',

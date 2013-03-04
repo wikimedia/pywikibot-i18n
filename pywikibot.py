@@ -144,6 +144,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Bitte Name der Kategorie eingeben:',
 		'pywikibot-enter-finished-browser': u'Enter drücken nach dem Beenden des Browsers.',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'pywikibot-enter-xml-filename': u'Bitte gib den Datenamen des XML-Dumps ein:',
+		'pywikibot-enter-page-processing': u'Welche Seite soll bearbeitet werden?',
+		'pywikibot-enter-file-links-processing': u'Die Verknüpfungen welcher Dateiseite sollen bearbeitet werden?',
+		'pywikibot-enter-namespace-number': u'Bitte gib die Nummer des Namensraums ein:',
+		'pywikibot-enter-new-text': u'Bitte geben Sie den neuen Text ein:',
+		'pywikibot-enter-category-name': u'Bitte Name der Kategorie eingeben:',
+		'pywikibot-enter-finished-browser': u'Eingabetaste drücken, wenn im Browser fertig.',
+	},
 	# Author: Erdemaslancan
 	# Author: Mirzali
 	'diq': {

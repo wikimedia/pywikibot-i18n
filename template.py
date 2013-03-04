@@ -109,6 +109,12 @@ msg = {
 		'template-changing': u'Bot: Ändere {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 		'template-substituting': u'Bot: Ersetze {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'template-removing': u'Bot: Entferne {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
+		'template-changing': u'Bot: Ändere {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
+		'template-substituting': u'Bot: Ersetze {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'template-removing': u'Boto  {{PLURAL:%(num)d|şabloni|şablona}}: %(list)s veceno',

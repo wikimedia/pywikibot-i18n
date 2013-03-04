@@ -185,10 +185,11 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	# Author: Marmzok
 	'ckb': {
 		'redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجار-ڕەوانەکردنەوە بۆ %(to)s',
-		'redirect-remove-broken': u'[[en:WP:CSD#G8|G8]]: [[en:Wikipedia:Redirec|ڕەوانەکەر]] بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە',
+		'redirect-remove-broken': u'ڕۆبۆت: ڕەوانەکەر بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە',
 	},
 	# Author: Dontlietome7
 	# Author: JAn Dudík
@@ -230,6 +231,15 @@ msg = {
 		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
 		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
 		'redirect-fix-broken-moved': u'Bot: Korrigiere defekte Weiterleitung auf Verschiebeziel %(to)s',
+		'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
+		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
+		'redirect-broken-redirect-template': u'{{Löschen|Defekte Weiterleitung}}',
+	},
+	# Author: Eruedin
+	'de-ch': {
+		'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
+		'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
+		'redirect-fix-broken-moved': u'Bot: Korrigiere defekte Weiterleitung auf verschobener Zielseite %(to)s',
 		'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
 		'redirect-broken-redirect-template': u'{{Löschen|Defekte Weiterleitung}}',
@@ -416,6 +426,7 @@ msg = {
 	'ia': {
 		'redirect-fix-double': u'Robot: reparation de duple redirection → %(to)s',
 		'redirect-remove-broken': u'Robot: Redirection a un pagina delite o non existente',
+		'redirect-fix-broken-moved': u'Robot: Repara un redirection rupte verso un pagina renominate: %(to)s',
 		'redirect-fix-loop': u'Robot: Repara redirection circular a %(to)s',
 		'redirect-remove-loop': u'Robot: Le destination del redirection forma un circulo de redirectiones',
 		'redirect-broken-redirect-template': u'{{eliminar|Redirection a un pagina delite o non existente}}',
@@ -633,6 +644,7 @@ msg = {
 	'nb': {
 		'redirect-fix-double': u'robot: Retter dobbel omdirigering til %(to)s',
 		'redirect-remove-broken': u'Robot: Målet for omdirigeringen eksisterer ikke',
+		'redirect-fix-broken-moved': u'bot: Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet',
 		'redirect-fix-loop': u'Robot: Fikser omdirigeringsløkke til %(to)s',
 		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
 		'redirect-broken-redirect-template': u'{{hurtigslett|Feilaktig omdirigering}}',

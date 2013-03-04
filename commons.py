@@ -106,6 +106,11 @@ msg = {
 		'commons-file-moved': u'Bot: [[:File:%(localfile)s|Datei]] wurde nach [[:commons:File:%(commonsfile)s|commons]] verschoben.',
 		'commons-file-now-available': u'Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar.',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'commons-file-moved': u'Bot: [[:File:%(localfile)s|Datei]] wurde nach [[:commons:File:%(commonsfile)s|commons]] verschoben.',
+		'commons-file-now-available': u'Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar.',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'commons-file-moved': u'[[:Dosya:%(localfile)s|Dosya]], berd site da [[:commons:File:%(commonsfile)s|commons]]i.',

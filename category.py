@@ -339,15 +339,18 @@ msg = {
 		'category-adding': u'Robot: Gidugang Kategoriya [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	'ckb': {
-		'category-changing': u'ڕۆبۆت: گۆڕانی %(oldcat)s بۆ %(newcat)s',
-		'category-adding': u'ڕۆبۆت: زێدەکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-version-history': u'ڕۆبۆت: مێژووی پێداچوونەوەی %(oldcat)sی پێشوو',
+		'category-changing': u'ڕۆبۆت: گۆڕینی %(oldcat)s بۆ %(newcat)s',
+		'category-adding': u'ڕۆبۆت: زیادکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(ھەروەھا لە %(alsocat)s)',
-		'category-replacing': u'ڕۆبۆت: دانانی پۆلی %(newcat)s لەجێگەی  %(oldcat)s',
+		'category-replacing': u'ڕۆبۆت: دانانی پۆلی %(newcat)s لە جێگەی  %(oldcat)s',
 		'category-removing': u'ڕۆبۆت: لابردن لە %(oldcat)s',
 		'category-was-moved': u'ڕۆبۆت: پۆل گوازرایەوە بۆ [[:Category:%(newcat)s|%(title)s]]',
-		'category-section-title': u'مێژووی پەڕەی %(oldcat)s پێشوو',
-		'category-listifying': u'ڕۆبۆت: بەلیستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})',
+		'category-renamed': u'ڕۆبۆت: گوازرایەوە لە %s. دانەران: %s',
+		'category-section-title': u'مێژووی پەڕەی %(oldcat)sی پێشوو',
+		'category-listifying': u'ڕۆبۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})',
 	},
 	'crh': {
 		'category-adding': u'robot: ekley category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -432,6 +435,7 @@ msg = {
 	},
 	# Author: Eruedin
 	'de-ch': {
+		'category-version-history': u'Bot: Sichere Versionsgeschichte der alten %(oldcat)s',
 		'category-changing': u'Bot: Ändere %(oldcat)s zu %(newcat)s',
 		'category-adding': u'Bot: Ergänze Kategorie [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(auch in %(alsocat)s)',
@@ -439,6 +443,8 @@ msg = {
 		'category-replacing': u'Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s',
 		'category-removing': u'Bot: Entferne aus %(oldcat)s',
 		'category-was-moved': u'Bot: Kategorie wurde nach [[:Category:%(newcat)s|%(title)s]] verschoben',
+		'category-renamed': u'Bot: Verschoben von %s. Autoren: %s',
+		'category-section-title': u'Versionsgeschichte der ursprünglichen %(oldcat)s',
 		'category-listifying': u'Bot: Liste aus %(fromcat)s ({{PLURAL:num|1 Eintrag|%(num)d Einträge}})',
 	},
 	# Author: Erdemaslancan

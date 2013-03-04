@@ -141,6 +141,13 @@ msg = {
 		'featured-featured': u'Bot: %(page)s ist ein ausgezeichneter Artikel',
 		'featured-former': u'Bot: %(page)s ist ein ehemaliger ausgezeichneter Artikel',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'featured-good': u'Bot: %(page)s ist ein lesenswerter Artikel',
+		'featured-list': u'Bot: %(page)s ist eine ausgezeichnete Liste',
+		'featured-featured': u'Bot: %(page)s ist ein ausgezeichneter Artikel',
+		'featured-former': u'Bot: %(page)s ist ein ehemaliger ausgezeichneter Artikel',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'featured-good': u'Boti pera %(page)s yew [[Wikipedia:Wesiqaya qeliteyın|Wesiqaya qeliteyına]]',

@@ -344,8 +344,11 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResum generat des de: %(sign)s</noinclude>',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	'ckb': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'ڕۆبۆت',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'وتووێژی نوێ',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'ئاگاداری',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'پەیامی ڕۆبۆت',
 	},
 	# Author: Blahma
@@ -414,6 +417,26 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskussions-Zusammenfassung hinzugefügt und bereinigt (%(num)i Einträge)',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskussions-Zusammenfassung aktualisiert (%(num)i Einträge in %(page)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT MESSAGE',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nZusammenfassung erstellt von und um: %(sign)s</noinclude>',
+	},
+	# Author: Eruedin
+	'de-ch': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(keinen menschlichen Bearbeiter gefunden)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s letzte Bearbeitung] (%(page_size)s Bytes) von %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bot Warn-Nachricht: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Neue Diskussion',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - letzte Bearbeitung von [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Benachrichtigung',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'ersetze %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion abgeschlossen',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alle Diskussionen wurden beendet (Überwachung gestoppt) - letzte Bearbeitung von %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskussions-Zusammenfassung hinzugefügt (%(num)i Einträge)',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussion geändert',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskussions-Zusammenfassung hinzugefügt und bereinigt (%(num)i Einträge)',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskussions-Zusammenfassung aktualisiert (%(num)i Einträge in %(page)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT-NACHRICHT',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nZusammenfassung erstellt von und um: %(sign)s</noinclude>',
 	},
 	# Author: Erdemaslancan

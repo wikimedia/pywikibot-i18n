@@ -79,6 +79,10 @@ msg = {
 	'de': {
 		'catall-changing': u'Bot: Wechsele Kategorien',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'catall-changing': u'Bot: Ändern von Kategorien',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'catall-changing': u'Boti kategoriy pêro vurnay',

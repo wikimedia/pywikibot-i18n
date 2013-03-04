@@ -129,6 +129,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: Kosmetische Änderungen',
 		'cosmetic_changes-append': u'; kosmetische Änderungen',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'cosmetic_changes-standalone': u'Bot: Kosmetische Änderungen',
+		'cosmetic_changes-append': u'; kosmetische Änderungen',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'cosmetic_changes-standalone': u'Boti vurnayışo kozmetik keno',

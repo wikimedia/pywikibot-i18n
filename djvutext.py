@@ -70,6 +70,10 @@ msg = {
 	'de': {
 		'djvutext-creating': u'Bot: Erstelle eine Seite mit aus DjVu extrahiertem Text',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'djvutext-creating': u'Bot: Seite mit Text aus dem DjVu erstellen',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'djvutext-creating': u'Boti: Vetışe metne DjVu fına dekerde pela',

@@ -333,12 +333,13 @@ msg = {
 		'interwiki-removing-modifying': u'robot Gitangtang: %(removing)s Gimodipikar: %(modifying)s',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	'ckb': {
 		'interwiki-modifying': u'ڕۆبۆت: چاکسازیی %(modifying)s',
-		'interwiki-adding-modifying': u'ڕۆبۆت: زێدەکردنی %(adding)s; چاکسازیی %(modifying)s',
-		'interwiki-adding-removing': u'ڕۆبۆت: زێدەکردنی %(adding)s؛ لابردنی: %(removing)s',
-		'interwiki-adding-removing-modifying': u'ڕۆبۆت: زێدەکردنی %(adding)s؛ لابردنی %(removing)s؛ چاکسازیی %(modifying)s',
-		'interwiki-adding': u'ڕۆبۆت: زێدەکردنی %(adding)s',
+		'interwiki-adding-modifying': u'ڕۆبۆت: زیادکردنی %(adding)s؛ چاکسازیی %(modifying)s',
+		'interwiki-adding-removing': u'ڕۆبۆت: زیادکردنی %(adding)s؛ لابردنی: %(removing)s',
+		'interwiki-adding-removing-modifying': u'ڕۆبۆت: زیادکردنی %(adding)s؛ لابردنی %(removing)s؛ چاکسازیی %(modifying)s',
+		'interwiki-adding': u'ڕۆبۆت: زیادکردنی %(adding)s',
 		'interwiki-removing': u'ڕۆبۆت: لابردنی %(removing)s',
 		'interwiki-removing-modifying': u'ڕۆبۆت: لابردنی %(removing)s؛ چاکسازیی %(modifying)s',
 		'interwiki-modifying-from': u'ڕۆبۆت: گۆڕانی %(from)s بۆ %(modifying)s',
@@ -414,6 +415,17 @@ msg = {
 	},
 	# Author: Xqt
 	'de': {
+		'interwiki-modifying': u'Bot: Ändere: %(modifying)s',
+		'interwiki-adding-modifying': u'Bot: Ergänze: %(adding)s; ändere: %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s; ändere: %(modifying)s',
+		'interwiki-adding': u'Bot: Ergänze: %(adding)s',
+		'interwiki-removing': u'Bot: Entferne: %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Entferne: %(removing)s; ändere: %(modifying)s',
+		'interwiki-modifying-from': u'Bot: Ändere %(from)s zu %(modifying)s',
+	},
+	# Author: Eruedin
+	'de-ch': {
 		'interwiki-modifying': u'Bot: Ändere: %(modifying)s',
 		'interwiki-adding-modifying': u'Bot: Ergänze: %(adding)s; ändere: %(modifying)s',
 		'interwiki-adding-removing': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s',

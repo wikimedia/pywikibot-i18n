@@ -149,12 +149,14 @@ msg = {
 		'archivebot-archive-summary': u'Robot: Arxivant %(count)d fils de discussió de [[%(from)s]].',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	# Author: Muhammed taha
 	'ckb': {
 		'archivebot-older-than': u'کۆنتر لە',
-		'archivebot-page-summary': u'ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s.',
-		'archivebot-archiveheader': u'{{ئەرشیڤی وتووێژ}}',
+		'archivebot-page-summary': u'ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ئەرشیڤ پڕە)',
+		'archivebot-archive-summary': u'ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} لە [[%(from)s]].',
 	},
 	# Author: Spiffyk
 	# Author: Tchoř

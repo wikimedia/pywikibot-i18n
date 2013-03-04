@@ -103,8 +103,9 @@ msg = {
 		'add_text-adding': u'robot Gidugang %(adding)s',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	'ckb': {
-		'add_text-adding': u'ڕۆبۆت: زێدەکردنی %(adding)s',
+		'add_text-adding': u'ڕۆبۆت: زیادکردنی %(adding)s',
 	},
 	'crh': {
 		'add_text-adding': u'robot ekley %(adding)s',

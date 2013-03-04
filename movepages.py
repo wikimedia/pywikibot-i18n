@@ -56,8 +56,9 @@ msg = {
 		'movepages-moving': u'Robot: Moure pàgina',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	'ckb': {
-		'movepages-moving': u'ڕۆبۆت: پەڕەی گواستەوە',
+		'movepages-moving': u'ڕۆبۆت: پەڕە گوازرایەوە',
 	},
 	'cs': {
 		'movepages-moving': u'Robot přesunul stránku',
@@ -67,6 +68,10 @@ msg = {
 		'movepages-moving': u'Robot: Flyttede side',
 	},
 	'de': {
+		'movepages-moving': u'Bot: Seite verschoben',
+	},
+	# Author: Eruedin
+	'de-ch': {
 		'movepages-moving': u'Bot: Seite verschoben',
 	},
 	# Author: Erdemaslancan

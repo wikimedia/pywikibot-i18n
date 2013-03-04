@@ -67,6 +67,10 @@ msg = {
 	'de': {
 		'unlink-unlinking': u'Bot: Entlinke „%s“',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'unlink-unlinking': u'Bot: Entknüpfe „%s“',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'unlink-unlinking': u'Robot: "%s" bê gıreyo',

@@ -50,6 +50,12 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Berichte nicht verfügbaren Weblink',
 		'weblinkchecker-report': u'Bei mehreren automatisierten Botläufen wurde der folgende Weblink als nicht verfügbar erkannt. Bitte überprüfe, ob der Link tatsächlich unerreichbar ist, und korrigiere oder entferne ihn in diesem Fall!',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'weblinkchecker-archive_msg': u'Die Webseite wurde vom Internet-Archive gespeichert. Bitte verknüpfe gegebenenfalls mit einer geeigneten archivierten Version: [%(URL)s].',
+		'weblinkchecker-caption': u'Tote Verknüpfung',
+		'weblinkchecker-report': u'Bei mehreren automatisierten Botläufen wurde die folgende Verknüpfung als nicht verfügbar erkannt. Bitte überprüfe, ob die Verknüpfung tatsächlich nicht erreichbar ist, und korrigiere oder entferne sie in diesem Fall!',
+	},
 	# Author: Airon90
 	'eo': {
 		'weblinkchecker-caption': u'Neenretiĝa ligilo',
@@ -106,7 +112,9 @@ msg = {
 		'weblinkchecker-summary': u'bot: nem elérhető külső hivatkozás jelentése',
 		'weblinkchecker-report': u'Számos automatikus bot futtatás után az alábbi külső hivatkozás nem elérhető. Kérlek ellenőrizd, hogy a hivatkozás valóban nem elérhető, és ha így van, akkor javítsd ki vagy távolítsd el!',
 	},
+	# Author: McDutchie
 	'ia': {
+		'weblinkchecker-archive_msg': u'Iste pagina web ha essite salveguardate per Internet Archive. Per favor considera ligar a un version archivate: [%(URL)s].',
 		'weblinkchecker-caption': u'Ligamine defuncte',
 		'weblinkchecker-summary': u'Robot: Reporto de un ligamine externe non functionante',
 		'weblinkchecker-report': u'Durante plure sessiones automatic, le robot ha constatate que le sequente ligamine externe non es disponibile. Per favor confirma que le ligamine de facto es defuncte, e in caso de si, repara o elimina lo!',
@@ -169,6 +177,12 @@ msg = {
 		'weblinkchecker-caption': u'Pautan mati',
 		'weblinkchecker-summary': u'Robot: Melaporkan pautan luar yang tidak berkesan',
 		'weblinkchecker-report': u'Ketika beberapa jalanan bot automatik, pautan luar yang berikut didapati tidak berkesan. Sila semak sama ada halaman sesawang yang dipauti itu sebenarnya ditutup, dan jika begitu, betulkan atau buang pautan itu.',
+	},
+	'nb': {
+		'weblinkchecker-archive_msg': u'Nettsiden har blitt lagret i Internet Archive. Vurder å lenke til en arkivert versjon: [%(URL)s].',
+		'weblinkchecker-caption': u'Død lenke',
+		'weblinkchecker-summary': u'bot: Rapporterer utilgjengelig ekstern lenke',
+		'weblinkchecker-report': u'I løpet av flere automatiske botkjøringer ble følgende lenke funnet å være utilgjengelig. Sjekk om lenken faktisk er død, og fiks eller fjern den om det er tilfelle.',
 	},
 	'nds': {
 		'weblinkchecker-caption': u'Weblenk geiht nich mehr',

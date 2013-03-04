@@ -68,6 +68,10 @@ msg = {
 	'de': {
 		'ndashredir-create': u'Bot: Weiterleitung mit Bindestrich auf [[%(title)s]] erstellt',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'ndashredir-create': u'Bot: Weiterleitung mit Bindestrich auf [[%(title)s]] erstellt',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'ndashredir-create': u'Boti [[%(title)s]] ra hetanayışi melumatê vıraşt',

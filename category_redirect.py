@@ -171,8 +171,9 @@ msg = {
 		'category_redirect-fix-double': u'Bot: arreglant redirecció doble',
 	},
 	# Author: Asoxor
+	# Author: Calak
 	'ckb': {
-		'category_redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجارڕەوانەکردنەوە',
+		'category_redirect-fix-double': u'ڕۆبۆت: چاکسازیی دووجار-ڕەوانەکەر',
 	},
 	# Author: Spiffyk
 	'cs': {
@@ -221,6 +222,7 @@ msg = {
 		'category_redirect-add-template': u'Bot: Füge Kategorieweiterleitungs-Vorlage für die Wartung hinzu',
 		'category_redirect-edit-request': u'Die folgenden geschützten Seiten benötigen noch eine Kategorielink-Aktualisierung: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
+		'category_redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung',
 	},
 	# Author: Erdemaslancan
 	# Author: Mirzali

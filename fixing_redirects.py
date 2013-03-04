@@ -76,6 +76,10 @@ msg = {
 	'de': {
 		'fixing_redirects-fixing': u'Bot: Reparieren von Umleitungen',
 	},
+	# Author: Eruedin
+	'de-ch': {
+		'fixing_redirects-fixing': u'Bot: Reparieren von Umleitungen',
+	},
 	# Author: Erdemaslancan
 	'diq': {
 		'fixing_redirects-fixing': u'Boti hetenayışi timar kerdi',
