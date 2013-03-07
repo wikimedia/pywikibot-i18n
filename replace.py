@@ -46,10 +46,6 @@ msg = {
 		'replace-replacing': u'Bot: Autómaatisirde Textersétzung %(description)s',
 	},
 	# Author: Jim-by
-	'be-tarask': {
-		'replace-replacing': u'Робат: аўтаматызаваная замена тэксту %(description)s',
-	},
-	# Author: Jim-by
 	'be-x-old': {
 		'replace-replacing': u'Робат: аўтаматызаваная замена тэксту %(description)s',
 	},
@@ -146,10 +142,6 @@ msg = {
 	'gl': {
 		'replace-replacing': u'Bot: Substitución automática de texto %(description)s',
 	},
-	# Author: Xqt
-	'gsw': {
-		'replace-replacing': u'Bötli: het dr Text automatisch uustuscht: %(description)s',
-	},
 	'he': {
 		'replace-replacing': u'בוט: החלפת טקסט אוטומטית %(description)s',
 	},
@@ -202,9 +194,6 @@ msg = {
 	'kk': {
 		'replace-replacing': u'Бот: Мәтінді өздікті алмастырды: %(description)s',
 	},
-	'kk-cyrl': {
-		'replace-replacing': u'Бот: Мәтінді өздікті алмастырды: %(description)s',
-	},
 	# Author: Cwt96
 	# Author: 아라
 	'ko': {
@@ -215,10 +204,6 @@ msg = {
 	},
 	# Author: Ghybu
 	'ku': {
-		'replace-replacing': u'Bot: Otomatîk nivîs guherandin %(description)s',
-	},
-	# Author: Ghybu
-	'ku-latn': {
 		'replace-replacing': u'Bot: Otomatîk nivîs guherandin %(description)s',
 	},
 	# Author: UV
@@ -276,9 +261,6 @@ msg = {
 	# Author: محک
 	'mzn': {
 		'replace-replacing': u'ربوت: بنویشته‌ئون خادکار عوض-بدل بیّن %(description)s',
-	},
-	'nb': {
-		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
 	},
 	'nds': {
 		'replace-replacing': u'Bot: Text automaatsch utwesselt: %(description)s',
@@ -357,10 +339,6 @@ msg = {
 		'replace-replacing': u'Робот: самозамењивање текста %(description)s',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'replace-replacing': u'Робот: самозамењивање текста %(description)s',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'replace-replacing': u'Robot: samozamenjivanje teksta %(description)s',
 	},
@@ -391,10 +369,6 @@ msg = {
 	'tt': {
 		'replace-replacing': u'Робот: %(description)s текстын автоматик рәвештә алмаштыру',
 	},
-	# Author: Zahidulla
-	'tt-cyrl': {
-		'replace-replacing': u'Робот: %(description)s текстын автоматик рәвештә алмаштыру',
-	},
 	'uk': {
 		'replace-replacing': u'Бот: Автоматизована заміна тексту: %(description)s',
 	},
@@ -417,10 +391,6 @@ msg = {
 	},
 	# Author: 阿pp
 	'zh': {
-		'replace-replacing': u'机器人：自动文本替换%(description)s',
-	},
-	# Author: 阿pp
-	'zh-hans': {
 		'replace-replacing': u'机器人：自动文本替换%(description)s',
 	},
 	# Author: Andrew971218

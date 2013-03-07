@@ -40,10 +40,6 @@ msg = {
 		'editarticle-edit': u'Manuelle Beorweitung: %(description)s',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
-		'editarticle-edit': u'Ручное рэдагаваньне з робатам: %(description)s',
-	},
-	# Author: EugeneZelenko
 	'be-x-old': {
 		'editarticle-edit': u'Ручное рэдагаваньне з робатам: %(description)s',
 	},
@@ -127,10 +123,6 @@ msg = {
 	'gl': {
 		'editarticle-edit': u'Edición manual con bot: %(description)s',
 	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'editarticle-edit': u'Manuelli Bearbeitig: %(description)s',
-	},
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
 	},
@@ -213,10 +205,6 @@ msg = {
 	'ms': {
 		'editarticle-edit': u'Suntingan manual dengan bot: %(description)s',
 	},
-	# Author: Nghtwlkr
-	'nb': {
-		'editarticle-edit': u'Manuell redigert med robot: %(description)s',
-	},
 	# Author: Servien
 	'nds-nl': {
 		'editarticle-edit': u'Haandmaotige bewarking mit bot: %(description)s',
@@ -293,10 +281,6 @@ msg = {
 		'editarticle-edit': u'Ручно уређивање с роботом: %(description)s',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'editarticle-edit': u'Ручно уређивање с роботом: %(description)s',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'editarticle-edit': u'Ručno uređivanje s robotom: %(description)s',
 	},
@@ -331,10 +315,6 @@ msg = {
 	'tt': {
 		'editarticle-edit': u'Бот белән идарә итү өчен кулланма: %(description)s',
 	},
-	# Author: Ильнар
-	'tt-cyrl': {
-		'editarticle-edit': u'Бот белән идарә итү өчен кулланма: %(description)s',
-	},
 	# Author: Dim Grits
 	'uk': {
 		'editarticle-edit': u'Ручне редагування за допомогою бота: %(description)s',
@@ -362,10 +342,6 @@ msg = {
 	},
 	# Author: Hydra
 	'zh': {
-		'editarticle-edit': u'利用机器方式手动编辑：%(description)s',
-	},
-	# Author: Hydra
-	'zh-hans': {
 		'editarticle-edit': u'利用机器方式手动编辑：%(description)s',
 	},
 	# Author: Justincheng12345

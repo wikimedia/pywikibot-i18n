@@ -4,7 +4,7 @@ msg = {
 		'template-changing': u'Robot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-removing': u'Robot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
-	},	
+	},
 	# Author: Csisc
 	'aeb': {
 		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
@@ -52,12 +52,6 @@ msg = {
 		'template-removing': u'Робот: {{PLURAL:%(num)d|ҡалып}} юйыу: %(list)s',
 		'template-changing': u'Робот: {{PLURAL:%(num)d|ҡалып}} үҙгәртеү: %(list)s',
 		'template-substituting': u'Робот: {{PLURAL:%(num)d|ҡалып}} алыштырыу: %(list)s',
-	},
-	# Author: EugeneZelenko
-	'be-tarask': {
-		'template-removing': u'Робат: выдаліў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
-		'template-changing': u'Робат: зьмяніў{{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
-		'template-substituting': u'Робат: падставіў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -180,12 +174,6 @@ msg = {
 		'template-changing': u'Bot: Cambio {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s',
 		'template-substituting': u'Bot: Substitúo {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s',
 	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'template-removing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ussenee: %(list)s',
-		'template-changing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s',
-		'template-substituting': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} usstuusche: %(list)s',
-	},
 	'he': {
 		'template-removing': u'בוט: מסיר {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
 		'template-changing': u'בוט: משנה {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
@@ -247,11 +235,6 @@ msg = {
 		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',
 		'template-substituting': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} бәделдірленді: %(list)s',
 	},
-	'kk-cyrl': {
-		'template-removing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} аластатылды: %(list)s',
-		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',
-		'template-substituting': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} бәделдірленді: %(list)s',
-	},
 	# Author: 아라
 	'ko': {
 		'template-removing': u'로봇: {{PLURAL:%(num)d|틀}} 제거: %(list)s',
@@ -302,11 +285,6 @@ msg = {
 		'template-removing': u'Robot: Menanggalkan {{PLURAL:%(num)d|templat|templat-templat}}: %(list)s',
 		'template-changing': u'Robot: Menukar {{PLURAL:%(num)d|templat|templat-templat}}: %(list)s',
 		'template-substituting': u'Robot: Menggantikan {{PLURAL:%(num)d|templat|templat-templat}}: %(list)s',
-	},
-	'nb': {
-		'template-removing': u'bot: Fjerner {{PLURAL:%(num)d|mal|maler}}: %(list)s',
-		'template-changing': u'bot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s',
-		'template-substituting': u'bot: Erstatter {{PLURAL:%(num)d|mal|maler}}: %(list)s',
 	},
 	'nds': {
 		'template-removing': u'Bot: {{PLURAL:%(num)d|Vörlaag|Vörlagen}} rut: %(list)s',
@@ -398,12 +376,6 @@ msg = {
 		'template-substituting': u'Робот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'template-removing': u'Робот: {{PLURAL:%(num)d|уклоњен шаблон|уклоњени шаблони}}: %(list)s',
-		'template-changing': u'Робот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s',
-		'template-substituting': u'Робот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'template-removing': u'Robot: {{PLURAL:%(num)d|uklonjen šablon|uklonjeni šabloni}}: %(list)s',
 		'template-changing': u'Robot: {{PLURAL:%(num)d|promenjen šablon|promenjeni šabloni}}: %(list)s',
@@ -474,13 +446,6 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'template-removing': u'机器人：删除%(num)d个模板：%(list)s',
-		'template-changing': u'机器人：修改%(num)d个模板：%(list)s',
-		'template-substituting': u'机器人：替换%(num)d个模板：%(list)s',
-	},
-	# Author: Hydra
-	# Author: Yfdyh000
-	'zh-hans': {
 		'template-removing': u'机器人：删除%(num)d个模板：%(list)s',
 		'template-changing': u'机器人：修改%(num)d个模板：%(list)s',
 		'template-substituting': u'机器人：替换%(num)d个模板：%(list)s',

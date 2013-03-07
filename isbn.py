@@ -52,10 +52,6 @@ msg = {
 		'isbn-formatting': u'робат аформіў ISBN',
 	},
 	# Author: Jim-by
-	'be-tarask': {
-		'isbn-formatting': u'Робат: фарматаваньне ISBN',
-	},
-	# Author: Jim-by
 	'be-x-old': {
 		'isbn-formatting': u'Робат: фарматаваньне ISBN',
 	},
@@ -173,10 +169,6 @@ msg = {
 	'gl': {
 		'isbn-formatting': u'Bot: Dou formato ISBN',
 	},
-	# Author: Als-Holder
-	'gsw': {
-		'isbn-formatting': u'Bot: ISBN formatiert',
-	},
 	# Author: YaronSh
 	'he': {
 		'isbn-formatting': u'בוט: מעצב מסת״ב',
@@ -242,10 +234,6 @@ msg = {
 	'ku': {
 		'isbn-formatting': u'Robot:ISBN\'ê format bike',
 	},
-	# Author: George Animal
-	'ku-latn': {
-		'isbn-formatting': u'Robot:ISBN\'ê format bike',
-	},
 	# Author: Robby
 	'lb': {
 		'isbn-formatting': u'Bot: ISBN formatéiert',
@@ -297,9 +285,6 @@ msg = {
 	# Author: Lionslayer
 	'my': {
 		'isbn-formatting': u'ရိုဘော့ - ISBN နံပါတ်ကို ပုံစံချနေသည်',
-	},
-	'nb': {
-		'isbn-formatting': u'robot: Formaterer ISBN',
 	},
 	# Author: Slomox
 	'nds': {
@@ -388,10 +373,6 @@ msg = {
 		'isbn-formatting': u'Робот: обликовање ISBN-а',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'isbn-formatting': u'Робот: обликовање ISBN-а',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'isbn-formatting': u'Robot: oblikovanje ISBN-a',
 	},
@@ -431,10 +412,6 @@ msg = {
 	'tt': {
 		'isbn-formatting': u'Робот: ISBN үзгәртеп кору',
 	},
-	# Author: Zahidulla
-	'tt-cyrl': {
-		'isbn-formatting': u'Робот: ISBN үзгәртеп кору',
-	},
 	# Author: Тест
 	'uk': {
 		'isbn-formatting': u'Робот: Форматування ISBN',
@@ -462,10 +439,6 @@ msg = {
 	},
 	# Author: Hydra
 	'zh': {
-		'isbn-formatting': u'机器人：ISBN格式化',
-	},
-	# Author: Hydra
-	'zh-hans': {
 		'isbn-formatting': u'机器人：ISBN格式化',
 	},
 	# Author: Andrew971218

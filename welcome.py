@@ -75,13 +75,6 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
-	'be-tarask': {
-		'welcome-welcome': u'Вітаем!',
-		'welcome-bad_username': u'Робат: дадаў імя карыстальніка, якое неабходна праверыць',
-		'welcome-updating': u'Робат: журнал абнаўленьняў',
-	},
-	# Author: EugeneZelenko
-	# Author: Jim-by
 	'be-x-old': {
 		'welcome-welcome': u'Вітаем!',
 		'welcome-bad_username': u'Робат: дадаў імя карыстальніка, якое неабходна праверыць',
@@ -242,12 +235,6 @@ msg = {
 		'welcome-bad_username': u'Bot: Engado un nome de usuario que necesita ser comprobado',
 		'welcome-updating': u'Bot: Actualizo o rexistro',
 	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'welcome-welcome': u'Willchu!',
-		'welcome-bad_username': u'Bötli: due e Benutzername ergänze, wo no überprieft werde muess',
-		'welcome-updating': u'Bötli: Logbuech wird aktualisiert',
-	},
 	# Author: Harsh4101991
 	'gu': {
 		'welcome-welcome': u'સ્વાગત!',
@@ -351,10 +338,6 @@ msg = {
 	'ku': {
 		'welcome-welcome': u'Tu bi xêr hatî!',
 	},
-	# Author: George Animal
-	'ku-latn': {
-		'welcome-welcome': u'Tu bi xêr hatî!',
-	},
 	# Author: Growingup
 	'ky': {
 		'welcome-welcome': u'Кош келиңиз!',
@@ -425,12 +408,6 @@ msg = {
 	# Author: Chrisportelli
 	'mt': {
 		'welcome-welcome': u'Merħba!',
-	},
-	# Author: Lokal Profil
-	'nb': {
-		'welcome-welcome': u'Velkommen!',
-		'welcome-bad_username': u'Bot: Legger til et brukernavn som må sjekkes',
-		'welcome-updating': u'Bot: Oppdaterer logg',
 	},
 	# Author: Servien
 	'nds-nl': {
@@ -557,12 +534,6 @@ msg = {
 		'welcome-updating': u'Робот: ажурирана историја',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'welcome-welcome': u'Добро дошли!',
-		'welcome-bad_username': u'Робот: додато корисничко име које треба да се провери',
-		'welcome-updating': u'Робот: ажурирана историја',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'welcome-welcome': u'Dobro došli!',
 		'welcome-bad_username': u'Robot: dodato korisničko ime koje treba da se proveri',
@@ -631,12 +602,6 @@ msg = {
 		'welcome-bad_username': u'Робот:Шикле кулланучы исеме өстәлгән',
 		'welcome-updating': u'Робот:Яңарту',
 	},
-	# Author: Ajdar
-	'tt-cyrl': {
-		'welcome-welcome': u'Рәхим итегез!',
-		'welcome-bad_username': u'Робот:Шикле кулланучы исеме өстәлгән',
-		'welcome-updating': u'Робот:Яңарту',
-	},
 	# Author: Tifinaghes
 	'tzm': {
 		'welcome-welcome': u'ⴰⵏⵙⵓⴼ!',
@@ -693,13 +658,6 @@ msg = {
 	# Author: Anakmalaysia
 	# Author: Hzy980512
 	'zh': {
-		'welcome-welcome': u'欢迎！',
-		'welcome-bad_username': u'机器人：添加一个需要进行检查的用户名',
-		'welcome-updating': u'机器人：更新日志',
-	},
-	# Author: Anakmalaysia
-	# Author: Hzy980512
-	'zh-hans': {
 		'welcome-welcome': u'欢迎！',
 		'welcome-bad_username': u'机器人：添加一个需要进行检查的用户名',
 		'welcome-updating': u'机器人：更新日志',

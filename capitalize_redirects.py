@@ -2,7 +2,7 @@
 msg = {
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
-	},	
+	},
 	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
@@ -39,10 +39,6 @@ msg = {
 	# Author: Haqmar
 	'ba': {
 		'capitalize_redirects-create-redirect': u'Робот: [[%(to)s]] битенә йүнәлтеү яһалды',
-	},
-	# Author: EugeneZelenko
-	'be-tarask': {
-		'capitalize_redirects-create-redirect': u'Робат: стварыў перанакіраваньне на [[%(to)s]]',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -140,10 +136,6 @@ msg = {
 	'gl': {
 		'capitalize_redirects-create-redirect': u'Bot: Creo unha redirección cara a "[[%(to)s]]"',
 	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'capitalize_redirects-create-redirect': u'Bötli: e Wyterleitig uff [[%(to)s]] aaglait',
-	},
 	'he': {
 		'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
 	},
@@ -234,10 +226,6 @@ msg = {
 	'mt': {
 		'capitalize_redirects-create-redirect': u'Robot: Maħluq rindirizz lejn [[%(to)s]]',
 	},
-	# Author: Nghtwlkr
-	'nb': {
-		'capitalize_redirects-create-redirect': u'Robot: Opprett omdirigering til [[%(to)s]]',
-	},
 	# Author: Servien
 	'nds-nl': {
 		'capitalize_redirects-create-redirect': u'Bot: deurverwiezing emaakt naor [[%(to)s]]',
@@ -315,10 +303,6 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Робот: направљено преусмерење на [[%(to)s]]',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'capitalize_redirects-create-redirect': u'Робот: направљено преусмерење на [[%(to)s]]',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'capitalize_redirects-create-redirect': u'Robot: napravljeno preusmerenje na [[%(to)s]]',
 	},
@@ -354,15 +338,8 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Бот: [[%(to)s]]ка юнәлтү эшләнгән',
 	},
 	# Author: Ajdar
-	'tt-cyrl': {
-		'capitalize_redirects-create-redirect': u'Бот: [[%(to)s]]ка юнәлтү эшләнгән',
-	},
 	# Author: Sahran
 	'ug': {
-		'capitalize_redirects-create-redirect': u'ماشىنا ئادەم: [[%(to)s]]غا قايتا نىشانلىدى',
-	},
-	# Author: Sahran
-	'ug-arab': {
 		'capitalize_redirects-create-redirect': u'ماشىنا ئادەم: [[%(to)s]]غا قايتا نىشانلىدى',
 	},
 	'uk': {
@@ -399,10 +376,6 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'capitalize_redirects-create-redirect': u'机器人：创建重定向至[[%(to)s]]',
-	},
-	# Author: Yfdyh000
-	'zh-hans': {
 		'capitalize_redirects-create-redirect': u'机器人：创建重定向至[[%(to)s]]',
 	},
 	# Author: Waihorace

@@ -51,11 +51,6 @@ msg = {
 		'commons-file-now-available': u'Daatei ist iatz auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] vafiagbor.',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
-		'commons-file-moved': u'[[:File:%(localfile)s|Файл]] перанесены ў [[:commons:File:%(commonsfile)s|ВікіCховішча]].',
-		'commons-file-now-available': u'Цяпер файл даступны ў [[:commons:File:%(commonsfile)s|ВікіCховішчы]].',
-	},
-	# Author: EugeneZelenko
 	'be-x-old': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Файл]] перанесены ў [[:commons:File:%(commonsfile)s|ВікіCховішча]].',
 		'commons-file-now-available': u'Цяпер файл даступны ў [[:commons:File:%(commonsfile)s|ВікіCховішчы]].',
@@ -168,11 +163,6 @@ msg = {
 	'gl': {
 		'commons-file-moved': u'O [[:File:%(localfile)s|ficheiro]] agora está en [[:commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'O ficheiro agora está dispoñible na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
-	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'commons-file-moved': u'D [[:File:%(localfile)s|Datei]] isch uff [[:commons:File:%(commonsfile)s|d Allmänd]] verschobe worde.',
-		'commons-file-now-available': u'Die Datei isch jetz uff de [[:commons:File:%(commonsfile)s|Allmänd]] verfügbar.',
 	},
 	# Author: Amire80
 	'he': {
@@ -294,11 +284,6 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] mobido para [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'L fexeiro stá agora ne l [[:commons:File:%(commonsfile)s|Wikimedia Commons]]',
 	},
-	# Author: Nghtwlkr
-	'nb': {
-		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttet til [[:commons:File:%(commonsfile)s|commons]].',
-		'commons-file-now-available': u'Filen er nå tilgjengelig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
-	},
 	# Author: Servien
 	'nds-nl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Bestaand]] is verplaotst naor [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
@@ -389,11 +374,6 @@ msg = {
 		'commons-file-now-available': u'Датотека је сада доступна у [[:commons:File:%(commonsfile)s|Викимедијиној остави]].',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'commons-file-moved': u'[[:File:%(localfile)s|Датотека]] је премештена у [[:commons:File:%(commonsfile)s|Оставу]].',
-		'commons-file-now-available': u'Датотека је сада доступна у [[:commons:File:%(commonsfile)s|Викимедијиној остави]].',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] je premeštena u [[:commons:File:%(commonsfile)s|Ostavu]].',
 		'commons-file-now-available': u'Datoteka je sada dostupna u [[:commons:File:%(commonsfile)s|Vikimedijinoj ostavi]].',
@@ -425,11 +405,6 @@ msg = {
 	},
 	# Author: Ильнар
 	'tt': {
-		'commons-file-moved': u'[[:File:%(localfile)s|Файл]]  [[:commons:File:%(commonsfile)s|Викиҗыентык]]ка күчерелде.',
-		'commons-file-now-available': u'Файлны хәзер  [[:commons:File:%(commonsfile)s|Викиҗыентык]]та карап була.',
-	},
-	# Author: Ильнар
-	'tt-cyrl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Файл]]  [[:commons:File:%(commonsfile)s|Викиҗыентык]]ка күчерелде.',
 		'commons-file-now-available': u'Файлны хәзер  [[:commons:File:%(commonsfile)s|Викиҗыентык]]та карап була.',
 	},
@@ -466,11 +441,6 @@ msg = {
 	},
 	# Author: Hydra
 	'zh': {
-		'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
-		'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
-	},
-	# Author: Hydra
-	'zh-hans': {
 		'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
 		'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
 	},

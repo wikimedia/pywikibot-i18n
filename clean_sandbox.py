@@ -42,10 +42,6 @@ msg = {
 		'clean_sandbox-cleaned': u'Bot: Sétz d\' Spüwiesen zruck.',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
-		'clean_sandbox-cleaned': u'Робат: аўтаматычная ачыстка',
-	},
-	# Author: EugeneZelenko
 	'be-x-old': {
 		'clean_sandbox-cleaned': u'Робат: аўтаматычная ачыстка',
 	},
@@ -138,9 +134,6 @@ msg = {
 	'gl': {
 		'clean_sandbox-cleaned': u'Bot: Limpeza automática',
 	},
-	'gsw': {
-		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
-	},
 	'he': {
 		'clean_sandbox-cleaned': u'בוט: דף זה ינוקה אוטומטית.',
 	},
@@ -221,9 +214,6 @@ msg = {
 	'ms': {
 		'clean_sandbox-cleaned': u'Robot: Dibersihkan secara automatik',
 	},
-	'nb': {
-		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
-	},
 	'nds': {
 		'clean_sandbox-cleaned': u'Bot: Speelwisch leddig maakt.',
 	},
@@ -296,10 +286,6 @@ msg = {
 		'clean_sandbox-cleaned': u'Робот: очишћен песак',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'clean_sandbox-cleaned': u'Робот: очишћен песак',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'clean_sandbox-cleaned': u'Robot: očišćen pesak',
 	},
@@ -333,10 +319,6 @@ msg = {
 	'tt': {
 		'clean_sandbox-cleaned': u'Робот: автоматик рәвештә чистарту',
 	},
-	# Author: Zahidulla
-	'tt-cyrl': {
-		'clean_sandbox-cleaned': u'Робот: автоматик рәвештә чистарту',
-	},
 	# Author: Тест
 	'uk': {
 		'clean_sandbox-cleaned': u'Робот: Автоматична очистка',
@@ -364,10 +346,6 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'clean_sandbox-cleaned': u'机器人：自动清理',
-	},
-	# Author: Yfdyh000
-	'zh-hans': {
 		'clean_sandbox-cleaned': u'机器人：自动清理',
 	},
 	# Author: Waihorace

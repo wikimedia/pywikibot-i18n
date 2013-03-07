@@ -208,20 +208,6 @@ msg = {
 		'interwiki-removing-modifying': u'робат выдаліў: %(removing)s змяніў: %(modifying)s',
 	},
 	# Author: EugeneZelenko
-	# Author: Renessaince
-	# Author: Wizardist
-	# Author: Xqt
-	'be-tarask': {
-		'interwiki-modifying': u'робат зьмяніў: %(modifying)s',
-		'interwiki-adding-modifying': u'робат дадаў: %(adding)s зьмяніў: %(modifying)s',
-		'interwiki-adding-removing': u'робат дадаў: %(adding)s выдаліў: %(removing)s',
-		'interwiki-adding-removing-modifying': u'робат дадаў: %(adding)s выдаліў: %(removing)s зьмяніў: %(modifying)s',
-		'interwiki-adding': u'робат дадаў: %(adding)s',
-		'interwiki-removing': u'робат выдаліў: %(removing)s',
-		'interwiki-removing-modifying': u'робат выдаліў: %(removing)s зьмяніў: %(modifying)s',
-		'interwiki-modifying-from': u'робат зьмяніў: %(from)s на %(modifying)s',
-	},
-	# Author: EugeneZelenko
 	# Author: Wizardist
 	# Author: Xqt
 	'be-x-old': {
@@ -637,9 +623,6 @@ msg = {
 	'gan': {
 		'interwiki-adding-removing-modifying': u'機械人 添進: %(adding)s 刪吥: %(removing)s 改吥: %(modifying)s',
 	},
-	'gan-hant': {
-		'interwiki-adding-removing-modifying': u'機械人 添進: %(adding)s 刪吥: %(removing)s 改吥: %(modifying)s',
-	},
 	# Author: Toliño
 	'gl': {
 		'interwiki-modifying': u'Bot: Modifico: %(modifying)s',
@@ -659,18 +642,6 @@ msg = {
 		'interwiki-adding': u'bot ojoapy: %(adding)s',
 		'interwiki-removing': u'bot oñembogue: %(removing)s',
 		'interwiki-removing-modifying': u'bot oñembogue: %(removing)s oñemoambue: %(modifying)s',
-	},
-	# Author: Als-Holder
-	# Author: Xqt
-	'gsw': {
-		'interwiki-modifying': u'Bötli: Gändret: %(modifying)s',
-		'interwiki-adding-modifying': u'Bötli: Ygfüegt: %(adding)s Gändret: %(modifying)s',
-		'interwiki-adding-removing': u'Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s Gändret: %(modifying)s',
-		'interwiki-adding': u'Bötli: Ygfüegt: %(adding)s',
-		'interwiki-removing': u'Bötli: Ussegnuu: %(removing)s',
-		'interwiki-removing-modifying': u'Bötli: Ussegnuu: %(removing)s Gändret: %(modifying)s',
-		'interwiki-modifying-from': u'Bötli: Due %(from)s zue %(modifying)s ändere',
 	},
 	'gu': {
 		'interwiki-modifying': u'રોબોટ ફેરફાર: %(modifying)s',
@@ -705,9 +676,6 @@ msg = {
 	},
 	# Author: Hugo.arg
 	'hif': {
-		'interwiki-adding-removing-modifying': u'robot jorrta hae: %(adding)s hatata hae: %(removing)s badalta hae: %(modifying)s',
-	},
-	'hif-latn': {
 		'interwiki-adding-removing-modifying': u'robot jorrta hae: %(adding)s hatata hae: %(removing)s badalta hae: %(modifying)s',
 	},
 	'hr': {
@@ -880,15 +848,6 @@ msg = {
 		'interwiki-removing': u'Боттың аластағаны: %(removing)s',
 		'interwiki-removing-modifying': u'Боттың аластағаны: %(removing)s түзеткені: %(modifying)s',
 	},
-	'kk-cyrl': {
-		'interwiki-modifying': u'Боттың түзеткені: %(modifying)s',
-		'interwiki-adding-modifying': u'Боттың үстегені: %(adding)s түзеткені: %(modifying)s',
-		'interwiki-adding-removing': u'Боттың үстегені: %(adding)s аластағаны: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Боттың үстегені: %(adding)s аластағаны: %(removing)s түзеткені: %(modifying)s',
-		'interwiki-adding': u'Боттың үстегені: %(adding)s',
-		'interwiki-removing': u'Боттың аластағаны: %(removing)s',
-		'interwiki-removing-modifying': u'Боттың аластағаны: %(removing)s түзеткені: %(modifying)s',
-	},
 	'kl': {
 		'interwiki-modifying': u'Robot Inisseeqqinneq: %(modifying)s',
 		'interwiki-adding-modifying': u'Robot Ilassut: %(adding)s Inisseeqqinneq: %(modifying)s',
@@ -951,17 +910,6 @@ msg = {
 	# Author: George Animal
 	# Author: Xqt
 	'ku': {
-		'interwiki-modifying': u'robot guhêrandin: %(modifying)s',
-		'interwiki-adding-modifying': u'robot serzêde kirin: %(adding)s guhêrandin: %(modifying)s',
-		'interwiki-adding-removing': u'robot serzêde kirin: %(adding)s jêbirin: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot serzêde kirin: %(adding)s jêbirin: %(removing)s guhêrandin: %(modifying)s',
-		'interwiki-adding': u'robot zêdekirin:%(adding)s',
-		'interwiki-removing': u'robot jêbirin: %(removing)s',
-		'interwiki-removing-modifying': u'robot jêbirin: %(removing)s guherandin: %(modifying)s',
-	},
-	# Author: George Animal
-	# Author: Xqt
-	'ku-latn': {
 		'interwiki-modifying': u'robot guhêrandin: %(modifying)s',
 		'interwiki-adding-modifying': u'robot serzêde kirin: %(adding)s guhêrandin: %(modifying)s',
 		'interwiki-adding-removing': u'robot serzêde kirin: %(adding)s jêbirin: %(removing)s',
@@ -1295,16 +1243,6 @@ msg = {
 		'interwiki-removing': u'TepozcuayollotlTlaquixtilli: %(removing)s',
 		'interwiki-removing-modifying': u'TepozcuayollotlTlaquixtilli: %(removing)s Tlapatlalli: %(modifying)s',
 		'interwiki-modifying-from': u'Tepozcuāyōllōtl: ōmopatlac %(from)s īhuicpa %(modifying)s',
-	},
-	'nb': {
-		'interwiki-modifying': u'robot Endrer: %(modifying)s',
-		'interwiki-adding-modifying': u'robot Legger til: %(adding)s Endrer: %(modifying)s',
-		'interwiki-adding-removing': u'robot Legger til: %(adding)s Fjerner: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Legger til: %(adding)s Fjerner: %(removing)s Endrer: %(modifying)s',
-		'interwiki-adding': u'robot Legger til: %(adding)s',
-		'interwiki-removing': u'robot Fjerner: %(removing)s',
-		'interwiki-removing-modifying': u'robot Fjerner: %(removing)s Endrer: %(modifying)s',
-		'interwiki-modifying-from': u'Robot: Endrer %(from)s til %(modifying)s',
 	},
 	'nds': {
 		'interwiki-modifying': u'IW-Bot: ännert: %(modifying)s',
@@ -1691,17 +1629,6 @@ msg = {
 		'interwiki-modifying-from': u'Робот: промењено %(from)s у %(modifying)s',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'interwiki-modifying': u'Робот: измењено %(modifying)s',
-		'interwiki-adding-modifying': u'Робот: додато %(adding)s; измењено %(modifying)s',
-		'interwiki-adding-removing': u'Робот: додато %(adding)s; уклоњено %(removing)s',
-		'interwiki-adding-removing-modifying': u'Робот: додато %(adding)s; уклоњено %(removing)s; измењено %(modifying)s',
-		'interwiki-adding': u'Робот: додато %(adding)s',
-		'interwiki-removing': u'Робот: уклоњено %(removing)s',
-		'interwiki-removing-modifying': u'Робот: уклоњено %(removing)s; измењено %(modifying)s',
-		'interwiki-modifying-from': u'Робот: промењено %(from)s у %(modifying)s',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'interwiki-modifying': u'Robot: izmenjeno %(modifying)s',
 		'interwiki-adding-modifying': u'Robot: dodato %(adding)s; izmenjeno %(modifying)s',
@@ -1793,15 +1720,6 @@ msg = {
 		'interwiki-removing': u'робот дигаргуни карда истодааст: %(removing)s',
 		'interwiki-removing-modifying': u'робот дигаргуни карда истодааст: %(removing)s ҳaвз карда истодааст: %(modifying)s',
 	},
-	'tg-cyrl': {
-		'interwiki-modifying': u'робот ҳaвз карда истодааст: %(modifying)s',
-		'interwiki-adding-modifying': u'робот илова карда истодааст: %(adding)s ҳaвз карда истодааст: %(modifying)s',
-		'interwiki-adding-removing': u'робот илова карда истодааст: %(adding)s дигаргуни карда истодааст: %(removing)s',
-		'interwiki-adding-removing-modifying': u'робот илова карда истодааст: %(adding)s дигаргуни карда истодааст: %(removing)s ҳaвз карда истодааст: %(modifying)s',
-		'interwiki-adding': u'робот илова карда истодааст: %(adding)s',
-		'interwiki-removing': u'робот дигаргуни карда истодааст: %(removing)s',
-		'interwiki-removing-modifying': u'робот дигаргуни карда истодааст: %(removing)s ҳaвз карда истодааст: %(modifying)s',
-	},
 	# Author: Nullzero
 	'th': {
 		'interwiki-modifying': u'โรบอต แก้ไข: %(modifying)s',
@@ -1866,17 +1784,6 @@ msg = {
 	},
 	# Author: Ильнар
 	'tt': {
-		'interwiki-modifying': u'робот үзгәртте: %(modifying)s',
-		'interwiki-adding-modifying': u'робот өстәде: %(adding)s үзгәртте: %(modifying)s',
-		'interwiki-adding-removing': u'робот өстәде: %(adding)s бетерде: %(removing)s',
-		'interwiki-adding-removing-modifying': u'робот өстәде: %(adding)s бетерде: %(removing)s иүзгәртте: %(modifying)s',
-		'interwiki-adding': u'робот өстәде: %(adding)s',
-		'interwiki-removing': u'робот бетерде: %(removing)s',
-		'interwiki-removing-modifying': u'робот бетерде: %(removing)s үзгәртте: %(modifying)s',
-		'interwiki-modifying-from': u'Робот: %(from)s-ны %(modifying)s-ка үзгәртте',
-	},
-	# Author: Ильнар
-	'tt-cyrl': {
 		'interwiki-modifying': u'робот үзгәртте: %(modifying)s',
 		'interwiki-adding-modifying': u'робот өстәде: %(adding)s үзгәртте: %(modifying)s',
 		'interwiki-adding-removing': u'робот өстәде: %(adding)s бетерде: %(removing)s',
@@ -1981,15 +1888,6 @@ msg = {
 		'interwiki-removing-modifying': u'bot moükon: %(removing)s votükon: %(modifying)s',
 		'interwiki-modifying-from': u'Bot: Votükon: %(from)s ad %(modifying)s',
 	},
-	'vro': {
-		'interwiki-modifying': u'robot tävvendämine: %(modifying)s',
-		'interwiki-adding-modifying': u'robot manopandminõ: %(adding)s tävvendämine: %(modifying)s',
-		'interwiki-adding-removing': u'robot manopandminõ: %(adding)s ärqvõtminõ: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot manopandminõ: %(adding)s ärqvõtminõ: %(removing)s tävvendämine: %(modifying)s',
-		'interwiki-adding': u'robot manopandminõ: %(adding)s',
-		'interwiki-removing': u'robot ärqvõtminõ: %(removing)s',
-		'interwiki-removing-modifying': u'robot ärqvõtminõ: %(removing)s tävvendämine: %(modifying)s',
-	},
 	# Author: Hugo.arg
 	# Author: Xqt
 	'wa': {
@@ -2072,18 +1970,6 @@ msg = {
 		'interwiki-adding': u'僕 增: %(adding)s',
 		'interwiki-removing': u'僕 削: %(removing)s',
 		'interwiki-removing-modifying': u'僕 削: %(removing)s 修: %(modifying)s',
-	},
-	# Author: Yfdyh000
-	# Author: 阿pp
-	'zh-hans': {
-		'interwiki-modifying': u'机器人修改：%(modifying)s',
-		'interwiki-adding-modifying': u'机器人添加：%(adding)s 修改：%(modifying)s',
-		'interwiki-adding-removing': u'机器人添加：%(adding)s 移除：%(removing)s',
-		'interwiki-adding-removing-modifying': u'机器人添加：%(adding)s 移除：%(removing)s 修改：%(modifying)s',
-		'interwiki-adding': u'机器人添加：%(adding)s',
-		'interwiki-removing': u'机器人移除：%(removing)s',
-		'interwiki-removing-modifying': u'机器人移除：%(removing)s 修改：%(modifying)s',
-		'interwiki-modifying-from': u'机器人：修改%(from)s至%(modifying)s',
 	},
 	# Author: Alexsh
 	# Author: Andrew971218

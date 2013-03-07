@@ -82,16 +82,6 @@ msg = {
 		'pywikibot-enter-category-name': u'Категория исемен яҙығыҙ:',
 		'pywikibot-enter-finished-browser': u'Браузерҙа эш тамамланғандан һуң Enter төймәһенә баҫығыҙ.',
 	},
-	# Author: Renessaince
-	'be-tarask': {
-		'pywikibot-enter-xml-filename': u'Калі ласка, увядзіце назву файлу дампу XML:',
-		'pywikibot-enter-page-processing': u'Якую старонку патрэбна апрацаваць?',
-		'pywikibot-enter-file-links-processing': u'Спасылкі на якую выяву патрэбна апрацаваць?',
-		'pywikibot-enter-namespace-number': u'Калі ласка, увядзіце нумар прасторы імёнаў:',
-		'pywikibot-enter-new-text': u'Калі ласка, увядзіце новы тэкст:',
-		'pywikibot-enter-category-name': u'Калі ласка, увядзіце назву катэгорыі:',
-		'pywikibot-enter-finished-browser': u'Націсьніце Enter, калі скончыце рэдагаваньне ў броўзэры.',
-	},
 	# Author: Gwenn-Ael
 	'br': {
 		'pywikibot-enter-xml-filename': u'Ebarzhit anv ar restr eztennañ XML, mar plij:',
@@ -260,16 +250,6 @@ msg = {
 		'pywikibot-enter-category-name': u'Insira o nome da categoría:',
 		'pywikibot-enter-finished-browser': u'Prema na tecla "Intro" cando remate no navegador.',
 	},
-	# Author: Als-Holder
-	'gsw': {
-		'pywikibot-enter-xml-filename': u'Bitte gib dr Datename vum XML-Dump yy:',
-		'pywikibot-enter-page-processing': u'Weli Syte soll bearbeitet wäre?',
-		'pywikibot-enter-file-links-processing': u'Vu wellere Dateisyte solle d Link bearbeitet wäre?',
-		'pywikibot-enter-namespace-number': u'Bitte gib d Nummere vum Namensruum yy:',
-		'pywikibot-enter-new-text': u'Bitte gib dr nei Text yy:',
-		'pywikibot-enter-category-name': u'Bitte gib dr Name vu dr Kategori yy:',
-		'pywikibot-enter-finished-browser': u'Druck noch eme Zuemache vum Browsewr uf «Enter».',
-	},
 	# Author: Amire80
 	'he': {
 		'pywikibot-enter-xml-filename': u'נא להזין את שם קובץ ה־XML עם הדאמפ:',
@@ -437,15 +417,6 @@ msg = {
 		'pywikibot-enter-category-name': u'Sila masukkan nama kategori:',
 		'pywikibot-enter-finished-browser': u'Tekan Enter selepas siap dalam pelayar.',
 	},
-	'nb': {
-		'pywikibot-enter-xml-filename': u'Skriv inn XML-dumpens filnavn:',
-		'pywikibot-enter-page-processing': u'Hvilken side skal behandles?',
-		'pywikibot-enter-file-links-processing': u'Lenker til hvilken bildeside som skal behandles?',
-		'pywikibot-enter-namespace-number': u'Skriv inn et navneromtall:',
-		'pywikibot-enter-new-text': u'Skriv inn den nye teksten:',
-		'pywikibot-enter-category-name': u'Skriv inn kategorinavnet:',
-		'pywikibot-enter-finished-browser': u'Trykk Enter når du er ferdig i nettleseren.',
-	},
 	# Author: Eukesh
 	'new': {
 		'pywikibot-enter-xml-filename': u'XML दम्पया फाइलनेम तियादिसँ:',
@@ -571,16 +542,6 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Притисните ентер када завршите у прегледачу.',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'pywikibot-enter-xml-filename': u'Унесите назив XML исписа:',
-		'pywikibot-enter-page-processing': u'Која страница треба да се обради?',
-		'pywikibot-enter-file-links-processing': u'Треба да се обраде везе до које слике?',
-		'pywikibot-enter-namespace-number': u'Унесите именски простор поред његовог броја:',
-		'pywikibot-enter-new-text': u'Унесите нови текст:',
-		'pywikibot-enter-category-name': u'Унесите назив категорије:',
-		'pywikibot-enter-finished-browser': u'Притисните ентер када завршите у прегледачу.',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'pywikibot-enter-xml-filename': u'Unesite naziv XML ispisa:',
 		'pywikibot-enter-page-processing': u'Koja stranica treba da se obradi?',
@@ -653,16 +614,6 @@ msg = {
 	},
 	# Author: Anakmalaysia
 	'zh': {
-		'pywikibot-enter-xml-filename': u'请输入XML Dump文件名称：',
-		'pywikibot-enter-page-processing': u'哪个页面需要处理？',
-		'pywikibot-enter-file-links-processing': u'需要处理的图像页，应该到哪个链接？',
-		'pywikibot-enter-namespace-number': u'请输入名称空间号码：',
-		'pywikibot-enter-new-text': u'请输入新文字：',
-		'pywikibot-enter-category-name': u'请输入类别名称：',
-		'pywikibot-enter-finished-browser': u'请在浏览器作业完成后按下Enter键。',
-	},
-	# Author: Anakmalaysia
-	'zh-hans': {
 		'pywikibot-enter-xml-filename': u'请输入XML Dump文件名称：',
 		'pywikibot-enter-page-processing': u'哪个页面需要处理？',
 		'pywikibot-enter-file-links-processing': u'需要处理的图像页，应该到哪个链接？',

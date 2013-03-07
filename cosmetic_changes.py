@@ -67,12 +67,6 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
-	'be-tarask': {
-		'cosmetic_changes-standalone': u'Робат: касмэтычныя зьмены',
-		'cosmetic_changes-append': u'; касмэтычныя зьмены',
-	},
-	# Author: EugeneZelenko
-	# Author: Jim-by
 	'be-x-old': {
 		'cosmetic_changes-standalone': u'Робат: касмэтычныя зьмены',
 		'cosmetic_changes-append': u'; касмэтычныя зьмены',
@@ -197,11 +191,6 @@ msg = {
 	'gl': {
 		'cosmetic_changes-standalone': u'bot Cambios estética',
 		'cosmetic_changes-append': u'; cambios estética',
-	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
-		'cosmetic_changes-append': u'; oberflächlichi Änderige',
 	},
 	'he': {
 		'cosmetic_changes-standalone': u'בוט: שינויים קוסמטיים',
@@ -343,10 +332,6 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: kosmetiċi bidliet',
 		'cosmetic_changes-append': u'; kosmetiċi bidliet',
 	},
-	'nb': {
-		'cosmetic_changes-standalone': u'Bot: Kosmetiske endringer',
-		'cosmetic_changes-append': u'; kosmetiske endringer',
-	},
 	# Author: Slomox
 	'nds': {
 		'cosmetic_changes-standalone': u'Bot: kosmeetsch Ännern',
@@ -455,11 +440,6 @@ msg = {
 		'cosmetic_changes-append': u'; козметичке измене',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'cosmetic_changes-standalone': u'Робот: козметичке измене',
-		'cosmetic_changes-append': u'; козметичке измене',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'cosmetic_changes-standalone': u'Robot: kozmetičke izmene',
 		'cosmetic_changes-append': u'; kozmetičke izmene',
@@ -512,11 +492,6 @@ msg = {
 		'cosmetic_changes-standalone': u'Робот: косметик үзгәртүләр',
 		'cosmetic_changes-append': u'; косметик үзгәртүләр',
 	},
-	# Author: Zahidulla
-	'tt-cyrl': {
-		'cosmetic_changes-standalone': u'Робот: косметик үзгәртүләр',
-		'cosmetic_changes-append': u'; косметик үзгәртүләр',
-	},
 	'uk': {
 		'cosmetic_changes-standalone': u'робот косметичні зміни',
 		'cosmetic_changes-append': u'; косметичні зміни',
@@ -553,11 +528,6 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'cosmetic_changes-standalone': u'机器人：整理源码',
-		'cosmetic_changes-append': u';整理源码',
-	},
-	# Author: Yfdyh000
-	'zh-hans': {
 		'cosmetic_changes-standalone': u'机器人：整理源码',
 		'cosmetic_changes-append': u';整理源码',
 	},

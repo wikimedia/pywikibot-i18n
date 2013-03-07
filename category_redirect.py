@@ -106,15 +106,6 @@ msg = {
 		'category_redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms',
 	},
 	# Author: EugeneZelenko
-	'be-tarask': {
-		'category_redirect-comment': u'Робат падтрымкі перанакіраваньняў катэгорыяў',
-		'category_redirect-change-category': u'Робат: зьмяніў перанакіраваную катэгорыю [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Робат: дадаў шаблён перанакіраваньня катэгорыі',
-		'category_redirect-edit-request': u'Наступныя абароненыя старонкі патрабуюць абнаўленьня спасылак на катэгорыю: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s знаходзіцца ў %(oldcat)s, якая перанакіраваная на %(newcat)s',
-		'category_redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня',
-	},
-	# Author: EugeneZelenko
 	'be-x-old': {
 		'category_redirect-comment': u'Робат падтрымкі перанакіраваньняў катэгорыяў',
 		'category_redirect-change-category': u'Робат: зьмяніў перанакіраваную катэгорыю [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -343,15 +334,6 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s está en %(oldcat)s, que é unha redirección cara a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Arranxo a redirección dobre cara',
 	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'category_redirect-comment': u'Bötli zur Wartig vo Kategoriwyterleitige',
-		'category_redirect-change-category': u'Bötli: due di wytergleiteti Kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] uff [[:%(newCatLink)s|%(newCatTitle)s]] ändere',
-		'category_redirect-add-template': u'Bötli: Due d Kategoriwyterleitigsvorlag für Wartigszweck dezue',
-		'category_redirect-edit-request': u'Uff dänne gschütze Syte wo folge, isch feschtgstellt worde dass e Kategorielink-Aktualisierig notwändig isch: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, wo uff %(newcat)s wyterleite duet',
-		'category_redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig',
-	},
 	# Author: Amire80
 	'he': {
 		'category_redirect-comment': u'בוט תחזוקת הפניות לקטגוריות',
@@ -465,9 +447,6 @@ msg = {
 	'kk': {
 		'category_redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті',
 	},
-	'kk-cyrl': {
-		'category_redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті',
-	},
 	# Author: Akoppad
 	'kn': {
 		'category_redirect-comment': u'ಪೋಷಣೆ ರೋಬೋಟ್ ನಿಂದ ವರ್ಗದ ಮರುನಿರ್ದೇಶನ',
@@ -579,15 +558,6 @@ msg = {
 	},
 	'mzn': {
 		'category_redirect-fix-double': u'ربوت:عوض هایتن دکشیه‌ئون دِتایی',
-	},
-	# Author: Nghtwlkr
-	'nb': {
-		'category_redirect-comment': u'Vedlikeholdsbot for kategoriomdirigering',
-		'category_redirect-change-category': u'Robot: endre omdirigert kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Robot: legger til kategoriomdirigeringsmal for vedlikehold',
-		'category_redirect-edit-request': u'Det har blitt oppdaget at følgende beskyttede sider krever oppdateringer til kategorilenker: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s',
-		'category_redirect-fix-double': u'robot: Retter dobbel omdirigering',
 	},
 	# Author: Slomox
 	'nds': {
@@ -756,15 +726,6 @@ msg = {
 		'category_redirect-fix-double': u'Бот: исправљена двострука преусмерења',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'category_redirect-comment': u'Робот за одржавање преусмерених категорија',
-		'category_redirect-change-category': u'Робот: мења преусмерење категорије [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Робот: додат шаблон за преусмерену категорију за одржавање',
-		'category_redirect-edit-request': u'Следеће заштићене странице имају застареле везе категорија: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s',
-		'category_redirect-fix-double': u'Бот: исправљена двострука преусмерења',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'category_redirect-comment': u'Robot za održavanje preusmerenih kategorija',
 		'category_redirect-change-category': u'Robot: menja preusmerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
@@ -837,22 +798,8 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s  %(oldcat)s эчендә урнашкан, ул шулай ук %(newcat)s битенә күчерелмә дә булып тора',
 		'category_redirect-fix-double': u'Робот: икеләтә юнәлтүне төзәтү',
 	},
-	# Author: Zahidulla
-	# Author: Ильнар
-	'tt-cyrl': {
-		'category_redirect-comment': u'Төркемнәрне юнәлтүләр буенча хезмәт итүче робот',
-		'category_redirect-change-category': u'Робот:  [[:%(oldCatLink)s|%(oldCatTitle)s]] төркеменнән  [[:%(newCatLink)s|%(newCatTitle)s]] төркеменә күчерелүче үзгәртүләр',
-		'category_redirect-add-template': u'Робот: карау өчен күчерү үрнәге өстәү',
-		'category_redirect-edit-request': u'Киләсе сакланган битләр төркемнед сылтамаларын яңартуны сорый: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s  %(oldcat)s эчендә урнашкан, ул шулай ук %(newcat)s битенә күчерелмә дә булып тора',
-		'category_redirect-fix-double': u'Робот: икеләтә юнәлтүне төзәтү',
-	},
 	# Author: Sahran
 	'ug': {
-		'category_redirect-comment': u'كاتېگورىيە ماشىنا ئادەمگە قايتا نىشانلاندى',
-	},
-	# Author: Sahran
-	'ug-arab': {
 		'category_redirect-comment': u'كاتېگورىيە ماشىنا ئادەمگە قايتا نىشانلاندى',
 	},
 	# Author: AS
@@ -918,16 +865,6 @@ msg = {
 	},
 	'zh-classical': {
 		'category_redirect-fix-double': u'僕:復修渡口',
-	},
-	# Author: Liangent
-	# Author: Yfdyh000
-	'zh-hans': {
-		'category_redirect-comment': u'分类重定向维护机器人',
-		'category_redirect-change-category': u'机器人：更改已重定向的分类 [[:%(oldCatLink)s|%(oldCatTitle)s]]到[[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'机器人：添加分类重定向模板用于维护',
-		'category_redirect-edit-request': u'以下受保护的页面被检测到需要更新分类链接：%(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向',
-		'category_redirect-fix-double': u'机器人：修正双重重定向',
 	},
 	# Author: Justincheng12345
 	# Author: Waihorace

@@ -2,7 +2,7 @@
 msg = {
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
-	},	
+	},
 	# Author: Csisc
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
@@ -34,10 +34,6 @@ msg = {
 	# Author: Haqmar
 	'ba': {
 		'unlink-unlinking': u'Робот: «%s» һылтаһын юйыу',
-	},
-	# Author: EugeneZelenko
-	'be-tarask': {
-		'unlink-unlinking': u'Робат: Выдаленьне спасылак на «%s»',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -114,10 +110,6 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'unlink-unlinking': u'Bot: Quito a ligazón cara a "%s"',
-	},
-	# Author: Als-Holder
-	'gsw': {
-		'unlink-unlinking': u'Bot: „%s“ entlinkt',
 	},
 	'he': {
 		'unlink-unlinking': u'בוט: מסיר קישורים לדף "%s"',
@@ -198,9 +190,6 @@ msg = {
 	'ms': {
 		'unlink-unlinking': u'Robot: Membuang pautan "%s"',
 	},
-	'nb': {
-		'unlink-unlinking': u'robot: fjerner lenke til "%s"',
-	},
 	# Author: Servien
 	'nds-nl': {
 		'unlink-unlinking': u'Bot: verwiezing naor "%s" vortedaon',
@@ -262,10 +251,6 @@ msg = {
 		'unlink-unlinking': u'Робот: уклоњена веза „%s“',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'unlink-unlinking': u'Робот: уклоњена веза „%s“',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'unlink-unlinking': u'Robot: uklonjena veza „%s“',
 	},
@@ -311,10 +296,6 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'unlink-unlinking': u'机器人：断开“%s”链接',
-	},
-	# Author: Yfdyh000
-	'zh-hans': {
 		'unlink-unlinking': u'机器人：断开“%s”链接',
 	},
 	# Author: Breawycker

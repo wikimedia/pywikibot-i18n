@@ -2,7 +2,7 @@
 msg = {
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
-	},	
+	},
 	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',
@@ -34,10 +34,6 @@ msg = {
 	# Author: Sagan
 	'ba': {
 		'movepages-moving': u'Робот: биттең исемен үҙгәртеү',
-	},
-	# Author: EugeneZelenko
-	'be-tarask': {
-		'movepages-moving': u'робат перанёс старонку',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -117,10 +113,6 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'movepages-moving': u'Bot: Páxina trasladada',
-	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'movepages-moving': u'Bötli: Syte verschobe',
 	},
 	'he': {
 		'movepages-moving': u'בוט: מעביר דף',
@@ -220,10 +212,6 @@ msg = {
 	'mt': {
 		'movepages-moving': u'Bot: Il-paġna tmexxiet',
 	},
-	# Author: Nghtwlkr
-	'nb': {
-		'movepages-moving': u'Robot: Flyttet side',
-	},
 	# Author: Servien
 	'nds-nl': {
 		'movepages-moving': u'Bot: paginanaam ewiezigd',
@@ -292,10 +280,6 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'movepages-moving': u'Робот: премештена страница',
-	},
-	# Author: Rancher
-	'sr-ec': {
 		'movepages-moving': u'Робот: премештена страница',
 	},
 	# Author: Rancher
@@ -372,10 +356,6 @@ msg = {
 	},
 	# Author: Anakmalaysia
 	'zh': {
-		'movepages-moving': u'机器人：移动页面',
-	},
-	# Author: Anakmalaysia
-	'zh-hans': {
 		'movepages-moving': u'机器人：移动页面',
 	},
 	# Author: Breawycker

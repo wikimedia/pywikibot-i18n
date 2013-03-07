@@ -2,7 +2,7 @@
 msg = {
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
-	},	
+	},
 	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',
@@ -38,10 +38,6 @@ msg = {
 	# Author: Sagan
 	'ba': {
 		'fixing_redirects-fixing': u'Робот: йүнәлтеүҙәрҙе төҙәтеү',
-	},
-	# Author: Jim-by
-	'be-tarask': {
-		'fixing_redirects-fixing': u'Робат: Выпраўленьне перанакіраваньняў',
 	},
 	# Author: Jim-by
 	'be-x-old': {
@@ -129,10 +125,6 @@ msg = {
 	'gl': {
 		'fixing_redirects-fixing': u'Bot: Arranxo a redirección',
 	},
-	# Author: Als-Holder
-	'gsw': {
-		'fixing_redirects-fixing': u'Bot: Umleitige repariert',
-	},
 	'he': {
 		'fixing_redirects-fixing': u'בוט: מתקן הפניות',
 	},
@@ -188,10 +180,6 @@ msg = {
 	'ku': {
 		'fixing_redirects-fixing': u'Bot:Beralîkirinan serast bike',
 	},
-	# Author: George Animal
-	'ku-latn': {
-		'fixing_redirects-fixing': u'Bot:Beralîkirinan serast bike',
-	},
 	# Author: Robby
 	'lb': {
 		'fixing_redirects-fixing': u'Bot: Viruleedunge flécken',
@@ -235,9 +223,6 @@ msg = {
 	# Author: Chrisportelli
 	'mt': {
 		'fixing_redirects-fixing': u'Bot: Tiswija tar-rindirizzi',
-	},
-	'nb': {
-		'fixing_redirects-fixing': u'Robot: Retter omdirigeringer',
 	},
 	# Author: Servien
 	'nds-nl': {
@@ -304,10 +289,6 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'fixing_redirects-fixing': u'Бот: исправљена преусмерења',
-	},
-	# Author: Rancher
-	'sr-ec': {
 		'fixing_redirects-fixing': u'Бот: исправљена преусмерења',
 	},
 	# Author: Rancher
@@ -383,10 +364,6 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'fixing_redirects-fixing': u'机器人：修正重定向',
-	},
-	# Author: Yfdyh000
-	'zh-hans': {
 		'fixing_redirects-fixing': u'机器人：修正重定向',
 	},
 	# Author: Breawycker

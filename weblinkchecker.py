@@ -178,12 +178,6 @@ msg = {
 		'weblinkchecker-summary': u'Robot: Melaporkan pautan luar yang tidak berkesan',
 		'weblinkchecker-report': u'Ketika beberapa jalanan bot automatik, pautan luar yang berikut didapati tidak berkesan. Sila semak sama ada halaman sesawang yang dipauti itu sebenarnya ditutup, dan jika begitu, betulkan atau buang pautan itu.',
 	},
-	'nb': {
-		'weblinkchecker-archive_msg': u'Nettsiden har blitt lagret i Internet Archive. Vurder å lenke til en arkivert versjon: [%(URL)s].',
-		'weblinkchecker-caption': u'Død lenke',
-		'weblinkchecker-summary': u'bot: Rapporterer utilgjengelig ekstern lenke',
-		'weblinkchecker-report': u'I løpet av flere automatiske botkjøringer ble følgende lenke funnet å være utilgjengelig. Sjekk om lenken faktisk er død, og fiks eller fjern den om det er tilfelle.',
-	},
 	'nds': {
 		'weblinkchecker-caption': u'Weblenk geiht nich mehr',
 		'weblinkchecker-summary': u'Lenk-Bot: Weblenk geiht nich mehr',
@@ -241,13 +235,6 @@ msg = {
 		'weblinkchecker-report': u'Током неколико аутоматски провера, бот је пронашао покварене спољашње повезнице. Молимо вас проверите да ли је повезница добра, поправите је или је уклоните!',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'weblinkchecker-archive_msg': u'Веб страница је сачувана у Интернет архиви. Препоручујемо вам да ставите везу до одређене архивиране верзије: [%(URL)s].',
-		'weblinkchecker-caption': u'Неисправна веза',
-		'weblinkchecker-summary': u'Робот: пријављена неисправна спољашња веза',
-		'weblinkchecker-report': u'При неколико покушаја бота, установљено је да следећа спољашња веза није доступна. Проверите да ли је веза уистину неисправна и, ако јесте, исправите је или је уклоните.',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'weblinkchecker-archive_msg': u'Veb stranica je sačuvana u Internet arhivi. Preporučujemo vam da stavite vezu do određene arhivirane verzije: [%(URL)s].',
 		'weblinkchecker-caption': u'Neispravna veza',
@@ -293,13 +280,6 @@ msg = {
 		'weblinkchecker-caption': u'失效链接',
 		'weblinkchecker-summary': u'BOT: 报告失效的外部链接',
 		'weblinkchecker-report': u'一个自动运行的bot发现下列外部链接可能已经失效。请帮助修复错误的链接或者移除它!',
-	},
-	# Author: Yfdyh000
-	'zh-hans': {
-		'weblinkchecker-archive_msg': u'这个网页已经被互联网档案馆（Internet Archive）保存。请为该网页挑选一个适合链接的存档版本: [%(URL)s]。',
-		'weblinkchecker-caption': u'失效链接',
-		'weblinkchecker-summary': u'机器人：报告不可用的外部链接',
-		'weblinkchecker-report': u'自动运行的机器人发现下列外部链接可能已不可用。请帮助检查，修复或移除有问题的链接。',
 	},
 	# Author: Simon Shek
 	'zh-hant': {

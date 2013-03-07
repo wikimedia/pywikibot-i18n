@@ -116,18 +116,6 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
-	# Author: Zedlik
-	'be-tarask': {
-		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня на %(to)s',
-		'redirect-remove-broken': u'Робат: Перанакіраваньне на выдаленую ці неіснуючую старонку',
-		'redirect-fix-broken-moved': u'Робат: Выпраўленьне перанакіраваньня на старонку, перанесеную ў %(to)s',
-		'redirect-fix-loop': u'Робат: Выпраўленьне перанакіраваньня на %(to)s',
-		'redirect-remove-loop': u'Робат: Пятля перанакіраваньняў',
-		'redirect-broken-redirect-template': u'{{Выдаліць|некарэктнае перанакіраваньне}}',
-	},
-	# Author: EugeneZelenko
-	# Author: Jim-by
-	# Author: Renessaince
 	'be-x-old': {
 		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня → %(to)s',
 		'redirect-remove-broken': u'Робат: мэта перанакіраваньня не існуе',
@@ -377,15 +365,6 @@ msg = {
 		'redirect-remove-loop': u'Bot: O destino da redirección crea un bucle',
 		'redirect-broken-redirect-template': u'{{delete}}',
 	},
-	# Author: Als-Holder
-	# Author: Xqt
-	'gsw': {
-		'redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s',
-		'redirect-remove-broken': u'Bötli: Wyterleitigsziil git s nit',
-		'redirect-fix-loop': u' Bot: Wyterleitigschlupf uf %(to)s korrigiert',
-		'redirect-remove-loop': u'Bot: Wyterleitig goht im ringrum',
-		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch',
-	},
 	# Author: Amire80
 	# Author: YaronSh
 	# Author: ערן
@@ -503,10 +482,6 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	'kk': {
-		'redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті → %(to)s',
-		'redirect-remove-broken': u'Бот: Айдату нысанасы жоқ болды',
-	},
-	'kk-cyrl': {
 		'redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті → %(to)s',
 		'redirect-remove-broken': u'Бот: Айдату нысанасы жоқ болды',
 	},
@@ -639,15 +614,6 @@ msg = {
 		'redirect-remove-broken': u'ربوت:بی‌جاء ِدکشی‌یه‌ئون',
 		'redirect-remove-loop': u'ربوت:ناترینگی [[:fa:وپ:تغییرمسیر|دکشی‌یه]]',
 		'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
-	},
-	# Author: Danmichaelo
-	'nb': {
-		'redirect-fix-double': u'robot: Retter dobbel omdirigering til %(to)s',
-		'redirect-remove-broken': u'Robot: Målet for omdirigeringen eksisterer ikke',
-		'redirect-fix-broken-moved': u'bot: Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet',
-		'redirect-fix-loop': u'Robot: Fikser omdirigeringsløkke til %(to)s',
-		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
-		'redirect-broken-redirect-template': u'{{hurtigslett|Feilaktig omdirigering}}',
 	},
 	# Author: Slomox
 	'nds': {
@@ -838,15 +804,6 @@ msg = {
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'redirect-fix-double': u'Робот: исправљена двострука преусмерења у %(to)s',
-		'redirect-remove-broken': u'Робот: преусмерење до обрисане или непостојеће странице',
-		'redirect-fix-broken-moved': u'Робот: исправљено покварено преусмерење до премештене циљне странице %(to)s',
-		'redirect-fix-loop': u'Робот: исправљена петља преусмерења на %(to)s',
-		'redirect-remove-loop': u'Робот: одредиште преусмерења образује петљу',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'redirect-fix-double': u'Robot: ispravljena dvostruka preusmerenja u %(to)s',
 		'redirect-remove-broken': u'Robot: preusmerenje do obrisane ili nepostojeće stranice',
@@ -930,13 +887,6 @@ msg = {
 		'redirect-remove-loop': u'[[ВП:ТБК#П1|тиз бетерү критерийлары \'\'П.1\'\']] — беркаяда күчеш ясамау',
 		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 	},
-	# Author: Ильнар
-	'tt-cyrl': {
-		'redirect-fix-double': u'Робот: икеле күчешне дөресләү → %(to)s',
-		'redirect-remove-broken': u'[[ВП:ТБК#П1|П1]]: беркаяда күчеш ясамау',
-		'redirect-remove-loop': u'[[ВП:ТБК#П1|тиз бетерү критерийлары \'\'П.1\'\']] — беркаяда күчеш ясамау',
-		'redirect-broken-redirect-template': u'{{db-redirnone}}',
-	},
 	# Author: Ahonc
 	# Author: Base
 	# Author: Тест
@@ -1015,18 +965,6 @@ msg = {
 	},
 	'zh-classical': {
 		'redirect-fix-double': u'僕:復修渡口 → %(to)s',
-	},
-	# Author: Liangent
-	# Author: Linforest
-	# Author: Yfdyh000
-	# Author: 阿pp
-	'zh-hans': {
-		'redirect-fix-double': u'机器人：修正双重重定向至%(to)s',
-		'redirect-remove-broken': u'机器人：重定向到已删除或不存在的页面',
-		'redirect-fix-broken-moved': u'机器人：修复破损的重定向到已移动的目标页面 %(to)s',
-		'redirect-fix-loop': u'机器人：修复重定向循环至%(to)s',
-		'redirect-remove-loop': u'机器人：重定向目标构成循环',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Andrew971218
 	# Author: Justincheng12345

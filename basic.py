@@ -2,7 +2,7 @@
 msg = {
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
-	},	
+	},
 	# Author: Csisc
 	'aeb': {
 		'basic-changing': u'بوت: تغيير ...',
@@ -44,10 +44,6 @@ msg = {
 	# Author: Xqt
 	'bar': {
 		'basic-changing': u'Bot: Åpassen ...',
-	},
-	# Author: EugeneZelenko
-	'be-tarask': {
-		'basic-changing': u'Робат: зьмяніў…',
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
@@ -152,10 +148,6 @@ msg = {
 	'gl': {
 		'basic-changing': u'Bot: Cambiando...',
 	},
-	# Author: Als-Chlämens
-	'gsw': {
-		'basic-changing': u'Bötli: duet ändere...',
-	},
 	# Author: Amire80
 	'he': {
 		'basic-changing': u'בוט: משנה...',
@@ -241,9 +233,6 @@ msg = {
 		'basic-changing': u'Robot: Diguherîne ...',
 	},
 	# Author: George Animal
-	'ku-latn': {
-		'basic-changing': u'Robot: Diguherîne ...',
-	},
 	# Author: UV
 	'la': {
 		'basic-changing': u'automaton: mutans ...',
@@ -312,10 +301,6 @@ msg = {
 	# Author: محک
 	'mzn': {
 		'basic-changing': u'ربوت: تغییر ...',
-	},
-	# Author: Nghtwlkr
-	'nb': {
-		'basic-changing': u'Bot: Endrer ...',
 	},
 	'nds': {
 		'basic-changing': u'Bot: Ännern ...',
@@ -416,10 +401,6 @@ msg = {
 		'basic-changing': u'Робот: мења…',
 	},
 	# Author: Rancher
-	'sr-ec': {
-		'basic-changing': u'Робот: мења…',
-	},
-	# Author: Rancher
 	'sr-el': {
 		'basic-changing': u'Robot: menja…',
 	},
@@ -464,19 +445,12 @@ msg = {
 		'basic-changing': u'Робот: үзгәртте ...',
 	},
 	# Author: Zahidulla
-	'tt-cyrl': {
-		'basic-changing': u'Робот: үзгәртте ...',
-	},
 	# Author: Tifinaghes
 	'tzm': {
 		'basic-changing': u'ⴰⵕⵓⴱⵓⵜ: ⴰⴱⴷⴷⴻⵍ ...',
 	},
 	# Author: Sahran
 	'ug': {
-		'basic-changing': u'ماشىنا ئادەم: ئۆزگەرتىۋاتىدۇ…',
-	},
-	# Author: Sahran
-	'ug-arab': {
 		'basic-changing': u'ماشىنا ئادەم: ئۆزگەرتىۋاتىدۇ…',
 	},
 	'uk': {
@@ -513,10 +487,6 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'basic-changing': u'机器人：修改...',
-	},
-	# Author: Yfdyh000
-	'zh-hans': {
 		'basic-changing': u'机器人：修改...',
 	},
 	# Author: Waihorace
