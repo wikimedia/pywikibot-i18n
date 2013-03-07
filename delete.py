@@ -450,6 +450,7 @@ msg = {
 		'delete-from-file': u'robot: sletta ei liste med filer',
 		'delete-linked-pages': u'robot: slettar alle sidene som er lenkja til frå %(page)s',
 	},
+	# Author: Jon Harald Søby
 	'no': {
 		'delete-images': u'Bot: Sletter alle bilder på siden %(page)s',
 		'delete-referring-pages': u'Bot: Sletter alle sider som lenker til %(page)s',

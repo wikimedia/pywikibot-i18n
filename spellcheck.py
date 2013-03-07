@@ -26,6 +26,10 @@ msg = {
 	'ba': {
 		'spellcheck-checking': u'робот ярҙамында орфография',
 	},
+	# Author: Wizardist
+	'be-x-old': {
+		'spellcheck-checking': u'Выпраўленьне артаграфіі ботам',
+	},
 	# Author: Gwenn-Ael
 	'br': {
 		'spellcheck-checking': u'Reizhskrivañ damemgefreek',
@@ -146,6 +150,10 @@ msg = {
 	},
 	'nl': {
 		'spellcheck-checking': u'Spellingscontrole',
+	},
+	# Author: Jon Harald Søby
+	'no': {
+		'spellcheck-checking': u'Robothjulpet stavekontroll',
 	},
 	'pl': {
 		'spellcheck-checking': u'Wspomagane przez robota sprawdzanie pisowni',

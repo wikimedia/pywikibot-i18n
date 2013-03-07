@@ -116,9 +116,11 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
+	# Author: Zedlik
 	'be-x-old': {
 		'redirect-fix-double': u'Робат: выпраўленьне падвойнага перанакіраваньня → %(to)s',
 		'redirect-remove-broken': u'Робат: мэта перанакіраваньня не існуе',
+		'redirect-fix-broken-moved': u'Робат: Выпраўленьне перанакіраваньня на старонку, перанесеную ў %(to)s',
 		'redirect-fix-loop': u'Робат: Выпраўленьне перанакіраваньня на %(to)s',
 		'redirect-remove-loop': u'Робат: Пятля перанакіраваньняў',
 		'redirect-broken-redirect-template': u'{{Выдаліць|некарэктнае перанакіраваньне}}',
@@ -661,9 +663,11 @@ msg = {
 		'redirect-broken-redirect-template': u'{{snøggsletting|dette er ei øydelagd omdirigering}}',
 	},
 	# Author: Danmichaelo
+	# Author: Jon Harald Søby
 	'no': {
 		'redirect-fix-double': u'robot: Retter dobbel omdirigering til %(to)s',
 		'redirect-remove-broken': u'Robot: Målet for omdirigeringen eksisterer ikke',
+		'redirect-fix-broken-moved': u'bot: Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet',
 		'redirect-fix-loop': u'Robot: Fikser omdirigeringsløkke til %(to)s',
 		'redirect-remove-loop': u'Robot: Målet for omdirigeringen danner en omdirigeringsløkke',
 		'redirect-broken-redirect-template': u'{{hurtigslett|Feilaktig omdirigering}}',
@@ -799,6 +803,7 @@ msg = {
 	'sr': {
 		'redirect-fix-double': u'Робот: исправљена двострука преусмерења у %(to)s',
 		'redirect-remove-broken': u'Робот: преусмерење до обрисане или непостојеће странице',
+		'redirect-fix-broken-moved': u'Робот: исправљено покварено преусмерење до премештене циљне странице %(to)s',
 		'redirect-fix-loop': u'Робот: исправљена петља преусмерења на %(to)s',
 		'redirect-remove-loop': u'Робот: одредиште преусмерења образује петљу',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -955,10 +960,12 @@ msg = {
 	},
 	# Author: Liangent
 	# Author: Linforest
+	# Author: Yfdyh000
 	# Author: 阿pp
 	'zh': {
 		'redirect-fix-double': u'机器人：修正双重重定向至%(to)s',
 		'redirect-remove-broken': u'机器人：重定向到已删除或不存在的页面',
+		'redirect-fix-broken-moved': u'机器人：修复破损的重定向到已移动的目标页面 %(to)s',
 		'redirect-fix-loop': u'机器人：修复重定向循环至%(to)s',
 		'redirect-remove-loop': u'机器人：重定向目标构成循环',
 		'redirect-broken-redirect-template': u'{{db-r1}}',

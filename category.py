@@ -218,6 +218,7 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
+	# Author: Wizardist
 	'be-x-old': {
 		'category-version-history': u'Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s',
 		'category-changing': u'Робат: зьмена %(oldcat)s',
@@ -227,6 +228,7 @@ msg = {
 		'category-replacing': u'Робат: замена катэгорыі %(oldcat)s на %(newcat)s',
 		'category-removing': u'Робат: выключэньне з [[%(oldcat)s]]',
 		'category-was-moved': u'Робат: катэгорыя перайменаваная ў [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Робат: перанесена з %s. Аўтары: %s',
 		'category-section-title': u'Гісторыя старонкі папярэдняе %(oldcat)s',
 		'category-listifying': u'Робат: ствараецца сьпіс з %(fromcat)s (%(num)d элемэнтаў)',
 	},
@@ -1250,6 +1252,7 @@ msg = {
 		'category-was-moved': u'robot: kategorien vart flytt til [[:Category:%(newcat)s|%(title)s]]',
 	},
 	# Author: Danmichaelo
+	# Author: Jon Harald Søby
 	# Author: Nghtwlkr
 	'no': {
 		'category-version-history': u'Robot: Lagrer versjonshistorikk fra den eldre %(oldcat)s',
@@ -1260,6 +1263,7 @@ msg = {
 		'category-replacing': u'Robot: Erstatter kategorien %(oldcat)s med %(newcat)s',
 		'category-removing': u'Robot: Fjerner ifra %(oldcat)s',
 		'category-was-moved': u'Robot: Kategorien ble flyttet til [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'bot: Flytta fra %s. Forfattere: %s',
 		'category-section-title': u'Sidehistorikk fra den eldre %(oldcat)s',
 		'category-listifying': u'Robot: Gjør om kategorien %(fromcat)s til liste (%(num)d elementer)',
 	},
@@ -1537,6 +1541,7 @@ msg = {
 		'category-replacing': u'Робот: замењена категорија %(oldcat)s са %(newcat)s',
 		'category-removing': u'Робот: уклоњено из %(oldcat)s',
 		'category-was-moved': u'Робот: категорија је премештена у [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Робот: премештено из %(oldcat)s. Аутори: %(authors)s',
 		'category-section-title': u'Историја раније верзије странице %(oldcat)s',
 		'category-listifying': u'Робот: исписује из %(fromcat)s (%(num)d ставки)',
 	},

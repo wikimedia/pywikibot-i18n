@@ -306,6 +306,7 @@ msg = {
 	'nn': {
 		'isbn-formatting': u'robot: formaterer ISBN',
 	},
+	# Author: Jon Harald Søby
 	'no': {
 		'isbn-formatting': u'robot: Formaterer ISBN',
 	},

@@ -1157,6 +1157,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSamenvatting gemaakt van en op: %s</noinclude>',
 	},
 	# Author: Danmichaelo
+	# Author: Jon Harald Søby
 	'no': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ingen menneskelig bidragsyter funnet)',

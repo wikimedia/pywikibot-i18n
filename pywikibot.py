@@ -20,6 +20,7 @@ msg = {
 		'pywikibot-enter-category-name': u'Message displayed to the bot owner to enter the category name.',
 		'pywikibot-enter-finished-browser': u'Message displayed to the bot owner to press Enter button when browser edits are finished.',
 	},
+	# Author: Als-Holder
 	'als': {
 		'pywikibot-enter-xml-filename': u'Bitte gib dr Datename vum XML-Dump yy:',
 		'pywikibot-enter-page-processing': u'Weli Syte soll bearbeitet wäre?',
@@ -81,6 +82,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Яңы текст яҙығыҙ:',
 		'pywikibot-enter-category-name': u'Категория исемен яҙығыҙ:',
 		'pywikibot-enter-finished-browser': u'Браузерҙа эш тамамланғандан һуң Enter төймәһенә баҫығыҙ.',
+	},
+	# Author: Renessaince
+	'be-x-old': {
+		'pywikibot-enter-xml-filename': u'Калі ласка, увядзіце назву файлу дампу XML:',
+		'pywikibot-enter-page-processing': u'Якую старонку патрэбна апрацаваць?',
+		'pywikibot-enter-file-links-processing': u'Спасылкі на якую выяву патрэбна апрацаваць?',
+		'pywikibot-enter-namespace-number': u'Калі ласка, увядзіце нумар прасторы імёнаў:',
+		'pywikibot-enter-new-text': u'Калі ласка, увядзіце новы тэкст:',
+		'pywikibot-enter-category-name': u'Калі ласка, увядзіце назву катэгорыі:',
+		'pywikibot-enter-finished-browser': u'Націсьніце Enter, калі скончыце рэдагаваньне ў броўзэры.',
 	},
 	# Author: Gwenn-Ael
 	'br': {
@@ -437,6 +448,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Geef de nieuwe tekst op:',
 		'pywikibot-enter-category-name': u'Geef de categorienaam op:',
 		'pywikibot-enter-finished-browser': u'Druk op "Enter" wanneer u klaar bent in de browser.',
+	},
+	# Author: Jon Harald Søby
+	'no': {
+		'pywikibot-enter-xml-filename': u'Skriv inn XML-dumpens filnavn:',
+		'pywikibot-enter-page-processing': u'Hvilken side skal behandles?',
+		'pywikibot-enter-file-links-processing': u'Lenker til hvilken bildeside som skal behandles?',
+		'pywikibot-enter-namespace-number': u'Skriv inn et navneromtall:',
+		'pywikibot-enter-new-text': u'Skriv inn den nye teksten:',
+		'pywikibot-enter-category-name': u'Skriv inn kategorinavnet:',
+		'pywikibot-enter-finished-browser': u'Trykk Enter når du er ferdig i nettleseren.',
 	},
 	# Author: Matma Rex
 	'pl': {

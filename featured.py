@@ -489,6 +489,13 @@ msg = {
 		'featured-featured': u'Робот: %(page)s је сјајан чланак',
 		'featured-former': u'Робот: %(page)s је био сјајан чланак',
 	},
+	# Author: Rancher
+	'sr-el': {
+		'featured-good': u'Robot: %(page)s je dobar članak',
+		'featured-list': u'Robot: %(page)s je sjajan spisak',
+		'featured-featured': u'Robot: %(page)s je sjajan članak',
+		'featured-former': u'Robot: %(page)s je bio sjajan članak',
+	},
 	# Author: Lokal Profil
 	'sv': {
 		'featured-good': u'Bot: %(page)s är en läsvärd artikel',

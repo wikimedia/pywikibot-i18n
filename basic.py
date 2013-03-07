@@ -444,8 +444,8 @@ msg = {
 	'tt': {
 		'basic-changing': u'Робот: үзгәртте ...',
 	},
-	# Author: Zahidulla
 	# Author: Tifinaghes
+	# Author: Zahidulla
 	'tzm': {
 		'basic-changing': u'ⴰⵕⵓⴱⵓⵜ: ⴰⴱⴷⴷⴻⵍ ...',
 	},

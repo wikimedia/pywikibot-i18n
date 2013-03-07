@@ -299,6 +299,11 @@ msg = {
 		'archivebot-archive-full': u'ארכיון מלא',
 		'archivebot-archive-summary': u'רובוט: ארכוב %(count)d שיחות מ[[%(from)s]]',
 	},
+	# Author: Thakurji
+	'hif': {
+		'archivebot-older-than': u'se purana',
+		'archivebot-page-summary': u'Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
+	},
 	# Author: Ex13
 	# Author: SpeedyGonsales
 	'hr': {

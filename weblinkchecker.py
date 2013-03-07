@@ -190,9 +190,12 @@ msg = {
 		'weblinkchecker-summary': u'Robot: melding (tijdelijk) onbereikbare externe koppeling',
 		'weblinkchecker-report': u'Tijdens enkele automatische controles bleek de onderstaande externe koppeling onbereikbaar. Controleer alstublieft of de koppeling inderdaad onbereikbaar is. Verwijder deze tekst alstublieft na een succesvolle controle of na het verwijderen of corrigeren van de externe koppeling.',
 	},
+	# Author: Jon Harald Søby
 	'no': {
 		'weblinkchecker-archive_msg': u'Denne nettsiden er lagra i Internet Archive. Vurder om lenka kan endres til å peke til en av de arkiverte versjonene: [%(URL)s].',
+		'weblinkchecker-caption': u'Død lenke',
 		'weblinkchecker-summary': u'bot: Rapporter død eksternlenke',
+		'weblinkchecker-report': u'I løpet av flere automatiske botkjøringer ble følgende lenke funnet å være utilgjengelig. Sjekk om lenken faktisk er død, og fiks eller fjern den om det er tilfelle.',
 	},
 	'pl': {
 		'weblinkchecker-archive_msg': u'%(URL)s',
@@ -229,7 +232,9 @@ msg = {
 	'sl': {
 		'weblinkchecker-caption': u'Mrtva povezava',
 	},
+	# Author: Rancher
 	'sr': {
+		'weblinkchecker-archive_msg': u'Веб страница је сачувана у Интернет архиви. Препоручујемо вам да ставите везу до одређене архивиране верзије: [%(URL)s].',
 		'weblinkchecker-caption': u'Покварене спољашње повезнице',
 		'weblinkchecker-summary': u'Бот: Пријављивање непостојећих спољашњих повезница',
 		'weblinkchecker-report': u'Током неколико аутоматски провера, бот је пронашао покварене спољашње повезнице. Молимо вас проверите да ли је повезница добра, поправите је или је уклоните!',
@@ -275,6 +280,7 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Báo cáo liên kết bên ngoài không truy cập được',
 		'weblinkchecker-report': u'Bot tự động chạy vài lần mà không truy cập được liên kết bên ngoài sau. Xin vui lòng kiểm tra nó thực sự bị hỏng, và nếu vậy, xin sửa hoặc xóa liên kết.',
 	},
+	# Author: Yfdyh000
 	'zh': {
 		'weblinkchecker-archive_msg': u'这个网页已经被保存在互联网档案馆（Internet Archive）。请为该网页提供一个合适的存档版本： [%(URL)s]。',
 		'weblinkchecker-caption': u'失效链接',

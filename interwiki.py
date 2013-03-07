@@ -1303,6 +1303,7 @@ msg = {
 		'interwiki-removing-modifying': u'robot fjerna: %(removing)s endra: %(modifying)s',
 		'interwiki-modifying-from': u'robot: endra %(from)s til %(modifying)s',
 	},
+	# Author: Jon Harald Søby
 	'no': {
 		'interwiki-modifying': u'robot Endrer: %(modifying)s',
 		'interwiki-adding-modifying': u'robot Legger til: %(adding)s Endrer: %(modifying)s',
