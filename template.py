@@ -13,8 +13,8 @@ msg = {
 	},
 	# Author: Als-Chlämens
 	'als': {
-		'template-changing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s',
 		'template-removing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ussenee: %(list)s',
+		'template-changing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s',
 		'template-substituting': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} usstuusche: %(list)s',
 	},
 	'ar': {
@@ -61,8 +61,8 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
-		'template-changing': u'Робат: зьмяніў{{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
 		'template-removing': u'Робат: выдаліў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
+		'template-changing': u'Робат: зьмяніў{{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
 		'template-substituting': u'Робат: падставіў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
 	},
 	# Author: Fulup
@@ -243,8 +243,8 @@ msg = {
 		'template-substituting': u'Bot: Ngganti {{PLURAL:%(num)d|témplat|témplat}}: %(list)s',
 	},
 	'kk': {
-		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',
 		'template-removing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} аластатылды: %(list)s',
+		'template-changing': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s',
 		'template-substituting': u'Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} бәделдірленді: %(list)s',
 	},
 	'kk-cyrl': {
@@ -326,8 +326,8 @@ msg = {
 		'template-substituting': u'Robot: substitueren {{PLURAL:%(num)d|sjabloon|sjablonen}}: %(list)s',
 	},
 	'no': {
-		'template-changing': u'bot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s',
 		'template-removing': u'bot: Fjerner {{PLURAL:%(num)d|mal|maler}}: %(list)s',
+		'template-changing': u'bot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s',
 		'template-substituting': u'bot: Erstatter {{PLURAL:%(num)d|mal|maler}}: %(list)s',
 	},
 	# Author: Rezonansowy
@@ -393,8 +393,8 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'template-changing': u'Робот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s',
 		'template-removing': u'Робот: {{PLURAL:%(num)d|уклоњен шаблон|уклоњени шаблони}}: %(list)s',
+		'template-changing': u'Робот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s',
 		'template-substituting': u'Робот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s',
 	},
 	# Author: Rancher
@@ -474,8 +474,8 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'template-changing': u'机器人：修改%(num)d个模板：%(list)s',
 		'template-removing': u'机器人：删除%(num)d个模板：%(list)s',
+		'template-changing': u'机器人：修改%(num)d个模板：%(list)s',
 		'template-substituting': u'机器人：替换%(num)d个模板：%(list)s',
 	},
 	# Author: Hydra

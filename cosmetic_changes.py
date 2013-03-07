@@ -22,8 +22,8 @@ msg = {
 	},
 	# Author: Als-Chlämens
 	'als': {
-		'cosmetic_changes-append': u'; oberflächlichi Änderige',
 		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
+		'cosmetic_changes-append': u'; oberflächlichi Änderige',
 	},
 	'ar': {
 		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
@@ -74,8 +74,8 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	'be-x-old': {
-		'cosmetic_changes-append': u'; касмэтычныя зьмены',
 		'cosmetic_changes-standalone': u'Робат: касмэтычныя зьмены',
+		'cosmetic_changes-append': u'; касмэтычныя зьмены',
 	},
 	'bg': {
 		'cosmetic_changes-standalone': u'Робот козметични промени',
@@ -373,8 +373,8 @@ msg = {
 		'cosmetic_changes-append': u'; kosmetiske endringar',
 	},
 	'no': {
-		'cosmetic_changes-append': u'; kosmetiske endringer',
 		'cosmetic_changes-standalone': u'Bot: Kosmetiske endringer',
+		'cosmetic_changes-append': u'; kosmetiske endringer',
 	},
 	# Author: Shisir 1945
 	'or': {
@@ -451,8 +451,8 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'cosmetic_changes-append': u'; козметичке измене',
 		'cosmetic_changes-standalone': u'Робот: козметичке измене',
+		'cosmetic_changes-append': u'; козметичке измене',
 	},
 	# Author: Rancher
 	'sr-ec': {
@@ -509,8 +509,8 @@ msg = {
 	},
 	# Author: Zahidulla
 	'tt': {
-		'cosmetic_changes-append': u'; косметик үзгәртүләр',
 		'cosmetic_changes-standalone': u'Робот: косметик үзгәртүләр',
+		'cosmetic_changes-append': u'; косметик үзгәртүләр',
 	},
 	# Author: Zahidulla
 	'tt-cyrl': {
@@ -553,8 +553,8 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'cosmetic_changes-append': u';整理源码',
 		'cosmetic_changes-standalone': u'机器人：整理源码',
+		'cosmetic_changes-append': u';整理源码',
 	},
 	# Author: Yfdyh000
 	'zh-hans': {

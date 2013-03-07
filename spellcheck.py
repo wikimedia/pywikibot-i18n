@@ -3,10 +3,10 @@ msg = {
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},	
-# Author: Als-Holder
+	# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',
-	},	
+	},
 	'ar': {
 		'spellcheck-checking': u'تدقيق إملائي بمساعدة البوت',
 	},

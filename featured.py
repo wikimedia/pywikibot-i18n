@@ -20,10 +20,10 @@ msg = {
 	},
 	# Author: Als-Chlämens
 	'als': {
-		'featured-featured': u'Bötli: %(page)s isch e bsundersch glungener Artikel',
-		'featured-former': u'Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi',
 		'featured-good': u'Bötli: %(page)s isch e läsige Artikel',
 		'featured-list': u'Bötli: %(page)s isch e bsunders glungeni Lischt',
+		'featured-featured': u'Bötli: %(page)s isch e bsundersch glungener Artikel',
+		'featured-former': u'Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi',
 	},
 	'ar': {
 		'featured-good': u'بوت: %(page)s هي مقالة جيدة',
@@ -75,10 +75,10 @@ msg = {
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	'be-x-old': {
-		'featured-featured': u'Робат: %(page)s зьяўляецца абраным артыкулам',
-		'featured-former': u'Робат: %(page)s зьяўляўся абраным артыкулам у мінулым',
 		'featured-good': u'Робат: %(page)s зьяўляецца добрым артыкулам',
 		'featured-list': u'Робат: %(page)s зьяўляецца абраных сьпісам',
+		'featured-featured': u'Робат: %(page)s — абраны артыкул',
+		'featured-former': u'Робат: %(page)s зьяўляўся абраным артыкулам у мінулым',
 	},
 	# Author: Riemogerz
 	'bjn': {
@@ -414,10 +414,10 @@ msg = {
 	},
 	# Author: Nghtwlkr
 	'no': {
-		'featured-featured': u'bot: %(page)s er en utmerka artikkel',
-		'featured-former': u'Bot: %(page)s er en tidligere utmerket artikkel',
 		'featured-good': u'bot: %(page)s er en anbefalt artikkel',
 		'featured-list': u'Bot: %(page)s er en utmerket liste',
+		'featured-featured': u'bot: %(page)s er en utmerka artikkel',
+		'featured-former': u'Bot: %(page)s er en tidligere utmerket artikkel',
 	},
 	'nv': {
 		'featured-featured': u'Naaltsoos %(page)s kʼad nizhónígo ályaa',
@@ -506,10 +506,10 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'featured-featured': u'Робот: %(page)s је сјајан чланак',
-		'featured-former': u'Робот: %(page)s је био сјајан чланак',
 		'featured-good': u'Робот: %(page)s је добар чланак',
 		'featured-list': u'Робот: %(page)s је сјајан списак',
+		'featured-featured': u'Робот: %(page)s је сјајан чланак',
+		'featured-former': u'Робот: %(page)s је био сјајан чланак',
 	},
 	# Author: Rancher
 	'sr-ec': {
@@ -575,10 +575,10 @@ msg = {
 	},
 	# Author: Ajdar
 	'tt': {
-		'featured-featured': u'Робот: %(page)s сайланган мәкалә',
-		'featured-former': u'Робот:%(page)s элеккеге сайланган мәкалә',
 		'featured-good': u'Робот:%(page)s яхшы мәкалә',
 		'featured-list': u'Робот: %(page)s сайланган исемлек',
+		'featured-featured': u'Робот: %(page)s сайланган мәкалә',
+		'featured-former': u'Робот:%(page)s элеккеге сайланган мәкалә',
 	},
 	# Author: Ajdar
 	'tt-cyrl': {
@@ -624,10 +624,10 @@ msg = {
 	},
 	# Author: Yfdyh000
 	'zh': {
-		'featured-featured': u'机器人：%(page)s是一篇特色条目',
-		'featured-former': u'机器人：%(page)s曾经是一篇特色条目',
 		'featured-good': u'机器人：%(page)s是一篇优良条目',
 		'featured-list': u'机器人：%(page)s是一篇特色列表',
+		'featured-featured': u'机器人：%(page)s是一篇特色条目',
+		'featured-former': u'机器人：%(page)s曾经是一篇特色条目',
 	},
 	# Author: Yfdyh000
 	'zh-hans': {

@@ -21,11 +21,11 @@ msg = {
 	},
 	# Author: Als-Chlämens
 	'als': {
+		'delete-images': u'Bötli: due alli Bilder uff de Syte %(page)s lösche',
+		'delete-referring-pages': u'Bötli: due alli Syte, wo uff %(page)s verwyyse, lösche',
 		'delete-from-category': u'Bötli: Due alli Syte in de Kategori %(page)s lösche',
 		'delete-from-file': u'Bötli: due e Lischt vo Dateie lösche',
-		'delete-images': u'Bötli: due alli Bilder uff de Syte %(page)s lösche',
 		'delete-linked-pages': u'Bötli: Due alli Syte, wo uff %(page)s verlinkt sin, lösche',
-		'delete-referring-pages': u'Bötli: due alli Syte, wo uff %(page)s verwyyse, lösche',
 	},
 	'ar': {
 		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',
@@ -82,11 +82,11 @@ msg = {
 	},
 	# Author: EugeneZelenko
 	'be-x-old': {
+		'delete-images': u'Робат: выдаліў усе выявы на старонцы %(page)s',
+		'delete-referring-pages': u'Робат: выдаліў усе старонкі, на якія спасылаецца %(page)s',
 		'delete-from-category': u'Робат: выдаліў усе старонкі з катэгорыі %(page)s',
 		'delete-from-file': u'Робат: выдаліў сьпіс файлаў.',
-		'delete-images': u'Робат: выдаліў усе выявы на старонцы %(page)s',
 		'delete-linked-pages': u'Робат: выдаліў усе старонкі зьвязаныя з %(page)s',
-		'delete-referring-pages': u'Робат: выдаліў усе старонкі, на якія спасылаецца %(page)s',
 	},
 	# Author: Fulup
 	'br': {
@@ -474,11 +474,11 @@ msg = {
 		'delete-linked-pages': u'robot: slettar alle sidene som er lenkja til frå %(page)s',
 	},
 	'no': {
+		'delete-images': u'Bot: Sletter alle bilder på siden %(page)s',
+		'delete-referring-pages': u'Bot: Sletter alle sider som lenker til %(page)s',
 		'delete-from-category': u'Bot: Sletter alle sider i kategorien %(page)s',
 		'delete-from-file': u'Bot: Sletter en liste over filer.',
-		'delete-images': u'Bot: Sletter alle bilder på siden %(page)s',
 		'delete-linked-pages': u'Bot: Sletter alle sider som lenkes fra %(page)s',
-		'delete-referring-pages': u'Bot: Sletter alle sider som lenker til %(page)s',
 	},
 	# Author: Shisir 1945
 	'or': {
@@ -571,11 +571,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
+		'delete-images': u'Робот: обрисане све слике на страници %(page)s',
+		'delete-referring-pages': u'Робот: обрисане све странице које потичу из %(page)s',
 		'delete-from-category': u'Робот: обрисане све странице из категорије %(page)s',
 		'delete-from-file': u'Робот: обрисан списак датотека.',
-		'delete-images': u'Робот: обрисане све слике на страници %(page)s',
 		'delete-linked-pages': u'Робот: обрисане све странице које воде из %(page)s',
-		'delete-referring-pages': u'Робот: обрисане све странице које потичу из %(page)s',
 	},
 	# Author: Rancher
 	'sr-ec': {
@@ -704,11 +704,11 @@ msg = {
 	# Author: Anakmalaysia
 	# Author: Yfdyh000
 	'zh': {
+		'delete-images': u'机器人：删除%(page)s页面上的所有图像',
+		'delete-referring-pages': u'机器人：删除所有%(page)s提及的页面',
 		'delete-from-category': u'机器人：删除所有来自%(page)s分类的页面',
 		'delete-from-file': u'机器人：删除文件列表。',
-		'delete-images': u'机器人：删除%(page)s页面上的所有图像',
 		'delete-linked-pages': u'机器人：删除所有从%(page)s链接的页面',
-		'delete-referring-pages': u'机器人：删除所有%(page)s提及的页面',
 	},
 	# Author: Anakmalaysia
 	# Author: Yfdyh000

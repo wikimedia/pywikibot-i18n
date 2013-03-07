@@ -34,11 +34,11 @@ msg = {
 	# Author: Als-Chlämens
 	# Author: Xqt
 	'als': {
-		'archivebot-archive-full': u'(ARCHIVE FULL)',
-		'archivebot-archive-summary': u'Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} vo [[%(from)s]] archiviere.',
-		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'elter wie',
 		'archivebot-page-summary': u'Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) uff %(archives)s archiviere.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ARCHIVE FULL)',
+		'archivebot-archive-summary': u'Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} vo [[%(from)s]] archiviere.',
 	},
 	# Author: DRIHEM
 	'ar': {
@@ -104,11 +104,11 @@ msg = {
 	# Author: Jim-by
 	# Author: Renessaince
 	'be-x-old': {
-		'archivebot-archive-full': u'(ПОЎНЫ АРХІЎ)',
-		'archivebot-archive-summary': u'Робат: Архівацыя %(count)d {{PLURAL:%(count)d|галіны|галінаў}} з [[%(from)s]].',
-		'archivebot-archiveheader': u'{{архіў абмеркаваньня}}',
 		'archivebot-older-than': u'старэйшае за',
 		'archivebot-page-summary': u'Робат: Архівацыя %(count)d {{PLURAL:%(count)d|тэмы|тэмаў}} (%(why)s) для %(archives)s.',
+		'archivebot-archiveheader': u'{{архіў абмеркаваньня}}',
+		'archivebot-archive-full': u'(ПОЎНЫ АРХІЎ)',
+		'archivebot-archive-summary': u'Робат: Архівацыя %(count)d {{PLURAL:%(count)d|галіны|галінаў}} з [[%(from)s]].',
 	},
 	# Author: Riemogerz
 	'bjn': {
@@ -597,11 +597,11 @@ msg = {
 	},
 	# Author: Xqt
 	'no': {
-		'archivebot-archive-full': u'(ARKIV FULLT)',
-		'archivebot-archive-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].',
-		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-older-than': u'eldre enn',
 		'archivebot-page-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} (%(why)s) til %(archives)s.',
+		'archivebot-archiveheader': u'{{arkiv}}',
+		'archivebot-archive-full': u'(ARKIV FULLT)',
+		'archivebot-archive-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].',
 	},
 	# Author: Cedric31
 	'oc': {
@@ -727,11 +727,11 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'archivebot-archive-full': u'(АРХИВА ЈЕ ПУНА)',
-		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} из [[%(from)s]].',
-		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'старије од',
 		'archivebot-page-summary': u'{{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} (%(why)s) у %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(АРХИВА ЈЕ ПУНА)',
+		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} из [[%(from)s]].',
 	},
 	# Author: Rancher
 	'sr-ec': {
@@ -821,11 +821,11 @@ msg = {
 	},
 	# Author: Sahran
 	'ug': {
-		'archivebot-archive-full': u'(ئارخىپ لىق)',
-		'archivebot-archive-summary': u'ماشىنا ئادەم: [[%(from)s]]دىن %(count)d {{PLURAL:%(count)d|جەريان|جەريان}}نى ئارخىپلاۋاتىدۇ.',
-		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'كونا',
 		'archivebot-page-summary': u'ماشىنا ئادەم: %(count)d {{PLURAL:%(count)d|جەريان|جەريان}} (%(why)s) نى %(archives)sغا ئاخىپلاۋاتىدۇ.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ئارخىپ لىق)',
+		'archivebot-archive-summary': u'ماشىنا ئادەم: [[%(from)s]]دىن %(count)d {{PLURAL:%(count)d|جەريان|جەريان}}نى ئارخىپلاۋاتىدۇ.',
 	},
 	# Author: Sahran
 	'ug-arab': {
@@ -890,11 +890,11 @@ msg = {
 	# Author: Anakmalaysia
 	# Author: Yfdyh000
 	'zh': {
-		'archivebot-archive-full': u'（存档已满）',
-		'archivebot-archive-summary': u'存档%(count)d个来自[[%(from)s]]的讨论。',
-		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-older-than': u'早于',
 		'archivebot-page-summary': u'存档%(count)d个%(why)s至%(archives)s。',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'（存档已满）',
+		'archivebot-archive-summary': u'存档%(count)d个来自[[%(from)s]]的讨论。',
 	},
 	# Author: Anakmalaysia
 	# Author: Makecat
