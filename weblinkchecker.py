@@ -39,10 +39,13 @@ msg = {
 		'weblinkchecker-summary': u'Robot : A gemenn ez eus ul liamm diavaez diziraezus',
 		'weblinkchecker-report': u'E-pad meur a batrouilhenn robot n\'eus ket bet gallet diaraez arliamm da-heul. Gwiriit mat eo dall al liamm e gwirionez ha mard eo, reizhit-eñ pe lamit-eñ.',
 	},
+	# Author: Anskar
 	# Author: Pitort
 	'ca': {
+		'weblinkchecker-archive_msg': u'S\'ha desat la pàgina web per Internet Arxive. Si us plau, considereu unir-vos a una versió arxivada apropiada: [%(URL)s].',
 		'weblinkchecker-caption': u'Enllaç trencat',
 		'weblinkchecker-summary': u'Robot: Informant d\'un enllaç extern inaccessible',
+		'weblinkchecker-report': u'Durant diverses execucions automàtiques, el bot ha comprovat que el següent enllaç extern no està disponible. Comproveu que l\'enllaç estigui realment trencat i corregiu-lo o retireu-lo.!',
 	},
 	'de': {
 		'weblinkchecker-archive_msg': u'Die Webseite wurde vom Internet Archive gespeichert. Bitte verlinke gegebenenfalls eine geeignete archivierte Version: [%(URL)s].',
@@ -197,8 +200,10 @@ msg = {
 		'weblinkchecker-summary': u'bot: Rapporter død eksternlenke',
 		'weblinkchecker-report': u'I løpet av flere automatiske botkjøringer ble følgende lenke funnet å være utilgjengelig. Sjekk om lenken faktisk er død, og fiks eller fjern den om det er tilfelle.',
 	},
+	# Author: Rezonansowy
 	'pl': {
 		'weblinkchecker-archive_msg': u'%(URL)s',
+		'weblinkchecker-caption': u'Niedziałający link',
 		'weblinkchecker-summary': u'Robot zgłasza niedostępny link zewnętrzny',
 	},
 	'pt': {

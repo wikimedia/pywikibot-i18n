@@ -90,8 +90,9 @@ msg = {
 	'bs': {
 		'add_text-adding': u'robot dodaje %(adding)s',
 	},
+	# Author: Anskar
 	'ca': {
-		'add_text-adding': u'Robot afegeix %(adding)s',
+		'add_text-adding': u'Robot: Afegint %(adding)s',
 	},
 	'ce': {
 		'add_text-adding': u'робот тIетоьхна %(adding)s',

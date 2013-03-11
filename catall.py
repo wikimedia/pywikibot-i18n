@@ -55,9 +55,10 @@ msg = {
 	'bs': {
 		'catall-changing': u'Bot: Promjena kategorija.',
 	},
+	# Author: Anskar
 	# Author: Grondin
 	'ca': {
-		'catall-changing': u'Robot: canvi categories',
+		'catall-changing': u'Robot: Canviant categories',
 	},
 	# Author: Asoxor
 	'ckb': {
