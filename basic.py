@@ -132,9 +132,10 @@ msg = {
 	'fo': {
 		'basic-changing': u'Bottur: Broytur ...',
 	},
+	# Author: Boniface
 	# Author: Od1n
 	'fr': {
-		'basic-changing': u'Robot : Changé ...',
+		'basic-changing': u'Robot : Modifie ...',
 	},
 	# Author: ChrisPtDe
 	'frp': {

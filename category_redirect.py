@@ -289,17 +289,18 @@ msg = {
 	'fo': {
 		'category_redirect-comment': u'Bottur til at viðlíkahalda bólka flytingar',
 	},
+	# Author: Boniface
 	# Author: Crochet.david
 	# Author: Hashar
 	# Author: IAlex
 	# Author: Od1n
 	'fr': {
 		'category_redirect-comment': u'Bot de maintenance des redirections de catégories',
-		'category_redirect-change-category': u'Robot : Changement de la redirection de [[:%(oldCatLink)s|%(oldCatTitle)s]] à [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-change-category': u'Robot : Changement de la redirection de [[:%(oldCatLink)s|%(oldCatTitle)s]] pour [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Robot : ajout de modèle de redirection de catégorie pour maintenance',
 		'category_redirect-edit-request': u'Les pages protégées suivantes ont été détectés comme nécessitant des mises à jour des liens de catégorie : %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s est dans %(oldcat)s, qui est une redirection vers %(newcat)s',
-		'category_redirect-fix-double': u'Robot : répare double redirection',
+		'category_redirect-fix-double': u'Robot : répare une double redirection',
 	},
 	# Author: ChrisPtDe
 	'frp': {

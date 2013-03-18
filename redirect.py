@@ -113,6 +113,10 @@ msg = {
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
 	},
+	# Author: Stephensuleeman
+	'bbc-latn': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
@@ -317,16 +321,17 @@ msg = {
 		'redirect-remove-broken': u'Bottur: Umstjórnan til eina strikaða síðu ella til eina síðu sum ikki er til',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Boniface
 	# Author: Crochet.david
 	# Author: Gomoko
 	# Author: IAlex
 	# Author: Od1n
 	# Author: Xqt
 	'fr': {
-		'redirect-fix-double': u'Robot : répare double redirection à %(to)s',
+		'redirect-fix-double': u'Robot : répare une double redirection vers %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] vers une page supprimée ou inexistante',
-		'redirect-fix-broken-moved': u'Robot: Correction des redirections erronées vers la page cible %(to)s déplacée',
-		'redirect-fix-loop': u'Robot : répare boucle de redirection à %(to)s',
+		'redirect-fix-broken-moved': u'Robot: Correction des redirections erronées vers une page cible %(to)s déplacée',
+		'redirect-fix-loop': u'Robot : répare une boucle de redirection sur %(to)s',
 		'redirect-remove-loop': u'Bot: la cible de la redirection forme une boucle de redirection',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},

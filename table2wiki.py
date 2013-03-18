@@ -125,10 +125,11 @@ msg = {
 		'table2wiki-warnings': u'Käyttäjän ohjaama botti: Taulukon syntaksi päivitetty - {{PLURAL:count|1 varoitus|%(count)d varoitusta}}!',
 		'table2wiki-no-warning': u'Käyttäjän ohjaama botti: Taulukon syntaksi päivitetty',
 	},
+	# Author: Boniface
 	# Author: Od1n
 	'fr': {
 		'table2wiki-warnings': u'Robot : wikification syntaxe tableaux - {{PLURAL:count|1 avertissement|%(count)d avertissements}} !',
-		'table2wiki-no-warning': u'Robot : wikification syntaxe tableaux',
+		'table2wiki-no-warning': u'Robot : wikification de la syntaxe du tableau',
 	},
 	# Author: ChrisPtDe
 	'frp': {

@@ -120,9 +120,10 @@ msg = {
 	'fo': {
 		'capitalize_redirects-create-redirect': u'Bottur: Upprættar ávísing til [[%(to)s]]',
 	},
+	# Author: Boniface
 	# Author: Od1n
 	'fr': {
-		'capitalize_redirects-create-redirect': u'Robot : Créer redirection à [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robot : Créer une redirection vers [[%(to)s]]',
 	},
 	# Author: ChrisPtDe
 	'frp': {

@@ -113,8 +113,9 @@ msg = {
 	'fo': {
 		'catall-changing': u'Bottur: Broytur bólkar',
 	},
+	# Author: Boniface
 	'fr': {
-		'catall-changing': u'Bot: Change categories',
+		'catall-changing': u'Bot: Modifie les catégories',
 	},
 	# Author: ChrisPtDe
 	'frp': {

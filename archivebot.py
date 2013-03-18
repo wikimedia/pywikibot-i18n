@@ -254,13 +254,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARKIVIÐ ER FULT)',
 	},
+	# Author: Boniface
 	# Author: Gomoko
 	# Author: Xqt
 	'fr': {
 		'archivebot-older-than': u'plus ancien que',
 		'archivebot-page-summary': u'Robot: Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
-		'archivebot-archive-full': u'(ARCHIVE PLEINE)',
+		'archivebot-archive-full': u'(ARCHIVE SATURÉE)',
 		'archivebot-archive-summary': u'Robot: Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]].',
 	},
 	# Author: ChrisPtDe

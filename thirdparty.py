@@ -222,6 +222,12 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТ ХӘБӘРЕ',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\n%(sign)s яҙманан һәм яҙмала йомғаҡлау яһалған</noinclude>',
 	},
+	# Author: Stephensuleeman
+	'bbc-latn': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'%d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BARITA ROBOT',
+	},
 	# Author: DrTrigon
 	# Author: EugeneZelenko
 	# Author: Jim-by
@@ -564,13 +570,14 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Kjakið er broytt',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOÐ FRÁ BOTTI',
 	},
+	# Author: Boniface
 	# Author: DrTrigon
 	# Author: Gomoko
 	# Author: Grondin
 	# Author: Od1n
 	'fr': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
-		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(aucun éditeur humain trouvé)',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(aucun éditeur humain décelé)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s : %(page_sections)s - [%(history_link)s dernière modification] (%(page_size)s octets) par %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Message d\'avertissement du robot : %(page)s "\'\'%(warning)s\'\'"',

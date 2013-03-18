@@ -305,17 +305,18 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Rætta leinkju við fleiri meiningum: %(from)s - Broytti leinkju(r) til %(to)s',
 		'solve_disambiguation-unknown-page': u'(ókent)',
 	},
+	# Author: Boniface
 	# Author: IAlex
 	# Author: Od1n
 	# Author: Sherbrooke
 	'fr': {
-		'solve_disambiguation-redirect-removed': u'Correction de lien vers redirect : %(from)s - Retrait du (des) lien(s)',
-		'solve_disambiguation-redirect-resolved': u'Correction de lien vers redirect : %(from)s - Modifications du (des) lien(s) pour %(to)s',
-		'solve_disambiguation-links-resolved': u'Homonymie résolue à l’aide du robot : %(from)s - Modifications du (des) lien(s) pour %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Homonymie résolue à l’aide du robot : %(from)s - marquée comme demandant l\'attention d\'un expert',
-		'solve_disambiguation-adding-dn-template': u'Homonymie résolue à l’aide du robot : %(from)s - marquée comme demandant l\'attention d\'un expert',
+		'solve_disambiguation-redirect-removed': u'Correction de lien assistée par un robot : %(from)s - Retrait du (des) lien(s)',
+		'solve_disambiguation-redirect-resolved': u'Correction de lien vers redirect : %(from)s - Modifications du (des) lien(s) vers %(to)s',
+		'solve_disambiguation-links-resolved': u'Homonymie résolue à l’aide d\'un robot : %(from)s - Modifications du (des) lien(s) vers %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Homonymie résolue à l’aide d\'un robot : %(from)s - Marquée comme demandant l\'avis d\'un expert',
+		'solve_disambiguation-adding-dn-template': u'Homonymie résolue à l’aide d\'un robot : %(from)s - Marquée comme demandant l\'avis d\'un expert',
 		'solve_disambiguation-unknown-page': u'(inconnu)',
-		'solve_disambiguation-links-removed': u'Homonymie résolue à l’aide du robot : %(from)s - Retrait du (des) lien(s)',
+		'solve_disambiguation-links-removed': u'Homonymie résolue à l’aide du robot : %(from)s - Retrait du (des) lien(s).',
 	},
 	# Author: ChrisPtDe
 	'frp': {

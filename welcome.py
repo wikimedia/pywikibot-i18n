@@ -73,6 +73,10 @@ msg = {
 		'welcome-bad_username': u'Робот: шикле ҡатнашыусы исеме өҫтәлгән',
 		'welcome-updating': u'Робот: журналды яңыртыу',
 	},
+	# Author: Stephensuleeman
+	'bbc-latn': {
+		'welcome-welcome': u'Horas',
+	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	'be-x-old': {

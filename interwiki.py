@@ -558,11 +558,12 @@ msg = {
 		'interwiki-removing-modifying': u'bottur strikar: %(removing)s broytur: %(modifying)s',
 		'interwiki-modifying-from': u'Bottur: Broytir %(from)s til %(modifying)s',
 	},
+	# Author: Boniface
 	# Author: Od1n
 	'fr': {
-		'interwiki-modifying': u'robot Modifie : %(modifying)s',
+		'interwiki-modifying': u'robot Modifie %(modifying)s',
 		'interwiki-adding-modifying': u'robot Ajoute : %(adding)s Modifie : %(modifying)s',
-		'interwiki-adding-removing': u'robot Ajoute : %(adding)s Retire : %(removing)s',
+		'interwiki-adding-removing': u'robot Ajoute : %(adding)s ; retire : %(removing)s',
 		'interwiki-adding-removing-modifying': u'robot Ajoute : %(adding)s Retire : %(removing)s Modifie : %(modifying)s',
 		'interwiki-adding': u'robot Ajoute : %(adding)s',
 		'interwiki-removing': u'robot Retire : %(removing)s',

@@ -83,8 +83,9 @@ msg = {
 	'fi': {
 		'spellcheck-checking': u'Koneavusteinen oikeinkirjoituksen tarkistus',
 	},
+	# Author: Boniface
 	'fr': {
-		'spellcheck-checking': u'Correction orthographique par robot',
+		'spellcheck-checking': u'Correction orthographique assistée par un robot',
 	},
 	# Author: Murma174
 	'frr': {

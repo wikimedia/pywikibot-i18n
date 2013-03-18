@@ -221,7 +221,7 @@ msg = {
 	# Author: Wizardist
 	'be-x-old': {
 		'category-version-history': u'Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s',
-		'category-changing': u'Робат: зьмена %(oldcat)s',
+		'category-changing': u'Робат: зьмена %(oldcat)s на %(newcat)s',
 		'category-adding': u'Робат: дадаваньне category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(таксама ў %(alsocat)s)',
 		'category-was-disbanded': u'Робат: катэгорыя расфармаваная',
@@ -568,6 +568,7 @@ msg = {
 		'category-was-moved': u'Bottur: Bólkur varð fluttur til [[:Category:%(newcat)s|%(title)s]]',
 		'category-listifying': u'Bottur: Umskapar frá %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
 	},
+	# Author: Boniface
 	# Author: Crochet.david
 	# Author: Gomoko
 	# Author: IAlex
@@ -576,13 +577,13 @@ msg = {
 	# Author: Xqt
 	'fr': {
 		'category-version-history': u'Robot: Enregistrement de l\'historique de version de l\'ancien %(oldcat)s',
-		'category-changing': u'Robot : modification de %(oldcat)s à %(newcat)s',
+		'category-changing': u'Robot : modification de %(oldcat)s en %(newcat)s',
 		'category-adding': u'Robot : Ajout de la catégorie [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(également dans %(alsocat)s)',
 		'category-was-disbanded': u'Robot : La catégorie a été supprimée',
 		'category-replacing': u'Robot : Remplacement de la catégorie %(oldcat)s par %(newcat)s',
 		'category-removing': u'Robot : Retiré depuis %(oldcat)s',
-		'category-was-moved': u'Robot : catégorie déplacée sur [[:Category:%(newcat)s|%(title)s]]',
+		'category-was-moved': u'Robot : catégorie déplacée vers [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Robot : déplacé depuis %s. Auteurs: %s',
 		'category-section-title': u'Historique de page de l\'ancien %(oldcat)s',
 		'category-listifying': u'Robot : Listage de %(fromcat)s (%(num)d éléments)',

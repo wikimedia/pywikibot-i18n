@@ -167,9 +167,10 @@ msg = {
 		'cosmetic_changes-standalone': u'Botti teki kosmeettisia muutoksia',
 		'cosmetic_changes-append': u'; kosmeettisia muutoksia',
 	},
+	# Author: Boniface
 	'fr': {
-		'cosmetic_changes-standalone': u'Robot : Changement de type cosmétique',
-		'cosmetic_changes-append': u'; changement de type cosmétique',
+		'cosmetic_changes-standalone': u'Robot : Modifications de type cosmétique',
+		'cosmetic_changes-append': u'; changements de type cosmétique',
 	},
 	# Author: ChrisPtDe
 	'frp': {
