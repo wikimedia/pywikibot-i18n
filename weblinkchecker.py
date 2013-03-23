@@ -72,6 +72,10 @@ msg = {
 		'weblinkchecker-caption': u'Tote Verknüpfung',
 		'weblinkchecker-report': u'Bei mehreren automatisierten Botläufen wurde die folgende Verknüpfung als nicht verfügbar erkannt. Bitte überprüfe, ob die Verknüpfung tatsächlich nicht erreichbar ist, und korrigiere oder entferne sie in diesem Fall!',
 	},
+	# Author: Gorizon
+	'diq': {
+		'weblinkchecker-caption': u'Greyo merde',
+	},
 	# Author: Airon90
 	'eo': {
 		'weblinkchecker-caption': u'Neenretiĝa ligilo',
@@ -307,8 +311,8 @@ msg = {
 	'zh': {
 		'weblinkchecker-archive_msg': u'这个网页已经被保存在互联网档案馆（Internet Archive）。请为该网页提供一个合适的存档版本： [%(URL)s]。',
 		'weblinkchecker-caption': u'失效链接',
-		'weblinkchecker-summary': u'BOT: 报告失效的外部链接',
-		'weblinkchecker-report': u'一个自动运行的bot发现下列外部链接可能已经失效。请帮助修复错误的链接或者移除它!',
+		'weblinkchecker-summary': u'机器人：报告失效的外部链接',
+		'weblinkchecker-report': u'一个自动运行的机器人发现下列外部链接可能已经失效。请帮助检查，修复或移除无效的链接！',
 	},
 	# Author: Simon Shek
 	'zh-hant': {

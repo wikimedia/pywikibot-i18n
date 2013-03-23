@@ -634,13 +634,14 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Bấm Enter sau khi sửa đổi xong trong trình duyệt.',
 	},
 	# Author: Anakmalaysia
+	# Author: Yfdyh000
 	'zh': {
 		'pywikibot-enter-xml-filename': u'请输入XML Dump文件名称：',
 		'pywikibot-enter-page-processing': u'哪个页面需要处理？',
 		'pywikibot-enter-file-links-processing': u'需要处理的图像页，应该到哪个链接？',
-		'pywikibot-enter-namespace-number': u'请输入名称空间号码：',
-		'pywikibot-enter-new-text': u'请输入新文字：',
-		'pywikibot-enter-category-name': u'请输入类别名称：',
+		'pywikibot-enter-namespace-number': u'请输入命名空间编号：',
+		'pywikibot-enter-new-text': u'请输入新文本：',
+		'pywikibot-enter-category-name': u'请输入分类名称：',
 		'pywikibot-enter-finished-browser': u'请在浏览器作业完成后按下Enter键。',
 	},
 	# Author: Justincheng12345

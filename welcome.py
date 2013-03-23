@@ -318,6 +318,10 @@ msg = {
 	'ka': {
 		'welcome-welcome': u'კეთილი იყოს თქვენი მობრძანება!',
 	},
+	# Author: វ័ណថារិទ្ធ
+	'km': {
+		'welcome-welcome': u'សូមស្វាគមន៍!',
+	},
 	# Author: Akoppad
 	# Author: Nayvik
 	'kn': {

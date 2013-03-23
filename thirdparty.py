@@ -882,6 +882,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'ახალი განხილვა',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'რობოტის შეტყობინება',
 	},
+	# Author: វ័ណថារិទ្ធ
+	'km': {
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSummary generated from and at: %(sign)s</noinclude>',
+	},
 	# Author: Akoppad
 	# Author: VASANTH S.N.
 	'kn': {
@@ -1706,10 +1710,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span>——最近编辑由[[User:%(user)s]]作出（%(time)s）',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'通知',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'替换%(tags)s标签',
-		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'讨论关闭',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'讨论已关闭',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s所有讨论已完成（停止监测）——最近编辑由[[User:%(user)s]]作出（%(time)s）',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'添加讨论摘要：%(num)i个条目',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'讨论改变',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'讨论已变更',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'添加讨论摘要及清理：%(num)i个条目',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'更新讨论摘要：%(num)i个条目在%(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'机器人的消息',
