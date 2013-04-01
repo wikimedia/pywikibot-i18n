@@ -53,6 +53,13 @@ msg = {
 		'weblinkchecker-summary': u'Robot: Informant d\'un enllaç extern inaccessible',
 		'weblinkchecker-report': u'Durant diverses execucions automàtiques, el bot ha comprovat que el següent enllaç extern no està disponible. Comproveu que l\'enllaç estigui realment trencat i corregiu-lo o retireu-lo.!',
 	},
+	# Author: Tchoř
+	'cs': {
+		'weblinkchecker-archive_msg': u'Webová stránka je uložena v projektu Internet Archive. Prosím zvažte, zda neodkázat na patřičnou archivovanou verzi  [%(URL)s].',
+		'weblinkchecker-caption': u'Mrtvý odkaz',
+		'weblinkchecker-summary': u'Robot: Ohlašuji nedostupný externí odkaz.',
+		'weblinkchecker-report': u'Během několika automatizovaných běhů byl následující externí odkaz nedostupný. Prosím, ověřte, zda je skutečně nedostupný, a pokud ano, pak jej opravte nebo odstraňte!',
+	},
 	# Author: Steenth
 	'da': {
 		'weblinkchecker-archive_msg': u'Websiden er blevet gemt af Internet Archive. Overvej sammenkædning til en passende arkiverede version: [%(URL)s].',
@@ -73,8 +80,9 @@ msg = {
 		'weblinkchecker-report': u'Bei mehreren automatisierten Botläufen wurde die folgende Verknüpfung als nicht verfügbar erkannt. Bitte überprüfe, ob die Verknüpfung tatsächlich nicht erreichbar ist, und korrigiere oder entferne sie in diesem Fall!',
 	},
 	# Author: Gorizon
+	# Author: Mirzali
 	'diq': {
-		'weblinkchecker-caption': u'Greyo merde',
+		'weblinkchecker-caption': u'Gıreyo merde',
 	},
 	# Author: Airon90
 	'eo': {

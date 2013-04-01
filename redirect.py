@@ -308,9 +308,11 @@ msg = {
 	# Author: Nedergard
 	# Author: Nike
 	# Author: Olli
+	# Author: Silvonen
 	'fi': {
 		'redirect-fix-double': u'Botti korjasi kaksinkertaisen ohjauksen sivulle %(to)s',
 		'redirect-remove-broken': u'Botti: Ohjaus poistetulle tai olemattomalle sivulle',
+		'redirect-fix-broken-moved': u'Botti korjasi rikkinäisen ohjauksen siirrettyyn kohdesivuun %(to)s',
 		'redirect-fix-loop': u'Botti korjasi ohjaussilmukan sivulle %(to)s',
 		'redirect-remove-loop': u'Botti: Ohjauksen kohde muodostaa ohjaussilmukan',
 		'redirect-broken-redirect-template': u'{{Delete}}',
