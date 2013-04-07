@@ -473,7 +473,7 @@ msg = {
 		'category-changing': u'Roboto: Ŝanĝado de %(oldcat)s al %(newcat)s',
 		'category-adding': u'Roboto: Aldonado de kategorio [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(ankaŭ en %(alsocat)s)',
-		'category-was-disbanded': u'Roboto: Kategorio estas nuligita',
+		'category-was-disbanded': u'Roboto: Kategorio estas anstataŭigita',
 		'category-replacing': u'Roboto: Anstataŭigado de kategorio %(oldcat)s per %(newcat)s',
 		'category-removing': u'Roboto: Forigado el %(oldcat)s',
 		'category-was-moved': u'Roboto: Kategorio estas movita al [[:Category:%(newcat)s|%(title)s]]',

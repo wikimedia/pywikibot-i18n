@@ -148,8 +148,9 @@ msg = {
 	'eml': {
 		'add_text-adding': u'Robot A Śònt %(adding)s',
 	},
+	# Author: Airon90
 	'eo': {
-		'add_text-adding': u'robota aldono de %(adding)s',
+		'add_text-adding': u'Roboto: Aldonado de %(adding)s',
 	},
 	# Author: TheBITLINK
 	# Author: Xqt

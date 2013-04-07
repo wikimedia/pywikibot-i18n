@@ -207,14 +207,15 @@ msg = {
 		'archivebot-archive-full': u'(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)',
 		'archivebot-archive-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]]',
 	},
+	# Author: Airon90
 	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
-		'archivebot-older-than': u'Malnova ol',
-		'archivebot-page-summary': u'Roboto: Arkivas %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.',
-		'archivebot-archiveheader': u'{{diskutarkivo}}',
-		'archivebot-archive-full': u'(Plena Arkivo)',
-		'archivebot-archive-summary': u'Roboto: Arkivas %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} ekde [[%(from)s]].',
+		'archivebot-older-than': u'plimalnova ol',
+		'archivebot-page-summary': u'Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.',
+		'archivebot-archiveheader': u'{{Arkivo de diskutoj}}',
+		'archivebot-archive-full': u'(plena arkivo)',
+		'archivebot-archive-summary': u'Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} de [[%(from)s]].',
 	},
 	# Author: Armando-Martin
 	# Author: TheBITLINK
@@ -241,9 +242,10 @@ msg = {
 		'archivebot-archive-summary': u'بایگانی %(count)d {{PLURAL:%(count)d|بحث|بحث}} از [[%(from)s]].',
 	},
 	# Author: Crt
+	# Author: Silvonen
 	'fi': {
 		'archivebot-older-than': u'vanhempi kuin',
-		'archivebot-page-summary': u'Arkistoidaan %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} (%(why)s) %(archives)s arkistoon.',
+		'archivebot-page-summary': u'Botti arkistoi %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} (%(why)s) arkistoon %(archives)s.',
 		'archivebot-archiveheader': u'{{Arkisto}}',
 		'archivebot-archive-full': u'(ARKISTO TÄYNNÄ)',
 		'archivebot-archive-summary': u'Arkistoidaan %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} sivulta [[%(from)s]].',

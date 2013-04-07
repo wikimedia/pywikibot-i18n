@@ -110,7 +110,7 @@ msg = {
 	# Author: Airon90
 	# Author: Objectivesea
 	'eo': {
-		'basic-changing': u'Roboto: Ŝanĝas ...',
+		'basic-changing': u'Roboto: Ŝanĝado...',
 	},
 	# Author: Fitoschido
 	'es': {

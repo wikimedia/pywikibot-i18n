@@ -239,12 +239,12 @@ msg = {
 	# Author: Blahma
 	# Author: Objectivesea
 	'eo': {
-		'category_redirect-comment': u'Zorga roboto pri kategoria alidirekto',
-		'category_redirect-change-category': u'Roboto: ŝanĝi alidirektan kategorion [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Roboto: aldonanta ŝablonon pri alidirekta kategorio por prizorgado',
-		'category_redirect-edit-request': u'Jenaj protektitaj paĝoj evidente bezonas ĝisdatigon de kategoriaj ligiloj: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s estas en %(oldcat)s, kiu estas alidirekto al %(newcat)s',
-		'category_redirect-fix-double': u'Roboto: Riparas duoblan alidirekton',
+		'category_redirect-comment': u'Zorga roboto pri kategoria alidirektado',
+		'category_redirect-change-category': u'Roboto: Ŝanĝado de alidirekta kategorio [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Roboto: Aldonado de ŝablono pri alidirekta kategorio por prizorgado',
+		'category_redirect-edit-request': u'La jenaj protektitaj paĝoj evidente bezonas ĝisdatigon de kategoriaj ligiloj: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s en %(oldcat)s, kiu estas alidirektilo al %(newcat)s',
+		'category_redirect-fix-double': u'Roboto: Riparado de duobla alidirektilo',
 	},
 	# Author: Dferg
 	# Author: Invadinado

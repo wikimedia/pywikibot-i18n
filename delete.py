@@ -168,14 +168,15 @@ msg = {
 		'delete-from-file': u'Ρομπότ: Διαγραφή μια λίστας αρχείων.',
 		'delete-linked-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που συνδέονται από την %(page)s',
 	},
+	# Author: Airon90
 	# Author: Blahma
 	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
-		'delete-images': u'Roboto: Forigas ĉiujn bildojn ĉe la paĝo %(page)s',
-		'delete-referring-pages': u'Roboto: Forigas ĉiujn paĝojn kiuj ligas el %(page)s',
-		'delete-from-category': u'Roboto: Forigas ĉiujn paĝojn de la kategorio %(page)s',
-		'delete-from-file': u'Roboto: Forigas liston da dosieroj',
+		'delete-images': u'Roboto: Forigado de ĉiuj bildoj ĉe la paĝo %(page)s',
+		'delete-referring-pages': u'Roboto: Forigado de ĉiuj paĝoj, kiuj ligas al %(page)s',
+		'delete-from-category': u'Roboto: Forigado de ĉiuj paĝoj de la kategorio %(page)s',
+		'delete-from-file': u'Roboto: Forigado de listo da dosieroj.',
 		'delete-linked-pages': u'Roboto: Forigante ĉiujn paĝojn ligatajn el %(page)s',
 	},
 	# Author: Invadinado

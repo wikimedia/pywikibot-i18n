@@ -98,10 +98,11 @@ msg = {
 	'el': {
 		'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]',
 	},
+	# Author: Airon90
 	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
-		'capitalize_redirects-create-redirect': u'Roboto: Kreas redirektilo al [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Roboto: Kreado de alidirektilo al [[%(to)s]]',
 	},
 	# Author: Invadinado
 	# Author: Vivaelcelta

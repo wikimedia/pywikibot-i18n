@@ -119,7 +119,7 @@ msg = {
 	# Author: Airon90
 	# Author: Objectivesea
 	'eo': {
-		'commons-file-moved': u'[[:File:%(localfile)s|Dosiero]] moviĝis al [[:commons:File:%(commonsfile)s|Komunejon]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|Dosiero]] movita al [[:commons:File:%(commonsfile)s|Komunejon]].',
 		'commons-file-now-available': u'Dosiero nun disponeblas ĉe [[:commons:File:%(commonsfile)s|Vikimedia Komunejo]].',
 	},
 	# Author: Fitoschido
