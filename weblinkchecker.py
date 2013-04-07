@@ -45,6 +45,13 @@ msg = {
 		'weblinkchecker-summary': u'Robot : A gemenn ez eus ul liamm diavaez diziraezus',
 		'weblinkchecker-report': u'E-pad meur a batrouilhenn robot n\'eus ket bet gallet diaraez arliamm da-heul. Gwiriit mat eo dall al liamm e gwirionez ha mard eo, reizhit-eñ pe lamit-eñ.',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'weblinkchecker-archive_msg': u'Ova stranica je arhivirana na "Internet Archive". Pokušajte staviti vezu prema arhiviranoj verziji ove stranice: [%(URL)s].',
+		'weblinkchecker-caption': u'Mrtav link',
+		'weblinkchecker-summary': u'Bot: Prijavljam nedostupnu vanjsku vezu',
+		'weblinkchecker-report': u'Poslije nekoliko automatskih pokušaja bota, ustanovljeno je da je sljedeća vanjska veza nedostupna. Provjerite da li je veza zaista neispravna i zatim je ispravite ako je ovo slučaj!',
+	},
 	# Author: Anskar
 	# Author: Pitort
 	'ca': {

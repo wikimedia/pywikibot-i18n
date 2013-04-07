@@ -162,6 +162,7 @@ msg = {
 	'bs': {
 		'redirect-fix-double': u'Bot: Popravlja dvostruka preusmjerenja na %(to)s',
 		'redirect-remove-broken': u' [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] na obrisanu ili nepostojeću stranicu',
+		'redirect-fix-broken-moved': u'Bot: Neispravno preusmjerenje prema premještenoj stranici %(to)s',
 		'redirect-fix-loop': u'Robot: Popravlja petlje preusmjerenja na %(to)s',
 		'redirect-remove-loop': u' [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] pravi petlju na samo sebe',
 		'redirect-broken-redirect-template': u'{{Brisanje}}',
