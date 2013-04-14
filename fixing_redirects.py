@@ -3,6 +3,10 @@ msg = {
 	'en': {
 		'fixing_redirects-fixing': u'Bot: Fixing redirects',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'fixing_redirects-fixing': u'Used as edit summary.',
+	},
 	# Author: Csisc
 	'aeb': {
 		'fixing_redirects-fixing': u'بوت: إصلاح التحويلات',

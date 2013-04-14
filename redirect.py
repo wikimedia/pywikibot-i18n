@@ -692,9 +692,11 @@ msg = {
 	},
 	# Author: BeginaFelicysym
 	# Author: Sp5uhe
+	# Author: Ty221
 	'pl': {
 		'redirect-fix-double': u'Robot naprawił podwójne przekierowanie do %(to)s',
 		'redirect-remove-broken': u'Robot: przekierowanie do usuniętej lub nieistniejącej strony',
+		'redirect-fix-broken-moved': u'Bot: Poprawa urwanych przekierowań - przeniesiono cel do %(to)',
 		'redirect-fix-loop': u'Robot: Naprawa pętli przekierowań do %(to)s',
 		'redirect-remove-loop': u'Robot: pętla przekierowań',
 		'redirect-broken-redirect-template': u'{{ek|przekierowanie do usuniętej lub nieistniejącej stron}}',

@@ -5,8 +5,9 @@ msg = {
 	},
 	# Author: Csisc
 	# Author: Przemub
+	# Author: Shirayuki
 	'qqq': {
-		'djvutext-creating': u'',
+		'djvutext-creating': u'Used as edit summary.',
 	},
 	# Author: Csisc
 	'aeb': {

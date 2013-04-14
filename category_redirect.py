@@ -9,8 +9,13 @@ msg = {
 		'category_redirect-fix-double': u'Robot: Fixing double-redirect',
 	},
 	# Author: Csisc
+	# Author: Shirayuki
 	# Author: Xqt
 	'qqq': {
+		'category_redirect-change-category': u'Used as comment. Parameters:\n* %(oldCatLink)s - old category name\n* %(oldCatTitle)s - old category name\n* %(newCatLink)s - new category name\n* %(newCatTitle)s - new category name',
+		'category_redirect-add-template': u'Used as edit summary.',
+		'category_redirect-edit-request': u'Variables:\n* %(itemlists)s - list of edit requests (pages). Uses the message {{msg-pywikipedia|Category redirect-edit-request-item}}.',
+		'category_redirect-edit-request-item': u'Used as <code>%(itemlist)s</code> in {{msg-pywikipedia|Category_redirect-edit-request}}.\n\nVariables:\n* %(title)s - page title\n* %(oldcat)s - old category name\n* %(newcat)s - new category name',
 		'category_redirect-fix-double': u'Edit summary when the bot fixes double category redirects.',
 	},
 	# Author: Csisc

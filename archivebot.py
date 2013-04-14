@@ -10,9 +10,12 @@ msg = {
 	},
 	# Author: Csisc
 	# Author: McDutchie
+	# Author: Shirayuki
 	'qqq': {
+		'archivebot-older-than': u'Followed by " " and timestamp.',
 		'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
 		'archivebot-archiveheader': u'Template that will be put on new archive pages as the header.',
+		'archivebot-archive-full': u'Appended to the summary.',
 		'archivebot-archive-summary': u'Summary message when the bot adds threads to the archive.',
 	},
 	# Author: Csisc

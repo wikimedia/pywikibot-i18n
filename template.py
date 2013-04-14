@@ -5,6 +5,12 @@ msg = {
 		'template-removing': u'Robot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'template-removing': u'Used as edit summary. Variables:\n* %(num)d - number of templates\n* %(list)s - list of templates (separated by {{msg-mw|Comma-separator}})',
+		'template-changing': u'Used as edit summary. Variables:\n* %(num)d - number of templates\n* %(list)s - list of templates (separated by {{msg-mw|Comma-separator}})',
+		'template-substituting': u'Used as edit summary. Variables:\n* %(num)d - number of templates\n* %(list)s - list of templates (separated by {{msg-mw|Comma-separator}})',
+	},
 	# Author: Csisc
 	'aeb': {
 		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',

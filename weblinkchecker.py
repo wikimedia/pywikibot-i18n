@@ -228,7 +228,7 @@ msg = {
 		'weblinkchecker-archive_msg': u'Deze website is bewaard in het Internet Archive. Overweeg te koppelen naar een gearchiveerde pagina: [%(URL)s].',
 		'weblinkchecker-caption': u'Dode koppeling',
 		'weblinkchecker-summary': u'Robot: melding (tijdelijk) onbereikbare externe koppeling',
-		'weblinkchecker-report': u'Tijdens enkele automatische controles bleek de onderstaande externe koppeling onbereikbaar. Controleer alstublieft of de koppeling inderdaad onbereikbaar is. Verwijder deze tekst alstublieft na een succesvolle controle of na het verwijderen of corrigeren van de externe koppeling.',
+		'weblinkchecker-report': u'Tijdens enkele automatische controles bleek de onderstaande externe koppeling onbereikbaar. Controleer of de koppeling inderdaad onbereikbaar is. Verwijder deze tekst na een succesvolle controle of na het verwijderen of corrigeren van de externe koppeling.',
 	},
 	# Author: Jon Harald Søby
 	'no': {
@@ -238,10 +238,12 @@ msg = {
 		'weblinkchecker-report': u'I løpet av flere automatiske botkjøringer ble følgende lenke funnet å være utilgjengelig. Sjekk om lenken faktisk er død, og fiks eller fjern den om det er tilfelle.',
 	},
 	# Author: Rezonansowy
+	# Author: Ty221
 	'pl': {
 		'weblinkchecker-archive_msg': u'%(URL)s',
 		'weblinkchecker-caption': u'Niedziałający link',
 		'weblinkchecker-summary': u'Robot zgłasza niedostępny link zewnętrzny',
+		'weblinkchecker-report': u'W ciągu kilku automatycznych kontroli następujący link zewnętrzny był niedostępny. Proszę, sprawdź linki naprawdę "martwe" i w takim przypadku należy skorygować lub usunąć go!',
 	},
 	'pt': {
 		'weblinkchecker-archive_msg': u'Esta página web foi gravada na Internet Archive. Por favor considere o link para a versão arquivada: [%(URL)s].',
@@ -302,8 +304,10 @@ msg = {
 	},
 	# Author: Гусейн
 	'tly': {
+		'weblinkchecker-archive_msg': u'Веб-сәһифә интернет-архивәдә огәтә быә. Бә архивә рәвојәти дәвардејро ын сәбони око быдәјон: [%(URL)s].',
 		'weblinkchecker-caption': u'Ко ныкардә сәвонон',
 		'weblinkchecker-summary': u'Робот: ко ныкардә бешемонә сәвон пәјдо быә',
+		'weblinkchecker-report': u'Бот пәјдош карде ки пеш омә бешемонә сәвонон ко кардејдәнин. Сәвонон дәвинә ијән сәрост быкәјон јаанки әвони бымолән.',
 	},
 	'uk': {
 		'weblinkchecker-archive_msg': u'Веб-сторінка була збережена у Internet Archive. Будь ласка, подумайте над заміною посилання на відповідну збережену версію: [%(URL)s].',

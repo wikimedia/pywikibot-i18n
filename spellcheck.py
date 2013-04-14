@@ -3,6 +3,10 @@ msg = {
 	'en': {
 		'spellcheck-checking': u'Bot-aided spell checker',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'spellcheck-checking': u'Used as edit summary.',
+	},
 	# Author: Als-Holder
 	'als': {
 		'spellcheck-checking': u'Bot-unterstitzti Rächtschrybkorrektur',

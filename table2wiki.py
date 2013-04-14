@@ -6,10 +6,12 @@ msg = {
 		'table2wiki-warnings': u'User-controlled robot: Table syntax updated - {{PLURAL:count|1 warning|%(count)d warnings}}!',
 	},
 	# Author: Csisc
+	# Author: Shirayuki
 	# Author: Siebrand
 	# Author: Xqt
 	'qqq': {
-		'table2wiki-warnings': u'The message is used as an edit comment. Variables:\n* Variable "%(count)d" is probably a number.\n* You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(count)d|1 entry|%(count)d entries}}</nowiki></code>)\n* You may also use PLURAL tag like (<code><nowiki>{{PLURAL:count|1 entry|%(count)d entries}}</nowiki></code>)',
+		'table2wiki-warnings': u'The message is used as an edit comment. Variables:\n* Variable "%(count)d" is probably a number.\n* You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(count)d|1 entry|%(count)d entries}}</nowiki></code>)\n* You may also use PLURAL tag like (<code><nowiki>{{PLURAL:count|1 entry|%(count)d entries}}</nowiki></code>)\nSee also:\n* {{msg-pywikipedia|Table2wiki-no-warning}}',
+		'table2wiki-no-warning': u'Used as edit summary.\n\nSee also:\n* {{msg-pywikipedia|Table2wiki-warnings}}',
 	},
 	# Author: Csisc
 	'aeb': {

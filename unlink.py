@@ -3,6 +3,10 @@ msg = {
 	'en': {
 		'unlink-unlinking': u'Robot: Unlinking "%s"',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'unlink-unlinking': u'Used as edit summary. Variables:\n* %s - title of the page to unlink',
+	},
 	# Author: Csisc
 	'aeb': {
 		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
@@ -64,8 +68,9 @@ msg = {
 		'unlink-unlinking': u'Bot: Entlinke „%s“',
 	},
 	# Author: Eruedin
+	# Author: Geitost
 	'de-ch': {
-		'unlink-unlinking': u'Bot: Entknüpfe „%s“',
+		'unlink-unlinking': u'Bot: Entknüpfe «%s»',
 	},
 	# Author: Erdemaslancan
 	'diq': {

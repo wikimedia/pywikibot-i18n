@@ -7,6 +7,14 @@ msg = {
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'delete-images': u'Used as edit summary. Parameters:\n* %(page)s - page name',
+		'delete-referring-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name',
+		'delete-from-category': u'Used as edit summary. Parameters:\n* %(page)s - page name',
+		'delete-from-file': u'Used as edit summary.',
+		'delete-linked-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name',
+	},
 	# Author: Csisc
 	'aeb': {
 		'delete-images': u'روبوت -حذف كل الصور في الصفحة %(page)s',

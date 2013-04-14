@@ -6,6 +6,10 @@ msg = {
 		'featured-good': u'Robot: %(page)s is a good article',
 		'featured-list': u'Robot: %(page)s is a featured list',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'featured-former': u'Used as edit summary. Variables:\n* %(page)s - page title',
+	},
 	# Author: Csisc
 	'aeb': {
 		'featured-good': u'بوت: %(page)s هي مقالة جيدة',

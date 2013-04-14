@@ -3,6 +3,10 @@ msg = {
 	'en': {
 		'catall-changing': u'Robot: Changing categories',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'catall-changing': u'Edit summary.',
+	},
 	# Author: Csisc
 	'aeb': {
 		'catall-changing': u'بوت: تغيير التصنيفات',

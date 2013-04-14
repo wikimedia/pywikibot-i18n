@@ -4,6 +4,10 @@ msg = {
 	'en': {
 		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'ndashredir-create': u'Used as edit summary. Parameters:\n* %(title)s - page title',
+	},
 	# Author: Csisc
 	'aeb': {
 		'ndashredir-create': u'Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]',

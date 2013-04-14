@@ -3,6 +3,10 @@ msg = {
 	'en': {
 		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'capitalize_redirects-create-redirect': u'Edit summary. Parameters:\n* %(to)s - page title',
+	},
 	# Author: Csisc
 	'aeb': {
 		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',

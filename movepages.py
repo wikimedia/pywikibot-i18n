@@ -3,6 +3,10 @@ msg = {
 	'en': {
 		'movepages-moving': u'Robot: Moved page',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'movepages-moving': u'Used as edit summary.',
+	},
 	# Author: Csisc
 	'aeb': {
 		'movepages-moving': u'روبوت: نقل الصفحة',

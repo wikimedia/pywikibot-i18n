@@ -3,6 +3,10 @@ msg = {
 	'en': {
 		'basic-changing': u'Robot: Changing ...',
 	},
+	# Author: Shirayuki
+	'qqq': {
+		'basic-changing': u'Edit summary.',
+	},
 	# Author: Csisc
 	'aeb': {
 		'basic-changing': u'بوت: تغيير ...',

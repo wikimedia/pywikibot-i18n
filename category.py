@@ -17,6 +17,7 @@ msg = {
 	# Author: Csisc
 	# Author: Lloffiwr
 	# Author: Purodha
+	# Author: Shirayuki
 	# Author: Siebrand
 	# Author: Valhallasw
 	# Author: Xqt
@@ -25,6 +26,9 @@ msg = {
 		'category-changing': u'Edit summary when the bot moves pages from one category to another. <code>%(oldcat)s</code> is the source category, <code>%(newcat)s</code> the target.',
 		'category-adding': u'{{doc-important|Do not change ":Category:%(newcat)s" so this message will work in any language.}}',
 		'category-also-in': u'Translations to say that the current category is in more categories than the one we are coming from',
+		'category-was-disbanded': u'Used as reason for deletion of the category.',
+		'category-replacing': u'Edit summary. Parameters:\n* %(oldcat)s - old category name\n* %(newcat)s - new category name',
+		'category-removing': u'Edit summary. Parameters:\n* %(oldcat)s - old category name',
 		'category-was-moved': u'{{doc-important|Do not translate "[[:Category:%(newcat)s|%(title)s]]"}}',
 		'category-section-title': u'Section title for keeping page history',
 		'category-listifying': u'Definition of [http://meta.wikimedia.org/wiki/Pywikipediabot/category.py#Syntax listify] - make a list of all of the articles that are in a category.\n\n*Variable "%(fromcat)s" = the category to make a list of in the listify option.\n*Variable "%(num)d" is probably a number.\n*You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(num)d|1 entry|%(num)d entries}}</nowiki></code>)\nDo not translate the variables.',
