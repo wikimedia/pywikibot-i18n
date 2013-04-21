@@ -853,13 +853,14 @@ msg = {
 	},
 	# Author: Anakmalaysia
 	# Author: Makecat
+	# Author: Mys 721tx
 	# Author: Yfdyh000
 	'zh': {
 		'archivebot-older-than': u'早于',
-		'archivebot-page-summary': u'机器人：存档%(count)d个%(why)s的讨论至%(archives)s。',
+		'archivebot-page-summary': u'机器人：将%(count)d个%(why)s的讨论存档至%(archives)s。',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'（存档已满）',
-		'archivebot-archive-summary': u'机器人：存档%(count)d个来自[[%(from)s]]的讨论。',
+		'archivebot-archive-summary': u'机器人：将%(count)d个来自[[%(from)s]]的讨论存档。',
 	},
 	# Author: Justincheng12345
 	# Author: Simon Shek

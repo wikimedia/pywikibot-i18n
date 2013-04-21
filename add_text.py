@@ -630,6 +630,7 @@ msg = {
 	'yue': {
 		'add_text-adding': u'機械人 加 %(adding)s',
 	},
+	# Author: Mys 721tx
 	# Author: Yfdyh000
 	'zh': {
 		'add_text-adding': u'机器人：添加 %(adding)s',

@@ -260,6 +260,7 @@ msg = {
 	# Author: Dferg
 	# Author: Fitoschido
 	# Author: Invadinado
+	# Author: MarcoAurelio
 	'es': {
 		'solve_disambiguation-redirect-removed': u'Desambiguación asistida por robot: %(from)s - Enlace(s) eliminados',
 		'solve_disambiguation-redirect-resolved': u'Desambiguación asistida por robot: %(from)s - Enlace(s) cambiado(s) a %(to)s',

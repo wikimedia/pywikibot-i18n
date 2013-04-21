@@ -320,8 +320,9 @@ msg = {
 		'category-listifying': u'Robot: Llistant de %(fromcat)s (%(num)d entrades)',
 	},
 	# Author: Xqt
+	# Author: Умар
 	'ce': {
-		'category-adding': u'робот: тIетоьхна Кадегар [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'робот: тIетоьхна Категори [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Xqt
 	'ceb': {
@@ -622,7 +623,7 @@ msg = {
 	},
 	# Author: Klenje
 	'fur': {
-		'category-changing': u'Robot: o cambii %(oldcat)s',
+		'category-changing': u'Robot: o cambii %(oldcat)s in %(newcat)s',
 		'category-adding': u'Robot: o zonti category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(ancje in %(alsocat)s)',
 		'category-removing': u'Robot: o gjavi di %(oldcat)s',

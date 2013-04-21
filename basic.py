@@ -344,6 +344,10 @@ msg = {
 	'or': {
 		'basic-changing': u'Robot: ବଦଳଯାଉଛି...',
 	},
+	# Author: Aalam
+	'pa': {
+		'basic-changing': u'Robot: ...ਬਦਲਿਆ ਜਾ ਰਿਹਾ ਹੈ',
+	},
 	# Author: Xqt
 	'pdc': {
 		'basic-changing': u'Waddefresser: ... ennere',

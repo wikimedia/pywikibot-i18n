@@ -245,6 +245,13 @@ msg = {
 		'weblinkchecker-summary': u'Robot zgłasza niedostępny link zewnętrzny',
 		'weblinkchecker-report': u'W ciągu kilku automatycznych kontroli następujący link zewnętrzny był niedostępny. Proszę, sprawdź linki naprawdę "martwe" i w takim przypadku należy skorygować lub usunąć go!',
 	},
+	# Author: Dragonòt
+	'pms': {
+		'weblinkchecker-archive_msg': u'La pàgina dla Ragnà a l\'é stàita salvà da l\'Archivi Internet. Për piasì pensa se coleghé a na vërsion archivià aproprià: [%(URL)s].',
+		'weblinkchecker-caption': u'Colegament mòrt',
+		'weblinkchecker-summary': u'Trigomiro: Arpòrta un colegament estern pa disponìbil',
+		'weblinkchecker-report': u'An mente ëd vir automatisà ëd trigomiro costi colegament estern a son stàit trovà esse pa disponìbij. Për piasì contròla se ël colegament a esist pa e an col cas coregg-lo o gav-lo!',
+	},
 	'pt': {
 		'weblinkchecker-archive_msg': u'Esta página web foi gravada na Internet Archive. Por favor considere o link para a versão arquivada: [%(URL)s].',
 		'weblinkchecker-caption': u'Link quebrado',
@@ -326,12 +333,13 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Báo cáo liên kết bên ngoài không truy cập được',
 		'weblinkchecker-report': u'Bot tự động chạy vài lần mà không truy cập được liên kết bên ngoài sau. Xin vui lòng kiểm tra nó thực sự bị hỏng, và nếu vậy, xin sửa hoặc xóa liên kết.',
 	},
+	# Author: Mys 721tx
 	# Author: Yfdyh000
 	'zh': {
-		'weblinkchecker-archive_msg': u'这个网页已经被保存在互联网档案馆（Internet Archive）。请为该网页提供一个合适的存档版本： [%(URL)s]。',
+		'weblinkchecker-archive_msg': u'这个网页已经被互联网档案馆（Internet Archive）保存。请为该网页提供一个合适的存档版本： [%(URL)s]。',
 		'weblinkchecker-caption': u'失效链接',
 		'weblinkchecker-summary': u'机器人：报告失效的外部链接',
-		'weblinkchecker-report': u'一个自动运行的机器人发现下列外部链接可能已经失效。请帮助检查，修复或移除无效的链接！',
+		'weblinkchecker-report': u'一个自动运行的机器人发现下列外部链接可能已经失效。请帮助检查、修复或移除无效的链接！',
 	},
 	# Author: Simon Shek
 	'zh-hant': {

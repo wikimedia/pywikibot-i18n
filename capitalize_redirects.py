@@ -380,9 +380,10 @@ msg = {
 	'yo': {
 		'capitalize_redirects-create-redirect': u'Bot: Dá àtúnjúwe sí [[%(to)s]]',
 	},
+	# Author: Mys 721tx
 	# Author: Yfdyh000
 	'zh': {
-		'capitalize_redirects-create-redirect': u'机器人：创建重定向至[[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'机器人：创建至[[%(to)s]]的重定向',
 	},
 	# Author: Waihorace
 	'zh-hant': {

@@ -593,14 +593,16 @@ msg = {
 		'interwiki-removing-modifying': u'Bot:Nem %(removing)s wech; Feranre: %(modifying)s',
 		'interwiki-modifying-from': u'Feranre %(from)s tu %(modifying)s',
 	},
+	# Author: Klenje
 	'fur': {
-		'interwiki-modifying': u'Robot: o gjavi: %(modifying)s',
+		'interwiki-modifying': u'Robot: o cambii: %(modifying)s',
 		'interwiki-adding-modifying': u'Robot: o zonti: %(adding)s o gjavi: %(modifying)s',
-		'interwiki-adding-removing': u'Robot: o zonti: %(adding)s o cambii: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: o zonti: %(adding)s o cambii: %(removing)s o gjavi: %(modifying)s',
+		'interwiki-adding-removing': u'Robot: o zonti: %(adding)s o gjavi: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: o zonti: %(adding)s o gjavi: %(removing)s o cambii: %(modifying)s',
 		'interwiki-adding': u'Robot: o zonti: %(adding)s',
-		'interwiki-removing': u'Robot: o cambii: %(removing)s',
-		'interwiki-removing-modifying': u'Robot: o cambii: %(removing)s o gjavi: %(modifying)s',
+		'interwiki-removing': u'Robot: o gjavi: %(removing)s',
+		'interwiki-removing-modifying': u'Robot: o gjavi: %(removing)s o cambii: %(modifying)s',
+		'interwiki-modifying-from': u'Robot: o cambii %(from)s in %(modifying)s',
 	},
 	'fy': {
 		'interwiki-modifying': u'Bot - oars: %(modifying)s',
