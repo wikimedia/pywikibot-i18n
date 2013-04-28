@@ -1673,6 +1673,10 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'THÔNG ĐIỆP BOT',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nThành viên và lúc giờ tính tóm lược: %(sign)s</noinclude>',
 	},
+	# Author: Malafaya
+	'vo': {
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Bespik Nulik',
+	},
 	# Author: Srtxg
 	'wa': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',

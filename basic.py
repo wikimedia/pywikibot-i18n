@@ -482,6 +482,10 @@ msg = {
 	'vi': {
 		'basic-changing': u'Bot: Thay đổi…',
 	},
+	# Author: Malafaya
+	'vo': {
+		'basic-changing': u'bot läükon: ...',
+	},
 	# Author: Srtxg
 	'wa': {
 		'basic-changing': u'Robot: dji candje...',
