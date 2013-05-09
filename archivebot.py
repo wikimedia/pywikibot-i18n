@@ -162,7 +162,11 @@ msg = {
 		'archivebot-archive-summary': u'Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} z [[%(from)s]].',
 	},
 	# Author: Pwyll
+	# Author: Robin Owain
 	'cy': {
+		'archivebot-older-than': u'hŷn na',
+		'archivebot-page-summary': u'Robot: Archifwyd %(count)d {{PLURAL:%(count)d|llinyn sgwrs|llinyn sgwrs}} (%(why)s) i\'r %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHIF YN LLAWN)',
 	},
 	# Author: Christian List

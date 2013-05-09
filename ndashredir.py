@@ -61,6 +61,10 @@ msg = {
 	'cs': {
 		'ndashredir-create': u'Bot: Vytvářím spojovníkové přesměrování k [[%(title)s]]',
 	},
+	# Author: Robin Owain
+	'cy': {
+		'ndashredir-create': u'Bot: Wrthi\'n creu ailgyfeiriadau â heiffen i [[%(title)s]]',
+	},
 	# Author: Christian List
 	'da': {
 		'ndashredir-create': u'Robot: Opretter omdirigering med bindestreg til [[%(title)s]]',

@@ -119,9 +119,12 @@ msg = {
 		'featured-featured': u'робот: суйласа илнӗ статья %(page)s',
 		'featured-former': u'робот: суйласа илнӗ статья пулнӑ %(page)s',
 	},
+	# Author: Robin Owain
 	'cy': {
 		'featured-good': u'Robot: Mae %(page)s yn erthygl dda',
+		'featured-list': u'Robot: Mae %(page)s yn rhestr arbennig',
 		'featured-featured': u'Robot: Mae %(page)s yn erthygl ddethol',
+		'featured-former': u'Robot: Mae %(pages)s yn gyn-erthygl arbennig',
 	},
 	# Author: Christian List
 	# Author: Emaus

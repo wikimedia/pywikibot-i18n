@@ -1875,6 +1875,7 @@ msg = {
 		'category-replacing': u'機械人將分類由[[%(oldcat)s]]替換成[[%(newcat)s]]',
 		'category-removing': u'機械人從[[%(oldcat)s]]中移除',
 		'category-was-moved': u'機械人將分類轉移到[[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'機械人移動自%s。編者為%s',
 		'category-section-title': u'%(oldcat)s的頁面歷史',
 		'category-listifying': u'機械人從%(fromcat)s提取列表(%(num)d個紀錄)',
 	},

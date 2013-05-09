@@ -486,6 +486,7 @@ msg = {
 		'welcome-updating': u'Robô: A atualizando registo',
 	},
 	# Author: Giro720
+	# Author: Luckas
 	# Author: Luckas Blade
 	# Author: 555
 	'pt-br': {

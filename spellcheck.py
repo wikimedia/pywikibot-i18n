@@ -225,4 +225,8 @@ msg = {
 	'zh-hant': {
 		'spellcheck-checking': u'機械人輔助的拼字檢查',
 	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'spellcheck-checking': u'機械人輔助的拼字檢查',
+	},
 };

@@ -67,6 +67,10 @@ msg = {
 	'cs': {
 		'fixing_redirects-fixing': u'Robot opravil přesměrování',
 	},
+	# Author: Robin Owain
+	'cy': {
+		'fixing_redirects-fixing': u'Bot: Wrthi\'n trwsio\'r ailgyfeiriadau',
+	},
 	# Author: Christian List
 	# Author: Sarrus
 	'da': {

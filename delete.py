@@ -129,7 +129,7 @@ msg = {
 	'cy': {
 		'delete-images': u'Robot:Wrthi\'n dileu pob delwedd ar dudalen %(tudalen)nau',
 		'delete-referring-pages': u'Robot:Wrthi\'n dileu pob tudalen sy\'n cyfeirio wrth % (tudalen)nau',
-		'delete-from-category': u'Robot: Wrthi\'n dileu pob tudalen o gategori %(page',
+		'delete-from-category': u'Robot: Wrthi\'n dileu pob tudalen o gategori %(page)',
 		'delete-from-file': u'Robot: Yn dileu rhestr o ffeiliau.',
 		'delete-linked-pages': u'Robot: Yn dileu tudalennau wedi\'u cysylltu o %(page)',
 	},

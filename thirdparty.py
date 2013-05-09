@@ -361,6 +361,10 @@ msg = {
 	'cv': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'робот',
 	},
+	# Author: Robin Owain
+	'cy': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+	},
 	# Author: Christian List
 	# Author: Kaare
 	'da': {

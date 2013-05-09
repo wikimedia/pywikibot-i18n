@@ -72,6 +72,10 @@ msg = {
 	'cs': {
 		'catall-changing': u'Robot: Měním kategorie',
 	},
+	# Author: Robin Owain
+	'cy': {
+		'catall-changing': u'Robot: Newid categoriau',
+	},
 	# Author: Christian List
 	# Author: Kaare
 	'da': {

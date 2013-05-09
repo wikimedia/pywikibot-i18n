@@ -706,7 +706,7 @@ msg = {
 	'pms': {
 		'redirect-fix-double': u'Trigomiro: a coregg ridiression dobia a %(to)s',
 		'redirect-remove-broken': u'Trigomiro: Ridiression a na pàgina scancelà o ch\'a esist nen',
-		'redirect-fix-broken-moved': u'Trigomiro: Coregi le rediression pa bon-e a pagina ëd destinassion tramudò %(to)s',
+		'redirect-fix-broken-moved': u'Trigomiro: Coression ëd le ridiression nne bon-e a na pàgina ëd destinassion tramudà %(to)s',
 		'redirect-fix-loop': u'Trigomiro: Coression dël sicl ëd ridiression a %(to)s',
 		'redirect-remove-loop': u'Trigomiro: La destinassion ëd la ridiression a forma un sicl ëd ridiression',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -724,6 +724,7 @@ msg = {
 	},
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
+	# Author: Luckas
 	# Author: Luckas Blade
 	# Author: Tuliouel
 	# Author: 555
@@ -998,9 +999,9 @@ msg = {
 	# Author: Justincheng12345
 	'zh-hk': {
 		'redirect-fix-double': u'機械人修正雙重定向至%(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G15|G15]]：[[Wikipedia:重定向|重定向]]到不存在的頁面',
+		'redirect-remove-broken': u'[[WP:SD#G15|G15]]：[[Wikipedia:重定向|重定向]]到已刪除或不存在的頁面',
 		'redirect-fix-loop': u'機械人修復重定向迴圈至%(to)s',
-		'redirect-remove-loop': u'[[WP:CSD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
+		'redirect-remove-loop': u'[[WP:SD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	'zh-yue': {

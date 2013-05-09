@@ -245,12 +245,13 @@ msg = {
 		'weblinkchecker-summary': u'Robot zgłasza niedostępny link zewnętrzny',
 		'weblinkchecker-report': u'W ciągu kilku automatycznych kontroli następujący link zewnętrzny był niedostępny. Proszę, sprawdź linki naprawdę "martwe" i w takim przypadku należy skorygować lub usunąć go!',
 	},
+	# Author: Borichèt
 	# Author: Dragonòt
 	'pms': {
-		'weblinkchecker-archive_msg': u'La pàgina dla Ragnà a l\'é stàita salvà da l\'Archivi Internet. Për piasì pensa se coleghé a na vërsion archivià aproprià: [%(URL)s].',
-		'weblinkchecker-caption': u'Colegament mòrt',
-		'weblinkchecker-summary': u'Trigomiro: Arpòrta un colegament estern pa disponìbil',
-		'weblinkchecker-report': u'An mente ëd vir automatisà ëd trigomiro costi colegament estern a son stàit trovà esse pa disponìbij. Për piasì contròla se ël colegament a esist pa e an col cas coregg-lo o gav-lo!',
+		'weblinkchecker-archive_msg': u'La pàgina dla Ragnà a l\'é stàita salvà da l\'Archivi Internet. Për piasì, ch\'a pensa se buté la liura a na version archivià aproprià: [%(URL)s].',
+		'weblinkchecker-caption': u'Liura mòrta',
+		'weblinkchecker-summary': u'Trigomiro: A arpòrta na liura esterna nen disponìbil',
+		'weblinkchecker-report': u'Durant vàire vìsite automatisà d\'un trigomiro le liure esterne sì-dapress a son trovasse esse nen disponìbij. Për piasì, ch\'a contròla se la liura a marcia pròpe nen e ant ës cas-sì ch\'a la coregia o ch\'a la gava!',
 	},
 	'pt': {
 		'weblinkchecker-archive_msg': u'Esta página web foi gravada na Internet Archive. Por favor considere o link para a versão arquivada: [%(URL)s].',

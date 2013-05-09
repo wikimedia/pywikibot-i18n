@@ -74,6 +74,10 @@ msg = {
 	'cs': {
 		'noreferences-add-tag': u'Robot doplnil chybějící <references />',
 	},
+	# Author: Robin Owain
+	'cy': {
+		'noreferences-add-tag': u'Robot: Wrthi\'n ychwanegu tag <references /> coll',
+	},
 	# Author: Christian List
 	# Author: Kaare
 	'da': {

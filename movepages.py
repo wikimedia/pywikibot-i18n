@@ -63,6 +63,10 @@ msg = {
 	'cs': {
 		'movepages-moving': u'Robot přesunul stránku',
 	},
+	# Author: Robin Owain
+	'cy': {
+		'movepages-moving': u'Robot: Symudwyd y dudalen',
+	},
 	# Author: Sarrus
 	'da': {
 		'movepages-moving': u'Robot: Flyttede side',
