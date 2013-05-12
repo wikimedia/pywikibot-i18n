@@ -138,6 +138,10 @@ msg = {
 	'gl': {
 		'noreferences-add-tag': u'Bot: Engado a etiqueta <references />, que faltaba',
 	},
+	# Author: Jetlag
+	'hak': {
+		'noreferences-add-tag': u'機械人：添加缺少个<references/>標記',
+	},
 	'he': {
 		'noreferences-add-tag': u'בוט: מוסיף תגית <references /> חסרה',
 	},

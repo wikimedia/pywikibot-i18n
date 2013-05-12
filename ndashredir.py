@@ -110,6 +110,10 @@ msg = {
 	'gl': {
 		'ndashredir-create': u'Bot: Creo unha redirección con guión cara a "[[%(title)s]]"',
 	},
+	# Author: Jetlag
+	'hak': {
+		'ndashredir-create': u'機械人：創建連字符重定向到[[%(title)s]]',
+	},
 	# Author: ערן
 	'he': {
 		'ndashredir-create': u'בוט: יצירת הפניה עם מיקוף ל[[%(title)s]]',

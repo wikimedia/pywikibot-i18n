@@ -193,6 +193,11 @@ msg = {
 		'cosmetic_changes-standalone': u'bot Cambios estética',
 		'cosmetic_changes-append': u'; cambios estética',
 	},
+	# Author: Jetlag
+	'hak': {
+		'cosmetic_changes-standalone': u'機械人：整潔化',
+		'cosmetic_changes-append': u';整潔化更改',
+	},
 	'he': {
 		'cosmetic_changes-standalone': u'בוט: שינויים קוסמטיים',
 		'cosmetic_changes-append': u'; שינויים קוסמטיים',

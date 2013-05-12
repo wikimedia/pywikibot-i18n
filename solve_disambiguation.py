@@ -353,6 +353,16 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(descoñecido)',
 		'solve_disambiguation-links-removed': u'Páxina de homónimos resolta polo bot: eliminou unha ou varias ligazóns de "%(from)s"',
 	},
+	# Author: Jetlag
+	'hak': {
+		'solve_disambiguation-redirect-removed': u'機械人輔助消除歧義：%(from)s - 刪除鏈接',
+		'solve_disambiguation-redirect-resolved': u'機械人輔助消除歧義：%(from)s - 連接改為%(to)s',
+		'solve_disambiguation-links-resolved': u'機械人輔助消除歧義：%(from)s - 連接改為%(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'機械人輔助消除歧義：%(from)s - 標記為需要專家關注',
+		'solve_disambiguation-adding-dn-template': u'機械人輔助消除歧義：%(from)s  - 標記為需要專家關注',
+		'solve_disambiguation-unknown-page': u'(吂知)',
+		'solve_disambiguation-links-removed': u'機械人輔助消除歧義：%(from)s - 移除鏈接。',
+	},
 	# Author: Amire80
 	'he': {
 		'solve_disambiguation-redirect-removed': u'הסרת קישור לדף פירושונים באמצעות בוט: %(from)s',

@@ -142,6 +142,10 @@ msg = {
 	'gl': {
 		'capitalize_redirects-create-redirect': u'Bot: Creo unha redirección cara a "[[%(to)s]]"',
 	},
+	# Author: Jetlag
+	'hak': {
+		'capitalize_redirects-create-redirect': u'機械人：創建重定向到[[%(to)s]]',
+	},
 	'he': {
 		'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
 	},

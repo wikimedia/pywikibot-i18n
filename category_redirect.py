@@ -340,6 +340,15 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s está en %(oldcat)s, que é unha redirección cara a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Arranxo a redirección dobre cara',
 	},
+	# Author: Jetlag
+	'hak': {
+		'category_redirect-comment': u'分類重定向機械人',
+		'category_redirect-change-category': u'機械人：更改分類重定向由[[:%(oldCatLink)s|%(oldCatTitle)s]]至[[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'機械人：增加分類重定向模板供維護',
+		'category_redirect-edit-request': u'以下被保護頁面已經被檢測到要更新分類連結：%(itemlist)s',
+		'category_redirect-edit-request-item': u'%(title)s係在%(oldcat)s，遐係一隻連結到%(newcat)s个重定向',
+		'category_redirect-fix-double': u'機械人：修復雙重重定向',
+	},
 	# Author: Amire80
 	'he': {
 		'category_redirect-comment': u'בוט תחזוקת הפניות לקטגוריות',

@@ -260,6 +260,14 @@ msg = {
 		'delete-from-file': u'Bot: Borro unha lista de ficheiros.',
 		'delete-linked-pages': u'Bot: Borro todas as páxinas ligadas desde "%(page)s"',
 	},
+	# Author: Jetlag
+	'hak': {
+		'delete-images': u'機械人：刪除%(page)s上个所有圖像',
+		'delete-referring-pages': u'機械人：删除所有從%(page)s指向个頁面',
+		'delete-from-category': u'機械人：刪除所有来自%(page)s分類个頁面',
+		'delete-from-file': u'機械人：刪除列表中个檔案。',
+		'delete-linked-pages': u'機械人：删除所有從%(page)s鏈接个頁面',
+	},
 	'he': {
 		'delete-images': u'בוט: מוחק את כל התמונות בדף %(page)s.',
 		'delete-referring-pages': u'בוט: מוחק את כל הדפים המקשרים לדף %(page)s.',

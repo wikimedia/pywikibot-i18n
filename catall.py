@@ -138,6 +138,10 @@ msg = {
 	'gl': {
 		'catall-changing': u'Bot: Cambio algunhas categorías',
 	},
+	# Author: Jetlag
+	'hak': {
+		'catall-changing': u'機械人：更改分類',
+	},
 	'he': {
 		'catall-changing': u'בוט: משנה קטגוריות',
 	},

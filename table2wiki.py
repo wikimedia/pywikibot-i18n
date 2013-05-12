@@ -148,6 +148,11 @@ msg = {
 		'table2wiki-warnings': u'Bot: Actualizo a sintaxe da táboa; {{PLURAL:count|1 aviso|%(count)d avisos}}!',
 		'table2wiki-no-warning': u'Bot: Actualizo a sintaxe da táboa',
 	},
+	# Author: Jetlag
+	'hak': {
+		'table2wiki-warnings': u'手動控制機械人進行表語法更新-出現%(count)d隻警告！',
+		'table2wiki-no-warning': u'使用者控制个機械人： 表更新个語法',
+	},
 	# Author: Xqt
 	'he': {
 		'table2wiki-warnings': u'בוט בפיקוח משתמש: עדכון תחביר הטבלה - {{PLURAL:count|אזהרה אחת|%(count)d אזהרות}}!',

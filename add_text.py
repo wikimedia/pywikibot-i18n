@@ -212,6 +212,10 @@ msg = {
 	'gv': {
 		'add_text-adding': u'bot currit stiagh ec %(adding)s',
 	},
+	# Author: Jetlag
+	'hak': {
+		'add_text-adding': u'機械人：新增%(adding)s',
+	},
 	'he': {
 		'add_text-adding': u'בוט: מוסיף %(adding)s',
 	},

@@ -664,6 +664,17 @@ msg = {
 		'interwiki-removing': u'bot scryssit magh ec: %(removing)s',
 		'interwiki-removing-modifying': u'bot scryssit magh ec: %(removing)s caghlaait ec: %(modifying)s',
 	},
+	# Author: Jetlag
+	'hak': {
+		'interwiki-modifying': u'機械人：修改%(modifying)s',
+		'interwiki-adding-modifying': u'機械人：增加%(adding)s、修改%(modifying)s',
+		'interwiki-adding-removing': u'機械人：新增%(adding)s、刪除%(removing)s',
+		'interwiki-adding-removing-modifying': u'機械人：添加%(adding)s、刪除%(removing)s、修改%(modifying)s',
+		'interwiki-adding': u'機械人：新增%(adding)s',
+		'interwiki-removing': u'機械人：刪除%(removing)s',
+		'interwiki-removing-modifying': u'機械人：刪除%(removing)s、修改%(modifying)s',
+		'interwiki-modifying-from': u'機械人：更換%(from)s至%(modifying)s',
+	},
 	'he': {
 		'interwiki-modifying': u'בוט משנה: %(modifying)s',
 		'interwiki-adding-modifying': u'בוט מוסיף: %(adding)s משנה: %(modifying)s',

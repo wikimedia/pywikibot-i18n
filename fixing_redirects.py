@@ -133,6 +133,10 @@ msg = {
 	'gl': {
 		'fixing_redirects-fixing': u'Bot: Arranxo a redirección',
 	},
+	# Author: Jetlag
+	'hak': {
+		'fixing_redirects-fixing': u'機械人：修補重定向',
+	},
 	'he': {
 		'fixing_redirects-fixing': u'בוט: מתקן הפניות',
 	},

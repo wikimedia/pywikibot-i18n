@@ -225,6 +225,13 @@ msg = {
 		'featured-featured': u'Bot: "%(page)s" é un artigo destacado',
 		'featured-former': u'Bot: "%(page)s" é un antigo artigo destacado',
 	},
+	# Author: Jetlag
+	'hak': {
+		'featured-good': u'機械人：%(page)s為優良條目',
+		'featured-list': u'機械人：%(page)s為特色列表',
+		'featured-featured': u'機械人：%(page)s為特色條目',
+		'featured-former': u'機械人：%(page)s曾經係一隻特色條目',
+	},
 	# Author: Amire80
 	'he': {
 		'featured-good': u'בוט: הדף %(page)s הוא ערך טוב',

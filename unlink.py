@@ -116,6 +116,10 @@ msg = {
 	'gl': {
 		'unlink-unlinking': u'Bot: Quito a ligazón cara a "%s"',
 	},
+	# Author: Jetlag
+	'hak': {
+		'unlink-unlinking': u'機械人： 斷開連結" %s "',
+	},
 	'he': {
 		'unlink-unlinking': u'בוט: מסיר קישורים לדף "%s"',
 	},

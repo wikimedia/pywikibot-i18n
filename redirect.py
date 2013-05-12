@@ -375,6 +375,15 @@ msg = {
 		'redirect-remove-loop': u'Bot: O destino da redirección crea un bucle',
 		'redirect-broken-redirect-template': u'{{delete}}',
 	},
+	# Author: Jetlag
+	'hak': {
+		'redirect-fix-double': u'機械人：修正雙重定向至%(to)s',
+		'redirect-remove-broken': u'機械人：重定向到已刪除或毋存在个頁面',
+		'redirect-fix-broken-moved': u'機械人：修復損壞个重定向頁到移動目標頁面 %(to)s',
+		'redirect-fix-loop': u'機械人：修復重定向迴圈至%(to)s',
+		'redirect-remove-loop': u'機械人：重定向目標構成循環',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Amire80
 	# Author: YaronSh
 	# Author: ערן
@@ -587,6 +596,7 @@ msg = {
 	'ml': {
 		'redirect-fix-double': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുള്ള ഇരട്ട തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-broken': u'യന്ത്രം: മായ്ച്ച അല്ലെങ്കിൽ നിലവിലില്ലാത്ത താളിലോട്ടുള്ള തിരിച്ചുവിടൽ',
+		'redirect-fix-broken-moved': u'യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
 		'redirect-broken-redirect-template': u'{{db-r1}}',

@@ -142,6 +142,10 @@ msg = {
 	'gl': {
 		'replace-replacing': u'Bot: Substitución automática de texto %(description)s',
 	},
+	# Author: Jetlag
+	'hak': {
+		'replace-replacing': u'機械人：自動替換文字%(description)s',
+	},
 	'he': {
 		'replace-replacing': u'בוט: החלפת טקסט אוטומטית %(description)s',
 	},

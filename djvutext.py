@@ -126,6 +126,10 @@ msg = {
 	'gl': {
 		'djvutext-creating': u'Bot: Creo a páxina co texto extraído do DjVu',
 	},
+	# Author: Jetlag
+	'hak': {
+		'djvutext-creating': u'機械人：為從DjVu中提取頁面創建檔案',
+	},
 	# Author: Ofekalef
 	'he': {
 		'djvutext-creating': u'בוט: יוצר דף עם טקסט שיוצר מ־DjVu',

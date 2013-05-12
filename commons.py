@@ -164,6 +164,11 @@ msg = {
 		'commons-file-moved': u'O [[:File:%(localfile)s|ficheiro]] agora está en [[:commons:File:%(commonsfile)s|Commons]].',
 		'commons-file-now-available': u'O ficheiro agora está dispoñible na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Jetlag
+	'hak': {
+		'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
+		'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有邇隻檔案。',
+	},
 	# Author: Amire80
 	'he': {
 		'commons-file-moved': u'[[:File:%(localfile)s|הקובץ]] הועבר [[:commons:File:%(commonsfile)s|לוויקישיתוף]].',

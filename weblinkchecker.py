@@ -136,6 +136,13 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Sinalo a ligazón externa non dispoñible',
 		'weblinkchecker-report': u'Durante varias execucións automáticas, o bot constatou que a seguinte ligazón externa non está dispoñible. Comprobe se a ligazón está efectivamente caída e corríxaa ou retírea!',
 	},
+	# Author: Jetlag
+	'hak': {
+		'weblinkchecker-archive_msg': u'這個網頁已經畀互聯網檔案館（Internet Archive）保存。請為該網頁挑選一個適合鏈接个存檔版本: [%(URL)s]。',
+		'weblinkchecker-caption': u'失效連結',
+		'weblinkchecker-summary': u'機械人：報告無效个外部連結',
+		'weblinkchecker-report': u'自動運行个機械人發現下列外部連結可能已經無用。請幫助檢查，修復或移除有問題个連結。',
+	},
 	'he': {
 		'weblinkchecker-archive_msg': u'עמוד האינטרנט נשמר על־ידי ארכיון האינטרנט. אנא שקלו לקשר לגרסה המאורכבת המתאימה: [%(URL)s]',
 		'weblinkchecker-caption': u'קישור שבור',
@@ -209,7 +216,9 @@ msg = {
 	# Author: Praveenp
 	# Author: Santhosh.thottingal
 	'ml': {
+		'weblinkchecker-archive_msg': u'വെബ് താൾ ഇന്റർനെറ്റ് ശേഖരം സൂക്ഷിച്ചിരിക്കുന്നു. ദയവായി അനുയോജ്യമായ ശേഖരത്തിന്റെ പതിപ്പിലേയ്ക്ക് കണ്ണി ചേർക്കാൻ താത്പര്യപ്പെടുന്നു: [%(URL)s].',
 		'weblinkchecker-caption': u'പ്രവർത്തിക്കാത്ത കണ്ണി',
+		'weblinkchecker-summary': u'യന്ത്രം: ലഭ്യമല്ലാത്ത ബാഹ്യ കണ്ണി അറിയിക്കുന്നു',
 	},
 	# Author: Anakmalaysia
 	'ms': {

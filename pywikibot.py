@@ -271,6 +271,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Insira o nome da categoría:',
 		'pywikibot-enter-finished-browser': u'Prema na tecla "Intro" cando remate no navegador.',
 	},
+	# Author: Jetlag
+	'hak': {
+		'pywikibot-enter-xml-filename': u'請輸入XML Dump个文件名稱：',
+		'pywikibot-enter-page-processing': u'哪隻頁面需要處理？',
+		'pywikibot-enter-file-links-processing': u'哪隻圖像个連接需要處理？',
+		'pywikibot-enter-namespace-number': u'請輸入名字空間編號：',
+		'pywikibot-enter-new-text': u'請輸入新文字：',
+		'pywikibot-enter-category-name': u'請輸入分類名稱：',
+		'pywikibot-enter-finished-browser': u'搞掂後請撳下Enter鍵。',
+	},
 	# Author: Amire80
 	'he': {
 		'pywikibot-enter-xml-filename': u'נא להזין את שם קובץ ה־XML עם הדאמפ:',

@@ -122,6 +122,10 @@ msg = {
 	'gl': {
 		'movepages-moving': u'Bot: Páxina trasladada',
 	},
+	# Author: Jetlag
+	'hak': {
+		'movepages-moving': u'機械人：移動頁面',
+	},
 	'he': {
 		'movepages-moving': u'בוט: מעביר דף',
 	},

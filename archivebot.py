@@ -299,6 +299,14 @@ msg = {
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
 		'archivebot-archive-summary': u'Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} de [[%(from)s]].',
 	},
+	# Author: Jetlag
+	'hak': {
+		'archivebot-older-than': u'早於',
+		'archivebot-page-summary': u'機械人：%(count)d討論串(%(why)s)存檔至%(archives)s。',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(存檔滿矣)',
+		'archivebot-archive-summary': u'機械人：從%(from)s存檔%(count)d。',
+	},
 	# Author: Amire80
 	# Author: Ofekalef
 	# Author: YaronSh

@@ -169,6 +169,10 @@ msg = {
 	'gl': {
 		'isbn-formatting': u'Bot: Dou formato ISBN',
 	},
+	# Author: Jetlag
+	'hak': {
+		'isbn-formatting': u'機械人：格式化ISBN',
+	},
 	# Author: YaronSh
 	'he': {
 		'isbn-formatting': u'בוט: מעצב מסת״ב',

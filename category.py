@@ -655,6 +655,20 @@ msg = {
 	'gu': {
 		'category-adding': u'!રોબોટ: ઉમેરણ category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Jetlag
+	'hak': {
+		'category-version-history': u'機械人：儲存緊%(oldcat)s个歷史記錄',
+		'category-changing': u'機械人：更換%(oldcat)s至%(newcat)s',
+		'category-adding': u'機械人：添加分類[[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'（共樣也在%(alsocat)s）',
+		'category-was-disbanded': u'機械人：分類已放棄使用',
+		'category-replacing': u'機械人：分類由%(oldcat)s替換成%(newcat)s',
+		'category-removing': u'機械人：從[[%(oldcat)s]]肚移除',
+		'category-was-moved': u'機械人：分類轉移到[[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'機械人：移動自%s。編者：%s',
+		'category-section-title': u'%(oldcat)s个頁面歷史',
+		'category-listifying': u'機械人：從%(fromcat)s提取列表(%(num)d條紀錄)',
+	},
 	# Author: Amire80
 	# Author: ערן
 	'he': {

@@ -134,6 +134,10 @@ msg = {
 	'gl': {
 		'clean_sandbox-cleaned': u'Bot: Limpeza automática',
 	},
+	# Author: Jetlag
+	'hak': {
+		'clean_sandbox-cleaned': u'機械人：自動清除',
+	},
 	'he': {
 		'clean_sandbox-cleaned': u'בוט: דף זה ינוקה אוטומטית.',
 	},
