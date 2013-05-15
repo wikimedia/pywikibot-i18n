@@ -2,7 +2,7 @@
 msg = {
 	'en': {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
-		'pywikibot-enter-file-links-processing': u'Links to which image page should be processed?',
+		'pywikibot-enter-file-links-processing': u'Links to which file page should be processed?',
 		'pywikibot-enter-finished-browser': u'Press Enter when finished in browser.',
 		'pywikibot-enter-namespace-number': u'Please enter a namespace by its number:',
 		'pywikibot-enter-new-text': u'Please enter the new text:',
@@ -14,7 +14,7 @@ msg = {
 	'qqq': {
 		'pywikibot-enter-xml-filename': u'Message displayed to the bot owner to enter the XML dump\'s filename.',
 		'pywikibot-enter-page-processing': u'Question displayed to the bot owner which page should be processed.',
-		'pywikibot-enter-file-links-processing': u'Question displayed to the bot owner processing links to a given image page.',
+		'pywikibot-enter-file-links-processing': u'Question displayed to the bot owner processing links to a given file page.',
 		'pywikibot-enter-namespace-number': u'Message displayed to the bot owner to enter a namespace by its number.',
 		'pywikibot-enter-new-text': u'Message displayed to the bot owner to enter the new text.',
 		'pywikibot-enter-category-name': u'Message displayed to the bot owner to enter the category name.',
