@@ -285,7 +285,7 @@ msg = {
 	'he': {
 		'pywikibot-enter-xml-filename': u'נא להזין את שם קובץ ה־XML עם הדאמפ:',
 		'pywikibot-enter-page-processing': u'איזה דף יש לעבד?',
-		'pywikibot-enter-file-links-processing': u'קישורים לאיזה דף תמונה יש לעבד?',
+		'pywikibot-enter-file-links-processing': u'קישורים לאיזה דף קובץ יש לעבד?',
 		'pywikibot-enter-namespace-number': u'נא להזין את שם מרחב השם לפי המספר שלו:',
 		'pywikibot-enter-new-text': u'נא להזין את הטקסט החדש:',
 		'pywikibot-enter-category-name': u'נא להזין את שם הקטגוריה:',
@@ -293,10 +293,11 @@ msg = {
 	},
 	# Author: Dj
 	# Author: R-Joe
+	# Author: Tacsipacsi
 	'hu': {
 		'pywikibot-enter-xml-filename': u'Add meg az XML dump fájl nevét:',
 		'pywikibot-enter-page-processing': u'Melyik lapot kell feldolgozni?',
-		'pywikibot-enter-file-links-processing': u'Melyik képre mutató hivatkozásokat kell feldolgozni?',
+		'pywikibot-enter-file-links-processing': u'Melyik fájlra mutató hivatkozásokat kell feldolgozni?',
 		'pywikibot-enter-namespace-number': u'Add meg a névteret a számával:',
 		'pywikibot-enter-new-text': u'Add meg az új szöveget:',
 		'pywikibot-enter-category-name': u'Add meg a kategória nevet:',
@@ -335,7 +336,7 @@ msg = {
 	'ja': {
 		'pywikibot-enter-xml-filename': u'XML ダンプのファイル名を入力:',
 		'pywikibot-enter-page-processing': u'どのページを処理しますか?',
-		'pywikibot-enter-file-links-processing': u'どの画像ページヘのリンクを処理しますか?',
+		'pywikibot-enter-file-links-processing': u'どのファイルページヘのリンクを処理しますか?',
 		'pywikibot-enter-namespace-number': u'名前空間の番号を入力:',
 		'pywikibot-enter-new-text': u'新しいテキストを入力:',
 		'pywikibot-enter-category-name': u'カテゴリ名を入力:',
@@ -665,10 +666,11 @@ msg = {
 		'pywikibot-enter-finished-browser': u'请在浏览器作业完成后按下Enter键。',
 	},
 	# Author: Justincheng12345
+	# Author: Simon Shek
 	'zh-hant': {
 		'pywikibot-enter-xml-filename': u'請輸入XML Dump的檔案名稱：',
 		'pywikibot-enter-page-processing': u'甚麼頁面需要處理？',
-		'pywikibot-enter-file-links-processing': u'甚麼圖像的連接需要處理？',
+		'pywikibot-enter-file-links-processing': u'甚麼檔案的連接需要處理？',
 		'pywikibot-enter-namespace-number': u'請輸入名字空間編號：',
 		'pywikibot-enter-new-text': u'請輸入新文字：',
 		'pywikibot-enter-category-name': u'請輸入分類名稱：',

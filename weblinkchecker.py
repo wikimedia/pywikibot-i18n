@@ -89,7 +89,9 @@ msg = {
 	# Author: Gorizon
 	# Author: Mirzali
 	'diq': {
+		'weblinkchecker-archive_msg': u'Pela webi arşiw da interneti de nımneya ya. Hewl wersiyone arşiwi re diqqet bıkeri  [%(URL)s].',
 		'weblinkchecker-caption': u'Gıreyo merde',
+		'weblinkchecker-summary': u'Bot: Teber gre de rapera xeberkerdış',
 	},
 	# Author: Airon90
 	'eo': {
@@ -249,7 +251,7 @@ msg = {
 	# Author: Rezonansowy
 	# Author: Ty221
 	'pl': {
-		'weblinkchecker-archive_msg': u'%(URL)s',
+		'weblinkchecker-archive_msg': u'Ta strona została zapisana przez Archiwum Internetowe. Proszę sprawdzić czy jakieś strony nie linkują do tej zarchiwizowanej wersji : %(URL)s',
 		'weblinkchecker-caption': u'Niedziałający link',
 		'weblinkchecker-summary': u'Robot zgłasza niedostępny link zewnętrzny',
 		'weblinkchecker-report': u'W ciągu kilku automatycznych kontroli następujący link zewnętrzny był niedostępny. Proszę, sprawdź linki naprawdę "martwe" i w takim przypadku należy skorygować lub usunąć go!',
