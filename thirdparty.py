@@ -665,6 +665,7 @@ msg = {
 	'gu': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'રોબોટ',
 	},
+	# Author: Anson2812
 	# Author: Jetlag
 	'hak': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'機械人',
@@ -677,7 +678,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'通知',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'替換%(tags)s標記',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'討論已關閉',
-		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s：%(page)s所有討論完結（停止監察）-最後由%(user)s於%(time)s編輯',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s：%(page)s所有討論完結（停止監察）-最後由%(user)s於%(time)s編寫',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'添加討論摘要：%(num)i項',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'討論已更改',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'添加並修改討論摘要：%(num)i項',

@@ -572,6 +572,7 @@ msg = {
 	'mg': {
 		'redirect-fix-double': u'Rôbô : mamaha olam-pihodinana mankany amin\'i %(to)s',
 		'redirect-remove-broken': u'Rôbô : fihodinana mankany amina pejy tsy misy na erfa voafafa.',
+		'redirect-fix-broken-moved': u'Rôbô : Fanitsiana fihodinana diso mankany amin\'ny pejy tanjona %(to)s nafindra',
 		'redirect-fix-loop': u'Rôbô: nanamboatra ny fihodinana manao tondro mifolaka amin\'i %(to)s',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Ny tanjon\'ny fihodinana dia manao fihodinana mifolaka',
 		'redirect-broken-redirect-template': u'{{fafao}}',

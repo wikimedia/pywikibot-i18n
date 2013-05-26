@@ -278,6 +278,8 @@ msg = {
 	# Author: Jagwar
 	'mg': {
 		'template-removing': u'Rôbô: Manala ny endrika{{PLURAL:%(num)d}}: %(list)s',
+		'template-changing': u'Rôbô : Manala ny endrika %(num)d : %(list)s',
+		'template-substituting': u'Rôbô: Manolo endrika %(num)d : %(list)s',
 	},
 	# Author: Bjankuloski06
 	# Author: Rancher

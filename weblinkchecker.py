@@ -138,10 +138,11 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Sinalo a ligazón externa non dispoñible',
 		'weblinkchecker-report': u'Durante varias execucións automáticas, o bot constatou que a seguinte ligazón externa non está dispoñible. Comprobe se a ligazón está efectivamente caída e corríxaa ou retírea!',
 	},
+	# Author: Anson2812
 	# Author: Jetlag
 	'hak': {
 		'weblinkchecker-archive_msg': u'這個網頁已經畀互聯網檔案館（Internet Archive）保存。請為該網頁挑選一個適合鏈接个存檔版本: [%(URL)s]。',
-		'weblinkchecker-caption': u'失效連結',
+		'weblinkchecker-caption': u'失效鏈接',
 		'weblinkchecker-summary': u'機械人：報告無效个外部連結',
 		'weblinkchecker-report': u'自動運行个機械人發現下列外部連結可能已經無用。請幫助檢查，修復或移除有問題个連結。',
 	},

@@ -461,7 +461,7 @@ msg = {
 	},
 	# Author: Raj Singh
 	'pa': {
-		'welcome-welcome': u'ਸੁਆਗਤ!',
+		'welcome-welcome': u'ਤੁਹਾਡਾ ਸਵਾਗਤ!',
 	},
 	'pdc': {
 		'welcome-welcome': u'Wilkum!',
