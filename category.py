@@ -255,11 +255,12 @@ msg = {
 		'category-was-moved': u'Bot: Tumbung dipindahakan ka [[:Category:%(newcat)s|%(title)s]]',
 		'category-listifying': u'Bot: Maulah daptar matan %(fromcat)s (%(num)d entri)',
 	},
+	# Author: Aftab1995
 	# Author: Bellayet
 	# Author: Wikitanvir
 	'bn': {
-		'category-changing': u'বট: পরিবর্তন করছে %(oldcat)s',
-		'category-adding': u'বট: যোগ করছে category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-changing': u'বট: %(oldcat)s পরিবর্তন করছে %(newcat)s এ',
+		'category-adding': u'রোবট: বিষয়শ্রেণী [[:Category:%(newcat)s|%(newcat)s]] যোগ করছে',
 		'category-also-in': u'(%(alsocat)s বিষয়শ্রেণীতেও আছে)',
 		'category-replacing': u'বট: %(oldcat)s কে %(newcat)s দ্বারা প্রতিস্থাপন করছে',
 		'category-removing': u'বট: %(oldcat)s থেকে বিষয়শ্রেণী অপসারণ',
@@ -564,6 +565,7 @@ msg = {
 	},
 	# Author: EileenSanda
 	'fo': {
+		'category-version-history': u'Bottur: Goymir versjónssøgu fyri fyrrverandi %(oldcat)s',
 		'category-changing': u'Bottur: Broytir %(oldcat)s til %(newcat)s',
 		'category-adding': u'Bottur: Leggur afturat bólkin [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(eisini í %(alsocat)s)',
@@ -571,6 +573,8 @@ msg = {
 		'category-replacing': u'Bottur: Skiftir út bólk %(oldcat)s við %(newcat)s',
 		'category-removing': u'Bottur: Tekur burtur frá %(oldcat)s',
 		'category-was-moved': u'Bottur: Bólkur varð fluttur til [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bottur: Flutti frá %s. Høvundar: %s',
+		'category-section-title': u'Síðusøgan hjá fyrrverandi %(oldcat)s',
 		'category-listifying': u'Bottur: Umskapar frá %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
 	},
 	# Author: Boniface
@@ -1294,9 +1298,12 @@ msg = {
 	'nrm': {
 		'category-adding': u'robot: ajouôte category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Cedric31
 	# Author: Xqt
 	'oc': {
 		'category-adding': u'Robòt: Apondre category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(tanben dins %(alsocat)s)',
+		'category-was-disbanded': u'Robot : La categoria es estada suprimida',
 	},
 	# Author: Val2397
 	'pam': {

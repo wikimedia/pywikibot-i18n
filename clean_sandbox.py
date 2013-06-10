@@ -49,6 +49,10 @@ msg = {
 	'bjn': {
 		'clean_sandbox-cleaned': u'Bot: Tata ulang',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'clean_sandbox-cleaned': u'রোবট: স্বয়ংক্রিয়ভাবে পরিষ্কার করেছে',
+	},
 	# Author: Fulup
 	'br': {
 		'clean_sandbox-cleaned': u'Robot : Kempennet ent emgefre',
@@ -193,6 +197,10 @@ msg = {
 	# Author: Pahles
 	'li': {
 		'clean_sandbox-cleaned': u'Robot: outomatisch veurzeen van nuuj zandj.',
+	},
+	# Author: Mantak111
+	'lt': {
+		'clean_sandbox-cleaned': u'Robotas: Automatiškai sutvarkytas',
 	},
 	# Author: StefanusRA
 	'map-bms': {

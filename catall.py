@@ -51,6 +51,10 @@ msg = {
 	'bg': {
 		'catall-changing': u'Робот: Промяна на категории',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'catall-changing': u'রোবট: বিষয়শ্রেণী পরিবর্তন করেছে',
+	},
 	# Author: Fulup
 	'br': {
 		'catall-changing': u'Robot: O cheñch rummadoù',

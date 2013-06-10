@@ -155,10 +155,11 @@ msg = {
 		'pywikibot-enter-category-name': u'Skriv kategorinavnet:',
 		'pywikibot-enter-finished-browser': u'Tryk Enter når browserredigeringerne er færdige.',
 	},
+	# Author: Se4598
 	'de': {
 		'pywikibot-enter-xml-filename': u'Bitte gib den Datenamen des XML-Dumps ein:',
 		'pywikibot-enter-page-processing': u'Welche Seite soll bearbeitet werden?',
-		'pywikibot-enter-file-links-processing': u'Links welcher Dateiseite sollen bearbeitet werden?',
+		'pywikibot-enter-file-links-processing': u'Links zu welcher Dateiseite sollen bearbeitet werden?',
 		'pywikibot-enter-namespace-number': u'Bitte gib die Nummer des Namensraums ein:',
 		'pywikibot-enter-new-text': u'Bitte gib den neuen Text ein:',
 		'pywikibot-enter-category-name': u'Bitte Name der Kategorie eingeben:',
@@ -220,12 +221,13 @@ msg = {
 		'pywikibot-enter-new-text': u'Palun sisesta uus tekst:',
 	},
 	# Author: Huji
+	# Author: Ladsgroup
 	# Author: Reza1615
 	# Author: ZxxZxxZ
 	'fa': {
 		'pywikibot-enter-xml-filename': u'لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:',
 		'pywikibot-enter-page-processing': u'کدام صفحه باید پردازش شود؟',
-		'pywikibot-enter-file-links-processing': u'پیوند به کدام صفحهٔ تصویر باید پردازش شود؟',
+		'pywikibot-enter-file-links-processing': u'پیوند به کدام پرونده باید پردازش شود؟',
 		'pywikibot-enter-namespace-number': u'لطفاً شمارهٔ یک فضای نام را وارد کنید:',
 		'pywikibot-enter-new-text': u'لطفاً متن جدید را وارد کنید:',
 		'pywikibot-enter-category-name': u'لطفاً نام رده را وارد کنید:',
@@ -240,6 +242,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Kirjoita uusi teksti',
 		'pywikibot-enter-category-name': u'Kirjoita luokan nimi',
 		'pywikibot-enter-finished-browser': u'Paina enter, kun olet valmis selaimessa.',
+	},
+	# Author: EileenSanda
+	'fo': {
+		'pywikibot-enter-xml-filename': u'Vinarliga skriva XML fílunavnið hjá dump\'inum:',
+		'pywikibot-enter-page-processing': u'Hvør síða skal viðgerast?',
+		'pywikibot-enter-file-links-processing': u'Slóðir til hvørja fílusíðu skulu viðgerast?',
+		'pywikibot-enter-namespace-number': u'Vinarliga skriva eitt navnarúm við tilhoyrandi nummari:',
+		'pywikibot-enter-new-text': u'Vinarliga skriva nýggja tekstin:',
+		'pywikibot-enter-category-name': u'Vinarliga skriva bólkanavnið:',
+		'pywikibot-enter-finished-browser': u'Trýst á Enter tá tú ert liðug/ur at rætta í brovsaranum.',
 	},
 	# Author: Gomoko
 	'fr': {
@@ -326,7 +338,7 @@ msg = {
 	'it': {
 		'pywikibot-enter-xml-filename': u'Inserisci il nome del file XML del dump:',
 		'pywikibot-enter-page-processing': u'Quale pagina deve essere elaborata?',
-		'pywikibot-enter-file-links-processing': u'Immagine per cui devono essere elaborate le pagine che vi puntano',
+		'pywikibot-enter-file-links-processing': u'File per cui devono essere elaborate le pagine che vi puntano',
 		'pywikibot-enter-namespace-number': u'Inserisci il numero di un namespace:',
 		'pywikibot-enter-new-text': u'Inserisci il nuovo testo:',
 		'pywikibot-enter-category-name': u'Inserisci il nome della categoria:',
@@ -383,7 +395,9 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Dréckt \'Enter\' wann Dir fäerdeg sidd.',
 	},
 	# Author: Hugo.arg
+	# Author: Mantak111
 	'lt': {
+		'pywikibot-enter-page-processing': u'Kuris puslapis turėtų būti tvarkomas?',
 		'pywikibot-enter-namespace-number': u'Įvestkite vardų srities numerį:',
 		'pywikibot-enter-new-text': u'Įveskite naują tekstą:',
 		'pywikibot-enter-category-name': u'Įveskite kategorijos pavadinimą:',
@@ -464,7 +478,7 @@ msg = {
 	'nl': {
 		'pywikibot-enter-xml-filename': u'Geef de bestandnaam van een XML-dump op:',
 		'pywikibot-enter-page-processing': u'Welke pagina moet verwerkt worden?',
-		'pywikibot-enter-file-links-processing': u'Naar welke bestandspagina moeten er koppelingen verwerkt worden?',
+		'pywikibot-enter-file-links-processing': u'Koppelingen maar welke bestandspagina moeten verwerkt worden?',
 		'pywikibot-enter-namespace-number': u'Geef een naamruimtenummer op:',
 		'pywikibot-enter-new-text': u'Geef de nieuwe tekst op:',
 		'pywikibot-enter-category-name': u'Geef de categorienaam op:',

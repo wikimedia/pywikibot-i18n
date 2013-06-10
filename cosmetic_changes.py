@@ -167,6 +167,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Botti teki kosmeettisia muutoksia',
 		'cosmetic_changes-append': u'; kosmeettisia muutoksia',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'cosmetic_changes-standalone': u'Bottur: Kosmetiskar broytingar',
+		'cosmetic_changes-append': u'; broytingar av útsjónd',
+	},
 	# Author: Boniface
 	'fr': {
 		'cosmetic_changes-standalone': u'Robot : Modifications de type cosmétique',
@@ -177,9 +182,10 @@ msg = {
 		'cosmetic_changes-standalone': u'Robot : changement de tipo cosmètico',
 		'cosmetic_changes-append': u'; changement de tipo cosmètico',
 	},
+	# Author: Murma174
 	'frr': {
-		'cosmetic_changes-standalone': u'Bot: Kosmeetisk feranerangen',
-		'cosmetic_changes-append': u'; kosmeetisk feranerangen',
+		'cosmetic_changes-standalone': u'Bot: Kosmeetisk feranrangen',
+		'cosmetic_changes-append': u'; kosmeetisk feranrangen',
 	},
 	'fy': {
 		'cosmetic_changes-standalone': u'bot tekstwiziging',
@@ -366,6 +372,10 @@ msg = {
 	'no': {
 		'cosmetic_changes-standalone': u'Bot: Kosmetiske endringer',
 		'cosmetic_changes-append': u'; kosmetiske endringer',
+	},
+	# Author: Cedric31
+	'oc': {
+		'cosmetic_changes-append': u'; cambiaments de tipe cosmetic',
 	},
 	# Author: Shisir 1945
 	'or': {

@@ -94,6 +94,10 @@ msg = {
 	'fa': {
 		'ndashredir-create': u'ربات: ایجاد تغییرمسیر خط‌تیره‌دار به [[%(title)s]]',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'ndashredir-create': u'Bottur: Upprættar umstýring við bindistriku til [[%(title)s]]',
+	},
 	# Author: Gomoko
 	'fr': {
 		'ndashredir-create': u'Robot: Création de redirections à trait d\'union vers [[%(title)s]]',
@@ -207,9 +211,10 @@ msg = {
 	'pms': {
 		'ndashredir-create': u'Trigomiro: Creassion ëd ridiression con tratin vers [[%(title)s]]',
 	},
+	# Author: Luckas
 	# Author: Malafaya
 	'pt': {
-		'ndashredir-create': u'Robô: A criar um redireccionamento hifenizado para [[%(title)s]]',
+		'ndashredir-create': u'Robô: A criar um redirecionamento hifenizado para [[%(title)s]]',
 	},
 	# Author: 555
 	'pt-br': {

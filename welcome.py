@@ -89,8 +89,10 @@ msg = {
 		'welcome-welcome': u'Salamat datang',
 		'welcome-bad_username': u'Bot: Manambahakan ngaran pamakai nang parlu dipariksa',
 	},
+	# Author: Aftab1995
 	'bn': {
-		'welcome-welcome': u'Welcome!',
+		'welcome-welcome': u'স্বাগতম!',
+		'welcome-updating': u'রোবট: লগ হালনাগাদ করেছে',
 	},
 	# Author: Freeyak
 	'bo': {
@@ -367,8 +369,11 @@ msg = {
 		'welcome-welcome': u'Mbɔ́tɛ',
 	},
 	# Author: Eitvys200
+	# Author: Mantak111
 	'lt': {
 		'welcome-welcome': u'Sveiki atvykę!',
+		'welcome-bad_username': u'Robotas: Pridedamas naudotojo vardas, kuris turi būti tikrinamas',
+		'welcome-updating': u'Robotas: Atnaujinamas žurnalas',
 	},
 	# Author: RMizo
 	'lus': {
@@ -452,16 +457,19 @@ msg = {
 		'welcome-updating': u'Bot: Oppdaterer logg',
 	},
 	# Author: Boulaur
+	# Author: Cedric31
 	'oc': {
 		'welcome-welcome': u'Benvenguda!',
+		'welcome-updating': u'Bot : Mesa a jorn del jornal',
 	},
 	# Author: Shisir 1945
 	'or': {
 		'welcome-welcome': u'ସ୍ଵାଗତ!',
 	},
+	# Author: Babanwalia
 	# Author: Raj Singh
 	'pa': {
-		'welcome-welcome': u'ਤੁਹਾਡਾ ਸਵਾਗਤ!',
+		'welcome-welcome': u'ਜੀ ਆਇਆਂ ਨੂੰ!',
 	},
 	'pdc': {
 		'welcome-welcome': u'Wilkum!',

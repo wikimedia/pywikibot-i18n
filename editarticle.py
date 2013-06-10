@@ -47,6 +47,10 @@ msg = {
 	'bjn': {
 		'editarticle-edit': u'Babakan manual lawan bot: %(description)s',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'editarticle-edit': u'রোবোট সহ ম্যানুয়াল সম্পাদনা: %(description)s',
+	},
 	# Author: Fulup
 	'br': {
 		'editarticle-edit': u'Kemmm dornel a-drugarez d\'ur bot : %(description)s',
@@ -187,6 +191,10 @@ msg = {
 	# Author: Ooswesthoesbes
 	'li': {
 		'editarticle-edit': u'Handjmaotige botbewirking: %(description)s',
+	},
+	# Author: Mantak111
+	'lt': {
+		'editarticle-edit': u'Rankiniu būdu redagavimas su robotas: %(description)s',
 	},
 	# Author: StefanusRA
 	'map-bms': {

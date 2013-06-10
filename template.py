@@ -65,6 +65,10 @@ msg = {
 		'template-changing': u'Робат: зьмяніў{{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
 		'template-substituting': u'Робат: падставіў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'template-removing': u'রোবট: {{PLURAL:%(num)d|টেমপ্লেট|টেমপ্লেটসমূহ}} অপসারণ করছে: %(list)s',
+	},
 	# Author: Fulup
 	'br': {
 		'template-removing': u'Robot : O tiverkañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s',
@@ -265,9 +269,11 @@ msg = {
 		'template-changing': u'Bot: Ännert {{PLURAL:%(num)d|Schabloun|Schablounen}}: %(list)s',
 		'template-substituting': u'Bot: Ersetzt d\'{{PLURAL:%(num)d|Schabloun|Schablounen}}: %(list)s',
 	},
+	# Author: Mantak111
 	'lt': {
 		'template-removing': u'robotas: {{PLURAL:%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s',
 		'template-changing': u'robotas: {{PLURAL:%(num)d|Keičiamas šablonas|Keičiami šablonai}}: %(list)s',
+		'template-substituting': u'robotas: {{PLURAL:%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s',
 	},
 	# Author: StefanusRA
 	'map-bms': {

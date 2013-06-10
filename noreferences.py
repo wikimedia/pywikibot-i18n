@@ -55,6 +55,10 @@ msg = {
 	'bjn': {
 		'noreferences-add-tag': u'Bot: Manambahakan tag <references /> tag',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'noreferences-add-tag': u'রোবট: অনুপস্থিত <references /> ট্যাগ যোগ করেছে',
+	},
 	# Author: Y-M D
 	'br': {
 		'noreferences-add-tag': u'Robot: Ouzhpennañ ar balizenn <references /> hag a vank',

@@ -186,6 +186,10 @@ msg = {
 	'li': {
 		'djvutext-creating': u'Bot: maak pagina aan mit tèks oet DjVu',
 	},
+	# Author: Mantak111
+	'lt': {
+		'djvutext-creating': u'Robotas: Sukurtas puslapis su tekstu iš DjVu',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'djvutext-creating': u'Bot: Nggawe kaca nganggo teks sing diekstrak sekang DjVu',

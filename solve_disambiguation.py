@@ -719,6 +719,10 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(ukjent)',
 		'solve_disambiguation-links-removed': u'bot: Retter lenke til peker: %(from)s - Fjernet lenke(r)',
 	},
+	# Author: Cedric31
+	'oc': {
+		'solve_disambiguation-unknown-page': u'(desconegut)',
+	},
 	# Author: Bouron
 	'os': {
 		'solve_disambiguation-unknown-page': u'(нæзонгæ)',

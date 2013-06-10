@@ -293,6 +293,7 @@ msg = {
 	# Author: EileenSanda
 	'fo': {
 		'category_redirect-comment': u'Bottur til at viðlíkahalda bólka flytingar',
+		'category_redirect-fix-double': u'Bottur: Orðnar dupulta-umstýring',
 	},
 	# Author: Boniface
 	# Author: Crochet.david
@@ -645,13 +646,14 @@ msg = {
 		'category_redirect-fix-double': u'Trigomiro: a rangia le ridiression dobie',
 	},
 	# Author: Hamilton Abreu
+	# Author: Luckas
 	'pt': {
 		'category_redirect-comment': u'Robô de manutenção de redireccionamentos de categorias',
 		'category_redirect-change-category': u'Robô: Alteração da categoria redireccionada [[:%(oldCatLink)s|%(oldCatTitle)s]] para [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Robô: Adição da predefinição de redireccionamento da categoria',
+		'category_redirect-add-template': u'Robô: Adição da predefinição de redirecionamento da categoria',
 		'category_redirect-edit-request': u'As seguintes páginas protegidas necessitam de actualização dos links de categorias: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s está em %(oldcat)s, que é um redireccionamento para %(newcat)s',
-		'category_redirect-fix-double': u'Robô: Correcção de redireccionamento duplo',
+		'category_redirect-edit-request-item': u'* %(title)s está em %(oldcat)s, que é um redirecionamento para %(newcat)s',
+		'category_redirect-fix-double': u'Robô: Correção de redirecionamento duplo',
 	},
 	# Author: Giro720
 	# Author: 555

@@ -101,6 +101,10 @@ msg = {
 	'fi': {
 		'unlink-unlinking': u'Botti poisti linkin sivulle "%s"',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'unlink-unlinking': u'Bottur: Tekur burtur slóð til "%s"',
+	},
 	'fr': {
 		'unlink-unlinking': u'Robot: Retire le lien "%s"',
 	},
@@ -213,6 +217,10 @@ msg = {
 	},
 	'no': {
 		'unlink-unlinking': u'robot: fjerner lenke til "%s"',
+	},
+	# Author: Cedric31
+	'oc': {
+		'unlink-unlinking': u'Robot: Leva lo ligam "%s"',
 	},
 	'pl': {
 		'unlink-unlinking': u'Robot odlinkowuje "%s"',

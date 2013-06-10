@@ -47,6 +47,10 @@ msg = {
 	'be-x-old': {
 		'fixing_redirects-fixing': u'Робат: Выпраўленьне перанакіраваньняў',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'fixing_redirects-fixing': u'বট: পুনর্নির্দেশনা ঠিক করছে',
+	},
 	# Author: Fulup
 	'br': {
 		'fixing_redirects-fixing': u'Robot: O reizhañ an adkasoù',

@@ -133,6 +133,10 @@ msg = {
 	'lb': {
 		'spellcheck-checking': u'Bot-ënnerstëtzte Spellchecker',
 	},
+	# Author: Mantak111
+	'lt': {
+		'spellcheck-checking': u'Boto automatinis rašybos tikrintuvas',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'spellcheck-checking': u'Bot-nulungi mriksa ejaan',

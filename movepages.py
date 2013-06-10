@@ -43,6 +43,10 @@ msg = {
 	'be-x-old': {
 		'movepages-moving': u'робат перанёс старонку',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'movepages-moving': u'রোবট: পাতা স্থানান্তরিত করেছে',
+	},
 	# Author: Fulup
 	'br': {
 		'movepages-moving': u'Robot: Pajenn adanvet',

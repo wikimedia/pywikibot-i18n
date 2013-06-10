@@ -263,6 +263,18 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusi diganti',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT PASAN',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'রোবট',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - %(user)s কর্তৃক [%(history_link)s সর্বশেষ সম্পাদনা] (%(page_size)s বাইট) (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* রোবট সতর্কতামূলক বার্তা: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'নতুন আলোচনা',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - [[User:%(user)s]] কর্তৃক সর্বশেষ সম্পাদনা (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'বিজ্ঞপ্তি',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'আলোচনা বন্ধ করেছে',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'আলোচনা পরিবর্তন করেছে',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'রোবট বার্তা',
+	},
 	# Author: DrTrigon
 	# Author: Fulup
 	# Author: Y-M D
@@ -573,6 +585,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Kjak er stongt',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Kjakið er broytt',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOÐ FRÁ BOTTI',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSamandráttur sum er gjørdur frá og á: %(sign)s</noinclude>',
 	},
 	# Author: Boniface
 	# Author: DrTrigon
@@ -625,14 +638,14 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Bot:',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nään bewerker fünjen)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
-		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s leetst feranerang] (%(page_size)s bytes) faan %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s leetst feranrang] (%(page_size)s bytes) faan %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bot waarskauet: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nei diskusjuun',
-		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - leetst feranerang faan [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - leetst feranrang faan [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Nooracht',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'bütje %(tags)s tag(s) ütj',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusjuun ufslööden',
-		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s aal jo diskusjuunen san ufslööden (woort ei muar beaachtet) - leetst feranerang faan %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s aal jo diskusjuunen san ufslööden (woort ei muar beaachtet) - leetst feranrang faan %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskusjuun tuupfaadet: %(num)i bidracher',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusjuun feranert',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskusjuun tuupfaadet an apredet: %(num)i bidracher',
@@ -1000,10 +1013,17 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Веревирд авун дегиш хьана',
 	},
 	# Author: Eitvys200
+	# Author: Mantak111
 	'lt': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robotas',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(redaguojančio žmogaus nerasta)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Roboto įspėjamoji žinutė: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Naujas aptarimas',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Pranešimas',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'keičiama(-os) %(tags)s žymė(-ės)',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusija uždaryta',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Aptarimas pakeistas',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTO PRANEŠIMAS',
 	},
 	# Author: RMizo
@@ -1214,8 +1234,15 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSammendrag generert fra og på: %(sign)s</noinclude>',
 	},
 	# Author: Boulaur
+	# Author: Cedric31
 	'oc': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robòt',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Novèla discussion',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notificacion',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'substitucion de la(s) balisa(s) %(tags)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion tampada',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESSATGE DEL ROBÒT',
 	},
 	# Author: Shisir 1945
 	'or': {

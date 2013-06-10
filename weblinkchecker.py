@@ -38,6 +38,10 @@ msg = {
 		'weblinkchecker-caption': u'Нядзейная спасылка',
 		'weblinkchecker-summary': u'Робат: Знойдзеная няслушная вонкавая спасылка',
 	},
+	# Author: Aftab1995
+	'bn': {
+		'weblinkchecker-caption': u'অকার্যকর সংযোগ',
+	},
 	# Author: Fulup
 	'br': {
 		'weblinkchecker-archive_msg': u'Saveteet eo bet ar bajenn Web gant Internet Archive. Marteze a-walc\'h e c\'hallfec\'h lakaat al liamm da vukañ war-zu unan eus ar stummoù diellaouet : [%(URL)s].',
@@ -115,6 +119,11 @@ msg = {
 		'weblinkchecker-caption': u'پیوند مرده',
 		'weblinkchecker-summary': u'ربات:گزارش پیوند غیرقابل دسترسی',
 		'weblinkchecker-report': u'بر طبق بررسی‌های رباتیکی من چندین پیوند غیرقابل دسترس پیدا شد. لطفا آنها بررسی و در صورت لزوم درستش کنید.تشکر!',
+	},
+	# Author: EileenSanda
+	'fo': {
+		'weblinkchecker-caption': u'Deyð slóð',
+		'weblinkchecker-summary': u'Bottur: Rapporterar um óatkomuliga slóð úteftir',
 	},
 	# Author: Boniface
 	'fr': {
@@ -202,6 +211,11 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Informatioun iwwer en externe Link deen net disponibel ass',
 		'weblinkchecker-report': u'Bäi verschiddenen automateschen Tester vum Bot war dësen externe Link net disponibel. Kuckt w.e.g. no ob de Link wierklech net méi disponibel ass an an deem Fall fléckt de Link oder huelt en ewech!',
 	},
+	# Author: Mantak111
+	'lt': {
+		'weblinkchecker-caption': u'Neveikianti nuoroda',
+		'weblinkchecker-summary': u'Robotas: Nuorodą pranešti nepasiekiama',
+	},
 	# Author: Jagwar
 	'mg': {
 		'weblinkchecker-archive_msg': u'Notahirizina tao amin\'ny Internet Archive ilay pejy. Mety ilaina ny mampanondro ny rohy mankany amin\'ilay santiôna voatahiry : [%(URL)s]',
@@ -248,6 +262,10 @@ msg = {
 		'weblinkchecker-caption': u'Død lenke',
 		'weblinkchecker-summary': u'bot: Rapporter død eksternlenke',
 		'weblinkchecker-report': u'I løpet av flere automatiske botkjøringer ble følgende lenke funnet å være utilgjengelig. Sjekk om lenken faktisk er død, og fiks eller fjern den om det er tilfelle.',
+	},
+	# Author: Cedric31
+	'oc': {
+		'weblinkchecker-caption': u'Ligam mòrt',
 	},
 	# Author: Rezonansowy
 	# Author: Ty221
