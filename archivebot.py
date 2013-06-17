@@ -239,6 +239,10 @@ msg = {
 	'et': {
 		'archivebot-older-than': u'vanem kui',
 	},
+	# Author: Theklan
+	'eu': {
+		'archivebot-older-than': u'hau baino zaharragoak:',
+	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
 	'fa': {

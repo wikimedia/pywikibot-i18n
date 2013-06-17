@@ -49,7 +49,7 @@ msg = {
 	},
 	# Author: Aftab1995
 	'bn': {
-		'editarticle-edit': u'রোবোট সহ ম্যানুয়াল সম্পাদনা: %(description)s',
+		'editarticle-edit': u'রোবটের সাথে ম্যানুয়াল সম্পাদনা: %(description)s',
 	},
 	# Author: Fulup
 	'br': {

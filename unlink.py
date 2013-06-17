@@ -59,6 +59,10 @@ msg = {
 	'cs': {
 		'unlink-unlinking': u'Robot: Odlinkovávám "%s"',
 	},
+	# Author: Lloffiwr
+	'cy': {
+		'unlink-unlinking': u'Robot: Yn datgysylltu "%s"',
+	},
 	# Author: Peter Alberti
 	'da': {
 		'unlink-unlinking': u'Robot: fjerner henvisning til "%s"',

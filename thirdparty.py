@@ -373,9 +373,16 @@ msg = {
 	'cv': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'робот',
 	},
+	# Author: Lloffiwr
 	# Author: Robin Owain
 	'cy': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Neges rhybuddio oddi wrth robot: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Trafodaeth newydd',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - y golygiad diweddaraf gan [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Hysbysiad',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'yn diweddaru %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Caewyd y drafodaeth',
 	},
 	# Author: Christian List
 	# Author: Kaare
@@ -524,8 +531,11 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Arutelulehte muudeti',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTI SÕNUM',
 	},
+	# Author: Theklan
 	# Author: Unai Fdz. de Betoño
 	'eu': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bota',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ez da giza editorerik aurkitu)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Jakinarazpena',
 	},
 	# Author: Huji

@@ -386,7 +386,7 @@ msg = {
 		'category-removing': u'Bot: Yn ei dynnu o %(oldcat)s',
 		'category-was-moved': u'Robot: Symudwyd y categori i [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Robot: Symudwyd o %s. Awduron: %s',
-		'category-section-title': u'Hanes hen dudalennau %(oldcat)',
+		'category-section-title': u'Hanes tudalen y cyn-gategori %(oldcat)s',
 		'category-listifying': u'Bot: Yn rhestru cynnwys %(fromcat)s (%(num)d o gofnodion)',
 	},
 	# Author: Christian List
@@ -1022,9 +1022,11 @@ msg = {
 	# Author: Cyklopas
 	# Author: Eitvys200
 	# Author: Hugo.arg
+	# Author: Mantak111
 	'lt': {
 		'category-changing': u'Robotas: Keičiama %(oldcat)s į %(newcat)s',
 		'category-adding': u'Robotas: Pridedama kategorija [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(taip pat ir %(alsocat)s)',
 		'category-was-disbanded': u'robotas: kategorija išformuota',
 		'category-replacing': u'robotas: kategorija %(oldcat)s keičiama į %(newcat)s',
 		'category-removing': u'robotas: šalinama iš %(oldcat)s',
@@ -1754,8 +1756,9 @@ msg = {
 	'ur': {
 		'category-adding': u'روبالہ: جمع category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Sociologist
 	'uz': {
-		'category-adding': u'Bot: Qoʻshdi category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Bot: Turkum qoʻshish [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Alunardon90
 	# Author: Candalua

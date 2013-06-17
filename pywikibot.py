@@ -135,11 +135,12 @@ msg = {
 		'pywikibot-enter-category-name': u'Prosím, zadejte jméno kategorie:',
 		'pywikibot-enter-finished-browser': u'Po ukončení práce v prohlížeči zmáčněte Enter.',
 	},
+	# Author: Lloffiwr
 	# Author: Robin Owain
 	'cy': {
 		'pywikibot-enter-xml-filename': u'Nodwch enwffeil y gronfa XML',
 		'pywikibot-enter-page-processing': u'Pa dudalen ddylem ei phrosesu?',
-		'pywikibot-enter-file-links-processing': u'Dolennau i ba tudalen delwedd ddylid gael ei phrosesu?',
+		'pywikibot-enter-file-links-processing': u'I ba dudalen ffeil y dylid prosesu\'r dolenni?',
 		'pywikibot-enter-namespace-number': u'Nodwch rif y "namespace"',
 		'pywikibot-enter-new-text': u'Nodwch y testun newydd',
 		'pywikibot-enter-category-name': u'Nodwch enw\'r categori:',
@@ -397,6 +398,7 @@ msg = {
 	# Author: Hugo.arg
 	# Author: Mantak111
 	'lt': {
+		'pywikibot-enter-xml-filename': u'Prašome įvesti XML iškelties failo vardą:\n:',
 		'pywikibot-enter-page-processing': u'Kuris puslapis turėtų būti tvarkomas?',
 		'pywikibot-enter-namespace-number': u'Įvestkite vardų srities numerį:',
 		'pywikibot-enter-new-text': u'Įveskite naują tekstą:',
@@ -561,11 +563,12 @@ msg = {
 		'pywikibot-enter-new-text': u'කරුණාකර නව පෙළ යොදන්න:',
 		'pywikibot-enter-category-name': u'කරුණාකර ප්‍රවර්ග නාමය යොදන්න:',
 	},
+	# Author: Dbc334
 	# Author: Irena Plahuta
 	'sl': {
 		'pywikibot-enter-xml-filename': u'Prosimo, vstavite XML ime shranjene datoteke.',
 		'pywikibot-enter-page-processing': u'Katera stran naj bo obdelana?',
-		'pywikibot-enter-file-links-processing': u'Povezava do katere strani naj bo obdelana?',
+		'pywikibot-enter-file-links-processing': u'Povezava do katere strani datoteke naj bo obdelana?',
 		'pywikibot-enter-namespace-number': u'Prosimo, vnesite številko imenskega prostora.',
 		'pywikibot-enter-new-text': u'Prosimo, vnesite novo besedilo:',
 		'pywikibot-enter-category-name': u'Prosimo, vnesite ime kategorije:',

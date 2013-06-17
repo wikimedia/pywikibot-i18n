@@ -71,6 +71,10 @@ msg = {
 		'weblinkchecker-summary': u'Robot: Ohlašuji nedostupný externí odkaz.',
 		'weblinkchecker-report': u'Během několika automatizovaných běhů byl následující externí odkaz nedostupný. Prosím, ověřte, zda je skutečně nedostupný, a pokud ano, pak jej opravte nebo odstraňte!',
 	},
+	# Author: Lloffiwr
+	'cy': {
+		'weblinkchecker-caption': u'Dolen ddiffrwyth',
+	},
 	# Author: Steenth
 	'da': {
 		'weblinkchecker-archive_msg': u'Websiden er blevet gemt af Internet Archive. Overvej sammenkædning til en passende arkiverede version: [%(URL)s].',
@@ -113,6 +117,10 @@ msg = {
 		'weblinkchecker-caption': u'Surnud link',
 		'weblinkchecker-summary': u'Teadaanne mittetöötavast välislingist',
 		'weblinkchecker-report': u'Korduval kontrollimisel on leitud, et järgnev välislink ei tööta. Kontrolli selle toimimist ja vajadusel paranda vigane link.',
+	},
+	# Author: Theklan
+	'eu': {
+		'weblinkchecker-caption': u'Hildako lotura',
 	},
 	'fa': {
 		'weblinkchecker-archive_msg': u'وب‌گاه اینترنت آرشیو یک نسخه بایگانی شده از این پیوند دارد لطفا از آن استفاده نمایید:[%(URL)s]',
@@ -313,6 +321,7 @@ msg = {
 	# Author: Dbc334
 	'sl': {
 		'weblinkchecker-caption': u'Mrtva povezava',
+		'weblinkchecker-summary': u'Robot: Poročanje o nedosegljivi zunanji povezavi',
 	},
 	# Author: Rancher
 	'sr': {

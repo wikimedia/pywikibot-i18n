@@ -124,14 +124,15 @@ msg = {
 		'delete-from-file': u'Robot smazal podle seznamu',
 		'delete-linked-pages': u'Robot smazal vše odkazované z %(page)s',
 	},
+	# Author: Lloffiwr
 	# Author: Pwyll
 	# Author: Robin Owain
 	'cy': {
-		'delete-images': u'Robot:Wrthi\'n dileu pob delwedd ar dudalen %(tudalen)nau',
-		'delete-referring-pages': u'Robot:Wrthi\'n dileu pob tudalen sy\'n cyfeirio wrth % (tudalen)nau',
-		'delete-from-category': u'Robot: Wrthi\'n dileu pob tudalen o gategori %(page)',
+		'delete-images': u'Robot: Yn dileu pob delwedd ar y dudalen %(page)s',
+		'delete-referring-pages': u'Robot: Yn dileu pob tudalen sy\'n cysylltu oddi wrth %(page)s',
+		'delete-from-category': u'Robot: Yn dileu pob tudalen yn y categori %(page)s',
 		'delete-from-file': u'Robot: Yn dileu rhestr o ffeiliau.',
-		'delete-linked-pages': u'Robot: Yn dileu tudalennau wedi\'u cysylltu o %(page)',
+		'delete-linked-pages': u'Robot: Yn dileu yr holl dudalennau wedi\'u cysylltu o %(page)s',
 	},
 	# Author: Christian List
 	# Author: Kaare
