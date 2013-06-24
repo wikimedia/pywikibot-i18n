@@ -377,6 +377,7 @@ msg = {
 	# Author: Robin Owain
 	'cy': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ni chafwyd hyd i olygydd dynol)',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Neges rhybuddio oddi wrth robot: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Trafodaeth newydd',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - y golygiad diweddaraf gan [[User:%(user)s]] (%(time)s)',

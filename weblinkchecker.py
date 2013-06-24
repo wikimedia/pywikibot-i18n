@@ -182,6 +182,13 @@ msg = {
 		'weblinkchecker-summary': u'Robot: Reporto de un ligamine externe non functionante',
 		'weblinkchecker-report': u'Durante plure sessiones automatic, le robot ha constatate que le sequente ligamine externe non es disponibile. Per favor confirma que le ligamine de facto es defuncte, e in caso de si, repara o elimina lo!',
 	},
+	# Author: Beta16
+	'it': {
+		'weblinkchecker-archive_msg': u'La pagina web è stata salvata da Internet Archive. Prendi in considerazione di collegare alla versione archiviata appropriata: [%(URL)s].',
+		'weblinkchecker-caption': u'Link rotti',
+		'weblinkchecker-summary': u'Bot: segnalo collegamenti esterni non raggiungibili',
+		'weblinkchecker-report': u'Durante varie esecuzioni del bot i seguenti collegamenti esterni si sono rivelati non raggiungibili. Si prega di controllare se il link è effettivamente errato, quindi correggerlo o rimuoverlo.',
+	},
 	# Author: Shirayuki
 	'ja': {
 		'weblinkchecker-archive_msg': u'ウェブページはインターネットアーカイブに保存されました。アーカイブに保管された適切なバージョンにリンクすることを検討してください: [%(URL)s].',
