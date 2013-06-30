@@ -327,8 +327,10 @@ msg = {
 	},
 	# Author: Dbc334
 	'sl': {
+		'weblinkchecker-archive_msg': u'Spletno stran je shranil Internet Archive. Prosimo, razmislite o povezavi na ustrezno arhivirano različico: [%(URL)s].',
 		'weblinkchecker-caption': u'Mrtva povezava',
 		'weblinkchecker-summary': u'Robot: Poročanje o nedosegljivi zunanji povezavi',
+		'weblinkchecker-report': u'Med več samodejnimi zaganjanji je bot ugotovil, da naslednja zunanja povezava ni na voljo. Prosimo, preverite, ali povezava zares ne deluje, in jo v tem primeru popravite ali odstranite.',
 	},
 	# Author: Rancher
 	'sr': {
