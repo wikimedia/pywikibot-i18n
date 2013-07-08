@@ -178,11 +178,15 @@ msg = {
 	},
 	# Author: 아라
 	'ko': {
-		'movepages-moving': u'로봇: 문서 이동함',
+		'movepages-moving': u'로봇: 문서를 이동함',
 	},
 	# Author: Purodha
 	'ksh': {
 		'movepages-moving': u'Bot: di Sigg wood ömjenannt',
+	},
+	# Author: Викиней
+	'ky': {
+		'movepages-moving': u'Боттун жардамы менен өзгөртүлгөн барактар',
 	},
 	# Author: Robby
 	'lb': {

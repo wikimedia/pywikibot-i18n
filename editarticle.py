@@ -184,6 +184,10 @@ msg = {
 	'ksh': {
 		'editarticle-edit': u'Vun Hand mem Botprojramm jeändert: %(description)s',
 	},
+	# Author: Викиней
+	'ky': {
+		'editarticle-edit': u'Боттун жардамы аркылуу колго оңдоо: %(description)s',
+	},
 	# Author: Robby
 	'lb': {
 		'editarticle-edit': u'Manuell Ännerungen mam Bot: %(description)s',

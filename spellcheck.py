@@ -157,6 +157,10 @@ msg = {
 	'ms': {
 		'spellcheck-checking': u'Penyemak ejaan dibantu bot',
 	},
+	# Author: Servien
+	'nds-nl': {
+		'spellcheck-checking': u'Spellingskontraole',
+	},
 	# Author: Eukesh
 	'new': {
 		'spellcheck-checking': u'बट-ग्वहालिया हिज्जे निरिक्षक',

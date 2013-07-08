@@ -907,16 +907,16 @@ msg = {
 	},
 	# Author: Akoppad
 	'kn': {
-		'category-version-history': u'ರೋಬೋಟ್:   %(oldcat) ನ   ಮಾಜಿ  ಇತಿಹಾಸದ  ಆವೃತ್ತಿಯನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ',
-		'category-changing': u'ರೋಬೋಟ್:%(oldcat) ಯನ್ನು % (newcat) ಗೆ ಬದಲಾಯಿಸುವುದು',
-		'category-adding': u'ರೋಬೋಟ್:   ವರ್ಗಗಳನ್ನು ಸೇರಿಸುವುದು',
+		'category-version-history': u'ರೋಬೋಟ್:   %(oldcat)ನ   ಮಾಜಿ  ಇತಿಹಾಸದ  ಆವೃತ್ತಿಯನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ',
+		'category-changing': u'ರೋಬೋಟ್:%(oldcat)ಯನ್ನು % (newcat)ಗೆ ಬದಲಾಯಿಸುವುದು',
+		'category-adding': u'ರೋಬೋಟ್: [[:ವರ್ಗ:%(newcat)s|%(newcat)s]] ವರ್ಗಗಳನ್ನು ಸೇರಿಸುವುದು',
 		'category-also-in': u'(ಇದರಲ್ಲಿಯು  %(alsocat)s)',
 		'category-was-disbanded': u'ರೋಬೋಟ್: ವರ್ಗ ವಿಸರ್ಜಿಸಲಾಯಿತು',
-		'category-replacing': u'ರೋಬೋಟ್: %(oldcat) ಯನ್ನು % (newcat)ಗೆ ಬದಲಾಯಿಸುವುದು',
+		'category-replacing': u'ರೋಬೋಟ್: %(oldcat)ಯನ್ನು % (newcat)ಗೆ ಬದಲಾಯಿಸುವುದು',
 		'category-removing': u'ರೋಬೋಟ್:  %(oldcat) ಇಂದ ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ',
 		'category-was-moved': u'ರೋಬೋಟ್: ವರ್ಗವನ್ನು [[:Category:%(newcat)s|%(title)s]]ಗೆ  ಸರಿಸಲಾಗುತ್ತಿದೆ',
 		'category-renamed': u'ರೋಬೋಟ್: %s. Authors: %s ಇಂದ ಸರಿಸಲಾಗಿದೆ',
-		'category-section-title': u'ಮಾಜಿ  %(oldcat)ನ ಪುಟದ ಇತಿಹಾಸ',
+		'category-section-title': u'ಮಾಜಿ %(oldcat)ನ ಪುಟದ ಇತಿಹಾಸ',
 	},
 	# Author: 아라
 	'ko': {
@@ -924,7 +924,7 @@ msg = {
 		'category-changing': u'로봇: %(oldcat)s에서 %(newcat)s(으)로 바꿈',
 		'category-adding': u'로봇: [[:Category:%(newcat)s|%(newcat)s]] 분류 추가',
 		'category-also-in': u'(%(alsocat)s에도 들어 있습니다)',
-		'category-was-disbanded': u'로봇: 분류를 폐지했습니다',
+		'category-was-disbanded': u'로봇: 분류를 폐지함',
 		'category-replacing': u'로봇: %(oldcat)s(을)를 %(newcat)s(으)로 분류를 바꿈',
 		'category-removing': u'로봇: %(oldcat)s 제거',
 		'category-was-moved': u'로봇: 분류를 [[:Category:%(newcat)s|%(title)s]](으)로 옮겼습니다',
@@ -1225,6 +1225,7 @@ msg = {
 		'category-replacing': u'Robot: kategorie %(oldcat)s is vervöngen deur %(newcat)s',
 		'category-removing': u'Bot: vortehaold uut %(oldcat)s',
 		'category-was-moved': u'Bot: kategorie is herneumd naor [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: herneumd van %s. Auteurs: %s',
 		'category-section-title': u'Paginageschiedenisse van veurmaolige %(oldcat)s',
 		'category-listifying': u'Bot: lieste van %(fromcat)s (%(num)d pagina\'s)',
 	},

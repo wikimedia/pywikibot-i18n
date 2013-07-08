@@ -24,6 +24,7 @@ msg = {
 	# Author: DrTrigon
 	# Author: EugeneZelenko
 	# Author: McDutchie
+	# Author: Shirayuki
 	# Author: Siebrand
 	'qqq': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'Summary line first part.',
@@ -42,7 +43,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Summary line second part if there are additional results and old get removed.',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summary line second part if the page had to be modified due to new results. Parameters:\n* %(num)i is the numer of entries\n* %(page)s is the page that was updated',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'First part of message if it is a extraordinary maintenance message.\n\n(It\'s a system message that can only be triggered by the bot maintainer. Thus it\'s not important to translate the text.)',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'Message footer for bot report output.',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'Message footer for bot report output. Parameters:\n* %(sign)s - signature (<code><nowiki>~~~~</nowiki></code>)',
 	},
 	# Author: Csisc
 	'aeb': {
@@ -384,6 +385,11 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Hysbysiad',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'yn diweddaru %(tags)s tag(s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Caewyd y drafodaeth',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Ychwanegwyd crynodeb o\'r drafodaeth: %(num)i cofnod',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Cafwyd newid ar y drafodaeth',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ychwanegwyd crynodeb o\'r drafodaeth ynghyd â glanhad: %(num)i cofnod',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diweddarwyd crynodeb y drafodaeth: %(num)i cofnod yn y dudalen %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'NEGES BOT',
 	},
 	# Author: Christian List
 	# Author: Kaare

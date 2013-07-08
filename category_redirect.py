@@ -474,7 +474,7 @@ msg = {
 		'category_redirect-add-template': u'로봇: 유지 보스에 대한 분류 넘겨주기 틀 추가',
 		'category_redirect-edit-request': u'다음 보호된 문서는 분류 링크 업데이트가 필요하다고 감지했습니다: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s(은)는 %(newcat)s(으)로 넘겨주기한 %(oldcat)s에 속해 있습니다',
-		'category_redirect-fix-double': u'로봇: 이중 넘겨주기 고침',
+		'category_redirect-fix-double': u'로봇: 이중 넘겨주기를 고침',
 	},
 	# Author: Purodha
 	'ksh': {
@@ -484,6 +484,11 @@ msg = {
 		'category_redirect-edit-request': u'Hee di Sigge sin jeschötz un möße ier Saachjroppe odder Lingks op Saachjroppe aanjepaß krijje: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s es en %(oldcat)s, un dat es en Ömleidung op %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Dubbel Ömlëijdong fottjemaat.',
+	},
+	# Author: Викиней
+	'ky': {
+		'category_redirect-comment': u'Категория багыттамаларын тейлөөчү бот',
+		'category_redirect-fix-double': u'Бот: Кош багыттаманы оңдоо',
 	},
 	'la': {
 		'category_redirect-fix-double': u'automaton: rectificatio redirectionis duplicis',

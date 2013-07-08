@@ -74,6 +74,7 @@ msg = {
 	# Author: Lloffiwr
 	'cy': {
 		'weblinkchecker-caption': u'Dolen ddiffrwyth',
+		'weblinkchecker-summary': u'Bot: Yn adrodd nad oes modd cyrraedd cyswllt allanol',
 	},
 	# Author: Steenth
 	'da': {
@@ -263,6 +264,13 @@ msg = {
 		'weblinkchecker-caption': u'Weblenk geiht nich mehr',
 		'weblinkchecker-summary': u'Lenk-Bot: Weblenk geiht nich mehr',
 		'weblinkchecker-report': u'De Bot hett en poor Mal al versöcht, disse Siet optoropen un kunn dor nich bikamen. Schall man een nakieken, wat de Siet noch dor is un den Lenk richten oder rutnehmen.',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'weblinkchecker-archive_msg': u'Disse webstee steet op-esleugen in t Internet Archive. Overweeg te koppelen naor n zied uut t archief: [%(URL)s].',
+		'weblinkchecker-caption': u'Dooie verwiezing',
+		'weblinkchecker-summary': u'Robot: melding (tiejelik) onbereikbaore uutgaonde verwiezing',
+		'weblinkchecker-report': u'Uut enkele automatiese kontraoles bleek dat de uutgaonde verwiezing die hieronder steet onbereikbaor is. Kiek effen nao of de verwiezing inderdaod onbereikbaor is. Geerne disse tekste vortdoon nao n suksesvolle kontraole of naodat de uutgaonde verwiezing vortedaon of verbeterd is.',
 	},
 	# Author: Siebrand
 	'nl': {

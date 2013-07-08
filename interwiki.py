@@ -954,6 +954,7 @@ msg = {
 	},
 	# Author: Hugo.arg
 	# Author: Xqt
+	# Author: Викиней
 	'ky': {
 		'interwiki-modifying': u'робот өзгөрттү: %(modifying)s',
 		'interwiki-adding-modifying': u'робот кошту: %(adding)s өзгөрттү: %(modifying)s',
@@ -962,6 +963,7 @@ msg = {
 		'interwiki-adding': u'робот кошту: %(adding)s',
 		'interwiki-removing': u'робот өчүрдү: %(removing)s',
 		'interwiki-removing-modifying': u'робот өчүрдү: %(removing)s өзгөрттү: %(modifying)s',
+		'interwiki-modifying-from': u'Бот өзгөрттү: %(from)sдан %(modifying)sга',
 	},
 	# Author: UV
 	'la': {

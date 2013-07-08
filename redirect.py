@@ -655,6 +655,7 @@ msg = {
 	'nds-nl': {
 		'redirect-fix-double': u'Bot: dubbele deurverwiezing verbeterd naor %(to)s',
 		'redirect-remove-broken': u'Bot: de doelpagina van de deurverwiezing besteet niet',
+		'redirect-fix-broken-moved': u'Robot: kapotte deurverwiezing verbeterd deur anpassing naor herneumden doelzied %(to)s',
 		'redirect-fix-loop': u'Bot: deurverwiessirkel naor %(to)s erepareerd',
 		'redirect-remove-loop': u'Bot: deurverwiezing verwis weer naor zichzelf',
 		'redirect-broken-redirect-template': u'{{vort|Kapotte deurverwiezing of deurverwijzing naor vort-edaone pagina}}',

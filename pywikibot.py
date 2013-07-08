@@ -369,7 +369,7 @@ msg = {
 	'ko': {
 		'pywikibot-enter-xml-filename': u'XML 덤프의 파일 이름을 입력하세요:',
 		'pywikibot-enter-page-processing': u'어떤 문서를 처리하시겠습니까?',
-		'pywikibot-enter-file-links-processing': u'어떤 그림 문서로 링크를 처리하시겠습니까?',
+		'pywikibot-enter-file-links-processing': u'어떤 파일 문서로 링크를 처리하시겠습니까?',
 		'pywikibot-enter-namespace-number': u'이름공간 번호를 입력하세요:',
 		'pywikibot-enter-new-text': u'새 텍스트를 입력하세요:',
 		'pywikibot-enter-category-name': u'분류 이름을 입력하세요:',
@@ -464,6 +464,16 @@ msg = {
 		'pywikibot-enter-new-text': u'Sila masukkan teks baru:',
 		'pywikibot-enter-category-name': u'Sila masukkan nama kategori:',
 		'pywikibot-enter-finished-browser': u'Tekan Enter selepas siap dalam pelayar.',
+	},
+	# Author: Servien
+	'nds-nl': {
+		'pywikibot-enter-xml-filename': u'Geef de bestaandsnaam van n XML-dump op:',
+		'pywikibot-enter-page-processing': u'Welke zied mut verwarkt wörden?',
+		'pywikibot-enter-file-links-processing': u'Koppelingen naor welke bestaandszied mutten verwarkt wörden?',
+		'pywikibot-enter-namespace-number': u'Geef n naamruumtenummer op:',
+		'pywikibot-enter-new-text': u'Geef de nieje tekste op:',
+		'pywikibot-enter-category-name': u'Geef de kategorienaam op:',
+		'pywikibot-enter-finished-browser': u'Druk op "Enter" a\'j klaor bin in de webkieker.',
 	},
 	# Author: Eukesh
 	'new': {
@@ -672,11 +682,12 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Bấm Enter sau khi sửa đổi xong trong trình duyệt.',
 	},
 	# Author: Anakmalaysia
+	# Author: Qiyue2001
 	# Author: Yfdyh000
 	'zh': {
 		'pywikibot-enter-xml-filename': u'请输入XML Dump文件名称：',
 		'pywikibot-enter-page-processing': u'哪个页面需要处理？',
-		'pywikibot-enter-file-links-processing': u'需要处理的图像页，应该到哪个链接？',
+		'pywikibot-enter-file-links-processing': u'哪个文件的链接需要处理？',
 		'pywikibot-enter-namespace-number': u'请输入命名空间编号：',
 		'pywikibot-enter-new-text': u'请输入新文本：',
 		'pywikibot-enter-category-name': u'请输入分类名称：',

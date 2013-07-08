@@ -241,6 +241,10 @@ msg = {
 	'ku': {
 		'basic-changing': u'Robot: Diguherîne ...',
 	},
+	# Author: Викиней
+	'ky': {
+		'basic-changing': u'Бот: Өзгөртүү...',
+	},
 	# Author: George Animal
 	# Author: UV
 	'la': {
