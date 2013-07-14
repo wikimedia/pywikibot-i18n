@@ -263,6 +263,10 @@ msg = {
 		'template-changing': u'Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde verändert..',
 		'template-substituting': u'Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde ußjewääßelt.',
 	},
+	# Author: Викиней
+	'ky': {
+		'template-changing': u'Бот: {{PLURAL:%(num)d|калыбын|калыптарын}} өзгөртүү: %(list)s',
+	},
 	# Author: Robby
 	'lb': {
 		'template-removing': u'Bot: Ännert d\'{{PLURAL:%(num)d|Schabloun|Schablounen}}: %(list)s',

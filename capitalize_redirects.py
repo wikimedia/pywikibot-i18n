@@ -196,6 +196,10 @@ msg = {
 	'ksh': {
 		'capitalize_redirects-create-redirect': u'Bot: oemleidung aanjelaat op [[%(to)s]]',
 	},
+	# Author: Викиней
+	'ky': {
+		'capitalize_redirects-create-redirect': u'Бот:[[%(to)s]] бетке багыттама түзүлдү',
+	},
 	# Author: Robby
 	'lb': {
 		'capitalize_redirects-create-redirect': u'Bot:Viruleedung op [[%(to)s]] ugeluecht',

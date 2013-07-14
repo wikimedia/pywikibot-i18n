@@ -385,6 +385,11 @@ msg = {
 		'pywikibot-enter-category-name': u'Jif dä Saachjropp iere Naame en:',
 		'pywikibot-enter-finished-browser': u'Dröck de <i lang="en">Enter</i>-Taßß, wann de fäädesch beß em Brauser.',
 	},
+	# Author: Викиней
+	'ky': {
+		'pywikibot-enter-new-text': u'Жаңы текстти териңиз:',
+		'pywikibot-enter-category-name': u'Сураныч, категориянын атын териңиз:',
+	},
 	# Author: Robby
 	'lb': {
 		'pywikibot-enter-xml-filename': u'Gitt w.e.g. den Numm vum XML-Dump-Fichier an:',

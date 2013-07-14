@@ -290,6 +290,10 @@ msg = {
 	'oc': {
 		'weblinkchecker-caption': u'Ligam mòrt',
 	},
+	# Author: Babanwalia
+	'pa': {
+		'weblinkchecker-caption': u'ਮੁਰਦਾ ਕੜੀ',
+	},
 	# Author: Rezonansowy
 	# Author: Ty221
 	'pl': {

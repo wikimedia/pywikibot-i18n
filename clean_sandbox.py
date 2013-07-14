@@ -122,9 +122,10 @@ msg = {
 	'fo': {
 		'clean_sandbox-cleaned': u'Bottur: Sjálvvirkandi reinsað',
 	},
+	# Author: Automatik
 	# Author: Sherbrooke
 	'fr': {
-		'clean_sandbox-cleaned': u'Robot : automatiquement nettoyé',
+		'clean_sandbox-cleaned': u'Robot : nettoyage automatique',
 	},
 	# Author: ChrisPtDe
 	'frp': {

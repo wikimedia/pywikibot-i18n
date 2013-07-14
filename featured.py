@@ -322,6 +322,12 @@ msg = {
 		'featured-featured': u'bot: %(page)s ess_enen ußjezëijshneten Atikkel',
 		'featured-former': u'Bot: %(page)s wor ens ene Atikel med en Ußzeischnung.',
 	},
+	# Author: Викиней
+	'ky': {
+		'featured-good': u'Бот: %(page)s жакшы макала',
+		'featured-list': u'Бот: %(page)s тандалган тизмек',
+		'featured-featured': u'Бот: %(page)s тандалган макала',
+	},
 	# Author: Robby
 	'lb': {
 		'featured-good': u'Bot: %(page)s ass e gudden Artikel',

@@ -485,6 +485,10 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s es en %(oldcat)s, un dat es en Ömleidung op %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Dubbel Ömlëijdong fottjemaat.',
 	},
+	# Author: Ghybu
+	'ku': {
+		'category_redirect-fix-double': u'Robot: Fixing double-redirect',
+	},
 	# Author: Викиней
 	'ky': {
 		'category_redirect-comment': u'Категория багыттамаларын тейлөөчү бот',

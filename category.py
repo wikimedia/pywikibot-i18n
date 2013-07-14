@@ -967,8 +967,12 @@ msg = {
 	'kv': {
 		'category-adding': u'робот: содтi category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Викиней
 	'ky': {
 		'category-adding': u'робот: кошту category [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(%(alsocat)s\'да дагы)',
+		'category-was-disbanded': u'Бот: категория жоюлду',
+		'category-replacing': u'Бот: %(oldcat)s категориясын %(newcat)s\'га алмаштыруу',
 	},
 	# Author: UV
 	'la': {

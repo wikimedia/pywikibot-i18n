@@ -196,6 +196,10 @@ msg = {
 	'ksh': {
 		'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',
 	},
+	# Author: Викиней
+	'ky': {
+		'catall-changing': u'Бот: категорияларды өзгөртүү',
+	},
 	# Author: Robby
 	'lb': {
 		'catall-changing': u'Bot: Kategorien änneren',

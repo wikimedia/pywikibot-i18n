@@ -528,6 +528,14 @@ msg = {
 		'redirect-remove-loop': u'Bot: Di Ömleidunge jonn em Kreis eröm.',
 		'redirect-broken-redirect-template': u'{{Schmieß fott}}Di [[Wikipedia:Ömleijdung|Ömlëijdong]] jeiht noh nörjendswoh hen.',
 	},
+	# Author: Ghybu
+	'ku': {
+		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
+	},
+	# Author: Викиней
+	'ky': {
+		'redirect-fix-double': u'Бот: кош багыттаманы жоюу → %(to)s',
+	},
 	# Author: MissPetticoats
 	# Author: UV
 	# Author: Xqt

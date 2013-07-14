@@ -453,8 +453,11 @@ msg = {
 		'archivebot-archive-summary': u'Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} vun [[%(from)s]] en et Aschihf jedonn.',
 	},
 	# Author: Growingup
+	# Author: Викиней
 	'ky': {
-		'archivebot-archive-full': u'(АРХИВ ТОЛУК)',
+		'archivebot-older-than': u'мурдараак',
+		'archivebot-archiveheader': u'{{талкуу архиви}}',
+		'archivebot-archive-full': u'(АРХИВ ТОЛДУ)',
 	},
 	# Author: Robby
 	'lb': {
@@ -610,6 +613,11 @@ msg = {
 		'archivebot-older-than': u'ଠାରୁ ପୁରୁଣା',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHIVE FULL)',
+	},
+	# Author: Babanwalia
+	'pa': {
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ਪੁਰਾਲੇਖ ਭਰ ਗਿਆ)',
 	},
 	# Author: Xqt
 	'pdc': {

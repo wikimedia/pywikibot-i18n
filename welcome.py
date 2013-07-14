@@ -355,8 +355,10 @@ msg = {
 		'welcome-welcome': u'Tu bi xêr hatî!',
 	},
 	# Author: Growingup
+	# Author: Викиней
 	'ky': {
 		'welcome-welcome': u'Кош келиңиз!',
+		'welcome-updating': u'Бот: журналды жаңыртуу',
 	},
 	# Author: Robby
 	'lb': {

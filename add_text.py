@@ -366,8 +366,9 @@ msg = {
 	'mk': {
 		'add_text-adding': u'Робот: Додава %(adding)s',
 	},
+	# Author: Raghith
 	'ml': {
-		'add_text-adding': u'യന്ത്രം ചേര്‍ക്കുന്നു %(adding)s',
+		'add_text-adding': u'യന്ത്രം: ചേർക്കുന്നു %(adding)s',
 	},
 	'mn': {
 		'add_text-adding': u'робот Нэмж байна %(adding)s',

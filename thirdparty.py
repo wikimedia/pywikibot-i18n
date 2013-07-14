@@ -23,6 +23,7 @@ msg = {
 	# Author: Csisc
 	# Author: DrTrigon
 	# Author: EugeneZelenko
+	# Author: Lloffiwr
 	# Author: McDutchie
 	# Author: Shirayuki
 	# Author: Siebrand
@@ -43,7 +44,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Summary line second part if there are additional results and old get removed.',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summary line second part if the page had to be modified due to new results. Parameters:\n* %(num)i is the numer of entries\n* %(page)s is the page that was updated',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'First part of message if it is a extraordinary maintenance message.\n\n(It\'s a system message that can only be triggered by the bot maintainer. Thus it\'s not important to translate the text.)',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'Message footer for bot report output. Parameters:\n* %(sign)s - signature (<code><nowiki>~~~~</nowiki></code>)',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'Message footer for bot report output. Parameters:\n* %(sign)s - signature and date (4 tildes, <code><nowiki>~~~~</nowiki></code>)\n"From" probably refers to the name of the bot and "at" probably refers to the timestamp.',
 	},
 	# Author: Csisc
 	'aeb': {
@@ -339,6 +340,12 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MISSATGE DE ROBOT',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResum generat des de: %(sign)s</noinclude>',
 	},
+	# Author: Умар
+	'ce': {
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Керла дийцаре',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Дийцаре дIачIаьгIна',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Дийцаре хийцаяла',
+	},
 	# Author: Asoxor
 	# Author: Calak
 	'ckb': {
@@ -390,6 +397,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ychwanegwyd crynodeb o\'r drafodaeth ynghyd â glanhad: %(num)i cofnod',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diweddarwyd crynodeb y drafodaeth: %(num)i cofnod yn y dudalen %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'NEGES BOT',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nCynhyrchwyd y crynodeb gan: %(sign)s</noinclude>',
 	},
 	# Author: Christian List
 	# Author: Kaare
@@ -998,10 +1006,13 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Gotûbêj hat guhertin',
 	},
 	# Author: Growingup
+	# Author: Викиней
 	'ky': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Жаңы талкуулоо',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Кабарландыруу',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Талкуу жабык',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Талкуу өзгөртүлдү',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТТУН БИЛДИРМЕСИ',
 	},
 	# Author: Robby

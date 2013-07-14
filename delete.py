@@ -366,6 +366,14 @@ msg = {
 		'delete-from-file': u'Bot: Ben en Leß vun Dateije fott aam schmiiße.',
 		'delete-linked-pages': u'Bot: Mer schmiiße alle Sigge fott, woh %(page)s ene Lenk drop hät.',
 	},
+	# Author: Викиней
+	'ky': {
+		'delete-images': u'Бот: %(page)s барактагы баардык сүрөттөрдү өчүрүү',
+		'delete-referring-pages': u'Бот: %(page)s баракка тиешелүү барактардын баардыгын өчүрүү',
+		'delete-from-category': u'Бот: %(page)s категориясындагы баардык барактарды өчүрүү',
+		'delete-from-file': u'Бот: файлдардын тизмесин өчүрүү',
+		'delete-linked-pages': u'Бот: %(page)s барагынан шилтенген баардык барактарды өчүрүү',
+	},
 	# Author: Robby
 	'lb': {
 		'delete-images': u'Bot: All Fichieren op der Säit %(page)s läschen',
