@@ -467,11 +467,12 @@ msg = {
 	'kn': {
 		'category_redirect-comment': u'ಪೋಷಣೆ ರೋಬೋಟ್ ನಿಂದ ವರ್ಗದ ಮರುನಿರ್ದೇಶನ',
 	},
+	# Author: Kwj2772
 	# Author: 아라
 	'ko': {
 		'category_redirect-comment': u'분류 넘겨주기 유지 보수 로봇',
 		'category_redirect-change-category': u'로봇: [[:%(oldCatLink)s|%(oldCatTitle)s]]에서 [[:%(newCatLink)s|%(newCatTitle)s]](으)로 넘겨주기된 분류를 바꿈',
-		'category_redirect-add-template': u'로봇: 유지 보스에 대한 분류 넘겨주기 틀 추가',
+		'category_redirect-add-template': u'로봇: 유지 보수를 위해 분류 넘겨주기 틀을 추가',
 		'category_redirect-edit-request': u'다음 보호된 문서는 분류 링크 업데이트가 필요하다고 감지했습니다: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s(은)는 %(newcat)s(으)로 넘겨주기한 %(oldcat)s에 속해 있습니다',
 		'category_redirect-fix-double': u'로봇: 이중 넘겨주기를 고침',
@@ -497,12 +498,13 @@ msg = {
 	'la': {
 		'category_redirect-fix-double': u'automaton: rectificatio redirectionis duplicis',
 	},
+	# Author: Les Meloures
 	# Author: Robby
 	'lb': {
 		'category_redirect-comment': u'Bot fir den Ënnerhalt vu Viruleedunge vu Kategorien',
 		'category_redirect-change-category': u'Bot: Ännere vun der virugeleeter Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] op [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Bot:Kategorie-Viruleedungs-Schabloun derbäigesat aus Maintenance-Grënn',
-		'category_redirect-edit-request': u'Op dës gespaarte Säiten mussen nach Aktualiséierunge vun de Kategorie-Linke gemaach ginn: %(itemlist)s',
+		'category_redirect-edit-request': u'Op dës gespaart Säite mussen nach Aktualiséierunge vun de Kategorie-Linke gemaach ginn: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s ass an %(oldcat)s, déi eng Viruleedung op %(newcat)s ass',
 		'category_redirect-fix-double': u'Bot: Duebel Viruleedung gefléckt',
 	},
@@ -660,7 +662,7 @@ msg = {
 		'category_redirect-comment': u'Robô de manutenção de redireccionamentos de categorias',
 		'category_redirect-change-category': u'Robô: Alteração da categoria redireccionada [[:%(oldCatLink)s|%(oldCatTitle)s]] para [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Robô: Adição da predefinição de redirecionamento da categoria',
-		'category_redirect-edit-request': u'As seguintes páginas protegidas necessitam de actualização dos links de categorias: %(itemlist)s',
+		'category_redirect-edit-request': u'As seguintes páginas protegidas necessitam de atualização dos links de categorias: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s está em %(oldcat)s, que é um redirecionamento para %(newcat)s',
 		'category_redirect-fix-double': u'Robô: Correção de redirecionamento duplo',
 	},

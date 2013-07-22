@@ -667,10 +667,11 @@ msg = {
 	},
 	# Author: A1
 	# Author: Base
+	# Author: DixonD
 	'uk': {
 		'pywikibot-enter-xml-filename': u'Будь ласка, введіть назву файлу дампу XML:',
 		'pywikibot-enter-page-processing': u'Які сторінки потрібно переробити?',
-		'pywikibot-enter-file-links-processing': u'Посилання на які зображення слід обробити?',
+		'pywikibot-enter-file-links-processing': u'Посилання на які файли слід обробити?',
 		'pywikibot-enter-namespace-number': u'Введіть номер простору імен:',
 		'pywikibot-enter-new-text': u'Введіть новий текст:',
 		'pywikibot-enter-category-name': u'Введіть ім\'я категорії:',

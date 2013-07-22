@@ -727,6 +727,7 @@ msg = {
 	# Author: Amire80
 	# Author: Ofekalef
 	# Author: YaronSh
+	# Author: פוילישער
 	'he': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'רובוט',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(לא נמצא עורך אנושי)',
@@ -740,7 +741,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'שיחה נסגרה',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s כל הדיונים הסתיימו (המעקב פסק) - עריכה אחרונה של %(user)s (ב־%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'נוסף תקציר דיון: %(num)i רשומות',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'שיחה שונתה',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'דיסקוסיע פארענדערט',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'תקציר הדיון התווסף לאחר שעבר ניקיון: %(num)i רשומות',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'תקציר הדיון עודכן: %(num)i ערכים ב־%(page)s עמודים',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'הודעת רובוט',

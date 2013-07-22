@@ -149,6 +149,10 @@ msg = {
 	'he': {
 		'catall-changing': u'בוט: משנה קטגוריות',
 	},
+	# Author: Siddhartha Ghai
+	'hi': {
+		'catall-changing': u'रोबॉट: श्रेणियाँ बदल रहा है',
+	},
 	# Author: SpeedyGonsales
 	'hr': {
 		'catall-changing': u'Bot: Promjena kategorija',

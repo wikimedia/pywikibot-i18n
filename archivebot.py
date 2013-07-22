@@ -438,7 +438,7 @@ msg = {
 	# Author: Kwj2772
 	# Author: 아라
 	'ko': {
-		'archivebot-older-than': u'다음보다 오래됨',
+		'archivebot-older-than': u'다음보다 오래됨:',
 		'archivebot-page-summary': u'로봇: {{PLURAL:%(count)d|스레드}} %(count)d개(%(why)s)를 %(archives)s에 보존합니다.',
 		'archivebot-archiveheader': u'{{보존}}',
 		'archivebot-archive-full': u'(보존 가득참)',
