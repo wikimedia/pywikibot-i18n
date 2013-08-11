@@ -955,11 +955,6 @@ msg = {
 	'ur': {
 		'redirect-fix-double': u'روبالہ: درستگی دوہرا رجوع مکرر بجانب %(to)s',
 	},
-	# Author: CoderSI
-	# Author: Xqt
-	'uz': {
-		'redirect-broken-redirect-template': u'!!!Fuzzy{{db-r1}}',
-	},
 	# Author: Alunardon90
 	# Author: Candalua
 	# Author: GatoSelvadego
