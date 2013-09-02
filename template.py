@@ -159,6 +159,12 @@ msg = {
 		'template-changing': u'Botti korvasi {{PLURAL:%(num)d|mallineen|mallineet}}: %(list)s',
 		'template-substituting': u'Botti substasi {{PLURAL:%(num)d|mallineen|mallineet}}: %(list)s',
 	},
+	# Author: EileenSanda
+	'fo': {
+		'template-removing': u'Bottur: Tók burtur {{PLURAL:%(num)d|fyrimynd|fyrimyndir}}: %(list)s',
+		'template-changing': u'Bottur: Broytti {{PLURAL:%(num)d|fyrimynd|fyrimyndir}}: %(list)s',
+		'template-substituting': u'Bottur: Skifti út {{PLURAL:%(num)d|fyrimynd|fyrimyndir}}: %(list)s',
+	},
 	# Author: Gomoko
 	'fr': {
 		'template-removing': u'Robot : Enlève {{PLURAL:%(num)d|le modèle|modèles}}: %(list)s',

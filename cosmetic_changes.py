@@ -336,6 +336,11 @@ msg = {
 		'cosmetic_changes-standalone': u'യന്ത്രം: സൗന്ദര്യമാറ്റങ്ങൾ',
 		'cosmetic_changes-append': u'; സൗന്ദര്യമാറ്റങ്ങൾ',
 	},
+	# Author: V.narsikar
+	'mr': {
+		'cosmetic_changes-standalone': u'यंत्रमानव:सौंदर्यवर्धक बदल',
+		'cosmetic_changes-append': u';सौंदर्यवर्धक बदल',
+	},
 	'ms': {
 		'cosmetic_changes-standalone': u'Bot: perubahan kosmetik',
 		'cosmetic_changes-append': u'; perubahan kosmetik',

@@ -102,6 +102,13 @@ msg = {
 		'weblinkchecker-caption': u'Gıreyo merde',
 		'weblinkchecker-summary': u'Bot: Teber gre de rapera xeberkerdış',
 	},
+	# Author: Geraki
+	'el': {
+		'weblinkchecker-archive_msg': u'Η ιστοσελίδα έχει αποθηκευτεί από το Internet Archive. Παρακαλούμε να εξετάσετε τη σύνδεση με μια κατάλληλη αρχειοθετημένη έκδοση:  [%(URL)s]',
+		'weblinkchecker-caption': u'Νεκρός σύνδεσμος',
+		'weblinkchecker-summary': u'Ρομπότ: Αναφορά μη διαθέσιμου εξωτερικού σύνδεσμου',
+		'weblinkchecker-report': u'Κατά την διάρκεια αρκετών αυτόματων ελέγχων ο ακόλουθος εξωτερικός σύνδεσμος βρέθηκε να είναι μη διαθέσιμος. Παρακαλούμε ελέγξτε αν ο σύνδεσμος είναι πράγματι νεκρός και διορθώστε τον ή αφαιρέστε τον σε αυτή την περίπτωση!',
+	},
 	# Author: Airon90
 	'eo': {
 		'weblinkchecker-caption': u'Neenretiĝa ligilo',
@@ -220,6 +227,12 @@ msg = {
 	'ku': {
 		'weblinkchecker-caption': u'Girêdana mirî',
 	},
+	# Author: Maksat
+	'ky': {
+		'weblinkchecker-archive_msg': u'Веб баракча интернет-архив түрүндө сакталган. Сураныч, шилтемени тиешелүү архивдик турүндө колдонуңуз:[%(URL)s].',
+		'weblinkchecker-caption': u'Жеткиликсиз шилтемелер',
+		'weblinkchecker-summary': u'Бот: жеткиликсиз сырткы шилтеме табылды',
+	},
 	# Author: Robby
 	'lb': {
 		'weblinkchecker-archive_msg': u'D\'Internetsäit gouf vum Internet Archive gespäichert. Iwwerleet Iech ob Dir e Link op eng vun den archivéierte Versiounen: [%(URL)s] maache wëllt:',
@@ -231,6 +244,18 @@ msg = {
 	'lt': {
 		'weblinkchecker-caption': u'Neveikianti nuoroda',
 		'weblinkchecker-summary': u'Robotas: Nuorodą pranešti nepasiekiama',
+	},
+	# Author: Papuass
+	'lv': {
+		'weblinkchecker-caption': u'Mirusi saite',
+		'weblinkchecker-summary': u'Robots: Ziņo par nepieejamu ārējo saiti',
+	},
+	# Author: StefanusRA
+	'map-bms': {
+		'weblinkchecker-archive_msg': u'Kaca web wis disimpen nang arsip internet. Monggo digandengna maring versi arsip sing pas: [%(URL)s]',
+		'weblinkchecker-caption': u'Pranala mati',
+		'weblinkchecker-summary': u'Robot: Nglaporna pranala jaba sing ora ana',
+		'weblinkchecker-report': u'Dong ana bot otomatis lagi mlaku ana pranala jaba kiye sing jebule wis ora ana. Monggo dipriksa nek pranala kuwe pancen wis ruwag lan tulung dibenerna utawa busek baen!',
 	},
 	# Author: Jagwar
 	'mg': {
@@ -337,6 +362,13 @@ msg = {
 		'weblinkchecker-summary': u'бот: обнаружена недоступная внешняя ссылка',
 		'weblinkchecker-report': u'Бот обнаружил, что следующие внешние ссылки недоступны. Проверьте ссылки и исправьте или удалите их.',
 	},
+	# Author: Teslaton
+	'sk': {
+		'weblinkchecker-archive_msg': u'Webová stránka je uložená v projekte Internet Archive. Zvážte prosím, či nepoužiť odkaz na príslušnú archivovanú verziu [%(URL)s].',
+		'weblinkchecker-caption': u'Mŕtvy odkaz',
+		'weblinkchecker-summary': u'Robot: Nedostupný externý odkaz',
+		'weblinkchecker-report': u'Počas niekoľkých automatických pokusov bol nasledovný externý odkaz nedostupný. Overte prosím, či je skutočne nedostupný a pokiaľ áno, opravte ho alebo odstráňte.',
+	},
 	# Author: Dbc334
 	'sl': {
 		'weblinkchecker-archive_msg': u'Spletno stran je shranil Internet Archive. Prosimo, razmislite o povezavi na ustrezno arhivirano različico: [%(URL)s].',
@@ -387,6 +419,10 @@ msg = {
 	'ur': {
 		'weblinkchecker-caption': u'مردہ ربط',
 	},
+	# Author: Candalua
+	'vec': {
+		'weblinkchecker-caption': u'Colegamenti morti',
+	},
 	# Author: Minh Nguyen
 	'vi': {
 		'weblinkchecker-archive_msg': u'Trang Web đã được Internet Archive lưu trữ. Xin vui lòng đặt liên kết đến bản lưu trữ: [%(URL)s].',
@@ -408,5 +444,12 @@ msg = {
 		'weblinkchecker-caption': u'失效連結',
 		'weblinkchecker-summary': u'機械人：報告無效的外部連結',
 		'weblinkchecker-report': u'自動運行的機械人發現下列外部連結可能已不可用。請幫助檢查，修復或移除有問題的連結。',
+	},
+	# Author: Justincheng12345
+	'zh-hk': {
+		'weblinkchecker-archive_msg': u'此網頁已由互聯網檔案館保存。請為該網頁挑選一個適合鏈接的存檔版本: [%(URL)s]。',
+		'weblinkchecker-caption': u'失效連結',
+		'weblinkchecker-summary': u'機械人報告失效的外部連結',
+		'weblinkchecker-report': u'自動運行的機械人發現下列外部連結可能已不可用。請協助檢查、修復或移除有問題的連結。',
 	},
 };

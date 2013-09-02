@@ -358,6 +358,7 @@ msg = {
 	# Author: Викиней
 	'ky': {
 		'welcome-welcome': u'Кош келиңиз!',
+		'welcome-bad_username': u'Бот: Шектүү колдонуучу аты кошулду.',
 		'welcome-updating': u'Бот: журналды жаңыртуу',
 	},
 	# Author: Robby

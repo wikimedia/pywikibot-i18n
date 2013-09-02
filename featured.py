@@ -342,6 +342,13 @@ msg = {
 		'featured-featured': u'Bot: Pavyzdinis straipsnis %(page)s',
 		'featured-former': u'robotas: %(page)s yra buvęs pavyzdiniu straipsniu',
 	},
+	# Author: Papuass
+	'lv': {
+		'featured-good': u'Robots: %(page)s ir labs raksts',
+		'featured-list': u'Robots: %(page)s ir vērtīgs saraksts',
+		'featured-featured': u'Robots: %(page)s ir vērtīgs raksts',
+		'featured-former': u'Robots: %(page)s ir bijušais vērtīgais raksts',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'featured-good': u'Bot: %(page)s kuwe artikel apik',

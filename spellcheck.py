@@ -197,6 +197,10 @@ msg = {
 	'ru': {
 		'spellcheck-checking': u'орфография с помощью бота',
 	},
+	# Author: Teslaton
+	'sk': {
+		'spellcheck-checking': u'Kontrola pravopisu pomocou robota',
+	},
 	# Author: Irena Plahuta
 	'sl': {
 		'spellcheck-checking': u'Z botom dodan črkovalnik.',

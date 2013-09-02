@@ -127,8 +127,9 @@ msg = {
 		'catall-changing': u'Bottur: Broytur bólkar',
 	},
 	# Author: Boniface
+	# Author: Rastus Vernon
 	'fr': {
-		'catall-changing': u'Bot: Modifie les catégories',
+		'catall-changing': u'Robot : Modifie les catégories',
 	},
 	# Author: ChrisPtDe
 	'frp': {
@@ -238,6 +239,10 @@ msg = {
 	# Author: Praveenp
 	'ml': {
 		'catall-changing': u'യന്ത്രം: വർഗ്ഗങ്ങളിൽ മാറ്റം വരുത്തുന്നു',
+	},
+	# Author: V.narsikar
+	'mr': {
+		'catall-changing': u'यंत्रमानव:वर्ग बदलवित आहे',
 	},
 	# Author: Anakmalaysia
 	'ms': {

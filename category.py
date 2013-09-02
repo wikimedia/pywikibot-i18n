@@ -464,6 +464,7 @@ msg = {
 		'category-replacing': u'Ρομπότ: Αντικατάσταση της κατηγορίας %(oldcat)s με την %(newcat)s',
 		'category-removing': u'Ρομπότ: Αφαίρεση από την %(oldcat)s',
 		'category-was-moved': u'Ρομπότ: Η κατηγορία μετακινήθηκε στην [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Ρομπότ: Μετακινήθηκε από %s. Συντάκτες: %s',
 		'category-section-title': u'Ιστορικό της πρώην %(oldcat)s',
 		'category-listifying': u'Ρομπότ: Καταλογοποίηση από %(fromcat)s (%(num)d καταχωρίσεις)',
 	},
@@ -582,10 +583,11 @@ msg = {
 	# Author: Gomoko
 	# Author: IAlex
 	# Author: Od1n
+	# Author: Rastus Vernon
 	# Author: Sherbrooke
 	# Author: Xqt
 	'fr': {
-		'category-version-history': u'Robot: Enregistrement de l\'historique de version de l\'ancien %(oldcat)s',
+		'category-version-history': u'Robot : Enregistrement de l\'historique de version de l\'ancien %(oldcat)s',
 		'category-changing': u'Robot : modification de %(oldcat)s en %(newcat)s',
 		'category-adding': u'Robot : Ajout de la catégorie [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(également dans %(alsocat)s)',
@@ -967,12 +969,15 @@ msg = {
 	'kv': {
 		'category-adding': u'робот: содтi category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
+	# Author: Maksat
 	# Author: Викиней
 	'ky': {
+		'category-changing': u'Бот:%(oldcat)s  %(newcat)s өзгөрттү',
 		'category-adding': u'робот: кошту category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(%(alsocat)s\'да дагы)',
 		'category-was-disbanded': u'Бот: категория жоюлду',
 		'category-replacing': u'Бот: %(oldcat)s категориясын %(newcat)s\'га алмаштыруу',
+		'category-renamed': u'Бот: %s дан өзгөртүлдү. Авторлор: %s',
 	},
 	# Author: UV
 	'la': {
@@ -1044,9 +1049,11 @@ msg = {
 		'category-replacing': u'Robots: Kategorejis %(oldcat)s puormeišona ar %(newcat)s',
 		'category-removing': u'Robots: Izjimšona nu %(oldcat)s',
 	},
+	# Author: Papuass
 	# Author: Xqt
 	'lv': {
 		'category-adding': u'Robots: Tiek pievienots kategorija [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(arī iekš %(alsocat)s)',
 	},
 	# Author: StefanusRA
 	# Author: Xqt
@@ -1517,6 +1524,7 @@ msg = {
 		'category-replacing': u'Robot nahradil kategóriu %(oldcat)s za %(newcat)s',
 		'category-removing': u'Robot: Odstránenie z %(oldcat)s',
 		'category-was-moved': u'Kategória bola presunutá na [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Presunuté z %s. Autori: %s',
 		'category-section-title': u'História verzií bývalej %(oldcat)s',
 		'category-listifying': u'Robot: vytvorenie zoznamu obsahu kategórie %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položiek}})',
 	},
@@ -1777,6 +1785,7 @@ msg = {
 		'category-replacing': u'Robot: Canbio %(oldcat)s co %(newcat)s',
 		'category-removing': u'Robot: Cavo da %(oldcat)s',
 		'category-was-moved': u'Robot: Ła categoria ła xe stà canbià co [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: Spostà da %s. Autori: %s',
 		'category-section-title': u'Cronołojia de ła preçedente %(oldcat)s',
 		'category-listifying': u'Robot: Creo ła lista da %(fromcat)s ({{PLURAL:%(num)d|1 voxe|%(num)d voxe}})',
 	},

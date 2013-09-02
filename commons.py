@@ -234,6 +234,10 @@ msg = {
 		'commons-file-moved': u'Di Dattei [[:File:%(localfile)s|File]] wood op [[:commons:File:%(commonsfile)s|Wikimedia Commons]] jelaat.',
 		'commons-file-now-available': u'Di Dattei litt jäz op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Maksat
+	'ky': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Файл]]  [[:commons:File:%(commonsfile)s|Уикиказынага]] жөнөтүлгөн.',
+	},
 	# Author: Robby
 	'lb': {
 		'commons-file-moved': u'Bot: [[:File:%(localfile)s|Fichier]] gouf op [[:commons:File:%(commonsfile)s|commons]] geréckelt.',
@@ -278,6 +282,10 @@ msg = {
 	'ml': {
 		'commons-file-moved': u'[[:File:%(localfile)s|പ്രമാണം]] [[:commons:File:%(commonsfile)s|കോമൺസിലേയ്ക്ക്]] മാറ്റിയിരിക്കുന്നു.',
 		'commons-file-now-available': u'പ്രമാണം ഇപ്പോൾ  [[:commons:File:%(commonsfile)s|വിക്കിമീഡിയ കോമൺസിൽ]] ലഭ്യമാണ്.',
+	},
+	# Author: V.narsikar
+	'mr': {
+		'commons-file-now-available': u'संचिका आता [[:commons:File:%(commonsfile)s|विकिमिडिया कॉमन्स]]वर उपलब्ध आहे.',
 	},
 	# Author: Anakmalaysia
 	'ms': {

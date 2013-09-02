@@ -196,6 +196,10 @@ msg = {
 	'ku': {
 		'fixing_redirects-fixing': u'Bot:Beralîkirinan serast bike',
 	},
+	# Author: Викиней
+	'ky': {
+		'fixing_redirects-fixing': u'Бот: Багыттамаларды тууралоо',
+	},
 	# Author: Robby
 	'lb': {
 		'fixing_redirects-fixing': u'Bot: Viruleedunge flécken',

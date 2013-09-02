@@ -191,6 +191,10 @@ msg = {
 	'ksh': {
 		'clean_sandbox-cleaned': u'Bot: allt Zeush fott gedunn.',
 	},
+	# Author: Maksat
+	'ky': {
+		'clean_sandbox-cleaned': u'Бот: Кумкутуну тазалоо',
+	},
 	# Author: Robby
 	'lb': {
 		'clean_sandbox-cleaned': u'Bot:Automatesch gebotzt',
@@ -202,6 +206,10 @@ msg = {
 	# Author: Mantak111
 	'lt': {
 		'clean_sandbox-cleaned': u'Robotas: Automatiškai sutvarkytas',
+	},
+	# Author: Papuass
+	'lv': {
+		'clean_sandbox-cleaned': u'Robots: Automātiski iztīrīta',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -222,6 +230,10 @@ msg = {
 	# Author: Praveenp
 	'ml': {
 		'clean_sandbox-cleaned': u'യന്ത്രം: സ്വയം വൃത്തിയാക്കി',
+	},
+	# Author: V.narsikar
+	'mr': {
+		'clean_sandbox-cleaned': u'यंत्रमानव:स्वयंचलित साफसफाई',
 	},
 	# Author: Anakmalaysia
 	'ms': {

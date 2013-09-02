@@ -256,6 +256,7 @@ msg = {
 	'el': {
 		'redirect-fix-double': u'Ρομπότ: Διόρθωση διπλής ανακατεύθυνσης προς %(to)s',
 		'redirect-remove-broken': u'Ρομπότ: Ανακατεύθυνση σε μια σελίδα διαγεγραμμένη  ή ανύπαρκτη',
+		'redirect-fix-broken-moved': u'Ρομπότ: Διόρθωση σπασμένης ανακατεύθυνσης προς την μετακινημένη σελίδα στόχο %(to)s',
 		'redirect-fix-loop': u'Ρομπότ: Διόρθωση βρόχου ανακατεύθυνσης στο %(to)s',
 		'redirect-remove-loop': u'Robot: Ανακατεύθυνση στόχου σχηματίζει έναν βρόγχο ανακατεύθυνσης',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -532,9 +533,11 @@ msg = {
 	'ku': {
 		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
 	},
+	# Author: Maksat
 	# Author: Викиней
 	'ky': {
 		'redirect-fix-double': u'Бот: кош багыттаманы жоюу → %(to)s',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: MissPetticoats
 	# Author: UV
@@ -576,6 +579,7 @@ msg = {
 	'map-bms': {
 		'redirect-fix-double': u'Bot: Mbenerna pengalihan ganda maring %(to)s',
 		'redirect-remove-broken': u'Robot: Pangalihan ming kaca sing ora ana utawa wis debusek',
+		'redirect-fix-broken-moved': u'Robot:Ndandani pangalihan ruwag maring kaca target sing dipindah %(to)s',
 		'redirect-fix-loop': u'Robot: Ndandani pengalihan dobel maring %(to)s',
 		'redirect-remove-loop': u'Robot: Target pangalihan marekna dadi pengalihan siklik',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -755,7 +759,7 @@ msg = {
 		'redirect-fix-double': u'Robô: A corrigir o redirecionamento duplo para %(to)s',
 		'redirect-remove-broken': u'Robô: Redirecionamento para uma página eliminada ou inexistente',
 		'redirect-fix-broken-moved': u'Robô: A corrigir redirecionamento quebrado para página alvo movida %(to)s',
-		'redirect-fix-loop': u'Robô: A corrigir o ciclo de redireccionamentos para %(to)s',
+		'redirect-fix-loop': u'Robô: A corrigir o ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Robô: O destino do redirecionamento cria um ciclo de redirecionamentos',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
@@ -817,6 +821,7 @@ msg = {
 	'sk': {
 		'redirect-fix-double': u'Robot: Opravujem dvojité presmerovanie na %(to)s',
 		'redirect-remove-broken': u'Robot: Presmerovanie na neexistujúcu stránku',
+		'redirect-fix-broken-moved': u'Robot: Oprava porušeného presmerovania na presunutú cieľovú stránku %(to)s',
 		'redirect-fix-loop': u'Robot: Oprava cyklického presmerovania na %(to)s',
 		'redirect-remove-loop': u'Robot: Cieľ presmerovania tvorí slučku',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
@@ -960,7 +965,7 @@ msg = {
 	# Author: GatoSelvadego
 	'vec': {
 		'redirect-fix-double': u'Robot: Sistemo i dopi rimandi a %(to)s',
-		'redirect-remove-broken': u'Robot: El rindirisamento el ponta a na pajina inexistente',
+		'redirect-remove-broken': u'Bot: Rinvio a na pagina scancelà o mia esistente',
 		'redirect-fix-loop': u'Robot: Preparasion de un ciclo de rindirisamento a %(to)s',
 		'redirect-remove-loop': u'Ła destinasion del rindirisamento rimanda a ła pajina de partensa',
 		'redirect-broken-redirect-template': u'{{Scanseła suito|9}}',
@@ -1034,6 +1039,7 @@ msg = {
 	'zh-hk': {
 		'redirect-fix-double': u'機械人修正雙重定向至%(to)s',
 		'redirect-remove-broken': u'[[WP:SD#G15|G15]]：[[Wikipedia:重定向|重定向]]到已刪除或不存在的頁面',
+		'redirect-fix-broken-moved': u'機械人修復損壞的重定向到已移動的目標頁面%(to)s',
 		'redirect-fix-loop': u'機械人修復重定向迴圈至%(to)s',
 		'redirect-remove-loop': u'[[WP:SD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
 		'redirect-broken-redirect-template': u'{{db-r1}}',

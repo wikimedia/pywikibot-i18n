@@ -102,8 +102,10 @@ msg = {
 		'table2wiki-warnings': u'Botê kontrolkarê karberan: imlay tabloy kerd newi {{PLURAL:count|1|%(count)d}}',
 		'table2wiki-no-warning': u'Karberê qontrolkarê boti: İmlay tabloy kerd anewi',
 	},
+	# Author: Geraki
 	# Author: Glavkos
 	'el': {
+		'table2wiki-warnings': u'Ρομπότ που ελέγχεται από χρήστη: Η σύνταξη πίνακα ενημερώθηκε - {{PLURAL:count|1 προειδοποίηση|%(count)d προειδοποιήσεις}}!',
 		'table2wiki-no-warning': u'Ρομπότ ελεγχόμενο από το χρήστη: Ο πίνακας σύνταξης ενημερώθηκε',
 	},
 	# Author: Blahma

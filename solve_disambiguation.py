@@ -244,6 +244,7 @@ msg = {
 		'solve_disambiguation-redirect-resolved': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αλλάχτηκε(αν) προς  %(to)s',
 		'solve_disambiguation-links-resolved': u'Υποβοηθούμενη από ρομπότ αποσαφήνιση: %(from)s - Αλλαγή συνδέσμου(ων) στο %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενος ειδικού',
+		'solve_disambiguation-adding-dn-template': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενός ειδικού',
 		'solve_disambiguation-unknown-page': u'(άγνωστο)',
 		'solve_disambiguation-links-removed': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν).',
 	},
@@ -305,6 +306,7 @@ msg = {
 		'solve_disambiguation-redirect-removed': u'Rættar leinkju við fleiri týdningum til: %(from)s - Tók burtur leinkju(r)',
 		'solve_disambiguation-redirect-resolved': u'Rætta leinkju við fleiri meiningum: %(from)s - Broytti leinkju(r) til %(to)s',
 		'solve_disambiguation-unknown-page': u'(ókent)',
+		'solve_disambiguation-links-removed': u'Rættar leinkju við fleiri týdningum við hjálp frá botti: %(from)s - Tók burtur leinkju(r)',
 	},
 	# Author: Boniface
 	# Author: IAlex

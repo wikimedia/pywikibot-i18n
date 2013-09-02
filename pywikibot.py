@@ -45,7 +45,7 @@ msg = {
 	'ast': {
 		'pywikibot-enter-xml-filename': u'Escribi\'l nome del ficheru XML de volcáu:',
 		'pywikibot-enter-page-processing': u'¿Que páxina hai que procesar?',
-		'pywikibot-enter-file-links-processing': u'¿Los enllaces a que páxina d\'imaxe hai que procesar?',
+		'pywikibot-enter-file-links-processing': u'¿Qué enllaces a páxina de ficheru hai que procesar?',
 		'pywikibot-enter-namespace-number': u'Escribi un espaciu de nomes pol so númberu:',
 		'pywikibot-enter-new-text': u'Escribi\'l testu nuevu:',
 		'pywikibot-enter-category-name': u'Escribi\'l nome de categoría:',
@@ -113,23 +113,29 @@ msg = {
 		'pywikibot-enter-category-name': u'Unesite naziv kategorije:',
 		'pywikibot-enter-finished-browser': u'Pritisnite "Enter" kada završite u pregledniku.',
 	},
+	# Author: Alvaro Vidal-Abarca
 	# Author: Pitort
 	# Author: Toniher
 	# Author: XVEC
 	'ca': {
 		'pywikibot-enter-xml-filename': u'Siusplau introdueix el nom del fitxer abocador d\'XML .',
 		'pywikibot-enter-page-processing': u'Quina pàgina ha de ser processada?',
-		'pywikibot-enter-file-links-processing': u'Enllaços a la pàgina de la imatge que s\'hauria de processar?',
+		'pywikibot-enter-file-links-processing': u'Els enllaços a quina pàgina del fitxer s\'haurien de processar?',
 		'pywikibot-enter-namespace-number': u'Introduïu un espai de noms pel seu número:',
 		'pywikibot-enter-new-text': u'Siusplau introdueix el nou text :',
 		'pywikibot-enter-category-name': u'Siusplau introdueix el nom de la categoria :',
 		'pywikibot-enter-finished-browser': u'Apreta Enter quan s\'hagi acabat amb el navegador',
 	},
+	# Author: Умар
+	'ce': {
+		'pywikibot-enter-category-name': u'Дехар до, дӀаязъе категорин цӀе:',
+	},
+	# Author: Leanes
 	# Author: Tchoř
 	'cs': {
 		'pywikibot-enter-xml-filename': u'Zadejte jméno souboru s XML dumpem:',
 		'pywikibot-enter-page-processing': u'Která stránka má být zpracována?',
-		'pywikibot-enter-file-links-processing': u'Odkazy na kterou stránku s médiem mají být zpracovány?',
+		'pywikibot-enter-file-links-processing': u'Odkazy na kterou stránku se souborem mají být zpracovány?',
 		'pywikibot-enter-namespace-number': u'Zadejte jmenný prostor jeho číslem:',
 		'pywikibot-enter-new-text': u'Prosím zadejte nový text:',
 		'pywikibot-enter-category-name': u'Prosím, zadejte jméno kategorie:',
@@ -191,6 +197,8 @@ msg = {
 	# Author: Glavkos
 	'el': {
 		'pywikibot-enter-xml-filename': u'Παρακαλώ εισάγετε το όνομα του αρχείου XML:',
+		'pywikibot-enter-page-processing': u'Ποια σελίδα να υποβληθεί σε επεξεργασία;',
+		'pywikibot-enter-file-links-processing': u'Συνδέσεις σε ποια σελίδα αρχείου να υποβληθούν σε επεξεργασία;',
 		'pywikibot-enter-namespace-number': u'Παρακαλώ εισάγετε έναν ονοματοχώρο με τον αριθμό του:',
 		'pywikibot-enter-new-text': u'Παρακαλώ πληκτρολογήστε το νέο κείμενο:',
 		'pywikibot-enter-category-name': u'Παρακαλώ εισάγετε το όνομα της κατηγορίας:',
@@ -208,10 +216,11 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Post laborfino en la retumilo, premu Enter.',
 	},
 	# Author: Armando-Martin
+	# Author: Benfutbol10
 	'es': {
 		'pywikibot-enter-xml-filename': u'Por favor, introduce el nombre del archivo de descarga XML:',
 		'pywikibot-enter-page-processing': u'¿Qué página se debe procesar?',
-		'pywikibot-enter-file-links-processing': u'¿A qué página de imagen se deben procesar los enlaces?',
+		'pywikibot-enter-file-links-processing': u'¿A qué página de archivo se deben procesar los enlaces?',
 		'pywikibot-enter-namespace-number': u'Introduce un espacio de nombres según su número:',
 		'pywikibot-enter-new-text': u'Escribe el nuevo texto:',
 		'pywikibot-enter-category-name': u'Introduce el nombre de la categoría:',
@@ -258,7 +267,7 @@ msg = {
 	'fr': {
 		'pywikibot-enter-xml-filename': u'Veuillez entrer le nom du fichier d\'extraction XML:',
 		'pywikibot-enter-page-processing': u'Quelle page faut-il traiter?',
-		'pywikibot-enter-file-links-processing': u'Liens vers la page d\'image qu\'il faudrait traiter?',
+		'pywikibot-enter-file-links-processing': u'Liens vers la page de fichier qu’il faudrait traiter ?',
 		'pywikibot-enter-namespace-number': u'Veuillez entrer un espace de noms par son numéro:',
 		'pywikibot-enter-new-text': u'Veuillez entrer le nouveau texte:',
 		'pywikibot-enter-category-name': u'Veuillez entrer le nom de la catégorie:',
@@ -278,7 +287,7 @@ msg = {
 	'gl': {
 		'pywikibot-enter-xml-filename': u'Insira o nome do ficheiro de descarga XML:',
 		'pywikibot-enter-page-processing': u'Que páxina se debe procesar?',
-		'pywikibot-enter-file-links-processing': u'As ligazóns a que páxina de imaxe se deben procesar?',
+		'pywikibot-enter-file-links-processing': u'As ligazóns a que páxina de ficheiro se deben procesar?',
 		'pywikibot-enter-namespace-number': u'Insira un espazo de nomes segundo o seu número:',
 		'pywikibot-enter-new-text': u'Insira o novo texto:',
 		'pywikibot-enter-category-name': u'Insira o nome da categoría:',
@@ -320,11 +329,19 @@ msg = {
 	'ia': {
 		'pywikibot-enter-xml-filename': u'Per favor entra le nomine del file de extraction XML:',
 		'pywikibot-enter-page-processing': u'Qual page debe esser tractate?',
-		'pywikibot-enter-file-links-processing': u'Le ligamines a qual pagina de imagine debe esser tractate?',
+		'pywikibot-enter-file-links-processing': u'Le ligamines a qual pagina de file debe esser tractate?',
 		'pywikibot-enter-namespace-number': u'Per favor entra le numero de un spatio de nomines:',
 		'pywikibot-enter-new-text': u'Per favor entra le nove texto:',
 		'pywikibot-enter-category-name': u'Per favor entra le nomine del categoria:',
 		'pywikibot-enter-finished-browser': u'Preme Enter quando tu ha finite le modification in le navigator.',
+	},
+	# Author: Ilham151096
+	'id': {
+		'pywikibot-enter-xml-filename': u'Silakan masukkan nama berkas XML dump:',
+		'pywikibot-enter-page-processing': u'Halaman yang harus diproses?',
+		'pywikibot-enter-new-text': u'Masukkan teks baru:',
+		'pywikibot-enter-category-name': u'Silakan masukkan nama kategori:',
+		'pywikibot-enter-finished-browser': u'Tekan Enter setelah selesai di peramban.',
 	},
 	# Author: Snævar
 	'is': {
@@ -394,7 +411,7 @@ msg = {
 	'lb': {
 		'pywikibot-enter-xml-filename': u'Gitt w.e.g. den Numm vum XML-Dump-Fichier an:',
 		'pywikibot-enter-page-processing': u'Watfir eng Säit soll verschafft ginn?',
-		'pywikibot-enter-file-links-processing': u'Linken op wat fir eng Biller-Säit solle geännert ginn?',
+		'pywikibot-enter-file-links-processing': u'Linken op wat fir eng Biller-Säit verschaftt solle ginn?',
 		'pywikibot-enter-namespace-number': u'Gitt w.e.g. d\'Nummer vum Nummraum an:',
 		'pywikibot-enter-new-text': u'Gitt w.e.g. den neien Text an:',
 		'pywikibot-enter-category-name': u'Gitt w.e.g. den Numm vun der Kategorie an:',
@@ -410,11 +427,19 @@ msg = {
 		'pywikibot-enter-category-name': u'Įveskite kategorijos pavadinimą:',
 		'pywikibot-enter-finished-browser': u'Paspauskite Enter kuomet baigsite naršyklėje.',
 	},
+	# Author: Papuass
+	'lv': {
+		'pywikibot-enter-page-processing': u'Kura lapa būtu jāapstrādā?',
+		'pywikibot-enter-file-links-processing': u'Saites uz kuru faila lapu būtu jāapstrādā?',
+		'pywikibot-enter-namespace-number': u'Lūdzu, ievadiet vārdtelpu pēc tās numura:',
+		'pywikibot-enter-new-text': u'Lūdzu, ievadiet jaunu tekstu:',
+		'pywikibot-enter-category-name': u'Lūdzu, ievadiet kategorijas nosaukumu:',
+	},
 	# Author: StefanusRA
 	'map-bms': {
 		'pywikibot-enter-xml-filename': u'Monggo nglebokna jenengberkas dump XML:',
 		'pywikibot-enter-page-processing': u'Kaca endi sing arep deproses ?',
-		'pywikibot-enter-file-links-processing': u'Pranala maring kaca gambar endi sing arep deproses?',
+		'pywikibot-enter-file-links-processing': u'Pranala maring kaca berkas endi sing arep deproses?',
 		'pywikibot-enter-namespace-number': u'Monggo lebokna bilikjeneng nanggo nomere:',
 		'pywikibot-enter-new-text': u'Monggo lebokna teks anyar:',
 		'pywikibot-enter-category-name': u'Monggo lebokna jeneng kategori:',
@@ -444,7 +469,7 @@ msg = {
 	'mk': {
 		'pywikibot-enter-xml-filename': u'Внесете го името на XML-складот:',
 		'pywikibot-enter-page-processing': u'Која страница треба да се обработи?',
-		'pywikibot-enter-file-links-processing': u'Треба да се обработат врските до која слика?',
+		'pywikibot-enter-file-links-processing': u'За која податотека да ги обработам врските?',
 		'pywikibot-enter-namespace-number': u'Внесете го именскиот простор според неговиот број:',
 		'pywikibot-enter-new-text': u'Внесете го новиот текст:',
 		'pywikibot-enter-category-name': u'Внесете го името на категоријата:',
@@ -464,7 +489,7 @@ msg = {
 	'ms': {
 		'pywikibot-enter-xml-filename': u'Sila masukkan nama fail longgokan XML:',
 		'pywikibot-enter-page-processing': u'Halaman yang manakah harus diproses?',
-		'pywikibot-enter-file-links-processing': u'Pautan ke halaman imej yang manakah harus diproses?',
+		'pywikibot-enter-file-links-processing': u'Pautan ke halaman fail yang manakah harus diproses?',
 		'pywikibot-enter-namespace-number': u'Sila masukkan ruang nama mengikut nombornya:',
 		'pywikibot-enter-new-text': u'Sila masukkan teks baru:',
 		'pywikibot-enter-category-name': u'Sila masukkan nama kategori:',
@@ -526,17 +551,18 @@ msg = {
 	'pms': {
 		'pywikibot-enter-xml-filename': u'Për piasì anseriss ël nòm ëd l\'archivi XML dël dump:',
 		'pywikibot-enter-page-processing': u'Che pàgina a ventrìa traté?',
-		'pywikibot-enter-file-links-processing': u'Liure a la pàgina ëd plancia ch\'a ventrìa traté?',
+		'pywikibot-enter-file-links-processing': u'Liure a la pàgina d\'archivi ch\'a ventrìa traté?',
 		'pywikibot-enter-namespace-number': u'Për piasì anseriss në spassi nominal con sò nùmer:',
 		'pywikibot-enter-new-text': u'Për piasì, ch\'a anserissa ël test neuv:',
 		'pywikibot-enter-category-name': u'Për piasì, ch\'a anserissa ël nòm ëd la categorìa:',
 		'pywikibot-enter-finished-browser': u'Ch\'a sgnaca A cap quand a l\'ha finì ant ël navigador.',
 	},
 	# Author: Alchimista
+	# Author: Malafaya
 	'pt': {
 		'pywikibot-enter-xml-filename': u'Por favor introduza o nome do ficheiro XML:',
 		'pywikibot-enter-page-processing': u'Que página deve ser processada?',
-		'pywikibot-enter-file-links-processing': u'Para qual imagem devem ser processados os links?',
+		'pywikibot-enter-file-links-processing': u'Para qual página de ficheiro devem ser processados os links?',
 		'pywikibot-enter-namespace-number': u'Por favor introduza um namespace pelo seu número:',
 		'pywikibot-enter-new-text': u'Por favor introduza o novo texto:',
 		'pywikibot-enter-category-name': u'Por favor introduza o nome da categoria:',
@@ -577,6 +603,16 @@ msg = {
 	'si': {
 		'pywikibot-enter-new-text': u'කරුණාකර නව පෙළ යොදන්න:',
 		'pywikibot-enter-category-name': u'කරුණාකර ප්‍රවර්ග නාමය යොදන්න:',
+	},
+	# Author: Teslaton
+	'sk': {
+		'pywikibot-enter-xml-filename': u'Zadajte názov súboru s XML výpisom:',
+		'pywikibot-enter-page-processing': u'Ktorá stránka má byť spracovaná?',
+		'pywikibot-enter-file-links-processing': u'Odkazy na ktorú stránku so súborom majú býť spracované?',
+		'pywikibot-enter-namespace-number': u'Zadajte číslo menného priestoru:',
+		'pywikibot-enter-new-text': u'Zadajte nový text:',
+		'pywikibot-enter-category-name': u'Zadajte názov kategórie:',
+		'pywikibot-enter-finished-browser': u'Po ukončení činnosti v prehliadači stlačte Enter.',
 	},
 	# Author: Dbc334
 	# Author: Irena Plahuta
@@ -627,10 +663,11 @@ msg = {
 	},
 	# Author: Cybjit
 	# Author: Lokal Profil
+	# Author: WikiPhoenix
 	'sv': {
 		'pywikibot-enter-xml-filename': u'Ange XML-dumpens filnamn:',
 		'pywikibot-enter-page-processing': u'Vilken sida ska behandlas?',
-		'pywikibot-enter-file-links-processing': u'Länkar till vilken bildsida ska behandlas?',
+		'pywikibot-enter-file-links-processing': u'Länkar till vilken filsida ska behandlas?',
 		'pywikibot-enter-namespace-number': u'Ange namnrymden via dess nummer:',
 		'pywikibot-enter-new-text': u'Skriv in den nya texten:',
 		'pywikibot-enter-category-name': u'Ange kategorinamnet:',
@@ -681,7 +718,7 @@ msg = {
 	'vi': {
 		'pywikibot-enter-xml-filename': u'Xin vui lòng nhập tên tập tin của bản sao lưu XML:',
 		'pywikibot-enter-page-processing': u'Nên xử lý trang nào?',
-		'pywikibot-enter-file-links-processing': u'Nên xử lý các liên kết đến trang miêu tả hình ảnh nào?',
+		'pywikibot-enter-file-links-processing': u'Nên xử lý các liên kết đến trang miêu tả tập tin nào?',
 		'pywikibot-enter-namespace-number': u'Xin vui lòng nhập số không gian tên:',
 		'pywikibot-enter-new-text': u'Xin vui lòng nhập văn bản mới:',
 		'pywikibot-enter-category-name': u'Xin vui lòng nhập tên thể loại:',
@@ -714,7 +751,7 @@ msg = {
 	'zh-hk': {
 		'pywikibot-enter-xml-filename': u'請輸入XML Dump的檔案名稱：',
 		'pywikibot-enter-page-processing': u'需要處理哪個頁面？',
-		'pywikibot-enter-file-links-processing': u'應該處理甚麼圖像的連入頁面？',
+		'pywikibot-enter-file-links-processing': u'應該處理甚麼檔案的連入頁面？',
 		'pywikibot-enter-namespace-number': u'請輸入名字空間編號：',
 		'pywikibot-enter-new-text': u'請輸入新文字：',
 		'pywikibot-enter-category-name': u'請輸入分類名稱：',

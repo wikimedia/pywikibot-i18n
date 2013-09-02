@@ -284,6 +284,14 @@ msg = {
 		'delete-from-file': u'Bot: fájlok listájának törlése',
 		'delete-linked-pages': u'Bot: %(page)s lapról hivatkozott valamennyi lap törlése',
 	},
+	# Author: Chaojoker
+	'hy': {
+		'delete-images': u'Ռոբոտ․ %(page) էջ[եր]ի բոլոր պատկերները ջնջվում են',
+		'delete-referring-pages': u'Ռոբոտ․ %(page)s-ից հղվող բոլոր էջերը ջնջվում են',
+		'delete-from-category': u'Ռոբոտ․ %(page)s կատեգորիայի բոլոր էջերը ջնջվում են',
+		'delete-from-file': u'Ռոբոտ․ նիշքերի մի ցանկ է ջնջվում։',
+		'delete-linked-pages': u'Ռոբոտ․ %(page)s-ից հղված բոլոր էջերը ջնջվում են',
+	},
 	# Author: McDutchie
 	'ia': {
 		'delete-images': u'Robot: Deletion de tote le imagines in le pagina %(page)s',
@@ -435,6 +443,13 @@ msg = {
 		'delete-from-category': u'യന്ത്രം: %(page)s എന്ന വർഗ്ഗത്തിലെ എല്ലാ താളുകളും മായ്ക്കുന്നു',
 		'delete-from-file': u'യന്ത്രം: പട്ടികയിലെ പ്രമാണങ്ങൾ മായ്ക്കുന്നു',
 		'delete-linked-pages': u'യന്ത്രം: %(page)s എന്ന താളിൽ നിന്ന് കണ്ണി ചേർത്തിട്ടുള്ള എല്ലാ താളുകളും മായ്ക്കുന്നു',
+	},
+	# Author: V.narsikar
+	'mr': {
+		'delete-images': u'यंत्रमानव: या पानावरील सर्व चित्रे वगळत आहे%(page)s',
+		'delete-from-category': u'%(page)sया वर्गातील सर्व पाने%(page)s वगळत आहे',
+		'delete-from-file': u'यंत्रमानव:संचिकांची यादी वगळत आहे',
+		'delete-linked-pages': u'यंत्रमानव: या पानांशी दुवे असलेली सर्व%(page)sपाने वगळत आहे',
 	},
 	# Author: Anakmalaysia
 	'ms': {

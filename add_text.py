@@ -443,6 +443,10 @@ msg = {
 	'os': {
 		'add_text-adding': u'Робот бавæрдта %(adding)s',
 	},
+	# Author: Aalam
+	'pa': {
+		'add_text-adding': u'ਰੋਬੋਟ: %(adding)s ਜੋੜੇ ਜਾ ਰਹੇ ਹਨ',
+	},
 	'pcd': {
 		'add_text-adding': u'Robot Rajoute %(adding)s',
 	},

@@ -1063,6 +1063,7 @@ msg = {
 	'ltg': {
 		'interwiki-adding': u'robots dalika: %(adding)s',
 	},
+	# Author: Papuass
 	'lv': {
 		'interwiki-modifying': u'robots izmaina: %(modifying)s',
 		'interwiki-adding-modifying': u'robots pievieno: %(adding)s izmaina: %(modifying)s',
@@ -1071,6 +1072,7 @@ msg = {
 		'interwiki-adding': u'robots pievieno: %(adding)s',
 		'interwiki-removing': u'robots izņem: %(removing)s',
 		'interwiki-removing-modifying': u'robots izņem: %(removing)s izmaina: %(modifying)s',
+		'interwiki-modifying-from': u'Robots: Izmaina %(from)s uz %(modifying)s',
 	},
 	# Author: Hugo.arg
 	# Author: Xqt

@@ -192,6 +192,10 @@ msg = {
 	'ksh': {
 		'noreferences-add-tag': u'Bot: Ene <references /> Befähl hät jefählt. Dobeijedonn.',
 	},
+	# Author: Викиней
+	'ky': {
+		'noreferences-add-tag': u'Бот: Жазылбай калган <references /> тегин кошуу',
+	},
 	# Author: Robby
 	'lb': {
 		'noreferences-add-tag': u'Bot: Tag <references /> dee gefeelt huet derbäigesat',

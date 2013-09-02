@@ -264,18 +264,21 @@ msg = {
 	# Author: EileenSanda
 	'fo': {
 		'archivebot-older-than': u'eldri enn',
+		'archivebot-page-summary': u'Bottur: Arkiverar %(count)d {{PLURAL:%(count)d|tráð|træðrir}} (%(why)s) til %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARKIVIÐ ER FULT)',
+		'archivebot-archive-summary': u'Bottur: Arkiverar %(count)d {{PLURAL:%(count)d|tráð|træðrir}} frá [[%(from)s]].',
 	},
 	# Author: Boniface
 	# Author: Gomoko
+	# Author: Rastus Vernon
 	# Author: Xqt
 	'fr': {
 		'archivebot-older-than': u'plus ancien que',
-		'archivebot-page-summary': u'Robot: Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
+		'archivebot-page-summary': u'Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHIVE SATURÉE)',
-		'archivebot-archive-summary': u'Robot: Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]].',
 	},
 	# Author: ChrisPtDe
 	# Author: Xqt
@@ -302,6 +305,10 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',
 		'archivebot-archive-summary': u'Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} de [[%(from)s]].',
+	},
+	# Author: P. S. F. Freitas
+	'gn': {
+		'archivebot-older-than': u'itujaveva',
 	},
 	# Author: Jetlag
 	'hak': {

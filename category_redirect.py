@@ -571,6 +571,11 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s ഉള്ളത് %(oldcat)s-ൽ ആണ്, അതാകട്ടെ %(newcat)s എന്നതിലേക്ക് തിരിച്ചുവിടപ്പെട്ടിരിക്കുന്നു',
 		'category_redirect-fix-double': u'യന്ത്രം: ഇരട്ട-തിരിച്ചുവിടലുകൾ ശരിയാക്കുന്നു',
 	},
+	# Author: V.narsikar
+	'mr': {
+		'category_redirect-comment': u'वर्ग पुनर्निर्देशन सुचालन यंत्रमानव',
+		'category_redirect-fix-double': u'यंत्रमानव:दुहेरी पुनर्निर्देशने ठिकठाक करीत आहे',
+	},
 	# Author: Anakmalaysia
 	'ms': {
 		'category_redirect-comment': u'Bot penyelenggaraan lencongan kategori',
@@ -659,7 +664,7 @@ msg = {
 	# Author: Hamilton Abreu
 	# Author: Luckas
 	'pt': {
-		'category_redirect-comment': u'Robô de manutenção de redireccionamentos de categorias',
+		'category_redirect-comment': u'Robô de manutenção de redirecionamentos de categorias',
 		'category_redirect-change-category': u'Robô: Alteração da categoria redireccionada [[:%(oldCatLink)s|%(oldCatTitle)s]] para [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Robô: Adição da predefinição de redirecionamento da categoria',
 		'category_redirect-edit-request': u'As seguintes páginas protegidas necessitam de atualização dos links de categorias: %(itemlist)s',

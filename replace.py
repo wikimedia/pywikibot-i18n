@@ -210,6 +210,10 @@ msg = {
 	'ku': {
 		'replace-replacing': u'Bot: Otomatîk nivîs guherandin %(description)s',
 	},
+	# Author: Викиней
+	'ky': {
+		'replace-replacing': u'Бот: %(description)s текстин автоматтуу түрдө алмаштыруу',
+	},
 	# Author: UV
 	'la': {
 		'replace-replacing': u'automaton: mutans textum automatice: %(description)s',

@@ -171,6 +171,10 @@ msg = {
 	'ksh': {
 		'unlink-unlinking': u'Bot: Lenk op „%s“ fott nämme.',
 	},
+	# Author: Maksat
+	'ky': {
+		'unlink-unlinking': u'Бот: Шилтемени өчүрүү "%s"',
+	},
 	# Author: Robby
 	'lb': {
 		'unlink-unlinking': u'Bot: Entlinke vun "%s"',

@@ -80,6 +80,10 @@ msg = {
 	'diq': {
 		'ndashredir-create': u'Boti [[%(title)s]] ra hetanayışi melumatê vıraşt',
 	},
+	# Author: Geraki
+	'el': {
+		'ndashredir-create': u'Bot: Δημιουργία ανακατεύθυνσης με ενωτικό στο [[%(title)s]]',
+	},
 	# Author: Blahma
 	# Author: Objectivesea
 	'eo': {
@@ -157,6 +161,10 @@ msg = {
 	# Author: Purodha
 	'ksh': {
 		'ndashredir-create': u'Bot:  Han en Ömleidong met Bendeschresch op [[%(title)s]] aanjelaat.',
+	},
+	# Author: Викиней
+	'ky': {
+		'ndashredir-create': u'Бот: [[%(title)s]] барагына дефис аркылуу багыттама түзүү',
 	},
 	# Author: Robby
 	'lb': {

@@ -266,6 +266,10 @@ msg = {
 	'no': {
 		'capitalize_redirects-create-redirect': u'Robot: Opprett omdirigering til [[%(to)s]]',
 	},
+	# Author: Cedric31
+	'oc': {
+		'capitalize_redirects-create-redirect': u'Robòt : Crear una redireccion cap a [[%(to)s]]',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'capitalize_redirects-create-redirect': u'Robot tworzy przekierowanie do [[%(to)s]]',
