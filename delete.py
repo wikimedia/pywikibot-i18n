@@ -2,7 +2,7 @@
 msg = {
 	'en': {
 		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
-		'delete-from-file': u'Robot: Deleting a list of files.',
+		'delete-from-file': u'Robot: Deleting a list of pages.',
 		'delete-images': u'Robot: Deleting all images on page %(page)s',
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
