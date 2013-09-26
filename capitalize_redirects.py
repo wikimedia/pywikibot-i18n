@@ -19,8 +19,9 @@ msg = {
 	'als': {
 		'capitalize_redirects-create-redirect': u'Bötli: e Wyterleitig uff [[%(to)s]] aaglait',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'بوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},
 	# Author: Man2fly2002
 	'arc': {

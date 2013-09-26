@@ -23,10 +23,11 @@ msg = {
 		'template-changing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s',
 		'template-substituting': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} usstuusche: %(list)s',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
-		'template-changing': u'روبوت: تغيير {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
-		'template-substituting': u'روبوت: نسخ {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s',
+		'template-removing': u'بوت: إزالة {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
+		'template-changing': u'بوت: استبدال {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
+		'template-substituting': u'بوت: نسخ {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
 	},
 	# Author: Basharh
 	'arc': {

@@ -43,10 +43,11 @@ msg = {
 	},
 	# Author: Meno25
 	# Author: OsamaK
+	# Author: Zaher kadour
 	'ar': {
 		'category_redirect-comment': u'بوت صيانة تحويلات التصانيف',
-		'category_redirect-change-category': u'روبوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'روبوت: إضافة قالب تحويل تصنيف للصيانة',
+		'category_redirect-change-category': u'بوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'بوت: إضافة قالب تحويل تصنيف للصيانة',
 		'category_redirect-edit-request': u'الصفحات المحمية التالية تم كشفها كمحتاجة تحديثات لوصلات التصنيف: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s في %(oldcat)s, وهو تحويل إلى %(newcat)s',
 		'category_redirect-fix-double': u'بوت: إصلاح تحويلة مزدوجة',

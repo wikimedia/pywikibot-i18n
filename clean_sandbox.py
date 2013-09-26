@@ -14,8 +14,9 @@ msg = {
 	'als': {
 		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
+		'clean_sandbox-cleaned': u'بوت: هذه الصفحة سيتم تفريغها تلقائيا',
 	},
 	# Author: Basharh
 	'arc': {
@@ -247,8 +248,9 @@ msg = {
 		'clean_sandbox-cleaned': u'Bot: automaties an-ekeerd.',
 	},
 	# Author: Siebrand
+	# Author: Southparkfan
 	'nl': {
-		'clean_sandbox-cleaned': u'Robot: automatisch voorzien van schoon zand.',
+		'clean_sandbox-cleaned': u'Robot: automatisch voorzien van schoon zand',
 	},
 	# Author: Njardarlogar
 	'nn': {

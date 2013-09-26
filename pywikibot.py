@@ -152,11 +152,12 @@ msg = {
 		'pywikibot-enter-category-name': u'Nodwch enw\'r categori:',
 		'pywikibot-enter-finished-browser': u'Pwyswch Enter ar ôl gorffen pori.',
 	},
+	# Author: Christian List
 	# Author: Kaare
 	'da': {
 		'pywikibot-enter-xml-filename': u'Skriv XML-dumpets filnavn:',
 		'pywikibot-enter-page-processing': u'Hvilken side skal behandles?',
-		'pywikibot-enter-file-links-processing': u'Links til hvilken billedside skal behandles?',
+		'pywikibot-enter-file-links-processing': u'Links til hvilken fil side skal behandles?',
 		'pywikibot-enter-namespace-number': u'Angiv et navnerum via dets nummer:',
 		'pywikibot-enter-new-text': u'Skriv den nye tekst:',
 		'pywikibot-enter-category-name': u'Skriv kategorinavnet:',
@@ -396,7 +397,7 @@ msg = {
 	'ksh': {
 		'pywikibot-enter-xml-filename': u'Jif däm <i lang="en">XML-Dump</i> singe Dateiname en:',
 		'pywikibot-enter-page-processing': u'Wat för en Sigg sulle mer beärbeide?',
-		'pywikibot-enter-file-links-processing': u'De lengks op wat för en Beldersigg sulle beörbeid wääde?',
+		'pywikibot-enter-file-links-processing': u'De Lengks op wat för en Datteisigg sull beärbeid wääde?',
 		'pywikibot-enter-namespace-number': u'Jif de Nommer för dat Apachtemang en:',
 		'pywikibot-enter-new-text': u'Jif dä neue Täx en:',
 		'pywikibot-enter-category-name': u'Jif dä Saachjropp iere Naame en:',
@@ -479,7 +480,7 @@ msg = {
 	'ml': {
 		'pywikibot-enter-xml-filename': u'ദയവായി എക്സ്.എം.എൽ. ഡമ്പിന്റെ ഫയൽനേം നൽകുക:',
 		'pywikibot-enter-page-processing': u'ഏത് താളാണ് ഉപയോഗിക്കേണ്ടത്?',
-		'pywikibot-enter-file-links-processing': u'ഉപയോഗിക്കേണ്ട ചിത്ര താളിലേയ്ക്കുള്ള കണ്ണികൾ?',
+		'pywikibot-enter-file-links-processing': u'ഏത് പ്രമാണ താളിലേയ്ക്കുള്ള കണ്ണികളാണ് കൈകാര്യം ചെയ്യേണ്ടത്?',
 		'pywikibot-enter-namespace-number': u'ദയവായി നാമമേഖല അതിന്റെ നമ്പർ ഉപയോഗിച്ച് നൽകുക:',
 		'pywikibot-enter-new-text': u'ദയവായി പുതിയ എഴുത്ത് നൽകുക:',
 		'pywikibot-enter-category-name': u'ദയവായി വർഗ്ഗത്തിന്റെ പേര് നൽകുക:',
@@ -537,10 +538,11 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Trykk Enter når du er ferdig i nettleseren.',
 	},
 	# Author: Matma Rex
+	# Author: Woytecr
 	'pl': {
 		'pywikibot-enter-xml-filename': u'Wpisz nazwę pliku ze zrzutem w formacie XML:',
 		'pywikibot-enter-page-processing': u'Jaką stronę przetworzyć?',
-		'pywikibot-enter-file-links-processing': u'Linki do strony jakiej grafiki mają być przetworzone?',
+		'pywikibot-enter-file-links-processing': u'Linki do strony jakiego pliku mają być przetworzone?',
 		'pywikibot-enter-namespace-number': u'Wpisz numer przestrzeni nazw:',
 		'pywikibot-enter-new-text': u'Wpisz nowy tekst:',
 		'pywikibot-enter-category-name': u'Wpisz nazwę kategorii:',
@@ -582,18 +584,19 @@ msg = {
 	'ro': {
 		'pywikibot-enter-xml-filename': u'Vă rugăm să introduceți numele fișierului XML de extracție:',
 		'pywikibot-enter-page-processing': u'Ce pagină ar trebui procesată?',
-		'pywikibot-enter-file-links-processing': u'Legăturile către care imagine ar trebui procesate?',
+		'pywikibot-enter-file-links-processing': u'Legăturile către care fișier ar trebui procesate?',
 		'pywikibot-enter-namespace-number': u'Vă rugăm să introduceți un spațiu de nume după numărul său:',
 		'pywikibot-enter-new-text': u'Vă rugăm să introduceți noul text:',
 		'pywikibot-enter-category-name': u'Vă rugăm să introduceți numele categoriei:',
 		'pywikibot-enter-finished-browser': u'Apăsați Enter odată ce ați terminat cu navigatorul.',
 	},
 	# Author: Eleferen
+	# Author: Rubin
 	# Author: Volkov
 	'ru': {
 		'pywikibot-enter-xml-filename': u'Пожалуйста, введите имя файла дампа XML:',
 		'pywikibot-enter-page-processing': u'Какая страница должна обрабатываться?',
-		'pywikibot-enter-file-links-processing': u'Ссылки на какую страницу изображений следует обработать?',
+		'pywikibot-enter-file-links-processing': u'Ссылки на какую страницу файла следует обработать?',
 		'pywikibot-enter-namespace-number': u'Пожалуйста, введите номер пространства имён:',
 		'pywikibot-enter-new-text': u'Пожалуйста, введите новый текст:',
 		'pywikibot-enter-category-name': u'Пожалуйста, введите название категории:',

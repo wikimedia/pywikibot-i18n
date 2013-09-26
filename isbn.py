@@ -23,8 +23,9 @@ msg = {
 	},
 	# Author: Meno25
 	# Author: OsamaK
+	# Author: Zaher kadour
 	'ar': {
-		'isbn-formatting': u'روبوت: تنسيق ISBN',
+		'isbn-formatting': u'بوت: تنسيق ISBN',
 	},
 	# Author: Esbardu
 	# Author: Xuacu

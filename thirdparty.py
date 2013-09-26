@@ -108,8 +108,9 @@ msg = {
 	},
 	# Author: DRIHEM
 	# Author: Meno25
+	# Author: Zaher kadour
 	'ar': {
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'بوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(لم يعثر على أي محرر بشري)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s آخر تعديل] (%(page_size)s بايت) من طرف %(user)s (%(time)s)',
@@ -124,7 +125,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'تغير النقاش',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'تم إضافة ملخص النقاش مع التعديل: %(num)i إدخالات',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'تم تحديث ملخص النقاش: %(num)i إدخالات في %(page)s',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'رسالة روبوت',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'رسالة بوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nتم أنشاء التلخيص من طرف وعند: %(sign)s</noinclude>',
 	},
 	# Author: Basharh
@@ -184,8 +185,9 @@ msg = {
 	# Author: Amir a57
 	# Author: E THP
 	# Author: Mousa
+	# Author: Zaher kadour
 	'azb': {
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'بوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(دیَشدیرن اینسان بولونامادی)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u'بوت:* %(notify)s: %(page_sections)s - [%(history_link)s سون دییشیک‌لیک] (%(page_size)s byte) ایستیفادچی%(user)s (%(time)s)',

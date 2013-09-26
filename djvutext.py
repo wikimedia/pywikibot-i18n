@@ -17,8 +17,9 @@ msg = {
 	'als': {
 		'djvutext-creating': u'Robot: e Syte mit us DjVu extrahiertem Text aagleit',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'djvutext-creating': u'روبوت: إنشاء صفحة بنص مستخرج من DjVu',
+		'djvutext-creating': u'بوت: إنشاء صفحة بنص مستخرج من DjVu',
 	},
 	# Author: Esbardu
 	# Author: Xuacu

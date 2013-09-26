@@ -25,8 +25,9 @@ msg = {
 		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
 		'cosmetic_changes-append': u'; oberflächlichi Änderige',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
+		'cosmetic_changes-standalone': u'بوت: تغييرات تجميلية',
 		'cosmetic_changes-append': u'; تغييرات تجميلية',
 	},
 	# Author: Basharh

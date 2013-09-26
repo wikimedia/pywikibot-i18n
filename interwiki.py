@@ -87,15 +87,16 @@ msg = {
 		'interwiki-removing-modifying': u'Robot fornimung: %(removing)s onhweorfung: %(modifying)s',
 	},
 	# Author: Meno25
+	# Author: Zaher kadour
 	'ar': {
-		'interwiki-modifying': u'روبوت تعديل: %(modifying)s',
-		'interwiki-adding-modifying': u'روبوت إضافة: %(adding)s تعديل: %(modifying)s',
-		'interwiki-adding-removing': u'روبوت إضافة: %(adding)s إزالة: %(removing)s',
-		'interwiki-adding-removing-modifying': u'روبوت إضافة: %(adding)s إزالة: %(removing)s تعديل: %(modifying)s',
-		'interwiki-adding': u'روبوت إضافة: %(adding)s',
-		'interwiki-removing': u'روبوت إزالة: %(removing)s',
-		'interwiki-removing-modifying': u'روبوت إزالة: %(removing)s تعديل: %(modifying)s',
-		'interwiki-modifying-from': u'روبوت: تغيير  %(from)s إلى %(modifying)s',
+		'interwiki-modifying': u'بوت تعديل: %(modifying)s',
+		'interwiki-adding-modifying': u'بوت إضافة: %(adding)s تعديل: %(modifying)s',
+		'interwiki-adding-removing': u'بوت إضافة: %(adding)s إزالة: %(removing)s',
+		'interwiki-adding-removing-modifying': u'بوت إضافة: %(adding)s إزالة: %(removing)s تعديل: %(modifying)s',
+		'interwiki-adding': u'بوت إضافة: %(adding)s',
+		'interwiki-removing': u'بوت إزالة: %(removing)s',
+		'interwiki-removing-modifying': u'بوت إزالة: %(removing)s تعديل: %(modifying)s',
+		'interwiki-modifying-from': u'بوت: تغيير  %(from)s إلى %(modifying)s',
 	},
 	# Author: Basharh
 	'arc': {

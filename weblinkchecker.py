@@ -12,10 +12,11 @@ msg = {
 		'weblinkchecker-summary': u'Edit summary for weblinkchecker report',
 		'weblinkchecker-report': u'The weblinkchecker report',
 	},
+	# Author: Zaher kadour
 	'ar': {
 		'weblinkchecker-archive_msg': u'صفحة الويب تم حفظها بواسطة أرشيف الإنترنت. من فضلك ضع في الاعتبار الوصل لنسخة مؤرشفة مناسبة: [%(URL)s].',
 		'weblinkchecker-caption': u'وصلة ميتة',
-		'weblinkchecker-summary': u'روبوت: الإبلاغ عن وصلات خارجية غير متوفرة',
+		'weblinkchecker-summary': u'بوت: الإبلاغ عن وصلات خارجية غير متوفرة',
 		'weblinkchecker-report': u'خلال عدة عمليات أوتوماتيكية من البوت الوصلة الخارجية التالية كانت غير متوفرة. من فضلك تحقق من أن الوصلة لا تعمل وأزلها أو أصلحها في هذه الحالة!',
 	},
 	# Author: Xuacu
@@ -101,6 +102,7 @@ msg = {
 		'weblinkchecker-archive_msg': u'Pela webi arşiw da interneti de nımneya ya. Hewl wersiyone arşiwi re diqqet bıkeri  [%(URL)s].',
 		'weblinkchecker-caption': u'Gıreyo merde',
 		'weblinkchecker-summary': u'Bot: Teber gre de rapera xeberkerdış',
+		'weblinkchecker-report': u'Cerdi tay otomatik bot de finayisdi xirabin vicyaya.Cerd bewnire gri ya bivirni yana hewadi!',
 	},
 	# Author: Geraki
 	'el': {
@@ -135,6 +137,10 @@ msg = {
 		'weblinkchecker-caption': u'پیوند مرده',
 		'weblinkchecker-summary': u'ربات:گزارش پیوند غیرقابل دسترسی',
 		'weblinkchecker-report': u'بر طبق بررسی‌های رباتیکی من چندین پیوند غیرقابل دسترس پیدا شد. لطفا آنها بررسی و در صورت لزوم درستش کنید.تشکر!',
+	},
+	# Author: Samoasambia
+	'fi': {
+		'weblinkchecker-caption': u'Kuollut linkki',
 	},
 	# Author: EileenSanda
 	'fo': {
@@ -277,6 +283,7 @@ msg = {
 		'weblinkchecker-archive_msg': u'വെബ് താൾ ഇന്റർനെറ്റ് ശേഖരം സൂക്ഷിച്ചിരിക്കുന്നു. ദയവായി അനുയോജ്യമായ ശേഖരത്തിന്റെ പതിപ്പിലേയ്ക്ക് കണ്ണി ചേർക്കാൻ താത്പര്യപ്പെടുന്നു: [%(URL)s].',
 		'weblinkchecker-caption': u'പ്രവർത്തിക്കാത്ത കണ്ണി',
 		'weblinkchecker-summary': u'യന്ത്രം: ലഭ്യമല്ലാത്ത ബാഹ്യ കണ്ണി അറിയിക്കുന്നു',
+		'weblinkchecker-report': u'നിരവധി സ്വയം പ്രവർത്തിത ബോട്ട് ഓട്ടത്തിനിടെ താഴെക്കൊടുത്തിരിക്കുന്ന ബാഹ്യകണ്ണി പ്രവർത്തനരഹിതമാണെന്ന് കണ്ടു. അത് ശരിക്കും പ്രവർത്തനരഹിതമാണോയെന്ന് നോക്കുക, ആണെങ്കിൽ ശരിയാക്കുകയോ നീക്കംചെയ്യുകയോ ചെയ്യുക.',
 	},
 	# Author: Anakmalaysia
 	'ms': {

@@ -20,8 +20,9 @@ msg = {
 	'als': {
 		'noreferences-add-tag': u'Bötli: Due e <references /> Markierig, wo no gfäält het, yyfiege',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
+		'noreferences-add-tag': u'بوت: إضافة وسم <references /> مفقود',
 	},
 	# Author: Esbardu
 	# Author: Xuacu

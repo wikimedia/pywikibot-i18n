@@ -47,14 +47,15 @@ msg = {
 		'solve_disambiguation-links-removed': u'Bot-unterstitzti Begriffsklärig: %(from)s - Link uusegnuu',
 	},
 	# Author: Meno25
+	# Author: Zaher kadour
 	'ar': {
-		'solve_disambiguation-redirect-removed': u'توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات',
-		'solve_disambiguation-redirect-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
-		'solve_disambiguation-links-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
-		'solve_disambiguation-adding-dn-template': u'توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
+		'solve_disambiguation-redirect-removed': u'توضيح بمساعدة بوت: %(from)s - أزال الوصلة أو الوصلات',
+		'solve_disambiguation-redirect-resolved': u'توضيح بمساعدة بوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
+		'solve_disambiguation-links-resolved': u'توضيح بمساعدة بوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'توضيح بمساعدة بوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
+		'solve_disambiguation-adding-dn-template': u'توضيح بمساعدة بوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
 		'solve_disambiguation-unknown-page': u'(غير معروف)',
-		'solve_disambiguation-links-removed': u'توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات.',
+		'solve_disambiguation-links-removed': u'توضيح بمساعدة بوت: %(from)s - أزال الوصلة أو الوصلات.',
 	},
 	# Author: Basharh
 	'arc': {

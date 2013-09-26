@@ -97,16 +97,17 @@ msg = {
 	# Author: Aiman titi
 	# Author: DRIHEM
 	# Author: Meno25
+	# Author: Zaher kadour
 	'ar': {
-		'category-version-history': u'روبوت: حفظ تاريخ الإصدار للسابقة  %(oldcat)s',
-		'category-changing': u'روبوت: تغيير  %(oldcat)s إلى %(newcat)s',
-		'category-adding': u'روبوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-version-history': u'بوت: حفظ تاريخ الإصدار للسابقة  %(oldcat)s',
+		'category-changing': u'بوت: تغيير  %(oldcat)s إلى %(newcat)s',
+		'category-adding': u'بوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(أيضا في %(alsocat)s)',
 		'category-was-disbanded': u'بوت: التصنيف تم الاستغناء عنه',
-		'category-replacing': u'روبوت: استبدال التصنيف %(oldcat)s ب %(newcat)s',
+		'category-replacing': u'بوت: استبدال التصنيف %(oldcat)s ب %(newcat)s',
 		'category-removing': u'بوت: إزالة من %(oldcat)s',
-		'category-was-moved': u'روبوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]',
-		'category-renamed': u'روبوت: نقل من %s. المؤلفون: %s',
+		'category-was-moved': u'بوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'بوت: نقل من %s. المؤلفون: %s',
 		'category-section-title': u'تاريخ الصفحة للسابق %(oldcat)s',
 		'category-listifying': u'بوت: عرض من %(fromcat)s (%(num)d مدخلة)',
 	},

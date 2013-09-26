@@ -19,8 +19,9 @@ msg = {
 	'als': {
 		'movepages-moving': u'Bötli: Syte verschobe',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'movepages-moving': u'روبوت: نقل الصفحة',
+		'movepages-moving': u'بوت: نقل الصفحة',
 	},
 	# Author: Esbardu
 	# Author: Xuacu

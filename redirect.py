@@ -50,12 +50,13 @@ msg = {
 	},
 	# Author: DRIHEM
 	# Author: Meno25
+	# Author: Zaher kadour
 	'ar': {
 		'redirect-fix-double': u'بوت: تصليح تحويلة مزدوجة إلى %(to)s',
-		'redirect-remove-broken': u'روبوت: تحويلة إلى صفحة محذوفة أو غير موجودة',
+		'redirect-remove-broken': u'بوت: تحويلة إلى صفحة محذوفة أو غير موجودة',
 		'redirect-fix-broken-moved': u'الروبوت: إصلاح إعادة التوجيه المعطل لصفحة الهدف المحركة %(to)s',
-		'redirect-fix-loop': u'روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
-		'redirect-remove-loop': u'روبوت: هدف التحويلة يصنع عقدة تحويل',
+		'redirect-fix-loop': u'بوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
+		'redirect-remove-loop': u'بوت: هدف التحويلة يصنع عقدة تحويل',
 		'redirect-broken-redirect-template': u'{{شطب|تحويلة مكسورة}}',
 	},
 	# Author: Jaminianurag

@@ -19,8 +19,9 @@ msg = {
 	'als': {
 		'unlink-unlinking': u'Bot: „%s“ entlinkt',
 	},
+	# Author: Zaher kadour
 	'ar': {
-		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
+		'unlink-unlinking': u'بوت: إزالة وصلات "%s"',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
