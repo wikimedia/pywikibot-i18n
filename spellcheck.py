@@ -121,9 +121,10 @@ msg = {
 	'ja': {
 		'spellcheck-checking': u'ロボット支援によるスペルチェック',
 	},
+	# Author: Hym411
 	# Author: 아라
 	'ko': {
-		'spellcheck-checking': u'로봇 지원에 의한 맞춤법 검사기',
+		'spellcheck-checking': u'로봇의 도움을 받은 맞춤법 검사기',
 	},
 	# Author: Purodha
 	'ksh': {

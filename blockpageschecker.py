@@ -45,6 +45,10 @@ msg = {
 	'fa': {
 		'blockpageschecker-summary': u'ربات: حذف الگوی قدیمی',
 	},
+	# Author: Crt
+	'fi': {
+		'blockpageschecker-summary': u'Botti poisti vanhentuneen mallineen',
+	},
 	'fr': {
 		'blockpageschecker-summary': u'Robot: Mise à jour des bandeaux de protection',
 	},
@@ -58,6 +62,10 @@ msg = {
 	},
 	'he': {
 		'blockpageschecker-summary': u'בוט: מסיר תבנית שעבר זמנה',
+	},
+	# Author: McDutchie
+	'ia': {
+		'blockpageschecker-summary': u'Robot: Deletion de un patrono obsolete',
 	},
 	# Author: Beta16
 	'it': {
@@ -122,6 +130,18 @@ msg = {
 	'ru': {
 		'blockpageschecker-summary': u'Бот: удаление устаревшего шаблона',
 	},
+	# Author: Sudo77(new)
+	'sk': {
+		'blockpageschecker-summary': u'Robot: Zmazanie zastaranej šablóny',
+	},
+	# Author: Eleassar
+	'sl': {
+		'blockpageschecker-summary': u'Bot: brišem zastarelo predlogo',
+	},
+	# Author: Euriditi
+	'sq': {
+		'blockpageschecker-summary': u'Bot: Fshirja e stampave të vjetëruara',
+	},
 	# Author: WikiPhoenix
 	'sv': {
 		'blockpageschecker-summary': u'Bot: Raderar föråldrad mall',
@@ -135,6 +155,10 @@ msg = {
 		'blockpageschecker-summary': u'Bot: Xóa bản mẫu lỗi thời',
 	},
 	'zh': {
+		'blockpageschecker-summary': u'機器人: 移除過期的保護模板',
+	},
+	# Author: Gabrielchihonglee
+	'zh-hant': {
 		'blockpageschecker-summary': u'機器人: 移除過期的保護模板',
 	},
 };

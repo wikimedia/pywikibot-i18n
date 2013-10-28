@@ -241,6 +241,10 @@ msg = {
 		'welcome-bad_username': u'Bot: Engado un nome de usuario que necesita ser comprobado',
 		'welcome-updating': u'Bot: Actualizo o rexistro',
 	},
+	# Author: The Discoverer
+	'gom-latn': {
+		'welcome-welcome': u'Ievkar!',
+	},
 	# Author: Harsh4101991
 	'gu': {
 		'welcome-welcome': u'સ્વાગત!',

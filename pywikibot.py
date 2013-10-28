@@ -244,11 +244,12 @@ msg = {
 		'pywikibot-enter-category-name': u'لطفاً نام رده را وارد کنید:',
 		'pywikibot-enter-finished-browser': u'هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید.',
 	},
+	# Author: Crt
 	# Author: Nedergard
 	# Author: VezonThunder
 	'fi': {
 		'pywikibot-enter-page-processing': u'Mikä sivu otetaan käsiteltäväksi?',
-		'pywikibot-enter-file-links-processing': u'Mille kuvasivulle vievät linkit tulee käsitellä?',
+		'pywikibot-enter-file-links-processing': u'Mille tiedostosivulle vievät linkit tulee käsitellä?',
 		'pywikibot-enter-namespace-number': u'Kirjoita nimiavaruuden numero',
 		'pywikibot-enter-new-text': u'Kirjoita uusi teksti',
 		'pywikibot-enter-category-name': u'Kirjoita luokan nimi',
@@ -521,7 +522,7 @@ msg = {
 	'nl': {
 		'pywikibot-enter-xml-filename': u'Geef de bestandnaam van een XML-dump op:',
 		'pywikibot-enter-page-processing': u'Welke pagina moet verwerkt worden?',
-		'pywikibot-enter-file-links-processing': u'Koppelingen maar welke bestandspagina moeten verwerkt worden?',
+		'pywikibot-enter-file-links-processing': u'Koppelingen naar welke bestandspagina moeten verwerkt worden?',
 		'pywikibot-enter-namespace-number': u'Geef een naamruimtenummer op:',
 		'pywikibot-enter-new-text': u'Geef de nieuwe tekst op:',
 		'pywikibot-enter-category-name': u'Geef de categorienaam op:',

@@ -250,7 +250,7 @@ msg = {
 	# Author: Siebrand
 	# Author: Southparkfan
 	'nl': {
-		'clean_sandbox-cleaned': u'Robot: automatisch voorzien van schoon zand',
+		'clean_sandbox-cleaned': u'Robot: automatisch opgeruimd',
 	},
 	# Author: Njardarlogar
 	'nn': {

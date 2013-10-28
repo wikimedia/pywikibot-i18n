@@ -361,9 +361,14 @@ msg = {
 		'category_redirect-fix-double': u'בוט: מתקן הפניה כפולה',
 	},
 	# Author: Mayur
+	# Author: Siddhartha Ghai
 	'hi': {
-		'category_redirect-add-template': u'रखरखाव के लिए अनुप्रेषित साँचा जोड़ा गया',
-		'category_redirect-fix-double': u'दुगना अनुप्रेषण सही किया गया',
+		'category_redirect-comment': u'श्रेणी पुनर्निर्देशन रखरखाव रोबॉट',
+		'category_redirect-change-category': u'रोबॉट: अनुप्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी',
+		'category_redirect-add-template': u'रोबॉट: रखरखाव के लिए श्रेणी अनुप्रेषित साँचा जोड़ा गया',
+		'category_redirect-edit-request': u'निम्न सुरक्षित पृष्ठ पाए गए हैं जिनमें श्रेणियों को अद्यतित करने की आवश्यकता है: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s %(oldcat)s में है, जो %(newcat)s को अनुप्रेषित है',
+		'category_redirect-fix-double': u'रोबॉट: दुगना अनुप्रेषण सही किया गया',
 	},
 	# Author: Ex13
 	'hr': {

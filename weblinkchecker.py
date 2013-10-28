@@ -138,9 +138,10 @@ msg = {
 		'weblinkchecker-summary': u'ربات:گزارش پیوند غیرقابل دسترسی',
 		'weblinkchecker-report': u'بر طبق بررسی‌های رباتیکی من چندین پیوند غیرقابل دسترس پیدا شد. لطفا آنها بررسی و در صورت لزوم درستش کنید.تشکر!',
 	},
+	# Author: Crt
 	# Author: Samoasambia
 	'fi': {
-		'weblinkchecker-caption': u'Kuollut linkki',
+		'weblinkchecker-caption': u'Toimimaton linkki',
 	},
 	# Author: EileenSanda
 	'fo': {
@@ -382,6 +383,11 @@ msg = {
 		'weblinkchecker-caption': u'Mrtva povezava',
 		'weblinkchecker-summary': u'Robot: Poročanje o nedosegljivi zunanji povezavi',
 		'weblinkchecker-report': u'Med več samodejnimi zaganjanji je bot ugotovil, da naslednja zunanja povezava ni na voljo. Prosimo, preverite, ali povezava zares ne deluje, in jo v tem primeru popravite ali odstranite.',
+	},
+	# Author: Euriditi
+	'sq': {
+		'weblinkchecker-caption': u'Lidhje e vdekur',
+		'weblinkchecker-summary': u'Roboti: Raportimi i lidhjeve të jashtme të padisponueshme',
 	},
 	# Author: Rancher
 	'sr': {

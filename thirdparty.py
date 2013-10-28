@@ -1469,11 +1469,12 @@ msg = {
 	},
 	# Author: Dbc334
 	# Author: DrTrigon
+	# Author: Eleassar
 	'sl': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(najden ni noben človeški urejevalec)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
-		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s – [%(history_link)s zadnje urejanje] (%(page_size)s bajtov) od %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s – [%(history_link)s zadnje urejanje] (%(page_size)s zlogov) od %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Opozorilno sporočilo robota: %(page)s »\'\'%(warning)s\'\'«',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova razprava',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – nazadnje urejal [[User:%(user)s]] (%(time)s)',

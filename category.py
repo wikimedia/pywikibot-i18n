@@ -559,7 +559,7 @@ msg = {
 		'category-removing': u'Botti poisti luokasta %(oldcat)s',
 		'category-was-moved': u'Botti siirsi luokan nimelle [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Botti siirsi luokan %s. Muokkaajat: %s',
-		'category-section-title': u'Sivun historia entisestä %(oldcat)s',
+		'category-section-title': u'Muutoshistoria entisestä luokasta %(oldcat)s',
 		'category-listifying': u'Botti listasi luokan %(fromcat)s (%(num)d jäsentä)',
 	},
 	'fiu-vro': {
@@ -693,7 +693,17 @@ msg = {
 	},
 	# Author: Siddhartha Ghai
 	'hi': {
+		'category-version-history': u'रोबॉट: पुरानी %(oldcat)s का अवतरण इतिहास सहेज रहा है',
 		'category-changing': u'रोबॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है',
+		'category-adding': u'रोबॉट: [[:Category:%(newcat)s|%(newcat)s]] श्रेणी जोड़ी',
+		'category-also-in': u'(%(alsocat)s में भी)',
+		'category-was-disbanded': u'रोबॉट: श्रेणी समाप्त कर दी गयी',
+		'category-replacing': u'रोबॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है',
+		'category-removing': u'रोबॉट: %(oldcat)s से हटा रहा है',
+		'category-was-moved': u'रोबॉट: श्रेणी को [[:Category:%(newcat)s|%(title)s]] पर स्थानांतरित किया गया',
+		'category-renamed': u'रोबॉट: %s से स्थानांतरित। लेखक: %s',
+		'category-section-title': u'पुरानी %(oldcat)s का पृष्ठ इतिहास',
+		'category-listifying': u'रोबॉट: %(fromcat)s से listify ({{PLURAL:%(num)d|1 प्रविष्टि|%(num)d प्रविष्टियाँ}})',
 	},
 	# Author: Ex13
 	# Author: SpeedyGonsales
@@ -1389,7 +1399,7 @@ msg = {
 	},
 	# Author: Ahmed-Najib-Biabani-Ibrahimkhel
 	'ps': {
-		'category-adding': u'روباټ: وېشنيزه ورګډول [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'روباټ: وېشنيزه ورگډول [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Hamilton Abreu
 	# Author: Waldir

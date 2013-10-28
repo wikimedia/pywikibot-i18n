@@ -272,6 +272,10 @@ msg = {
 	'so': {
 		'unlink-unlinking': u'Bot: Tirtiris waxa la xiriira "%s"',
 	},
+	# Author: Euriditi
+	'sq': {
+		'unlink-unlinking': u'Roboti: U fshi lidhja "%s"',
+	},
 	# Author: Rancher
 	'sr': {
 		'unlink-unlinking': u'Робот: уклоњена веза „%s“',
@@ -303,6 +307,10 @@ msg = {
 	# Author: Incelemeelemani
 	'tr': {
 		'unlink-unlinking': u'Robot: " %s " bağlantısı kaldırıldı',
+	},
+	# Author: Ilnur efende
+	'tt': {
+		'unlink-unlinking': u'Бот: сылтаманы бетерү «%s»',
 	},
 	# Author: Dim Grits
 	'uk': {

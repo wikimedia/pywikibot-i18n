@@ -7,10 +7,11 @@ msg = {
 		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
 		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
 	},
+	# Author: Lloffiwr
 	# Author: Shirayuki
 	'qqq': {
 		'delete-images': u'Used as edit summary. Parameters:\n* %(page)s - page name',
-		'delete-referring-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name',
+		'delete-referring-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name\n\nDefinitions:\n*"Link" - Link is all the links on a page. So if your page content was <nowiki>[[Page1]] [[Page2]]</nowiki>, it would use those two pages. \n*"Refer" - Refer is basically [[Special:WhatLinksHere]], or all the pages that link to the page provided.',
 		'delete-from-category': u'Used as edit summary. Parameters:\n* %(page)s - page name',
 		'delete-from-file': u'Used as edit summary.',
 		'delete-linked-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name',
@@ -130,7 +131,7 @@ msg = {
 	# Author: Robin Owain
 	'cy': {
 		'delete-images': u'Robot: Yn dileu pob delwedd ar y dudalen %(page)s',
-		'delete-referring-pages': u'Robot: Yn dileu pob tudalen sy\'n cysylltu oddi wrth %(page)s',
+		'delete-referring-pages': u'Robot: Yn dileu pob tudalen sydd a chysylltiad arno\'n arwain at %(page)s',
 		'delete-from-category': u'Robot: Yn dileu pob tudalen yn y categori %(page)s',
 		'delete-from-file': u'Robot: Yn dileu rhestr o dudalennau.',
 		'delete-linked-pages': u'Robot: Yn dileu yr holl dudalennau wedi\'u cysylltu o %(page)s',
@@ -147,11 +148,12 @@ msg = {
 	},
 	# Author: ChrisiPK
 	# Author: MF-Warburg
+	# Author: Pyfisch
 	'de': {
 		'delete-images': u'Bot: Lösche alle in %(page)s eingebundenen Bilder',
 		'delete-referring-pages': u'Bot: Lösche alle auf %(page)s linkenden Seiten',
 		'delete-from-category': u'Bot: Lösche alle Seiten in Kategorie %(page)s',
-		'delete-from-file': u'Bot: Löschen einer Liste von Dateien.',
+		'delete-from-file': u'Bot: Löschen einer Liste von Seiten.',
 		'delete-linked-pages': u'Bot: Lösche alle in %(page)s verlinkte Seiten',
 	},
 	# Author: Eruedin
@@ -190,12 +192,13 @@ msg = {
 		'delete-linked-pages': u'Roboto: Forigante ĉiujn paĝojn ligatajn el %(page)s',
 	},
 	# Author: Invadinado
+	# Author: Ovruni
 	# Author: Vivaelcelta
 	'es': {
 		'delete-images': u'Bot: Eliminando todas las imágenes de la página «%(page)s»',
 		'delete-referring-pages': u'Bot: Eliminando todas las páginas que enlazan hacia «%(page)s»',
 		'delete-from-category': u'Bot: Eliminando todas las páginas contenidas en la categoría «%(page)s»',
-		'delete-from-file': u'Bot: Eliminando lista de archivos',
+		'delete-from-file': u'Bot: Eliminando lista de páginas',
 		'delete-linked-pages': u'Bot: Eliminando todas las páginas enlazadas desde «%(page)s»',
 	},
 	# Author: Pikne
@@ -299,7 +302,7 @@ msg = {
 		'delete-images': u'Robot: Deletion de tote le imagines in le pagina %(page)s',
 		'delete-referring-pages': u'Robot: Deletion de tote le paginas que refere ab %(page)s',
 		'delete-from-category': u'Robot: Deletion de tote le paginas presente in categoria %(page)s',
-		'delete-from-file': u'Robot: Deletion de un lista de files.',
+		'delete-from-file': u'Robot: Deletion de un lista de paginas.',
 		'delete-linked-pages': u'Robot: Deletion de tote le paginas ligate ab %(page)s',
 	},
 	# Author: Farras
@@ -365,7 +368,7 @@ msg = {
 		'delete-images': u'로봇: %(page)s 문서에 모든 그림 삭제',
 		'delete-referring-pages': u'로봇: %(page)s에서 참고하는 모든 문서 삭제',
 		'delete-from-category': u'로봇: %(page)s 분류에 있는 모든 문서 삭제',
-		'delete-from-file': u'로봇: 파일의 목록을 삭제합니다.',
+		'delete-from-file': u'로봇: 문서의 목록을 삭제합니다.',
 		'delete-linked-pages': u'로봇: %(page)s에 연결한 모든 문서 삭제',
 	},
 	# Author: Purodha
@@ -526,12 +529,13 @@ msg = {
 		'delete-from-file': u'Trigomiro: Scancelassion ëd na lista d\'archivi.',
 		'delete-linked-pages': u'Trigomiro: A scancela tute le pàgine colegà da %(page)s',
 	},
+	# Author: Alchimista
 	# Author: Xqt
 	'pt': {
 		'delete-images': u'Robô: Apagando todas as imagens da página %(page)s',
 		'delete-referring-pages': u'Robô: Apagando todas as páginas afluentes a %(page)s',
 		'delete-from-category': u'Robô: Apagando todas as páginas da categoria %(page)s',
-		'delete-from-file': u'Robô: Apagando um lista de arquivos.',
+		'delete-from-file': u'Robô: Apagando uma lista de páginas.',
 		'delete-linked-pages': u'Robô: Apagando todas as páginas ligadas a %(page)s',
 	},
 	# Author: Pedroca cerebral
@@ -559,20 +563,22 @@ msg = {
 		'delete-from-file': u'бот: удаление списка файлов',
 		'delete-linked-pages': u'бот: удаление всех страниц, связанных с %(page)s',
 	},
+	# Author: Sudo77(new)
 	# Author: Wizzard
 	'sk': {
 		'delete-images': u'Robot: Odstránenie všetkých obrázkov na stránke %(page)s',
 		'delete-referring-pages': u'Robot: Odstránenie všetkých strán s odkazom z %(page)s',
 		'delete-from-category': u'Robot: Odstránenie všetkých strán z kategórie %(page)s',
-		'delete-from-file': u'Robot: Mazanie zoznamu súborov.',
+		'delete-from-file': u'Robot: Mazanie zoznamu stránok.',
 		'delete-linked-pages': u'Robot zmazal všetko odkazované z %(page)s',
 	},
 	# Author: Dbc334
+	# Author: Eleassar
 	'sl': {
 		'delete-images': u'Robot: Brisanje vseh slik na strani %(page)s',
 		'delete-referring-pages': u'Robot: Brisanje vseh strani, ki se povezujejo na %(page)s',
 		'delete-from-category': u'Robot: Brisanje vseh strani v kategoriji %(page)s',
-		'delete-from-file': u'Robot: Brisanje seznama datotek.',
+		'delete-from-file': u'Robot: brisanje seznama strani.',
 		'delete-linked-pages': u'Robot: Brisanje vseh strani, na katere se povezuje %(page)s',
 	},
 	# Author: Abshirdheere
@@ -726,6 +732,7 @@ msg = {
 		'delete-linked-pages': u'机器人：删除所有从%(page)s链接的页面',
 	},
 	# Author: Breawycker
+	# Author: Gabrielchihonglee
 	# Author: Justincheng12345
 	# Author: Lauhenry
 	# Author: Simon Shek
@@ -733,7 +740,7 @@ msg = {
 		'delete-images': u'機械人：刪除%(page)s上的所有圖像',
 		'delete-referring-pages': u'機械人：删除所有從%(page)s指向的頁面',
 		'delete-from-category': u'機械人：刪除所有来自%(page)s分類的頁面',
-		'delete-from-file': u'機械人：刪除列表中的檔案。',
+		'delete-from-file': u'機器人：刪除頁面列表。',
 		'delete-linked-pages': u'機械人：删除所有從%(page)s鏈接的頁面',
 	},
 	# Author: Justincheng12345
