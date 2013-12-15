@@ -21,7 +21,7 @@ msg = {
 	'de': {
 		'casechecker-delete-reason': u'Weiterleitung auf %(target)s mit gemischten kyrillischen und lateinischen Zeichen.',
 		'casechecker-delete-summary': u'Bot: Diese Weiterleitung enthält identisch aussehende kyrillische und lateinische Zeichen im Titel',
-		'casechecker-replacement-linklist': u'%(source)s nach %(target)s',  
+		'casechecker-replacement-linklist': u'%(source)s nach %(target)s',
 	},
 	'ru': {
 		'casechecker-delete-summary': u'Перенаправление на %(target)s содержало смесь кириллицы и латиницы в названии',
