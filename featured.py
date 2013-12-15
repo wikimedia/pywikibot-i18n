@@ -317,9 +317,9 @@ msg = {
 	},
 	# Author: Purodha
 	'ksh': {
-		'featured-good': u'bot: %(page)s ess_enen jooden Atikkel',
-		'featured-list': u'bot: %(page)s ess_en joode Leß',
-		'featured-featured': u'bot: %(page)s ess_enen ußjezëijshneten Atikkel',
+		'featured-good': u'bot: %(page)s ess enen jooden Atikkel',
+		'featured-list': u'bot: %(page)s ess en joode Leß',
+		'featured-featured': u'bot: %(page)s ess enen ußjezëijshneten Atikkel',
 		'featured-former': u'Bot: %(page)s wor ens ene Atikel med en Ußzeischnung.',
 	},
 	# Author: Викиней
