@@ -20,7 +20,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Edit summary when the bot fixes a broken redirect to a moved page whose origin has been deleted.\nParameters:\n* <code>%(to)s</code>: the new redirect target, as a wiki link.',
 		'redirect-fix-loop': u'Edit summary when the bot fixes redirect loops. <code>%(to)s</code> displays the new redirect target as a wiki link.',
 		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
-		'redirect-broken-redirect-template': u'Template for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
+                'redirect-broken-redirect-template': u'NOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
 	},
 	# Author: Csisc
 	'aeb': {
@@ -28,7 +28,6 @@ msg = {
 		'redirect-remove-broken': u'تحويلة إلى صفحة محذوفة أو غير موجودة',
 		'redirect-fix-loop': u'روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
 		'redirect-remove-loop': u'هدف التحويلة يصنع عقدة تحويل: Robot',
-		'redirect-broken-redirect-template': u'{{شطب|تحويلة مكسورة}}',
 	},
 	# Author: Naudefj
 	# Author: Xqt
@@ -37,7 +36,6 @@ msg = {
 		'redirect-remove-broken': u'Robot: Aanstuur na \'n geskrapte of nie-bestaande bladsy',
 		'redirect-fix-loop': u'Robot: sirkulêre aanstuur na %(to)s reggemaak',
 		'redirect-remove-loop': u'Robot: Aanstuur vorm \'n sirkulêre lus',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Als-Holder
 	# Author: Xqt
@@ -84,7 +82,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: İşləməyən yönləndirilmənin yeri dəyişdirilmiş hədəf səhifəyə %(to)s düzəldilməsi',
 		'redirect-fix-loop': u'Bot:  Sonsuz yönləndirilmənin %(to)s düzəldilməsi',
 		'redirect-remove-loop': u'Bot: Yönləndirilmə sonsuz yönləndirilmə formalaşdırır',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Amir a57
 	# Author: E THP
@@ -93,7 +90,6 @@ msg = {
 		'redirect-remove-broken': u'[[ویکی‌پئدییا:سیل#یستیقامتلندیرمه|وپ:سیل]]: سیلینئن یا دا وار اولمایان صحیفه‌یه اولان ایستیقامیلندیرمه',
 		'redirect-fix-loop': u'روبوت: فیخینگ اوزوک اولان%(to)s یؤنلن‌دیرن',
 		'redirect-remove-loop': u'بوت: ایستیقامتلندیرمه هدفی بیر ایستیقامتلندیرمه دؤورو تشکیل ائدیر',
-		'redirect-broken-redirect-template': u'{{سیل|y1}}',
 	},
 	# Author: Haqmar
 	# Author: Sagan
@@ -102,7 +98,6 @@ msg = {
 		'redirect-remove-broken': u'Робот: булмаған йәки юйылған биткә йүнәлтеү',
 		'redirect-fix-loop': u'Робот: %(to)s битенә йүнәлтеүҙе төҙәтеү',
 		'redirect-remove-loop': u'Робот: бер ҡайҙа ла йүнәлтелмәгән',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Mucalexx
 	# Author: Xqt
@@ -114,10 +109,6 @@ msg = {
 	},
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
-	},
-	# Author: Stephensuleeman
-	'bbc-latn': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
@@ -140,7 +131,6 @@ msg = {
 		'redirect-fix-double': u'Robot: Pamasangan paugahan ganda ka %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Paalihan]] ka tungkaran nang dihapus atawa kada ada',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Bidikan [[Wikipedia:Redirect|paalihan]] mahasilakan paalihan siklik',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Wikitanvir
 	'bn': {
@@ -156,7 +146,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s',
 		'redirect-fix-loop': u'Robot : O kempenn al lagadenn adkas war-zu %(to)s',
 		'redirect-remove-loop': u'Robot: Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: CERminator
 	# Author: Edinwiki
@@ -208,7 +197,6 @@ msg = {
 		'redirect-fix-double': u'Bot: Yn trwsio ailgyfeiriad dwbl i %(to)s',
 		'redirect-remove-broken': u'Bot: Yn ailgyfeirio i dudalen a ddilëwyd neu nad yw ar gael',
 		'redirect-remove-loop': u'Bot: Mae nod yr ailgyfeiriad yn ffurfio dolen ailgyfeirio',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Christian List
 	# Author: Kaare
@@ -389,7 +377,6 @@ msg = {
 		'redirect-fix-broken-moved': u'機械人：修復損壞个重定向頁到移動目標頁面 %(to)s',
 		'redirect-fix-loop': u'機械人：修復重定向迴圈至%(to)s',
 		'redirect-remove-loop': u'機械人：重定向目標構成循環',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Amire80
 	# Author: YaronSh
