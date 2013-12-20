@@ -59,9 +59,10 @@ msg = {
 	'bs': {
 		'fixing_redirects-fixing': u'Bot: Ispravljanje preusmjeravanja.',
 	},
+	# Author: Grondin
 	# Author: Vriullop
 	'ca': {
-		'fixing_redirects-fixing': u'Bot: arreglant redireccions',
+		'fixing_redirects-fixing': u'Robot: arreglant redireccions',
 	},
 	# Author: Asoxor
 	# Author: Calak
@@ -247,6 +248,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'fixing_redirects-fixing': u'Bot: deurverwiezingen verbeterd',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'fixing_redirects-fixing': u'रोबोट: रिडाइरेक्टहरू मिलाउँदै',
 	},
 	# Author: Eukesh
 	'new': {

@@ -19,9 +19,10 @@ msg = {
 	'als': {
 		'movepages-moving': u'Bötli: Syte verschobe',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'movepages-moving': u'بوت: نقل الصفحة',
+		'movepages-moving': u'روبوت: نقل الصفحة',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
@@ -57,8 +58,9 @@ msg = {
 		'movepages-moving': u'Bot: Premještena stranica.',
 	},
 	# Author: Gemmaa
+	# Author: Grondin
 	'ca': {
-		'movepages-moving': u'Robot: Moure pàgina',
+		'movepages-moving': u'Robot: moure pàgina',
 	},
 	# Author: Asoxor
 	# Author: Calak
@@ -237,6 +239,10 @@ msg = {
 	'nds-nl': {
 		'movepages-moving': u'Bot: paginanaam ewiezigd',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'movepages-moving': u'रोबोट: पृष्ठ सारियो',
+	},
 	# Author: Eukesh
 	'new': {
 		'movepages-moving': u'रोबट: पौ संकाछ्वल',
@@ -315,9 +321,10 @@ msg = {
 	'sw': {
 		'movepages-moving': u'Karagosi: Kuhamisha ukurasa',
 	},
+	# Author: Krol111
 	# Author: Przemub
 	'szl': {
-		'movepages-moving': u'Robot: Przeciepanŏ zajtã',
+		'movepages-moving': u'Robot: Przeciepano zajta',
 	},
 	# Author: Aswn
 	'ta': {

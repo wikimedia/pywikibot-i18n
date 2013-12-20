@@ -19,9 +19,10 @@ msg = {
 	'als': {
 		'capitalize_redirects-create-redirect': u'Bötli: e Wyterleitig uff [[%(to)s]] aaglait',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'capitalize_redirects-create-redirect': u'بوت: إنشاء تحويلة إلى [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'روبوت: إنشاء تحويلة إلى [[%(to)s]]',
 	},
 	# Author: Man2fly2002
 	'arc': {
@@ -103,6 +104,10 @@ msg = {
 	'el': {
 		'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]',
 	},
+	# Author: Gloria sah
+	'eml': {
+		'capitalize_redirects-create-redirect': u'Robot: Creèr un rimànd vers [[%(to)s]]',
+	},
 	# Author: Airon90
 	# Author: Objectivesea
 	# Author: Remux
@@ -113,6 +118,10 @@ msg = {
 	# Author: Vivaelcelta
 	'es': {
 		'capitalize_redirects-create-redirect': u'Bot: Creando redirección hacia «[[%(to)s]]»',
+	},
+	# Author: Theklan
+	'eu': {
+		'capitalize_redirects-create-redirect': u'Robota: [[%(to)s]] orrialdera birzuzenketa sortzen',
 	},
 	# Author: Mjbmr
 	'fa': {
@@ -158,6 +167,10 @@ msg = {
 	# Author: Dj
 	'hu': {
 		'capitalize_redirects-create-redirect': u'Bot: árirányítás létrehozása a(z) [[%(to)s]] lapra',
+	},
+	# Author: M hamlet
+	'hy': {
+		'capitalize_redirects-create-redirect': u'Ռոբոտ․ [[%(to)s]] վերահղման ստեղծում',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -281,12 +294,13 @@ msg = {
 	},
 	# Author: Giro720
 	'pt': {
-		'capitalize_redirects-create-redirect': u'Robô: Criando redirecionamento para [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Robô: A criar redirecionamento para [[%(to)s]]',
 	},
 	# Author: Giro720
+	# Author: Prilopes
 	# Author: 555
 	'pt-br': {
-		'capitalize_redirects-create-redirect': u'Bot: Criando redirecionamento para [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Bot: Cria redirecionamento para [[%(to)s]]',
 	},
 	# Author: Minisarm
 	'ro': {

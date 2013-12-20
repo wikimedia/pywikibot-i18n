@@ -89,14 +89,14 @@ msg = {
 	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'interwiki-modifying': u'بوت تعديل: %(modifying)s',
-		'interwiki-adding-modifying': u'بوت إضافة: %(adding)s تعديل: %(modifying)s',
-		'interwiki-adding-removing': u'بوت إضافة: %(adding)s إزالة: %(removing)s',
-		'interwiki-adding-removing-modifying': u'بوت إضافة: %(adding)s إزالة: %(removing)s تعديل: %(modifying)s',
-		'interwiki-adding': u'بوت إضافة: %(adding)s',
-		'interwiki-removing': u'بوت إزالة: %(removing)s',
-		'interwiki-removing-modifying': u'بوت إزالة: %(removing)s تعديل: %(modifying)s',
-		'interwiki-modifying-from': u'بوت: تغيير  %(from)s إلى %(modifying)s',
+		'interwiki-modifying': u'روبوت تعديل: %(modifying)s',
+		'interwiki-adding-modifying': u'روبوت إضافة: %(adding)s تعديل: %(modifying)s',
+		'interwiki-adding-removing': u'روبوت إضافة: %(adding)s إزالة: %(removing)s',
+		'interwiki-adding-removing-modifying': u'روبوت إضافة: %(adding)s إزالة: %(removing)s تعديل: %(modifying)s',
+		'interwiki-adding': u'روبوت إضافة: %(adding)s',
+		'interwiki-removing': u'روبوت إزالة: %(removing)s',
+		'interwiki-removing-modifying': u'روبوت إزالة: %(removing)s تعديل: %(modifying)s',
+		'interwiki-modifying-from': u'روبوت: تغيير  %(from)s إلى %(modifying)s',
 	},
 	# Author: Basharh
 	'arc': {
@@ -291,6 +291,7 @@ msg = {
 		'interwiki-removing-modifying': u'Bot uklanja: %(removing)s mijenja: %(modifying)s',
 		'interwiki-modifying-from': u'Bot: mijenja %(from)s sa %(modifying)s',
 	},
+	# Author: Grondin
 	'ca': {
 		'interwiki-modifying': u'Robot modifica: %(modifying)s',
 		'interwiki-adding-modifying': u'Robot afegeix: %(adding)s modifica: %(modifying)s',
@@ -299,7 +300,7 @@ msg = {
 		'interwiki-adding': u'Robot afegeix: %(adding)s',
 		'interwiki-removing': u'Robot esborra: %(removing)s',
 		'interwiki-removing-modifying': u'Robot esborra: %(removing)s modifica: %(modifying)s',
-		'interwiki-modifying-from': u'Robot: Canviant %(from)s a %(modifying)s',
+		'interwiki-modifying-from': u'Robot: canviant %(from)s a %(modifying)s',
 	},
 	'ce': {
 		'interwiki-modifying': u'робот хийцина: %(modifying)s',
@@ -452,16 +453,18 @@ msg = {
 		'interwiki-removing-modifying': u'Ρομπότ: Αφαίρεση: %(removing)s Τροποποίηση: %(modifying)s',
 		'interwiki-modifying-from': u'Ρομπότ: Αλλαγή %(from)s σε %(modifying)s',
 	},
+	# Author: Gloria sah
 	# Author: Hugo.arg
 	# Author: Xqt
 	'eml': {
-		'interwiki-modifying': u'Robot A Cambi: %(modifying)s',
-		'interwiki-adding-modifying': u'Robot A Śònt: %(adding)s A Cambi: %(modifying)s',
-		'interwiki-adding-removing': u'Robot A Śònt: %(adding)s A Tir via: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot A Śònt: %(adding)s A Tir via: %(removing)s A Cambi: %(modifying)s',
-		'interwiki-adding': u'Robot A Śònt: %(adding)s',
-		'interwiki-removing': u'Robot A Tir via: %(removing)s',
-		'interwiki-removing-modifying': u'Robot A Tir via: %(removing)s A Cambi: %(modifying)s',
+		'interwiki-modifying': u'Robot: A cambi: %(modifying)s',
+		'interwiki-adding-modifying': u'Robot: A śònt %(adding)s; A cambi %(modifying)s',
+		'interwiki-adding-removing': u'Robot: A śònt %(adding)s; a tir vìa: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: A śònt %(adding)s; a tir vìa %(removing)s; a cambi %(modifying)s',
+		'interwiki-adding': u'Robot: A śònt %(adding)s',
+		'interwiki-removing': u'Robot: A tir vìa %(removing)s',
+		'interwiki-removing-modifying': u'Robot: A tir vìa %(removing)s; a cambi %(modifying)s',
+		'interwiki-modifying-from': u'Robot: Cambiamèint da %(from)s a %(modifying)s',
 	},
 	# Author: Objectivesea
 	'eo': {
@@ -1285,14 +1288,16 @@ msg = {
 	},
 	# Author: Hugo.arg
 	# Author: RajeshPandey
+	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'interwiki-modifying': u'रोबोट ले परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-adding-modifying': u'रोबोट ले थप्दै: %(adding)s परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-adding-removing': u'रोबोट ले थप्दै: %(adding)s हटाउँदै: %(removing)s',
-		'interwiki-adding-removing-modifying': u'रोबोट ले थप्दै: %(adding)s हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-adding': u'रोबोट ले थप्दै: %(adding)s',
-		'interwiki-removing': u'रोबोट ले हटाउँदै: %(removing)s',
-		'interwiki-removing-modifying': u'रोबोट ले हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-modifying': u'रोबोटले परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-adding-modifying': u'रोबोटले थप्दै: %(adding)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-adding-removing': u'रोबोटले थप्दै: %(adding)s हटाउँदै: %(removing)s',
+		'interwiki-adding-removing-modifying': u'रोबोटले थप्दै: %(adding)s हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-adding': u'रोबोटले थप्दै: %(adding)s',
+		'interwiki-removing': u'रोबोटले हटाउँदै: %(removing)s',
+		'interwiki-removing-modifying': u'रोबोटले हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-modifying-from': u'रोबोट: %(from)sलाई %(modifying)sमा परिवर्तन गर्दै',
 	},
 	# Author: Eukesh
 	'new': {

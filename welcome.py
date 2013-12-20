@@ -110,11 +110,12 @@ msg = {
 		'welcome-bad_username': u'Bot: Dodavanje korisničkog imena koje treba provjeriti.',
 		'welcome-updating': u'Bot: Ažuriranje zapisnika.',
 	},
+	# Author: Grondin
 	# Author: SMP
 	'ca': {
 		'welcome-welcome': u'Benvinguts!',
-		'welcome-bad_username': u'Robot: Afegint un nom d\'usuari que ha de ser revisat',
-		'welcome-updating': u'Robot: Actualitzant el registre',
+		'welcome-bad_username': u'Robot: afegint un nom d\'usuari que ha de ser revisat',
+		'welcome-updating': u'Robot: actualitzant el registre',
 	},
 	# Author: Asoxor
 	'ckb': {
@@ -166,6 +167,12 @@ msg = {
 		'welcome-welcome': u'Καλώς ήρθατε!',
 		'welcome-bad_username': u'Ρομπότ: Προσθήκη ονόματος χρήστη που χρειάζεται έλεγχο',
 		'welcome-updating': u'Ρομπότ: Ενημέρωση αρχείου καταγραφής',
+	},
+	# Author: Gloria sah
+	# Author: Lévi
+	'eml': {
+		'welcome-welcome': u'Beinvgnû!',
+		'welcome-bad_username': u'Robot: Śuntèda \'d un nòm \'d utèint ch\' al dév èser verifichè',
 	},
 	# Author: Blahma
 	# Author: Objectivesea
@@ -316,9 +323,10 @@ msg = {
 		'welcome-updating': u'Bot: Aggiorno il log',
 	},
 	# Author: Shirayuki
+	# Author: Whym
 	'ja': {
-		'welcome-welcome': u'ウィキペディア日本語版へようこそ!',
-		'welcome-bad_username': u'ロボットによる: 不適切な利用者名の報告',
+		'welcome-welcome': u'ようこそ!',
+		'welcome-bad_username': u'ロボットによる: チェックが必要な利用者名の報告',
 		'welcome-updating': u'ロボットによる: 更新記録',
 	},
 	# Author: NoiX180
@@ -440,6 +448,12 @@ msg = {
 		'welcome-welcome': u'Welkom!',
 		'welcome-bad_username': u'Bot: nao te kieken gebrukersnaam derbie ezet',
 		'welcome-updating': u'Bot: logboek biewarken',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'welcome-welcome': u'स्वागत!',
+		'welcome-bad_username': u'प्रयोगकर्ताको नाम थप्दै , जुन जाच्नु पर्ने छ',
+		'welcome-updating': u'रोबोट: लग अध्यावधिक गर्दै',
 	},
 	# Author: Eukesh
 	'new': {

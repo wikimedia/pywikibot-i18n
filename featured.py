@@ -98,12 +98,18 @@ msg = {
 		'featured-featured': u'Bot: Interwiki za izabrane članke za %(page)s',
 		'featured-former': u'Bot: %(page)s je bivši izabrani članak.',
 	},
+	# Author: Grondin
 	# Author: SMP
 	'ca': {
 		'featured-good': u'Robot: %(page)s és un article bo',
 		'featured-list': u'Robot: %(page)s és una llista de qualitat',
-		'featured-featured': u'Bot: Enllaç a article destacat per: %(page)s',
+		'featured-featured': u'Bot: enllaç a article destacat per: %(page)s',
 		'featured-former': u'Robot: %(page)s és un antic article de qualitat',
+	},
+	# Author: Calak
+	'ckb': {
+		'featured-good': u'بۆت: %(page)s وتارێکی باشە',
+		'featured-featured': u'بۆت: %(page)s وتارێکی بەرزە',
 	},
 	# Author: Spiffyk
 	'cs': {
@@ -316,6 +322,7 @@ msg = {
 		'featured-former': u'로봇: %(page)s 문서는 과거에 알찬 글이었습니다',
 	},
 	# Author: Purodha
+	# Author: Xqt
 	'ksh': {
 		'featured-good': u'bot: %(page)s ess enen jooden Atikkel',
 		'featured-list': u'bot: %(page)s ess en joode Leß',
@@ -398,6 +405,13 @@ msg = {
 		'featured-list': u'Bot: %(page)s is n uutelochten lieste',
 		'featured-featured': u'Bot: %(page)s is n etalazie-artikel',
 		'featured-former': u'Bot: %(page)s is n veurmaolig uutelocht artikel',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'featured-good': u'रोबोट: %(page)s असल लेख हो ।',
+		'featured-list': u'रोबोट: %(page)s छानिएको लेख हो',
+		'featured-featured': u'रोबोट: %(page)s छानिएको लेख हो',
+		'featured-former': u'रोबोट: %(page)s पहिले छानिएको लेख हो',
 	},
 	# Author: Eukesh
 	'new': {

@@ -302,6 +302,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Bestaand]] is verplaotst naor [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 		'commons-file-now-available': u'Dit bestaand is noen beschikbaor op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]]लाई  [[:commons:File:%(commonsfile)s|कमोन्स]]मा सारियो ।',
+		'commons-file-now-available': u'फाइल अब [[:commons:File:%(commonsfile)s|विकिमिडिया कमन्स]]मा उपलब्ध छ।',
+	},
 	'nl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Bestand]] is verplaatst naar [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Dit bestand staat nu op [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',

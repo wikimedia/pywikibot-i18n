@@ -66,7 +66,7 @@ msg = {
 	# Author: Anskar
 	# Author: Grondin
 	'ca': {
-		'catall-changing': u'Robot: Canviant categories',
+		'catall-changing': u'Robot: canviant categories',
 	},
 	# Author: Asoxor
 	'ckb': {
@@ -100,6 +100,10 @@ msg = {
 	'el': {
 		'catall-changing': u'Ρομπότ: Αλλαγή κατηγοριών',
 	},
+	# Author: Gloria sah
+	'eml': {
+		'catall-changing': u'Robot: Cambièr el categorìi',
+	},
 	# Author: Airon90
 	# Author: Objectivesea
 	# Author: Remux
@@ -114,6 +118,10 @@ msg = {
 	# Author: Pikne
 	'et': {
 		'catall-changing': u'Robot: kategooriad muudetud',
+	},
+	# Author: Theklan
+	'eu': {
+		'catall-changing': u'Errobota: Kategoriak aldatzen',
 	},
 	'fa': {
 		'catall-changing': u'ربات: تغییر رده‌ها',
@@ -161,6 +169,10 @@ msg = {
 	# Author: Dj
 	'hu': {
 		'catall-changing': u'Bot: kategóriák cseréje',
+	},
+	# Author: M hamlet
+	'hy': {
+		'catall-changing': u'Ռոբոտ: Կատեգորիաների փոփոխում',
 	},
 	'ia': {
 		'catall-changing': u'Bot: Alteration de categorias',
@@ -396,6 +408,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'catall-changing': u'Bot: Thay đổi thể loại',
+	},
+	# Author: Malafaya
+	'vo': {
+		'catall-changing': u'Bot: Votükon kladis',
 	},
 	# Author: Srtxg
 	'wa': {

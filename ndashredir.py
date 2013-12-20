@@ -54,8 +54,9 @@ msg = {
 		'ndashredir-create': u'Bot: Napravljeno preusmjerenje povezano sa crticom prema [[%(title)s]]',
 	},
 	# Author: BroOk
+	# Author: Grondin
 	'ca': {
-		'ndashredir-create': u'Bot: Creant redireccions amb guions a [[%(title)s]]',
+		'ndashredir-create': u'Bot: creant redireccions amb guions a [[%(title)s]]',
 	},
 	# Author: Tchoř
 	'cs': {
@@ -197,6 +198,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'ndashredir-create': u'Bot: deurverwiezing mit aofbreekteken naor [[%(title)s]] an-emaakt',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'ndashredir-create': u'रोबोट: [[%(title)s]]मा हाइफनयुक्त रिडाइरेक्ट सिर्जना गरियो',
 	},
 	# Author: Eukesh
 	'new': {

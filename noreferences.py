@@ -20,9 +20,10 @@ msg = {
 	'als': {
 		'noreferences-add-tag': u'Bötli: Due e <references /> Markierig, wo no gfäält het, yyfiege',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'noreferences-add-tag': u'بوت: إضافة وسم <references /> مفقود',
+		'noreferences-add-tag': u'روبوت: إضافة وسم <references /> مفقود',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
@@ -68,9 +69,10 @@ msg = {
 	'bs': {
 		'noreferences-add-tag': u'Bot: Dodavanje nedostajuće <references /> oznake.',
 	},
+	# Author: Grondin
 	# Author: SMP
 	'ca': {
-		'noreferences-add-tag': u'Robot: Afegint l\'etiqueta <references /> que mancava',
+		'noreferences-add-tag': u'Robot: afegint l\'etiqueta <references /> que mancava',
 	},
 	# Author: Asoxor
 	'ckb': {
@@ -244,6 +246,10 @@ msg = {
 	'nds-nl': {
 		'noreferences-add-tag': u'Bot: ontbrekende <references />-kode derbie ezet',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'noreferences-add-tag': u'रोबोट: छुटेको <references /> ट्याग थप्दै',
+	},
 	# Author: Eukesh
 	'new': {
 		'noreferences-add-tag': u'रोबट: मदूगु <references /> ट्याग तनाच्वँगु',
@@ -322,8 +328,9 @@ msg = {
 	'sw': {
 		'noreferences-add-tag': u'Boti: Inaongeza tagi inayokosa ya <references />',
 	},
+	# Author: Krol111
 	'szl': {
-		'noreferences-add-tag': u'Bot dodowo szablon {{Przipisy}}',
+		'noreferences-add-tag': u'Bot dodowo muster {{Przipisy}}',
 	},
 	# Author: Aswn
 	'ta': {

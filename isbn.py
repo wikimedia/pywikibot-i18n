@@ -25,7 +25,7 @@ msg = {
 	# Author: OsamaK
 	# Author: Zaher kadour
 	'ar': {
-		'isbn-formatting': u'بوت: تنسيق ISBN',
+		'isbn-formatting': u'روبوت: تنسيق ISBN',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
@@ -78,9 +78,10 @@ msg = {
 	'bs': {
 		'isbn-formatting': u'Bot: Oblikovanje ISBN',
 	},
+	# Author: Grondin
 	# Author: SMP
 	'ca': {
-		'isbn-formatting': u'Robot: Format de l\'ISBN',
+		'isbn-formatting': u'Robot: format de l\'ISBN',
 	},
 	# Author: Asoxor
 	'ckb': {

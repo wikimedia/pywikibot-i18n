@@ -62,8 +62,9 @@ msg = {
 	'bs': {
 		'replace-replacing': u'Bot: Automatska zamijena teksta %(description)s',
 	},
+	# Author: Grondin
 	'ca': {
-		'replace-replacing': u'Robot: Reemplaçament automàtic de text %(description)s',
+		'replace-replacing': u'Robot: reemplaçament automàtic de text %(description)s',
 	},
 	# Author: Asoxor
 	'ckb': {

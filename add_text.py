@@ -91,8 +91,9 @@ msg = {
 		'add_text-adding': u'robot dodaje %(adding)s',
 	},
 	# Author: Anskar
+	# Author: Grondin
 	'ca': {
-		'add_text-adding': u'Robot: Afegint %(adding)s',
+		'add_text-adding': u'Robot: afegint %(adding)s',
 	},
 	'ce': {
 		'add_text-adding': u'робот тIетоьхна %(adding)s',
@@ -145,8 +146,9 @@ msg = {
 	'el': {
 		'add_text-adding': u'Ρομπότ: Προσθήκη %(adding)s',
 	},
+	# Author: Gloria sah
 	'eml': {
-		'add_text-adding': u'Robot A Śònt %(adding)s',
+		'add_text-adding': u'Robot: A śònt %(adding)s',
 	},
 	# Author: Airon90
 	'eo': {
@@ -410,8 +412,9 @@ msg = {
 	'nds-nl': {
 		'add_text-adding': u'Bot derbie %(adding)s',
 	},
+	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'add_text-adding': u'रोबोट ले थप्दै %(adding)s',
+		'add_text-adding': u'रोबोटले थप्दै %(adding)s',
 	},
 	'nl': {
 		'add_text-adding': u'Robot: toegevoegd %(adding)s',

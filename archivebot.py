@@ -12,7 +12,7 @@ msg = {
 	# Author: McDutchie
 	# Author: Shirayuki
 	'qqq': {
-		'archivebot-older-than': u'Followed by " " and timestamp.',
+		'archivebot-older-than': u'Followed by " " and timestamp (elapsed time).\n{{Identical|Older than}}',
 		'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
 		'archivebot-archiveheader': u'Template that will be put on new archive pages as the header.',
 		'archivebot-archive-full': u'Appended to the summary.',
@@ -113,8 +113,11 @@ msg = {
 		'archivebot-archive-summary': u'Pangarsipan %(count)d thread(s) dari [[%(from)s]].',
 	},
 	# Author: Bellayet
+	# Author: Nasir8891
 	'bn': {
+		'archivebot-older-than': u'পুরাতন',
 		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(আর্কাইভ পূর্ণ)',
 	},
 	# Author: Fulup
 	# Author: Y-M D
@@ -133,6 +136,7 @@ msg = {
 		'archivebot-archive-full': u'(ARHIVA PUNA)',
 		'archivebot-archive-summary': u'Arhiviranje %(count)d nit(ova) iz [[%(from)s]].',
 	},
+	# Author: Grondin
 	# Author: SMP
 	# Author: Xqt
 	'ca': {
@@ -140,7 +144,7 @@ msg = {
 		'archivebot-page-summary': u'Robot: Arxivant %(count)d fils de discussió (%(why)s) a %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARXIU PLE)',
-		'archivebot-archive-summary': u'Robot: Arxivant %(count)d fils de discussió de [[%(from)s]].',
+		'archivebot-archive-summary': u'Robot: arxivant %(count)d {{PLURAL:%(count)d|fil|fils}} de discussió de [[%(from)s]].',
 	},
 	# Author: Asoxor
 	# Author: Calak
@@ -214,6 +218,14 @@ msg = {
 		'archivebot-archive-full': u'(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)',
 		'archivebot-archive-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]]',
 	},
+	# Author: Gloria sah
+	'eml': {
+		'archivebot-older-than': u'piò vèć ed',
+		'archivebot-page-summary': u'Robot: Archiviasiòun ed %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ARCHÌVI PÎN)',
+		'archivebot-archive-summary': u'Robot: Archiviasiòun ed %(count)d {{PLURAL:%(count)d|thread|threads}} da [[%(from)s]].',
+	},
 	# Author: Airon90
 	# Author: Objectivesea
 	# Author: Remux
@@ -242,6 +254,7 @@ msg = {
 	# Author: Theklan
 	'eu': {
 		'archivebot-older-than': u'hau baino zaharragoak:',
+		'archivebot-archive-full': u'(ARTXIBOA BETETA)',
 	},
 	# Author: Mjbmr
 	# Author: ZxxZxxZ
@@ -407,8 +420,9 @@ msg = {
 	},
 	# Author: Fryed-peach
 	# Author: Shirayuki
+	# Author: Whym
 	'ja': {
-		'archivebot-older-than': u'次より古い',
+		'archivebot-older-than': u'経過時間',
 		'archivebot-page-summary': u'ロボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}} (%(why)s) を%(archives)sへ過去ログ化',
 		'archivebot-archiveheader': u'{{Archives}}',
 		'archivebot-archive-full': u'(過去ログ満杯)',
@@ -570,10 +584,10 @@ msg = {
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'archivebot-older-than': u'भन्दा पुरानो',
-		'archivebot-page-summary': u'रोबोट: अभिलेख %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s) to %(archives)s',
+		'archivebot-page-summary': u'रोबोट: अभिलेख %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s)  %(archives)s मा',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(पूरा अभिलेख)',
-		'archivebot-archive-summary': u'रोबोट : अभिलेखिकरण गर्धै  %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}  [[%(from)s]]बाट.',
+		'archivebot-archive-summary': u'रोबोट : अभिलेखिकरण गर्दै  %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}  [[%(from)s]]बाट.',
 	},
 	# Author: Eukesh
 	'new': {
@@ -651,10 +665,11 @@ msg = {
 	'ps': {
 		'archivebot-archive-full': u'(خونديځ ډک دی)',
 	},
+	# Author: Giro720
 	# Author: Waldir
 	# Author: Xqt
 	'pt': {
-		'archivebot-older-than': u'older than',
+		'archivebot-older-than': u'mais velho que',
 		'archivebot-page-summary': u'Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARQUIVO COMPLETO)',

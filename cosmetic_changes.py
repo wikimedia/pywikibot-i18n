@@ -25,9 +25,10 @@ msg = {
 		'cosmetic_changes-standalone': u'Bötli: Oberflächlichi Änderige',
 		'cosmetic_changes-append': u'; oberflächlichi Änderige',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'cosmetic_changes-standalone': u'بوت: تغييرات تجميلية',
+		'cosmetic_changes-standalone': u'روبوت: تغييرات تجميلية',
 		'cosmetic_changes-append': u'; تغييرات تجميلية',
 	},
 	# Author: Basharh
@@ -96,8 +97,9 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: kozmetičke promjene',
 		'cosmetic_changes-append': u'; kozmetičke promjene',
 	},
+	# Author: Grondin
 	'ca': {
-		'cosmetic_changes-standalone': u'Robot: Canvis cosmètics',
+		'cosmetic_changes-standalone': u'Robot: canvis cosmètics',
 		'cosmetic_changes-append': u'; canvis cosmètics',
 	},
 	# Author: Asoxor
@@ -360,6 +362,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Bot: kosmetiese wiezigingen',
 		'cosmetic_changes-append': u'; kosmetiese wiezigingen',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'cosmetic_changes-standalone': u'रोबोट: कस्मेटिक परिवर्तनहरू',
+		'cosmetic_changes-append': u'; कस्मेटिक परिवर्तनहरू',
+	},
 	# Author: Eukesh
 	'new': {
 		'cosmetic_changes-standalone': u'रोबोट:रुप हिलाछ्वगु',
@@ -539,6 +546,11 @@ msg = {
 	'vi': {
 		'cosmetic_changes-standalone': u'Bot: Sửa cách trình bày',
 		'cosmetic_changes-append': u'; sửa cách trình bày',
+	},
+	# Author: Malafaya
+	'vo': {
+		'cosmetic_changes-standalone': u'Bot: Votükams dekik',
+		'cosmetic_changes-append': u'; votükams dekik',
 	},
 	'war': {
 		'cosmetic_changes-standalone': u'Robot: Kosmetiko nga mga pagbag-o',

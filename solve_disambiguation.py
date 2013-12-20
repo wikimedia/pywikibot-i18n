@@ -49,13 +49,13 @@ msg = {
 	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'solve_disambiguation-redirect-removed': u'توضيح بمساعدة بوت: %(from)s - أزال الوصلة أو الوصلات',
-		'solve_disambiguation-redirect-resolved': u'توضيح بمساعدة بوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
-		'solve_disambiguation-links-resolved': u'توضيح بمساعدة بوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'توضيح بمساعدة بوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
-		'solve_disambiguation-adding-dn-template': u'توضيح بمساعدة بوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
+		'solve_disambiguation-redirect-removed': u'توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات',
+		'solve_disambiguation-redirect-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
+		'solve_disambiguation-links-resolved': u'توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
+		'solve_disambiguation-adding-dn-template': u'توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير',
 		'solve_disambiguation-unknown-page': u'(غير معروف)',
-		'solve_disambiguation-links-removed': u'توضيح بمساعدة بوت: %(from)s - أزال الوصلة أو الوصلات.',
+		'solve_disambiguation-links-removed': u'توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات.',
 	},
 	# Author: Basharh
 	'arc': {
@@ -248,6 +248,10 @@ msg = {
 		'solve_disambiguation-adding-dn-template': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενός ειδικού',
 		'solve_disambiguation-unknown-page': u'(άγνωστο)',
 		'solve_disambiguation-links-removed': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν).',
+	},
+	# Author: Gloria sah
+	'eml': {
+		'solve_disambiguation-unknown-page': u'(mìq cgnusû)',
 	},
 	# Author: Mihxil
 	'eo': {
@@ -683,14 +687,15 @@ msg = {
 		'solve_disambiguation-links-removed': u'Bot-ehölpen deurverwiezing: [[%(from)s]] - Verwiezing(en) vortedaon',
 	},
 	# Author: RajeshPandey
+	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'solve_disambiguation-redirect-removed': u'रोबोट-सहायक अस्पष्ट: %(from)s लाइ - लिङ्क(हरु) हटाइयो',
-		'solve_disambiguation-redirect-resolved': u'रोबोट-सहायक अस्पष्ट: %(from)s लाइ - लिङ्क(हरु) लाइ %(to)s मा परिवर्तन गरियो',
+		'solve_disambiguation-redirect-removed': u'रोबोट-सहायक अस्पष्ट: %(from)s लाई - लिङ्क(हरु) हटाइयो',
+		'solve_disambiguation-redirect-resolved': u'रोबोट-सहायक अस्पष्ट: %(from)sलाई - लिङ्क(हरु) लाइ %(to)s मा परिवर्तन गरियो',
 		'solve_disambiguation-links-resolved': u'रोबोट-सहायक अस्पष्ट: %(from)s बाट - लिङ्क(हरु) लाइ %(to)s मा परिवर्तन गरियो',
-		'solve_disambiguation-redirect-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)s लाइ - विशेषज्ञ को ध्यानाकर्षण गराउँदै',
-		'solve_disambiguation-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)s लाइ - विशेषज्ञ को ध्यानाकर्षण गराउँदै',
-		'solve_disambiguation-unknown-page': u'[अज्ञात]',
-		'solve_disambiguation-links-removed': u'रोबोट-सहायक अस्पष्टता: %(from)s लाइ - लिङ्क(हरु) हटाइयो',
+		'solve_disambiguation-redirect-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)sलाई - विशेषज्ञ को ध्यानाकर्षण गराउँदै',
+		'solve_disambiguation-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)sलाई - विशेषज्ञको ध्यानाकर्षण गराउँदै',
+		'solve_disambiguation-unknown-page': u'(अज्ञात)',
+		'solve_disambiguation-links-removed': u'रोबोट-सहायक अस्पष्टता: %(from)sलाई - लिङ्क(हरु) हटाइयो',
 	},
 	# Author: Eukesh
 	'new': {

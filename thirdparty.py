@@ -42,7 +42,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Summary line second part if there are additional results.',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'First part of message if discussion has changed.',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Summary line second part if there are additional results and old get removed.',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summary line second part if the page had to be modified due to new results. Parameters:\n* %(num)i is the numer of entries\n* %(page)s is the page that was updated',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Summary line second part if the page had to be modified due to new results.\n\nParameters:\n* %(num)i - the number of entries\n* %(page)s - the page that was updated',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'First part of message if it is a extraordinary maintenance message.\n\n(It\'s a system message that can only be triggered by the bot maintainer. Thus it\'s not important to translate the text.)',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'Message footer for bot report output. Parameters:\n* %(sign)s - signature and date (4 tildes, <code><nowiki>~~~~</nowiki></code>)\n"From" probably refers to the name of the bot and "at" probably refers to the timestamp.',
 	},
@@ -110,7 +110,7 @@ msg = {
 	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'بوت',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(لم يعثر على أي محرر بشري)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s آخر تعديل] (%(page_size)s بايت) من طرف %(user)s (%(time)s)',
@@ -125,7 +125,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'تغير النقاش',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'تم إضافة ملخص النقاش مع التعديل: %(num)i إدخالات',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'تم تحديث ملخص النقاش: %(num)i إدخالات في %(page)s',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'رسالة بوت',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'رسالة روبوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nتم أنشاء التلخيص من طرف وعند: %(sign)s</noinclude>',
 	},
 	# Author: Basharh
@@ -184,10 +184,11 @@ msg = {
 	},
 	# Author: Amir a57
 	# Author: E THP
+	# Author: Meno25
 	# Author: Mousa
 	# Author: Zaher kadour
 	'azb': {
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'بوت',
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'روبوت',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(دیَشدیرن اینسان بولونامادی)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u'بوت:* %(notify)s: %(page_sections)s - [%(history_link)s سون دییشیک‌لیک] (%(page_size)s byte) ایستیفادچی%(user)s (%(time)s)',
@@ -464,6 +465,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nZusammenfassung erstellt von und um: %(sign)s</noinclude>',
 	},
 	# Author: Erdemaslancan
+	# Author: Marmase
 	'diq': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(Vurneber merdum nê vineya)',
@@ -472,7 +474,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot mesacê ikazi: %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Mınaqeşeyo newe',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - vurnayışê peyenê [[User:%(user)s]] (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Xeberdar',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Mengene',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'%(tags)s ê etiket(i) vurnayış',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Persiyey racneya',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s werênayışi pêro (seyr kerdış) hewadeya - vurnayışe peyênê %(user)s (%(time)s)',
@@ -497,12 +499,21 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Κοινοποίηση',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'υποκατάσταση %(tags)s ετικέτας(-ών)',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Η συζήτησε έκλεισε',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s όλες οι συζητήσεις έχουν τελειώσει (η επισκόπηση σταμάτησε - τελευταία επεξεργασία από %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Προστέθηκε σύνοψη συζήτησης: %(num)i καταχωρήσεις',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Η συζήτηση άλλαξε',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Προστέθηκε σύνοψη συζήτησης με συμμάζεμα: %(num)i καταχωρήσεις',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Προστέθηκε σύνοψη συζήτησης: %(num)i καταχωρήσεις σε %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ΜΗΝΥΜΑ ΑΠΟ ROBOT',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nΠερίληψη που δημιουργήθηκε από και στις: %(sign)s</noinclude>',
+	},
+	# Author: Gloria sah
+	'eml': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Discusiòun nóva',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Sarèda la discusiòun',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Cambièda la discusiòun',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESAG\' DAL ROBOT',
 	},
 	# Author: Blahma
 	# Author: Objectivesea
@@ -1219,7 +1230,23 @@ msg = {
 	},
 	# Author: सरोज कुमार ढकाल
 	'ne': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'रोबोट',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(सम्पादन कर्ता कुनै मानिस भेटिएन)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) प्रयोगकर्ता %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* रोबोट चेतावनीहरू: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'नयाँ छलफल',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - अन्तिम सम्पादनकर्ता  [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'जानकारी',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'प्रतिस्थापन गर्दै %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'छलफल बन्द गरियो',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s सबै छलफल सकियो(निगरानी रोकियो) - अन्तिम सम्पादनकर्ता %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'छलफल सारांश थपियो: %(num)i प्रविष्टीहरू',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'छलफलमा परिवर्तनहरु छन्',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'सफाई गरी छलफल सारांश थपियो: %(num)i प्रविष्टीहरू',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'छलफल सारांश थपियो: %(num)i प्रविष्टीहरू %(page)s पृष्ठहरूमा',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'रोबोट सन्देश',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nसारांश बनाउने र समय : %(sign)s</noinclude>',
 	},
 	# Author: Eukesh
 	'new': {

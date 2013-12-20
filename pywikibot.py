@@ -114,16 +114,17 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Pritisnite "Enter" kada završite u pregledniku.',
 	},
 	# Author: Alvaro Vidal-Abarca
+	# Author: Grondin
 	# Author: Pitort
 	# Author: Toniher
 	# Author: XVEC
 	'ca': {
-		'pywikibot-enter-xml-filename': u'Siusplau introdueix el nom del fitxer abocador d\'XML .',
+		'pywikibot-enter-xml-filename': u'Si us plau introdueix el nom del fitxer abocador d\'XML .',
 		'pywikibot-enter-page-processing': u'Quina pàgina ha de ser processada?',
 		'pywikibot-enter-file-links-processing': u'Els enllaços a quina pàgina del fitxer s\'haurien de processar?',
 		'pywikibot-enter-namespace-number': u'Introduïu un espai de noms pel seu número:',
-		'pywikibot-enter-new-text': u'Siusplau introdueix el nou text :',
-		'pywikibot-enter-category-name': u'Siusplau introdueix el nom de la categoria :',
+		'pywikibot-enter-new-text': u'Si us plau introdueix el nou text :',
+		'pywikibot-enter-category-name': u'Si us plau introdueix el nom de la categoria :',
 		'pywikibot-enter-finished-browser': u'Apreta Enter quan s\'hagi acabat amb el navegador',
 	},
 	# Author: Умар
@@ -507,6 +508,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Geef de kategorienaam op:',
 		'pywikibot-enter-finished-browser': u'Druk op "Enter" a\'j klaor bin in de webkieker.',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'pywikibot-enter-xml-filename': u'कृपया XML dumpको फाइलनाम खुलाउनुहोस्:',
+		'pywikibot-enter-page-processing': u'कुन पृष्ठमा कार्य गर्ने हो ?',
+		'pywikibot-enter-file-links-processing': u'फाइल पृष्ठ सम्पादन गर्नु पर्ने लक्ष्यको लिङ्क ?',
+		'pywikibot-enter-namespace-number': u'कृपया नेमस्पेस संख्याको रुपमा राख्नुहोला :',
+		'pywikibot-enter-new-text': u'कृपया नयाँ पाठ प्रविष्ठ गर्नुहोस् :',
+		'pywikibot-enter-category-name': u'कृपया श्रेणीको नाम प्रविष्ठ गर्नुहोस् :',
+		'pywikibot-enter-finished-browser': u'ब्राउजरमा सकिएपछि इन्टर थिच्नुहोला ।',
+	},
 	# Author: Eukesh
 	'new': {
 		'pywikibot-enter-xml-filename': u'XML दम्पया फाइलनेम तियादिसँ:',
@@ -522,7 +533,7 @@ msg = {
 	'nl': {
 		'pywikibot-enter-xml-filename': u'Geef de bestandnaam van een XML-dump op:',
 		'pywikibot-enter-page-processing': u'Welke pagina moet verwerkt worden?',
-		'pywikibot-enter-file-links-processing': u'Koppelingen naar welke bestandspagina moeten verwerkt worden?',
+		'pywikibot-enter-file-links-processing': u'Koppelingen naar welke bestandspagina verwerken?',
 		'pywikibot-enter-namespace-number': u'Geef een naamruimtenummer op:',
 		'pywikibot-enter-new-text': u'Geef de nieuwe tekst op:',
 		'pywikibot-enter-category-name': u'Geef de categorienaam op:',
@@ -705,6 +716,11 @@ msg = {
 		'pywikibot-enter-new-text': u'Зәһмәт ныбо, нујә мәтн дәғандән:',
 		'pywikibot-enter-category-name': u'Зәһмәт ныбо, тиспири ном дәғандән:',
 		'pywikibot-enter-finished-browser': u'Enter егәтәдыгмә егәтәјон, кејнә обәрәхнејон бә браузер дәгишијон дәғандеј.',
+	},
+	# Author: Meelo
+	'tr': {
+		'pywikibot-enter-new-text': u'Lütfen yeni metni girin:',
+		'pywikibot-enter-category-name': u'Lütfen kategori adını girin:',
 	},
 	# Author: A1
 	# Author: Base

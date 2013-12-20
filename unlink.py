@@ -19,9 +19,10 @@ msg = {
 	'als': {
 		'unlink-unlinking': u'Bot: „%s“ entlinkt',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'unlink-unlinking': u'بوت: إزالة وصلات "%s"',
+		'unlink-unlinking': u'روبوت: إزالة وصلات "%s"',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
@@ -215,6 +216,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'unlink-unlinking': u'Bot: verwiezing naor "%s" vortedaon',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'unlink-unlinking': u'रोबोट : "%s" लिङ्क हटाउँदै',
 	},
 	# Author: Siebrand
 	'nl': {

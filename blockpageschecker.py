@@ -18,8 +18,9 @@ msg = {
 		'blockpageschecker-summary': u'Robot : o tilemel ur gobari diamzeret',
 	},
 	# Author: Alvaro Vidal-Abarca
+	# Author: Grondin
 	'ca': {
-		'blockpageschecker-summary': u'Bot: Suprimint plantilla obsoleta',
+		'blockpageschecker-summary': u'Bot: suprimint plantilla obsoleta',
 	},
 	# Author: Mormegil
 	'cs': {
@@ -37,9 +38,17 @@ msg = {
 	'diq': {
 		'blockpageschecker-summary': u'Bot: Sablone tarixda verin besterneno',
 	},
+	# Author: Geraki
+	'el': {
+		'blockpageschecker-summary': u'Bot: Διαγραφή παρωχημένου πρότυπου',
+	},
 	# Author: VegaDark
 	'es': {
 		'blockpageschecker-summary': u'Bot: Borrado de plantilla desactualizada',
+	},
+	# Author: Theklan
+	'eu': {
+		'blockpageschecker-summary': u'Bot: iraungitutako txantiloia ezabatzen',
 	},
 	# Author: Ebraminio
 	'fa': {
@@ -63,6 +72,10 @@ msg = {
 	'he': {
 		'blockpageschecker-summary': u'בוט: מסיר תבנית שעבר זמנה',
 	},
+	# Author: M hamlet
+	'hy': {
+		'blockpageschecker-summary': u'Բոտ․ Ժամկետանց կաղապարի հեռացում',
+	},
 	# Author: McDutchie
 	'ia': {
 		'blockpageschecker-summary': u'Robot: Deletion de un patrono obsolete',
@@ -72,8 +85,9 @@ msg = {
 		'blockpageschecker-summary': u'Bot: tolgo template obsoleto',
 	},
 	# Author: Shirayuki
+	# Author: Whym
 	'ja': {
-		'blockpageschecker-summary': u'ロボットによる: 時代遅れのテンプレートを削除',
+		'blockpageschecker-summary': u'ロボットによる: 失効したテンプレートを削除',
 	},
 	# Author: 아라
 	'ko': {
@@ -103,9 +117,17 @@ msg = {
 	'nds-nl': {
 		'blockpageschecker-summary': u'Bot: verouwerde mal vortedoan',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'blockpageschecker-summary': u'बोट : काम नलाग्ने टेम्प्लेटहरू मेट्दै',
+	},
 	# Author: Siebrand
 	'nl': {
 		'blockpageschecker-summary': u'Robot: verouderd sjabloon verwijderd',
+	},
+	# Author: Cocu
+	'no': {
+		'blockpageschecker-summary': u'Robot: Sletter utdatert mal',
 	},
 	# Author: Ty221
 	'pl': {
@@ -145,6 +167,10 @@ msg = {
 	# Author: WikiPhoenix
 	'sv': {
 		'blockpageschecker-summary': u'Bot: Raderar föråldrad mall',
+	},
+	# Author: Meelo
+	'tr': {
+		'blockpageschecker-summary': u'Bot: Eski şablon siliniyor',
 	},
 	# Author: Andriykopanytsia
 	'uk': {

@@ -12,11 +12,12 @@ msg = {
 		'weblinkchecker-summary': u'Edit summary for weblinkchecker report',
 		'weblinkchecker-report': u'The weblinkchecker report',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
 		'weblinkchecker-archive_msg': u'صفحة الويب تم حفظها بواسطة أرشيف الإنترنت. من فضلك ضع في الاعتبار الوصل لنسخة مؤرشفة مناسبة: [%(URL)s].',
 		'weblinkchecker-caption': u'وصلة ميتة',
-		'weblinkchecker-summary': u'بوت: الإبلاغ عن وصلات خارجية غير متوفرة',
+		'weblinkchecker-summary': u'روبوت: الإبلاغ عن وصلات خارجية غير متوفرة',
 		'weblinkchecker-report': u'خلال عدة عمليات أوتوماتيكية من البوت الوصلة الخارجية التالية كانت غير متوفرة. من فضلك تحقق من أن الوصلة لا تعمل وأزلها أو أصلحها في هذه الحالة!',
 	},
 	# Author: Xuacu
@@ -110,6 +111,10 @@ msg = {
 		'weblinkchecker-caption': u'Νεκρός σύνδεσμος',
 		'weblinkchecker-summary': u'Ρομπότ: Αναφορά μη διαθέσιμου εξωτερικού σύνδεσμου',
 		'weblinkchecker-report': u'Κατά την διάρκεια αρκετών αυτόματων ελέγχων ο ακόλουθος εξωτερικός σύνδεσμος βρέθηκε να είναι μη διαθέσιμος. Παρακαλούμε ελέγξτε αν ο σύνδεσμος είναι πράγματι νεκρός και διορθώστε τον ή αφαιρέστε τον σε αυτή την περίπτωση!',
+	},
+	# Author: Gloria sah
+	'eml': {
+		'weblinkchecker-caption': u'Ligàm mort',
 	},
 	# Author: Airon90
 	'eo': {
@@ -241,11 +246,12 @@ msg = {
 		'weblinkchecker-summary': u'Бот: жеткиликсиз сырткы шилтеме табылды',
 	},
 	# Author: Robby
+	# Author: Soued031
 	'lb': {
 		'weblinkchecker-archive_msg': u'D\'Internetsäit gouf vum Internet Archive gespäichert. Iwwerleet Iech ob Dir e Link op eng vun den archivéierte Versiounen: [%(URL)s] maache wëllt:',
 		'weblinkchecker-caption': u'Doudege Link',
 		'weblinkchecker-summary': u'Bot: Informatioun iwwer en externe Link deen net disponibel ass',
-		'weblinkchecker-report': u'Bäi verschiddenen automateschen Tester vum Bot war dësen externe Link net disponibel. Kuckt w.e.g. no ob de Link wierklech net méi disponibel ass an an deem Fall fléckt de Link oder huelt en ewech!',
+		'weblinkchecker-report': u'Bei verschiddenen automateschen Tester vum Bot war dësen externe Link net disponibel. Kuckt w.e.g. no ob de Link wierklech net méi disponibel ass an an deem Fall fléckt de Link oder huelt en ewech!',
 	},
 	# Author: Mantak111
 	'lt': {
@@ -304,6 +310,13 @@ msg = {
 		'weblinkchecker-caption': u'Dooie verwiezing',
 		'weblinkchecker-summary': u'Robot: melding (tiejelik) onbereikbaore uutgaonde verwiezing',
 		'weblinkchecker-report': u'Uut enkele automatiese kontraoles bleek dat de uutgaonde verwiezing die hieronder steet onbereikbaor is. Kiek effen nao of de verwiezing inderdaod onbereikbaor is. Geerne disse tekste vortdoon nao n suksesvolle kontraole of naodat de uutgaonde verwiezing vortedaon of verbeterd is.',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'weblinkchecker-archive_msg': u'यो पृष्ठ इन्टरनेट अभिलेखमा संग्रहित छ ।कृपया उपयुक्त अभिलेक संस्करणमा जोड्नुहोला : [%(URL)s].',
+		'weblinkchecker-caption': u'मृत(काम नलाग्ने) लिङ्क',
+		'weblinkchecker-summary': u'रोबोट: अनुपलब्ध बह्य लिङ्कहरुलाई उजुर गर्दै',
+		'weblinkchecker-report': u'अनेकौँ स्वचालित बोट सञ्चालनका क्रममा निम्न लिंकहरू अनुपलब्ध पाइए । कृपया साच्चै नै लिङ्कहरू हटेका हुन्  भने सच्याउनुहोला ! \\',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -421,6 +434,11 @@ msg = {
 		'weblinkchecker-caption': u'Ко ныкардә сәвонон',
 		'weblinkchecker-summary': u'Робот: ко ныкардә бешемонә сәвон пәјдо быә',
 		'weblinkchecker-report': u'Бот пәјдош карде ки пеш омә бешемонә сәвонон ко кардејдәнин. Сәвонон дәвинә ијән сәрост быкәјон јаанки әвони бымолән.',
+	},
+	# Author: Meelo
+	'tr': {
+		'weblinkchecker-caption': u'Ölü bağlantı',
+		'weblinkchecker-summary': u'Robot: Kullanılamayan dış bağlantı rapor ediliyor',
 	},
 	'uk': {
 		'weblinkchecker-archive_msg': u'Веб-сторінка була збережена у Internet Archive. Будь ласка, подумайте над заміною посилання на відповідну збережену версію: [%(URL)s].',

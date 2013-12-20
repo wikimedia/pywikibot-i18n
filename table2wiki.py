@@ -67,11 +67,12 @@ msg = {
 		'table2wiki-warnings': u'Bot pod korisničkom kontrolom: Sintaksna tabela ažurirana - {{PLURAL:count|1 upozorenje|%(count)d upozorenja}}!',
 		'table2wiki-no-warning': u'Bot pod korisnkičkom kontrolom: Sintaksna tabela ažurirana.',
 	},
+	# Author: Grondin
 	# Author: SMP
 	# Author: Xqt
 	'ca': {
-		'table2wiki-warnings': u'Robot controlat per usuari: Actualitzant la sintaxi de la taula. {{PLURAL:count|Un advertiment|%(count)d advertiments}}!',
-		'table2wiki-no-warning': u'Robot controlat per usuari: Actualitzant la sintaxi de la taula.',
+		'table2wiki-warnings': u'Robot controlat per usuari: actualitzant la sintaxi de la taula. {{PLURAL:count|Un advertiment|%(count)d advertiments}}!',
+		'table2wiki-no-warning': u'Robot controlat per usuari: actualitzant la sintaxi de la taula.',
 	},
 	# Author: Asoxor
 	'ckb': {
@@ -259,6 +260,11 @@ msg = {
 	'nds-nl': {
 		'table2wiki-warnings': u'Tabel ewiezigd van HTML- naor Wikisyntax - {{PLURAL:count|1 waorschuwing|%(count)d waorschuwingen}}!',
 		'table2wiki-no-warning': u'Tabel ewiezigd van HTML- naor Wikisyntax',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'table2wiki-warnings': u'प्रतयोगकर्ता नियन्त्रित रोबोट: टेबलको सिन्ट्याक्स अध्यावधिक गरियो - {{PLURAL:count|१ चेतावनी |%(count)d चेतावनीहरू}}!',
+		'table2wiki-no-warning': u'प्रयोगकर्ता नियन्त्रित रोबोट: टेबल सिन्ट्याक्स परिवर्तन गरियो',
 	},
 	# Author: Xqt
 	'nl': {

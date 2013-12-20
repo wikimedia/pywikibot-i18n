@@ -46,8 +46,8 @@ msg = {
 	# Author: Zaher kadour
 	'ar': {
 		'category_redirect-comment': u'بوت صيانة تحويلات التصانيف',
-		'category_redirect-change-category': u'بوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'بوت: إضافة قالب تحويل تصنيف للصيانة',
+		'category_redirect-change-category': u'روبوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'روبوت: إضافة قالب تحويل تصنيف للصيانة',
 		'category_redirect-edit-request': u'الصفحات المحمية التالية تم كشفها كمحتاجة تحديثات لوصلات التصنيف: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s في %(oldcat)s, وهو تحويل إلى %(newcat)s',
 		'category_redirect-fix-double': u'بوت: إصلاح تحويلة مزدوجة',
@@ -614,6 +614,15 @@ msg = {
 		'category_redirect-edit-request': u'Veur de volgende beveiligden pagina\'s mutten de kategorieverwiezingen an-epast wörden: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s steet in %(oldcat)s, n deurverwiezing naor %(newcat)s',
 		'category_redirect-fix-double': u'Bot: dubbele deurverwiezingen verbeteren',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'category_redirect-comment': u'श्रेणी अनुप्रेषण मर्मत रोबोट',
+		'category_redirect-change-category': u'रोबोट: श्रेणी अनुप्रेषण गर्दै [[:%(oldCatLink)s|%(oldCatTitle)s]] बाट [[:%(newCatLink)s|%(newCatTitle)s]] मा',
+		'category_redirect-add-template': u'रोबोट: मर्मतको लागि श्रेणी अनुप्रेषण टेम्पलेट थप्दै',
+		'category_redirect-edit-request': u'निम्न सुरक्षित पृष्ठहरुमा श्रेणीअरु सम्पादनको आवश्यकता देखिएको छ: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s , %(oldcat)s मा रहेको छ, जसलाई %(newcat)sमा अनुप्रेषण गरियो',
+		'category_redirect-fix-double': u'रोबोट: दोहोरो रिडाइरेक्टहरू मिलाउँदै',
 	},
 	# Author: Eukesh
 	'new': {

@@ -23,11 +23,12 @@ msg = {
 		'template-changing': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s',
 		'template-substituting': u'Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} usstuusche: %(list)s',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'template-removing': u'بوت: إزالة {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
-		'template-changing': u'بوت: استبدال {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
-		'template-substituting': u'بوت: نسخ {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
+		'template-removing': u'روبوت: إزالة {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
+		'template-changing': u'روبوت: استبدال {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
+		'template-substituting': u'روبوت: نسخ {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s',
 	},
 	# Author: Basharh
 	'arc': {
@@ -82,11 +83,12 @@ msg = {
 		'template-changing': u'Bot: Izmjena {{PLURAL:%(num)d|šablona|šablona}}: %(list)s.',
 		'template-substituting': u'Bot: Zamijena {{PLURAL:%(num)d|šablona|šablona}}: %(list)s.',
 	},
+	# Author: Grondin
 	# Author: SMP
 	'ca': {
-		'template-removing': u'Robot: Retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
-		'template-changing': u'Robot: Canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
-		'template-substituting': u'Robot: Substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
+		'template-removing': u'Robot: retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
+		'template-changing': u'Robot: canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
+		'template-substituting': u'Robot: substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
 	},
 	# Author: Asoxor
 	'ckb': {
@@ -327,6 +329,12 @@ msg = {
 		'template-removing': u'Bot: {{PLURAL:%(num)d|mal|mallen}} vortdoon: %(list)s',
 		'template-changing': u'Bot: {{PLURAL:%(num)d|mal|mallen}} vervangen: %(list)s',
 		'template-substituting': u'Bot: {{PLURAL:%(num)d|mal|mallen}} substitueren: %(list)s',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'template-removing': u'रोबोट: हटाउँदै{{PLURAL:%(num)d|टेम्पल्लेट|टेम्पल्लेटहरू}}: %(list)s',
+		'template-changing': u'रोबोट:  {{PLURAL:%(num)d|टेम्प्लेट|टेम्प्लेटहरू}}: %(list)s परिवर्तन गर्दै',
+		'template-substituting': u'रोबोट: विस्थापन गर्दै {{PLURAL:%(num)d|टेम्पलेट|टेम्प्लेटहरू}}: %(list)s',
 	},
 	# Author: Siebrand
 	'nl': {

@@ -229,6 +229,10 @@ msg = {
 	'nds-nl': {
 		'editarticle-edit': u'Haandmaotige bewarking mit bot: %(description)s',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'editarticle-edit': u'रोबोटको सहायताले मानिसले गरेको सम्पादन: %(description)s',
+	},
 	# Author: Eukesh
 	'new': {
 		'editarticle-edit': u'रोबटं याःगु म्यानुअल ज्या: %(description)s',

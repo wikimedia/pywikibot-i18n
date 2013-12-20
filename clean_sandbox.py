@@ -14,9 +14,10 @@ msg = {
 	'als': {
 		'clean_sandbox-cleaned': u'Bötli: Sandchaschte iigebnet.',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'clean_sandbox-cleaned': u'بوت: هذه الصفحة سيتم تفريغها تلقائيا',
+		'clean_sandbox-cleaned': u'روبوت: هذه الصفحة سيتم تفريغها تلقائيا',
 	},
 	# Author: Basharh
 	'arc': {
@@ -63,9 +64,14 @@ msg = {
 	'bs': {
 		'clean_sandbox-cleaned': u'Bot: Automatsko čišćenje',
 	},
+	# Author: Grondin
 	# Author: SMP
 	'ca': {
-		'clean_sandbox-cleaned': u'Robot: Netejat automàticament',
+		'clean_sandbox-cleaned': u'Robot: netejat automàticament',
+	},
+	# Author: Умар
+	'ce': {
+		'clean_sandbox-cleaned': u'бот: ловзаран майда дӀацӀаняр',
 	},
 	# Author: Asoxor
 	'ckb': {
@@ -246,6 +252,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'clean_sandbox-cleaned': u'Bot: automaties an-ekeerd.',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'clean_sandbox-cleaned': u'रोबोट: स्वत: सफाई गरियो',
 	},
 	# Author: Siebrand
 	# Author: Southparkfan

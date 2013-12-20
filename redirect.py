@@ -53,10 +53,10 @@ msg = {
 	# Author: Zaher kadour
 	'ar': {
 		'redirect-fix-double': u'بوت: تصليح تحويلة مزدوجة إلى %(to)s',
-		'redirect-remove-broken': u'بوت: تحويلة إلى صفحة محذوفة أو غير موجودة',
+		'redirect-remove-broken': u'روبوت: تحويلة إلى صفحة محذوفة أو غير موجودة',
 		'redirect-fix-broken-moved': u'الروبوت: إصلاح إعادة التوجيه المعطل لصفحة الهدف المحركة %(to)s',
-		'redirect-fix-loop': u'بوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
-		'redirect-remove-loop': u'بوت: هدف التحويلة يصنع عقدة تحويل',
+		'redirect-fix-loop': u'روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s',
+		'redirect-remove-loop': u'روبوت: هدف التحويلة يصنع عقدة تحويل',
 		'redirect-broken-redirect-template': u'{{شطب|تحويلة مكسورة}}',
 	},
 	# Author: Jaminianurag
@@ -174,11 +174,11 @@ msg = {
 	# Author: SMP
 	# Author: Vriullop
 	'ca': {
-		'redirect-fix-double': u'Bot: Reparació de les redireccions dobles a %(to)s',
-		'redirect-remove-broken': u'Bot: La pàgina a la qual redirecciona no existeix',
+		'redirect-fix-double': u'Bot: reparació de les redireccions dobles a %(to)s',
+		'redirect-remove-broken': u'Bot: la pàgina a la qual redirecciona no existeix',
 		'redirect-fix-broken-moved': u'Bot: Reparació de les redireccions trencades per moure-les a %(to)s',
 		'redirect-fix-loop': u'Bot: arreglant redirecció en bucle per %(to)s',
-		'redirect-remove-loop': u'Bot: El destí de la redirecció crea un bucle de redirecció',
+		'redirect-remove-loop': u'Robot: el destí de la redirecció crea un bucle de redirecció',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Asoxor
@@ -549,10 +549,11 @@ msg = {
 		'redirect-remove-loop': u'automaton: redirectio ad eundem titulum',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Les Meloures
 	# Author: Robby
 	'lb': {
 		'redirect-fix-double': u'Bot: Duebel Viruleedung gefléckt → %(to)s',
-		'redirect-remove-broken': u'Bot: Viruleedung op eng geläschte Säit oder eng Säit déi et net gëtt',
+		'redirect-remove-broken': u'Bot: Viruleedung op eng geläscht Säit oder eng Säit déi et net gëtt',
 		'redirect-fix-broken-moved': u'Bot: Futtis Viruleedung op déi geréckelt Zilsäit %(to)s gouf gefléckt',
 		'redirect-fix-loop': u'Bot: Viruleedungsschleef op %(to)s verbessert',
 		'redirect-remove-loop': u'Bot: Viruleedung där hiert Zil zu enger endlos Schleef féiert',
@@ -674,10 +675,13 @@ msg = {
 		'redirect-broken-redirect-template': u'{{vort|Kapotte deurverwiezing of deurverwijzing naor vort-edaone pagina}}',
 	},
 	# Author: RajeshPandey
+	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'redirect-fix-double': u'बोट: दुइपल्ट रिडाइरेक्ट लाइ %(to)s मा ठिक गर्दै',
-		'redirect-remove-broken': u'रोबोट: [[Wikipedia:Redirect|रिडाइरेक्ट]]  लाइ मेटिएको वा हुदै नभएको पृष्ठमा पठाएको',
-		'redirect-remove-loop': u'रोबोट: [[Wikipedia:Redirect|रिडाइरेक्ट]] निसाना पृष्ठ रिडाइरेक्ट भएर घुमिरहन्छ',
+		'redirect-fix-double': u'बोट: दोहोरो अनुप्रेषणलाई %(to)sमा ठिक गर्दै',
+		'redirect-remove-broken': u'रोबोट: हुँदै नभएको पृष्ठमा या मेटिएको पृष्ठमा गरिएको रिडाइरेक्ट',
+		'redirect-fix-broken-moved': u'रोबोट: टुटेको अनुप्रेषण सारिएको लक्ष्यको लागि मिलाउदै %(to)s',
+		'redirect-fix-loop': u'रोबोट: अनुप्रेषण चक्र %(to)sलाई मिलाउँदै',
+		'redirect-remove-loop': u'रोबोट: रिडाइरेक्ट गर्न खोजिएको पृष्ठले रिडाइरेक्ट चक्रको निर्माण गर्‌यो ।',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Eukesh

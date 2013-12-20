@@ -4,8 +4,9 @@ msg = {
 		'basic-changing': u'Robot: Changing ...',
 	},
 	# Author: Shirayuki
+	# Author: Xqt
 	'qqq': {
-		'basic-changing': u'Edit summary.',
+		'basic-changing': u'Edit summary when the bot changes a page.',
 	},
 	# Author: Csisc
 	'aeb': {
@@ -110,6 +111,10 @@ msg = {
 	# Author: Glavkos
 	'el': {
 		'basic-changing': u'Bot: Αλλάζει ...',
+	},
+	# Author: Gloria sah
+	'eml': {
+		'basic-changing': u'Robot: Caṅbia ...',
 	},
 	# Author: Airon90
 	# Author: Objectivesea

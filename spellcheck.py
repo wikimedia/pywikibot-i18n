@@ -162,6 +162,10 @@ msg = {
 	'nds-nl': {
 		'spellcheck-checking': u'Spellingskontraole',
 	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'spellcheck-checking': u'बोट-सहायता प्राप्त हिज्जे संयोजक',
+	},
 	# Author: Eukesh
 	'new': {
 		'spellcheck-checking': u'बट-ग्वहालिया हिज्जे निरिक्षक',

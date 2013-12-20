@@ -17,9 +17,10 @@ msg = {
 	'als': {
 		'djvutext-creating': u'Robot: e Syte mit us DjVu extrahiertem Text aagleit',
 	},
+	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
-		'djvutext-creating': u'بوت: إنشاء صفحة بنص مستخرج من DjVu',
+		'djvutext-creating': u'روبوت: إنشاء صفحة بنص مستخرج من DjVu',
 	},
 	# Author: Esbardu
 	# Author: Xuacu
@@ -50,9 +51,10 @@ msg = {
 	'bs': {
 		'djvutext-creating': u'Bot: Napravljena stranica sa tekstom iz DjVu datoteke.',
 	},
+	# Author: Grondin
 	# Author: KRLS
 	'ca': {
-		'djvutext-creating': u'Robot: Creació de pàgina amb text extret de DjVu',
+		'djvutext-creating': u'Robot: creació de pàgina amb text extret de DjVu',
 	},
 	# Author: Utar
 	'cs': {
@@ -218,6 +220,10 @@ msg = {
 	# Author: Servien
 	'nds-nl': {
 		'djvutext-creating': u'Bot: pagina an-emaakt mit tekste uut n DjVu-bestaand',
+	},
+	# Author: सरोज कुमार ढकाल
+	'ne': {
+		'djvutext-creating': u'रोबोट: DjVuबाट निकालिएको पाठले पृष्ठ सिर्जना गर्दै',
 	},
 	# Author: Eukesh
 	'new': {
