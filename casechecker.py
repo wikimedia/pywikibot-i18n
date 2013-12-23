@@ -18,6 +18,14 @@ msg = {
 		'casechecker-replacement-summary': u'استبدالات الحالة',
 		'casechecker-rename': u'بوت: اسم لحالة مخلوطة',
 	},
+	# Author: Alvaro Vidal-Abarca
+	'ca': {
+		'casechecker-replacement-summary': u'Bot: Substitució de majúscules/minúscules',
+		'casechecker-delete-summary': u'Bot: Aquesta redirecció conté al títol caràcters ciríl·lics i llatins amb el mateix aspecte',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Aquesta redirecció apuntava a %(target)s',
+		'casechecker-rename': u'Bot: reanomenament amb majúscules/minúscules combinades',
+	},
 	# Author: Metalhead64
 	'de': {
 		'casechecker-replacement-summary': u'Bot: Ersetzungen von Schreibungen:',
@@ -25,6 +33,14 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s nach %(target)s',
 		'casechecker-delete-reason': u'Weiterleitung auf %(target)s mit gemischten kyrillischen und lateinischen Zeichen.',
 		'casechecker-rename': u'Bot: Umbenennung von gemischten Schreibungen',
+	},
+	# Author: Reza1615
+	'fa': {
+		'casechecker-replacement-summary': u'ربات: مورد تعویض:',
+		'casechecker-delete-summary': u'ربات:تغییرمسیر دارای حروف مشابه با لاتین و سیریلیک در عنوانش است',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'این تغییرمسیر برای اشاره به %(target)s است',
+		'casechecker-rename': u'ربات:تغییرنام با حروف بزرگ و کوچک مخلوط',
 	},
 	# Author: Gomoko
 	'fr': {
@@ -47,6 +63,14 @@ msg = {
 		'casechecker-delete-summary': u'ロボットによる: このリダイレクトはページ名に同じ外観のキリル文字とラテン文字を含んでいます',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 	},
+	# Author: Robby
+	'lb': {
+		'casechecker-replacement-linklist': u'%(source)s → %(target)s',
+	},
+	# Author: Bjankuloski06
+	'mk': {
+		'casechecker-replacement-summary': u'Бот: Замени на големи/мали букви:',
+	},
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'casechecker-replacement-summary': u'बोट: वर्ण परिवर्तन गर्दै:',
@@ -66,10 +90,11 @@ msg = {
 	'ru': {
 		'casechecker-delete-summary': u'бот: Перенаправление содержит смесь кириллицы и латиницы в названии',
 	},
+	# Author: Jopparn
 	# Author: WikiPhoenix
 	'sv': {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-		'casechecker-delete-reason': u'Denna omdirigering användes för att peka på %(target)s',
+		'casechecker-delete-reason': u'Denna omdirigering pekade tidigare på %(target)',
 	},
 	# Author: Andriykopanytsia
 	'uk': {
@@ -90,7 +115,9 @@ msg = {
 	# Author: Yfdyh000
 	'zh': {
 		'casechecker-replacement-summary': u'机器人：替换大小写：',
+		'casechecker-delete-summary': u'机器人：此重定向的标题看上去包含相同的西里尔字母与拉丁字母',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'此重定向指向了%(target)s',
 		'casechecker-rename': u'机器人：更名混用大小写',
 	},
 };

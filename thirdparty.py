@@ -479,7 +479,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Persiyey racneya',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s werênayışi pêro (seyr kerdış) hewadeya - vurnayışe peyênê %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'%(num)i re xulasay werênayışi debyê.',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Werênayış vurneya',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Pera vatenayışi vırneyé',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'%(num)i re xulasay werênayışi  debye de u timar bi',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'pelada %(page)s re %(num)i xulasay werênayışi kerd newe',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESACE ROBOTİ',
@@ -1062,6 +1062,10 @@ msg = {
 	'lez': {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Веревирд авун кьоална',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Веревирд авун дегиш хьана',
+	},
+	# Author: Mogoeilor
+	'lrc': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'رووات',
 	},
 	# Author: Eitvys200
 	# Author: Mantak111

@@ -253,6 +253,10 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Informatioun iwwer en externe Link deen net disponibel ass',
 		'weblinkchecker-report': u'Bei verschiddenen automateschen Tester vum Bot war dësen externe Link net disponibel. Kuckt w.e.g. no ob de Link wierklech net méi disponibel ass an an deem Fall fléckt de Link oder huelt en ewech!',
 	},
+	# Author: Mogoeilor
+	'lrc': {
+		'weblinkchecker-caption': u'هوم پیوند بی کار',
+	},
 	# Author: Mantak111
 	'lt': {
 		'weblinkchecker-caption': u'Neveikianti nuoroda',

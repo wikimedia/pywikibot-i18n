@@ -123,8 +123,9 @@ msg = {
 		'template-substituting': u'Bot: Ersetze {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
 	},
 	# Author: Erdemaslancan
+	# Author: Marmase
 	'diq': {
-		'template-removing': u'Boto  {{PLURAL:%(num)d|şabloni|şablona}}: %(list)s veceno',
+		'template-removing': u'Boto newke {{PLURAL:%(num)d|şabloner|şablonan}} %(list)s veceno',
 		'template-changing': u'Robot: {{PLURAL:%(num)d|şablon|şablona}}: %(list)s ra Vurneno',
 		'template-substituting': u'Robot: {{PLURAL:%(num)d|şablon|şablon}}: %(list)s Cay cı vurneno',
 	},

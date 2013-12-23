@@ -20,7 +20,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Edit summary when the bot fixes a broken redirect to a moved page whose origin has been deleted.\nParameters:\n* <code>%(to)s</code>: the new redirect target, as a wiki link.',
 		'redirect-fix-loop': u'Edit summary when the bot fixes redirect loops. <code>%(to)s</code> displays the new redirect target as a wiki link.',
 		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
-                'redirect-broken-redirect-template': u'NOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
+		'redirect-broken-redirect-template': u'NOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
 	},
 	# Author: Csisc
 	'aeb': {
@@ -109,6 +109,10 @@ msg = {
 	},
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
+	},
+	# Author: Stephensuleeman
+	'bbc-latn': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
@@ -552,6 +556,10 @@ msg = {
 		'redirect-remove-broken': u'Robot: de doelpagina van de doorverwiezing besjteit neet',
 		'redirect-remove-loop': u'Doorverwiezing vörmp \'n óneindige lus',
 		'redirect-broken-redirect-template': u'{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}',
+	},
+	# Author: Mogoeilor
+	'lrc': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Hugo.arg
 	# Author: Mantak111

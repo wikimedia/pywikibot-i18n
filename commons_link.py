@@ -12,6 +12,11 @@ msg = {
 		'commons_link-template-added': u'روبوت: تضمين قالب كومنز',
 		'commons_link-cat-template-added': u'روبوت: تضمين قالب تصنيف كومنز',
 	},
+	# Author: Alvaro Vidal-Abarca
+	'ca': {
+		'commons_link-template-added': u'Robot: incloure plantilla de commons',
+		'commons_link-cat-template-added': u'Robot: incloure plantilla de commonscat',
+	},
 	'cs': {
 		'commons_link-template-added': u'Robot přidal šablonu commons',
 		'commons_link-cat-template-added': u'Robot přidal šablonu commonscat',

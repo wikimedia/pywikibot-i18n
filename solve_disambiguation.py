@@ -556,6 +556,10 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(onbekannt)',
 		'solve_disambiguation-links-removed': u'Bot-ënnerstetzten Homonymie: %(from)s - Link(en) ewechgeholl',
 	},
+	# Author: Mogoeilor
+	'lrc': {
+		'solve_disambiguation-unknown-page': u'ناشناس',
+	},
 	# Author: Homo
 	# Author: Hugo.arg
 	'lt': {

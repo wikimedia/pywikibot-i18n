@@ -383,6 +383,10 @@ msg = {
 	'ln': {
 		'welcome-welcome': u'Mbɔ́tɛ',
 	},
+	# Author: Mogoeilor
+	'lrc': {
+		'welcome-welcome': u'خوش اومايت',
+	},
 	# Author: Eitvys200
 	# Author: Mantak111
 	'lt': {
