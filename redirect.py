@@ -110,10 +110,6 @@ msg = {
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
 	},
-	# Author: Stephensuleeman
-	'bbc-latn': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
@@ -231,7 +227,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: Korrigiere defekte Weiterleitung auf verschobener Zielseite %(to)s',
 		'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
 		'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
-		'redirect-broken-redirect-template': u'{{Löschen|Defekte Weiterleitung}}',
 	},
 	# Author: Erdemaslancan
 	# Author: Gorizon
@@ -252,7 +247,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Ρομπότ: Διόρθωση σπασμένης ανακατεύθυνσης προς την μετακινημένη σελίδα στόχο %(to)s',
 		'redirect-fix-loop': u'Ρομπότ: Διόρθωση βρόχου ανακατεύθυνσης στο %(to)s',
 		'redirect-remove-loop': u'Robot: Ανακατεύθυνση στόχου σχηματίζει έναν βρόγχο ανακατεύθυνσης',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Blahma
 	# Author: Mihxil
@@ -286,7 +280,6 @@ msg = {
 	# Author: An13sa
 	'eu': {
 		'redirect-fix-double': u'Robota: Birzuzenketa bikoitza zuzentzen %(to)s -ra',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Ebraminio
 	# Author: Huji
@@ -321,7 +314,6 @@ msg = {
 		'redirect-remove-broken': u'Bottur: Umstjórnan til eina strikaða síðu ella til eina síðu sum ikki er til',
 		'redirect-fix-broken-moved': u'Bottur: Rættar brotnar umdirigeringar til flutta málsíðu %(to)s',
 		'redirect-fix-loop': u'Bottur: Rættar endurstýris (redirect) lykkju til %(to)s',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Boniface
 	# Author: Crochet.david
@@ -344,7 +336,6 @@ msg = {
 		'redirect-remove-broken': u'Robot : redirèccion de vers na pâge suprimâye ou ben pas ègzistenta',
 		'redirect-fix-loop': u'Robot : rèpâre na boclla de redirèccion a %(to)s',
 		'redirect-remove-loop': u'Robot : la ciba de la redirèccion fôrme na boclla de redirèccion',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Murma174
 	'frr': {
@@ -391,18 +382,12 @@ msg = {
 		'redirect-fix-broken-moved': u'רובוט: תיקון הפניה שבורה לדף היעד %(to)s, שהועבר',
 		'redirect-fix-loop': u'בוט: תיקון הפניה מעגלית ל%(to)s',
 		'redirect-remove-loop': u'רובוט: הפניה זו גורמת ללולאה אין־סופית של הפניות',
-		'redirect-broken-redirect-template': u'הפניה ללא יעד',
 	},
 	# Author: Ex13
 	'hr': {
 		'redirect-fix-double': u'Bot: Popravak dvostrukih preusmjeravanja → %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
-	# Author: Michawiki
-	'hsb': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Bináris
 	# Author: Dj
@@ -441,11 +426,6 @@ msg = {
 		'redirect-fix-double': u'Machine: Fixant redirection duplic por %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] por un págine deletet o non-existent',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] cible forma un lace de redirection',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
-	# Author: Ukabia
-	'ig': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Lam-ang
 	'ilo': {
@@ -482,7 +462,6 @@ msg = {
 		'redirect-fix-broken-moved': u'ロボットによる: 迷子のリダイレクトのリダイレクト先を %(to)s に修正',
 		'redirect-fix-loop': u'ロボットによる: リダイレクトのループの修正 → %(to)s',
 		'redirect-remove-loop': u'ロボットによる: リダイレクト先にあるリダイレクトのループを修正',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: NoiX180
 	'jv': {
@@ -490,13 +469,11 @@ msg = {
 		'redirect-remove-broken': u'Bot: Ngalihaké nèng kaca sing ora ana utawa wis kabusak',
 		'redirect-fix-loop': u'Bot: Mbenakaké ubengan pangalihan nèng %(to)s',
 		'redirect-remove-loop': u'Bot: Patujon pangalihan dadi ubengan pangalihan',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: David1010
 	'ka': {
 		'redirect-fix-double': u'რობოტი: ორმაგი გადამისამართების გასწორება → %(to)s',
 		'redirect-remove-broken': u'რობოტი: გადამისამართება წაშლილ ან არარსებულ გვერდზე',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	'kk': {
 		'redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті → %(to)s',
@@ -529,7 +506,6 @@ msg = {
 	# Author: Викиней
 	'ky': {
 		'redirect-fix-double': u'Бот: кош багыттаманы жоюу → %(to)s',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: MissPetticoats
 	# Author: UV
@@ -538,7 +514,6 @@ msg = {
 		'redirect-fix-double': u'automaton: rectificatio redirectionis duplicis → %(to)s',
 		'redirect-remove-broken': u'automaton: redirectio ad paginam quae non est',
 		'redirect-remove-loop': u'automaton: redirectio ad eundem titulum',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Les Meloures
 	# Author: Robby
@@ -548,7 +523,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: Futtis Viruleedung op déi geréckelt Zilsäit %(to)s gouf gefléckt',
 		'redirect-fix-loop': u'Bot: Viruleedungsschleef op %(to)s verbessert',
 		'redirect-remove-loop': u'Bot: Viruleedung där hiert Zil zu enger endlos Schleef féiert',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Pahles
 	'li': {
@@ -557,16 +531,11 @@ msg = {
 		'redirect-remove-loop': u'Doorverwiezing vörmp \'n óneindige lus',
 		'redirect-broken-redirect-template': u'{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}',
 	},
-	# Author: Mogoeilor
-	'lrc': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: Hugo.arg
 	# Author: Mantak111
 	'lt': {
 		'redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas → %(to)s',
 		'redirect-remove-broken': u'robotas: peradresavimas į ištrintą ar nesantį puslapį',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Karlis
 	'lv': {
@@ -579,7 +548,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot:Ndandani pangalihan ruwag maring kaca target sing dipindah %(to)s',
 		'redirect-fix-loop': u'Robot: Ndandani pengalihan dobel maring %(to)s',
 		'redirect-remove-loop': u'Robot: Target pangalihan marekna dadi pengalihan siklik',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Jagwar
 	'mg': {
@@ -596,7 +564,6 @@ msg = {
 		'redirect-fix-double': u'Bot: Mampeloki pangalihan gando ka %(to)s',
 		'redirect-remove-broken': u'Robot: Pangaliahan ka laman nan dihapuih atau indak ado',
 		'redirect-remove-loop': u'Robot: Target pangaliahan mahasilan pangaliahan bapusiang',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Bjankuloski06
 	# Author: Rancher
@@ -616,11 +583,6 @@ msg = {
 		'redirect-fix-broken-moved': u'യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
-	# Author: Htt
-	'mr': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Anakmalaysia
 	# Author: Kurniasan
@@ -630,7 +592,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: Membaiki lencongan yang terputus ke halaman sasaran yang terpindah iaitu %(to)s',
 		'redirect-fix-loop': u'Robot: Membaiki gelung lencongan ke %(to)s',
 		'redirect-remove-loop': u'Robot: Sasaran lencongan membentuk gelung lencongan',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Chrisportelli
 	'mt': {
@@ -643,7 +604,6 @@ msg = {
 	'my': {
 		'redirect-fix-double': u'ဘော့ - %(to)s သို့ ပြန်ညွှန်းနှစ်ထပ်ဖြစ်နေသည်ကို ပြင်နေသည်',
 		'redirect-remove-loop': u'[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|ပြန်ညွှန်း]]သည် ယင်းကို ပြန်ညွှန်းခြင်းခံရသောကြောင့်  သံသရာလည်မှု ဖြစ်စေသည်။',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: محک
 	'mzn': {
@@ -715,10 +675,6 @@ msg = {
 	'nv': {
 		'redirect-fix-double': u'Bot: dah astsihígíí łahgo áyiilaa -> %(to)s',
 	},
-	# Author: Cedric31
-	'oc': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: Geitost
 	# Author: Xqt
 	'pdc': {
@@ -749,7 +705,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Trigomiro: Coression ëd le ridiression nne bon-e a na pàgina ëd destinassion tramudà %(to)s',
 		'redirect-fix-loop': u'Trigomiro: Coression dël sicl ëd ridiression a %(to)s',
 		'redirect-remove-loop': u'Trigomiro: La destinassion ëd la ridiression a forma un sicl ëd ridiression',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Hamilton Abreu
 	# Author: Luckas
@@ -761,7 +716,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robô: A corrigir redirecionamento quebrado para página alvo movida %(to)s',
 		'redirect-fix-loop': u'Robô: A corrigir o ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Robô: O destino do redirecionamento cria um ciclo de redirecionamentos',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
@@ -775,7 +729,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: consertando redirecionamento quebrado para página-alvo movida %(to)s',
 		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Bot: O destino do redirecionamento cria um ciclo de redirecionamentos',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Firilacroco
 	# Author: Minisarm
@@ -784,7 +737,6 @@ msg = {
 		'redirect-remove-broken': u'Robot: Redirecționare către o pagină ștearsă sau inexistentă',
 		'redirect-fix-loop': u'Robot: Reparat bucla de redirecționare către %(to)s',
 		'redirect-remove-loop': u'Robot: Ținta redirecționării formează o buclă de redirecționare',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: DCamer
 	# Author: Rubin
@@ -803,7 +755,6 @@ msg = {
 		'redirect-fix-double': u'Робот: справив двоїте напрямлїня → %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Напрямлїня]] на змазану або неекзістуючу сторінку',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Напрямлїня]] формує петлю напрямлїнь',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Avicennasis
 	'sco': {
@@ -811,10 +762,6 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deletit or non-existent page',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 		'redirect-broken-redirect-template': u'{{delete}}',
-	},
-	# Author: පසිඳු කාවින්ද
-	'si': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Teslaton
 	# Author: Wizzard
@@ -824,7 +771,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: Oprava porušeného presmerovania na presunutú cieľovú stránku %(to)s',
 		'redirect-fix-loop': u'Robot: Oprava cyklického presmerovania na %(to)s',
 		'redirect-remove-loop': u'Robot: Cieľ presmerovania tvorí slučku',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Dbc334
 	# Author: Mateju
@@ -834,7 +780,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: Popravljanje okvarjene povezave preusmeritve na premaknjeno ciljno stran %(to)s',
 		'redirect-fix-loop': u'Robot: Popravljanje preusmeritvene zanke na %(to)s',
 		'redirect-remove-loop': u'Robot: Cilj preusmeritve ustvarja preusmeritveno zanko',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Abshirdheere
 	'so': {
@@ -843,14 +788,12 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: Dib u Sixidda qaldantay waxaa loo wareejiyey Bog kale %(to)s',
 		'redirect-fix-loop': u'Bot: Diyaarinta dib u bilaabista ee %(to)s',
 		'redirect-remove-loop': u'Bot: Ujeedka u rogista bogga ee dhaqaaqa',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Vinie007
 	'sq': {
 		'redirect-fix-double': u'Bot: Fixing dyfishtë përcjellëse tek %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deleted or non-existent page',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
-		'redirect-broken-redirect-template': u'{{Db-r1}}',
 	},
 	# Author: Rancher
 	'sr': {
@@ -868,7 +811,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: ispravljeno pokvareno preusmerenje do premeštene ciljne stranice %(to)s',
 		'redirect-fix-loop': u'Robot: ispravljena petlja preusmerenja na %(to)s',
 		'redirect-remove-loop': u'Robot: odredište preusmerenja obrazuje petlju',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Boivie
 	# Author: Lokal Profil
@@ -898,7 +840,6 @@ msg = {
 	# Author: செல்வா
 	'ta': {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Nullzero
 	'th': {
@@ -914,7 +855,6 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Papuntahin]] sa isang pahinang nabura na o hindi na umiiral',
 		'redirect-fix-loop': u'Robot: Kinukumpuni ang silo ng pagpapapunta sa %(to)s',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Ang pagpapapunta sa ibang pook]] ay bumubuo ng nakalikaw na pagpapapunta',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Gorizon
 	# Author: Xqt
@@ -925,7 +865,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Робот: Бә вырәку дәгиш кардә быә мәғсәдә сәһифә %(to)s дәгиш быә истиғомәти сәрост кардеј',
 		'redirect-fix-loop': u'Робот: Истиғомәти дәгиш кардә ангыли сохте бә %(to)s',
 		'redirect-remove-loop': u'Bot: Унвони дәгиш карде бешә формон унвони дәгиш кардеј мәрә',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Emperyan
 	# Author: Khutuck
@@ -943,7 +882,6 @@ msg = {
 		'redirect-fix-double': u'Робот: икеле күчешне дөресләү → %(to)s',
 		'redirect-remove-broken': u'[[ВП:ТБК#П1|П1]]: беркаяда күчеш ясамау',
 		'redirect-remove-loop': u'[[ВП:ТБК#П1|тиз бетерү критерийлары \'\'П.1\'\']] — беркаяда күчеш ясамау',
-		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 	},
 	# Author: Ahonc
 	# Author: Base
@@ -954,7 +892,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Робот: Виправлення розірваного перенаправлення на сторінку, перейменовану на %(to)s',
 		'redirect-fix-loop': u'бот: виправлення петлі перенаправлень на %(to)s',
 		'redirect-remove-loop': u'бот: перенаправлення формують петлю',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Muhammad Shuaib
 	'ur': {
@@ -1002,7 +939,6 @@ msg = {
 		'redirect-fix-broken-moved': u'באט: פאררעכטן צעבראכענע ווייטערפירונג צו באוועגטן ציל בלאט  %(to)s',
 		'redirect-fix-loop': u'באט: פאררעכטן ווייטערפירונג שלייף אויף %(to)s',
 		'redirect-remove-loop': u'באט: [[װיקיפּעדיע:ווייטערפירונג|ווייטערפירוג]] ציל שאפט א שלייף',
-		'redirect-broken-redirect-template': u'ווײַטערפֿירונג אןָ א ציל',
 	},
 	# Author: Demmy
 	'yo': {
@@ -1033,7 +969,6 @@ msg = {
 		'redirect-fix-broken-moved': u'機械人：修復損壞的重定向頁到移動目標頁面 %(to)s',
 		'redirect-fix-loop': u'機械人：修復重定向迴圈至%(to)s',
 		'redirect-remove-loop': u'機械人：重定向目標構成循環',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Justincheng12345
 	'zh-hk': {
@@ -1042,7 +977,6 @@ msg = {
 		'redirect-fix-broken-moved': u'機械人修復損壞的重定向到已移動的目標頁面%(to)s',
 		'redirect-fix-loop': u'機械人修復重定向迴圈至%(to)s',
 		'redirect-remove-loop': u'[[WP:SD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	'zh-yue': {
 		'redirect-fix-double': u'機械人：拉直連串跳轉 → %(to)s',
