@@ -78,6 +78,10 @@ msg = {
 	'ca': {
 		'basic-changing': u'Bot: Canviant ...',
 	},
+	# Author: Умар
+	'ce': {
+		'basic-changing': u'бото: хийцина ...',
+	},
 	# Author: Asoxor
 	'ckb': {
 		'basic-changing': u'ڕۆبۆت: گۆڕین ...',

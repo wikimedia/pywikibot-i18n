@@ -379,6 +379,10 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s je u %(oldcat)s, koja je preusmjeravanje na %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Popravak dvostrukih preusmjeravanja',
 	},
+	# Author: Michawiki
+	'hsb': {
+		'category_redirect-edit-request': u'Slědowace strony trjebaja aktualizacije za kategorijowe wotkazy: %(itemlist)s',
+	},
 	# Author: Dani
 	# Author: Dj
 	'hu': {

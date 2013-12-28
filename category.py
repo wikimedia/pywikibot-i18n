@@ -326,6 +326,7 @@ msg = {
 	# Author: Умар
 	'ce': {
 		'category-adding': u'робот: тIетоьхна Категори [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-section-title': u'АгӀона истори хила %(oldcat)s чура',
 	},
 	# Author: Xqt
 	'ceb': {

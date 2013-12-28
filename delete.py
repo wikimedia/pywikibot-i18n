@@ -11,11 +11,11 @@ msg = {
 	# Author: Shirayuki
 	# Author: Xqt
 	'qqq': {
-		'delete-images': u'Used as edit summary. Parameters:\n* %(page)s - page name',
-		'delete-referring-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name\n\nDefinitions:\n*"Link" - Link is all the links on a page. So if your page content was <nowiki>[[Page1]] [[Page2]]</nowiki>, it would use those two pages. \n*"Refer" - Refer is basically [[Special:WhatLinksHere]], or all the pages that link to the page provided.',
-		'delete-from-category': u'Used as edit summary. Parameters:\n* %(page)s - page name',
+		'delete-images': u'Used as edit summary. Parameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-images}}',
+		'delete-referring-pages': u'Used as edit summary.\n\nDefinitions:\n*"Link" - Link is all the links on a page. So if your page content was <nowiki>[[Page1]] [[Page2]]</nowiki>, it would use those two pages. \n*"Refer" - Refer is basically [[Special:WhatLinksHere]], or all the pages that link to the page provided.\nParameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-ref}}',
+		'delete-from-category': u'Used as edit summary. Parameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-category}}',
 		'delete-from-file': u'Edit summary when the bot deletes a list of pages.',
-		'delete-linked-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name',
+		'delete-linked-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-links}}',
 	},
 	# Author: Csisc
 	'aeb': {

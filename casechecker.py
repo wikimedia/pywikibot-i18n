@@ -26,6 +26,13 @@ msg = {
 		'casechecker-delete-reason': u'Aquesta redirecció apuntava a %(target)s',
 		'casechecker-rename': u'Bot: reanomenament amb majúscules/minúscules combinades',
 	},
+	# Author: Matěj Grabovský
+	'cs': {
+		'casechecker-replacement-summary': u'Robot změnil velikost písmen:',
+		'casechecker-delete-summary': u'Robot: Toto přesměrování ve svém názvu obsahuje znaky cyrilice připomínají latinku',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Toto přesměrování vedlo na %(target)s',
+	},
 	# Author: Metalhead64
 	'de': {
 		'casechecker-replacement-summary': u'Bot: Ersetzungen von Schreibungen:',
@@ -50,12 +57,18 @@ msg = {
 		'casechecker-delete-reason': u'Cette redirection pointait vers %(target)s',
 		'casechecker-rename': u'Robot : renommage en casse mixte',
 	},
+	# Author: Elisardojm
 	# Author: Toliño
 	'gl': {
 		'casechecker-replacement-summary': u'Bot: Substitución de maiúsculas/minúsculas:',
 		'casechecker-delete-summary': u'Bot: Esta redirección contén letras cirílicas e latinas idénticas no título',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Esta redirección apuntaba a "%(target)s"',
+		'casechecker-rename': u'Bot: renomeado de caso mixto',
+	},
+	# Author: Michawiki
+	'hsb': {
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 	},
 	# Author: Shirayuki
 	'ja': {
@@ -63,13 +76,26 @@ msg = {
 		'casechecker-delete-summary': u'ロボットによる: このリダイレクトはページ名に同じ外観のキリル文字とラテン文字を含んでいます',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 	},
+	# Author: Hym411
+	'ko': {
+		'casechecker-replacement-summary': u'로봇: 대소문자 교체:',
+		'casechecker-delete-reason': u'이 넘겨주기는 %(target)s를 가리킵니다',
+		'casechecker-rename': u'로봇: 혼합된 대소문자 변경',
+	},
 	# Author: Robby
 	'lb': {
+		'casechecker-replacement-summary': u'Bot: Beispill vun Ersetzen:',
+		'casechecker-delete-summary': u'Bot: An dëser Viruleedung si Cyrillesch a Latengesch Buschtawen am Titel déi dselwecht ausgesinn',
 		'casechecker-replacement-linklist': u'%(source)s → %(target)s',
+		'casechecker-delete-reason': u'Dës Viruleedung huet op %(target)s gewisen',
 	},
 	# Author: Bjankuloski06
 	'mk': {
 		'casechecker-replacement-summary': u'Бот: Замени на големи/мали букви:',
+		'casechecker-delete-summary': u'Бот: Пренасочувањето во насловот содржи кирилични и латинични букви со истоветен изглед',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Пренасочувањето претходно водеше кон %(target)s',
+		'casechecker-rename': u'Бот: преименување со мешани големи/мали букви',
 	},
 	# Author: सरोज कुमार ढकाल
 	'ne': {
@@ -87,6 +113,16 @@ msg = {
 		'casechecker-delete-reason': u'Deze doorverwijzing verwees naar %(target)s',
 		'casechecker-rename': u'Robot: hoofdletters en kleine letters gewijzigd',
 	},
+	# Author: Xqt
+	'pdc': {
+		'casechecker-replacement-linklist': u'%(source)s nooch %(target)s',
+	},
+	# Author: Minisarm
+	'ro': {
+		'casechecker-delete-summary': u'Robot: Această redirecționare conține caractere chirilice și latine identice în titlul său',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Această redirecționare trimitea către %(target)s',
+	},
 	'ru': {
 		'casechecker-delete-summary': u'бот: Перенаправление содержит смесь кириллицы и латиницы в названии',
 	},
@@ -94,7 +130,7 @@ msg = {
 	# Author: WikiPhoenix
 	'sv': {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-		'casechecker-delete-reason': u'Denna omdirigering pekade tidigare på %(target)',
+		'casechecker-delete-reason': u'Denna omdirigering pekade tidigare på %(target)s',
 	},
 	# Author: Andriykopanytsia
 	'uk': {

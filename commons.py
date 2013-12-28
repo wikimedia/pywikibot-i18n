@@ -176,6 +176,7 @@ msg = {
 	},
 	# Author: Michawiki
 	'hsb': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Dataja]] je so do [[:commons:File:%(commonsfile)s|commons]] přesunyła.',
 		'commons-file-now-available': u'Dataja steji nětko na [[:commons:File:%(commonsfile)s|Wikimedia Commons]] k dispoziciji.',
 	},
 	# Author: Dj
