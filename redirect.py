@@ -111,10 +111,6 @@ msg = {
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
 	},
-	# Author: Stephensuleeman
-	'bbc-latn': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
@@ -395,10 +391,6 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
 	},
-	# Author: Michawiki
-	'hsb': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: Bináris
 	# Author: Dj
 	'hu': {
@@ -436,10 +428,6 @@ msg = {
 		'redirect-fix-double': u'Machine: Fixant redirection duplic por %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] por un págine deletet o non-existent',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] cible forma un lace de redirection',
-	},
-	# Author: Ukabia
-	'ig': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Lam-ang
 	'ilo': {
@@ -546,19 +534,11 @@ msg = {
 		'redirect-remove-loop': u'Doorverwiezing vörmp \'n óneindige lus',
 		'redirect-broken-redirect-template': u'{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}',
 	},
-	# Author: Mogoeilor
-	'lrc': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: Hugo.arg
 	# Author: Mantak111
 	'lt': {
 		'redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas → %(to)s',
 		'redirect-remove-broken': u'robotas: peradresavimas į ištrintą ar nesantį puslapį',
-	},
-	# Author: Karlis
-	'lv': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: StefanusRA
 	'map-bms': {
@@ -602,10 +582,6 @@ msg = {
 		'redirect-fix-broken-moved': u'യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
-	},
-	# Author: Htt
-	'mr': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Anakmalaysia
 	# Author: Kurniasan
@@ -698,10 +674,6 @@ msg = {
 	'nv': {
 		'redirect-fix-double': u'Bot: dah astsihígíí łahgo áyiilaa -> %(to)s',
 	},
-	# Author: Cedric31
-	'oc': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: Geitost
 	# Author: Xqt
 	'pdc': {
@@ -790,10 +762,6 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 		'redirect-broken-redirect-template': u'{{delete}}',
 	},
-	# Author: පසිඳු කාවින්ද
-	'si': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: Teslaton
 	# Author: Wizzard
 	'sk': {
@@ -842,7 +810,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: ispravljeno pokvareno preusmerenje do premeštene ciljne stranice %(to)s',
 		'redirect-fix-loop': u'Robot: ispravljena petlja preusmerenja na %(to)s',
 		'redirect-remove-loop': u'Robot: odredište preusmerenja obrazuje petlju',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Boivie
 	# Author: Lokal Profil
@@ -872,7 +839,6 @@ msg = {
 	# Author: செல்வா
 	'ta': {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Nullzero
 	'th': {
