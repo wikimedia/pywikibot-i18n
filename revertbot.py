@@ -11,13 +11,29 @@ msg = {
 	'ca': {
 		'revertbot-revert': u'Bot: Revertit a la revisió %(revid)s per %(author)s el %(timestamp)s',
 	},
+	# Author: Matěj Grabovský
+	'cs': {
+		'revertbot-revert': u'Robot revertoval stránku na revizi %(revid)s uživatele %(author)s z %(timestamp)s',
+	},
 	# Author: Metalhead64
 	'de': {
 		'revertbot-revert': u'Bot: Zurückgesetzt auf die Version %(revid)s von %(author)s von %(timestamp)s',
 	},
+	# Author: Reza1615
+	'fa': {
+		'revertbot-revert': u'ربات: واگردانی به نسخهٔ  %(revid)s توسط %(author)s در %(timestamp)s',
+	},
 	# Author: Gomoko
 	'fr': {
 		'revertbot-revert': u'Robot : Revenu à la révision %(revid)s par %(author)s le %(timestamp)s',
+	},
+	# Author: Elisardojm
+	'gl': {
+		'revertbot-revert': u'Bot:Revertido á revisión %(revid)s de %(author)s do %(timestamp)s',
+	},
+	# Author: McDutchie
+	'ia': {
+		'revertbot-revert': u'Robot: Revertite al version %(revid)s per %(author)s le %(timestamp)s',
 	},
 	# Author: Beta16
 	'it': {
@@ -26,6 +42,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'revertbot-revert': u'Bot: Zréckgesat op d\'Versioun %(revid)s vum %(author)s vum %(timestamp)s',
+	},
+	# Author: Bjankuloski06
+	'mk': {
+		'revertbot-revert': u'Бот: Враќам на ревизијата %(revid)s на %(author)s од %(timestamp)s',
 	},
 	# Author: Siebrand
 	'nl': {

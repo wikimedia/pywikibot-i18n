@@ -12,6 +12,11 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'بوت: إضافة صفحة توضيح',
 		'lonelypages-comment-add-template': u'بوت: صفحة يتيمة، إضافة قالب',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Dodavanje čvora',
+		'lonelypages-comment-add-template': u'Bot: Dodavanje šablona za siroče',
+	},
 	'ca': {
 		'lonelypages-comment-add-disambig-template': u'Bot; Afegint una desambiguació',
 		'lonelypages-comment-add-template': u'Bot:Pàgina orfe, afegint plantilla',
@@ -30,6 +35,25 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'ربات:افزودن صفحات ابهام‌زدائی',
 		'lonelypages-comment-add-template': u'ربات:افزودن الگو، صفحه یتیم',
 	},
+	# Author: Linedwell
+	'fr': {
+		'lonelypages-comment-add-disambig-template': u'Robot : Ajout d\'une page d\'homonymie',
+		'lonelypages-comment-add-template': u'Robot : Page orpheline, ajout de modèle',
+	},
+	# Author: Elisardojm
+	'gl': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Engadindo unha páxina de desambiguación',
+		'lonelypages-comment-add-template': u'Bot: Páxina orfa, engadido modelo',
+	},
+	# Author: McDutchie
+	'ia': {
+		'lonelypages-comment-add-disambig-template': u'Robot: adde pagina de disambiguation',
+		'lonelypages-comment-add-template': u'Robot: Pagina orphano; addition de patrono',
+	},
+	# Author: Beta16
+	'it': {
+		'lonelypages-comment-add-template': u'Bot: pagina orfana, aggiunto template',
+	},
 	# Author: Shirayuki
 	'ja': {
 		'lonelypages-comment-add-disambig-template': u'ロボットによる: 曖昧さ回避ページの追加',
@@ -39,6 +63,16 @@ msg = {
 	'ko': {
 		'lonelypages-comment-add-disambig-template': u'로봇: 동음이의어 문서 추가',
 		'lonelypages-comment-add-template': u'로봇: 다른 문서를 링크하지 않는 문서, 틀 추가',
+	},
+	# Author: Robby
+	'lb': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Eng Homonymie-Säit derbäisetzen',
+		'lonelypages-comment-add-template': u'Bot: Weesesäit, Schabloun derbäigesat',
+	},
+	# Author: Bjankuloski06
+	'mk': {
+		'lonelypages-comment-add-disambig-template': u'Робот: Додавам појаснителна страница',
+		'lonelypages-comment-add-template': u'Робот: Осамена страница, додавам шаблон',
 	},
 	# Author: Siebrand
 	'nl': {
@@ -50,10 +84,20 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robot: Adăugat o pagină de dezambiguizare',
 		'lonelypages-comment-add-template': u'Robot: Pagină orfană, adăugat format',
 	},
+	# Author: WikiPhoenix
+	'sv': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Lägger till en förgreningssida',
+		'lonelypages-comment-add-template': u'Robot: Föräldralös sida, lägger till mall',
+	},
 	# Author: Andriykopanytsia
 	'uk': {
 		'lonelypages-comment-add-disambig-template': u'Бот: Додавання сторінки disambig',
 		'lonelypages-comment-add-template': u'Бот: загублена сторінка, додано шаблон',
+	},
+	# Author: Minh Nguyen
+	'vi': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Thêm trang định hướng',
+		'lonelypages-comment-add-template': u'Bot: Gắn bản mẫu vào trang mồ côi',
 	},
 	'zh': {
 		'lonelypages-comment-add-disambig-template': u'機器人: 增加消歧義頁面',

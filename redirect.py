@@ -16,10 +16,10 @@ msg = {
 	# Author: ZxxZxxZ
 	'qqq': {
 		'redirect-fix-double': u'Edit summary when the bot fixes double redirects. <code>%(to)s</code> displays the new redirect target as a wiki link.',
-		'redirect-remove-broken': u'Edit summary when the bot tags a deleted or non-existent page for speedy deletion. The message was designed for use on en.wikipedia. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
+		'redirect-remove-broken': u'Edit summary when the bot tags a deleted or non-existent page for speedy deletion.',
 		'redirect-fix-broken-moved': u'Edit summary when the bot fixes a broken redirect to a moved page whose origin has been deleted.\nParameters:\n* <code>%(to)s</code>: the new redirect target, as a wiki link.',
 		'redirect-fix-loop': u'Edit summary when the bot fixes redirect loops. <code>%(to)s</code> displays the new redirect target as a wiki link.',
-		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion. The internal links are to pages on the English Wikipedia, [http://en.wikipedia.org/wiki/Wikipedia:CSD#G8 here] and [http://en.wikipedia.org/wiki/Wikipedia:Redirect here]. They won\'t work anywhere except on the English Wikipedia, as they stand.',
+		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion.',
 		'redirect-broken-redirect-template': u'NOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
 	},
 	# Author: Csisc
@@ -66,10 +66,10 @@ msg = {
 	# Author: Xuacu
 	'ast': {
 		'redirect-fix-double': u'Robó: Iguando la redireición doble a %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redireición]] a una páxina desaniciada o que nun esiste',
-		'redirect-fix-broken-moved': u'Bot: Arreglu de redireición frañada a la páxina de destín treslladada "%(to)s"',
+		'redirect-remove-broken': u'Robó: Redireición a una páxina desaniciada o que nun esiste',
+		'redirect-fix-broken-moved': u'Robó: Arreglu de redireición frañada a la páxina de destín treslladada "%(to)s"',
 		'redirect-fix-loop': u'Robó: Iguando la redireición cíclica a %(to)s',
-		'redirect-remove-loop': u'Bot: El destín de la redireición forma un bucle de redireición',
+		'redirect-remove-loop': u'Robó: El destín de la redireición forma un bucle de redireición',
 		'redirect-broken-redirect-template': u'{{Destruir|La páxina a la que redirixe nun esiste|--~~~~}}',
 	},
 	# Author: AZISS
@@ -85,9 +85,10 @@ msg = {
 	},
 	# Author: Amir a57
 	# Author: E THP
+	# Author: Xqt
 	'azb': {
 		'redirect-fix-double': u'روبات :%(to)s صحیفه‌سینه ایستیقامت‌لی ایکیقات ایستیقامتلندیرمه دوزلدیلیر',
-		'redirect-remove-broken': u'[[ویکی‌پئدییا:سیل#یستیقامتلندیرمه|وپ:سیل]]: سیلینئن یا دا وار اولمایان صحیفه‌یه اولان ایستیقامیلندیرمه',
+		'redirect-remove-broken': u'روبات : سیلینئن یا دا وار اولمایان صحیفه‌یه اولان ایستیقامیلندیرمه',
 		'redirect-fix-loop': u'روبوت: فیخینگ اوزوک اولان%(to)s یؤنلن‌دیرن',
 		'redirect-remove-loop': u'بوت: ایستیقامتلندیرمه هدفی بیر ایستیقامتلندیرمه دؤورو تشکیل ائدیر',
 	},
@@ -110,6 +111,10 @@ msg = {
 	'bat-smg': {
 		'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
 	},
+	# Author: Stephensuleeman
+	'bbc-latn': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: EugeneZelenko
 	# Author: Jim-by
 	# Author: Renessaince
@@ -127,10 +132,11 @@ msg = {
 		'redirect-fix-double': u'Робот: Поправяне на двойно пренасочване към %(to)s',
 	},
 	# Author: Riemogerz
+	# Author: Xqt
 	'bjn': {
 		'redirect-fix-double': u'Robot: Pamasangan paugahan ganda ka %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Paalihan]] ka tungkaran nang dihapus atawa kada ada',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Bidikan [[Wikipedia:Redirect|paalihan]] mahasilakan paalihan siklik',
+		'redirect-remove-broken': u'Robot: Paalihan ka tungkaran nang dihapus atawa kada ada',
+		'redirect-remove-loop': u'Robot: Bidikan paalihan mahasilakan paalihan siklik',
 	},
 	# Author: Wikitanvir
 	'bn': {
@@ -389,6 +395,10 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
 	},
+	# Author: Michawiki
+	'hsb': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Bináris
 	# Author: Dj
 	'hu': {
@@ -426,6 +436,10 @@ msg = {
 		'redirect-fix-double': u'Machine: Fixant redirection duplic por %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] por un págine deletet o non-existent',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] cible forma un lace de redirection',
+	},
+	# Author: Ukabia
+	'ig': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Lam-ang
 	'ilo': {
@@ -523,6 +537,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: Futtis Viruleedung op déi geréckelt Zilsäit %(to)s gouf gefléckt',
 		'redirect-fix-loop': u'Bot: Viruleedungsschleef op %(to)s verbessert',
 		'redirect-remove-loop': u'Bot: Viruleedung där hiert Zil zu enger endlos Schleef féiert',
+		'redirect-broken-redirect-template': u'{{Läschen|Defekt Viruleedung}}',
 	},
 	# Author: Pahles
 	'li': {
@@ -530,6 +545,10 @@ msg = {
 		'redirect-remove-broken': u'Robot: de doelpagina van de doorverwiezing besjteit neet',
 		'redirect-remove-loop': u'Doorverwiezing vörmp \'n óneindige lus',
 		'redirect-broken-redirect-template': u'{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}',
+	},
+	# Author: Mogoeilor
+	'lrc': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Hugo.arg
 	# Author: Mantak111
@@ -583,6 +602,10 @@ msg = {
 		'redirect-fix-broken-moved': u'യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
+	},
+	# Author: Htt
+	'mr': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Anakmalaysia
 	# Author: Kurniasan
@@ -675,6 +698,10 @@ msg = {
 	'nv': {
 		'redirect-fix-double': u'Bot: dah astsihígíí łahgo áyiilaa -> %(to)s',
 	},
+	# Author: Cedric31
+	'oc': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Geitost
 	# Author: Xqt
 	'pdc': {
@@ -763,6 +790,10 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
 		'redirect-broken-redirect-template': u'{{delete}}',
 	},
+	# Author: පසිඳු කාවින්ද
+	'si': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Teslaton
 	# Author: Wizzard
 	'sk': {
@@ -811,6 +842,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: ispravljeno pokvareno preusmerenje do premeštene ciljne stranice %(to)s',
 		'redirect-fix-loop': u'Robot: ispravljena petlja preusmerenja na %(to)s',
 		'redirect-remove-loop': u'Robot: odredište preusmerenja obrazuje petlju',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Boivie
 	# Author: Lokal Profil
@@ -840,6 +872,7 @@ msg = {
 	# Author: செல்வா
 	'ta': {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Nullzero
 	'th': {

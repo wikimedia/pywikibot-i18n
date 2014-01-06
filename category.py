@@ -591,6 +591,7 @@ msg = {
 	# Author: IAlex
 	# Author: Od1n
 	# Author: Rastus Vernon
+	# Author: Romainhk
 	# Author: Sherbrooke
 	# Author: Xqt
 	'fr': {
@@ -601,7 +602,7 @@ msg = {
 		'category-was-disbanded': u'Robot : La catégorie a été supprimée',
 		'category-replacing': u'Robot : Remplacement de la catégorie %(oldcat)s par %(newcat)s',
 		'category-removing': u'Robot : Retiré depuis %(oldcat)s',
-		'category-was-moved': u'Robot : catégorie déplacée vers [[:Category:%(newcat)s|%(title)s]]',
+		'category-was-moved': u'Robot : la catégorie a été déplacé vers [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Robot : déplacé depuis %s. Auteurs: %s',
 		'category-section-title': u'Historique de page de l\'ancien %(oldcat)s',
 		'category-listifying': u'Robot : Listage de %(fromcat)s (%(num)d éléments)',

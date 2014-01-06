@@ -7,8 +7,9 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-replacement-summary': u'Bot: Case Replacements:',
 	},
+	# Author: McDutchie
 	'qqq': {
-		'casechecker-replacement-summary': u'Short edit summary when bot edits pages and fix case usage',
+		'casechecker-replacement-summary': u'Short edit summary when bot edits pages and fixes usage of upper- and lowercase letters',
 		'casechecker-delete-summary': u'Edit summary when bot marks a redirect for deletion because the redirect contains identical looking Cyrillic and Latin letters in its title',
 		'casechecker-replacement-linklist': u'A short list pointing from source to target page.\n<code>%(source)s</code> and <code>%(target)s</code> are mediwiki links',
 		'casechecker-delete-reason': u'Reason for speedy deletion request added to the template when bot marks a redirect for deletion because the redirect contains identical looking Cyrillic and Latin letters in its title\n<code>%(target)s</code> is the redirect target.',
@@ -19,8 +20,9 @@ msg = {
 		'casechecker-rename': u'بوت: اسم لحالة مخلوطة',
 	},
 	# Author: Alvaro Vidal-Abarca
+	# Author: McDutchie
 	'ca': {
-		'casechecker-replacement-summary': u'Bot: Substitució de majúscules/minúscules',
+		'casechecker-replacement-summary': u'Bot: Substitució de majúscules/minúscules:',
 		'casechecker-delete-summary': u'Bot: Aquesta redirecció conté al títol caràcters ciríl·lics i llatins amb el mateix aspecte',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Aquesta redirecció apuntava a %(target)s',
@@ -51,7 +53,7 @@ msg = {
 	},
 	# Author: Gomoko
 	'fr': {
-		'casechecker-replacement-summary': u'Robot : Exemple de remplacements :',
+		'casechecker-replacement-summary': u'Robot : Modifications de casse :',
 		'casechecker-delete-summary': u'Robot : Cette redirection contient des lettres semblables en cyrillique et en latin dans son titre.',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Cette redirection pointait vers %(target)s',
@@ -69,6 +71,14 @@ msg = {
 	# Author: Michawiki
 	'hsb': {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+	},
+	# Author: McDutchie
+	'ia': {
+		'casechecker-replacement-summary': u'Robot: Substitution de majusculas/minusculas:',
+		'casechecker-delete-summary': u'Robot: Iste redirection contine litteras cyrillic e latin de aspecto identic in le titulo',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Iste redirection punctava verso %(target)s',
+		'casechecker-rename': u'Robot: renomination a causa de litteras mixte',
 	},
 	# Author: Shirayuki
 	'ja': {
@@ -88,6 +98,7 @@ msg = {
 		'casechecker-delete-summary': u'Bot: An dëser Viruleedung si Cyrillesch a Latengesch Buschtawen am Titel déi dselwecht ausgesinn',
 		'casechecker-replacement-linklist': u'%(source)s → %(target)s',
 		'casechecker-delete-reason': u'Dës Viruleedung huet op %(target)s gewisen',
+		'casechecker-rename': u'Bot: Ëmbenenne vu gemëschte Schreifweisen',
 	},
 	# Author: Bjankuloski06
 	'mk': {
@@ -155,5 +166,9 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'此重定向指向了%(target)s',
 		'casechecker-rename': u'机器人：更名混用大小写',
+	},
+	# Author: Liuxinyu970226
+	'zh-hant': {
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 	},
 };

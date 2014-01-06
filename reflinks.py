@@ -33,9 +33,11 @@ msg = {
 		'reflinks-msg': u'Bot: convertint referències nues, usant noms de referències per evitar duplicats, vegeu [[%(manual)s|FAQ]]',
 	},
 	# Author: Chmee2
+	# Author: Matěj Grabovský
 	'cs': {
 		'reflinks-autogen': u'vytvořeno automaticky',
 		'reflinks-comment': u'Název vygenerovaný botem',
+		'reflinks-msg': u'Robot převedl holé odkazy a pojmenoval reference pro eliminaci duplicit, viz [[%(manual)s|manuál]]',
 	},
 	'da': {
 		'reflinks-autogen': u'autogeneret',
@@ -105,6 +107,12 @@ msg = {
 	# Author: M hamlet
 	'hy': {
 		'reflinks-autogen': u'ավտոմատ գեներացված',
+	},
+	# Author: McDutchie
+	'ia': {
+		'reflinks-autogen': u'generate automaticamente',
+		'reflinks-comment': u'Titulo generate per robot',
+		'reflinks-msg': u'Robot: Corrige referentias sin formato, attribuente nomines pro evitar duplicatos; vide le [[%(manual)s|FAQ]]',
 	},
 	'it': {
 		'reflinks-autogen': u'autogenerato',
@@ -187,6 +195,11 @@ msg = {
 		'reflinks-autogen': u'gerado automaticamente',
 		'reflinks-comment': u'Título gerado pelo Bot',
 		'reflinks-msg': u'Bot: convertendo referências vazias, usando nomes de referências para evitar duplicidade, veja [[%(manual)s|FAQ]]',
+	},
+	# Author: Minisarm
+	'ro': {
+		'reflinks-autogen': u'autogenerat',
+		'reflinks-comment': u'Titlu generat de robot',
 	},
 	# Author: Okras
 	'ru': {

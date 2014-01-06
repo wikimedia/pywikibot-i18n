@@ -165,8 +165,9 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Tryk Enter når browserredigeringerne er færdige.',
 	},
 	# Author: Se4598
+	# Author: Xqt
 	'de': {
-		'pywikibot-enter-xml-filename': u'Bitte gib den Datenamen des XML-Dumps ein:',
+		'pywikibot-enter-xml-filename': u'Bitte gib den Dateinamen des XML-Dumps ein:',
 		'pywikibot-enter-page-processing': u'Welche Seite soll bearbeitet werden?',
 		'pywikibot-enter-file-links-processing': u'Links zu welcher Dateiseite sollen bearbeitet werden?',
 		'pywikibot-enter-namespace-number': u'Bitte gib die Nummer des Namensraums ein:',
@@ -267,11 +268,12 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Trýst á Enter tá tú ert liðug/ur at rætta í brovsaranum.',
 	},
 	# Author: Gomoko
+	# Author: Romainhk
 	'fr': {
 		'pywikibot-enter-xml-filename': u'Veuillez entrer le nom du fichier d\'extraction XML:',
 		'pywikibot-enter-page-processing': u'Quelle page faut-il traiter?',
 		'pywikibot-enter-file-links-processing': u'Liens vers la page de fichier qu’il faudrait traiter ?',
-		'pywikibot-enter-namespace-number': u'Veuillez entrer un espace de noms par son numéro:',
+		'pywikibot-enter-namespace-number': u'Veuillez entrer un espace de noms grâce à son numéro:',
 		'pywikibot-enter-new-text': u'Veuillez entrer le nouveau texte:',
 		'pywikibot-enter-category-name': u'Veuillez entrer le nom de la catégorie:',
 		'pywikibot-enter-finished-browser': u'Appuyez sur Entrée une fois que vous avez fini dans le navigateur.',
@@ -315,6 +317,14 @@ msg = {
 		'pywikibot-enter-new-text': u'נא להזין את הטקסט החדש:',
 		'pywikibot-enter-category-name': u'נא להזין את שם הקטגוריה:',
 		'pywikibot-enter-finished-browser': u'יש ללחוץ Enter כאשר מסתיימת הפעולה בדפדפן.',
+	},
+	# Author: Michawiki
+	'hsb': {
+		'pywikibot-enter-page-processing': u'Kotra strona ma so předźěłać?',
+		'pywikibot-enter-namespace-number': u'Prošu zapodaj čisło mjenoweho ruma:',
+		'pywikibot-enter-new-text': u'Proš zapodaj nowy tekst:',
+		'pywikibot-enter-category-name': u'Prošu zapodaj mjeno kategorije:',
+		'pywikibot-enter-finished-browser': u'Tłóč zapodawansku tastu po skónčenju wobhladowaka.',
 	},
 	# Author: Dj
 	# Author: R-Joe

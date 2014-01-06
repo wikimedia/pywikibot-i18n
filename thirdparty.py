@@ -466,6 +466,7 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	# Author: Marmase
+	# Author: Mirzali
 	'diq': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(Vurneber merdum nê vineya)',
@@ -479,7 +480,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Persiyey racneya',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s werênayışi pêro (seyr kerdış) hewadeya - vurnayışe peyênê %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'%(num)i re xulasay werênayışi debyê.',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Pera vatenayışi vırneyé',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Werênayış vırna',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'%(num)i re xulasay werênayışi  debye de u timar bi',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'pelada %(page)s re %(num)i xulasay werênayışi kerd newe',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESACE ROBOTİ',
@@ -508,11 +509,12 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nΠερίληψη που δημιουργήθηκε από και στις: %(sign)s</noinclude>',
 	},
 	# Author: Gloria sah
+	# Author: Lévi
 	'eml': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
-		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Discusiòun nóva',
-		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Sarèda la discusiòun',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Cambièda la discusiòun',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Discusiòun nōva',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discusiòun sarêda',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discusiòun mudifichêda',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESAG\' DAL ROBOT',
 	},
 	# Author: Blahma
@@ -1325,6 +1327,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'\nWaddefresser',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s Gebeschdl] (%(page_size)s Beit) vun %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Neie Dischbedutt',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Dischbedutt geennert',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'SCHPELLS VUM WADDEFRESSER',
 	},

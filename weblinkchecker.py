@@ -189,6 +189,10 @@ msg = {
 		'weblinkchecker-summary': u'בוט: מדווח על קישור חיצוני בלתי זמין',
 		'weblinkchecker-report': u'במהלך מספר ריצות אוטומטיות של הבוט, נמצא שהקישור החיצוני הבא אינו זמין. אנא בדקו אם הקישור אכן שבור, ותקנו אותו או הסירו אותו במקרה זה!',
 	},
+	# Author: Michawiki
+	'hsb': {
+		'weblinkchecker-caption': u'Njepłaćiwy wotkaz',
+	},
 	# Author: Dj
 	'hu': {
 		'weblinkchecker-caption': u'Halott hivatkozás',
@@ -343,6 +347,10 @@ msg = {
 	# Author: Babanwalia
 	'pa': {
 		'weblinkchecker-caption': u'ਮੁਰਦਾ ਕੜੀ',
+	},
+	# Author: Xqt
+	'pdc': {
+		'weblinkchecker-caption': u'Kaputter  Webgleecher',
 	},
 	# Author: Rezonansowy
 	# Author: Ty221

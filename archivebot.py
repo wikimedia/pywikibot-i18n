@@ -131,10 +131,10 @@ msg = {
 	# Author: Edinwiki
 	'bs': {
 		'archivebot-older-than': u'starije od',
-		'archivebot-page-summary': u'Arhiviranje %(count)d nitova (%(why)s) u %(archives)s.',
+		'archivebot-page-summary': u'Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} (%(why)s) u arhivu %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARHIVA PUNA)',
-		'archivebot-archive-summary': u'Arhiviranje %(count)d nit(ova) iz [[%(from)s]].',
+		'archivebot-archive-summary': u'Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} sa stranice [[%(from)s]].',
 	},
 	# Author: Grondin
 	# Author: SMP

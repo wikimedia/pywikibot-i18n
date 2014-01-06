@@ -564,11 +564,12 @@ msg = {
 	},
 	# Author: Boniface
 	# Author: Od1n
+	# Author: Romainhk
 	'fr': {
 		'interwiki-modifying': u'robot Modifie %(modifying)s',
-		'interwiki-adding-modifying': u'robot Ajoute : %(adding)s Modifie : %(modifying)s',
-		'interwiki-adding-removing': u'robot Ajoute : %(adding)s ; retire : %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Ajoute : %(adding)s Retire : %(removing)s Modifie : %(modifying)s',
+		'interwiki-adding-modifying': u'Robot : Ajoute %(adding)s, Modifie %(modifying)s',
+		'interwiki-adding-removing': u'Robot : Ajoute %(adding)s ; retire %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot : Ajoute %(adding)s ; Retire %(removing)s ; Modifie %(modifying)s',
 		'interwiki-adding': u'robot Ajoute : %(adding)s',
 		'interwiki-removing': u'robot Retire : %(removing)s',
 		'interwiki-removing-modifying': u'robot Retire : %(removing)s Modifie : %(modifying)s',

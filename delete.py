@@ -12,10 +12,10 @@ msg = {
 	# Author: Xqt
 	'qqq': {
 		'delete-images': u'Used as edit summary. Parameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-images}}',
-		'delete-referring-pages': u'Used as edit summary.\n\nDefinitions:\n*"Link" - Link is all the links on a page. So if your page content was <nowiki>[[Page1]] [[Page2]]</nowiki>, it would use those two pages. \n*"Refer" - Refer is basically [[Special:WhatLinksHere]], or all the pages that link to the page provided.\nParameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-ref}}',
-		'delete-from-category': u'Used as edit summary. Parameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-category}}',
+		'delete-referring-pages': u'Edit summary when the bot deletes all pages referring from a page.\n\nRefer is basically [[Special:WhatLinksHere]], or all the pages that link to the page provided.\n\nParameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-ref}}',
+		'delete-from-category': u'Used as edit summary. Parameters:\n* %(page)s - category name\nSee also:\n* {{msg-pywikibot|Protect-category}}',
 		'delete-from-file': u'Edit summary when the bot deletes a list of pages.',
-		'delete-linked-pages': u'Used as edit summary. Parameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-links}}',
+		'delete-linked-pages': u'Edit summary when the bot deletes all pages linked from a page.\n\nLink is all the links on a page. So if your page content was <nowiki>[[Page1]] [[Page2]]</nowiki>, it would use those two pages.\n\nParameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-links}}',
 	},
 	# Author: Csisc
 	'aeb': {
@@ -106,7 +106,7 @@ msg = {
 		'delete-images': u'Bot: Brisanje svih slika na stranici %(page)s.',
 		'delete-referring-pages': u'Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.',
 		'delete-from-category': u'Bot: Brisanje svih stranica iz kategorije %(page)s.',
-		'delete-from-file': u'Bot: Brisanje spiska fajlova.',
+		'delete-from-file': u'Bot: Brisanje spiska sa stranicama.',
 		'delete-linked-pages': u'Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.',
 	},
 	# Author: Grondin
@@ -241,10 +241,11 @@ msg = {
 		'delete-linked-pages': u'Bottur: Strikar allar síðu sum slóða frá %(page)s',
 	},
 	# Author: Gomoko
+	# Author: Linedwell
 	'fr': {
 		'delete-images': u'Robot : Supprime tous les fichiers sur la page %(page)s',
 		'delete-referring-pages': u'Robot : Supprime toutes les pages référant à %(page)s',
-		'delete-from-category': u'Bot: Supprime toutes pages de la catégorie %(page)s',
+		'delete-from-category': u'Robot : Supprime toutes les pages de la catégorie %(page)s',
 		'delete-from-file': u'Robot : Suppression d’une liste de pages.',
 		'delete-linked-pages': u'Robot : Supprime toutes les pages liées depuis %(page)s',
 	},

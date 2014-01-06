@@ -44,6 +44,11 @@ msg = {
 		'commons_link-template-added': u'בוט: מוסיף תבנית Commons',
 		'commons_link-cat-template-added': u'בוט: מוסיף תבנית Commonscat',
 	},
+	# Author: McDutchie
+	'ia': {
+		'commons_link-template-added': u'Robot: insere un patrono de Commons',
+		'commons_link-cat-template-added': u'Robot: insere patrono Commonscat',
+	},
 	# Author: Beta16
 	'it': {
 		'commons_link-template-added': u'Bot: inserisco template commons',

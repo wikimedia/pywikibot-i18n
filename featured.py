@@ -206,10 +206,11 @@ msg = {
 		'featured-former': u'Bottur: %(page)s er ein fyrrverandi útvald grein',
 	},
 	# Author: Od1n
+	# Author: Romainhk
 	'fr': {
-		'featured-good': u'Bot : Lien BA pour %(page)s',
+		'featured-good': u'Robot: %(page)s est un bon article',
 		'featured-list': u'Bot : %(page)s est une liste de qualité',
-		'featured-featured': u'Bot : Lien AdQ pour %(page)s',
+		'featured-featured': u'Bot : %(page)s est un article de qualité',
 		'featured-former': u'Bot : %(page)s est un article de qualité déchu',
 	},
 	# Author: ChrisPtDe
