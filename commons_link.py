@@ -12,6 +12,16 @@ msg = {
 		'commons_link-template-added': u'روبوت: تضمين قالب كومنز',
 		'commons_link-cat-template-added': u'روبوت: تضمين قالب تصنيف كومنز',
 	},
+	# Author: Xuacu
+	'ast': {
+		'commons_link-template-added': u'Robó: Incluir plantía de commons',
+		'commons_link-cat-template-added': u'Robó: Incluir plantía de commonscat',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'commons_link-template-added': u'Bot: dodan commons šablon',
+		'commons_link-cat-template-added': u'Bot: dodan commonscat šablon',
+	},
 	# Author: Alvaro Vidal-Abarca
 	'ca': {
 		'commons_link-template-added': u'Robot: incloure plantilla de commons',
@@ -21,10 +31,20 @@ msg = {
 		'commons_link-template-added': u'Robot přidal šablonu commons',
 		'commons_link-cat-template-added': u'Robot přidal šablonu commonscat',
 	},
+	# Author: Christian List
+	'da': {
+		'commons_link-template-added': u'Robot: Tilføjer commons skabelon',
+		'commons_link-cat-template-added': u'Robot: Tilføjer commonscat skabelon',
+	},
 	# Author: Metalhead64
 	'de': {
 		'commons_link-template-added': u'Bot: Binde Commons-Vorlage ein',
 		'commons_link-cat-template-added': u'Bot: Binde Commonscat-Vorlage ein',
+	},
+	# Author: Salvador alc
+	'es': {
+		'commons_link-template-added': u'Robot: Incluir plantilla commons',
+		'commons_link-cat-template-added': u'Robot: Incluir plantilla commonscat',
 	},
 	'fa': {
 		'commons_link-template-added': u'ربات: افزودن الگوی ویکی‌انبار',
@@ -34,6 +54,11 @@ msg = {
 	'fr': {
 		'commons_link-template-added': u'Robot : Inclure le modèle commons',
 		'commons_link-cat-template-added': u'Robot : Inclure le modèle commonscat',
+	},
+	# Author: Murma174
+	'frr': {
+		'commons_link-template-added': u'Bot: Commons-föörlaag iinbünjen',
+		'commons_link-cat-template-added': u'Bot: Commonscat-föörlaag iinbünjen',
 	},
 	# Author: Toliño
 	'gl': {

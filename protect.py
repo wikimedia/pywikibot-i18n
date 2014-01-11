@@ -23,6 +23,36 @@ msg = {
 		'protect-ref': u'روبوت - حماية كل الصفحات الراجعة من %(page)s',
 		'protect-images': u'روبوت - حماية كل الصور في الصفحة %(page)s',
 	},
+	# Author: Xuacu
+	'ast': {
+		'protect-links': u'Robó: Protexendo toles páxines enllazaes dende %(page)s',
+		'protect-simple': u'Robó: Protexendo una llista de ficheros.',
+		'protect-category': u'Robó: Protexendo toles páxines de la categoría %(cat)s',
+		'protect-ref': u'Robó: Protexendo toles páxines con referencia dende %(page)s',
+		'protect-images': u'Robó: Protexendo toles imaxes de la páxina %(page)s',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'protect-links': u'Bot: Zaštićivanje svih stranica koje su linkovane sa stranice %(page)s',
+		'protect-simple': u'Bot: Zaštićivanje spiska datoteka.',
+		'protect-category': u'Bot: Zaštićivanje svih stranica iz kategorije %(cat)s',
+		'protect-ref': u'Bot: Zaštićivanje svih stranica prema kojim ima veza sa stranice %(page)s',
+		'protect-images': u'Bot: Zaštićivanje svih slika na stranici %(page)s',
+	},
+	# Author: DemonioCZ
+	'cs': {
+		'protect-simple': u'Robot: Ochránit seznam souborů.',
+		'protect-category': u'Robot: Ochránit všechny stránky z kategorie %(cat)s',
+		'protect-images': u'Robot: Ochránit všechny obrázky na stránce %(page)s',
+	},
+	# Author: Christian List
+	'da': {
+		'protect-links': u'Robot: Beskytter alle sider som henvises fra %(page)s',
+		'protect-simple': u'Robot: Beskytter en liste af filer.',
+		'protect-category': u'Robot: Beskytter alle sider fra kategorien %(cat)s',
+		'protect-ref': u'Robot: Beskytter alle sider som henviser fra %(page)s',
+		'protect-images': u'Robot: Beskytter alle billeder på siden %(page)s',
+	},
 	# Author: Metalhead64
 	'de': {
 		'protect-links': u'Bot: Schütze alle Seiten, die von %(page)s verlinkt sind',
@@ -46,6 +76,14 @@ msg = {
 		'protect-category': u'Robot : Protège toutes les pages de la catégorie %(cat)s',
 		'protect-ref': u'Robot : Protège toutes les pages référant à %(page)s',
 		'protect-images': u'Robot : Protège tous les fichiers sur la page %(page)s',
+	},
+	# Author: Murma174
+	'frr': {
+		'protect-links': u'Bot: Seekre aal jo sidjen mä ferwisangen faan %(page)s',
+		'protect-simple': u'Bot: Seekre en list faan datein.',
+		'protect-category': u'Bot: Seekre aal jo sidjen uun det kategorii %(cat)s',
+		'protect-ref': u'Bot: Seekre aal jo sidjen, diar üüb %(page)s ferwise',
+		'protect-images': u'Bot: Seekre aal jo datein üüb det sidj %(page)s',
 	},
 	# Author: Elisardojm
 	'gl': {
@@ -74,7 +112,7 @@ msg = {
 	'ja': {
 		'protect-links': u'ロボットによる: 「%(page)s」からリンクされているページをすべて保護',
 		'protect-simple': u'ロボットによる: ファイルのリストを保護',
-		'protect-category': u'ロボットによる: カテゴリ「%(page)s」にあるページをすべて保護',
+		'protect-category': u'ロボットによる: カテゴリ「%(cat)s」にあるページをすべて保護',
 		'protect-ref': u'ロボットによる: 「%(page)s」を参照しているページをすべて保護',
 		'protect-images': u'ロボットによる: ページ「%(page)s」上の画像をすべて保護',
 	},
@@ -85,6 +123,12 @@ msg = {
 		'protect-category': u'로봇: %(cat)s의 모든 문서를 보호',
 		'protect-ref': u'로봇: %(page)s에서 참고하는 모든 문서 보호',
 		'protect-images': u'로봇: %(page)s에서 사용하는 모든 파일 보호',
+	},
+	# Author: Purodha
+	'ksh': {
+		'protect-links': u'Bot: Alle Sigge schöze, op di vun %(page)s jelengk es.',
+		'protect-simple': u'Bot: En Leß met Datteije schöze.',
+		'protect-category': u'Bot: Alle Sigge uß dä Saachjropp %(cat)s schöze.',
 	},
 	# Author: Robby
 	'lb': {
@@ -102,12 +146,13 @@ msg = {
 		'protect-ref': u'Робот: Ги заштитувам сите страници што водат од „%(page)s“',
 		'protect-images': u'Робот: Ги заштитувам сите слики на страницата „%(page)s“',
 	},
+	# Author: Siebrand
 	'nl': {
-		'protect-links': u'Bot: alle pagina\'s met verwijzingen vanaf %(page)s beveiligd',
-		'protect-simple': u'Bot: lijst met bestanden beveiligd',
-		'protect-category': u'Bot: alle pagina\'s uit categorie %(cat)s beveiligd',
-		'protect-ref': u'Bot: alle pagina\'s met een verwijzing op %(page)s beveiligd',
-		'protect-images': u'Bot: alle bestanden gebruikt op %(page)s beveiligd',
+		'protect-links': u'Robot: alle pagina\'s met verwijzingen vanaf %(page)s beveiligd',
+		'protect-simple': u'Robot: lijst met bestanden beveiligd',
+		'protect-category': u'Robot: alle pagina\'s uit categorie %(cat)s beveiligd',
+		'protect-ref': u'Robot: alle pagina\'s met een verwijzing op %(page)s beveiligd',
+		'protect-images': u'Robot: alle bestanden gebruikt op %(page)s beveiligd',
 	},
 	'pt': {
 		'protect-links': u'Bot: Protegendo todos os artigos ligados a %(page)s',

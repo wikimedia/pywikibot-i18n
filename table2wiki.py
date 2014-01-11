@@ -266,10 +266,11 @@ msg = {
 		'table2wiki-warnings': u'प्रतयोगकर्ता नियन्त्रित रोबोट: टेबलको सिन्ट्याक्स अध्यावधिक गरियो - {{PLURAL:count|१ चेतावनी |%(count)d चेतावनीहरू}}!',
 		'table2wiki-no-warning': u'प्रयोगकर्ता नियन्त्रित रोबोट: टेबल सिन्ट्याक्स परिवर्तन गरियो',
 	},
+	# Author: Siebrand
 	# Author: Xqt
 	'nl': {
-		'table2wiki-warnings': u'Tabel gewijzigd van HTML- naar Wikisyntax - {{PLURAL:count|1 waarschuwing|%(count)d waarschuwingen}}!',
-		'table2wiki-no-warning': u'Tabel gewijzigd van HTML- naar Wikisyntax',
+		'table2wiki-warnings': u'Tabel gewijzigd van HTML naar Wikiopmaak - {{PLURAL:count|1 waarschuwing|%(count)d waarschuwingen}}!',
+		'table2wiki-no-warning': u'Tabel gewijzigd van HTML naar Wikiopmaak',
 	},
 	# Author: Xqt
 	'no': {

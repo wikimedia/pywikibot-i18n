@@ -1446,6 +1446,7 @@ msg = {
 	# Author: DrTrigon
 	# Author: Express2000
 	# Author: Rubin
+	# Author: Rubin16
 	# Author: Volkov
 	'ru': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',

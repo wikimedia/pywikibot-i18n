@@ -232,13 +232,18 @@ msg = {
 	},
 	# Author: Erdemaslancan
 	# Author: Gorizon
+	# Author: Mirzali
 	'diq': {
 		'redirect-fix-double': u'Boti Tespitê hetanayışê dıleti heta %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]]: pela besternê yana pelaya cı nêasena',
+		'redirect-remove-broken': u'Robot: Yew pela ke esteriya ya zi çıniya, aye ser çarne',
 		'redirect-fix-broken-moved': u'Bot: Hetenayışe xırabi hedefe pela %(to)s vurneno',
 		'redirect-fix-loop': u'Boti %(to)s rê hetanayışo dılet deke',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt.',
 		'redirect-broken-redirect-template': u'{{bestere|m1}}',
+	},
+	# Author: Michawiki
+	'dsb': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Evropi
 	# Author: Geraki
@@ -391,6 +396,10 @@ msg = {
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
 	},
+	# Author: Michawiki
+	'hsb': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Bináris
 	# Author: Dj
 	'hu': {
@@ -442,7 +451,6 @@ msg = {
 		'redirect-remove-broken': u'Vélmenni: Tilvísun bendir á síðu sem hefur verið eytt eða er ekki til',
 		'redirect-fix-loop': u'Vélmenni: Lagfæri tilvísunar lykkju → %(to)s',
 		'redirect-remove-loop': u'Vélmenni: Tilvísun bendir á óendanlega tilvísunar lykkju',
-		'redirect-broken-redirect-template': u'{{eyða|tilvísun á síðu sem er ekki til}}',
 	},
 	# Author: Beta16
 	# Author: Nemo bis
@@ -497,7 +505,7 @@ msg = {
 		'redirect-remove-broken': u'Bot: Di Ömlëijdong jingk ennet Liiere.',
 		'redirect-fix-broken-moved': u'Bot: De kappodde Ömleidong op de ömjenannte Sigg %(to)s es reppareert.',
 		'redirect-fix-loop': u'Bot: En Reih vun Ömleidonge jeng em Kreis eröm. Op %(to)s jescheck.',
-		'redirect-remove-loop': u'Bot: Di Ömleidunge jonn em Kreis eröm.',
+		'redirect-remove-loop': u'Bot: Di Ömleidonge jonn em Kreis eröm.',
 		'redirect-broken-redirect-template': u'{{Schmieß fott}}Di [[Wikipedia:Ömleijdung|Ömlëijdong]] jeiht noh nörjendswoh hen.',
 	},
 	# Author: Ghybu
@@ -582,6 +590,10 @@ msg = {
 		'redirect-fix-broken-moved': u'യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
+	},
+	# Author: V.narsikar
+	'mr': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Anakmalaysia
 	# Author: Kurniasan

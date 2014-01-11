@@ -16,7 +16,7 @@ msg = {
 	},
 	# Author: Xuacu
 	'ast': {
-		'spellcheck-checking': u'Correición ortográfica asistida por robot',
+		'spellcheck-checking': u'Correición ortográfica asistida por robó',
 	},
 	# Author: AZISS
 	'az': {

@@ -25,7 +25,7 @@ msg = {
 		'weblinkchecker-archive_msg': u'Internet Archive tien guardada la páxina web. Considere enllazar a una versión archivada afayadiza: [%(URL)s].',
 		'weblinkchecker-caption': u'Enllaz muertu',
 		'weblinkchecker-summary': u'Robot: Informando d\'un enllaz esternu non disponible',
-		'weblinkchecker-report': u'En delles pasaes automátiques del robot el siguiente enllaz esternu nun s\'alcontraba disponible. Compruebe si l\'enllaz ta daveres caíu y corrixalu o desanicielu si ye\'l casu',
+		'weblinkchecker-report': u'En delles pasaes automátiques del robó el siguiente enllaz esternu nun s\'alcontraba disponible. Compruebe si l\'enllaz ta daveres caíu y corríxalu o desanícielu si ye\'l casu',
 	},
 	# Author: AZISS
 	'az': {
@@ -78,12 +78,13 @@ msg = {
 		'weblinkchecker-caption': u'Dolen ddiffrwyth',
 		'weblinkchecker-summary': u'Bot: Yn adrodd nad oes modd cyrraedd cyswllt allanol',
 	},
+	# Author: Christian List
 	# Author: Steenth
 	'da': {
-		'weblinkchecker-archive_msg': u'Websiden er blevet gemt af Internet Archive. Overvej sammenkædning til en passende arkiverede version: [%(URL)s].',
+		'weblinkchecker-archive_msg': u'Websiden er blevet gemt af Internet Archive. Overvej sammenkædning til en passende arkiveret version: [%(URL)s].',
 		'weblinkchecker-caption': u'Dødt link',
-		'weblinkchecker-summary': u'bot: Rapporter utilgængelig ekstern link',
-		'weblinkchecker-report': u'Følgende eksterne link har ikke kunne nøjes efter flere forsøg af en automatiseret bot. Kontroller, at linket faktisk er nede, løs det eller fjerne det i så fald!',
+		'weblinkchecker-summary': u'Robot: Rapporterer utilgængeligt eksternt link',
+		'weblinkchecker-report': u'Følgende eksterne link har ikke været tilgængelige efter flere forsøg fra en automatiseret robot. Kontroller, at linket faktisk er nede, løs det eller fjern det i så fald!',
 	},
 	'de': {
 		'weblinkchecker-archive_msg': u'Die Webseite wurde vom Internet Archive gespeichert. Bitte verlinke gegebenenfalls eine geeignete archivierte Version: [%(URL)s].',

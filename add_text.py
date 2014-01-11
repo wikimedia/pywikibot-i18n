@@ -87,8 +87,9 @@ msg = {
 	'br': {
 		'add_text-adding': u'Robot ouzhpennet %(adding)s',
 	},
+	# Author: Edinwiki
 	'bs': {
-		'add_text-adding': u'robot dodaje %(adding)s',
+		'add_text-adding': u'Bot: Dodajem %(adding)s',
 	},
 	# Author: Anskar
 	# Author: Grondin

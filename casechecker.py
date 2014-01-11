@@ -19,6 +19,22 @@ msg = {
 		'casechecker-replacement-summary': u'استبدالات الحالة',
 		'casechecker-rename': u'بوت: اسم لحالة مخلوطة',
 	},
+	# Author: Xuacu
+	'ast': {
+		'casechecker-replacement-summary': u'Robó: Sustitución de mayúscules/minúscules:',
+		'casechecker-delete-summary': u'Robó: Esta redireición contién nel títulu caráuteres cirílicos y llatinos col mesmu aspeutu',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Esta redireición antes apuntaba a "%(target)s"',
+		'casechecker-rename': u'Robó: renomáu l\'entemecíu de mayúscules/minúscules',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'casechecker-replacement-summary': u'Bot: Izmjena malih/valikih slova:',
+		'casechecker-delete-summary': u'Bot: Ovo preusmjerenje sadrži identično izgledajuća ćirilična i latinična slova u nazivu',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Ovo preusmjerenje je upućivalo prema %(target)s',
+		'casechecker-rename': u'Bot: Preimenovanje slučaja sa malim/velikim slovima',
+	},
 	# Author: Alvaro Vidal-Abarca
 	# Author: McDutchie
 	'ca': {
@@ -34,6 +50,14 @@ msg = {
 		'casechecker-delete-summary': u'Robot: Toto přesměrování ve svém názvu obsahuje znaky cyrilice připomínají latinku',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Toto přesměrování vedlo na %(target)s',
+	},
+	# Author: Christian List
+	'da': {
+		'casechecker-replacement-summary': u'Robot: Udskifter store og små bogstaver:',
+		'casechecker-delete-summary': u'Robot: Denne omdirigering indeholder identisk udseende kyrilliske og latinske bogstaver i sin titel',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Denne omdirigering pegede tidligere på %(target)s',
+		'casechecker-rename': u'Robot: omdøbning pga. blandede bogstaver',
 	},
 	# Author: Metalhead64
 	'de': {
@@ -58,6 +82,14 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Cette redirection pointait vers %(target)s',
 		'casechecker-rename': u'Robot : renommage en casse mixte',
+	},
+	# Author: Murma174
+	'frr': {
+		'casechecker-replacement-summary': u'Bot: Skriiwwiisen feranert:',
+		'casechecker-delete-summary': u'Bot: Uun detdiar widjerfeerang stun kyrilisk an latiinsk buksteewen, diar enööder like.',
+		'casechecker-replacement-linklist': u'%(source)s → %(target)s',
+		'casechecker-delete-reason': u'Detdiar widjerfeerang hää üüb %(target)s ferwiset.',
+		'casechecker-rename': u'Bot: Misket skriiwwiisen amnäämd',
 	},
 	# Author: Elisardojm
 	# Author: Toliño
@@ -89,6 +121,8 @@ msg = {
 	# Author: Hym411
 	'ko': {
 		'casechecker-replacement-summary': u'로봇: 대소문자 교체:',
+		'casechecker-delete-summary': u'봇: 이 넘겨주기는 제목에 키릴 단어 또는 라틴 단어를 포함합니다.',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'이 넘겨주기는 %(target)s를 가리킵니다',
 		'casechecker-rename': u'로봇: 혼합된 대소문자 변경',
 	},

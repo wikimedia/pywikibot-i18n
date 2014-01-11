@@ -7,6 +7,14 @@ msg = {
 	'qqq': {
 		'revertbot-revert': u'Edit summary when the bot reverts an edit. Parameters: revid %(revid)s, author %(author)s, timestamp %(timestamp)s',
 	},
+	# Author: Xuacu
+	'ast': {
+		'revertbot-revert': u'Robó:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'revertbot-revert': u'Bot: Vraćeno na reviziju %(revid)s od korisnika %(author)s, %(timestamp)s',
+	},
 	# Author: Alvaro Vidal-Abarca
 	'ca': {
 		'revertbot-revert': u'Bot: Revertit a la revisió %(revid)s per %(author)s el %(timestamp)s',
@@ -14,6 +22,10 @@ msg = {
 	# Author: Matěj Grabovský
 	'cs': {
 		'revertbot-revert': u'Robot revertoval stránku na revizi %(revid)s uživatele %(author)s z %(timestamp)s',
+	},
+	# Author: Christian List
+	'da': {
+		'revertbot-revert': u'Robot: Gendanner til version %(revid)s af %(author)s den %(timestamp)s',
 	},
 	# Author: Metalhead64
 	'de': {
@@ -26,6 +38,10 @@ msg = {
 	# Author: Gomoko
 	'fr': {
 		'revertbot-revert': u'Robot : Revenu à la révision %(revid)s par %(author)s le %(timestamp)s',
+	},
+	# Author: Murma174
+	'frr': {
+		'revertbot-revert': u'Bot: Turagsaat üüb det werjuun %(revid)s faan %(author)s faan a %(timestamp)s',
 	},
 	# Author: Elisardojm
 	'gl': {

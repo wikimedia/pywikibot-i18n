@@ -327,6 +327,10 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] ଗଲା [[:commons:File:%(commonsfile)s|commons]] କୁ',
 		'commons-file-now-available': u'ଫାଇଲ୍‌ ଏଠାରେ ଉପଲବ୍ଧ [[:commons:File:%(commonsfile)s|Wikimedia Commons]]',
 	},
+	# Author: Xqt
+	'pdc': {
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] gezoge nooch [[:commons:File:%(commonsfile)s|commons]].',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Plik]] został przeniesiony do [[:commons:File:%(commonsfile)s|commons]].',

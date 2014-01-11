@@ -489,11 +489,11 @@ msg = {
 	},
 	# Author: Purodha
 	'ksh': {
-		'category_redirect-comment': u'Bot för de Saachjroppe ier Ömleidunge.',
+		'category_redirect-comment': u'Bot för de Saachjroppe ier Ömleidonge.',
 		'category_redirect-change-category': u'Bot: Han de ömjeleidt Saachjropp [[:%(oldCatLink)s|%(oldCatTitle)s]] jääje de Saachjropp [[:%(newCatLink)s|%(newCatTitle)s]] jetuusch.',
 		'category_redirect-add-template': u'Bot: Ömleidungsschalbon dobeijedonn.',
 		'category_redirect-edit-request': u'Hee di Sigge sin jeschötz un möße ier Saachjroppe odder Lingks op Saachjroppe aanjepaß krijje: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s es en %(oldcat)s, un dat es en Ömleidung op %(newcat)s',
+		'category_redirect-edit-request-item': u'* %(title)s es en %(oldcat)s, un dat es en Ömleidong op %(newcat)s',
 		'category_redirect-fix-double': u'Bot: Dubbel Ömlëijdong fottjemaat.',
 	},
 	# Author: Ghybu

@@ -18,13 +18,19 @@ msg = {
 	# Author: Xuacu
 	'ast': {
 		'reflinks-autogen': u'xeneráu automáticamente',
-		'reflinks-comment': u'Títulu xeneráu por un bot',
-		'reflinks-msg': u'Bot: Convertiendo referencies pures, usando los nomes de ref pa evitar duplicaos, vea [[%(manual)s|FAQ]]',
+		'reflinks-comment': u'Títulu xeneráu por un robó',
+		'reflinks-msg': u'Robó: Convertiendo referencies pures, usando los nomes de ref pa evitar duplicaos, vea [[%(manual)s|FAQ]]',
 	},
 	# Author: Fohanno
 	'br': {
 		'reflinks-autogen': u'emc\'hanet',
 		'reflinks-comment': u'Titl savet gant ur robot',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'reflinks-autogen': u'automatski generisano',
+		'reflinks-comment': u'Botovski generisani naziv',
+		'reflinks-msg': u'Bot: Pretvaranje običnih izvora koristeći ref imena da bi se izbjegli duplikati (pogledaj također [[%(manual)s|FAQ]])',
 	},
 	# Author: Alvaro Vidal-Abarca
 	'ca': {
@@ -39,10 +45,11 @@ msg = {
 		'reflinks-comment': u'Název vygenerovaný botem',
 		'reflinks-msg': u'Robot převedl holé odkazy a pojmenoval reference pro eliminaci duplicit, viz [[%(manual)s|manuál]]',
 	},
+	# Author: Christian List
 	'da': {
 		'reflinks-autogen': u'autogeneret',
 		'reflinks-comment': u'Bot genereret titel',
-		'reflinks-msg': u'Bot: Tilføjer beskrivelse til eksterne links, se [[%(manual)s|FAQ]]',
+		'reflinks-msg': u'Robot: Konverterer nøgne referencer, ved hjælp af ref navne for at undgå dubletter, se [[%(manual)s|FAQ]]',
 	},
 	# Author: Metalhead64
 	'de': {

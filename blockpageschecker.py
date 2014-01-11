@@ -11,11 +11,15 @@ msg = {
 	},
 	# Author: Xuacu
 	'ast': {
-		'blockpageschecker-summary': u'Bot: Desaniciando plantía anticuada',
+		'blockpageschecker-summary': u'Robó: Desaniciando plantía anticuada',
 	},
 	# Author: Fohanno
 	'br': {
 		'blockpageschecker-summary': u'Robot : o tilemel ur gobari diamzeret',
+	},
+	# Author: Edinwiki
+	'bs': {
+		'blockpageschecker-summary': u'Bot: Brisanje zastarijelog šablona',
 	},
 	# Author: Alvaro Vidal-Abarca
 	# Author: Grondin
@@ -149,6 +153,7 @@ msg = {
 		'blockpageschecker-summary': u'Bot: Șters format învechit',
 	},
 	# Author: Rubin
+	# Author: Rubin16
 	'ru': {
 		'blockpageschecker-summary': u'Бот: удаление устаревшего шаблона',
 	},

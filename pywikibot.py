@@ -107,7 +107,7 @@ msg = {
 	'bs': {
 		'pywikibot-enter-xml-filename': u'Unesite naziv datoteke XML ispisa:',
 		'pywikibot-enter-page-processing': u'Koja stranica treba da se obradi?',
-		'pywikibot-enter-file-links-processing': u'Prema kojoj stranici linkovi da se obrade?',
+		'pywikibot-enter-file-links-processing': u'Veze prema kojoj stranici da se obrade?',
 		'pywikibot-enter-namespace-number': u'Unesite broj imenskog prostora:',
 		'pywikibot-enter-new-text': u'Unesite novi tekst:',
 		'pywikibot-enter-category-name': u'Unesite naziv kategorije:',
@@ -614,6 +614,7 @@ msg = {
 	},
 	# Author: Eleferen
 	# Author: Rubin
+	# Author: Rubin16
 	# Author: Volkov
 	'ru': {
 		'pywikibot-enter-xml-filename': u'Пожалуйста, введите имя файла дампа XML:',

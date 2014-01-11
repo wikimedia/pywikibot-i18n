@@ -12,9 +12,14 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'بوت: إضافة صفحة توضيح',
 		'lonelypages-comment-add-template': u'بوت: صفحة يتيمة، إضافة قالب',
 	},
+	# Author: Xuacu
+	'ast': {
+		'lonelypages-comment-add-disambig-template': u'Robó: Amestando una páxina de dixebra',
+		'lonelypages-comment-add-template': u'Robó: Páxina güérfana, amestada plantía',
+	},
 	# Author: Edinwiki
 	'bs': {
-		'lonelypages-comment-add-disambig-template': u'Bot: Dodavanje čvora',
+		'lonelypages-comment-add-disambig-template': u'Bot: Dodavanje čvor stranice',
 		'lonelypages-comment-add-template': u'Bot: Dodavanje šablona za siroče',
 	},
 	'ca': {
@@ -24,6 +29,11 @@ msg = {
 	# Author: Умар
 	'ce': {
 		'lonelypages-comment-add-disambig-template': u'Робот: АгӀо дизамбикан тӀетохар',
+	},
+	# Author: Christian List
+	'da': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Tilføjer en flertydig side',
+		'lonelypages-comment-add-template': u'Robot: Forældreløs side, tilføjer skabelon',
 	},
 	# Author: Metalhead64
 	'de': {
@@ -39,6 +49,11 @@ msg = {
 	'fr': {
 		'lonelypages-comment-add-disambig-template': u'Robot : Ajout d\'une page d\'homonymie',
 		'lonelypages-comment-add-template': u'Robot : Page orpheline, ajout de modèle',
+	},
+	# Author: Murma174
+	'frr': {
+		'lonelypages-comment-add-disambig-template': u'Bot: En muardüüdag sidj (BKL) iinfeerd.',
+		'lonelypages-comment-add-template': u'Bot: Ferläät sidj, skriiw en föörlaag diartu',
 	},
 	# Author: Elisardojm
 	'gl': {
@@ -63,6 +78,10 @@ msg = {
 	'ko': {
 		'lonelypages-comment-add-disambig-template': u'로봇: 동음이의어 문서 추가',
 		'lonelypages-comment-add-template': u'로봇: 다른 문서를 링크하지 않는 문서, 틀 추가',
+	},
+	# Author: Purodha
+	'ksh': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Donn en „Wadd-eß-datt-Sigg“ derbei.',
 	},
 	# Author: Robby
 	'lb': {

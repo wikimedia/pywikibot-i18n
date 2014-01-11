@@ -696,6 +696,7 @@ msg = {
 	},
 	# Author: Express2000
 	# Author: Rubin
+	# Author: Rubin16
 	'ru': {
 		'archivebot-older-than': u'старше, чем',
 		'archivebot-page-summary': u'Архивация %(count)d {{PLURAL:%(count)d|темы|тем}} (%(why)s) в %(archives)s.',

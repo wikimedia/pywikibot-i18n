@@ -53,10 +53,10 @@ msg = {
 	# Author: Esbardu
 	# Author: Xuacu
 	'ast': {
-		'delete-images': u'Robó: Desaniciando toles imáxenes de la páxina %(page)s',
+		'delete-images': u'Robó: Desaniciando toles imaxes de la páxina %(page)s',
 		'delete-referring-pages': u'Robó: Desaniciando toles páxines con referencia dende %(page)s',
 		'delete-from-category': u'Robó: Desaniciando toles páxines de la categoría %(page)s',
-		'delete-from-file': u'Robó: Desaniciando una llista de ficheros.',
+		'delete-from-file': u'Robó: Desaniciando una llista de páxines.',
 		'delete-linked-pages': u'Robó: Desaniciando toles páxines enllazaes dende %(page)s',
 	},
 	# Author: Khutuck
@@ -106,7 +106,7 @@ msg = {
 		'delete-images': u'Bot: Brisanje svih slika na stranici %(page)s.',
 		'delete-referring-pages': u'Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.',
 		'delete-from-category': u'Bot: Brisanje svih stranica iz kategorije %(page)s.',
-		'delete-from-file': u'Bot: Brisanje spiska sa stranicama.',
+		'delete-from-file': u'Bot: Brisanje spiska stranica.',
 		'delete-linked-pages': u'Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.',
 	},
 	# Author: Grondin
@@ -262,7 +262,7 @@ msg = {
 		'delete-images': u'Bot: Strik aal jo dateien üüb det sidj %(page)s',
 		'delete-referring-pages': u'Bot: Strik aal jo sidjen, diar üüb %(page)s ferwise',
 		'delete-from-category': u'Bot: Strik aal jo sidjen uun det kategorii %(page)s',
-		'delete-from-file': u'Bot: Strik en list faan dateien.',
+		'delete-from-file': u'Bot: Strik en list faan sidjen.',
 		'delete-linked-pages': u'Bot: Strik aal jo sidjen mä ferwisangen faan %(page)s',
 	},
 	# Author: Toliño
