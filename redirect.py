@@ -241,10 +241,6 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt.',
 		'redirect-broken-redirect-template': u'{{bestere|m1}}',
 	},
-	# Author: Michawiki
-	'dsb': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-	},
 	# Author: Evropi
 	# Author: Geraki
 	# Author: Glavkos
@@ -395,10 +391,6 @@ msg = {
 		'redirect-fix-double': u'Bot: Popravak dvostrukih preusmjeravanja → %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
-	},
-	# Author: Michawiki
-	'hsb': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Bináris
 	# Author: Dj
@@ -590,10 +582,6 @@ msg = {
 		'redirect-fix-broken-moved': u'യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
-	},
-	# Author: V.narsikar
-	'mr': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Anakmalaysia
 	# Author: Kurniasan
