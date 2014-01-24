@@ -15,6 +15,14 @@ msg = {
 		'casechecker-delete-reason': u'Reason for speedy deletion request added to the template when bot marks a redirect for deletion because the redirect contains identical looking Cyrillic and Latin letters in its title\n<code>%(target)s</code> is the redirect target.',
 		'casechecker-rename': u'Edit summary when bot moves a redirect with mixed Cyrillic and  Latin letters to a new target',
 	},
+	# Author: Als-Holder
+	'als': {
+		'casechecker-replacement-summary': u'Bot: Schrybige ersetzt:',
+		'casechecker-delete-summary': u'Bot: In däre Wyterleitig het s kyrillischi un latynischi Zeichen im Titel, wu idäntisch uussähn',
+		'casechecker-replacement-linklist': u'%(source)s uf %(target)s',
+		'casechecker-delete-reason': u'Wyterleitig uf %(target)s mit gmischlete kyrillischen un latynische Zeiche.',
+		'casechecker-rename': u'Bot: Umnännig vu gmischlete Schrybige',
+	},
 	'ar': {
 		'casechecker-replacement-summary': u'استبدالات الحالة',
 		'casechecker-rename': u'بوت: اسم لحالة مخلوطة',
@@ -67,6 +75,11 @@ msg = {
 		'casechecker-delete-reason': u'Weiterleitung auf %(target)s mit gemischten kyrillischen und lateinischen Zeichen.',
 		'casechecker-rename': u'Bot: Umbenennung von gemischten Schreibungen',
 	},
+	# Author: Fitoschido
+	'es': {
+		'casechecker-delete-summary': u'Robot: esta redirección contiene caracteres cirílicos y latinos que lucen idénticos',
+		'casechecker-delete-reason': u'Esta redirección solía apuntar a %(target)s',
+	},
 	# Author: Reza1615
 	'fa': {
 		'casechecker-replacement-summary': u'ربات: مورد تعویض:',
@@ -98,7 +111,22 @@ msg = {
 		'casechecker-delete-summary': u'Bot: Esta redirección contén letras cirílicas e latinas idénticas no título',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Esta redirección apuntaba a "%(target)s"',
-		'casechecker-rename': u'Bot: renomeado de caso mixto',
+		'casechecker-rename': u'Bot: Cambio o nome con mestura de maiúsculas e minúsculas',
+	},
+	# Author: EagerLin
+	'hak': {
+		'casechecker-replacement-summary': u'機器人：案件替換',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'這重定向用來指向％（目標）',
+		'casechecker-rename': u'機器人：混合大小寫的命名',
+	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'casechecker-replacement-summary': u'बॉट: केस (case) प्रतिस्थापन :',
+		'casechecker-delete-summary': u'बॉट: इस पुनर्निर्देशन के शीर्षक में सामान दिखने वाले सिरिलिक और लैटिन वर्ण हैं',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'यह अनुप्रेषण पहले %(target)s को पॉइंट करता था',
+		'casechecker-rename': u'बॉट: मिश्रित केस का नाम बदला',
 	},
 	# Author: Michawiki
 	'hsb': {
@@ -134,6 +162,14 @@ msg = {
 		'casechecker-delete-reason': u'Dës Viruleedung huet op %(target)s gewisen',
 		'casechecker-rename': u'Bot: Ëmbenenne vu gemëschte Schreifweisen',
 	},
+	# Author: Jagwar
+	'mg': {
+		'casechecker-replacement-summary': u'Rôbô: Fanovana ny toe-tsoratra:',
+		'casechecker-delete-summary': u'Rôbô: misy litera sirilìka ary latina mitovy endrika amin\'ny lohateniny ity fihodinana ity',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Nanondro an\'i %(target)s ity fihodinana ity',
+		'casechecker-rename': u'Rôbô: Fiovana anarana amin\'ny renisoratra sy zana-tsoratra mifangaro',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'casechecker-replacement-summary': u'Бот: Замени на големи/мали букви:',
@@ -141,6 +177,14 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Пренасочувањето претходно водеше кон %(target)s',
 		'casechecker-rename': u'Бот: преименување со мешани големи/мали букви',
+	},
+	# Author: Anakmalaysia
+	'ms': {
+		'casechecker-replacement-summary': u'Bot: Menukarkan Besar Kecil Huruf:',
+		'casechecker-delete-summary': u'Bot: Lencongan ini mengandungi huruf-huruf Siril dan Rumi yang tampak seiras di dalam tajuknya',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Lencongan ini pernah menuju ke %(target)s',
+		'casechecker-rename': u'Bot: menukar nama campur kecil besar huruf',
 	},
 	# Author: सरोज कुमार ढकाल
 	'ne': {
@@ -168,7 +212,9 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Această redirecționare trimitea către %(target)s',
 	},
+	# Author: Okras
 	'ru': {
+		'casechecker-replacement-summary': u'Бот: Замены регистра:',
 		'casechecker-delete-summary': u'бот: Перенаправление содержит смесь кириллицы и латиницы в названии',
 	},
 	# Author: Jopparn

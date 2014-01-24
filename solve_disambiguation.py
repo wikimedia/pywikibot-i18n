@@ -692,16 +692,17 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(onbekend)',
 		'solve_disambiguation-links-removed': u'Bot-ehölpen deurverwiezing: [[%(from)s]] - Verwiezing(en) vortedaon',
 	},
+	# Author: Krish Dulal
 	# Author: RajeshPandey
 	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'solve_disambiguation-redirect-removed': u'रोबोट-सहायक अस्पष्ट: %(from)s लाई - लिङ्क(हरु) हटाइयो',
-		'solve_disambiguation-redirect-resolved': u'रोबोट-सहायक अस्पष्ट: %(from)sलाई - लिङ्क(हरु) लाइ %(to)s मा परिवर्तन गरियो',
-		'solve_disambiguation-links-resolved': u'रोबोट-सहायक अस्पष्ट: %(from)s बाट - लिङ्क(हरु) लाइ %(to)s मा परिवर्तन गरियो',
+		'solve_disambiguation-redirect-removed': u'रोबोट-सहायक अस्पष्टता: %(from)s - लिङ्क(हरू) हटाइयो',
+		'solve_disambiguation-redirect-resolved': u'रोबोट-सहायक अस्पष्टता: %(from)sलाई - लिङ्क(हरू) लाई  %(to)s मा परिवर्तन गरियो',
+		'solve_disambiguation-links-resolved': u'रोबोट-सहायक अस्पष्टता: %(from)s बाट - लिङ्क(हरू)लाई %(to)s मा परिवर्तन गरियो',
 		'solve_disambiguation-redirect-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)sलाई - विशेषज्ञ को ध्यानाकर्षण गराउँदै',
 		'solve_disambiguation-adding-dn-template': u'रोबोट-सहायक अस्पष्ट: %(from)sलाई - विशेषज्ञको ध्यानाकर्षण गराउँदै',
 		'solve_disambiguation-unknown-page': u'(अज्ञात)',
-		'solve_disambiguation-links-removed': u'रोबोट-सहायक अस्पष्टता: %(from)sलाई - लिङ्क(हरु) हटाइयो',
+		'solve_disambiguation-links-removed': u'रोबोट-सहायक अस्पष्टता: %(from)sलाई - लिङ्क(हरू) हटाइयो',
 	},
 	# Author: Eukesh
 	'new': {

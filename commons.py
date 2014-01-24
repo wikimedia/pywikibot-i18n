@@ -174,6 +174,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|הקובץ]] הועבר [[:commons:File:%(commonsfile)s|לוויקישיתוף]].',
 		'commons-file-now-available': u'הקובץ זמין כעת [[:commons:File:%(commonsfile)s|בוויקישיתוף]].',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'commons-file-moved': u'[[:File:%(localfile)s|फ़ाइल]] को [[:commons:File:%(commonsfile)s|कॉमन्स]] पर स्थानांतरित किया गया।',
+		'commons-file-now-available': u'फ़ाइल अब [[:commons:File:%(commonsfile)s|विकिमीडिया कॉमन्स]] पर उपलब्ध है।',
+	},
 	# Author: Michawiki
 	'hsb': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Dataja]] je so do [[:commons:File:%(commonsfile)s|commons]] přesunyła.',

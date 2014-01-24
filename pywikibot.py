@@ -298,6 +298,7 @@ msg = {
 		'pywikibot-enter-category-name': u'Insira o nome da categoría:',
 		'pywikibot-enter-finished-browser': u'Prema na tecla "Intro" cando remate no navegador.',
 	},
+	# Author: EagerLin
 	# Author: Jetlag
 	'hak': {
 		'pywikibot-enter-xml-filename': u'請輸入XML Dump个文件名稱：',
@@ -754,6 +755,11 @@ msg = {
 		'pywikibot-enter-new-text': u'Xin vui lòng nhập văn bản mới:',
 		'pywikibot-enter-category-name': u'Xin vui lòng nhập tên thể loại:',
 		'pywikibot-enter-finished-browser': u'Bấm Enter sau khi sửa đổi xong trong trình duyệt.',
+	},
+	# Author: פוילישער
+	'yi': {
+		'pywikibot-enter-new-text': u'ביטע איינגעבן דעם נינם טעקסט:',
+		'pywikibot-enter-category-name': u'ביטע אײַנגעבן דעם קאטעגאריע נאמען:',
 	},
 	# Author: Anakmalaysia
 	# Author: Qiyue2001

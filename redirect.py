@@ -20,7 +20,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Edit summary when the bot fixes a broken redirect to a moved page whose origin has been deleted.\nParameters:\n* <code>%(to)s</code>: the new redirect target, as a wiki link.',
 		'redirect-fix-loop': u'Edit summary when the bot fixes redirect loops. <code>%(to)s</code> displays the new redirect target as a wiki link.',
 		'redirect-remove-loop': u'Edit summary when the bot tags a redirect loop for speedy deletion.',
-		'redirect-broken-redirect-template': u'NOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.\n\n{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}',
+		'redirect-broken-redirect-template': u'{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}\n\nNOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag.',
 	},
 	# Author: Csisc
 	'aeb': {
@@ -42,6 +42,7 @@ msg = {
 	'als': {
 		'redirect-fix-double': u'Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s',
 		'redirect-remove-broken': u'Bötli: Wyterleitigsziil git s nit',
+		'redirect-fix-broken-moved': u'Bot: Kaputtigi Wyterleitig uf di verschobe Ziilsyte %(to)s repariert',
 		'redirect-fix-loop': u' Bot: Wyterleitigschlupf uf %(to)s korrigiert',
 		'redirect-remove-loop': u'Bot: Wyterleitig goht im ringrum',
 		'redirect-broken-redirect-template': u'{{delete}}Wyterleitig wo kaputt isch',
@@ -139,6 +140,7 @@ msg = {
 		'redirect-fix-double': u'বট: %(to)s-এ দ্বিপুনর্নির্দেশনা ঠিক করছে',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Fohanno
 	# Author: Fulup
 	# Author: Gwenn-Ael
 	# Author: Y-M D
@@ -148,6 +150,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s',
 		'redirect-fix-loop': u'Robot : O kempenn al lagadenn adkas war-zu %(to)s',
 		'redirect-remove-loop': u'Robot: Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: CERminator
 	# Author: Edinwiki
@@ -240,6 +243,10 @@ msg = {
 		'redirect-fix-loop': u'Boti %(to)s rê hetanayışo dılet deke',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt.',
 		'redirect-broken-redirect-template': u'{{bestere|m1}}',
+	},
+	# Author: Derbeth
+	'dsb': {
+		'redirect-broken-redirect-template': u'{{lašowaś|defektne dalejpósrědnjenje}}',
 	},
 	# Author: Evropi
 	# Author: Geraki
@@ -391,6 +398,10 @@ msg = {
 		'redirect-fix-double': u'Bot: Popravak dvostrukih preusmjeravanja → %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
+	},
+	# Author: Michawiki
+	'hsb': {
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Bináris
 	# Author: Dj
@@ -685,6 +696,7 @@ msg = {
 		'redirect-fix-double': u'Bot: E doppelte Waiterlaitung vabessat zu %(to)s',
 	},
 	# Author: BeginaFelicysym
+	# Author: Derbeth
 	# Author: Nemo bis
 	# Author: Sp5uhe
 	# Author: Ty221
@@ -694,7 +706,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: Poprawa urwanych przekierowań - przeniesiono cel do %(to)s',
 		'redirect-fix-loop': u'Robot: Naprawa pętli przekierowań do %(to)s',
 		'redirect-remove-loop': u'Robot: pętla przekierowań',
-		'redirect-broken-redirect-template': u'{{ek|przekierowanie do usuniętej lub nieistniejącej stron}}',
+		'redirect-broken-redirect-template': u'{{ek|przekierowanie do usuniętej lub nieistniejącej strony}}',
 	},
 	# Author: Borichèt
 	# Author: Dragonòt
@@ -844,6 +856,7 @@ msg = {
 	'th': {
 		'redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s',
 		'redirect-remove-broken': u'โรบอต: หน้าเปลี่ยนทางเสีย',
+		'redirect-fix-broken-moved': u'โรบอต: แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s',
 		'redirect-fix-loop': u'โรบอต: แก้หน้าเปลี่ยนทางวนรอบ → %(to)s',
 		'redirect-remove-loop': u'โรบอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ',
 		'redirect-broken-redirect-template': u'{{ลบ|หน้าเปลี่ยนทางเสีย}}',

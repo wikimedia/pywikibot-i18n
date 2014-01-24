@@ -71,6 +71,7 @@ msg = {
 		'category-replacing': u'Bötli: Kategori %(oldcat)s uustuscht dur %(newcat)s',
 		'category-removing': u'Bötli: us %(oldcat)s  uusegnuu',
 		'category-was-moved': u'Bötli: Kategori isch no [[:Category:%(newcat)s|%(title)s]] verschobe wore',
+		'category-renamed': u'Bot: Verschobe vu %s. Autore: %s',
 		'category-section-title': u'Versionsgschicht vu dr urspringlige %(oldcat)s',
 		'category-listifying': u'Bötli: Lischt us %(fromcat)s (%(num)d Yytreg)',
 	},
@@ -1097,8 +1098,8 @@ msg = {
 	# Author: Jagwar
 	# Author: Xqt
 	'mg': {
-		'category-version-history': u'Rôbô: fitahirizana ny tantaran\'ny santiôna ny  %(oldcat)s taloha',
-		'category-changing': u'Rôbô : fanovana an\'i %(oldcat)s à %(newcat)s',
+		'category-version-history': u'Rôbô: fitahirizana ny tantaran\'ny versiona ny %(oldcat)s taloha',
+		'category-changing': u'Rôbô : fanovana avy amin\'i %(oldcat)s ho an\'i %(newcat)s',
 		'category-adding': u'Rôbô: Nanampy [[:Category:%(newcat)s]]',
 		'category-also-in': u'(ao amin\'i %(alsocat)s koa)',
 		'category-was-disbanded': u'Rôbô : Voafafa ny sokajy',

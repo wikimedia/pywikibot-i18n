@@ -247,6 +247,13 @@ msg = {
 		'featured-featured': u'בוט: קישור לערך מומלץ עבור %(page)s',
 		'featured-former': u'בוט: הדף %(page)s הוא ערך מומלץ לשעבר',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'featured-good': u'रोबोट: %(page)s एक अच्छा लेख है',
+		'featured-list': u'रोबोट: %(page)s एक निर्वाचित सूची है',
+		'featured-featured': u'रोबोट: %(page)s एक निर्वाचित लेख है',
+		'featured-former': u'रोबोट: %(page)s एक पूर्व निर्वाचित लेख है',
+	},
 	'hr': {
 		'featured-featured': u'Bot: Interwiki za izabrane članke za %(page)s',
 	},

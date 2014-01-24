@@ -137,6 +137,10 @@ msg = {
 	'he': {
 		'djvutext-creating': u'בוט: יוצר דף עם טקסט שיוצר מ־DjVu',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'djvutext-creating': u'रोबोट: DjVu से निकाले गए पाठ के साथ पृष्ठ बनाया जा रहा है',
+	},
 	# Author: Dj
 	'hu': {
 		'djvutext-creating': u'Bot: lap létrehozása DjVu-ból kivonatolt szövegből',

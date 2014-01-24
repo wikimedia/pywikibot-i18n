@@ -153,6 +153,10 @@ msg = {
 	'he': {
 		'clean_sandbox-cleaned': u'בוט: דף זה ינוקה אוטומטית.',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'clean_sandbox-cleaned': u'रोबोट: स्वचालित रूप से साफ किया',
+	},
 	# Author: SpeedyGonsales
 	'hr': {
 		'clean_sandbox-cleaned': u'Bot: Automatsko čišćenje stranice za testiranje',

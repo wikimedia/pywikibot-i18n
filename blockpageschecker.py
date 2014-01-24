@@ -6,12 +6,20 @@ msg = {
 	'qqq': {
 		'blockpageschecker-summary': u'Edit summary for blockpageschecker report',
 	},
+	# Author: Als-Holder
+	'als': {
+		'blockpageschecker-summary': u'Bot: Veralteti Vorlag glescht',
+	},
 	'ar': {
 		'blockpageschecker-summary': u'بوت: حذف قالب قديم',
 	},
 	# Author: Xuacu
 	'ast': {
 		'blockpageschecker-summary': u'Robó: Desaniciando plantía anticuada',
+	},
+	# Author: Red Winged Duck
+	'be-x-old': {
+		'blockpageschecker-summary': u'Робат: выдаленьне састарэлага шаблёну',
 	},
 	# Author: Fohanno
 	'br': {
@@ -73,8 +81,16 @@ msg = {
 	'gl': {
 		'blockpageschecker-summary': u'Bot: Retiro un modelo obsoleto',
 	},
+	# Author: EagerLin
+	'hak': {
+		'blockpageschecker-summary': u'機械人: 移除過期个保護模板',
+	},
 	'he': {
 		'blockpageschecker-summary': u'בוט: מסיר תבנית שעבר זמנה',
+	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'blockpageschecker-summary': u'बॉट:अप्रचलित साँचो को हटाया जा रहा है',
 	},
 	# Author: M hamlet
 	'hy': {
@@ -104,6 +120,10 @@ msg = {
 	# Author: Robby
 	'lb': {
 		'blockpageschecker-summary': u'Bot: Vereelste Schabloun gouf geläscht',
+	},
+	# Author: Jagwar
+	'mg': {
+		'blockpageschecker-summary': u'Rôbô: Mamafa endrika efa tola',
 	},
 	# Author: Bjankuloski06
 	'mk': {

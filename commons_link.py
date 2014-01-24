@@ -8,6 +8,11 @@ msg = {
 		'commons_link-template-added': u'Edit summary when the bot adds a commons template to a page.',
 		'commons_link-cat-template-added': u'Edit summary when the bot adds a commonscat template to a page.',
 	},
+	# Author: Als-Holder
+	'als': {
+		'commons_link-template-added': u'Bot: Commons-Vorlag yybunde',
+		'commons_link-cat-template-added': u'Bot: Commonscat-Vorlag yybunde',
+	},
 	'ar': {
 		'commons_link-template-added': u'روبوت: تضمين قالب كومنز',
 		'commons_link-cat-template-added': u'روبوت: تضمين قالب تصنيف كومنز',
@@ -69,6 +74,11 @@ msg = {
 		'commons_link-template-added': u'בוט: מוסיף תבנית Commons',
 		'commons_link-cat-template-added': u'בוט: מוסיף תבנית Commonscat',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'commons_link-template-added': u'रोबोट: कॉमन्स साँचे को जोड़ा',
+		'commons_link-cat-template-added': u'रोबोट: commonscat साँचे को जोड़ा',
+	},
 	# Author: McDutchie
 	'ia': {
 		'commons_link-template-added': u'Robot: insere un patrono de Commons',
@@ -94,10 +104,20 @@ msg = {
 		'commons_link-template-added': u'Bot:Commons-Schabloun abannen',
 		'commons_link-cat-template-added': u'Bot:Commonscat-Schabloun abannen',
 	},
+	# Author: Jagwar
+	'mg': {
+		'commons_link-template-added': u'Rôbô: Mampiditra ny endrika commons',
+		'commons_link-cat-template-added': u'Rôbô: Mampiditra ny endrika commonscat',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'commons_link-template-added': u'Робот: Вклучувам шаблон од Ризницата',
 		'commons_link-cat-template-added': u'Робот: Го вклучувам шаблонот за врска до ризницата (Commonscat)',
+	},
+	# Author: Anakmalaysia
+	'ms': {
+		'commons_link-template-added': u'Robot: Menyisipkan templat Commons',
+		'commons_link-cat-template-added': u'Robot: Menyisipkan templat Commonscat',
 	},
 	# Author: सरोज कुमार ढकाल
 	'ne': {
@@ -123,6 +143,11 @@ msg = {
 	'vi': {
 		'commons_link-template-added': u'Bot: Gắn bản mẫu Commons',
 		'commons_link-cat-template-added': u'Bot: Gắn bản mẫu Thể loại Commons',
+	},
+	# Author: פוילישער
+	'yi': {
+		'commons_link-template-added': u'באט: איינשליסן קאמאנס מוסטער',
+		'commons_link-cat-template-added': u'באט: איינשליסן קאמאנסקאט מוסטער',
 	},
 	'zh': {
 		'commons_link-template-added': u'機器人: 增加commons模板',

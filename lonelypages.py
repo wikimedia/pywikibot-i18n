@@ -8,9 +8,15 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Edit summary when adding lonely page to disambiguation page',
 		'lonelypages-comment-add-template': u'Edit summary when adding template to orphan page',
 	},
+	# Author: Als-Holder
+	'als': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Begriffsklerigssyte zuefiege',
+		'lonelypages-comment-add-template': u'Bot: Verwaisti Syte, Vorlag zuegfiegt',
+	},
+	# Author: Meno25
 	'ar': {
-		'lonelypages-comment-add-disambig-template': u'بوت: إضافة صفحة توضيح',
-		'lonelypages-comment-add-template': u'بوت: صفحة يتيمة، إضافة قالب',
+		'lonelypages-comment-add-disambig-template': u'روبوت: إضافة صفحة توضيح',
+		'lonelypages-comment-add-template': u'روبوت: صفحة يتيمة، إضافة قالب',
 	},
 	# Author: Xuacu
 	'ast': {
@@ -40,6 +46,11 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Bot: Füge Begriffsklärungsseite hinzu',
 		'lonelypages-comment-add-template': u'Bot: Verwaiste Seite, füge Vorlage hinzu',
 	},
+	# Author: Fitoschido
+	'es': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Adición de una página de desambiguación',
+		'lonelypages-comment-add-template': u'Robot: Página huérfana, adición de plantilla',
+	},
 	# Author: Reza1615
 	'fa': {
 		'lonelypages-comment-add-disambig-template': u'ربات:افزودن صفحات ابهام‌زدائی',
@@ -56,9 +67,10 @@ msg = {
 		'lonelypages-comment-add-template': u'Bot: Ferläät sidj, skriiw en föörlaag diartu',
 	},
 	# Author: Elisardojm
+	# Author: Toliño
 	'gl': {
-		'lonelypages-comment-add-disambig-template': u'Bot: Engadindo unha páxina de desambiguación',
-		'lonelypages-comment-add-template': u'Bot: Páxina orfa, engadido modelo',
+		'lonelypages-comment-add-disambig-template': u'Bot: Engado unha páxina de homónimos',
+		'lonelypages-comment-add-template': u'Bot: Páxina orfa, engado un modelo',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -88,10 +100,20 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Bot: Eng Homonymie-Säit derbäisetzen',
 		'lonelypages-comment-add-template': u'Bot: Weesesäit, Schabloun derbäigesat',
 	},
+	# Author: Jagwar
+	'mg': {
+		'lonelypages-comment-add-disambig-template': u'Rôbô: Manampy pejy mioko',
+		'lonelypages-comment-add-template': u'Rôbô: Pejy kamboty, fanampiana endrika',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'lonelypages-comment-add-disambig-template': u'Робот: Додавам појаснителна страница',
 		'lonelypages-comment-add-template': u'Робот: Осамена страница, додавам шаблон',
+	},
+	# Author: Anakmalaysia
+	'ms': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Mewujudkan laman nyahkekaburan',
+		'lonelypages-comment-add-template': u'Robot: Membubuh templat untuk laman yatim',
 	},
 	# Author: Siebrand
 	'nl': {

@@ -145,6 +145,10 @@ msg = {
 	'he': {
 		'fixing_redirects-fixing': u'בוט: מתקן הפניות',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'fixing_redirects-fixing': u'बॉट:पुनर्निर्देशन ठीक कर रहा है',
+	},
 	# Author: Ex13
 	'hr': {
 		'fixing_redirects-fixing': u'Bot: popravljanje preusmjeravanja',

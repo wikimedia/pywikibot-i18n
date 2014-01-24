@@ -30,11 +30,12 @@ msg = {
 		'delete-from-file': u'Robot: skrap \'n lys van lêers.',
 	},
 	# Author: Als-Chlämens
+	# Author: Als-Holder
 	'als': {
 		'delete-images': u'Bötli: due alli Bilder uff de Syte %(page)s lösche',
 		'delete-referring-pages': u'Bötli: due alli Syte, wo uff %(page)s verwyyse, lösche',
 		'delete-from-category': u'Bötli: Due alli Syte in de Kategori %(page)s lösche',
-		'delete-from-file': u'Bötli: due e Lischt vo Dateie lösche',
+		'delete-from-file': u'Bot: Lischt vu Syte glescht.',
 		'delete-linked-pages': u'Bötli: Due alli Syte, wo uff %(page)s verlinkt sin, lösche',
 	},
 	# Author: Meno25
@@ -273,6 +274,7 @@ msg = {
 		'delete-from-file': u'Bot: Borro unha lista de páxinas.',
 		'delete-linked-pages': u'Bot: Borro todas as páxinas ligadas desde "%(page)s"',
 	},
+	# Author: EagerLin
 	# Author: Jetlag
 	'hak': {
 		'delete-images': u'機械人：刪除%(page)s上个所有圖像',
@@ -287,6 +289,14 @@ msg = {
 		'delete-from-category': u'בוט: מוחק את כל הדפים מהקטגוריה %(page)s.',
 		'delete-from-file': u'בוט: מוחק רשימת דפים מתוך קובץ.',
 		'delete-linked-pages': u'בוט: מוחק את כל הדפים המקושרים מהדף %(page)s.',
+	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'delete-images': u'रोबोट: पृष्ठ %(page)s से सभी चित्रों को हटाया जा रहा है',
+		'delete-referring-pages': u'रोबोट: %(page)s से जुड़े हुए सभी पन्नों को हटाया जा रहा है',
+		'delete-from-category': u'रोबोट: %(page)s श्रेणी से सभी पन्नों को हटाया जा रहा है',
+		'delete-from-file': u'रोबोट: पन्नों की सूची में से पृष्ठ हटाए जा रहे हैं।',
+		'delete-linked-pages': u'रोबोट: %(page)s से लिंक किये गए सभी पन्नों को हटाया जा रहा है',
 	},
 	# Author: Dj
 	'hu': {
@@ -430,7 +440,7 @@ msg = {
 		'delete-images': u'Rôbô : Mamafa ny rakitra rehetra ao amin\'i %(page)s',
 		'delete-referring-pages': u'Rôbô : mamafa ny pejy rehetra mikasika an\'i %(page)s',
 		'delete-from-category': u'Rôbô : Mamafa ny pejy rehetra ao amin\'ny sokajy %(page)s',
-		'delete-from-file': u'Rôbô : Famafana lisi-drakitra.',
+		'delete-from-file': u'Rôbô : Famafana lisi-pejy.',
 		'delete-linked-pages': u'Rôbô : Mamafa ny pejy rehetra misy fifandraisana amin\'i %(page)s',
 	},
 	# Author: Luthfi94
@@ -741,7 +751,7 @@ msg = {
 		'delete-images': u'באט: אויסמעקן אַלע בילדער אויפן בלאַט %(page)s',
 		'delete-referring-pages': u'באט: אויסמעקן אלע בלעטער וואס פארבינדן צו  %(page)s',
 		'delete-from-category': u'באט: אויסמעקן אלע בלעטער פון קאטעגאריע  %(page)s',
-		'delete-from-file': u'באט: אויסמעקן א ליסטע פון טעקעס.',
+		'delete-from-file': u'באט: אויסמעקן א ליסטע פון בלעטער.',
 		'delete-linked-pages': u'באט: אויסמעקן אלע בלעטער וואס זענען פארבונדן פון  %(page)s',
 	},
 	# Author: Anakmalaysia

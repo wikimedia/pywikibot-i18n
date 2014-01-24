@@ -7,6 +7,10 @@ msg = {
 	'qqq': {
 		'revertbot-revert': u'Edit summary when the bot reverts an edit. Parameters: revid %(revid)s, author %(author)s, timestamp %(timestamp)s',
 	},
+	# Author: Als-Holder
+	'als': {
+		'revertbot-revert': u'Bot: Zruckgsetzt uf d Version %(revid)s vu %(author)s vum %(timestamp)s',
+	},
 	# Author: Xuacu
 	'ast': {
 		'revertbot-revert': u'Robó:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s',
@@ -44,8 +48,9 @@ msg = {
 		'revertbot-revert': u'Bot: Turagsaat üüb det werjuun %(revid)s faan %(author)s faan a %(timestamp)s',
 	},
 	# Author: Elisardojm
+	# Author: Toliño
 	'gl': {
-		'revertbot-revert': u'Bot:Revertido á revisión %(revid)s de %(author)s do %(timestamp)s',
+		'revertbot-revert': u'Bot: Reverto á revisión %(revid)s feita por %(author)s o %(timestamp)s',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -55,13 +60,25 @@ msg = {
 	'it': {
 		'revertbot-revert': u'Bot: ripristinata la versione %(revid)s di %(author)s del %(timestamp)s',
 	},
+	# Author: Hym411
+	'ko': {
+		'revertbot-revert': u'봇: %(author)s의 %(timestamp)s 에 작성한 %(revid)s 판으로 되돌림',
+	},
 	# Author: Robby
 	'lb': {
 		'revertbot-revert': u'Bot: Zréckgesat op d\'Versioun %(revid)s vum %(author)s vum %(timestamp)s',
 	},
+	# Author: Jagwar
+	'mg': {
+		'revertbot-revert': u'Rôbô: Miverina amin\'ny fiovan\'i %(revid)s nataon\'i %(author)s tamin\'ny %(timestamp)s',
+	},
 	# Author: Bjankuloski06
 	'mk': {
 		'revertbot-revert': u'Бот: Враќам на ревизијата %(revid)s на %(author)s од %(timestamp)s',
+	},
+	# Author: Anakmalaysia
+	'ms': {
+		'revertbot-revert': u'Bot: Mengembalikan kepada %(revid)s oleh %(author)s pada %(timestamp)s',
 	},
 	# Author: Siebrand
 	'nl': {

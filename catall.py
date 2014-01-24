@@ -264,9 +264,10 @@ msg = {
 	'nds-nl': {
 		'catall-changing': u'Bot: wieziging van kategorieën',
 	},
+	# Author: Krish Dulal
 	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'catall-changing': u'रोबोट : श्रेणीहरु बदल्दै',
+		'catall-changing': u'रोबोट : श्रेणीहरू बदल्दै',
 	},
 	# Author: Eukesh
 	'new': {

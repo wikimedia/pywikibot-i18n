@@ -184,7 +184,7 @@ msg = {
 	},
 	# Author: Snævar
 	'is': {
-		'table2wiki-warnings': u'Handvirkt vélmenni: Málskipan töflu uppfært - {{PLURAL:count|ein viðvörun|%(count)d viðvaranir}}!',
+		'table2wiki-warnings': u'Handvirkt vélmenni: Málskipan töflu uppfært - %(count)d {{PLURAL:count|viðvörun|viðvaranir}}!',
 		'table2wiki-no-warning': u'Handvirkt vélmenni: Málskipan töflu uppfærð',
 	},
 	# Author: Gianfranco

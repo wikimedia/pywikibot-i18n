@@ -222,6 +222,10 @@ msg = {
 	'he': {
 		'add_text-adding': u'בוט: מוסיף %(adding)s',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'add_text-adding': u'रोबोट:%(adding)s जोड़ रहा है',
+	},
 	'hr': {
 		'add_text-adding': u'robot Dodaje %(adding)s',
 	},

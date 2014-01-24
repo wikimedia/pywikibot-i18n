@@ -12,6 +12,13 @@ msg = {
 		'weblinkchecker-summary': u'Edit summary for weblinkchecker report',
 		'weblinkchecker-report': u'The weblinkchecker report',
 	},
+	# Author: Als-Holder
+	'als': {
+		'weblinkchecker-archive_msg': u'D Websyte isch vum Internet Archive gspycheret wore. Bitte due u. U. en archivierti Version verlinke: [%(URL)s].',
+		'weblinkchecker-caption': u'Tote Weblink',
+		'weblinkchecker-summary': u'Bot: Nit verfiegbari Weblink ufzelle',
+		'weblinkchecker-report': u'Bi mehrere automatisierte Botlaif isch dä Weblink as nit verfiegbar erkännt wore. Bitte iberprief, eb s dr Link wirkli nimi git, un due ne korrigiere oder imfall uuseneh!',
+	},
 	# Author: Meno25
 	# Author: Zaher kadour
 	'ar': {
@@ -121,10 +128,11 @@ msg = {
 	'eo': {
 		'weblinkchecker-caption': u'Neenretiĝa ligilo',
 	},
+	# Author: Fitoschido
 	# Author: Vivaelcelta
 	'es': {
 		'weblinkchecker-archive_msg': u'Internet Archive guardó tu página web. Por favor, considera enlazar hacia una versión archivada apropiada: [%(URL)s].',
-		'weblinkchecker-caption': u'Enlace muerto',
+		'weblinkchecker-caption': u'Enlace roto',
 		'weblinkchecker-summary': u'Bot: Señalo un enlace externo no disponible',
 		'weblinkchecker-report': u'Durante varias ejecuciones automáticas, el bot constató que el siguiente enlace externo no está disponible. ¡Comprueba si el enlace está efectivamente caído y corrígelo o retíralo!',
 	},
@@ -281,7 +289,7 @@ msg = {
 	},
 	# Author: Jagwar
 	'mg': {
-		'weblinkchecker-archive_msg': u'Notahirizina tao amin\'ny Internet Archive ilay pejy. Mety ilaina ny mampanondro ny rohy mankany amin\'ilay santiôna voatahiry : [%(URL)s]',
+		'weblinkchecker-archive_msg': u'Notahirizina tao amin\'ny Internet Archive ilay pejy. Mety ilaina ny mampanondro ny rohy mankany amin\'ilay versiona voatahiry : [%(URL)s]',
 		'weblinkchecker-caption': u'Roh maty',
 		'weblinkchecker-summary': u'Rôbô : Mampilaza ny rohy ivelany tsy afaka tsidihana',
 		'weblinkchecker-report': u'Nandritry ny fitsidihana maro natao tamin\'ny alalan\'ny robo dia tsy voasokatra ilay rohy. Jereo azafady raha tena maty ilay rohy, ary raha tena maty ilay izy dia ahitsio na esory.',

@@ -92,9 +92,10 @@ msg = {
 		'unlink-unlinking': u'Roboto: Malligas "%s"',
 	},
 	# Author: Armando-Martin
+	# Author: Fitoschido
 	# Author: Xqt
 	'es': {
-		'unlink-unlinking': u'Bot: Eliminando el enlace "%s"',
+		'unlink-unlinking': u'Robot: Desvinculación de «%s»',
 	},
 	# Author: Pikne
 	'et': {

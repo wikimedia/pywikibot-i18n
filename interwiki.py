@@ -690,7 +690,9 @@ msg = {
 		'interwiki-removing-modifying': u'בוט מסיר: %(removing)s משנה: %(modifying)s',
 		'interwiki-modifying-from': u'בוט: משנה %(from)s‏ ← %(modifying)s',
 	},
+	# Author: Shubhamkanodia
 	'hi': {
+		'interwiki-modifying': u'रोबोट: %(modifying)s संशोधित कर रहा है',
 		'interwiki-modifying-from': u'रोबॉट: %(from)s की जगह %(modifying)s जोड़ रहा है',
 	},
 	# Author: Hugo.arg
@@ -1100,6 +1102,7 @@ msg = {
 		'interwiki-removing': u'бот нардазе: %(removing)s',
 		'interwiki-removing-modifying': u'бот нардазе: %(removing)s полафтозе: %(modifying)s',
 	},
+	# Author: Jagwar
 	'mg': {
 		'interwiki-modifying': u'Rôbô Nanova: %(modifying)s',
 		'interwiki-adding-modifying': u'Rôbô Nanampy: %(adding)s Nanova: %(modifying)s',
@@ -1108,7 +1111,7 @@ msg = {
 		'interwiki-adding': u'Rôbô Nanampy: %(adding)s',
 		'interwiki-removing': u'Rôbô Nanala: %(removing)s',
 		'interwiki-removing-modifying': u'Rôbô Nanala: %(removing)s Nanova: %(modifying)s',
-		'interwiki-modifying-from': u'Rôbô : fanovana an\'i %(from)s à %(modifying)s',
+		'interwiki-modifying-from': u'Rôbô : fanovana avy amin\'i %(from)s ho an\'i %(modifying)s',
 	},
 	# Author: Xqt
 	'mhr': {

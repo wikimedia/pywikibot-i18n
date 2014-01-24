@@ -138,6 +138,10 @@ msg = {
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'editarticle-edit': u'रोबोट के साथ मैनुअल संपादन: %(description)s',
+	},
 	# Author: Michawiki
 	'hsb': {
 		'editarticle-edit': u'Manuelna změna přez bot: %(description)s',

@@ -341,6 +341,14 @@ msg = {
 		'archivebot-archive-full': u'ארכיון מלא',
 		'archivebot-archive-summary': u'רובוט: ארכוב %(count)d שיחות מ[[%(from)s]]',
 	},
+	# Author: Shubhamkanodia
+	'hi': {
+		'archivebot-older-than': u'इससे पुराना',
+		'archivebot-page-summary': u'रोबोट:%(count)d {{PLURAL:%(count)d|धागे|धागों}} को (%(why)s) %(archives)s में संगृहीत किया जा रहा है।',
+		'archivebot-archiveheader': u'{{वार्तापुरालेख}}',
+		'archivebot-archive-full': u'{{पुरालेख पूर्ण}}',
+		'archivebot-archive-summary': u'रोबोट:%(count)d {{PLURAL:%(count)d|धागे|धागों}} को [[%(from)s]] से संगृहीत किया जा रहा है।',
+	},
 	# Author: Thakurji
 	'hif': {
 		'archivebot-older-than': u'se purana',
