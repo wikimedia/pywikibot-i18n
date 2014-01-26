@@ -140,7 +140,6 @@ msg = {
 		'redirect-fix-double': u'বট: %(to)s-এ দ্বিপুনর্নির্দেশনা ঠিক করছে',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
-	# Author: Fohanno
 	# Author: Fulup
 	# Author: Gwenn-Ael
 	# Author: Y-M D
@@ -150,7 +149,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s',
 		'redirect-fix-loop': u'Robot : O kempenn al lagadenn adkas war-zu %(to)s',
 		'redirect-remove-loop': u'Robot: Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: CERminator
 	# Author: Edinwiki
@@ -398,10 +396,6 @@ msg = {
 		'redirect-fix-double': u'Bot: Popravak dvostrukih preusmjeravanja → %(to)s',
 		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu',
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
-	},
-	# Author: Michawiki
-	'hsb': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Bináris
 	# Author: Dj
