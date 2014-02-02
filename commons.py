@@ -282,7 +282,7 @@ msg = {
 	# Author: Bjankuloski06
 	'mk': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Податотеката]] е преместена на [[:commons:File:%(commonsfile)s|Ризницата]].',
-		'commons-file-now-available': u'Податотеката сега е достапна на [[:commons:File:%(commonsfile)s|Заедничката Ризница]].',
+		'commons-file-now-available': u'Податотеката сега е достапна на [[:commons:File:%(commonsfile)s|Ризницата]].',
 	},
 	# Author: Praveenp
 	'ml': {

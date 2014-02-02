@@ -1634,17 +1634,17 @@ msg = {
 	# Author: Lokal Profil
 	# Author: WikiPhoenix
 	'sv': {
-		'category-version-history': u'Robot: Sparar versionshistorik från tidigare %(oldcat)s',
-		'category-changing': u'Robot: Ändrar %(oldcat)s till %(newcat)s',
-		'category-adding': u'Robot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-version-history': u'Bot: Sparar versionshistorik från tidigare %(oldcat)s',
+		'category-changing': u'Bot: Ändrar %(oldcat)s till %(newcat)s',
+		'category-adding': u'Bot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(också i %(alsocat)s)',
-		'category-was-disbanded': u'Robot: Kategorin upplöstes',
-		'category-replacing': u'Robot: Ersätter kategorin %(oldcat)s med %(newcat)s',
-		'category-removing': u'Robot: Tar bort från %(oldcat)s',
-		'category-was-moved': u'Robot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]',
-		'category-renamed': u'Robot: Flyttad från %s. Författare: %s',
+		'category-was-disbanded': u'Bot: Kategorin upplöstes',
+		'category-replacing': u'Bot: Ersätter kategorin %(oldcat)s med %(newcat)s',
+		'category-removing': u'Bot: Tar bort från %(oldcat)s',
+		'category-was-moved': u'Bot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: Flyttad från %s. Författare: %s',
 		'category-section-title': u'Sidhistorik från tidigare %(oldcat)s',
-		'category-listifying': u'Robot: Skapar en lista från %(fromcat)s (%(num)d)',
+		'category-listifying': u'Bot: Skapar en lista från %(fromcat)s (%(num)d)',
 	},
 	# Author: Kwisha
 	# Author: Lloffiwr

@@ -84,6 +84,10 @@ msg = {
 	'nl': {
 		'revertbot-revert': u'Robot: teruggedraaid naar versie %(revid)s door %(author)s op %(timestamp)s',
 	},
+	# Author: Okras
+	'ru': {
+		'revertbot-revert': u'Бот: возврат к версии %(revid)s участника %(author)s от %(timestamp)s',
+	},
 	# Author: Andriykopanytsia
 	'uk': {
 		'revertbot-revert': u'Бот: Повернулися до редакції %(revid)s від %(author)s за %(timestamp)s',

@@ -35,6 +35,11 @@ msg = {
 		'casechecker-delete-reason': u'Esta redireición antes apuntaba a "%(target)s"',
 		'casechecker-rename': u'Robó: renomáu l\'entemecíu de mayúscules/minúscules',
 	},
+	# Author: Red Winged Duck
+	'be-x-old': {
+		'casechecker-replacement-summary': u'Робат: замены рэгістру:',
+		'casechecker-delete-summary': u'Робат: гэтае перанакіраваньне ўтрымлівае ў назьве сумесь кірылічных і лацінскіх літараў',
+	},
 	# Author: Edinwiki
 	'bs': {
 		'casechecker-replacement-summary': u'Bot: Izmjena malih/valikih slova:',
@@ -117,7 +122,7 @@ msg = {
 	'hak': {
 		'casechecker-replacement-summary': u'機器人：案件替換',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-		'casechecker-delete-reason': u'這重定向用來指向％（目標）',
+		'casechecker-delete-reason': u'這重定向用來指向％(target)s',
 		'casechecker-rename': u'機器人：混合大小寫的命名',
 	},
 	# Author: Shubhamkanodia
@@ -147,9 +152,10 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 	},
 	# Author: Hym411
+	# Author: Priviet
 	'ko': {
 		'casechecker-replacement-summary': u'로봇: 대소문자 교체:',
-		'casechecker-delete-summary': u'봇: 이 넘겨주기는 제목에 키릴 단어 또는 라틴 단어를 포함합니다.',
+		'casechecker-delete-summary': u'봇: 이 넘겨주기는 제목에 키릴 문자 또는 라틴 문자를 포함합니다.',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'이 넘겨주기는 %(target)s를 가리킵니다',
 		'casechecker-rename': u'로봇: 혼합된 대소문자 변경',
@@ -216,10 +222,16 @@ msg = {
 	'ru': {
 		'casechecker-replacement-summary': u'Бот: Замены регистра:',
 		'casechecker-delete-summary': u'бот: Перенаправление содержит смесь кириллицы и латиницы в названии',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Это перенаправление используется для указания на %(target)s',
+		'casechecker-rename': u'Бот: переименование смешанного регистра',
 	},
 	# Author: Jopparn
+	# Author: Lokal Profil
 	# Author: WikiPhoenix
 	'sv': {
+		'casechecker-replacement-summary': u'Bot: Ersätter versalisering',
+		'casechecker-delete-summary': u'Bot: Denna omdirigering innehåller kyrilliska och latinska bokstäver i titeln som är identiska till utseende',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Denna omdirigering pekade tidigare på %(target)s',
 	},

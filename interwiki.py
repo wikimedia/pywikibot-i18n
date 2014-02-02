@@ -1677,15 +1677,16 @@ msg = {
 		'interwiki-removing': u'bot Miceun: %(removing)s',
 		'interwiki-removing-modifying': u'bot Miceun: %(removing)s Ngarobih: %(modifying)s',
 	},
+	# Author: Lokal Profil
 	'sv': {
-		'interwiki-modifying': u'robot Ändrar: %(modifying)s',
-		'interwiki-adding-modifying': u'robot Lägger till: %(adding)s Ändrar: %(modifying)s',
-		'interwiki-adding-removing': u'robot Lägger till: %(adding)s Tar bort: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Lägger till: %(adding)s Tar bort: %(removing)s Ändrar: %(modifying)s',
-		'interwiki-adding': u'robot Lägger till: %(adding)s',
-		'interwiki-removing': u'robot Tar bort: %(removing)s',
-		'interwiki-removing-modifying': u'robot Tar bort: %(removing)s Ändrar: %(modifying)s',
-		'interwiki-modifying-from': u'Robot: Ändrar %(from)s till %(modifying)s',
+		'interwiki-modifying': u'Bot: Ändrar %(modifying)s',
+		'interwiki-adding-modifying': u'Bot: Lägger till %(adding)s; ändrar %(modifying)s',
+		'interwiki-adding-removing': u'Bot: Lägger till %(adding)s; tar bort %(removing)s',
+		'interwiki-adding-removing-modifying': u'Bot: Lägger till %(adding)s; tar bort %(removing)s; ändrar %(modifying)s',
+		'interwiki-adding': u'Bot: Lägger till %(adding)s',
+		'interwiki-removing': u'Bot: Tar bort %(removing)s',
+		'interwiki-removing-modifying': u'Bot: Tar bort %(removing)s; ändrar %(modifying)s',
+		'interwiki-modifying-from': u'Bot: Ändrar %(from)s till %(modifying)s',
 	},
 	# Author: Kwisha
 	# Author: Muddyb Blast Producer

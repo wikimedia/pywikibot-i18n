@@ -350,10 +350,11 @@ msg = {
 		'welcome-updating': u'ರೋಬೋಟ್: ದಾಖಲೆ ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ',
 	},
 	# Author: Kwj2772
+	# Author: Priviet
 	# Author: 아라
 	'ko': {
 		'welcome-welcome': u'환영합니다!',
-		'welcome-bad_username': u'로봇: 확인하는 데 필요한 사용자 이름 추가',
+		'welcome-bad_username': u'로봇: 확인이 필요한 사용자 이름 추가',
 		'welcome-updating': u'로봇: 기록 업데이트',
 	},
 	# Author: Rentenirer

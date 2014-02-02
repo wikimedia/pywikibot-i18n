@@ -83,11 +83,12 @@ msg = {
 		'pywikibot-enter-category-name': u'Категория исемен яҙығыҙ:',
 		'pywikibot-enter-finished-browser': u'Браузерҙа эш тамамланғандан һуң Enter төймәһенә баҫығыҙ.',
 	},
+	# Author: Red Winged Duck
 	# Author: Renessaince
 	'be-x-old': {
 		'pywikibot-enter-xml-filename': u'Калі ласка, увядзіце назву файлу дампу XML:',
 		'pywikibot-enter-page-processing': u'Якую старонку патрэбна апрацаваць?',
-		'pywikibot-enter-file-links-processing': u'Спасылкі на якую выяву патрэбна апрацаваць?',
+		'pywikibot-enter-file-links-processing': u'Спасылкі на які файл патрэбна апрацаваць?',
 		'pywikibot-enter-namespace-number': u'Калі ласка, увядзіце нумар прасторы імёнаў:',
 		'pywikibot-enter-new-text': u'Калі ласка, увядзіце новы тэкст:',
 		'pywikibot-enter-category-name': u'Калі ласка, увядзіце назву катэгорыі:',
@@ -104,9 +105,10 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Ebarzhit war Kas ur wech m\'ho peus echuet er merdeer.',
 	},
 	# Author: Edinwiki
+	# Author: KWiki
 	'bs': {
 		'pywikibot-enter-xml-filename': u'Unesite naziv datoteke XML ispisa:',
-		'pywikibot-enter-page-processing': u'Koja stranica treba da se obradi?',
+		'pywikibot-enter-page-processing': u'Koja bi stranica trebala biti obrađena?',
 		'pywikibot-enter-file-links-processing': u'Veze prema kojoj stranici da se obrade?',
 		'pywikibot-enter-namespace-number': u'Unesite broj imenskog prostora:',
 		'pywikibot-enter-new-text': u'Unesite novi tekst:',
@@ -396,11 +398,12 @@ msg = {
 		'pywikibot-enter-category-name': u'ವರ್ಗದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ:',
 		'pywikibot-enter-finished-browser': u'ಬ್ರೌಸರ್ ಅಲ್ಲಿ ಮುಗಿದಾಗ enter ಒತ್ತಿ',
 	},
+	# Author: Priviet
 	# Author: 아라
 	'ko': {
 		'pywikibot-enter-xml-filename': u'XML 덤프의 파일 이름을 입력하세요:',
 		'pywikibot-enter-page-processing': u'어떤 문서를 처리하시겠습니까?',
-		'pywikibot-enter-file-links-processing': u'어떤 파일 문서로 링크를 처리하시겠습니까?',
+		'pywikibot-enter-file-links-processing': u'어떤 파일 문서로 연결된 링크를 처리하시겠습니까?',
 		'pywikibot-enter-namespace-number': u'이름공간 번호를 입력하세요:',
 		'pywikibot-enter-new-text': u'새 텍스트를 입력하세요:',
 		'pywikibot-enter-category-name': u'분류 이름을 입력하세요:',

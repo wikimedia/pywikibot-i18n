@@ -384,8 +384,9 @@ msg = {
 		'isbn-formatting': u'Robot: oblikovanje ISBN-a',
 	},
 	# Author: Ainali
+	# Author: Lokal Profil
 	'sv': {
-		'isbn-formatting': u'Robot: Formaterar ISBN',
+		'isbn-formatting': u'Bot: Formaterar ISBN',
 	},
 	# Author: Przemub
 	'szl': {

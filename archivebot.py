@@ -146,6 +146,13 @@ msg = {
 		'archivebot-archive-full': u'(ARXIU PLE)',
 		'archivebot-archive-summary': u'Robot: arxivant %(count)d {{PLURAL:%(count)d|fil|fils}} de discussió de [[%(from)s]].',
 	},
+	# Author: Умар
+	'ce': {
+		'archivebot-older-than': u'къена, оццулла',
+		'archivebot-page-summary': u'Архиваци %(count)d {{PLURAL:%(count)d|теман|темашан}} (%(why)s) в %(archives)s.',
+		'archivebot-archiveheader': u'{{Дийцарийн архив}}',
+		'archivebot-archive-full': u'(АРХИВ ЮЬЗЗИНА Ю)',
+	},
 	# Author: Asoxor
 	# Author: Calak
 	# Author: Muhammed taha
@@ -776,14 +783,15 @@ msg = {
 		'archivebot-archive-full': u'(ARHIVA JE PUNA)',
 		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} iz [[%(from)s]].',
 	},
+	# Author: Lokal Profil
 	# Author: Nghtwlkr
 	# Author: WikiPhoenix
 	'sv': {
 		'archivebot-older-than': u'äldre än',
-		'archivebot-page-summary': u'Arkiverar %(count)d {PLURAL:%(count)d|tråd|trådar}} (%(why)s) till %(archives)s.',
+		'archivebot-page-summary': u'Bot: Arkiverar %(count)d {PLURAL:%(count)d|tråd|trådar}} (%(why)s) till %(archives)s.',
 		'archivebot-archiveheader': u'{{arkiv}}',
 		'archivebot-archive-full': u'(ARKIV FULLT)',
-		'archivebot-archive-summary': u'Arkiverar %(count)d {{PLURAL:%(count)d|tråd|trådar}} från [[%(from)s]].',
+		'archivebot-archive-summary': u'Bot: Arkiverar %(count)d {{PLURAL:%(count)d|tråd|trådar}} från [[%(from)s]].',
 	},
 	# Author: Kwisha
 	# Author: Stephenwanjau

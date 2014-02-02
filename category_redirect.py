@@ -789,11 +789,11 @@ msg = {
 	# Author: Lokal Profil
 	'sv': {
 		'category_redirect-comment': u'Underhållsbot för kategoriomdirigeringar',
-		'category_redirect-change-category': u'Robot: Ändrar omdirigerad kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] till [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Robot: lägger till kategoriomdirigeringsmall för underhåll',
+		'category_redirect-change-category': u'Bot: Ändrar omdirigerad kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] till [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Bot: lägger till kategoriomdirigeringsmall för underhåll',
 		'category_redirect-edit-request': u'Det har upptäckts att följande skyddade sidor kräver uppdateringar till kategorilänkar: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s är i %(oldcat)s, som är en omdirigering till %(newcat)s',
-		'category_redirect-fix-double': u'Robot: Rättar dubbel omdirigering',
+		'category_redirect-fix-double': u'Bot: Rättar dubbel omdirigering',
 	},
 	# Author: Przemub
 	'szl': {

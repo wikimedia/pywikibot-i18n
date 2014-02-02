@@ -822,11 +822,11 @@ msg = {
 	# Author: Tobulos1
 	# Author: WikiPhoenix
 	'sv': {
-		'redirect-fix-double': u'Robot: Rättar dubbel omdirigering → %(to)s',
-		'redirect-remove-broken': u'Robot: Omdirigerar till en raderad eller en obefintlig sida',
-		'redirect-fix-broken-moved': u'Robot: Reparerade trasig omdirigering till den flyttade målsidan %(to)s',
-		'redirect-fix-loop': u'Robot: Fixar omdirigeringsslinga till %(to)s',
-		'redirect-remove-loop': u'Robot: Målet för omdirigeringen bildar en omdirigeringsloop',
+		'redirect-fix-double': u'Bot: Rättar dubbel omdirigering → %(to)s',
+		'redirect-remove-broken': u'Bot: Omdirigerar till en raderad eller en obefintlig sida',
+		'redirect-fix-broken-moved': u'Bot: Reparerade trasig omdirigering till den flyttade målsidan %(to)s',
+		'redirect-fix-loop': u'Bot: Fixar omdirigeringsslinga till %(to)s',
+		'redirect-remove-loop': u'Bot: Målet för omdirigeringen bildar en omdirigeringsloop',
 		'redirect-broken-redirect-template': u'{{radera|Trasig omdirigering}}',
 	},
 	# Author: Kwisha

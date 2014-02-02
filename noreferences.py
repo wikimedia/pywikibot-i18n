@@ -322,7 +322,7 @@ msg = {
 	},
 	# Author: Lokal Profil
 	'sv': {
-		'noreferences-add-tag': u'Robot: Lägger till saknad <references />-tagg',
+		'noreferences-add-tag': u'Bot: Lägger till saknad <references />-tagg',
 	},
 	# Author: Kwisha
 	'sw': {

@@ -194,11 +194,20 @@ msg = {
 	},
 	# Author: Okras
 	'ru': {
+		'protect-links': u'Робот: Защита всех страниц, на которые стоят ссылки на %(page)s',
 		'protect-simple': u'Робот: Защита списка файлов.',
+		'protect-category': u'Робот: Защита всех страниц из категории %(cat)s',
+		'protect-ref': u'Робот: Защита всех страниц, на которые идут ссылки с %(page)s',
+		'protect-images': u'Робот: Защита всех изображений на странице %(page)s',
 	},
+	# Author: Lokal Profil
 	# Author: WikiPhoenix
 	'sv': {
-		'protect-simple': u'Robot: Skyddar en lista över filer.',
+		'protect-links': u'Bot: Skyddar alla sidor länkade från %(page)s',
+		'protect-simple': u'Bot: Skyddar en lista över filer.',
+		'protect-category': u'Bot: Skydda alla sidor från kategori %(cat)s',
+		'protect-ref': u'Bot: Skydda alla sidor som hänvisar från %(page)s',
+		'protect-images': u'Bot: Skyddar alla bilder på sida %(page)s',
 	},
 	# Author: Andriykopanytsia
 	'uk': {

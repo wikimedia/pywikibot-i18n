@@ -134,6 +134,11 @@ msg = {
 		'commons_link-template-added': u'Robot: Introdus format commons',
 		'commons_link-cat-template-added': u'Robot: Introdus format commonscat',
 	},
+	# Author: Okras
+	'ru': {
+		'commons_link-template-added': u'Робот: включение шаблона Викисклада',
+		'commons_link-cat-template-added': u'Робот: включение шаблона категории Викисклада',
+	},
 	# Author: Andriykopanytsia
 	'uk': {
 		'commons_link-template-added': u'Робот: Включити шаблон commons',

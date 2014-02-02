@@ -125,10 +125,16 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robot: Adăugat o pagină de dezambiguizare',
 		'lonelypages-comment-add-template': u'Robot: Pagină orfană, adăugat format',
 	},
+	# Author: Okras
+	'ru': {
+		'lonelypages-comment-add-disambig-template': u'Робот: Добавление страницы разрешения неоднозначности',
+		'lonelypages-comment-add-template': u'Робот: страница-сироты, добавление шаблона',
+	},
+	# Author: Lokal Profil
 	# Author: WikiPhoenix
 	'sv': {
-		'lonelypages-comment-add-disambig-template': u'Robot: Lägger till en förgreningssida',
-		'lonelypages-comment-add-template': u'Robot: Föräldralös sida, lägger till mall',
+		'lonelypages-comment-add-disambig-template': u'Bot: Lägger till en förgreningssida',
+		'lonelypages-comment-add-template': u'Bot: Föräldralös sida, lägger till mall',
 	},
 	# Author: Andriykopanytsia
 	'uk': {

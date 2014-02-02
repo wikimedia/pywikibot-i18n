@@ -294,9 +294,10 @@ msg = {
 	'sr-el': {
 		'djvutext-creating': u'Robot: napravljena stranica s tekstom izvedenim iz DjVu-a',
 	},
+	# Author: Lokal Profil
 	# Author: WikiPhoenix
 	'sv': {
-		'djvutext-creating': u'Robot: Skapar sida med extraherad text från DjVu',
+		'djvutext-creating': u'Bot: Skapar sida med extraherad text från DjVu',
 	},
 	# Author: Kwisha
 	'sw': {

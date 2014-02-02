@@ -212,7 +212,7 @@ msg = {
 		'delete-images': u'Robot: kustutatud kõik pildid leheküljel %(page)s',
 		'delete-referring-pages': u'Robot: kustutatud kõik asukohas %(page)s viidatud leheküljed',
 		'delete-from-category': u'Robot: kustutatud kõik leheküljed kategoorias %(page)s',
-		'delete-from-file': u'Robot: kustutatud nimekirjas toodud failid',
+		'delete-from-file': u'Robot: kustutatud nimekirjas toodud leheküljed',
 		'delete-linked-pages': u'Robot: kustutatud kõik asukohas %(page)s lingitud leheküljed',
 	},
 	# Author: Ladsgroup
@@ -643,12 +643,13 @@ msg = {
 		'delete-from-file': u'Robot: obrisan spisak datoteka.',
 		'delete-linked-pages': u'Robot: obrisane sve stranice koje vode iz %(page)s',
 	},
+	# Author: Lokal Profil
 	# Author: WikiPhoenix
 	'sv': {
 		'delete-images': u'Bot: Tar bort alla bilder på sida %(page)s',
 		'delete-referring-pages': u'Bot: Ta bort alla sidor som hänvisar från %(page)s',
 		'delete-from-category': u'Bot: Tar bort alla sidor i kategori %(page)s',
-		'delete-from-file': u'Robot: Raderar en lista över sidor.',
+		'delete-from-file': u'Bot: Raderar en lista över sidor.',
 		'delete-linked-pages': u'Bot: Tar bort alla sidor länkade från %(page)s',
 	},
 	# Author: Baba Tabita

@@ -106,6 +106,10 @@ msg = {
 		'featured-featured': u'Bot: enllaç a article destacat per: %(page)s',
 		'featured-former': u'Robot: %(page)s és un antic article de qualitat',
 	},
+	# Author: Умар
+	'ce': {
+		'featured-featured': u'бот: хаьржина яззам %(page)s',
+	},
 	# Author: Calak
 	'ckb': {
 		'featured-good': u'بۆت: %(page)s وتارێکی باشە',
@@ -184,6 +188,13 @@ msg = {
 		'featured-list': u'Bot: Enlace a lista destacada para: %(page)s',
 		'featured-featured': u'Bot: Enlace a artículo destacado para: %(page)s',
 		'featured-former': u'Bot: %(page)s ya no es un artículo destacado',
+	},
+	# Author: Pikne
+	'et': {
+		'featured-good': u'Robot: %(page)s on hea artikkel',
+		'featured-list': u'Robot: %(page)s on eeskujulik loend',
+		'featured-featured': u'Robot: %(page)s on eeskujulik artikkel',
+		'featured-former': u'Robot: %(page)s on endine eeskujulik artikkel',
 	},
 	# Author: ZxxZxxZ
 	'fa': {

@@ -102,6 +102,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Robot: canvis cosmètics',
 		'cosmetic_changes-append': u'; canvis cosmètics',
 	},
+	# Author: Умар
+	'ce': {
+		'cosmetic_changes-standalone': u'бот: косметикийн хийцам',
+		'cosmetic_changes-append': u'; косметикийн хийцам',
+	},
 	# Author: Asoxor
 	'ckb': {
 		'cosmetic_changes-standalone': u'ڕۆبۆت: دەستکاریی جوانکاری',

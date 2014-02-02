@@ -437,11 +437,12 @@ msg = {
 		'weblinkchecker-summary': u'Robot: prijavljena neispravna spoljašnja veza',
 		'weblinkchecker-report': u'Pri nekoliko pokušaja bota, ustanovljeno je da sledeća spoljašnja veza nije dostupna. Proverite da li je veza uistinu neispravna i, ako jeste, ispravite je ili je uklonite.',
 	},
+	# Author: Lokal Profil
 	# Author: Tor.klingberg
 	'sv': {
 		'weblinkchecker-archive_msg': u'Webbsidan har sparats av Internet Archive. Överväg att länka till en lämplig arkiverad version: [%(URL)s].',
 		'weblinkchecker-caption': u'Död länk',
-		'weblinkchecker-summary': u'Robot: Rapporterar otillgänglig extern länk',
+		'weblinkchecker-summary': u'Bot: Rapporterar otillgänglig extern länk',
 		'weblinkchecker-report': u'Följande externa länk har inte kunnat nås under flera försök av en automatisk bot. Var vänlig kontrollera om länken faktiskt är nere, och ta i så fall bort den.',
 	},
 	# Author: Nullzero
