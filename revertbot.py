@@ -52,6 +52,10 @@ msg = {
 	'gl': {
 		'revertbot-revert': u'Bot: Reverto á revisión %(revid)s feita por %(author)s o %(timestamp)s',
 	},
+	# Author: Yona b
+	'he': {
+		'revertbot-revert': u'בוט: חזרה לגירסה %(revid)s של %(author)s מה-%(timestamp)s',
+	},
 	# Author: McDutchie
 	'ia': {
 		'revertbot-revert': u'Robot: Revertite al version %(revid)s per %(author)s le %(timestamp)s',

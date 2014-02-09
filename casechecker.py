@@ -39,6 +39,9 @@ msg = {
 	'be-x-old': {
 		'casechecker-replacement-summary': u'Робат: замены рэгістру:',
 		'casechecker-delete-summary': u'Робат: гэтае перанакіраваньне ўтрымлівае ў назьве сумесь кірылічных і лацінскіх літараў',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Гэтае перанакіраваньне выкарыстоўваецца для ўказаньня на %(target)s',
+		'casechecker-rename': u'Робат: перайменаваньне зьмяшаных альфабэтаў',
 	},
 	# Author: Edinwiki
 	'bs': {
@@ -58,11 +61,13 @@ msg = {
 		'casechecker-rename': u'Bot: reanomenament amb majúscules/minúscules combinades',
 	},
 	# Author: Matěj Grabovský
+	# Author: Mormegil
 	'cs': {
 		'casechecker-replacement-summary': u'Robot změnil velikost písmen:',
-		'casechecker-delete-summary': u'Robot: Toto přesměrování ve svém názvu obsahuje znaky cyrilice připomínají latinku',
+		'casechecker-delete-summary': u'Robot: Toto přesměrování ve svém názvu obsahuje stejně vypadající znaky cyrilice a latinky',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Toto přesměrování vedlo na %(target)s',
+		'casechecker-rename': u'Robot: přejmenování kvůli smíchaným písmům',
 	},
 	# Author: Christian List
 	'da': {
@@ -125,6 +130,14 @@ msg = {
 		'casechecker-delete-reason': u'這重定向用來指向％(target)s',
 		'casechecker-rename': u'機器人：混合大小寫的命名',
 	},
+	# Author: Yona b
+	'he': {
+		'casechecker-replacement-summary': u'בוט: מתקן אותיות גדולות',
+		'casechecker-delete-summary': u'בוט: ההפניה מכילה אותיות קיריליות ולטיניות זהות בכותרת',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'ההפניה משמשת להצביע על %(target)s',
+		'casechecker-rename': u'בוט: שינוי שם מעורב',
+	},
 	# Author: Shubhamkanodia
 	'hi': {
 		'casechecker-replacement-summary': u'बॉट: केस (case) प्रतिस्थापन :',
@@ -144,6 +157,13 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Iste redirection punctava verso %(target)s',
 		'casechecker-rename': u'Robot: renomination a causa de litteras mixte',
+	},
+	# Author: ArdWar
+	'id': {
+		'casechecker-replacement-summary': u'Bot: Kapitalisasi:',
+		'casechecker-delete-summary': u'Bot: Pengalihan menggunakan aksara Kiril dan Latin yang identik',
+		'casechecker-replacement-linklist': u'%(source)→%(target)',
+		'casechecker-delete-reason': u'Pengalihan menuju ke %(target)',
 	},
 	# Author: Shirayuki
 	'ja': {
@@ -212,6 +232,10 @@ msg = {
 	'pdc': {
 		'casechecker-replacement-linklist': u'%(source)s nooch %(target)s',
 	},
+	# Author: Chrumps
+	'pl': {
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+	},
 	# Author: Minisarm
 	'ro': {
 		'casechecker-delete-summary': u'Robot: Această redirecționare conține caractere chirilice și latine identice în titlul său',
@@ -250,6 +274,11 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Trang này từng đổi hướng đến %(target)s',
 		'casechecker-rename': u'Bot: Đổi tên hỗn hợp chữ hoa/thường',
+	},
+	# Author: פוילישער
+	'yi': {
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'די ווייטערפירונג פלעג ווײַזן אויף %(target)s',
 	},
 	# Author: Yfdyh000
 	'zh': {

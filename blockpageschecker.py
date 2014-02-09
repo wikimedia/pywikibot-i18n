@@ -100,6 +100,10 @@ msg = {
 	'ia': {
 		'blockpageschecker-summary': u'Robot: Deletion de un patrono obsolete',
 	},
+	# Author: ArdWar
+	'id': {
+		'blockpageschecker-summary': u'Bot: Menghapus templat usang',
+	},
 	# Author: Beta16
 	'it': {
 		'blockpageschecker-summary': u'Bot: tolgo template obsoleto',

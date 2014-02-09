@@ -86,11 +86,12 @@ msg = {
 		'delete-linked-pages': u'Робот: %(page)s бите менән бәйле бөтә биттәрҙе юйыу',
 	},
 	# Author: EugeneZelenko
+	# Author: Red Winged Duck
 	'be-x-old': {
 		'delete-images': u'Робат: выдаліў усе выявы на старонцы %(page)s',
 		'delete-referring-pages': u'Робат: выдаліў усе старонкі, на якія спасылаецца %(page)s',
 		'delete-from-category': u'Робат: выдаліў усе старонкі з катэгорыі %(page)s',
-		'delete-from-file': u'Робат: выдаліў сьпіс файлаў.',
+		'delete-from-file': u'Робат: выдаленьне сьпісу старонак.',
 		'delete-linked-pages': u'Робат: выдаліў усе старонкі зьвязаныя з %(page)s',
 	},
 	# Author: Fohanno
@@ -283,11 +284,12 @@ msg = {
 		'delete-from-file': u'機械人：刪除列表中个檔案。',
 		'delete-linked-pages': u'機械人：删除所有從%(page)s鏈接个頁面',
 	},
+	# Author: Yona b
 	'he': {
 		'delete-images': u'בוט: מוחק את כל התמונות בדף %(page)s.',
 		'delete-referring-pages': u'בוט: מוחק את כל הדפים המקשרים לדף %(page)s.',
 		'delete-from-category': u'בוט: מוחק את כל הדפים מהקטגוריה %(page)s.',
-		'delete-from-file': u'בוט: מוחק רשימת דפים מתוך קובץ.',
+		'delete-from-file': u'בוט: מוחק רשימת דפים.',
 		'delete-linked-pages': u'בוט: מוחק את כל הדפים המקושרים מהדף %(page)s.',
 	},
 	# Author: Shubhamkanodia
@@ -322,12 +324,13 @@ msg = {
 		'delete-from-file': u'Robot: Deletion de un lista de paginas.',
 		'delete-linked-pages': u'Robot: Deletion de tote le paginas ligate ab %(page)s',
 	},
+	# Author: ArdWar
 	# Author: Farras
 	'id': {
 		'delete-images': u'Robot: Menghapus semua gambar pada halaman %(page)s',
 		'delete-referring-pages': u'Robot: Menghapus semua halaman yang mengarah dari %(page)s',
 		'delete-from-category': u'Robot: Menghapus semua halaman dari kategori %(page)s',
-		'delete-from-file': u'Robot: Menghapus daftar berkas.',
+		'delete-from-file': u'Robot: Menghapus daftar halaman.',
 		'delete-linked-pages': u'Robot: Menghapus semua halaman yang tertaut dari %(page)s',
 	},
 	# Author: Lam-ang

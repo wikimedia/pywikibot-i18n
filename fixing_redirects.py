@@ -111,6 +111,10 @@ msg = {
 	'et': {
 		'fixing_redirects-fixing': u'Robot: ümbersuunamised parandatud',
 	},
+	# Author: Subi
+	'eu': {
+		'fixing_redirects-fixing': u'Robota: Birzuzenketak konpontzen',
+	},
 	'fa': {
 		'fixing_redirects-fixing': u'ربات:تصحیح تغییرمسیرها',
 	},

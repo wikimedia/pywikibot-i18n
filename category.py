@@ -844,7 +844,7 @@ msg = {
 		'category-was-moved': u'Vélmenni: Færði flokk á [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Vélmenni: Færi frá %s. Höfundar: %s',
 		'category-section-title': u'Breytingarskrá fyrri %(oldcat)s',
-		'category-listifying': u'Vélmenni: Bæti {{PLURAL:%(num)d|1 færslu|%(num)d færslum}} frá %(fromcat)s við listann.',
+		'category-listifying': u'Vélmenni: Bæti %(num)d {{PLURAL:%(num)d|færslu|færslum}} frá %(fromcat)s við listann.',
 	},
 	# Author: Beta16
 	# Author: EdoDodo

@@ -49,10 +49,13 @@ msg = {
 		'protect-images': u'Bot: Zaštićivanje svih slika na stranici %(page)s',
 	},
 	# Author: DemonioCZ
+	# Author: Mormegil
 	'cs': {
-		'protect-simple': u'Robot: Ochránit seznam souborů.',
-		'protect-category': u'Robot: Ochránit všechny stránky z kategorie %(cat)s',
-		'protect-images': u'Robot: Ochránit všechny obrázky na stránce %(page)s',
+		'protect-links': u'Robot: Zamykám všechny stránky odkazované z %(page)s',
+		'protect-simple': u'Robot: Zamykám seznam souborů.',
+		'protect-category': u'Robot: Zamykám všechny stránky v kategorii %(cat)s',
+		'protect-ref': u'Robot: Zamykám všechny stránky odkazující na %(page)s',
+		'protect-images': u'Robot: Zamykám všechny obrázky na stránce %(page)s',
 	},
 	# Author: Christian List
 	'da': {
@@ -107,6 +110,14 @@ msg = {
 		'protect-category': u'Bot: Protexo todas as páxinas da categoría "%(cat)s"',
 		'protect-ref': u'Bot: Protexo todas as páxinas que van dar a "%(page)s"',
 		'protect-images': u'Bot: Protexo todas as imaxes da páxina "%(page)s"',
+	},
+	# Author: Yona b
+	'he': {
+		'protect-links': u'בוט:מגן על כל הדפים המקושרים מהדף %(page)s',
+		'protect-simple': u'בוט: מגן על רשימת דפים',
+		'protect-category': u'בוט: מגן על כל הדפים מהקטגוריה %(cat)s.',
+		'protect-ref': u'בוט: מגן על כל הדפים המקשרים לדף %(page)s.',
+		'protect-images': u'בוט: מגן על כל התמונות בדף %(page)s.',
 	},
 	# Author: McDutchie
 	'ia': {

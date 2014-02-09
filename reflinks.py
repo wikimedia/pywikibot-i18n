@@ -114,7 +114,9 @@ msg = {
 		'reflinks-comment': u'Título xerado por un bot',
 		'reflinks-msg': u'Bot: Melloro as referencias sen formato, poño nomes ás referencias para evitar duplicados ([[%(manual)s|preguntas frecuentes]])',
 	},
+	# Author: Yona b
 	'he': {
+		'reflinks-comment': u'בוט יוצר כותרת',
 		'reflinks-msg': u'בוט:מלביש קישורים חיצוניים. (FAQ : [[%(manual)s]])',
 	},
 	'hu': {

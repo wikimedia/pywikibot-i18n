@@ -22,6 +22,11 @@ msg = {
 		'commons_link-template-added': u'Robó: Incluir plantía de commons',
 		'commons_link-cat-template-added': u'Robó: Incluir plantía de commonscat',
 	},
+	# Author: Red Winged Duck
+	'be-x-old': {
+		'commons_link-template-added': u'Робат: дадаваньне шаблёну Вікісховішча',
+		'commons_link-cat-template-added': u'Робат: дадаваньне шаблёну катэгорыі Вікісховішча',
+	},
 	# Author: Edinwiki
 	'bs': {
 		'commons_link-template-added': u'Bot: dodan commons šablon',
@@ -83,6 +88,11 @@ msg = {
 	'ia': {
 		'commons_link-template-added': u'Robot: insere un patrono de Commons',
 		'commons_link-cat-template-added': u'Robot: insere patrono Commonscat',
+	},
+	# Author: ArdWar
+	'id': {
+		'commons_link-template-added': u'Bot: Sertakan templat commons',
+		'commons_link-cat-template-added': u'Bot: Sertakan templat commonscat',
 	},
 	# Author: Beta16
 	'it': {

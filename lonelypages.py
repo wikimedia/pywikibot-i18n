@@ -36,6 +36,11 @@ msg = {
 	'ce': {
 		'lonelypages-comment-add-disambig-template': u'Робот: АгӀо дизамбикан тӀетохар',
 	},
+	# Author: Mormegil
+	'cs': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Přidání rozlišené stránky',
+		'lonelypages-comment-add-template': u'Robot: Sirotčí stránka, přidání šablony',
+	},
 	# Author: Christian List
 	'da': {
 		'lonelypages-comment-add-disambig-template': u'Robot: Tilføjer en flertydig side',
@@ -51,9 +56,10 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robot: Adición de una página de desambiguación',
 		'lonelypages-comment-add-template': u'Robot: Página huérfana, adición de plantilla',
 	},
+	# Author: Ebraminio
 	# Author: Reza1615
 	'fa': {
-		'lonelypages-comment-add-disambig-template': u'ربات:افزودن صفحات ابهام‌زدائی',
+		'lonelypages-comment-add-disambig-template': u'ربات:افزودن صفحات ابهام‌زدایی',
 		'lonelypages-comment-add-template': u'ربات:افزودن الگو، صفحه یتیم',
 	},
 	# Author: Linedwell
@@ -72,10 +78,19 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Bot: Engado unha páxina de homónimos',
 		'lonelypages-comment-add-template': u'Bot: Páxina orfa, engado un modelo',
 	},
+	# Author: Yona b
+	'he': {
+		'lonelypages-comment-add-disambig-template': u'בוט:מוסיף דף פירושונים',
+		'lonelypages-comment-add-template': u'בוט: דף יתום, הוספת תבנית',
+	},
 	# Author: McDutchie
 	'ia': {
 		'lonelypages-comment-add-disambig-template': u'Robot: adde pagina de disambiguation',
 		'lonelypages-comment-add-template': u'Robot: Pagina orphano; addition de patrono',
+	},
+	# Author: ArdWar
+	'id': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Menambahkan halaman disambiguasi',
 	},
 	# Author: Beta16
 	'it': {

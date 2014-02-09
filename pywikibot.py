@@ -235,6 +235,12 @@ msg = {
 	'et': {
 		'pywikibot-enter-new-text': u'Palun sisesta uus tekst:',
 	},
+	# Author: Subi
+	'eu': {
+		'pywikibot-enter-page-processing': u'Zein orrialde prozesatu behar da?',
+		'pywikibot-enter-new-text': u'Mesedez, sar ezazu testu berria:',
+		'pywikibot-enter-category-name': u'Mesedez, sar ezazu kategoriaren izena:',
+	},
 	# Author: Huji
 	# Author: Ladsgroup
 	# Author: Reza1615

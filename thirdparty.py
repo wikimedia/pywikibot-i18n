@@ -567,12 +567,15 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Arutelulehte muudeti',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTI SÕNUM',
 	},
+	# Author: Subi
 	# Author: Theklan
 	# Author: Unai Fdz. de Betoño
 	'eu': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bota',
 		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ez da giza editorerik aurkitu)',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Eztabaida Berria',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Jakinarazpena',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Eztabaida aldatu da',
 	},
 	# Author: Huji
 	# Author: Mjbmr
