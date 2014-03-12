@@ -135,6 +135,10 @@ msg = {
 	'hak': {
 		'editarticle-edit': u'手動控制機械人進行更改：%(description)s',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'editarticle-edit': u'He hoʻololi hanalima me ka lopako: %(description)s',
+	},
 	'he': {
 		'editarticle-edit': u'עריכה ידנית: %(description)s',
 	},
@@ -179,6 +183,10 @@ msg = {
 	# Author: NoiX180
 	'jv': {
 		'editarticle-edit': u'Sunting manual mawa bot: %(description)s',
+	},
+	# Author: Akoppad
+	'kn': {
+		'editarticle-edit': u'ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(ವಿವರಣೆ)s',
 	},
 	# Author: 아라
 	'ko': {
@@ -285,8 +293,9 @@ msg = {
 		'editarticle-edit': u'Ручное редактирование с помощью бота: %(description)s',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
-		'editarticle-edit': u'Manual edit with bot: %(description)s',
+		'editarticle-edit': u'Manual eidit wi bot: %(description)s',
 	},
 	# Author: Wizzard
 	'sk': {
@@ -306,7 +315,7 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'editarticle-edit': u'Ручно уређивање с роботом: %(description)s',
+		'editarticle-edit': u'Ручно уређивање са роботом: %(description)s',
 	},
 	# Author: Rancher
 	'sr-el': {
