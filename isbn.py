@@ -175,6 +175,10 @@ msg = {
 	'hak': {
 		'isbn-formatting': u'機械人：格式化ISBN',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'isbn-formatting': u'Lopako: Ke hulu nei i ka ISBN',
+	},
 	# Author: YaronSh
 	'he': {
 		'isbn-formatting': u'בוט: מעצב מסת״ב',
@@ -377,7 +381,7 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'isbn-formatting': u'Робот: обликовање ISBN-а',
+		'isbn-formatting': u'Робот: обликовано по ISBN-у',
 	},
 	# Author: Rancher
 	'sr-el': {

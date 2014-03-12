@@ -23,6 +23,11 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robó: Amestando una páxina de dixebra',
 		'lonelypages-comment-add-template': u'Robó: Páxina güérfana, amestada plantía',
 	},
+	# Author: Red Winged Duck
+	'be-x-old': {
+		'lonelypages-comment-add-disambig-template': u'Робат: дадаваньне старонкі-неадназначнасьці',
+		'lonelypages-comment-add-template': u'Робат: старонка-сіраціна, дадаваньне шаблёну',
+	},
 	# Author: Edinwiki
 	'bs': {
 		'lonelypages-comment-add-disambig-template': u'Bot: Dodavanje čvor stranice',
@@ -51,6 +56,16 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Bot: Füge Begriffsklärungsseite hinzu',
 		'lonelypages-comment-add-template': u'Bot: Verwaiste Seite, füge Vorlage hinzu',
 	},
+	# Author: Geraki
+	'el': {
+		'lonelypages-comment-add-disambig-template': u'Ρομπότ: Προσθήκη μιας σελίδα αποσαφήνισης',
+		'lonelypages-comment-add-template': u'Ρομπότ: Ορφανή σελίδα, προσθήκη πρότυπου',
+	},
+	# Author: KuboF
+	'eo': {
+		'lonelypages-comment-add-disambig-template': u'Roboto: Aldono de apartigilo',
+		'lonelypages-comment-add-template': u'Roboto: Orfa paĝo, aldonita ŝablono',
+	},
 	# Author: Fitoschido
 	'es': {
 		'lonelypages-comment-add-disambig-template': u'Robot: Adición de una página de desambiguación',
@@ -78,10 +93,20 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Bot: Engado unha páxina de homónimos',
 		'lonelypages-comment-add-template': u'Bot: Páxina orfa, engado un modelo',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'lonelypages-comment-add-disambig-template': u'Lopako: Ke hoʻohui nei i kekahi ʻaoʻao hoʻomōakāka kahihele',
+		'lonelypages-comment-add-template': u'Lopako: He ʻaoʻao homeʻole, hoʻohui i kekahi anakuhi',
+	},
 	# Author: Yona b
 	'he': {
 		'lonelypages-comment-add-disambig-template': u'בוט:מוסיף דף פירושונים',
 		'lonelypages-comment-add-template': u'בוט: דף יתום, הוספת תבנית',
+	},
+	# Author: Dj
+	'hu': {
+		'lonelypages-comment-add-disambig-template': u'Bot: egyértelműsítő lap hozzáadása',
+		'lonelypages-comment-add-template': u'Bot: árva lap, sablon hozzáadva',
 	},
 	# Author: McDutchie
 	'ia': {
@@ -109,6 +134,7 @@ msg = {
 	# Author: Purodha
 	'ksh': {
 		'lonelypages-comment-add-disambig-template': u'Bot: Donn en „Wadd-eß-datt-Sigg“ derbei.',
+		'lonelypages-comment-add-template': u'Bot: En Schablohn en di Sigg jedonn, dat koum Lengks op se jonn.',
 	},
 	# Author: Robby
 	'lb': {
@@ -125,6 +151,11 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Робот: Додавам појаснителна страница',
 		'lonelypages-comment-add-template': u'Робот: Осамена страница, додавам шаблон',
 	},
+	# Author: Praveenp
+	'ml': {
+		'lonelypages-comment-add-disambig-template': u'യന്ത്രം: വിവക്ഷാതാൾ ചേർക്കുന്നു',
+		'lonelypages-comment-add-template': u'യന്ത്രം: അനാഥതാളിൽ ഫലകം ചേർക്കൽ',
+	},
 	# Author: Anakmalaysia
 	'ms': {
 		'lonelypages-comment-add-disambig-template': u'Robot: Mewujudkan laman nyahkekaburan',
@@ -135,6 +166,10 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robot: doorverwijspagina toegevoegd',
 		'lonelypages-comment-add-template': u'Robot: sjabloon aan weespagina toegevoegd',
 	},
+	# Author: Pio387
+	'pl': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Dodawanie strony ujednoznaczniającej.',
+	},
 	# Author: Minisarm
 	'ro': {
 		'lonelypages-comment-add-disambig-template': u'Robot: Adăugat o pagină de dezambiguizare',
@@ -144,6 +179,16 @@ msg = {
 	'ru': {
 		'lonelypages-comment-add-disambig-template': u'Робот: Добавление страницы разрешения неоднозначности',
 		'lonelypages-comment-add-template': u'Робот: страница-сироты, добавление шаблона',
+	},
+	# Author: John Reid
+	'sco': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Adding ae disambig page',
+		'lonelypages-comment-add-template': u'Robot: Orphan page, add template',
+	},
+	# Author: Rancher
+	'sr': {
+		'lonelypages-comment-add-disambig-template': u'Робот: додата вишезначна одредница',
+		'lonelypages-comment-add-template': u'Робот: неповезана страница, додат шаблон',
 	},
 	# Author: Lokal Profil
 	# Author: WikiPhoenix
@@ -160,6 +205,10 @@ msg = {
 	'vi': {
 		'lonelypages-comment-add-disambig-template': u'Bot: Thêm trang định hướng',
 		'lonelypages-comment-add-template': u'Bot: Gắn bản mẫu vào trang mồ côi',
+	},
+	# Author: פוילישער
+	'yi': {
+		'lonelypages-comment-add-template': u'באט: יתום בלאט, צולייגן מוסטער',
 	},
 	'zh': {
 		'lonelypages-comment-add-disambig-template': u'機器人: 增加消歧義頁面',

@@ -147,6 +147,10 @@ msg = {
 	'hak': {
 		'replace-replacing': u'機械人：自動替換文字%(description)s',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'replace-replacing': u'Lopako: Hikakau hou kikokikona %(description)s',
+	},
 	'he': {
 		'replace-replacing': u'בוט: החלפת טקסט אוטומטית %(description)s',
 	},
@@ -324,8 +328,9 @@ msg = {
 		'replace-replacing': u'Робот: Автоматізована заміна тексту: %(description)s',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
-		'replace-replacing': u'Bot: Automated text replacement %(description)s',
+		'replace-replacing': u'Bot: Automated tex replacement %(description)s',
 	},
 	# Author: Teslaton
 	'sk': {
@@ -345,7 +350,7 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'replace-replacing': u'Робот: самозамењивање текста %(description)s',
+		'replace-replacing': u'Робот: аутоматски замењен текст %(description)s',
 	},
 	# Author: Rancher
 	'sr-el': {

@@ -18,9 +18,11 @@ msg = {
 		'featured-former': u'بوت: %(page)s مقالة مختارة سابقة',
 	},
 	# Author: Naudefj
+	# Author: Xqt
 	'af': {
 		'featured-good': u'Robot: %(page)s is \'n goeie artikel',
 		'featured-list': u'Robot: %(page)s is \'n uitgeligte lys',
+		'featured-featured': u'Robot: %(page)s is \'n voorbladartikel',
 	},
 	# Author: Als-Chlämens
 	'als': {
@@ -250,6 +252,13 @@ msg = {
 		'featured-list': u'機械人：%(page)s為特色列表',
 		'featured-featured': u'機械人：%(page)s為特色條目',
 		'featured-former': u'機械人：%(page)s曾經係一隻特色條目',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'featured-good': u'Lopako: ʻO %(page)s he ʻatikala maikaʻi',
+		'featured-list': u'Lopako: ʻO %(page)s he papahelu hoʻohanohano',
+		'featured-featured': u'Lopako: ʻO %(page)s he ʻatikala hoʻohanohano',
+		'featured-former': u'Lopako: ʻO %(page)s he ʻatikala hoʻohanohano mai mua mai',
 	},
 	# Author: Amire80
 	'he': {
@@ -517,6 +526,13 @@ msg = {
 		'featured-featured': u'бот: избранная статья %(page)s',
 		'featured-former': u'бот: бывшая избранная статья %(page)s',
 	},
+	# Author: John Reid
+	'sco': {
+		'featured-good': u'Robot: %(page)s is ae guid airticle',
+		'featured-list': u'Robot: %(page)s is ae featured leet',
+		'featured-featured': u'Robot: %(page)s is ae featured airticle',
+		'featured-former': u'Robot: %(page)s is ae former featured airticle',
+	},
 	# Author: Wizzard
 	'sk': {
 		'featured-good': u'Robot: %(page)s je dobrý článok',
@@ -583,6 +599,7 @@ msg = {
 	'th': {
 		'featured-good': u'โรบอต: %(page)s เป็นบทความคุณภาพ',
 		'featured-featured': u'โรบอต: ลิงก์บทความคัดสรร %(page)s',
+		'featured-former': u'โรบอต: %(page)s เคยเป็นบทความคัดสรร',
 	},
 	# Author: AnakngAraw
 	'tl': {

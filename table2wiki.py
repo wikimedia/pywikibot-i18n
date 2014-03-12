@@ -156,6 +156,11 @@ msg = {
 		'table2wiki-warnings': u'手動控制機械人進行表語法更新-出現%(count)d隻警告！',
 		'table2wiki-no-warning': u'使用者控制个機械人： 表更新个語法',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'table2wiki-warnings': u'Lopako mea hoʻohana: Ua hoʻopuka ʻia hou ka huipaʻa papa - {{PLURAL:count|1 akahele|%(count)d mau akahele}}!',
+		'table2wiki-no-warning': u'Lopako mea hoʻohana: Ua hoʻopuka ʻia hou ka huipaʻa papa',
+	},
 	# Author: Xqt
 	'he': {
 		'table2wiki-warnings': u'בוט בפיקוח משתמש: עדכון תחביר הטבלה - {{PLURAL:count|אזהרה אחת|%(count)d אזהרות}}!',
@@ -309,6 +314,11 @@ msg = {
 		'table2wiki-warnings': u'полуавтоматический бот: синтаксис таблицы обновлён - {{PLURAL:count|1 предупреждение|предупреждений: %(count)d}}!',
 		'table2wiki-no-warning': u'полуавтоматический бот: синтаксис таблицы обновлён',
 	},
+	# Author: John Reid
+	'sco': {
+		'table2wiki-warnings': u'Uiser-controlled robot: Table syntax updated - {{PLURAL:count|1 warnishment|%(count)d warnishments}}!',
+		'table2wiki-no-warning': u'Uiser-controlled robot: Table syntax updated',
+	},
 	# Author: Teslaton
 	# Author: Wizzard
 	'sk': {
@@ -327,7 +337,7 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'table2wiki-warnings': u'Бот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења|%(count)d упозорења}})',
+		'table2wiki-warnings': u'Робот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења}})',
 		'table2wiki-no-warning': u'Робот којим управља корисник: синтакса табеле је ажурирана',
 	},
 	# Author: Rancher

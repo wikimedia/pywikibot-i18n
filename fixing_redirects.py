@@ -146,6 +146,10 @@ msg = {
 	'hak': {
 		'fixing_redirects-fixing': u'機械人：修補重定向',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'fixing_redirects-fixing': u'Pako: Ke kāpili hou nei i nā ʻaoʻao hoʻoili',
+	},
 	'he': {
 		'fixing_redirects-fixing': u'בוט: מתקן הפניות',
 	},
@@ -299,6 +303,10 @@ msg = {
 	# Author: Volkov
 	'ru': {
 		'fixing_redirects-fixing': u'бот: исправление перенаправлений',
+	},
+	# Author: John Reid
+	'sco': {
+		'fixing_redirects-fixing': u'Bot: Fixin redirects',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

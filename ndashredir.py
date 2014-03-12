@@ -123,6 +123,10 @@ msg = {
 	'hak': {
 		'ndashredir-create': u'機械人：創建連字符重定向到[[%(title)s]]',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'ndashredir-create': u'Pako: Ke haku nei i ka ʻaoʻao hoʻoili kaha moe iā [[%(title)s]]',
+	},
 	# Author: ערן
 	'he': {
 		'ndashredir-create': u'בוט: יצירת הפניה עם מיקוף ל[[%(title)s]]',
@@ -241,6 +245,10 @@ msg = {
 	# Author: Volkov
 	'ru': {
 		'ndashredir-create': u'бот: создание перенаправления с дефисом на [[%(title)s]]',
+	},
+	# Author: John Reid
+	'sco': {
+		'ndashredir-create': u'Bot: Creating hyphenated redirect til [[%(title)s]]',
 	},
 	# Author: Teslaton
 	'sk': {

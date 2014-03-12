@@ -381,6 +381,15 @@ msg = {
 		'redirect-fix-loop': u'機械人：修復重定向迴圈至%(to)s',
 		'redirect-remove-loop': u'機械人：重定向目標構成循環',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'redirect-fix-double': u'Lopako: Ke kāpili hou i ka hoʻoili pālua iā %(to)s',
+		'redirect-remove-broken': u'Lopako: Hoʻoili i kekahi ʻaoʻao i holoi ʻia aiʻole he ʻaoʻao i hakuʻole ʻia',
+		'redirect-fix-broken-moved': u'Lopako: Ke kāpili hou nei i ka hoʻoili haki o kekahi ʻaoʻao hoʻoneʻe ʻia iā %(to)s',
+		'redirect-fix-loop': u'Lopako: Ke kāpili hou i ka linapoepoe hoʻoili iā %(to)s',
+		'redirect-remove-loop': u'Lopako: Hoʻokino ka māka hoʻoili i kekahi linapoepoe hoʻoili',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Amire80
 	# Author: YaronSh
 	# Author: ערן
@@ -587,6 +596,7 @@ msg = {
 		'redirect-fix-broken-moved': u'യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-fix-loop': u'യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു',
 		'redirect-remove-loop': u'യന്ത്രം: ലക്ഷ്യത്തിലോട്ടുള്ള തിരിച്ചുവിടൽ ഒരു തിരിച്ചുവിടൽ ചക്രം സൃഷ്ടിക്കുന്നു',
+		'redirect-broken-redirect-template': u'{{delete}}',
 	},
 	# Author: Anakmalaysia
 	# Author: Kurniasan
@@ -762,10 +772,13 @@ msg = {
 		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Напрямлїня]] формує петлю напрямлїнь',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
-		'redirect-fix-double': u'Bot: Fixin\' dooble reguidal tae %(to)s',
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deletit or non-existent page',
-		'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
+		'redirect-fix-double': u'Bot: Fixin dooble reguidal til %(to)s',
+		'redirect-remove-broken': u'Robot: Reguidal til ae delytit or non-exeestent page',
+		'redirect-fix-broken-moved': u'Robot: Fixin broken reguidal til muived target page %(to)s',
+		'redirect-fix-loop': u'Robot: Fixin reguidal luip til %(to)s',
+		'redirect-remove-loop': u'Robot: Redirect target forms ae redirect luip',
 		'redirect-broken-redirect-template': u'{{delete}}',
 	},
 	# Author: Teslaton
@@ -890,6 +903,7 @@ msg = {
 		'redirect-remove-loop': u'[[ВП:ТБК#П1|тиз бетерү критерийлары \'\'П.1\'\']] — беркаяда күчеш ясамау',
 	},
 	# Author: Ahonc
+	# Author: Andriykopanytsia
 	# Author: Base
 	# Author: Тест
 	'uk': {
@@ -898,6 +912,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Робот: Виправлення розірваного перенаправлення на сторінку, перейменовану на %(to)s',
 		'redirect-fix-loop': u'бот: виправлення петлі перенаправлень на %(to)s',
 		'redirect-remove-loop': u'бот: перенаправлення формують петлю',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Muhammad Shuaib
 	'ur': {

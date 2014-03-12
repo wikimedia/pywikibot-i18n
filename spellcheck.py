@@ -103,6 +103,10 @@ msg = {
 	'hak': {
 		'spellcheck-checking': u'機械人輔助个拼寫檢查',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'spellcheck-checking': u'He hōʻoiaʻiʻo pela me ke pako',
+	},
 	'he': {
 		'spellcheck-checking': u'בדיקת איות באמצעות בוט',
 	},
@@ -201,6 +205,10 @@ msg = {
 	# Author: Volkov
 	'ru': {
 		'spellcheck-checking': u'орфография с помощью бота',
+	},
+	# Author: John Reid
+	'sco': {
+		'spellcheck-checking': u'Bot-aided speel checker',
 	},
 	# Author: Teslaton
 	'sk': {

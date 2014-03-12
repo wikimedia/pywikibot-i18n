@@ -262,6 +262,12 @@ msg = {
 		'welcome-bad_username': u'機械人：添加需要檢查个用戶名',
 		'welcome-updating': u'機械人：更新日誌',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'welcome-welcome': u'Welina mai!',
+		'welcome-bad_username': u'Lopako: Ke hoʻohui nei i kekahi inoa mea hoʻohana e pono e hōʻoiaʻiʻo',
+		'welcome-updating': u'Lopako: Ke hoʻopuka hou nei i ka papahelu',
+	},
 	# Author: Amire80
 	'he': {
 		'welcome-welcome': u'ברוך הבא!',
@@ -547,6 +553,12 @@ msg = {
 		'welcome-bad_username': u'бот: добавлено подозрительное имя участника',
 		'welcome-updating': u'бот: обновление журнала',
 	},
+	# Author: John Reid
+	'sco': {
+		'welcome-welcome': u'Weelcome!',
+		'welcome-bad_username': u'Robot: Addin ae uisername that needs tae be checked',
+		'welcome-updating': u'Robot: Updatin log',
+	},
 	# Author: පසිඳු කාවින්ද
 	# Author: බිඟුවා
 	'si': {
@@ -579,8 +591,8 @@ msg = {
 	# Author: Rancher
 	'sr': {
 		'welcome-welcome': u'Добро дошли!',
-		'welcome-bad_username': u'Робот: додато корисничко име које треба да се провери',
-		'welcome-updating': u'Робот: ажурирана историја',
+		'welcome-bad_username': u'Робот: додато корисничко име које треба проверити',
+		'welcome-updating': u'Робот: ажуриран дневник',
 	},
 	# Author: Rancher
 	'sr-el': {

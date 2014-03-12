@@ -680,6 +680,17 @@ msg = {
 		'interwiki-removing-modifying': u'機械人：刪除%(removing)s、修改%(modifying)s',
 		'interwiki-modifying-from': u'機械人：更換%(from)s至%(modifying)s',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'interwiki-modifying': u'Lopako: Ke hoʻokāhuli nei iā %(modifying)s',
+		'interwiki-adding-modifying': u'Lopako: Ke hoʻohui nei iā %(adding)s; ke hoʻokāhuli nei iā %(modifying)s',
+		'interwiki-adding-removing': u'Lopako: Ke hoʻohui nei iā %(adding)s; ke holoi nei iā: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Lopako: Ke hoʻohui nei iā %(adding)s; ke holoi nei iā %(removing)s; ke hoʻo kāhuli nei iā %(modifying)s',
+		'interwiki-adding': u'Lopako: Ke hoʻohui nei iā %(adding)s',
+		'interwiki-removing': u'Lopako: Ke holoi nei iā %(removing)s',
+		'interwiki-removing-modifying': u'Lopako: Ke holoi nei iā %(removing)s; ke hoʻokāhuli nei iā %(modifying)s',
+		'interwiki-modifying-from': u'Lopako: Ke hoʻokāhuli ʻia nei ʻo %(from)s iā %(modifying)s',
+	},
 	'he': {
 		'interwiki-modifying': u'בוט משנה: %(modifying)s',
 		'interwiki-adding-modifying': u'בוט מוסיף: %(adding)s משנה: %(modifying)s',
@@ -1655,7 +1666,7 @@ msg = {
 		'interwiki-adding': u'Робот: додато %(adding)s',
 		'interwiki-removing': u'Робот: уклоњено %(removing)s',
 		'interwiki-removing-modifying': u'Робот: уклоњено %(removing)s; измењено %(modifying)s',
-		'interwiki-modifying-from': u'Робот: промењено %(from)s у %(modifying)s',
+		'interwiki-modifying-from': u'Робот: измењено %(from)s у %(modifying)s',
 	},
 	# Author: Rancher
 	'sr-el': {

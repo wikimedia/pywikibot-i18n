@@ -345,6 +345,7 @@ msg = {
 	},
 	# Author: Умар
 	'ce': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Керла дийцаре',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Дийцаре дIачIаьгIна',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Дийцаре хийцаяла',
@@ -750,6 +751,26 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'討論摘要更新：%(page)s裏肚%(num)i項',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'機械人消息',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\n摘要由在%(sign)s生成</noinclude></noinclude>',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'lopako',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ʻaʻole loaʻa ka mea hoʻoponopono kanaka)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) na %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Memo akahele lopako: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Kūkākūkā Hou',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - na [[User:%(user)s]] (%(time)s) i hoʻololi hanawale',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notikala',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'kuapo nei i nā lepili %(tags)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Pani ʻia ke kūkākūkā',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s ua pau nā kūkākūkā apau (ʻaʻohe kiaʻi) - na %(user)s (%(time)s) i hoʻololi hanawale',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Ua hoʻohui i ka hōʻuluʻulu manaʻo kūkākūkā: %(num)i (mau) manaʻo',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Ua loli ʻia ke kūkākūkā',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Ua hoʻohui ʻia ka hōʻuluʻulu manaʻo kūkākūka me ka hoʻomaʻemaʻe ʻana: %(num)i (mau) manaʻo',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Ua hoʻopuka hou i ka hōʻuluʻulu manaʻo kūkākūkā: %(num)i (mau) manaʻo i loko o %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MEMO LOPAKO',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nUa hana ʻia ka hōʻuluʻulu manaʻo mai a ma: %(sign)s</noinclude>',
 	},
 	# Author: Amire80
 	# Author: Ofekalef
@@ -1470,6 +1491,26 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'СООБЩЕНИЕ РОБОТА',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nРезюме составлено: %(sign)s</noinclude>',
 	},
+	# Author: John Reid
+	'sco': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nae Bodie editor foond)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s laist eidit] (%(page_size)s bytes) bi %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot warnishment message: %(page)s "\'\'%(warning)s\'\'"',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'New Collogue',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - laist eidit bi [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notifeecation',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion closed',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s aw discussions hae finished (surveillance stappit) - laist eidit bi %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Discussion summarie added: %(num)i entries',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion chynged',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion summarie added wi clean up: %(num)i entries',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summarie updated: %(num)i entries in %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESSAGE',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSummarie generated fae n at: %(sign)s</noinclude>',
+	},
 	# Author: පසිඳු කාවින්ද
 	# Author: බිඟුවා
 	'si': {
@@ -1557,22 +1598,22 @@ msg = {
 	# Author: Rancher
 	'sr': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'робот',
-		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(нема уредника)',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(није пронађен људски уредник)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s – [%(history_link)s последња измена] (%(page_size)s бајтова) од %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Роботово упозорење: %(page)s „\'\'%(warning)s\'\'“',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Упозорење робота: %(page)s „\'\'%(warning)s\'\'“',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Нови разговор',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – последња измена од [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Обавештење',
-		'thirdparty-drtrigonbot-subster-summary-mod': u'замена ознака %(tags)s',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'замењене ознаке %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Разговор је затворен',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s сви разговори су завршени (надзор је прекинут) – последња измена од %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Додат је опис разговора: %(num)i уноса',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Разговор је измењен',
 		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Додат је опис разговора са чишћењем: %(num)i уноса',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Опис разговора је ажуриран: %(num)i уноса у %(page)s',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТОВА ПОРУКА',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nОпис је створен из и у: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Опис разговора је ажуриран: %(num)i уноса на страници %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ПОРУКА РОБОТА',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nОпис је генерисан из и у: %(sign)s</noinclude>',
 	},
 	# Author: DrTrigon
 	# Author: Rancher

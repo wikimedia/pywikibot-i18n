@@ -8,12 +8,13 @@ msg = {
 		'protect-images': u'Robot: Protecting all images on page %(page)s',
 	},
 	# Author: Geoffrey "GEOFBOT" Mon
+	# Author: Valhallasw
 	# Author: Xqt
 	'qqq': {
 		'protect-links': u'Edit summary when the bot protects all pages linked from a page. Parameters:\n* $(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-linked-pages}}',
 		'protect-simple': u'Edit summary when the bot protects a list of files.',
 		'protect-category': u'Edit summary when the bot protects all pages from a category. Parameters:\n* %(cat)s - category name\nSee also:\n* {{msg-pywikibot|Delete-from-category}}',
-		'protect-ref': u'Edit summary when the bot protects all pages referring from a page. Parameters:\n* %(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-referring-pages}}',
+		'protect-ref': u'Edit summary when the bot protects all pages that link to/transclude a page (Special:WhatLinksHere). Parameters:\n* %(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-referring-pages}}',
 		'protect-images': u'Edit summary when the bot protects all images on a page. Parameters:\n* %(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-images}}',
 	},
 	# Author: Als-Holder
@@ -40,6 +41,14 @@ msg = {
 		'protect-ref': u'Robó: Protexendo toles páxines con referencia dende %(page)s',
 		'protect-images': u'Robó: Protexendo toles imaxes de la páxina %(page)s',
 	},
+	# Author: Red Winged Duck
+	'be-x-old': {
+		'protect-links': u'Робат: абарона ўсіх старонак, на якія ёсьць спасылкі з %(page)s',
+		'protect-simple': u'Робат: абарона сьпісу файлаў.',
+		'protect-category': u'Робат: абарона ўсіх старонак з катэгорыі %(cat)s',
+		'protect-ref': u'Робат: абарона ўсіх старонак, на якія спасылаецца %(page)s',
+		'protect-images': u'Робат: абарона ўсіх выяваў на старонцы %(page)s',
+	},
 	# Author: Edinwiki
 	'bs': {
 		'protect-links': u'Bot: Zaštićivanje svih stranica koje su linkovane sa stranice %(page)s',
@@ -47,6 +56,14 @@ msg = {
 		'protect-category': u'Bot: Zaštićivanje svih stranica iz kategorije %(cat)s',
 		'protect-ref': u'Bot: Zaštićivanje svih stranica prema kojim ima veza sa stranice %(page)s',
 		'protect-images': u'Bot: Zaštićivanje svih slika na stranici %(page)s',
+	},
+	# Author: Alvaro Vidal-Abarca
+	'ca': {
+		'protect-links': u'Robot: Protegint totes les pàgines que s\'enllacen des de %(page)s',
+		'protect-simple': u'Robot: Protegint una llista de fitxers.',
+		'protect-category': u'Robot: Protegint totes les pàgines de la categoria %(cat)s',
+		'protect-ref': u'Robot: Protegint totes les pàgines amb referència des de  %(page)s',
+		'protect-images': u'Robot: Protegint totes les imatges de la pàgina %(page)s',
 	},
 	# Author: DemonioCZ
 	# Author: Mormegil
@@ -73,10 +90,22 @@ msg = {
 		'protect-ref': u'Bot: Schütze alle Seiten, die auf %(page)s verlinken',
 		'protect-images': u'Bot: Schütze alle Bilder auf der Seite %(page)s',
 	},
+	# Author: KuboF
+	'eo': {
+		'protect-links': u'Roboto: Protektitaj ĉiuj paĝoj ligitaj de %(page)s',
+		'protect-simple': u'Roboto: Protekto de listo da dosieroj.',
+		'protect-category': u'Roboto: Protekto de ĉiuj paĝoj de la kategorio %(cat)s',
+		'protect-images': u'Roboto: Protekto de ĉiuj bildoj ĉe la paĝo %(page)s',
+	},
 	# Author: Fitoschido
+	# Author: Sporeunai
+	# Author: VegaDark
 	'es': {
 		'protect-links': u'Robot: Protección de todas las páginas enlazadas en %(page)s',
 		'protect-simple': u'Robot: protección de una lista de archivos.',
+		'protect-category': u'Robot: Protegiendo todas las páginas contenidas en la categoría %(cat)s',
+		'protect-ref': u'Robot: Protegiendo todas las páginas que enlazan hacia %(page)s',
+		'protect-images': u'Robot: Protegiendo todas las imágenes de la página %(page)s',
 	},
 	'fa': {
 		'protect-links': u'ربات:حفاظت تمام صفحه‌هایی که در %(page)s پیوند شده‌اند.',
@@ -110,6 +139,14 @@ msg = {
 		'protect-category': u'Bot: Protexo todas as páxinas da categoría "%(cat)s"',
 		'protect-ref': u'Bot: Protexo todas as páxinas que van dar a "%(page)s"',
 		'protect-images': u'Bot: Protexo todas as imaxes da páxina "%(page)s"',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'protect-links': u'Lopako: Ke hoʻomalu nei i nā ʻaoʻao apau e loulou ʻia mai %(page)s',
+		'protect-simple': u'Lopako: Ke hoʻomalu nei i kekahi papahelu waihona.',
+		'protect-category': u'Lopako: Ke hoʻomalu nei i nā ʻaoʻao apau mai ka mahele %(cat)s',
+		'protect-ref': u'Lopako: Ke hoʻomalu nei i nā ʻaoʻao e kelelou mai mai %(page)s',
+		'protect-images': u'Lopako: Ke hoʻomalu nei i nā kiʻi apau mai ka ʻaoʻao %(page)s',
 	},
 	# Author: Yona b
 	'he': {
@@ -155,6 +192,8 @@ msg = {
 		'protect-links': u'Bot: Alle Sigge schöze, op di vun %(page)s jelengk es.',
 		'protect-simple': u'Bot: En Leß met Datteije schöze.',
 		'protect-category': u'Bot: Alle Sigge uß dä Saachjropp %(cat)s schöze.',
+		'protect-ref': u'Bot: Mer schöze alle Sigge, di ene Lenk op %(page)s han.',
+		'protect-images': u'Bot: Han alle Belder op dä Sigg „%(page)s“ jeschöz.',
 	},
 	# Author: Robby
 	'lb': {
@@ -180,6 +219,14 @@ msg = {
 		'protect-ref': u'Робот: Ги заштитувам сите страници што водат од „%(page)s“',
 		'protect-images': u'Робот: Ги заштитувам сите слики на страницата „%(page)s“',
 	},
+	# Author: Praveenp
+	'ml': {
+		'protect-links': u'യന്ത്രം: %(page)s എന്ന താളിൽ നിന്ന് കണ്ണി ചേർത്തിട്ടുള്ള എല്ലാ താളുകളും സംരക്ഷിക്കുന്നു',
+		'protect-simple': u'യന്ത്രം: പട്ടികയിലെ താളുകൾ സംരക്ഷിക്കുന്നു.',
+		'protect-category': u'യന്ത്രം: %(page)s എന്ന വർഗ്ഗത്തിലെ എല്ലാ താളുകളും സംരക്ഷിക്കുന്നു',
+		'protect-ref': u'യന്ത്രം: %(page)s എന്ന താളിൽ സൂചിപ്പിക്കുന്ന എല്ലാ താളുകളും സംരക്ഷിക്കുന്നു',
+		'protect-images': u'യന്ത്രം: %(page)s താളിലെ എല്ലാ ചിത്രങ്ങളും സംരക്ഷിക്കുന്നു',
+	},
 	# Author: Anakmalaysia
 	'ms': {
 		'protect-links': u'Robot: Melindungi semua laman yang berpaut dari %(page)s',
@@ -203,6 +250,14 @@ msg = {
 		'protect-ref': u'Bot: Protegendo todos os artigos afluentes a %(page)s',
 		'protect-images': u'Bot: Protegendo todas as imagens do artigo %(page)',
 	},
+	# Author: Minisarm
+	'ro': {
+		'protect-links': u'Robot: Protejat toate paginile care se leagă de %(page)s',
+		'protect-simple': u'Robot: Protejat o listă de fișiere.',
+		'protect-category': u'Robot: Protejat toate paginile din categoria %(page)s',
+		'protect-ref': u'Robot: Protejat toate paginile referindu-se la %(page)s',
+		'protect-images': u'Robot: Protejat toate imaginile de pe pagina %(page)s',
+	},
 	# Author: Okras
 	'ru': {
 		'protect-links': u'Робот: Защита всех страниц, на которые стоят ссылки на %(page)s',
@@ -210,6 +265,22 @@ msg = {
 		'protect-category': u'Робот: Защита всех страниц из категории %(cat)s',
 		'protect-ref': u'Робот: Защита всех страниц, на которые идут ссылки с %(page)s',
 		'protect-images': u'Робот: Защита всех изображений на странице %(page)s',
+	},
+	# Author: John Reid
+	'sco': {
+		'protect-links': u'Robot: Protectin aw pages linked fae %(page)s',
+		'protect-simple': u'Robot: Protectin ae leet o files.',
+		'protect-category': u'Robot: Protectin aw pages fae categorie %(cat)s',
+		'protect-ref': u'Robot: Protectin aw pages referring fae %(page)s',
+		'protect-images': u'Robot: Protectin aw eimages on page %(page)s',
+	},
+	# Author: Rancher
+	'sr': {
+		'protect-links': u'Робот: заштићене све странице које потичу из „%(page)s“',
+		'protect-simple': u'Робот: заштићен списак датотека.',
+		'protect-category': u'Робот: заштићене све странице из категорије „%(cat)s“',
+		'protect-ref': u'Робот: заштићене све странице које потичу из „%(page)s“',
+		'protect-images': u'Робот: заштићене све слике на страници „%(page)s“',
 	},
 	# Author: Lokal Profil
 	# Author: WikiPhoenix
@@ -237,11 +308,12 @@ msg = {
 		'protect-images': u'Bot: Khóa tất cả các hình ảnh trên trang “%(page)s”',
 	},
 	# Author: Liuxinyu970226
+	# Author: Yfdyh000
 	'zh': {
 		'protect-links': u'機器人: 保護所有從 %(page)s 連結的頁面',
 		'protect-simple': u'機器人:保護清單中的所有檔案',
 		'protect-category': u'機器人: 保護目錄 %(cat)s 的所有頁面',
-		'protect-ref': u'机器人：保护所有从%(page)s提及的页面',
+		'protect-ref': u'机器人：保护所有链接或嵌入%(page)s的页面',
 		'protect-images': u'機器人: 保護頁面 %(page)s 中的所有圖條',
 	},
 	# Author: Liuxinyu970226

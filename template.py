@@ -200,6 +200,12 @@ msg = {
 		'template-changing': u'機械人更改%(num)d個模板：%(list)s',
 		'template-substituting': u'機械人替換%(num)d個模板：%(list)s',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'template-removing': u'Lopako: Ke wehe nei i {{PLURAL:%(num)d|anakuhi|mau anakuhi}}: %(list)s',
+		'template-changing': u'Lopako: Ke hoʻololi nei i {{PLURAL:%(num)d|anakuhi|mau anakuhi}}: %(list)s',
+		'template-substituting': u'Lopako: Ke kuapololi i {{PLURAL:%(num)d|anakuhi|mau anakuhi}}: %(list)s',
+	},
 	'he': {
 		'template-removing': u'בוט: מסיר {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
 		'template-changing': u'בוט: משנה {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
@@ -387,6 +393,12 @@ msg = {
 		'template-removing': u'бот: удаление {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
 		'template-changing': u'бот: замена {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
 		'template-substituting': u'бот: подстановка {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s',
+	},
+	# Author: John Reid
+	'sco': {
+		'template-removing': u'Robot: Remuivin {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-changing': u'Robot: Chyngin {{PLURAL:%(num)d|template|templates}}: %(list)s',
+		'template-substituting': u'Robot: Substitutin {{PLURAL:%(num)d|template|templates}}: %(list)s',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

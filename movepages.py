@@ -133,6 +133,10 @@ msg = {
 	'hak': {
 		'movepages-moving': u'機械人：移動頁面',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'movepages-moving': u'Lopako: Ua hoʻoneʻe i ka ʻaoʻao',
+	},
 	'he': {
 		'movepages-moving': u'בוט: מעביר דף',
 	},
@@ -284,6 +288,10 @@ msg = {
 	# Author: Volkov
 	'ru': {
 		'movepages-moving': u'переименование страницы при помощи бота',
+	},
+	# Author: John Reid
+	'sco': {
+		'movepages-moving': u'Robot: Muived page',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

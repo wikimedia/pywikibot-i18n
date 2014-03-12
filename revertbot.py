@@ -15,6 +15,10 @@ msg = {
 	'ast': {
 		'revertbot-revert': u'Robó:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s',
 	},
+	# Author: Red Winged Duck
+	'be-x-old': {
+		'revertbot-revert': u'Робат: вяртаньне да вэрсіі %(revid)s аўтарства %(author)s за %(timestamp)s',
+	},
 	# Author: Edinwiki
 	'bs': {
 		'revertbot-revert': u'Bot: Vraćeno na reviziju %(revid)s od korisnika %(author)s, %(timestamp)s',
@@ -35,6 +39,14 @@ msg = {
 	'de': {
 		'revertbot-revert': u'Bot: Zurückgesetzt auf die Version %(revid)s von %(author)s von %(timestamp)s',
 	},
+	# Author: Geraki
+	'el': {
+		'revertbot-revert': u'Bot: Επαναφορά στην έκδοση %(revid)s από τον %(author)s στις %(timestamp)s',
+	},
+	# Author: VegaDark
+	'es': {
+		'revertbot-revert': u'Bot: Revertido a la revisión %(revid)s de %(author)s en %(timestamp)s',
+	},
 	# Author: Reza1615
 	'fa': {
 		'revertbot-revert': u'ربات: واگردانی به نسخهٔ  %(revid)s توسط %(author)s در %(timestamp)s',
@@ -51,6 +63,10 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'revertbot-revert': u'Bot: Reverto á revisión %(revid)s feita por %(author)s o %(timestamp)s',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'revertbot-revert': u'Pako: Ua hoʻihoʻi i ke kāmua %(revid)s na %(author)s i hana ma %(timestamp)s',
 	},
 	# Author: Yona b
 	'he': {
@@ -80,6 +96,10 @@ msg = {
 	'mk': {
 		'revertbot-revert': u'Бот: Враќам на ревизијата %(revid)s на %(author)s од %(timestamp)s',
 	},
+	# Author: Praveenp
+	'ml': {
+		'revertbot-revert': u'യന്ത്രം: %(timestamp)s-നു %(author)s ചെയ്ത നാൾപ്പതിപ്പ് %(revid)s എന്നതിലേക്ക് മുൻപ്രാപനം ചെയ്യുന്നു',
+	},
 	# Author: Anakmalaysia
 	'ms': {
 		'revertbot-revert': u'Bot: Mengembalikan kepada %(revid)s oleh %(author)s pada %(timestamp)s',
@@ -92,6 +112,14 @@ msg = {
 	'ru': {
 		'revertbot-revert': u'Бот: возврат к версии %(revid)s участника %(author)s от %(timestamp)s',
 	},
+	# Author: John Reid
+	'sco': {
+		'revertbot-revert': u'Bot: Reverted til reveesion %(revid)s bi %(author)s oan %(timestamp)s',
+	},
+	# Author: Rancher
+	'sr': {
+		'revertbot-revert': u'Бот: враћено на измену %(revid)s аутора %(author)s од %(timestamp)s',
+	},
 	# Author: Andriykopanytsia
 	'uk': {
 		'revertbot-revert': u'Бот: Повернулися до редакції %(revid)s від %(author)s за %(timestamp)s',
@@ -103,5 +131,9 @@ msg = {
 	# Author: Yfdyh000
 	'zh': {
 		'revertbot-revert': u'机器人：恢复到%(author)s在%(timestamp)s作出的修订%(revid)s',
+	},
+	# Author: Liuxinyu970226
+	'zh-hant': {
+		'revertbot-revert': u'機械人：回退至由%(author)s於%(timestamp)s做出之修訂%(revid)s',
 	},
 };

@@ -210,11 +210,12 @@ msg = {
 		'pywikibot-enter-finished-browser': u'Πιέστε το πλήκτρο Enter, όταν τελειώσει στο πρόγραμμα περιήγησης.',
 	},
 	# Author: Blahma
+	# Author: KuboF
 	# Author: Objectivesea
 	'eo': {
 		'pywikibot-enter-xml-filename': u'Bonvolu enmeti la nomon de la XML-sekurkopia dosiero:',
 		'pywikibot-enter-page-processing': u'Kiu paĝo estu prilaborita?',
-		'pywikibot-enter-file-links-processing': u'Ligiloj al kiu bildopaĝo estu prilaboritaj?',
+		'pywikibot-enter-file-links-processing': u'Ligiloj al kiu dosieropaĝo estu prilaboritaj?',
 		'pywikibot-enter-namespace-number': u'Bonvolu enmeti nomspacon per ties numero:',
 		'pywikibot-enter-new-text': u'Bonvolu enmeti la novan tekston:',
 		'pywikibot-enter-category-name': u'Bonvolu enmeti la nomon de kategorio:',
@@ -316,6 +317,16 @@ msg = {
 		'pywikibot-enter-new-text': u'請輸入新文字：',
 		'pywikibot-enter-category-name': u'請輸入分類名稱：',
 		'pywikibot-enter-finished-browser': u'搞掂後請撳下Enter鍵。',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'pywikibot-enter-xml-filename': u'E kikokiko i ka inoa waihona o ka hoʻohanini hōkeo ʻikepili XML:',
+		'pywikibot-enter-page-processing': u'Haʻaliu ka ʻaoʻao hea?',
+		'pywikibot-enter-file-links-processing': u'Haʻaliu i ka loulou i ka ʻaoʻao waihona hea?',
+		'pywikibot-enter-namespace-number': u'E ʻoluʻolu, e kikokiko i kekahi lewainoa kokoke i kāna helu:',
+		'pywikibot-enter-new-text': u'E ʻoluʻolu, e kikokiko i ke kikokikona hou:',
+		'pywikibot-enter-category-name': u'E ʻoluʻolu, e kikokiko i ka inoa mahele:',
+		'pywikibot-enter-finished-browser': u'E komi i ke kāhoʻi i ka hana pau ʻana o ke pōlamu pūnaewele.',
 	},
 	# Author: Amire80
 	'he': {
@@ -635,6 +646,16 @@ msg = {
 		'pywikibot-enter-category-name': u'Пожалуйста, введите название категории:',
 		'pywikibot-enter-finished-browser': u'Нажмите клавишу Enter, когда закончите вносить изменения в браузере.',
 	},
+	# Author: John Reid
+	'sco': {
+		'pywikibot-enter-xml-filename': u'Please enter the XML doump\'s filename:',
+		'pywikibot-enter-page-processing': u'Whit page shid be processed?',
+		'pywikibot-enter-file-links-processing': u'Links til whit file page shid be processed?',
+		'pywikibot-enter-namespace-number': u'Please enter ae namespace bi its nummer:',
+		'pywikibot-enter-new-text': u'Please enter the new tex:',
+		'pywikibot-enter-category-name': u'Please enter the category name:',
+		'pywikibot-enter-finished-browser': u'Press Enter whan finish\'t in browser.',
+	},
 	# Author: පසිඳු කාවින්ද
 	'si': {
 		'pywikibot-enter-new-text': u'කරුණාකර නව පෙළ යොදන්න:',
@@ -679,13 +700,13 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'pywikibot-enter-xml-filename': u'Унесите назив XML исписа:',
-		'pywikibot-enter-page-processing': u'Која страница треба да се обради?',
-		'pywikibot-enter-file-links-processing': u'Треба да се обраде везе до које слике?',
+		'pywikibot-enter-xml-filename': u'Унесите име XML исписа:',
+		'pywikibot-enter-page-processing': u'Коју страницу желите да обрадите?',
+		'pywikibot-enter-file-links-processing': u'За које датотеке желите да обрадите везе?',
 		'pywikibot-enter-namespace-number': u'Унесите именски простор поред његовог броја:',
 		'pywikibot-enter-new-text': u'Унесите нови текст:',
-		'pywikibot-enter-category-name': u'Унесите назив категорије:',
-		'pywikibot-enter-finished-browser': u'Притисните ентер када завршите у прегледачу.',
+		'pywikibot-enter-category-name': u'Унесите име категорије:',
+		'pywikibot-enter-finished-browser': u'Притисните Enter када завршите у прегледачу.',
 	},
 	# Author: Rancher
 	'sr-el': {

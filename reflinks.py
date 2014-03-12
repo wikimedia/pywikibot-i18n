@@ -29,7 +29,9 @@ msg = {
 	},
 	# Author: Red Winged Duck
 	'be-x-old': {
+		'reflinks-autogen': u'згенэравана аўтаматычна',
 		'reflinks-comment': u'Загаловак дададзены робатам',
+		'reflinks-msg': u'Робат: даданьне загалоўкаў у зноскі з мэтай пазьбегнуць дублікатаў, глядзіце [[%(manual)s|частыя пытаньні]]',
 	},
 	# Author: Fohanno
 	'br': {
@@ -79,6 +81,11 @@ msg = {
 		'reflinks-comment': u'Τίτλος που δημιουργήθηκε από bot',
 		'reflinks-msg': u'Bot: Μετατροπή απλών αναφορών, χρησιμοποιώντας ονόματα ref για να αποφευχθούν διπλότυπες, δείτε το [[%(manual)s|FAQ]]',
 	},
+	# Author: KuboF
+	'eo': {
+		'reflinks-autogen': u'kreita aŭtomate',
+		'reflinks-comment': u'Titolo kreita de roboto',
+	},
 	# Author: Fitoschido
 	'es': {
 		'reflinks-autogen': u'generado automáticamente',
@@ -114,14 +121,23 @@ msg = {
 		'reflinks-comment': u'Título xerado por un bot',
 		'reflinks-msg': u'Bot: Melloro as referencias sen formato, poño nomes ás referencias para evitar duplicados ([[%(manual)s|preguntas frecuentes]])',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'reflinks-autogen': u'hikahaku',
+		'reflinks-comment': u'he poʻo hakupako',
+		'reflinks-msg': u'Pako: Ke kuapo nei i nā kūmole wale nō mao ka hana ʻana o nā inoa kūmole no ka ʻalo inoapālua ʻana. ʻIke i ka [[%(manual)s|NNP (Nīnau i Noi Pinepine)]]',
+	},
 	# Author: Yona b
+	# Author: Ypnypn
 	'he': {
+		'reflinks-autogen': u'נוצר אוטומטית',
 		'reflinks-comment': u'בוט יוצר כותרת',
 		'reflinks-msg': u'בוט:מלביש קישורים חיצוניים. (FAQ : [[%(manual)s]])',
 	},
+	# Author: Dj
 	'hu': {
 		'reflinks-comment': u'Robot generálta cím',
-		'reflinks-msg': u'Robot: Forráshivatkozások kibővítése a hivatkozott oldal címével',
+		'reflinks-msg': u'Robot: Forráshivatkozások kibővítése a hivatkozott oldal címével, lásd [[%(manual)s|GyIK]]',
 	},
 	# Author: M hamlet
 	'hy': {
@@ -177,6 +193,7 @@ msg = {
 	'ml': {
 		'reflinks-autogen': u'സ്വയം നിർമ്മിച്ചത്',
 		'reflinks-comment': u'ബോട്ട് നിർമ്മിച്ച തലക്കെട്ട്',
+		'reflinks-msg': u'യന്ത്രം: ആവർത്തിക്കൽ ഒഴിവാക്കാനായി വെറും അവലംബങ്ങൾ പേരുപയോഗിക്കുന്ന വിധത്തിലേക്ക് മാറ്റുന്നു, [[%(manual)s|പതിവുചോദ്യങ്ങൾ]] കാണുക',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -231,6 +248,18 @@ msg = {
 		'reflinks-autogen': u'сгенерировано автоматически',
 		'reflinks-comment': u'Заголовок добавлен ботом',
 		'reflinks-msg': u'бот: добавление заголовков в сноски; исправление двойных сносок, см. [[%(manual)s|ЧаВо]]',
+	},
+	# Author: John Reid
+	'sco': {
+		'reflinks-autogen': u'autaegenerated',
+		'reflinks-comment': u'Bot generated title',
+		'reflinks-msg': u'Bot: Convertin bare references, uising ref names tae avoid duplicates, see [[%(manual)s|FAQ]]',
+	},
+	# Author: Rancher
+	'sr': {
+		'reflinks-autogen': u'аутоматски генерисано',
+		'reflinks-comment': u'Наслов који је генерисао бот',
+		'reflinks-msg': u'Бот: исправљени наводи помоћу именованих навода да би се избегли дупликати; погледајте [[%(manual)s|ЧПП]]',
 	},
 	# Author: Tobulos1
 	# Author: WikiPhoenix

@@ -131,6 +131,10 @@ msg = {
 	'hak': {
 		'unlink-unlinking': u'機械人： 斷開連結" %s "',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'unlink-unlinking': u'Lopako: Ke loulouʻole nei iā "%s"',
+	},
 	'he': {
 		'unlink-unlinking': u'בוט: מסיר קישורים לדף "%s"',
 	},
@@ -261,6 +265,10 @@ msg = {
 	# Author: Volkov
 	'ru': {
 		'unlink-unlinking': u'бот: удаление ссылки «%s»',
+	},
+	# Author: John Reid
+	'sco': {
+		'unlink-unlinking': u'Robot: Onlinkin "%s"',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

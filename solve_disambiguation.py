@@ -372,6 +372,16 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(吂知)',
 		'solve_disambiguation-links-removed': u'機械人輔助消除歧義：%(from)s - 移除鏈接。',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'solve_disambiguation-redirect-removed': u'Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - He (mau) loulou e wehe ʻia',
+		'solve_disambiguation-redirect-resolved': u'Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Ua hoʻololi i nā loulou iā %(to)s',
+		'solve_disambiguation-links-resolved': u'Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Ua hoʻololi i nā loulou iā %(to)s',
+		'solve_disambiguation-redirect-adding-dn-template': u'Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Kaha ʻia no ke kōkua kahuna',
+		'solve_disambiguation-adding-dn-template': u'Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Kaha ʻia no ke kōkua kahuna',
+		'solve_disambiguation-unknown-page': u'(ʻikeʻole)',
+		'solve_disambiguation-links-removed': u'Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - He (mau) loulou e wehe ʻia',
+	},
 	# Author: Amire80
 	'he': {
 		'solve_disambiguation-redirect-removed': u'הסרת קישור לדף פירושונים באמצעות בוט: %(from)s',
@@ -821,10 +831,11 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(незнаме)',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
 		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
-		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambiguation: %(from)s - Chynged link(s) tae %(to)s',
-		'solve_disambiguation-links-resolved': u'Robot-assisted disambiguation: %(from)s - Chynged link(s) tae %(to)s',
+		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged link(s) tae %(to)s',
+		'solve_disambiguation-links-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged link(s) tae %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
 		'solve_disambiguation-unknown-page': u'(unknown)',

@@ -149,6 +149,10 @@ msg = {
 	'hak': {
 		'noreferences-add-tag': u'機械人：添加缺少个<references/>標記',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'noreferences-add-tag': u'Lopako: Ke hoʻohui nei i ka lepili nele <references/>',
+	},
 	'he': {
 		'noreferences-add-tag': u'בוט: מוסיף תגית <references /> חסרה',
 	},
@@ -296,6 +300,10 @@ msg = {
 	'ru': {
 		'noreferences-add-tag': u'бот добавил отсутствующий тег <references />',
 	},
+	# Author: John Reid
+	'sco': {
+		'noreferences-add-tag': u'Robot: Adding tint <references /> tag',
+	},
 	# Author: Wizzard
 	'sk': {
 		'noreferences-add-tag': u'Robot doplnil chýbajúci tag <references />',
@@ -314,7 +322,7 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'noreferences-add-tag': u'Робот: додата одсутна ознака <references />',
+		'noreferences-add-tag': u'Робот: додата ознака <references /> која недостаје',
 	},
 	# Author: Rancher
 	'sr-el': {
