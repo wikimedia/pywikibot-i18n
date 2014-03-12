@@ -27,6 +27,11 @@ msg = {
 		'commons_link-template-added': u'Робат: дадаваньне шаблёну Вікісховішча',
 		'commons_link-cat-template-added': u'Робат: дадаваньне шаблёну катэгорыі Вікісховішча',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'commons_link-template-added': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：མཉམ་སྤྱོད་གི་གཅོད་འབིགས་དཔེ་ཚད་ཚུད་ཡོད།',
+		'commons_link-cat-template-added': u'མི་གཟུགས་འཕྲུལ་ཆས་ ： མཉམ་སྤྱོད་ཀྱི་ གཅོད་འབིགས་དཔེ་ཚད། ཀེཊ་ ཚུད་ཡོད།',
+	},
 	# Author: Edinwiki
 	'bs': {
 		'commons_link-template-added': u'Bot: dodan commons šablon',
@@ -51,6 +56,16 @@ msg = {
 		'commons_link-template-added': u'Bot: Binde Commons-Vorlage ein',
 		'commons_link-cat-template-added': u'Bot: Binde Commonscat-Vorlage ein',
 	},
+	# Author: Geraki
+	'el': {
+		'commons_link-template-added': u'Robot: Προσθήκη προτύπου commons',
+		'commons_link-cat-template-added': u'Robot: Προσθήκη προτύπου commonscat',
+	},
+	# Author: KuboF
+	'eo': {
+		'commons_link-template-added': u'Roboto: Aldono de la ŝablono commons',
+		'commons_link-cat-template-added': u'Roboto: Aldono de la ŝablono commonscat',
+	},
 	# Author: Salvador alc
 	'es': {
 		'commons_link-template-added': u'Robot: Incluir plantilla commons',
@@ -74,6 +89,11 @@ msg = {
 	'gl': {
 		'commons_link-template-added': u'Bot: Inclúo o modelo de Commons',
 		'commons_link-cat-template-added': u'Bot: Inclúo o modelo "commonscat"',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'commons_link-template-added': u'Lopako: Loaʻa ka anakuhi kahilehulehu',
+		'commons_link-cat-template-added': u'Lopako: Loaʻa ka anakuhi kahilehulehu seketa',
 	},
 	'he': {
 		'commons_link-template-added': u'בוט: מוסיף תבנית Commons',
@@ -124,6 +144,11 @@ msg = {
 		'commons_link-template-added': u'Робот: Вклучувам шаблон од Ризницата',
 		'commons_link-cat-template-added': u'Робот: Го вклучувам шаблонот за врска до ризницата (Commonscat)',
 	},
+	# Author: Praveenp
+	'ml': {
+		'commons_link-template-added': u'യന്ത്രം: കോമൺസ് ഫലകം ഉൾപ്പെടുത്തൽ',
+		'commons_link-cat-template-added': u'യന്ത്രം:കോമൺസ് വർഗ്ഗം ഫലകം ഉൾപ്പെടുത്തൽ',
+	},
 	# Author: Anakmalaysia
 	'ms': {
 		'commons_link-template-added': u'Robot: Menyisipkan templat Commons',
@@ -139,6 +164,11 @@ msg = {
 		'commons_link-template-added': u'Robot: sjabloon commons toegevoegd',
 		'commons_link-cat-template-added': u'Robot: sjabloon commonscat toegevoegd',
 	},
+	# Author: Dalis
+	'pl': {
+		'commons_link-template-added': u'Robot: Włącz szablon commons',
+		'commons_link-cat-template-added': u'Robot: Włącz szablon commonscat',
+	},
 	# Author: Minisarm
 	'ro': {
 		'commons_link-template-added': u'Robot: Introdus format commons',
@@ -148,6 +178,16 @@ msg = {
 	'ru': {
 		'commons_link-template-added': u'Робот: включение шаблона Викисклада',
 		'commons_link-cat-template-added': u'Робот: включение шаблона категории Викисклада',
+	},
+	# Author: John Reid
+	'sco': {
+		'commons_link-template-added': u'Robot: Incluide commyns template',
+		'commons_link-cat-template-added': u'Robot: Incluide commynscat template',
+	},
+	# Author: Rancher
+	'sr': {
+		'commons_link-template-added': u'Робот: додат шаблон Оставе',
+		'commons_link-cat-template-added': u'Робот: додат шаблон за везу до Оставе',
 	},
 	# Author: Andriykopanytsia
 	'uk': {
@@ -164,8 +204,14 @@ msg = {
 		'commons_link-template-added': u'באט: איינשליסן קאמאנס מוסטער',
 		'commons_link-cat-template-added': u'באט: איינשליסן קאמאנסקאט מוסטער',
 	},
+	# Author: Liuxinyu970226
 	'zh': {
-		'commons_link-template-added': u'機器人: 增加commons模板',
-		'commons_link-cat-template-added': u'機器人: 增加commonscat模板',
+		'commons_link-template-added': u'机器人：增加commons模板',
+		'commons_link-cat-template-added': u'机器人：增加commonscat模板',
+	},
+	# Author: Liuxinyu970226
+	'zh-hant': {
+		'commons_link-template-added': u'機械人：包含commons模板',
+		'commons_link-cat-template-added': u'機械人：包含commonscat模板',
 	},
 };

@@ -87,6 +87,11 @@ msg = {
 		'cosmetic_changes-standalone': u'বট: কসমেটিক পরিবর্তন',
 		'cosmetic_changes-append': u'; কসমেটিক পরিবর্তন',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'cosmetic_changes-standalone': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：བཟོ་བཀོད་ཀྱི་འགྱུར་ལྡོག།',
+		'cosmetic_changes-append': u'；བཟོ་འཀོད་ཀྱི་འགྱུར་ལྡོག།',
+	},
 	'br': {
 		'cosmetic_changes-standalone': u'Bot: Kemm dister',
 		'cosmetic_changes-append': u'; Kemm dister',
@@ -211,6 +216,11 @@ msg = {
 	'hak': {
 		'cosmetic_changes-standalone': u'機械人：整潔化',
 		'cosmetic_changes-append': u';整潔化更改',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'cosmetic_changes-standalone': u'Lopako: Nā hoʻololi helehelena',
+		'cosmetic_changes-append': u'; nā hoʻololi helehelena',
 	},
 	'he': {
 		'cosmetic_changes-standalone': u'בוט: שינויים קוסמטיים',

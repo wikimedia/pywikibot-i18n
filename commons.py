@@ -64,6 +64,11 @@ msg = {
 		'commons-file-moved': u'[[:Barakas:%(localfile)s|Barakas]] dipindahakan ka [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Barakas naya wahini ada di [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'commons-file-moved': u'[[:File:%(localfile)s|ཡིག་སྣོད། ]] གནས་སྤོས་བྱས་པ་ [[:commons:File:%(commonsfile)s|ཐུན་མོང་གི ་ཡིག་སྣོད་ཐོག།]].',
+		'commons-file-now-available': u'ཡིག་ཆ་འདི་ད་ལྟ་འདིར་ཡོད། [[:commons:File:%(commonsfile)s|ཝེ་ཁི་རིག་མཛོད་མཉམ་སྤྱོད་གི་སྟེགས་བུ།]]',
+	},
 	# Author: Fulup
 	'br': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Restr]] kaset da [[:commons:File:%(commonsfile)s|commons]].',
@@ -168,6 +173,11 @@ msg = {
 	'hak': {
 		'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
 		'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有邇隻檔案。',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'commons-file-moved': u'Ua hoʻouna ka [[:File:%(localfile)s|Waihona]] i [[:commons:File:%(commonsfile)s|kahi lehulehu]].',
+		'commons-file-now-available': u'Aia ka waihona ma [[:commons:File:%(commonsfile)s|kahi lehulehu Wikimīkia]].',
 	},
 	# Author: Amire80
 	'he': {
@@ -370,9 +380,10 @@ msg = {
 		'commons-file-now-available': u'Файл теперь доступен на [[:commons:File:%(commonsfile)s|Викискладе]].',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] flitted tae [[:commons:File:%(commonsfile)s|commons]].',
-		'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+		'commons-file-now-available': u'File is nou available oan [[:commons:File:%(commonsfile)s|Wikimedia Commyns]].',
 	},
 	# Author: Teslaton
 	# Author: Wizzard
@@ -399,7 +410,7 @@ msg = {
 	# Author: Rancher
 	'sr': {
 		'commons-file-moved': u'[[:File:%(localfile)s|Датотека]] је премештена у [[:commons:File:%(commonsfile)s|Оставу]].',
-		'commons-file-now-available': u'Датотека је сада доступна у [[:commons:File:%(commonsfile)s|Викимедијиној остави]].',
+		'commons-file-now-available': u'Датотека је сада доступна на [[:commons:File:%(commonsfile)s|Остави]].',
 	},
 	# Author: Rancher
 	'sr-el': {

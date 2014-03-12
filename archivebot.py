@@ -119,6 +119,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(আর্কাইভ পূর্ণ)',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'archivebot-older-than': u'གོང་དུ་',
+		'archivebot-page-summary': u'མི་གཟུགས་འཕྲུལ་ཆས་ : ཡིག་མཛོད། %(count)d ཙམ་(%(why)s འདིར་གནས་སྤོས་ %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ཡིག་མཛོད་ཕྱོགས་བསྡུས།)',
+		'archivebot-archive-summary': u'མི་གཟུགས་འཕྲུལ་ཆས་ : ཡིག་མཛོད་ནང་གི་ %(count)d ཙམ་ཞིག་ [[%(from)s]] བགྲོ་གླེང་ནས།',
+	},
 	# Author: Fulup
 	# Author: Y-M D
 	'br': {
@@ -337,6 +345,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(存檔滿矣)',
 		'archivebot-archive-summary': u'機械人：從%(from)s存檔%(count)d。',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'archivebot-older-than': u'kahiko aʻe ma mua o',
+		'archivebot-page-summary': u'Lopako: Ke papaʻa nei i %(count)d {{PLURAL:%(count)d|lopi|mau lopi}} (%(why)s) i %(archives)s',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(PIHA KA WAIHONAʻIKE)',
+		'archivebot-archive-summary': u'Lopako: Ke papaʻa nei i %(count)d {{PLURAL:%(count)d|lopi|mau lopi}} mai [[%(from)s]].',
 	},
 	# Author: Amire80
 	# Author: Ofekalef
@@ -726,6 +742,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(सम्पूर्णं पुरालेखीक्रियताम्)',
 	},
+	# Author: John Reid
+	'sco': {
+		'archivebot-older-than': u'aulder than',
+		'archivebot-page-summary': u'Robot: Archivin %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) til %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ARCHIVE FUL)',
+		'archivebot-archive-summary': u'Robot: Archivin %(count)d {{PLURAL:%(count)d|thread|threads}} fae [[%(from)s]].',
+	},
 	# Author: පසිඳු කාවින්ද
 	# Author: බිඟුවා
 	'si': {
@@ -770,10 +794,10 @@ msg = {
 	# Author: Rancher
 	'sr': {
 		'archivebot-older-than': u'старије од',
-		'archivebot-page-summary': u'{{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} (%(why)s) у %(archives)s.',
+		'archivebot-page-summary': u'Робот: {{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} (%(why)s) у %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(АРХИВА ЈЕ ПУНА)',
-		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} из [[%(from)s]].',
+		'archivebot-archive-summary': u'Робот: {{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} из [[%(from)s]].',
 	},
 	# Author: Rancher
 	'sr-el': {

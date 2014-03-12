@@ -139,6 +139,15 @@ msg = {
 		'category_redirect-add-template': u'বট: রক্ষণাবেক্ষণের জন্য বিষয়শ্রেণী পুনর্নির্দেশ টেমপ্লেট যোগ করছে',
 		'category_redirect-fix-double': u'বট: দ্বিপুনর্নির্দেশনা ঠিক করছে',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'category_redirect-comment': u'སྡེ་ཚན་མི་གཟུགས་འཕྲུལ་ཆས་ཉར་འཚག་ཁ་ཕྱོགས་དུ་བསྐྱར་སྟོན་བྱས་པ།',
+		'category_redirect-change-category': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：ཁ་ཕྱོགས་བསྐྱོར་སྟོན་གི་སྡེ་ཚན་  [[:%(oldCatLink)s|%(oldCatTitle)s]] ནས་  [[:%(newCatLink)s|%(newCatTitle)s]] བརྗེ་བ།',
+		'category_redirect-add-template': u'མི་གཟུགས་འཕྲུལ་ཆས་ : ཁ་ཕྱོགས་བསྐྱར་སྟོན་གི་གཅོད་འབིགས་ཀྱི་དཔེ་ཚད་སྡེ་ཚན་ཉར་འཚག་དུ་སྣོན་པ།',
+		'category_redirect-edit-request': u'གཤམ་གི་ འགོག་སྲུང་བྱས་པའི་ཤོག་ངོས་རྣམས་སྡེ་ཚན་འབྲེལ་མཐུད་ཁ་སྐོང་དུ་བྱེད་དགོས་པ་མཁོ་བར་རྩད་རྟོགས་བྱུང་སོང།  : %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s འདི་ནང་ཡོད་པའི་ %(oldcat)s, ཁ་ཕྱོགས་བསྐྱར་སྟོན་བྱེད་གནས་ %(newcat)s',
+		'category_redirect-fix-double': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：ཁ་ཕྱོགས་བསྐྱར་སྟོན་ཉིས་བརྩེགས་ཅན་བཟོ་བཅོས་རྒྱག་པ།',
+	},
 	# Author: Fulup
 	'br': {
 		'category_redirect-comment': u'Bot derc\'hel e ratre ar rummadoù adkaset',
@@ -350,6 +359,15 @@ msg = {
 		'category_redirect-edit-request': u'以下被保護頁面已經被檢測到要更新分類連結：%(itemlist)s',
 		'category_redirect-edit-request-item': u'%(title)s係在%(oldcat)s，遐係一隻連結到%(newcat)s个重定向',
 		'category_redirect-fix-double': u'機械人：修復雙重重定向',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'category_redirect-comment': u'Lopako mālama mahele hoʻoili',
+		'category_redirect-change-category': u'Lopako: Hoʻololi i ka mahele hoʻoili ʻia [[:%(oldCatLink)s|%(oldCatTitle)s]] iā [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Lopako: Ke hoʻohui nei i kekahi anakuhi hoʻoili mahele no ka mālama kahua ʻana',
+		'category_redirect-edit-request': u'Pono kēia mau ʻaoʻao hoʻomaluʻia e hoʻopuka hou i nā loulou mahele: %(itemlist)s',
+		'category_redirect-edit-request-item': u'*Aia ʻo %(title)s i loko o %(oldcat)s, he ʻaoʻao hoʻoili ʻo %(newcat)s',
+		'category_redirect-fix-double': u'Lopako: Ke kāpili hou nei i ka hoʻoili pālua',
 	},
 	# Author: Amire80
 	'he': {
@@ -723,10 +741,11 @@ msg = {
 		'category_redirect-fix-double': u'Робот: справив двоїте напрямлїня',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
 		'category_redirect-comment': u'Category redirect maintenance bot',
 		'category_redirect-change-category': u'Robot: chynge redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] tae [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Robot: adding category redirect template for maintenance',
+		'category_redirect-add-template': u'Robot: addin categerie redirect template fer maintenance',
 		'category_redirect-edit-request': u'The following protected pages have been detected as needin\' updates tae category links: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect tae %(newcat)s',
 		'category_redirect-fix-double': u'Bot: fixin\' dooble-reguidals',
@@ -771,11 +790,11 @@ msg = {
 	# Author: Rancher
 	'sr': {
 		'category_redirect-comment': u'Робот за одржавање преусмерених категорија',
-		'category_redirect-change-category': u'Робот: мења преусмерење категорије [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Робот: додат шаблон за преусмерену категорију за одржавање',
-		'category_redirect-edit-request': u'Следеће заштићене странице имају застареле везе категорија: %(itemlist)s',
+		'category_redirect-change-category': u'Робот: промењена преусмерена категорија [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Робот: додат шаблон за преусмерену категорију ради одржавања',
+		'category_redirect-edit-request': u'Следећим заштићеним страницама потребно је ажурирање веза категорија: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s',
-		'category_redirect-fix-double': u'Бот: исправљена двострука преусмерења',
+		'category_redirect-fix-double': u'Робот: исправљена двострука преусмерења',
 	},
 	# Author: Rancher
 	'sr-el': {

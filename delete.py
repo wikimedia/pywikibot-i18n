@@ -94,6 +94,11 @@ msg = {
 		'delete-from-file': u'Робат: выдаленьне сьпісу старонак.',
 		'delete-linked-pages': u'Робат: выдаліў усе старонкі зьвязаныя з %(page)s',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'delete-images': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：%(page)s ཤོག་ངོས་ཐོག་གི་བརྙན་རིས་རྣམས་སུབ་བཞིན་པ།',
+		'delete-referring-pages': u'མི་གཟུགས་འཕྲུལ་ཆས་ ： %(page)s དང་འབྲེལ་བའི་ཤོག་ངོས་ཐ་དག་སུབ་བཞིན་པ།',
+	},
 	# Author: Fohanno
 	# Author: Fulup
 	'br': {
@@ -189,13 +194,14 @@ msg = {
 	},
 	# Author: Airon90
 	# Author: Blahma
+	# Author: KuboF
 	# Author: Objectivesea
 	# Author: Remux
 	'eo': {
 		'delete-images': u'Roboto: Forigado de ĉiuj bildoj ĉe la paĝo %(page)s',
 		'delete-referring-pages': u'Roboto: Forigado de ĉiuj paĝoj, kiuj ligas al %(page)s',
 		'delete-from-category': u'Roboto: Forigado de ĉiuj paĝoj de la kategorio %(page)s',
-		'delete-from-file': u'Roboto: Forigado de listo da dosieroj.',
+		'delete-from-file': u'Roboto: Forigo de listo da paĝoj.',
 		'delete-linked-pages': u'Roboto: Forigante ĉiujn paĝojn ligatajn el %(page)s',
 	},
 	# Author: Invadinado
@@ -284,6 +290,14 @@ msg = {
 		'delete-from-file': u'機械人：刪除列表中个檔案。',
 		'delete-linked-pages': u'機械人：删除所有從%(page)s鏈接个頁面',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'delete-images': u'Lopako: Ke holoi nei i nā kiʻi apau ma ka ʻaoʻao %(page)s',
+		'delete-referring-pages': u'Lopako: Ke holoi nei i nā ʻaoʻao apau e kelelou mai ka ʻaoʻao %(page)s',
+		'delete-from-category': u'Lopako: Ke holoi nei i nā ʻaoʻao apau mai ka mahele %(page)s',
+		'delete-from-file': u'Lopako: Ke holoi nei i ka papahelu ʻaoʻao',
+		'delete-linked-pages': u'Lopako: Ke holoi nei i nā ʻaoʻao apau e loulou mai ka ʻaoʻao %(page)s',
+	},
 	# Author: Yona b
 	'he': {
 		'delete-images': u'בוט: מוחק את כל התמונות בדף %(page)s.',
@@ -305,7 +319,7 @@ msg = {
 		'delete-images': u'Bot: valamennyi kép törlése a(z) %(page)s lapon',
 		'delete-referring-pages': u'Bot: %(page)s oldalról mutató valamennyi hivatkozás törlése',
 		'delete-from-category': u'Bot: %(page)s kategória valamennyi lapjának törlése',
-		'delete-from-file': u'Bot: fájlok listájának törlése',
+		'delete-from-file': u'Bot: lapok listájának törlése.',
 		'delete-linked-pages': u'Bot: %(page)s lapról hivatkozott valamennyi lap törlése',
 	},
 	# Author: Chaojoker
@@ -596,6 +610,14 @@ msg = {
 		'delete-from-file': u'бот: удаление списка страниц',
 		'delete-linked-pages': u'бот: удаление всех страниц, связанных с %(page)s',
 	},
+	# Author: John Reid
+	'sco': {
+		'delete-images': u'Robot: Deletin aw eimages on page %(page)s',
+		'delete-referring-pages': u'Robot: Deletin aw pages referring fae %(page)s',
+		'delete-from-category': u'Robot: Deletin aw pages fae category %(page)s',
+		'delete-from-file': u'Robot: Deletin ae leet o pages.',
+		'delete-linked-pages': u'Robot: Deletin aw pages linked fae %(page)s',
+	},
 	# Author: Sudo77(new)
 	# Author: Wizzard
 	'sk': {
@@ -635,8 +657,8 @@ msg = {
 		'delete-images': u'Робот: обрисане све слике на страници %(page)s',
 		'delete-referring-pages': u'Робот: обрисане све странице које потичу из %(page)s',
 		'delete-from-category': u'Робот: обрисане све странице из категорије %(page)s',
-		'delete-from-file': u'Робот: обрисан списак датотека.',
-		'delete-linked-pages': u'Робот: обрисане све странице које воде из %(page)s',
+		'delete-from-file': u'Робот: обрисан списак страница.',
+		'delete-linked-pages': u'Робот: обрисане све странице које потичу из %(page)s',
 	},
 	# Author: Rancher
 	'sr-el': {

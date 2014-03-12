@@ -133,6 +133,10 @@ msg = {
 	'hak': {
 		'djvutext-creating': u'機械人：為從DjVu中提取頁面創建檔案',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'djvutext-creating': u'Lopako: Ke haku nei i kekahi ʻaoʻao me nā kikokikona mai DjVu',
+	},
 	# Author: Ofekalef
 	'he': {
 		'djvutext-creating': u'בוט: יוצר דף עם טקסט שיוצר מ־DjVu',
@@ -270,6 +274,10 @@ msg = {
 	'ru': {
 		'djvutext-creating': u'бот: создание страницы с текстом, извлечённым из DjVu',
 	},
+	# Author: John Reid
+	'sco': {
+		'djvutext-creating': u'Robot: Creatin page wi tex taen fae DjVu',
+	},
 	# Author: Teslaton
 	'sk': {
 		'djvutext-creating': u'Robot: Vytvorenie stránky s textom extrahovaným z DjVu',
@@ -288,7 +296,7 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'djvutext-creating': u'Робот: направљена страница с текстом изведеним из DjVu-а',
+		'djvutext-creating': u'Робот: направљена страница са текстом изведеним из DjVu-а',
 	},
 	# Author: Rancher
 	'sr-el': {

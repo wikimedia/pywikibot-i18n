@@ -66,6 +66,10 @@ msg = {
 	'bn': {
 		'basic-changing': u'বট: পরিবর্তন করছে ...',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'basic-changing': u'མི་གཟུགས་འཕྲུལ་ཆས་ : འགྱུར་བ་གཏོང་བཞིན་པ།',
+	},
 	# Author: Fulup
 	'br': {
 		'basic-changing': u'Robot : O cheñch ...',
@@ -165,6 +169,10 @@ msg = {
 	# Author: Jetlag
 	'hak': {
 		'basic-changing': u'機械人：修改緊...',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'basic-changing': u'Lopako: Ke hoʻololi nei iā...',
 	},
 	# Author: Amire80
 	'he': {
@@ -424,7 +432,7 @@ msg = {
 	},
 	# Author: Rancher
 	'sr': {
-		'basic-changing': u'Робот: мења…',
+		'basic-changing': u'Робот: промењено',
 	},
 	# Author: Rancher
 	'sr-el': {

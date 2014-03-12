@@ -58,6 +58,10 @@ msg = {
 	'bjn': {
 		'capitalize_redirects-create-redirect': u'Robot: Ulah paalihan ka [[%(to)s]]',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'capitalize_redirects-create-redirect': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：[[%(to)s]] ལ་ཁ་ཕྱོགས་ཡང་བསྐྱར་སྟོན་དགོས།',
+	},
 	# Author: Y-M D
 	'br': {
 		'capitalize_redirects-create-redirect': u'Robot : Krouiñ un adkas evit [[%(to)s]]',
@@ -155,6 +159,10 @@ msg = {
 	# Author: Jetlag
 	'hak': {
 		'capitalize_redirects-create-redirect': u'機械人：創建重定向到[[%(to)s]]',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'capitalize_redirects-create-redirect': u'Lopako: Haku i kekahi ʻaoʻao hoʻoili i [[%(to)s]]',
 	},
 	'he': {
 		'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
@@ -317,6 +325,10 @@ msg = {
 	# Author: Hemant wikikosh1
 	'sa': {
 		'capitalize_redirects-create-redirect': u'कारुयन्त्रम् : [[%(to)s]] इत्येतत् प्रति अनुप्रेषणं सृज्यताम्',
+	},
+	# Author: John Reid
+	'sco': {
+		'capitalize_redirects-create-redirect': u'Robot: Mak reguidal til [[%(to)s]]',
 	},
 	# Author: Teslaton
 	# Author: Wizzard

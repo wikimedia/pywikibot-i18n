@@ -269,9 +269,20 @@ msg = {
 		'category-was-moved': u'বট: বিষয়শ্রেণী [[:Category:%(newcat)s|%(title)s]]-এ স্থানান্তরিত হয়েছে',
 		'category-listifying': u'বট: তালিকাভুক্ত করছে %(fromcat)s থেকে (%(num)dটি ভুক্তি)',
 	},
+	# Author: Phurbutsering
 	# Author: Xqt
 	'bo': {
+		'category-version-history': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s སྔོན་གི་བྱུང་འགྱུར་ཉར་འཚག་བྱེད་པ།',
+		'category-changing': u'མི་གཟུགས་འཕྲུལ་ཆས་ : %(oldcat)s ནས་ %(newcat)s ལ་འགྱུར་བ་གཏོང་བཞིན་པ།',
 		'category-adding': u'འཕྲུལ་ཆས་ཀྱི་མི།: ཁ་སྣོན་རྒྱག་པ། [[Category:%(newcat)s]]',
+		'category-also-in': u'(ད་དུང་ཡང་གཞན་ཡོད་པ་ནི་ %(alsocat)s)',
+		'category-was-disbanded': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས་ཕྱིར་འབུད་པ།',
+		'category-replacing': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས། %(oldcat)s དང་ %(newcat)s བར་འཕོ་འགྱུར་བྱེད་བཞིན་པ།',
+		'category-removing': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s ནས་ ཕྱིར་འདོན་བཞིན་པ།',
+		'category-was-moved': u'མི་གཟུགས་འཕྲུལ་ཆས་ ： སྡེ་ཚན་གནས་སྤོས་བྱས་པ་ [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：%s ནས་སྤོ་བ།  རྩོམ་པ་པོ། ：%s',
+		'category-section-title': u'དེ་སྔོན་གི་  %(oldcat)s ལོ་རྒྱུས་ཤོག་ངོས།',
+		'category-listifying': u'མི་གཟུགས་འཕྲུལ་ཆས།: %(fromcat)s ནས་ (%(num)d བར་གི་ཐོ་འགོད་རེའུ་མིག།)',
 	},
 	# Author: Xqt
 	'bpy': {
@@ -479,6 +490,7 @@ msg = {
 	},
 	# Author: Airon90
 	# Author: Blahma
+	# Author: KuboF
 	# Author: Mihxil
 	# Author: Objectivesea
 	'eo': {
@@ -487,7 +499,7 @@ msg = {
 		'category-adding': u'Roboto: Aldonado de kategorio [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(ankaŭ en %(alsocat)s)',
 		'category-was-disbanded': u'Roboto: Kategorio estas anstataŭigita',
-		'category-replacing': u'Roboto: Anstataŭigado de kategorio %(oldcat)s per %(newcat)s',
+		'category-replacing': u'Roboto: Anstataŭigo de kategorio %(oldcat)s per %(newcat)s',
 		'category-removing': u'Roboto: Forigado el %(oldcat)s',
 		'category-was-moved': u'Roboto: Kategorio estas movita al [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Roboto: Movita el %s. Aŭtoroj: %s',
@@ -683,6 +695,20 @@ msg = {
 		'category-renamed': u'機械人：移動自%s。編者：%s',
 		'category-section-title': u'%(oldcat)s个頁面歷史',
 		'category-listifying': u'機械人：從%(fromcat)s提取列表(%(num)d條紀錄)',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'category-version-history': u'Lopako: Ke mālama nei i ka mana mōʻaukala o ka %(oldcat)s mai mua',
+		'category-changing': u'Lopako: Ke hoʻololi nei i ka mahele %(oldcat)s i ka mahele hou %(newcat)s',
+		'category-adding': u'Lopako: Ke hoʻohui nei i ka mahele [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(ma loko o %(alsocat)s nō hoʻi)',
+		'category-was-disbanded': u'Lopako: Ua holoi ʻia ka mahele',
+		'category-replacing': u'Lopako: Ke kuapoʻia nei ka mahele kahiko %(oldcat)s me ka mahele hou %(newcat)s',
+		'category-removing': u'Lopako: Ke wehe nei mai %(oldcat)s',
+		'category-was-moved': u'Lopako: Ua hoʻoneʻe ʻia ka mahele i [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Lopako: Ua hoʻoneʻe ʻia mai %s. Mea kākau: %s',
+		'category-section-title': u'Ka mōʻaukala ʻaoʻao o %(oldcat)s kahiko',
+		'category-listifying': u'Lopako: Ke papahana nei mai %(fromcat)s ({{PLURAL:%(num)d|1 manaʻo|%(num)d mau manaʻo}})',
 	},
 	# Author: Amire80
 	# Author: ערן
@@ -1523,8 +1549,10 @@ msg = {
 		'category-adding': u'robot: junciennu category [[:Category:%(newcat)s|%(newcat)s]]',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	# Author: Xqt
 	'sco': {
+		'category-version-history': u'Robot: Saving version histerie o former %(oldcat)s',
 		'category-changing': u'Robot: Chyngin\' %(oldcat)s tae %(newcat)s',
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(also in %(alsocat)s)',
@@ -1532,6 +1560,8 @@ msg = {
 		'category-replacing': u'Robot: Replacing category %(oldcat)s wi\' %(newcat)s',
 		'category-removing': u'Bot: Removing frum %(oldcat)s',
 		'category-was-moved': u'Robot: Category wis flitted tae [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robot: Muived fae %s. Authors: %s',
+		'category-section-title': u'Page histerie o former %(oldcat)s',
 		'category-listifying': u'Bot: Listifying frum %(fromcat)s (%(num)d entries)',
 	},
 	# Author: පසිඳු කාවින්ද
@@ -1602,7 +1632,7 @@ msg = {
 	'sr': {
 		'category-version-history': u'Робот: сачувана историја раније верзије странице %(oldcat)s',
 		'category-changing': u'Робот: промењено %(oldcat)s у %(newcat)s',
-		'category-adding': u'Робот: додато [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-adding': u'Робот: додата категорија [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(и у %(alsocat)s)',
 		'category-was-disbanded': u'Робот: категорија је распуштена',
 		'category-replacing': u'Робот: замењена категорија %(oldcat)s са %(newcat)s',
@@ -1610,7 +1640,7 @@ msg = {
 		'category-was-moved': u'Робот: категорија је премештена у [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Робот: премештено из %(oldcat)s. Аутори: %(authors)s',
 		'category-section-title': u'Историја раније верзије странице %(oldcat)s',
-		'category-listifying': u'Робот: исписује из %(fromcat)s (%(num)d ставки)',
+		'category-listifying': u'Робот: исписано из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})',
 	},
 	# Author: Rancher
 	'sr-el': {

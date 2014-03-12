@@ -55,6 +55,10 @@ msg = {
 	'bn': {
 		'clean_sandbox-cleaned': u'রোবট: স্বয়ংক্রিয়ভাবে পরিষ্কার করেছে',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'clean_sandbox-cleaned': u'མི་གཟུགས་འཕྲུལ་ཆས་ ： རང་འགུལ་གྱིས་གཙང་བཟོ་བྱས་པ།',
+	},
 	# Author: Fulup
 	'br': {
 		'clean_sandbox-cleaned': u'Robot : Kempennet ent emgefre',
@@ -149,6 +153,10 @@ msg = {
 	# Author: Jetlag
 	'hak': {
 		'clean_sandbox-cleaned': u'機械人：自動清除',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'clean_sandbox-cleaned': u'Lopako: Ua hoʻomaʻemaʻe ʻakomi ʻia',
 	},
 	'he': {
 		'clean_sandbox-cleaned': u'בוט: דף זה ינוקה אוטומטית.',

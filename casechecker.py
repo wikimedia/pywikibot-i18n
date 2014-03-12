@@ -43,6 +43,14 @@ msg = {
 		'casechecker-delete-reason': u'Гэтае перанакіраваньне выкарыстоўваецца для ўказаньня на %(target)s',
 		'casechecker-rename': u'Робат: перайменаваньне зьмяшаных альфабэтаў',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'casechecker-replacement-summary': u'རང་འགུལ་འཕྲུལ་ཆས་ : བརྡ་དག་གི་རྣམ་དབྱེ་བརྗེ་ལེན་བྱེད་པ།',
+		'casechecker-delete-summary': u'རང་འགུལ་འཕྲུལ་ཆས་ : ཁ་ཕྱོགས་བསྐྱར་སྟོན་འདིར་གཅིག་མཚུངས་ཀྱི་ ལེ་ཊིན་གི་ཡི་གེ་ བྱས་བའི་འགོ་བརྗོད་འདུག།',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'ཁ་ཕྱོགས་བསྐྱར་སྟོན་འདི་ མཛུབ་སྟོན་བྱེད་ས་ནི་%(target)s ཡིན།',
+		'casechecker-rename': u'རང་འགུལ་འཕྲུལ་ཆས་ ：བརྡ་དག་གི་རྣམ་དབྱ་འདྲེས་ལྷད་ཅན་ལ་མིང་འདོགས་པ།',
+	},
 	# Author: Edinwiki
 	'bs': {
 		'casechecker-replacement-summary': u'Bot: Izmjena malih/valikih slova:',
@@ -85,10 +93,21 @@ msg = {
 		'casechecker-delete-reason': u'Weiterleitung auf %(target)s mit gemischten kyrillischen und lateinischen Zeichen.',
 		'casechecker-rename': u'Bot: Umbenennung von gemischten Schreibungen',
 	},
+	# Author: KuboF
+	'eo': {
+		'casechecker-replacement-summary': u'Roboto: Ŝanĝo de uskleco:',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Tiu ĉi alidirektilo direktis al %(target)s',
+	},
 	# Author: Fitoschido
+	# Author: Sporeunai
+	# Author: VegaDark
 	'es': {
+		'casechecker-replacement-summary': u'Bot: Casos reemplazos:',
 		'casechecker-delete-summary': u'Robot: esta redirección contiene caracteres cirílicos y latinos que lucen idénticos',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Esta redirección solía apuntar a %(target)s',
+		'casechecker-rename': u'Bot: cambiar el nombre de caso mixto',
 	},
 	# Author: Reza1615
 	'fa': {
@@ -130,6 +149,14 @@ msg = {
 		'casechecker-delete-reason': u'這重定向用來指向％(target)s',
 		'casechecker-rename': u'機器人：混合大小寫的命名',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'casechecker-replacement-summary': u'Pako: Huapalapala kuapoia:',
+		'casechecker-delete-summary': u'Pako: Loaʻa i kēia ʻaoʻao hoʻoili kekahi mau huapalapala Lākina a me Sīlilika likelua ma loko',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Ua kuhi kēia ʻaoʻao hoʻoili i %(target)s',
+		'casechecker-rename': u'Pako: hōʻinoa hou me nā huapalapala wiliwili',
+	},
 	# Author: Yona b
 	'he': {
 		'casechecker-replacement-summary': u'בוט: מתקן אותיות גדולות',
@@ -148,6 +175,10 @@ msg = {
 	},
 	# Author: Michawiki
 	'hsb': {
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+	},
+	# Author: Dj
+	'hu': {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 	},
 	# Author: McDutchie
@@ -180,6 +211,14 @@ msg = {
 		'casechecker-delete-reason': u'이 넘겨주기는 %(target)s를 가리킵니다',
 		'casechecker-rename': u'로봇: 혼합된 대소문자 변경',
 	},
+	# Author: Purodha
+	'ksh': {
+		'casechecker-replacement-summary': u'Bot: Jruß- un Kleinschreff jetuusch:',
+		'casechecker-delete-summary': u'Böt: Di Ömleidong hät Kyrellesche un Lating Bohchschtahbe em Tettel, di ejaal ußsinn.',
+		'casechecker-replacement-linklist': u'%(source)s&nbsp;→&nbsp;%(target)s',
+		'casechecker-delete-reason': u'Heh di Ömleidung dähd op „%(target)s“ jonn.',
+		'casechecker-rename': u'Bot: Jruß- un Kleinschreff, dä Siggetettel ömjenannt.',
+	},
 	# Author: Robby
 	'lb': {
 		'casechecker-replacement-summary': u'Bot: Beispill vun Ersetzen:',
@@ -203,6 +242,14 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Пренасочувањето претходно водеше кон %(target)s',
 		'casechecker-rename': u'Бот: преименување со мешани големи/мали букви',
+	},
+	# Author: Praveenp
+	'ml': {
+		'casechecker-replacement-summary': u'യന്ത്രം: കേസ് (Case) മാറ്റിച്ചേർക്കലുകൾ:',
+		'casechecker-delete-summary': u'യന്ത്രം: ഈ തിരിച്ചുവിടലിൽ ഒരേ പോലെ തോന്നിക്കുന്ന സിറിലിക്, ലാറ്റിൻ അക്ഷരങ്ങൾ തലക്കെട്ടിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്നു.',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'ഈ തിരിച്ചുവിടൽ %(target)s എന്നതിലേക്കുള്ളതാണ്',
+		'casechecker-rename': u'യന്ത്രം: മിശ്രിത കേസ് പുനർനാമകരണം',
 	},
 	# Author: Anakmalaysia
 	'ms': {
@@ -233,8 +280,12 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s nooch %(target)s',
 	},
 	# Author: Chrumps
+	# Author: Dalis
+	# Author: Pio387
 	'pl': {
+		'casechecker-delete-summary': u'Bot: To przekierowanie zawiera mieszankę cyrylicy i alfabetu łacińskiego w nazwie',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'To przekierowanie służy do wskazywania %(target)s',
 	},
 	# Author: Minisarm
 	'ro': {
@@ -249,6 +300,22 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Это перенаправление используется для указания на %(target)s',
 		'casechecker-rename': u'Бот: переименование смешанного регистра',
+	},
+	# Author: John Reid
+	'sco': {
+		'casechecker-replacement-summary': u'Bot: Case Replacements:',
+		'casechecker-delete-summary': u'Bot: This reguidal contains identical luikin Cyrillic n Latin letters in its title',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'This redirect uised tae pynt til %(target)s',
+		'casechecker-rename': u'Bot: mix\'t case rename',
+	},
+	# Author: Rancher
+	'sr': {
+		'casechecker-replacement-summary': u'Бот: замене малих и великих слова:',
+		'casechecker-delete-summary': u'Бот: Преусмерење у наслову садржи ћирилична и латинична слова идентичног изгледа',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Преусмерење је претходно водило до %(target)s',
+		'casechecker-rename': u'Бот: преименовано са мешаним малим и великим словима',
 	},
 	# Author: Jopparn
 	# Author: Lokal Profil
@@ -277,6 +344,7 @@ msg = {
 	},
 	# Author: פוילישער
 	'yi': {
+		'casechecker-delete-summary': u'באט: די ווײַטערפירונג אנטהאלט אידענטיש־אויסזענדיקע קירילישע און לאטיינישע אותיות אין טיטל',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'די ווייטערפירונג פלעג ווײַזן אויף %(target)s',
 	},

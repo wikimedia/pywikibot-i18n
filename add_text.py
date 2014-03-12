@@ -219,6 +219,10 @@ msg = {
 	'hak': {
 		'add_text-adding': u'機械人：新增%(adding)s',
 	},
+	# Author: Kolonahe
+	'haw': {
+		'add_text-adding': u'Lopako: Hoʻohui i %(adding)s',
+	},
 	'he': {
 		'add_text-adding': u'בוט: מוסיף %(adding)s',
 	},

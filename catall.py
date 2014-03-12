@@ -55,6 +55,10 @@ msg = {
 	'bn': {
 		'catall-changing': u'রোবট: বিষয়শ্রেণী পরিবর্তন করেছে',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'catall-changing': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས་འཕོ་འགྱུར་བྱེད་བཞིན་པ།',
+	},
 	# Author: Fulup
 	'br': {
 		'catall-changing': u'Robot: O cheñch rummadoù',
@@ -154,6 +158,10 @@ msg = {
 	# Author: Jetlag
 	'hak': {
 		'catall-changing': u'機械人：更改分類',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'catall-changing': u'Lopako: Ke kuapo nei i nā māhele',
 	},
 	'he': {
 		'catall-changing': u'בוט: משנה קטגוריות',
@@ -322,6 +330,10 @@ msg = {
 	# Author: Hemant wikikosh1
 	'sa': {
 		'catall-changing': u'कारुयन्त्रम् : वर्गान् परिवर्तयति',
+	},
+	# Author: John Reid
+	'sco': {
+		'catall-changing': u'Robot: Chyngin categories',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

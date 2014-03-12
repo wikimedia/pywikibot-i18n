@@ -21,6 +21,10 @@ msg = {
 	'be-x-old': {
 		'blockpageschecker-summary': u'Робат: выдаленьне састарэлага шаблёну',
 	},
+	# Author: Phurbutsering
+	'bo': {
+		'blockpageschecker-summary': u'རང་འགུལ་འཕྲུལ་ཆས་ : གཅོད་འབིགས་ཀྱི་དཔེ་ཚད་དུས་ཚོད་ཡོལ་བ་རྣམས་སུབ་འདོན་བྱེད་བཞིན་པ།',
+	},
 	# Author: Fohanno
 	'br': {
 		'blockpageschecker-summary': u'Robot : o tilemel ur gobari diamzeret',
@@ -54,6 +58,10 @@ msg = {
 	'el': {
 		'blockpageschecker-summary': u'Bot: Διαγραφή παρωχημένου πρότυπου',
 	},
+	# Author: KuboF
+	'eo': {
+		'blockpageschecker-summary': u'Roboto: Forigo de eksmoda ŝablono',
+	},
 	# Author: VegaDark
 	'es': {
 		'blockpageschecker-summary': u'Bot: Borrado de plantilla desactualizada',
@@ -84,6 +92,10 @@ msg = {
 	# Author: EagerLin
 	'hak': {
 		'blockpageschecker-summary': u'機械人: 移除過期个保護模板',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'blockpageschecker-summary': u'Pako: Ke holoi nei i nā anakuhi manakahiko',
 	},
 	'he': {
 		'blockpageschecker-summary': u'בוט: מסיר תבנית שעבר זמנה',
@@ -181,6 +193,10 @@ msg = {
 	'ru': {
 		'blockpageschecker-summary': u'Бот: удаление устаревшего шаблона',
 	},
+	# Author: John Reid
+	'sco': {
+		'blockpageschecker-summary': u'Bot: Deleting oot-datit template',
+	},
 	# Author: Sudo77(new)
 	'sk': {
 		'blockpageschecker-summary': u'Robot: Zmazanie zastaranej šablóny',
@@ -192,6 +208,10 @@ msg = {
 	# Author: Euriditi
 	'sq': {
 		'blockpageschecker-summary': u'Bot: Fshirja e stampave të vjetëruara',
+	},
+	# Author: Rancher
+	'sr': {
+		'blockpageschecker-summary': u'Бот: обрисан застарели шаблон',
 	},
 	# Author: WikiPhoenix
 	'sv': {
@@ -208,6 +228,10 @@ msg = {
 	# Author: Minh Nguyen
 	'vi': {
 		'blockpageschecker-summary': u'Bot: Xóa bản mẫu lỗi thời',
+	},
+	# Author: פוילישער
+	'yi': {
+		'blockpageschecker-summary': u'באט: אויסמעקן פארעלטערטן מוסטער',
 	},
 	'zh': {
 		'blockpageschecker-summary': u'機器人: 移除過期的保護模板',
