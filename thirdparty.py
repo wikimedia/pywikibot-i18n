@@ -1506,7 +1506,7 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s aw discussions hae finished (surveillance stappit) - laist eidit bi %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Discussion summarie added: %(num)i entries',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion chynged',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion summarie added wi clean up: %(num)i entries',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion ootline added wi clean up: %(num)i entries',
 		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summarie updated: %(num)i entries in %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESSAGE',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSummarie generated fae n at: %(sign)s</noinclude>',

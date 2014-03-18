@@ -202,7 +202,7 @@ msg = {
 	},
 	# Author: Beta16
 	'it': {
-		'capitalize_redirects-create-redirect': u'Bot: Creato redirect a [[%(to)s]]',
+		'capitalize_redirects-create-redirect': u'Bot: creato redirect a [[%(to)s]]',
 	},
 	'ja': {
 		'capitalize_redirects-create-redirect': u'ロボットによる: リダイレクト作成 [[%(to)s]]',

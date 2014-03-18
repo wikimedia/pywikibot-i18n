@@ -295,7 +295,7 @@ msg = {
 	# Author: Avicennasis
 	# Author: John Reid
 	'sco': {
-		'editarticle-edit': u'Manual eidit wi bot: %(description)s',
+		'editarticle-edit': u'Manual eedit wi bot: %(description)s',
 	},
 	# Author: Wizzard
 	'sk': {

@@ -306,7 +306,7 @@ msg = {
 		'casechecker-replacement-summary': u'Bot: Case Replacements:',
 		'casechecker-delete-summary': u'Bot: This reguidal contains identical luikin Cyrillic n Latin letters in its title',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-		'casechecker-delete-reason': u'This redirect uised tae pynt til %(target)s',
+		'casechecker-delete-reason': u'This reguidal uised tae poynt til %(target)s',
 		'casechecker-rename': u'Bot: mix\'t case rename',
 	},
 	# Author: Rancher

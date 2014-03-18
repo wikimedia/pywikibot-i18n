@@ -276,7 +276,7 @@ msg = {
 	},
 	# Author: John Reid
 	'sco': {
-		'djvutext-creating': u'Robot: Creatin page wi tex taen fae DjVu',
+		'djvutext-creating': u'Robot: Cræftin page wi tex taen fae DjVu',
 	},
 	# Author: Teslaton
 	'sk': {

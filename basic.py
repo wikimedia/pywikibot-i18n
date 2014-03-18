@@ -222,9 +222,10 @@ msg = {
 	'is': {
 		'basic-changing': u'Vélmenni: Breyti ...',
 	},
+	# Author: Beta16
 	# Author: Pietrodn
 	'it': {
-		'basic-changing': u'Bot: Modifica ...',
+		'basic-changing': u'Bot: modifica ...',
 	},
 	# Author: Shirayuki
 	'ja': {

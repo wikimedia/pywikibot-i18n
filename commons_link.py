@@ -129,6 +129,11 @@ msg = {
 		'commons_link-template-added': u'로봇: 공용 틀 추가',
 		'commons_link-cat-template-added': u'로봇: 공용분류 틀을 추가',
 	},
+	# Author: Purodha
+	'ksh': {
+		'commons_link-template-added': u'Bot: De Schablohn „commons“ wood enjeföhsch.',
+		'commons_link-cat-template-added': u'Bot: De Schablohn „commonscat“ wood enjeföhsch.',
+	},
 	# Author: Robby
 	'lb': {
 		'commons_link-template-added': u'Bot:Commons-Schabloun abannen',

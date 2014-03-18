@@ -248,7 +248,7 @@ msg = {
 	},
 	# Author: John Reid
 	'sco': {
-		'ndashredir-create': u'Bot: Creating hyphenated redirect til [[%(title)s]]',
+		'ndashredir-create': u'Bot: Cræftin hyphenated reguidal til [[%(title)s]]',
 	},
 	# Author: Teslaton
 	'sk': {

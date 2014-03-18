@@ -9,6 +9,10 @@ msg = {
 	'ar': {
 		'makecat-create': u'بوت: إنشاء أو تحديث التصنيف [[:Category:%(cat)s|]]',
 	},
+	# Author: Xuacu
+	'ast': {
+		'makecat-create': u'Bot: Creación o anovamientu de la categoría [[:Category:%(cat)s|]]',
+	},
 	# Author: Red Winged Duck
 	'be-x-old': {
 		'makecat-create': u'Робат: стварэньне або абнаўленьне катэгорыі [[:Category:%(cat)s|]]',
@@ -36,6 +40,10 @@ msg = {
 	# Author: Toliño
 	'gl': {
 		'makecat-create': u'Bot: Creo ou actualizo a categoría [[:Category:%(cat)s|]]',
+	},
+	# Author: Kolonahe
+	'haw': {
+		'makecat-create': u'Lopako: Ka haku ʻana aiʻole ka hoʻopuka hou ʻana o ka mahele [[:Category:%(cat)s|]]',
 	},
 	'he': {
 		'makecat-create': u'בוט: יצירה או עדכון של קטגוריה [[:Category:%(cat)s|]]',
@@ -97,5 +105,9 @@ msg = {
 	# Author: Andriykopanytsia
 	'uk': {
 		'makecat-create': u'Робот: Створення або оновлення категорії  [[:Category:%(cat)s|]]',
+	},
+	# Author: Minh Nguyen
+	'vi': {
+		'makecat-create': u'Bot: Tạo hoặc cập nhật thể loại [[:Category:%(cat)s|]]',
 	},
 };

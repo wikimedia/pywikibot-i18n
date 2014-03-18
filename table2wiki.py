@@ -316,8 +316,8 @@ msg = {
 	},
 	# Author: John Reid
 	'sco': {
-		'table2wiki-warnings': u'Uiser-controlled robot: Table syntax updated - {{PLURAL:count|1 warnishment|%(count)d warnishments}}!',
-		'table2wiki-no-warning': u'Uiser-controlled robot: Table syntax updated',
+		'table2wiki-warnings': u'Uiser-controlled robot: Buird syntax updated - {{PLURAL:count|1 warnishment|%(count)d warnishments}}!',
+		'table2wiki-no-warning': u'Uiser-controlled robot: Buird syntax updated',
 	},
 	# Author: Teslaton
 	# Author: Wizzard

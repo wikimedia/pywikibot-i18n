@@ -778,7 +778,7 @@ msg = {
 		'redirect-remove-broken': u'Robot: Reguidal til ae delytit or non-exeestent page',
 		'redirect-fix-broken-moved': u'Robot: Fixin broken reguidal til muived target page %(to)s',
 		'redirect-fix-loop': u'Robot: Fixin reguidal luip til %(to)s',
-		'redirect-remove-loop': u'Robot: Redirect target forms ae redirect luip',
+		'redirect-remove-loop': u'Robot: Reguidal tairget forms ae reguidal luip',
 		'redirect-broken-redirect-template': u'{{delete}}',
 	},
 	# Author: Teslaton

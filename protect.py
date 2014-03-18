@@ -254,7 +254,7 @@ msg = {
 	'ro': {
 		'protect-links': u'Robot: Protejat toate paginile care se leagă de %(page)s',
 		'protect-simple': u'Robot: Protejat o listă de fișiere.',
-		'protect-category': u'Robot: Protejat toate paginile din categoria %(page)s',
+		'protect-category': u'Robot: Protejat toate paginile din categoria %(cat)s',
 		'protect-ref': u'Robot: Protejat toate paginile referindu-se la %(page)s',
 		'protect-images': u'Robot: Protejat toate imaginile de pe pagina %(page)s',
 	},

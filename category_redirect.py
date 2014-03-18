@@ -743,11 +743,11 @@ msg = {
 	# Author: Avicennasis
 	# Author: John Reid
 	'sco': {
-		'category_redirect-comment': u'Category redirect maintenance bot',
+		'category_redirect-comment': u'Categerie reguidal maintenance bot',
 		'category_redirect-change-category': u'Robot: chynge redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] tae [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-add-template': u'Robot: addin categerie redirect template fer maintenance',
+		'category_redirect-add-template': u'Robot: addin categerie reguidal template fer maintenance',
 		'category_redirect-edit-request': u'The following protected pages have been detected as needin\' updates tae category links: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect tae %(newcat)s',
+		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, this is ae reguidal til %(newcat)s',
 		'category_redirect-fix-double': u'Bot: fixin\' dooble-reguidals',
 	},
 	# Author: Teslaton

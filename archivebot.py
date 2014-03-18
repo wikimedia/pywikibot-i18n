@@ -444,10 +444,10 @@ msg = {
 	# Author: Gianfranco
 	'it': {
 		'archivebot-older-than': u'più vecchio di',
-		'archivebot-page-summary': u'Archiviazione di %(count)d {{PLURAL:%(count)d|discussione|discussioni}} (%(why)s) in %(archives)s.',
+		'archivebot-page-summary': u'Bot: archivio %(count)d {{PLURAL:%(count)d|discussione|discussioni}} (%(why)s) in %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHIVIO PIENO)',
-		'archivebot-archive-summary': u'Archiviazione di %(count)d {{PLURAL:%(count)d|discussione|discussioni}} da [[%(from)s]].',
+		'archivebot-archive-summary': u'Bot: archivio %(count)d {{PLURAL:%(count)d|discussione|discussioni}} da [[%(from)s]].',
 	},
 	# Author: Fryed-peach
 	# Author: Shirayuki

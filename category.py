@@ -1557,7 +1557,7 @@ msg = {
 		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(also in %(alsocat)s)',
 		'category-was-disbanded': u'Bot: Category wis disbanded',
-		'category-replacing': u'Robot: Replacing category %(oldcat)s wi\' %(newcat)s',
+		'category-replacing': u'Robot: Replacin categerie %(oldcat)s wi %(newcat)s',
 		'category-removing': u'Bot: Removing frum %(oldcat)s',
 		'category-was-moved': u'Robot: Category wis flitted tae [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Robot: Muived fae %s. Authors: %s',
