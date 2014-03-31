@@ -50,6 +50,11 @@ msg = {
 		'reflinks-comment': u'Títol generat per bot',
 		'reflinks-msg': u'Bot: convertint referències nues, usant noms de referències per evitar duplicats, vegeu [[%(manual)s|FAQ]]',
 	},
+	# Author: Умар
+	'ce': {
+		'reflinks-autogen': u'нисйина автоматически',
+		'reflinks-comment': u'Корта тӀетоьхна бото',
+	},
 	# Author: Chmee2
 	# Author: Matěj Grabovský
 	'cs': {
@@ -218,6 +223,12 @@ msg = {
 		'reflinks-autogen': u'autogenerert',
 		'reflinks-comment': u'Botgenerert tittel',
 		'reflinks-msg': u'Bot: Konverterer nakne referanser ved å bruke referansenavn for å unngå duplikater, se [[%(manual)s|OSS]]',
+	},
+	# Author: Cedric31
+	'oc': {
+		'reflinks-autogen': u'generat automaticament',
+		'reflinks-comment': u'Títol generat automaticament',
+		'reflinks-msg': u'Robòt: Correccion de las refs. mal formatadas, supression doblons en utilizant de referéncias nomenadas (cf. [[%(manual)s|explicacions]])',
 	},
 	# Author: Rzuwig
 	'pl': {

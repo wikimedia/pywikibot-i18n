@@ -346,9 +346,13 @@ msg = {
 	# Author: Умар
 	'ce': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Керла дийцаре',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Хаамаш',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'хуьйцуш ю тегаш %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Дийцаре дIачIаьгIна',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Дийцаре хийцаяла',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'РОБОТАН ХААМ',
 	},
 	# Author: Asoxor
 	# Author: Calak
@@ -1334,11 +1338,16 @@ msg = {
 	# Author: Cedric31
 	'oc': {
 		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robòt',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(cap d\'editor uman pas detectat)',
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s : %(page_sections)s - [%(history_link)s darrièr cambiament] (%(page_size)s octets) per %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Messatge d\'avertiment del robòt : %(page)s "\'\'%(warning)s\'\'"',
 		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Novèla discussion',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s : <span class="plainlinks">[%(page_link)s %(page)s]</span> - darrièr cambiament per [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notificacion',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substitucion de la(s) balisa(s) %(tags)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion tampada',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion modificada',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESSATGE DEL ROBÒT',
 	},
 	# Author: Shisir 1945
@@ -1498,18 +1507,18 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
 		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s laist eidit] (%(page_size)s bytes) bi %(user)s (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot warnishment message: %(page)s "\'\'%(warning)s\'\'"',
-		'thirdparty-drtrigonbot-sum_disc-notify-new': u'New Collogue',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'New Tauk',
 		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - laist eidit bi [[User:%(user)s]] (%(time)s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notifeecation',
 		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion closed',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s aw discussions hae finished (surveillance stappit) - laist eidit bi %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Discussion summarie added: %(num)i entries',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Tauk ootline eikit: %(num)i entries',
 		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion chynged',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion ootline added wi clean up: %(num)i entries',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summarie updated: %(num)i entries in %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Tauk ootline eikit wi clean up: %(num)i entries',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'The Tauk ootline wis updated: %(num)i entries in %(page)s',
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESSAGE',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSummarie generated fae n at: %(sign)s</noinclude>',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nOotline generated fae n at: %(sign)s</noinclude>',
 	},
 	# Author: පසිඳු කාවින්ද
 	# Author: බිඟුවා

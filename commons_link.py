@@ -174,6 +174,11 @@ msg = {
 		'commons_link-template-added': u'Robot: Włącz szablon commons',
 		'commons_link-cat-template-added': u'Robot: Włącz szablon commonscat',
 	},
+	# Author: Amgauna
+	'pt-br': {
+		'commons_link-template-added': u'Robot: Incluir template comum',
+		'commons_link-cat-template-added': u'Robot: Incluir template commonscat',
+	},
 	# Author: Minisarm
 	'ro': {
 		'commons_link-template-added': u'Robot: Introdus format commons',

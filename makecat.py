@@ -37,6 +37,10 @@ msg = {
 	'fr': {
 		'makecat-create': u'Robot: Création ou mise à jour de categorie [[:Category:%(cat)s|]]',
 	},
+	# Author: Murma174
+	'frr': {
+		'makecat-create': u'Bot: Det kategorii [[:Category:%(cat)s|]] as nei uunlaanj of feranert wurden.',
+	},
 	# Author: Toliño
 	'gl': {
 		'makecat-create': u'Bot: Creo ou actualizo a categoría [[:Category:%(cat)s|]]',
@@ -70,12 +74,17 @@ msg = {
 	'mk': {
 		'makecat-create': u'Робот: Создавање или поднова на категоријата [[:Category:%(cat)s|]]',
 	},
+	# Author: Praveenp
+	'ml': {
+		'makecat-create': u'യന്ത്രം: വർഗ്ഗം [[:Category:%(cat)s|]] സൃഷ്ടിക്കുന്നു അല്ലെങ്കിൽ പുതുക്കുന്നു',
+	},
 	# Author: C.R.
 	'nap': {
 		'makecat-create': u'Robbot: \'A criaziona o l\'aggiurnamiento \'e categurìa [[:Category:%(cat)s|]]',
 	},
+	# Author: Siebrand
 	'nl': {
-		'makecat-create': u'Robot: Aanmaak of uitbreiding van categorie [[:Category:%(cat)s|]]',
+		'makecat-create': u'Robot: aanmaak of uitbreiding van categorie [[:Category:%(cat)s|]]',
 	},
 	'nn': {
 		'makecat-create': u'robot: oppretting eller oppdatering av kategori [[:Category:%(cat)s|]]',
@@ -89,6 +98,10 @@ msg = {
 	# Author: Imperadeiro98
 	'pt': {
 		'makecat-create': u'Robô: Criação ou atualização de categoria [[:Categoria:%(cat)s|]]',
+	},
+	# Author: Amgauna
+	'pt-br': {
+		'makecat-create': u'Robot: Criação ou atualização de [[:Category:%(cat)s|Categoria]]',
 	},
 	# Author: Minisarm
 	'ro': {

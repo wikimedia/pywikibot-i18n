@@ -155,10 +155,11 @@ msg = {
 	'eo': {
 		'add_text-adding': u'Roboto: Aldonado de %(adding)s',
 	},
+	# Author: Fitoschido
 	# Author: TheBITLINK
 	# Author: Xqt
 	'es': {
-		'add_text-adding': u'Bot: Añadiendo %(adding)s',
+		'add_text-adding': u'Bot: adición de %(adding)s',
 	},
 	# Author: Pikne
 	'et': {
@@ -523,6 +524,10 @@ msg = {
 	},
 	'sco': {
 		'add_text-adding': u'robot Addin %(adding)s',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'add_text-adding': u'Bot: dodato %(adding)s',
 	},
 	'si': {
 		'add_text-adding': u'රොබෝ එකතු කරමින් %(adding)s',

@@ -282,6 +282,11 @@ msg = {
 		'table2wiki-warnings': u'bot: Konverterer tabellsyntaks – {{PLURAL:count|1 advarsel|%(count)d advarsler}}!',
 		'table2wiki-no-warning': u'bot: Konverter tabellsyntaks',
 	},
+	# Author: Cedric31
+	'oc': {
+		'table2wiki-warnings': u'Robòt : wikificacion sintaxi tablèus - {{PLURAL:count|1 avertiment|%(count)d avertiments}} !',
+		'table2wiki-no-warning': u'Robòt : wikificacion de la sintaxi del tablèu',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'table2wiki-warnings': u'Kontrolowany przez użytkownika robot poprawił składnię tabeli – {{PLURAL:count||%(count)d ostrzeżeń!',

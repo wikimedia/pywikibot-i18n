@@ -293,6 +293,10 @@ msg = {
 	'sco': {
 		'movepages-moving': u'Robot: Muived page',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'movepages-moving': u'Bot: premještena stranica',
+	},
 	# Author: පසිඳු කාවින්ද
 	'si': {
 		'movepages-moving': u'රොබෝ: පිටුව ගෙනයන ලදී',

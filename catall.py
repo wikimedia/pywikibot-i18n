@@ -115,9 +115,10 @@ msg = {
 		'catall-changing': u'Roboto: Ŝanĝado de kategorioj',
 	},
 	# Author: Armando-Martin
+	# Author: Fitoschido
 	# Author: Xqt
 	'es': {
-		'catall-changing': u'Bot: Cambiando categorías',
+		'catall-changing': u'Bot: cambio de categorías',
 	},
 	# Author: Pikne
 	'et': {
@@ -334,6 +335,10 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'catall-changing': u'Robot: Chyngin categories',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'catall-changing': u'Bot: promijenjene kategorije',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

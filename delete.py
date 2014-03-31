@@ -612,11 +612,17 @@ msg = {
 	},
 	# Author: John Reid
 	'sco': {
-		'delete-images': u'Robot: Deletin aw eimages on page %(page)s',
+		'delete-images': u'Robot: Deletin aw eemages oan page %(page)s',
 		'delete-referring-pages': u'Robot: Deletin aw pages referring fae %(page)s',
 		'delete-from-category': u'Robot: Deletin aw pages fae category %(page)s',
 		'delete-from-file': u'Robot: Deletin ae leet o pages.',
 		'delete-linked-pages': u'Robot: Deletin aw pages linked fae %(page)s',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'delete-images': u'Bot: obrisane sve slike na stranici %(page)s',
+		'delete-referring-pages': u'Bot: obrisane sve stranice koje potiču iz %(page)s',
+		'delete-from-category': u'Bot: obrisane sve stranice iz kategorije %(page)s',
 	},
 	# Author: Sudo77(new)
 	# Author: Wizzard

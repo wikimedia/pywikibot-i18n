@@ -320,6 +320,10 @@ msg = {
 	'no': {
 		'isbn-formatting': u'robot: Formaterer ISBN',
 	},
+	# Author: Cedric31
+	'oc': {
+		'isbn-formatting': u'Robòt : Mesa en forma de l\'ISBN',
+	},
 	# Author: Bouron
 	'os': {
 		'isbn-formatting': u'Робот: фæивта ISBN',

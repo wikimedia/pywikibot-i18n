@@ -508,20 +508,21 @@ msg = {
 	},
 	# Author: Armando-Martin
 	# Author: Dferg
+	# Author: Fitoschido
 	# Author: Invadinado
 	# Author: Mor
 	# Author: Vivaelcelta
 	# Author: Xqt
 	'es': {
 		'category-version-history': u'Bot: Guardando historial de versiones de los %(oldcat)s previos',
-		'category-changing': u'Bot: Trasladando «%(oldcat)s» a «%(newcat)s»',
+		'category-changing': u'Bot: traslado de «%(oldcat)s» a «%(newcat)s»',
 		'category-adding': u'Bot: Añadiendo la categoría «[[:Category:%(newcat)s|%(newcat)s]]»',
 		'category-also-in': u'(también en %(alsocat)s)',
 		'category-was-disbanded': u'Bot: La categoría ha sido eliminada',
 		'category-replacing': u'Bot: Reemplazando categoría %(oldcat)s por %(newcat)s',
 		'category-removing': u'Bot: Eliminada de la %(oldcat)s',
 		'category-was-moved': u'Bot: La categoría ha sido movida a [[:Category:%(newcat)s|%(title)s]]',
-		'category-renamed': u'Robot: Trasladado de %s. Autores: %s',
+		'category-renamed': u'Bot: trasladado de %s. Autores: %s',
 		'category-section-title': u'Historial de la página de %(oldcat)s previos',
 		'category-listifying': u'Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada entradas|%(num)d entradas}})',
 	},
@@ -1563,6 +1564,20 @@ msg = {
 		'category-renamed': u'Robot: Muived fae %s. Authors: %s',
 		'category-section-title': u'Page histerie o former %(oldcat)s',
 		'category-listifying': u'Bot: Listifying frum %(fromcat)s (%(num)d entries)',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'category-version-history': u'Bot: sačuvana historija ranije verzije stranice %(oldcat)s',
+		'category-changing': u'Bot: promijenjeno %(oldcat)s u %(newcat)s',
+		'category-adding': u'Bot: dodato [[:Category:%(newcat)s|%(newcat',
+		'category-also-in': u'(i u %(alsocat)s)',
+		'category-was-disbanded': u'Bot: kategorija je raspuštena',
+		'category-replacing': u'Bot: zamijenjena kategorija %(oldcat)s sa %(newcat)s',
+		'category-removing': u'Bot: uklonjeno iz %(oldcat)s',
+		'category-was-moved': u'Bot: kategorija je premještena u [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Bot: premještena iz %s. Autori: %s',
+		'category-section-title': u'Historija ranije verzije stranice %(oldcat)s',
+		'category-listifying': u'Bot: ispisuje iz %(fromcat)s (%(num)d stavki)',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

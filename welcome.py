@@ -117,6 +117,11 @@ msg = {
 		'welcome-bad_username': u'Robot: afegint un nom d\'usuari que ha de ser revisat',
 		'welcome-updating': u'Robot: actualitzant el registre',
 	},
+	# Author: Умар
+	'ce': {
+		'welcome-welcome': u'Марша догӀийла!',
+		'welcome-updating': u'бот: тептар карлаяккхар',
+	},
 	# Author: Asoxor
 	'ckb': {
 		'welcome-welcome': u'بەخێربێی!',
@@ -182,11 +187,12 @@ msg = {
 		'welcome-updating': u'Roboto: Ĝisdatigas protokolon',
 	},
 	# Author: Crazymadlover
+	# Author: Fitoschido
 	# Author: Invadinado
 	# Author: Vivaelcelta
 	'es': {
 		'welcome-welcome': u'¡Bienvenido!',
-		'welcome-bad_username': u'Bot: Agregando nombre de usuario que necesita ser comprobado',
+		'welcome-bad_username': u'Bot: adición de nombre de usuario que necesita revisión',
 		'welcome-updating': u'Bot: Actualizando registro',
 	},
 	# Author: Avjoska
@@ -492,6 +498,7 @@ msg = {
 	# Author: Cedric31
 	'oc': {
 		'welcome-welcome': u'Benvenguda!',
+		'welcome-bad_username': u'Robòt : Apondon d\'un nom d\'utilizaire que deu èsser verificat',
 		'welcome-updating': u'Bot : Mesa a jorn del jornal',
 	},
 	# Author: Shisir 1945
@@ -558,6 +565,12 @@ msg = {
 		'welcome-welcome': u'Weelcome!',
 		'welcome-bad_username': u'Robot: Addin ae uisername that needs tae be checked',
 		'welcome-updating': u'Robot: Updatin log',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'welcome-welcome': u'Dobrodošli!',
+		'welcome-bad_username': u'Bot: dodato korisničko ime koje treba da se provjeri',
+		'welcome-updating': u'Bot: ažurirana historija',
 	},
 	# Author: පසිඳු කාවින්ද
 	# Author: බිඟුවා

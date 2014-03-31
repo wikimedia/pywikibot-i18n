@@ -68,6 +68,11 @@ msg = {
 		'casechecker-delete-reason': u'Aquesta redirecció apuntava a %(target)s',
 		'casechecker-rename': u'Bot: reanomenament amb majúscules/minúscules combinades',
 	},
+	# Author: Умар
+	'ce': {
+		'casechecker-replacement-summary': u'Бот: Хийцар регистр:',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+	},
 	# Author: Matěj Grabovský
 	# Author: Mormegil
 	'cs': {
@@ -275,6 +280,14 @@ msg = {
 		'casechecker-delete-reason': u'Deze doorverwijzing verwees naar %(target)s',
 		'casechecker-rename': u'Robot: hoofdletters en kleine letters gewijzigd',
 	},
+	# Author: Cedric31
+	'oc': {
+		'casechecker-replacement-summary': u'Robòt : Modificacions de cassa :',
+		'casechecker-delete-summary': u'Robòt : Aquesta redireccion conten de letras semblablas en cirillic e en latin dins son títol.',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Aquesta redireccion puntava cap a %(target)s',
+		'casechecker-rename': u'Robòt : renomenatge en cassa mixta',
+	},
 	# Author: Xqt
 	'pdc': {
 		'casechecker-replacement-linklist': u'%(source)s nooch %(target)s',
@@ -282,10 +295,20 @@ msg = {
 	# Author: Chrumps
 	# Author: Dalis
 	# Author: Pio387
+	# Author: Wedkarski
 	'pl': {
+		'casechecker-replacement-summary': u'Bot: Zamiana wielkości liter:',
 		'casechecker-delete-summary': u'Bot: To przekierowanie zawiera mieszankę cyrylicy i alfabetu łacińskiego w nazwie',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'To przekierowanie służy do wskazywania %(target)s',
+	},
+	# Author: Amgauna
+	'pt-br': {
+		'casechecker-replacement-summary': u'Bot: Reposição de casos:',
+		'casechecker-delete-summary': u'Bot: Este redirecionamento contém a identificação de procura Cyrilllic e caracteres latinos em seu título',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Este redirecionamento é usado para apontar para o(s) %(target)s',
+		'casechecker-rename': u'Bot: renomear um caso misto',
 	},
 	# Author: Minisarm
 	'ro': {
@@ -308,6 +331,11 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'This reguidal uised tae poynt til %(target)s',
 		'casechecker-rename': u'Bot: mix\'t case rename',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'casechecker-replacement-summary': u'Bot: Xaalad bedelaad:',
+		'casechecker-rename': u'Bot: iskudhaf la magaceeyey',
 	},
 	# Author: Rancher
 	'sr': {

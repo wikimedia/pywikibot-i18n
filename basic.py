@@ -411,6 +411,10 @@ msg = {
 	'sco': {
 		'basic-changing': u'Bot: Chyngin\' ...',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'basic-changing': u'Bot: mijenja...',
+	},
 	# Author: බිඟුවා
 	'si': {
 		'basic-changing': u'රොබෝ: වෙනස් කරමින්...',

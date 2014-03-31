@@ -168,6 +168,10 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(desconegut)',
 		'solve_disambiguation-links-removed': u'Desambiguació assistida: %(from)s - Eliminant enllaç(os).',
 	},
+	# Author: Умар
+	'ce': {
+		'solve_disambiguation-unknown-page': u'(йоьвзуш яц)',
+	},
 	# Author: Asoxor
 	'ckb': {
 		'solve_disambiguation-unknown-page': u'(نەناسراو)',
@@ -746,6 +750,7 @@ msg = {
 	},
 	# Author: Cedric31
 	'oc': {
+		'solve_disambiguation-redirect-removed': u'Omonimia resolguda amb l’ajuda d\'un robòt : %(from)s - Levament del(s) ligam(s)',
 		'solve_disambiguation-unknown-page': u'(desconegut)',
 	},
 	# Author: Bouron
@@ -834,8 +839,8 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
-		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged link(s) tae %(to)s',
-		'solve_disambiguation-links-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged link(s) tae %(to)s',
+		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged airtin(s) til %(to)s',
+		'solve_disambiguation-links-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged airtin(s) til %(to)s',
 		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
 		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
 		'solve_disambiguation-unknown-page': u'(unknown)',

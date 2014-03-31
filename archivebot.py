@@ -157,9 +157,10 @@ msg = {
 	# Author: Умар
 	'ce': {
 		'archivebot-older-than': u'къена, оццулла',
-		'archivebot-page-summary': u'Архиваци %(count)d {{PLURAL:%(count)d|теман|темашан}} (%(why)s) в %(archives)s.',
+		'archivebot-page-summary': u'Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} (%(why)s) %(archives)s чура.',
 		'archivebot-archiveheader': u'{{Дийцарийн архив}}',
 		'archivebot-archive-full': u'(АРХИВ ЮЬЗЗИНА Ю)',
+		'archivebot-archive-summary': u'Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} [[%(from)s]] чура.',
 	},
 	# Author: Asoxor
 	# Author: Calak
@@ -749,6 +750,14 @@ msg = {
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHIVE FUL)',
 		'archivebot-archive-summary': u'Robot: Archivin %(count)d {{PLURAL:%(count)d|thread|threads}} fae [[%(from)s]].',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'archivebot-older-than': u'starije od',
+		'archivebot-page-summary': u'{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} (%(why)s) u %(archives)s.',
+		'archivebot-archiveheader': u'{{talkarchive}}',
+		'archivebot-archive-full': u'(ARHIVA JE PUNA)',
+		'archivebot-archive-summary': u'{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} iz [[%(from)s]].',
 	},
 	# Author: පසිඳු කාවින්ද
 	# Author: බිඟුවා

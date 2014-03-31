@@ -314,6 +314,10 @@ msg = {
 	'sco': {
 		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'clean_sandbox-cleaned': u'Bot: očišćeno igralište',
+	},
 	# Author: Wizzard
 	'sk': {
 		'clean_sandbox-cleaned': u'Robot: Automaticky vyčistené',

@@ -173,6 +173,11 @@ msg = {
 		'redirect-remove-loop': u'Robot: el destí de la redirecció crea un bucle de redirecció',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Умар
+	'ce': {
+		'redirect-fix-double': u'бот: шалха дӀасахьажинарг нисъяр → %(to)s',
+		'redirect-broken-redirect-template': u'{{db-redirnone}}',
+	},
 	# Author: Asoxor
 	# Author: Calak
 	# Author: Marmzok
@@ -286,8 +291,9 @@ msg = {
 		'redirect-fix-double': u'Robot: parandatud kahekordne ümbersuunamine leheküljele %(to)s',
 	},
 	# Author: An13sa
+	# Author: Xabier Armendaritz
 	'eu': {
-		'redirect-fix-double': u'Robota: Birzuzenketa bikoitza zuzentzen %(to)s -ra',
+		'redirect-fix-double': u'Robota: «%(to)s» orriranzko birbideratze bikoitza konpontzea',
 	},
 	# Author: Ebraminio
 	# Author: Huji
@@ -689,6 +695,14 @@ msg = {
 	'nv': {
 		'redirect-fix-double': u'Bot: dah astsihígíí łahgo áyiilaa -> %(to)s',
 	},
+	# Author: Cedric31
+	'oc': {
+		'redirect-fix-double': u'Robòt : repara una dobla redireccion cap a %(to)s',
+		'redirect-fix-broken-moved': u'Robòt: Correccion de las redireccions erronèas cap a una pagina cibla %(to)s desplaçada',
+		'redirect-fix-loop': u'Robòt : repara una bocla de redireccion sus %(to)s',
+		'redirect-remove-loop': u'Robòt: la cibla de la redireccion forma una bocla de redireccion',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
+	},
 	# Author: Geitost
 	# Author: Xqt
 	'pdc': {
@@ -732,6 +746,7 @@ msg = {
 		'redirect-fix-loop': u'Robô: A corrigir o ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Robô: O destino do redirecionamento cria um ciclo de redirecionamentos',
 	},
+	# Author: Amgauna
 	# Author: Hamilton Abreu
 	# Author: Helder.wiki
 	# Author: Luckas
@@ -744,6 +759,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: consertando redirecionamento quebrado para página-alvo movida %(to)s',
 		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Bot: O destino do redirecionamento cria um ciclo de redirecionamentos',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Firilacroco
 	# Author: Minisarm

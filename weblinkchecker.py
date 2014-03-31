@@ -75,6 +75,11 @@ msg = {
 		'weblinkchecker-summary': u'Robot: Informant d\'un enllaç extern inaccessible',
 		'weblinkchecker-report': u'Durant diverses execucions automàtiques, el bot ha comprovat que el següent enllaç extern no està disponible. Comproveu que l\'enllaç estigui realment trencat i corregiu-lo o retireu-lo.!',
 	},
+	# Author: Умар
+	'ce': {
+		'weblinkchecker-caption': u'Болх цабо хьажоргаш',
+		'weblinkchecker-summary': u'бот: карина арахьара болх цабо хьажорг',
+	},
 	# Author: Tchoř
 	'cs': {
 		'weblinkchecker-archive_msg': u'Webová stránka je uložena v projektu Internet Archive. Prosím zvažte, zda neodkázat na patřičnou archivovanou verzi  [%(URL)s].',
@@ -423,9 +428,15 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'weblinkchecker-archive_msg': u'The wab page has been saved bi the Internet Archive. Please consider linking til aen appropriate archived version: [%(URL)s].',
-		'weblinkchecker-caption': u'Deid link',
+		'weblinkchecker-caption': u'Deid airtin',
 		'weblinkchecker-summary': u'Robot: Reportin onavailable external link',
-		'weblinkchecker-report': u'During several autaemated bot runs the follaein external link wis foond tae be onavailable. Please check gif the link is in fact doon n fix or remove it in that case!',
+		'weblinkchecker-report': u'During several autaemated bot rins the follaein ootby airtin wis foond tae be onavailable. Please check gif the link is in fact doon n fix or remuiv it in that case!',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'weblinkchecker-caption': u'Pokvarene vanjske veze',
+		'weblinkchecker-summary': u'Bot: prijavljivanje nepostojećih vanjskih veza',
+		'weblinkchecker-report': u'Tokom nekoliko automatski provjera, bot je pronašao pokvarene vanjske veze. Molimo vas provjerite da li je vanjska veza dobra, popravite je ili je uklonite!',
 	},
 	# Author: Teslaton
 	'sk': {

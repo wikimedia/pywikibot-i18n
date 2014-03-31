@@ -298,6 +298,10 @@ msg = {
 	'no': {
 		'replace-replacing': u'robot: automatisk teksterstatning: %(description)s',
 	},
+	# Author: Cedric31
+	'oc': {
+		'replace-replacing': u'Robòt : Remplaçament de tèxte automatizat %(description)s',
+	},
 	# Author: Sp5uhe
 	'pl': {
 		'replace-replacing': u'Robot automatycznie zastąpił tekst %(description)s',

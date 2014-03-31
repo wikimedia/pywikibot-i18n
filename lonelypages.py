@@ -166,9 +166,19 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robot: doorverwijspagina toegevoegd',
 		'lonelypages-comment-add-template': u'Robot: sjabloon aan weespagina toegevoegd',
 	},
+	# Author: Cedric31
+	'oc': {
+		'lonelypages-comment-add-disambig-template': u'Robòt : Apondon d\'una pagina d\'omonimia',
+		'lonelypages-comment-add-template': u'Robòt : Pagina orfanèla, apondon de modèl',
+	},
 	# Author: Pio387
 	'pl': {
 		'lonelypages-comment-add-disambig-template': u'Bot: Dodawanie strony ujednoznaczniającej.',
+	},
+	# Author: Amgauna
+	'pt-br': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Adicionar uma página de desambiguação',
+		'lonelypages-comment-add-template': u'Robot: Página Órfã, adicionar template',
 	},
 	# Author: Minisarm
 	'ro': {
@@ -183,7 +193,7 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'lonelypages-comment-add-disambig-template': u'Robot: Adding ae disambig page',
-		'lonelypages-comment-add-template': u'Robot: Orphan page, add template',
+		'lonelypages-comment-add-template': u'Robot: Orphan page, eik template',
 	},
 	# Author: Rancher
 	'sr': {

@@ -251,10 +251,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Robot: Cambios cosmetic',
 		'cosmetic_changes-append': u'; cambios cosmetic',
 	},
+	# Author: Bennylin
 	# Author: Kenrick95
 	'id': {
 		'cosmetic_changes-standalone': u'Robot: Perubahan kosmetika',
-		'cosmetic_changes-append': u'; kosmetik perubahan',
+		'cosmetic_changes-append': u'; perubahan kosmetik',
 	},
 	# Author: Renan
 	'ie': {
@@ -340,10 +341,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Rôbô : Fanovana arak\'endrika',
 		'cosmetic_changes-append': u'; fanovana arak\'endrika.',
 	},
+	# Author: Bennylin
 	# Author: Luthfi94
 	'min': {
 		'cosmetic_changes-standalone': u'Robot: Parubahan kosmetika',
-		'cosmetic_changes-append': u'; kosmetik parubahan',
+		'cosmetic_changes-append': u'; parubahan kosmetik',
 	},
 	'mk': {
 		'cosmetic_changes-standalone': u'Бот: козметички промени',
@@ -453,6 +455,11 @@ msg = {
 	'sco': {
 		'cosmetic_changes-standalone': u'Robot: Cosmetic chynges',
 		'cosmetic_changes-append': u'; cosmetic chynges',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'cosmetic_changes-standalone': u'Bot: kozmetičke izmjene',
+		'cosmetic_changes-append': u'; kozmetičke izmjene',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

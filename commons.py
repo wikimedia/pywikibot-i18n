@@ -337,6 +337,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttet til [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'Filen er nå tilgjengelig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Cedric31
+	'oc': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Fichièr]] desplaçat sus [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-now-available': u'Lo fichièr es ara disponible sus [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+	},
 	# Author: Shisir 1945
 	'or': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] ଗଲା [[:commons:File:%(commonsfile)s|commons]] କୁ',
@@ -384,6 +389,11 @@ msg = {
 	'sco': {
 		'commons-file-moved': u'[[:File:%(localfile)s|File]] flitted tae [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is nou available oan [[:commons:File:%(commonsfile)s|Wikimedia Commyns]].',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] je premeštena u [[:commons:File:%(commonsfile)s|Wikimedijinu Ostavu]].',
+		'commons-file-now-available': u'Datoteka je sada dostupna u [[:commons:File:%(commonsfile)s|Wikimedijinoj ostavi]].',
 	},
 	# Author: Teslaton
 	# Author: Wizzard

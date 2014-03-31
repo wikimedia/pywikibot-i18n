@@ -223,7 +223,7 @@ msg = {
 	'ml': {
 		'protect-links': u'യന്ത്രം: %(page)s എന്ന താളിൽ നിന്ന് കണ്ണി ചേർത്തിട്ടുള്ള എല്ലാ താളുകളും സംരക്ഷിക്കുന്നു',
 		'protect-simple': u'യന്ത്രം: പട്ടികയിലെ താളുകൾ സംരക്ഷിക്കുന്നു.',
-		'protect-category': u'യന്ത്രം: %(page)s എന്ന വർഗ്ഗത്തിലെ എല്ലാ താളുകളും സംരക്ഷിക്കുന്നു',
+		'protect-category': u'യന്ത്രം: %(cat)s എന്ന വർഗ്ഗത്തിലെ എല്ലാ താളുകളും സംരക്ഷിക്കുന്നു',
 		'protect-ref': u'യന്ത്രം: %(page)s എന്ന താളിൽ സൂചിപ്പിക്കുന്ന എല്ലാ താളുകളും സംരക്ഷിക്കുന്നു',
 		'protect-images': u'യന്ത്രം: %(page)s താളിലെ എല്ലാ ചിത്രങ്ങളും സംരക്ഷിക്കുന്നു',
 	},
@@ -243,12 +243,29 @@ msg = {
 		'protect-ref': u'Robot: alle pagina\'s met een verwijzing op %(page)s beveiligd',
 		'protect-images': u'Robot: alle bestanden gebruikt op %(page)s beveiligd',
 	},
+	# Author: Pio387
+	# Author: Wedkarski
+	'pl': {
+		'protect-links': u'Robot: Zabezpieczanie wszystkich stron, do których linkuje %(page)s',
+		'protect-simple': u'Robot: zabezpieczenie plików z listy.',
+		'protect-category': u'Robot: Zabezpieczanie wszystkich stron z kategorii %(cat)s',
+		'protect-ref': u'Robot: Zabezpieczanie wszystkich stron, które linkują do %(page)s',
+		'protect-images': u'Robot: Zabezpieczanie wszystkich obrazów ze strony %(page)s',
+	},
 	'pt': {
 		'protect-links': u'Bot: Protegendo todos os artigos ligados a %(page)s',
 		'protect-simple': u'Bot: Protegendo uma lista de artigos.',
 		'protect-category': u'Bot: Protegendo todos os artigos da categoria %(cat)s',
 		'protect-ref': u'Bot: Protegendo todos os artigos afluentes a %(page)s',
 		'protect-images': u'Bot: Protegendo todas as imagens do artigo %(page)',
+	},
+	# Author: Amgauna
+	'pt-br': {
+		'protect-links': u'Bot: Protegendo todas as páginas ligadas a %(page)s',
+		'protect-simple': u'Bot: Protegendo uma lista de arquivos.',
+		'protect-category': u'Bot: Protegendo todas as páginas da categoria %(cat)s',
+		'protect-ref': u'Bot: Protegendo todas as páginas referenciadas em %(page)s',
+		'protect-images': u'Bot: Protegendo todas as imagens das páginas %(page)s',
 	},
 	# Author: Minisarm
 	'ro': {
@@ -272,7 +289,7 @@ msg = {
 		'protect-simple': u'Robot: Protectin ae leet o files.',
 		'protect-category': u'Robot: Protectin aw pages fae categorie %(cat)s',
 		'protect-ref': u'Robot: Protectin aw pages referring fae %(page)s',
-		'protect-images': u'Robot: Protectin aw eimages on page %(page)s',
+		'protect-images': u'Robot: Protectin aw eemages oan page %(page)s',
 	},
 	# Author: Rancher
 	'sr': {

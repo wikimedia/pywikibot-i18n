@@ -38,6 +38,10 @@ msg = {
 	'ca': {
 		'blockpageschecker-summary': u'Bot: suprimint plantilla obsoleta',
 	},
+	# Author: Умар
+	'ce': {
+		'blockpageschecker-summary': u'Бот: Шира ела кеп дӀаяккхар',
+	},
 	# Author: Mormegil
 	'cs': {
 		'blockpageschecker-summary': u'Bot: Mažu zastaralou šablonu',
@@ -169,6 +173,10 @@ msg = {
 	'no': {
 		'blockpageschecker-summary': u'Robot: Sletter utdatert mal',
 	},
+	# Author: Cedric31
+	'oc': {
+		'blockpageschecker-summary': u'Robòt: Mesa a jorn dels bendèls de proteccion',
+	},
 	# Author: Ty221
 	'pl': {
 		'blockpageschecker-summary': u'Bot: usuwanie przestarzałego szablonu',
@@ -204,6 +212,10 @@ msg = {
 	# Author: Eleassar
 	'sl': {
 		'blockpageschecker-summary': u'Bot: brišem zastarelo predlogo',
+	},
+	# Author: Abshirdheere
+	'so': {
+		'blockpageschecker-summary': u'Bot: Tirtiris tusmo hore',
 	},
 	# Author: Euriditi
 	'sq': {

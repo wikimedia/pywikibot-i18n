@@ -94,7 +94,7 @@ msg = {
 	},
 	# Author: Bjankuloski06
 	'mk': {
-		'revertbot-revert': u'Бот: Враќам на ревизијата %(revid)s на %(author)s од %(timestamp)s',
+		'revertbot-revert': u'Бот: Враќам на преработката %(revid)s на %(author)s од %(timestamp)s',
 	},
 	# Author: Praveenp
 	'ml': {
@@ -107,6 +107,18 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'revertbot-revert': u'Robot: teruggedraaid naar versie %(revid)s door %(author)s op %(timestamp)s',
+	},
+	# Author: Cedric31
+	'oc': {
+		'revertbot-revert': u'Robòt : Revengut a la revision %(revid)s per %(author)s lo %(timestamp)s',
+	},
+	# Author: Wedkarski
+	'pl': {
+		'revertbot-revert': u'Bot: Cofnięto do wersji %(revid)s autorstwa %(author)s z %(timestamp)s',
+	},
+	# Author: Amgauna
+	'pt-br': {
+		'revertbot-revert': u'Bot: Revertida a revisão %(revid)s do %(author)s em %(timestamp)s',
 	},
 	# Author: Okras
 	'ru': {

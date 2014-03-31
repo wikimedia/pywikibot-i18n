@@ -354,6 +354,12 @@ msg = {
 		'template-changing': u'bot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s',
 		'template-substituting': u'bot: Erstatter {{PLURAL:%(num)d|mal|maler}}: %(list)s',
 	},
+	# Author: Cedric31
+	'oc': {
+		'template-removing': u'Robòt : Lèva {{PLURAL:%(num)d|lo modèl|modèls}}: %(list)s',
+		'template-changing': u'Robòt : {{PLURAL:%(num)d|Càmbia modèl|Modifica modèls}}: %(list)s',
+		'template-substituting': u'Robòt : Remplaça {{PLURAL:%(num)d|modèl|modèls}}: %(list)s',
+	},
 	# Author: Rezonansowy
 	# Author: Sp5uhe
 	'pl': {
@@ -399,6 +405,12 @@ msg = {
 		'template-removing': u'Robot: Remuivin {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-changing': u'Robot: Chyngin {{PLURAL:%(num)d|template|templates}}: %(list)s',
 		'template-substituting': u'Robot: Substitutin {{PLURAL:%(num)d|template|templates}}: %(list)s',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'template-removing': u'Bot: {{PLURAL:%(num)d|uklonjen šablon|uklonjeni šabloni}}: %(list)s',
+		'template-changing': u'Robot: {{PLURAL:%(num)d|promijenjen šablon|promijenjeni šabloni}}: %(list)s',
+		'template-substituting': u'Bot: {{PLURAL:%(num)d|zamijenjen šablon|zamijenjeni šabloni}}: %(list)s',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

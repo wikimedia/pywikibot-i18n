@@ -181,6 +181,10 @@ msg = {
 	'no': {
 		'spellcheck-checking': u'Robothjulpet stavekontroll',
 	},
+	# Author: Cedric31
+	'oc': {
+		'spellcheck-checking': u'Correccion ortografica assistida per un robòt',
+	},
 	'pl': {
 		'spellcheck-checking': u'Wspomagane przez robota sprawdzanie pisowni',
 	},

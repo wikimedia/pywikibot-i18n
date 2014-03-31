@@ -57,6 +57,10 @@ msg = {
 	'ca': {
 		'unlink-unlinking': u'Bot: desenllaçant "%s"',
 	},
+	# Author: Умар
+	'ce': {
+		'unlink-unlinking': u'бот: хьажорг дӀаяккхар «%s»',
+	},
 	# Author: Utar
 	'cs': {
 		'unlink-unlinking': u'Robot: Odlinkovávám "%s"',
@@ -269,6 +273,10 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'unlink-unlinking': u'Robot: Onlinkin "%s"',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'unlink-unlinking': u'Bot: uklonjena veza „%s“',
 	},
 	# Author: පසිඳු කාවින්ද
 	'si': {

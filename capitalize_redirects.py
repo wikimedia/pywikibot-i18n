@@ -74,6 +74,10 @@ msg = {
 	'ca': {
 		'capitalize_redirects-create-redirect': u'Robot: Crea una redirecció a [[%(to)s]]',
 	},
+	# Author: Умар
+	'ce': {
+		'capitalize_redirects-create-redirect': u'бот: кхоьллина дӀасахьажорг → [[%(to)s]]',
+	},
 	# Author: Asoxor
 	'ckb': {
 		'capitalize_redirects-create-redirect': u'ڕۆبۆت: دروستکردنی ڕەوانەکردنەوە بۆ [[%(to)s]]',
@@ -124,8 +128,9 @@ msg = {
 		'capitalize_redirects-create-redirect': u'Bot: Creando redirección hacia «[[%(to)s]]»',
 	},
 	# Author: Theklan
+	# Author: Xabier Armendaritz
 	'eu': {
-		'capitalize_redirects-create-redirect': u'Robota: [[%(to)s]] orrialdera birzuzenketa sortzen',
+		'capitalize_redirects-create-redirect': u'Robota: «[[%(to)s]]» orriranzko birbideratzea sortzea',
 	},
 	# Author: Mjbmr
 	'fa': {

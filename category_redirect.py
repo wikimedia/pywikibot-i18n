@@ -176,6 +176,15 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s està a %(oldcat)s, que és una redirecció a %(newcat)s',
 		'category_redirect-fix-double': u'Bot: arreglant redirecció doble',
 	},
+	# Author: Умар
+	'ce': {
+		'category_redirect-comment': u'Категореш дӀасахьажаяран болх бо бот',
+		'category_redirect-change-category': u'бот: категореш дӀасахьажаяр хийцина [[:%(oldCatLink)s|%(oldCatTitle)s]] → [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'бот: дӀасахьажош йолу кеп тӀетуьхина категореш болх баран',
+		'category_redirect-edit-request': u'ТӀехьайогӀу гӀорала дина йолу агӀонийн хьажоргаш карлаяха еза категори: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s ю %(oldcat)s чохь, иза ю %(newcat)s тӀе дӀасахьажина',
+		'category_redirect-fix-double': u'бот: шалха дӀасахьажинарг нисъяр',
+	},
 	# Author: Asoxor
 	# Author: Calak
 	'ckb': {
@@ -262,6 +271,7 @@ msg = {
 		'category_redirect-fix-double': u'Roboto: Riparado de duobla alidirektilo',
 	},
 	# Author: Dferg
+	# Author: Fitoschido
 	# Author: Invadinado
 	# Author: Xqt
 	'es': {
@@ -270,15 +280,16 @@ msg = {
 		'category_redirect-add-template': u'Bot: Añadiendo plantilla de categoría redirigida para mantenimiento',
 		'category_redirect-edit-request': u'Se han detectado las siguientes páginas protegidas y se requieren actualizaciones de enlaces de categorías: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s está en %(oldcat)s, el cual redirecciona a %(newcat)s',
-		'category_redirect-fix-double': u'Bot: Arreglando doble redirección',
+		'category_redirect-fix-double': u'Bot: arreglo de redirección doble',
 	},
 	# Author: Pikne
 	'et': {
 		'category_redirect-fix-double': u'Robot: parandatud kahekordne ümbersuunamine',
 	},
 	# Author: An13sa
+	# Author: Xabier Armendaritz
 	'eu': {
-		'category_redirect-fix-double': u'Robota: birzuzenketa bikoitza konpontzen',
+		'category_redirect-fix-double': u'Robota: Birbideratze bikoitza konpontzea',
 	},
 	# Author: Ebraminio
 	# Author: ZxxZxxZ
@@ -532,7 +543,7 @@ msg = {
 		'category_redirect-comment': u'Bot fir den Ënnerhalt vu Viruleedunge vu Kategorien',
 		'category_redirect-change-category': u'Bot: Ännere vun der virugeleeter Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] op [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Bot:Kategorie-Viruleedungs-Schabloun derbäigesat aus Maintenance-Grënn',
-		'category_redirect-edit-request': u'Op dës gespaart Säite mussen nach Aktualiséierunge vun de Kategorie-Linke gemaach ginn: %(itemlist)s',
+		'category_redirect-edit-request': u'Op dëse gespaarte Säite mussen nach Aktualiséierunge vun de Kategorie-Linke gemaach ginn: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s ass an %(oldcat)s, déi eng Viruleedung op %(newcat)s ass',
 		'category_redirect-fix-double': u'Bot: Duebel Viruleedung gefléckt',
 	},
@@ -749,6 +760,15 @@ msg = {
 		'category_redirect-edit-request': u'The following protected pages have been detected as needin\' updates tae category links: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, this is ae reguidal til %(newcat)s',
 		'category_redirect-fix-double': u'Bot: fixin\' dooble-reguidals',
+	},
+	# Author: Kolega2357
+	'sh': {
+		'category_redirect-comment': u'Bot za održavanje preusmjerenih kategorija',
+		'category_redirect-change-category': u'Robot: mijenja preusmjerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-add-template': u'Bot: dodat šablon za preusmjerenu kategoriju za održavanje',
+		'category_redirect-edit-request': u'Sljedeće zaštićene stranice imaju zastarjele veze kategorija: %(itemlist)s',
+		'category_redirect-edit-request-item': u'* %(title)s je u %(oldcat)s, a to je preusmjerenje na %(newcat)s',
+		'category_redirect-fix-double': u'Bot: ispravljena dvostruka preusmjerenja',
 	},
 	# Author: Teslaton
 	# Author: Wizzard
