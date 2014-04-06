@@ -506,7 +506,7 @@ msg = {
 	'ko': {
 		'redirect-fix-double': u'로봇: %(to)s(으)로 이중 넘겨주기 고침',
 		'redirect-remove-broken': u'로봇: 끊긴 넘겨주기',
-		'redirect-fix-broken-moved': u'로봇: %(to)s(으)로 이동한 대상 문서로 끊긴 넘겨주기 고침',
+		'redirect-fix-broken-moved': u'로봇: %(to)s(으)로 옮긴 대상 문서로 끊긴 넘겨주기 고침',
 		'redirect-fix-loop': u'로봇: %(to)s(으)로 재귀적인 넘겨주기 고침',
 		'redirect-remove-loop': u'로봇: 넘겨주기 대상이 재귀적인 넘겨주기로 생김',
 		'redirect-broken-redirect-template': u'{{ㅅ}}',
@@ -795,7 +795,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: Fixin broken reguidal til muived target page %(to)s',
 		'redirect-fix-loop': u'Robot: Fixin reguidal luip til %(to)s',
 		'redirect-remove-loop': u'Robot: Reguidal tairget forms ae reguidal luip',
-		'redirect-broken-redirect-template': u'{{delete}}',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Teslaton
 	# Author: Wizzard

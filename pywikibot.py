@@ -656,6 +656,15 @@ msg = {
 		'pywikibot-enter-category-name': u'Please enter the category name:',
 		'pywikibot-enter-finished-browser': u'Press Enter whan finish\'t in browser.',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'pywikibot-enter-xml-filename': u'Unesite naziv XML ispisa:',
+		'pywikibot-enter-page-processing': u'Koja stranica treba da se obradi?',
+		'pywikibot-enter-namespace-number': u'Unesite imenski prostor pored njegovog broja:',
+		'pywikibot-enter-new-text': u'Unesite novi tekst:',
+		'pywikibot-enter-category-name': u'Unesite naziv kategorije:',
+		'pywikibot-enter-finished-browser': u'Pritisnite enter kada završite u pregledaču.',
+	},
 	# Author: පසිඳු කාවින්ද
 	'si': {
 		'pywikibot-enter-new-text': u'කරුණාකර නව පෙළ යොදන්න:',

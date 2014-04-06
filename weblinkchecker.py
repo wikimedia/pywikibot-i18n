@@ -517,6 +517,10 @@ msg = {
 		'weblinkchecker-summary': u'Bot: Báo cáo liên kết bên ngoài không truy cập được',
 		'weblinkchecker-report': u'Bot tự động chạy vài lần mà không truy cập được liên kết bên ngoài sau. Xin vui lòng kiểm tra nó thực sự bị hỏng, và nếu vậy, xin sửa hoặc xóa liên kết.',
 	},
+	# Author: פוילישער
+	'yi': {
+		'weblinkchecker-caption': u'טויטער לינק',
+	},
 	# Author: Mys 721tx
 	# Author: Yfdyh000
 	'zh': {

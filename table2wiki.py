@@ -324,6 +324,11 @@ msg = {
 		'table2wiki-warnings': u'Uiser-controlled robot: Buird syntax updated - {{PLURAL:count|1 warnishment|%(count)d warnishments}}!',
 		'table2wiki-no-warning': u'Uiser-controlled robot: Buird syntax updated',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'table2wiki-warnings': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja|%(count)d upozorenja}})',
+		'table2wiki-no-warning': u'Robot kojim upravlja korisnik: sintaksa tabele je ažurirana',
+	},
 	# Author: Teslaton
 	# Author: Wizzard
 	'sk': {

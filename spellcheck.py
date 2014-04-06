@@ -214,6 +214,10 @@ msg = {
 	'sco': {
 		'spellcheck-checking': u'Bot-aided speel checker',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'spellcheck-checking': u'Botovska provjera pravopisa',
+	},
 	# Author: Teslaton
 	'sk': {
 		'spellcheck-checking': u'Kontrola pravopisu pomocou robota',

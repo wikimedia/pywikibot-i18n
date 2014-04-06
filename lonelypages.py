@@ -171,9 +171,11 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robòt : Apondon d\'una pagina d\'omonimia',
 		'lonelypages-comment-add-template': u'Robòt : Pagina orfanèla, apondon de modèl',
 	},
+	# Author: Chrumps
 	# Author: Pio387
 	'pl': {
 		'lonelypages-comment-add-disambig-template': u'Bot: Dodawanie strony ujednoznaczniającej.',
+		'lonelypages-comment-add-template': u'Robot: osierocona strona, dodanie szablonu',
 	},
 	# Author: Amgauna
 	'pt-br': {

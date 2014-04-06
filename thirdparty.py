@@ -1520,6 +1520,26 @@ msg = {
 		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESSAGE',
 		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nOotline generated fae n at: %(sign)s</noinclude>',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nema urednika)',
+		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s – [%(history_link)s posljednja izmjena] (%(page_size)s bajtova) od %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Botovo upozorenje: %(page)s „\'\'%(warning)s\'\'“',
+		'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova diskusija',
+		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – posljednja izmjena od [[User:%(user)s]] (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Obavještenja',
+		'thirdparty-drtrigonbot-subster-summary-mod': u'zamjena oznaka %(tags)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusija zatvorena',
+		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s svi razgovori su završeni (nadzor je prekinut) – posljednja izmjena od %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Dodat je opis razgovora: %(num)i unosa',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusija promjenjena',
+		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Dodat je opis razgovora sa čišćenjem: %(num)i unosa',
+		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Opis razgovora je ažuriran: %(num)i unosa u %(page)s',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOTOVA PORUKA',
+		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude> Opis je stvoren iz i u: %(sign)s</noinclude>',
+	},
 	# Author: පසිඳු කාවින්ද
 	# Author: බිඟුවා
 	'si': {
@@ -1875,6 +1895,8 @@ msg = {
 		'thirdparty-drtrigonbot-subster-summary-mod': u'אויסטוישן %(tags)s טאג(ן)',
 		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'שמועס פארמאכט',
 		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s אלע שמועסן געקאנטשעט (אויגהאלטונג אפגעשטעלט) - לעצטע רעדאקטירונג פון %(user)s (%(time)s)',
+		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'דיסקוסיע פארענדערט',
+		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'באט מעלדונג',
 	},
 	# Author: Demmy
 	'yo': {

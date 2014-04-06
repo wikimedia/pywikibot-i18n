@@ -304,6 +304,10 @@ msg = {
 	'sco': {
 		'noreferences-add-tag': u'Robot: Adding tint <references /> tag',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'noreferences-add-tag': u'Bot: dodata odsutna oznaka <references />',
+	},
 	# Author: Wizzard
 	'sk': {
 		'noreferences-add-tag': u'Robot doplnil chýbajúci tag <references />',
