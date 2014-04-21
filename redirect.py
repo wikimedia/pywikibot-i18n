@@ -150,7 +150,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s',
 		'redirect-fix-loop': u'Robot : O kempenn al lagadenn adkas war-zu %(to)s',
 		'redirect-remove-loop': u'Robot: Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: CERminator
 	# Author: Edinwiki
@@ -179,7 +178,6 @@ msg = {
 	# Author: Умар
 	'ce': {
 		'redirect-fix-double': u'бот: шалха дӀасахьажинарг нисъяр → %(to)s',
-		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 	},
 	# Author: Asoxor
 	# Author: Calak
@@ -398,7 +396,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Lopako: Ke kāpili hou nei i ka hoʻoili haki o kekahi ʻaoʻao hoʻoneʻe ʻia iā %(to)s',
 		'redirect-fix-loop': u'Lopako: Ke kāpili hou i ka linapoepoe hoʻoili iā %(to)s',
 		'redirect-remove-loop': u'Lopako: Hoʻokino ka māka hoʻoili i kekahi linapoepoe hoʻoili',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Amire80
 	# Author: YaronSh
@@ -706,7 +703,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Robòt: Correccion de las redireccions erronèas cap a una pagina cibla %(to)s desplaçada',
 		'redirect-fix-loop': u'Robòt : repara una bocla de redireccion sus %(to)s',
 		'redirect-remove-loop': u'Robòt: la cibla de la redireccion forma una bocla de redireccion',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Geitost
 	# Author: Xqt
@@ -765,7 +761,6 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: consertando redirecionamento quebrado para página-alvo movida %(to)s',
 		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Bot: O destino do redirecionamento cria um ciclo de redirecionamentos',
-		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Firilacroco
 	# Author: Minisarm
