@@ -308,6 +308,10 @@ msg = {
 	'sco': {
 		'fixing_redirects-fixing': u'Bot: Fixin redirects',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'fixing_redirects-fixing': u'Bot: ispravljena preusmjerenja',
+	},
 	# Author: පසිඳු කාවින්ද
 	'si': {
 		'fixing_redirects-fixing': u'රොබෝ: යළියොමු සවි කරමින්',

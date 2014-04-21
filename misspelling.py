@@ -17,6 +17,10 @@ msg = {
 	'be-x-old': {
 		'misspelling-fixing': u'Робат: выпраўленьне памылковай спасылкі на %(page)s',
 	},
+	# Author: SMP
+	'ca': {
+		'misspelling-fixing': u'Robot: Corregint un enllaç mal escrit cap a %(page)s',
+	},
 	'da': {
 		'misspelling-fixing': u'Omdirigeringer af fejlstavninger: %(page)s',
 	},
@@ -72,6 +76,10 @@ msg = {
 	},
 	'nds': {
 		'misspelling-fixing': u'Bot: rut mit verkehrt schreven Lenk op %(page)s',
+	},
+	# Author: Njsubedi
+	'ne': {
+		'misspelling-fixing': u'रोबोट: %(page)s को लागि हिज्जे बिग्रिएका लिङ्क सुधार गर्दै',
 	},
 	# Author: Siebrand
 	'nl': {

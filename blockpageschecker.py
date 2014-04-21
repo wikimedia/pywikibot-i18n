@@ -161,9 +161,10 @@ msg = {
 	'nds-nl': {
 		'blockpageschecker-summary': u'Bot: verouwerde mal vortedoan',
 	},
+	# Author: Njsubedi
 	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'blockpageschecker-summary': u'बोट : काम नलाग्ने टेम्प्लेटहरू मेट्दै',
+		'blockpageschecker-summary': u'बोट : काम नलाग्ने ढाँचाहरू मेट्दै',
 	},
 	# Author: Siebrand
 	'nl': {

@@ -648,11 +648,12 @@ msg = {
 		'category_redirect-edit-request-item': u'* %(title)s steet in %(oldcat)s, n deurverwiezing naor %(newcat)s',
 		'category_redirect-fix-double': u'Bot: dubbele deurverwiezingen verbeteren',
 	},
+	# Author: Njsubedi
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'category_redirect-comment': u'श्रेणी अनुप्रेषण मर्मत रोबोट',
 		'category_redirect-change-category': u'रोबोट: श्रेणी अनुप्रेषण गर्दै [[:%(oldCatLink)s|%(oldCatTitle)s]] बाट [[:%(newCatLink)s|%(newCatTitle)s]] मा',
-		'category_redirect-add-template': u'रोबोट: मर्मतको लागि श्रेणी अनुप्रेषण टेम्पलेट थप्दै',
+		'category_redirect-add-template': u'रोबोट: मर्मतको लागि श्रेणी अनुप्रेषण ढाँचा थप्दै',
 		'category_redirect-edit-request': u'निम्न सुरक्षित पृष्ठहरुमा श्रेणीअरु सम्पादनको आवश्यकता देखिएको छ: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s , %(oldcat)s मा रहेको छ, जसलाई %(newcat)sमा अनुप्रेषण गरियो',
 		'category_redirect-fix-double': u'रोबोट: दोहोरो रिडाइरेक्टहरू मिलाउँदै',
@@ -684,6 +685,10 @@ msg = {
 		'category_redirect-edit-request': u'Det har blitt oppdaget at følgende beskyttede sider krever oppdateringer til kategorilenker: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s',
 		'category_redirect-fix-double': u'robot: Retter dobbel omdirigering',
+	},
+	# Author: Cedric31
+	'oc': {
+		'category_redirect-fix-double': u'Robòt : repara una dobla redireccion',
 	},
 	'pdc': {
 		'category_redirect-fix-double': u'Waddefresser: Doppelte Weiderleiding',

@@ -95,7 +95,7 @@ msg = {
 	'es': {
 		'reflinks-autogen': u'generado automáticamente',
 		'reflinks-comment': u'Título generado por robot',
-		'reflinks-msg': u'Formateando las referencias que no tuvieran títulos (FAQ : [[%(manual)s]])',
+		'reflinks-msg': u'Bot: Conversión de referencias sencillas usando nombres para evitar duplicados. Véanse [[%(manual)s|P+F]]',
 	},
 	# Author: Reza1615
 	'fa': {

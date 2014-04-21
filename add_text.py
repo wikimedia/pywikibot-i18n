@@ -422,9 +422,10 @@ msg = {
 	'nds-nl': {
 		'add_text-adding': u'Bot derbie %(adding)s',
 	},
+	# Author: Njsubedi
 	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'add_text-adding': u'रोबोटले थप्दै %(adding)s',
+		'add_text-adding': u'रोबोट: थप्दै %(adding)s',
 	},
 	'nl': {
 		'add_text-adding': u'Robot: toegevoegd %(adding)s',

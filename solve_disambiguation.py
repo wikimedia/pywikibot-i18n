@@ -846,6 +846,10 @@ msg = {
 		'solve_disambiguation-unknown-page': u'(unknown)',
 		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
 	},
+	# Author: Kolega2357
+	'sh': {
+		'solve_disambiguation-unknown-page': u'(nepoznato)',
+	},
 	# Author: බිඟුවා
 	'si': {
 		'solve_disambiguation-unknown-page': u'(නොදත්)',

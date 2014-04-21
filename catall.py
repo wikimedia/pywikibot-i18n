@@ -72,6 +72,10 @@ msg = {
 	'ca': {
 		'catall-changing': u'Robot: canviant categories',
 	},
+	# Author: Умар
+	'ce': {
+		'catall-changing': u'бот: категори хийцар',
+	},
 	# Author: Asoxor
 	'ckb': {
 		'catall-changing': u'ڕۆبۆت: گۆڕینی پۆلەکان',

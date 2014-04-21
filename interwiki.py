@@ -1302,16 +1302,17 @@ msg = {
 		'interwiki-modifying-from': u'Bot: wieziging van %(from)s naor %(modifying)s',
 	},
 	# Author: Hugo.arg
+	# Author: Njsubedi
 	# Author: RajeshPandey
 	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'interwiki-modifying': u'रोबोटले परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-adding-modifying': u'रोबोटले थप्दै: %(adding)s परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-adding-removing': u'रोबोटले थप्दै: %(adding)s हटाउँदै: %(removing)s',
-		'interwiki-adding-removing-modifying': u'रोबोटले थप्दै: %(adding)s हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
-		'interwiki-adding': u'रोबोटले थप्दै: %(adding)s',
-		'interwiki-removing': u'रोबोटले हटाउँदै: %(removing)s',
-		'interwiki-removing-modifying': u'रोबोटले हटाउँदै: %(removing)s परिवर्तन गर्दै: %(modifying)s',
+		'interwiki-modifying': u'रोबोट: %(modifying)s लाई परिवर्तन गर्दै',
+		'interwiki-adding-modifying': u'रोबोट: %(adding)s थप्दै; %(modifying)s परिवर्तन गर्दै',
+		'interwiki-adding-removing': u'रोबोट: %(adding)s थप्दै; %(removing)s हटाउँदै',
+		'interwiki-adding-removing-modifying': u'रोबोट: %(adding)s थप्दै; %(removing)s हटाउँदै; %(modifying)s परिवर्तन गर्दै',
+		'interwiki-adding': u'रोबोट: %(adding)s थप्दै',
+		'interwiki-removing': u'रोबोट: %(removing)s हटाउँदै',
+		'interwiki-removing-modifying': u'रोबोट: %(removing)s हटाउँदै; %(modifying)s परिवर्तन गर्दै',
 		'interwiki-modifying-from': u'रोबोट: %(from)sलाई %(modifying)sमा परिवर्तन गर्दै',
 	},
 	# Author: Eukesh

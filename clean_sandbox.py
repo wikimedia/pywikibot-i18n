@@ -281,6 +281,10 @@ msg = {
 	'no': {
 		'clean_sandbox-cleaned': u'bot: Rydder sandkassa.',
 	},
+	# Author: Cedric31
+	'oc': {
+		'clean_sandbox-cleaned': u'Robòt : netejatge automatic',
+	},
 	# Author: Shisir 1945
 	'or': {
 		'clean_sandbox-cleaned': u'ରୋବଟ୍‌: ସ୍ୱଂୟ ସଫା ହେଲା',

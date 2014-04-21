@@ -104,6 +104,10 @@ msg = {
 	'ms': {
 		'revertbot-revert': u'Bot: Mengembalikan kepada %(revid)s oleh %(author)s pada %(timestamp)s',
 	},
+	# Author: Njsubedi
+	'ne': {
+		'revertbot-revert': u'बोट: %(author)s द्वारा %(timestamp)sमा गरिएको रुजु %(revid)s मा फर्काइयो',
+	},
 	# Author: Siebrand
 	'nl': {
 		'revertbot-revert': u'Robot: teruggedraaid naar versie %(revid)s door %(author)s op %(timestamp)s',

@@ -110,6 +110,7 @@ msg = {
 	},
 	# Author: Умар
 	'ce': {
+		'featured-good': u'бот: дика яззам %(page)s',
 		'featured-featured': u'бот: хаьржина яззам %(page)s',
 	},
 	# Author: Calak

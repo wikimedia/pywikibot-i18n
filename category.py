@@ -337,8 +337,17 @@ msg = {
 	# Author: Xqt
 	# Author: Умар
 	'ce': {
+		'category-version-history': u'бот: историн верси Ӏалашяр хиллачу %(oldcat)s чура',
+		'category-changing': u'бото хийцина: %(oldcat)s → %(newcat)s',
 		'category-adding': u'робот: тIетоьхна Категори [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(кхин %(alsocat)s) чохь',
+		'category-was-disbanded': u'бот: категори дӀасайикъина',
+		'category-replacing': u'бот: хийцина категореш %(oldcat)s → %(newcat)s',
+		'category-removing': u'бот: юкъара яккхар %(oldcat)s чура',
+		'category-was-moved': u'бот: категорин цӀе хийцина → [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'бот: %s чура дихьа яьккхина. автораш: %s',
 		'category-section-title': u'АгӀона истори хила %(oldcat)s чура',
+		'category-listifying': u'бот: кхуллуш бу могӀам ({{PLURAL:%(num)d|элементах|элементашах}}) %(fromcat)s',
 	},
 	# Author: Xqt
 	'ceb': {
@@ -1288,11 +1297,12 @@ msg = {
 		'category-section-title': u'Paginageschiedenisse van veurmaolige %(oldcat)s',
 		'category-listifying': u'Bot: lieste van %(fromcat)s (%(num)d pagina\'s)',
 	},
+	# Author: Njsubedi
 	# Author: RajeshPandey
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'category-version-history': u'रोबोट:  %(oldcat)sको संस्करण इतिहास संग्रह गर्दै',
-		'category-changing': u'रोबोट:%(oldcat)sले %(newcat)sमा परिवर्तन गर्दै',
+		'category-changing': u'रोबोट:%(oldcat)sलाई %(newcat)sमा परिवर्तन गर्दै',
 		'category-adding': u'रोबोट: category [[:Category:%(newcat)s|%(newcat)s]] थप्दै',
 		'category-also-in': u'(%(alsocat)s मा पनि)',
 		'category-was-disbanded': u'बोट: श्रेणीलाई अनिषेधित गरियो',
@@ -1367,9 +1377,17 @@ msg = {
 	# Author: Cedric31
 	# Author: Xqt
 	'oc': {
+		'category-version-history': u'Robòt : Enregistrament de l\'istoric de version de l\'ancian %(oldcat)s',
+		'category-changing': u'Robòt : modificacion de %(oldcat)s en %(newcat)s',
 		'category-adding': u'Robòt: Apondre category [[:Category:%(newcat)s|%(newcat)s]]',
 		'category-also-in': u'(tanben dins %(alsocat)s)',
 		'category-was-disbanded': u'Robot : La categoria es estada suprimida',
+		'category-replacing': u'Robòt : Remplaçament de la categoria %(oldcat)s per %(newcat)s',
+		'category-removing': u'Robòt : Levat dempuèi %(oldcat)s',
+		'category-was-moved': u'Robòt : la categoria es estada desplaçada cap a [[:Category:%(newcat)s|%(title)s]]',
+		'category-renamed': u'Robòt : desplaçat dempuèi %s. Autors: %s',
+		'category-section-title': u'Istoric de pagina de l\'ancian %(oldcat)s',
+		'category-listifying': u'Robòt : Listatge de %(fromcat)s (%(num)d elements)',
 	},
 	# Author: Val2397
 	'pam': {

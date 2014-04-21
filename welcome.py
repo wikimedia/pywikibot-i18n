@@ -120,6 +120,7 @@ msg = {
 	# Author: Умар
 	'ce': {
 		'welcome-welcome': u'Марша догӀийла!',
+		'welcome-bad_username': u'бот: декъашхочун шеко цӀе тӀетоьхна',
 		'welcome-updating': u'бот: тептар карлаяккхар',
 	},
 	# Author: Asoxor

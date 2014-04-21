@@ -235,6 +235,14 @@ msg = {
 		'protect-ref': u'Robot: Melindungi semua laman yang dirujuk dari %(page)s',
 		'protect-images': u'Robot: Melindungi semua imej pada laman %(page)s',
 	},
+	# Author: Njsubedi
+	'ne': {
+		'protect-links': u'रोबोट:  %(page)s पृष्ठमा जोडिएका सबै पृष्ठहरुलाई सुरक्षा दिँदै',
+		'protect-simple': u'रोबोट: फाइलहरूको सूची सुरक्षित गर्दै',
+		'protect-category': u'रोबोट:  %(cat)s वर्गमा रहेका सबै पृष्ठहरूलाई सुरक्षित गर्दै',
+		'protect-ref': u'रोबोट:  %(page)s ले जनाउने सबै पृष्ठहरू सुरक्षित गर्दै',
+		'protect-images': u'रोबोट: %(page)s पृष्ठमा रहेका सबै तस्वीरहरु सुरक्षित गर्दै',
+	},
 	# Author: Siebrand
 	'nl': {
 		'protect-links': u'Robot: alle pagina\'s met verwijzingen vanaf %(page)s beveiligd',

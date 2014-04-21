@@ -84,6 +84,11 @@ msg = {
 		'commons-file-moved': u'[[:File:%(localfile)s|Fitxer]] traslladat a [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'El fitxer ja es troba disponible a [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
 	},
+	# Author: Умар
+	'ce': {
+		'commons-file-moved': u'[[:File:%(localfile)s|Файл]] [[:commons:File:%(commonsfile)s|Викигуламе]] яьккхина.',
+		'commons-file-now-available': u'ХӀинца файл [[:commons:File:%(commonsfile)s|Викигуламехь]] тӀекхочехь ю.',
+	},
 	# Author: Kuvaly
 	# Author: Spiffyk
 	'cs': {

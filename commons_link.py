@@ -4,9 +4,10 @@ msg = {
 		'commons_link-template-added': u'Robot: Include commons template',
 		'commons_link-cat-template-added': u'Robot: Include commonscat template',
 	},
+	# Author: Siebrand
 	'qqq': {
-		'commons_link-template-added': u'Edit summary when the bot adds a commons template to a page.',
-		'commons_link-cat-template-added': u'Edit summary when the bot adds a commonscat template to a page.',
+		'commons_link-template-added': u'Edit summary when the bot adds a template to a page that indicates a page (or gallery) exists on Wikimedia Commons about the page\'s topic.',
+		'commons_link-cat-template-added': u'Edit summary when the bot adds a template to a page that indicates a category exists on Wikimedia Commons about the page\'s topic.',
 	},
 	# Author: Als-Holder
 	'als': {
@@ -41,6 +42,11 @@ msg = {
 	'ca': {
 		'commons_link-template-added': u'Robot: incloure plantilla de commons',
 		'commons_link-cat-template-added': u'Robot: incloure plantilla de commonscat',
+	},
+	# Author: Умар
+	'ce': {
+		'commons_link-template-added': u'Робот: Викигуламан кеп юкъатохар',
+		'commons_link-cat-template-added': u'Робот: кеп Викигуламан категореш чутохар',
 	},
 	'cs': {
 		'commons_link-template-added': u'Robot přidal šablonu commons',
@@ -159,15 +165,21 @@ msg = {
 		'commons_link-template-added': u'Robot: Menyisipkan templat Commons',
 		'commons_link-cat-template-added': u'Robot: Menyisipkan templat Commonscat',
 	},
+	# Author: Njsubedi
 	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'commons_link-template-added': u'रोबोट: कमन्स टेम्प्लेट समावेस गर्दै \\',
-		'commons_link-cat-template-added': u'रोबोट: कमन्सक्याट टेम्प्लेट समावेस गर्दै \\',
+		'commons_link-template-added': u'रोबोट: कमन्स ढाँचा समावेस गर्नुहोस्',
+		'commons_link-cat-template-added': u'रोबोट: कमन्सक्याट ढाँचा समावेस गर्नुोहोस्',
 	},
 	# Author: Siebrand
 	'nl': {
 		'commons_link-template-added': u'Robot: sjabloon commons toegevoegd',
 		'commons_link-cat-template-added': u'Robot: sjabloon commonscat toegevoegd',
+	},
+	# Author: Cedric31
+	'oc': {
+		'commons_link-template-added': u'Robòt : Inclure lo modèl commons',
+		'commons_link-cat-template-added': u'Robòt : Inclure lo modèl commonscat',
 	},
 	# Author: Dalis
 	'pl': {

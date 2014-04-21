@@ -337,11 +337,12 @@ msg = {
 		'template-changing': u'Bot: {{PLURAL:%(num)d|mal|mallen}} vervangen: %(list)s',
 		'template-substituting': u'Bot: {{PLURAL:%(num)d|mal|mallen}} substitueren: %(list)s',
 	},
+	# Author: Njsubedi
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'template-removing': u'रोबोट: हटाउँदै{{PLURAL:%(num)d|टेम्पल्लेट|टेम्पल्लेटहरू}}: %(list)s',
 		'template-changing': u'रोबोट:  {{PLURAL:%(num)d|टेम्प्लेट|टेम्प्लेटहरू}}: %(list)s परिवर्तन गर्दै',
-		'template-substituting': u'रोबोट: विस्थापन गर्दै {{PLURAL:%(num)d|टेम्पलेट|टेम्प्लेटहरू}}: %(list)s',
+		'template-substituting': u'रोबोट: {{PLURAL:%(num)d|ढाँचा|ढाँचारू}} विस्थापन गर्दै: %(list)s',
 	},
 	# Author: Siebrand
 	'nl': {

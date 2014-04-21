@@ -17,6 +17,10 @@ msg = {
 	'be-x-old': {
 		'spamremove-remove': u'Выдаленьне спам-спасылак на сайт %(url)s',
 	},
+	# Author: SMP
+	'ca': {
+		'spamremove-remove': u'Supressió d\'enllaços cap al lloc web de spam %(url)s',
+	},
 	'de': {
 		'spamremove-remove': u'Entferne in Spam-Blacklist eingetragenen Weblink auf %(url)s',
 	},
@@ -65,6 +69,10 @@ msg = {
 	# Author: Praveenp
 	'ml': {
 		'spamremove-remove': u'പാഴെഴുത്ത് സൈറ്റായ %(url)s എന്നതിലോട്ടുള്ള എല്ലാ കണ്ണികളും ഒഴിവാക്കുന്നു',
+	},
+	# Author: Njsubedi
+	'ne': {
+		'spamremove-remove': u'%(url)s पृष्ठमा लैजाने लिङ्कहरू मेट्दै',
 	},
 	# Author: Siebrand
 	'nl': {

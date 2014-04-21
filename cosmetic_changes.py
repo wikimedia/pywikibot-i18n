@@ -226,8 +226,9 @@ msg = {
 		'cosmetic_changes-standalone': u'בוט: שינויים קוסמטיים',
 		'cosmetic_changes-append': u'; שינויים קוסמטיים',
 	},
+	# Author: Siddhartha Ghai
 	'hi': {
-		'cosmetic_changes-standalone': u'Bot: अंगराग परिवर्तन',
+		'cosmetic_changes-standalone': u'रोबॉट: अंगराग परिवर्तन',
 		'cosmetic_changes-append': u'; अंगराग परिवर्तन',
 	},
 	'hr': {
@@ -405,6 +406,7 @@ msg = {
 	},
 	# Author: Cedric31
 	'oc': {
+		'cosmetic_changes-standalone': u'Robòt : Modificacions de tipe cosmetic',
 		'cosmetic_changes-append': u'; cambiaments de tipe cosmetic',
 	},
 	# Author: Shisir 1945

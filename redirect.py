@@ -140,6 +140,7 @@ msg = {
 		'redirect-fix-double': u'বট: %(to)s-এ দ্বিপুনর্নির্দেশনা ঠিক করছে',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Fohanno
 	# Author: Fulup
 	# Author: Gwenn-Ael
 	# Author: Y-M D
@@ -149,6 +150,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s',
 		'redirect-fix-loop': u'Robot : O kempenn al lagadenn adkas war-zu %(to)s',
 		'redirect-remove-loop': u'Robot: Stumm ur c\'helc\'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: CERminator
 	# Author: Edinwiki
@@ -173,9 +175,11 @@ msg = {
 		'redirect-remove-loop': u'Robot: el destí de la redirecció crea un bucle de redirecció',
 		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
+	# Author: Xqt
 	# Author: Умар
 	'ce': {
 		'redirect-fix-double': u'бот: шалха дӀасахьажинарг нисъяр → %(to)s',
+		'redirect-broken-redirect-template': u'{{db-redirnone}}',
 	},
 	# Author: Asoxor
 	# Author: Calak
@@ -387,12 +391,14 @@ msg = {
 		'redirect-remove-loop': u'機械人：重定向目標構成循環',
 	},
 	# Author: Kolonahe
+	# Author: Xqt
 	'haw': {
 		'redirect-fix-double': u'Lopako: Ke kāpili hou i ka hoʻoili pālua iā %(to)s',
 		'redirect-remove-broken': u'Lopako: Hoʻoili i kekahi ʻaoʻao i holoi ʻia aiʻole he ʻaoʻao i hakuʻole ʻia',
 		'redirect-fix-broken-moved': u'Lopako: Ke kāpili hou nei i ka hoʻoili haki o kekahi ʻaoʻao hoʻoneʻe ʻia iā %(to)s',
 		'redirect-fix-loop': u'Lopako: Ke kāpili hou i ka linapoepoe hoʻoili iā %(to)s',
 		'redirect-remove-loop': u'Lopako: Hoʻokino ka māka hoʻoili i kekahi linapoepoe hoʻoili',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Amire80
 	# Author: YaronSh
@@ -694,11 +700,13 @@ msg = {
 		'redirect-fix-double': u'Bot: dah astsihígíí łahgo áyiilaa -> %(to)s',
 	},
 	# Author: Cedric31
+	# Author: Xqt
 	'oc': {
 		'redirect-fix-double': u'Robòt : repara una dobla redireccion cap a %(to)s',
 		'redirect-fix-broken-moved': u'Robòt: Correccion de las redireccions erronèas cap a una pagina cibla %(to)s desplaçada',
 		'redirect-fix-loop': u'Robòt : repara una bocla de redireccion sus %(to)s',
 		'redirect-remove-loop': u'Robòt: la cibla de la redireccion forma una bocla de redireccion',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Geitost
 	# Author: Xqt
@@ -749,6 +757,7 @@ msg = {
 	# Author: Luckas
 	# Author: Luckas Blade
 	# Author: Tuliouel
+	# Author: Xqt
 	# Author: 555
 	'pt-br': {
 		'redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo para %(to)s',
@@ -756,6 +765,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Bot: consertando redirecionamento quebrado para página-alvo movida %(to)s',
 		'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
 		'redirect-remove-loop': u'Bot: O destino do redirecionamento cria um ciclo de redirecionamentos',
+		'redirect-broken-redirect-template': u'{{db-r1}}',
 	},
 	# Author: Firilacroco
 	# Author: Minisarm
@@ -785,12 +795,14 @@ msg = {
 	},
 	# Author: Avicennasis
 	# Author: John Reid
+	# Author: Xqt
 	'sco': {
 		'redirect-fix-double': u'Bot: Fixin dooble reguidal til %(to)s',
 		'redirect-remove-broken': u'Robot: Reguidal til ae delytit or non-exeestent page',
 		'redirect-fix-broken-moved': u'Robot: Fixin broken reguidal til muived target page %(to)s',
 		'redirect-fix-loop': u'Robot: Fixin reguidal luip til %(to)s',
 		'redirect-remove-loop': u'Robot: Reguidal tairget forms ae reguidal luip',
+		'redirect-broken-redirect-template': u'{{delete}}',
 	},
 	# Author: Teslaton
 	# Author: Wizzard
@@ -916,6 +928,7 @@ msg = {
 	# Author: Ahonc
 	# Author: Andriykopanytsia
 	# Author: Base
+	# Author: Xqt
 	# Author: Тест
 	'uk': {
 		'redirect-fix-double': u'Робот: виправлення подвійного перенаправлення → %(to)s',
@@ -923,6 +936,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Робот: Виправлення розірваного перенаправлення на сторінку, перейменовану на %(to)s',
 		'redirect-fix-loop': u'бот: виправлення петлі перенаправлень на %(to)s',
 		'redirect-remove-loop': u'бот: перенаправлення формують петлю',
+		'redirect-broken-redirect-template': u'{{db-reason|перенаправлення до вилученої або неіснуючої сторінки}}',
 	},
 	# Author: Muhammad Shuaib
 	'ur': {

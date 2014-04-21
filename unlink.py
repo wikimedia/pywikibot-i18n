@@ -226,9 +226,10 @@ msg = {
 	'nds-nl': {
 		'unlink-unlinking': u'Bot: verwiezing naor "%s" vortedaon',
 	},
+	# Author: Njsubedi
 	# Author: सरोज कुमार ढकाल
 	'ne': {
-		'unlink-unlinking': u'रोबोट : "%s" लिङ्क हटाउँदै',
+		'unlink-unlinking': u'रोबोट: "%s" लिङ्क हटाउँदै',
 	},
 	# Author: Siebrand
 	'nl': {

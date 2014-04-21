@@ -613,10 +613,11 @@ msg = {
 		'archivebot-archive-full': u'(ARCHIEF VOL)',
 		'archivebot-archive-summary': u'Bot: %(count)d {{PLURAL:%(count)d|onderwarp|onderwarpen}} verplaotst vanuut t archief [[%(from)s]].',
 	},
+	# Author: Njsubedi
 	# Author: सरोज कुमार ढकाल
 	'ne': {
 		'archivebot-older-than': u'भन्दा पुरानो',
-		'archivebot-page-summary': u'रोबोट: अभिलेख %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s)  %(archives)s मा',
+		'archivebot-page-summary': u'रोबोट: %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s)लाई  %(archives)s मा अभिलेखिकरण गरिँदै',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(पूरा अभिलेख)',
 		'archivebot-archive-summary': u'रोबोट : अभिलेखिकरण गर्दै  %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}  [[%(from)s]]बाट.',
@@ -658,8 +659,10 @@ msg = {
 	# Author: Cedric31
 	'oc': {
 		'archivebot-older-than': u'mai ancian que',
+		'archivebot-page-summary': u'Robòt : Archivatge de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) cap a %(archives)s.',
 		'archivebot-archiveheader': u'{{talkarchive}}',
 		'archivebot-archive-full': u'(ARCHIU PLEN)',
+		'archivebot-archive-summary': u'Robòt : Archivatge de %(count)d {{PLURAL:%(count)d|thread|threads}} dempuèi [[%(from)s]].',
 	},
 	# Author: Jnanaranjan Sahu
 	'or': {

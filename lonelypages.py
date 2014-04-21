@@ -161,6 +161,11 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Robot: Mewujudkan laman nyahkekaburan',
 		'lonelypages-comment-add-template': u'Robot: Membubuh templat untuk laman yatim',
 	},
+	# Author: Njsubedi
+	'ne': {
+		'lonelypages-comment-add-disambig-template': u'रोबोट: अर्थ बुझाउने पृषठ थप्दै',
+		'lonelypages-comment-add-template': u'रोबोट: एक्लो पृष्ठ, ढाँचा थप्नुहोस्',
+	},
 	# Author: Siebrand
 	'nl': {
 		'lonelypages-comment-add-disambig-template': u'Robot: doorverwijspagina toegevoegd',

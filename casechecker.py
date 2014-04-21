@@ -71,7 +71,10 @@ msg = {
 	# Author: Умар
 	'ce': {
 		'casechecker-replacement-summary': u'Бот: Хийцар регистр:',
+		'casechecker-delete-summary': u'бот: ДӀассхьажораг латин а кириллица а йийна ю',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'ХӀара дӀассахьажораг лелош ю %(target)s тӀе билгалоян',
+		'casechecker-rename': u'Бот: йийна регистр дӀассахьажор',
 	},
 	# Author: Matěj Grabovský
 	# Author: Mormegil
@@ -301,6 +304,10 @@ msg = {
 		'casechecker-delete-summary': u'Bot: To przekierowanie zawiera mieszankę cyrylicy i alfabetu łacińskiego w nazwie',
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'To przekierowanie służy do wskazywania %(target)s',
+	},
+	# Author: Imperadeiro98
+	'pt': {
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 	},
 	# Author: Amgauna
 	'pt-br': {

@@ -82,6 +82,10 @@ msg = {
 	'nap': {
 		'makecat-create': u'Robbot: \'A criaziona o l\'aggiurnamiento \'e categurìa [[:Category:%(cat)s|]]',
 	},
+	# Author: Njsubedi
+	'ne': {
+		'makecat-create': u'रोबोट: [[:Category:%(cat)s|]]वर्गको सिर्जना तथा सम्पादन',
+	},
 	# Author: Siebrand
 	'nl': {
 		'makecat-create': u'Robot: aanmaak of uitbreiding van categorie [[:Category:%(cat)s|]]',
