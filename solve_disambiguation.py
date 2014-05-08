@@ -838,13 +838,13 @@ msg = {
 	# Author: Avicennasis
 	# Author: John Reid
 	'sco': {
-		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
+		'solve_disambiguation-redirect-removed': u'Robot-assistit disambiguation: %(from)s - Remuived airtin(s)',
 		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged airtin(s) til %(to)s',
 		'solve_disambiguation-links-resolved': u'Robot-assisted disambeeguation: %(from)s - Chynged airtin(s) til %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
-		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needin\' expert attention',
-		'solve_disambiguation-unknown-page': u'(unknown)',
-		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
+		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assistit disambiguation: %(from)s - Maurked aes needin expert attention',
+		'solve_disambiguation-adding-dn-template': u'Robot-assistit disambiguation: %(from)s - Maurked aes needin expert attention',
+		'solve_disambiguation-unknown-page': u'(onkent)',
+		'solve_disambiguation-links-removed': u'Robot-assistit disambiguation: %(from)s - Remuived airtin(s).',
 	},
 	# Author: Kolega2357
 	'sh': {

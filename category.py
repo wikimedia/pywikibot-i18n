@@ -1572,16 +1572,16 @@ msg = {
 	# Author: Xqt
 	'sco': {
 		'category-version-history': u'Robot: Saving version histerie o former %(oldcat)s',
-		'category-changing': u'Robot: Chyngin\' %(oldcat)s tae %(newcat)s',
-		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(also in %(alsocat)s)',
-		'category-was-disbanded': u'Bot: Category wis disbanded',
+		'category-changing': u'Robot: Chyngin %(oldcat)s tae %(newcat)s',
+		'category-adding': u'Robot: Eikin categerie [[:Category:%(newcat)s|%(newcat)s]]',
+		'category-also-in': u'(in %(alsocat)s aes weel)',
+		'category-was-disbanded': u'Bot: Categerie wis disbaundit',
 		'category-replacing': u'Robot: Replacin categerie %(oldcat)s wi %(newcat)s',
-		'category-removing': u'Bot: Removing frum %(oldcat)s',
-		'category-was-moved': u'Robot: Category wis flitted tae [[:Category:%(newcat)s|%(title)s]]',
+		'category-removing': u'Bot: Remuivin fae %(oldcat)s',
+		'category-was-moved': u'Robot: Categerie wis muivit tae [[:Category:%(newcat)s|%(title)s]]',
 		'category-renamed': u'Robot: Muived fae %s. Authors: %s',
 		'category-section-title': u'Page histerie o former %(oldcat)s',
-		'category-listifying': u'Bot: Listifying frum %(fromcat)s (%(num)d entries)',
+		'category-listifying': u'Robot: Leetifyin fae %(fromcat)s ({{PLURAL:%(num)d|1 entrie|%(num)d entries}})',
 	},
 	# Author: Kolega2357
 	'sh': {

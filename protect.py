@@ -90,6 +90,14 @@ msg = {
 		'protect-ref': u'Bot: Schütze alle Seiten, die auf %(page)s verlinken',
 		'protect-images': u'Bot: Schütze alle Bilder auf der Seite %(page)s',
 	},
+	# Author: Mirzali
+	'diq': {
+		'protect-links': u'Bot: Pelanê ke %(page)s ra gıre biyê pêrıne bışevekne',
+		'protect-simple': u'Bot: Yew lista dosyeyan bışevekne.',
+		'protect-category': u'Bot: Pelanê kategoriya %(page)s pêrıne bışevekne',
+		'protect-ref': u'Bot: Pelanê ke %(page)s de gıre benê pêrıne bışevekne',
+		'protect-images': u'Bot: Resımanê ke pela %(page)s derê pêrıne bışevekne',
+	},
 	# Author: KuboF
 	'eo': {
 		'protect-links': u'Roboto: Protektitaj ĉiuj paĝoj ligitaj de %(page)s',
@@ -163,6 +171,11 @@ msg = {
 		'protect-category': u'Robot: Protege tote le paginas in categoria %(cat)s',
 		'protect-ref': u'Robot: Protege tote le paginas que refere ab %(page)s',
 		'protect-images': u'Robot: Protege tote le imagines in le pagina %(page)s',
+	},
+	# Author: C5st4wr6ch
+	'id': {
+		'protect-category': u'Robot: Melindungi seluruh halaman dari kategori %(cat)s',
+		'protect-ref': u'Robot: Melindungi semua halaman yang mengarah dari %(page)s',
 	},
 	'it': {
 		'protect-links': u'Bot: Protezione di tutte le pagine linkate da %(page)s.',
@@ -250,6 +263,14 @@ msg = {
 		'protect-category': u'Robot: alle pagina\'s uit categorie %(cat)s beveiligd',
 		'protect-ref': u'Robot: alle pagina\'s met een verwijzing op %(page)s beveiligd',
 		'protect-images': u'Robot: alle bestanden gebruikt op %(page)s beveiligd',
+	},
+	# Author: Cocu
+	'no': {
+		'protect-links': u'Robot: Beskytter alle sider som lenkes fra %(page)s',
+		'protect-simple': u'Robot: Beskytter en liste av filer.',
+		'protect-category': u'Robot: Beskytter alle sider i kategorien %(cat)s',
+		'protect-ref': u'Robot: Beskytter alle sider som lenker fra %(page)s',
+		'protect-images': u'Robot: Beskytter alle bilder på siden %(page)s',
 	},
 	# Author: Pio387
 	# Author: Wedkarski

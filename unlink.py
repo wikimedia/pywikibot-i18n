@@ -83,8 +83,9 @@ msg = {
 		'unlink-unlinking': u'Bot: Entknüpfe «%s»',
 	},
 	# Author: Erdemaslancan
+	# Author: Marmase
 	'diq': {
-		'unlink-unlinking': u'Robot: "%s" bê gıreyo',
+		'unlink-unlinking': u'Boti grey "%s" wedarna',
 	},
 	# Author: Geraki
 	'el': {

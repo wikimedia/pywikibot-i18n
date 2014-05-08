@@ -409,10 +409,11 @@ msg = {
 		'cosmetic_changes-standalone': u'Robòt : Modificacions de tipe cosmetic',
 		'cosmetic_changes-append': u'; cambiaments de tipe cosmetic',
 	},
+	# Author: Psubhashish
 	# Author: Shisir 1945
 	'or': {
 		'cosmetic_changes-standalone': u'ରୋବଟ୍‌: ପ୍ରସାଧନ ବଦଳ',
-		'cosmetic_changes-append': u'; ପ୍ରସାଧନ ବଦଳ',
+		'cosmetic_changes-append': u'; କସମେଟିକ ବଦଳ',
 	},
 	'pdc': {
 		'cosmetic_changes-standalone': u'Waddefresser: gleenere Enneringe',

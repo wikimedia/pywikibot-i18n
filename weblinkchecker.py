@@ -233,8 +233,10 @@ msg = {
 		'weblinkchecker-report': u'Durante plure sessiones automatic, le robot ha constatate que le sequente ligamine externe non es disponibile. Per favor confirma que le ligamine de facto es defuncte, e in caso de si, repara o elimina lo!',
 	},
 	# Author: ArdWar
+	# Author: C5st4wr6ch
 	'id': {
 		'weblinkchecker-caption': u'Pranala mati',
+		'weblinkchecker-report': u'Selama beberapa bot otomatis berjalan, pranala luar berikut menjadi tidak tersedia. Silakan memeriksa apakah pranala sebenarnya sedang turun dan memperbaiki atau menghapusnya dalam hal ini!',
 	},
 	# Author: Beta16
 	'it': {

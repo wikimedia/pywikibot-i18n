@@ -360,8 +360,9 @@ msg = {
 		'isbn-formatting': u'Робот: Форматованя ISBN',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
-		'isbn-formatting': u'Robot: Formatting ISBN',
+		'isbn-formatting': u'Robot: Formattin ISBN',
 	},
 	# Author: බිඟුවා
 	'si': {

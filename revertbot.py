@@ -76,6 +76,10 @@ msg = {
 	'ia': {
 		'revertbot-revert': u'Robot: Revertite al version %(revid)s per %(author)s le %(timestamp)s',
 	},
+	# Author: C5st4wr6ch
+	'id': {
+		'revertbot-revert': u'Bot: Membalikkan ke revisi %(revid)s oleh %(author)s pada %(timestamp)s',
+	},
 	# Author: Beta16
 	'it': {
 		'revertbot-revert': u'Bot: ripristinata la versione %(revid)s di %(author)s del %(timestamp)s',
@@ -111,6 +115,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'revertbot-revert': u'Robot: teruggedraaid naar versie %(revid)s door %(author)s op %(timestamp)s',
+	},
+	# Author: Cocu
+	'no': {
+		'revertbot-revert': u'Robot: Satte tilbake til versjon %(revid)s av %(author)s %(timestamp)s',
 	},
 	# Author: Cedric31
 	'oc': {

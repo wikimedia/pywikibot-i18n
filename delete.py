@@ -442,7 +442,7 @@ msg = {
 	},
 	# Author: Papuass
 	'lv': {
-		'delete-from-file': u'Robots: Dzēš failu sarakstu.',
+		'delete-from-file': u'Robots: Dzēš lapu sarakstu.',
 	},
 	# Author: StefanusRA
 	'map-bms': {

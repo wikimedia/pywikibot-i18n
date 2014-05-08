@@ -1593,16 +1593,17 @@ msg = {
 		'interwiki-removing-modifying': u'robot livannu: %(removing)s canciannu: %(modifying)s',
 	},
 	# Author: Hugo.arg
+	# Author: John Reid
 	# Author: Xqt
 	'sco': {
-		'interwiki-modifying': u'robot Modifeein: %(modifying)s',
-		'interwiki-adding-modifying': u'robot Addin: %(adding)s Modifeein: %(modifying)s',
-		'interwiki-adding-removing': u'robot Addin: %(adding)s Remuivin: %(removing)s',
-		'interwiki-adding-removing-modifying': u'robot Addin: %(adding)s Remuivin: %(removing)s Modifeein: %(modifying)s',
-		'interwiki-adding': u'robot Addin: %(adding)s',
-		'interwiki-removing': u'robot Remuivin: %(removing)s',
-		'interwiki-removing-modifying': u'robot Remuivin: %(removing)s Modifeein: %(modifying)s',
-		'interwiki-modifying-from': u'Robot: Chyngin\' %(from)s tae %(modifying)s',
+		'interwiki-modifying': u'Robot: Modifeein %(modifying)s',
+		'interwiki-adding-modifying': u'Robot: Eikin %(adding)s; Modifeein %(modifying)s',
+		'interwiki-adding-removing': u'Robot: Eikin %(adding)s; Remuivin: %(removing)s',
+		'interwiki-adding-removing-modifying': u'Robot: Eikin %(adding)s; Remuivin %(removing)s Modifeein: %(modifying)s',
+		'interwiki-adding': u'Robot: Eikin %(adding)s',
+		'interwiki-removing': u'Robot: Remuivin %(removing)s',
+		'interwiki-removing-modifying': u'Robot: Remuivin %(removing)s; Modifeein %(modifying)s',
+		'interwiki-modifying-from': u'Robot: Chyngin %(from)s tae %(modifying)s',
 	},
 	# Author: Hugo.arg
 	# Author: බිඟුවා

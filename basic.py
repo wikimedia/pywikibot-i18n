@@ -408,8 +408,9 @@ msg = {
 		'basic-changing': u'कारुयन्त्रम् : परिवर्तयति ...',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
-		'basic-changing': u'Bot: Chyngin\' ...',
+		'basic-changing': u'Bot: Chyngin ...',
 	},
 	# Author: Kolega2357
 	'sh': {

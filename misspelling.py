@@ -17,6 +17,10 @@ msg = {
 	'be-x-old': {
 		'misspelling-fixing': u'Робат: выпраўленьне памылковай спасылкі на %(page)s',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'misspelling-fixing': u'Bot: Popravljanje pogrešne veze prema %(page)s',
+	},
 	# Author: SMP
 	'ca': {
 		'misspelling-fixing': u'Robot: Corregint un enllaç mal escrit cap a %(page)s',
@@ -54,6 +58,10 @@ msg = {
 	'he': {
 		'misspelling-fixing': u'בוט: מתקן קישור עם שגיאה לדף %(page)s',
 	},
+	# Author: C5st4wr6ch
+	'id': {
+		'misspelling-fixing': u'Robot: Memperbaiki kesalahan ejaan ke %(page)s',
+	},
 	# Author: Shirayuki
 	'ja': {
 		'misspelling-fixing': u'ロボットによる: 「%(page)s」へのリンクのスペル誤りを修正',
@@ -61,6 +69,10 @@ msg = {
 	# Author: 아라
 	'ko': {
 		'misspelling-fixing': u'로봇: %(page)s 로의 링크 오타 고침',
+	},
+	# Author: Purodha
+	'ksh': {
+		'misspelling-fixing': u'Bot: Ene verkiehrt jetippte Lengk op di Sigg %(page)s repareert.',
 	},
 	# Author: Robby
 	'lb': {
@@ -84,6 +96,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'misspelling-fixing': u'Robot: verkeerd gespelde verwijzing naar %(page)s gecorrigeerd',
+	},
+	# Author: Cocu
+	'no': {
+		'misspelling-fixing': u'Robot: Retter feilstavet lenke til %(page)s',
 	},
 	'pl': {
 		'misspelling-fixing': u'Robot poprawia literówkę w linku do %(page)s',

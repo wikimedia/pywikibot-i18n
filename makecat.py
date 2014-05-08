@@ -17,6 +17,10 @@ msg = {
 	'be-x-old': {
 		'makecat-create': u'Робат: стварэньне або абнаўленьне катэгорыі [[:Category:%(cat)s|]]',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'makecat-create': u'Bot: Pravljenje i ažuriranje kategorije [[:Category:%(cat)s|]]',
+	},
 	# Author: Alvaro Vidal-Abarca
 	'ca': {
 		'makecat-create': u'Robot: creació o actualització de la categoria [[:Category:%(cat)s|]]',
@@ -27,6 +31,10 @@ msg = {
 	},
 	'de': {
 		'makecat-create': u'Bot: Kategorie [[:Category:%(cat)s|]] wurde neu angelegt oder aktualisiert',
+	},
+	# Author: Mirzali
+	'diq': {
+		'makecat-create': u'Bot: Kategoriye [[:Category:%(cat)s|]] vırazeno ya zi keno newe',
 	},
 	'es': {
 		'makecat-create': u'Bot: Creación o actualiza de la categoría [[:Category:%(cat)s|]]',
@@ -54,6 +62,10 @@ msg = {
 	},
 	'ia': {
 		'makecat-create': u'Bot: Creation o actualisation de categoria [[:Category:%(cat)s|]]',
+	},
+	# Author: C5st4wr6ch
+	'id': {
+		'makecat-create': u'Robot: Pembuatan atau perubahan dari kategori [[:Category:%(cat)s|]]',
 	},
 	'it': {
 		'makecat-create': u'Bot: La creazione o laggiornamento di categoria [[:Category:%(cat)s|]]',
@@ -118,6 +130,10 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'makecat-create': u'Robot: Cræftin or update o categerie [[:Category:%(cat)s|]]',
+	},
+	# Author: Milicevic01
+	'sr': {
+		'makecat-create': u'Робот: Прављење или аужурирање категорије [[:Category:%(cat)s|]]',
 	},
 	# Author: Andriykopanytsia
 	'uk': {

@@ -523,8 +523,9 @@ msg = {
 	'scn': {
 		'add_text-adding': u'robot junciennu %(adding)s',
 	},
+	# Author: John Reid
 	'sco': {
-		'add_text-adding': u'robot Addin %(adding)s',
+		'add_text-adding': u'Robot: Eikin %(adding)s',
 	},
 	# Author: Kolega2357
 	'sh': {

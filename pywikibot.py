@@ -368,10 +368,12 @@ msg = {
 		'pywikibot-enter-category-name': u'Per favor entra le nomine del categoria:',
 		'pywikibot-enter-finished-browser': u'Preme Enter quando tu ha finite le modification in le navigator.',
 	},
+	# Author: C5st4wr6ch
 	# Author: Ilham151096
 	'id': {
 		'pywikibot-enter-xml-filename': u'Silakan masukkan nama berkas XML dump:',
 		'pywikibot-enter-page-processing': u'Halaman yang harus diproses?',
+		'pywikibot-enter-namespace-number': u'Silakan masukkan ruang nama berdasarkan nomornya:',
 		'pywikibot-enter-new-text': u'Masukkan teks baru:',
 		'pywikibot-enter-category-name': u'Silakan masukkan nama kategori:',
 		'pywikibot-enter-finished-browser': u'Tekan Enter setelah selesai di peramban.',

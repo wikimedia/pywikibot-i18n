@@ -56,6 +56,10 @@ msg = {
 		'lonelypages-comment-add-disambig-template': u'Bot: Füge Begriffsklärungsseite hinzu',
 		'lonelypages-comment-add-template': u'Bot: Verwaiste Seite, füge Vorlage hinzu',
 	},
+	# Author: Mirzali
+	'diq': {
+		'lonelypages-comment-add-disambig-template': u'Bot: Pela maneyê bini cı ke',
+	},
 	# Author: Geraki
 	'el': {
 		'lonelypages-comment-add-disambig-template': u'Ρομπότ: Προσθήκη μιας σελίδα αποσαφήνισης',
@@ -114,8 +118,10 @@ msg = {
 		'lonelypages-comment-add-template': u'Robot: Pagina orphano; addition de patrono',
 	},
 	# Author: ArdWar
+	# Author: C5st4wr6ch
 	'id': {
 		'lonelypages-comment-add-disambig-template': u'Bot: Menambahkan halaman disambiguasi',
+		'lonelypages-comment-add-template': u'Robot: Halaman yatim, menambahkan templat',
 	},
 	# Author: Beta16
 	'it': {
@@ -170,6 +176,11 @@ msg = {
 	'nl': {
 		'lonelypages-comment-add-disambig-template': u'Robot: doorverwijspagina toegevoegd',
 		'lonelypages-comment-add-template': u'Robot: sjabloon aan weespagina toegevoegd',
+	},
+	# Author: Cocu
+	'no': {
+		'lonelypages-comment-add-disambig-template': u'Robot: Legger til pakerside',
+		'lonelypages-comment-add-template': u'Robot: Foreldreløs side, legger til mal',
 	},
 	# Author: Cedric31
 	'oc': {

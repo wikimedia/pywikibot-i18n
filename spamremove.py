@@ -17,6 +17,10 @@ msg = {
 	'be-x-old': {
 		'spamremove-remove': u'Выдаленьне спам-спасылак на сайт %(url)s',
 	},
+	# Author: Edinwiki
+	'bs': {
+		'spamremove-remove': u'Uklanjanje veza prema spam stranici %(url)s',
+	},
 	# Author: SMP
 	'ca': {
 		'spamremove-remove': u'Supressió d\'enllaços cap al lloc web de spam %(url)s',
@@ -48,6 +52,10 @@ msg = {
 	'he': {
 		'spamremove-remove': u'מסיר קישורים לאתר ספאם %(url)s',
 	},
+	# Author: C5st4wr6ch
+	'id': {
+		'spamremove-remove': u'Menghapus pranala ke situs spam %(url)s',
+	},
 	'it': {
 		'spamremove-remove': u'Rimuovo link contenuto nella Spam-Blacklist %(url)s',
 	},
@@ -57,6 +65,10 @@ msg = {
 	# Author: Hym411
 	'ko': {
 		'spamremove-remove': u'스팸 사이트 %(url)s 로의 링크 제거',
+	},
+	# Author: Purodha
+	'ksh': {
+		'spamremove-remove': u'Fott met SPAM un lengks op %(url)s',
 	},
 	# Author: Robby
 	'lb': {
@@ -77,6 +89,10 @@ msg = {
 	# Author: Siebrand
 	'nl': {
 		'spamremove-remove': u'Koppelingen naar gespamde site %(url)s verwijderd',
+	},
+	# Author: Cocu
+	'no': {
+		'spamremove-remove': u'Fjerner lenker til spamside %(url)s',
 	},
 	# Author: Cedric31
 	'oc': {
@@ -101,6 +117,10 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'spamremove-remove': u'Remuivin links til spammin steid %(url)s',
+	},
+	# Author: Milicevic01
+	'sr': {
+		'spamremove-remove': u'Уклоњене везе према спам сајту %(url)s',
 	},
 	'ta': {
 		'spamremove-remove': u'எரிதமாக இணைக்கப்பட்ட %(url)s இணையத்தளம் நீக்கப்பட்டது',

@@ -176,6 +176,11 @@ msg = {
 		'commons_link-template-added': u'Robot: sjabloon commons toegevoegd',
 		'commons_link-cat-template-added': u'Robot: sjabloon commonscat toegevoegd',
 	},
+	# Author: Cocu
+	'no': {
+		'commons_link-template-added': u'Robot: Legger til commons-mal',
+		'commons_link-cat-template-added': u'Robot: Legger til commonscat-mal',
+	},
 	# Author: Cedric31
 	'oc': {
 		'commons_link-template-added': u'Robòt : Inclure lo modèl commons',

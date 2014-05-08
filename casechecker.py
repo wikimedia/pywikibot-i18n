@@ -101,6 +101,10 @@ msg = {
 		'casechecker-delete-reason': u'Weiterleitung auf %(target)s mit gemischten kyrillischen und lateinischen Zeichen.',
 		'casechecker-rename': u'Bot: Umbenennung von gemischten Schreibungen',
 	},
+	# Author: Marmase
+	'diq': {
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+	},
 	# Author: KuboF
 	'eo': {
 		'casechecker-replacement-summary': u'Roboto: Ŝanĝo de uskleco:',
@@ -198,11 +202,12 @@ msg = {
 		'casechecker-rename': u'Robot: renomination a causa de litteras mixte',
 	},
 	# Author: ArdWar
+	# Author: C5st4wr6ch
 	'id': {
 		'casechecker-replacement-summary': u'Bot: Kapitalisasi:',
 		'casechecker-delete-summary': u'Bot: Pengalihan menggunakan aksara Kiril dan Latin yang identik',
-		'casechecker-replacement-linklist': u'%(source)→%(target)',
-		'casechecker-delete-reason': u'Pengalihan menuju ke %(target)',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Pengalihan ini digunakan untuk menuju ke %(target)s',
 	},
 	# Author: Shirayuki
 	'ja': {
@@ -282,6 +287,14 @@ msg = {
 		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
 		'casechecker-delete-reason': u'Deze doorverwijzing verwees naar %(target)s',
 		'casechecker-rename': u'Robot: hoofdletters en kleine letters gewijzigd',
+	},
+	# Author: Cocu
+	'no': {
+		'casechecker-replacement-summary': u'Robot: Erstatter versaler',
+		'casechecker-delete-summary': u'Robot: Denne omdirigeringen inneholder kyrilliske og latinske bokstaver i tittelen som er identiske av utseende',
+		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+		'casechecker-delete-reason': u'Denne omdirigeringen pekte tidligere på %(target)s',
+		'casechecker-rename': u'Robot: Omdøping på grunn av blandede store og små bokstaver',
 	},
 	# Author: Cedric31
 	'oc': {

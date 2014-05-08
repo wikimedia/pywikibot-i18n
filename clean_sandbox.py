@@ -101,8 +101,9 @@ msg = {
 		'clean_sandbox-cleaned': u'Bot: Spielwiese aufgeräumt.',
 	},
 	# Author: Erdemaslancan
+	# Author: Mirzali
 	'diq': {
-		'clean_sandbox-cleaned': u'Boti heruna cerbnayışi besternê',
+		'clean_sandbox-cleaned': u'Bot: Texteyê cerrebnayışi esteriya',
 	},
 	# Author: Geraki
 	'el': {
@@ -315,8 +316,9 @@ msg = {
 		'clean_sandbox-cleaned': u'бот: очистка песочницы',
 	},
 	# Author: Avicennasis
+	# Author: John Reid
 	'sco': {
-		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
+		'clean_sandbox-cleaned': u'Robot: Autæmaticlie cleaned',
 	},
 	# Author: Kolega2357
 	'sh': {

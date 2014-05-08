@@ -101,8 +101,9 @@ msg = {
 		'catall-changing': u'Bot: Ändern von Kategorien',
 	},
 	# Author: Erdemaslancan
+	# Author: Marmase
 	'diq': {
-		'catall-changing': u'Boti kategoriy pêro vurnay',
+		'catall-changing': u'Boto kategoriya vurneno',
 	},
 	# Author: Geraki
 	'el': {

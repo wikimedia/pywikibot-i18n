@@ -392,7 +392,7 @@ msg = {
 	# Author: Avicennasis
 	# Author: John Reid
 	'sco': {
-		'commons-file-moved': u'[[:File:%(localfile)s|File]] flitted tae [[:commons:File:%(commonsfile)s|commons]].',
+		'commons-file-moved': u'[[:File:%(localfile)s|File]] muivit tae [[:commons:File:%(commonsfile)s|commons]].',
 		'commons-file-now-available': u'File is nou available oan [[:commons:File:%(commonsfile)s|Wikimedia Commyns]].',
 	},
 	# Author: Kolega2357

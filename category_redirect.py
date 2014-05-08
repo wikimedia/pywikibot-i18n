@@ -760,11 +760,11 @@ msg = {
 	# Author: John Reid
 	'sco': {
 		'category_redirect-comment': u'Categerie reguidal maintenance bot',
-		'category_redirect-change-category': u'Robot: chynge redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] tae [[:%(newCatLink)s|%(newCatTitle)s]]',
+		'category_redirect-change-category': u'Robot: Chynge reguidit categerie [[:%(oldCatLink)s|%(oldCatTitle)s]] tae [[:%(newCatLink)s|%(newCatTitle)s]]',
 		'category_redirect-add-template': u'Robot: addin categerie reguidal template fer maintenance',
-		'category_redirect-edit-request': u'The following protected pages have been detected as needin\' updates tae category links: %(itemlist)s',
+		'category_redirect-edit-request': u'The follaein protectit pages hae been detectit aes needin updates tae categerie airtins: %(itemlist)s',
 		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, this is ae reguidal til %(newcat)s',
-		'category_redirect-fix-double': u'Bot: fixin\' dooble-reguidals',
+		'category_redirect-fix-double': u'Bot: Fixin dooble-reguidals',
 	},
 	# Author: Kolega2357
 	'sh': {

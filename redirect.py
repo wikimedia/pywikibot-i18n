@@ -816,6 +816,7 @@ msg = {
 		'redirect-fix-broken-moved': u'Robot: Popravljanje okvarjene povezave preusmeritve na premaknjeno ciljno stran %(to)s',
 		'redirect-fix-loop': u'Robot: Popravljanje preusmeritvene zanke na %(to)s',
 		'redirect-remove-loop': u'Robot: Cilj preusmeritve ustvarja preusmeritveno zanko',
+		'redirect-broken-redirect-template': u'{{delete}}',
 	},
 	# Author: Abshirdheere
 	'so': {

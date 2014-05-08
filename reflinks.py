@@ -154,6 +154,10 @@ msg = {
 		'reflinks-comment': u'Titulo generate per robot',
 		'reflinks-msg': u'Robot: Corrige referentias sin formato, attribuente nomines pro evitar duplicatos; vide le [[%(manual)s|FAQ]]',
 	},
+	# Author: C5st4wr6ch
+	'id': {
+		'reflinks-comment': u'Judul yang dihasilkan bot',
+	},
 	'it': {
 		'reflinks-autogen': u'autogenerato',
 		'reflinks-comment': u'Titolo generato automaticamente',
