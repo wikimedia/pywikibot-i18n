@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'unlink-unlinking': u'Robot: Unlinking "%s"',
-	},
+    'en': {
+        'unlink-unlinking': u'Bot: Unlinking "%s"',
+    },
     # Author: Shirayuki
     'qqq': {
         'unlink-unlinking': u'Used as edit summary. Variables:\n* %s - title of the page to unlink',

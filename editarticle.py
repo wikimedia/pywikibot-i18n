@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'editarticle-edit': u'Manual edit with robot: %(description)s',
-	},
+    'en': {
+        'editarticle-edit': u'Manual edit with bot: %(description)s',
+    },
     # Author: Csisc
     'qqq': {
         'editarticle-edit': u'Edit summary when the bot owner edits a text while the bot invoked an editor. <code>%(descriptions)s</code> gives further informations.',
@@ -184,10 +184,10 @@ msg = {
     'jv': {
         'editarticle-edit': u'Sunting manual mawa bot: %(description)s',
     },
-	# Author: Akoppad
-	'kn': {
-		'editarticle-edit': u'ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(ವಿವರಣೆ)s',
-	},
+    # Author: Akoppad
+    'kn': {
+        'editarticle-edit': u'ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(ವಿವರಣೆ)s',
+    },
     # Author: 아라
     'ko': {
         'editarticle-edit': u'로봇으로 수동 편집: %(description)s',

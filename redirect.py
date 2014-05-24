@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: Xqt
-	'en': {
-		'redirect-broken-redirect-template': u'{{db-r1}}',
-		'redirect-fix-broken-moved': u'Robot: Fixing broken redirect to moved target page %(to)s',
-		'redirect-fix-double': u'Robot: Fixing double redirect to %(to)s',
-		'redirect-fix-loop': u'Robot: Fixing redirect loop to %(to)s',
-		'redirect-remove-broken': u'Robot: Redirect to a deleted or non-existent page',
-		'redirect-remove-loop': u'Robot: Redirect target forms a redirect loop',
-	},
+    # Author: Xqt
+    'en': {
+        'redirect-broken-redirect-template': u'{{db-r1}}',
+        'redirect-fix-broken-moved': u'Bot: Fixing broken redirect to moved target page %(to)s',
+        'redirect-fix-double': u'Bot: Fixing double redirect to %(to)s',
+        'redirect-fix-loop': u'Bot: Fixing redirect loop to %(to)s',
+        'redirect-remove-broken': u'Bot: Redirect to a deleted or non-existent page',
+        'redirect-remove-loop': u'Bot: Redirect target forms a redirect loop',
+    },
     # Author: Csisc
     # Author: Lloffiwr
     # Author: Nemo bis
@@ -874,10 +874,10 @@ msg = {
         'redirect-remove-loop': u'Robot: mocka pukniyńć',
         'redirect-broken-redirect-template': u'{{delete|pukniyńciy dŏ wyciepanyj zajty}}',
     },
-	# Author: செல்வா
-	'ta': {
-		'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
-	},
+    # Author: செல்வா
+    'ta': {
+        'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
+    },
     # Author: Nullzero
     'th': {
         'redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s',
@@ -997,9 +997,9 @@ msg = {
         'redirect-remove-loop': u'机器人：重定向目标构成循环',
         'redirect-broken-redirect-template': u'{{db-r1}}',
     },
-	'zh-classical': {
-		'redirect-fix-double': u'僕:復修渡口 → %(to)s',
-	},
+    'zh-classical': {
+        'redirect-fix-double': u'僕:復修渡口 → %(to)s',
+    },
     # Author: Andrew971218
     # Author: Justincheng12345
     # Author: Liangent
@@ -1019,8 +1019,8 @@ msg = {
         'redirect-fix-loop': u'機械人修復重定向迴圈至%(to)s',
         'redirect-remove-loop': u'[[WP:SD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
     },
-	'zh-yue': {
-		'redirect-fix-double': u'機械人：拉直連串跳轉 → %(to)s',
-		'redirect-remove-broken': u'機械人：跳轉目標唔存在',
-	},
+    'zh-yue': {
+        'redirect-fix-double': u'機械人：拉直連串跳轉 → %(to)s',
+        'redirect-remove-broken': u'機械人：跳轉目標唔存在',
+    },
 };

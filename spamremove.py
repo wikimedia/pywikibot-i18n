@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'spamremove-remove': u'Removing links to spamming site %(url)s',
-	},
+    'en': {
+        'spamremove-remove': u'Removing links to spamming site %(url)s',
+    },
     'qqq': {
         'spamremove-remove': u'Edit summary for spamremove report',
     },

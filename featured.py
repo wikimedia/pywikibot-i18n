@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'featured-featured': u'Robot: %(page)s is a featured article',
-		'featured-former': u'Robot: %(page)s is a former featured article',
-		'featured-good': u'Robot: %(page)s is a good article',
-		'featured-list': u'Robot: %(page)s is a featured list',
-	},
+    'en': {
+        'featured-featured': u'Bot: %(page)s is a featured article',
+        'featured-former': u'Bot: %(page)s is a former featured article',
+        'featured-good': u'Bot: %(page)s is a good article',
+        'featured-list': u'Bot: %(page)s is a featured list',
+    },
     # Author: Shirayuki
     'qqq': {
         'featured-former': u'Used as edit summary. Variables:\n* %(page)s - page title',

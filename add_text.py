@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'add_text-adding': u'Robot: Adding %(adding)s',
-	},
+    'en': {
+        'add_text-adding': u'Bot: Adding %(adding)s',
+    },
     # Author: Csisc
     'qqq': {
         'add_text-adding': u'Edit summary when the bot adds text to a given page. %(adding)s is the added text truncated to 200 characters.',
@@ -570,9 +570,9 @@ msg = {
     'szl': {
         'add_text-adding': u'Bot dodowo: %(adding)s',
     },
-	'ta': {
-		'add_text-adding': u'தானியங்கிஇணைப்பு %(adding)s',
-	},
+    'ta': {
+        'add_text-adding': u'தானியங்கிஇணைப்பு %(adding)s',
+    },
     'te': {
         'add_text-adding': u'యంత్రము  కలుపుతున్నది %(adding)s',
     },
@@ -663,9 +663,9 @@ msg = {
     'zh': {
         'add_text-adding': u'机器人：添加 %(adding)s',
     },
-	'zh-classical': {
-		'add_text-adding': u'僕 增 %(adding)s',
-	},
+    'zh-classical': {
+        'add_text-adding': u'僕 增 %(adding)s',
+    },
     # Author: Simon Shek
     'zh-hant': {
         'add_text-adding': u'機械人：新增%(adding)s',
@@ -674,10 +674,10 @@ msg = {
     'zh-hk': {
         'add_text-adding': u'機械人新增：%(adding)s',
     },
-	'zh-min-nan': {
-		'add_text-adding': u'bot ka-thiam %(adding)s',
-	},
-	'zh-yue': {
-		'add_text-adding': u'機械人 加 %(adding)s',
-	},
+    'zh-min-nan': {
+        'add_text-adding': u'bot ka-thiam %(adding)s',
+    },
+    'zh-yue': {
+        'add_text-adding': u'機械人 加 %(adding)s',
+    },
 };

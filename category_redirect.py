@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'category_redirect-add-template': u'Robot: Adding category redirect template for maintenance',
-		'category_redirect-change-category': u'Robot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
-		'category_redirect-comment': u'Category redirect maintenance robot',
-		'category_redirect-edit-request': u'The following protected pages have been detected as requiring updates to category links: %(itemlist)s',
-		'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
-		'category_redirect-fix-double': u'Robot: Fixing double-redirect',
-	},
+    'en': {
+        'category_redirect-add-template': u'Bot: Adding category redirect template for maintenance',
+        'category_redirect-change-category': u'Bot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-comment': u'Category redirect maintenance bot',
+        'category_redirect-edit-request': u'The following protected pages have been detected as requiring updates to category links: %(itemlist)s',
+        'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
+        'category_redirect-fix-double': u'Bot: Fixing double-redirect',
+    },
     # Author: Csisc
     # Author: Shirayuki
     # Author: Xqt
@@ -959,9 +959,9 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向',
         'category_redirect-fix-double': u'机器人：修正双重重定向',
     },
-	'zh-classical': {
-		'category_redirect-fix-double': u'僕:復修渡口',
-	},
+    'zh-classical': {
+        'category_redirect-fix-double': u'僕:復修渡口',
+    },
     # Author: Justincheng12345
     # Author: Waihorace
     'zh-hant': {
@@ -981,7 +981,7 @@ msg = {
         'category_redirect-edit-request-item': u'%(title)s的分類%(oldcat)s已重定向至%(newcat)s',
         'category_redirect-fix-double': u'機械人修復雙重重定向',
     },
-	'zh-yue': {
-		'category_redirect-fix-double': u'機械人：拉直連串跳轉',
-	},
+    'zh-yue': {
+        'category_redirect-fix-double': u'機械人：拉直連串跳轉',
+    },
 };

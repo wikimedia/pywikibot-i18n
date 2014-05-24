@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'lonelypages-comment-add-template': u'Robot: Orphan page, add template',
-		'lonelypages-comment-add-disambig-template': u'Robot: Adding a disambig page',
-	},
+    'en': {
+        'lonelypages-comment-add-template': u'Bot: Orphan page, add template',
+        'lonelypages-comment-add-disambig-template': u'Bot: Adding a disambig page',
+    },
     'qqq': {
         'lonelypages-comment-add-disambig-template': u'Edit summary when adding lonely page to disambiguation page',
         'lonelypages-comment-add-template': u'Edit summary when adding template to orphan page',

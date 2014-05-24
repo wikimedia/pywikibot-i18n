@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'welcome-bad_username': u'Robot: Adding a username that needs to be checked',
-		'welcome-updating': u'Robot: Updating log',
-		'welcome-welcome': u'Welcome!',
-	},
+    'en': {
+        'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
+        'welcome-updating': u'Bot: Updating log',
+        'welcome-welcome': u'Welcome!',
+    },
     # Author: Csisc
     # Author: EugeneZelenko
     # Author: Xqt
@@ -752,8 +752,8 @@ msg = {
         'welcome-bad_username': u'機械人添加需要檢查的用戶名',
         'welcome-updating': u'機械人更新日誌',
     },
-	'zh-yue': {
-		'welcome-welcome': u'歡迎',
-		'welcome-updating': u'Bot: 更新日誌',
-	},
+    'zh-yue': {
+        'welcome-welcome': u'歡迎',
+        'welcome-updating': u'Bot: 更新日誌',
+    },
 };

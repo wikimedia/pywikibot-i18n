@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'spellcheck-checking': u'Bot-aided spell checker',
-	},
+    'en': {
+        'spellcheck-checking': u'Bot-aided spell checker',
+    },
     # Author: Shirayuki
     'qqq': {
         'spellcheck-checking': u'Used as edit summary.',

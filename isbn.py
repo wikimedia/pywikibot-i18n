@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'isbn-formatting': u'Robot: Formatting ISBN',
-	},
+    'en': {
+        'isbn-formatting': u'Bot: Formatting ISBN',
+    },
     # Author: Csisc
     # Author: Lloffiwr
     # Author: Xqt

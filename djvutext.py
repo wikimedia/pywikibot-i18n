@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'djvutext-creating': u'Robot: Creating page with text extracted from DjVu',
-	},
+    'en': {
+        'djvutext-creating': u'Bot: Creating page with text extracted from DjVu',
+    },
     # Author: Csisc
     # Author: Przemub
     # Author: Shirayuki

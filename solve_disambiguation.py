@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'solve_disambiguation-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
-		'solve_disambiguation-links-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s).',
-		'solve_disambiguation-links-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
-		'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisted disambiguation: %(from)s - Marked as needing expert attention',
-		'solve_disambiguation-redirect-removed': u'Robot-assisted disambiguation: %(from)s - Removed link(s)',
-		'solve_disambiguation-redirect-resolved': u'Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
-		'solve_disambiguation-unknown-page': u'(unknown)',
-	},
+    'en': {
+        'solve_disambiguation-adding-dn-template': u'Bot-assisted disambiguation: %(from)s - Marked as needing expert attention',
+        'solve_disambiguation-links-removed': u'Bot-assisted disambiguation: %(from)s - Removed link(s).',
+        'solve_disambiguation-links-resolved': u'Bot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
+        'solve_disambiguation-redirect-adding-dn-template': u'Bot-assisted disambiguation: %(from)s - Marked as needing expert attention',
+        'solve_disambiguation-redirect-removed': u'Bot-assisted disambiguation: %(from)s - Removed link(s)',
+        'solve_disambiguation-redirect-resolved': u'Bot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s',
+        'solve_disambiguation-unknown-page': u'(unknown)',
+    },
     # Author: Csisc
     # Author: EugeneZelenko
     # Author: Purodha

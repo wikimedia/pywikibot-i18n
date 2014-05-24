@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'basic-changing': u'Robot: Changing ...',
-	},
+    'en': {
+        'basic-changing': u'Robot: Changing ...',
+    },
     # Author: Shirayuki
     # Author: Xqt
     'qqq': {

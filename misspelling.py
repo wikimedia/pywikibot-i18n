@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'misspelling-fixing': u'Robot: Fixing misspelled link to %(page)s',
-	},
+    'en': {
+        'misspelling-fixing': u'Bot: Fixing misspelled link to %(page)s',
+    },
     'qqq': {
         'misspelling-fixing': u'Edit summary when the bot fixes links that contain common spelling mistakes.',
     },

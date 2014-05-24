@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'capitalize_redirects-create-redirect': u'Robot: Create redirect to [[%(to)s]]',
-	},
+    'en': {
+        'capitalize_redirects-create-redirect': u'Bot: Create redirect to [[%(to)s]]',
+    },
     # Author: Shirayuki
     'qqq': {
         'capitalize_redirects-create-redirect': u'Edit summary. Parameters:\n* %(to)s - page title',

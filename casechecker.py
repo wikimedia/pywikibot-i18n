@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'casechecker-rename': u'Bot: mixed case rename',
-		'casechecker-delete-reason': u'This redirect used to point to %(target)s',
-		'casechecker-delete-summary': u'Bot: This redirect contains identical looking Cyrillic and Latin letters in its title',
-		'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-		'casechecker-replacement-summary': u'Bot: Case Replacements:',
-	},
+    'en': {
+        'casechecker-rename': u'Bot: mixed case rename',
+        'casechecker-delete-reason': u'This redirect used to point to %(target)s',
+        'casechecker-delete-summary': u'Bot: This redirect contains identical looking Cyrillic and Latin letters in its title',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'Bot: Case Replacements:',
+    },
     # Author: McDutchie
     'qqq': {
         'casechecker-replacement-summary': u'Short edit summary when bot edits pages and fixes usage of upper- and lowercase letters',

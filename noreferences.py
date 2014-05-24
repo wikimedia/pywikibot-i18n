@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'noreferences-add-tag': u'Robot: Adding missing <references /> tag',
-	},
+    'en': {
+        'noreferences-add-tag': u'Bot: Adding missing <references /> tag',
+    },
     # Author: Csisc
     # Author: Xqt
     'qqq': {

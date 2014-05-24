@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'delete-from-category': u'Robot: Deleting all pages from category %(page)s',
-		'delete-from-file': u'Robot: Deleting a list of pages.',
-		'delete-images': u'Robot: Deleting all images on page %(page)s',
-		'delete-linked-pages': u'Robot: Deleting all pages linked from %(page)s',
-		'delete-referring-pages': u'Robot: Deleting all pages referring from %(page)s',
-	},
+    'en': {
+        'delete-from-category': u'Bot: Deleting all pages from category %(page)s',
+        'delete-from-file': u'Bot: Deleting a list of pages.',
+        'delete-images': u'Bot: Deleting all images on page %(page)s',
+        'delete-linked-pages': u'Bot: Deleting all pages linked from %(page)s',
+        'delete-referring-pages': u'Bot: Deleting all pages referring from %(page)s',
+    },
     # Author: Lloffiwr
     # Author: Shirayuki
     # Author: Xqt
@@ -25,10 +25,10 @@ msg = {
         'delete-from-file': u'بوت: حذف قائمة من الملفات.',
         'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
     },
-	# Author: Naudefj
-	'af': {
-		'delete-from-file': u'Robot: skrap \'n lys van lêers.',
-	},
+    # Author: Naudefj
+    'af': {
+        'delete-from-file': u'Robot: skrap \'n lys van lêers.',
+    },
     # Author: Als-Chlämens
     # Author: Als-Holder
     'als': {
@@ -47,10 +47,10 @@ msg = {
         'delete-from-file': u'بوت: حذف قائمة من الملفات.',
         'delete-linked-pages': u'روبوت - حذف كل الصفحات الموصولة من %(page)s',
     },
-	# Author: Basharh
-	'arc': {
-		'delete-from-file': u'ܪܘܒܘܛ: ܫܝܦܐ ܕܡܟܬܒܘܬܐ ܕܠܦܦ̈ܐ',
-	},
+    # Author: Basharh
+    'arc': {
+        'delete-from-file': u'ܪܘܒܘܛ: ܫܝܦܐ ܕܡܟܬܒܘܬܐ ܕܠܦܦ̈ܐ',
+    },
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
@@ -390,14 +390,14 @@ msg = {
         'delete-from-file': u'Bot: Mbusak daptar berkas.',
         'delete-linked-pages': u'Bot: Mbusak kabèh kaca sing kaubung saka %(page)s',
     },
-	# Author: Akoppad
-	'kn': {
-		'delete-images': u'ರೋಬೋಟ್: ಪುಟ %(ಪುಟ)ಗಳ  ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
-		'delete-referring-pages': u'ರೋಬೋಟ್: % (ಪುಟ)ಗಳಲ್ಲಿರು ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
-		'delete-from-category': u'ರೋಬೋಟ್: % (ಪುಟ) ಗಳ ವರ್ಗದಲ್ಲಿರು ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
-		'delete-from-file': u'ರೋಬೋಟ್: ಕಡತಗಳ ಪಟ್ಟಿಯನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ.',
-		'delete-linked-pages': u'ರೋಬೋಟ್:% (ಪುಟ) ಗೆ ಸಂಬಂದ ಪಟ್ಟ  ಎಲ್ಲ ಲಿಂಕ್ ಎಲ್ಲಾ ಪುಟಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
-	},
+    # Author: Akoppad
+    'kn': {
+        'delete-images': u'ರೋಬೋಟ್: ಪುಟ %(ಪುಟ)ಗಳ  ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
+        'delete-referring-pages': u'ರೋಬೋಟ್: % (ಪುಟ)ಗಳಲ್ಲಿರು ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
+        'delete-from-category': u'ರೋಬೋಟ್: % (ಪುಟ) ಗಳ ವರ್ಗದಲ್ಲಿರು ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
+        'delete-from-file': u'ರೋಬೋಟ್: ಕಡತಗಳ ಪಟ್ಟಿಯನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ.',
+        'delete-linked-pages': u'ರೋಬೋಟ್:% (ಪುಟ) ಗೆ ಸಂಬಂದ ಪಟ್ಟ  ಎಲ್ಲ ಲಿಂಕ್ ಎಲ್ಲಾ ಪುಟಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
+    },
     # Author: 아라
     'ko': {
         'delete-images': u'로봇: %(page)s 문서에 모든 그림 삭제',
@@ -749,10 +749,10 @@ msg = {
         'delete-from-file': u'Бот: Видалення списку сторінок.',
         'delete-linked-pages': u'Бот: Видалення усіх сторінок, пов\'язаних із %(page)s',
     },
-	# Author: CoderSI
-	'uz': {
-		'delete-from-file': u'Bot: Fayllar ro‘yxati o‘chirildi',
-	},
+    # Author: CoderSI
+    'uz': {
+        'delete-from-file': u'Bot: Fayllar ro‘yxati o‘chirildi',
+    },
     # Author: Alunardon90
     # Author: GatoSelvadego
     'vec': {

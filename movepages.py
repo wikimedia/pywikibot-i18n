@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'movepages-moving': u'Robot: Moved page',
-	},
+    'en': {
+        'movepages-moving': u'Bot: Moved page',
+    },
     # Author: Shirayuki
     'qqq': {
         'movepages-moving': u'Used as edit summary.',

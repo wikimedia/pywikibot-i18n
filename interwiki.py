@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'interwiki-adding': u'Robot: Adding %(adding)s',
-		'interwiki-adding-modifying': u'Robot: Adding %(adding)s; modifying %(modifying)s',
-		'interwiki-adding-removing': u'Robot: Adding %(adding)s; removing: %(removing)s',
-		'interwiki-adding-removing-modifying': u'Robot: Adding %(adding)s; removing %(removing)s; modifying %(modifying)s',
-		'interwiki-modifying': u'Robot: Modifying %(modifying)s',
-		'interwiki-modifying-from': u'Robot: Modifying %(from)s to %(modifying)s',
-		'interwiki-removing': u'Robot: Removing %(removing)s',
-		'interwiki-removing-modifying': u'Robot: Removing %(removing)s; modifying %(modifying)s',
-	},
+    'en': {
+        'interwiki-adding': u'Bot: Adding %(adding)s',
+        'interwiki-adding-modifying': u'Bot: Adding %(adding)s; modifying %(modifying)s',
+        'interwiki-adding-removing': u'Bot: Adding %(adding)s; removing: %(removing)s',
+        'interwiki-adding-removing-modifying': u'Bot: Adding %(adding)s; removing %(removing)s; modifying %(modifying)s',
+        'interwiki-modifying': u'Bot: Modifying %(modifying)s',
+        'interwiki-modifying-from': u'Bot: Modifying %(from)s to %(modifying)s',
+        'interwiki-removing': u'Bot: Removing %(removing)s',
+        'interwiki-removing-modifying': u'Bot: Removing %(removing)s; modifying %(modifying)s',
+    },
     # Author: Csisc
     # Author: Shirayuki
     # Author: The Evil IP address
@@ -2005,15 +2005,15 @@ msg = {
         'interwiki-removing-modifying': u'机器人移除：%(removing)s 修改：%(modifying)s',
         'interwiki-modifying-from': u'机器人：修改%(from)s至%(modifying)s',
     },
-	'zh-classical': {
-		'interwiki-modifying': u'僕 修: %(modifying)s',
-		'interwiki-adding-modifying': u'僕 增: %(adding)s 修: %(modifying)s',
-		'interwiki-adding-removing': u'僕 增: %(adding)s 削: %(removing)s',
-		'interwiki-adding-removing-modifying': u'僕 增: %(adding)s 削: %(removing)s 修: %(modifying)s',
-		'interwiki-adding': u'僕 增: %(adding)s',
-		'interwiki-removing': u'僕 削: %(removing)s',
-		'interwiki-removing-modifying': u'僕 削: %(removing)s 修: %(modifying)s',
-	},
+    'zh-classical': {
+        'interwiki-modifying': u'僕 修: %(modifying)s',
+        'interwiki-adding-modifying': u'僕 增: %(adding)s 修: %(modifying)s',
+        'interwiki-adding-removing': u'僕 增: %(adding)s 削: %(removing)s',
+        'interwiki-adding-removing-modifying': u'僕 增: %(adding)s 削: %(removing)s 修: %(modifying)s',
+        'interwiki-adding': u'僕 增: %(adding)s',
+        'interwiki-removing': u'僕 削: %(removing)s',
+        'interwiki-removing-modifying': u'僕 削: %(removing)s 修: %(modifying)s',
+    },
     # Author: Alexsh
     # Author: Andrew971218
     # Author: Justincheng12345
@@ -2039,22 +2039,22 @@ msg = {
         'interwiki-removing-modifying': u'機械人刪除%(removing)s、修改%(modifying)s',
         'interwiki-modifying-from': u'機械人更換%(from)s至%(modifying)s',
     },
-	'zh-min-nan': {
-		'interwiki-modifying': u'bot siu-kái: %(modifying)s',
-		'interwiki-adding-modifying': u'bot ka-thiam: %(adding)s siu-kái: %(modifying)s',
-		'interwiki-adding-removing': u'bot ka-thiam: %(adding)s thiah-tû: %(removing)s',
-		'interwiki-adding-removing-modifying': u'bot ka-thiam: %(adding)s thiah-tû: %(removing)s siu-kái: %(modifying)s',
-		'interwiki-adding': u'bot ka-thiam: %(adding)s',
-		'interwiki-removing': u'bot thiah-tû: %(removing)s',
-		'interwiki-removing-modifying': u'bot thiah-tû: %(removing)s siu-kái: %(modifying)s',
-	},
-	'zh-yue': {
-		'interwiki-modifying': u'機械人 改: %(modifying)s',
-		'interwiki-adding-modifying': u'機械人 加: %(adding)s 改: %(modifying)s',
-		'interwiki-adding-removing': u'機械人 加: %(adding)s 減: %(removing)s',
-		'interwiki-adding-removing-modifying': u'機械人 加: %(adding)s 減: %(removing)s 改: %(modifying)s',
-		'interwiki-adding': u'機械人 加: %(adding)s',
-		'interwiki-removing': u'機械人 減: %(removing)s',
-		'interwiki-removing-modifying': u'機械人 減: %(removing)s 改: %(modifying)s',
-	},
+    'zh-min-nan': {
+        'interwiki-modifying': u'bot siu-kái: %(modifying)s',
+        'interwiki-adding-modifying': u'bot ka-thiam: %(adding)s siu-kái: %(modifying)s',
+        'interwiki-adding-removing': u'bot ka-thiam: %(adding)s thiah-tû: %(removing)s',
+        'interwiki-adding-removing-modifying': u'bot ka-thiam: %(adding)s thiah-tû: %(removing)s siu-kái: %(modifying)s',
+        'interwiki-adding': u'bot ka-thiam: %(adding)s',
+        'interwiki-removing': u'bot thiah-tû: %(removing)s',
+        'interwiki-removing-modifying': u'bot thiah-tû: %(removing)s siu-kái: %(modifying)s',
+    },
+    'zh-yue': {
+        'interwiki-modifying': u'機械人 改: %(modifying)s',
+        'interwiki-adding-modifying': u'機械人 加: %(adding)s 改: %(modifying)s',
+        'interwiki-adding-removing': u'機械人 加: %(adding)s 減: %(removing)s',
+        'interwiki-adding-removing-modifying': u'機械人 加: %(adding)s 減: %(removing)s 改: %(modifying)s',
+        'interwiki-adding': u'機械人 加: %(adding)s',
+        'interwiki-removing': u'機械人 減: %(removing)s',
+        'interwiki-removing-modifying': u'機械人 減: %(removing)s 改: %(modifying)s',
+    },
 };

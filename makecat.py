@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'makecat-create': u'Robot: Creation or update of category [[:Category:%(cat)s|]]',
-	},
+    'en': {
+        'makecat-create': u'Bot: Creation or update of category [[:Category:%(cat)s|]]',
+    },
     'qqq': {
         'makecat-create': u'{{doc-important|Do not change ":Category:%(cat)s" so this message will work in any language.}}\nEdit summary when the bot creates or updates a category.\n* %(cat)s - category name',
     },

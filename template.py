@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'template-changing': u'Robot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
-		'template-removing': u'Robot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
-		'template-substituting': u'Robot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
-	},
+    'en': {
+        'template-changing': u'Bot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',
+        'template-removing': u'Bot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s',
+        'template-substituting': u'Bot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s',
+    },
     # Author: Shirayuki
     'qqq': {
         'template-removing': u'Used as edit summary. Variables:\n* %(num)d - number of templates\n* %(list)s - list of templates (separated by {{msg-mw|Comma-separator}})',
@@ -414,9 +414,9 @@ msg = {
         'template-changing': u'Robot: {{PLURAL:%(num)d|promijenjen šablon|promijenjeni šabloni}}: %(list)s',
         'template-substituting': u'Bot: {{PLURAL:%(num)d|zamijenjen šablon|zamijenjeni šabloni}}: %(list)s',
     },
-	# Author: පසිඳු කාවින්ද
-	'si': {
-	},
+    # Author: පසිඳු කාවින්ද
+    'si': {
+    },
     # Author: Teslaton
     'sk': {
         'template-removing': u'Robot: Odstránenie {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s',

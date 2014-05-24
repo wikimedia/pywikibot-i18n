@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'protect-simple': u'Robot: Protecting a list of files.',
-		'protect-category': u'Robot: Protecting all pages from category %(cat)s',
-		'protect-links': u'Robot: Protecting all pages linked from %(page)s',
-		'protect-ref': u'Robot: Protecting all pages referring from %(page)s',
-		'protect-images': u'Robot: Protecting all images on page %(page)s',
-	},
+    'en': {
+        'protect-simple': u'Bot: Protecting a list of files.',
+        'protect-category': u'Bot: Protecting all pages from category %(cat)s',
+        'protect-links': u'Bot: Protecting all pages linked from %(page)s',
+        'protect-ref': u'Bot: Protecting all pages referring from %(page)s',
+        'protect-images': u'Bot: Protecting all images on page %(page)s',
+    },
     # Author: Geoffrey "GEOFBOT" Mon
     # Author: Valhallasw
     # Author: Xqt

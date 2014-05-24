@@ -1,19 +1,19 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: Xqt
-	'en': {
-		'category-adding': u'Robot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
-		'category-also-in': u'(also in %(alsocat)s)',
-		'category-changing': u'Robot: Changing %(oldcat)s to %(newcat)s',
-		'category-listifying': u'Robot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
-		'category-removing': u'Robot: Removing from %(oldcat)s',
-		'category-renamed': u'Robot: Moved from %s. Authors: %s',
-		'category-replacing': u'Robot: Replacing category %(oldcat)s with %(newcat)s',
-		'category-section-title': u'Page history of former %(oldcat)s',
-		'category-version-history': u'Robot: Saving version history of former %(oldcat)s',
-		'category-was-disbanded': u'Robot: Category was disbanded',
-		'category-was-moved': u'Robot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
-	},
+    # Author: Xqt
+    'en': {
+        'category-adding': u'Bot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
+        'category-also-in': u'(also in %(alsocat)s)',
+        'category-changing': u'Bot: Changing %(oldcat)s to %(newcat)s',
+        'category-listifying': u'Bot: Listifying from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+        'category-removing': u'Bot: Removing from %(oldcat)s',
+        'category-renamed': u'Bot: Moved from %s. Authors: %s',
+        'category-replacing': u'Bot: Replacing category %(oldcat)s with %(newcat)s',
+        'category-section-title': u'Page history of former %(oldcat)s',
+        'category-version-history': u'Bot: Saving version history of former %(oldcat)s',
+        'category-was-disbanded': u'Bot: Category was disbanded',
+        'category-was-moved': u'Bot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
+    },
     # Author: Csisc
     # Author: Lloffiwr
     # Author: Purodha
@@ -1972,9 +1972,9 @@ msg = {
         'category-section-title': u'之前%(oldcat)s的页面历史',
         'category-listifying': u'机器人：从%(fromcat)s提取列表(%(num)d个项目)',
     },
-	'zh-classical': {
-		'category-adding': u'僕: 增 category [[:Category:%(newcat)s|%(newcat)s]]',
-	},
+    'zh-classical': {
+        'category-adding': u'僕: 增 category [[:Category:%(newcat)s|%(newcat)s]]',
+    },
     # Author: Andrew971218
     # Author: Justincheng12345
     # Author: Simon Shek
@@ -2006,10 +2006,10 @@ msg = {
         'category-section-title': u'%(oldcat)s的頁面歷史',
         'category-listifying': u'機械人從%(fromcat)s提取列表(%(num)d個紀錄)',
     },
-	'zh-min-nan': {
-		'category-adding': u'bot: ka-thiam category [[:Category:%(newcat)s|%(newcat)s]]',
-	},
-	'zh-yue': {
-		'category-adding': u'機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]',
-	},
+    'zh-min-nan': {
+        'category-adding': u'bot: ka-thiam category [[:Category:%(newcat)s|%(newcat)s]]',
+    },
+    'zh-yue': {
+        'category-adding': u'機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]',
+    },
 };

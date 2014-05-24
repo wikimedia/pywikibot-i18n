@@ -1,25 +1,25 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: DrTrigon
-	'en': {
-		'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
-		'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion changed',
-		'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion closed',
-		'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOT MESSAGE',
-		'thirdparty-drtrigonbot-sum_disc-notify-new': u'New Discussion',
-		'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notification',
-		'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) by %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s all discussions have finished (surveillance stopped) - last edit by %(user)s (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSummary generated from and at: %(sign)s</noinclude>',
-		'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(no human editor found)',
-		'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - last edit by [[User:%(user)s]] (%(time)s)',
-		'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
-		'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robot warning message: %(page)s "\'\'%(warning)s\'\'"',
-		'thirdparty-drtrigonbot-sum_disc-summary-add': u'Discussion summary added: %(num)i entries',
-		'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion summary added with clean up: %(num)i entries',
-		'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
-		'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summary updated: %(num)i entries in %(page)s',
-	},
+    # Author: DrTrigon
+    'en': {
+        'thirdparty-drtrigonbot-subster-summary-mod': u'substituting %(tags)s tag(s)',
+        'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion changed',
+        'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion closed',
+        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT MESSAGE',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'New Discussion',
+        'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notification',
+        'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) by %(user)s (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s all discussions have finished (surveillance stopped) - last edit by %(user)s (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSummary generated from and at: %(sign)s</noinclude>',
+        'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(no human editor found)',
+        'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - last edit by [[User:%(user)s]] (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bot warning message: %(page)s "\'\'%(warning)s\'\'"',
+        'thirdparty-drtrigonbot-sum_disc-summary-add': u'Discussion summary added: %(num)i entries',
+        'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Discussion summary added with clean up: %(num)i entries',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Discussion summary updated: %(num)i entries in %(page)s',
+    },
     # Author: Csisc
     # Author: DrTrigon
     # Author: EugeneZelenko

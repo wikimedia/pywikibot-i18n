@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'commons_link-template-added': u'Robot: Include commons template',
-		'commons_link-cat-template-added': u'Robot: Include commonscat template',
-	},
+    'en': {
+        'commons_link-template-added': u'Bot: Include commons template',
+        'commons_link-cat-template-added': u'Bot: Include commonscat template',
+    },
     # Author: Siebrand
     'qqq': {
         'commons_link-template-added': u'Edit summary when the bot adds a template to a page that indicates a page (or gallery) exists on Wikimedia Commons about the page\'s topic.',

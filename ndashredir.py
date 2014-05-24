@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 msg = {
-	# Author: Bináris
-	'en': {
-		'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
-	},
+    # Author: Bináris
+    'en': {
+        'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
+    },
     # Author: Shirayuki
     'qqq': {
         'ndashredir-create': u'Used as edit summary. Parameters:\n* %(title)s - page title',

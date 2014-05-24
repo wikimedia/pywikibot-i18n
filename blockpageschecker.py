@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'blockpageschecker-summary': u'Bot: Deleting out-dated template',
-	},
+    'en': {
+        'blockpageschecker-summary': u'Bot: Deleting out-dated template',
+    },
     'qqq': {
         'blockpageschecker-summary': u'Edit summary for blockpageschecker report',
     },

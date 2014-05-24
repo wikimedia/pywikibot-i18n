@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'clean_sandbox-cleaned': u'Robot: Automatically cleaned',
-	},
+    'en': {
+        'clean_sandbox-cleaned': u'Bot: Automatically cleaned',
+    },
     # Author: Csisc
     'qqq': {
         'clean_sandbox-cleaned': u'Summary message when the bot cleans sandbox',

@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'pywikibot-enter-category-name': u'Please enter the category name:',
-		'pywikibot-enter-file-links-processing': u'Links to which file page should be processed?',
-		'pywikibot-enter-finished-browser': u'Press Enter when finished in browser.',
-		'pywikibot-enter-namespace-number': u'Please enter a namespace by its number:',
-		'pywikibot-enter-new-text': u'Please enter the new text:',
-		'pywikibot-enter-page-processing': u'Which page should be processed?',
-		'pywikibot-enter-xml-filename': u'Please enter the XML dump\'s filename:',
-	},
+    'en': {
+        'pywikibot-enter-category-name': u'Please enter the category name:',
+        'pywikibot-enter-file-links-processing': u'Links to which file page should be processed?',
+        'pywikibot-enter-finished-browser': u'Press Enter when finished in browser.',
+        'pywikibot-enter-namespace-number': u'Please enter a namespace by its number:',
+        'pywikibot-enter-new-text': u'Please enter the new text:',
+        'pywikibot-enter-page-processing': u'Which page should be processed?',
+        'pywikibot-enter-xml-filename': u'Please enter the XML dump\'s filename:',
+    },
     # Author: Als-Holder
     # Author: TTMTT
     'qqq': {

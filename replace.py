@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
-	'en': {
-		'replace-replacing': u'Robot: Automated text replacement %(description)s',
-	},
+    'en': {
+        'replace-replacing': u'Bot: Automated text replacement %(description)s',
+    },
     # Author: Csisc
     # Author: Xqt
     'qqq': {
