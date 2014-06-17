@@ -523,17 +523,17 @@ msg = {
     # Author: Vivaelcelta
     # Author: Xqt
     'es': {
-        'category-version-history': u'Bot: Guardando historial de versiones de los %(oldcat)s previos',
+        'category-version-history': u'Bot: guardado de historial de los %(oldcat)s previos',
         'category-changing': u'Bot: traslado de «%(oldcat)s» a «%(newcat)s»',
-        'category-adding': u'Bot: Añadiendo la categoría «[[:Category:%(newcat)s|%(newcat)s]]»',
+        'category-adding': u'Bot: adición de categoría «[[:Category:%(newcat)s|%(newcat)s]]»',
         'category-also-in': u'(también en %(alsocat)s)',
-        'category-was-disbanded': u'Bot: La categoría ha sido eliminada',
-        'category-replacing': u'Bot: Reemplazando categoría %(oldcat)s por %(newcat)s',
-        'category-removing': u'Bot: Eliminada de la %(oldcat)s',
-        'category-was-moved': u'Bot: La categoría ha sido movida a [[:Category:%(newcat)s|%(title)s]]',
-        'category-renamed': u'Bot: trasladado de %s. Autores: %s',
+        'category-was-disbanded': u'Bot: la categoría fue eliminada',
+        'category-replacing': u'Bot: reemplazo de categoría %(oldcat)s por %(newcat)s',
+        'category-removing': u'Bot: eliminada de %(oldcat)s',
+        'category-was-moved': u'Bot: categoría movida a «[[:Category:%(newcat)s|%(title)s]]»',
+        'category-renamed': u'Bot: movida de «%s». Autores: %s',
         'category-section-title': u'Historial de la página de %(oldcat)s previos',
-        'category-listifying': u'Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada entradas|%(num)d entradas}})',
+        'category-listifying': u'Bot: lista a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})',
     },
     # Author: Pikne
     # Author: Xqt
@@ -1935,6 +1935,7 @@ msg = {
         'category-replacing': u'באט: פֿאַרטוישט %(oldcat)s מיט %(newcat)s',
         'category-removing': u'באט: נעמט אַוועק פֿון %(oldcat)s',
         'category-was-moved': u'ראָבאָט: קאַטעגאָריע איז אריבערגעפֿירט צו [[:Category:%(newcat)s|%(title)s]]',
+        'category-renamed': u'באט: באוועגט פון %s. שרײַבער: %s',
         'category-section-title': u'בלאט היסטאריע פון פריערדיקע %(oldcat)s',
         'category-listifying': u'באָט: שאַפֿן א רשימה פֿון %(fromcat)s ({{PLURAL:%(num)d|1 בלאט|%(num)d בלעטער}})',
     },

@@ -1665,6 +1665,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTOVA PORUKA',
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nOpis je stvoren iz i u: %(sign)s</noinclude>',
     },
+    # Author: Jopparn
     # Author: WikiPhoenix
     'sv': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
@@ -1676,7 +1677,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - senaste redigering av [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Meddelande',
         'thirdparty-drtrigonbot-subster-summary-mod': u'ersätter %(tags)s tag(s)',
-        'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion stängt',
+        'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion stängd',
         'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alla diskussioner är klara (övervakning stoppades) - senaste redigering av %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskussionssammanfattning lades till: %(num)i poster',
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskussion ändrad',

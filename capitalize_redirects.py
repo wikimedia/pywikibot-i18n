@@ -122,10 +122,11 @@ msg = {
     'eo': {
         'capitalize_redirects-create-redirect': u'Roboto: Kreado de alidirektilo al [[%(to)s]]',
     },
+    # Author: Fitoschido
     # Author: Invadinado
     # Author: Vivaelcelta
     'es': {
-        'capitalize_redirects-create-redirect': u'Bot: Creando redirección hacia «[[%(to)s]]»',
+        'capitalize_redirects-create-redirect': u'Bot: creación de redirección a «[[%(to)s]]»',
     },
     # Author: Theklan
     # Author: Xabier Armendaritz

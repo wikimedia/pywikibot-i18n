@@ -477,16 +477,17 @@ msg = {
         'interwiki-removing-modifying': u'robota forigo de: %(removing)s modifo de: %(modifying)s',
         'interwiki-modifying-from': u'Roboto: Ŝanĝas %(from)s al %(modifying)s',
     },
+    # Author: Fitoschido
     # Author: Invadinado
     # Author: Xqt
     'es': {
-        'interwiki-modifying': u'Bot: Modificando %(modifying)s',
-        'interwiki-adding-modifying': u'Bot: Añadiendo %(adding)s; modificando %(modifying)s',
-        'interwiki-adding-removing': u'Bot: Añadiendo %(adding)s; eliminando %(removing)s',
-        'interwiki-adding-removing-modifying': u'Bot: Añadiendo %(adding)s; eliminando %(removing)s; modificando %(modifying)s',
-        'interwiki-adding': u'Bot: Añadiendo %(adding)s',
-        'interwiki-removing': u'Bot: Eliminando %(removing)s',
-        'interwiki-removing-modifying': u'Bot: Eliminando %(removing)s; modificando %(modifying)s',
+        'interwiki-modifying': u'Bot: modificación de %(modifying)s',
+        'interwiki-adding-modifying': u'Bot: adición de %(adding)s; modificación de %(modifying)s',
+        'interwiki-adding-removing': u'Bot: adición de %(adding)s; eliminación de %(removing)s',
+        'interwiki-adding-removing-modifying': u'Bot: adición de %(adding)s; eliminación de %(removing)s; modificación de %(modifying)s',
+        'interwiki-adding': u'Bot: adición de %(adding)s',
+        'interwiki-removing': u'Bot: eliminación de %(removing)s',
+        'interwiki-removing-modifying': u'Bot: eliminación de %(removing)s; modificación de %(modifying)s',
         'interwiki-modifying-from': u'Bot: Modificando %(from)s por %(modifying)s',
     },
     # Author: Pikne

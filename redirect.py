@@ -473,7 +473,7 @@ msg = {
         'redirect-fix-double': u'Bot: Sistemo i redirect doppi a %(to)s',
         'redirect-remove-broken': u'Bot: Redirect a una pagina inesistente',
         'redirect-fix-broken-moved': u'Bot: Correggo redirect errati alla pagina spostata %(to)s',
-        'redirect-fix-loop': u'Bot: Preparazione di un ciclo di reindirizzo a %(to)s',
+        'redirect-fix-loop': u'Bot: sistemo ciclo di reindirizzamento a %(to)s',
         'redirect-remove-loop': u'Bot: La destinazione del [[{{ns:project}}:Redirect|redirect]] rimanda alla pagina di partenza',
         'redirect-broken-redirect-template': u'{{Cancella subito|9}}',
     },
@@ -850,14 +850,15 @@ msg = {
         'redirect-remove-loop': u'Robot: odredište preusmerenja obrazuje petlju',
     },
     # Author: Boivie
+    # Author: Jopparn
     # Author: Lokal Profil
     # Author: Tobulos1
     # Author: WikiPhoenix
     'sv': {
-        'redirect-fix-double': u'Bot: Rättar dubbel omdirigering → %(to)s',
-        'redirect-remove-broken': u'Bot: Omdirigerar till en raderad eller en obefintlig sida',
+        'redirect-fix-double': u'Bot: Rättar dubbel omdirigering till %(to)s',
+        'redirect-remove-broken': u'Bot: Omdirigerar till en raderad eller en icke-existerande sida',
         'redirect-fix-broken-moved': u'Bot: Reparerade trasig omdirigering till den flyttade målsidan %(to)s',
-        'redirect-fix-loop': u'Bot: Fixar omdirigeringsslinga till %(to)s',
+        'redirect-fix-loop': u'Bot: Fixar omdirigeringsloop till %(to)s',
         'redirect-remove-loop': u'Bot: Målet för omdirigeringen bildar en omdirigeringsloop',
         'redirect-broken-redirect-template': u'{{radera|Trasig omdirigering}}',
     },

@@ -92,9 +92,10 @@ msg = {
         'djvutext-creating': u'Roboto: Kreas paĝon kun la teksto ekstirita de DjVu',
     },
     # Author: Armando-Martin
+    # Author: Fitoschido
     # Author: Xqt
     'es': {
-        'djvutext-creating': u'Bot: Creando página con texto extraído de DjVu',
+        'djvutext-creating': u'Bot: creación de página con texto extraído de DjVu',
     },
     # Author: Pikne
     'et': {

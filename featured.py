@@ -186,11 +186,12 @@ msg = {
         'featured-featured': u'roboto: %(page)s estas artikolo elstara',
         'featured-former': u'Roboto: %(page)s estas eksa elstara artikolo',
     },
+    # Author: Fitoschido
     'es': {
-        'featured-good': u'Bot: Enlace a artículo bueno para: %(page)s',
-        'featured-list': u'Bot: Enlace a lista destacada para: %(page)s',
-        'featured-featured': u'Bot: Enlace a artículo destacado para: %(page)s',
-        'featured-former': u'Bot: %(page)s ya no es un artículo destacado',
+        'featured-good': u'Bot: «%(page)s» es un artículo bueno',
+        'featured-list': u'Bot: «%(page)s» es una lista destacada',
+        'featured-featured': u'Bot: «%(page)s» es un artículo destacado',
+        'featured-former': u'Bot: «%(page)s» ya no es un artículo destacado',
     },
     # Author: Pikne
     'et': {
@@ -574,10 +575,11 @@ msg = {
         'featured-featured': u'Robot: %(page)s je sjajan članak',
         'featured-former': u'Robot: %(page)s je bio sjajan članak',
     },
+    # Author: Jopparn
     # Author: Lokal Profil
     'sv': {
         'featured-good': u'Bot: %(page)s är en läsvärd artikel',
-        'featured-list': u'Bot: %(page)s är en utmärkt list',
+        'featured-list': u'Bot: %(page)s är en utmärkt lista',
         'featured-featured': u'Bot: %(page)s är en utmärkt artikel',
         'featured-former': u'Bot: %(page)s är en före detta utmärkt artikel',
     },

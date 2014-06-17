@@ -72,10 +72,11 @@ msg = {
         'commons_link-template-added': u'Roboto: Aldono de la ŝablono commons',
         'commons_link-cat-template-added': u'Roboto: Aldono de la ŝablono commonscat',
     },
+    # Author: Fitoschido
     # Author: Salvador alc
     'es': {
-        'commons_link-template-added': u'Robot: Incluir plantilla commons',
-        'commons_link-cat-template-added': u'Robot: Incluir plantilla commonscat',
+        'commons_link-template-added': u'Bot: inclusión de plantilla Commons',
+        'commons_link-cat-template-added': u'Bot: inclusión de plantilla Commonscat',
     },
     'fa': {
         'commons_link-template-added': u'ربات: افزودن الگوی ویکی‌انبار',
@@ -215,6 +216,11 @@ msg = {
     'sr': {
         'commons_link-template-added': u'Робот: додат шаблон Оставе',
         'commons_link-cat-template-added': u'Робот: додат шаблон за везу до Оставе',
+    },
+    # Author: Jopparn
+    'sv': {
+        'commons_link-template-added': u'Bot: Inkludera commons-mall',
+        'commons_link-cat-template-added': u'Bot: Inkludera commonscat-mall',
     },
     # Author: Andriykopanytsia
     'uk': {

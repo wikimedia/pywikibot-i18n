@@ -276,9 +276,9 @@ msg = {
     # Author: Xqt
     'es': {
         'category_redirect-comment': u'Bot de mantenimento de categorías redirigidas',
-        'category_redirect-change-category': u'Bot: Modificando categoría redirigida de «[[:%(oldCatLink)s|%(oldCatTitle)s]]» a «[[:%(newCatLink)s|%(newCatTitle)s]]»',
-        'category_redirect-add-template': u'Bot: Añadiendo plantilla de categoría redirigida para mantenimiento',
-        'category_redirect-edit-request': u'Se han detectado las siguientes páginas protegidas y se requieren actualizaciones de enlaces de categorías: %(itemlist)s',
+        'category_redirect-change-category': u'Bot: cambio de categoría redirigida de «[[:%(oldCatLink)s|%(oldCatTitle)s]]» a «[[:%(newCatLink)s|%(newCatTitle)s]]»',
+        'category_redirect-add-template': u'Bot: adición de plantilla de categoría redirigida para mantenimiento',
+        'category_redirect-edit-request': u'Se necesita actualizar los enlaces a categorías en estas páginas protegidas: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s está en %(oldcat)s, el cual redirecciona a %(newcat)s',
         'category_redirect-fix-double': u'Bot: arreglo de redirección doble',
     },

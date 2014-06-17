@@ -321,8 +321,9 @@ msg = {
     'sr-el': {
         'editarticle-edit': u'Ručno uređivanje s robotom: %(description)s',
     },
+    # Author: Jopparn
     'sv': {
-        'editarticle-edit': u'Manuell redigering: %(description)s',
+        'editarticle-edit': u'Manuell redigering med bot: %(description)s',
     },
     # Author: Kwisha
     'sw': {

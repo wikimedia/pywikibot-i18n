@@ -66,9 +66,10 @@ msg = {
     'eo': {
         'blockpageschecker-summary': u'Roboto: Forigo de eksmoda ŝablono',
     },
+    # Author: Fitoschido
     # Author: VegaDark
     'es': {
-        'blockpageschecker-summary': u'Bot: Borrado de plantilla desactualizada',
+        'blockpageschecker-summary': u'Bot: borrado de plantilla desactualizada',
     },
     # Author: Theklan
     'eu': {
@@ -250,7 +251,8 @@ msg = {
         'blockpageschecker-summary': u'機器人: 移除過期的保護模板',
     },
     # Author: Gabrielchihonglee
+    # Author: Kc kennylau
     'zh-hant': {
-        'blockpageschecker-summary': u'機器人: 移除過期的保護模板',
+        'blockpageschecker-summary': u'機械人：移除過期的保護模板',
     },
 };

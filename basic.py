@@ -131,7 +131,7 @@ msg = {
     },
     # Author: Fitoschido
     'es': {
-        'basic-changing': u'Bot: Cambiando...',
+        'basic-changing': u'Robot: cambio de…',
     },
     # Author: An13sa
     'eu': {

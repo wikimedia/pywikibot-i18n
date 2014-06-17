@@ -27,6 +27,10 @@ msg = {
     'ca': {
         'revertbot-revert': u'Bot: Revertit a la revisió %(revid)s per %(author)s el %(timestamp)s',
     },
+    # Author: Calak
+    'ckb': {
+        'revertbot-revert': u'بۆت: گەڕێنرایەوە بۆ پێداچوونەوەی %(revid)s لە لایەن %(author)s لە %(timestamp)s',
+    },
     # Author: Matěj Grabovský
     'cs': {
         'revertbot-revert': u'Robot revertoval stránku na revizi %(revid)s uživatele %(author)s z %(timestamp)s',

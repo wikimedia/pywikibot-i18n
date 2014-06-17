@@ -253,19 +253,25 @@ msg = {
         'archivebot-archive-summary': u'Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} de [[%(from)s]].',
     },
     # Author: Armando-Martin
+    # Author: Fitoschido
     # Author: TheBITLINK
     # Author: Vivaelcelta
     # Author: Xqt
     'es': {
         'archivebot-older-than': u'más antiguo que',
-        'archivebot-page-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s.',
+        'archivebot-page-summary': u'Bot: archivo de %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s.',
         'archivebot-archiveheader': u'{{talkarchive}}',
         'archivebot-archive-full': u'(ARCHIVO LLENO)',
-        'archivebot-archive-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} de [[%(from)s]].',
+        'archivebot-archive-summary': u'Bot: Archivo de %(count)d {{PLURAL:%(count)d|hilo|hilos}} de [[%(from)s]].',
     },
     # Author: Avjoska
+    # Author: Pikne
     'et': {
         'archivebot-older-than': u'vanem kui',
+        'archivebot-page-summary': u'Robot: %(count)d {{PLURAL:%(count)d|teema|teemat}} (%(why)s) viidud {{PLURAL:%(archives)s|arhiivi|arhiividesse}} %(archives)s.',
+        'archivebot-archiveheader': u'{{arhiveerimine}}',
+        'archivebot-archive-full': u'(ARHIIV TÄIS)',
+        'archivebot-archive-summary': u'Robot: arhiivitud %(count)d {{PLURAL:%(count)d|teema|teemat}} leheküljelt [[%(from)s]].',
     },
     # Author: Theklan
     'eu': {
@@ -396,7 +402,7 @@ msg = {
     # Author: Dj
     # Author: JulesWinnfield-hu
     'hu': {
-        'archivebot-older-than': u'régebbi mint',
+        'archivebot-older-than': u'régebbi, mint',
         'archivebot-page-summary': u'Bot: {{PLURAL:%(count)d|Egy|%(count)d}} szakasz archiválása (%(why)s) a %(archives)s lapra.',
         'archivebot-archiveheader': u'{{archív lap}}',
         'archivebot-archive-full': u'(MEGTELT)',

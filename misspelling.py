@@ -62,9 +62,17 @@ msg = {
     'he': {
         'misspelling-fixing': u'בוט: מתקן קישור עם שגיאה לדף %(page)s',
     },
+    # Author: McDutchie
+    'ia': {
+        'misspelling-fixing': u'Robot: Corrige ligamine con error orthographic verso %(page)s',
+    },
     # Author: C5st4wr6ch
     'id': {
         'misspelling-fixing': u'Robot: Memperbaiki kesalahan ejaan ke %(page)s',
+    },
+    # Author: Beta16
+    'it': {
+        'misspelling-fixing': u'Bot: correggo collegamento errato a %(page)s',
     },
     # Author: Shirayuki
     'ja': {
@@ -81,6 +89,10 @@ msg = {
     # Author: Robby
     'lb': {
         'misspelling-fixing': u'Bot:Falschgeschriwwene Link %(page)s verbessert',
+    },
+    # Author: Jagwar
+    'mg': {
+        'misspelling-fixing': u'Rôbô :Fanitsiana ny rohy diso tsipelina mankany amin\'i %(page)s',
     },
     # Author: Bjankuloski06
     'mk': {
@@ -123,6 +135,10 @@ msg = {
     'sco': {
         'misspelling-fixing': u'Robot: Fixing misspeelt link til %(page)s',
     },
+    # Author: Jopparn
+    'sv': {
+        'misspelling-fixing': u'Bot: Åtgärdar felstavad länk till %(page)s',
+    },
     # Author: Andriykopanytsia
     'uk': {
         'misspelling-fixing': u'Робот: виправлення невірного посилання на %(page)s',
@@ -130,5 +146,13 @@ msg = {
     # Author: Minh Nguyen
     'vi': {
         'misspelling-fixing': u'Bot: Sửa chính tả trong liên kết đến %(page)s',
+    },
+    # Author: Liuxinyu970226
+    'zh': {
+        'misspelling-fixing': u'机器人：修复错误连接至%(page)s',
+    },
+    # Author: Kc kennylau
+    'zh-hant': {
+        'misspelling-fixing': u'機械人：修復至%(page)s的錯誤鏈接',
     },
 };

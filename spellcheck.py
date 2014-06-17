@@ -238,9 +238,10 @@ msg = {
     'sr-el': {
         'spellcheck-checking': u'Botovska provera pravopisa',
     },
+    # Author: Jopparn
     # Author: Lokal Profil
     'sv': {
-        'spellcheck-checking': u'Robot-assisterad stavningskontroll',
+        'spellcheck-checking': u'Bot-assisterad stavningskontroll',
     },
     # Author: Гусейн
     'tly': {

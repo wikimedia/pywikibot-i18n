@@ -124,8 +124,10 @@ msg = {
         'welcome-updating': u'бот: тептар карлаяккхар',
     },
     # Author: Asoxor
+    # Author: Calak
     'ckb': {
         'welcome-welcome': u'بەخێربێی!',
+        'welcome-updating': u'بۆت: نوێکردنەوە لۆگ',
     },
     # Author: Spiffyk
     'cs': {
@@ -676,6 +678,10 @@ msg = {
         'welcome-welcome': u'Рәхим итегез!',
         'welcome-bad_username': u'Робот:Шикле кулланучы исеме өстәлгән',
         'welcome-updating': u'Робот:Яңарту',
+    },
+    # Author: Agilight
+    'tyv': {
+        'welcome-welcome': u'Кирип моорлаңар!',
     },
     # Author: Tifinaghes
     'tzm': {

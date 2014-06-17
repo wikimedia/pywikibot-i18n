@@ -115,11 +115,11 @@ msg = {
     # Author: Sporeunai
     # Author: VegaDark
     'es': {
-        'casechecker-replacement-summary': u'Bot: Casos reemplazos:',
-        'casechecker-delete-summary': u'Robot: esta redirección contiene caracteres cirílicos y latinos que lucen idénticos',
+        'casechecker-replacement-summary': u'Bot: reemplazo de mayúsculas/minúsculas:',
+        'casechecker-delete-summary': u'Bot: esta redirección contiene caracteres cirílicos y latinos que lucen idénticos',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'Esta redirección solía apuntar a %(target)s',
-        'casechecker-rename': u'Bot: cambiar el nombre de caso mixto',
+        'casechecker-rename': u'Bot: renombramiento con mayúsculas/minúsculas combinadas',
     },
     # Author: Reza1615
     'fa': {
@@ -208,6 +208,14 @@ msg = {
         'casechecker-delete-summary': u'Bot: Pengalihan menggunakan aksara Kiril dan Latin yang identik',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'Pengalihan ini digunakan untuk menuju ke %(target)s',
+    },
+    # Author: Beta16
+    'it': {
+        'casechecker-replacement-summary': u'Bot: sostituisco maiuscole/minuscole:',
+        'casechecker-delete-summary': u'Bot: questo redirect contiene nel titolo lettere dell\'alfabeto cirillico e latino identiche',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-delete-reason': u'Questo redirect è utilizzato per puntare a %(target)s',
+        'casechecker-rename': u'Bot: rinomino per maiuscole/minuscole combinate',
     },
     # Author: Shirayuki
     'ja': {
@@ -373,6 +381,7 @@ msg = {
         'casechecker-delete-summary': u'Bot: Denna omdirigering innehåller kyrilliska och latinska bokstäver i titeln som är identiska till utseende',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'Denna omdirigering pekade tidigare på %(target)s',
+        'casechecker-rename': u'Bot: omdöpning på grund av blandning mellan kyrilliska och latin',
     },
     # Author: Andriykopanytsia
     'uk': {
@@ -404,8 +413,13 @@ msg = {
         'casechecker-delete-reason': u'此重定向指向了%(target)s',
         'casechecker-rename': u'机器人：更名混用大小写',
     },
+    # Author: Kc kennylau
     # Author: Liuxinyu970226
     'zh-hant': {
+        'casechecker-replacement-summary': u'機械人：替換大小冩：',
+        'casechecker-delete-summary': u'機械人：此重定向的標題上包含相同外表的西里爾字母與拉丁字母',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-delete-reason': u'此頁面本是用來重定向至%(target)s的。',
+        'casechecker-rename': u'機械人：名稱混合大小寫',
     },
 };

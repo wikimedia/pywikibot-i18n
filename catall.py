@@ -102,8 +102,9 @@ msg = {
     },
     # Author: Erdemaslancan
     # Author: Marmase
+    # Author: Mirzali
     'diq': {
-        'catall-changing': u'Boto kategoriya vurneno',
+        'catall-changing': u'Robot: Kategoriyan vurneno',
     },
     # Author: Geraki
     'el': {
@@ -373,8 +374,9 @@ msg = {
     'sr-el': {
         'catall-changing': u'Robot: promenjene kategorije',
     },
+    # Author: Jopparn
     'sv': {
-        'catall-changing': u'Bot: Ändrar kategori',
+        'catall-changing': u'Bot: Ändrar kategorier',
     },
     # Author: Baba Tabita
     'sw': {

@@ -355,10 +355,11 @@ msg = {
         'table2wiki-warnings': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja|%(count)d upozorenja}})',
         'table2wiki-no-warning': u'Robot kojim upravlja korisnik: sintaksa tabele je ažurirana',
     },
+    # Author: Jopparn
     # Author: WikiPhoenix
     'sv': {
-        'table2wiki-warnings': u'Användarkontrollerad bot: tabellsyntax uppdaterad - {{PLURAL:count|1|%(count)d}}  varning!',
-        'table2wiki-no-warning': u'Användarkontrollerad bot: tabellsyntax uppdaterad',
+        'table2wiki-warnings': u'Användarkontrollerad bot: Tabellsyntax uppdaterad - {{PLURAL:count|1 varning|%(count)d varningar}}!',
+        'table2wiki-no-warning': u'Användarkontrollerad bot: Tabellsyntax uppdaterad',
     },
     # Author: AnakngAraw
     'tl': {

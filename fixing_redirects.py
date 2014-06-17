@@ -103,9 +103,10 @@ msg = {
         'fixing_redirects-fixing': u'Boto: Riparas redirektilojn',
     },
     # Author: Armando-Martin
+    # Author: Fitoschido
     # Author: TheBITLINK
     'es': {
-        'fixing_redirects-fixing': u'Bot: Reparando redirecciones',
+        'fixing_redirects-fixing': u'Bot: arreglo de redirecciones',
     },
     # Author: Pikne
     'et': {

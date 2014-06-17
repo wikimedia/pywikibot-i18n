@@ -389,8 +389,9 @@ msg = {
         'pywikibot-enter-finished-browser': u'Ýttu á Enter þegar þú ert búinn í vafranum.',
     },
     # Author: Beta16
+    # Author: Ricordisamoa
     'it': {
-        'pywikibot-enter-xml-filename': u'Inserisci il nome del file XML del dump:',
+        'pywikibot-enter-xml-filename': u'Inserisci il nome del file del dump XML:',
         'pywikibot-enter-page-processing': u'Quale pagina deve essere elaborata?',
         'pywikibot-enter-file-links-processing': u'File per cui devono essere elaborate le pagine che vi puntano',
         'pywikibot-enter-namespace-number': u'Inserisci il numero di un namespace:',

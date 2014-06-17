@@ -204,15 +204,16 @@ msg = {
         'delete-from-file': u'Roboto: Forigo de listo da paĝoj.',
         'delete-linked-pages': u'Roboto: Forigante ĉiujn paĝojn ligatajn el %(page)s',
     },
+    # Author: Fitoschido
     # Author: Invadinado
     # Author: Ovruni
     # Author: Vivaelcelta
     'es': {
-        'delete-images': u'Bot: Eliminando todas las imágenes de la página «%(page)s»',
-        'delete-referring-pages': u'Bot: Eliminando todas las páginas que enlazan hacia «%(page)s»',
-        'delete-from-category': u'Bot: Eliminando todas las páginas contenidas en la categoría «%(page)s»',
-        'delete-from-file': u'Bot: Eliminando lista de páginas',
-        'delete-linked-pages': u'Bot: Eliminando todas las páginas enlazadas desde «%(page)s»',
+        'delete-images': u'Bot: borrado de todas las imágenes en «%(page)s»',
+        'delete-referring-pages': u'Bot: borrado de todas las páginas que enlazan hacia «%(page)s»',
+        'delete-from-category': u'Bot: borrado de todas las páginas de la categoría «%(page)s»',
+        'delete-from-file': u'Bot: borrado de una lista de páginas.',
+        'delete-linked-pages': u'Bot: borrado de todas las páginas enlazadas desde «%(page)s»',
     },
     # Author: Pikne
     'et': {
@@ -366,12 +367,13 @@ msg = {
     # Author: Beta16
     # Author: Gianfranco
     # Author: Nemo bis
+    # Author: Ricordisamoa
     'it': {
-        'delete-images': u'Bot: Cancellazione di tutte le immagini contenute nella pagina %(page)s',
-        'delete-referring-pages': u'Robot: Cancellazione di tutte le pagine collegate da %(page)s',
+        'delete-images': u'Bot: cancellazione di tutte le immagini contenute nella pagina %(page)s',
+        'delete-referring-pages': u'Bot: Cancellazione di tutte le pagine con link verso %(page)s',
         'delete-from-category': u'Bot: Cancellazione di tutte le pagine dalla categoria %(page)s',
         'delete-from-file': u'Bot: cancello un elenco di pagine.',
-        'delete-linked-pages': u'Bot: Cancellazione di tutte le pagine collegate da %(page)s',
+        'delete-linked-pages': u'Bot: cancellazione di tutte le pagine collegate a %(page)s',
     },
     # Author: Fryed-peach
     # Author: Shirayuki

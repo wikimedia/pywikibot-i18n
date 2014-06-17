@@ -177,12 +177,14 @@ msg = {
         'protect-category': u'Robot: Melindungi seluruh halaman dari kategori %(cat)s',
         'protect-ref': u'Robot: Melindungi semua halaman yang mengarah dari %(page)s',
     },
+    # Author: Beta16
+    # Author: Ricordisamoa
     'it': {
-        'protect-links': u'Bot: Protezione di tutte le pagine linkate da %(page)s.',
-        'protect-simple': u'Bot: Protezione di una lista di pagine.',
-        'protect-category': u'Bot: Protezione di tutte le pagine nella categoria %(cat)s.',
-        'protect-ref': u'Bot: Protezione di tutte le pagine con link verso %(page)s.',
-        'protect-images': u'Bot: Protezione di tutte le immagini presenti in %page)s.',
+        'protect-links': u'Bot: protezione di tutte le pagine collegate a %(page)s',
+        'protect-simple': u'Bot: Protezione di una lista di file.',
+        'protect-category': u'Bot: Protezione di tutte le pagine nella categoria %(cat)s',
+        'protect-ref': u'Bot: Protezione di tutte le pagine con link verso %(page)s',
+        'protect-images': u'Bot: protezione di tutte le immagini contenute nella pagina %(page)s',
     },
     # Author: Shirayuki
     'ja': {
@@ -328,12 +330,13 @@ msg = {
         'protect-ref': u'Робот: заштићене све странице које потичу из „%(page)s“',
         'protect-images': u'Робот: заштићене све слике на страници „%(page)s“',
     },
+    # Author: Jopparn
     # Author: Lokal Profil
     # Author: WikiPhoenix
     'sv': {
         'protect-links': u'Bot: Skyddar alla sidor länkade från %(page)s',
         'protect-simple': u'Bot: Skyddar en lista över filer.',
-        'protect-category': u'Bot: Skydda alla sidor från kategori %(cat)s',
+        'protect-category': u'Bot: Skydda alla sidor i kategori %(cat)s',
         'protect-ref': u'Bot: Skydda alla sidor som hänvisar från %(page)s',
         'protect-images': u'Bot: Skyddar alla bilder på sida %(page)s',
     },
@@ -362,8 +365,13 @@ msg = {
         'protect-ref': u'机器人：保护所有链接或嵌入%(page)s的页面',
         'protect-images': u'機器人: 保護頁面 %(page)s 中的所有圖條',
     },
+    # Author: Kc kennylau
     # Author: Liuxinyu970226
     'zh-hant': {
+        'protect-links': u'機械人：保護所有從%(page)s鏈接的頁面',
+        'protect-simple': u'機器人：保護檔案列表。',
+        'protect-category': u'機械人：保護所有分類%(cat)s的頁面',
         'protect-ref': u'機械人：保護所有於%(page)s提及之頁面',
+        'protect-images': u'機械人: 保護頁面%(page)s中的所有圖條',
     },
 };

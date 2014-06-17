@@ -125,6 +125,7 @@ msg = {
     },
     # Author: Beta16
     'it': {
+        'lonelypages-comment-add-disambig-template': u'Bot: aggiungo una pagina di disambiguazione',
         'lonelypages-comment-add-template': u'Bot: pagina orfana, aggiunto template',
     },
     # Author: Shirayuki
@@ -241,5 +242,10 @@ msg = {
     'zh': {
         'lonelypages-comment-add-disambig-template': u'機器人: 增加消歧義頁面',
         'lonelypages-comment-add-template': u'機器人: 本頁的鏈入頁面太少',
+    },
+    # Author: Kc kennylau
+    'zh-hant': {
+        'lonelypages-comment-add-disambig-template': u'機械人: 增加消歧義頁面',
+        'lonelypages-comment-add-template': u'機械人： 為孤立頁面添加模板',
     },
 };

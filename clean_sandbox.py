@@ -348,8 +348,9 @@ msg = {
     'sr-el': {
         'clean_sandbox-cleaned': u'Robot: očišćen pesak',
     },
+    # Author: Jopparn
     'sv': {
-        'clean_sandbox-cleaned': u'Robot krattar sandlådan.',
+        'clean_sandbox-cleaned': u'Bot: Krattar sandlådan',
     },
     # Author: Przemub
     'szl': {

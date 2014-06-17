@@ -84,8 +84,9 @@ msg = {
     },
     # Author: Erdemaslancan
     # Author: Marmase
+    # Author: Mirzali
     'diq': {
-        'unlink-unlinking': u'Boti grey "%s" wedarna',
+        'unlink-unlinking': u'Robot: Gıreyê " %s " dariya we',
     },
     # Author: Geraki
     'el': {
@@ -308,9 +309,10 @@ msg = {
     'sr-el': {
         'unlink-unlinking': u'Robot: uklonjena veza „%s“',
     },
+    # Author: Jopparn
     # Author: Lokal Profil
     'sv': {
-        'unlink-unlinking': u'Robot: avlänkar "%s"',
+        'unlink-unlinking': u'Bot: Avlänkar "%s"',
     },
     # Author: Kwisha
     'sw': {

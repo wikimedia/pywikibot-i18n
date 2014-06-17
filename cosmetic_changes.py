@@ -155,9 +155,10 @@ msg = {
         'cosmetic_changes-standalone': u'Roboto: Kosmetikaj ŝanĝoj',
         'cosmetic_changes-append': u'; kosmetikaj ŝanĝoj',
     },
+    # Author: Fitoschido
     # Author: Xqt
     'es': {
-        'cosmetic_changes-standalone': u'Bot: Cambios triviales',
+        'cosmetic_changes-standalone': u'Bot: cambios triviales',
         'cosmetic_changes-append': u'; cambios triviales',
     },
     # Author: Pikne

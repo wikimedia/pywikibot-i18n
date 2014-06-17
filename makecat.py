@@ -29,6 +29,10 @@ msg = {
     'ce': {
         'makecat-create': u'Робота: Категореш кхоллар я карлаяхар [[:Категори:%(cat)s|]]',
     },
+    # Author: Calak
+    'ckb': {
+        'makecat-create': u'بۆت: دروستکردن یا نوێکردنەوەی پۆل [[:Category:%(cat)s|]]',
+    },
     # Author: Matěj Suchánek
     'cs': {
         'makecat-create': u'Robot: Vytvoření nebo aktualizace [[:Category:%(cat)s|kategorie %(cat)s]]',
@@ -86,6 +90,10 @@ msg = {
     'lb': {
         'makecat-create': u'Bot: Uleeën oder Aktualisatioun vun enger Kategorie [[:Category:%(cat)s|]]',
     },
+    # Author: Jagwar
+    'mg': {
+        'makecat-create': u'Rôbô : famoronana na fanavaozana sokajy [[:Category:%(cat)s|]]',
+    },
     # Author: Bjankuloski06
     'mk': {
         'makecat-create': u'Робот: Создавање или поднова на категоријата [[:Category:%(cat)s|]]',
@@ -139,6 +147,10 @@ msg = {
     'sr': {
         'makecat-create': u'Робот: Прављење или аужурирање категорије [[:Category:%(cat)s|]]',
     },
+    # Author: Jopparn
+    'sv': {
+        'makecat-create': u'Bot: Skapande eller uppdatering av kategorin [[:Category:%(cat)s|]]',
+    },
     # Author: Andriykopanytsia
     'uk': {
         'makecat-create': u'Робот: Створення або оновлення категорії  [[:Category:%(cat)s|]]',
@@ -146,5 +158,13 @@ msg = {
     # Author: Minh Nguyen
     'vi': {
         'makecat-create': u'Bot: Tạo hoặc cập nhật thể loại [[:Category:%(cat)s|]]',
+    },
+    # Author: Liuxinyu970226
+    'zh': {
+        'makecat-create': u'机器人：创建或更新分类[[:Category:%(cat)s|]]',
+    },
+    # Author: Kc kennylau
+    'zh-hant': {
+        'makecat-create': u'機械人：創建或更新分類[[:Category:%(cat)s|]]',
     },
 };

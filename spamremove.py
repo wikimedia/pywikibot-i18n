@@ -56,6 +56,10 @@ msg = {
     'he': {
         'spamremove-remove': u'מסיר קישורים לאתר ספאם %(url)s',
     },
+    # Author: McDutchie
+    'ia': {
+        'spamremove-remove': u'Remove ligamines verso sito de spam %(url)s',
+    },
     # Author: C5st4wr6ch
     'id': {
         'spamremove-remove': u'Menghapus pranala ke situs spam %(url)s',
@@ -77,6 +81,10 @@ msg = {
     # Author: Robby
     'lb': {
         'spamremove-remove': u'Linken op Spam-Siten %(url)s ewechhuelen',
+    },
+    # Author: Jagwar
+    'mg': {
+        'spamremove-remove': u'Fanalana ny rohy mankany amin\'ny tranonkala voalisi-mainty %(url)s',
     },
     # Author: Bjankuloski06
     'mk': {
@@ -126,6 +134,10 @@ msg = {
     'sr': {
         'spamremove-remove': u'Уклоњене везе према спам сајту %(url)s',
     },
+    # Author: Jopparn
+    'sv': {
+        'spamremove-remove': u'Tar bort länkar till spamsida %(url)s',
+    },
     'ta': {
         'spamremove-remove': u'எரிதமாக இணைக்கப்பட்ட %(url)s இணையத்தளம் நீக்கப்பட்டது',
     },
@@ -138,5 +150,9 @@ msg = {
     },
     'zh': {
         'spamremove-remove': u'機器人: 移除廣告黑名單連結 %(url)s',
+    },
+    # Author: Kc kennylau
+    'zh-hant': {
+        'spamremove-remove': u'機械人: 移除至%(url)s的廣告黑名單鏈接',
     },
 };

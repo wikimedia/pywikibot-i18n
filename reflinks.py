@@ -276,11 +276,13 @@ msg = {
         'reflinks-comment': u'Наслов који је генерисао бот',
         'reflinks-msg': u'Бот: исправљени наводи помоћу именованих навода да би се избегли дупликати; погледајте [[%(manual)s|ЧПП]]',
     },
+    # Author: Jopparn
     # Author: Tobulos1
     # Author: WikiPhoenix
     'sv': {
         'reflinks-autogen': u'automatiskt genererade',
         'reflinks-comment': u'Botgenererad titel',
+        'reflinks-msg': u'Robot: Konvertera oformaterade referenser, använder ref namn för att undvika dubbletter, se [[%(manual)s|FAQ]]',
     },
     # Author: Andriykopanytsia
     'uk': {
