@@ -1,5 +1,17 @@
 # -*- coding: utf-8 -*-
 msg = {
+    'en': {
+        'pagefromfile-msg': u'Bot: Automated import of articles',
+        'pagefromfile-msg_bottom': u'append on bottom',
+        'pagefromfile-msg_force': u'existing text overwritten',
+        'pagefromfile-msg_top': u'append on top',
+    },
+    'qqq': {
+        'pagefromfile-msg': u'Edit summary for making a new page',
+        'pagefromfile-msg_bottom': u'Edit summary for appending text to the bottom of the page',
+        'pagefromfile-msg_force': u'Edit summary for substituting text of the page',
+        'pagefromfile-msg_top': u'Edit summary for appending text to the top of the page',
+    },
     'ar': {
         'pagefromfile-msg': u'استيراد تلقائي للمقالات',
         'pagefromfile-msg_bottom': u'كتابة على الأسفل',
@@ -7,16 +19,10 @@ msg = {
         'pagefromfile-msg_top': u'كتابة على الأعلى',
     },
     'de': {
-        'pagefromfile-msg': u'Automatischer Import von Artikeln',
+        'pagefromfile-msg': u'Bot: Automatischer Import von Artikeln',
         'pagefromfile-msg_bottom': u'ergänze am Ende',
         'pagefromfile-msg_force': u'bestehender Text überschrieben',
         'pagefromfile-msg_top': u'ergänze am Anfang',
-    },
-    'en': {
-        'pagefromfile-msg': u'Automated import of articles',
-        'pagefromfile-msg_bottom': u'append on bottom',
-        'pagefromfile-msg_force': u'existing text overwritten',
-        'pagefromfile-msg_top': u'append on top',
     },
     'fa': {
         'pagefromfile-msg': u'درون‌ریزی خودکار مقاله‌ها',
@@ -25,7 +31,7 @@ msg = {
         'pagefromfile-msg_top': u'به بالا اضافه شد',
     },
     'fr': {
-        'pagefromfile-msg': u'Import automatique',
+        'pagefromfile-msg': u'Robot : Import automatique',
         'pagefromfile-msg_bottom': u'rajouté en bas',
         'pagefromfile-msg_force': u'texte existant écrasé',
         'pagefromfile-msg_top': u'rajouté en haut',
@@ -37,16 +43,16 @@ msg = {
         'pagefromfile-msg_top': u'הוספה בראש הדף',
     },
     'ia': {
-        'pagefromfile-msg': u'Importation automatic de articulos',
+        'pagefromfile-msg': u'Robot: Importation automatic de articulos',
     },
     'id': {
-        'pagefromfile-msg': u'Impor artikel automatis',
+        'pagefromfile-msg': u'Bot: Impor artikel automatis',
         'pagefromfile-msg_bottom': u'ditambahkan di bawah',
         'pagefromfile-msg_force': u'menimpa teks yang ada',
         'pagefromfile-msg_top': u'ditambahkan di atas',
     },
     'it': {
-        'pagefromfile-msg': u'Caricamento automatico',
+        'pagefromfile-msg': u'Bot: Caricamento automatico',
         'pagefromfile-msg_bottom': u'aggiungo in fondo',
         'pagefromfile-msg_force': u'sovrascritto il testo esistente',
         'pagefromfile-msg_top': u'aggiungo in cima',
@@ -67,7 +73,7 @@ msg = {
         'pagefromfile-msg': u'ربوت:صفحه شه خاد به خاد دله دکته',
     },
     'nl': {
-        'pagefromfile-msg': u'Geautomatiseerde import',
+        'pagefromfile-msg': u'Robot: Geautomatiseerde import',
         'pagefromfile-msg_bottom': u'onderaan toegevoegd',
         'pagefromfile-msg_force': u'bestaande tekst overschreven',
         'pagefromfile-msg_top': u'bovenaan toegevoegd',
@@ -79,25 +85,19 @@ msg = {
         'pagefromfile-msg_top': u'legger til øverst',
     },
     'pl': {
-        'pagefromfile-msg': u'Automatyczny import artykułów',
+        'pagefromfile-msg': u'Robot: Automatyczny import artykułów',
         'pagefromfile-msg_bottom': u'dodaj na dole',
         'pagefromfile-msg_force': u'aktualny tekst nadpisany',
         'pagefromfile-msg_top': u'dodaj na górze',
     },
     'pt': {
-        'pagefromfile-msg': u'Importação automática de artigos',
+        'pagefromfile-msg': u'Robô: Importação automática de artigos',
         'pagefromfile-msg_bottom': u'adicionando no fim',
         'pagefromfile-msg_force': u'sobrescrever texto',
         'pagefromfile-msg_top': u'adicionado no topo',
     },
-    'qqq': {
-        'pagefromfile-msg': u'Edit summary for making a new page',
-        'pagefromfile-msg_bottom': u'Edit summary for appending text to the bottom of the page',
-        'pagefromfile-msg_force': u'Edit summary for substituting text of the page',
-        'pagefromfile-msg_top': u'Edit summary for appending text to the top of the page',
-    },
     'uk': {
-        'pagefromfile-msg': u'Автоматичний імпорт статей',
+        'pagefromfile-msg': u'Бот: Автоматичний імпорт статей',
         'pagefromfile-msg_bottom': u'додано знизу',
         'pagefromfile-msg_force': u'існуючий текст перезаписано',
         'pagefromfile-msg_top': u'додано зверху',
