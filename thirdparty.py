@@ -28,7 +28,7 @@ msg = {
     # Author: Shirayuki
     # Author: Siebrand
     'qqq': {
-        'thirdparty-drtrigonbot-sum_disc-summary-head': u'Summary line first part.',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'Summary line first part.\n{{Identical|Bot}}',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'Message part indicating the fact that no human editor is given for a page.',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'Message header for bot report output. Is just a timestamp format and language independent.\n\nTimestamp format markers are as in the "strftime" C function. See "man 3 strftime" on any Linux/Unix system, or http://www.manpagez.com/man/3/strftime/',
         'thirdparty-drtrigonbot-sum_disc-parse': u'Message for reporting of new or changed discussion pages (sections within pages).',
@@ -347,6 +347,7 @@ msg = {
     'ce': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Роботан дӀахьедар: %(page)s "\'\'%(warning)s\'\'"',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Керла дийцаре',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Хаамаш',
         'thirdparty-drtrigonbot-subster-summary-mod': u'хуьйцуш ю тегаш %(tags)s',
@@ -953,7 +954,7 @@ msg = {
     # Author: Fryed-peach
     # Author: Shirayuki
     'ja': {
-        'thirdparty-drtrigonbot-sum_disc-summary-head': u'ロボット',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'ボット',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(人間の編集者は見つかりませんでした)',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %Y-%m-%d',
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - %(user)sによる[%(history_link)s 最新の編集] (%(page_size)sバイト) (%(time)s)',

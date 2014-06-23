@@ -62,6 +62,10 @@ msg = {
     'ca': {
         'movepages-moving': u'Robot: moure pàgina',
     },
+    # Author: Умар
+    'ce': {
+        'movepages-moving': u'ботан гӀоьнца агӀона цӀе хийцар',
+    },
     # Author: Asoxor
     # Author: Calak
     'ckb': {

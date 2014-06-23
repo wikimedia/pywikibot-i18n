@@ -65,6 +65,11 @@ msg = {
         'protect-ref': u'Robot: Protegint totes les pàgines amb referència des de  %(page)s',
         'protect-images': u'Robot: Protegint totes les imatges de la pàgina %(page)s',
     },
+    # Author: Умар
+    'ce': {
+        'protect-simple': u'Робот: Файлийн могӀаман гӀоралла дар.',
+        'protect-category': u'Робот: %(cat)s категори чура массо агӀонашна гӀоралла дар',
+    },
     # Author: DemonioCZ
     # Author: Mormegil
     'cs': {

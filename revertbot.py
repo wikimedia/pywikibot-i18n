@@ -148,6 +148,10 @@ msg = {
     'sr': {
         'revertbot-revert': u'Бот: враћено на измену %(revid)s аутора %(author)s од %(timestamp)s',
     },
+    # Author: Lokal Profil
+    'sv': {
+        'revertbot-revert': u'Bot: Återställde till version %(revid)s av %(author)s den %(timestamp)s',
+    },
     # Author: Andriykopanytsia
     'uk': {
         'revertbot-revert': u'Бот: Повернулися до редакції %(revid)s від %(author)s за %(timestamp)s',

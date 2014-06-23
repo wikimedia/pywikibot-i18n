@@ -480,7 +480,7 @@ msg = {
     # Author: Fryed-peach
     # Author: Shirayuki
     'ja': {
-        'category_redirect-comment': u'カテゴリ転送保守ロボット',
+        'category_redirect-comment': u'カテゴリ転送保守ボット',
         'category_redirect-change-category': u'ロボットによる: 転送されているカテゴリ[[:%(oldCatLink)s|%(oldCatTitle)s]]を[[:%(newCatLink)s|%(newCatTitle)s]]へと変更',
         'category_redirect-add-template': u'ロボットによる: 保守のためカテゴリ転送テンプレートを追加',
         'category_redirect-edit-request': u'以下の保護されたページは、カテゴリリンクの更新が必要であると検出されました: %(itemlist)s',

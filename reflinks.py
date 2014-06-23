@@ -108,6 +108,12 @@ msg = {
         'reflinks-autogen': u'automaattisesti tuotettu',
         'reflinks-comment': u'Botin tuottama otsikko',
     },
+    # Author: EileenSanda
+    'fo': {
+        'reflinks-autogen': u'automatiskt upprættað',
+        'reflinks-comment': u'Heitið er gjørt av einum botti',
+        'reflinks-msg': u'Bottur: Konverterar naknar keldur, við at brúka ref nøvn fyri at sleppa undan dupultum, sí [[%(manual)s|OSS]]',
+    },
     # Author: Gomoko
     'fr': {
         'reflinks-autogen': u'auto-généré',
@@ -277,12 +283,13 @@ msg = {
         'reflinks-msg': u'Бот: исправљени наводи помоћу именованих навода да би се избегли дупликати; погледајте [[%(manual)s|ЧПП]]',
     },
     # Author: Jopparn
+    # Author: Lokal Profil
     # Author: Tobulos1
     # Author: WikiPhoenix
     'sv': {
         'reflinks-autogen': u'automatiskt genererade',
         'reflinks-comment': u'Botgenererad titel',
-        'reflinks-msg': u'Robot: Konvertera oformaterade referenser, använder ref namn för att undvika dubbletter, se [[%(manual)s|FAQ]]',
+        'reflinks-msg': u'Bot: Konvertera oformaterade referenser, använder ref namn för att undvika dubbletter, se [[%(manual)s|FAQ]]',
     },
     # Author: Andriykopanytsia
     'uk': {

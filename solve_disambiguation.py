@@ -171,6 +171,7 @@ msg = {
     # Author: Умар
     'ce': {
         'solve_disambiguation-unknown-page': u'(йоьвзуш яц)',
+        'solve_disambiguation-links-removed': u'Ботан гӀоьнца маьӀна магор: %(from)s — хьажоргаш дӀаяхар',
     },
     # Author: Asoxor
     'ckb': {
@@ -503,7 +504,7 @@ msg = {
         'solve_disambiguation-redirect-adding-dn-template': u'ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました',
         'solve_disambiguation-adding-dn-template': u'ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました',
         'solve_disambiguation-unknown-page': u'(不明)',
-        'solve_disambiguation-links-removed': u'ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました',
+        'solve_disambiguation-links-removed': u'ボット補助による曖昧さ回避: %(from)s - リンクを除去しました',
     },
     # Author: NoiX180
     'jv': {
@@ -916,13 +917,14 @@ msg = {
         'solve_disambiguation-links-removed': u'Robotizovana višeznačna odrednica: %(from)s – uklonjene veze.',
     },
     # Author: Boivie
+    # Author: Lokal Profil
     # Author: Tobulos1
     'sv': {
         'solve_disambiguation-redirect-removed': u'Länkar direkt till rätt artikel för: %(from)s - Tog bort länk(ar)',
         'solve_disambiguation-redirect-resolved': u'Länkar direkt till rätt artikel för: %(from)s - Bytte länk(ar) till %(to)s',
         'solve_disambiguation-links-resolved': u'Länkar direkt till rätt artikel för: %(from)s - Bytte länk(ar) till %(to)s',
-        'solve_disambiguation-redirect-adding-dn-template': u'Robot-assisterad olika betydelser: %(from)s - Märkt som i behov av uppmärksamhet från expert',
-        'solve_disambiguation-adding-dn-template': u'Robot-assisterad olika betydelser: %(from)s - Märkt som i behov av uppmärksamhet från expert',
+        'solve_disambiguation-redirect-adding-dn-template': u'Bot-assisterad olika betydelser: %(from)s - Märkt som i behov av uppmärksamhet från expert',
+        'solve_disambiguation-adding-dn-template': u'Bot-assisterad olika betydelser: %(from)s - Märkt som i behov av uppmärksamhet från expert',
         'solve_disambiguation-unknown-page': u'(okänd)',
         'solve_disambiguation-links-removed': u'Länkar direkt till rätt artikel för: %(from)s - Tog bort länk(ar)',
     },

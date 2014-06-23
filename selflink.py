@@ -21,8 +21,9 @@ msg = {
     'de': {
         'selflink-remove': u'Bot: Entferne Selbstlinks',
     },
+    # Author: Fitoschido
     'es': {
-        'selflink-remove': u'Bot: Eliminando enlaces al mismo artículo',
+        'selflink-remove': u'Bot: eliminación de enlaces hacia la propia página',
     },
     'fa': {
         'selflink-remove': u'ربات:برداشتن پیوند به خود',
@@ -36,11 +37,28 @@ msg = {
     'hu': {
         'selflink-remove': u'Bot: Önmagukra mutató hivatkozások eltávolítása',
     },
+    # Author: Beta16
+    'it': {
+        'selflink-remove': u'Bot: rimuovo collegamento a se stesso',
+    },
+    # Author: Shirayuki
     'ja': {
-        'selflink-remove': u'ロボットによる 自己リンクの解除',
+        'selflink-remove': u'ロボットによる: 自己リンクの解除',
+    },
+    # Author: 아라
+    'ko': {
+        'selflink-remove': u'봇: 자기링크 제거',
     },
     'ksh': {
         'selflink-remove': u'Bot: Ene Lengk vun de Sigg op sesch sellver, erus jenumme.',
+    },
+    # Author: Robby
+    'lb': {
+        'selflink-remove': u'Bot: Linken op déi selwecht Säit ewechhuelen',
+    },
+    # Author: Bjankuloski06
+    'mk': {
+        'selflink-remove': u'Бот: Отстранување на самоодносни врски',
     },
     'nl': {
         'selflink-remove': u'Bot: verwijzingen naar pagina zelf verwijderd',
@@ -59,6 +77,14 @@ msg = {
     },
     'ru': {
         'selflink-remove': u'Бот: удалил заголовок-ссылку в тексте. см.',
+    },
+    # Author: Lokal Profil
+    'sv': {
+        'selflink-remove': u'Bot: Tar bort självlänkar',
+    },
+    # Author: Minh Nguyen
+    'vi': {
+        'selflink-remove': u'Bot: Bỏ các liên kết không đi đâu',
     },
     'zh': {
         'selflink-remove': u'機器人:移除自我連結',

@@ -81,6 +81,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'ربات:افزودن صفحات ابهام‌زدایی',
         'lonelypages-comment-add-template': u'ربات:افزودن الگو، صفحه یتیم',
     },
+    # Author: EileenSanda
+    'fo': {
+        'lonelypages-comment-add-disambig-template': u'Bottur: Leggur afturat eina síðu við fleiri týdningum',
+        'lonelypages-comment-add-template': u'Bottur: Foreldraleys síða, leggur eina fyrimynd inn',
+    },
     # Author: Linedwell
     'fr': {
         'lonelypages-comment-add-disambig-template': u'Robot : Ajout d\'une page d\'homonymie',

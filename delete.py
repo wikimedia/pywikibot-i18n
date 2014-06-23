@@ -246,7 +246,7 @@ msg = {
         'delete-images': u'Bottur: Strikar allar myndir á síðu %(page)s',
         'delete-referring-pages': u'Bottur: Strikar allar síður víkjandi %(page)s',
         'delete-from-category': u'Bottur: Strikar allar síður frá bólki %(page)s',
-        'delete-from-file': u'Bottur: Strikar ein lista við fílum.',
+        'delete-from-file': u'Bottur: Strikar ein lista við síðum.',
         'delete-linked-pages': u'Bottur: Strikar allar síðu sum slóða frá %(page)s',
     },
     # Author: Gomoko

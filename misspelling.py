@@ -25,6 +25,10 @@ msg = {
     'ca': {
         'misspelling-fixing': u'Robot: Corregint un enllaç mal escrit cap a %(page)s',
     },
+    # Author: Умар
+    'ce': {
+        'misspelling-fixing': u'Робот: ГӀалаташ долу хьажоргаш нисъяр цу %(page)s',
+    },
     # Author: Matěj Suchánek
     'cs': {
         'misspelling-fixing': u'Robot: Opravuji pravopisně chybný odkaz na %(page)s',

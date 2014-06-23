@@ -225,12 +225,13 @@ msg = {
     },
     # Author: Hym411
     # Author: Priviet
+    # Author: 아라
     'ko': {
         'casechecker-replacement-summary': u'로봇: 대소문자 교체:',
         'casechecker-delete-summary': u'봇: 이 넘겨주기는 제목에 키릴 문자 또는 라틴 문자를 포함합니다.',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'이 넘겨주기는 %(target)s를 가리킵니다',
-        'casechecker-rename': u'로봇: 혼합된 대소문자 변경',
+        'casechecker-rename': u'로봇: 혼합된 대소문자의 이름을 바꿈',
     },
     # Author: Purodha
     'ksh': {
