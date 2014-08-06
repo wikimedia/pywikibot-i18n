@@ -25,6 +25,10 @@ msg = {
     'ca': {
         'spamremove-remove': u'Supressió d\'enllaços cap al lloc web de spam %(url)s',
     },
+    # Author: Умар
+    'ce': {
+        'spamremove-remove': u'Спам сайт %(url)s тӀе йолу хьажорш дӀаяхар',
+    },
     # Author: Matěj Suchánek
     'cs': {
         'spamremove-remove': u'Odstraňuji odkazy na spamerskou stránku %(url)s',
@@ -32,8 +36,9 @@ msg = {
     'de': {
         'spamremove-remove': u'Entferne in Spam-Blacklist eingetragenen Weblink auf %(url)s',
     },
+    # Author: Fitoschido
     'es': {
-        'spamremove-remove': u'Removiendo enlaces a sitio publicitario %(url)s',
+        'spamremove-remove': u'Eliminación de enlaces a sitio publicitario %(url)s',
     },
     'fa': {
         'spamremove-remove': u'حذف پیوند به وبگاه هرزنگاری %(url)s',
@@ -55,6 +60,10 @@ msg = {
     },
     'he': {
         'spamremove-remove': u'מסיר קישורים לאתר ספאם %(url)s',
+    },
+    # Author: Csega
+    'hu': {
+        'spamremove-remove': u'A(z) %(url)s spam oldalra mutató hivatkozás eltávolítása',
     },
     # Author: McDutchie
     'ia': {
@@ -141,6 +150,10 @@ msg = {
     'ta': {
         'spamremove-remove': u'எரிதமாக இணைக்கப்பட்ட %(url)s இணையத்தளம் நீக்கப்பட்டது',
     },
+    # Author: Nullzero
+    'th': {
+        'spamremove-remove': u'ลบลิงก์สแปมจากไซต์ %(url)s',
+    },
     # Author: Andriykopanytsia
     'uk': {
         'spamremove-remove': u'Вилучення посилання на спамерський сайт %(url)s',
@@ -152,7 +165,8 @@ msg = {
         'spamremove-remove': u'機器人: 移除廣告黑名單連結 %(url)s',
     },
     # Author: Kc kennylau
+    # Author: LNDDYL
     'zh-hant': {
-        'spamremove-remove': u'機械人: 移除至%(url)s的廣告黑名單鏈接',
+        'spamremove-remove': u'機械人: 移除至%(url)s的廣告黑名單連結',
     },
 };

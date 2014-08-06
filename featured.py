@@ -111,7 +111,9 @@ msg = {
     # Author: Умар
     'ce': {
         'featured-good': u'бот: дика яззам %(page)s',
+        'featured-list': u'бот: хаьржина могӀам %(page)s',
         'featured-featured': u'бот: хаьржина яззам %(page)s',
+        'featured-former': u'бот: хьалха хаьржина хилла яззам %(page)s',
     },
     # Author: Calak
     'ckb': {
@@ -561,12 +563,13 @@ msg = {
         'featured-good': u'Roboti: %(page)s është një artikull i mirë',
         'featured-list': u'Roboti: %(page)s është zgjedhur si artikulli i javës',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'featured-good': u'Робот: %(page)s је добар чланак',
-        'featured-list': u'Робот: %(page)s је сјајан списак',
-        'featured-featured': u'Робот: %(page)s је сјајан чланак',
-        'featured-former': u'Робот: %(page)s је био сјајан чланак',
+        'featured-good': u'Бот: %(page)s је добар чланак',
+        'featured-list': u'Бот: %(page)s је сјајан списак',
+        'featured-featured': u'Бот: %(page)s је сјајан чланак',
+        'featured-former': u'Бот: %(page)s је био сјајан чланак',
     },
     # Author: Rancher
     'sr-el': {
@@ -601,6 +604,7 @@ msg = {
     # Author: Nullzero
     'th': {
         'featured-good': u'โรบอต: %(page)s เป็นบทความคุณภาพ',
+        'featured-list': u'บอต: %(page)s เป็นรายชื่อคัดสรร',
         'featured-featured': u'โรบอต: ลิงก์บทความคัดสรร %(page)s',
         'featured-former': u'โรบอต: %(page)s เคยเป็นบทความคัดสรร',
     },

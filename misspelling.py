@@ -66,6 +66,10 @@ msg = {
     'he': {
         'misspelling-fixing': u'בוט: מתקן קישור עם שגיאה לדף %(page)s',
     },
+    # Author: Csega
+    'hu': {
+        'misspelling-fixing': u'Bot: %(page)s lapra mutató, elírt link javítása',
+    },
     # Author: McDutchie
     'ia': {
         'misspelling-fixing': u'Robot: Corrige ligamine con error orthographic verso %(page)s',
@@ -139,6 +143,10 @@ msg = {
     'sco': {
         'misspelling-fixing': u'Robot: Fixing misspeelt link til %(page)s',
     },
+    # Author: Milicevic01
+    'sr': {
+        'misspelling-fixing': u'Бот: поправљена погрешна веза према %(page)s',
+    },
     # Author: Jopparn
     'sv': {
         'misspelling-fixing': u'Bot: Åtgärdar felstavad länk till %(page)s',
@@ -156,7 +164,8 @@ msg = {
         'misspelling-fixing': u'机器人：修复错误连接至%(page)s',
     },
     # Author: Kc kennylau
+    # Author: LNDDYL
     'zh-hant': {
-        'misspelling-fixing': u'機械人：修復至%(page)s的錯誤鏈接',
+        'misspelling-fixing': u'機械人：修復至%(page)s的錯誤連結',
     },
 };

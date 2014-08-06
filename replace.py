@@ -66,6 +66,10 @@ msg = {
     'ca': {
         'replace-replacing': u'Robot: reemplaçament automàtic de text %(description)s',
     },
+    # Author: Умар
+    'ce': {
+        'replace-replacing': u'бот: авто йоза хийцар %(description)s',
+    },
     # Author: Asoxor
     'ckb': {
         'replace-replacing': u'ڕۆبۆت: لەجێدانانی خۆگەڕی دەق %(description)s',
@@ -352,9 +356,10 @@ msg = {
     'sq': {
         'replace-replacing': u'Bot: Automated text replacement %(description)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'replace-replacing': u'Робот: аутоматски замењен текст %(description)s',
+        'replace-replacing': u'Бот: аутоматски замењен текст %(description)s',
     },
     # Author: Rancher
     'sr-el': {

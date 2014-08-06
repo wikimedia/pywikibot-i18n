@@ -489,9 +489,10 @@ msg = {
         'cosmetic_changes-standalone': u'Robot: ndryshime kozmetike',
         'cosmetic_changes-append': u'; Ndryshime kozmetike',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'cosmetic_changes-standalone': u'Робот: козметичке измене',
+        'cosmetic_changes-standalone': u'Бот: козметичке измене',
         'cosmetic_changes-append': u'; козметичке измене',
     },
     # Author: Rancher
@@ -503,10 +504,11 @@ msg = {
         'cosmetic_changes-standalone': u'Bot: Kosmetiska ändringar',
         'cosmetic_changes-append': u'; kosmetiska ändringar',
     },
+    # Author: Krol111
     # Author: Przemub
     'szl': {
-        'cosmetic_changes-standalone': u'Robot: Kosmetykŏ',
-        'cosmetic_changes-append': u'; kosmetykŏ',
+        'cosmetic_changes-standalone': u'Robot bajstluje kůsmetyczne sprowjyńa',
+        'cosmetic_changes-append': u'; kůsmetyko',
     },
     # Author: செல்வா
     'ta': {

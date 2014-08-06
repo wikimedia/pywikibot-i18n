@@ -67,8 +67,11 @@ msg = {
     },
     # Author: Умар
     'ce': {
+        'protect-links': u'Робот: %(page)s хьажорг чохь йолу массо агӀонийн гӀоралла дар',
         'protect-simple': u'Робот: Файлийн могӀаман гӀоралла дар.',
         'protect-category': u'Робот: %(cat)s категори чура массо агӀонашна гӀоралла дар',
+        'protect-ref': u'Робот: %(page)s хьажорг чохь йолу массо агӀонийн гӀоралла дар',
+        'protect-images': u'бот: %(page)s агӀонгара массо суьрташ дӀадахар',
     },
     # Author: DemonioCZ
     # Author: Mormegil
@@ -168,6 +171,14 @@ msg = {
         'protect-category': u'בוט: מגן על כל הדפים מהקטגוריה %(cat)s.',
         'protect-ref': u'בוט: מגן על כל הדפים המקשרים לדף %(page)s.',
         'protect-images': u'בוט: מגן על כל התמונות בדף %(page)s.',
+    },
+    # Author: Csega
+    'hu': {
+        'protect-links': u'Bot: A(z) %(page)s oldalról hivatkozott összes lap védelme',
+        'protect-simple': u'Bot: Fájlok listájának védelme.',
+        'protect-category': u'Bot: A(z) %(cat)s kategóriába tartozó összes lap védelme',
+        'protect-ref': u'Bot: A(z) %(page)s lapról hivatkozott össze lap védelme',
+        'protect-images': u'Bot: Minden kép védelme a(z) %(page)s lapon',
     },
     # Author: McDutchie
     'ia': {
@@ -327,13 +338,14 @@ msg = {
         'protect-ref': u'Robot: Protectin aw pages referring fae %(page)s',
         'protect-images': u'Robot: Protectin aw eemages oan page %(page)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'protect-links': u'Робот: заштићене све странице које потичу из „%(page)s“',
-        'protect-simple': u'Робот: заштићен списак датотека.',
-        'protect-category': u'Робот: заштићене све странице из категорије „%(cat)s“',
-        'protect-ref': u'Робот: заштићене све странице које потичу из „%(page)s“',
-        'protect-images': u'Робот: заштићене све слике на страници „%(page)s“',
+        'protect-links': u'Бот: заштићене све странице које потичу из „%(page)s“',
+        'protect-simple': u'Бот: заштићен списак датотека.',
+        'protect-category': u'Бот: заштићене све странице из категорије „%(cat)s“',
+        'protect-ref': u'Бот: заштићене све странице које потичу из „%(page)s“',
+        'protect-images': u'Бот: заштићене све слике на страници „%(page)s“',
     },
     # Author: Jopparn
     # Author: Lokal Profil
@@ -344,6 +356,11 @@ msg = {
         'protect-category': u'Bot: Skydda alla sidor i kategori %(cat)s',
         'protect-ref': u'Bot: Skydda alla sidor som hänvisar från %(page)s',
         'protect-images': u'Bot: Skyddar alla bilder på sida %(page)s',
+    },
+    # Author: Nullzero
+    'th': {
+        'protect-category': u'บอต: ล็อกหน้าทั้งหมดในหมวดหมู่ %(cat)s',
+        'protect-images': u'บอต: ล็อกรูปภาพทั้งหมดในหน้า %(page)s',
     },
     # Author: Andriykopanytsia
     'uk': {
@@ -371,12 +388,13 @@ msg = {
         'protect-images': u'機器人: 保護頁面 %(page)s 中的所有圖條',
     },
     # Author: Kc kennylau
+    # Author: LNDDYL
     # Author: Liuxinyu970226
     'zh-hant': {
-        'protect-links': u'機械人：保護所有從%(page)s鏈接的頁面',
+        'protect-links': u'機械人：保護所有從%(page)s連結的頁面',
         'protect-simple': u'機器人：保護檔案列表。',
         'protect-category': u'機械人：保護所有分類%(cat)s的頁面',
         'protect-ref': u'機械人：保護所有於%(page)s提及之頁面',
-        'protect-images': u'機械人: 保護頁面%(page)s中的所有圖條',
+        'protect-images': u'機械人: 保護頁面%(page)s中的所有圖像',
     },
 };

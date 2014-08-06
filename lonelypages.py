@@ -40,6 +40,7 @@ msg = {
     # Author: Умар
     'ce': {
         'lonelypages-comment-add-disambig-template': u'Робот: АгӀо дизамбикан тӀетохар',
+        'lonelypages-comment-add-template': u'Робот: байлахь йисина агӀонаш, кеп тӀетохар',
     },
     # Author: Mormegil
     'cs': {
@@ -72,7 +73,7 @@ msg = {
     },
     # Author: Fitoschido
     'es': {
-        'lonelypages-comment-add-disambig-template': u'Robot: Adición de una página de desambiguación',
+        'lonelypages-comment-add-disambig-template': u'Robot: adición de una página de desambiguación',
         'lonelypages-comment-add-template': u'Robot: Página huérfana, adición de plantilla',
     },
     # Author: Ebraminio
@@ -219,16 +220,21 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Robot: Adding ae disambig page',
         'lonelypages-comment-add-template': u'Robot: Orphan page, eik template',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'lonelypages-comment-add-disambig-template': u'Робот: додата вишезначна одредница',
-        'lonelypages-comment-add-template': u'Робот: неповезана страница, додат шаблон',
+        'lonelypages-comment-add-disambig-template': u'Бот: додата вишезначна одредница',
+        'lonelypages-comment-add-template': u'Бот: неповезана страница, додат шаблон',
     },
     # Author: Lokal Profil
     # Author: WikiPhoenix
     'sv': {
         'lonelypages-comment-add-disambig-template': u'Bot: Lägger till en förgreningssida',
         'lonelypages-comment-add-template': u'Bot: Föräldralös sida, lägger till mall',
+    },
+    # Author: Nullzero
+    'th': {
+        'lonelypages-comment-add-disambig-template': u'บอต: เพิ่มหน้าแก้ความกำกวม',
     },
     # Author: Andriykopanytsia
     'uk': {

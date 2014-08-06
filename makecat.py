@@ -68,6 +68,10 @@ msg = {
     'he': {
         'makecat-create': u'בוט: יצירה או עדכון של קטגוריה [[:Category:%(cat)s|]]',
     },
+    # Author: Csega
+    'hu': {
+        'makecat-create': u'Bot: [[:Category:%(cat)s|]] kategória létrehozása vagy frissítése',
+    },
     'ia': {
         'makecat-create': u'Bot: Creation o actualisation de categoria [[:Category:%(cat)s|]]',
     },
@@ -145,7 +149,7 @@ msg = {
     },
     # Author: Milicevic01
     'sr': {
-        'makecat-create': u'Робот: Прављење или аужурирање категорије [[:Category:%(cat)s|]]',
+        'makecat-create': u'Бот: Прављење или аужурирање категорије [[:Category:%(cat)s|]]',
     },
     # Author: Jopparn
     'sv': {

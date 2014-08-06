@@ -27,6 +27,10 @@ msg = {
     'ca': {
         'revertbot-revert': u'Bot: Revertit a la revisió %(revid)s per %(author)s el %(timestamp)s',
     },
+    # Author: Умар
+    'ce': {
+        'revertbot-revert': u'Бот: декъашхочун %(author)s верси юха ялор %(revid)s %(timestamp)s',
+    },
     # Author: Calak
     'ckb': {
         'revertbot-revert': u'بۆت: گەڕێنرایەوە بۆ پێداچوونەوەی %(revid)s لە لایەن %(author)s لە %(timestamp)s',
@@ -75,6 +79,10 @@ msg = {
     # Author: Yona b
     'he': {
         'revertbot-revert': u'בוט: חזרה לגירסה %(revid)s של %(author)s מה-%(timestamp)s',
+    },
+    # Author: Csega
+    'hu': {
+        'revertbot-revert': u'Bot: visszaállítva %(author)s %(timestamp)s-i, %(revid)s jelű revíziójára',
     },
     # Author: McDutchie
     'ia': {

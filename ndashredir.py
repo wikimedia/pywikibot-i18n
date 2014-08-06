@@ -58,6 +58,10 @@ msg = {
     'ca': {
         'ndashredir-create': u'Bot: creant redireccions amb guions a [[%(title)s]]',
     },
+    # Author: Умар
+    'ce': {
+        'ndashredir-create': u'бот: дӀасахьажорг кхоллар сизалгца [[%(title)s]] тӀе',
+    },
     # Author: Matěj Suchánek
     # Author: Tchoř
     'cs': {
@@ -308,8 +312,9 @@ msg = {
         'ndashredir-create': u'机器人：创建连字符的重定向到[[%(title)s]]',
     },
     # Author: Justincheng12345
+    # Author: LNDDYL
     'zh-hant': {
-        'ndashredir-create': u'機械人：創建連字符重定向到[[%(title)s]]',
+        'ndashredir-create': u'機械人：建立連字號重新導向到[[%(title)s]]',
     },
     # Author: Justincheng12345
     'zh-hk': {

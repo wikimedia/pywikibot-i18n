@@ -56,6 +56,10 @@ msg = {
     'ca': {
         'djvutext-creating': u'Robot: creació de pàgina amb text extret de DjVu',
     },
+    # Author: Умар
+    'ce': {
+        'djvutext-creating': u'бот: DjVu чура йозанах агӀо кхоллар',
+    },
     # Author: Utar
     'cs': {
         'djvutext-creating': u'Robot: Vytvářím stránku s textem extrahovaným z DjVu',
@@ -295,9 +299,10 @@ msg = {
     'sq': {
         'djvutext-creating': u'Roboti: Duke krijuar faqe me tekst të ekstraktuar nga DjVu',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'djvutext-creating': u'Робот: направљена страница са текстом изведеним из DjVu-а',
+        'djvutext-creating': u'Бот: направљена страница са текстом изведеним из DjVu-а',
     },
     # Author: Rancher
     'sr-el': {

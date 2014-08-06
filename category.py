@@ -392,7 +392,7 @@ msg = {
     },
     # Author: ОйЛ
     'cu': {
-        'category-adding': u'аѵтоматъ: добавихъ катигорїѩ [[:Category:%(newcat)s|%(newcat)s]]',
+        'category-adding': u'аѵтоматъ: добавилъ катигорїѩ [[:Category:%(newcat)s|%(newcat)s]]',
     },
     'cv': {
         'category-adding': u'робот: хушрĕ category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -885,11 +885,12 @@ msg = {
     # Author: Beta16
     # Author: EdoDodo
     # Author: Nemo bis
+    # Author: Ricordisamoa
     # Author: Rippitippi
     # Author: Xqt
     'it': {
         'category-version-history': u'Bot: salvo la cronologia della precedente %(oldcat)s',
-        'category-changing': u'Robot: Modifico %(oldcat)s in %(newcat)s',
+        'category-changing': u'Bot: Modifico %(oldcat)s in %(newcat)s',
         'category-adding': u'Bot: Aggiunta la categoria [[:Category:%(newcat)s|%(newcat)s]]',
         'category-also-in': u'(anche in %(alsocat)s)',
         'category-was-disbanded': u'Bot: La categoria è stata eliminata',
@@ -1660,20 +1661,21 @@ msg = {
         'category-section-title': u'Historiku i faqes së mëparshme %(oldcat)s',
         'category-listifying': u'Bot: Listifying nga %(fromcat)s, %(num)d',
     },
+    # Author: Milicevic01
     # Author: Rancher
     # Author: Xqt
     'sr': {
-        'category-version-history': u'Робот: сачувана историја раније верзије странице %(oldcat)s',
-        'category-changing': u'Робот: промењено %(oldcat)s у %(newcat)s',
-        'category-adding': u'Робот: додата категорија [[:Category:%(newcat)s|%(newcat)s]]',
+        'category-version-history': u'Бот: сачувана историја раније верзије странице %(oldcat)s',
+        'category-changing': u'Бот: промењено %(oldcat)s у %(newcat)s',
+        'category-adding': u'Бот: додата категорија [[:Category:%(newcat)s|%(newcat)s]]',
         'category-also-in': u'(и у %(alsocat)s)',
-        'category-was-disbanded': u'Робот: категорија је распуштена',
-        'category-replacing': u'Робот: замењена категорија %(oldcat)s са %(newcat)s',
-        'category-removing': u'Робот: уклоњено из %(oldcat)s',
-        'category-was-moved': u'Робот: категорија је премештена у [[:Category:%(newcat)s|%(title)s]]',
-        'category-renamed': u'Робот: премештено из %(oldcat)s. Аутори: %(authors)s',
+        'category-was-disbanded': u'Бот: категорија је распуштена',
+        'category-replacing': u'Бот: замењена категорија %(oldcat)s са %(newcat)s',
+        'category-removing': u'Бот: уклоњено из %(oldcat)s',
+        'category-was-moved': u'Бот: категорија је премештена у [[:Category:%(newcat)s|%(title)s]]',
+        'category-renamed': u'Бот: премештено из %(oldcat)s. Аутори: %(authors)s',
         'category-section-title': u'Историја раније верзије странице %(oldcat)s',
-        'category-listifying': u'Робот: исписано из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})',
+        'category-listifying': u'Бот: исписано из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})',
     },
     # Author: Rancher
     'sr-el': {
@@ -1724,8 +1726,8 @@ msg = {
         'category-also-in': u'(tyż we %(alsocat)s)',
         'category-was-disbanded': u'Bot: Wyciepańy kategoryje',
         'category-replacing': u'Bot: Pomjyńo kategoryja %(oldcat)s ze %(newcat)s',
-        'category-removing': u'Bot: Wyciepaniy z %(oldcat)s',
-        'category-was-moved': u'Robot przećepał kategoryjo do [[:Category:%(newcat)s|%(title)s]]',
+        'category-removing': u'Robot wyciepuje ze %(oldcat)s',
+        'category-was-moved': u'Robot przećepoł kategoryjo do [[:Category:%(newcat)s|%(title)s]]',
         'category-section-title': u'Gyszichta poprzednij zajty %(oldcat)s',
         'category-listifying': u'Robot tworzi lista kategoryji %(fromcat)s ({{PLURAL:%(num)d|1 zajta|%(num)d zajt}})',
     },

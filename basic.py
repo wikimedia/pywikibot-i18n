@@ -436,9 +436,10 @@ msg = {
     'sq': {
         'basic-changing': u'Bot: Ndryshimi ...',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'basic-changing': u'Робот: промењено',
+        'basic-changing': u'Бот: промењено',
     },
     # Author: Rancher
     'sr-el': {

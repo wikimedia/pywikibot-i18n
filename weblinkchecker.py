@@ -77,8 +77,10 @@ msg = {
     },
     # Author: Умар
     'ce': {
+        'weblinkchecker-archive_msg': u'Веб-агӀо Ӏалашйина интернет-архив чохь. Лелае хьажорг билгала архиван верси тӀе: [%(URL)s].',
         'weblinkchecker-caption': u'Болх цабо хьажоргаш',
         'weblinkchecker-summary': u'бот: карина арахьара болх цабо хьажорг',
+        'weblinkchecker-report': u'Ботана гучадаьлла, хьара арахьара хьажоргаш болх цабеш хилар. Хьаьжна нисъе я дӀаяха уьш.',
     },
     # Author: Tchoř
     'cs': {
@@ -86,6 +88,10 @@ msg = {
         'weblinkchecker-caption': u'Mrtvý odkaz',
         'weblinkchecker-summary': u'Robot: Ohlašuji nedostupný externí odkaz.',
         'weblinkchecker-report': u'Během několika automatizovaných běhů byl následující externí odkaz nedostupný. Prosím, ověřte, zda je skutečně nedostupný, a pokud ano, pak jej opravte nebo odstraňte!',
+    },
+    # Author: ОйЛ
+    'cu': {
+        'weblinkchecker-caption': u'мрьтьва съвѧꙁь',
     },
     # Author: Lloffiwr
     'cy': {
@@ -196,6 +202,7 @@ msg = {
     },
     # Author: Anson2812
     # Author: Jetlag
+    # Author: LNDDYL
     'hak': {
         'weblinkchecker-archive_msg': u'這個網頁已經畀互聯網檔案館（Internet Archive）保存。請為該網頁挑選一個適合鏈接个存檔版本: [%(URL)s]。',
         'weblinkchecker-caption': u'失效鏈接',
@@ -219,8 +226,10 @@ msg = {
     'hsb': {
         'weblinkchecker-caption': u'Njepłaćiwy wotkaz',
     },
+    # Author: Csega
     # Author: Dj
     'hu': {
+        'weblinkchecker-archive_msg': u'Ezt a weblapot az Internet Archívum elmentette. Kérjük, fontold meg a megfelelő, archivált verzióra történő hivatkozást: [%(URL)s].',
         'weblinkchecker-caption': u'Halott hivatkozás',
         'weblinkchecker-summary': u'bot: nem elérhető külső hivatkozás jelentése',
         'weblinkchecker-report': u'Számos automatikus bot futtatás után az alábbi külső hivatkozás nem elérhető. Kérlek ellenőrizd, hogy a hivatkozás valóban nem elérhető, és ha így van, akkor javítsd ki vagy távolítsd el!',
@@ -302,6 +311,10 @@ msg = {
     'lv': {
         'weblinkchecker-caption': u'Mirusi saite',
         'weblinkchecker-summary': u'Robots: Ziņo par nepieejamu ārējo saiti',
+    },
+    # Author: Ceas08
+    'lzz': {
+        'weblinkchecker-caption': u'Ğureri linki',
     },
     # Author: StefanusRA
     'map-bms': {
@@ -459,11 +472,12 @@ msg = {
         'weblinkchecker-caption': u'Lidhje e vdekur',
         'weblinkchecker-summary': u'Roboti: Raportimi i lidhjeve të jashtme të padisponueshme',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
         'weblinkchecker-archive_msg': u'Веб страница је сачувана у Интернет архиви. Препоручујемо вам да ставите везу до одговарајуће архивиране верзије: [%(URL)s].',
         'weblinkchecker-caption': u'Неисправна веза',
-        'weblinkchecker-summary': u'Робот: пријављена недоступна спољашња веза',
+        'weblinkchecker-summary': u'Бот: пријављена недоступна спољашња веза',
         'weblinkchecker-report': u'После неколико извршавања бота, установљено је да је следећа спољашња веза недоступна. Проверите да ли је веза уистину неисправна и, у том случају, исправите је или је уклоните.',
     },
     # Author: Rancher
@@ -531,9 +545,10 @@ msg = {
         'weblinkchecker-summary': u'机器人：报告失效的外部链接',
         'weblinkchecker-report': u'一个自动运行的机器人发现下列外部链接可能已经失效。请帮助检查、修复或移除无效的链接！',
     },
+    # Author: LNDDYL
     # Author: Simon Shek
     'zh-hant': {
-        'weblinkchecker-archive_msg': u'這個網頁已經被互聯網檔案館（Internet Archive）保存。請為該網頁挑選一個適合鏈接的存檔版本: [%(URL)s]。',
+        'weblinkchecker-archive_msg': u'這個網頁已經被Internet Archive儲存。請為該網頁挑選一個適合連結的存檔版本: [%(URL)s]。',
         'weblinkchecker-caption': u'失效連結',
         'weblinkchecker-summary': u'機械人：報告無效的外部連結',
         'weblinkchecker-report': u'自動運行的機械人發現下列外部連結可能已不可用。請幫助檢查，修復或移除有問題的連結。',

@@ -116,8 +116,9 @@ msg = {
     'csb': {
         'add_text-adding': u'robot dodôwô %(adding)s',
     },
+    # Author: ОйЛ
     'cu': {
-        'add_text-adding': u'аѵтоматъ добавихъ  %(adding)s',
+        'add_text-adding': u'аѵтоматъ добавилъ  %(adding)s',
     },
     'cv': {
         'add_text-adding': u'робот хушрĕ %(adding)s',
@@ -549,9 +550,10 @@ msg = {
     'sq': {
         'add_text-adding': u'roboti duke shtuar %(adding)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'add_text-adding': u'Робот: додато %(adding)s',
+        'add_text-adding': u'Бот: додато %(adding)s',
     },
     # Author: Rancher
     'sr-el': {

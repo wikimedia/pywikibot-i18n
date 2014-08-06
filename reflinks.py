@@ -54,6 +54,7 @@ msg = {
     'ce': {
         'reflinks-autogen': u'нисйина автоматически',
         'reflinks-comment': u'Корта тӀетоьхна бото',
+        'reflinks-msg': u'бот: тӀетовжарийн тӀе корташ тохар; шалха тӀетовжарш нисяр, хьажа кхин. [[%(manual)s|К-ХАТТАРШ]]',
     },
     # Author: Chmee2
     # Author: Matěj Grabovský
@@ -145,8 +146,10 @@ msg = {
         'reflinks-comment': u'בוט יוצר כותרת',
         'reflinks-msg': u'בוט:מלביש קישורים חיצוניים. (FAQ : [[%(manual)s]])',
     },
+    # Author: Csega
     # Author: Dj
     'hu': {
+        'reflinks-autogen': u'automatikusan létrehozott',
         'reflinks-comment': u'Robot generálta cím',
         'reflinks-msg': u'Robot: Forráshivatkozások kibővítése a hivatkozott oldal címével, lásd [[%(manual)s|GyIK]]',
     },

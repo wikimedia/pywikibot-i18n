@@ -189,7 +189,7 @@ msg = {
     },
     # Author: 아라
     'ko': {
-        'movepages-moving': u'로봇: 문서를 이동함',
+        'movepages-moving': u'봇: 문서를 옮김',
     },
     # Author: Purodha
     'ksh': {
@@ -321,9 +321,10 @@ msg = {
     'sq': {
         'movepages-moving': u'Roboti: Faqe e zhvendosur',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'movepages-moving': u'Робот: премештена страница',
+        'movepages-moving': u'Бот: премештена страница',
     },
     # Author: Rancher
     'sr-el': {

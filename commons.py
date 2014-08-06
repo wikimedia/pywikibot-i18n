@@ -437,9 +437,10 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Fil]] flyttad till [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'Filen är nu tillgänglig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
+    # Author: Krol111
     # Author: Przemub
     'szl': {
-        'commons-file-moved': u'[[:File:%(localfile)s|Plik]] przeciepanŏ dŏ [[:commons:File:%(commonsfile)s|commons]].',
+        'commons-file-moved': u'[[:File:%(localfile)s|Plik]] przeciepano do [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'Plik terozki dostympny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
     # Author: AnakngAraw

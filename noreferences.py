@@ -74,6 +74,10 @@ msg = {
     'ca': {
         'noreferences-add-tag': u'Robot: afegint l\'etiqueta <references /> que mancava',
     },
+    # Author: Умар
+    'ce': {
+        'noreferences-add-tag': u'бото тӀетоьхна йоцу тег <references />',
+    },
     # Author: Asoxor
     'ckb': {
         'noreferences-add-tag': u'ڕۆبۆت: زێدەکردنی تاگی بەجێماوی <references />',
@@ -324,9 +328,10 @@ msg = {
     'sq': {
         'noreferences-add-tag': u'Roboti: Duke shtuar etiketën <references /> që mungon',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'noreferences-add-tag': u'Робот: додата ознака <references /> која недостаје',
+        'noreferences-add-tag': u'Бот: додата ознака <references /> која недостаје',
     },
     # Author: Rancher
     'sr-el': {

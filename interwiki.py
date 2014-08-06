@@ -302,6 +302,7 @@ msg = {
         'interwiki-removing-modifying': u'Robot esborra: %(removing)s modifica: %(modifying)s',
         'interwiki-modifying-from': u'Robot: canviant %(from)s a %(modifying)s',
     },
+    # Author: Умар
     'ce': {
         'interwiki-modifying': u'робот хийцина: %(modifying)s',
         'interwiki-adding-modifying': u'робот тIетоьхна: %(adding)s хийцина: %(modifying)s',
@@ -310,6 +311,7 @@ msg = {
         'interwiki-adding': u'робот тIетоьхна: %(adding)s',
         'interwiki-removing': u'робот дIаяьккхина: %(removing)s',
         'interwiki-removing-modifying': u'робот дIаяьккхина: %(removing)s хийцина: %(modifying)s',
+        'interwiki-modifying-from': u'бото хийцина: %(from)s → %(modifying)s',
     },
     'ceb': {
         'interwiki-modifying': u'robot Gimodipikar: %(modifying)s',
@@ -363,13 +365,13 @@ msg = {
     },
     # Author: ОйЛ
     'cu': {
-        'interwiki-modifying': u'аѵтоматъ иꙁмѣнихъ : %(modifying)s',
-        'interwiki-adding-modifying': u'аѵтоматъ добавихъ : %(adding)s иꙁмѣнихъ : %(modifying)s',
-        'interwiki-adding-removing': u'аѵтоматъ добавихъ : %(adding)s оуничьжихъ : %(removing)s',
-        'interwiki-adding-removing-modifying': u'аѵтоматъ добавихъ : %(adding)s оуничьжихъ : %(removing)s иꙁмѣнихъ : %(modifying)s',
-        'interwiki-adding': u'аѵтоматъ добавихъ : %(adding)s',
-        'interwiki-removing': u'аѵтоматъ оуничьжихъ : %(removing)s',
-        'interwiki-removing-modifying': u'аѵтоматъ оуничьжихъ : %(removing)s иꙁмѣнихъ : %(modifying)s',
+        'interwiki-modifying': u'аѵтоматъ иꙁмѣнилъ : %(modifying)s',
+        'interwiki-adding-modifying': u'аѵтоматъ добавилъ : %(adding)s иꙁмѣнилъ : %(modifying)s',
+        'interwiki-adding-removing': u'аѵтоматъ добавилъ : %(adding)s оуничьжилъ : %(removing)s',
+        'interwiki-adding-removing-modifying': u'аѵтоматъ добавилъ : %(adding)s оуничьжилъ : %(removing)s иꙁмѣнилъ : %(modifying)s',
+        'interwiki-adding': u'аѵтоматъ добавилъ : %(adding)s',
+        'interwiki-removing': u'аѵтоматъ оуничьжилъ : %(removing)s',
+        'interwiki-removing-modifying': u'аѵтоматъ оуничьжилъ : %(removing)s иꙁмѣнилъ : %(modifying)s',
     },
     'cv': {
         'interwiki-modifying': u'робот улăштарчĕ: %(modifying)s',
@@ -821,6 +823,7 @@ msg = {
         'interwiki-modifying-from': u'Vélmenni: Færi %(from)s yfir í %(modifying)s',
     },
     # Author: Nemo bis
+    # Author: Ricordisamoa
     'it': {
         'interwiki-modifying': u'Bot: Modifico %(modifying)s',
         'interwiki-adding-modifying': u'Bot: Aggiungo %(adding)s; modifico %(modifying)s',
@@ -829,7 +832,7 @@ msg = {
         'interwiki-adding': u'Bot: Aggiungo %(adding)s',
         'interwiki-removing': u'Bot: Tolgo %(removing)s',
         'interwiki-removing-modifying': u'Bot: Tolgo %(removing)s; modifico %(modifying)s',
-        'interwiki-modifying-from': u'Robot: Modifico %(from)s in %(modifying)s',
+        'interwiki-modifying-from': u'Bot: Modifico %(from)s in %(modifying)s',
     },
     # Author: Shirayuki
     # Author: 青子守歌
@@ -1660,16 +1663,17 @@ msg = {
         'interwiki-removing-modifying': u'roboti largoj: %(removing)s ndryshoj: %(modifying)s',
         'interwiki-modifying-from': u'Roboti: Duke redaktuar %(from)s në %(modifying)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'interwiki-modifying': u'Робот: измењено %(modifying)s',
-        'interwiki-adding-modifying': u'Робот: додато %(adding)s; измењено %(modifying)s',
-        'interwiki-adding-removing': u'Робот: додато %(adding)s; уклоњено %(removing)s',
-        'interwiki-adding-removing-modifying': u'Робот: додато %(adding)s; уклоњено %(removing)s; измењено %(modifying)s',
-        'interwiki-adding': u'Робот: додато %(adding)s',
-        'interwiki-removing': u'Робот: уклоњено %(removing)s',
-        'interwiki-removing-modifying': u'Робот: уклоњено %(removing)s; измењено %(modifying)s',
-        'interwiki-modifying-from': u'Робот: измењено %(from)s у %(modifying)s',
+        'interwiki-modifying': u'Бот: измењено %(modifying)s',
+        'interwiki-adding-modifying': u'Бот: додато %(adding)s; измењено %(modifying)s',
+        'interwiki-adding-removing': u'Бот: додато %(adding)s; уклоњено %(removing)s',
+        'interwiki-adding-removing-modifying': u'Бот: додато %(adding)s; уклоњено %(removing)s; измењено %(modifying)s',
+        'interwiki-adding': u'Бот: додато %(adding)s',
+        'interwiki-removing': u'Бот: уклоњено %(removing)s',
+        'interwiki-removing-modifying': u'Бот: уклоњено %(removing)s; измењено %(modifying)s',
+        'interwiki-modifying-from': u'Бот: измењено %(from)s у %(modifying)s',
     },
     # Author: Rancher
     'sr-el': {

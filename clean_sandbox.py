@@ -114,10 +114,11 @@ msg = {
         'clean_sandbox-cleaned': u'Roboto: Aŭtomate viŝita',
     },
     # Author: Dferg
+    # Author: Fitoschido
     # Author: Invadinado
     # Author: Xqt
     'es': {
-        'clean_sandbox-cleaned': u'Bot: Limpieza automatizada',
+        'clean_sandbox-cleaned': u'Bot: limpieza automatizada',
     },
     # Author: An13sa
     'eu': {
@@ -340,9 +341,10 @@ msg = {
     'sq': {
         'clean_sandbox-cleaned': u'Roboti: Pastrim automatik',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'clean_sandbox-cleaned': u'Робот: очишћен песак',
+        'clean_sandbox-cleaned': u'Бот: очишћен песак',
     },
     # Author: Rancher
     'sr-el': {
@@ -352,9 +354,10 @@ msg = {
     'sv': {
         'clean_sandbox-cleaned': u'Bot: Krattar sandlådan',
     },
+    # Author: Krol111
     # Author: Przemub
     'szl': {
-        'clean_sandbox-cleaned': u'Robot: Pucowaniy',
+        'clean_sandbox-cleaned': u'Robot automatyczńe wypucowoł',
     },
     # Author: Aswn
     'ta': {

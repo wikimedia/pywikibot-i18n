@@ -353,9 +353,10 @@ msg = {
     'sq': {
         'capitalize_redirects-create-redirect': u'Roboti: Duke krijuar ridrejtim tek [[%(to)s]]',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'capitalize_redirects-create-redirect': u'Робот: направљено преусмерење на [[%(to)s]]',
+        'capitalize_redirects-create-redirect': u'Бот: направљено преусмерење на [[%(to)s]]',
     },
     # Author: Rancher
     'sr-el': {

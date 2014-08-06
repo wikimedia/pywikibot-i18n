@@ -35,6 +35,11 @@ msg = {
         'casechecker-delete-reason': u'Esta redireición antes apuntaba a "%(target)s"',
         'casechecker-rename': u'Robó: renomáu l\'entemecíu de mayúscules/minúscules',
     },
+    # Author: Рустам Нурыев
+    'ba': {
+        'casechecker-delete-summary': u'бот: Йүнәлтеү кирилл и латин хәрефтәренән төҙөлгән',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'casechecker-replacement-summary': u'Робат: замены рэгістру:',
@@ -189,9 +194,14 @@ msg = {
     'hsb': {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
     },
+    # Author: Csega
     # Author: Dj
     'hu': {
+        'casechecker-replacement-summary': u'Bot: kis-/nagybetűs cserék:',
+        'casechecker-delete-summary': u'Bot: Ez az átirányítás ugyanúgy kinéző cirill és latin betűket tartalmaz a címében',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-delete-reason': u'Ez az átirányítás eddig ide mutatott: %(target)s',
+        'casechecker-rename': u'Bot: vegyes írásrendszerű átnevezés',
     },
     # Author: McDutchie
     'ia': {
@@ -326,6 +336,7 @@ msg = {
         'casechecker-delete-summary': u'Bot: To przekierowanie zawiera mieszankę cyrylicy i alfabetu łacińskiego w nazwie',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'To przekierowanie służy do wskazywania %(target)s',
+        'casechecker-rename': u'Bot: mieszany przypadek zmiany nazwy',
     },
     # Author: Imperadeiro98
     'pt': {
@@ -415,12 +426,13 @@ msg = {
         'casechecker-rename': u'机器人：更名混用大小写',
     },
     # Author: Kc kennylau
+    # Author: LNDDYL
     # Author: Liuxinyu970226
     'zh-hant': {
         'casechecker-replacement-summary': u'機械人：替換大小冩：',
-        'casechecker-delete-summary': u'機械人：此重定向的標題上包含相同外表的西里爾字母與拉丁字母',
+        'casechecker-delete-summary': u'機械人：此重新導向的標題上包含相同外表的西里爾字母與拉丁字母',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-        'casechecker-delete-reason': u'此頁面本是用來重定向至%(target)s的。',
+        'casechecker-delete-reason': u'此頁面本是用來重新導向至%(target)s的。',
         'casechecker-rename': u'機械人：名稱混合大小寫',
     },
 };

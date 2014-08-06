@@ -64,6 +64,10 @@ msg = {
     'ca': {
         'fixing_redirects-fixing': u'Robot: arreglant redireccions',
     },
+    # Author: Умар
+    'ce': {
+        'fixing_redirects-fixing': u'бот: дӀасахьажораш нисъяр',
+    },
     # Author: Asoxor
     # Author: Calak
     'ckb': {

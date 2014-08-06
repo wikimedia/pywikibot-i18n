@@ -63,6 +63,10 @@ msg = {
     'ca': {
         'editarticle-edit': u'Edició manual amb robot: %(description)s',
     },
+    # Author: Умар
+    'ce': {
+        'editarticle-edit': u'Куьга таяр бота гӀоьнца: %(description)s',
+    },
     # Author: Asoxor
     'ckb': {
         'editarticle-edit': u'چاکسازیی دەستی بە ڕۆبۆت: %(description)s',
@@ -313,9 +317,10 @@ msg = {
     'sq': {
         'editarticle-edit': u'Redaktim manual me robot: %(description)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'editarticle-edit': u'Ручно уређивање са роботом: %(description)s',
+        'editarticle-edit': u'Ручно уређивање са ботом: %(description)s',
     },
     # Author: Rancher
     'sr-el': {

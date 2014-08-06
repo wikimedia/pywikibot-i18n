@@ -366,9 +366,10 @@ msg = {
     'sq': {
         'catall-changing': u'Roboti: Duke ndryshuar kategoritë',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'catall-changing': u'Робот: промењене категорије',
+        'catall-changing': u'Бот: промењене категорије',
     },
     # Author: Rancher
     'sr-el': {

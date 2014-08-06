@@ -90,6 +90,12 @@ msg = {
         'template-changing': u'Robot: canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
         'template-substituting': u'Robot: substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s',
     },
+    # Author: Умар
+    'ce': {
+        'template-removing': u'бот: {{PLURAL:%(num)d|кеп дӀаяккхар|кепаш дӀаяхар}}: %(list)s',
+        'template-changing': u'бот: {{PLURAL:%(num)d|кеп|кепаш}} хийцар: %(list)s',
+        'template-substituting': u'бот: {{PLURAL:%(num)d|кеп|кепаш}} дӀахӀоттор: %(list)s',
+    },
     # Author: Asoxor
     'ckb': {
         'template-removing': u'ڕۆبۆت: لابردنی {{PLURAL:%(num)d|داڕێژە|داڕێژەکان}}: %(list)s',
@@ -435,11 +441,12 @@ msg = {
         'template-changing': u'Bot: Badalis {{PLURAL:%(num)d|template|templates}}: %(list)s',
         'template-substituting': u'Bot: Nuqul {{PLURAL:%(num)d|template|templates}}: %(list)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'template-removing': u'Робот: {{PLURAL:%(num)d|уклоњен шаблон|уклоњени шаблони}}: %(list)s',
-        'template-changing': u'Робот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s',
-        'template-substituting': u'Робот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s',
+        'template-removing': u'Бот: {{PLURAL:%(num)d|уклоњен шаблон|уклоњени шаблони}}: %(list)s',
+        'template-changing': u'Бот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s',
+        'template-substituting': u'Бот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s',
     },
     # Author: Rancher
     'sr-el': {

@@ -78,11 +78,12 @@ msg = {
         'delete-linked-pages': u'بوت: %(page)s صحیفه‌‌سیندن کئچید وئرن بوتون صحیفه‌‌لر سیلینیر',
     },
     # Author: Haqmar
+    # Author: Рустам Нурыев
     'ba': {
         'delete-images': u'Робот: %(page)s битендәге бөтә рәсемдәрҙе юйыу',
         'delete-referring-pages': u'Робот:  %(page)s битенә ҡағылышлы бар биттәрҙе юйыу',
         'delete-from-category': u'Робот: %(page)s категорияһындағы бөтә биттәрҙе юйыу',
-        'delete-from-file': u'Робот: файлдар исемлеген юйыу',
+        'delete-from-file': u'Робот: биттәр исемлеген юйыу',
         'delete-linked-pages': u'Робот: %(page)s бите менән бәйле бөтә биттәрҙе юйыу',
     },
     # Author: EugeneZelenko
@@ -124,6 +125,14 @@ msg = {
         'delete-from-category': u'Robot: esborrant totes les pàgines de la categoria %(page)s',
         'delete-from-file': u'Robot: esborrant una llista de pàgines.',
         'delete-linked-pages': u'Robot: esborrant totes les pàgines que s\'enllacen des de %(page)s',
+    },
+    # Author: Умар
+    'ce': {
+        'delete-images': u'бот: %(page)s агӀонгара массо суьрташ дӀадахар',
+        'delete-referring-pages': u'бот: %(page)s юкъа йогӀу массо агӀонаш дӀаяхар',
+        'delete-from-category': u'Бот: %(page)s категори чура массо агӀонашна гӀоралла дар',
+        'delete-from-file': u'бот: агӀонийн могӀам дӀабаккхар',
+        'delete-linked-pages': u'бот: %(page)s юкъа йогӀу массо агӀонаш дӀаяхар',
     },
     # Author: Asoxor
     'ckb': {
@@ -660,13 +669,14 @@ msg = {
         'delete-from-file': u'Roboti: Duke fshirë të gjithë listën e skedave.',
         'delete-linked-pages': u'Roboti: Duke fshirë të gjitha faqet e lidhura nga %(page)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'delete-images': u'Робот: обрисане све слике на страници %(page)s',
-        'delete-referring-pages': u'Робот: обрисане све странице које потичу из %(page)s',
-        'delete-from-category': u'Робот: обрисане све странице из категорије %(page)s',
-        'delete-from-file': u'Робот: обрисан списак страница.',
-        'delete-linked-pages': u'Робот: обрисане све странице које потичу из %(page)s',
+        'delete-images': u'Бот: обрисане све слике на страници %(page)s',
+        'delete-referring-pages': u'Бот: обрисане све странице које потичу из %(page)s',
+        'delete-from-category': u'Бот: обрисане све странице из категорије %(page)s',
+        'delete-from-file': u'Бот: обрисан списак страница.',
+        'delete-linked-pages': u'Бот: обрисане све странице које потичу из %(page)s',
     },
     # Author: Rancher
     'sr-el': {
@@ -697,9 +707,9 @@ msg = {
     # Author: Krol111
     # Author: Przemub
     'szl': {
-        'delete-images': u'Robot: Wyciepaniy bildōw z zajty %(page)s',
-        'delete-referring-pages': u'Robot: Wyciepaniy zajt kere linkujōm dŏ %(page)s',
-        'delete-from-category': u'Robot: Wyciepaniy zajt z kategoryje %(page)s',
+        'delete-images': u'Robot wyćepoł uobrozki z zajty %(page)s',
+        'delete-referring-pages': u'Robot wyćepał zajt kere linkujům do %(page)s',
+        'delete-from-category': u'Robot wyciepoł zajty ze kategoryje %(page)s',
         'delete-from-file': u'Robot: Wyćepańy zajt ze listy.',
         'delete-linked-pages': u'Robot: Wyciepaniy zajt kere linkujōm z %(page)s',
     },
@@ -715,7 +725,7 @@ msg = {
         'delete-images': u'โรบอต: ลบรูปภาพทั้งหมดจากหน้า %(page)s',
         'delete-referring-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์ไป %(page)s',
         'delete-from-category': u'โรบอต: ลบหน้าทั้งหมดจากหมวดหมู่ %(page)s',
-        'delete-from-file': u'โรบอต: ลบหน้าจากไฟล์รายการ',
+        'delete-from-file': u'บอต: ลบหน้าจากไฟล์รายการ',
         'delete-linked-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์จาก %(page)s',
     },
     # Author: AnakngAraw
@@ -801,6 +811,7 @@ msg = {
     # Author: Breawycker
     # Author: Gabrielchihonglee
     # Author: Justincheng12345
+    # Author: LNDDYL
     # Author: Lauhenry
     # Author: Simon Shek
     'zh-hant': {
@@ -808,7 +819,7 @@ msg = {
         'delete-referring-pages': u'機械人：删除所有從%(page)s指向的頁面',
         'delete-from-category': u'機械人：刪除所有来自%(page)s分類的頁面',
         'delete-from-file': u'機器人：刪除頁面列表。',
-        'delete-linked-pages': u'機械人：删除所有從%(page)s鏈接的頁面',
+        'delete-linked-pages': u'機械人：删除所有從%(page)s連結的頁面',
     },
     # Author: Justincheng12345
     'zh-hk': {

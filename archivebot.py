@@ -268,7 +268,7 @@ msg = {
     # Author: Pikne
     'et': {
         'archivebot-older-than': u'vanem kui',
-        'archivebot-page-summary': u'Robot: %(count)d {{PLURAL:%(count)d|teema|teemat}} (%(why)s) viidud {{PLURAL:%(archives)s|arhiivi|arhiividesse}} %(archives)s.',
+        'archivebot-page-summary': u'Robot: %(count)d {{PLURAL:%(count)d|teema|teemat}} (%(why)s) viidud arhiivi (%(archives)s).',
         'archivebot-archiveheader': u'{{arhiveerimine}}',
         'archivebot-archive-full': u'(ARHIIV TÄIS)',
         'archivebot-archive-summary': u'Robot: arhiivitud %(count)d {{PLURAL:%(count)d|teema|teemat}} leheküljelt [[%(from)s]].',
@@ -536,6 +536,10 @@ msg = {
         'archivebot-archive-full': u'(ARSJIEF VOL)',
         'archivebot-archive-summary': u'Robot: %(count)d óngerwerp(e) gearchiveerd van [[%(from)s]].',
     },
+    # Author: Mogoeilor
+    'lrc': {
+        'archivebot-older-than': u'کونه تر د',
+    },
     # Author: Cyklopas
     # Author: Eitvys200
     'lt': {
@@ -553,6 +557,10 @@ msg = {
     'lv': {
         'archivebot-older-than': u'vecāks par',
         'archivebot-archive-full': u'(ARHĪVS PILNS)',
+    },
+    # Author: Ceas08
+    'lzz': {
+        'archivebot-older-than': u'daa mcveşi',
     },
     # Author: StefanusRA
     'map-bms': {
@@ -810,13 +818,14 @@ msg = {
         'archivebot-archive-full': u'(ARKIVA ËSHTË E MBUSHUR PLOT)',
         'archivebot-archive-summary': u'Roboti: Duke arkivuar %(count)d {{PLURAL:%(count)d|temën|temat}} nga [[%(from)s]].',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
         'archivebot-older-than': u'старије од',
-        'archivebot-page-summary': u'Робот: {{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} (%(why)s) у %(archives)s.',
+        'archivebot-page-summary': u'Бот: {{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} (%(why)s) у %(archives)s.',
         'archivebot-archiveheader': u'{{talkarchive}}',
         'archivebot-archive-full': u'(АРХИВА ЈЕ ПУНА)',
-        'archivebot-archive-summary': u'Робот: {{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} из [[%(from)s]].',
+        'archivebot-archive-summary': u'Бот: {{PLURAL:%(count)d|Архивирана %(count)d тема|Архивиране %(count)d теме|Архивирано %(count)d тема}} из [[%(from)s]].',
     },
     # Author: Rancher
     'sr-el': {

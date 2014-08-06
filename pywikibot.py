@@ -131,7 +131,13 @@ msg = {
     },
     # Author: Умар
     'ce': {
+        'pywikibot-enter-xml-filename': u'Дехар до, дампа XML файлайн цӀе язъе:',
+        'pywikibot-enter-page-processing': u'Муьлха агӀо кечъян езаш ю?',
+        'pywikibot-enter-file-links-processing': u'Муьлхачу файлан хьажоргаш кечъян езаш ю?',
+        'pywikibot-enter-namespace-number': u'Дехар до, цӀерийн меттиигийн номер язъе:',
+        'pywikibot-enter-new-text': u'Дехар до, керла йоза язде:',
         'pywikibot-enter-category-name': u'Дехар до, дӀаязъе категорин цӀе:',
+        'pywikibot-enter-finished-browser': u'Браузер чохь хийцам бинчултӀехьа таӀае Enter.',
     },
     # Author: Leanes
     # Author: Matěj Suchánek
@@ -805,10 +811,11 @@ msg = {
         'pywikibot-enter-category-name': u'ביטע אײַנגעבן דעם קאטעגאריע נאמען:',
     },
     # Author: Anakmalaysia
+    # Author: Liuxinyu970226
     # Author: Qiyue2001
     # Author: Yfdyh000
     'zh': {
-        'pywikibot-enter-xml-filename': u'请输入XML Dump文件名称：',
+        'pywikibot-enter-xml-filename': u'请输入XML转储文件名称：',
         'pywikibot-enter-page-processing': u'哪个页面需要处理？',
         'pywikibot-enter-file-links-processing': u'哪个文件的链接需要处理？',
         'pywikibot-enter-namespace-number': u'请输入命名空间编号：',

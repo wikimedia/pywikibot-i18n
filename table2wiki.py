@@ -74,6 +74,11 @@ msg = {
         'table2wiki-warnings': u'Robot controlat per usuari: actualitzant la sintaxi de la taula. {{PLURAL:count|Un advertiment|%(count)d advertiments}}!',
         'table2wiki-no-warning': u'Robot controlat per usuari: actualitzant la sintaxi de la taula.',
     },
+    # Author: Умар
+    'ce': {
+        'table2wiki-warnings': u'ах ша-шеха бот: таблицан синтаксис карлаяьккхина - {{PLURAL:count|1 дӀахьедар|дӀахьедарш: %(count)d}}!',
+        'table2wiki-no-warning': u'ахавтоматически бот: таблицан синтаксис карлаяьккхина',
+    },
     # Author: Asoxor
     'ckb': {
         'table2wiki-warnings': u'ڕۆبۆتی کۆنترۆڵکراو بەدەستی بەکارھێنەر: ڕستەسازیی خشتە نوێکرایەوە - {{PLURAL:count|١ ئاگاداری|%(count)d ئاگاداری}}!',
@@ -193,9 +198,10 @@ msg = {
         'table2wiki-no-warning': u'Handvirkt vélmenni: Málskipan töflu uppfærð',
     },
     # Author: Gianfranco
+    # Author: Ricordisamoa
     'it': {
-        'table2wiki-warnings': u'Robot controllato da utente: tabella sintassi aggiornata - {{PLURAL:count|1 avviso|%(count)d avvisi}}!',
-        'table2wiki-no-warning': u'Robot controllato da utente: aggiornata sintassi tabelle',
+        'table2wiki-warnings': u'Bot controllato da utente: tabella sintassi aggiornata - {{PLURAL:count|1 avviso|%(count)d avvisi}}!',
+        'table2wiki-no-warning': u'Bot controllato da utente: aggiornata sintassi tabelle',
     },
     # Author: Shirayuki
     # Author: Xqt
@@ -345,10 +351,11 @@ msg = {
         'table2wiki-warnings': u'Bot La adeegsaday: dib u habayn qaab jadwal - {{PLURAL:count|1 digniin|%(count)d digniin}}!',
         'table2wiki-no-warning': u'Bot La adeegsaday: dib u habayn qaab jadwal',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'table2wiki-warnings': u'Робот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења}})',
-        'table2wiki-no-warning': u'Робот којим управља корисник: синтакса табеле је ажурирана',
+        'table2wiki-warnings': u'Бот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења}})',
+        'table2wiki-no-warning': u'Бот којим управља корисник: синтакса табеле је ажурирана',
     },
     # Author: Rancher
     'sr-el': {

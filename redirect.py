@@ -178,6 +178,10 @@ msg = {
     # Author: Умар
     'ce': {
         'redirect-fix-double': u'бот: шалха дӀасахьажинарг нисъяр → %(to)s',
+        'redirect-remove-broken': u'бот: [[ВП:КБУ#П1|П1]] - йоцу я дӀаяьккхина агӀона тӀе дӀасахьажорг',
+        'redirect-fix-broken-moved': u'Робот: Коьрта %(to)s агӀона тӀе йолу дӀасхьажорг нисяр',
+        'redirect-fix-loop': u'бот: дӀасхьажорг нисяр %(to)s тӀе',
+        'redirect-remove-loop': u'бот: цхьанхьа хьажжина йоцу дӀасхьажорг',
     },
     # Author: Asoxor
     # Author: Calak
@@ -276,14 +280,15 @@ msg = {
     },
     # Author: Armando-Martin
     # Author: Dferg
+    # Author: Fitoschido
     # Author: Invadinado
     # Author: Vivaelcelta
     # Author: Xqt
     'es': {
-        'redirect-fix-double': u'Bot: Arreglando doble redirección → %(to)s',
+        'redirect-fix-double': u'Bot: arreglo de redirección doble a %(to)s',
         'redirect-remove-broken': u'Bot: Redirige a una página borrada o que no existe',
         'redirect-fix-broken-moved': u'Bot: arreglo la redirección rota hacia la página de destino trasladada "%(to)s"',
-        'redirect-fix-loop': u'Bot: Arreglando redirección infinita → %(to)s',
+        'redirect-fix-loop': u'Bot: arreglo de redirección infinita a %(to)s',
         'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: El destino de la [[Wikipedia:Redirect|redirección]] crea un bucle de redirección',
         'redirect-broken-redirect-template': u'{{destruir|1=La página a la que redirige no existe|bot=~~~~}}',
     },
@@ -414,10 +419,12 @@ msg = {
         'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe',
     },
     # Author: Bináris
+    # Author: Csega
     # Author: Dj
     'hu': {
         'redirect-fix-double': u'Bot: %(to)s lapra mutató dupla átirányítás javítása',
         'redirect-remove-broken': u'Bot: Törölt vagy nem létező lapra mutató átirányítás törlése',
+        'redirect-fix-broken-moved': u'Bot: Törött hivatkozás javítása; új cél oldal: %(to)s',
         'redirect-fix-loop': u'Bot: Ide mutató átirányítási hurkok javítása: %(to)s',
         'redirect-remove-loop': u'Bot: körkörös átirányítás',
         'redirect-broken-redirect-template': u'{{azonnali|Hibás átirányítás}}',
@@ -832,13 +839,14 @@ msg = {
         'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deleted or non-existent page',
         'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'redirect-fix-double': u'Робот: исправљена двострука преусмерења у %(to)s',
-        'redirect-remove-broken': u'Робот: преусмерење до обрисане или непостојеће странице',
-        'redirect-fix-broken-moved': u'Робот: исправљено покварено преусмерење до премештене циљне странице %(to)s',
-        'redirect-fix-loop': u'Робот: исправљена петља преусмерења на %(to)s',
-        'redirect-remove-loop': u'Робот: одредиште преусмерења образује петљу',
+        'redirect-fix-double': u'Бот: исправљена двострука преусмерења у %(to)s',
+        'redirect-remove-broken': u'Бот: преусмерење до обрисане или непостојеће странице',
+        'redirect-fix-broken-moved': u'Бот: исправљено покварено преусмерење до премештене циљне странице %(to)s',
+        'redirect-fix-loop': u'Бот: исправљена петља преусмерења на %(to)s',
+        'redirect-remove-loop': u'Бот: одредиште преусмерења образује петљу',
         'redirect-broken-redirect-template': u'{{db-r1}}',
     },
     # Author: Rancher

@@ -17,6 +17,10 @@ msg = {
     'ast': {
         'blockpageschecker-summary': u'Robó: Desaniciando plantía anticuada',
     },
+    # Author: Рустам Нурыев
+    'ba': {
+        'blockpageschecker-summary': u'Бот: иҫкергән ҡалыпты юйыу',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'blockpageschecker-summary': u'Робат: выдаленьне састарэлага шаблёну',
@@ -108,6 +112,10 @@ msg = {
     # Author: Shubhamkanodia
     'hi': {
         'blockpageschecker-summary': u'बॉट:अप्रचलित साँचो को हटाया जा रहा है',
+    },
+    # Author: Csega
+    'hu': {
+        'blockpageschecker-summary': u'Bot: Elavult sablon törlése',
     },
     # Author: M hamlet
     'hy': {
@@ -247,8 +255,9 @@ msg = {
     'yi': {
         'blockpageschecker-summary': u'באט: אויסמעקן פארעלטערטן מוסטער',
     },
+    # Author: Liuxinyu970226
     'zh': {
-        'blockpageschecker-summary': u'機器人: 移除過期的保護模板',
+        'blockpageschecker-summary': u'机器人：删除过期模板中',
     },
     # Author: Gabrielchihonglee
     # Author: Kc kennylau

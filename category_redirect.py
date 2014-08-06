@@ -812,14 +812,15 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s s është në %(oldcat)s, e cila është një përcjellëse tek %(newcat)s',
         'category_redirect-fix-double': u'Bot: ndreqim double-përcjellëse',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'category_redirect-comment': u'Робот за одржавање преусмерених категорија',
-        'category_redirect-change-category': u'Робот: промењена преусмерена категорија [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-add-template': u'Робот: додат шаблон за преусмерену категорију ради одржавања',
+        'category_redirect-comment': u'Бот за одржавање преусмерених категорија',
+        'category_redirect-change-category': u'Бот: промењена преусмерена категорија [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-add-template': u'Бот: додат шаблон за преусмерену категорију ради одржавања',
         'category_redirect-edit-request': u'Следећим заштићеним страницама потребно је ажурирање веза категорија: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s',
-        'category_redirect-fix-double': u'Робот: исправљена двострука преусмерења',
+        'category_redirect-fix-double': u'Бот: исправљена двострука преусмерења',
     },
     # Author: Rancher
     'sr-el': {
@@ -839,10 +840,11 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s är i %(oldcat)s, som är en omdirigering till %(newcat)s',
         'category_redirect-fix-double': u'Bot: Rättar dubbel omdirigering',
     },
+    # Author: Krol111
     # Author: Przemub
     'szl': {
-        'category_redirect-comment': u'Naprawa pukniyńć',
-        'category_redirect-add-template': u'Robot dodaje muster pukniyńcia kategoryje',
+        'category_redirect-comment': u'Naprawa pukńyńć',
+        'category_redirect-add-template': u'Robot dodowo muster pukńyńćo kategoryje',
         'category_redirect-fix-double': u'Robot sprowjo tuplowane przekerowańa',
     },
     # Author: செல்வா

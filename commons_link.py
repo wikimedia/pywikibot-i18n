@@ -111,6 +111,11 @@ msg = {
         'commons_link-template-added': u'रोबोट: कॉमन्स साँचे को जोड़ा',
         'commons_link-cat-template-added': u'रोबोट: commonscat साँचे को जोड़ा',
     },
+    # Author: Csega
+    'hu': {
+        'commons_link-template-added': u'Bot: Commons sablon beillesztése',
+        'commons_link-cat-template-added': u'Bot: Commonscat sablon beillesztése',
+    },
     # Author: McDutchie
     'ia': {
         'commons_link-template-added': u'Robot: insere un patrono de Commons',
@@ -212,10 +217,11 @@ msg = {
         'commons_link-template-added': u'Robot: Incluide commyns template',
         'commons_link-cat-template-added': u'Robot: Incluide commynscat template',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'commons_link-template-added': u'Робот: додат шаблон Оставе',
-        'commons_link-cat-template-added': u'Робот: додат шаблон за везу до Оставе',
+        'commons_link-template-added': u'Бот: додат шаблон Оставе',
+        'commons_link-cat-template-added': u'Бот: додат шаблон за везу до Оставе',
     },
     # Author: Jopparn
     'sv': {

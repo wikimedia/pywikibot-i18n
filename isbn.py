@@ -83,6 +83,10 @@ msg = {
     'ca': {
         'isbn-formatting': u'Robot: format de l\'ISBN',
     },
+    # Author: Умар
+    'ce': {
+        'isbn-formatting': u'бот: юхакхоллар → ISBN',
+    },
     # Author: Asoxor
     'ckb': {
         'isbn-formatting': u'ڕۆبۆت: ڕاستکردنەوەی شێوازی ISBN',
@@ -125,10 +129,11 @@ msg = {
         'isbn-formatting': u'Roboto: Aranĝas la ISBN',
     },
     # Author: Dferg
+    # Author: Fitoschido
     # Author: Invadinado
     # Author: Xqt
     'es': {
-        'isbn-formatting': u'Bot: Estandarizando ISBN',
+        'isbn-formatting': u'Bot: formato de ISBN',
     },
     # Author: Pikne
     'et': {
@@ -384,9 +389,10 @@ msg = {
     'sq': {
         'isbn-formatting': u'Robot: ISBN Formatimi',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'isbn-formatting': u'Робот: обликовано по ISBN-у',
+        'isbn-formatting': u'Бот: обликовано по ISBN-у',
     },
     # Author: Rancher
     'sr-el': {

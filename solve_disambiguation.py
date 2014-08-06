@@ -170,6 +170,11 @@ msg = {
     },
     # Author: Умар
     'ce': {
+        'solve_disambiguation-redirect-removed': u'МаьӀна шордар ботан гӀоьнца: %(from)s — хьажоргаш дӀаяхар',
+        'solve_disambiguation-redirect-resolved': u'Ботан гӀоьнца маьӀна шордар: %(from)s — хьажоргаш хийцар %(to)s тӀе',
+        'solve_disambiguation-links-resolved': u'МаьӀна шордар ботан гӀоьнца: %(from)s — хьажоргаш хийцар %(to)s тӀе',
+        'solve_disambiguation-redirect-adding-dn-template': u'Ботан: %(from)s гӀоьнца маьӀна магор — экспертан терго оьшуш хилар бахьнехь',
+        'solve_disambiguation-adding-dn-template': u'Ботан: %(from)s гӀоьнца маьӀна магор — экспертан терго оьшуш хилар бахьнехь',
         'solve_disambiguation-unknown-page': u'(йоьвзуш яц)',
         'solve_disambiguation-links-removed': u'Ботан гӀоьнца маьӀна магор: %(from)s — хьажоргаш дӀаяхар',
     },
@@ -186,6 +191,10 @@ msg = {
         'solve_disambiguation-adding-dn-template': u'Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka',
         'solve_disambiguation-unknown-page': u'(neznámé)',
         'solve_disambiguation-links-removed': u'Odstranění linku na rozcestník [[%(from)s]] s použitím robota - Odstraněn(y) odkaz(y)',
+    },
+    # Author: ОйЛ
+    'cu': {
+        'solve_disambiguation-unknown-page': u'(нєвѣдомо)',
     },
     # Author: Salam
     'cv': {
@@ -1048,15 +1057,16 @@ msg = {
         'solve_disambiguation-links-removed': u'机器人辅助消歧义：%(from)s - 移除链接',
     },
     # Author: Andrew971218
+    # Author: LNDDYL
     # Author: Simon Shek
     'zh-hant': {
-        'solve_disambiguation-redirect-removed': u'機械人輔助消除歧義：%(from)s - 刪除鏈接',
+        'solve_disambiguation-redirect-removed': u'機械人輔助消除歧義：%(from)s - 刪除連結',
         'solve_disambiguation-redirect-resolved': u'機械人輔助消除歧義：%(from)s - 連接改為%(to)s',
         'solve_disambiguation-links-resolved': u'機械人輔助消除歧義：%(from)s - 連接改為%(to)s',
         'solve_disambiguation-redirect-adding-dn-template': u'機械人輔助消除歧義：%(from)s - 標記為需要專家關注',
         'solve_disambiguation-adding-dn-template': u'機械人輔助消除歧義：%(from)s  - 標記為需要專家關注',
         'solve_disambiguation-unknown-page': u'(未知)',
-        'solve_disambiguation-links-removed': u'機械人輔助消除歧義：%(from)s - 移除鏈接。',
+        'solve_disambiguation-links-removed': u'機械人輔助消除歧義：%(from)s - 移除連結。',
     },
     # Author: Justincheng12345
     'zh-hk': {

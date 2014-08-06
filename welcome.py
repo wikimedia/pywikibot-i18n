@@ -101,7 +101,7 @@ msg = {
     # Author: Y-M D
     'br': {
         'welcome-welcome': u'Degemer mat !',
-        'welcome-bad_username': u'Bot : Ouzhpennadenn un anv-implijer a rank bezañ gwiriekaet',
+        'welcome-bad_username': u'Bot : Ouzhpennadenn un anv implijer a rank bezañ gwiriekaet',
         'welcome-updating': u'Bot : Hizivadenn ar renabl',
     },
     # Author: Edinwiki
@@ -134,6 +134,10 @@ msg = {
         'welcome-welcome': u'Vítejte!',
         'welcome-bad_username': u'Robot: Přidávám uživatelské jméno, které je potřeba zkontrolovat',
         'welcome-updating': u'Robot: Aktualizuji log',
+    },
+    # Author: ОйЛ
+    'cu': {
+        'welcome-welcome': u'Добрѣ прити',
     },
     # Author: Salam
     'cv': {
@@ -196,7 +200,7 @@ msg = {
     'es': {
         'welcome-welcome': u'¡Bienvenido!',
         'welcome-bad_username': u'Bot: adición de nombre de usuario que necesita revisión',
-        'welcome-updating': u'Bot: Actualizando registro',
+        'welcome-updating': u'Bot: actualización del registro',
     },
     # Author: Avjoska
     # Author: Pikne
@@ -420,6 +424,10 @@ msg = {
     'lv': {
         'welcome-welcome': u'Laipni lūdzam!',
     },
+    # Author: Ceas08
+    'lzz': {
+        'welcome-welcome': u'Xela do K\'aoba!',
+    },
     # Author: StefanusRA
     'map-bms': {
         'welcome-welcome': u'Sugeng teka!',
@@ -604,11 +612,12 @@ msg = {
         'welcome-bad_username': u'Bot: Added username to be checked',
         'welcome-updating': u'Bot: Rifreskoj log',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
         'welcome-welcome': u'Добро дошли!',
-        'welcome-bad_username': u'Робот: додато корисничко име које треба проверити',
-        'welcome-updating': u'Робот: ажуриран дневник',
+        'welcome-bad_username': u'Бот: додато корисничко име које треба проверити',
+        'welcome-updating': u'Бот: ажуриран дневник',
     },
     # Author: Rancher
     'sr-el': {
@@ -745,11 +754,12 @@ msg = {
     },
     # Author: Breawycker
     # Author: Justincheng12345
+    # Author: LNDDYL
     # Author: Lauhenry
     # Author: Simon Shek
     'zh-hant': {
         'welcome-welcome': u'歡迎！',
-        'welcome-bad_username': u'機械人：添加需要檢查的用戶名',
+        'welcome-bad_username': u'機械人：添加需要檢查的使用者名稱',
         'welcome-updating': u'機械人：更新日誌',
     },
     # Author: Justincheng12345

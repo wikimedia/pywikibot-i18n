@@ -301,9 +301,10 @@ msg = {
     'sq': {
         'unlink-unlinking': u'Roboti: U fshi lidhja "%s"',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'unlink-unlinking': u'Робот: уклоњена веза „%s“',
+        'unlink-unlinking': u'Бот: уклоњена веза „%s“',
     },
     # Author: Rancher
     'sr-el': {

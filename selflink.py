@@ -3,14 +3,31 @@ msg = {
     'en': {
         'selflink-remove': u'Bot: Removing selflinks',
     },
+    # Author: Base
     'qqq': {
-        'selflink-remove': u'Default edit summary for when the bot removes selflinks from an article.',
+        'selflink-remove': u'Default edit summary for when the bot removes selflinks from an article. Selflinks are links to the same page they are written in.',
     },
     'ar': {
         'selflink-remove': u'روبوت: إزالة وصلات ذاتية',
     },
+    # Author: Xuacu
+    'ast': {
+        'selflink-remove': u'Bot: Desaniciu d\'enllaces a la propia páxina',
+    },
     'be-x-old': {
         'selflink-remove': u'Робат: выдаленьне аўтаспасылкі',
+    },
+    # Author: Edinwiki
+    'bs': {
+        'selflink-remove': u'Bot: Uklanjam linkovanje na sebe',
+    },
+    # Author: Fitoschido
+    'ca': {
+        'selflink-remove': u'Robot: eliminació d’autoenllaços',
+    },
+    # Author: Умар
+    'ce': {
+        'selflink-remove': u'Бот: дӀабаьккхина корта-хьажорг йозан юкъахь. хьажа кхин.',
     },
     'cs': {
         'selflink-remove': u'Robot odstranil odkaz na název článku',
@@ -30,6 +47,10 @@ msg = {
     },
     'fr': {
         'selflink-remove': u'Robot: Enlève autoliens',
+    },
+    # Author: Murma174
+    'frr': {
+        'selflink-remove': u'Bot: Nem rekursiif ferwisangen wech',
     },
     'he': {
         'selflink-remove': u'בוט: מסיר קישורים של הדף לעצמו',
@@ -55,6 +76,10 @@ msg = {
     # Author: Robby
     'lb': {
         'selflink-remove': u'Bot: Linken op déi selwecht Säit ewechhuelen',
+    },
+    # Author: Jagwar
+    'mg': {
+        'selflink-remove': u'Rôbô: Manova ny rohy manondro tena',
     },
     # Author: Bjankuloski06
     'mk': {
@@ -82,11 +107,16 @@ msg = {
     'sv': {
         'selflink-remove': u'Bot: Tar bort självlänkar',
     },
+    # Author: Base
+    'uk': {
+        'selflink-remove': u'Бот: вилучення посилань на цю саму сторінку',
+    },
     # Author: Minh Nguyen
     'vi': {
         'selflink-remove': u'Bot: Bỏ các liên kết không đi đâu',
     },
+    # Author: Liuxinyu970226
     'zh': {
-        'selflink-remove': u'機器人:移除自我連結',
+        'selflink-remove': u'机器人：移除自链接',
     },
 };

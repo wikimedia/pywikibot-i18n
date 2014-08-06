@@ -46,6 +46,10 @@ msg = {
     'ca': {
         'spellcheck-checking': u'Corrector ortogràfic ajudat pel robot',
     },
+    # Author: Умар
+    'ce': {
+        'spellcheck-checking': u'орфографи ботан гӀоьнца',
+    },
     # Author: Tchoř
     'cs': {
         'spellcheck-checking': u'Kontrola  překlepů s pomocí robota',
