@@ -5,14 +5,14 @@ msg = {
         'archivebot-archive-full': u'(ARCHIVE FULL)',
         'archivebot-archive-summary': u'Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].',
         'archivebot-archiveheader': u'{{talkarchive}}',
-        'archivebot-older-than': u'older than',
+        'archivebot-older-than': u'older than %(duration)s',
         'archivebot-page-summary': u'Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
     },
     # Author: Csisc
     # Author: McDutchie
     # Author: Shirayuki
     'qqq': {
-        'archivebot-older-than': u'Followed by " " and timestamp (elapsed time).\n{{Identical|Older than}}',
+        'archivebot-older-than': u'"duration" is the localized form of the elapsed time.\n{{Identical|Older than}}',
         'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
         'archivebot-archiveheader': u'Template that will be put on new archive pages as the header.',
         'archivebot-archive-full': u'Appended to the summary.',
