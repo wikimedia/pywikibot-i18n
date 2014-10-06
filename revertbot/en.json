@@ -1,0 +1,3 @@
+{
+	"revertbot-revert": "Bot: Reverted to revision %(revid)s by %(author)s on %(timestamp)s"
+}

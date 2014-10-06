@@ -1,0 +1,7 @@
+{
+	"protect-links": "Bot: Protecting all pages linked from %(page)s",
+	"protect-simple": "Bot: Protecting a list of files.",
+	"protect-category": "Bot: Protecting all pages from category %(cat)s",
+	"protect-ref": "Bot: Protecting all pages referring from %(page)s",
+	"protect-images": "Bot: Protecting all images on page %(page)s"
+}

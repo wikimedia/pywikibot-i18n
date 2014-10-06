@@ -1,0 +1,9 @@
+{
+	"pywikibot-enter-xml-filename": "Please enter the XML dump's filename:",
+	"pywikibot-enter-page-processing": "Which page should be processed?",
+	"pywikibot-enter-file-links-processing": "Links to which file page should be processed?",
+	"pywikibot-enter-namespace-number": "Please enter a namespace by its number:",
+	"pywikibot-enter-new-text": "Please enter the new text:",
+	"pywikibot-enter-category-name": "Please enter the category name:",
+	"pywikibot-enter-finished-browser": "Press Enter when finished in browser."
+}
