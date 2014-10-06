@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"add_text-adding": "Робот: Додава %(adding)s"
+}

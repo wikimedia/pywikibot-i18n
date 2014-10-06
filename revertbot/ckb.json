@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Calak"
+		]
+	},
+	"revertbot-revert": "بۆت: گەڕێنرایەوە بۆ پێداچوونەوەی %(revid)s لە لایەن %(author)s لە %(timestamp)s"
+}

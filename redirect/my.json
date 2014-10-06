@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lionslayer"
+		]
+	},
+	"redirect-fix-double": "ဘော့ - %(to)s သို့ ပြန်ညွှန်းနှစ်ထပ်ဖြစ်နေသည်ကို ပြင်နေသည်",
+	"redirect-remove-loop": "[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|ပြန်ညွှန်း]]သည် ယင်းကို ပြန်ညွှန်းခြင်းခံရသောကြောင့်  သံသရာလည်မှု ဖြစ်စေသည်။"
+}

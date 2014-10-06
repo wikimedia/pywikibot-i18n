@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Farras"
+		]
+	},
+	"table2wiki-warnings": "Bot pengguna: sintaks tabel dimutakhirkan - {{PLURAL:count|1|%(count)d}} peringatan!",
+	"table2wiki-no-warning": "Bot pengguna: sintaks tabel dimutakhirkan"
+}

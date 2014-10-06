@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"archivebot-older-than": "eldre enn",
+	"archivebot-page-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} (%(why)s) til %(archives)s.",
+	"archivebot-archiveheader": "{{arkiv}}",
+	"archivebot-archive-full": "(ARKIV FULLT)",
+	"archivebot-archive-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]]."
+}

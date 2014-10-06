@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fișier]] mutat la [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Fișierul este acum disponibil la [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

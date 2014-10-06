@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(najden ni noben človeški urejevalec)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s – [%(history_link)s zadnje urejanje] (%(page_size)s zlogov) od %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Opozorilno sporočilo robota: %(page)s »''%(warning)s''«",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nova razprava",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – nazadnje urejal [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Obvestilo",
+	"thirdparty-drtrigonbot-subster-summary-mod": "zamenjevanje oznak %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Razprava je zaprta",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s vse razprave so končane (ustavljam nadzor) – zadnje urejanje od %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Dodan povzetek razprave: %(num)i vnosov",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Razprava je bila spremenjena",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Dodan povzetek razprave s čiščenjem: %(num)i vnosov",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Posodobljen povzetek razprave: %(num)i vnosov na %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "SPOROČILO ROBOTA",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nPovzetek ustvaril, dne: %(sign)s</noinclude>"
+}

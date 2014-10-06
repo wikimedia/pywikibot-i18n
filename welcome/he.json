@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"welcome-welcome": "ברוך הבא!",
+	"welcome-bad_username": "בוט: הוספת שם משתמש שצריך לבדוק",
+	"welcome-updating": "בוט: עדכון יומן"
+}

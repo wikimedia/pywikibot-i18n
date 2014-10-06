@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Dim Grits"
+		]
+	},
+	"welcome-welcome": "Ласкаво просимо!",
+	"welcome-bad_username": "Бот: Додане підозріле ім'я користувача",
+	"welcome-updating": "Бот: Оновлення журналу"
+}

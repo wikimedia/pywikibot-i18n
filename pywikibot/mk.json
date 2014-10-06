@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Внесете го името на XML-складот:",
+	"pywikibot-enter-page-processing": "Која страница треба да се обработи?",
+	"pywikibot-enter-file-links-processing": "За која податотека да ги обработам врските?",
+	"pywikibot-enter-namespace-number": "Внесете го именскиот простор според неговиот број:",
+	"pywikibot-enter-new-text": "Внесете го новиот текст:",
+	"pywikibot-enter-category-name": "Внесете го името на категоријата:",
+	"pywikibot-enter-finished-browser": "Стиснете на „Enter“ кога ќе завршите во прелистувачот."
+}

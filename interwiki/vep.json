@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emaus"
+		]
+	},
+	"interwiki-modifying": "Bot toižeti: %(modifying)s",
+	"interwiki-adding-modifying": "Bot ližazi: %(adding)s toižeti: %(modifying)s",
+	"interwiki-adding-removing": "Bot ližazi: %(adding)s čudi poiš: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot ližazi: %(adding)s čudi poiš: %(removing)s toižeti: %(modifying)s",
+	"interwiki-adding": "Bot ližazi: %(adding)s",
+	"interwiki-removing": "Bot čudi poiš: %(removing)s",
+	"interwiki-removing-modifying": "Bot čudi poiš: %(removing)s toižeti: %(modifying)s"
+}

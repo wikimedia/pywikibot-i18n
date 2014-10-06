@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Pietrodn"
+		]
+	},
+	"category_redirect-comment": "Bot di manutenzione dei redirect a categorie",
+	"category_redirect-change-category": "Bot: cambio la categoria con redirect [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: aggiungo il template del redirect a categoria per manutenzione",
+	"category_redirect-edit-request": "Le seguenti pagine protette sono state individuate come bisognose di aggiornamenti per i link alle categorie: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s è in %(oldcat)s, che è un redirect verso %(newcat)s",
+	"category_redirect-fix-double": "Bot: Sistemo i redirect doppi"
+}

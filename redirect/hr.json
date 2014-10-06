@@ -1,0 +1,5 @@
+{
+	"redirect-fix-double": "Bot: Popravak dvostrukih preusmjeravanja → %(to)s",
+	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu",
+	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe"
+}

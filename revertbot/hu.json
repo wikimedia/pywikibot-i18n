@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega"
+		]
+	},
+	"revertbot-revert": "Bot: visszaállítva %(author)s %(timestamp)s-i, %(revid)s jelű revíziójára"
+}

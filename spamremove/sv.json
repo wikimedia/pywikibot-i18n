@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn"
+		]
+	},
+	"spamremove-remove": "Tar bort länkar till spamsida %(url)s"
+}

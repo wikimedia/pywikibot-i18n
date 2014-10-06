@@ -1,0 +1,3 @@
+{
+	"category-adding": "robot: ekley category [[:Category:%(newcat)s|%(newcat)s]]"
+}

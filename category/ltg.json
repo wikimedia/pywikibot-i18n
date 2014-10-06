@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dark Eagle"
+		]
+	},
+	"category-adding": "Robots: Daškier kategoreju [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-replacing": "Robots: Kategorejis %(oldcat)s puormeišona ar %(newcat)s",
+	"category-removing": "Robots: Izjimšona nu %(oldcat)s"
+}

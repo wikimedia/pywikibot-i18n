@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mucalexx"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Bot-unterstytzde Weiderloattungsauflésung: %(from)s - Link(s) entfernd",
+	"solve_disambiguation-redirect-resolved": "Bot-unterstytzde Weiderloattungsauflésung: %(from)s - Link(s) ersetzd durch %(to)s",
+	"solve_disambiguation-links-resolved": "Bot-unterstytzde Begrifsklärung: %(from)s - Link(s) ersetzd durch %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot-unterstytzde Begrifsklärung: %(from)s - markird, braucht a kundige Wartung",
+	"solve_disambiguation-adding-dn-template": "Bot-unterstytzde Begrifsklärung: %(from)s - markird, braucht a kundige Wartung",
+	"solve_disambiguation-unknown-page": "(néd bekånnt)",
+	"solve_disambiguation-links-removed": "Bot-unterstytzde Begrifsklärung: %(from)s - Link(s) entfernd"
+}

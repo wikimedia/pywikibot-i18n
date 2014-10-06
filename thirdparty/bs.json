@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki",
+			"KWiki"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ljudski urednik nije pronađen)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s posljednja izmjena] (%(page_size)s bajtova) od %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Upozorenje bota: %(page)s \"''%(warning)s''\".",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nova rasprava",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - posljednja izmjena od [[Korisnik:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Obavještenje",
+	"thirdparty-drtrigonbot-subster-summary-mod": "Zamjenjujem %(tags)s oznaka",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Rasprava zatvorena",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s sve rasprave su završene (nadzor zaustavljen) - posljednja izmjena od %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Sažetak rasprave dodan; %(num)i unosa.",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Rasprava izmjenjena",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Sažetak rasprave dodan sa čiščenjem: %(num)i unosa.",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Sažetak rasprave ažuriran: %(num)i unosa kod %(page)s.",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "PORUKA BOTA",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSažetak generisan od i na: %(sign)s</noinclude>"
+}

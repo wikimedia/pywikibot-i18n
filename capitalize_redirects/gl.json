@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: Creo unha redirección cara a \"[[%(to)s]]\""
+}

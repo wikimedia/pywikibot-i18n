@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"category_redirect-comment": "Bot vzdrževanja preusmeritev kategorij",
+	"category_redirect-change-category": "Robot: spremenil preusmerjeno kategorijo [[:%(oldCatLink)s|%(oldCatTitle)s]] v [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: dodajanje predloge preusmeritve kategorije za vzdrževanje",
+	"category_redirect-edit-request": "Naslednje zaščitene strani so potrebne posodobitve povezav na kategorije: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s je v %(oldcat)s, ki je preusmeritev na %(newcat)s",
+	"category_redirect-fix-double": "Bot: Popravljanje dvojnih preusmeritev"
+}

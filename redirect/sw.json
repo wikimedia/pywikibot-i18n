@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwisha"
+		]
+	},
+	"redirect-remove-broken": "Boti: Uelekezaji kwa ukurasa uliofutwa au ambao haupatikani",
+	"redirect-fix-loop": "Boti: Inarekebisha tanzi la uelekezaji kwa %(to)s"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"casechecker-replacement-summary": "बोट: वर्ण परिवर्तन गर्दै:",
+	"casechecker-delete-summary": "बोट: यस अनुप्रेषणमा शिर्षकमा उस्तै देखिने सिरिलिक र ल्याटिन वर्णहरू छन्",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "यस अनुप्रेषणले %(target)s मा प्रेषण गर्दथ्यो",
+	"casechecker-rename": "बोट: मिश्रित वर्ण पूनर्नामाङ्कन \\"
+}

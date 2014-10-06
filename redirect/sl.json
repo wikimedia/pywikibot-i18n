@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Mateju"
+		]
+	},
+	"redirect-fix-double": "Bot: Popravljanje dvojnih preusmeritev na %(to)s",
+	"redirect-remove-broken": "Robot: Preusmeritev na izbrisano ali neobstoječo stran",
+	"redirect-fix-broken-moved": "Robot: Popravljanje okvarjene povezave preusmeritve na premaknjeno ciljno stran %(to)s",
+	"redirect-fix-loop": "Robot: Popravljanje preusmeritvene zanke na %(to)s",
+	"redirect-remove-loop": "Robot: Cilj preusmeritve ustvarja preusmeritveno zanko",
+	"redirect-broken-redirect-template": "{{delete}}"
+}

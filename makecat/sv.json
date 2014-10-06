@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn"
+		]
+	},
+	"makecat-create": "Bot: Skapande eller uppdatering av kategorin [[:Category:%(cat)s|]]"
+}

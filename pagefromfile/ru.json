@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"pagefromfile-msg_bottom": "добавление в конец",
+	"pagefromfile-msg_force": "существующий текст перезаписан",
+	"pagefromfile-msg_top": "добавление сверху",
+	"pagefromfile-msg": "Бот: автоматизированный импорт статей"
+}

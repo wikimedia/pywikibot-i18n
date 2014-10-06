@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Olli"
+		]
+	},
+	"category_redirect-comment": "Luokkaohjauksien ylläpitobotti",
+	"category_redirect-change-category": "Botti vaihtoi ohjatun luokan [[:%(oldCatLink)s|%(oldCatTitle)s]] luokaksi [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Botti lisäsi luokan ohjausmallineen ylläpitotoimia varten",
+	"category_redirect-edit-request": "Seuraavat suojatut sivut tarvitsevat päivityksiä luokkalinkkeihin: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s on luokassa %(oldcat)s, joka on ohjaus luokkaan %(newcat)s",
+	"category_redirect-fix-double": "Botti korjasi kaksinkertaisen ohjauksen"
+}

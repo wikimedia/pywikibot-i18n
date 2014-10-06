@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"interwiki-modifying": "робот хийцина: %(modifying)s",
+	"interwiki-adding-modifying": "робот тIетоьхна: %(adding)s хийцина: %(modifying)s",
+	"interwiki-adding-removing": "робот тIетоьхна: %(adding)s дIаяьккхина: %(removing)s",
+	"interwiki-adding-removing-modifying": "робот тIетоьхна: %(adding)s дIаяьккхина: %(removing)s хийцина: %(modifying)s",
+	"interwiki-adding": "робот тIетоьхна: %(adding)s",
+	"interwiki-removing": "робот дIаяьккхина: %(removing)s",
+	"interwiki-removing-modifying": "робот дIаяьккхина: %(removing)s хийцина: %(modifying)s",
+	"interwiki-modifying-from": "бото хийцина: %(from)s → %(modifying)s"
+}

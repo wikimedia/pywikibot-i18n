@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Simon Shek",
+			"Waihorace"
+		]
+	},
+	"archivebot-older-than": "早於%(duration)s",
+	"archivebot-page-summary": "機械人：%(count)d討論串(%(why)s)存檔至%(archives)s。",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(存檔已滿)",
+	"archivebot-archive-summary": "機械人：從%(from)s存檔%(count)d。"
+}

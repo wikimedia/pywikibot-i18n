@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njardarlogar"
+		]
+	},
+	"capitalize_redirects-create-redirect": "robot: omdirigerer til [[%(to)s]]"
+}

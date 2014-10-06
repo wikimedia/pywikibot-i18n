@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"interwiki-modifying": "Bot: Ngowahi %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Nambahaké %(adding)s; ngowahi %(modifying)s",
+	"interwiki-adding-removing": "Bot: Nambahaké %(adding)s; nyingkiraké %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Nambahaké %(adding)s; nyingkiraké %(removing)s; ngowahi %(modifying)s",
+	"interwiki-adding": "Bot: Nambahaké %(adding)s",
+	"interwiki-removing": "Bot: Nyingkiraké %(removing)s",
+	"interwiki-removing-modifying": "Bot: Nyingkiraké %(removing)s; ngowah %(modifying)s",
+	"interwiki-modifying-from": "Bot: Ngowah %(from)s dadi %(modifying)s"
+}

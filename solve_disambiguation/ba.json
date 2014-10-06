@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Бот ярҙамында мәғәнә айырыу: %(from)s — һылтанмалар юйыу",
+	"solve_disambiguation-redirect-resolved": "Бот ярҙамында мәғәнә айырыу: %(from)s - һылтанма(лар) үҙгәртелде: %(to)s",
+	"solve_disambiguation-links-resolved": "Бот ярҙамында мәғәнә айырыу:  %(from)s - һылтанма(лар) үҙгәртелде: %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Бот ярҙамында мәғәнә айырыу: %(from)s - эксперт иғтибары кәрәк тип билдәләнде",
+	"solve_disambiguation-adding-dn-template": "Бот ярҙамында мәғәнә айырыу: %(from)s - эксперт иғтибары кәрәк тип билдәләнде",
+	"solve_disambiguation-unknown-page": "(билдәһеҙ)",
+	"solve_disambiguation-links-removed": "Бот ярҙамында мәғәнә айырыу: %(from)s — һылтанма(лар) юйылды."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720"
+		]
+	},
+	"featured-good": "Robô: %(page)s é um artigo bom",
+	"featured-list": "Robô: %(page)s é um anexo destacado",
+	"featured-featured": "Robô: %(page)s é um artigo destacado",
+	"featured-former": "Robô : %(page)s é um ex-artigo destacado"
+}

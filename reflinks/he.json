@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yona b",
+			"Ypnypn"
+		]
+	},
+	"reflinks-autogen": "נוצר אוטומטית",
+	"reflinks-comment": "בוט יוצר כותרת",
+	"reflinks-msg": "בוט:מלביש קישורים חיצוניים. (FAQ : [[%(manual)s]])"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"makecat-create": "Bot: Creo ou actualizo a categoría [[:Category:%(cat)s|]]"
+}

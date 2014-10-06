@@ -1,0 +1,9 @@
+{
+	"pywikibot-enter-xml-filename": "Skriv inn XML-dumpens filnavn:",
+	"pywikibot-enter-page-processing": "Hvilken side skal behandles?",
+	"pywikibot-enter-file-links-processing": "Lenker til hvilken bildeside som skal behandles?",
+	"pywikibot-enter-namespace-number": "Skriv inn et navneromtall:",
+	"pywikibot-enter-new-text": "Skriv inn den nye teksten:",
+	"pywikibot-enter-category-name": "Skriv inn kategorinavnet:",
+	"pywikibot-enter-finished-browser": "Trykk Enter når du er ferdig i nettleseren."
+}

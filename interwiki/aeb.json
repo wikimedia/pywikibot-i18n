@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csisc"
+		]
+	},
+	"interwiki-modifying": "روبوت تعديل: %(modifying)s",
+	"interwiki-adding-modifying": "روبوت إضافة: %(adding)s تعديل: %(modifying)s",
+	"interwiki-adding-removing": "روبوت إضافة: %(adding)s إزالة: %(removing)s",
+	"interwiki-adding-removing-modifying": "روبوت إضافة: %(adding)s إزالة: %(removing)s تعديل: %(modifying)s",
+	"interwiki-adding": "روبوت إضافة: %(adding)s",
+	"interwiki-removing": "روبوت إزالة: %(removing)s",
+	"interwiki-removing-modifying": "روبوت إزالة: %(removing)s تعديل: %(modifying)s",
+	"interwiki-modifying-from": "Robot: baddel %(from)s il %(modifying)s"
+}

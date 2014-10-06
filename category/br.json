@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"category-version-history": "Robot: Oc'h enrollañ istor stummoù kent ar %(oldcat)s",
+	"category-changing": "Robot : O kemmañ %(oldcat)s e %(newcat)s",
+	"category-adding": "Robot : Oc'h ouzhpennañ ar rummad [[Category:%(newcat)s]]",
+	"category-also-in": "(ivez e %(alsocat)s)",
+	"category-was-disbanded": "Robot : Dilamet eo bet ar rummad",
+	"category-replacing": "Robot : Oc'h erlec'hiañ ar rummad %(oldcat)s gant %(newcat)s",
+	"category-removing": "Robot : Tennet diwar %(oldcat)s",
+	"category-was-moved": "Robot : Rummad dilec'hiet da [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Robot : dilec'hiet adalek %s. Aozerien : %s",
+	"category-section-title": "Pajenn istor stummoù kent ar %(oldcat)s",
+	"category-listifying": "Robot : Roll eus %(fromcat)s (%(num)d pajenn)"
+}

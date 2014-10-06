@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"redirect-fix-double": "Bottur: Rættar dupulta umdirigering til %(to)s",
+	"redirect-remove-broken": "Bottur: Umstjórnan til eina strikaða síðu ella til eina síðu sum ikki er til",
+	"redirect-fix-broken-moved": "Bottur: Rættar brotnar umdirigeringar til flutta málsíðu %(to)s",
+	"redirect-fix-loop": "Bottur: Rættar endurstýris (redirect) lykkju til %(to)s"
+}

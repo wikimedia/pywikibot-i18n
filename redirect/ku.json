@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ghybu"
+		]
+	},
+	"redirect-fix-double": "Robot: Fixing double redirect to %(to)s"
+}

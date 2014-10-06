@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helder.wiki",
+			555
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Desambiguação assistida por bot: %(from)s - link(s) removido(s)",
+	"solve_disambiguation-redirect-resolved": "Desambiguação assistida por bot: link para %(from)s trocado por %(to)s",
+	"solve_disambiguation-links-resolved": "Desambiguação assistida por bot: link para %(from)s trocado para %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Desambiguação assistida por bot: %(from)s - Marcado como precisando de atenção especializada",
+	"solve_disambiguation-adding-dn-template": "Desambiguação assistida por bot: %(from)s - Marcado como precisando de atenção especializada",
+	"solve_disambiguation-unknown-page": "(desconhecido)",
+	"solve_disambiguation-links-removed": "Desambiguação assistida por bot: %(from)s link(s) removido(s)"
+}

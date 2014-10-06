@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"featured-good": "Bot: %(page)s là một bài viết chất lượng tốt",
+	"featured-list": "Bot: %(page)s là một danh sách chọn lọc",
+	"featured-featured": "Bot: %(page)s là một bài viết chọn lọc",
+	"featured-former": "Bot: %(page)s từng là một bài viết chọn lọc"
+}

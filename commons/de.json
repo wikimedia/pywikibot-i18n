@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"commons-file-moved": "Bot: [[:File:%(localfile)s|Datei]] wurde nach [[:commons:File:%(commonsfile)s|commons]] verschoben.",
+	"commons-file-now-available": "Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar."
+}

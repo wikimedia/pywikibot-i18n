@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Sila masukkan nama fail longgokan XML:",
+	"pywikibot-enter-page-processing": "Halaman yang manakah harus diproses?",
+	"pywikibot-enter-file-links-processing": "Pautan ke halaman fail yang manakah harus diproses?",
+	"pywikibot-enter-namespace-number": "Sila masukkan ruang nama mengikut nombornya:",
+	"pywikibot-enter-new-text": "Sila masukkan teks baru:",
+	"pywikibot-enter-category-name": "Sila masukkan nama kategori:",
+	"pywikibot-enter-finished-browser": "Tekan Enter selepas siap dalam pelayar."
+}

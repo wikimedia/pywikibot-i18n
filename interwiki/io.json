@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "roboto modifikas: %(modifying)s",
+	"interwiki-adding-modifying": "roboto adjuntas: %(adding)s modifikas: %(modifying)s",
+	"interwiki-adding-removing": "roboto adjuntas: %(adding)s efacas: %(removing)s",
+	"interwiki-adding-removing-modifying": "roboto adjuntas: %(adding)s efacas: %(removing)s modifikas: %(modifying)s",
+	"interwiki-adding": "roboto adjuntas: %(adding)s",
+	"interwiki-removing": "roboto efacas: %(removing)s",
+	"interwiki-removing-modifying": "roboto efacas: %(removing)s modifikas: %(modifying)s"
+}

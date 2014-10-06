@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"category_redirect-comment": "Bot derc'hel e ratre ar rummadoù adkaset",
+	"category_redirect-change-category": "Robot : cheñch ar rummadoù adkaset [[:%(oldCatLink)s|%(oldCatTitle)s]] da [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot : oc'h ouzhpennañ ur patrom adkas rummadoù evit an trezalc'h",
+	"category_redirect-edit-request": "Merzet eo bet e oa rekis d'ar pajennoù gwarezet-mañ bezañ hizivaet liammoù o rummadoù : %(itemlist)s",
+	"category_redirect-edit-request-item": "* Emañ %(title)s e %(oldcat)s, hag a zo un adkas war-zu %(newcat)s",
+	"category_redirect-fix-double": "Kempennet adkas doubl gant robot"
+}

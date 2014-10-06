@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"interwiki-modifying": "Lopako: Ke hoʻokāhuli nei iā %(modifying)s",
+	"interwiki-adding-modifying": "Lopako: Ke hoʻohui nei iā %(adding)s; ke hoʻokāhuli nei iā %(modifying)s",
+	"interwiki-adding-removing": "Lopako: Ke hoʻohui nei iā %(adding)s; ke holoi nei iā: %(removing)s",
+	"interwiki-adding-removing-modifying": "Lopako: Ke hoʻohui nei iā %(adding)s; ke holoi nei iā %(removing)s; ke hoʻo kāhuli nei iā %(modifying)s",
+	"interwiki-adding": "Lopako: Ke hoʻohui nei iā %(adding)s",
+	"interwiki-removing": "Lopako: Ke holoi nei iā %(removing)s",
+	"interwiki-removing-modifying": "Lopako: Ke holoi nei iā %(removing)s; ke hoʻokāhuli nei iā %(modifying)s",
+	"interwiki-modifying-from": "Lopako: Ke hoʻokāhuli ʻia nei ʻo %(from)s iā %(modifying)s"
+}

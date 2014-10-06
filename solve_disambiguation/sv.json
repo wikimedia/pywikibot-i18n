@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"Tobulos1"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Länkar direkt till rätt artikel för: %(from)s - Tog bort länk(ar)",
+	"solve_disambiguation-redirect-resolved": "Länkar direkt till rätt artikel för: %(from)s - Bytte länk(ar) till %(to)s",
+	"solve_disambiguation-links-resolved": "Länkar direkt till rätt artikel för: %(from)s - Bytte länk(ar) till %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot-assisterad olika betydelser: %(from)s - Märkt som i behov av uppmärksamhet från expert",
+	"solve_disambiguation-adding-dn-template": "Bot-assisterad olika betydelser: %(from)s - Märkt som i behov av uppmärksamhet från expert",
+	"solve_disambiguation-unknown-page": "(okänd)",
+	"solve_disambiguation-links-removed": "Länkar direkt till rätt artikel för: %(from)s - Tog bort länk(ar)"
+}

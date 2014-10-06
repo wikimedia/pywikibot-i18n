@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"interwiki-modifying": "Bot: Badalid %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Dheeraad %(adding)s; Badalid %(modifying)s",
+	"interwiki-adding-removing": "Bot: Dheeraad %(adding)s;tirtiris: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Dheeraad %(adding)s; Ka saaris %(removing)s; Badalid %(modifying)s",
+	"interwiki-adding": "Bot: dheeraad %(adding)s",
+	"interwiki-removing": "Bot: Ka saaris %(removing)s",
+	"interwiki-removing-modifying": "Bot: Jar %(removing)s; Badalid %(modifying)s",
+	"interwiki-modifying-from": "Boot: U %(from)s Badalid %(modifying)s"
+}

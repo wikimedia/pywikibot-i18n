@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS"
+		]
+	},
+	"interwiki-modifying": "Bot redaktəsi dəyişdirir: %(modifying)s",
+	"interwiki-adding-modifying": "Bot redaktəsi əlavə edir: %(adding)s; dəyişdirir: %(modifying)s",
+	"interwiki-adding-removing": "Bot redaktəsi əlavə edir: %(adding)s; silir: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot redaktəsi əlavə edir: %(adding)s; silir: %(removing)s; dəyişdirir: %(modifying)s",
+	"interwiki-adding": "Bot redaktəsi əlavə edir: %(adding)s",
+	"interwiki-removing": "Bot redaktəsi silir: %(removing)s",
+	"interwiki-removing-modifying": "Bot redaktəsi silir: %(removing)s; dəyişdirir: %(modifying)s",
+	"interwiki-modifying-from": "Bot redaktəsi dəyişdirir: %(from)s - %(modifying)s"
+}

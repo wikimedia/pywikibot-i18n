@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Silvonen"
+		]
+	},
+	"archivebot-older-than": "vanhempi kuin",
+	"archivebot-page-summary": "Botti arkistoi %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} (%(why)s) arkistoon %(archives)s.",
+	"archivebot-archiveheader": "{{Arkisto}}",
+	"archivebot-archive-full": "(ARKISTO TÄYNNÄ)",
+	"archivebot-archive-summary": "Arkistoidaan %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} sivulta [[%(from)s]]."
+}

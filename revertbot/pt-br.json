@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amgauna"
+		]
+	},
+	"revertbot-revert": "Bot: Revertida a revisão %(revid)s do %(author)s em %(timestamp)s"
+}

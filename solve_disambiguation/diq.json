@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Peşti da boti ra maneo bin: %(from)s - gıre(y) wedaryay.",
+	"solve_disambiguation-redirect-resolved": "Destegin da Botiya maneo bin: %(from)s - Gıre(y) vurneyay u ard %(to)s",
+	"solve_disambiguation-links-resolved": "Destegin da Botiya maneo bin: %(from)s - Gıre(y) vurneyay u ard %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Destegin da botiya maneo bin: %(from)s - Resber icab keno deye mor be",
+	"solve_disambiguation-adding-dn-template": "Destegin da botiya maneo bin: %(from)s - Resber icab keno deye mor be",
+	"solve_disambiguation-unknown-page": "(Ne sılasneno)",
+	"solve_disambiguation-links-removed": "Peşti da boti ra maneo bin: %(from)s - gıre(y) wedaryay."
+}

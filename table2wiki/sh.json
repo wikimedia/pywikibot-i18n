@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolega2357"
+		]
+	},
+	"table2wiki-warnings": "Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja|%(count)d upozorenja}})",
+	"table2wiki-no-warning": "Robot kojim upravlja korisnik: sintaksa tabele je ažurirana"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"category_redirect-comment": "Bot Qaybta dayactirka rogeha",
+	"category_redirect-change-category": "Bot: Badalaha qaybta la rogogay [[:%(oldCatLink)s|%(oldCatTitle)s]] ee ku [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: ku dar qayb roge template ee tayactir",
+	"category_redirect-edit-request": "Bogagaan soo socda ee qarsoonaa waa la muujiyey si in loo baahanyahay dib u howl galinta xiriirka qaybta: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s ku %(oldcat)s, waxa uu ubadalaa %(newcat)s",
+	"category_redirect-fix-double": "Bot: Hagaajin roge laba jiba-laaban"
+}

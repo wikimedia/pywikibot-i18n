@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"misspelling-fixing": "Робот: Исправление ссылки с ошибками на %(page)s"
+}

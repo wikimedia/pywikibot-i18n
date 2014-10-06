@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jaminianurag",
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "ৰবট পৰিবৰ্তন কৰিছে: %(modifying)s",
+	"interwiki-adding-modifying": "ৰবট যোগ দিছে :%(adding)s পৰিবৰ্তন কৰিছে: %(modifying)s",
+	"interwiki-adding": "ৰবট যোগ দিছে :%(adding)s"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"interwiki-modifying": "Bot Bidla: %(modifying)s",
+	"interwiki-adding-modifying": "Bot Żieda: %(adding)s Bidla: %(modifying)s",
+	"interwiki-adding-removing": "Bot Żieda: %(adding)s Tneħħija: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot Żieda: %(adding)s Tneħħija: %(removing)s Bidla: %(modifying)s",
+	"interwiki-adding": "Bot Żieda: %(adding)s",
+	"interwiki-removing": "Bot Tneħħija: %(removing)s",
+	"interwiki-removing-modifying": "Bot Tneħħija: %(removing)s Bidla: %(modifying)s",
+	"interwiki-modifying-from": "Robot: Bidla f'%(from)s għal %(modifying)s"
+}

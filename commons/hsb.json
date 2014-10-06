@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Dataja]] je so do [[:commons:File:%(commonsfile)s|commons]] přesunyła.",
+	"commons-file-now-available": "Dataja steji nětko na [[:commons:File:%(commonsfile)s|Wikimedia Commons]] k dispoziciji."
+}

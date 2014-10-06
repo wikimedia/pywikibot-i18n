@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"interwiki-adding-modifying": "تزويد روبوت: %(adding)s تحوير: %(modifying)s",
+	"interwiki-adding-removing": "تزويد روبوت: %(adding)s مسح: %(removing)s",
+	"interwiki-adding-removing-modifying": "تزويد روبوت: %(adding)s مسح: %(removing)s تحوير: %(modifying)s",
+	"interwiki-adding": "تزويد روبوت: %(adding)s"
+}

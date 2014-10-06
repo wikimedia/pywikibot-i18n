@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"category_redirect-comment": "Bot fir den Ënnerhalt vu Viruleedunge vu Kategorien",
+	"category_redirect-change-category": "Bot: Ännere vun der virugeleeter Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] op [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot:Kategorie-Viruleedungs-Schabloun derbäigesat aus Maintenance-Grënn",
+	"category_redirect-edit-request": "Op dëse gespaarte Säite mussen nach Aktualiséierunge vun de Kategorie-Linke gemaach ginn: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s ass an %(oldcat)s, déi eng Viruleedung op %(newcat)s ass",
+	"category_redirect-fix-double": "Bot: Duebel Viruleedung gefléckt"
+}

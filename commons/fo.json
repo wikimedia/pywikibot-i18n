@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fíla]] flutt til [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Fíluna finnur tú nú á [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

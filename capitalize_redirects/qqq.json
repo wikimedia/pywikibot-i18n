@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Edit summary. Parameters:\n* %(to)s - page title"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"welcome-welcome": "Benvido!",
+	"welcome-bad_username": "Bot: Engado un nome de usuario que necesita ser comprobado",
+	"welcome-updating": "Bot: Actualizo o rexistro"
+}

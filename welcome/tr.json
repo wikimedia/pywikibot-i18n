@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Khutuck"
+		]
+	},
+	"welcome-welcome": "Hoş geldiniz!",
+	"welcome-bad_username": "Bot: Kullanıcı adını kontrol edilmesi gerekenlere ekliyor",
+	"welcome-updating": "Bot: Kayıt güncelleme"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Monggo nglebokna jenengberkas dump XML:",
+	"pywikibot-enter-page-processing": "Kaca endi sing arep deproses ?",
+	"pywikibot-enter-file-links-processing": "Pranala maring kaca berkas endi sing arep deproses?",
+	"pywikibot-enter-namespace-number": "Monggo lebokna bilikjeneng nanggo nomere:",
+	"pywikibot-enter-new-text": "Monggo lebokna teks anyar:",
+	"pywikibot-enter-category-name": "Monggo lebokna jeneng kategori:",
+	"pywikibot-enter-finished-browser": "Penet Enter angger wis rampung nang pramban."
+}

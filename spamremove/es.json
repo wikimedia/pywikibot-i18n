@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"spamremove-remove": "Eliminación de enlaces a sitio publicitario %(url)s"
+}

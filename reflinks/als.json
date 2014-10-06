@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"reflinks-autogen": "automatisch aagleit",
+	"reflinks-comment": "Automatisch generierte Titel",
+	"reflinks-msg": "Bot: Korräkt Referänzformat (lueg [[%(manual)s]])"
+}

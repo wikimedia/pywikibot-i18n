@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"protect-links": "Robot: Zamykám všechny stránky odkazované z %(page)s",
+	"protect-simple": "Robot: Zamykám seznam souborů.",
+	"protect-category": "Robot: Zamykám všechny stránky v kategorii %(cat)s",
+	"protect-ref": "Robot: Zamykám všechny stránky odkazující na %(page)s",
+	"protect-images": "Robot: Zamykám všechny obrázky na stránce %(page)s"
+}

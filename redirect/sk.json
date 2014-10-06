@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teslaton",
+			"Wizzard"
+		]
+	},
+	"redirect-fix-double": "Robot: Opravujem dvojité presmerovanie na %(to)s",
+	"redirect-remove-broken": "Robot: Presmerovanie na neexistujúcu stránku",
+	"redirect-fix-broken-moved": "Robot: Oprava porušeného presmerovania na presunutú cieľovú stránku %(to)s",
+	"redirect-fix-loop": "Robot: Oprava cyklického presmerovania na %(to)s",
+	"redirect-remove-loop": "Robot: Cieľ presmerovania tvorí slučku"
+}

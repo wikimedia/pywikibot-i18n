@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dragonòt"
+		]
+	},
+	"interwiki-modifying": "ël trigomiro a modìfica: %(modifying)s",
+	"interwiki-adding-modifying": "ël trigomiro a gionta: %(adding)s a modìfica: %(modifying)s",
+	"interwiki-adding-removing": "ël trigomiro a gionta: %(adding)s a gava: %(removing)s",
+	"interwiki-adding-removing-modifying": "ël trigomiro a gionta: %(adding)s a gava: %(removing)s a modìfica: %(modifying)s",
+	"interwiki-adding": "ël trigomiro a gionta: %(adding)s",
+	"interwiki-removing": "ël trigomiro a gava: %(removing)s",
+	"interwiki-removing-modifying": "ël trigomiro a gava: %(removing)s a modìfica: %(modifying)s",
+	"interwiki-modifying-from": "Trigomiro: Cangé %(from)s a %(modifying)s"
+}

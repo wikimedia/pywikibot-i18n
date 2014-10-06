@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca"
+		]
+	},
+	"revertbot-revert": "Bot: Revertit a la revisió %(revid)s per %(author)s el %(timestamp)s"
+}

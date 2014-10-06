@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Riemogerz",
+			"Xqt"
+		]
+	},
+	"category-changing": "Bot: Maubah %(oldcat)s manjadi %(newcat)s",
+	"category-adding": "Bot: Manambah tumbung [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(jua dalam %(alsocat)s)",
+	"category-was-disbanded": "Bot: Tumbung dipacah",
+	"category-replacing": "Bot: Mangganti tumbung %(oldcat)s lawan %(newcat)s",
+	"category-removing": "Bot: Mahapus matan %(oldcat)s",
+	"category-was-moved": "Bot: Tumbung dipindahakan ka [[:Category:%(newcat)s|%(title)s]]",
+	"category-listifying": "Bot: Maulah daptar matan %(fromcat)s (%(num)d entri)"
+}

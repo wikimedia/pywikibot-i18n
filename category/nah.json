@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ricardo gs",
+			"Teòtlalili"
+		]
+	},
+	"category-changing": "Tepozcuāyōllōtl: ōmopatlac %(oldcat)s īhuicpa %(newcat)s",
+	"category-also-in": "(noìuhki ìpan %(alsocat)s)",
+	"category-was-disbanded": "Tepostekitkatl: Yi tlaìxpôpolòlli in tlaìxmatkàtlàlilòtl",
+	"category-replacing": "Tepostekitkatl: Mìxpảtla tlaìxmatkàtlàlilòtl %(oldcat)s ìka %(newcat)s",
+	"category-removing": "Tepostekitkatl: Tlatlaìxpôpolwìlli ìpan %(oldcat)s",
+	"category-was-moved": "Tepostekitkatl: In tlaìxmatkatlàlilòtl òmotitlan ìpan [[:Category:%(newcat)s|%(title)s]]"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njardarlogar"
+		]
+	},
+	"replace-replacing": "robot: automatisk tekstbyte: %(description)s"
+}

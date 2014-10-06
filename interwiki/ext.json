@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "Robó Moificau: %(modifying)s",
+	"interwiki-adding-modifying": "Robó Añiiu: %(adding)s Moificau: %(modifying)s",
+	"interwiki-adding-removing": "Robó Añiiu: %(adding)s Hondeau: %(removing)s",
+	"interwiki-adding-removing-modifying": "Robó Añiiu: %(adding)s Hondeau: %(removing)s Moificau: %(modifying)s",
+	"interwiki-adding": "Robó Añiiu: %(adding)s",
+	"interwiki-removing": "Robó Hondeau: %(removing)s",
+	"interwiki-removing-modifying": "Robó Hondeau: %(removing)s Moificau: %(modifying)s"
+}

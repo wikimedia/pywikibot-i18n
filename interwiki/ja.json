@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki",
+			"青子守歌"
+		]
+	},
+	"interwiki-modifying": "ロボットによる: %(modifying)sを変更",
+	"interwiki-adding-modifying": "ロボットによる: %(adding)sを追加、%(modifying)sを変更",
+	"interwiki-adding-removing": "ロボットによる: %(adding)sを追加、%(removing)sを除去",
+	"interwiki-adding-removing-modifying": "ロボットによる: %(adding)sを追加、%(removing)sを除去、%(modifying)sを変更",
+	"interwiki-adding": "ロボットによる: %(adding)sを追加",
+	"interwiki-removing": "ロボットによる: %(removing)sを除去",
+	"interwiki-removing-modifying": "ロボットによる: %(removing)sを除去、%(modifying)sを変更",
+	"interwiki-modifying-from": "ロボットによる: %(from)sから%(modifying)sへ変更"
+}

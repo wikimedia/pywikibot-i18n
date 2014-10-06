@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"category-adding": "бот: поладозе [[:Category:%(newcat)s]]"
+}

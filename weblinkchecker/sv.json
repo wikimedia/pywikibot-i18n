@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"Tor.klingberg"
+		]
+	},
+	"weblinkchecker-archive_msg": "Webbsidan har sparats av Internet Archive. Överväg att länka till en lämplig arkiverad version: [%(URL)s].",
+	"weblinkchecker-caption": "Död länk",
+	"weblinkchecker-summary": "Bot: Rapporterar otillgänglig extern länk",
+	"weblinkchecker-report": "Följande externa länk har inte kunnat nås under flera försök av en automatisk bot. Var vänlig kontrollera om länken faktiskt är nere, och ta i så fall bort den."
+}

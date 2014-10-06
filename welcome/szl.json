@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Przemub"
+		]
+	},
+	"welcome-welcome": "Witej!",
+	"welcome-bad_username": "Robot: Wkludzenie miana kere trza sprawdzić",
+	"welcome-updating": "Robot: Rejer"
+}

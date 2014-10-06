@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"makecat-create": "机器人：创建或更新分类[[:Category:%(cat)s|]]"
+}

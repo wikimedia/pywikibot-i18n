@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njsubedi"
+		]
+	},
+	"revertbot-revert": "बोट: %(author)s द्वारा %(timestamp)sमा गरिएको रुजु %(revid)s मा फर्काइयो"
+}

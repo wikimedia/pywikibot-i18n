@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"GatoSelvadego"
+		]
+	},
+	"delete-images": "Robot: Scansełasion de tute łe imajini contegnude inte ła pajina %(page)s",
+	"delete-referring-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s",
+	"delete-from-category": "Robot: Scansełasion de tute łe pajine da ła categoria %(page)s",
+	"delete-from-file": "Robot: Scansełasion de na lista de file.",
+	"delete-linked-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"category_redirect-comment": "Categerie reguidal maintenance bot",
+	"category_redirect-change-category": "Robot: Chynge reguidit categerie [[:%(oldCatLink)s|%(oldCatTitle)s]] tae [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: Eikin categerie reguidal template fer maintenance",
+	"category_redirect-edit-request": "The follaein protectit pages hae been detectit aes needin updates tae categerie airtins: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s is in %(oldcat)s, this is ae reguidal til %(newcat)s",
+	"category_redirect-fix-double": "Bot: Fixin dooble-reguidals"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kc kennylau"
+		]
+	},
+	"makecat-create": "機械人：創建或更新分類[[:Category:%(cat)s|]]"
+}

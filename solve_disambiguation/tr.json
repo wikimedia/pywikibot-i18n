@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Khutuck"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı",
+	"solve_disambiguation-redirect-resolved": "Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi",
+	"solve_disambiguation-links-resolved": "Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) değiştirilerek %(to)s haline getirildi",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi",
+	"solve_disambiguation-adding-dn-template": "Bot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi",
+	"solve_disambiguation-unknown-page": "(bilinmiyor)",
+	"solve_disambiguation-links-removed": "Bot destekli anlam ayrımı: %(from)s - Bağlantı(lar) kaldırıldı"
+}

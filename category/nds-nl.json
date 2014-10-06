@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"category-version-history": "Bot: versiegeschiedenisse van veurmaolige %(oldcat)s op-esleugen",
+	"category-changing": "Bot: wieziging van %(oldcat)s naor %(newcat)s",
+	"category-adding": "Bot: kategorie [[:Category:%(newcat)s|%(newcat)s]] derbie edaon",
+	"category-also-in": "(oek in %(alsocat)s)",
+	"category-was-disbanded": "Bot: kategorie besteet niet meer",
+	"category-replacing": "Robot: kategorie %(oldcat)s is vervöngen deur %(newcat)s",
+	"category-removing": "Bot: vortehaold uut %(oldcat)s",
+	"category-was-moved": "Bot: kategorie is herneumd naor [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Robot: herneumd van %s. Auteurs: %s",
+	"category-section-title": "Paginageschiedenisse van veurmaolige %(oldcat)s",
+	"category-listifying": "Bot: lieste van %(fromcat)s (%(num)d pagina's)"
+}

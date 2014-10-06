@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krish Dulal",
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "रोबोट-सहायक अस्पष्टता: %(from)s - लिङ्क(हरू) हटाइयो",
+	"solve_disambiguation-redirect-resolved": "रोबोट-सहायक अस्पष्टता: %(from)sलाई - लिङ्क(हरू) लाई  %(to)s मा परिवर्तन गरियो",
+	"solve_disambiguation-links-resolved": "रोबोट-सहायक अस्पष्टता: %(from)s बाट - लिङ्क(हरू)लाई %(to)s मा परिवर्तन गरियो",
+	"solve_disambiguation-redirect-adding-dn-template": "रोबोट-सहायक अस्पष्ट: %(from)sलाई - विशेषज्ञ को ध्यानाकर्षण गराउँदै",
+	"solve_disambiguation-adding-dn-template": "रोबोट-सहायक अस्पष्ट: %(from)sलाई - विशेषज्ञको ध्यानाकर्षण गराउँदै",
+	"solve_disambiguation-unknown-page": "(अज्ञात)",
+	"solve_disambiguation-links-removed": "रोबोट-सहायक अस्पष्टता: %(from)sलाई - लिङ्क(हरू) हटाइयो"
+}

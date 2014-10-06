@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]]लाई  [[:commons:File:%(commonsfile)s|कमोन्स]]मा सारियो ।",
+	"commons-file-now-available": "फाइल अब [[:commons:File:%(commonsfile)s|विकिमिडिया कमन्स]]मा उपलब्ध छ।"
+}

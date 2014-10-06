@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Roustammr",
+			"Sagan"
+		]
+	},
+	"welcome-welcome": "Рәхим итегеҙ!",
+	"welcome-bad_username": "Робот: шикле ҡатнашыусы исеме өҫтәлгән",
+	"welcome-updating": "Робот: журналды яңыртыу"
+}

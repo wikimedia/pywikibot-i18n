@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh"
+		]
+	},
+	"interwiki-modifying": "ܪܘܒܘܛ: ܫܘܓܢܝܐ %(modifying)s",
+	"interwiki-adding-modifying": "ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܫܘܓܢܝܐ %(modifying)s",
+	"interwiki-adding-removing": "ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܠܚܝܐ: %(removing)s",
+	"interwiki-adding-removing-modifying": "ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s; ܠܚܝܐ %(removing)s; ܫܘܓܢܝܐ %(modifying)s",
+	"interwiki-adding": "ܪܘܒܘܛ: ܬܘܣܦܬܐ %(adding)s",
+	"interwiki-removing": "ܪܘܒܘܛ: ܠܚܝܐ %(removing)s",
+	"interwiki-removing-modifying": "ܪܘܒܘܛ: ܠܚܝܐ %(removing)s; ܫܘܓܢܝܐ %(modifying)s",
+	"interwiki-modifying-from": "ܪܘܒܘܛ: ܫܘܓܢܝܐ %(from)s ܠ %(modifying)s"
+}

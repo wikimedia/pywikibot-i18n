@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "wobo Modifye: %(modifying)s",
+	"interwiki-adding-modifying": "wobo Ajoute: %(adding)s Modifye: %(modifying)s",
+	"interwiki-adding-removing": "wobo Ajoute: %(adding)s Anlve: %(removing)s",
+	"interwiki-adding-removing-modifying": "wobo Ajoute: %(adding)s Anlve: %(removing)s Modifye: %(modifying)s",
+	"interwiki-adding": "wobo Ajoute: %(adding)s",
+	"interwiki-removing": "wobo Anlve: %(removing)s",
+	"interwiki-removing-modifying": "wobo Anlve: %(removing)s Modifye: %(modifying)s"
+}

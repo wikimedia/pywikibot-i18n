@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Bot-maaget widjerfeerangsapliasang: %(from)s - Link(s) wechnimen",
+	"solve_disambiguation-redirect-resolved": "Bot-maaget widjerfeerangsapliasang: %(from)s - Link(s) ütjbütjet mä %(to)s",
+	"solve_disambiguation-links-resolved": "Bot-maaget ferklaarang: %(from)s - Link(s) ütjbütjet mä %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot-maaget ferklaarang: %(from)s - uunstregen, skal nuadag auerwerket wurd",
+	"solve_disambiguation-adding-dn-template": "Bot-maaget ferklaarang: %(from)s - uunstregen, skal nuadag auerwerket wurd",
+	"solve_disambiguation-unknown-page": "(ei bekäänd)",
+	"solve_disambiguation-links-removed": "Bot-maaget ferklaarang: %(from)s - Link(s) wechnimen"
+}

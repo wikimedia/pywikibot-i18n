@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"pagefromfile-msg_bottom": "末尾への追加",
+	"pagefromfile-msg_force": "存在するテキストの上書き",
+	"pagefromfile-msg_top": "冒頭への追加",
+	"pagefromfile-msg": "ボットによる: 記事の自動取り込み"
+}

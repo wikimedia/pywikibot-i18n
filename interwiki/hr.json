@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "robot Mijenja: %(modifying)s",
+	"interwiki-adding-modifying": "robot Dodaje: %(adding)s Mijenja: %(modifying)s",
+	"interwiki-adding-removing": "robot Dodaje: %(adding)s Uklanja: %(removing)s",
+	"interwiki-adding-removing-modifying": "robot Dodaje: %(adding)s Uklanja: %(removing)s Mijenja: %(modifying)s",
+	"interwiki-adding": "robot Dodaje: %(adding)s",
+	"interwiki-removing": "robot Uklanja: %(removing)s",
+	"interwiki-removing-modifying": "robot Uklanja: %(removing)s Mijenja: %(modifying)s"
+}

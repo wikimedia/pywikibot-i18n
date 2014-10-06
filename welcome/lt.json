@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200",
+			"Mantak111"
+		]
+	},
+	"welcome-welcome": "Sveiki atvykę!",
+	"welcome-bad_username": "Robotas: Pridedamas naudotojo vardas, kuris turi būti tikrinamas",
+	"welcome-updating": "Robotas: Atnaujinamas žurnalas"
+}

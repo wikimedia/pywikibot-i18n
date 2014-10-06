@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|הקובץ]] הועבר [[:commons:File:%(commonsfile)s|לוויקישיתוף]].",
+	"commons-file-now-available": "הקובץ זמין כעת [[:commons:File:%(commonsfile)s|בוויקישיתוף]]."
+}

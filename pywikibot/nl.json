@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Geef de bestandnaam van een XML-dump op:",
+	"pywikibot-enter-page-processing": "Welke pagina moet verwerkt worden?",
+	"pywikibot-enter-file-links-processing": "Koppelingen naar welke bestandspagina verwerken?",
+	"pywikibot-enter-namespace-number": "Geef een naamruimtenummer op:",
+	"pywikibot-enter-new-text": "Geef de nieuwe tekst op:",
+	"pywikibot-enter-category-name": "Geef de categorienaam op:",
+	"pywikibot-enter-finished-browser": "Druk op \"Enter\" wanneer u klaar bent in de browser."
+}

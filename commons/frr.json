@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Datei]] fersköwen tu [[:commons:File:%(commonsfile)s|Commons]].",
+	"commons-file-now-available": "Datei as nü üüb [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

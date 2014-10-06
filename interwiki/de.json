@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "Bot: Ändere: %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Ergänze: %(adding)s; ändere: %(modifying)s",
+	"interwiki-adding-removing": "Bot: Ergänze: %(adding)s; entferne: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Ergänze: %(adding)s; entferne: %(removing)s; ändere: %(modifying)s",
+	"interwiki-adding": "Bot: Ergänze: %(adding)s",
+	"interwiki-removing": "Bot: Entferne: %(removing)s",
+	"interwiki-removing-modifying": "Bot: Entferne: %(removing)s; ändere: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Ändere %(from)s zu %(modifying)s"
+}

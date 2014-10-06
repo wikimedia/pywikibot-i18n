@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました",
+	"solve_disambiguation-redirect-resolved": "ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました",
+	"solve_disambiguation-links-resolved": "ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました",
+	"solve_disambiguation-redirect-adding-dn-template": "ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました",
+	"solve_disambiguation-adding-dn-template": "ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました",
+	"solve_disambiguation-unknown-page": "(不明)",
+	"solve_disambiguation-links-removed": "ボット補助による曖昧さ回避: %(from)s - リンクを除去しました"
+}

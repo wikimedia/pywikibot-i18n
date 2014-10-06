@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wedkarski"
+		]
+	},
+	"revertbot-revert": "Bot: Cofnięto do wersji %(revid)s autorstwa %(author)s z %(timestamp)s"
+}

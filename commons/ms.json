@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fail]] dipindahkan ke [[:commons:File:%(commonsfile)s|Commons]].",
+	"commons-file-now-available": "Fail kini terdapat di [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"delete-images": "Rôbô : Mamafa ny rakitra rehetra ao amin'i %(page)s",
+	"delete-referring-pages": "Rôbô : mamafa ny pejy rehetra mikasika an'i %(page)s",
+	"delete-from-category": "Rôbô : Mamafa ny pejy rehetra ao amin'ny sokajy %(page)s",
+	"delete-from-file": "Rôbô : Famafana lisi-pejy.",
+	"delete-linked-pages": "Rôbô : Mamafa ny pejy rehetra misy fifandraisana amin'i %(page)s"
+}

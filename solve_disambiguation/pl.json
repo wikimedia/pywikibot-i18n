@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Robot wspomógł poprawę ujednoznacznienia %(from)s – usunięto link(i)",
+	"solve_disambiguation-redirect-resolved": "Robot wspomógł poprawę ujednoznacznienia %(from)s – zmieniono link(i) do %(to)s",
+	"solve_disambiguation-links-resolved": "Robot wspomógł poprawę ujednoznacznienia %(from)s – zmieniono link(i) do %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Robot wspomógł poprawę ujednoznacznienia %(from)s – oznaczono jako wymagające uwagi eksperta",
+	"solve_disambiguation-adding-dn-template": "Robot wspomógł poprawę ujednoznacznienia %(from)s – oznaczono jako wymagające uwagi eksperta",
+	"solve_disambiguation-unknown-page": "(nieznana)",
+	"solve_disambiguation-links-removed": "Robot wspomógł poprawę ujednoznacznienia %(from)s – usunięto link(i)"
+}

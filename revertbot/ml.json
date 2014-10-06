@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp"
+		]
+	},
+	"revertbot-revert": "യന്ത്രം: %(timestamp)s-നു %(author)s ചെയ്ത നാൾപ്പതിപ്പ് %(revid)s എന്നതിലേക്ക് മുൻപ്രാപനം ചെയ്യുന്നു"
+}

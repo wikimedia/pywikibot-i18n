@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"delete-images": "Bot: Mbusak kabèh gambar nèng kaca %(page)s",
+	"delete-referring-pages": "Bot: Mbusak kabèh kaca sing ngarah saka %(page)s",
+	"delete-from-category": "Bot: Mbusak kabèh kaca saka katégori %(page)s",
+	"delete-from-file": "Bot: Mbusak daptar berkas.",
+	"delete-linked-pages": "Bot: Mbusak kabèh kaca sing kaubung saka %(page)s"
+}

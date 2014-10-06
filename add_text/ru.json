@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Volkov"
+		]
+	},
+	"add_text-adding": "бот добавил: %(adding)s"
+}

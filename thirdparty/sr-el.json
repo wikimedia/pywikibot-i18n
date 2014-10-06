@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(nije pronađen ljudski urednik)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s – [%(history_link)s poslednja izmena] (%(page_size)s bajtova) od %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Upozorenje bota: %(page)s „''%(warning)s''“",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Novi razgovor",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – poslednja izmena od [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Obaveštenje",
+	"thirdparty-drtrigonbot-subster-summary-mod": "zamenjene oznake %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Razgovor je zatvoren",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s svi razgovori su završeni (nadzor je prekinut) – poslednja izmena od %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Dodat je opis razgovora: %(num)i unosa",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Razgovor je izmenjen",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Dodat je opis razgovora sa čišćenjem: %(num)i unosa",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Opis razgovora je ažuriran: %(num)i unosa na stranici %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "PORUKA BOTA",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nOpis je generisan iz i u: %(sign)s</noinclude>"
+}

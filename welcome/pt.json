@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720"
+		]
+	},
+	"welcome-welcome": "Bem vindo!",
+	"welcome-bad_username": "Robô : A adicionar um nome de utilizador que precisa ser verificado",
+	"welcome-updating": "Robô: A atualizando registo"
+}

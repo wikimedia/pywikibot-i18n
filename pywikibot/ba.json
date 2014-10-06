@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Sagan"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Зинһар, XML дампы файлы исемен яҙығыҙ:",
+	"pywikibot-enter-page-processing": "Ҡайһы бит эшкәртелергә тейеш?",
+	"pywikibot-enter-file-links-processing": "Рәсемдәрҙең ҡайһы битенә һылтанманы эшкәртергә?",
+	"pywikibot-enter-namespace-number": "Исем арауығы номерын яҙығыҙ:",
+	"pywikibot-enter-new-text": "Яңы текст яҙығыҙ:",
+	"pywikibot-enter-category-name": "Категория исемен яҙығыҙ:",
+	"pywikibot-enter-finished-browser": "Браузерҙа эш тамамланғандан һуң Enter төймәһенә баҫығыҙ."
+}

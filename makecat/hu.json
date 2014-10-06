@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega"
+		]
+	},
+	"makecat-create": "Bot: [[:Category:%(cat)s|]] kategória létrehozása vagy frissítése"
+}

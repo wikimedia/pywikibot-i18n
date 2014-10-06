@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Datoteka]] je premeštena u [[:commons:File:%(commonsfile)s|Ostavu]].",
+	"commons-file-now-available": "Datoteka je sada dostupna na [[:commons:File:%(commonsfile)s|Ostavi]]."
+}

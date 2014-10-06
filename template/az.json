@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS"
+		]
+	},
+	"template-removing": "Bot: {{PLURAL:%(num)d|şablon}} silinir: %(list)s",
+	"template-changing": "Bot: {{PLURAL:%(num)d|şablon}} dəyişdirilir: %(list)s",
+	"template-substituting": "Bot: {{PLURAL:%(num)d|şablon}} əvəz edilir: %(list)s"
+}

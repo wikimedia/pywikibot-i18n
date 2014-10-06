@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "trigomiro",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(pa gnun editor uman trovà)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s ùltima modìfica] (%(page_size)s byte) da %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Mëssagi d'avis dël trigomiro: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Discussion Neuva",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - ùltima modìfica da [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notìfica",
+	"thirdparty-drtrigonbot-subster-summary-mod": "sustituì %(tags)s tag(s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussion sarà",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s tute le discussion a son finìe (dzorvejansa finìa) - ùltima modìfica da %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Giontà resumé dla discussion: %(num)i vos",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussion cangià",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Giontà somari dla discussion con polissìa: %(num)i vos",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Modificà somari dla discussion: %(num)i vos an %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MËSSAGI ËD TRIGOMIRO",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nResumé generà da e a: %(sign)s</noinclude>"
+}

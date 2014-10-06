@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Node ue"
+		]
+	},
+	"category-changing": "Робот: Скимбат %(oldcat)s",
+	"category-adding": "Робот: Адэугат category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(де асеменя ын %(alsocat)s)",
+	"category-was-disbanded": "Робот: Категория а фост десфиинцатэ",
+	"category-replacing": "Робот: Ынлокуит категория %(oldcat)s ку %(newcat)s",
+	"category-removing": "Робот: Ынлэтурат дин %(oldcat)s",
+	"category-was-moved": "Робот: Категория а фост мутатэ ла [[:Category:%(newcat)s|%(title)s]]"
+}

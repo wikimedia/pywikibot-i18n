@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: Napravljeno preusmjerenje na [[%(to)s]]."
+}

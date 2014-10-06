@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Geef de bestaandsnaam van n XML-dump op:",
+	"pywikibot-enter-page-processing": "Welke zied mut verwarkt wörden?",
+	"pywikibot-enter-file-links-processing": "Koppelingen naor welke bestaandszied mutten verwarkt wörden?",
+	"pywikibot-enter-namespace-number": "Geef n naamruumtenummer op:",
+	"pywikibot-enter-new-text": "Geef de nieje tekste op:",
+	"pywikibot-enter-category-name": "Geef de kategorienaam op:",
+	"pywikibot-enter-finished-browser": "Druk op \"Enter\" a'j klaor bin in de webkieker."
+}

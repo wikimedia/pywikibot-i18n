@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"delete-images": "Bot: All Fichieren op der Säit %(page)s läschen",
+	"delete-referring-pages": "Bot: All Säite läschen déi mat der Säit %(page)s verlinkt sinn",
+	"delete-from-category": "Bot: All Säiten aus der Kategorie %(page)s läschen",
+	"delete-from-file": "Bot: Läsche vun enger Lëscht vu Säiten.",
+	"delete-linked-pages": "Bot: All Säite läschen déi vun der Säit %(page)s verlinkt sinn"
+}

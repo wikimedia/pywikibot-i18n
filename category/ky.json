@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maksat",
+			"Викиней"
+		]
+	},
+	"category-changing": "Бот:%(oldcat)s  %(newcat)s өзгөрттү",
+	"category-adding": "робот: кошту category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(%(alsocat)s'да дагы)",
+	"category-was-disbanded": "Бот: категория жоюлду",
+	"category-replacing": "Бот: %(oldcat)s категориясын %(newcat)s'га алмаштыруу",
+	"category-renamed": "Бот: %s дан өзгөртүлдү. Авторлор: %s"
+}

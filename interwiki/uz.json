@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abdulla"
+		]
+	},
+	"interwiki-modifying": "Bot tuzatdi: %(modifying)s",
+	"interwiki-adding-modifying": "Bot qoʻshdi: %(adding)s tuzatdi: %(modifying)s",
+	"interwiki-adding-removing": "Bot qoʻshdi: %(adding)s oʻchirdi: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot qoʻshdi: %(adding)s oʻchirdi: %(removing)s tuzatdi: %(modifying)s",
+	"interwiki-adding": "Bot qoʻshdi: %(adding)s",
+	"interwiki-removing": "Bot oʻchirdi: %(removing)s",
+	"interwiki-removing-modifying": "Bot oʻchirdi: %(removing)s tuzatdi: %(modifying)s"
+}

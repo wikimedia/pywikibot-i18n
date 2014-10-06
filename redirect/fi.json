@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Olli",
+			"Silvonen"
+		]
+	},
+	"redirect-fix-double": "Botti korjasi kaksinkertaisen ohjauksen sivulle %(to)s",
+	"redirect-remove-broken": "Botti: Ohjaus poistetulle tai olemattomalle sivulle",
+	"redirect-fix-broken-moved": "Botti korjasi rikkinäisen ohjauksen siirrettyyn kohdesivuun %(to)s",
+	"redirect-fix-loop": "Botti korjasi ohjaussilmukan sivulle %(to)s",
+	"redirect-remove-loop": "Botti: Ohjauksen kohde muodostaa ohjaussilmukan",
+	"redirect-broken-redirect-template": "{{Delete}}"
+}

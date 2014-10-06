@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fohanno",
+			"Fulup"
+		]
+	},
+	"delete-images": "Robot : O tiverkañ an holl skeudennoù diwar ar bajenn %(page)s",
+	"delete-referring-pages": "Robot : O tiverkañ an holl bajennoù a ra dave da %(page)s",
+	"delete-from-category": "Robot : O tiverkañ an holl bajennoù er rummad %(page)s",
+	"delete-from-file": "Robot: O tiverkañ ur roll pajennoù.",
+	"delete-linked-pages": "Robot : O tiverkañ an holl bajennoù liammet adalek %(page)s"
+}

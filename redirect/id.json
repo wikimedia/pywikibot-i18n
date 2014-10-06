@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Farras",
+			"IvanLanin"
+		]
+	},
+	"redirect-fix-double": "Bot: Memperbaiki pengalihan ganda ke %(to)s",
+	"redirect-remove-broken": "Robot: Pengalihan ke halaman yang dihapus atau tidak ada",
+	"redirect-fix-loop": "Robot: Memperbaiki pengalihan ganda ke %(to)s",
+	"redirect-remove-loop": "Robot: Target pengalihan menghasilkan pengalihan siklik",
+	"redirect-broken-redirect-template": "{{db-r1}}"
+}

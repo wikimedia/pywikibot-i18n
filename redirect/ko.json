@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwt96",
+			"아라"
+		]
+	},
+	"redirect-fix-double": "로봇: %(to)s(으)로 이중 넘겨주기 고침",
+	"redirect-remove-broken": "로봇: 끊긴 넘겨주기",
+	"redirect-fix-broken-moved": "로봇: %(to)s(으)로 옮긴 대상 문서로 끊긴 넘겨주기 고침",
+	"redirect-fix-loop": "로봇: %(to)s(으)로 재귀적인 넘겨주기 고침",
+	"redirect-remove-loop": "로봇: 넘겨주기 대상이 재귀적인 넘겨주기로 생김",
+	"redirect-broken-redirect-template": "{{ㅅ}}"
+}

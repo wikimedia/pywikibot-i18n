@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"template-removing": "Bot: Tirtiris {{PLURAL:%(num)d|template|templates}}: %(list)s",
+	"template-changing": "Bot: Badalis {{PLURAL:%(num)d|template|templates}}: %(list)s",
+	"template-substituting": "Bot: Nuqul {{PLURAL:%(num)d|template|templates}}: %(list)s"
+}

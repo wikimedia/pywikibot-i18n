@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"protect-category": "บอต: ล็อกหน้าทั้งหมดในหมวดหมู่ %(cat)s",
+	"protect-images": "บอต: ล็อกรูปภาพทั้งหมดในหน้า %(page)s"
+}

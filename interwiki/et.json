@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pikne"
+		]
+	},
+	"interwiki-modifying": "Robot: muudetud %(modifying)s",
+	"interwiki-adding-modifying": "Robot: lisatud %(adding)s; muudetud %(modifying)s",
+	"interwiki-adding-removing": "Robot: lisatud %(adding)s; eemaldatud %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot: lisatud %(adding)s; eemaldatud %(removing)s; muudetud %(modifying)s",
+	"interwiki-adding": "Robot: lisatud %(adding)s",
+	"interwiki-removing": "Robot: eemaldatud %(removing)s",
+	"interwiki-removing-modifying": "Robot: eemaldatud %(removing)s; muudetud %(modifying)s",
+	"interwiki-modifying-from": "Robot: %(from)s → %(modifying)s"
+}

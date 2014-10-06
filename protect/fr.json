@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Linedwell",
+			"Romainhk"
+		]
+	},
+	"protect-links": "Robot : Protège toutes les pages liées depuis %(page)s",
+	"protect-simple": "Robot : Protège une liste de fichiers.",
+	"protect-category": "Robot : Protège toutes les pages de la catégorie %(cat)s",
+	"protect-ref": "Robot : Protège toutes les pages référant à %(page)s",
+	"protect-images": "Robot : Protège tous les fichiers sur la page %(page)s"
+}

@@ -1,0 +1,5 @@
+{
+	"template-removing": "Robot : Enlève {{PLURAL:%(num)d|le modèle|modèles}}: %(list)s",
+	"template-changing": "Robot : {{PLURAL:%(num)d|Change modèle|Modifie modèles}}: %(list)s",
+	"template-substituting": "Robot : Remplace {{PLURAL:%(num)d|modèle|modèles}}: %(list)s"
+}

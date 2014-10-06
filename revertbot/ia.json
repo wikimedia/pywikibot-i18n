@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"revertbot-revert": "Robot: Revertite al version %(revid)s per %(author)s le %(timestamp)s"
+}

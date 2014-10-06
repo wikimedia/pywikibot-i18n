@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"capitalize_redirects-create-redirect": "โรบอต: สร้างหน้าเปลี่ยนทางไปยัง %(to)s"
+}

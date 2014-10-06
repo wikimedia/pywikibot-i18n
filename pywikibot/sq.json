@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Euriditi"
+		]
+	},
+	"pywikibot-enter-page-processing": "Me cilën faqe duhet të punohet?",
+	"pywikibot-enter-new-text": "Ju lutem shtypni tekstin e ri:",
+	"pywikibot-enter-finished-browser": "Shtypni Enter kur të përfondojë në shfletues."
+}

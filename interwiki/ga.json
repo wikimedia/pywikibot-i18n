@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "róbat ag mionathrú: %(modifying)s",
+	"interwiki-adding-modifying": "róbat ag suimiú: %(adding)s ag mionathrú: %(modifying)s",
+	"interwiki-adding-removing": "róbat ag suimiú: %(adding)s ag baint: %(removing)s",
+	"interwiki-adding-removing-modifying": "róbat ag suimiú: %(adding)s ag baint: %(removing)s ag mionathrú: %(modifying)s",
+	"interwiki-adding": "róbat ag suimiú: %(adding)s",
+	"interwiki-removing": "róbat ag baint: %(removing)s",
+	"interwiki-removing-modifying": "róbat ag baint: %(removing)s ag mionathrú: %(modifying)s"
+}

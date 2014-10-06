@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega",
+			"Dj"
+		]
+	},
+	"weblinkchecker-archive_msg": "Ezt a weblapot az Internet Archívum elmentette. Kérjük, fontold meg a megfelelő, archivált verzióra történő hivatkozást: [%(URL)s].",
+	"weblinkchecker-caption": "Halott hivatkozás",
+	"weblinkchecker-summary": "bot: nem elérhető külső hivatkozás jelentése",
+	"weblinkchecker-report": "Számos automatikus bot futtatás után az alábbi külső hivatkozás nem elérhető. Kérlek ellenőrizd, hogy a hivatkozás valóban nem elérhető, és ha így van, akkor javítsd ki vagy távolítsd el!"
+}

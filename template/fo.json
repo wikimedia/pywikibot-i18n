@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"template-removing": "Bottur: Tók burtur {{PLURAL:%(num)d|fyrimynd|fyrimyndir}}: %(list)s",
+	"template-changing": "Bottur: Broytti {{PLURAL:%(num)d|fyrimynd|fyrimyndir}}: %(list)s",
+	"template-substituting": "Bottur: Skifti út {{PLURAL:%(num)d|fyrimynd|fyrimyndir}}: %(list)s"
+}

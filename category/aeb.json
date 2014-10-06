@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csisc"
+		]
+	},
+	"category-version-history": "Robot: sajjel el historique mte3 el versions mte3 el %(oldcat)s el 9dom",
+	"category-changing": "Robot: baddel %(oldcat)s il %(newcat)s",
+	"category-adding": "روبوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(أيضا في %(alsocat)s)",
+	"category-was-disbanded": "بوت: التصنيف تم الاستغناء عنه",
+	"category-replacing": "روبوت: استبدال التصنيف %(oldcat)s ب %(newcat)s",
+	"category-removing": "بوت: إزالة من %(oldcat)s",
+	"category-was-moved": "روبوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]",
+	"category-section-title": "el historique mte3 el page fi %(oldcat)s 9dim",
+	"category-listifying": "بوت: عرض من %(fromcat)s (%(num)d مدخلة)"
+}

@@ -1,0 +1,3 @@
+{
+	"revertbot-revert": "Edit summary when the bot reverts an edit. Parameters: revid %(revid)s, author %(author)s, timestamp %(timestamp)s"
+}

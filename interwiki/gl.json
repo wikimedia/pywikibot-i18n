@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"interwiki-modifying": "Bot: Modifico: %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Engado: %(adding)s; modifico: %(modifying)s",
+	"interwiki-adding-removing": "Bot: Engado: %(adding)s; elimino: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Engado: %(adding)s; elimino: %(removing)s; modifico: %(modifying)s",
+	"interwiki-adding": "Bot: Engado: %(adding)s",
+	"interwiki-removing": "Bot: Elimino: %(removing)s",
+	"interwiki-removing-modifying": "Bot: Elimino: %(removing)s; modifico: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Cambio %(from)s por %(modifying)s"
+}

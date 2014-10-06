@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"interwiki-modifying": "Bot: Änneren: %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Derbäi setzen: %(adding)s Änneren: %(modifying)s",
+	"interwiki-adding-removing": "Bot: Derbäi setzen: %(adding)s Ewech huelen: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Derbäi setzen: %(adding)s Ewech huelen: %(removing)s Änneren: %(modifying)s",
+	"interwiki-adding": "Bot: Derbäi setzen: %(adding)s",
+	"interwiki-removing": "Bot: Ewech huelen: %(removing)s",
+	"interwiki-removing-modifying": "Bot: Ewech huelen: %(removing)s Änneren: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Ännere vu(n) %(from)s op %(modifying)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Skráin]] var færð yfir á [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Myndin var færð yfir á [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

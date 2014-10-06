@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe"
+		]
+	},
+	"template-removing": "Robot usunął {{PLURAL:%(num)d|szablon|szablony:}} %(list)s",
+	"template-changing": "Robot zmienił {{PLURAL:%(num)d|szablon|szablony:}} %(list)s",
+	"template-substituting": "Robot podmienił {{PLURAL:%(num)d|szablon|szablony:}} %(list)s"
+}

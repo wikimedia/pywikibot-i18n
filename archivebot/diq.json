@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan"
+		]
+	},
+	"archivebot-older-than": "tewr verên",
+	"archivebot-page-summary": "Boti %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s.",
+	"archivebot-archiveheader": "{{Arşivê vatışan}}",
+	"archivebot-archive-full": "(ARŞİV PÊRO)",
+	"archivebot-archive-summary": "Boti [[%(from)s]] ra ke arşiv; pela da %(count)d {{PLURAL:%(count)d|pine|piney}} ra sernuşte  ."
+}

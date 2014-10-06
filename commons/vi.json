@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Tập tin]] được chuyển qua [[:Commons:File:%(commonsfile)s|Commons]].",
+	"commons-file-now-available": "Tập tin mới có sẵn tại [[:Commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

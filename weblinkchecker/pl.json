@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rezonansowy",
+			"Ty221"
+		]
+	},
+	"weblinkchecker-archive_msg": "Ta strona została zapisana przez Archiwum Internetowe. Proszę sprawdzić czy jakieś strony nie linkują do tej zarchiwizowanej wersji : %(URL)s",
+	"weblinkchecker-caption": "Niedziałający link",
+	"weblinkchecker-summary": "Robot zgłasza niedostępny link zewnętrzny",
+	"weblinkchecker-report": "W ciągu kilku automatycznych kontroli następujący link zewnętrzny był niedostępny. Proszę, sprawdź linki naprawdę \"martwe\" i w takim przypadku należy skorygować lub usunąć go!"
+}

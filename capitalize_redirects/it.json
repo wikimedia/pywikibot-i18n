@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: creato redirect a [[%(to)s]]"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: [[%(to)s]] səhifəsinə istiqamətləndirilmə yaradıldı"
+}

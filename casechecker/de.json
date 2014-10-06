@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Ersetzungen von Schreibungen:",
+	"casechecker-delete-summary": "Bot: Diese Weiterleitung enthält identisch aussehende kyrillische und lateinische Zeichen im Titel",
+	"casechecker-replacement-linklist": "%(source)s nach %(target)s",
+	"casechecker-delete-reason": "Weiterleitung auf %(target)s mit gemischten kyrillischen und lateinischen Zeichen.",
+	"casechecker-rename": "Bot: Umbenennung von gemischten Schreibungen"
+}

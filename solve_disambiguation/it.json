@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Rippitippi"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Sistemazione automatica del redirect: %(from)s - Collegamenti rimossi",
+	"solve_disambiguation-redirect-resolved": "Sistemazione automatica del redirect: %(from)s - Inversione di redirect %(to)s",
+	"solve_disambiguation-links-resolved": "Sistemazione automatica della disambigua: %(from)s - Inversione di redirect %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "La disambiguazione mediante bot: %(from)s -  Deve essere controllata",
+	"solve_disambiguation-adding-dn-template": "La disambiguazione mediante bot: %(from)s -  Deve essere controllata",
+	"solve_disambiguation-unknown-page": "(sconosciuto)",
+	"solve_disambiguation-links-removed": "Sistemazione automatica della disambigua: %(from)s - Collegamenti rimossi"
+}

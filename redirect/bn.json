@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wikitanvir"
+		]
+	},
+	"redirect-fix-double": "বট: %(to)s-এ দ্বিপুনর্নির্দেশনা ঠিক করছে",
+	"redirect-broken-redirect-template": "{{db-r1}}"
+}

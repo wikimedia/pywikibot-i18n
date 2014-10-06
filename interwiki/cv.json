@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "робот улăштарчĕ: %(modifying)s",
+	"interwiki-adding-modifying": "робот хушрĕ: %(adding)s улăштарчĕ: %(modifying)s",
+	"interwiki-adding-removing": "робот хушрĕ: %(adding)s кăларса пăрахрĕ: %(removing)s",
+	"interwiki-adding-removing-modifying": "робот хушрĕ: %(adding)s кăларса пăрахрĕ: %(removing)s улăштарчĕ: %(modifying)s",
+	"interwiki-adding": "робот хушрĕ: %(adding)s",
+	"interwiki-removing": "робот кăларса пăрахрĕ: %(removing)s",
+	"interwiki-removing-modifying": "робот кăларса пăрахрĕ: %(removing)s улăштарчĕ: %(modifying)s"
+}

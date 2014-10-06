@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp"
+		]
+	},
+	"welcome-welcome": "സ്വാഗതം!",
+	"welcome-bad_username": "യന്ത്രം: പരിശോധിക്കേണ്ട ഒരു ഉപയോക്തൃനാമം ചേർക്കുന്നു",
+	"welcome-updating": "യന്ത്രം: രേഖ പുതുക്കുന്നു"
+}

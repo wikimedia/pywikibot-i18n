@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Node ue",
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "Робот: Модификат: %(modifying)s",
+	"interwiki-adding-modifying": "Робот: Адэугат: %(adding)s Модификат: %(modifying)s",
+	"interwiki-adding": "Робот: Адэугат: %(adding)s"
+}

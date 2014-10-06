@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "בוט משנה: %(modifying)s",
+	"interwiki-adding-modifying": "בוט מוסיף: %(adding)s משנה: %(modifying)s",
+	"interwiki-adding-removing": "בוט מוסיף: %(adding)s מסיר: %(removing)s",
+	"interwiki-adding-removing-modifying": "בוט מוסיף: %(adding)s מסיר: %(removing)s משנה: %(modifying)s",
+	"interwiki-adding": "בוט מוסיף: %(adding)s",
+	"interwiki-removing": "בוט מסיר: %(removing)s",
+	"interwiki-removing-modifying": "בוט מסיר: %(removing)s משנה: %(modifying)s",
+	"interwiki-modifying-from": "בוט: משנה %(from)s‏ ← %(modifying)s"
+}

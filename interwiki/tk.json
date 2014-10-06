@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "robot üýtgetdi: %(modifying)s",
+	"interwiki-adding-modifying": "robot goşdy: %(adding)s üýtgetdi: %(modifying)s",
+	"interwiki-adding-removing": "robot goşdy: %(adding)s aýyrdy: %(removing)s",
+	"interwiki-adding-removing-modifying": "robot goşdy: %(adding)s aýyrdy: %(removing)s üýtgetdi: %(modifying)s",
+	"interwiki-adding": "robot goşdy: %(adding)s",
+	"interwiki-removing": "robot aýyrdy: %(removing)s",
+	"interwiki-removing-modifying": "robot aýyrdy: %(removing)s üýtgetdi: %(modifying)s"
+}

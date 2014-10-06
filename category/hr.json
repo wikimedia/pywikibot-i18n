@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ex13",
+			"SpeedyGonsales"
+		]
+	},
+	"category-version-history": "Bot: Pohrana povijesti uređivanja %(oldcat)s",
+	"category-changing": "Bot: mijenja %(oldcat)s u %(newcat)s",
+	"category-adding": "robot: Dodaje category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(također u %(alsocat)s)",
+	"category-was-disbanded": "Bot: Kategorija je raspuštena",
+	"category-replacing": "Bot: Mijenja kategoriju %(oldcat)s s %(newcat)s",
+	"category-removing": "Bot: uklanja iz %(oldcat)s",
+	"category-was-moved": "Bot: Kategorija je premještena u [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Premješteno iz %s. Suradnici: %s",
+	"category-section-title": "Povijest stranice od prethodne %(oldcat)s.",
+	"category-listifying": "Bot: ispisuje iz %(fromcat)s (%(num)d stavki)"
+}

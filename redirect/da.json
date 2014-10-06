@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Kaare"
+		]
+	},
+	"redirect-fix-double": "Robot: Retter dobbelt omdirigering til %(to)s",
+	"redirect-remove-broken": "Robot: Omdirigering til en slettet eller ikke-eksisterende side",
+	"redirect-fix-broken-moved": "Robot: Retter brudt omdirigering til flyttet målside %(to)s",
+	"redirect-fix-loop": "Robot: Retter omdirigeringsløkke til %(to)s",
+	"redirect-remove-loop": "Robot: Målet for omdirigeringen danner en omdirigeringsløkke",
+	"redirect-broken-redirect-template": "{{slet}}"
+}

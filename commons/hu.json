@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Kép]] átmozgatva a [[:commons:File:%(commonsfile)s|Commons]]ba.",
+	"commons-file-now-available": "A fájl most már elérhető a [[:commons:File:%(commonsfile)s|Wikimedia Commonson]]."
+}

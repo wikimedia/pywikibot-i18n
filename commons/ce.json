@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файл]] [[:commons:File:%(commonsfile)s|Викигуламе]] яьккхина.",
+	"commons-file-now-available": "ХӀинца файл [[:commons:File:%(commonsfile)s|Викигуламехь]] тӀекхочехь ю."
+}

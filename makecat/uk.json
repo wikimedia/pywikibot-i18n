@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia"
+		]
+	},
+	"makecat-create": "Робот: Створення або оновлення категорії  [[:Category:%(cat)s|]]"
+}

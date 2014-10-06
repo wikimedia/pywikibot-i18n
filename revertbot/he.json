@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yona b"
+		]
+	},
+	"revertbot-revert": "בוט: חזרה לגירסה %(revid)s של %(author)s מה-%(timestamp)s"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaare"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Opretter omdirigering til [[%(to)s]]"
+}

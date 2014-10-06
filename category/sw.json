@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwisha",
+			"Lloffiwr"
+		]
+	},
+	"category-adding": "Roboti: Imeongeza jamii ya [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-was-disbanded": "Roboti: Jamii imefutiliwa mbali"
+}

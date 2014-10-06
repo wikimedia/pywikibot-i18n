@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"commons-file-moved": "O [[:File:%(localfile)s|ficheiro]] agora está en [[:commons:File:%(commonsfile)s|Commons]].",
+	"commons-file-now-available": "O ficheiro agora está dispoñible na [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

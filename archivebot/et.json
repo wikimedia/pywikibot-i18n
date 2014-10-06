@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pikne"
+		]
+	},
+	"archivebot-older-than": "vanem kui %(duration)s",
+	"archivebot-page-summary": "Robot: %(count)d {{PLURAL:%(count)d|teema|teemat}} (%(why)s) viidud arhiivi (%(archives)s).",
+	"archivebot-archiveheader": "{{arhiveerimine}}",
+	"archivebot-archive-full": "(ARHIIV TÄIS)",
+	"archivebot-archive-summary": "Robot: arhiivitud %(count)d {{PLURAL:%(count)d|teema|teemat}} leheküljelt [[%(from)s]]."
+}

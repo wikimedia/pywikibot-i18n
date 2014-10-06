@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - He (mau) loulou e wehe ʻia",
+	"solve_disambiguation-redirect-resolved": "Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Ua hoʻololi i nā loulou iā %(to)s",
+	"solve_disambiguation-links-resolved": "Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Ua hoʻololi i nā loulou iā %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Kaha ʻia no ke kōkua kahuna",
+	"solve_disambiguation-adding-dn-template": "Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - Kaha ʻia no ke kōkua kahuna",
+	"solve_disambiguation-unknown-page": "(ʻikeʻole)",
+	"solve_disambiguation-links-removed": "Mōakāka ʻike loulou me ke kōkua lopako: %(from)s - He (mau) loulou e wehe ʻia"
+}

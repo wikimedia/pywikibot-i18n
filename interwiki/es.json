@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Invadinado"
+		]
+	},
+	"interwiki-modifying": "Bot: modificación de %(modifying)s",
+	"interwiki-adding-modifying": "Bot: adición de %(adding)s; modificación de %(modifying)s",
+	"interwiki-adding-removing": "Bot: adición de %(adding)s; eliminación de %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: adición de %(adding)s; eliminación de %(removing)s; modificación de %(modifying)s",
+	"interwiki-adding": "Bot: adición de %(adding)s",
+	"interwiki-removing": "Bot: eliminación de %(removing)s",
+	"interwiki-removing-modifying": "Bot: eliminación de %(removing)s; modificación de %(modifying)s",
+	"interwiki-modifying-from": "Bot: Modificando %(from)s por %(modifying)s"
+}

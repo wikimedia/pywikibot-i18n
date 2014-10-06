@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esbardu",
+			"Xuacu"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Dixebra asistida por robó: %(from)s - Enllaz desaniciáu",
+	"solve_disambiguation-redirect-resolved": "Dixebra asistida por robó: %(from)s - Enllaz camudáu a %(to)s",
+	"solve_disambiguation-links-resolved": "Dixebra asistida por robó: %(from)s - Enllaz o enllaces camudaos a %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Dixebra asistida por robó: %(from)s - Marcao pa pidir l'atención d'un espertu",
+	"solve_disambiguation-adding-dn-template": "Dixebra asistida por robó: %(from)s - Marcao pa pidir l'atención d'un espertu",
+	"solve_disambiguation-unknown-page": "(desconocíu)",
+	"solve_disambiguation-links-removed": "Dixebra asistida por robó: %(from)s - Enllaz o enllaces desaniciaos."
+}

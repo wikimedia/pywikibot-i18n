@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"revertbot-revert": "Bot: Reverted til reveesion %(revid)s bi %(author)s oan %(timestamp)s"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Beispill vun Ersetzen:",
+	"casechecker-delete-summary": "Bot: An dëser Viruleedung si Cyrillesch a Latengesch Buschtawen am Titel déi dselwecht ausgesinn",
+	"casechecker-replacement-linklist": "%(source)s → %(target)s",
+	"casechecker-delete-reason": "Dës Viruleedung huet op %(target)s gewisen",
+	"casechecker-rename": "Bot: Ëmbenenne vu gemëschte Schreifweisen"
+}

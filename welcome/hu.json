@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bináris",
+			"Dj"
+		]
+	},
+	"welcome-welcome": "Üdvözlet!",
+	"welcome-bad_username": "Bot: ellenőrizendő szerkesztőnév hozzáadása",
+	"welcome-updating": "Bot: napló aktualizálása"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Restr]] kaset da [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Emañ bremañ ar restr war [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

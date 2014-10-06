@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "robot Trokado: %(modifying)s",
+	"interwiki-adding-modifying": "robot Adjustado: %(adding)s Trokado: %(modifying)s",
+	"interwiki-adding-removing": "robot Adjustado: %(adding)s Efassado: %(removing)s",
+	"interwiki-adding-removing-modifying": "robot Adjustado: %(adding)s Efassado: %(removing)s Trokado: %(modifying)s",
+	"interwiki-adding": "robot Adjustado: %(adding)s",
+	"interwiki-removing": "robot Efassado: %(removing)s",
+	"interwiki-removing-modifying": "robot Efassado: %(removing)s Trokado: %(modifying)s"
+}

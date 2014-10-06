@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Prilopes",
+			"TheGabrielZaum"
+		]
+	},
+	"reflinks-autogen": "gerado automaticamente",
+	"reflinks-comment": "Título gerado pelo Bot",
+	"reflinks-msg": "Bot: convertendo referências vazias, usando nomes de referências para evitar duplicidade, veja [[%(manual)s|FAQ]]"
+}

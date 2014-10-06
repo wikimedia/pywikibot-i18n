@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eruedin"
+		]
+	},
+	"weblinkchecker-archive_msg": "Die Webseite wurde vom Internet-Archive gespeichert. Bitte verknüpfe gegebenenfalls mit einer geeigneten archivierten Version: [%(URL)s].",
+	"weblinkchecker-caption": "Tote Verknüpfung",
+	"weblinkchecker-report": "Bei mehreren automatisierten Botläufen wurde die folgende Verknüpfung als nicht verfügbar erkannt. Bitte überprüfe, ob die Verknüpfung tatsächlich nicht erreichbar ist, und korrigiere oder entferne sie in diesem Fall!"
+}

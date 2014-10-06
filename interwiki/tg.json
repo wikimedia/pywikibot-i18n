@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "робот ҳaвз карда истодааст: %(modifying)s",
+	"interwiki-adding-modifying": "робот илова карда истодааст: %(adding)s ҳaвз карда истодааст: %(modifying)s",
+	"interwiki-adding-removing": "робот илова карда истодааст: %(adding)s дигаргуни карда истодааст: %(removing)s",
+	"interwiki-adding-removing-modifying": "робот илова карда истодааст: %(adding)s дигаргуни карда истодааст: %(removing)s ҳaвз карда истодааст: %(modifying)s",
+	"interwiki-adding": "робот илова карда истодааст: %(adding)s",
+	"interwiki-removing": "робот дигаргуни карда истодааст: %(removing)s",
+	"interwiki-removing-modifying": "робот дигаргуни карда истодааст: %(removing)s ҳaвз карда истодааст: %(modifying)s"
+}

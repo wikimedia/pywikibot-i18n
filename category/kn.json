@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Akoppad"
+		]
+	},
+	"category-version-history": "ರೋಬೋಟ್:   %(oldcat)ನ   ಮಾಜಿ  ಇತಿಹಾಸದ  ಆವೃತ್ತಿಯನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ",
+	"category-changing": "ರೋಬೋಟ್:%(oldcat)ಯನ್ನು % (newcat)ಗೆ ಬದಲಾಯಿಸುವುದು",
+	"category-adding": "ರೋಬೋಟ್: [[:ವರ್ಗ:%(newcat)s|%(newcat)s]] ವರ್ಗಗಳನ್ನು ಸೇರಿಸುವುದು",
+	"category-also-in": "(ಇದರಲ್ಲಿಯು  %(alsocat)s)",
+	"category-was-disbanded": "ರೋಬೋಟ್: ವರ್ಗ ವಿಸರ್ಜಿಸಲಾಯಿತು",
+	"category-replacing": "ರೋಬೋಟ್: %(oldcat)ಯನ್ನು % (newcat)ಗೆ ಬದಲಾಯಿಸುವುದು",
+	"category-removing": "ರೋಬೋಟ್:  %(oldcat) ಇಂದ ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ",
+	"category-was-moved": "ರೋಬೋಟ್: ವರ್ಗವನ್ನು [[:Category:%(newcat)s|%(title)s]]ಗೆ  ಸರಿಸಲಾಗುತ್ತಿದೆ",
+	"category-renamed": "ರೋಬೋಟ್: %s. Authors: %s ಇಂದ ಸರಿಸಲಾಗಿದೆ",
+	"category-section-title": "ಮಾಜಿ %(oldcat)ನ ಪುಟದ ಇತಿಹಾಸ"
+}

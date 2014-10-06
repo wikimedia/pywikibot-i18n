@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shubhamkanodia"
+		]
+	},
+	"interwiki-modifying": "रोबोट: %(modifying)s संशोधित कर रहा है",
+	"interwiki-modifying-from": "रोबॉट: %(from)s की जगह %(modifying)s जोड़ रहा है"
+}

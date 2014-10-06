@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Sistemazzjoni awtomatika tar-rindirizz: %(from)s - Ħolqa/Ħoloq imneħħija",
+	"solve_disambiguation-redirect-resolved": "Sistemazzjoni awtomatika tar-rindirizz: %(from)s - Bidla fil-ħolqa/ħoloq għal %(to)s",
+	"solve_disambiguation-links-resolved": "Sistemazzjoni awtomatika tar-rindirizz: %(from)s - Bidla fil-ħolqa/ħoloq għal %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Sistemazzjoni awtomatika tar-rindirizz: %(from)s - Immarkata bħala li teħtieġ attenzjoni minn espert/i",
+	"solve_disambiguation-adding-dn-template": "Sistemazzjoni awtomatika tar-rindirizz: %(from)s - Immarkata bħala li teħtieġ attenzjoni minn espert/i",
+	"solve_disambiguation-unknown-page": "(mhux magħruf)",
+	"solve_disambiguation-links-removed": "Sistemazzjoni awtomatika tar-rindirizz: %(from)s - Ħolqa/Ħoloq imneħħija"
+}

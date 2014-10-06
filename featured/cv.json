@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salam"
+		]
+	},
+	"featured-good": "робот: лайӑх статья %(page)s",
+	"featured-list": "робот: суйласа илнӗ ят-йыш %(page)s",
+	"featured-featured": "робот: суйласа илнӗ статья %(page)s",
+	"featured-former": "робот: суйласа илнӗ статья пулнӑ %(page)s"
+}

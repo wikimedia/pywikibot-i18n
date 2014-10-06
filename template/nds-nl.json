@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"template-removing": "Bot: {{PLURAL:%(num)d|mal|mallen}} vortdoon: %(list)s",
+	"template-changing": "Bot: {{PLURAL:%(num)d|mal|mallen}} vervangen: %(list)s",
+	"template-substituting": "Bot: {{PLURAL:%(num)d|mal|mallen}} substitueren: %(list)s"
+}

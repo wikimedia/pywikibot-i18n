@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Namik"
+		]
+	},
+	"interwiki-modifying": "Робот: Дегишарна %(modifying)s",
+	"interwiki-adding-modifying": "Робот: пай ктуна %(adding)s; дегишарна %(modifying)s",
+	"interwiki-adding-removing": "Робот: пай ктуна %(adding)s; чIурна: %(removing)s",
+	"interwiki-adding-removing-modifying": "Робот: пай ктуна %(adding)s чIурна: %(removing)s дегишарна: %(modifying)s",
+	"interwiki-adding": "Робот: Пай ктуна %(adding)s",
+	"interwiki-removing": "Робот: чIурна %(removing)s",
+	"interwiki-removing-modifying": "Робот:чIурна %(removing)s дегишарна: %(modifying)s"
+}

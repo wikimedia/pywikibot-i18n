@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"protect-links": "Bot: Seekre aal jo sidjen mä ferwisangen faan %(page)s",
+	"protect-simple": "Bot: Seekre en list faan datein.",
+	"protect-category": "Bot: Seekre aal jo sidjen uun det kategorii %(cat)s",
+	"protect-ref": "Bot: Seekre aal jo sidjen, diar üüb %(page)s ferwise",
+	"protect-images": "Bot: Seekre aal jo datein üüb det sidj %(page)s"
+}

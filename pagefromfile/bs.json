@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"pagefromfile-msg_bottom": "prikačeno na dno",
+	"pagefromfile-msg_force": "postojeći tekst prepisan",
+	"pagefromfile-msg_top": "prikačeno na vrh",
+	"pagefromfile-msg": "Bot: Automatski unos stranica"
+}

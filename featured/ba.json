@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sagan"
+		]
+	},
+	"featured-good": "Робот: %(page)s яҡшы мәҡәлә",
+	"featured-list": "Робот: %(page)s һайланған исемлек",
+	"featured-featured": "Робот: %(page)s һайланған мәҡәлә",
+	"featured-former": "Робот: %(page)s элекке һайланған мәҡәлә"
+}

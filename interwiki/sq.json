@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Euriditi"
+		]
+	},
+	"interwiki-modifying": "roboti ndryshoj: %(modifying)s",
+	"interwiki-adding-modifying": "roboti shtoj: %(adding)s ndryshoj: %(modifying)s",
+	"interwiki-adding-removing": "roboti shtoj: %(adding)s largoj: %(removing)s",
+	"interwiki-adding-removing-modifying": "roboti shtoj: %(adding)s largoj: %(removing)s ndryshoj: %(modifying)s",
+	"interwiki-adding": "roboti shtoj: %(adding)s",
+	"interwiki-removing": "roboti largoj: %(removing)s",
+	"interwiki-removing-modifying": "roboti largoj: %(removing)s ndryshoj: %(modifying)s",
+	"interwiki-modifying-from": "Roboti: Duke redaktuar %(from)s në %(modifying)s"
+}

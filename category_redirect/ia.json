@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"category_redirect-comment": "Robot pro mantener redirectiones de categorias",
+	"category_redirect-change-category": "Robot: Cambia le categoria redirigite [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: Adde patrono de redirection de categoria pro mantenentia",
+	"category_redirect-edit-request": "Le sequente paginas protegite require actualisationes de ligamines a categorias: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s es in %(oldcat)s, que es un redirection a %(newcat)s",
+	"category_redirect-fix-double": "Robot: Repara redirection duple"
+}

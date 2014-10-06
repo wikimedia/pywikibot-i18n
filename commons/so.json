@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] u wareeji [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "File aan laga heli karin [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

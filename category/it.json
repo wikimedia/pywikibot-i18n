@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"EdoDodo",
+			"Nemo bis",
+			"Ricordisamoa",
+			"Xqt"
+		]
+	},
+	"category-version-history": "Bot: salvo la cronologia della precedente %(oldcat)s",
+	"category-changing": "Bot: Modifico %(oldcat)s in %(newcat)s",
+	"category-adding": "Bot: Aggiunta la categoria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(anche in %(alsocat)s)",
+	"category-was-disbanded": "Bot: La categoria è stata eliminata",
+	"category-replacing": "Bot: Sostituzione di %(oldcat)s con %(newcat)s",
+	"category-removing": "Bot: Rimozione da %(oldcat)s",
+	"category-was-moved": "Bot: La categoria è stata sostituita da [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Voce spostata da %s. Autori: %s",
+	"category-section-title": "Cronologia della precedente %(oldcat)s",
+	"category-listifying": "Bot: Lista del contento dalla %(fromcat)s (%(num)d pagine)"
+}

@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "bot mengubah: %(modifying)s",
+	"interwiki-adding-modifying": "bot menambah: %(adding)s mengubah: %(modifying)s",
+	"interwiki-adding-removing": "bot menambah: %(adding)s membuang: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot menambah: %(adding)s membuang: %(removing)s mengubah: %(modifying)s",
+	"interwiki-adding": "bot menambah: %(adding)s",
+	"interwiki-removing": "bot membuang: %(removing)s",
+	"interwiki-removing-modifying": "bot membuang: %(removing)s mengubah: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Menukar %(from)s kepada %(modifying)s"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj",
+			"Xqt"
+		]
+	},
+	"featured-good": "Robot: %(page)s is 'n goeie artikel",
+	"featured-list": "Robot: %(page)s is 'n uitgeligte lys",
+	"featured-featured": "Robot: %(page)s is 'n voorbladartikel"
+}

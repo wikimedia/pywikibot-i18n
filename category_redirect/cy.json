@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr",
+			"Xxglennxx"
+		]
+	},
+	"category_redirect-comment": "Bot cynnal a chadw ailgyfeiriadau o gategori i gategori",
+	"category_redirect-change-category": "Robot: wedi newid y categori ailgyfeirio [[:%(oldCatLink)s|%(oldCatTitle)s]] i [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: yn ychwanegu nodyn categori ailgyfeirio ar gyfer cynnal a chadw",
+	"category_redirect-edit-request": "Darganfu bod angen diweddariadau i ddolenni'r categori ar y tudalennau canlynol: %(itemlist)s",
+	"category_redirect-edit-request-item": "* Mae %(title)s i'w gael yn %(oldcat)s, sydd yn ailgyfeirio i %(newcat)s",
+	"category_redirect-fix-double": "Bot: yn datrys ailgyfeirio dwbl"
+}

@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "robot minamodifikar: %(modifying)s",
+	"interwiki-adding-modifying": "robot minadugang: %(adding)s minamodifikar: %(modifying)s",
+	"interwiki-adding-removing": "robot minadugang: %(adding)s minahali: %(removing)s",
+	"interwiki-adding-removing-modifying": "robot minadugang: %(adding)s minahali: %(removing)s minamodifikar: %(modifying)s",
+	"interwiki-adding": "robot minadugang: %(adding)s",
+	"interwiki-removing": "robot minahali: %(removing)s",
+	"interwiki-removing-modifying": "robot minahali: %(removing)s minamodifikar: %(modifying)s"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"featured-good": "Robot: %(page)s ket nasayaat nga artikulo",
+	"featured-list": "Robot: %(page)s ket maysa a lista a nailasin",
+	"featured-featured": "Robot: %(page)s ket maysa a nailasin nga artikulo",
+	"featured-former": "Robot: %(page)s ket maysa a nailasin idi nga artikulo"
+}

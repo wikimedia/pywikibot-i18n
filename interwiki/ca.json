@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grondin"
+		]
+	},
+	"interwiki-modifying": "Robot modifica: %(modifying)s",
+	"interwiki-adding-modifying": "Robot afegeix: %(adding)s modifica: %(modifying)s",
+	"interwiki-adding-removing": "Robot afegeix: %(adding)s esborra: %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot afegeix: %(adding)s esborra: %(removing)s modifica: %(modifying)s",
+	"interwiki-adding": "Robot afegeix: %(adding)s",
+	"interwiki-removing": "Robot esborra: %(removing)s",
+	"interwiki-removing-modifying": "Robot esborra: %(removing)s modifica: %(modifying)s",
+	"interwiki-modifying-from": "Robot: canviant %(from)s a %(modifying)s"
+}

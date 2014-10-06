@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Mak reguidal til [[%(to)s]]"
+}

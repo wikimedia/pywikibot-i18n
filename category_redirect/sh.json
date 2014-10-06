@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolega2357"
+		]
+	},
+	"category_redirect-comment": "Bot za održavanje preusmjerenih kategorija",
+	"category_redirect-change-category": "Robot: mijenja preusmjerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: dodat šablon za preusmjerenu kategoriju za održavanje",
+	"category_redirect-edit-request": "Sljedeće zaštićene stranice imaju zastarjele veze kategorija: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s je u %(oldcat)s, a to je preusmjerenje na %(newcat)s",
+	"category_redirect-fix-double": "Bot: ispravljena dvostruka preusmjerenja"
+}

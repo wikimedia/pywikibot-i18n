@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"ZxxZxxZ"
+		]
+	},
+	"commons-file-moved": "[[:پرونده:%(localfile)s|پرونده]] به [[:commons:File:%(commonsfile)s|انبار]] منتقل شد.",
+	"commons-file-now-available": "پرونده همکنون در [[:commons:File:%(commonsfile)s|انبار ویکی‌مدیا]] در دسترس است."
+}

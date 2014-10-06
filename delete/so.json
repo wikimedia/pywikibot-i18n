@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"delete-images": "Bot: Tirtiris dhamaan sawirada bogga %(page)s",
+	"delete-referring-pages": "Bot: tirtirista dhamaan bogogga la xiriira %(page)s",
+	"delete-from-category": "Bot: ka tirtiris Qaybta dhamaan bogagga   %(page)s",
+	"delete-from-file": "Robot: Ka tirtiris liska  file lasha.",
+	"delete-linked-pages": "Robot: tirtiris dhamaan bogogga web ka %(page)s"
+}

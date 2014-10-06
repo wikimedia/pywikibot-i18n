@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "\nWaddefresser",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s Gebeschdl] (%(page_size)s Beit) vun %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Neie Dischbedutt",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Dischbedutt geennert",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "SCHPELLS VUM WADDEFRESSER"
+}

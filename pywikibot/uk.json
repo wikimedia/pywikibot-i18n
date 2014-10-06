@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Base",
+			"DixonD"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Будь ласка, введіть назву файлу дампу XML:",
+	"pywikibot-enter-page-processing": "Які сторінки потрібно переробити?",
+	"pywikibot-enter-file-links-processing": "Посилання на які файли слід обробити?",
+	"pywikibot-enter-namespace-number": "Введіть номер простору імен:",
+	"pywikibot-enter-new-text": "Введіть новий текст:",
+	"pywikibot-enter-category-name": "Введіть ім'я категорії:",
+	"pywikibot-enter-finished-browser": "Натисніть Enter, коли завершите редагування у браузері."
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia"
+		]
+	},
+	"spamremove-remove": "Вилучення посилання на спамерський сайт %(url)s"
+}

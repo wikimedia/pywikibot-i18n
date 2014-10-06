@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"casechecker-replacement-summary": "Rôbô: Fanovana ny toe-tsoratra:",
+	"casechecker-delete-summary": "Rôbô: misy litera sirilìka ary latina mitovy endrika amin'ny lohateniny ity fihodinana ity",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Nanondro an'i %(target)s ity fihodinana ity",
+	"casechecker-rename": "Rôbô: Fiovana anarana amin'ny renisoratra sy zana-tsoratra mifangaro"
+}

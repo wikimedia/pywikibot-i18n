@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"revertbot-revert": "Bot: Reverto á revisión %(revid)s feita por %(author)s o %(timestamp)s"
+}

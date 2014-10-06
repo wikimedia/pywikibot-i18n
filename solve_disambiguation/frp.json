@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Homonimia solucionâye avouéc un robot : %(from)s - lim(s) enlevâ(s)",
+	"solve_disambiguation-redirect-resolved": "Homonimia solucionâye avouéc un robot : %(from)s - lim(s) changiê(s) por %(to)s",
+	"solve_disambiguation-links-resolved": "Homonimia solucionâye avouéc un robot : %(from)s - lim(s) changiê(s) por %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Homonimia solucionâye avouéc un robot : %(from)s - marcâye coment demandent l’atencion d’un èxpèrt",
+	"solve_disambiguation-adding-dn-template": "Homonimia solucionâye avouéc un robot : %(from)s - marcâye coment demandent l’atencion d’un èxpèrt",
+	"solve_disambiguation-unknown-page": "(encognu)",
+	"solve_disambiguation-links-removed": "Homonimia solucionâye avouéc un robot : %(from)s - lim(s) enlevâ(s)."
+}

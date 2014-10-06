@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"revertbot-revert": "Bot: Vraćeno na reviziju %(revid)s od korisnika %(author)s, %(timestamp)s"
+}

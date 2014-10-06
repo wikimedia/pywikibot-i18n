@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amir a57",
+			"E THP"
+		]
+	},
+	"template-removing": "بوت:{{PLURAL:%(num)d|شابلونو}} دییشدیریلیر:%(list)s",
+	"template-changing": "بوت: {{PLURAL:%(num)d|شابلونو}} دییشدیریلیر: %(list)s",
+	"template-substituting": "بوت: یئر دییشدیریر: {{PLURAL:%(num)d| شابلون | شابلونو}}:%(list)s"
+}

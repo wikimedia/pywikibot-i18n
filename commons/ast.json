@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esbardu"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Ficheru]] treslladáu a [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "El ficheru yá ta disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

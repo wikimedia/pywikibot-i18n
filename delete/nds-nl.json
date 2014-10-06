@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"delete-images": "Robot: alle media op pagina %(page)s wörden vortedaon",
+	"delete-referring-pages": "Bot: alle pagina's die naor de pagina %(page)s verwiezen wörden vortedaon",
+	"delete-from-category": "Bot: alle pagina's uut kategorie %(page)s wörden vortedaon",
+	"delete-from-file": "Bot: lieste mit ziejen wörden vortedaon.",
+	"delete-linked-pages": "Bot: alle pagina's waor de pagina %(page)s naor verwis wörden vortedaon"
+}

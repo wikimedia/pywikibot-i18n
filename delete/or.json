@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shisir 1945"
+		]
+	},
+	"delete-images": "ରୋବଟ୍‌: %(page)s ର ସବୁ ଛବି କଟା ହେଉଛି",
+	"delete-referring-pages": "ରୋବଟ୍‌: %(page)s ରୁ ଉଦ୍ଧୃତ ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି",
+	"delete-from-category": "ରୋବଟ୍‌: ବର୍ଗ %(page)s ର ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି",
+	"delete-from-file": "ରୋବଟ୍‌: ଗୋଟିଏ ଫାଇଲ୍‌ ତାଲିକା କଟା ହେଉଛି",
+	"delete-linked-pages": "ରୋବଟ୍‌: %(page)s ସହ ସଂଯୁକ୍ତ ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି"
+}

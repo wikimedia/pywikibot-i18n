@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន",
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"category-changing": "Robot: កំពុងផ្លាស់ប្ដូរ %(oldcat)s",
+	"category-adding": "!រ៉ូបូ: បន្ថែម category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(ក៏មាននៅក្នុង %(alsocat)s)",
+	"category-removing": "Bot: កំពុងដកចេញពី %(oldcat)s",
+	"category-was-moved": "រូបូ៖ ចំណាត់ថ្នាក់ក្រុមត្រូវបានលុបចេញពី [[:Category:%(newcat)s|%(title)s]]"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krol111",
+			"Przemub"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Plik]] przeciepano do [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Plik terozki dostympny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

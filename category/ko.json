@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"category-version-history": "로봇: 이전 %(oldcat)s의 버전 역사를 저장",
+	"category-changing": "로봇: %(oldcat)s에서 %(newcat)s(으)로 바꿈",
+	"category-adding": "로봇: [[:Category:%(newcat)s|%(newcat)s]] 분류 추가",
+	"category-also-in": "(%(alsocat)s에도 들어 있습니다)",
+	"category-was-disbanded": "로봇: 분류를 폐지함",
+	"category-replacing": "로봇: %(oldcat)s(을)를 %(newcat)s(으)로 분류를 바꿈",
+	"category-removing": "로봇: %(oldcat)s 제거",
+	"category-was-moved": "로봇: 분류를 [[:Category:%(newcat)s|%(title)s]](으)로 옮겼습니다",
+	"category-renamed": "로봇: %s에서 옮겼습니다. 저자: %s",
+	"category-section-title": "이전 %(oldcat)s의 문서 역사",
+	"category-listifying": "로봇: %(fromcat)s에서 목록화 ({{PLURAL:%(num)d|항목 1개|항목 %(num)d개}})"
+}

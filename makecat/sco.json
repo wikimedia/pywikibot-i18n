@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"makecat-create": "Robot: Cræftin or update o categerie [[:Category:%(cat)s|]]"
+}

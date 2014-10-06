@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Express2000",
+			"Rubin16"
+		]
+	},
+	"archivebot-older-than": "старше, чем",
+	"archivebot-page-summary": "Архивация %(count)d {{PLURAL:%(count)d|темы|тем}} (%(why)s) в %(archives)s.",
+	"archivebot-archiveheader": "{{Архив обсуждения}}",
+	"archivebot-archive-full": "(АРХИВ ЗАПОЛНЕН)",
+	"archivebot-archive-summary": "Архивация %(count)d {{PLURAL:%(count)d|темы|тем}} с [[%(from)s]]."
+}

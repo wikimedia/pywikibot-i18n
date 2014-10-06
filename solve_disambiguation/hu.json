@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Bottal támogatott egyértelműsítés: %(from)s – hivatkozások eltávolítása",
+	"solve_disambiguation-redirect-resolved": "Bottal végzett egyértelműsítés: %(from)s –> %(to)s",
+	"solve_disambiguation-links-resolved": "Bottal végzett egyértelműsítés: %(from)s –> %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bottal végzett egyértelműsítés: %(from)s – megjelölve, hogy szakértő figyelmét igényli",
+	"solve_disambiguation-adding-dn-template": "Bottal végzett egyértelműsítés: %(from)s – megjelölve, hogy szakértő figyelmét igényli",
+	"solve_disambiguation-unknown-page": "(ismeretlen)",
+	"solve_disambiguation-links-removed": "Bottal végzett egyértelműsítés: %(from)s – hivatkozások eltávolítása"
+}

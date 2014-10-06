@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yfdyh000"
+		]
+	},
+	"revertbot-revert": "机器人：恢复到%(author)s在%(timestamp)s作出的修订%(revid)s"
+}

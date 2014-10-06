@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"DrTrigon",
+			"Toliño"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(non se atopou ningún editor humano)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s última edición] (%(page_size)s bytes) feita por %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Mensaxe de aviso do bot: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nova conversa",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span>; última edición feita por [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notificación",
+	"thirdparty-drtrigonbot-subster-summary-mod": "substituída(s) a(s) etiqueta(s) %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Conversa pechada",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s todas as conversas remataron (vixilancia detida); última edición feita por %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Engadido o resumo da conversa: %(num)i entradas",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Conversa modificada",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Engadido o resumo da conversa con limpeza: %(num)i entradas",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Actualizado o resumo da conversa: %(num)i entradas en %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MENSAXE DO BOT",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nResumo xerado desde e en: %(sign)s</noinclude>"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"category-version-history": "Bot: sačuvana istorija ranije verzije stranice %(oldcat)s",
+	"category-changing": "Bot: promenjeno %(oldcat)s u %(newcat)s",
+	"category-adding": "Bot: dodata kategorija [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(i u %(alsocat)s)",
+	"category-was-disbanded": "Bot: kategorija je raspuštena",
+	"category-replacing": "Bot: zamenjena kategorija %(oldcat)s sa %(newcat)s",
+	"category-removing": "Bot: uklonjeno iz %(oldcat)s",
+	"category-was-moved": "Bot: kategorija je premeštena u [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: premešteno iz %s. Autori: %s",
+	"category-section-title": "Istorija ranije verzije stranice %(oldcat)s",
+	"category-listifying": "Bot: ispisano iz %(fromcat)s ({{PLURAL:%(num)d|1 stavka|%(num)d stavke|%(num)d stavki}})"
+}

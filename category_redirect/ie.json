@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renan"
+		]
+	},
+	"category_redirect-comment": "Machine de conservation de redirection de categorie",
+	"category_redirect-change-category": "Machine: change categorie redirectet [[:%(oldCatLink)s|%(oldCatTitle)s]] por [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Machine: addint avise de redirection de categorie por conservation",
+	"category_redirect-edit-request": "Li proxim págines gardat hat esset detectet quam exigent modernisationes por catenunes de categorie: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s es in %(oldcat)s, quel es un redirection por %(newcat)s",
+	"category_redirect-fix-double": "Machine: fixant redirection duplic"
+}

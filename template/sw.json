@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwisha"
+		]
+	},
+	"template-removing": "Roboti: Inatoa {{PLURAL:%(num)d|templeti|templati}}: %(list)s",
+	"template-changing": "Roboti: Inabadili {{PLURAL:%(num)d|templeti|templeti}}: %(list)s"
+}

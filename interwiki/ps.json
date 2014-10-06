@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "روباټ بدلول: %(modifying)s",
+	"interwiki-adding-modifying": "روباټ زیاتول: %(adding)s بدلول: %(modifying)s",
+	"interwiki-adding-removing": "روباټ زیاتول: %(adding)s لرې کول: %(removing)s",
+	"interwiki-adding-removing-modifying": "روباټ زیاتول: %(adding)s لرې کول: %(removing)s بدلول: %(modifying)s",
+	"interwiki-adding": "روباټ زیاتول: %(adding)s",
+	"interwiki-removing": "روباټ لرې کول: %(removing)s",
+	"interwiki-removing-modifying": "روباټ لرې کول: %(removing)s بدلول: %(modifying)s"
+}

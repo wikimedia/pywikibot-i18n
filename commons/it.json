@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Nemo bis"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] trasferito su [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Il file è ora disponibile su [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

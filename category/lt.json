@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cyklopas",
+			"Eitvys200",
+			"Hugo.arg",
+			"Mantak111"
+		]
+	},
+	"category-changing": "Robotas: Keičiama %(oldcat)s į %(newcat)s",
+	"category-adding": "Robotas: Pridedama kategorija [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(taip pat ir %(alsocat)s)",
+	"category-was-disbanded": "robotas: kategorija išformuota",
+	"category-replacing": "robotas: kategorija %(oldcat)s keičiama į %(newcat)s",
+	"category-removing": "robotas: šalinama iš %(oldcat)s",
+	"category-was-moved": "robotas: Kategorija pervadinta į [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "robotas: Perkelta iš %s. Autoriai: %s",
+	"category-section-title": "Puslapis istorija iš buvusio %(oldcat)s"
+}

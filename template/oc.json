@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"template-removing": "Robòt : Lèva {{PLURAL:%(num)d|lo modèl|modèls}}: %(list)s",
+	"template-changing": "Robòt : {{PLURAL:%(num)d|Càmbia modèl|Modifica modèls}}: %(list)s",
+	"template-substituting": "Robòt : Remplaça {{PLURAL:%(num)d|modèl|modèls}}: %(list)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eruedin"
+		]
+	},
+	"table2wiki-warnings": "Bot: Tabellensyntax konvertiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!",
+	"table2wiki-no-warning": "Bot: Tabellensyntax konvertiert"
+}

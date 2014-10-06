@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"weblinkchecker-archive_msg": "此網頁已由互聯網檔案館保存。請為該網頁挑選一個適合鏈接的存檔版本: [%(URL)s]。",
+	"weblinkchecker-caption": "失效連結",
+	"weblinkchecker-summary": "機械人報告失效的外部連結",
+	"weblinkchecker-report": "自動運行的機械人發現下列外部連結可能已不可用。請協助檢查、修復或移除有問題的連結。"
+}

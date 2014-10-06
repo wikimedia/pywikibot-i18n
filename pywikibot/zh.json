@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Liuxinyu970226",
+			"Qiyue2001",
+			"Yfdyh000"
+		]
+	},
+	"pywikibot-enter-xml-filename": "请输入XML转储文件名称：",
+	"pywikibot-enter-page-processing": "哪个页面需要处理？",
+	"pywikibot-enter-file-links-processing": "哪个文件的链接需要处理？",
+	"pywikibot-enter-namespace-number": "请输入命名空间编号：",
+	"pywikibot-enter-new-text": "请输入新文本：",
+	"pywikibot-enter-category-name": "请输入分类名称：",
+	"pywikibot-enter-finished-browser": "请在浏览器作业完成后按下Enter键。"
+}

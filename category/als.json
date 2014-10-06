@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Chlämens",
+			"Als-Holder",
+			"Xqt"
+		]
+	},
+	"category-version-history": "Bot: Versionsgschicht vu dr alte %(oldcat)s gsicheret",
+	"category-changing": "Bötli: Due %(oldcat)s zue %(newcat)s ändere",
+	"category-adding": "Bötli: Kategori [[:Category:%(newcat)s|%(newcat)s]] ergänzt",
+	"category-also-in": "(au in %(alsocat)s)",
+	"category-was-disbanded": "Bot: Kategori isch ufglest wore",
+	"category-replacing": "Bötli: Kategori %(oldcat)s uustuscht dur %(newcat)s",
+	"category-removing": "Bötli: us %(oldcat)s  uusegnuu",
+	"category-was-moved": "Bötli: Kategori isch no [[:Category:%(newcat)s|%(title)s]] verschobe wore",
+	"category-renamed": "Bot: Verschobe vu %s. Autore: %s",
+	"category-section-title": "Versionsgschicht vu dr urspringlige %(oldcat)s",
+	"category-listifying": "Bötli: Lischt us %(fromcat)s (%(num)d Yytreg)"
+}

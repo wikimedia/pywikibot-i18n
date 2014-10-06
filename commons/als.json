@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Chlämens"
+		]
+	},
+	"commons-file-moved": "D [[:File:%(localfile)s|Datei]] isch uff [[:commons:File:%(commonsfile)s|d Allmänd]] verschobe worde.",
+	"commons-file-now-available": "Die Datei isch jetz uff de [[:commons:File:%(commonsfile)s|Allmänd]] verfügbar."
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"table2wiki-warnings": "Uporabniško nadzorovan Bot: sintaksa tabele je posodobljena - {{PLURAL:count|1 opozorilo|%(count)d opozoril}}!",
+	"table2wiki-no-warning": "Uporabniško nadzorovan Bot: sintaksa tabele je posodobljena"
+}

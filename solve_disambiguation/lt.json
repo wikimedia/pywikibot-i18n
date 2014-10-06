@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Homo",
+			"Hugo.arg"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pašalintos nuorodos",
+	"solve_disambiguation-redirect-resolved": "Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s",
+	"solve_disambiguation-links-resolved": "Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s",
+	"solve_disambiguation-unknown-page": "(nežinomas)",
+	"solve_disambiguation-links-removed": "Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pašalintos nuorodos"
+}

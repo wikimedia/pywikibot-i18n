@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"table2wiki-warnings": "Robot : ereadurezh an daolenn hizivaet - {{PLURAL:count|1 c'hemenn-diwall|%(count)d kemenn-diwall}} !",
+	"table2wiki-no-warning": "Robot : ereadurezh an daolenn hizivaet"
+}

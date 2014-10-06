@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki",
+			"Glavkos"
+		]
+	},
+	"archivebot-older-than": "παλαιότερο από",
+	"archivebot-page-summary": "Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)",
+	"archivebot-archive-summary": "Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]]"
+}

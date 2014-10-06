@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"ترجمان05"
+		]
+	},
+	"welcome-welcome": "مرحبا!",
+	"welcome-bad_username": "بوت: إضافة اسم مستخدم يحتاج للفحص",
+	"welcome-updating": "بوت: تحديث السجل"
+}

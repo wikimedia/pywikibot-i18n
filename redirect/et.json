@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pikne"
+		]
+	},
+	"redirect-fix-double": "Robot: parandatud kahekordne ümbersuunamine leheküljele %(to)s"
+}

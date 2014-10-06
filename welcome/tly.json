@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"welcome-welcome": "Хәш омәјшон!",
+	"welcome-bad_username": "Робот: Иштирокәкәси шәкинә ном зијод кардә быә",
+	"welcome-updating": "Робот: Тожә карде"
+}

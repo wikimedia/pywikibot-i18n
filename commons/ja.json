@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|このファイル]]は[[:commons:File:%(commonsfile)s|コモンズ]]へと移動しました。",
+	"commons-file-now-available": "このファイルは[[:commons:File:%(commonsfile)s|ウィキメディア・コモンズ]]で利用できるようになりました。"
+}

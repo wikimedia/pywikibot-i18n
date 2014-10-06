@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"table2wiki-warnings": "ロボットによる: 表をHTMLからウィキ構文に更新 - 警告 {{PLURAL:count|1|%(count)d}}",
+	"table2wiki-no-warning": "ロボットによる: 表をHTMLからウィキ構文に更新"
+}

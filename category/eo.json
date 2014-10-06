@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Airon90",
+			"Blahma",
+			"KuboF"
+		]
+	},
+	"category-version-history": "Roboto: Konservado de kronologio de versioj de iama %(oldcat)s",
+	"category-changing": "Roboto: Ŝanĝado de %(oldcat)s al %(newcat)s",
+	"category-adding": "Roboto: Aldonado de kategorio [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(ankaŭ en %(alsocat)s)",
+	"category-was-disbanded": "Roboto: Kategorio estas anstataŭigita",
+	"category-replacing": "Roboto: Anstataŭigo de kategorio %(oldcat)s per %(newcat)s",
+	"category-removing": "Roboto: Forigado el %(oldcat)s",
+	"category-was-moved": "Roboto: Kategorio estas movita al [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Roboto: Movita el %s. Aŭtoroj: %s",
+	"category-section-title": "Kronologio de iama %(oldcat)s",
+	"category-listifying": "Roboto: Listigado de %(fromcat)s (%(num)d ero{{PLURAL:%(num)d||j}})"
+}

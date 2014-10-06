@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"spamremove-remove": "ลบลิงก์สแปมจากไซต์ %(url)s"
+}

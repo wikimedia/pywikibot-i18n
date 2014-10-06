@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"category-version-history": "Robot: Sinasagip ang kasaysayan ng bersiyon ng dating %(oldcat)s",
+	"category-changing": "Robot: Binabago ang %(oldcat)s upang maging %(newcat)s",
+	"category-adding": "Robot: Nagdaragdag ng kategoryang [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(nasa loob din ng %(alsocat)s)",
+	"category-was-disbanded": "Bot: Pinagwatak-watak ang kategorya",
+	"category-replacing": "Robot: Pinapalitan ng kategoryang %(oldcat)s ng %(newcat)s",
+	"category-removing": "Bot: Tinatanggal mula sa %(oldcat)s",
+	"category-was-moved": "Robot: Inilipat ang kategorya sa [[:Category:%(newcat)s|%(title)s]]",
+	"category-section-title": "Kasaysayan ng pahina ng dating %(oldcat)s",
+	"category-listifying": "Bot: Isinalilista mula sa %(fromcat)s (%(num)d entries)"
+}

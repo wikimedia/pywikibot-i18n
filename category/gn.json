@@ -1,0 +1,3 @@
+{
+	"category-adding": "bot: ojoapy category [[:Category:%(newcat)s|%(newcat)s]]"
+}

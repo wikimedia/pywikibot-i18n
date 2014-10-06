@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rzuwig"
+		]
+	},
+	"reflinks-autogen": "wygenerowany automatycznie",
+	"reflinks-comment": "Tytuł wygenerowany przez bota",
+	"reflinks-msg": "Bot: Dodanie tytułów do linków w przypisach (patrz [[%(manual)s|FAQ]])"
+}

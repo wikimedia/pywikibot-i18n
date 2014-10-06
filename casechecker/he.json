@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yona b"
+		]
+	},
+	"casechecker-replacement-summary": "בוט: מתקן אותיות גדולות",
+	"casechecker-delete-summary": "בוט: ההפניה מכילה אותיות קיריליות ולטיניות זהות בכותרת",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "ההפניה משמשת להצביע על %(target)s",
+	"casechecker-rename": "בוט: שינוי שם מעורב"
+}

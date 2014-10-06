@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(gins de changior humen trovâ)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s : %(page_sections)s - [%(history_link)s dèrriér changement] (%(page_size)s octèts) per %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Mèssâjo d’avèrtissement du robot : %(page)s « ''%(warning)s'' »",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Novèla discussion",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s : <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - dèrriér changement per [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notificacion",
+	"thirdparty-drtrigonbot-subster-summary-mod": "substitucion d’una balisa ou ben de les balises %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussion cllôsa",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s : %(page)s totes les discussions sont chavonâyes (survelyence arrètâye) - dèrriér changement per %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Somèro de la discussion apondu : %(num)i èlèments",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussion changiêye",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Somèro de la discussion apondu avouéc neteyâjo : %(num)i èlèments",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Somèro de la discussion betâ a jorn : %(num)i èlèments dedens %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MÈSSÂJO DU ROBOT",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSomèro fêt dês et a : %(sign)s</noinclude>"
+}

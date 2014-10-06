@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"ArdWar",
+			"Farras"
+		]
+	},
+	"delete-images": "Robot: Menghapus semua gambar pada halaman %(page)s",
+	"delete-referring-pages": "Robot: Menghapus semua halaman yang mengarah dari %(page)s",
+	"delete-from-category": "Robot: Menghapus semua halaman dari kategori %(page)s",
+	"delete-from-file": "Robot: Menghapus daftar halaman.",
+	"delete-linked-pages": "Robot: Menghapus semua halaman yang tertaut dari %(page)s"
+}

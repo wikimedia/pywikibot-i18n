@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pahles"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Besjtand]] is verplaats nao [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Dit besjtand steit noe op [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

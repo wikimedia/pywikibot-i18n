@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"pywikibot-enter-xml-filename": "請輸入XML Dump的檔案名稱：",
+	"pywikibot-enter-page-processing": "需要處理哪個頁面？",
+	"pywikibot-enter-file-links-processing": "應該處理甚麼檔案的連入頁面？",
+	"pywikibot-enter-namespace-number": "請輸入名字空間編號：",
+	"pywikibot-enter-new-text": "請輸入新文字：",
+	"pywikibot-enter-category-name": "請輸入分類名稱：",
+	"pywikibot-enter-finished-browser": "於瀏覽器中完成後請按下Enter鍵。"
+}

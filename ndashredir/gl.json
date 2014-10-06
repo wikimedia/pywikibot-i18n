@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"ndashredir-create": "Bot: Creo unha redirección con guión cara a \"[[%(title)s]]\""
+}

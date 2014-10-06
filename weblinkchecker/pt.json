@@ -1,0 +1,6 @@
+{
+	"weblinkchecker-archive_msg": "Esta página web foi gravada na Internet Archive. Por favor considere o link para a versão arquivada: [%(URL)s].",
+	"weblinkchecker-caption": "Link quebrado",
+	"weblinkchecker-summary": "Bot: Link externo não funcionando",
+	"weblinkchecker-report": "Foi checado os links externos deste artigo por vários minutos. Alguém verifique por favor se a ligação estiver fora do ar e tente arrumá-lo ou removê-la!"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Diagramma Della Verita"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Menghasilkan redirect ke [[%(to)s]]"
+}

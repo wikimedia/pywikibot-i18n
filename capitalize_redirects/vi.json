@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: Tạo trang đổi hướng đến [[%(to)s]]"
+}

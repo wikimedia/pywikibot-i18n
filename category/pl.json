@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"BeginaFelicysym",
+			"Sp5uhe"
+		]
+	},
+	"category-version-history": "Robot: Zapisywanie historii wersji poprzedniej %(oldcat)s",
+	"category-changing": "Robot przeniósł strony z %(oldcat)s do %(newcat)s",
+	"category-adding": "Robot dodał kategorię [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(również w %(alsocat)s)",
+	"category-was-disbanded": "Robot usunął kategorię",
+	"category-replacing": "Robot zastąpił kategorię %(oldcat)s przez %(newcat)s",
+	"category-removing": "Robot usunął z kategorii %(oldcat)s",
+	"category-was-moved": "Robot przeniósł kategorię do [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Robot przenosi z %s. Autorzy: %s",
+	"category-section-title": "Historia strony poprzedniej %(oldcat)s",
+	"category-listifying": "Robot utworzył listę stron w kategorii %(fromcat)s ({{PLURAL:%(num)d|1 strona|%(num)d strony|%(num)d stron}})"
+}

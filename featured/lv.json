@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"featured-good": "Robots: %(page)s ir labs raksts",
+	"featured-list": "Robots: %(page)s ir vērtīgs saraksts",
+	"featured-featured": "Robots: %(page)s ir vērtīgs raksts",
+	"featured-former": "Robots: %(page)s ir bijušais vērtīgais raksts"
+}

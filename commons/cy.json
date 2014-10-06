@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pwyll",
+			"Robin Owain"
+		]
+	},
+	"commons-file-moved": "Mae [[:File:%(localfile)s|File]] wedi symud i [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Mae'r ffeil bellach ar gael ar [[:commons:File:%(commonsfile)s|Comin Wicifryngau]]."
+}

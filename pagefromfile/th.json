@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"pagefromfile-msg_bottom": "ต่อเข้าไปที่ด้านล่าง",
+	"pagefromfile-msg_force": "ข้อความเดิมถูกเขียนทับ",
+	"pagefromfile-msg_top": "ต่อขึ้นไปด้านบน",
+	"pagefromfile-msg": "บอต: นำเข้าบทความโดยอัตโนมัติ"
+}

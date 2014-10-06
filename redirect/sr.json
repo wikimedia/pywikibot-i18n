@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"redirect-fix-double": "Бот: исправљена двострука преусмерења у %(to)s",
+	"redirect-remove-broken": "Бот: преусмерење до обрисане или непостојеће странице",
+	"redirect-fix-broken-moved": "Бот: исправљено покварено преусмерење до премештене циљне странице %(to)s",
+	"redirect-fix-loop": "Бот: исправљена петља преусмерења на %(to)s",
+	"redirect-remove-loop": "Бот: одредиште преусмерења образује петљу",
+	"redirect-broken-redirect-template": "{{db-r1}}"
+}

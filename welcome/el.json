@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Geraki"
+		]
+	},
+	"welcome-welcome": "Καλώς ήρθατε!",
+	"welcome-bad_username": "Ρομπότ: Προσθήκη ονόματος χρήστη που χρειάζεται έλεγχο",
+	"welcome-updating": "Ρομπότ: Ενημέρωση αρχείου καταγραφής"
+}

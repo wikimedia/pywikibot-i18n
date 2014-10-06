@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Revi"
+		]
+	},
+	"spamremove-remove": "스팸 사이트 %(url)s 로의 링크 제거"
+}

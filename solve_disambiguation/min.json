@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luthfi94"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Disambiguasi babantuan bot: %(from)s - Tautan dihapuih",
+	"solve_disambiguation-redirect-resolved": "Disambiguasi babantuan bot: %(from)s - Tautan diubah manjadi %(to)s",
+	"solve_disambiguation-links-resolved": "Disambiguasi babantuan bot: %(from)s - Tautan diubah manjadi %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi babantuan bot: %(from)s - Paralu parhatian pakar",
+	"solve_disambiguation-adding-dn-template": "Disambiguasi babantuan bot: %(from)s - Paralu parhatian pakar",
+	"solve_disambiguation-unknown-page": "(indak dikenal)",
+	"solve_disambiguation-links-removed": "Disambiguasi babantuan bot: %(from)s - Tautan dihapuih"
+}

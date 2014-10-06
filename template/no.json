@@ -1,0 +1,5 @@
+{
+	"template-removing": "bot: Fjerner {{PLURAL:%(num)d|mal|maler}}: %(list)s",
+	"template-changing": "bot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s",
+	"template-substituting": "bot: Erstatter {{PLURAL:%(num)d|mal|maler}}: %(list)s"
+}

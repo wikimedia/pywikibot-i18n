@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"MF-Warburg"
+		]
+	},
+	"category-changing": "Bot: Muda %(oldcat)s ba %(newcat)s",
+	"category-adding": "bot: tau tan [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(mós iha %(alsocat)s laran)",
+	"category-was-moved": "Bot: Naran foun kategoria nian - [[:Category:%(newcat)s|%(title)s]]"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|പ്രമാണം]] [[:commons:File:%(commonsfile)s|കോമൺസിലേയ്ക്ക്]] മാറ്റിയിരിക്കുന്നു.",
+	"commons-file-now-available": "പ്രമാണം ഇപ്പോൾ  [[:commons:File:%(commonsfile)s|വിക്കിമീഡിയ കോമൺസിൽ]] ലഭ്യമാണ്."
+}

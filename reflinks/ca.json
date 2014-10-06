@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca"
+		]
+	},
+	"reflinks-autogen": "autogenerats",
+	"reflinks-comment": "Títol generat per bot",
+	"reflinks-msg": "Bot: convertint referències nues, usant noms de referències per evitar duplicats, vegeu [[%(manual)s|FAQ]]"
+}

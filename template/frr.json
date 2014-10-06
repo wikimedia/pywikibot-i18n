@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174",
+			"Xqt"
+		]
+	},
+	"template-removing": "Bot: Nem {{PLURAL:%(num)d|förlaag|föörlaagen}}: %(list)s wech",
+	"template-changing": "Bot: Feranre {{PLURAL:%(num)d|förlaag|föörlaagen}}: %(list)s",
+	"template-substituting": "Bot: Bütje {{PLURAL:%(num)d|föörlaag|föörlaagen}}: %(list)s ütj"
+}

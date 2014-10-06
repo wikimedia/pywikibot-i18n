@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"interwiki-modifying": "Робот: Дәгиш кардыше %(modifying)s",
+	"interwiki-adding-modifying": "Робот: зијод кардыше %(adding)s; дәгиш кардыше %(modifying)s",
+	"interwiki-adding-removing": "Робот: зијод кардыше %(adding)s; тәмиз кардыше: %(removing)s",
+	"interwiki-adding-removing-modifying": "Робот: Зијод кардыше %(adding)s; тәмиз кардыше %(removing)s; дәгиш кардыше %(modifying)s",
+	"interwiki-adding": "Робот: зијод кардыше %(adding)s",
+	"interwiki-removing": "Робот: тәмиз кардыше %(removing)s",
+	"interwiki-removing-modifying": "Робот: Тәмиз кардыше %(removing)s; дәгиш кардыше %(modifying)s",
+	"interwiki-modifying-from": "Робот: %(from)s дәгиш кардә быә бә %(modifying)s"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"template-removing": "Used as edit summary. Variables:\n* %(num)d - number of templates\n* %(list)s - list of templates (separated by {{msg-mw|Comma-separator}})",
+	"template-changing": "Used as edit summary. Variables:\n* %(num)d - number of templates\n* %(list)s - list of templates (separated by {{msg-mw|Comma-separator}})",
+	"template-substituting": "Used as edit summary. Variables:\n* %(num)d - number of templates\n* %(list)s - list of templates (separated by {{msg-mw|Comma-separator}})"
+}

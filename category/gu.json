@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"KartikMistry"
+		]
+	},
+	"category-adding": "બોટ: વર્ગ ઉમેરે છે [[:Category:%(newcat)s|%(newcat)s]]"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"reflinks-autogen": "automatski generisano",
+	"reflinks-comment": "Botovski generisani naziv",
+	"reflinks-msg": "Bot: Pretvaranje običnih izvora koristeći ref imena da bi se izbjegli duplikati (pogledaj također [[%(manual)s|FAQ]])"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yona b"
+		]
+	},
+	"delete-images": "בוט: מוחק את כל התמונות בדף %(page)s.",
+	"delete-referring-pages": "בוט: מוחק את כל הדפים המקשרים לדף %(page)s.",
+	"delete-from-category": "בוט: מוחק את כל הדפים מהקטגוריה %(page)s.",
+	"delete-from-file": "בוט: מוחק רשימת דפים.",
+	"delete-linked-pages": "בוט: מוחק את כל הדפים המקושרים מהדף %(page)s."
+}

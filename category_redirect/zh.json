@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent",
+			"Liuxinyu970226",
+			"Yfdyh000"
+		]
+	},
+	"category_redirect-comment": "分类重定向维护机器人",
+	"category_redirect-change-category": "机器人：更改已重定向的分类 [[:%(oldCatLink)s|%(oldCatTitle)s]]到[[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "机器人：添加分类重定向模板用于维护",
+	"category_redirect-edit-request": "以下受保护的页面被检测到需要更新分类链接：%(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向",
+	"category_redirect-fix-double": "机器人：修正双重重定向"
+}

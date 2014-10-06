@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sudo77(new)",
+			"Wizzard"
+		]
+	},
+	"delete-images": "Robot: Odstránenie všetkých obrázkov na stránke %(page)s",
+	"delete-referring-pages": "Robot: Odstránenie všetkých strán s odkazom z %(page)s",
+	"delete-from-category": "Robot: Odstránenie všetkých strán z kategórie %(page)s",
+	"delete-from-file": "Robot: Mazanie zoznamu stránok.",
+	"delete-linked-pages": "Robot zmazal všetko odkazované z %(page)s"
+}

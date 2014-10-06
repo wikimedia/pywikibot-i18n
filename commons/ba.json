@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файл]] [[:commons:File:%(commonsfile)s|Commons-ҡа]] күсерелгән.",
+	"commons-file-now-available": "Был файлды [[:commons:File:%(commonsfile)s|Commons]]-та ҡарарға мөмкин."
+}

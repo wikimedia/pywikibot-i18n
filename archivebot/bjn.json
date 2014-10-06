@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Riemogerz"
+		]
+	},
+	"archivebot-older-than": "tatuha matan",
+	"archivebot-page-summary": "Pangarsipan %(count)d, thread(s) (%(why)s) %(archives)s.",
+	"archivebot-archiveheader": "{{Talkarchive}}",
+	"archivebot-archive-full": "(ARSIP LANGKAP)",
+	"archivebot-archive-summary": "Pangarsipan %(count)d thread(s) dari [[%(from)s]]."
+}

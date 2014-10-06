@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Александр Сигачёв"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файл]] перемещён на [[:commons:File:%(commonsfile)s|Викисклад]].",
+	"commons-file-now-available": "Файл теперь доступен на [[:commons:File:%(commonsfile)s|Викискладе]]."
+}

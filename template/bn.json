@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftab1995"
+		]
+	},
+	"template-removing": "রোবট: {{PLURAL:%(num)d|টেমপ্লেট|টেমপ্লেটসমূহ}} অপসারণ করছে: %(list)s"
+}

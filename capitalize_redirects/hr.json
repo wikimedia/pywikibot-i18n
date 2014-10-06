@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"SpeedyGonsales"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: Napravljeno preusmjerenje na [[%(to)s]]."
+}

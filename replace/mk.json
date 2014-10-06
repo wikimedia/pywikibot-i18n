@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"replace-replacing": "Робот: Автоматизирана замена на текст %(description)s"
+}

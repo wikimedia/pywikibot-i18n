@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gabrielchihonglee",
+			"Justincheng12345",
+			"LNDDYL",
+			"Simon Shek"
+		]
+	},
+	"delete-images": "機械人：刪除%(page)s上的所有圖像",
+	"delete-referring-pages": "機械人：删除所有從%(page)s指向的頁面",
+	"delete-from-category": "機械人：刪除所有来自%(page)s分類的頁面",
+	"delete-from-file": "機器人：刪除頁面列表。",
+	"delete-linked-pages": "機械人：删除所有從%(page)s連結的頁面"
+}

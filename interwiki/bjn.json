@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "bot Ma'ubah: %(modifying)s",
+	"interwiki-adding-modifying": "bot Manambah: %(adding)s Ma'ubah: %(modifying)s",
+	"interwiki-adding-removing": "bot Manambah: %(adding)s Mambuang: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot Manambah: %(adding)s Mambuang: %(removing)s Ma'ubah: %(modifying)s",
+	"interwiki-adding": "bot Manambah: %(adding)s",
+	"interwiki-removing": "bot Mambuang: %(removing)s",
+	"interwiki-removing-modifying": "bot Mambuang: %(removing)s Ma'ubah: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Maubah %(from)s manjadi %(modifying)s"
+}

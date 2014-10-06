@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"welcome-welcome": "Dobrodošli!",
+	"welcome-bad_username": "Bot: Dodavanje korisničkog imena koje treba provjeriti.",
+	"welcome-updating": "Bot: Ažuriranje zapisnika."
+}

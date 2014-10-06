@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snævar",
+			"Xqt"
+		]
+	},
+	"archivebot-older-than": "eldri en",
+	"archivebot-page-summary": "Vélmenni: Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafnið %(archives)s. (%(why)s)",
+	"archivebot-archiveheader": "{{Spjallskjalasafn}}",
+	"archivebot-archive-full": "(Skjalasafn fullt)",
+	"archivebot-archive-summary": "Vélmenni: Færi %(count)d {{PLURAL:%(count)d|þráð|þræði}} í skjalasafn frá [[%(from)s]]."
+}

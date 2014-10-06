@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "bot filak: %(modifying)s",
+	"interwiki-adding-modifying": "bot tau tan: %(adding)s filak: %(modifying)s",
+	"interwiki-adding-removing": "bot tau tan: %(adding)s hasai: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot tau tan: %(adding)s hasai: %(removing)s filak: %(modifying)s",
+	"interwiki-adding": "bot tau tan: %(adding)s",
+	"interwiki-removing": "bot hasai: %(removing)s",
+	"interwiki-removing-modifying": "bot hasai: %(removing)s filak: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Muda %(from)s ba %(modifying)s"
+}

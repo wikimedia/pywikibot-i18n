@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Farras"
+		]
+	},
+	"template-removing": "Robot: Menghapus {{PLURAL:%(num)d|templat|templat}}: %(list)s",
+	"template-changing": "Robot: Mengubah {{PLURAL:%(num)d|templat|templat}}: %(list)s",
+	"template-substituting": "Robot: Mengganti {{PLURAL:%(num)d|templat|templat}}: %(list)s"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Dim Grits",
+			"Тест"
+		]
+	},
+	"archivebot-older-than": "старше",
+	"archivebot-page-summary": "Архівація %(count)d {{PLURAL:%(count)d|теми|тем}} (%(why)s) в %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARCHIVE FULL)",
+	"archivebot-archive-summary": "Архівування %(count)d {{PLURAL:%(count)d|теми|тем}} з [[%(from)s]]."
+}

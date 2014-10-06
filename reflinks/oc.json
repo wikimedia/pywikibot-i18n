@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"reflinks-autogen": "generat automaticament",
+	"reflinks-comment": "Títol generat automaticament",
+	"reflinks-msg": "Robòt: Correccion de las refs. mal formatadas, supression doblons en utilizant de referéncias nomenadas (cf. [[%(manual)s|explicacions]])"
+}

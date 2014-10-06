@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "რობოტი",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "ახალი განხილვა",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "რობოტის შეტყობინება"
+}

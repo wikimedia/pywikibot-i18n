@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Gitt w.e.g. den Numm vum XML-Dump-Fichier an:",
+	"pywikibot-enter-page-processing": "Watfir eng Säit soll verschafft ginn?",
+	"pywikibot-enter-file-links-processing": "Linken op wat fir eng Biller-Säit verschaftt solle ginn?",
+	"pywikibot-enter-namespace-number": "Gitt w.e.g. d'Nummer vum Nummraum an:",
+	"pywikibot-enter-new-text": "Gitt w.e.g. den neien Text an:",
+	"pywikibot-enter-category-name": "Gitt w.e.g. den Numm vun der Kategorie an:",
+	"pywikibot-enter-finished-browser": "Dréckt 'Enter' wann Dir fäerdeg sidd."
+}

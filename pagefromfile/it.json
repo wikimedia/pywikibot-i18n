@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"pagefromfile-msg_bottom": "aggiungo in fondo",
+	"pagefromfile-msg_force": "sovrascritto il testo esistente",
+	"pagefromfile-msg_top": "aggiungo in cima",
+	"pagefromfile-msg": "Bot: importazione automatica delle voci"
+}

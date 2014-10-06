@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"welcome-welcome": "Dobrodošli!",
+	"welcome-bad_username": "Bot: Dodajanje uporabniškega imena, ki ga je treba pregledati",
+	"welcome-updating": "Bot: Posodabljanje dnevnika"
+}

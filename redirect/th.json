@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"redirect-fix-double": "โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s",
+	"redirect-remove-broken": "โรบอต: หน้าเปลี่ยนทางเสีย",
+	"redirect-fix-broken-moved": "โรบอต: แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s",
+	"redirect-fix-loop": "โรบอต: แก้หน้าเปลี่ยนทางวนรอบ → %(to)s",
+	"redirect-remove-loop": "โรบอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ",
+	"redirect-broken-redirect-template": "{{ลบ|หน้าเปลี่ยนทางเสีย}}"
+}

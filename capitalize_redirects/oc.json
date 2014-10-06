@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robòt : Crear una redireccion cap a [[%(to)s]]"
+}

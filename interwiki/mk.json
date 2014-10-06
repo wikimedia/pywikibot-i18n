@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"interwiki-modifying": "Робот: Менува %(modifying)s",
+	"interwiki-adding-modifying": "Робот: Додава %(adding)s; менува %(modifying)s",
+	"interwiki-adding-removing": "Робот: Додава %(adding)s; брише: %(removing)s",
+	"interwiki-adding-removing-modifying": "Робот: Додава %(adding)s; брише %(removing)s; менува %(modifying)s",
+	"interwiki-adding": "Робот: Додава %(adding)s",
+	"interwiki-removing": "Робот: Брише %(removing)s",
+	"interwiki-removing-modifying": "Робот: Брише %(removing)s; менува %(modifying)s",
+	"interwiki-modifying-from": "Робот: Ја менувам %(from)s во %(modifying)s"
+}

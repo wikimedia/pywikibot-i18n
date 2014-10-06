@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki"
+		]
+	},
+	"category-version-history": "ロボットによる: 以前の %(oldcat)s の更新履歴の保存",
+	"category-changing": "ロボットによる: カテゴリ変更 %(oldcat)s→%(newcat)s",
+	"category-adding": "ロボットによる: カテゴリ追加 [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(%(alsocat)s にも入っています)",
+	"category-was-disbanded": "ロボットによる: カテゴリが廃止されています",
+	"category-replacing": "ロボットによる: カテゴリ変更 [[%(oldcat)s]]→[[%(newcat)s]]",
+	"category-removing": "ロボットによる: [[%(oldcat)s]]を除去",
+	"category-was-moved": "ロボットによる: カテゴリ [[:Category:%(newcat)s|%(title)s]] へ移動",
+	"category-renamed": "ロボットによる: %s から移動しました。著者: %s",
+	"category-section-title": "以前の %(oldcat)s のページ履歴",
+	"category-listifying": "ロボットによる: %(fromcat)s からリスト化 ({{PLURAL:%(num)d|%(num)d件}})"
+}

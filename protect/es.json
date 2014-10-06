@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Sporeunai",
+			"VegaDark"
+		]
+	},
+	"protect-links": "Robot: Protección de todas las páginas enlazadas en %(page)s",
+	"protect-simple": "Robot: protección de una lista de archivos.",
+	"protect-category": "Robot: Protegiendo todas las páginas contenidas en la categoría %(cat)s",
+	"protect-ref": "Robot: Protegiendo todas las páginas que enlazan hacia %(page)s",
+	"protect-images": "Robot: Protegiendo todas las imágenes de la página %(page)s"
+}

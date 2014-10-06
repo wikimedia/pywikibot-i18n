@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eruedin"
+		]
+	},
+	"redirect-fix-double": "Bot: Korrigiere doppelte Weiterleitung auf %(to)s",
+	"redirect-remove-broken": "Bot: Weiterleitungsziel existiert nicht",
+	"redirect-fix-broken-moved": "Bot: Korrigiere defekte Weiterleitung auf verschobener Zielseite %(to)s",
+	"redirect-fix-loop": "Bot: Korrigiere Weiterleitungschleife auf %(to)s",
+	"redirect-remove-loop": "Bot: Weiterleitungsziel auf sich selbst"
+}

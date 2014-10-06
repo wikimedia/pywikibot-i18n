@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar",
+			"Xqt"
+		]
+	},
+	"category-version-history": "Rôbô: fitahirizana ny tantaran'ny versiona ny %(oldcat)s taloha",
+	"category-changing": "Rôbô : fanovana avy amin'i %(oldcat)s ho an'i %(newcat)s",
+	"category-adding": "Rôbô: Nanampy [[:Category:%(newcat)s]]",
+	"category-also-in": "(ao amin'i %(alsocat)s koa)",
+	"category-was-disbanded": "Rôbô : Voafafa ny sokajy",
+	"category-replacing": "Rôbô : Fanovana anarana ny sokajy %(oldcat)s miaraka amin'i %(newcat)s",
+	"category-removing": "Rôbô : Nesorina tamin'i %(oldcat)s",
+	"category-was-moved": "rôbô : sokajy nafindea tany amin'ny [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Rôbô : nanova toerana avy amin'i %s. Mpanoratra: %s",
+	"category-section-title": "Tantaram-pejin'ilay  %(oldcat)s taloha",
+	"category-listifying": "Rôbô : fanaovana lisitra avy amin'i %(fromcat)s (zavatra %(num)d)"
+}

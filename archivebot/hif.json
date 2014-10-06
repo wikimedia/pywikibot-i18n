@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Thakurji"
+		]
+	},
+	"archivebot-older-than": "se purana",
+	"archivebot-page-summary": "Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s."
+}

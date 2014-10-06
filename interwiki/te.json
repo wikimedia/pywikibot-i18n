@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "యంత్రము  మార్పులు చేస్తున్నది: %(modifying)s",
+	"interwiki-adding-modifying": "యంత్రము  కలుపుతున్నది: %(adding)s మార్పులు చేస్తున్నది: %(modifying)s",
+	"interwiki-adding-removing": "యంత్రము  కలుపుతున్నది: %(adding)s తొలగిస్తున్నది: %(removing)s",
+	"interwiki-adding-removing-modifying": "యంత్రము  కలుపుతున్నది: %(adding)s తొలగిస్తున్నది: %(removing)s మార్పులు చేస్తున్నది: %(modifying)s",
+	"interwiki-adding": "యంత్రము  కలుపుతున్నది: %(adding)s",
+	"interwiki-removing": "యంత్రము  తొలగిస్తున్నది: %(removing)s",
+	"interwiki-removing-modifying": "యంత్రము  తొలగిస్తున్నది: %(removing)s మార్పులు చేస్తున్నది: %(modifying)s",
+	"interwiki-modifying-from": "బాటు: %(from)s వర్గాన్ని %(modifying)sకి మార్చింది"
+}

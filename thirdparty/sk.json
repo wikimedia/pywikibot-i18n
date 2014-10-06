@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teslaton",
+			"Wizzard"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(nebol nájdený žiadny ľudský redaktor)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s – [posledná úprava %(history_link)s] (%(page_size)s bajtov) %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Upozornenie robota: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nová diskusia",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – naposledy upravil/a [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Upozornenie",
+	"thirdparty-drtrigonbot-subster-summary-mod": "nahradené: %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskusia zatvorená",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s všetky diskusie boli ukončené (dozor skončil) – naposledy upravil/a %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Pridanie zhrnutia diskusie: %(num)i príspevkov",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Diskusia zmenená",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Pridanie zhrnutia diskusie s prečistením: %(num)i príspevkov",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Úprava zhrnutia diskusie: %(num)i príspevkov na %(page)s stránkach",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "SPRÁVA ROBOTA",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nZhrnutie vygenerované z a v: %(sign)s</noinclude>"
+}

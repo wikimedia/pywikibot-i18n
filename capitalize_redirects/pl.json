@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot tworzy przekierowanie do [[%(to)s]]"
+}

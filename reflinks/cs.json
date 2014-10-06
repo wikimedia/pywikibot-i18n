@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chmee2",
+			"Matěj Grabovský"
+		]
+	},
+	"reflinks-autogen": "vytvořeno automaticky",
+	"reflinks-comment": "Název vygenerovaný botem",
+	"reflinks-msg": "Robot převedl holé odkazy a pojmenoval reference pro eliminaci duplicit, viz [[%(manual)s|manuál]]"
+}

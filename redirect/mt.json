@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrisportelli"
+		]
+	},
+	"redirect-fix-double": "Bot: Tranġar ta' rindirizz doppju lejn %(to)s",
+	"redirect-remove-broken": "Bot: Rindirizz lejn paġna mħassra jew li ma teżistix",
+	"redirect-remove-loop": "Bot: Id-destinazzjoni tar-rindirizz qiegħed jifforma ċiklu ta' rindirizzi",
+	"redirect-broken-redirect-template": "{{Ħassar minnufih|9}}"
+}

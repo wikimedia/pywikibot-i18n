@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"DrTrigon"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "Bot:",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(keinen menschlichen Bearbeiter gefunden)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s letzte Bearbeitung] (%(page_size)s Bytes) von %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Bot Warn-Nachricht: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Neue Diskussion",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - letzte Bearbeitung von [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Benachrichtigung",
+	"thirdparty-drtrigonbot-subster-summary-mod": "substituiere %(tags)s tag(s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskussion abgeschlossen",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s alle Diskussionen wurden beendet (Überwachung gestoppt) - letzte Bearbeitung von %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Diskussions-Zusammenfassung hinzugefügt (%(num)i Einträge)",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Diskussion verändert",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Diskussions-Zusammenfassung hinzugefügt und bereinigt (%(num)i Einträge)",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Diskussions-Zusammenfassung aktualisiert (%(num)i Einträge in %(page)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT MESSAGE",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nZusammenfassung erstellt von und um: %(sign)s</noinclude>"
+}

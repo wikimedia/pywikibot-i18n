@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vinie007"
+		]
+	},
+	"category_redirect-comment": "Kategoria përcjellëse të mirëmbajtjes bot",
+	"category_redirect-change-category": "Robot: ndryshim ridrejtuar kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: duke shtuar kategori përcjellim template për mirëmbajtjen e",
+	"category_redirect-edit-request": "Faqet e mëposhtme të mbrojtura janë zbuluar si kërkojnë rejat me lidhjet kategori: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s s është në %(oldcat)s, e cila është një përcjellëse tek %(newcat)s",
+	"category_redirect-fix-double": "Bot: ndreqim double-përcjellëse"
+}

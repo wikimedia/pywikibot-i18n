@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"weblinkchecker-archive_msg": "Iste pagina web ha essite salveguardate per Internet Archive. Per favor considera ligar a un version archivate: [%(URL)s].",
+	"weblinkchecker-caption": "Ligamine defuncte",
+	"weblinkchecker-summary": "Robot: Reporto de un ligamine externe non functionante",
+	"weblinkchecker-report": "Durante plure sessiones automatic, le robot ha constatate que le sequente ligamine externe non es disponibile. Per favor confirma que le ligamine de facto es defuncte, e in caso de si, repara o elimina lo!"
+}

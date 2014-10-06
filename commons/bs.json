@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Datoteka]] premještena na [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Ova datoteka je sada dostupna na [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

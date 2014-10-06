@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"pywikibot-enter-xml-filename": "कृपया XML dumpको फाइलनाम खुलाउनुहोस्:",
+	"pywikibot-enter-page-processing": "कुन पृष्ठमा कार्य गर्ने हो ?",
+	"pywikibot-enter-file-links-processing": "फाइल पृष्ठ सम्पादन गर्नु पर्ने लक्ष्यको लिङ्क ?",
+	"pywikibot-enter-namespace-number": "कृपया नेमस्पेस संख्याको रुपमा राख्नुहोला :",
+	"pywikibot-enter-new-text": "कृपया नयाँ पाठ प्रविष्ठ गर्नुहोस् :",
+	"pywikibot-enter-category-name": "कृपया श्रेणीको नाम प्रविष्ठ गर्नुहोस् :",
+	"pywikibot-enter-finished-browser": "ब्राउजरमा सकिएपछि इन्टर थिच्नुहोला ।"
+}

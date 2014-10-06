@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"welcome-welcome": "ยินดีต้อนรับ!",
+	"welcome-bad_username": "โรบอต: เพิ่มชื่อผู้ใช้ที่ต้องการการตรวจสอบ",
+	"welcome-updating": "โรบอต: กำลังปรับปรุงปูม"
+}

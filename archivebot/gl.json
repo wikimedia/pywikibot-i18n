@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"archivebot-older-than": "máis vello que",
+	"archivebot-page-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} (%(why)s) en %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
+	"archivebot-archive-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} de [[%(from)s]]."
+}

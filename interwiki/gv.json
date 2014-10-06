@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "bot caghlaait ec: %(modifying)s",
+	"interwiki-adding-modifying": "bot currit stiagh ec: %(adding)s caghlaait ec: %(modifying)s",
+	"interwiki-adding-removing": "bot currit stiagh ec: %(adding)s scryssit magh ec: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot currit stiagh ec: %(adding)s scryssit magh ec: %(removing)s caghlaait ec: %(modifying)s",
+	"interwiki-adding": "bot currit stiagh ec: %(adding)s",
+	"interwiki-removing": "bot scryssit magh ec: %(removing)s",
+	"interwiki-removing-modifying": "bot scryssit magh ec: %(removing)s caghlaait ec: %(modifying)s"
+}

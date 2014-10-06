@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Harvzsf"
+		]
+	},
+	"template-removing": "Robot: Ginkukuha {{PLURAL: %(num)d|nga batakan|nga mga batakan}}: %(list)s",
+	"template-changing": "Robot: Ginbabag- {{PLURAL:%(num)d|nga batakan|nga mga batakan}}: %(list)s",
+	"template-substituting": "Robot: Ginsasalyo-an in {{PLURAL:%(num)d|nga batakan|nga mga batakan}}: %(list)s"
+}

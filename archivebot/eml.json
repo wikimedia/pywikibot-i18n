@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gloria sah",
+			"Ricordisamoa"
+		]
+	},
+	"archivebot-older-than": "piò vèć ed %(duration)s",
+	"archivebot-page-summary": "Robot: Archiviasiòun ed %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARCHÌVI PÎN)",
+	"archivebot-archive-summary": "Robot: Archiviasiòun ed %(count)d {{PLURAL:%(count)d|thread|threads}} da [[%(from)s]]."
+}

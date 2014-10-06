@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"pagefromfile-msg_bottom": "thêm vào cuối",
+	"pagefromfile-msg_force": "ghi đè toàn bộ nội dung",
+	"pagefromfile-msg_top": "thêm vào đầu",
+	"pagefromfile-msg": "Bot: Tự động nhập các bài"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"category_redirect-comment": "Bot veur kategoriedeurverwiezing",
+	"category_redirect-change-category": "Bot: kategorie van deurverwiezing ewiezigd van [[:%(oldCatLink)s|%(oldCatTitle)s]] naor [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: kategoriedeurverwiezingsmal derbie ezet",
+	"category_redirect-edit-request": "Veur de volgende beveiligden pagina's mutten de kategorieverwiezingen an-epast wörden: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s steet in %(oldcat)s, n deurverwiezing naor %(newcat)s",
+	"category_redirect-fix-double": "Bot: dubbele deurverwiezingen verbeteren"
+}

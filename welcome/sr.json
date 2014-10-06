@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"welcome-welcome": "Добро дошли!",
+	"welcome-bad_username": "Бот: додато корисничко име које треба проверити",
+	"welcome-updating": "Бот: ажуриран дневник"
+}

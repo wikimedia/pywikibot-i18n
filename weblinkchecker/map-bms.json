@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"weblinkchecker-archive_msg": "Kaca web wis disimpen nang arsip internet. Monggo digandengna maring versi arsip sing pas: [%(URL)s]",
+	"weblinkchecker-caption": "Pranala mati",
+	"weblinkchecker-summary": "Robot: Nglaporna pranala jaba sing ora ana",
+	"weblinkchecker-report": "Dong ana bot otomatis lagi mlaku ana pranala jaba kiye sing jebule wis ora ana. Monggo dipriksa nek pranala kuwe pancen wis ruwag lan tulung dibenerna utawa busek baen!"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass",
+			"Xqt"
+		]
+	},
+	"category-adding": "Robots: Tiek pievienots kategorija [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(arī iekš %(alsocat)s)"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"ndashredir-create": "Bot: Tạo trang đổi hướng có dấu nối đến [[%(title)s]]"
+}

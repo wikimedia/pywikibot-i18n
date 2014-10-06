@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas"
+		]
+	},
+	"redirect-fix-double": "Robô: A corrigir o redirecionamento duplo para %(to)s",
+	"redirect-remove-broken": "Robô: Redirecionamento para uma página eliminada ou inexistente",
+	"redirect-fix-broken-moved": "Robô: A corrigir redirecionamento quebrado para página alvo movida %(to)s",
+	"redirect-fix-loop": "Robô: A corrigir o ciclo de redirecionamentos para %(to)s",
+	"redirect-remove-loop": "Robô: O destino do redirecionamento cria um ciclo de redirecionamentos"
+}

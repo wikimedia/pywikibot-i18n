@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwj2772",
+			"아라"
+		]
+	},
+	"category_redirect-comment": "분류 넘겨주기 유지 보수 로봇",
+	"category_redirect-change-category": "로봇: [[:%(oldCatLink)s|%(oldCatTitle)s]]에서 [[:%(newCatLink)s|%(newCatTitle)s]](으)로 넘겨주기된 분류를 바꿈",
+	"category_redirect-add-template": "로봇: 유지 보수를 위해 분류 넘겨주기 틀을 추가",
+	"category_redirect-edit-request": "다음 보호된 문서는 분류 링크 업데이트가 필요하다고 감지했습니다: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s(은)는 %(newcat)s(으)로 넘겨주기한 %(oldcat)s에 속해 있습니다",
+	"category_redirect-fix-double": "로봇: 이중 넘겨주기를 고침"
+}

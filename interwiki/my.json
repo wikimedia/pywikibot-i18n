@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lionslayer"
+		]
+	},
+	"interwiki-modifying": "ရိုဘော့က တည်းဖြတ်နေသည် - %(modifying)s",
+	"interwiki-adding-modifying": "ရိုဘော့ ပေါင်းထည့်နေသည် - %(adding)s တည်းဖြတ်နေသည် - %(modifying)s",
+	"interwiki-adding-removing": "ရိုဘော့ ပေါင်းထည့်နေသည် - %(adding)s ဖယ်ရှားနေသည် - %(removing)s",
+	"interwiki-adding-removing-modifying": "ရိုဘော့ ပေါင်းထည့်နေသည် - %(adding)s ဖယ်ရှားနေသည်: %(removing)s ပြင်ဆင်နေသည်: %(modifying)s",
+	"interwiki-adding": "ရိုဘော့က ပေါင်းထည့်နေသည် - %(adding)s",
+	"interwiki-removing": "ရိုဘော့က ဖယ်ရှားနေသည် - %(removing)s",
+	"interwiki-removing-modifying": "ရိုဘော့က ဖယ်ရှားနေသည် - %(removing)s တည်းဖြတ်နေသည် - %(modifying)s"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"revertbot-revert": "Бот: Враќам на преработката %(revid)s на %(author)s од %(timestamp)s"
+}

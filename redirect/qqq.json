@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nemo bis",
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "Edit summary when the bot fixes double redirects. <code>%(to)s</code> displays the new redirect target as a wiki link.",
+	"redirect-remove-broken": "Edit summary when the bot tags a deleted or non-existent page for speedy deletion.",
+	"redirect-fix-broken-moved": "Edit summary when the bot fixes a broken redirect to a moved page whose origin has been deleted.\nParameters:\n* <code>%(to)s</code>: the new redirect target, as a wiki link.",
+	"redirect-fix-loop": "Edit summary when the bot fixes redirect loops. <code>%(to)s</code> displays the new redirect target as a wiki link.",
+	"redirect-remove-loop": "Edit summary when the bot tags a redirect loop for speedy deletion.",
+	"redirect-broken-redirect-template": "{{doc-important|Only use your deletion template like <code><nowiki>{{delete}}</nowiki></code> which exist on your local project.}}\n\nNOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate for speedy deletion of broken redirect or redirect loops which the bot tags onto the redirect page. This message may contain additional informations like template parameters or reasons for the deletion request.\n\nNOTE: If this system message is not given for a language code, speedy deletion request by a bot is not supported on your site except there is a bot with sysop flag."
+}

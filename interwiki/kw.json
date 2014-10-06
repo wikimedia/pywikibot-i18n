@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kernoweger"
+		]
+	},
+	"interwiki-modifying": "Robot: ow chanjya %(modifying)s",
+	"interwiki-adding-modifying": "Robot: ow keworra %(adding)s; ow chanjya %(modifying)s",
+	"interwiki-adding-removing": "Robot: ow keworra %(adding)s; ow tilea %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot: ow keworra %(adding)s; ow tilea %(removing)s; ow chanjya %(modifying)s",
+	"interwiki-adding": "Robot: ow keworra %(adding)s",
+	"interwiki-removing": "Robot: ow tilea %(removing)s",
+	"interwiki-removing-modifying": "Robot: ow tilea %(removing)s; ow chanjya %(modifying)s"
+}

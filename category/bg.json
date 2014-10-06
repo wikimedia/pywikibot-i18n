@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI"
+		]
+	},
+	"category-changing": "Робот: Променяне от %(oldcat)s на %(newcat)s",
+	"category-adding": "Робот: Добавяне на категория [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-replacing": "Робот: Заменяне на категория %(oldcat)s с %(newcat)s",
+	"category-removing": "Робот: Премахване от %(oldcat)s"
+}

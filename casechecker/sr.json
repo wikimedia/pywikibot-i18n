@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"casechecker-replacement-summary": "Бот: замене малих и великих слова:",
+	"casechecker-delete-summary": "Бот: преусмерење у наслову садржи ћирилична и латинична слова идентичног изгледа",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Преусмерење је претходно водило до %(target)s",
+	"casechecker-rename": "Бот: преименовано са мешаним малим и великим словима"
+}

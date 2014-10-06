@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"category-version-history": "באט: אויפהיטן ווערסיע היסטאריע פון פריערדיקע %(oldcat)s",
+	"category-changing": "ראָבאָט: ענדערן %(oldcat)s צו %(newcat)s",
+	"category-adding": "באט: לייגט צו קאַטעגאריע [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(אויך אין %(alsocat)s)",
+	"category-was-disbanded": "באָט: קאַטעגאָריע איז געווארן ליקווידירט",
+	"category-replacing": "באט: פֿאַרטוישט %(oldcat)s מיט %(newcat)s",
+	"category-removing": "באט: נעמט אַוועק פֿון %(oldcat)s",
+	"category-was-moved": "ראָבאָט: קאַטעגאָריע איז אריבערגעפֿירט צו [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "באט: באוועגט פון %s. שרײַבער: %s",
+	"category-section-title": "בלאט היסטאריע פון פריערדיקע %(oldcat)s",
+	"category-listifying": "באָט: שאַפֿן א רשימה פֿון %(fromcat)s ({{PLURAL:%(num)d|1 בלאט|%(num)d בלעטער}})"
+}

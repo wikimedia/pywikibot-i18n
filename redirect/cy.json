@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt",
+			"Xxglennxx"
+		]
+	},
+	"redirect-fix-double": "Bot: Yn trwsio ailgyfeiriad dwbl i %(to)s",
+	"redirect-remove-broken": "Bot: Yn ailgyfeirio i dudalen a ddilëwyd neu nad yw ar gael",
+	"redirect-remove-loop": "Bot: Mae nod yr ailgyfeiriad yn ffurfio dolen ailgyfeirio"
+}

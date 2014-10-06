@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chrumps",
+			"Dalis",
+			"Pio387",
+			"Wedkarski"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Zamiana wielkości liter:",
+	"casechecker-delete-summary": "Bot: To przekierowanie zawiera mieszankę cyrylicy i alfabetu łacińskiego w nazwie",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "To przekierowanie służy do wskazywania %(target)s",
+	"casechecker-rename": "Bot: mieszany przypadek zmiany nazwy"
+}

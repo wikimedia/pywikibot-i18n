@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "bot ebóngólí: %(modifying)s",
+	"interwiki-adding-modifying": "bot ebakísí: %(adding)s ebóngólí: %(modifying)s",
+	"interwiki-adding-removing": "bot ebakísí: %(adding)s elongólí: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot ebakísí: %(adding)s elongólí: %(removing)s ebóngólí: %(modifying)s",
+	"interwiki-adding": "bot ebakísí: %(adding)s",
+	"interwiki-removing": "bot elongólí: %(removing)s",
+	"interwiki-removing-modifying": "bot elongólí: %(removing)s ebóngólí: %(modifying)s"
+}

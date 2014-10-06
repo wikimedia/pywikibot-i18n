@@ -1,0 +1,7 @@
+{
+	"delete-images": "Robot smazal všechny obrázky z %(page)s",
+	"delete-referring-pages": "Robot smazal vše odkazující na %(page)s",
+	"delete-from-category": "Robot smazal obsah kategorie %(page)s",
+	"delete-from-file": "Robot smazal podle seznamu",
+	"delete-linked-pages": "Robot smazal vše odkazované z %(page)s"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luthfi94"
+		]
+	},
+	"interwiki-modifying": "bot Maubah: %(modifying)s",
+	"interwiki-adding-modifying": "bot Manambah: %(adding)s Maubah: %(modifying)s",
+	"interwiki-adding-removing": "bot Manambah: %(adding)s Mambuang: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot Manambah: %(adding)s Mambuang: %(removing)s Maubah: %(modifying)s",
+	"interwiki-adding": "bot Manambah: %(adding)s",
+	"interwiki-removing": "bot Mambuang: %(removing)s",
+	"interwiki-removing-modifying": "bot Mambuang: %(removing)s Maubah: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Mangganti %(from)s ka %(modifying)s"
+}

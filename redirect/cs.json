@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"JAn Dudík",
+			"Jezevec",
+			"Spiffyk",
+			"Vks"
+		]
+	},
+	"redirect-fix-double": "Robot: Opravuji dvojité přesměrování na %(to)s",
+	"redirect-remove-broken": "Robot: Přerušené přesměrování",
+	"redirect-fix-broken-moved": "Robot: Oprava přerušeného přesměrování na přesunutou cílovou stránku %(to)s",
+	"redirect-fix-loop": "Robot: Oprava smyčky přesměrování na %(to)s",
+	"redirect-remove-loop": "Robot: Cíl přesměrování tvoří smyčku",
+	"redirect-broken-redirect-template": "{{smazat|přerušené přesměrování}}"
+}

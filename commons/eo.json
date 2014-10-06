@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Airon90",
+			"Objectivesea"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Dosiero]] movita al [[:commons:File:%(commonsfile)s|Komunejon]].",
+	"commons-file-now-available": "Dosiero nun disponeblas ĉe [[:commons:File:%(commonsfile)s|Vikimedia Komunejo]]."
+}

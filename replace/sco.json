@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"replace-replacing": "Bot: Automated tex replacement %(description)s"
+}

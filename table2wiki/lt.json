@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"table2wiki-warnings": "kontroliuojamas robotas: atnaujinta lentelės sintaksė - {{PLURAL:count|1 įspėjimas|%(count)d įspėjimai!}}",
+	"table2wiki-no-warning": "kontroliuojamas robotas: atnaujinta lentelės sintaksė"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильнар"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файл]]  [[:commons:File:%(commonsfile)s|Викиҗыентык]]ка күчерелде.",
+	"commons-file-now-available": "Файлны хәзер  [[:commons:File:%(commonsfile)s|Викиҗыентык]]та карап була."
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"category-version-history": "Lopako: Ke mālama nei i ka mana mōʻaukala o ka %(oldcat)s mai mua",
+	"category-changing": "Lopako: Ke hoʻololi nei i ka mahele %(oldcat)s i ka mahele hou %(newcat)s",
+	"category-adding": "Lopako: Ke hoʻohui nei i ka mahele [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(ma loko o %(alsocat)s nō hoʻi)",
+	"category-was-disbanded": "Lopako: Ua holoi ʻia ka mahele",
+	"category-replacing": "Lopako: Ke kuapoʻia nei ka mahele kahiko %(oldcat)s me ka mahele hou %(newcat)s",
+	"category-removing": "Lopako: Ke wehe nei mai %(oldcat)s",
+	"category-was-moved": "Lopako: Ua hoʻoneʻe ʻia ka mahele i [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Lopako: Ua hoʻoneʻe ʻia mai %s. Mea kākau: %s",
+	"category-section-title": "Ka mōʻaukala ʻaoʻao o %(oldcat)s kahiko",
+	"category-listifying": "Lopako: Ke papahana nei mai %(fromcat)s ({{PLURAL:%(num)d|1 manaʻo|%(num)d mau manaʻo}})"
+}

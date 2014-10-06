@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Vinarliga skriva XML fílunavnið hjá dump'inum:",
+	"pywikibot-enter-page-processing": "Hvør síða skal viðgerast?",
+	"pywikibot-enter-file-links-processing": "Slóðir til hvørja fílusíðu skulu viðgerast?",
+	"pywikibot-enter-namespace-number": "Vinarliga skriva eitt navnarúm við tilhoyrandi nummari:",
+	"pywikibot-enter-new-text": "Vinarliga skriva nýggja tekstin:",
+	"pywikibot-enter-category-name": "Vinarliga skriva bólkanavnið:",
+	"pywikibot-enter-finished-browser": "Trýst á Enter tá tú ert liðug/ur at rætta í brovsaranum."
+}

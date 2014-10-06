@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"featured-good": "бот: дика яззам %(page)s",
+	"featured-list": "бот: хаьржина могӀам %(page)s",
+	"featured-featured": "бот: хаьржина яззам %(page)s",
+	"featured-former": "бот: хьалха хаьржина хилла яззам %(page)s"
+}

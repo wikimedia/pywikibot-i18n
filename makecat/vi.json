@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"makecat-create": "Bot: Tạo hoặc cập nhật thể loại [[:Category:%(cat)s|]]"
+}

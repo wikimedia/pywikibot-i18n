@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amgauna"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Reposição de casos:",
+	"casechecker-delete-summary": "Bot: Este redirecionamento contém a identificação de procura Cyrilllic e caracteres latinos em seu título",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Este redirecionamento é usado para apontar para o(s) %(target)s",
+	"casechecker-rename": "Bot: renomear um caso misto"
+}

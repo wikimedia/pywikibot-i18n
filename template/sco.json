@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"template-removing": "Robot: Remuivin {{PLURAL:%(num)d|template|templates}}: %(list)s",
+	"template-changing": "Robot: Chyngin {{PLURAL:%(num)d|template|templates}}: %(list)s",
+	"template-substituting": "Robot: Substitutin {{PLURAL:%(num)d|template|templates}}: %(list)s"
+}

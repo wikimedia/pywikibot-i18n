@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Рустам Нурыев"
+		]
+	},
+	"delete-images": "Робот: %(page)s битендәге бөтә рәсемдәрҙе юйыу",
+	"delete-referring-pages": "Робот:  %(page)s битенә ҡағылышлы бар биттәрҙе юйыу",
+	"delete-from-category": "Робот: %(page)s категорияһындағы бөтә биттәрҙе юйыу",
+	"delete-from-file": "Робот: биттәр исемлеген юйыу",
+	"delete-linked-pages": "Робот: %(page)s бите менән бәйле бөтә биттәрҙе юйыу"
+}

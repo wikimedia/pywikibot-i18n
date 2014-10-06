@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "ރޮބޮޓ ބަދަލު ގެނައުނ: %(modifying)s",
+	"interwiki-adding-modifying": "ރޮބޮޓ އިތުރު ކުރުނ: %(adding)s ބަދަލު ގެނައުނ: %(modifying)s",
+	"interwiki-adding-removing": "ރޮބޮޓ އިތުރު ކުރުނ: %(adding)s ފޮހެލުނ: %(removing)s",
+	"interwiki-adding-removing-modifying": "ރޮބޮޓ އިތުރު ކުރުނ: %(adding)s ފޮހެލުނ: %(removing)s ބަދަލު ގެނައުނ: %(modifying)s",
+	"interwiki-adding": "ރޮބޮޓ އިތުރު ކުރުނ: %(adding)s",
+	"interwiki-removing": "ރޮބޮޓ ފޮހެލުނ: %(removing)s",
+	"interwiki-removing-modifying": "ރޮބޮޓ ފޮހެލުނ: %(removing)s ބަދަލު ގެނައުނ: %(modifying)s"
+}

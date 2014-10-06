@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"revertbot-revert": "Bot: Zurückgesetzt auf die Version %(revid)s von %(author)s von %(timestamp)s"
+}

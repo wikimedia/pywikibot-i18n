@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06",
+			"Rancher"
+		]
+	},
+	"delete-images": "Робот: бришење на сите слики на page %(page)s",
+	"delete-referring-pages": "Робот: бришење на сите страници што водат од %(page)s",
+	"delete-from-category": "Робот: Бришење на сите страници од категоријата %(page)s",
+	"delete-from-file": "Робот: Бришење на список на страници.",
+	"delete-linked-pages": "Робот: бришење на сите страници што водат од %(page)s"
+}

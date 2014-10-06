@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720"
+		]
+	},
+	"template-removing": "Robô: A remover {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s",
+	"template-changing": "Robô: A alterar {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s",
+	"template-substituting": "Robô: A substituir {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s"
+}

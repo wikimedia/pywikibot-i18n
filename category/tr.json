@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khutuck",
+			"Stultiwikia",
+			"Vito Genovese"
+		]
+	},
+	"category-changing": "Bot: %(oldcat)s %(newcat)s olarak değiştiriliyor",
+	"category-adding": "Bot: [[Kategori:%(newcat)s]] ekleniyor",
+	"category-also-in": "(%(alsocat)s kategorisinde de yer almaktadır)",
+	"category-was-disbanded": "Bot: Kategorinin kullanımı sona erdirildi",
+	"category-replacing": "Bot: %(oldcat)s, %(newcat)s kategorisiyle değiştiriliyor",
+	"category-removing": "Bot: %(oldcat)s kategorisinden kaldırılıyor",
+	"category-was-moved": "Bot: Kategori [[:Category:%(newcat)s|%(title)s]] adına taşındı",
+	"category-listifying": "Bot: %(fromcat)s sayfasından itibaren (%(num)d girdi) listeleniyor"
+}

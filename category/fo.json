@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"category-version-history": "Bottur: Goymir versjónssøgu fyri fyrrverandi %(oldcat)s",
+	"category-changing": "Bottur: Broytir %(oldcat)s til %(newcat)s",
+	"category-adding": "Bottur: Leggur afturat bólkin [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(eisini í %(alsocat)s)",
+	"category-was-disbanded": "Bottur: Bólkurin varð upploystur",
+	"category-replacing": "Bottur: Skiftir út bólk %(oldcat)s við %(newcat)s",
+	"category-removing": "Bottur: Tekur burtur frá %(oldcat)s",
+	"category-was-moved": "Bottur: Bólkur varð fluttur til [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bottur: Flutti frá %s. Høvundar: %s",
+	"category-section-title": "Síðusøgan hjá fyrrverandi %(oldcat)s",
+	"category-listifying": "Bottur: Umskapar frá %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})"
+}

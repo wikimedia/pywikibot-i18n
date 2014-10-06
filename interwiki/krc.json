@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "робот тюрлендирди: %(modifying)s",
+	"interwiki-adding-modifying": "робот къошду: %(adding)s тюрлендирди: %(modifying)s",
+	"interwiki-adding-removing": "робот къошду: %(adding)s кетерди: %(removing)s",
+	"interwiki-adding-removing-modifying": "робот къошду: %(adding)s кетерди: %(removing)s тюрлендирди: %(modifying)s",
+	"interwiki-adding": "робот къошду: %(adding)s",
+	"interwiki-removing": "робот кетерди: %(removing)s",
+	"interwiki-removing-modifying": "робот кетерди: %(removing)s тюрлендирди: %(modifying)s"
+}

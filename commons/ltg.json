@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dark Eagle"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Failu]] puorsacyluoja iz [[:commons:File:%(commonsfile)s|Vikiteku]].",
+	"commons-file-now-available": "Fails niule irā dabojams [[:commons:File:%(commonsfile)s|Vikitekā]]."
+}

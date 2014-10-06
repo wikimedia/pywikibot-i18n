@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Spiffyk"
+		]
+	},
+	"featured-good": "Robot: %(page)s je dobrý článek",
+	"featured-list": "Robot: %(page)s je seznam nejlepších",
+	"featured-featured": "Robot: %(page)s je na seznamu nejlepších článků",
+	"featured-former": "Robot: %(page)s býval na seznamu nejlepších článků"
+}

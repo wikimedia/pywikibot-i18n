@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Дехар до, дампа XML файлайн цӀе язъе:",
+	"pywikibot-enter-page-processing": "Муьлха агӀо кечъян езаш ю?",
+	"pywikibot-enter-file-links-processing": "Муьлхачу файлан хьажоргаш кечъян езаш ю?",
+	"pywikibot-enter-namespace-number": "Дехар до, цӀерийн меттиигийн номер язъе:",
+	"pywikibot-enter-new-text": "Дехар до, керла йоза язде:",
+	"pywikibot-enter-category-name": "Дехар до, дӀаязъе категорин цӀе:",
+	"pywikibot-enter-finished-browser": "Браузер чохь хийцам бинчултӀехьа таӀае Enter."
+}

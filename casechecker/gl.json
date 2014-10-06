@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Substitución de maiúsculas/minúsculas:",
+	"casechecker-delete-summary": "Bot: Esta redirección contén letras cirílicas e latinas idénticas no título",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Esta redirección apuntaba a \"%(target)s\"",
+	"casechecker-rename": "Bot: Cambio o nome con mestura de maiúsculas e minúsculas"
+}

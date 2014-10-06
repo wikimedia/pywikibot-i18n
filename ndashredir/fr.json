@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"ndashredir-create": "Robot: Création de redirections à trait d'union vers [[%(title)s]]"
+}

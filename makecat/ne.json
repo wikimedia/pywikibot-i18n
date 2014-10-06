@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njsubedi"
+		]
+	},
+	"makecat-create": "रोबोट: [[:Category:%(cat)s|]]वर्गको सिर्जना तथा सम्पादन"
+}

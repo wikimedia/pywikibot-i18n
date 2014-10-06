@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sociologist"
+		]
+	},
+	"category-adding": "Bot: Turkum qoʻshish [[:Category:%(newcat)s|%(newcat)s]]"
+}

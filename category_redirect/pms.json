@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt"
+		]
+	},
+	"category_redirect-comment": "Trigomiro ëd manutension dle ridiression ëd categorìe",
+	"category_redirect-change-category": "Trigomiro: Cangiament ëd la ridiression ëd categorìa da [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Trigomiro: Gionta dlë stamp ëd ridiression ëd categorìa për manutension",
+	"category_redirect-edit-request": "Le pàgine protegiùe sì-dapress a son stàite trovà com ch'a l'han damanca d'agiornament a le liure ëd categorìa: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s a l'é an %(oldcat)s, ch'a l'é na ridiression a %(newcat)s",
+	"category_redirect-fix-double": "Trigomiro: a rangia le ridiression dobie"
+}

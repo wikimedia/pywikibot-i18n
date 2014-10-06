@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki"
+		]
+	},
+	"commons-file-moved": "Το [[:File:%(localfile)s|αρχείο]] μετακινήθηκε στα [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Το αρχείο είναι τώρα διαθέσιμο στα [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

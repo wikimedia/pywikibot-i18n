@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"commons-file-moved": "Bot: [[:File:%(localfile)s|Fichier]] gouf op [[:commons:File:%(commonsfile)s|commons]] geréckelt.",
+	"commons-file-now-available": "De Fichier ass elo op [[:commons:File:%(commonsfile)s|Wikimedia Commons]] disponibel."
+}

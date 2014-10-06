@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"pywikibot-enter-xml-filename": "XML दम्पया फाइलनेम तियादिसँ:",
+	"pywikibot-enter-page-processing": "गुगु पौ प्रोसेस यायेमा?",
+	"pywikibot-enter-file-links-processing": "गुगु किपापौया लिंक प्रोसेस यायेमा?",
+	"pywikibot-enter-namespace-number": "नेमस्पेसयात उकिया ल्याखँसं तियादिसँ:",
+	"pywikibot-enter-new-text": "न्हुगु आखः(पाठ) तियादिसँ:",
+	"pywikibot-enter-category-name": "पुचःया नां तियादिसँ:",
+	"pywikibot-enter-finished-browser": "ब्राउजरय्‌ सिधइबिलय्‌ एन्तर तियादिसँ।"
+}

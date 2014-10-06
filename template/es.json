@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"template-removing": "Bot: Retirando {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s",
+	"template-changing": "Bot: Cambiada la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s",
+	"template-substituting": "Bot: Sustituyendo la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s"
+}

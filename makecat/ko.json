@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Revi"
+		]
+	},
+	"makecat-create": "로봇: 분류 생성 및 업데이트 [[:Category:%(cat)s|]]"
+}

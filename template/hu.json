@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj"
+		]
+	},
+	"template-removing": "Bot: {{PLURAL:%(num)d|sablon|sablonok}} eltávolítása: %(list)s",
+	"template-changing": "Bot: {{PLURAL:%(num)d|sablon csere|sablonok cseréje}}: %(list)s",
+	"template-substituting": "Bot: {{PLURAL:%(num)d|sablon|sablonok}} cseréje: %(list)s"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"featured-good": "Robot: Mabuting artikulo ang %(page)s",
+	"featured-list": "Robot: Isang tampok na listahan ang %(page)s",
+	"featured-featured": "Robot: Tampok na artikulo ang %(page)s",
+	"featured-former": "Robot: Isang dating tampok na artikulo ang %(page)s"
+}

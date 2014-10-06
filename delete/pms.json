@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt"
+		]
+	},
+	"delete-images": "Trigomiro: A scancela tute le figure an sla pàgina %(page)s",
+	"delete-referring-pages": "Trigomiro: A scancela tute le pàgine ch'a arferisso a %(page)s",
+	"delete-from-category": "Trigomiro: A scancela tute le pàgine da la categorìa %(page)s",
+	"delete-from-file": "Trigomiro: Scancelassion ëd na lista d'archivi.",
+	"delete-linked-pages": "Trigomiro: A scancela tute le pàgine colegà da %(page)s"
+}

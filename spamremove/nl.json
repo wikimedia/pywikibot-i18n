@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"spamremove-remove": "Koppelingen naar gespamde site %(url)s verwijderd"
+}

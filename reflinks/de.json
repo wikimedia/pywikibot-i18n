@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"reflinks-autogen": "automatisch erzeugt",
+	"reflinks-comment": "Automatisch generierter Titel",
+	"reflinks-msg": "Bot: Korrektes Referenzformat (siehe [[%(manual)s]])"
+}

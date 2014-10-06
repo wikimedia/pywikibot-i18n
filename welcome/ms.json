@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Diagramma Della Verita"
+		]
+	},
+	"welcome-welcome": "Selamat datang!",
+	"welcome-bad_username": "Bot: Menambah nama pengguna yang perlu diperiksa",
+	"welcome-updating": "Bot: Pengemaskinian log"
+}

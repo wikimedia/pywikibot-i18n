@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Ersätter versalisering",
+	"casechecker-delete-summary": "Bot: Denna omdirigering innehåller kyrilliska och latinska bokstäver i titeln som är identiska till utseende",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Denna omdirigering pekade tidigare på %(target)s",
+	"casechecker-rename": "Bot: omdöpning på grund av blandning mellan kyrilliska och latin"
+}

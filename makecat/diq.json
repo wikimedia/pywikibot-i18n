@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirzali"
+		]
+	},
+	"makecat-create": "Bot: Kategoriye [[:Category:%(cat)s|]] vırazeno ya zi keno newe"
+}

@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "робот уларытта: %(modifying)s",
+	"interwiki-adding-modifying": "робот эптэ: %(adding)s уларытта: %(modifying)s",
+	"interwiki-adding-removing": "робот эптэ: %(adding)s сотто: %(removing)s",
+	"interwiki-adding-removing-modifying": "робот эптэ: %(adding)s сотто: %(removing)s уларытта: %(modifying)s",
+	"interwiki-adding": "робот эптэ: %(adding)s",
+	"interwiki-removing": "робот сотто: %(removing)s",
+	"interwiki-removing-modifying": "робот сотто: %(removing)s уларытта: %(modifying)s"
+}

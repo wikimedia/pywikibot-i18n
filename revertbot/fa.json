@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reza1615"
+		]
+	},
+	"revertbot-revert": "ربات: واگردانی به نسخهٔ  %(revid)s توسط %(author)s در %(timestamp)s"
+}

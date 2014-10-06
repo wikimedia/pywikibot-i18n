@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Invadinado",
+			"MarcoAurelio"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Desambiguación asistida por robot: %(from)s - Enlace(s) eliminados",
+	"solve_disambiguation-redirect-resolved": "Desambiguación asistida por robot: %(from)s - Enlace(s) cambiado(s) a %(to)s",
+	"solve_disambiguation-links-resolved": "Bot: Desambiguación asistida, cambiando enlaces hacia «%(from)s» por «%(to)s»",
+	"solve_disambiguation-redirect-adding-dn-template": "Desambiguación asistida por robot: %(from)s - Marcado que necesita atención de especialista",
+	"solve_disambiguation-adding-dn-template": "Desambiguación asistida por robot: %(from)s - Marcado que necesita atención de especialista",
+	"solve_disambiguation-unknown-page": "(desconocido)",
+	"solve_disambiguation-links-removed": "Desambiguación asistida por robot: %(from)s - Enlace(s) eliminados."
+}

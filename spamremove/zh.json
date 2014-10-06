@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"spamremove-remove": "移除垃圾站点%(url)s的连接"
+}

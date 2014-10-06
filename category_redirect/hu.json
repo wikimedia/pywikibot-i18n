@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"Dj"
+		]
+	},
+	"category_redirect-comment": "Kategória-átirányításokat karbantartó bot",
+	"category_redirect-change-category": "Bot: átirányított kategória ([[:%(oldCatLink)s|%(oldCatTitle)s]]) cseréje a következőre: [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: kategóriaátirányító sablon hozzáadása karbantartáshoz",
+	"category_redirect-edit-request": "A következő védett lapokon kell frissíteni a kategóriahivatkozásokat: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s a(z) %(oldcat)s kategóriában van, ami átirányít a következőre: %(newcat)s",
+	"category_redirect-fix-double": "Bot: dupla átirányítás javítása"
+}

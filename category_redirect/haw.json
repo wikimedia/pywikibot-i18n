@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"category_redirect-comment": "Lopako mālama mahele hoʻoili",
+	"category_redirect-change-category": "Lopako: Hoʻololi i ka mahele hoʻoili ʻia [[:%(oldCatLink)s|%(oldCatTitle)s]] iā [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Lopako: Ke hoʻohui nei i kekahi anakuhi hoʻoili mahele no ka mālama kahua ʻana",
+	"category_redirect-edit-request": "Pono kēia mau ʻaoʻao hoʻomaluʻia e hoʻopuka hou i nā loulou mahele: %(itemlist)s",
+	"category_redirect-edit-request-item": "*Aia ʻo %(title)s i loko o %(oldcat)s, he ʻaoʻao hoʻoili ʻo %(newcat)s",
+	"category_redirect-fix-double": "Lopako: Ke kāpili hou nei i ka hoʻoili pālua"
+}

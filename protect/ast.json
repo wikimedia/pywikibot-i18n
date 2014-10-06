@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"protect-links": "Robó: Protexendo toles páxines enllazaes dende %(page)s",
+	"protect-simple": "Robó: Protexendo una llista de ficheros.",
+	"protect-category": "Robó: Protexendo toles páxines de la categoría %(cat)s",
+	"protect-ref": "Robó: Protexendo toles páxines con referencia dende %(page)s",
+	"protect-images": "Robó: Protexendo toles imaxes de la páxina %(page)s"
+}

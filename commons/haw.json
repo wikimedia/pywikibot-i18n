@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"commons-file-moved": "Ua hoʻouna ka [[:File:%(localfile)s|Waihona]] i [[:commons:File:%(commonsfile)s|kahi lehulehu]].",
+	"commons-file-now-available": "Aia ka waihona ma [[:commons:File:%(commonsfile)s|kahi lehulehu Wikimīkia]]."
+}

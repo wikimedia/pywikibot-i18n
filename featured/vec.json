@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alunardon90",
+			"GatoSelvadego"
+		]
+	},
+	"featured-good": "Robot: %(page)s el xe on articoło de cuałità",
+	"featured-list": "Robot: %(page)s el xe inte un elenco de primo pian",
+	"featured-featured": "Robot: %(page)s el xe un articoło in evidensa",
+	"featured-former": "Robot: %(page)s el jera un articoło in evidensa"
+}

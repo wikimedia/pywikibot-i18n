@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Bot giúp định hướng: %(from)s – Dời liên kết",
+	"solve_disambiguation-redirect-resolved": "Bot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s",
+	"solve_disambiguation-links-resolved": "Bot giúp định hướng: %(from)s – Đổi liên kết thành %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý",
+	"solve_disambiguation-adding-dn-template": "Bot giúp định hướng: %(from)s – Đánh dấu là cần chuyên gia chú ý",
+	"solve_disambiguation-unknown-page": "(không rõ)",
+	"solve_disambiguation-links-removed": "Bot giúp định hướng: %(from)s – Dời liên kết"
+}

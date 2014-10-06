@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "सांगकाम्याने बदलले: %(modifying)s",
+	"interwiki-adding-modifying": "सांगकाम्याने वाढविले: %(adding)s बदलले: %(modifying)s",
+	"interwiki-adding-removing": "सांगकाम्याने वाढविले: %(adding)s काढले: %(removing)s",
+	"interwiki-adding-removing-modifying": "सांगकाम्याने वाढविले: %(adding)s काढले: %(removing)s बदलले: %(modifying)s",
+	"interwiki-adding": "सांगकाम्याने वाढविले: %(adding)s",
+	"interwiki-removing": "सांगकाम्याने काढले: %(removing)s",
+	"interwiki-removing-modifying": "सांगकाम्याने काढले: %(removing)s बदलले: %(modifying)s"
+}

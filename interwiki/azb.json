@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"E THP"
+		]
+	},
+	"interwiki-modifying": "بوت دَییشدیرمه‌سی دییشدیریلیر: %(modifying)s",
+	"interwiki-adding-modifying": "بوت دَییشدیرمه‌سی علاوه ائدیلیر: %(adding)s دییشدیریلیر: %(modifying)s",
+	"interwiki-adding-removing": "بوت دَییشدیرمه‌سی علاوه ائدیلیر: %(adding)s چیخاردیلیر: %(removing)s",
+	"interwiki-adding-removing-modifying": "بوت دَییشدیرمه‌سی علاوه‌‌ ائدیلیر: %(adding)s چیخاردیلیر: %(removing)s ديَیشدیریلیر: %(modifying)s",
+	"interwiki-adding": "بوت دَییشدیرمه‌سی علاوه‌‌ ائدی‌لیر  %(adding)s",
+	"interwiki-removing": "بوت رئداکته‌سی چیخاردیلیر: %(removing)s",
+	"interwiki-removing-modifying": "بوت رئداکته‌سی چیخاردیلیر: %(removing)s دییشدیریلیر: %(modifying)s",
+	"interwiki-modifying-from": "بوت:%(from)s %(modifying)s اولاراق ديَیشدیریلیر"
+}

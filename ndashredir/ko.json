@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"ndashredir-create": "봇: [[%(title)s]](으)로 하이픈으로 연결한 넘겨주기 만듦"
+}

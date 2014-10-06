@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jim-by",
+			"Renessaince",
+			"Wizardist"
+		]
+	},
+	"category-version-history": "Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s",
+	"category-changing": "Робат: зьмена %(oldcat)s на %(newcat)s",
+	"category-adding": "Робат: дадаваньне category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(таксама ў %(alsocat)s)",
+	"category-was-disbanded": "Робат: катэгорыя расфармаваная",
+	"category-replacing": "Робат: замена катэгорыі %(oldcat)s на %(newcat)s",
+	"category-removing": "Робат: выключэньне з [[%(oldcat)s]]",
+	"category-was-moved": "Робат: катэгорыя перайменаваная ў [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Робат: перанесена з %s. Аўтары: %s",
+	"category-section-title": "Гісторыя старонкі папярэдняе %(oldcat)s",
+	"category-listifying": "Робат: ствараецца сьпіс з %(fromcat)s (%(num)d элемэнтаў)"
+}

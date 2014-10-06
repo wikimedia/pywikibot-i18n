@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"VegaDark"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: reemplazo de mayúsculas/minúsculas:",
+	"casechecker-delete-summary": "Bot: esta redirección contiene caracteres cirílicos y latinos que lucen idénticos",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Esta redirección solía apuntar a %(target)s",
+	"casechecker-rename": "Bot: renombramiento con mayúsculas/minúsculas combinadas"
+}

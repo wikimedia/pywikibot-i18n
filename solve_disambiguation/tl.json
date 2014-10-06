@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Paglilinaw na tinutulungan ng robot: %(from)s - Tinanggal na (mga) kawing",
+	"solve_disambiguation-redirect-resolved": "Paglilinaw na tinutulungan ng robot: %(from)s - Binago ang (mga) kawing na naging %(to)s",
+	"solve_disambiguation-links-resolved": "Paglilinaw na tinutulungan ng robot: %(from)s - Binago ang (mga) kawing na naging %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Paglilinaw na may tulong ng robot: %(from)s - Minarkahan bilang nangangailangan ng pagpansin ng dalubhasa",
+	"solve_disambiguation-adding-dn-template": "Paglilinaw na may tulong ng robot: %(from)s - Tinatakan bilang kailangan ng pagpansin ng dalubhasa",
+	"solve_disambiguation-unknown-page": "(hindi nalalaman)",
+	"solve_disambiguation-links-removed": "Paglilinaw na may tulong ng robot: %(from)s - Tinanggal na (mga) kawing."
+}

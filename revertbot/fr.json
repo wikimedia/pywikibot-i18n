@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"revertbot-revert": "Robot : Revenu à la révision %(revid)s par %(author)s le %(timestamp)s"
+}

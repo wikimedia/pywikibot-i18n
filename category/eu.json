@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa",
+			"Theklan",
+			"Unai Fdz. de Betoño",
+			"Xabier Armendaritz"
+		]
+	},
+	"category-version-history": "Errobota: Antzinako %(oldacat)s bertsio historiala gordetzen",
+	"category-changing": "Robota: «%(oldcat)s» kategoria «%(newcat)s» kategoriara aldatzen",
+	"category-adding": "Robota: [[:Kategoria:%(newcat)s|%(newcat)s]] kategoria eransten",
+	"category-removing": "Robota: %(oldcat)s -tik ezabatzen",
+	"category-was-moved": "Robota: Kategoria [[:Category:%(newcat)s|%(title)s]]-ra mugitu da"
+}

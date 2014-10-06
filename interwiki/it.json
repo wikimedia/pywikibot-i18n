@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nemo bis",
+			"Ricordisamoa"
+		]
+	},
+	"interwiki-modifying": "Bot: Modifico %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Aggiungo %(adding)s; modifico %(modifying)s",
+	"interwiki-adding-removing": "Bot: Aggiungo %(adding)s; tolgo %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Aggiungo %(adding)s; tolgo %(removing)s; modifico %(modifying)s",
+	"interwiki-adding": "Bot: Aggiungo %(adding)s",
+	"interwiki-removing": "Bot: Tolgo %(removing)s",
+	"interwiki-removing-modifying": "Bot: Tolgo %(removing)s; modifico %(modifying)s",
+	"interwiki-modifying-from": "Bot: Modifico %(from)s in %(modifying)s"
+}

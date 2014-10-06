@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Nemo bis"
+		]
+	},
+	"redirect-fix-double": "Bot: Sistemo i redirect doppi a %(to)s",
+	"redirect-remove-broken": "Bot: Redirect a una pagina inesistente",
+	"redirect-fix-broken-moved": "Bot: Correggo redirect errati alla pagina spostata %(to)s",
+	"redirect-fix-loop": "Bot: sistemo ciclo di reindirizzamento a %(to)s",
+	"redirect-remove-loop": "Bot: La destinazione del [[{{ns:project}}:Redirect|redirect]] rimanda alla pagina di partenza",
+	"redirect-broken-redirect-template": "{{Cancella subito|9}}"
+}

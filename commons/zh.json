@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|文件]] 已移动到[[:commons:File:%(commonsfile)s|维基共享资源]]。",
+	"commons-file-now-available": "文件现已在 [[:commons:File:%(commonsfile)s|维基共享资源]]。"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"VegaDark"
+		]
+	},
+	"revertbot-revert": "Bot: Revertido a la revisión %(revid)s de %(author)s en %(timestamp)s"
+}

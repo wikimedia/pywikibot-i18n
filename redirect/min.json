@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luthfi94",
+			"Naval Scene"
+		]
+	},
+	"redirect-fix-double": "Bot: Mampeloki pangalihan gando ka %(to)s",
+	"redirect-remove-broken": "Robot: Pangaliahan ka laman nan dihapuih atau indak ado",
+	"redirect-remove-loop": "Robot: Target pangaliahan mahasilan pangaliahan bapusiang"
+}

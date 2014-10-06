@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"reflinks-autogen": "automatski generisano",
+	"reflinks-comment": "Naslov koji je generisao bot",
+	"reflinks-msg": "Bot: ispravljeni navodi pomoću imenovanih navoda da bi se izbegli duplikati; pogledajte [[%(manual)s|ČPP]]"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"interwiki-modifying": "Robot: Agibalbaliw %(modifying)s",
+	"interwiki-adding-modifying": "Robot: Agnaynayon %(adding)s; agibalbaliw %(modifying)s",
+	"interwiki-adding-removing": "Robot: Agnaynayon %(adding)s; agikikkat: %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot: Agnaynayon %(adding)s; agikikkat %(removing)s; agibalbaliw %(modifying)s",
+	"interwiki-adding": "Robot: Agnaynayon %(adding)s",
+	"interwiki-removing": "Robot: Agikikkat %(removing)s",
+	"interwiki-removing-modifying": "Robot: Agikikkat %(removing)s; agibalbaliw %(modifying)s",
+	"interwiki-modifying-from": "Robot: Agsuksukat %(from)s idiay %(modifying)s"
+}

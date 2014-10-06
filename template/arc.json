@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh"
+		]
+	},
+	"template-changing": "ܪܘܒܘܛ: ܫܘܚܠܦܐ {{PLURAL:%(num)d|ܩܠܒܐ|ܩܠܒ̈ܐ}}: %(list)s"
+}

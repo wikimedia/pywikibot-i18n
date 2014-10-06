@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"revertbot-revert": "Robó:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s"
+}

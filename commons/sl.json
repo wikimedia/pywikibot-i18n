@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Datoteka]] prestavljena v [[:commons:File:%(commonsfile)s|Zbirko]].",
+	"commons-file-now-available": "Datoteka je odslej na razpolago v [[:commons:File:%(commonsfile)s|Wikimedijini Zbirki]]."
+}

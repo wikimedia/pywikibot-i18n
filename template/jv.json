@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"template-removing": "Bot: Nyingkiraké {{PLURAL:%(num)d|témplat|témplat}}: %(list)s",
+	"template-changing": "Bot: Ngowah {{PLURAL:%(num)d|témplat|témplat}}: %(list)s",
+	"template-substituting": "Bot: Ngganti {{PLURAL:%(num)d|témplat|témplat}}: %(list)s"
+}

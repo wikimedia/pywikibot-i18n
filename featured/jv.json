@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"featured-good": "Bot: %(page)s artikel apik",
+	"featured-list": "Bot: %(page)s daptar pinilih",
+	"featured-featured": "Bot: %(page)s artikel pinilih",
+	"featured-former": "Bot: %(page)s bekas artikel pinilih"
+}

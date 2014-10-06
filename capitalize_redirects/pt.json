@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robô: A criar redirecionamento para [[%(to)s]]"
+}

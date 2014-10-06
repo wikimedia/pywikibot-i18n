@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "機械人 改: %(modifying)s",
+	"interwiki-adding-modifying": "機械人 加: %(adding)s 改: %(modifying)s",
+	"interwiki-adding-removing": "機械人 加: %(adding)s 減: %(removing)s",
+	"interwiki-adding-removing-modifying": "機械人 加: %(adding)s 減: %(removing)s 改: %(modifying)s",
+	"interwiki-adding": "機械人 加: %(adding)s",
+	"interwiki-removing": "機械人 減: %(removing)s",
+	"interwiki-removing-modifying": "機械人 減: %(removing)s 改: %(modifying)s"
+}

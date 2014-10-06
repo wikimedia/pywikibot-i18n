@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файл]] перанесены ў [[:commons:File:%(commonsfile)s|ВікіCховішча]].",
+	"commons-file-now-available": "Цяпер файл даступны ў [[:commons:File:%(commonsfile)s|ВікіCховішчы]]."
+}

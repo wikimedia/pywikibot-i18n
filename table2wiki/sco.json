@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"table2wiki-warnings": "Uiser-controlled robot: Buird syntax updated - {{PLURAL:count|1 warnishment|%(count)d warnishments}}!",
+	"table2wiki-no-warning": "Uiser-controlled robot: Buird syntax updated"
+}

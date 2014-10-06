@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Merlissimo",
+			"Murma174"
+		]
+	},
+	"interwiki-modifying": "Bot: Feranre: %(modifying)s",
+	"interwiki-adding-modifying": "Bot:Du %(adding)s diartu; feranre: %(modifying)s",
+	"interwiki-adding-removing": "Bot:Du %(adding)s diartu; nem %(removing)s wech",
+	"interwiki-adding-removing-modifying": "Bot:Du %(adding)s diartu; nem %(removing)s wech; feranre: %(modifying)s",
+	"interwiki-adding": "Bot:Du %(adding)s diartu",
+	"interwiki-removing": "Bot:Nem %(removing)s wech",
+	"interwiki-removing-modifying": "Bot:Nem %(removing)s wech; Feranre: %(modifying)s",
+	"interwiki-modifying-from": "Feranre %(from)s tu %(modifying)s"
+}

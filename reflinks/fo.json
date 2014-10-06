@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"reflinks-autogen": "automatiskt upprættað",
+	"reflinks-comment": "Heitið er gjørt av einum botti",
+	"reflinks-msg": "Bottur: Konverterar naknar keldur, við at brúka ref nøvn fyri at sleppa undan dupultum, sí [[%(manual)s|OSS]]"
+}

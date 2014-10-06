@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] displaciate a [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Le file es ora disponibile in [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

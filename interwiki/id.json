@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "bot Mengubah: %(modifying)s",
+	"interwiki-adding-modifying": "bot Menambah: %(adding)s Mengubah: %(modifying)s",
+	"interwiki-adding-removing": "bot Menambah: %(adding)s Membuang: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot Menambah: %(adding)s Membuang: %(removing)s Mengubah: %(modifying)s",
+	"interwiki-adding": "bot Menambah: %(adding)s",
+	"interwiki-removing": "bot Membuang: %(removing)s",
+	"interwiki-removing-modifying": "bot Membuang: %(removing)s Mengubah: %(modifying)s",
+	"interwiki-modifying-from": "Robot: Mengubah %(from)s menjadi %(modifying)s"
+}

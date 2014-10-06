@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alirezaaa",
+			"ZxxZxxZ"
+		]
+	},
+	"delete-images": "ربات: حذف همهٔ تصاویر صفحهٔ %(page)s",
+	"delete-referring-pages": "ربات: حذف تمام صفحه‌هایی که به %(page)s پیوند داده‌اند",
+	"delete-from-category": "ربات: حذف تمام صفحه‌های ردهٔ %(page)s",
+	"delete-from-file": "ربات: حذف فهرستی از صفحات.",
+	"delete-linked-pages": "ربات: حذف تمام صفحه‌هایی که در %(page)s پیوند شده‌اند"
+}

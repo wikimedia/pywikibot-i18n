@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"featured-good": "โรบอต: %(page)s เป็นบทความคุณภาพ",
+	"featured-list": "บอต: %(page)s เป็นรายชื่อคัดสรร",
+	"featured-featured": "โรบอต: ลิงก์บทความคัดสรร %(page)s",
+	"featured-former": "โรบอต: %(page)s เคยเป็นบทความคัดสรร"
+}

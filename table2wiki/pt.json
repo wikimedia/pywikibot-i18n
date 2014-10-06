@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"table2wiki-warnings": "Robô: Sintaxe da tabela HTML para Wiki atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}",
+	"table2wiki-no-warning": "Bot: Sintaxe da tabela HTML para Wiki atualizada"
+}

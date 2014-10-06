@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"interwiki-modifying": "Bot: izmenjeno %(modifying)s",
+	"interwiki-adding-modifying": "Bot: dodato %(adding)s; izmenjeno %(modifying)s",
+	"interwiki-adding-removing": "Bot: dodato %(adding)s; uklonjeno %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: dodato %(adding)s; uklonjeno %(removing)s; izmenjeno %(modifying)s",
+	"interwiki-adding": "Bot: dodato %(adding)s",
+	"interwiki-removing": "Bot: uklonjeno %(removing)s",
+	"interwiki-removing-modifying": "Bot: uklonjeno %(removing)s; izmenjeno %(modifying)s",
+	"interwiki-modifying-from": "Bot: izmenjeno %(from)s u %(modifying)s"
+}

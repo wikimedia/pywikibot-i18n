@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matěj Suchánek"
+		]
+	},
+	"template-removing": "Robot: Odstraňuji {{PLURAL:%(num)d|šablonu|šablony|šablon}}: %(list)s",
+	"template-changing": "Robot: Upravuji {{PLURAL:%(num)d|šablonu|šablony|šablon}}: %(list)s",
+	"template-substituting": "Robot: Nahrazuji {{PLURAL:%(num)d|šablonu|šablony|šablon}}: %(list)s"
+}

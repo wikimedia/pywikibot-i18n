@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki"
+		]
+	},
+	"makecat-create": "Bot: Δημιουργία ή ενημέρωση της κατηγορίας [[:Category:%(cat)s|]]"
+}

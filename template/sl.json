@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"template-removing": "Robot: Odstranjevanje {{PLURAL:%(num)d|predloge|predlog}}: %(list)s",
+	"template-changing": "Robot: Spreminjanje {{PLURAL:%(num)d|predloge|predlog}}: %(list)s",
+	"template-substituting": "Robot: Zamenjava {{PLURAL:%(num)d|predloge|predlog}}: %(list)s"
+}

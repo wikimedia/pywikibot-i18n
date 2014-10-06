@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"replace-replacing": "Robot: automatisch tekst vervangen %(description)s"
+}

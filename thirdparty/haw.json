@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "lopako",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ʻaʻole loaʻa ka mea hoʻoponopono kanaka)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) na %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Memo akahele lopako: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Kūkākūkā Hou",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - na [[User:%(user)s]] (%(time)s) i hoʻololi hanawale",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notikala",
+	"thirdparty-drtrigonbot-subster-summary-mod": "kuapo nei i nā lepili %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Pani ʻia ke kūkākūkā",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s ua pau nā kūkākūkā apau (ʻaʻohe kiaʻi) - na %(user)s (%(time)s) i hoʻololi hanawale",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Ua hoʻohui i ka hōʻuluʻulu manaʻo kūkākūkā: %(num)i (mau) manaʻo",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Ua loli ʻia ke kūkākūkā",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Ua hoʻohui ʻia ka hōʻuluʻulu manaʻo kūkākūka me ka hoʻomaʻemaʻe ʻana: %(num)i (mau) manaʻo",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Ua hoʻopuka hou i ka hōʻuluʻulu manaʻo kūkākūkā: %(num)i (mau) manaʻo i loko o %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MEMO LOPAKO",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nUa hana ʻia ka hōʻuluʻulu manaʻo mai a ma: %(sign)s</noinclude>"
+}

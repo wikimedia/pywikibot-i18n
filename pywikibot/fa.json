@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huji",
+			"Ladsgroup",
+			"Reza1615",
+			"ZxxZxxZ"
+		]
+	},
+	"pywikibot-enter-xml-filename": "لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:",
+	"pywikibot-enter-page-processing": "کدام صفحه باید پردازش شود؟",
+	"pywikibot-enter-file-links-processing": "پیوند به کدام پرونده باید پردازش شود؟",
+	"pywikibot-enter-namespace-number": "لطفاً شمارهٔ یک فضای نام را وارد کنید:",
+	"pywikibot-enter-new-text": "لطفاً متن جدید را وارد کنید:",
+	"pywikibot-enter-category-name": "لطفاً نام رده را وارد کنید:",
+	"pywikibot-enter-finished-browser": "هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید."
+}

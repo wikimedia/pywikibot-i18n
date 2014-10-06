@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Menukarkan Besar Kecil Huruf:",
+	"casechecker-delete-summary": "Bot: Lencongan ini mengandungi huruf-huruf Siril dan Rumi yang tampak seiras di dalam tajuknya",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Lencongan ini pernah menuju ke %(target)s",
+	"casechecker-rename": "Bot: menukar nama campur kecil besar huruf"
+}

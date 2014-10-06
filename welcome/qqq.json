@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Xqt"
+		]
+	},
+	"welcome-welcome": "Edit summary for the welcome message\n{{Identical|Welcome}}",
+	"welcome-bad_username": "Edit summary for reporting a possibly bad username.",
+	"welcome-updating": "Edit summary for updating the welcome log."
+}

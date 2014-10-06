@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki",
+			"Glavkos"
+		]
+	},
+	"featured-good": "Ρομπότ: το %(page)s είναι καλό άρθρο",
+	"featured-list": "Ρομπότ: το %(page)s είναι ένας κατάλογος αξιόλογων",
+	"featured-featured": "Ρομπότ: το %(page)s είναι αξιόλογο άρθρο",
+	"featured-former": "Ρομπότ: το %(page)s είναι πρώην αξιόλογο άρθρο"
+}

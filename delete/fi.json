@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Olli"
+		]
+	},
+	"delete-images": "Botti: Poistetaan kaikki kuvat sivulta %(page)s",
+	"delete-referring-pages": "Botti: Poistetaan kaikki sivut, jotka viittaavat sivulta %(page)s",
+	"delete-from-category": "Botti: Poistetaan kaikki sivut luokasta %(page)s",
+	"delete-from-file": "Botti: Poistetaan tiedostoluettelo.",
+	"delete-linked-pages": "Botti: Poistetaan kaikki sivut, jotka on linkitetty sivulta %(page)s"
+}

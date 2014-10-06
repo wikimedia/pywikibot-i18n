@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List"
+		]
+	},
+	"replace-replacing": "Robot: Automatisk erstatning af tekst: %(description)s"
+}

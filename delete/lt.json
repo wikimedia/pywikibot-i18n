@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Homo",
+			"Hugo.arg"
+		]
+	},
+	"delete-images": "robotas: Trinami visi puslapio %(page)s paveikslėliai",
+	"delete-referring-pages": "robotas: Trinami visi puslapiai, rodantys į %(page)s",
+	"delete-from-category": "robotas: Trinami visi puslapiai iš kategorijos %(page)s",
+	"delete-from-file": "Robotas: Trinamas failų sąrašas.",
+	"delete-linked-pages": "robotas: Trinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s"
+}

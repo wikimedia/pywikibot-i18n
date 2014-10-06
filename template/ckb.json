@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asoxor"
+		]
+	},
+	"template-removing": "ڕۆبۆت: لابردنی {{PLURAL:%(num)d|داڕێژە|داڕێژەکان}}: %(list)s",
+	"template-changing": "ڕۆبۆت: گۆڕینی {{PLURAL:%(num)d|داڕێژە|داڕێژەکان}}: %(list)s",
+	"template-substituting": "ڕۆبۆت: لەجێدانانی {{PLURAL:%(num)d|داڕێژە|داڕێژەکان}}: %(list)s"
+}

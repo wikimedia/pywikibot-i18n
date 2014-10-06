@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"reflinks-autogen": "hasilan automatik",
+	"reflinks-comment": "Tajuk hasilan bot",
+	"reflinks-msg": "Bot: Menukarkan rujukan kosong, menggunakan nama ref untuk mengelakkan duplikasi, rujuk [[%(manual)s|FAQ]]"
+}

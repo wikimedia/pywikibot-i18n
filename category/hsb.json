@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"category-adding": "Bot: přidawa so [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(tež w %(alsocat)s)"
+}

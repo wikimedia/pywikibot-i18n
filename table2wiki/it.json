@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ricordisamoa"
+		]
+	},
+	"table2wiki-warnings": "Bot controllato da utente: tabella sintassi aggiornata - {{PLURAL:count|1 avviso|%(count)d avvisi}}!",
+	"table2wiki-no-warning": "Bot controllato da utente: aggiornata sintassi tabelle"
+}

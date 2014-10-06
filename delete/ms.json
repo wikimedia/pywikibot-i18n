@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"delete-images": "Bot: Menghapuskan semua imej pada laman %(page)s",
+	"delete-referring-pages": "Bot: Menghapuskan semua laman yang dirujuk dari %(page)s",
+	"delete-from-category": "Bot: Menghapuskan semua laman dari kategori %(page)s",
+	"delete-from-file": "Robot: Menghapuskan senarai fail.",
+	"delete-linked-pages": "Bot: Menghapuskan semua laman yang berpaut dari %(page)s"
+}

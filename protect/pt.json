@@ -1,0 +1,7 @@
+{
+	"protect-links": "Bot: Protegendo todos os artigos ligados a %(page)s",
+	"protect-simple": "Bot: Protegendo uma lista de artigos.",
+	"protect-category": "Bot: Protegendo todos os artigos da categoria %(cat)s",
+	"protect-ref": "Bot: Protegendo todos os artigos afluentes a %(page)s",
+	"protect-images": "Bot: Protegendo todas as imagens do artigo %(page)"
+}

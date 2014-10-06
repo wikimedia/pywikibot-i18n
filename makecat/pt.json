@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imperadeiro98"
+		]
+	},
+	"makecat-create": "Robô: Criação ou atualização de categoria [[:Categoria:%(cat)s|]]"
+}

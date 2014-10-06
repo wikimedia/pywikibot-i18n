@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Demmy"
+		]
+	},
+	"interwiki-modifying": "Bot: Ìtúnṣe %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Ìfikún %(adding)s; ìtúnṣe %(modifying)s",
+	"interwiki-adding-removing": "Bot: Ìfikún %(adding)s; ìyọkúrò: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Ìfikún %(adding)s; ìyọkúrò %(removing)s; ìtúnṣe %(modifying)s",
+	"interwiki-adding": "Bot: Ìfikún %(adding)s",
+	"interwiki-removing": "Bot: Ìyọkúrò %(removing)s",
+	"interwiki-removing-modifying": "Bot: Ìyọkúrò %(removing)s; ìtúnṣe %(modifying)s"
+}

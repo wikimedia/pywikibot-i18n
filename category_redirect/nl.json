@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"category_redirect-comment": "Robot voor categoriedoorverwijzing",
+	"category_redirect-change-category": "Robot: categorie van doorverwijzing gewijzigd van [[:%(oldCatLink)s|%(oldCatTitle)s]] naar [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: categoriedoorverwijzingsjabloon toegevoegd",
+	"category_redirect-edit-request": "Voor de volgende beveiligde pagina's moeten de categoriekoppelingen aangepast worden: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s staat in %(oldcat)s, een doorverwijzing naar %(newcat)s",
+	"category_redirect-fix-double": "Robot: dubbele doorverwijzing gecorrigeerd"
+}

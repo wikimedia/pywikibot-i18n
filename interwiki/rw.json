@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "Roboti Rihindura: %(modifying)s",
+	"interwiki-adding-modifying": "Roboti Guterana: %(adding)s Rihindura: %(modifying)s",
+	"interwiki-adding-removing": "Roboti Guterana: %(adding)s Ikurwaho: %(removing)s",
+	"interwiki-adding-removing-modifying": "Roboti Guterana: %(adding)s Ikurwaho: %(removing)s Rihindura: %(modifying)s",
+	"interwiki-adding": "Roboti Guterana: %(adding)s",
+	"interwiki-removing": "Roboti Ikurwaho: %(removing)s",
+	"interwiki-removing-modifying": "Roboti Ikurwaho: %(removing)s Rihindura: %(modifying)s"
+}

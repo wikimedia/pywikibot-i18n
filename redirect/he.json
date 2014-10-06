@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"YaronSh",
+			"ערן"
+		]
+	},
+	"redirect-fix-double": "בוט: מתקן הפניה כפולה → %(to)s",
+	"redirect-remove-broken": "רובוט: יעד ההפניה נמחק או שאינו קיים",
+	"redirect-fix-broken-moved": "רובוט: תיקון הפניה שבורה לדף היעד %(to)s, שהועבר",
+	"redirect-fix-loop": "בוט: תיקון הפניה מעגלית ל%(to)s",
+	"redirect-remove-loop": "רובוט: הפניה זו גורמת ללולאה אין־סופית של הפניות"
+}

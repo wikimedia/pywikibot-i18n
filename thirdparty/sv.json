@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(inga mänskliga redigerare hittades)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s senaste redigering] (%(page_size)s byte) av %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ": * Botvarningsmeddelande: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Ny diskussion",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - senaste redigering av [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Meddelande",
+	"thirdparty-drtrigonbot-subster-summary-mod": "ersätter %(tags)s tagg(ar)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskussion stängd",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s alla diskussioner är klara (övervakning stoppades) - senaste redigering av %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Diskussionssammanfattning lades till: %(num)i poster",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Diskussion ändrad",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Diskussionssammanfattning lades till med resning : %(num)i poster",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Diskussionssammanfattning uppdaterades: % %(num)i poster i %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOTMEDDELANDE",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSammanfattning genererades från och på: %(sign)s</noinclude>"
+}

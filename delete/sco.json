@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"delete-images": "Robot: Deletin aw eemages oan page %(page)s",
+	"delete-referring-pages": "Robot: Deletin aw pages referring fae %(page)s",
+	"delete-from-category": "Robot: Deletin aw pages fae category %(page)s",
+	"delete-from-file": "Robot: Deletin ae leet o pages.",
+	"delete-linked-pages": "Robot: Deletin aw pages linked fae %(page)s"
+}

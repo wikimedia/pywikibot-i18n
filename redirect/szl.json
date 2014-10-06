@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Przemub"
+		]
+	},
+	"redirect-fix-double": "Robot sprowjo tuplowane przekerowańa → %(to)s",
+	"redirect-remove-broken": "Robot: pukniyńcie dŏ wyciepanej zajty",
+	"redirect-fix-loop": "Robot: Naprawa mocki pukniyńć dŏ (to)s",
+	"redirect-remove-loop": "Robot: mocka pukniyńć",
+	"redirect-broken-redirect-template": "{{delete|pukniyńciy dŏ wyciepanyj zajty}}"
+}

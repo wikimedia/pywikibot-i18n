@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"category-version-history": "Robot: Stoor wysigingsgeskiedenis van voormalige %(oldcat)s",
+	"category-changing": "Robot: verander %(oldcat)s na %(newcat)s",
+	"category-adding": "Robot: kategorie [[:Category:%(newcat)s|%(newcat)s]] bygevoeg",
+	"category-also-in": "(ook in %(alsocat)s)",
+	"category-was-disbanded": "Bot: Kategorie is opgehef",
+	"category-replacing": "Robot: kategorie %(oldcat)s is vervang met %(newcat)s",
+	"category-removing": "Robot: verwyder uit %(oldcat)s",
+	"category-was-moved": "Robot: kategorie is geskuif na [[:Category:%(newcat)s|%(title)s]]",
+	"category-section-title": "Bladsygeskiedenis van voormalige %(oldcat)s",
+	"category-listifying": "Robot: lys van %(fromcat)s (%(num)d bladsye)"
+}

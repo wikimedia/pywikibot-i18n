@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "রোবট বদালার: %(modifying)s",
+	"interwiki-adding-modifying": "রোবট তিলকরের: %(adding)s বদালার: %(modifying)s",
+	"interwiki-adding-removing": "রোবট তিলকরের: %(adding)s থেইকরের: %(removing)s",
+	"interwiki-adding-removing-modifying": "রোবট তিলকরের: %(adding)s থেইকরের: %(removing)s বদালার: %(modifying)s",
+	"interwiki-adding": "রোবট তিলকরের: %(adding)s",
+	"interwiki-removing": "রোবট থেইকরের: %(removing)s",
+	"interwiki-removing-modifying": "রোবট থেইকরের: %(removing)s বদালার: %(modifying)s"
+}

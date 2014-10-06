@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Tiedosto]] on siirretty [[:commons:File:%(commonsfile)s|Commonsiin]].",
+	"commons-file-now-available": "Tiedosto on nyt saatavilla [[:commons:File:%(commonsfile)s|Wikimedia Commonsissa]]."
+}

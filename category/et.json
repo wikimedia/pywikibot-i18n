@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pikne"
+		]
+	},
+	"category-changing": "Robot: %(oldcat)s → %(newcat)s",
+	"category-adding": "Robot: lisatud kategooria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-replacing": "Robot: %(oldcat)s → %(newcat)s",
+	"category-removing": "Robot: eemaldatud %(oldcat)s",
+	"category-was-moved": "Robot: kategooria teisaldatud asukohta [[:Category:%(newcat)s|%(title)s]]",
+	"category-listifying": "Robot: %(fromcat)s põhjal moodustatud loend ({{PLURAL:%(num)d|1 sissekanne|%(num)d sissekannet}})"
+}

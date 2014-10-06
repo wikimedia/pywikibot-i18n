@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"welcome-welcome": "Welkom!",
+	"welcome-bad_username": "Robot: voeg 'n gebruikersnaam wat gekontrolleer moet word by",
+	"welcome-updating": "Robot: werk logboek by"
+}

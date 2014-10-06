@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amazigh84"
+		]
+	},
+	"category-version-history": "Aṛubut: Ssekles amezruy n llqem aqbuṛ %(oldcat)s",
+	"category-changing": "Aṛubut: Beddel %(oldcat)s γer %(newcat)s",
+	"category-adding": "a rubut ti merniwt: category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-was-moved": "Aṛubut: Taggayt tbeddel amḍiq γer [[:Category:%(newcat)s|%(title)s]]",
+	"category-listifying": "Aṛubut: Acraw sγuṛ %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})"
+}

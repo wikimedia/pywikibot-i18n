@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI"
+		]
+	},
+	"redirect-fix-double": "Робот: Поправяне на двойно пренасочване към %(to)s"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pahles"
+		]
+	},
+	"redirect-fix-double": "Robot: dobbel doorverwiezing aangepas nao %(to)s",
+	"redirect-remove-broken": "Robot: de doelpagina van de doorverwiezing besjteit neet",
+	"redirect-remove-loop": "Doorverwiezing vörmp 'n óneindige lus",
+	"redirect-broken-redirect-template": "{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}"
+}

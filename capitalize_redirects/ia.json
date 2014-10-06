@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Crea redirection a [[%(to)s]]"
+}

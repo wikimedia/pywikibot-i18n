@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ty221"
+		]
+	},
+	"spamremove-remove": "Usuwanie linków do spamowej strony %(url)s"
+}

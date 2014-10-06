@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleferen",
+			"Rubin16"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Пожалуйста, введите имя файла дампа XML:",
+	"pywikibot-enter-page-processing": "Какая страница должна обрабатываться?",
+	"pywikibot-enter-file-links-processing": "Ссылки на какую страницу файла следует обработать?",
+	"pywikibot-enter-namespace-number": "Пожалуйста, введите номер пространства имён:",
+	"pywikibot-enter-new-text": "Пожалуйста, введите новый текст:",
+	"pywikibot-enter-category-name": "Пожалуйста, введите название категории:",
+	"pywikibot-enter-finished-browser": "Нажмите клавишу Enter, когда закончите вносить изменения в браузере."
+}

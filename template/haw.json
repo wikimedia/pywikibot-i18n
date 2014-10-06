@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"template-removing": "Lopako: Ke wehe nei i {{PLURAL:%(num)d|anakuhi|mau anakuhi}}: %(list)s",
+	"template-changing": "Lopako: Ke hoʻololi nei i {{PLURAL:%(num)d|anakuhi|mau anakuhi}}: %(list)s",
+	"template-substituting": "Lopako: Ke kuapololi i {{PLURAL:%(num)d|anakuhi|mau anakuhi}}: %(list)s"
+}

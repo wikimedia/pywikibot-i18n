@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720",
+			"Hamilton Abreu"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Ficheiro]] movido para a [[:commons:File:%(commonsfile)s|Commons]].",
+	"commons-file-now-available": "O ficheiro está agora no [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

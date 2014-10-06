@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teslaton"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Zadajte názov súboru s XML výpisom:",
+	"pywikibot-enter-page-processing": "Ktorá stránka má byť spracovaná?",
+	"pywikibot-enter-file-links-processing": "Odkazy na ktorú stránku so súborom majú býť spracované?",
+	"pywikibot-enter-namespace-number": "Zadajte číslo menného priestoru:",
+	"pywikibot-enter-new-text": "Zadajte nový text:",
+	"pywikibot-enter-category-name": "Zadajte názov kategórie:",
+	"pywikibot-enter-finished-browser": "Po ukončení činnosti v prehliadači stlačte Enter."
+}

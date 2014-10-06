@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"protect-links": "Bot: Protexo todas as páxinas ligadas desde \"%(page)s\"",
+	"protect-simple": "Bot: Protexo unha lista de ficheiros.",
+	"protect-category": "Bot: Protexo todas as páxinas da categoría \"%(cat)s\"",
+	"protect-ref": "Bot: Protexo todas as páxinas que van dar a \"%(page)s\"",
+	"protect-images": "Bot: Protexo todas as imaxes da páxina \"%(page)s\""
+}

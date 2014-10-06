@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"delete-images": "Bot: Strik aal jo dateien üüb det sidj %(page)s",
+	"delete-referring-pages": "Bot: Strik aal jo sidjen, diar üüb %(page)s ferwise",
+	"delete-from-category": "Bot: Strik aal jo sidjen uun det kategorii %(page)s",
+	"delete-from-file": "Bot: Strik en list faan sidjen.",
+	"delete-linked-pages": "Bot: Strik aal jo sidjen mä ferwisangen faan %(page)s"
+}

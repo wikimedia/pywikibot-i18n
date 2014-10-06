@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"redirect-fix-double": "機械人修正雙重定向至%(to)s",
+	"redirect-remove-broken": "[[WP:SD#G15|G15]]：[[Wikipedia:重定向|重定向]]到已刪除或不存在的頁面",
+	"redirect-fix-broken-moved": "機械人修復損壞的重定向到已移動的目標頁面%(to)s",
+	"redirect-fix-loop": "機械人修復重定向迴圈至%(to)s",
+	"redirect-remove-loop": "[[WP:SD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環"
+}

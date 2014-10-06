@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pahles"
+		]
+	},
+	"category-changing": "Robot: verangering %(oldcat)s",
+	"category-adding": "Robot: debie category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(ouch in %(alsocat)s)",
+	"category-was-disbanded": "Robot: categorie is opgehöf",
+	"category-replacing": "Robot: categorie %(oldcat)s is vervange door %(newcat)s",
+	"category-removing": "Robot: eweggesjaf oet %(oldcat)s",
+	"category-was-moved": "Robot: categorie is verplaats nao [[:Category:%(newcat)s|%(title)s]]",
+	"category-listifying": "Robot: lies van %(fromcat)s (%(num)d pagina's)"
+}

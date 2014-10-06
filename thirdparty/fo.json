@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bottur",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ongin menniskja skrivari/rættari funnin)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "%d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s seinasta rætting] (%(page_size)s bytes) av %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Ávaringarboð frá botti: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nýtt kjak",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - seinast broytt av [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Boð",
+	"thirdparty-drtrigonbot-subster-summary-mod": "skifta út %(tags)s tag(s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Kjak er stongt",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Kjakið er broytt",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Kjaksamandráttur dagførdur: %(num)i postar í %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOÐ FRÁ BOTTI",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSamandráttur sum er gjørdur frá og á: %(sign)s</noinclude>"
+}

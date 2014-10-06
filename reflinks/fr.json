@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"reflinks-autogen": "auto-généré",
+	"reflinks-comment": "Titre généré automatiquement",
+	"reflinks-msg": "Bot: Correction des refs. mal formatées, suppression doublons en utilisant des références nommées (cf. [[%(manual)s|explications]])"
+}

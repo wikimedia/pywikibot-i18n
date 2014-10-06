@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Romainhk"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Veuillez entrer le nom du fichier d'extraction XML:",
+	"pywikibot-enter-page-processing": "Quelle page faut-il traiter?",
+	"pywikibot-enter-file-links-processing": "Liens vers la page de fichier qu’il faudrait traiter ?",
+	"pywikibot-enter-namespace-number": "Veuillez entrer un espace de noms grâce à son numéro:",
+	"pywikibot-enter-new-text": "Veuillez entrer le nouveau texte:",
+	"pywikibot-enter-category-name": "Veuillez entrer le nom de la catégorie:",
+	"pywikibot-enter-finished-browser": "Appuyez sur Entrée une fois que vous avez fini dans le navigateur."
+}

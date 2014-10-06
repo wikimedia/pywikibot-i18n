@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Викиней"
+		]
+	},
+	"template-changing": "Бот: {{PLURAL:%(num)d|калыбын|калыптарын}} өзгөртүү: %(list)s"
+}

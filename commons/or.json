@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shisir 1945"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] ଗଲା [[:commons:File:%(commonsfile)s|commons]] କୁ",
+	"commons-file-now-available": "ଫାଇଲ୍‌ ଏଠାରେ ଉପଲବ୍ଧ [[:commons:File:%(commonsfile)s|Wikimedia Commons]]"
+}

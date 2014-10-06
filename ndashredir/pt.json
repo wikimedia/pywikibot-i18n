@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas"
+		]
+	},
+	"ndashredir-create": "Robô: A criar um redirecionamento hifenizado para [[%(title)s]]"
+}

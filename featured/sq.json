@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Euriditi"
+		]
+	},
+	"featured-good": "Roboti: %(page)s është një artikull i mirë",
+	"featured-list": "Roboti: %(page)s është zgjedhur si artikulli i javës"
+}

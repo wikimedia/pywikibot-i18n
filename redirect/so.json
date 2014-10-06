@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"redirect-fix-double": "Bot: Hagaajin u rogid labalaaban ee %(to)s",
+	"redirect-remove-broken": "Bot: U wareejin bog la tirtiray ama aan jirin",
+	"redirect-fix-broken-moved": "Bot: Dib u Sixidda qaldantay waxaa loo wareejiyey Bog kale %(to)s",
+	"redirect-fix-loop": "Bot: Diyaarinta dib u bilaabista ee %(to)s",
+	"redirect-remove-loop": "Bot: Ujeedka u rogista bogga ee dhaqaaqa"
+}

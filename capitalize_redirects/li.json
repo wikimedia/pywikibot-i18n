@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pahles"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: doorverwiezing gemaak nao [[%(to)s]]"
+}

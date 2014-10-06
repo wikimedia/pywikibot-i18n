@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fichièr]] desplaçat sus [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Lo fichièr es ara disponible sus [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

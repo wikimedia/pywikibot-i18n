@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Vytvoření přesměrování na [[%(to)s]]"
+}

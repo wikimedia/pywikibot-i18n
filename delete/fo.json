@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"delete-images": "Bottur: Strikar allar myndir á síðu %(page)s",
+	"delete-referring-pages": "Bottur: Strikar allar síður víkjandi %(page)s",
+	"delete-from-category": "Bottur: Strikar allar síður frá bólki %(page)s",
+	"delete-from-file": "Bottur: Strikar ein lista við síðum.",
+	"delete-linked-pages": "Bottur: Strikar allar síðu sum slóða frá %(page)s"
+}

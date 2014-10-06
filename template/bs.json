@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"template-removing": "Bot: Brisanje {{PLURAL:%(num)d|šablona|šablona}}: %(list)s.",
+	"template-changing": "Bot: Izmjena {{PLURAL:%(num)d|šablona|šablona}}: %(list)s.",
+	"template-substituting": "Bot: Zamijena {{PLURAL:%(num)d|šablona|šablona}}: %(list)s."
+}

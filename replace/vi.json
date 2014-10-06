@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"replace-replacing": "Bot: Tự động thay thế văn bản %(description)s"
+}

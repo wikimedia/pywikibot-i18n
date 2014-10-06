@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"interwiki-adding": "रोबट: %(adding)s तनाच्वँगु",
+	"interwiki-removing": "रोबट: %(removing)s लिकानाच्वँगु"
+}

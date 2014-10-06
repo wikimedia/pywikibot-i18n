@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fil]] flyttad till [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Filen är nu tillgänglig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

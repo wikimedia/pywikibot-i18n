@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"featured-good": "Robot: %(page)s is een goed artikel",
+	"featured-list": "Robot: %(page)s is een uitgelichte lijst",
+	"featured-featured": "Robot: %(page)s is een etalage-artikel",
+	"featured-former": "Robot: %(page)s is een voormalig uitgelicht artikel"
+}

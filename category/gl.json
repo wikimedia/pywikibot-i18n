@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"category-version-history": "Bot: Gardo o historial de versións da antiga \"%(oldcat)s\"",
+	"category-changing": "Bot: Cambio %(oldcat)s por %(newcat)s",
+	"category-adding": "Bot: Engado a categoría \"[[:Category:%(newcat)s|%(newcat)s]]\"",
+	"category-also-in": "(tamén en %(alsocat)s)",
+	"category-was-disbanded": "Bot: A categoría foi eliminada",
+	"category-replacing": "Bot: Substitución da categoría \"%(oldcat)s\" pola categoría \"%(newcat)s\"",
+	"category-removing": "Bot: Elimino desde \"%(oldcat)s\"",
+	"category-was-moved": "Bot: A categoría trasladouse a \"[[:Category:%(newcat)s|%(title)s]]\"",
+	"category-renamed": "Bot: Traslado desde \"%s\". Autores: %s",
+	"category-section-title": "Historial da antiga \"%(oldcat)s\"",
+	"category-listifying": "Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Y-M D"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Kudenn diforc'hañ diskoulmet dre ar robot : %(from)s - liamm(où) tennet",
+	"solve_disambiguation-redirect-resolved": "Kudenn diforc'hañ diskoulmet dre ar robot : %(from)s - cheñchet liamm(où) e %(to)s",
+	"solve_disambiguation-links-resolved": "Kudenn diforc'hañ diskoulmet dre ar robot : %(from)s - cheñchet liamm(où) e %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Kudenn diforc'hañ diskoulmet dre ar robot : %(from)s - merket evel da vezañ pledet ganti gant ur mailh",
+	"solve_disambiguation-adding-dn-template": "Kudenn diforc'hañ diskoulmet dre ar robot : %(from)s - merket evel da vezañ pledet ganti gant ur mailh",
+	"solve_disambiguation-unknown-page": "(dianav)",
+	"solve_disambiguation-links-removed": "Kudenn diforc'hañ diskoulmet dre ar robot : %(from)s - liamm(où) tennet."
+}

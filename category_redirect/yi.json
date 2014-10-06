@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"category_redirect-comment": "קאַטעגאריע ווײַטערפֿירן אויפֿהאַלטן באט",
+	"category_redirect-change-category": "ראבאט: ענדערט ווייטערגעפירטע קאטעגאריע [[:%(oldCatLink)s|%(oldCatTitle)s]] צו [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "ראבאט: לייגט צו קאטעגאריע ווייטערפירן מוסטער פאר אויפהאלטונג",
+	"category_redirect-edit-request": "די פאלגנדע געשיצטע בלעטער פאדערן דערהיינטיקן די קאטעגאריע לינקען: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s געפינט זיך אין %(oldcat)s, וואס פירט ווײַטער צו %(newcat)s",
+	"category_redirect-fix-double": "באט: פארראכטן פארטאפלטע ווייטערפירונג"
+}

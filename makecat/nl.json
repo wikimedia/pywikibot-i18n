@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"makecat-create": "Robot: aanmaak of uitbreiding van categorie [[:Category:%(cat)s|]]"
+}

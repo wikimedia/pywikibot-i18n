@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Ricordisamoa"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Inserisci il nome del file del dump XML:",
+	"pywikibot-enter-page-processing": "Quale pagina deve essere elaborata?",
+	"pywikibot-enter-file-links-processing": "File per cui devono essere elaborate le pagine che vi puntano",
+	"pywikibot-enter-namespace-number": "Inserisci il numero di un namespace:",
+	"pywikibot-enter-new-text": "Inserisci il nuovo testo:",
+	"pywikibot-enter-category-name": "Inserisci il nome della categoria:",
+	"pywikibot-enter-finished-browser": "Premi Invio quando hai terminato nel browser."
+}

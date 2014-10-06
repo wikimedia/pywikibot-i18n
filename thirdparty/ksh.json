@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "Bot:",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(Keine Minsch als Beärbeider jefonge)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s de letzte Änderong] (%(page_size)s Bytes) vum %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Bot-Warnonge: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Ene neue Klaaf",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - de letzte Änderong vum [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Meddeilong",
+	"thirdparty-drtrigonbot-subster-summary-mod": "usjetuusch: %(tags)s Makeerong(e)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Dä Klaaf es vörbei.",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s alle Diskußjuhne sin eröm (Mer han mem Oppasse opjehüert) - de letzte Änderong es vum %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "En Zosammefassong vun dä Diskußjuhn wood aanjeföösch: %(num)i Enndrääsch.",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "De Diskußjuhn wood verändert.",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "En Zosammefassong vun dä Diskußjuhn wood aanjeföösch un opjerühmp: %(num)i Enndrääsch.",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "De Zosammefassong vun dä Diskußjuhn wood op ene neue Schtand jebraat: %(num)i Enndrääsch en dä Sigg %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "<span style=\"text-transform:uppercase\">Nohreesch vum Bot: </span>",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nZusammefaßong vum: %(sign)s</noinclude>"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"Tobulos1",
+			"WikiPhoenix"
+		]
+	},
+	"reflinks-autogen": "automatiskt genererade",
+	"reflinks-comment": "Botgenererad titel",
+	"reflinks-msg": "Bot: Konvertera oformaterade referenser, använder ref namn för att undvika dubbletter, se [[%(manual)s|FAQ]]"
+}

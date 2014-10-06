@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Veeven"
+		]
+	},
+	"template-removing": "బాటు: {{PLURAL:%(num)d|మూసను|మూసలను}} తొలగించింది: %(list)s"
+}

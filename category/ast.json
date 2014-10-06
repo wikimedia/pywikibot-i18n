@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esbardu",
+			"Xuacu"
+		]
+	},
+	"category-version-history": "Robó: Guardando l'historial de versiones de los %(oldcat)s anteriores",
+	"category-changing": "Robó: Camudando %(oldcat)s a %(newcat)s",
+	"category-adding": "Robó: Amestando la categoría [[Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(tamién en %(alsocat)s)",
+	"category-was-disbanded": "Robó: Desanicióse la categoría",
+	"category-replacing": "Robó: Trocando la categoría %(oldcat)s por %(newcat)s",
+	"category-removing": "Robó: Desaniciando de %(oldcat)s",
+	"category-was-moved": "Robó: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Robot: Movíu dende \"%s\". Autores: %s",
+	"category-section-title": "Historial de páxina de %(oldcat)s anteriores",
+	"category-listifying": "Robó: Llistando de %(fromcat)s (%(num)d entraes)"
+}

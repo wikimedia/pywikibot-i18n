@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"featured-good": "रोबोट: %(page)s असल लेख हो ।",
+	"featured-list": "रोबोट: %(page)s छानिएको लेख हो",
+	"featured-featured": "रोबोट: %(page)s छानिएको लेख हो",
+	"featured-former": "रोबोट: %(page)s पहिले छानिएको लेख हो"
+}

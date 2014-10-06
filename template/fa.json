@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huji",
+			"ZxxZxxZ"
+		]
+	},
+	"template-removing": "ربات:حذف {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s",
+	"template-changing": "ربات: تغییر {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s",
+	"template-substituting": "ربات: جانشینی {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s"
+}

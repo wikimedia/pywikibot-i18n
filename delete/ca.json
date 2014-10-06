@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grondin"
+		]
+	},
+	"delete-images": "Robot: esborrant totes les imatges de la pàgina %(page)s",
+	"delete-referring-pages": "Robot: esborrant totes les pàgines amb referència des de %(page)s",
+	"delete-from-category": "Robot: esborrant totes les pàgines de la categoria %(page)s",
+	"delete-from-file": "Robot: esborrant una llista de pàgines.",
+	"delete-linked-pages": "Robot: esborrant totes les pàgines que s'enllacen des de %(page)s"
+}

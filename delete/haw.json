@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolonahe"
+		]
+	},
+	"delete-images": "Lopako: Ke holoi nei i nā kiʻi apau ma ka ʻaoʻao %(page)s",
+	"delete-referring-pages": "Lopako: Ke holoi nei i nā ʻaoʻao apau e kelelou mai ka ʻaoʻao %(page)s",
+	"delete-from-category": "Lopako: Ke holoi nei i nā ʻaoʻao apau mai ka mahele %(page)s",
+	"delete-from-file": "Lopako: Ke holoi nei i ka papahelu ʻaoʻao",
+	"delete-linked-pages": "Lopako: Ke holoi nei i nā ʻaoʻao apau e loulou mai ka ʻaoʻao %(page)s"
+}

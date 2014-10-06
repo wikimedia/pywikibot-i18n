@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"reflinks-autogen": "automatisch aangemaakt",
+	"reflinks-comment": "Door robot aangemaakte titel",
+	"reflinks-msg": "Robot: converteren van referenties om duplicate te voorkomen, zie [[%(manual)s|FAQ]]"
+}

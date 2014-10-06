@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luthfi94",
+			"Naval Scene"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Masuakkan namo Berkas sarok XML:",
+	"pywikibot-enter-page-processing": "Laman manokah nan harus diproses?",
+	"pywikibot-enter-file-links-processing": "Pautan ka laman gambar manokah nan ka diproses?",
+	"pywikibot-enter-namespace-number": "Masuakkan ruang namo manuruik nomornyo:",
+	"pywikibot-enter-new-text": "Masuakkan teks baru:",
+	"pywikibot-enter-category-name": "Masuakkan namo kategori:"
+}

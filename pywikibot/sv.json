@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cybjit",
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Ange XML-dumpens filnamn:",
+	"pywikibot-enter-page-processing": "Vilken sida ska behandlas?",
+	"pywikibot-enter-file-links-processing": "Länkar till vilken filsida ska behandlas?",
+	"pywikibot-enter-namespace-number": "Ange namnrymden via dess nummer:",
+	"pywikibot-enter-new-text": "Skriv in den nya texten:",
+	"pywikibot-enter-category-name": "Ange kategorinamnet:",
+	"pywikibot-enter-finished-browser": "Tryck på Enter när du är klar i webbläsaren."
+}

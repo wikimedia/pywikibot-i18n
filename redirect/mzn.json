@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"محک"
+		]
+	},
+	"redirect-fix-double": "ربوت:عوض هایتن دکشیه‌ئون دِتایی → %(to)s",
+	"redirect-remove-broken": "ربوت:بی‌جاء ِدکشی‌یه‌ئون",
+	"redirect-remove-loop": "ربوت:ناترینگی [[:fa:وپ:تغییرمسیر|دکشی‌یه]]",
+	"redirect-broken-redirect-template": "{{حذف سریع|بن بست|bot=yes}}"
+}

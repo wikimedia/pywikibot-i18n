@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luthfi94",
+			"Naval Scene"
+		]
+	},
+	"category-version-history": "Robot: Manyimpan versi tadahulu bakeh %(oldcat)s",
+	"category-changing": "Bot: Mangganti %(oldcat)s ka %(newcat)s",
+	"category-adding": "Robot: Manambahan kategori [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(juo dalam %(alsocat)s)",
+	"category-was-disbanded": "Bot: Kategori dipacah",
+	"category-replacing": "Bot: Maganti kategori %(oldcat)s jo %(newcat)s",
+	"category-removing": "Bot: Mahapuih dari %(oldcat)s",
+	"category-was-moved": "Bot: Kategori dipindahan ka [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Mamindahan dari %s. Kontributor: %s",
+	"category-section-title": "Versi tadahulu laman bekeh %(oldcat)s",
+	"category-listifying": "Bot: Mambuek dafta dari %(fromcat)s (%(num)d entri)"
+}

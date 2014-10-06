@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"featured-good": "Бот: %(page)s је добар чланак",
+	"featured-list": "Бот: %(page)s је сјајан списак",
+	"featured-featured": "Бот: %(page)s је сјајан чланак",
+	"featured-former": "Бот: %(page)s је био сјајан чланак"
+}

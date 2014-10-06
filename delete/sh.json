@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolega2357"
+		]
+	},
+	"delete-images": "Bot: obrisane sve slike na stranici %(page)s",
+	"delete-referring-pages": "Bot: obrisane sve stranice koje potiču iz %(page)s",
+	"delete-from-category": "Bot: obrisane sve stranice iz kategorije %(page)s"
+}

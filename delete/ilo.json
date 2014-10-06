@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"delete-images": "Robot: Ikikkaten amin nga imahen iti daytoy a panid %(page)s",
+	"delete-referring-pages": "Robot: Ikikkaten amin a pampanid nga agiturturong manipud idiay %(page)s",
+	"delete-from-category": "Robot: Ikikkaten amin a pampanid manipud idiay kategoria %(page)s",
+	"delete-from-file": "Robot: Agikikkat ti maysa a listaan kadagiti papeles.",
+	"delete-linked-pages": "Robot: Ikikkaten amin a pampanid a naisilpo manipud idiay %(page)s"
+}

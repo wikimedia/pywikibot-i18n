@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Fadlan gali XML ee file ka dump's",
+	"pywikibot-enter-page-processing": "Boggee ay tahay in laga shaqeeyo",
+	"pywikibot-enter-file-links-processing": "Sawirada lagu uruuriyey bogagga shaqadoodu socoto",
+	"pywikibot-enter-namespace-number": "Fadlan gali namespace ee nambarkaan:",
+	"pywikibot-enter-new-text": "Fadlan gali qoraalka cusub",
+	"pywikibot-enter-category-name": "Fadlan gali magaca qaybta",
+	"pywikibot-enter-finished-browser": "Taabo (Enter) marka uu dhamaado browserka"
+}

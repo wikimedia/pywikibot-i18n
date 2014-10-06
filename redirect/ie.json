@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renan"
+		]
+	},
+	"redirect-fix-double": "Machine: Fixant redirection duplic por %(to)s",
+	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] por un págine deletet o non-existent",
+	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] cible forma un lace de redirection"
+}

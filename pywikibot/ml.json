@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp"
+		]
+	},
+	"pywikibot-enter-xml-filename": "ദയവായി എക്സ്.എം.എൽ. ഡമ്പിന്റെ ഫയൽനേം നൽകുക:",
+	"pywikibot-enter-page-processing": "ഏത് താളാണ് ഉപയോഗിക്കേണ്ടത്?",
+	"pywikibot-enter-file-links-processing": "ഏത് പ്രമാണ താളിലേയ്ക്കുള്ള കണ്ണികളാണ് കൈകാര്യം ചെയ്യേണ്ടത്?",
+	"pywikibot-enter-namespace-number": "ദയവായി നാമമേഖല അതിന്റെ നമ്പർ ഉപയോഗിച്ച് നൽകുക:",
+	"pywikibot-enter-new-text": "ദയവായി പുതിയ എഴുത്ത് നൽകുക:",
+	"pywikibot-enter-category-name": "ദയവായി വർഗ്ഗത്തിന്റെ പേര് നൽകുക:",
+	"pywikibot-enter-finished-browser": "ബ്രൗസറിലെ പണി കഴിയുമ്പോൾ എന്റർ അമർത്തുക."
+}

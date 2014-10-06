@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Olli"
+		]
+	},
+	"table2wiki-warnings": "Käyttäjän ohjaama botti: Taulukon syntaksi päivitetty - {{PLURAL:count|1 varoitus|%(count)d varoitusta}}!",
+	"table2wiki-no-warning": "Käyttäjän ohjaama botti: Taulukon syntaksi päivitetty"
+}

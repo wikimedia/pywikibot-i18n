@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"reflinks-autogen": "tạo tự động",
+	"reflinks-comment": "Tên do bot tạo tự động",
+	"reflinks-msg": "Bot: Chuyển đổi các tham chiếu thuần dùng tên ref để tránh tham chiếu thừa; xem [[%(manual)s|câu hỏi thường gặp]]"
+}

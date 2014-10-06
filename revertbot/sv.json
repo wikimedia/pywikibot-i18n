@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil"
+		]
+	},
+	"revertbot-revert": "Bot: Återställde till version %(revid)s av %(author)s den %(timestamp)s"
+}

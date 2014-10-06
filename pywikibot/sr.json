@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Унесите назив XML исписа:",
+	"pywikibot-enter-page-processing": "Коју страницу желите да обрадите?",
+	"pywikibot-enter-file-links-processing": "За које датотеке желите да обрадите везе?",
+	"pywikibot-enter-namespace-number": "Унесите именски простор поред његовог броја:",
+	"pywikibot-enter-new-text": "Унесите нови текст:",
+	"pywikibot-enter-category-name": "Унесите назив категорије:",
+	"pywikibot-enter-finished-browser": "Притисните Enter када завршите у прегледачу."
+}

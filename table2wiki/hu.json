@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bináris"
+		]
+	},
+	"table2wiki-warnings": "Bot kézi ellenőrzéssel: táblázat szintaxisa frissítve - {{PLURAL:count|egy|%(count)d}} figyelmeztetés!",
+	"table2wiki-no-warning": "Bot kézi ellenőrzéssel: táblázat szintaxisa frissítve"
+}

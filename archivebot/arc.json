@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh",
+			"Man2fly2002"
+		]
+	},
+	"archivebot-older-than": "ܥܬܝܩ ܡܢ",
+	"archivebot-page-summary": "ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} (%(why)s) ܠ %(archives)s.",
+	"archivebot-archiveheader": "{{ܐܪܫܝܦܐ ܕܡܡܠܠܐ}}",
+	"archivebot-archive-full": "(ܐܪܫܝܦܐ ܡܠܝܐ)",
+	"archivebot-archive-summary": "ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} ܡܢ [[%(from)s]]."
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Revi"
+		]
+	},
+	"revertbot-revert": "봇: %(author)s의 %(timestamp)s 에 작성한 %(revid)s 판으로 되돌림"
+}

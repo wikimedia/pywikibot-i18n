@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Riemogerz"
+		]
+	},
+	"category_redirect-comment": "Bot pamaliharaan paalihan tumbung",
+	"category_redirect-change-category": "Bot: mangganti tumbung nang dialihakan [[:%(oldCatLink)s|%(oldCatTitle)s]] manjadi [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: manambahakan citakan pamaliharaan paalihan tumbung",
+	"category_redirect-edit-request": "Tungkaran nang dilindungi naya taditiksi mamarluakan pahanyaran gasan pranala tumbung: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s tamasuk di %(oldcat)s, nang tamasuk paalian ka %(newcat)s",
+	"category_redirect-fix-double": "Robot: Pamasangan paugahan ganda"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teslaton",
+			"Wizzard"
+		]
+	},
+	"commons-file-moved": "Súbor [[:File:%(localfile)s|File]] bol presunutý na [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Súbor je teraz k dispozícii na [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

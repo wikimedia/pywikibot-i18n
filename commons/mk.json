@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Податотеката]] е преместена на [[:commons:File:%(commonsfile)s|Ризницата]].",
+	"commons-file-now-available": "Податотеката сега е достапна на [[:commons:File:%(commonsfile)s|Ризницата]]."
+}

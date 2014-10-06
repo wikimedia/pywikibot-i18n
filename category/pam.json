@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Val2397"
+		]
+	},
+	"category-version-history": "↓Robot: Sisikap ya ing pangaliwang amlat ning dati %(oldcat)s",
+	"category-changing": "↓Robot: Alilan ya ing %(oldcat)s para maging %(newcat)s",
+	"category-adding": "↓Robot: Daragdag ne ing kategoriang [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "↓(atiu mu rin king %(alsocat)s)",
+	"category-was-disbanded": "↓Robot: Ing kategoria silbag da ne",
+	"category-replacing": "↓Robot: Ing kategoriang %(oldcat)s alilan neng %(newcat)s",
+	"category-removing": "↓Robot: Lalako ne keng %(oldcat)s",
+	"category-was-moved": "↓Robot: Ing kategoria mialis ya king [[:Category:%(newcat)s|%(title)s]]",
+	"category-section-title": "↓Bulung amlat ning sadiang %(oldcat)s",
+	"category-listifying": "↓Robot: Mitala ibat %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Izmjena malih/valikih slova:",
+	"casechecker-delete-summary": "Bot: Ovo preusmjerenje sadrži identično izgledajuća ćirilična i latinična slova u nazivu",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Ovo preusmjerenje je upućivalo prema %(target)s",
+	"casechecker-rename": "Bot: Preimenovanje slučaja sa malim/velikim slovima"
+}

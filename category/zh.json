@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Liuxinyu970226",
+			"Shizhao",
+			"Yfdyh000",
+			"阿pp"
+		]
+	},
+	"category-version-history": "机器人：保存之前%(oldcat)s的历史版本记录",
+	"category-changing": "机器人：更改%(newcat)s至%(oldcat)s",
+	"category-adding": "机器人：添加分类[[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(同样在%(alsocat)s)",
+	"category-was-disbanded": "机器人：分类已被解散",
+	"category-replacing": "机器人：变更分类%(oldcat)s为%(newcat)s",
+	"category-removing": "机器人：从%(oldcat)s中移除",
+	"category-was-moved": "机器人：移动分类至[[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "机器人：已从 %s 移动。原作者：%s",
+	"category-section-title": "之前%(oldcat)s的页面历史",
+	"category-listifying": "机器人：从%(fromcat)s提取列表(%(num)d个项目)"
+}

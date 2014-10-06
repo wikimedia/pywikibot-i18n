@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grondin",
+			"SMP"
+		]
+	},
+	"welcome-welcome": "Benvinguts!",
+	"welcome-bad_username": "Robot: afegint un nom d'usuari que ha de ser revisat",
+	"welcome-updating": "Robot: actualitzant el registre"
+}

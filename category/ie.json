@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renan"
+		]
+	},
+	"category-changing": "Machine: Alterant %(oldcat)s por %(newcat)s",
+	"category-adding": "Machine: Addint categorie [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(anc in %(alsocat)s)",
+	"category-was-disbanded": "Machine: Categorie esset separat",
+	"category-replacing": "Machine: Substituent categorie %(oldcat)s che %(newcat)s",
+	"category-removing": "Machine: Removent de %(oldcat)s",
+	"category-was-moved": "Machine: Categorie esset movet por [[:Category:%(newcat)s|%(title)s]]",
+	"category-listifying": "Machine: Listant de %(fromcat)s (%(num)d intradas)"
+}

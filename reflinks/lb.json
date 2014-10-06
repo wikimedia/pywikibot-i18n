@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"reflinks-autogen": "automatesch generéiert",
+	"reflinks-comment": "Automatesch generéierten Titel",
+	"reflinks-msg": "Bot: Verbesserung vun de Referenzen, et ginn Nimm vu Referenze benotzt fir Doublonen ze verhënneren, kuckt d'[[%(manual)s|FAQen]]"
+}

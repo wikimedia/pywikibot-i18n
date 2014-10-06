@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mucalexx"
+		]
+	},
+	"commons-file-moved": "Bot: [[:File:%(localfile)s|Daatei]] is auf [[:commons:File:%(commonsfile)s|commons]] vaschóm.",
+	"commons-file-now-available": "Daatei ist iatz auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] vafiagbor."
+}

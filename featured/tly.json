@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Гусейн"
+		]
+	},
+	"featured-good": "Робот: чокә мәғолә %(page)s",
+	"featured-list": "Робот: %(page)s выжнијә быә сијоһије",
+	"featured-featured": "Робот: выжнијә быә мәғолә %(page)s",
+	"featured-former": "Робот: %(page)s дәвәрдә выжнијә быә мәғолә"
+}

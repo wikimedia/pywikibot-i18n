@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "Bot: Modificat: %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Adjuntet: %(adding)s Modificat: %(modifying)s",
+	"interwiki-adding-removing": "Bot: Adjuntet: %(adding)s Removet: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Adjuntet: %(adding)s Removet: %(removing)s Modificat: %(modifying)s",
+	"interwiki-adding": "Bot: Adjuntet: %(adding)s",
+	"interwiki-removing": "Bot: Removet: %(removing)s",
+	"interwiki-removing-modifying": "Bot: Removet: %(removing)s Modificat: %(modifying)s",
+	"interwiki-modifying-from": "Machine: Alterant %(from)s por %(modifying)s"
+}

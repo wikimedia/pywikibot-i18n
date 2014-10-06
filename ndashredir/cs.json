@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matěj Suchánek"
+		]
+	},
+	"ndashredir-create": "Bot: Vytvářím spojovníkové přesměrování na [[%(title)s]]"
+}

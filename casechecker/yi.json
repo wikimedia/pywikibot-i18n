@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"casechecker-delete-summary": "באט: די ווײַטערפירונג אנטהאלט אידענטיש־אויסזענדיקע קירילישע און לאטיינישע אותיות אין טיטל",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "די ווייטערפירונג פלעג ווײַזן אויף %(target)s"
+}

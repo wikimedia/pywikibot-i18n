@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"archivebot-older-than": "lewih tua sekang",
+	"archivebot-page-summary": "Robot: Ngarsipna %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) nang %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARSIP KOMPLIT)",
+	"archivebot-archive-summary": "Robot: Ngarsipna %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} sekang [[%(from)s]]."
+}

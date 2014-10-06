@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"Fitoschido",
+			"Invadinado",
+			"Vivaelcelta"
+		]
+	},
+	"redirect-fix-double": "Bot: arreglo de redirección doble a %(to)s",
+	"redirect-remove-broken": "Bot: Redirige a una página borrada o que no existe",
+	"redirect-fix-broken-moved": "Bot: arreglo la redirección rota hacia la página de destino trasladada \"%(to)s\"",
+	"redirect-fix-loop": "Bot: arreglo de redirección infinita a %(to)s",
+	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: El destino de la [[Wikipedia:Redirect|redirección]] crea un bucle de redirección",
+	"redirect-broken-redirect-template": "{{destruir|1=La página a la que redirige no existe|bot=~~~~}}"
+}

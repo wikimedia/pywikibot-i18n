@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS"
+		]
+	},
+	"redirect-fix-double": "Bot: İkiqat yönləndirmənin düzəldilməsi → %(to)s",
+	"redirect-remove-broken": "Bot: Silinmiş və ya mövcud olmayan səhifəyə yönləndirmə",
+	"redirect-fix-broken-moved": "Bot: İşləməyən yönləndirilmənin yeri dəyişdirilmiş hədəf səhifəyə %(to)s düzəldilməsi",
+	"redirect-fix-loop": "Bot:  Sonsuz yönləndirilmənin %(to)s düzəldilməsi",
+	"redirect-remove-loop": "Bot: Yönləndirilmə sonsuz yönləndirilmə formalaşdırır"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njardarlogar"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fil]] flytt til [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Fila er no tilgjengeleg på [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

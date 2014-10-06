@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Euriditi",
+			"FatosMorina",
+			"Marinari"
+		]
+	},
+	"archivebot-older-than": "më e vjetër se",
+	"archivebot-page-summary": "Bot: Arkivimi i %(count)d {{PLURAL:%(count)d|temës|temave}} (%(why)s) në %(archives)s.",
+	"archivebot-archive-full": "(ARKIVA ËSHTË E MBUSHUR PLOT)",
+	"archivebot-archive-summary": "Roboti: Duke arkivuar %(count)d {{PLURAL:%(count)d|temën|temat}} nga [[%(from)s]]."
+}

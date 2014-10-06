@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alunardon90",
+			"Candalua",
+			"GatoSelvadego"
+		]
+	},
+	"category-version-history": "Robot: salvo ła cronołojia de ła preçedente %(oldcat)s",
+	"category-changing": "Robot: Canbio %(oldcat)s in %(newcat)s",
+	"category-adding": "Robot: Xonto ła categoria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(anca in %(alsocat)s)",
+	"category-was-disbanded": "Robot: La categoria xe stà scansełà",
+	"category-replacing": "Robot: Canbio %(oldcat)s co %(newcat)s",
+	"category-removing": "Robot: Cavo da %(oldcat)s",
+	"category-was-moved": "Robot: Ła categoria ła xe stà canbià co [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Spostà da %s. Autori: %s",
+	"category-section-title": "Cronołojia de ła preçedente %(oldcat)s",
+	"category-listifying": "Robot: Creo ła lista da %(fromcat)s ({{PLURAL:%(num)d|1 voxe|%(num)d voxe}})"
+}

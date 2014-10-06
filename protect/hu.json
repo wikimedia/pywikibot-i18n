@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega"
+		]
+	},
+	"protect-links": "Bot: A(z) %(page)s oldalról hivatkozott összes lap védelme",
+	"protect-simple": "Bot: Fájlok listájának védelme.",
+	"protect-category": "Bot: A(z) %(cat)s kategóriába tartozó összes lap védelme",
+	"protect-ref": "Bot: A(z) %(page)s lapról hivatkozott össze lap védelme",
+	"protect-images": "Bot: Minden kép védelme a(z) %(page)s lapon"
+}

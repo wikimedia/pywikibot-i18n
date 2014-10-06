@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"casechecker-replacement-summary": "Бот: Замени на големи/мали букви:",
+	"casechecker-delete-summary": "Бот: Пренасочувањето во насловот содржи кирилични и латинични букви со истоветен изглед",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Пренасочувањето претходно водеше кон %(target)s",
+	"casechecker-rename": "Бот: преименување со мешани големи/мали букви"
+}

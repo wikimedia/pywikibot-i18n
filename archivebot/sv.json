@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil"
+		]
+	},
+	"archivebot-older-than": "äldre än %(duration)s",
+	"archivebot-page-summary": "Bot: Arkiverar %(count)d {PLURAL:%(count)d|tråd|trådar}} (%(why)s) till %(archives)s.",
+	"archivebot-archiveheader": "{{arkiv}}",
+	"archivebot-archive-full": "(ARKIV FULLT)",
+	"archivebot-archive-summary": "Bot: Arkiverar %(count)d {{PLURAL:%(count)d|tråd|trådar}} från [[%(from)s]]."
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"DRIHEM"
+		]
+	},
+	"archivebot-older-than": "أقدم من",
+	"archivebot-page-summary": "أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} (%(why)s) إلى %(archives)s.",
+	"archivebot-archiveheader": "{{أرشيف نقاش}}",
+	"archivebot-archive-full": "(الأرشيف ممتلئ)",
+	"archivebot-archive-summary": "أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} من [[%(from)s]]."
+}

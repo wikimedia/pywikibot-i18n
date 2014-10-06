@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|파일]]을 [[:commons:File:%(commonsfile)s|공용]]으로 옮겼습니다.",
+	"commons-file-now-available": "파일은 이제 [[:commons:File:%(commonsfile)s|위키미디어 공용]]에 사용할 수 있습니다."
+}

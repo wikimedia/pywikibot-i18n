@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"category-version-history": "Bot: Kaydiyaha qaariikhda ee horay usoo baxday %(oldcat)s",
+	"category-changing": "Bot: U %(oldcat)s Badala %(newcat)s",
+	"category-adding": "Bot: Ku daris qayb [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(Sidoo kale %(alsocat)s)",
+	"category-was-disbanded": "Bot: Qaybtaan laga maarmay",
+	"category-replacing": "Bot: Qayb %(oldcat)s Lagu badalay %(newcat)s",
+	"category-removing": "Bot: Ka saaray %(oldcat)s",
+	"category-was-moved": "Bot: Qaybtaan waxaa loo badalay [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Loo soo wareejiyey %s. qoraayaasha: %s",
+	"category-section-title": "Taariikhdii boggii hore %(oldcat)s",
+	"category-listifying": "Bot: Soo muujin %(fromcat)s ({{PLURAL:%(num)d|1 galid|%(num)d entries}})"
+}

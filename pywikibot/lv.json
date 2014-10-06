@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"pywikibot-enter-page-processing": "Kura lapa būtu jāapstrādā?",
+	"pywikibot-enter-file-links-processing": "Saites uz kuru faila lapu būtu jāapstrādā?",
+	"pywikibot-enter-namespace-number": "Lūdzu, ievadiet vārdtelpu pēc tās numura:",
+	"pywikibot-enter-new-text": "Lūdzu, ievadiet jaunu tekstu:",
+	"pywikibot-enter-category-name": "Lūdzu, ievadiet kategorijas nosaukumu:"
+}

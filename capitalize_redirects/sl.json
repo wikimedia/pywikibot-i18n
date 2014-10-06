@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Ustvari preusmeritev na [[%(to)s]]"
+}

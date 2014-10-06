@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: deurverwiezing emaakt naor [[%(to)s]]"
+}

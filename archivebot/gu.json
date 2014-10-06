@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"KartikMistry"
+		]
+	},
+	"archivebot-older-than": "%(duration)s કરતા જૂનું",
+	"archivebot-archiveheader": "{{talkarchive}}"
+}

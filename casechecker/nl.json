@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"casechecker-replacement-summary": "Robot: wijzigingen in kleine letters en hoofdletters:",
+	"casechecker-delete-summary": "Robot: deze doorverwijzing bevat identiek uitziende Cyrillische en Latijnse letters in de naam",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Deze doorverwijzing verwees naar %(target)s",
+	"casechecker-rename": "Robot: hoofdletters en kleine letters gewijzigd"
+}

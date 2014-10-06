@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"revertbot-revert": "Robòt : Revengut a la revision %(revid)s per %(author)s lo %(timestamp)s"
+}

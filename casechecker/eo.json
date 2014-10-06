@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"KuboF"
+		]
+	},
+	"casechecker-replacement-summary": "Roboto: Ŝanĝo de uskleco:",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Tiu ĉi alidirektilo direktis al %(target)s"
+}

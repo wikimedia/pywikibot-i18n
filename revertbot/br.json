@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"revertbot-revert": "Robot : Distreiñ da adwelet %(revid)s dre %(author)s d'an %(timestamp)s"
+}

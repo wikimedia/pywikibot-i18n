@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wikitanvir"
+		]
+	},
+	"interwiki-modifying": "বট পরিবর্তন করছে: %(modifying)s",
+	"interwiki-adding-modifying": "বট যোগ করছে: %(adding)s পরিবর্তন করছে: %(modifying)s",
+	"interwiki-adding-removing": "বট যোগ করছে: %(adding)s মুছে ফেলছে: %(removing)s",
+	"interwiki-adding-removing-modifying": "বট যোগ করছে: %(adding)s মুছে ফেলছে: %(removing)s পরিবর্তন করছে: %(modifying)s",
+	"interwiki-adding": "বট যোগ করছে: %(adding)s",
+	"interwiki-removing": "বট মুছে ফেলছে: %(removing)s",
+	"interwiki-removing-modifying": "বট মুছে ফেলছে: %(removing)s পরিবর্তন করছে: %(modifying)s"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"archivebot-older-than": "早於",
+	"archivebot-page-summary": "正在將%(count)d個執行緒(%(why)s)儲存至%(archives)s。",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(存檔已滿)",
+	"archivebot-archive-summary": "正在儲存%(count)d個來自[[%(from)s]]的執行緒。"
+}

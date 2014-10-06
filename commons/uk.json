@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файл]] переміщено на [[:commons:File:%(commonsfile)s|Вікісховище]].",
+	"commons-file-now-available": "Файл тепер доступний на [[:commons:File:%(commonsfile)s|Вікісховищі]]."
+}

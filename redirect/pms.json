@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt"
+		]
+	},
+	"redirect-fix-double": "Trigomiro: a coregg ridiression dobia a %(to)s",
+	"redirect-remove-broken": "Trigomiro: Ridiression a na pàgina scancelà o ch'a esist nen",
+	"redirect-fix-broken-moved": "Trigomiro: Coression ëd le ridiression nne bon-e a na pàgina ëd destinassion tramudà %(to)s",
+	"redirect-fix-loop": "Trigomiro: Coression dël sicl ëd ridiression a %(to)s",
+	"redirect-remove-loop": "Trigomiro: La destinassion ëd la ridiression a forma un sicl ëd ridiression"
+}

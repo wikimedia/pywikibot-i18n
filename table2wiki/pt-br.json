@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			555
+		]
+	},
+	"table2wiki-warnings": "Bot controlado por usuário: Sintaxe de tabela atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}!",
+	"table2wiki-no-warning": "Bot controlado por usuário: Sintaxe de tabela atualizada"
+}

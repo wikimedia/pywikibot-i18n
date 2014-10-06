@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"බිඟුවා"
+		]
+	},
+	"interwiki-modifying": "රොබෝ වෙනස් කරමින්: %(modifying)s",
+	"interwiki-adding-modifying": "රොබෝ එකතු කරමින්: %(adding)s වෙනස් කරමින්: %(modifying)s",
+	"interwiki-adding-removing": "රොබෝ එකතු කරමින්: %(adding)s ඉවත් කරමින්: %(removing)s",
+	"interwiki-adding-removing-modifying": "රොබෝ එකතු කරමින්: %(adding)s ඉවත් කරමින්: %(removing)s වෙනස් කරමින්: %(modifying)s",
+	"interwiki-adding": "රොබෝ එකතු කරමින්: %(adding)s",
+	"interwiki-removing": "රොබෝ ඉවත් කරමින්: %(removing)s",
+	"interwiki-removing-modifying": "රොබෝ ඉවත් කරමින්: %(removing)s වෙනස් කරමින්: %(modifying)s"
+}

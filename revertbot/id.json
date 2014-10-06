@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"C5st4wr6ch"
+		]
+	},
+	"revertbot-revert": "Bot: Membalikkan ke revisi %(revid)s oleh %(author)s pada %(timestamp)s"
+}

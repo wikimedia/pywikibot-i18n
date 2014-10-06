@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"JinJian"
+		]
+	},
+	"category-adding": "Robot: Gindudugngan hin kaarangay [[:Category:%(newcat)s|%(newcat)s]]"
+}

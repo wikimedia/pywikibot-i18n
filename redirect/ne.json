@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"RajeshPandey",
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"redirect-fix-double": "बोट: दोहोरो अनुप्रेषणलाई %(to)sमा ठिक गर्दै",
+	"redirect-remove-broken": "रोबोट: हुँदै नभएको पृष्ठमा या मेटिएको पृष्ठमा गरिएको रिडाइरेक्ट",
+	"redirect-fix-broken-moved": "रोबोट: टुटेको अनुप्रेषण सारिएको लक्ष्यको लागि मिलाउदै %(to)s",
+	"redirect-fix-loop": "रोबोट: अनुप्रेषण चक्र %(to)sलाई मिलाउँदै",
+	"redirect-remove-loop": "रोबोट: रिडाइरेक्ट गर्न खोजिएको पृष्ठले रिडाइरेक्ट चक्रको निर्माण गर्‌यो ।",
+	"redirect-broken-redirect-template": "{{db-r1}}"
+}

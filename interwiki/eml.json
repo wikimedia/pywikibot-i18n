@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gloria sah"
+		]
+	},
+	"interwiki-modifying": "Robot: A cambi: %(modifying)s",
+	"interwiki-adding-modifying": "Robot: A śònt %(adding)s; A cambi %(modifying)s",
+	"interwiki-adding-removing": "Robot: A śònt %(adding)s; a tir vìa: %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot: A śònt %(adding)s; a tir vìa %(removing)s; a cambi %(modifying)s",
+	"interwiki-adding": "Robot: A śònt %(adding)s",
+	"interwiki-removing": "Robot: A tir vìa %(removing)s",
+	"interwiki-removing-modifying": "Robot: A tir vìa %(removing)s; a cambi %(modifying)s",
+	"interwiki-modifying-from": "Robot: Cambiamèint da %(from)s a %(modifying)s"
+}

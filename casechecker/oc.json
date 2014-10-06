@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"casechecker-replacement-summary": "Robòt : Modificacions de cassa :",
+	"casechecker-delete-summary": "Robòt : Aquesta redireccion conten de letras semblablas en cirillic e en latin dins son títol.",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Aquesta redireccion puntava cap a %(target)s",
+	"casechecker-rename": "Robòt : renomenatge en cassa mixta"
+}

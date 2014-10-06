@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe"
+		]
+	},
+	"welcome-welcome": "Witaj!",
+	"welcome-bad_username": "Robot dodał nazwę użytkownika, która wymaga sprawdzenia",
+	"welcome-updating": "Robot zaktualizował dziennik"
+}

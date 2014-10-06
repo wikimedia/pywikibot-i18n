@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khutuck"
+		]
+	},
+	"featured-good": "Bot: %(page)s kaliteli maddedir",
+	"featured-list": "Bot: %(page)s bir [[VP:SL|seçkin listedir]]",
+	"featured-featured": "Bot değişikliği: %(page)s bir [[VP:SM|seçkin maddedir]]",
+	"featured-former": "Bot: %(page)s [[Vikipedi:Eski seçkin maddeler|eski bir seçkin maddedir]]"
+}

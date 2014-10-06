@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grondin"
+		]
+	},
+	"template-removing": "Robot: retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s",
+	"template-changing": "Robot: canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s",
+	"template-substituting": "Robot: substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s"
+}

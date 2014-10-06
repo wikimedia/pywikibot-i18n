@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Volkov"
+		]
+	},
+	"capitalize_redirects-create-redirect": "бот: создано перенаправление на [[%(to)s]]"
+}

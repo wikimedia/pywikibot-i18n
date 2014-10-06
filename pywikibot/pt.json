@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alchimista",
+			"Malafaya"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Por favor introduza o nome do ficheiro XML:",
+	"pywikibot-enter-page-processing": "Que página deve ser processada?",
+	"pywikibot-enter-file-links-processing": "Para qual página de ficheiro devem ser processados os links?",
+	"pywikibot-enter-namespace-number": "Por favor introduza um namespace pelo seu número:",
+	"pywikibot-enter-new-text": "Por favor introduza o novo texto:",
+	"pywikibot-enter-category-name": "Por favor introduza o nome da categoria:",
+	"pywikibot-enter-finished-browser": "Pressione Enter quando terminar no navegador"
+}

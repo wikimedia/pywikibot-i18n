@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"template-removing": "Robot: Tinatanggal ang {{PLURAL:%(num)d|suleras|mga suleras}}: %(list)s",
+	"template-changing": "Robot: Binabago ang {{PLURAL:%(num)d|suleras|mga suleras}}: %(list)s",
+	"template-substituting": "Robot: Ipinapalit ang {{PLURAL:%(num)d|suleras|mga suleras}}: %(list)s"
+}

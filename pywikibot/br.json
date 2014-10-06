@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Ebarzhit anv ar restr eztennañ XML, mar plij:",
+	"pywikibot-enter-page-processing": "Gant peseurt pajenn e ranker plediñ ?",
+	"pywikibot-enter-file-links-processing": "Liammoù war-zu ar bajenn a vefe mat plediñ ganti?",
+	"pywikibot-enter-namespace-number": "Ebarzhit un takad anvioù dre e niverenn",
+	"pywikibot-enter-new-text": "Ebarzhit an destenn nevez, mar plij:",
+	"pywikibot-enter-category-name": "Ebarzhit anv ar rummad, mar plij",
+	"pywikibot-enter-finished-browser": "Ebarzhit war Kas ur wech m'ho peus echuet er merdeer."
+}

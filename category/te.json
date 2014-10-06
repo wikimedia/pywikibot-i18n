@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Veeven"
+		]
+	},
+	"category-changing": "బాటు: %(oldcat)s వర్గాన్ని %(newcat)sకి మార్చింది",
+	"category-adding": "బాటు: [[:Category:%(newcat)s|%(newcat)s]] వర్గాన్ని చేర్చింది",
+	"category-also-in": "(%(alsocat)s లలో కూడా ఉంది)"
+}

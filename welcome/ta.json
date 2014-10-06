@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswn",
+			"Karthi.dr"
+		]
+	},
+	"welcome-welcome": "வருக ! வணக்கம் !",
+	"welcome-bad_username": "தானியங்கி: பயனர் பெயரைச் சேர்ப்பதை சோதிக்க வேண்டும்.",
+	"welcome-updating": "தானியங்கி: பதிவேடு புதுப்பிக்கப்படுகிறது"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Klenje"
+		]
+	},
+	"category-changing": "Robot: o cambii %(oldcat)s in %(newcat)s",
+	"category-adding": "Robot: o zonti category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(ancje in %(alsocat)s)",
+	"category-removing": "Robot: o gjavi di %(oldcat)s"
+}

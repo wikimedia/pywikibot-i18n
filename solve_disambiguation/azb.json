@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amir a57",
+			"E THP"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) گؤتورولدو",
+	"solve_disambiguation-redirect-resolved": "بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) دییش‌دیریله‌رک %(to)s حالینا گتیریلدی",
+	"solve_disambiguation-links-resolved": "بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) دییش‌دیریله‌رک %(to)s حالینا گتیریلدی",
+	"solve_disambiguation-redirect-adding-dn-template": "بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - متخصص علاقه‌سی احتیاجینا دایر ایشارئتلئندی",
+	"solve_disambiguation-adding-dn-template": "بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - متخصص علاقه‌سی احتیاجینا دایر ایشارئتلئندی",
+	"solve_disambiguation-unknown-page": "(بیلینمیر)",
+	"solve_disambiguation-links-removed": "بوت دستک‌لی معنا آیری-سئچکی‌لیگی: %(from)s - باغلانتی(لار) گؤتورولدو"
+}

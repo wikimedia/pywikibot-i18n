@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|الصورة]] تم نقلها إلى [[:commons:File:%(commonsfile)s|كومنز]].",
+	"commons-file-now-available": "الملف متوفر الآن في [[:commons:File:%(commonsfile)s|ويكيميديا كومنز]]."
+}

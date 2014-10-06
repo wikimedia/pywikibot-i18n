@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lloffiwr",
+			"Robin Owain",
+			"Xxglennxx"
+		]
+	},
+	"category-version-history": "Robot: Yn arbed pob fersiwn o hanes %(oldcat)s",
+	"category-changing": "Robot: Yn newid %(oldcat)s yn %(newcat)s",
+	"category-adding": "Robot: Yn ychwanegu [[:Category:%(newcat)s]]",
+	"category-also-in": "(hefyd yn %(alsocat)s)",
+	"category-was-disbanded": "Bot: Gwacawyd y categori",
+	"category-replacing": "Robot: Yn disodli'r categori %(oldcat)s gan y categori %(newcat)s",
+	"category-removing": "Bot: Yn ei dynnu o %(oldcat)s",
+	"category-was-moved": "Robot: Symudwyd y categori i [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Robot: Symudwyd o %s. Awduron: %s",
+	"category-section-title": "Hanes tudalen y cyn-gategori %(oldcat)s",
+	"category-listifying": "Bot: Yn rhestru cynnwys %(fromcat)s (%(num)d o gofnodion)"
+}

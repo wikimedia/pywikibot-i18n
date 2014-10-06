@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha",
+			"Xqt"
+		]
+	},
+	"delete-images": "Bot: Alle Sigge us dä Sigg %(page)s wääde fottjeschmeße.",
+	"delete-referring-pages": "Bot: Mer schmiiße alle Sigge fott, di ene Lenk op %(page)s han.",
+	"delete-from-category": "Bot: Alle Sigge us dä Saachjropp %(page)s wääde fottjeschmeße.",
+	"delete-from-file": "Bot: Ben en Leß vun Sigge fott aam schmiiße.",
+	"delete-linked-pages": "Bot: Mer schmiiße alle Sigge fott, woh %(page)s ene Lenk drop hät."
+}

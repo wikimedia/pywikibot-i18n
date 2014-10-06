@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"commons-file-moved": "Di Dattei [[:File:%(localfile)s|File]] wood op [[:commons:File:%(commonsfile)s|Wikimedia Commons]] jelaat.",
+	"commons-file-now-available": "Di Dattei litt jäz op [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

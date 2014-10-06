@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720"
+		]
+	},
+	"reflinks-autogen": "gerado automaticamente",
+	"reflinks-comment": "Título gerado pelo bot",
+	"reflinks-msg": "Bot: a converter referências vazias, usando nomes de referências para evitar duplicidade, veja [[%(manual)s|FAQ]]"
+}

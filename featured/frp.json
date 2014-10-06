@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"featured-good": "Robot : %(page)s est un bon articllo",
+	"featured-list": "Robot : %(page)s est na lista de qualitât",
+	"featured-featured": "Robot : %(page)s est un articllo de qualitât",
+	"featured-former": "Robot : %(page)s est un viely articllo de qualitât"
+}

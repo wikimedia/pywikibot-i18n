@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"revertbot-revert": "Бот: возврат к версии %(revid)s участника %(author)s от %(timestamp)s"
+}

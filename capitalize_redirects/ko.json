@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"capitalize_redirects-create-redirect": "로봇: [[%(to)s]] 문서로 넘겨주기를 만듦"
+}

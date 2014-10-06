@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"template-removing": "Bot: {{PLURAL:%(num)d|uklonjen šablon|uklonjeni šabloni}}: %(list)s",
+	"template-changing": "Bot: {{PLURAL:%(num)d|promenjen šablon|promenjeni šabloni}}: %(list)s",
+	"template-substituting": "Bot: {{PLURAL:%(num)d|zamenjen šablon|zamenjeni šabloni}}: %(list)s"
+}

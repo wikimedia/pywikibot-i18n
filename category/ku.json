@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"George Animal",
+			"Ghybu"
+		]
+	},
+	"category-changing": "Robot: Biguherîne %(oldcat)s",
+	"category-adding": "Robot:Zêdebike category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(herwiha di %(alsocat)s)",
+	"category-removing": "Bot: Ji kategoriya %(oldcat)s tê rakirin"
+}

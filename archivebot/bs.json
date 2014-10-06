@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"archivebot-older-than": "starije od",
+	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} (%(why)s) u arhivu %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARHIVA PUNA)",
+	"archivebot-archive-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} sa stranice [[%(from)s]]."
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Eleassar"
+		]
+	},
+	"delete-images": "Robot: Brisanje vseh slik na strani %(page)s",
+	"delete-referring-pages": "Robot: Brisanje vseh strani, ki se povezujejo na %(page)s",
+	"delete-from-category": "Robot: Brisanje vseh strani v kategoriji %(page)s",
+	"delete-from-file": "Robot: brisanje seznama strani.",
+	"delete-linked-pages": "Robot: Brisanje vseh strani, na katere se povezuje %(page)s"
+}

@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"DrTrigon",
+			"Minh Nguyen"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(không tìm thấy người thật sửa đổi)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s – [%(history_link)s sửa đổi cuối cùng] (%(page_size)s byte) bởi %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Bot cảnh báo: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Thảo luận mới",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – sửa đổi lần cuối cùng bởi [[User:%(user)s|%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Thông báo",
+	"thirdparty-drtrigonbot-subster-summary-mod": "thay thế các thẻ %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Thảo luận đã kết thúc",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s – mọi thảo luận đã kết thúc (ngừng theo dõi) – sửa đổi lần cuối cùng bởi [[User:%(user)s|%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Đã thêm tóm lược thảo luận: %(num)i mục",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Thảo luận đã được thay đổi",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Đã thêm tóm lược thảo luận và dọn dẹp: %(num)i mục",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Đã cập nhật tóm lược thảo luận: %(num)i mục tại “%(page)s”",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "THÔNG ĐIỆP BOT",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nThành viên và lúc giờ tính tóm lược: %(sign)s</noinclude>"
+}

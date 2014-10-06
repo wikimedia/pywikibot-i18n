@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jetlag"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。",
+	"commons-file-now-available": "[[:commons:File:%(commonsfile)s|維基共享資源]]已有邇隻檔案。"
+}

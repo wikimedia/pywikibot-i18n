@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krol111",
+			"Przemub"
+		]
+	},
+	"delete-images": "Robot wyćepoł uobrozki z zajty %(page)s",
+	"delete-referring-pages": "Robot wyćepał zajt kere linkujům do %(page)s",
+	"delete-from-category": "Robot wyciepoł zajty ze kategoryje %(page)s",
+	"delete-from-file": "Robot: Wyćepańy zajt ze listy.",
+	"delete-linked-pages": "Robot: Wyciepaniy zajt kere linkujōm z %(page)s"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Vito Genovese"
+		]
+	},
+	"redirect-fix-double": "Bot: %(to)s sayfasına yönelik çift yönlendirme düzeltiliyor",
+	"redirect-remove-broken": "Bot: Silinen ya da var olmayan sayfaya olan yönlendirme",
+	"redirect-remove-loop": "Bot: Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor",
+	"redirect-broken-redirect-template": "{{sil|y1}}"
+}

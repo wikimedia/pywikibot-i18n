@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"category-adding": "robot: minadugang kategorya [[:Category:%(newcat)s|%(newcat)s]]"
+}

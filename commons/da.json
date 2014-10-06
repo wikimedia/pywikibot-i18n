@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Peter Alberti"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fil]] flyttet til [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Filen er nu tilgængelig på [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

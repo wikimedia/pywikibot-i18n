@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"template-removing": "روبوت: إزالة {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s",
+	"template-changing": "روبوت: استبدال {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s",
+	"template-substituting": "روبوت: نسخ {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s"
+}

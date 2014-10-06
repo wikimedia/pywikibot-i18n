@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"reflinks-autogen": "generado automáticamente",
+	"reflinks-comment": "Título generado por robot",
+	"reflinks-msg": "Bot: Conversión de referencias sencillas usando nombres para evitar duplicados. Véanse [[%(manual)s|P+F]]"
+}

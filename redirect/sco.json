@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid",
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "Bot: Fixin dooble reguidal til %(to)s",
+	"redirect-remove-broken": "Robot: Reguidal til ae delytit or non-exeestent page",
+	"redirect-fix-broken-moved": "Robot: Fixin broken reguidal til muived target page %(to)s",
+	"redirect-fix-loop": "Robot: Fixin reguidal luip til %(to)s",
+	"redirect-remove-loop": "Robot: Reguidal tairget forms ae reguidal luip",
+	"redirect-broken-redirect-template": "{{delete}}"
+}

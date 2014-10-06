@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Marmase"
+		]
+	},
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"cosmetic_changes-standalone": "Robot: cosmetische wijzigingen",
+	"cosmetic_changes-append": "; cosmetische wijzigingen"
+}

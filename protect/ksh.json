@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"protect-links": "Bot: Alle Sigge schöze, op di vun %(page)s jelengk es.",
+	"protect-simple": "Bot: En Leß met Datteije schöze.",
+	"protect-category": "Bot: Alle Sigge uß dä Saachjropp %(cat)s schöze.",
+	"protect-ref": "Bot: Mer schöze alle Sigge, di ene Lenk op %(page)s han.",
+	"protect-images": "Bot: Han alle Belder op dä Sigg „%(page)s“ jeschöz."
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai"
+		]
+	},
+	"category_redirect-comment": "श्रेणी पुनर्निर्देशन रखरखाव रोबॉट",
+	"category_redirect-change-category": "रोबॉट: अनुप्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी",
+	"category_redirect-add-template": "रोबॉट: रखरखाव के लिए श्रेणी अनुप्रेषित साँचा जोड़ा गया",
+	"category_redirect-edit-request": "निम्न सुरक्षित पृष्ठ पाए गए हैं जिनमें श्रेणियों को अद्यतित करने की आवश्यकता है: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s %(oldcat)s में है, जो %(newcat)s को अनुप्रेषित है",
+	"category_redirect-fix-double": "रोबॉट: दुगना अनुप्रेषण सही किया गया"
+}

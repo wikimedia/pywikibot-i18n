@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS"
+		]
+	},
+	"category_redirect-comment": "Kateqoriya istiqamətləndirmə vəzifəli bot",
+	"category_redirect-change-category": "Bot: İstiqamətləndirən [[:%(oldCatLink)s|%(oldCatTitle)s]] kateqoriyası [[:%(newCatLink)s|%(newCatTitle)s]] ilə dəyişdirilir",
+	"category_redirect-add-template": "Bot: Xidmət üçün yönləndirən kateqoriyanın şablonunun əlavə edilməsi",
+	"category_redirect-edit-request": "Növbəti qorunan səhifələr kateqoriya istinadlarının yenilənməsini tələb edir: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(oldcat)s içində olan %(title)s, yeni %(newcat)s yönləndirilib",
+	"category_redirect-fix-double": "Bot: İkiqat istiqamətləndirilmə düzəldirilir"
+}

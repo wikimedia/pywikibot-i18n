@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh"
+		]
+	},
+	"category_redirect-comment": "पुचः पुनर्निदेश स्वइगु रोबट",
+	"category_redirect-change-category": "रोबट: पुनर्निदेशित पुचः [[:%(oldCatLink)s|%(oldCatTitle)s]]नं [[:%(newCatLink)s|%(newCatTitle)s]]य् हिलेगु",
+	"category_redirect-add-template": "रोबट: मेन्तेनेन्सया पुचः पुनर्निदेश थासा तनाच्वंगु",
+	"category_redirect-fix-double": "रोबट: निक्वःगु पुनर्निदेशयात मिलय्‌यानाच्वँगु"
+}

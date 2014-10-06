@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "mīsiniʻoku liliu: %(modifying)s",
+	"interwiki-adding-modifying": "mīsiniʻoku tānaki: %(adding)s ʻoku liliu: %(modifying)s",
+	"interwiki-adding-removing": "mīsiniʻoku tānaki: %(adding)s ʻoku toʻo: %(removing)s",
+	"interwiki-adding-removing-modifying": "mīsiniʻoku tānaki: %(adding)s ʻoku toʻo: %(removing)s ʻoku liliu: %(modifying)s",
+	"interwiki-adding": "mīsiniʻoku tānaki: %(adding)s",
+	"interwiki-removing": "mīsiniʻoku toʻo: %(removing)s",
+	"interwiki-removing-modifying": "mīsiniʻoku toʻo: %(removing)s ʻoku liliu: %(modifying)s"
+}

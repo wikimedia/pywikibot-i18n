@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boniface",
+			"Gomoko",
+			"Rastus Vernon",
+			"Ricordisamoa"
+		]
+	},
+	"archivebot-older-than": "plus ancien que %(duration)s",
+	"archivebot-page-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARCHIVE SATURÉE)",
+	"archivebot-archive-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]]."
+}

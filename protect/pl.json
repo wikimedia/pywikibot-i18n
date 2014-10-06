@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wedkarski"
+		]
+	},
+	"protect-links": "Robot: Zabezpieczanie wszystkich stron, do których linkuje %(page)s",
+	"protect-simple": "Bot: zabezpieczenie plików z listy.",
+	"protect-category": "Robot: Zabezpieczanie wszystkich stron z kategorii %(cat)s",
+	"protect-ref": "Robot: Zabezpieczanie wszystkich stron, które linkują do %(page)s",
+	"protect-images": "Robot: Zabezpieczanie wszystkich obrazów ze strony %(page)s"
+}

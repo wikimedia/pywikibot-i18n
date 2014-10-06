@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "Robot Modifie: %(modifying)s",
+	"interwiki-adding-modifying": "Robot Rajoute: %(adding)s Modifie: %(modifying)s",
+	"interwiki-adding-removing": "Robot Rajoute: %(adding)s Értire: %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot Rajoute: %(adding)s Értire: %(removing)s Modifie: %(modifying)s",
+	"interwiki-adding": "Robot Rajoute: %(adding)s",
+	"interwiki-removing": "Robot Értire: %(removing)s",
+	"interwiki-removing-modifying": "Robot Értire: %(removing)s Modifie: %(modifying)s"
+}

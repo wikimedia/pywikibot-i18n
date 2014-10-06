@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"spamremove-remove": "Supression del ligam blacklistat %(url)s"
+}

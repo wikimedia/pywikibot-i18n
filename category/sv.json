@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil",
+			"WikiPhoenix"
+		]
+	},
+	"category-version-history": "Bot: Sparar versionshistorik från tidigare %(oldcat)s",
+	"category-changing": "Bot: Ändrar %(oldcat)s till %(newcat)s",
+	"category-adding": "Bot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(också i %(alsocat)s)",
+	"category-was-disbanded": "Bot: Kategorin upplöstes",
+	"category-replacing": "Bot: Ersätter kategorin %(oldcat)s med %(newcat)s",
+	"category-removing": "Bot: Tar bort från %(oldcat)s",
+	"category-was-moved": "Bot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Flyttad från %s. Författare: %s",
+	"category-section-title": "Sidhistorik från tidigare %(oldcat)s",
+	"category-listifying": "Bot: Skapar en lista från %(fromcat)s (%(num)d)"
+}

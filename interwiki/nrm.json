@@ -1,0 +1,9 @@
+{
+	"interwiki-modifying": "robot amende: %(modifying)s",
+	"interwiki-adding-modifying": "robot ajouôte: %(adding)s amende: %(modifying)s",
+	"interwiki-adding-removing": "robot ajouôte: %(adding)s hale: %(removing)s",
+	"interwiki-adding-removing-modifying": "robot ajouôte: %(adding)s hale: %(removing)s amende: %(modifying)s",
+	"interwiki-adding": "robot ajouôte: %(adding)s",
+	"interwiki-removing": "robot hale: %(removing)s",
+	"interwiki-removing-modifying": "robot hale: %(removing)s amende: %(modifying)s"
+}

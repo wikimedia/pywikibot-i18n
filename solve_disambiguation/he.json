@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "הסרת קישור לדף פירושונים באמצעות בוט: %(from)s",
+	"solve_disambiguation-redirect-resolved": "תיקון קישור לדף פירושונים באמצעות בוט: %(from)s שונה ל%(to)s",
+	"solve_disambiguation-links-resolved": "תיקון קישור לדף פירושונים באמצעות בוט: %(from)s – שינוי הקישור(ים) ל%(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "טיפול בפירושונים בעזרת רובוט: %(from)s - סומן כדורש תשומת לב ממומחה",
+	"solve_disambiguation-adding-dn-template": "טיפול בפירושונים בעזרת רובוט: %(from)s - סומן כדורש תשומת לב ממומחה",
+	"solve_disambiguation-unknown-page": "(לא ידוע)",
+	"solve_disambiguation-links-removed": "הסרת קישור לדף פירושונים באמצעות בוט: %(from)s"
+}

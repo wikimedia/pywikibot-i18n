@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"ndashredir-create": "Bot: Crea un redirection con tracto de union verso [[%(title)s]]"
+}

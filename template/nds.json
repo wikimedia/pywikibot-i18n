@@ -1,0 +1,5 @@
+{
+	"template-removing": "Bot: {{PLURAL:%(num)d|Vörlaag|Vörlagen}} rut: %(list)s",
+	"template-changing": "Bot: {{PLURAL:%(num)d|Vörlaag|Vörlagen}} utwesselt: %(list)s",
+	"template-substituting": "Bot: {{PLURAL:%(num)d|Vörlaag|Vörlagen}} in Text övernahmen: %(list)s"
+}

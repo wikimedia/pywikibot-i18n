@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Робот: Създаване на пренасочване към [[%(to)s]]"
+}

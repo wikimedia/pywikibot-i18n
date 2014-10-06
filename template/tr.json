@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khutuck"
+		]
+	},
+	"template-removing": "Bot: Çıkarıyor: {{PLURAL:%(num)d|template|templates}}: %(list)s",
+	"template-changing": "Bot: Değiştiriyor: {{PLURAL:%(num)d|template|templates}}: %(list)s",
+	"template-substituting": "Bot: Yer değiştiriyor: {{PLURAL:%(num)d|template|templates}}: %(list)s"
+}

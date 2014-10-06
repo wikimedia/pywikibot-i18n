@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"template-removing": "Robot: verwijderen {{PLURAL:%(num)d|sjabloon|sjablonen}}: %(list)s",
+	"template-changing": "Robot: vervangen {{PLURAL:%(num)d|sjabloon|sjablonen}}: %(list)s",
+	"template-substituting": "Robot: substitueren {{PLURAL:%(num)d|sjabloon|sjablonen}}: %(list)s"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"ElangoRamanujam",
+			"Karthi.dr"
+		]
+	},
+	"archivebot-older-than": "%(duration)s முந்தையது",
+	"archivebot-archiveheader": "{{உரையாடல் காப்பகம்}}",
+	"archivebot-archive-full": "(காப்பகம் நிரம்பியுள்ளது)"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
+	"redirect-fix-double": "robotas: Taisomas dvigubas peradresavimas → %(to)s",
+	"redirect-remove-broken": "robotas: peradresavimas į ištrintą ar nesantį puslapį"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki",
+			"Glavkos"
+		]
+	},
+	"category_redirect-comment": "Κατηγορία ανακατεύθυνση συντήρησης ρομπότ",
+	"category_redirect-change-category": "Ρομπότ: αλλαγή ανακατευθυνόμενης κατηγορίας [[:%(oldCatLink)s|%(oldCatTitle)s]] σε [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Ρομπότ: προσθήκη  πρότυπου κατηγορίας ανακατεύθυνσης για συντήρηση",
+	"category_redirect-edit-request": "Οι ακόλουθες προστατευμένες σελίδες έχουν ανιχνευθεί ως χρήζουσες ενημέρωσης στις συνδέσεις κατηγορίας: %(itemlist)s",
+	"category_redirect-edit-request-item": "Το %(title)s είναι στην %(oldcat)s, η οποία είναι ανακατεύθυνση στην %(newcat)s",
+	"category_redirect-fix-double": "Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης"
+}

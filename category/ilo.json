@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"category-version-history": "Robot: Agiduldulin ti dati a pakasaritaan ti %(oldcat)s",
+	"category-changing": "Robot: Agsuksukat %(oldcat)s idiay %(newcat)s",
+	"category-adding": "Robot: Agnaynayon ti kategoria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(idiay pay %(alsocat)s)",
+	"category-was-disbanded": "Robot: Ti kategoria ket naikkat",
+	"category-replacing": "Robot: Suksukatan ti kategoria %(oldcat)s iti %(newcat)s",
+	"category-removing": "Robot: Agikikkat manipud idiay %(oldcat)s",
+	"category-was-moved": "Robot: Ti kategoria ket naiyalis idiay [[:Category:%(newcat)s|%(title)s]]",
+	"category-section-title": "Dati a pakasaritaan ti panid ti  %(oldcat)s",
+	"category-listifying": "Robot: Agilislista manipud idiay %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})"
+}

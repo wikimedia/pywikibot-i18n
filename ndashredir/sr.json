@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"ndashredir-create": "Бот: направљено преусмерење појма са цртицом на [[%(title)s]]"
+}

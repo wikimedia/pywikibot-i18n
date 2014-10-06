@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]"
+}

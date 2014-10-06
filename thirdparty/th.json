@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "โรบอต",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* ข้อความเตือนจากโรบอต: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "การอภิปรายใหม่",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "การแจ้งเตือน",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ข้อความจากโรบอต",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nข้อความสรุปสร้างขึ้นจากและ ณ เวลา: %(sign)s</noinclude>"
+}

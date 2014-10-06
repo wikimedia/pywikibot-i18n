@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khutuck"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: [[%(to)s]] sayfasına yönlendirildi"
+}

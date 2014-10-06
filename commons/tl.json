@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"commons-file-moved": "Nilipat ang [[:File:%(localfile)s|Talaksan]] papunta sa [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Makukuha na ngayon ang talaksan doon sa [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"category_redirect-change-category": "โรบอต: เปลี่ยนหมวดหมู่เปลี่ยนทางจาก [[:%(oldCatLink)s|%(oldCatTitle)s]] ไปยัง [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-edit-request-item": "* %(title)s อยู่ใน %(oldcat)s ซึ่งเปลี่ยนทางไปยัง %(newcat)s",
+	"category_redirect-fix-double": "โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"template-removing": "Robot: Înlăturat {{PLURAL:%(num)d|formatul|formatele}}: %(list)s",
+	"template-changing": "Robot: Modificat {{PLURAL:%(num)d|formatul|formatele}}: %(list)s",
+	"template-substituting": "Robot: Substituit {{PLURAL:%(num)d|formatul|formatele}}: %(list)s"
+}

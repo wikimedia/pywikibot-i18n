@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia"
+		]
+	},
+	"revertbot-revert": "Бот: Повернулися до редакції %(revid)s від %(author)s за %(timestamp)s"
+}

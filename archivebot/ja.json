@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Shirayuki",
+			"Whym"
+		]
+	},
+	"archivebot-older-than": "%(duration)s以上経過",
+	"archivebot-page-summary": "ロボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}} (%(why)s) を%(archives)sへ過去ログ化",
+	"archivebot-archiveheader": "{{Archives}}",
+	"archivebot-archive-full": "(過去ログ満杯)",
+	"archivebot-archive-summary": "ロボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}}を[[%(from)s]]より過去ログ化"
+}

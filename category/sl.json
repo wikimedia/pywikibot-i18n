@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334",
+			"Lesko987"
+		]
+	},
+	"category-version-history": "Robot: Shranjevanje zgodovine različic nekdanje %(oldcat)s",
+	"category-changing": "Robot: Spreminjanje %(oldcat)s v %(newcat)s",
+	"category-adding": "Robot: Dodajanje kategorije [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(tudi v %(alsocat)s)",
+	"category-was-disbanded": "Bot: Kategorija je bila razpuščena",
+	"category-replacing": "Robot: Zamenjava kategorije %(oldcat)s z/s %(newcat)s",
+	"category-removing": "Bot: Odstranjevanje iz %(oldcat)s",
+	"category-was-moved": "Robot: Kategorija je bila prestavljena na [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Robot: Prestavljanje z %s. Avtorji: %s",
+	"category-section-title": "Zgodovina strani nekdanje %(oldcat)s",
+	"category-listifying": "Bot: Poseznamljanje iz %(fromcat)s (%(num)d vnosov)"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Edinwiki"
+		]
+	},
+	"ndashredir-create": "Bot: Napravljeno preusmjerenje povezano sa crticom prema [[%(title)s]]"
+}

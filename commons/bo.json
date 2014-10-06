@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Phurbutsering"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|ཡིག་སྣོད། ]] གནས་སྤོས་བྱས་པ་ [[:commons:File:%(commonsfile)s|ཐུན་མོང་གི ་ཡིག་སྣོད་ཐོག།]].",
+	"commons-file-now-available": "ཡིག་ཆ་འདི་ད་ལྟ་འདིར་ཡོད། [[:commons:File:%(commonsfile)s|ཝེ་ཁི་རིག་མཛོད་མཉམ་སྤྱོད་གི་སྟེགས་བུ།]]"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"featured-good": "בוט: הדף %(page)s הוא ערך טוב",
+	"featured-list": "בוט: הדף %(page)s הוא רשימה מומלצת",
+	"featured-featured": "בוט: קישור לערך מומלץ עבור %(page)s",
+	"featured-former": "בוט: הדף %(page)s הוא ערך מומלץ לשעבר"
+}

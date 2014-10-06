@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Euriditi"
+		]
+	},
+	"commons-file-moved": "[[:Skeda:%(localfile)s|Skeda]] u zhvendos tek [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Skeda është e disponueshme në [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

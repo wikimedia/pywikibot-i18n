@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia"
+		]
+	},
+	"casechecker-replacement-summary": "Бот: Випадки заміни:",
+	"casechecker-delete-summary": "Бот: Це перенаправлення містить суміш латинських та кириличних літер у назві",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Це перенаправлення використано для вказування на %(target)s",
+	"casechecker-rename": "Бот: мішаний випадок перейменування"
+}

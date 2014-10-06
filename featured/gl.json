@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"featured-good": "Bot: \"%(page)s\" é un artigo bo",
+	"featured-list": "Bot: \"%(page)s\" é unha lista destacada",
+	"featured-featured": "Bot: \"%(page)s\" é un artigo destacado",
+	"featured-former": "Bot: \"%(page)s\" é un antigo artigo destacado"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"interwiki-modifying": "Bot: Sửa %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Thêm %(adding)s; sửa %(modifying)s",
+	"interwiki-adding-removing": "Bot: Thêm %(adding)s; dời %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Thêm %(adding)s; dời %(removing)s; sửa %(modifying)s",
+	"interwiki-adding": "Bot: Thêm %(adding)s",
+	"interwiki-removing": "Bot: Dời %(removing)s",
+	"interwiki-removing-modifying": "Bot: Dời %(removing)s; sửa %(modifying)s",
+	"interwiki-modifying-from": "Bot: Đổi %(from)s thành %(modifying)s"
+}

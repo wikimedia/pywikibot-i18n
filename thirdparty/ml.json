@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "യന്ത്രം",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "മനുഷ്യ ലേഖകനെ കണ്ടെത്താനായില്ല",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s അവസാന തിരുത്ത്] (%(page_size)s ബൈറ്റുകൾ) ചെയ്തത് - %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* യന്ത്ര മുന്നറിയിപ്പ് സന്ദേശം: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "പുതിയ സംവാദം",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - അവസാന തിരുത്ത് ചെയ്തത് [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "അറിയിപ്പുകൾ",
+	"thirdparty-drtrigonbot-subster-summary-mod": "%(tags)s ടാഗുകൾ മാറ്റിച്ചേർക്കുന്നു",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "സംവാദം അവസാനിച്ചിരിക്കുന്നു",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s എല്ലാ ചർച്ചകളും പൂർത്തിയായി (കാവൽ വീക്ഷണം അവസാനിപ്പിച്ചു) - അവസാന തിരുത്ത് നടത്തിയത് %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "സംവാദത്തിന്റെ സംഗ്രഹം ചേർത്തു: %(num)i ഉൾപ്പെടുത്തലുകൾ",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "സംവാദത്തിൽ മാറ്റമുണ്ടായി",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "സംവാദത്തിന്റെ സംഗ്രഹം വൃത്തിയാക്കി ചേർത്തു: %(num)i ഉൾപ്പെടുത്തലുകൾ",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "ചർച്ചയുടെ സംഗ്രഹം പുതുക്കി: %(page)s താളിൽ %(num)i ഉൾപ്പെടുത്തലുകൾ",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "യന്ത്രത്തിന്റെ സന്ദേശം",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\nസംഗ്രഹം വന്നതും സൃഷ്ടിക്കപ്പെട്ടതും: %(sign)s</noinclude>"
+}

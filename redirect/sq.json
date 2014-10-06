@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vinie007"
+		]
+	},
+	"redirect-fix-double": "Bot: Fixing dyfishtë përcjellëse tek %(to)s",
+	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] to a deleted or non-existent page",
+	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirect]] target forms a redirect loop"
+}

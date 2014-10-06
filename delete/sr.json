@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"delete-images": "Бот: обрисане све слике на страници %(page)s",
+	"delete-referring-pages": "Бот: обрисане све странице које потичу из %(page)s",
+	"delete-from-category": "Бот: обрисане све странице из категорије %(page)s",
+	"delete-from-file": "Бот: обрисан списак страница.",
+	"delete-linked-pages": "Бот: обрисане све странице које потичу из %(page)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Plik]] został przeniesiony do [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Plik jest teraz dostępny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Purodha"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "The message is used as an edit comment.\nDo not alter <code>%(from)s</code>.\nIt will be replaced with a page title.",
+	"solve_disambiguation-redirect-resolved": "The message is used as an edit comment.\nDo not alter <code>%(from)s</code> or <code>%(to)s</code>.\n<code>%(from)s</code> they will be replaced with a page title,\n<code>%(to)s</code> with a single link, or a list of links, respectively.",
+	"solve_disambiguation-links-resolved": "The message is used as an edit comment.\nDo not alter <code>%(from)s</code> or <code>%(to)s</code>.\n<code>%(from)s</code> they will be replaced with a page title,\n<code>%(to)s</code> with a single link, or a list of links, respectively.",
+	"solve_disambiguation-redirect-adding-dn-template": "The message is used as an edit comment.\nDo not alter <code>%(from)s</code>.\nIt will be replaced with a page title.",
+	"solve_disambiguation-adding-dn-template": "The message is used as an edit comment.\nDo not alter <code>%(from)s</code>.\nIt will be replaced with a page title.",
+	"solve_disambiguation-unknown-page": "{{Identical|Unknown}}",
+	"solve_disambiguation-links-removed": "The message is used as an edit comment.\nDo not alter <code>%(from)s</code>.\nIt will be replaced with a page title."
+}

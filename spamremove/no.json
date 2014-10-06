@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cocu"
+		]
+	},
+	"spamremove-remove": "Fjerner lenker til spamside %(url)s"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teslaton"
+		]
+	},
+	"template-removing": "Robot: Odstránenie {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s",
+	"template-changing": "Robot: Úprava {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s",
+	"template-substituting": "Robot: Náhrada {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s"
+}

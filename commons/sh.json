@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kolega2357"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Datoteka]] je premeštena u [[:commons:File:%(commonsfile)s|Wikimedijinu Ostavu]].",
+	"commons-file-now-available": "Datoteka je sada dostupna u [[:commons:File:%(commonsfile)s|Wikimedijinoj ostavi]]."
+}

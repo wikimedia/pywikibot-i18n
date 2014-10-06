@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"reflinks-autogen": "autaegenerated",
+	"reflinks-comment": "Bot generated title",
+	"reflinks-msg": "Bot: Convertin bare references, uising ref names tae avoid duplicates, see [[%(manual)s|FAQ]]"
+}

@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njsubedi",
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"category-version-history": "रोबोट:  %(oldcat)sको संस्करण इतिहास संग्रह गर्दै",
+	"category-changing": "रोबोट:%(oldcat)sलाई %(newcat)sमा परिवर्तन गर्दै",
+	"category-adding": "रोबोट: category [[:Category:%(newcat)s|%(newcat)s]] थप्दै",
+	"category-also-in": "(%(alsocat)s मा पनि)",
+	"category-was-disbanded": "बोट: श्रेणीलाई अनिषेधित गरियो",
+	"category-replacing": "रोबोट: %(oldcat)s श्रेणलाई %(newcat)sसंग साट्दै",
+	"category-removing": "रोबोट: %(oldcat)sबाट हटाउँदै",
+	"category-was-moved": "रोबोट: श्रेणीलाई  [[:Category:%(newcat)s|%(title)s]]मा सारियो",
+	"category-renamed": "रोबोट: %sबाट सारियो। लेखकहरू: %s",
+	"category-section-title": "%(oldcat)sको पृष्ठ इतिहास",
+	"category-listifying": "बोट: %(fromcat)sबाट (%(num)d entries)मा सूचीकृत गर्दै"
+}

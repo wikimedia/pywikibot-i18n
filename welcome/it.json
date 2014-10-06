@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
+	"welcome-welcome": "Benvenuto/a!",
+	"welcome-bad_username": "Bot: Aggiunto utente da controllare",
+	"welcome-updating": "Bot: Aggiorno il log"
+}

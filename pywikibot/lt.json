@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"Mantak111"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Prašome įvesti XML iškelties failo vardą:\n:",
+	"pywikibot-enter-page-processing": "Kuris puslapis turėtų būti tvarkomas?",
+	"pywikibot-enter-namespace-number": "Įvestkite vardų srities numerį:",
+	"pywikibot-enter-new-text": "Įveskite naują tekstą:",
+	"pywikibot-enter-category-name": "Įveskite kategorijos pavadinimą:",
+	"pywikibot-enter-finished-browser": "Paspauskite Enter kuomet baigsite naršyklėje."
+}

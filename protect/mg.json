@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"protect-links": "Rôbô: Manova ny pejy mirohy amin'i %(page)s",
+	"protect-simple": "Rôbô: Miaro lisi-drakitra",
+	"protect-category": "Rôbô: Miaro ny pejy rehetra ao amin'ny sokajy %(cat)s",
+	"protect-ref": "Rôbô: Miaro ny pejy rehetra manondro avy amin'ny pejy %(page)s",
+	"protect-images": "Rôbô: Miaro ny sary rehetra ao amin'ny pejy %(page)s"
+}

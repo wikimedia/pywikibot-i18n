@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esbardu"
+		]
+	},
+	"template-removing": "Robó: Desaniciando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s",
+	"template-changing": "Robó: Camudando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s",
+	"template-substituting": "Robó: Trocando {{PLURAL:%(num)d|plantía|plantíes}}: %(list)s"
+}

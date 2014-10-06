@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"weblinkchecker-archive_msg": "Spletno stran je shranil Internet Archive. Prosimo, razmislite o povezavi na ustrezno arhivirano različico: [%(URL)s].",
+	"weblinkchecker-caption": "Mrtva povezava",
+	"weblinkchecker-summary": "Robot: Poročanje o nedosegljivi zunanji povezavi",
+	"weblinkchecker-report": "Med več samodejnimi zaganjanji je bot ugotovil, da naslednja zunanja povezava ni na voljo. Prosimo, preverite, ali povezava zares ne deluje, in jo v tem primeru popravite ali odstranite."
+}

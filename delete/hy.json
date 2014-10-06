@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chaojoker"
+		]
+	},
+	"delete-images": "Ռոբոտ․ %(page) էջ[եր]ի բոլոր պատկերները ջնջվում են",
+	"delete-referring-pages": "Ռոբոտ․ %(page)s-ից հղվող բոլոր էջերը ջնջվում են",
+	"delete-from-category": "Ռոբոտ․ %(page)s կատեգորիայի բոլոր էջերը ջնջվում են",
+	"delete-from-file": "Ռոբոտ․ նիշքերի մի ցանկ է ջնջվում։",
+	"delete-linked-pages": "Ռոբոտ․ %(page)s-ից հղված բոլոր էջերը ջնջվում են"
+}

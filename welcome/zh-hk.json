@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"welcome-welcome": "歡迎！",
+	"welcome-bad_username": "機械人添加需要檢查的用戶名",
+	"welcome-updating": "機械人更新日誌"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Archivi]] tramudà a [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "L'archivi a l'é adess disponìbil dzora a [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

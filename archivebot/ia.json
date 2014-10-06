@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"archivebot-older-than": "plus vetule que",
+	"archivebot-page-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} (%(why)s) verso %(archives)s.",
+	"archivebot-archiveheader": "{{Discussion archivate}}",
+	"archivebot-archive-full": "(ARCHIVO PLEN)",
+	"archivebot-archive-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} ab [[%(from)s]]."
+}

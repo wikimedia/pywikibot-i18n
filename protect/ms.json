@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"protect-links": "Robot: Melindungi semua laman yang berpaut dari %(page)s",
+	"protect-simple": "Robot: Melindungi senarai fail.",
+	"protect-category": "Robot: Melindungi semua halaman dari kategori %(cat)s",
+	"protect-ref": "Robot: Melindungi semua laman yang dirujuk dari %(page)s",
+	"protect-images": "Robot: Melindungi semua imej pada laman %(page)s"
+}

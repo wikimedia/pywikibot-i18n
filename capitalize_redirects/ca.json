@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"SMP"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Crea una redirecció a [[%(to)s]]"
+}

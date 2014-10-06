@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"category-changing": "Waddefresser: Abdeeling vun %(oldcat)s nooch %(newcat)s geennert",
+	"category-adding": "Waddefresser: Abdeeling [[:Category:%(newcat)s|%(newcat)s]] dezu geduh",
+	"category-also-in": "(aach in %(alsocat)s)",
+	"category-was-disbanded": "Waddefresser: Abdeeling iss verwischt warre",
+	"category-replacing": "Waddefresser: Abdeeling von %(oldcat)s nooch %(newcat)s geennert",
+	"category-removing": "Waddefresser: Aus %(oldcat)s raus gnumme",
+	"category-was-moved": "Waddefresser: Abdeeling iss gezoge warre nooch [[:Category:%(newcat)s|%(title)s]]",
+	"category-listifying": "Waddefresser: Lischt vun %(fromcat)s (%(num)d Eitraeg)"
+}

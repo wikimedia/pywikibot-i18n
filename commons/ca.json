@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"SMP"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fitxer]] traslladat a [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "El fitxer ja es troba disponible a [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

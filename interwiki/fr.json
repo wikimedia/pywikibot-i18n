@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boniface",
+			"Od1n",
+			"Romainhk"
+		]
+	},
+	"interwiki-modifying": "robot Modifie %(modifying)s",
+	"interwiki-adding-modifying": "Robot : Ajoute %(adding)s, Modifie %(modifying)s",
+	"interwiki-adding-removing": "Robot : Ajoute %(adding)s ; retire %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot : Ajoute %(adding)s ; Retire %(removing)s ; Modifie %(modifying)s",
+	"interwiki-adding": "robot Ajoute : %(adding)s",
+	"interwiki-removing": "robot Retire : %(removing)s",
+	"interwiki-removing-modifying": "robot Retire : %(removing)s Modifie : %(modifying)s",
+	"interwiki-modifying-from": "Robot : modification de %(from)s à %(modifying)s"
+}

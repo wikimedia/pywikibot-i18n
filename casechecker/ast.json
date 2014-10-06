@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"casechecker-replacement-summary": "Robó: Sustitución de mayúscules/minúscules:",
+	"casechecker-delete-summary": "Robó: Esta redireición contién nel títulu caráuteres cirílicos y llatinos col mesmu aspeutu",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Esta redireición antes apuntaba a \"%(target)s\"",
+	"casechecker-rename": "Robó: renomáu l'entemecíu de mayúscules/minúscules"
+}

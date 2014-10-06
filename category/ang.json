@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gott wisst"
+		]
+	},
+	"category-adding": "Robot: ēcung category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-was-moved": "Searuþrǣl: Flocc ƿæs ƿeȝed tō [[:Category:%(newcat)s|%(title)s]]"
+}

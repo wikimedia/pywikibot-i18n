@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abshirdheere"
+		]
+	},
+	"archivebot-older-than": "Aad uga duqsan",
+	"archivebot-page-summary": "Bot: Kaydin %(count)d {{PLURAL:%(count)d|qodob|qodobo}} (%(why)s) ee ku %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(KAYD BUUXA)",
+	"archivebot-archive-summary": "Bot: Kaydin %(count)d {{PLURAL:%(count)d|qodob|qodobo}} ee ka [[%(from)s]]."
+}

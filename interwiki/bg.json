@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "Робот Промяна: %(modifying)s",
+	"interwiki-adding-modifying": "Робот Добавяне: %(adding)s Промяна: %(modifying)s",
+	"interwiki-adding-removing": "Робот Добавяне: %(adding)s Изтриване: %(removing)s",
+	"interwiki-adding-removing-modifying": "Робот Добавяне: %(adding)s Изтриване: %(removing)s Промяна: %(modifying)s",
+	"interwiki-adding": "Робот Добавяне: %(adding)s",
+	"interwiki-removing": "Робот Изтриване: %(removing)s",
+	"interwiki-removing-modifying": "Робот Изтриване: %(removing)s Промяна: %(modifying)s",
+	"interwiki-modifying-from": "Робот: Променяне от %(from)s на %(modifying)s"
+}

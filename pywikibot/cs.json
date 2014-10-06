@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Leanes",
+			"Matěj Suchánek",
+			"Tchoř"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Zadejte jméno souboru s XML dumpem:",
+	"pywikibot-enter-page-processing": "Která stránka má být zpracována?",
+	"pywikibot-enter-file-links-processing": "Odkazy na kterou stránku se souborem mají být zpracovány?",
+	"pywikibot-enter-namespace-number": "Prosím, zadejte číslo jmenného prostoru:",
+	"pywikibot-enter-new-text": "Prosím zadejte nový text:",
+	"pywikibot-enter-category-name": "Prosím, zadejte jméno kategorie:",
+	"pywikibot-enter-finished-browser": "Po ukončení práce v prohlížeči zmáčněte Enter."
+}

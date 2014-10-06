@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca"
+		]
+	},
+	"makecat-create": "Robot: creació o actualització de la categoria [[:Category:%(cat)s|]]"
+}

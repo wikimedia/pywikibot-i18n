@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"welcome-welcome": "Velkomin!",
+	"welcome-bad_username": "Vélmenni: Bæti við notendanafni sem þarf að athuga",
+	"welcome-updating": "Vélmenni: Uppfæri aðgerðarskrá"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"StefanusRA"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] dipindahna maring [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Berkas kiye sekiye wis disediakna nang [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

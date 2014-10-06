@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Fanitsiana rohy mankany amin'ny fihodinana %(from)s - rohy voala",
+	"solve_disambiguation-redirect-resolved": "Fanitsiana rohy mankany amin'ny fihodinana : %(from)s - Fanovana rohy ho an'i %(to)s",
+	"solve_disambiguation-links-resolved": "Iditra mitovy anarana voavaha olana tamin'ny alalan'ny rôbô : %(from)s fanovana ny rohy ho an'i %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Fitovizana anarana voavahaolana tamin'ny alàlan'ny rôbô : %(from)s - mila fitandreman'ny mpahay.",
+	"solve_disambiguation-adding-dn-template": "Iditra mitovy anarana voavaha olana tamin'ny alalan'ny rôbô : %(from)s - voamarika ho mila fampitandreman'olomahay",
+	"solve_disambiguation-unknown-page": "(tsy fantatra)",
+	"solve_disambiguation-links-removed": "Iditra mitovy anarana voavaha olana tamin'ny alalan'ny rôbô %(from)s - fanalana ny rohy"
+}

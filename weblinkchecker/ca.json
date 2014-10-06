@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anskar",
+			"Pitort"
+		]
+	},
+	"weblinkchecker-archive_msg": "S'ha desat la pàgina web per Internet Arxive. Si us plau, considereu unir-vos a una versió arxivada apropiada: [%(URL)s].",
+	"weblinkchecker-caption": "Enllaç trencat",
+	"weblinkchecker-summary": "Robot: Informant d'un enllaç extern inaccessible",
+	"weblinkchecker-report": "Durant diverses execucions automàtiques, el bot ha comprovat que el següent enllaç extern no està disponible. Comproveu que l'enllaç estigui realment trencat i corregiu-lo o retireu-lo.!"
+}

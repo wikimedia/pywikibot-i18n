@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണികൾ നീക്കം ചെയ്തിരിക്കുന്നു",
+	"solve_disambiguation-redirect-resolved": "യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണികൾ %(to)s എന്നതിലേക്ക് മാറ്റി",
+	"solve_disambiguation-links-resolved": "യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണികൾ %(to)s എന്നതിലേക്ക് മാറ്റി",
+	"solve_disambiguation-redirect-adding-dn-template": "യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - വിദഗ്ദ്ധ ശ്രദ്ധ ആവശ്യമുണ്ടെന്ന് അടയാളപ്പെടുത്തി",
+	"solve_disambiguation-adding-dn-template": "യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - വിദഗ്ദ്ധ ശ്രദ്ധ ആവശ്യമുണ്ടെന്ന് അടയാളപ്പെടുത്തി",
+	"solve_disambiguation-unknown-page": "(അപരിചിതം)",
+	"solve_disambiguation-links-removed": "യന്ത്ര-സഹായത്തോടെയുള്ള വിവക്ഷാപരിപാലനം: %(from)s - കണ്ണി(കൾ) നീക്കം ചെയ്തു."
+}

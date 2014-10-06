@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"protect-links": "روبوت - حماية كل الصفحات الموصولة من %(page)s",
+	"protect-simple": "روبوت: حماية قائمة من الملفات.",
+	"protect-category": "روبوت - حماية كل الصفحات من التصنيف %(cat)s",
+	"protect-ref": "روبوت - حماية كل الصفحات الراجعة من %(page)s",
+	"protect-images": "روبوت - حماية كل الصور في الصفحة %(page)s"
+}

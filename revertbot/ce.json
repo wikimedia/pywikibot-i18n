@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"revertbot-revert": "Бот: декъашхочун %(author)s верси юха ялор %(revid)s %(timestamp)s"
+}

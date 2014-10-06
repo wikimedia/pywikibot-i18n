@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Lokal Profil"
+		]
+	},
+	"featured-good": "Bot: %(page)s är en läsvärd artikel",
+	"featured-list": "Bot: %(page)s är en utmärkt lista",
+	"featured-featured": "Bot: %(page)s är en utmärkt artikel",
+	"featured-former": "Bot: %(page)s är en före detta utmärkt artikel"
+}

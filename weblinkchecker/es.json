@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Vivaelcelta"
+		]
+	},
+	"weblinkchecker-archive_msg": "Internet Archive guardó tu página web. Por favor, considera enlazar hacia una versión archivada apropiada: [%(URL)s].",
+	"weblinkchecker-caption": "Enlace roto",
+	"weblinkchecker-summary": "Bot: Señalo un enlace externo no disponible",
+	"weblinkchecker-report": "Durante varias ejecuciones automáticas, el bot constató que el siguiente enlace externo no está disponible. ¡Comprueba si el enlace está efectivamente caído y corrígelo o retíralo!"
+}

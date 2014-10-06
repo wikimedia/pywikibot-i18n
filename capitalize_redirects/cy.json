@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pwyll"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Robot: Creu ailgyfeiriad i [[%(to)s]]"
+}

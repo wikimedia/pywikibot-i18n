@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"interwiki-modifying": "робот тӧрлен: %(modifying)s",
+	"interwiki-adding-modifying": "робот ешарен: %(adding)s тӧрлен: %(modifying)s",
+	"interwiki-adding-removing": "робот ешарен: %(adding)s кораҥден: %(removing)s",
+	"interwiki-adding-removing-modifying": "робот ешарен: %(adding)s кораҥден: %(removing)s тӧрлен: %(modifying)s",
+	"interwiki-adding": "робот ешарен: %(adding)s",
+	"interwiki-removing": "робот кораҥден: %(removing)s",
+	"interwiki-removing-modifying": "робот кораҥден: %(removing)s тӧрлен: %(modifying)s"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"spamremove-remove": "Удаление ссылки на спамерский сайт %(url)s"
+}

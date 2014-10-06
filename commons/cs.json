@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kuvaly",
+			"Spiffyk"
+		]
+	},
+	"commons-file-moved": "Soubor [[:File:%(localfile)s|File]] byl přesunut na [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Soubor je nyní dostupný na [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

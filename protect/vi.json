@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"protect-links": "Bot: Khóa tất cả các trang được liên kết từ %(page)s",
+	"protect-simple": "Bot: Khóa một danh sách trang",
+	"protect-category": "Bot: Khóa tất cả các trang trong thể loại “%(cat)s”",
+	"protect-ref": "Bot: Khóa tất cả các trang có liên kết đến “%(page)s”",
+	"protect-images": "Bot: Khóa tất cả các hình ảnh trên trang “%(page)s”"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teslaton"
+		]
+	},
+	"table2wiki-warnings": "Používateľom riadený robot: Syntax tabuľky zmenená – {{PLURAL:count|1 varovanie|%(count)d varovania|%(count)d varovaní}}!",
+	"table2wiki-no-warning": "Používateľom riadený robot: Syntax tabuľky zmenená"
+}

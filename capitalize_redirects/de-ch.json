@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eruedin"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Bot: Weiterleitung angelegt auf [[%(to)s]]"
+}

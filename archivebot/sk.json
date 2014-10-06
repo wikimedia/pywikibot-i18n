@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teslaton",
+			"Wizzard"
+		]
+	},
+	"archivebot-older-than": "staršie ako",
+	"archivebot-page-summary": "Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} (%(why)s) do %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARCHÍV JE PLNÝ)",
+	"archivebot-archive-summary": "Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} z [[%(from)s]]."
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ukabia"
+		]
+	},
+	"category-also-in": "(dikwa na%(alsocat)s)",
+	"category-was-disbanded": "Bot: Gbásàrà ébéanọ",
+	"category-removing": "Bot: Ne wéfu fuọ %(oldcat)s"
+}

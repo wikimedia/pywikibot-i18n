@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"delete-images": "Robot: Șters toate imaginile de pe pagina %(page)s",
+	"delete-referring-pages": "Robot: Șters toate paginile referindu-se la %(page)s",
+	"delete-from-category": "Robot: Șters toate paginile din categoria %(page)s",
+	"delete-from-file": "Robot: Șters o listă de pagină.",
+	"delete-linked-pages": "Robot: Șters toate paginile care se leagă de %(page)s"
+}

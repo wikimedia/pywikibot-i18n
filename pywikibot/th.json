@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nullzero"
+		]
+	},
+	"pywikibot-enter-page-processing": "หน้าไหนที่จะประมวลผล",
+	"pywikibot-enter-namespace-number": "กรุณาใส่หมายเลขของเนมสเปซ:",
+	"pywikibot-enter-new-text": "กรุณาใส่ข้อความใหม่:",
+	"pywikibot-enter-category-name": "กรุณาใส่ชื่อหมวดหมู่:",
+	"pywikibot-enter-finished-browser": "กด Enter เมื่อทำงานในเบราว์เซอร์เรียบร้อยแล้ว"
+}

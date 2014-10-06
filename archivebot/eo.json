@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Airon90"
+		]
+	},
+	"archivebot-older-than": "plimalnova ol",
+	"archivebot-page-summary": "Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.",
+	"archivebot-archiveheader": "{{Arkivo de diskutoj}}",
+	"archivebot-archive-full": "(plena arkivo)",
+	"archivebot-archive-summary": "Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} de [[%(from)s]]."
+}

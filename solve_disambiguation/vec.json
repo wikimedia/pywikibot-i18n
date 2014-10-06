@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alunardon90",
+			"GatoSelvadego"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Dixanbiguasion automatega:: %(from)s - Cołegamenti rimosi",
+	"solve_disambiguation-redirect-resolved": "Dixanbiguasion automatega: %(from)s - Inversion rindirisamento/i verso %(to)s",
+	"solve_disambiguation-links-resolved": "Dixanbiguasion automatega: %(from)s - Inversion de rindirisamento/i verso %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Dixanbiguasion automatega: %(from)s -  Ga da esare controłà da esperti",
+	"solve_disambiguation-adding-dn-template": "Dixanbiguasion automatega: %(from)s -  Ga da esare controłà da esperti",
+	"solve_disambiguation-unknown-page": "(sconosuo)",
+	"solve_disambiguation-links-removed": "Dixanbiguasion automatega: %(from)s - Cołegamenti rimosi"
+}

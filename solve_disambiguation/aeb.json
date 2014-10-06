@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csisc"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات",
+	"solve_disambiguation-redirect-resolved": "توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s",
+	"solve_disambiguation-links-resolved": "توضيح بمساعدة روبوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير",
+	"solve_disambiguation-adding-dn-template": "توضيح بمساعدة روبوت: %(from)s - التعليم كمحتاجة لانتباه خبير",
+	"solve_disambiguation-unknown-page": "(غير معروف)",
+	"solve_disambiguation-links-removed": "توضيح بمساعدة روبوت: %(from)s - أزال الوصلة أو الوصلات."
+}

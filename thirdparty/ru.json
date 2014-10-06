@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"DrTrigon",
+			"Express2000",
+			"Rubin16",
+			"Volkov"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(участники-редакторы не найдены)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s последняя правка] (%(page_size)s байт) участником %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Предупреждение робота: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Новое обсуждение",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - последняя правка участника [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Уведомление",
+	"thirdparty-drtrigonbot-subster-summary-mod": "заменяются теги %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Обсуждение закрыто",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s все обсуждения закончены (наблюдение окончено) - последняя правка участника %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Резюме обсуждения добавлено: %(num)i записей",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Обсуждение изменилось",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Добавлен итог и скорректировано обсуждение: %(num)i записей",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Резюме обсуждения обновлено: %(num)i записей на %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "СООБЩЕНИЕ РОБОТА",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nРезюме составлено: %(sign)s</noinclude>"
+}

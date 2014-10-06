@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"category-version-history": "Robot: Salveguarda le historia de versiones del ancian %(oldcat)s",
+	"category-changing": "Robot: Cambia %(oldcat)s a %(newcat)s",
+	"category-adding": "Robot: Addition del categoria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(equalmente in %(alsocat)s)",
+	"category-was-disbanded": "Robot: Le categoria ha essite dissolvite",
+	"category-replacing": "Robot: Reimplacia categoria %(oldcat)s per %(newcat)s",
+	"category-removing": "Robot: Removite de %(oldcat)s",
+	"category-was-moved": "Robot: Categoria renominate a [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Robot: Transferite de %s. Autores: %s",
+	"category-section-title": "Historia del pagina del ancian %(oldcat)s",
+	"category-listifying": "Robot: Face lista de articulos in %(fromcat)s ({{PLURAL:%(num)d|1 entrata|%(num)d entratas}})"
+}

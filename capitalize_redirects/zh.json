@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mys 721tx"
+		]
+	},
+	"capitalize_redirects-create-redirect": "机器人：创建至[[%(to)s]]的重定向"
+}

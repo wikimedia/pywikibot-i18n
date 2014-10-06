@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kebap",
+			"The Evil IP address"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Bot-unterstützte Weiterleitungsauflösung: %(from)s - Link(s) entfernt",
+	"solve_disambiguation-redirect-resolved": "Bot-unterstützte Weiterleitungsauflösung: %(from)s - Link(s) ersetzt durch %(to)s",
+	"solve_disambiguation-links-resolved": "Bot-unterstützte Begriffsklärung: %(from)s - Link(s) ersetzt durch %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot-unterstützte Begriffsklärung: %(from)s - markiert, benötigt kundige Wartung",
+	"solve_disambiguation-adding-dn-template": "Bot-unterstützte Begriffsklärung: %(from)s - markiert, benötigt kundige Wartung",
+	"solve_disambiguation-unknown-page": "(unbekannt)",
+	"solve_disambiguation-links-removed": "Bot-unterstützte Begriffsklärung: %(from)s - Link(s) entfernt"
+}

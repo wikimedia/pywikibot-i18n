@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"DrTrigon",
+			"Fulup",
+			"Y-M D"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(n'eus bet kavet aozer denel ebet)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s kemm diwezhañ] (%(page_size)s okted) gant %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Kemenn diwall a-berzh ar robot : %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Kaozeadenn nevez",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - kemm diwezhañ gant [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Kemennadenn",
+	"thirdparty-drtrigonbot-subster-summary-mod": "Oc'h erlec'hiañ an tikedennoù %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Serr eo ar gaoz",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s kloz eo an holl gaozeadennoù (paouezet da evezhiañ) - kemmet da ziwezhañ gant %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Bomm diverrañ ar gaoz ouzhpennet : %(num)i moned",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Kaozeadenn kemmet",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Bomm diverrañ ar gaoz ouzhpennet gant un taol naetaat : %(num)i moned",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Hizivaet bomm diverrañ ar gaoz : %(num)i moned e %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "KEMENNADENN ROBOT",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nBomm diverrañ ganet adalek ha da : %(sign)s</noinclude>"
+}

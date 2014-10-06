@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"SMP",
+			"Vriullop"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(no s'ha trobat cap editor humà)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s; [%(history_link)s darrera modificació] (%(page_size)s octets) per %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Missatge d'advertiment de robot: %(page)s «%(warning)s»",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nova discussió",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span>; darrera modificació per [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notificació",
+	"thirdparty-drtrigonbot-subster-summary-mod": "substituint etiqueta/es %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussió tancada",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s les discussions han acabat (vigilància aturada). Darrera modificació per %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Afegit resum de discussió: %(num)i entrades",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussió alterada",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Resum de discussió afegit amb neteja: %(num)i entrades",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Actualitzat resum de discussió:  %(num)i entrades a %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MISSATGE DE ROBOT",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nResum generat des de: %(sign)s</noinclude>"
+}

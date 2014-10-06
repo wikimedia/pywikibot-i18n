@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alunardon90",
+			"GatoSelvadego"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] spostà so [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Sto file deso te ło cati so [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

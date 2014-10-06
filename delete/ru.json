@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras",
+			"Volkov"
+		]
+	},
+	"delete-images": "бот: удаление всех изображений на странице %(page)s",
+	"delete-referring-pages": "бот: удаление всех страниц, относящихся к %(page)s",
+	"delete-from-category": "бот: удаление всех страниц из категории %(page)s",
+	"delete-from-file": "бот: удаление списка страниц",
+	"delete-linked-pages": "бот: удаление всех страниц, связанных с %(page)s"
+}

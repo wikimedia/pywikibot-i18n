@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Farras"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(tidak ada penyunting manusia yang ditemukan)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s suntingan terakhir] (%(page_size)s bita) oleh %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Pesan peringatan robot: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Diskusi Baru",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - suntingan terakhir oleh [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Pemberitahuan",
+	"thirdparty-drtrigonbot-subster-summary-mod": "mengganti %(tags)s tag(s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskusi ditutup",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s semua diskusi telah ditutup (pemantauan dihentikan) - suntingan terakhir oleh %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Ringkasan diskusi ditambahkan: %(num)i entri",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Diskusi berubah",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Ringkasan diskusi ditambahkan dengan pembersihan: %(num)i entri",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Ringkasan diskusi dimutakhirkan: %(num)i entri di %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "PESAN ROBOT",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nRingkasan diperoleh dari dan di: %(sign)s</noinclude>"
+}

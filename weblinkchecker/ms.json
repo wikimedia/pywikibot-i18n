@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"weblinkchecker-archive_msg": "Halaman sesawang ini telah disimpan oleh Internet Archive. Sila pertimbangkan untuk membuat pautan ke versi arkib yang sewajarnya: [%(URL)s].",
+	"weblinkchecker-caption": "Pautan mati",
+	"weblinkchecker-summary": "Robot: Melaporkan pautan luar yang tidak berkesan",
+	"weblinkchecker-report": "Ketika beberapa jalanan bot automatik, pautan luar yang berikut didapati tidak berkesan. Sila semak sama ada halaman sesawang yang dipauti itu sebenarnya ditutup, dan jika begitu, betulkan atau buang pautan itu."
+}

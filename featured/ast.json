@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esbardu"
+		]
+	},
+	"featured-good": "Robó: %(page)s ye un artículu bonu",
+	"featured-list": "Robó: %(page)s ye una llista destacada",
+	"featured-featured": "Robó: %(page)s ye un artículu destacáu",
+	"featured-former": "Robó: %(page)s ye un artículu destacáu anterior"
+}

@@ -1,0 +1,10 @@
+{
+	"interwiki-modifying": "Bot: következő módosítása: %(modifying)s",
+	"interwiki-adding-modifying": "Bot: következő hozzáadása: %(adding)s következő módosítása: %(modifying)s",
+	"interwiki-adding-removing": "Bot: következő hozzáadása: %(adding)s következő eltávolítása: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: következő hozzáadása: %(adding)s következő eltávolítása: %(removing)s következő módosítása: %(modifying)s",
+	"interwiki-adding": "Bot: következő hozzáadása: %(adding)s",
+	"interwiki-removing": "Bot: következő eltávolítása: %(removing)s",
+	"interwiki-removing-modifying": "Bot: következő eltávolítása: %(removing)s következő módosítása: %(modifying)s",
+	"interwiki-modifying-from": "Bot: %(from)s cseréje a következőre: %(modifying)s"
+}

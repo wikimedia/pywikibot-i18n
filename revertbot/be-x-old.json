@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"revertbot-revert": "Робат: вяртаньне да вэрсіі %(revid)s аўтарства %(author)s за %(timestamp)s"
+}

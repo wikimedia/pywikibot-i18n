@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan"
+		]
+	},
+	"commons-file-moved": "[[:Dosya:%(localfile)s|Dosya]], berd site da [[:commons:File:%(commonsfile)s|commons]]i.",
+	"commons-file-now-available": "Ena dosya henda proce de[[:commons:File:%(commonsfile)s|Wikimedia Commons]] zeredeya."
+}

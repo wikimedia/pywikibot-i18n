@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Merlissimo",
+			"Purodha",
+			"Xqt"
+		]
+	},
+	"category-version-history": "Bot: De ällder Version von de fröjere %(oldcat)s faßjehallde.",
+	"category-changing": "Bot: %(oldcat)s ußjewääßelt jääje %(newcat)s",
+	"category-adding": "Bot: Saachjropp [[:Category:%(newcat)s|%(newcat)s]] erinjedonn",
+	"category-also-in": "(och en dä %(alsocat)s)",
+	"category-was-disbanded": "Bot: de Saachjropp is nu opjelööß",
+	"category-replacing": "Bot: [[%(oldcat)s]] jääje [[%(newcat)s]] ußjetuusch.",
+	"category-removing": "Bot: uß de %(oldcat)s ußjedraare",
+	"category-was-moved": "Bot: Saachjropp noh [[:Category:%(newcat)s|%(title)s]] jeschovve",
+	"category-renamed": "Bot: hääjeholldt von %s. Schriiver: %s",
+	"category-section-title": "De ällder Version von de fröjere %(oldcat)s",
+	"category-listifying": "Bot: Leß vun dä %(fromcat)s (%(num)d Enndrääsch)"
+}

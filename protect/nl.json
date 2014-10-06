@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"protect-links": "Robot: alle pagina's met verwijzingen vanaf %(page)s beveiligd",
+	"protect-simple": "Robot: lijst met bestanden beveiligd",
+	"protect-category": "Robot: alle pagina's uit categorie %(cat)s beveiligd",
+	"protect-ref": "Robot: alle pagina's met een verwijzing op %(page)s beveiligd",
+	"protect-images": "Robot: alle bestanden gebruikt op %(page)s beveiligd"
+}

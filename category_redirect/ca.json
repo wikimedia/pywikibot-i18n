@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"SMP"
+		]
+	},
+	"category_redirect-comment": "Bot de manteniment de categories redirigides",
+	"category_redirect-change-category": "Robot: canvi de categoria redirigida: [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: afegint plantilla de redirecció de categories per manteniment",
+	"category_redirect-edit-request": "S'ha detectat que les següents pàgines protegides necessiten actualitzar les categories: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s està a %(oldcat)s, que és una redirecció a %(newcat)s",
+	"category_redirect-fix-double": "Bot: arreglant redirecció doble"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"makecat-create": "Bot: Creación o anovamientu de la categoría [[:Category:%(cat)s|]]"
+}

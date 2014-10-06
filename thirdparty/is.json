@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "vélmenni",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(enginn mannlegur notandi fannst)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": ";  %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: [%(history_link)s síðustu breytingu] (%(page_size)s bæti) undir %(page sections)s eftir %(user)s (%(time)s).",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": "Vélmenni: Sendi viðvörunarskilaboðin \"''%(warning)s''\" á %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Ný umræða",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: síðustu breytingu eftir [[User:%(user)s]] (%(time)s) á  <span class=\"plainlinks\">[%(page_link)s %(page)s]</span>",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Tilkynning",
+	"thirdparty-drtrigonbot-subster-summary-mod": "skipti út %(tags)s tögum",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Loka umræðu",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: Umræðu á %(page)s er lokið. Síðasta breyting var eftir %(user)s (%(time)s).",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Yfirliti umræðu bætt við: %(num)i færslur",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Umræðu breytt",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Yfirliti umræðu bætt við með fjarlægingu %(num)i færslna",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Yfirlit umræðu uppfært: %(num)i færslur á %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "Skilaboð vélmennis",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSkilaboð búin til frá: %(sign)s</noinclude>"
+}

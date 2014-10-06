@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"A1",
+			"Dim Grits"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(людини-редактора не знайдено)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s остання правка] (%(page_size)s байт) користувачем %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Попередження бота: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Нове обговорення",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - остання правка користувача [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Сповіщення",
+	"thirdparty-drtrigonbot-subster-summary-mod": "здійснюється зміна тегів %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Обговорення закрито",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s усі обговорення завершено (спостереження завершено) - остання правка коритсувача %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "До резюме обговорення додано: %(num)i записів",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Обговорення зазнало нових змін",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "До резюме обговорення додано і підчищено: %(num)i записів",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Резюме обговорення оновлено: %(num)i записів на %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOT MESSAGE",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nРезюме складене: %(sign)s</noinclude>"
+}

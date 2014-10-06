@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Викиней"
+		]
+	},
+	"featured-good": "Бот: %(page)s жакшы макала",
+	"featured-list": "Бот: %(page)s тандалган тизмек",
+	"featured-featured": "Бот: %(page)s тандалган макала"
+}

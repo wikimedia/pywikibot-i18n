@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn"
+		]
+	},
+	"pagefromfile-msg_bottom": "fäst längst ned",
+	"pagefromfile-msg_force": "befintlig text överskriven",
+	"pagefromfile-msg_top": "fäst längst upp",
+	"pagefromfile-msg": "Bot: Automatiserad import av artiklar"
+}

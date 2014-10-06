@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"template-removing": "ロボットによる: {{PLURAL:%(num)d|テンプレート}}の除去: %(list)s",
+	"template-changing": "ロボットによる: {{PLURAL:%(num)d|テンプレート}}の変更: %(list)s",
+	"template-substituting": "ロボットによる: {{PLURAL:%(num)d|テンプレート}}の展開: %(list)s"
+}

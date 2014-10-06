@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Romainhk"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fichier]] déplacé sur [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Le fichier est maintenant disponible sur [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

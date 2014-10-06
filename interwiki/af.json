@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"interwiki-modifying": "robot Verander: %(modifying)s",
+	"interwiki-adding-modifying": "robot Bygevoeg: %(adding)s Verander: %(modifying)s",
+	"interwiki-adding-removing": "robot Bygevoeg: %(adding)s Verwyder: %(removing)s",
+	"interwiki-adding-removing-modifying": "robot Bygevoeg: %(adding)s Verwyder: %(removing)s Verander: %(modifying)s",
+	"interwiki-adding": "robot Bygevoeg: %(adding)s",
+	"interwiki-removing": "robot Verwyder: %(removing)s",
+	"interwiki-removing-modifying": "robot Verwyder: %(removing)s Verander: %(modifying)s",
+	"interwiki-modifying-from": "Robot: verander %(from)s na %(modifying)s"
+}

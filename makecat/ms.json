@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"makecat-create": "Bot: Mewujudkan atau mengemaskinikan kategori [[:Category:%(cat)s|]]"
+}

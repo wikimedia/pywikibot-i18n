@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki"
+		]
+	},
+	"template-removing": "Ρομπότ: Αφαίρεση {{PLURAL:%(num)d| προτύπου|προτύπων}}: %(list)s",
+	"template-changing": "Ρομπότ: Αλλαγή {{PLURAL:%(num)d| προτύπου|προτύπων}}: %(list)s",
+	"template-substituting": "Ρομπότ: Ενσωμάτωση {{PLURAL:%(num)d| προτύπου|προτύπων}}: %(list)s"
+}

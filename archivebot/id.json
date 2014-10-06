@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aldnonymous",
+			"Farras"
+		]
+	},
+	"archivebot-older-than": "lebih tua dari",
+	"archivebot-page-summary": "Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ke %(archives)s.",
+	"archivebot-archiveheader": "{{Talkarchive}}",
+	"archivebot-archive-full": "(ARSIP LENGKAP)",
+	"archivebot-archive-summary": "Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]]."
+}

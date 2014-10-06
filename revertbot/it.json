@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"revertbot-revert": "Bot: ripristinata la versione %(revid)s di %(author)s del %(timestamp)s"
+}

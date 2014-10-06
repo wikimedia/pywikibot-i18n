@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Роботот: Создава пренасочување кон [[%(to)s]]"
+}

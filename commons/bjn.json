@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Riemogerz"
+		]
+	},
+	"commons-file-moved": "[[:Barakas:%(localfile)s|Barakas]] dipindahakan ka [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Barakas naya wahini ada di [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

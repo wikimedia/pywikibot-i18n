@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srtxg"
+		]
+	},
+	"archivebot-older-than": "pus vîs ki",
+	"archivebot-page-summary": "Robot: årtchivaedje {{PLURAL:%(count)d|d' on fyi|di %(count)d fyis}} (%(why)s) dins %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ÅRTCHIVE PLINNE)",
+	"archivebot-archive-summary": "Robot: årtchivaedje {{PLURAL:%(count)d|d' on fyi|di %(count)d fyis}} foû d' [[%(from)s]]."
+}

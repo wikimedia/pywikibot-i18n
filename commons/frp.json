@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fichiér]] dèplaciê vers [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Ora lo fichiér est disponiblo dessus [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khutuck",
+			"Stultiwikia"
+		]
+	},
+	"category_redirect-comment": "Kategori yönlendirmesi bakım botu",
+	"category_redirect-change-category": "Bot: Yönlendirilen [[:%(oldCatLink)s|%(oldCatTitle)s]] kategorisini [[:%(newCatLink)s|%(newCatTitle)s]] haline dönüştürüyor",
+	"category_redirect-add-template": "Bot: Bakım için kategori yönlendirme şablonu ekleniyor",
+	"category_redirect-edit-request": "Koruma altındaki şu sayfalardaki kategori bağlantılarının güncelleme gerektirdiği tespit edilmiştir: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s, %(newcat)s'e yönlendirilen %(oldcat)s'te",
+	"category_redirect-fix-double": "Bot: Çift yönlendirme düzeltiliyor"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200",
+			"Mantak111"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robotas",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(redaguojančio žmogaus nerasta)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Roboto įspėjamoji žinutė: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Naujas aptarimas",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Pranešimas",
+	"thirdparty-drtrigonbot-subster-summary-mod": "keičiama(-os) %(tags)s žymė(-ės)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskusija uždaryta",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Aptarimas pakeistas",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOTO PRANEŠIMAS"
+}

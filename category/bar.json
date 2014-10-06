@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mucalexx"
+		]
+	},
+	"category-changing": "Bot: Änderd %(oldcat)s zua %(newcat)s",
+	"category-adding": "Bot: Ergänz Kategorie [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(aa in %(alsocat)s)",
+	"category-was-disbanded": "Bot: Kategorie is aufglossen worn",
+	"category-replacing": "Bot: Ersetz  Kategorie %(oldcat)s durch %(newcat)s",
+	"category-removing": "Bot: Entfern aus %(oldcat)s",
+	"category-was-moved": "Bot: Kategorie is noch [[:Category:%(newcat)s|%(title)s]] vaschóm worn",
+	"category-listifying": "Bot: Listen aus %(fromcat)s (%(num)d Eihträg)"
+}

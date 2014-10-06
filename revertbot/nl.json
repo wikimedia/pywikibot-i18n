@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"revertbot-revert": "Robot: teruggedraaid naar versie %(revid)s door %(author)s op %(timestamp)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Htt"
+		]
+	},
+	"category-adding": "सांगकाम्यान: [[Category:%(newcat)s]] वर्ग वाढविले",
+	"category-was-moved": "सांगकाम्या: वर्ग [[:Category:%(newcat)s|%(title)s]] येथे हलवला गेला"
+}

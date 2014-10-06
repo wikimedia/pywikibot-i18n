@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renan"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] movet por li [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "File es nu disponibil in li [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

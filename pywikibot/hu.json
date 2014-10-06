@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj",
+			"R-Joe",
+			"Tacsipacsi"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Add meg az XML dump fájl nevét:",
+	"pywikibot-enter-page-processing": "Melyik lapot kell feldolgozni?",
+	"pywikibot-enter-file-links-processing": "Melyik fájlra mutató hivatkozásokat kell feldolgozni?",
+	"pywikibot-enter-namespace-number": "Add meg a névteret a számával:",
+	"pywikibot-enter-new-text": "Add meg az új szöveget:",
+	"pywikibot-enter-category-name": "Add meg a kategória nevet:",
+	"pywikibot-enter-finished-browser": "Nyomd meg az Entert, ha végeztél a böngészővel!"
+}

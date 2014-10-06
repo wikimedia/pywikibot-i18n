@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "rôbô",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(tsy nahitana olombelona manova)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s : %(page_sections)s - [%(history_link)s fiovana farany] (%(page_size)s oktety) nataon'i %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": "Hafatra fampitandremana ny rôbô : %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Resaka vaovao",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s : <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - fiovana farany nataon'i [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Filazana",
+	"thirdparty-drtrigonbot-subster-summary-mod": "fanivana ny balizy  %(tags)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Resaka efa nakatona",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s tapitra daholo ny resaka rehetra (tsy miambina intsony) - fiovana farany nataon'i %(user)s (tamin'ny %(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Ambangovangon'ilay resaka nampiana : %(num)i iditra",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Resaka voaova",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Ambangovangon'ny resaka nasiana niaraka amin'ny fandiovana %(num)i iditra",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Ambangovangon'ny resaka novaozina %(num)i iditra anaty %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "HAFATRY NY RÔBÔ",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nAmbangovango noforonina avy amy ary ho any : %(sign)s</noinclude>"
+}

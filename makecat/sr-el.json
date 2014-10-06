@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"makecat-create": "Bot: pravljenje ili aužuriranje kategorije [[:Category:%(cat)s|]]"
+}

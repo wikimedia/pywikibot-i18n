@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Nemo bis",
+			"Ricordisamoa"
+		]
+	},
+	"delete-images": "Bot: cancellazione di tutte le immagini contenute nella pagina %(page)s",
+	"delete-referring-pages": "Bot: Cancellazione di tutte le pagine con link verso %(page)s",
+	"delete-from-category": "Bot: Cancellazione di tutte le pagine dalla categoria %(page)s",
+	"delete-from-file": "Bot: cancello un elenco di pagine.",
+	"delete-linked-pages": "Bot: cancellazione di tutte le pagine collegate a %(page)s"
+}

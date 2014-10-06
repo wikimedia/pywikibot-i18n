@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebrahimi-amir"
+		]
+	},
+	"commons-file-moved": "[[:Fayl:%(localfile)s|Fayl]], [[:commons:File:%(commonsfile)s|commons]] saytına keçirildi.",
+	"commons-file-now-available": "Fayl artıq [[:commons:File:%(commonsfile)s|Wikimedia Commons]] layihəsində vardır."
+}

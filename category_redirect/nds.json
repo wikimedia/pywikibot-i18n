@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Slomox"
+		]
+	},
+	"category_redirect-comment": "Bot för Kategorieredirect-Pleeg",
+	"category_redirect-change-category": "Bot: ümbagen Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] ännern na [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: Kategorieredirect-Vörlaag toföögt",
+	"category_redirect-edit-request": "Bi disse schuulten Sieden mööt Kategorie-Lenken ännert warrn: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s steiht in %(oldcat)s, wat en Redirect is na %(newcat)s",
+	"category_redirect-fix-double": "Bot: Dubbelte Wiederleiden rutmakt"
+}

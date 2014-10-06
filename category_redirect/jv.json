@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"category_redirect-comment": "Bot gatén pangalihan katégori",
+	"category_redirect-change-category": "Bot: Ganti katégori sing dialihaké [[:%(oldCatLink)s|%(oldCatTitle)s]] dadi [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: Nambahaké témplat pangalihan katégori kanggo diruwat",
+	"category_redirect-edit-request": "Kaca sing dijaga iki mbutuhaké panganyaran kanggo pranala katégori: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s ana ing %(oldcat)s, yakuwi pangalihan nèng %(newcat)s",
+	"category_redirect-fix-double": "Bot: Mbeneraké pangalihan dobel"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csisc"
+		]
+	},
+	"template-removing": "روبوت: إزالة {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s",
+	"template-changing": "روبوت: تغيير {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s",
+	"template-substituting": "روبوت: نسخ {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s"
+}

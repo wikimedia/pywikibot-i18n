@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt"
+		]
+	},
+	"template-removing": "Trigomiro: A gava {{PLURAL:%(num)d|lë stamp|stamp}}: %(list)s",
+	"template-changing": "Trigomiro: Cangé {{PLURAL:%(num)d|lë stamp|stamp}}: %(list)s",
+	"template-substituting": "Trigomiro: Sostituì {{PLURAL:%(num)d|lë stamp|stamp}}: %(list)s"
+}

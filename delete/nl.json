@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"delete-images": "Robot: alle media op pagina %(page)s worden verwijderd",
+	"delete-referring-pages": "Robot: alle pagina's die naar de pagina %(page)s verwijzen worden verwijderd",
+	"delete-from-category": "Robot: alle pagina's uit categorie %(page)s worden verwijderd",
+	"delete-from-file": "Robot: lijst met pagina's wordt verwijderd.",
+	"delete-linked-pages": "Robot: alle pagina's waar de pagina %(page)s naar verwijst worden verwijderd"
+}

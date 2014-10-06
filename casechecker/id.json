@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"ArdWar",
+			"C5st4wr6ch"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Kapitalisasi:",
+	"casechecker-delete-summary": "Bot: Pengalihan menggunakan aksara Kiril dan Latin yang identik",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Pengalihan ini digunakan untuk menuju ke %(target)s"
+}

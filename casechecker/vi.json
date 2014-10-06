@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Thay thế chữ hoa/thường:",
+	"casechecker-delete-summary": "Bot: Tên trang đổi hướng này có chữ Kirin và Latinh y hệt nhau",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Trang này từng đổi hướng đến %(target)s",
+	"casechecker-rename": "Bot: Đổi tên hỗn hợp chữ hoa/thường"
+}

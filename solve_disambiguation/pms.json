@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt",
+			"Dragonòt"
+		]
+	},
+	"solve_disambiguation-redirect-removed": "Coression ëd liura giutà da 'n trigomiro:  %(from)s - Liura o liure gavà",
+	"solve_disambiguation-redirect-resolved": "Coression ëd liura giutà da 'n trigomiro:  %(from)s - Modìfiche dla liura (o dle liure) a %(to)s",
+	"solve_disambiguation-links-resolved": "Omonimìa arzolvùa con l'agiut dël trigomiro:  %(from)s - Modìfiche dla liura (o dle liure) a %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Omonimìa arzolvùa con l'agiut dël trigomiro:  %(from)s - Marcà com avenda damanca dl'atension ëd n'espert",
+	"solve_disambiguation-adding-dn-template": "Omonimìa arzolvùa con l'agiut dël trigomiro:  %(from)s - Marcà com avenda damanca dl'atension ëd n'espert",
+	"solve_disambiguation-unknown-page": "(pa conossù)",
+	"solve_disambiguation-links-removed": "Omonimìa arzolvùa con l'agiut dël trigomiro:  %(from)s - Liura (o liure) gavà."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"redirect-fix-double": "Vélmenni: Lagfæri tvöfalda tilvísun → %(to)s",
+	"redirect-remove-broken": "Vélmenni: Tilvísun bendir á síðu sem hefur verið eytt eða er ekki til",
+	"redirect-fix-loop": "Vélmenni: Lagfæri tilvísunar lykkju → %(to)s",
+	"redirect-remove-loop": "Vélmenni: Tilvísun bendir á óendanlega tilvísunar lykkju"
+}

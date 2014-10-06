@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Matěj Grabovský",
+			"Mormegil"
+		]
+	},
+	"casechecker-replacement-summary": "Robot změnil velikost písmen:",
+	"casechecker-delete-summary": "Robot: Toto přesměrování ve svém názvu obsahuje stejně vypadající znaky cyrilice a latinky",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Toto přesměrování vedlo na %(target)s",
+	"casechecker-rename": "Robot: přejmenování kvůli smíchaným písmům"
+}

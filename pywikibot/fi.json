@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Nedergard",
+			"VezonThunder"
+		]
+	},
+	"pywikibot-enter-page-processing": "Mikä sivu otetaan käsiteltäväksi?",
+	"pywikibot-enter-file-links-processing": "Mille tiedostosivulle vievät linkit tulee käsitellä?",
+	"pywikibot-enter-namespace-number": "Kirjoita nimiavaruuden numero",
+	"pywikibot-enter-new-text": "Kirjoita uusi teksti",
+	"pywikibot-enter-category-name": "Kirjoita luokan nimi",
+	"pywikibot-enter-finished-browser": "Paina enter, kun olet valmis selaimessa."
+}

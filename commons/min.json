@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luthfi94"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] dipindahan ka [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Berkas sekarang tersedia di [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

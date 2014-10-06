@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Рустам Нурыев"
+		]
+	},
+	"casechecker-delete-summary": "бот: Йүнәлтеү кирилл и латин хәрефтәренән төҙөлгән",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}

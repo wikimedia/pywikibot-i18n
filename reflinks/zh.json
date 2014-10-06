@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yfdyh000"
+		]
+	},
+	"reflinks-autogen": "自动生成",
+	"reflinks-comment": "机器人生成的标题",
+	"reflinks-msg": "机器人：转换光秃引用，使用ref名称避免重复，见[[%(manual)s|常见问题]]"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"featured-good": "Robot: %(page)s es un bon articulo",
+	"featured-list": "Robot: %(page)s es un lista eminente",
+	"featured-featured": "Robot: %(page)s es un articulo eminente",
+	"featured-former": "Robot: %(page)s es un ancian articulo eminente"
+}

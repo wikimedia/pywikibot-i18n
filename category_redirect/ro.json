@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"category_redirect-comment": "Robot de întreținere a redirecționărilor de categorii",
+	"category_redirect-change-category": "Robot: Modificat categoria redirecționată [[:%(oldCatLink)s|%(oldCatTitle)s]] în [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: Adăugat formatul de întreținere pentru categorie redirecționată",
+	"category_redirect-edit-request": "Următoarele pagini protejate au fost detectate ca necesitând actualizări la legăturile de categorie: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s se află în %(oldcat)s, care este o redirecționare către %(newcat)s",
+	"category_redirect-fix-double": "Robot: Reparat dubla redirecționare înspre"
+}

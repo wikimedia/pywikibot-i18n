@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njardarlogar"
+		]
+	},
+	"delete-images": "robot: sletta alle bileta på sida %(page)s",
+	"delete-from-category": "robot: sletta alle sidene i kategorien %(page)s",
+	"delete-from-file": "robot: sletta ei liste med filer",
+	"delete-linked-pages": "robot: slettar alle sidene som er lenkja til frå %(page)s"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"protect-links": "Bot: All Säite spären déi vun der Säit %(page)s verlinkt sinn",
+	"protect-simple": "Bot: Eng Lëscht vu Fichiere spären.",
+	"protect-category": "Bot: All Säiten aus der Kategorie %(cat)s spären",
+	"protect-ref": "Bot: All Säite spären, déi op d'Säit %(page)s linken",
+	"protect-images": "Bot: All Biller op der Säit %(page)s spären"
+}

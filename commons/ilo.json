@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] naiyalis idiay [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Ti papeles ket mabalinen a magun-od idiay [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

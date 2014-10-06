@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca",
+			"Grondin",
+			"Pitort",
+			"Toniher",
+			"XVEC"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Si us plau introdueix el nom del fitxer abocador d'XML .",
+	"pywikibot-enter-page-processing": "Quina pàgina ha de ser processada?",
+	"pywikibot-enter-file-links-processing": "Els enllaços a quina pàgina del fitxer s'haurien de processar?",
+	"pywikibot-enter-namespace-number": "Introduïu un espai de noms pel seu número:",
+	"pywikibot-enter-new-text": "Si us plau introdueix el nou text :",
+	"pywikibot-enter-category-name": "Si us plau introdueix el nom de la categoria :",
+	"pywikibot-enter-finished-browser": "Apreta Enter quan s'hagi acabat amb el navegador"
+}

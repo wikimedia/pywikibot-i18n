@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"AZISS",
+			"PPerviz",
+			"Wertuose"
+		]
+	},
+	"category-version-history": "Bot: Keçmiş %(oldcat)s kateqoriyasının yaddaşa saxlanmış versiyalar tarixçəsi",
+	"category-changing": "Bot: %(oldcat)s kateqoriyası %(newcat)s kateqoriyasına dəyişdirildi",
+	"category-adding": "Bot: [[:Category:%(newcat)s|%(newcat)s]] kateqoriyası əlavə olunur",
+	"category-also-in": "(həmçinin %(alsocat)s kateqoriyasında)",
+	"category-was-disbanded": "Bot: Kateqoriya ləğv edildi",
+	"category-replacing": "Bot: %(oldcat)s kateqoriyası %(newcat)s kateqoriyası ilə əvəzləndi",
+	"category-removing": "Bot: %(oldcat)s kateqoriyasından istisna edilir",
+	"category-was-moved": "Bot: Kateqoriyanın yeri dəyişdirilib: [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: %s tərəfindən yeri dəyişdirilib. Müəlliflər: %s",
+	"category-section-title": "%(oldcat)s keçmiş səhifə tarixçəsi",
+	"category-listifying": "Bot: %(fromcat)s üçün ({{PLURAL:%(num)d|elementdən}}) ibarət siyahı hazırlanır"
+}

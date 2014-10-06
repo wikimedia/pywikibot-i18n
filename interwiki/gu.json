@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"KartikMistry"
+		]
+	},
+	"interwiki-modifying": "બોટ: %(modifying)s ફેરફાર કરે છે",
+	"interwiki-adding-modifying": "બોટ: %(adding)s ઉમેરે છે; %(modifying)s ફેરફાર કરે છે",
+	"interwiki-adding-removing": "બોટ: %(adding)s ઉમેરે છે; %(removing)s દૂર કરે છે",
+	"interwiki-adding-removing-modifying": "બોટ: %(adding)s ઉમેરે છે; %(removing)s દૂર કરે છે; %(modifying)s ફેરફાર કરે છે",
+	"interwiki-adding": "બોટ: %(adding)s ઉમેરે છે",
+	"interwiki-removing": "બોટ: %(removing)s દૂર કરે છે",
+	"interwiki-removing-modifying": "બોટ: %(removing)s દૂર કરે છે; %(modifying)s ફેરફાર કરે છે"
+}

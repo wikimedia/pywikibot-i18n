@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amir a57",
+			"E THP"
+		]
+	},
+	"category-version-history": "روبات: گئچمیشی قئدائتمک %(oldcat)s سابیق",
+	"category-changing": "بوت: %(oldcat)s بؤلمه‌سی%(newcat)s بؤلمه‌سی ایله ديَیشدیریلدی",
+	"category-adding": "بوت: [[بؤلمه:%(newcat)s]] آرتیریلیر",
+	"category-also-in": "(همچنین%(alsocat)s بؤلمه‌سینده)",
+	"category-was-disbanded": "بوت: بؤلمه لغو ائدیلدی",
+	"category-replacing": "بوت: %(oldcat)s  بؤلمه‌سینی %(newcat)s ایله یئربه‌یئر ائله‌دیر",
+	"category-removing": "Bot: %(oldcat)s بؤلمه‌سیندن چیخاریلیر",
+	"category-was-moved": "بوت: بؤلمه کؤچورولدو: [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "بوت: ذن %s داشیندی. یارادان: %s",
+	"category-section-title": "صحیفه نین گئچمیشی %(oldcat)s سابیق",
+	"category-listifying": "بوت:%(fromcat)s بولمه لریندن سیرا‌لانیر (%(num)d ائلئمئنت)"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njsubedi",
+			"सरोज कुमार ढकाल"
+		]
+	},
+	"category_redirect-comment": "श्रेणी अनुप्रेषण मर्मत रोबोट",
+	"category_redirect-change-category": "रोबोट: श्रेणी अनुप्रेषण गर्दै [[:%(oldCatLink)s|%(oldCatTitle)s]] बाट [[:%(newCatLink)s|%(newCatTitle)s]] मा",
+	"category_redirect-add-template": "रोबोट: मर्मतको लागि श्रेणी अनुप्रेषण ढाँचा थप्दै",
+	"category_redirect-edit-request": "निम्न सुरक्षित पृष्ठहरुमा श्रेणीअरु सम्पादनको आवश्यकता देखिएको छ: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s , %(oldcat)s मा रहेको छ, जसलाई %(newcat)sमा अनुप्रेषण गरियो",
+	"category_redirect-fix-double": "रोबोट: दोहोरो रिडाइरेक्टहरू मिलाउँदै"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"revertbot-revert": "Bot: Zruckgsetzt uf d Version %(revid)s vu %(author)s vum %(timestamp)s"
+}

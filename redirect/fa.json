@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alirezaaa",
+			"Huji",
+			"Mjbmr",
+			"ZxxZxxZ"
+		]
+	},
+	"redirect-fix-double": "ربات: اصلاح تغییرمسیر دوتایی به %(to)s",
+	"redirect-remove-broken": "ربات: تغییرمسیر به صفحهٔ ناموجود یا حذف‌شده",
+	"redirect-fix-broken-moved": "ربات: اصلاح تغییرمسیرهای خراب به صفحهٔ انتقال‌یافتهٔ هدف %(to)s",
+	"redirect-fix-loop": "ربات: رفع حلقه در تغییرمسیر به %(to)s",
+	"redirect-remove-loop": "ربات: مقصد تغییرمسیر یک تغییرمسیر حلقه‌ای ایجاد می‌کند",
+	"redirect-broken-redirect-template": "{{حذف سریع|بن بست|bot=yes}}"
+}

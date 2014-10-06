@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup",
+			"Gwenn-Ael"
+		]
+	},
+	"redirect-fix-double": "Kempennet adkas doubl gant robot → %(to)s",
+	"redirect-remove-broken": "Robot : Ar bajenn ma vezer adkaset n'eus ket anezhi",
+	"redirect-fix-broken-moved": "Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s",
+	"redirect-fix-loop": "Robot : O kempenn al lagadenn adkas war-zu %(to)s",
+	"redirect-remove-loop": "Robot: Stumm ur c'helc'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]"
+}

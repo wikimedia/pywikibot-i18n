@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"featured-good": "Robot: %(page)s este un articol bun",
+	"featured-list": "Robot: %(page)s este o listă de calitate",
+	"featured-featured": "Robot: %(page)s este un articol de calitate",
+	"featured-former": "Robot: %(page)s este un fost articol de calitate"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"spamremove-remove": "Уклоњене везе према спам сајту %(url)s"
+}

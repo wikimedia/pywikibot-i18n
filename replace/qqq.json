@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"replace-replacing": "Default edit summary when the bot does text replacements. <code>%(descriptions)s</code> gives further informations like the source and target strings or regex of the replacement."
+}

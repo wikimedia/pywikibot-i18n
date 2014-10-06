@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Bestaand]] is verplaotst naor [[:commons:File:%(commonsfile)s|Wikimedia Commons]].",
+	"commons-file-now-available": "Dit bestaand is noen beschikbaor op [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

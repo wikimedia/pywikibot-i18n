@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"casechecker-replacement-linklist": "%(source)s nooch %(target)s"
+}

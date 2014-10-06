@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Rancher"
+		]
+	},
+	"archivebot-older-than": "starije od",
+	"archivebot-page-summary": "Bot: {{PLURAL:%(count)d|arhivirana %(count)d tema|arhivirane %(count)d teme|arhivirano %(count)d tema}} (%(why)s) u %(archives)s.",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archive-full": "(ARHIVA JE PUNA)",
+	"archivebot-archive-summary": "Bot: {{PLURAL:%(count)d|arhivirana %(count)d tema|arhivirane %(count)d teme|arhivirano %(count)d tema}} iz [[%(from)s]]."
+}

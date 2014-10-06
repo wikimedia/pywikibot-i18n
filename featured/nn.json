@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njardarlogar"
+		]
+	},
+	"featured-good": "robot: %(page)s er ein god artikkel",
+	"featured-featured": "bot: %(page)s er ein god artikkel"
+}

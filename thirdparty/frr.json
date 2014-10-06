@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "Bot:",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(nään bewerker fünjen)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s leetst feranrang] (%(page_size)s bytes) faan %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Bot waarskauet: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nei diskuschuun",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - leetst feranrang faan [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Nooracht",
+	"thirdparty-drtrigonbot-subster-summary-mod": "bütje %(tags)s tag(s) ütj",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskuschuun ufslööden",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s aal jo diskusjuunen san ufslööden (woort ei muar beaachtet) - leetst feranrang faan %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Diskuschuun tuupfaadet: %(num)i bidracher",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Diskuschuun feranert",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Diskuschuun tuupfaadet an apredet: %(num)i bidracher",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Diskuschuun tuupfaadet an apredet: %(num)i bidracher üüb %(page)s",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT NOORACHT",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nTuupfaadet faan: %(sign)s</noinclude>"
+}

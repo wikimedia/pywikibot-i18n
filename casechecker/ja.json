@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"casechecker-replacement-summary": "ロボットによる: 大文字小文字の置換:",
+	"casechecker-delete-summary": "ロボットによる: このリダイレクトはページ名に同じ外観のキリル文字とラテン文字を含んでいます",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}

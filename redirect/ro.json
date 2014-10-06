@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"redirect-fix-double": "Robot: Reparat dubla redirecționare înspre %(to)s",
+	"redirect-remove-broken": "Robot: Redirecționare către o pagină ștearsă sau inexistentă",
+	"redirect-fix-loop": "Robot: Reparat bucla de redirecționare către %(to)s",
+	"redirect-remove-loop": "Robot: Ținta redirecționării formează o buclă de redirecționare"
+}

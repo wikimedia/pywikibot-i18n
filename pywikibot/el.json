@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki",
+			"Glavkos"
+		]
+	},
+	"pywikibot-enter-xml-filename": "Παρακαλώ εισάγετε το όνομα του αρχείου XML:",
+	"pywikibot-enter-page-processing": "Ποια σελίδα να υποβληθεί σε επεξεργασία;",
+	"pywikibot-enter-file-links-processing": "Συνδέσεις σε ποια σελίδα αρχείου να υποβληθούν σε επεξεργασία;",
+	"pywikibot-enter-namespace-number": "Παρακαλώ εισάγετε έναν ονοματοχώρο με τον αριθμό του:",
+	"pywikibot-enter-new-text": "Παρακαλώ πληκτρολογήστε το νέο κείμενο:",
+	"pywikibot-enter-category-name": "Παρακαλώ εισάγετε το όνομα της κατηγορίας:",
+	"pywikibot-enter-finished-browser": "Πιέστε το πλήκτρο Enter, όταν τελειώσει στο πρόγραμμα περιήγησης."
+}

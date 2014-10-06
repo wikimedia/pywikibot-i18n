@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Basharh",
+			"Man2fly2002"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "ܪܘܒܘܛ",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "ܕܘܪܫܐ ܚܕܬܐ",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "ܡܕܥܢܘܬܐ",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "ܕܕܘܪܫܐ ܩܦܝܠܐ",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "ܕܘܪܫܐ ܐܫܬܚܠܦ",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ܐܓܪܬܐ ܕܪܘܒܘܛ"
+}
