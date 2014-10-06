@@ -36,6 +36,13 @@ msg = {
     'bn': {
         'pagefromfile-msg': u'বট: নিবন্ধের স্বয়ংক্রিয় আমদানি',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'pagefromfile-msg_bottom': u'Ouzhpennet en traoñ',
+        'pagefromfile-msg_force': u'Testenn zo anezhi flastret',
+        'pagefromfile-msg_top': u'Ouzhpennet e krec\'h',
+        'pagefromfile-msg': u'Robot : Enporzhiañ pennadoù en un doare emgefreek',
+    },
     # Author: Edinwiki
     'bs': {
         'pagefromfile-msg_bottom': u'prikačeno na dno',
@@ -44,7 +51,11 @@ msg = {
         'pagefromfile-msg': u'Bot: Automatski unos stranica',
     },
     # Author: Fitoschido
+    # Author: Hiperpobla
     'ca': {
+        'pagefromfile-msg_bottom': u'Afegir a la part inferior',
+        'pagefromfile-msg_force': u'Sobre-escriu el text existent',
+        'pagefromfile-msg_top': u'Afegir a la part superior',
         'pagefromfile-msg': u'Robot: importació automatitzada d’articles',
     },
     # Author: Умар
@@ -59,6 +70,13 @@ msg = {
         'pagefromfile-msg_force': u'bestehender Text überschrieben',
         'pagefromfile-msg_top': u'ergänze am Anfang',
         'pagefromfile-msg': u'Bot: Automatischer Import von Artikeln',
+    },
+    # Author: Geraki
+    'el': {
+        'pagefromfile-msg_bottom': u'προσάρτηση στον πάτο',
+        'pagefromfile-msg_force': u'υπάρχον κείμενο αντικαταστάθηκε',
+        'pagefromfile-msg_top': u'προσάρτηση στην κορυφή',
+        'pagefromfile-msg': u'Bot: Αυτοματοποιημένη εισαγωγή λημμάτων',
     },
     # Author: Fitoschido
     'es': {
@@ -123,6 +141,7 @@ msg = {
         'pagefromfile-msg': u'ボットによる: 記事の自動取り込み',
     },
     # Author: Hym411
+    # Author: Revi
     'ko': {
         'pagefromfile-msg_bottom': u'맨 아래에 추가',
         'pagefromfile-msg_force': u'기존 텍스트 덮어씀',
@@ -154,6 +173,13 @@ msg = {
         'pagefromfile-msg_force': u'постоечкиот текст е заменет',
         'pagefromfile-msg_top': u'приложи на врвот',
         'pagefromfile-msg': u'Бот: Автоматизиран увоз на статии',
+    },
+    # Author: Anakmalaysia
+    'ms': {
+        'pagefromfile-msg_bottom': u'lampiran di bawah',
+        'pagefromfile-msg_force': u'menulis ganti teks sedia ada',
+        'pagefromfile-msg_top': u'lampiran di atas',
+        'pagefromfile-msg': u'Bot: Pengimportan rencana automatik',
     },
     'mzn': {
         'pagefromfile-msg': u'ربوت:صفحه شه خاد به خاد دله دکته',
@@ -199,6 +225,10 @@ msg = {
     # Author: Milicevic01
     'sr': {
         'pagefromfile-msg': u'Бот: аутоматски увоз чланака',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'pagefromfile-msg': u'Bot: automatski uvoz članaka',
     },
     # Author: Jopparn
     'sv': {

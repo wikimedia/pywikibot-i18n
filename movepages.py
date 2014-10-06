@@ -326,9 +326,10 @@ msg = {
     'sr': {
         'movepages-moving': u'Бот: премештена страница',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'movepages-moving': u'Robot: premeštena stranica',
+        'movepages-moving': u'Bot: premeštena stranica',
     },
     # Author: WikiPhoenix
     'sv': {

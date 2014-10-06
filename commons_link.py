@@ -33,6 +33,11 @@ msg = {
         'commons_link-template-added': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：མཉམ་སྤྱོད་གི་གཅོད་འབིགས་དཔེ་ཚད་ཚུད་ཡོད།',
         'commons_link-cat-template-added': u'མི་གཟུགས་འཕྲུལ་ཆས་ ： མཉམ་སྤྱོད་ཀྱི་ གཅོད་འབིགས་དཔེ་ཚད། ཀེཊ་ ཚུད་ཡོད།',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'commons_link-template-added': u'Robot : enklozañ ar patrom commons',
+        'commons_link-cat-template-added': u'Robot : Enklozañ ar patrom commonscat',
+    },
     # Author: Edinwiki
     'bs': {
         'commons_link-template-added': u'Bot: dodan commons šablon',
@@ -137,6 +142,7 @@ msg = {
         'commons_link-cat-template-added': u'ロボットによる: テンプレートcommonscatを追加',
     },
     # Author: Hym411
+    # Author: Revi
     'ko': {
         'commons_link-template-added': u'로봇: 공용 틀 추가',
         'commons_link-cat-template-added': u'로봇: 공용분류 틀을 추가',
@@ -222,6 +228,11 @@ msg = {
     'sr': {
         'commons_link-template-added': u'Бот: додат шаблон Оставе',
         'commons_link-cat-template-added': u'Бот: додат шаблон за везу до Оставе',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'commons_link-template-added': u'Bot: dodat šablon Ostave',
+        'commons_link-cat-template-added': u'Bot: dodat šablon za vezu do Ostave',
     },
     # Author: Jopparn
     'sv': {

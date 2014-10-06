@@ -85,6 +85,12 @@ msg = {
         'featured-featured': u'Bot: %(page)s adalah artikal pilihan',
         'featured-former': u'Bot: %(page)s adalah bakas artikal pilihan',
     },
+    # Author: Aftab1995
+    'bn': {
+        'featured-good': u'বট: %(page)s একটি ভালো নিবন্ধ',
+        'featured-list': u'বট: %(page)s একটি নির্বাচিত তালিকা',
+        'featured-featured': u'বট: %(page)s একটি নির্বাচিত নিবন্ধ',
+    },
     # Author: Fulup
     # Author: Y-M D
     'br': {
@@ -285,8 +291,9 @@ msg = {
         'featured-featured': u'Bot: %(page)s je wuběrny nastawk',
     },
     # Author: Dj
+    # Author: Tacsipacsi
     'hu': {
-        'featured-good': u'Bot: %(page)s egy kiemelt cikk',
+        'featured-good': u'Bot: %(page)s egy jó cikk',
         'featured-list': u'Bot: %(page)s egy kiemelt kiemelt lista',
         'featured-featured': u'Bot: a(z) %(page)s kiemelt szócikk',
         'featured-former': u'Bot: %(page)s egy korábban kiemelt cikk',
@@ -571,12 +578,13 @@ msg = {
         'featured-featured': u'Бот: %(page)s је сјајан чланак',
         'featured-former': u'Бот: %(page)s је био сјајан чланак',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'featured-good': u'Robot: %(page)s je dobar članak',
-        'featured-list': u'Robot: %(page)s je sjajan spisak',
-        'featured-featured': u'Robot: %(page)s je sjajan članak',
-        'featured-former': u'Robot: %(page)s je bio sjajan članak',
+        'featured-good': u'Bot: %(page)s je dobar članak',
+        'featured-list': u'Bot: %(page)s je sjajan spisak',
+        'featured-featured': u'Bot: %(page)s je sjajan članak',
+        'featured-former': u'Bot: %(page)s je bio sjajan članak',
     },
     # Author: Jopparn
     # Author: Lokal Profil

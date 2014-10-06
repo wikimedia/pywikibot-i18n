@@ -78,8 +78,9 @@ msg = {
     'eo': {
         'spellcheck-checking': u'Robote asistata literumkontrolo',
     },
+    # Author: Macofe
     'es': {
-        'spellcheck-checking': u'Bot asistido de correción ortográfica',
+        'spellcheck-checking': u'Corrector ortográfico asistido por robot',
     },
     # Author: Huji
     # Author: Reza1615
@@ -130,6 +131,7 @@ msg = {
         'spellcheck-checking': u'ロボット支援によるスペルチェック',
     },
     # Author: Hym411
+    # Author: Revi
     # Author: 아라
     'ko': {
         'spellcheck-checking': u'로봇의 도움을 받은 맞춤법 검사기',

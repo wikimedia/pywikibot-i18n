@@ -90,8 +90,10 @@ msg = {
         'welcome-bad_username': u'Bot: Manambahakan ngaran pamakai nang parlu dipariksa',
     },
     # Author: Aftab1995
+    # Author: Tauhid16
     'bn': {
         'welcome-welcome': u'স্বাগতম!',
+        'welcome-bad_username': u'বট: একটি ব্যবহারকারী নাম যোগ করা হচ্ছে যা পরীক্ষা করা প্রয়োজন',
         'welcome-updating': u'রোবট: লগ হালনাগাদ করেছে',
     },
     # Author: Freeyak
@@ -212,11 +214,12 @@ msg = {
     'eu': {
         'welcome-welcome': u'Ongi etorri!',
     },
+    # Author: Alirezaaa
     # Author: Mjbmr
     # Author: ZxxZxxZ
     'fa': {
         'welcome-welcome': u'خوش آمدید!',
-        'welcome-bad_username': u'ربات: افزودن یک حساب کاربری که نیاز به بررسی دارد',
+        'welcome-bad_username': u'ربات: افزودن یک نام کاربری که نیاز به بررسی دارد',
         'welcome-updating': u'ربات: به‌روزرسانی سیاهه',
     },
     # Author: Crt
@@ -447,7 +450,7 @@ msg = {
     # Author: Bjankuloski06
     # Author: Rancher
     'mk': {
-        'welcome-welcome': u'Добредојдовте!',
+        'welcome-welcome': u'Добре дојдовте!',
         'welcome-bad_username': u'Робот: Додава корисничко име што треба да се провери',
         'welcome-updating': u'Робот: Подновува дневник',
     },
@@ -574,7 +577,7 @@ msg = {
     # Author: John Reid
     'sco': {
         'welcome-welcome': u'Weelcome!',
-        'welcome-bad_username': u'Robot: Addin ae uisername that needs tae be checked',
+        'welcome-bad_username': u'Bot: Eikin ae uisername that needs tae be checked',
         'welcome-updating': u'Robot: Updatin log',
     },
     # Author: Kolega2357
@@ -619,11 +622,12 @@ msg = {
         'welcome-bad_username': u'Бот: додато корисничко име које треба проверити',
         'welcome-updating': u'Бот: ажуриран дневник',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
         'welcome-welcome': u'Dobro došli!',
-        'welcome-bad_username': u'Robot: dodato korisničko ime koje treba da se proveri',
-        'welcome-updating': u'Robot: ažurirana istorija',
+        'welcome-bad_username': u'Bot: dodato korisničko ime koje treba da se proveri',
+        'welcome-updating': u'Bot: ažuriran dnevnik',
     },
     # Author: Lokal Profil
     'sv': {
@@ -747,19 +751,21 @@ msg = {
     },
     # Author: Anakmalaysia
     # Author: Hzy980512
+    # Author: Liuxinyu970226
     'zh': {
         'welcome-welcome': u'欢迎！',
         'welcome-bad_username': u'机器人：添加一个需要进行检查的用户名',
         'welcome-updating': u'机器人：更新日志',
     },
     # Author: Breawycker
+    # Author: Cwlin0416
     # Author: Justincheng12345
     # Author: LNDDYL
     # Author: Lauhenry
     # Author: Simon Shek
     'zh-hant': {
         'welcome-welcome': u'歡迎！',
-        'welcome-bad_username': u'機械人：添加需要檢查的使用者名稱',
+        'welcome-bad_username': u'機械人：新增需要檢查的使用者名稱',
         'welcome-updating': u'機械人：更新日誌',
     },
     # Author: Justincheng12345

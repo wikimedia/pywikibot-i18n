@@ -17,6 +17,10 @@ msg = {
     'be-x-old': {
         'selflink-remove': u'Робат: выдаленьне аўтаспасылкі',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'selflink-remove': u'Robot : O tennañ amliammoù',
+    },
     # Author: Edinwiki
     'bs': {
         'selflink-remove': u'Bot: Uklanjam linkovanje na sebe',
@@ -38,12 +42,17 @@ msg = {
     'de': {
         'selflink-remove': u'Bot: Entferne Selbstlinks',
     },
+    # Author: Geraki
+    'el': {
+        'selflink-remove': u'Bot: Αφαίρεση αυτοσυνδέσμων',
+    },
     # Author: Fitoschido
     'es': {
         'selflink-remove': u'Bot: eliminación de enlaces hacia la propia página',
     },
+    # Author: Alirezaaa
     'fa': {
-        'selflink-remove': u'ربات:برداشتن پیوند به خود',
+        'selflink-remove': u'ربات: حذف پیوند به خود',
     },
     'fr': {
         'selflink-remove': u'Robot: Enlève autoliens',
@@ -85,6 +94,14 @@ msg = {
     'mk': {
         'selflink-remove': u'Бот: Отстранување на самоодносни врски',
     },
+    # Author: Praveenp
+    'ml': {
+        'selflink-remove': u'യന്ത്രം: തന്നിലേക്ക് തന്നെയുള്ള കണ്ണികൾ നീക്കുന്നു',
+    },
+    # Author: Anakmalaysia
+    'ms': {
+        'selflink-remove': u'Bot: Menggugurkan pautan sendiri',
+    },
     'nl': {
         'selflink-remove': u'Bot: verwijzingen naar pagina zelf verwijderd',
     },
@@ -99,6 +116,10 @@ msg = {
     },
     'pt': {
         'selflink-remove': u'Bot: Retirando link para o próprio artigo',
+    },
+    # Author: !Silent
+    'pt-br': {
+        'selflink-remove': u'Bot: removendo ligações para o próprio artigo',
     },
     'ru': {
         'selflink-remove': u'Бот: удалил заголовок-ссылку в тексте. см.',
@@ -118,5 +139,9 @@ msg = {
     # Author: Liuxinyu970226
     'zh': {
         'selflink-remove': u'机器人：移除自链接',
+    },
+    # Author: Liuxinyu970226
+    'zh-hant': {
+        'selflink-remove': u'機械人: 刪除自我連結',
     },
 };

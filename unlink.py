@@ -306,9 +306,10 @@ msg = {
     'sr': {
         'unlink-unlinking': u'Бот: уклоњена веза „%s“',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'unlink-unlinking': u'Robot: uklonjena veza „%s“',
+        'unlink-unlinking': u'Bot: uklonjena veza „%s“',
     },
     # Author: Jopparn
     # Author: Lokal Profil
@@ -355,6 +356,7 @@ msg = {
     'vi': {
         'unlink-unlinking': u'Bot: Bỏ liên kết đến “%s”',
     },
+    # Author: Liuxinyu970226
     # Author: Yfdyh000
     'zh': {
         'unlink-unlinking': u'机器人：断开“%s”链接',

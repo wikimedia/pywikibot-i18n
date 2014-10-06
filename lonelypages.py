@@ -28,6 +28,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Робат: дадаваньне старонкі-неадназначнасьці',
         'lonelypages-comment-add-template': u'Робат: старонка-сіраціна, дадаваньне шаблёну',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'lonelypages-comment-add-disambig-template': u'Robot : Ouzhpennañ ur bajenn heñvelstummiezh',
+        'lonelypages-comment-add-template': u'Robot : Pajenn emzivat, ouzhpennañ patrom',
+    },
     # Author: Edinwiki
     'bs': {
         'lonelypages-comment-add-disambig-template': u'Bot: Dodavanje čvor stranice',
@@ -140,6 +145,7 @@ msg = {
         'lonelypages-comment-add-template': u'ロボットによる: 孤立したページへのテンプレート貼り付け',
     },
     # Author: Hym411
+    # Author: Revi
     'ko': {
         'lonelypages-comment-add-disambig-template': u'로봇: 동음이의어 문서 추가',
         'lonelypages-comment-add-template': u'로봇: 다른 문서를 링크하지 않는 문서, 틀 추가',
@@ -226,6 +232,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Бот: додата вишезначна одредница',
         'lonelypages-comment-add-template': u'Бот: неповезана страница, додат шаблон',
     },
+    # Author: Milicevic01
+    'sr-el': {
+        'lonelypages-comment-add-disambig-template': u'Bot: dodata višeznačna odrednica',
+        'lonelypages-comment-add-template': u'Bot: nepovezana stranica, dodat šablon',
+    },
     # Author: Lokal Profil
     # Author: WikiPhoenix
     'sv': {
@@ -250,9 +261,10 @@ msg = {
     'yi': {
         'lonelypages-comment-add-template': u'באט: יתום בלאט, צולייגן מוסטער',
     },
+    # Author: Liuxinyu970226
     'zh': {
-        'lonelypages-comment-add-disambig-template': u'機器人: 增加消歧義頁面',
-        'lonelypages-comment-add-template': u'機器人: 本頁的鏈入頁面太少',
+        'lonelypages-comment-add-disambig-template': u'机器人：加入消歧义页',
+        'lonelypages-comment-add-template': u'机器人：孤立页面，添加模板',
     },
     # Author: Kc kennylau
     'zh-hant': {

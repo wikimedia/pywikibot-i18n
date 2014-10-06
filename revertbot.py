@@ -19,6 +19,10 @@ msg = {
     'be-x-old': {
         'revertbot-revert': u'Робат: вяртаньне да вэрсіі %(revid)s аўтарства %(author)s за %(timestamp)s',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'revertbot-revert': u'Robot : Distreiñ da adwelet %(revid)s dre %(author)s d\'an %(timestamp)s',
+    },
     # Author: Edinwiki
     'bs': {
         'revertbot-revert': u'Bot: Vraćeno na reviziju %(revid)s od korisnika %(author)s, %(timestamp)s',
@@ -97,6 +101,7 @@ msg = {
         'revertbot-revert': u'Bot: ripristinata la versione %(revid)s di %(author)s del %(timestamp)s',
     },
     # Author: Hym411
+    # Author: Revi
     'ko': {
         'revertbot-revert': u'봇: %(author)s의 %(timestamp)s 에 작성한 %(revid)s 판으로 되돌림',
     },
@@ -155,6 +160,10 @@ msg = {
     # Author: Rancher
     'sr': {
         'revertbot-revert': u'Бот: враћено на измену %(revid)s аутора %(author)s од %(timestamp)s',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'revertbot-revert': u'Bot: vraćeno na izmenu %(revid)s autora %(author)s od %(timestamp)s',
     },
     # Author: Lokal Profil
     'sv': {

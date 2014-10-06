@@ -272,6 +272,10 @@ msg = {
     'mt': {
         'capitalize_redirects-create-redirect': u'Robot: Maħluq rindirizz lejn [[%(to)s]]',
     },
+    # Author: C.R.
+    'nap': {
+        'capitalize_redirects-create-redirect': u'Bot: criato redirect a [[%(to)s]]',
+    },
     # Author: Servien
     'nds-nl': {
         'capitalize_redirects-create-redirect': u'Bot: deurverwiezing emaakt naor [[%(to)s]]',
@@ -358,9 +362,10 @@ msg = {
     'sr': {
         'capitalize_redirects-create-redirect': u'Бот: направљено преусмерење на [[%(to)s]]',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'capitalize_redirects-create-redirect': u'Robot: napravljeno preusmerenje na [[%(to)s]]',
+        'capitalize_redirects-create-redirect': u'Bot: napravljeno preusmerenje na [[%(to)s]]',
     },
     'sv': {
         'capitalize_redirects-create-redirect': u'Bot: Omdirigerar till [[%(to)s]]',

@@ -427,10 +427,11 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Датотека]] је премештена у [[:commons:File:%(commonsfile)s|Оставу]].',
         'commons-file-now-available': u'Датотека је сада доступна на [[:commons:File:%(commonsfile)s|Остави]].',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
         'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] je premeštena u [[:commons:File:%(commonsfile)s|Ostavu]].',
-        'commons-file-now-available': u'Datoteka je sada dostupna u [[:commons:File:%(commonsfile)s|Vikimedijinoj ostavi]].',
+        'commons-file-now-available': u'Datoteka je sada dostupna na [[:commons:File:%(commonsfile)s|Ostavi]].',
     },
     # Author: Lokal Profil
     'sv': {
@@ -495,9 +496,10 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Fáìlì]] ti jẹ́ yíyípòpadà sí [[:commons:File:%(commonsfile)s|commons]].',
     },
     # Author: Hydra
+    # Author: Liuxinyu970226
     'zh': {
-        'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
-        'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基媒体共享资源]]。',
+        'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到[[:commons:File:%(commonsfile)s|维基共享资源]]。',
+        'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基共享资源]]。',
     },
     # Author: Justincheng12345
     'zh-hant': {

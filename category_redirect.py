@@ -761,7 +761,7 @@ msg = {
     'sco': {
         'category_redirect-comment': u'Categerie reguidal maintenance bot',
         'category_redirect-change-category': u'Robot: Chynge reguidit categerie [[:%(oldCatLink)s|%(oldCatTitle)s]] tae [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-add-template': u'Robot: addin categerie reguidal template fer maintenance',
+        'category_redirect-add-template': u'Bot: Eikin categerie reguidal template fer maintenance',
         'category_redirect-edit-request': u'The follaein protectit pages hae been detectit aes needin updates tae categerie airtins: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, this is ae reguidal til %(newcat)s',
         'category_redirect-fix-double': u'Bot: Fixin dooble-reguidals',
@@ -822,12 +822,13 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s',
         'category_redirect-fix-double': u'Бот: исправљена двострука преусмерења',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'category_redirect-comment': u'Robot za održavanje preusmerenih kategorija',
-        'category_redirect-change-category': u'Robot: menja preusmerenje kategorije [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-add-template': u'Robot: dodat šablon za preusmerenu kategoriju za održavanje',
-        'category_redirect-edit-request': u'Sledeće zaštićene stranice imaju zastarele veze kategorija: %(itemlist)s',
+        'category_redirect-comment': u'Bot za održavanje preusmerenih kategorija',
+        'category_redirect-change-category': u'Bot: promenjena preusmerena kategorija [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-add-template': u'Bot: dodat šablon za preusmerenu kategoriju radi održavanja',
+        'category_redirect-edit-request': u'Sledećim zaštićenim stranicama potrebno je ažuriranje veza kategorija: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s je u %(oldcat)s, a to je preusmerenje na %(newcat)s',
         'category_redirect-fix-double': u'Bot: ispravljena dvostruka preusmerenja',
     },
@@ -952,6 +953,7 @@ msg = {
         'category_redirect-change-category': u'Bot: Ìyípadà ẹ̀ka alátùnhúnjúwe [[:%(oldCatLink)s|%(oldCatTitle)s]] sí [[:%(newCatLink)s|%(newCatTitle)s]]',
     },
     # Author: Liangent
+    # Author: Liuxinyu970226
     # Author: Yfdyh000
     'zh': {
         'category_redirect-comment': u'分类重定向维护机器人',

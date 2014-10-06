@@ -17,6 +17,10 @@ msg = {
     'be-x-old': {
         'spamremove-remove': u'Выдаленьне спам-спасылак на сайт %(url)s',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'spamremove-remove': u'Lemel al liamm berzet %(url)s',
+    },
     # Author: Edinwiki
     'bs': {
         'spamremove-remove': u'Uklanjanje veza prema spam stranici %(url)s',
@@ -35,6 +39,10 @@ msg = {
     },
     'de': {
         'spamremove-remove': u'Entferne in Spam-Blacklist eingetragenen Weblink auf %(url)s',
+    },
+    # Author: Geraki
+    'el': {
+        'spamremove-remove': u'Αφαίρεση συνδέσμων προς σπαμ ιστότοπο %(url)s',
     },
     # Author: Fitoschido
     'es': {
@@ -80,6 +88,7 @@ msg = {
         'spamremove-remove': u'ロボットによる: 迷惑リンク削除 %(url)s',
     },
     # Author: Hym411
+    # Author: Revi
     'ko': {
         'spamremove-remove': u'스팸 사이트 %(url)s 로의 링크 제거',
     },
@@ -102,6 +111,10 @@ msg = {
     # Author: Praveenp
     'ml': {
         'spamremove-remove': u'പാഴെഴുത്ത് സൈറ്റായ %(url)s എന്നതിലോട്ടുള്ള എല്ലാ കണ്ണികളും ഒഴിവാക്കുന്നു',
+    },
+    # Author: Anakmalaysia
+    'ms': {
+        'spamremove-remove': u'Menggugurkan pautan ke laman spam %(url)s',
     },
     # Author: Njsubedi
     'ne': {
@@ -143,6 +156,10 @@ msg = {
     'sr': {
         'spamremove-remove': u'Уклоњене везе према спам сајту %(url)s',
     },
+    # Author: Milicevic01
+    'sr-el': {
+        'spamremove-remove': u'Uklonjene veze prema spam sajtu %(url)s',
+    },
     # Author: Jopparn
     'sv': {
         'spamremove-remove': u'Tar bort länkar till spamsida %(url)s',
@@ -161,8 +178,9 @@ msg = {
     'vi': {
         'spamremove-remove': u'xóa các liên kết đến website spam %(url)s',
     },
+    # Author: Liuxinyu970226
     'zh': {
-        'spamremove-remove': u'機器人: 移除廣告黑名單連結 %(url)s',
+        'spamremove-remove': u'移除垃圾站点%(url)s的连接',
     },
     # Author: Kc kennylau
     # Author: LNDDYL

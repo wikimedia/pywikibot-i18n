@@ -495,9 +495,10 @@ msg = {
         'cosmetic_changes-standalone': u'Бот: козметичке измене',
         'cosmetic_changes-append': u'; козметичке измене',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'cosmetic_changes-standalone': u'Robot: kozmetičke izmene',
+        'cosmetic_changes-standalone': u'Bot: kozmetičke izmene',
         'cosmetic_changes-append': u'; kozmetičke izmene',
     },
     'sv': {

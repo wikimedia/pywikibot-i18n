@@ -392,11 +392,12 @@ msg = {
     # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'isbn-formatting': u'Бот: обликовано по ISBN-у',
+        'isbn-formatting': u'Бот: обликовање ISBN-а',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'isbn-formatting': u'Robot: oblikovanje ISBN-a',
+        'isbn-formatting': u'Bot: oblikovanje ISBN-a',
     },
     # Author: Ainali
     # Author: Lokal Profil

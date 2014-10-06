@@ -654,14 +654,15 @@ msg = {
         'interwiki-removing': u'bot oñembogue: %(removing)s',
         'interwiki-removing-modifying': u'bot oñembogue: %(removing)s oñemoambue: %(modifying)s',
     },
+    # Author: KartikMistry
     'gu': {
-        'interwiki-modifying': u'રોબોટ ફેરફાર: %(modifying)s',
-        'interwiki-adding-modifying': u'રોબોટ ઉમેરણ: %(adding)s ફેરફાર: %(modifying)s',
-        'interwiki-adding-removing': u'રોબોટ ઉમેરણ: %(adding)s હટાવ્યું: %(removing)s',
-        'interwiki-adding-removing-modifying': u'રોબોટ ઉમેરણ: %(adding)s હટાવ્યું: %(removing)s ફેરફાર: %(modifying)s',
-        'interwiki-adding': u'રોબોટ ઉમેરણ: %(adding)s',
-        'interwiki-removing': u'રોબોટ હટાવ્યું: %(removing)s',
-        'interwiki-removing-modifying': u'રોબોટ હટાવ્યું: %(removing)s ફેરફાર: %(modifying)s',
+        'interwiki-modifying': u'બોટ: %(modifying)s ફેરફાર કરે છે',
+        'interwiki-adding-modifying': u'બોટ: %(adding)s ઉમેરે છે; %(modifying)s ફેરફાર કરે છે',
+        'interwiki-adding-removing': u'બોટ: %(adding)s ઉમેરે છે; %(removing)s દૂર કરે છે',
+        'interwiki-adding-removing-modifying': u'બોટ: %(adding)s ઉમેરે છે; %(removing)s દૂર કરે છે; %(modifying)s ફેરફાર કરે છે',
+        'interwiki-adding': u'બોટ: %(adding)s ઉમેરે છે',
+        'interwiki-removing': u'બોટ: %(removing)s દૂર કરે છે',
+        'interwiki-removing-modifying': u'બોટ: %(removing)s દૂર કરે છે; %(modifying)s ફેરફાર કરે છે',
     },
     'gv': {
         'interwiki-modifying': u'bot caghlaait ec: %(modifying)s',
@@ -1675,16 +1676,17 @@ msg = {
         'interwiki-removing-modifying': u'Бот: уклоњено %(removing)s; измењено %(modifying)s',
         'interwiki-modifying-from': u'Бот: измењено %(from)s у %(modifying)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'interwiki-modifying': u'Robot: izmenjeno %(modifying)s',
-        'interwiki-adding-modifying': u'Robot: dodato %(adding)s; izmenjeno %(modifying)s',
-        'interwiki-adding-removing': u'Robot: dodato %(adding)s; uklonjeno %(removing)s',
-        'interwiki-adding-removing-modifying': u'Robot: dodato %(adding)s; uklonjeno %(removing)s; izmenjeno %(modifying)s',
-        'interwiki-adding': u'Robot: dodato %(adding)s',
-        'interwiki-removing': u'Robot: uklonjeno %(removing)s',
-        'interwiki-removing-modifying': u'Robot: uklonjeno %(removing)s; izmenjeno %(modifying)s',
-        'interwiki-modifying-from': u'Robot: promenjeno %(from)s u %(modifying)s',
+        'interwiki-modifying': u'Bot: izmenjeno %(modifying)s',
+        'interwiki-adding-modifying': u'Bot: dodato %(adding)s; izmenjeno %(modifying)s',
+        'interwiki-adding-removing': u'Bot: dodato %(adding)s; uklonjeno %(removing)s',
+        'interwiki-adding-removing-modifying': u'Bot: dodato %(adding)s; uklonjeno %(removing)s; izmenjeno %(modifying)s',
+        'interwiki-adding': u'Bot: dodato %(adding)s',
+        'interwiki-removing': u'Bot: uklonjeno %(removing)s',
+        'interwiki-removing-modifying': u'Bot: uklonjeno %(removing)s; izmenjeno %(modifying)s',
+        'interwiki-modifying-from': u'Bot: izmenjeno %(from)s u %(modifying)s',
     },
     'su': {
         'interwiki-modifying': u'bot Ngarobih: %(modifying)s',
@@ -1998,16 +2000,17 @@ msg = {
         'interwiki-removing': u'機械人 減: %(removing)s',
         'interwiki-removing-modifying': u'機械人 減: %(removing)s 改: %(modifying)s',
     },
+    # Author: Liuxinyu970226
     # Author: Yfdyh000
     # Author: 阿pp
     'zh': {
-        'interwiki-modifying': u'机器人修改：%(modifying)s',
-        'interwiki-adding-modifying': u'机器人添加：%(adding)s 修改：%(modifying)s',
-        'interwiki-adding-removing': u'机器人添加：%(adding)s 移除：%(removing)s',
-        'interwiki-adding-removing-modifying': u'机器人添加：%(adding)s 移除：%(removing)s 修改：%(modifying)s',
-        'interwiki-adding': u'机器人添加：%(adding)s',
-        'interwiki-removing': u'机器人移除：%(removing)s',
-        'interwiki-removing-modifying': u'机器人移除：%(removing)s 修改：%(modifying)s',
+        'interwiki-modifying': u'机器人：修改%(modifying)s',
+        'interwiki-adding-modifying': u'机器人：添加%(adding)s；修改%(modifying)s',
+        'interwiki-adding-removing': u'机器人：添加%(adding)s；移除%(removing)s',
+        'interwiki-adding-removing-modifying': u'机器人：添加%(adding)s；移除%(removing)s；修改%(modifying)s',
+        'interwiki-adding': u'机器人：添加%(adding)s',
+        'interwiki-removing': u'机器人：移除%(removing)s',
+        'interwiki-removing-modifying': u'机器人：移除%(removing)s；修改%(modifying)s',
         'interwiki-modifying-from': u'机器人：修改%(from)s至%(modifying)s',
     },
     'zh-classical': {

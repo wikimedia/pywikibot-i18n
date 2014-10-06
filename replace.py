@@ -361,9 +361,10 @@ msg = {
     'sr': {
         'replace-replacing': u'Бот: аутоматски замењен текст %(description)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'replace-replacing': u'Robot: samozamenjivanje teksta %(description)s',
+        'replace-replacing': u'Bot: automatski zamenjen tekst %(description)s',
     },
     'sv': {
         'replace-replacing': u'Bot: Automatisk textersättning: %(description)s',

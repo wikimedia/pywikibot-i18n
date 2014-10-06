@@ -322,9 +322,10 @@ msg = {
     'sr': {
         'editarticle-edit': u'Ручно уређивање са ботом: %(description)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'editarticle-edit': u'Ručno uređivanje s robotom: %(description)s',
+        'editarticle-edit': u'Ručno uređivanje sa botom: %(description)s',
     },
     # Author: Jopparn
     'sv': {

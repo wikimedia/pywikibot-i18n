@@ -137,8 +137,9 @@ msg = {
     'eu': {
         'basic-changing': u'Robota: Aldatzen ...',
     },
+    # Author: Alirezaaa
     'fa': {
-        'basic-changing': u'ربات: تغییر ...',
+        'basic-changing': u'ربات: در حال تغییردادن ...',
     },
     # Author: Crt
     # Author: Olli
@@ -333,6 +334,10 @@ msg = {
     'mzn': {
         'basic-changing': u'ربوت: تغییر ...',
     },
+    # Author: C.R.
+    'nap': {
+        'basic-changing': u'Bot: Cagnanno ...',
+    },
     'nds': {
         'basic-changing': u'Bot: Ännern ...',
     },
@@ -441,9 +446,10 @@ msg = {
     'sr': {
         'basic-changing': u'Бот: промењено',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'basic-changing': u'Robot: menja…',
+        'basic-changing': u'Bot: promenjeno',
     },
     'sv': {
         'basic-changing': u'Bot: Ändrar ...',

@@ -34,9 +34,11 @@ msg = {
         'reflinks-msg': u'Робат: даданьне загалоўкаў у зноскі з мэтай пазьбегнуць дублікатаў, глядзіце [[%(manual)s|частыя пытаньні]]',
     },
     # Author: Fohanno
+    # Author: Gwenn-Ael
     'br': {
         'reflinks-autogen': u'emc\'hanet',
         'reflinks-comment': u'Titl savet gant ur robot',
+        'reflinks-msg': u'Robot : reizhañ an daveennoù, furmadet fall, lemel doublennoù en ur implijout daveennoù anvet (s.o.  [[%(manual)s|FAG]]',
     },
     # Author: Edinwiki
     'bs': {
@@ -98,10 +100,11 @@ msg = {
         'reflinks-comment': u'Título generado por robot',
         'reflinks-msg': u'Bot: Conversión de referencias sencillas usando nombres para evitar duplicados. Véanse [[%(manual)s|P+F]]',
     },
+    # Author: Alirezaaa
     # Author: Reza1615
     'fa': {
         'reflinks-autogen': u'تولید خودکار',
-        'reflinks-comment': u'عنوان تصحیح شده توسط ربات',
+        'reflinks-comment': u'عنوان توسط ربات تولید شد',
         'reflinks-msg': u'ربات:تصحیح پيوند به بيرون يا عنوان پيوند. [[%(manual)s|اطلاعات بیشتر]]',
     },
     # Author: Silvonen
@@ -284,6 +287,12 @@ msg = {
         'reflinks-autogen': u'аутоматски генерисано',
         'reflinks-comment': u'Наслов који је генерисао бот',
         'reflinks-msg': u'Бот: исправљени наводи помоћу именованих навода да би се избегли дупликати; погледајте [[%(manual)s|ЧПП]]',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'reflinks-autogen': u'automatski generisano',
+        'reflinks-comment': u'Naslov koji je generisao bot',
+        'reflinks-msg': u'Bot: ispravljeni navodi pomoću imenovanih navoda da bi se izbegli duplikati; pogledajte [[%(manual)s|ČPP]]',
     },
     # Author: Jopparn
     # Author: Lokal Profil

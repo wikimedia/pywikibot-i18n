@@ -211,8 +211,9 @@ msg = {
     'gn': {
         'add_text-adding': u'bot ojoapy %(adding)s',
     },
+    # Author: KartikMistry
     'gu': {
-        'add_text-adding': u'રોબોટ ઉમેરણ %(adding)s',
+        'add_text-adding': u'બોટ: %(adding)s ઉમેરે છે',
     },
     'gv': {
         'add_text-adding': u'bot currit stiagh ec %(adding)s',
@@ -416,6 +417,10 @@ msg = {
     'nah': {
         'add_text-adding': u'TepozcuayollotlTlamahxiltilli %(adding)s',
     },
+    # Author: C.R.
+    'nap': {
+        'add_text-adding': u'Bot: Azzecco %(adding)s',
+    },
     'nds': {
         'add_text-adding': u'Bot: tofoiegt: %(adding)s',
     },
@@ -555,9 +560,10 @@ msg = {
     'sr': {
         'add_text-adding': u'Бот: додато %(adding)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'add_text-adding': u'Robot: dodato %(adding)s',
+        'add_text-adding': u'Bot: dodato %(adding)s',
     },
     'su': {
         'add_text-adding': u'bot Nambih %(adding)s',
@@ -660,10 +666,11 @@ msg = {
     'yue': {
         'add_text-adding': u'機械人 加 %(adding)s',
     },
+    # Author: Liuxinyu970226
     # Author: Mys 721tx
     # Author: Yfdyh000
     'zh': {
-        'add_text-adding': u'机器人：添加 %(adding)s',
+        'add_text-adding': u'机器人：添加%(adding)s',
     },
     'zh-classical': {
         'add_text-adding': u'僕 增 %(adding)s',

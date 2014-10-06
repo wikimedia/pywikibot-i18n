@@ -54,11 +54,12 @@ msg = {
         'weblinkchecker-caption': u'অকার্যকর সংযোগ',
     },
     # Author: Fulup
+    # Author: Gwenn-Ael
     'br': {
         'weblinkchecker-archive_msg': u'Saveteet eo bet ar bajenn Web gant Internet Archive. Marteze a-walc\'h e c\'hallfec\'h lakaat al liamm da vukañ war-zu unan eus ar stummoù diellaouet : [%(URL)s].',
         'weblinkchecker-caption': u'Liamm dall',
         'weblinkchecker-summary': u'Robot : A gemenn ez eus ul liamm diavaez diziraezus',
-        'weblinkchecker-report': u'E-pad meur a batrouilhenn robot n\'eus ket bet gallet diaraez arliamm da-heul. Gwiriit mat eo dall al liamm e gwirionez ha mard eo, reizhit-eñ pe lamit-eñ.',
+        'weblinkchecker-report': u'E-pad meur a batrouilhenn robot n\'eus ket bet gallet diaraez al liamm da-heul. Gwiriit mat eo dall al liamm e gwirionez ha mard eo, reizhit-eñ pe lamit-eñ.',
     },
     # Author: Edinwiki
     'bs': {
@@ -419,11 +420,12 @@ msg = {
         'weblinkchecker-summary': u'Bot: Link externo não funcionando',
         'weblinkchecker-report': u'Foi checado os links externos deste artigo por vários minutos. Alguém verifique por favor se a ligação estiver fora do ar e tente arrumá-lo ou removê-la!',
     },
+    # Author: Dianakc
     # Author: 555
     'pt-br': {
         'weblinkchecker-archive_msg': u'A página da web foi salva pelo "Internet Archive". Considere inserir link para uma versão arquivada adequada: [%(URL)s].',
         'weblinkchecker-caption': u'Link quebrado',
-        'weblinkchecker-summary': u'Bot: comunicando ligação externa indisponível',
+        'weblinkchecker-summary': u'Bot: comunicando link externo indisponível',
         'weblinkchecker-report': u'Durante várias execuções automáticas do robô, o seguinte endereço externo foi considerado indisponível. Verifique se está mesmo fora do ar e corrija-o ou remova-o nesse caso!',
     },
     # Author: Minisarm
@@ -480,11 +482,12 @@ msg = {
         'weblinkchecker-summary': u'Бот: пријављена недоступна спољашња веза',
         'weblinkchecker-report': u'После неколико извршавања бота, установљено је да је следећа спољашња веза недоступна. Проверите да ли је веза уистину неисправна и, у том случају, исправите је или је уклоните.',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
         'weblinkchecker-archive_msg': u'Veb stranica je sačuvana u Internet arhivi. Preporučujemo vam da stavite vezu do određene arhivirane verzije: [%(URL)s].',
         'weblinkchecker-caption': u'Neispravna veza',
-        'weblinkchecker-summary': u'Robot: prijavljena neispravna spoljašnja veza',
+        'weblinkchecker-summary': u'Bot: prijavljena nedostupna spoljašnja veza',
         'weblinkchecker-report': u'Pri nekoliko pokušaja bota, ustanovljeno je da sledeća spoljašnja veza nije dostupna. Proverite da li je veza uistinu neispravna i, ako jeste, ispravite je ili je uklonite.',
     },
     # Author: Lokal Profil
@@ -537,6 +540,7 @@ msg = {
     'yi': {
         'weblinkchecker-caption': u'טויטער לינק',
     },
+    # Author: Liuxinyu970226
     # Author: Mys 721tx
     # Author: Yfdyh000
     'zh': {

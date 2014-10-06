@@ -301,6 +301,7 @@ msg = {
     'eu': {
         'redirect-fix-double': u'Robota: «%(to)s» orriranzko birbideratze bikoitza konpontzea',
     },
+    # Author: Alirezaaa
     # Author: Ebraminio
     # Author: Huji
     # Author: Mjbmr
@@ -310,7 +311,7 @@ msg = {
     'fa': {
         'redirect-fix-double': u'ربات: اصلاح تغییرمسیر دوتایی به %(to)s',
         'redirect-remove-broken': u'ربات: تغییرمسیر به صفحهٔ ناموجود یا حذف‌شده',
-        'redirect-fix-broken-moved': u'ربات:اصلاح تغییرمسیرهای خراب به صفحهٔ هدف %(to)s',
+        'redirect-fix-broken-moved': u'ربات: اصلاح تغییرمسیرهای خراب به صفحهٔ انتقال‌یافتهٔ هدف %(to)s',
         'redirect-fix-loop': u'ربات: رفع حلقه در تغییرمسیر به %(to)s',
         'redirect-remove-loop': u'ربات: مقصد تغییرمسیر یک تغییرمسیر حلقه‌ای ایجاد می‌کند',
         'redirect-broken-redirect-template': u'{{حذف سریع|بن بست|bot=yes}}',
@@ -849,13 +850,14 @@ msg = {
         'redirect-remove-loop': u'Бот: одредиште преусмерења образује петљу',
         'redirect-broken-redirect-template': u'{{db-r1}}',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'redirect-fix-double': u'Robot: ispravljena dvostruka preusmerenja u %(to)s',
-        'redirect-remove-broken': u'Robot: preusmerenje do obrisane ili nepostojeće stranice',
-        'redirect-fix-broken-moved': u'Robot: ispravljeno pokvareno preusmerenje do premeštene ciljne stranice %(to)s',
-        'redirect-fix-loop': u'Robot: ispravljena petlja preusmerenja na %(to)s',
-        'redirect-remove-loop': u'Robot: odredište preusmerenja obrazuje petlju',
+        'redirect-fix-double': u'Bot: ispravljena dvostruka preusmerenja u %(to)s',
+        'redirect-remove-broken': u'Bot: preusmerenje do obrisane ili nepostojeće stranice',
+        'redirect-fix-broken-moved': u'Bot: ispravljeno pokvareno preusmerenje do premeštene ciljne stranice %(to)s',
+        'redirect-fix-loop': u'Bot: ispravljena petlja preusmerenja na %(to)s',
+        'redirect-remove-loop': u'Bot: odredište preusmerenja obrazuje petlju',
     },
     # Author: Boivie
     # Author: Jopparn
@@ -996,12 +998,13 @@ msg = {
     },
     # Author: Liangent
     # Author: Linforest
+    # Author: Liuxinyu970226
     # Author: Yfdyh000
     # Author: 阿pp
     'zh': {
         'redirect-fix-double': u'机器人：修正双重重定向至%(to)s',
         'redirect-remove-broken': u'机器人：重定向到已删除或不存在的页面',
-        'redirect-fix-broken-moved': u'机器人：修复破损的重定向到已移动的目标页面 %(to)s',
+        'redirect-fix-broken-moved': u'机器人：修复损坏的重定向到已移动的目标页面%(to)s',
         'redirect-fix-loop': u'机器人：修复重定向循环至%(to)s',
         'redirect-remove-loop': u'机器人：重定向目标构成循环',
         'redirect-broken-redirect-template': u'{{db-r1}}',

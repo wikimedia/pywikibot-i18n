@@ -166,6 +166,10 @@ msg = {
     'ms': {
         'blockpageschecker-summary': u'Bot: Menhapuskan templat lapuk',
     },
+    # Author: C.R.
+    'nap': {
+        'blockpageschecker-summary': u'Bot: levo \'o template obsoleto',
+    },
     # Author: Servien
     'nds-nl': {
         'blockpageschecker-summary': u'Bot: verouwerde mal vortedoan',
@@ -234,6 +238,10 @@ msg = {
     # Author: Rancher
     'sr': {
         'blockpageschecker-summary': u'Бот: обрисан застарели шаблон',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'blockpageschecker-summary': u'Bot: obrisan zastareli šablon',
     },
     # Author: WikiPhoenix
     'sv': {

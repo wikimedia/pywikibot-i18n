@@ -17,6 +17,10 @@ msg = {
     'be-x-old': {
         'misspelling-fixing': u'Робат: выпраўленьне памылковай спасылкі на %(page)s',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'misspelling-fixing': u'Robot : Prientiñ al liammoù n\'int reizhskrivet mat war-zu %(page)s',
+    },
     # Author: Edinwiki
     'bs': {
         'misspelling-fixing': u'Bot: Popravljanje pogrešne veze prema %(page)s',
@@ -38,6 +42,10 @@ msg = {
     },
     'de': {
         'misspelling-fixing': u'Bot: korrigiere Link auf Falschschreibung: %(page)s',
+    },
+    # Author: Geraki
+    'el': {
+        'misspelling-fixing': u'Bot: Διόρθωση ανορθόγραφου συνδέσμου σε %(page)s',
     },
     # Author: Fitoschido
     'es': {
@@ -110,6 +118,10 @@ msg = {
     'ml': {
         'misspelling-fixing': u'യന്ത്രം: %(page)s എന്ന താളിലേയ്ക്കുള്ള അക്ഷരപിശകുള്ള കണ്ണി ശരിയാക്കുന്നു',
     },
+    # Author: Anakmalaysia
+    'ms': {
+        'misspelling-fixing': u'Bot: Membetulkan pautan tersalah eja ke %(page)s',
+    },
     'nds': {
         'misspelling-fixing': u'Bot: rut mit verkehrt schreven Lenk op %(page)s',
     },
@@ -146,6 +158,10 @@ msg = {
     # Author: Milicevic01
     'sr': {
         'misspelling-fixing': u'Бот: поправљена погрешна веза према %(page)s',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'misspelling-fixing': u'Bot: popravljena pogrešna veza prema %(page)s',
     },
     # Author: Jopparn
     'sv': {

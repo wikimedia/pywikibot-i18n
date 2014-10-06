@@ -304,9 +304,10 @@ msg = {
     'sr': {
         'djvutext-creating': u'Бот: направљена страница са текстом изведеним из DjVu-а',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'djvutext-creating': u'Robot: napravljena stranica s tekstom izvedenim iz DjVu-a',
+        'djvutext-creating': u'Bot: napravljena stranica sa tekstom izvedenim iz DjVu-a',
     },
     # Author: Lokal Profil
     # Author: WikiPhoenix

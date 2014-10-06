@@ -333,9 +333,10 @@ msg = {
     'sr': {
         'noreferences-add-tag': u'Бот: додата ознака <references /> која недостаје',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'noreferences-add-tag': u'Robot: dodata odsutna oznaka <references />',
+        'noreferences-add-tag': u'Bot: dodata oznaka <references /> koja nedostaje',
     },
     # Author: Lokal Profil
     'sv': {

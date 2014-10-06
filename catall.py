@@ -275,6 +275,10 @@ msg = {
     'ms': {
         'catall-changing': u'Robot: Menukar kategori',
     },
+    # Author: C.R.
+    'nap': {
+        'catall-changing': u'Bot: Càgno categurie',
+    },
     # Author: Servien
     'nds-nl': {
         'catall-changing': u'Bot: wieziging van kategorieën',
@@ -371,9 +375,10 @@ msg = {
     'sr': {
         'catall-changing': u'Бот: промењене категорије',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'catall-changing': u'Robot: promenjene kategorije',
+        'catall-changing': u'Bot: promenjene kategorije',
     },
     # Author: Jopparn
     'sv': {

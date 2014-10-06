@@ -448,11 +448,12 @@ msg = {
         'template-changing': u'Бот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s',
         'template-substituting': u'Бот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'template-removing': u'Robot: {{PLURAL:%(num)d|uklonjen šablon|uklonjeni šabloni}}: %(list)s',
-        'template-changing': u'Robot: {{PLURAL:%(num)d|promenjen šablon|promenjeni šabloni}}: %(list)s',
-        'template-substituting': u'Robot: {{PLURAL:%(num)d|zamenjen šablon|zamenjeni šabloni}}: %(list)s',
+        'template-removing': u'Bot: {{PLURAL:%(num)d|uklonjen šablon|uklonjeni šabloni}}: %(list)s',
+        'template-changing': u'Bot: {{PLURAL:%(num)d|promenjen šablon|promenjeni šabloni}}: %(list)s',
+        'template-substituting': u'Bot: {{PLURAL:%(num)d|zamenjen šablon|zamenjeni šabloni}}: %(list)s',
     },
     # Author: WikiPhoenix
     'sv': {

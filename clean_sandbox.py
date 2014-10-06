@@ -346,9 +346,10 @@ msg = {
     'sr': {
         'clean_sandbox-cleaned': u'Бот: очишћен песак',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'clean_sandbox-cleaned': u'Robot: očišćen pesak',
+        'clean_sandbox-cleaned': u'Bot: očišćen pesak',
     },
     # Author: Jopparn
     'sv': {

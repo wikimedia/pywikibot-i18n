@@ -357,10 +357,11 @@ msg = {
         'table2wiki-warnings': u'Бот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења}})',
         'table2wiki-no-warning': u'Бот којим управља корисник: синтакса табеле је ажурирана',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'table2wiki-warnings': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja|%(count)d upozorenja}})',
-        'table2wiki-no-warning': u'Robot kojim upravlja korisnik: sintaksa tabele je ažurirana',
+        'table2wiki-warnings': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja}})',
+        'table2wiki-no-warning': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana',
     },
     # Author: Jopparn
     # Author: WikiPhoenix

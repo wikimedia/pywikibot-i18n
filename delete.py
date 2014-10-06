@@ -95,6 +95,10 @@ msg = {
         'delete-from-file': u'Робат: выдаленьне сьпісу старонак.',
         'delete-linked-pages': u'Робат: выдаліў усе старонкі зьвязаныя з %(page)s',
     },
+    # Author: Tauhid16
+    'bn': {
+        'delete-from-file': u'বট: একটি পাতার তালিকা অপসারণ করা হচ্ছে।',
+    },
     # Author: Phurbutsering
     'bo': {
         'delete-images': u'མི་གཟུགས་འཕྲུལ་ཆས་ ：%(page)s ཤོག་ངོས་ཐོག་གི་བརྙན་རིས་རྣམས་སུབ་བཞིན་པ།',
@@ -232,13 +236,14 @@ msg = {
         'delete-from-file': u'Robot: kustutatud nimekirjas toodud leheküljed',
         'delete-linked-pages': u'Robot: kustutatud kõik asukohas %(page)s lingitud leheküljed',
     },
+    # Author: Alirezaaa
     # Author: Ladsgroup
     # Author: ZxxZxxZ
     'fa': {
         'delete-images': u'ربات: حذف همهٔ تصاویر صفحهٔ %(page)s',
         'delete-referring-pages': u'ربات: حذف تمام صفحه‌هایی که به %(page)s پیوند داده‌اند',
         'delete-from-category': u'ربات: حذف تمام صفحه‌های ردهٔ %(page)s',
-        'delete-from-file': u'ربات: حذف فهرستی از صفحه‌ها.',
+        'delete-from-file': u'ربات: حذف فهرستی از صفحات.',
         'delete-linked-pages': u'ربات: حذف تمام صفحه‌هایی که در %(page)s پیوند شده‌اند',
     },
     # Author: Crt
@@ -678,13 +683,14 @@ msg = {
         'delete-from-file': u'Бот: обрисан списак страница.',
         'delete-linked-pages': u'Бот: обрисане све странице које потичу из %(page)s',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'delete-images': u'Robot: obrisane sve slike na stranici %(page)s',
-        'delete-referring-pages': u'Robot: obrisane sve stranice koje potiču iz %(page)s',
-        'delete-from-category': u'Robot: obrisane sve stranice iz kategorije %(page)s',
-        'delete-from-file': u'Robot: obrisan spisak datoteka.',
-        'delete-linked-pages': u'Robot: obrisane sve stranice koje vode iz %(page)s',
+        'delete-images': u'Bot: obrisane sve slike na stranici %(page)s',
+        'delete-referring-pages': u'Bot: obrisane sve stranice koje potiču iz %(page)s',
+        'delete-from-category': u'Bot: obrisane sve stranice iz kategorije %(page)s',
+        'delete-from-file': u'Bot: obrisan spisak stranica.',
+        'delete-linked-pages': u'Bot: obrisane sve stranice koje potiču iz %(page)s',
     },
     # Author: Lokal Profil
     # Author: WikiPhoenix

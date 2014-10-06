@@ -94,6 +94,10 @@ msg = {
         'pywikibot-enter-category-name': u'Калі ласка, увядзіце назву катэгорыі:',
         'pywikibot-enter-finished-browser': u'Націсьніце Enter, калі скончыце рэдагаваньне ў броўзэры.',
     },
+    # Author: Tauhid16
+    'bn': {
+        'pywikibot-enter-new-text': u'দয়া নতুন বাক্য লিখুন:',
+    },
     # Author: Gwenn-Ael
     'br': {
         'pywikibot-enter-xml-filename': u'Ebarzhit anv ar restr eztennañ XML, mar plij:',
@@ -717,25 +721,27 @@ msg = {
         'pywikibot-enter-new-text': u'Ju lutem shtypni tekstin e ri:',
         'pywikibot-enter-finished-browser': u'Shtypni Enter kur të përfondojë në shfletues.',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'pywikibot-enter-xml-filename': u'Унесите име XML исписа:',
+        'pywikibot-enter-xml-filename': u'Унесите назив XML исписа:',
         'pywikibot-enter-page-processing': u'Коју страницу желите да обрадите?',
         'pywikibot-enter-file-links-processing': u'За које датотеке желите да обрадите везе?',
         'pywikibot-enter-namespace-number': u'Унесите именски простор поред његовог броја:',
         'pywikibot-enter-new-text': u'Унесите нови текст:',
-        'pywikibot-enter-category-name': u'Унесите име категорије:',
+        'pywikibot-enter-category-name': u'Унесите назив категорије:',
         'pywikibot-enter-finished-browser': u'Притисните Enter када завршите у прегледачу.',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
         'pywikibot-enter-xml-filename': u'Unesite naziv XML ispisa:',
-        'pywikibot-enter-page-processing': u'Koja stranica treba da se obradi?',
-        'pywikibot-enter-file-links-processing': u'Treba da se obrade veze do koje slike?',
+        'pywikibot-enter-page-processing': u'Koju stranicu želite da obradite?',
+        'pywikibot-enter-file-links-processing': u'Za koje datoteke želite da obradite veze?',
         'pywikibot-enter-namespace-number': u'Unesite imenski prostor pored njegovog broja:',
         'pywikibot-enter-new-text': u'Unesite novi tekst:',
         'pywikibot-enter-category-name': u'Unesite naziv kategorije:',
-        'pywikibot-enter-finished-browser': u'Pritisnite enter kada završite u pregledaču.',
+        'pywikibot-enter-finished-browser': u'Pritisnite Enter kada završite u pregledaču.',
     },
     # Author: Cybjit
     # Author: Lokal Profil

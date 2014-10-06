@@ -17,6 +17,10 @@ msg = {
     'be-x-old': {
         'makecat-create': u'Робат: стварэньне або абнаўленьне катэгорыі [[:Category:%(cat)s|]]',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'makecat-create': u'Robot: Krouiñ pe hizivaat rummad [[:Category:%(cat)s|]]',
+    },
     # Author: Edinwiki
     'bs': {
         'makecat-create': u'Bot: Pravljenje i ažuriranje kategorije [[:Category:%(cat)s|]]',
@@ -43,6 +47,10 @@ msg = {
     # Author: Mirzali
     'diq': {
         'makecat-create': u'Bot: Kategoriye [[:Category:%(cat)s|]] vırazeno ya zi keno newe',
+    },
+    # Author: Geraki
+    'el': {
+        'makecat-create': u'Bot: Δημιουργία ή ενημέρωση της κατηγορίας [[:Category:%(cat)s|]]',
     },
     'es': {
         'makecat-create': u'Bot: Creación o actualiza de la categoría [[:Category:%(cat)s|]]',
@@ -83,6 +91,7 @@ msg = {
         'makecat-create': u'Bot: La creazione o laggiornamento di categoria [[:Category:%(cat)s|]]',
     },
     # Author: Hym411
+    # Author: Revi
     'ko': {
         'makecat-create': u'로봇: 분류 생성 및 업데이트 [[:Category:%(cat)s|]]',
     },
@@ -105,6 +114,10 @@ msg = {
     # Author: Praveenp
     'ml': {
         'makecat-create': u'യന്ത്രം: വർഗ്ഗം [[:Category:%(cat)s|]] സൃഷ്ടിക്കുന്നു അല്ലെങ്കിൽ പുതുക്കുന്നു',
+    },
+    # Author: Anakmalaysia
+    'ms': {
+        'makecat-create': u'Bot: Mewujudkan atau mengemaskinikan kategori [[:Category:%(cat)s|]]',
     },
     # Author: C.R.
     'nap': {
@@ -149,7 +162,11 @@ msg = {
     },
     # Author: Milicevic01
     'sr': {
-        'makecat-create': u'Бот: Прављење или аужурирање категорије [[:Category:%(cat)s|]]',
+        'makecat-create': u'Бот: прављење или аужурирање категорије [[:Category:%(cat)s|]]',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'makecat-create': u'Bot: pravljenje ili aužuriranje kategorije [[:Category:%(cat)s|]]',
     },
     # Author: Jopparn
     'sv': {

@@ -56,6 +56,14 @@ msg = {
         'casechecker-delete-reason': u'ཁ་ཕྱོགས་བསྐྱར་སྟོན་འདི་ མཛུབ་སྟོན་བྱེད་ས་ནི་%(target)s ཡིན།',
         'casechecker-rename': u'རང་འགུལ་འཕྲུལ་ཆས་ ：བརྡ་དག་གི་རྣམ་དབྱ་འདྲེས་ལྷད་ཅན་ལ་མིང་འདོགས་པ།',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'casechecker-replacement-summary': u'Robot : kemmoù  tirenneg  :',
+        'casechecker-delete-summary': u'Robot : An adkas-mañ zo ennañ lizherennoù heñvel eus al lizherenneg kirillek ha latin en e ditl.',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-delete-reason': u'Bukañ a rae an adkas-se war %(target)s',
+        'casechecker-rename': u'Robot : adenvel e tirenneg kemmesk',
+    },
     # Author: Edinwiki
     'bs': {
         'casechecker-replacement-summary': u'Bot: Izmjena malih/valikih slova:',
@@ -110,6 +118,14 @@ msg = {
     'diq': {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
     },
+    # Author: Geraki
+    'el': {
+        'casechecker-replacement-summary': u'Bot: Αντικαταστάσεις πεζών/κεφαλαίων:',
+        'casechecker-delete-summary': u'Bot: Αυτή η ανακατεύθυνση περιέχει πανομοιότυπης εμφάνιση Κυριλλικά και Λατινικό γράμματα στον τίτλο',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-delete-reason': u'Αυτή η ανακατεύθυνση οδηγούσε στο %(target)s',
+        'casechecker-rename': u'Bot: μετονομασία μεικτών πεζών/κεφαλαίων',
+    },
     # Author: KuboF
     'eo': {
         'casechecker-replacement-summary': u'Roboto: Ŝanĝo de uskleco:',
@@ -126,13 +142,14 @@ msg = {
         'casechecker-delete-reason': u'Esta redirección solía apuntar a %(target)s',
         'casechecker-rename': u'Bot: renombramiento con mayúsculas/minúsculas combinadas',
     },
+    # Author: Alirezaaa
     # Author: Reza1615
     'fa': {
-        'casechecker-replacement-summary': u'ربات: مورد تعویض:',
-        'casechecker-delete-summary': u'ربات:تغییرمسیر دارای حروف مشابه با لاتین و سیریلیک در عنوانش است',
+        'casechecker-replacement-summary': u'ربات: جایگزین‌های موردی:',
+        'casechecker-delete-summary': u'ربات: این تغییرمسیر شامل حروف مشابه لاتین و سیریلیک در عنوانش است',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'این تغییرمسیر برای اشاره به %(target)s است',
-        'casechecker-rename': u'ربات:تغییرنام با حروف بزرگ و کوچک مخلوط',
+        'casechecker-rename': u'ربات: تغییرنام ترکیبی از حروف بزرگ و کوچک',
     },
     # Author: Gomoko
     'fr': {
@@ -235,6 +252,7 @@ msg = {
     },
     # Author: Hym411
     # Author: Priviet
+    # Author: Revi
     # Author: 아라
     'ko': {
         'casechecker-replacement-summary': u'로봇: 대소문자 교체:',
@@ -290,6 +308,14 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'Lencongan ini pernah menuju ke %(target)s',
         'casechecker-rename': u'Bot: menukar nama campur kecil besar huruf',
+    },
+    # Author: C.R.
+    'nap': {
+        'casechecker-replacement-summary': u'Bot: Scagnanno maiuscole/minuscole:',
+        'casechecker-delete-summary': u'Bot: stu redirect cuntente dit\' \'o titolo lettere \'a l\'alfabeto cirillico e latino eguale',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-delete-reason': u'Stu redirect è ausato pe\' puntà a %(target)s',
+        'casechecker-rename': u'Bot: rinommeno p\'avé maiuscole/minuscole mmescate',
     },
     # Author: सरोज कुमार ढकाल
     'ne': {
@@ -377,13 +403,22 @@ msg = {
         'casechecker-replacement-summary': u'Bot: Xaalad bedelaad:',
         'casechecker-rename': u'Bot: iskudhaf la magaceeyey',
     },
+    # Author: Milicevic01
     # Author: Rancher
     'sr': {
         'casechecker-replacement-summary': u'Бот: замене малих и великих слова:',
-        'casechecker-delete-summary': u'Бот: Преусмерење у наслову садржи ћирилична и латинична слова идентичног изгледа',
+        'casechecker-delete-summary': u'Бот: преусмерење у наслову садржи ћирилична и латинична слова идентичног изгледа',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'Преусмерење је претходно водило до %(target)s',
         'casechecker-rename': u'Бот: преименовано са мешаним малим и великим словима',
+    },
+    # Author: Milicevic01
+    'sr-el': {
+        'casechecker-replacement-summary': u'Bot: zamene malih i velikih slova:',
+        'casechecker-delete-summary': u'Bot: preusmerenje u naslovu sadrži ćirilična i latinična slova identičnog izgleda',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-delete-reason': u'Preusmerenje je prethodno vodilo do %(target)s',
+        'casechecker-rename': u'Bot: preimenovano sa mešanim malim i velikim slovima',
     },
     # Author: Jopparn
     # Author: Lokal Profil
@@ -417,10 +452,11 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'די ווייטערפירונג פלעג ווײַזן אויף %(target)s',
     },
+    # Author: Liuxinyu970226
     # Author: Yfdyh000
     'zh': {
         'casechecker-replacement-summary': u'机器人：替换大小写：',
-        'casechecker-delete-summary': u'机器人：此重定向的标题看上去包含相同的西里尔字母与拉丁字母',
+        'casechecker-delete-summary': u'机器人：此重定向的标题包含看上去相同的西里尔字母与拉丁字母',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-delete-reason': u'此重定向指向了%(target)s',
         'casechecker-rename': u'机器人：更名混用大小写',

@@ -311,11 +311,11 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s posljednja izmjena] (%(page_size)s bajtova) od %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Upozorenje bota: %(page)s "\'\'%(warning)s\'\'".',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nova rasprava',
-        'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - zadnja izmjena od [[Korisnik:%(user)s]] (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - posljednja izmjena od [[Korisnik:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Obavještenje',
         'thirdparty-drtrigonbot-subster-summary-mod': u'Zamjenjujem %(tags)s oznaka',
         'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Rasprava zatvorena',
-        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s sve rasprave su završene (nadzor zaustavljen) - zadnja izmjena od %(user)s (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s sve rasprave su završene (nadzor zaustavljen) - posljednja izmjena od %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-summary-add': u'Sažetak rasprave dodan; %(num)i unosa.',
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Rasprava izmjenjena',
         'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Sažetak rasprave dodan sa čiščenjem: %(num)i unosa.',
@@ -368,7 +368,7 @@ msg = {
     # Author: Calak
     'ckb': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'ڕۆبۆت',
-        'thirdparty-drtrigonbot-sum_disc-notify-new': u'وتووێژی نوێ',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'لێدوانی نوێ',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'ئاگاداری',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'پەیامی ڕۆبۆت',
     },
@@ -558,6 +558,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResumo generiĝis el kaj ĉe: %(sign)s</noinclude>',
     },
     # Author: Armando-Martin
+    # Author: Macofe
     # Author: Vivaelcelta
     'es': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
@@ -568,7 +569,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nueva discusión',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span>; última edición hecha por [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Notificación',
-        'thirdparty-drtrigonbot-subster-summary-mod': u'sustituyendo las etiqueta(s) %(tags)s',
+        'thirdparty-drtrigonbot-subster-summary-mod': u'sustituyendo la(s) etiqueta(s) %(tags)s',
         'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discusión cerrada',
         'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s todas las discusiones han acabado (vigilancia detenida); última edición hecha por %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-summary-add': u'Añadido el resumen de la discusión: %(num)i entradas',
@@ -586,16 +587,18 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Arutelulehte muudeti',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTI SÕNUM',
     },
+    # Author: Fitoschido
     # Author: Subi
     # Author: Theklan
     # Author: Unai Fdz. de Betoño
     'eu': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'bota',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ez da giza editorerik aurkitu)',
-        'thirdparty-drtrigonbot-sum_disc-notify-new': u'Eztabaida Berria',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'Eztabaida berria',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Jakinarazpena',
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Eztabaida aldatu da',
     },
+    # Author: Alirezaaa
     # Author: Huji
     # Author: Mjbmr
     # Author: Reza1615
@@ -603,10 +606,10 @@ msg = {
     'fa': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'ربات',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ویرایشگر انسان یافت نشد)',
-        'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
+        'thirdparty-drtrigonbot-sum_disc-parse-start': u'؛ %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s آخرین ویرایش] (%(page_size)s بایت) توسط %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* پیام هشدار ربات: %(page)s «\'\'%(warning)s\'\'»',
-        'thirdparty-drtrigonbot-sum_disc-notify-new': u'بحث جدید',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'بحث تازه',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - آخرین ویرایش توسط [[کاربر:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'اطلاعیه',
         'thirdparty-drtrigonbot-subster-summary-mod': u'جانشانی برچسب(های) %(tags)s',
@@ -615,9 +618,9 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-summary-add': u'افزودن خلاصهٔ بحث‌ها: %(num)i  مورد',
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'بحث تغییر کرد',
         'thirdparty-drtrigonbot-sum_disc-summary-clean': u'خلاصهٔ بحث با تمیزکاری افزوده شد: %(num)i مورد',
-        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'به‌روزرسانی خلاصهٔ بحث: %(num)i مورد در %(page)s',
+        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'خلاصهٔ بحث به روز شد: %(num)i مورد در %(page)s',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'***پیام ربات***',
-        'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nخلاصهٔ ویرایش تولیدشده از/در: %(sign)s</noinclude>',
+        'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nخلاصهٔ ویرایش تولیدشده از و در: %(sign)s</noinclude>',
     },
     # Author: Crt
     # Author: Nedergard
@@ -711,16 +714,16 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s leetst feranrang] (%(page_size)s bytes) faan %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Bot waarskauet: %(page)s "\'\'%(warning)s\'\'"',
-        'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nei diskusjuun',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'Nei diskuschuun',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - leetst feranrang faan [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Nooracht',
         'thirdparty-drtrigonbot-subster-summary-mod': u'bütje %(tags)s tag(s) ütj',
-        'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskusjuun ufslööden',
+        'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskuschuun ufslööden',
         'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s aal jo diskusjuunen san ufslööden (woort ei muar beaachtet) - leetst feranrang faan %(user)s (%(time)s)',
-        'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskusjuun tuupfaadet: %(num)i bidracher',
-        'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusjuun feranert',
-        'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskusjuun tuupfaadet an apredet: %(num)i bidracher',
-        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskusjuun tuupfaadet an apredet: %(num)i bidracher üüb %(page)s',
+        'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskuschuun tuupfaadet: %(num)i bidracher',
+        'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskuschuun feranert',
+        'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskuschuun tuupfaadet an apredet: %(num)i bidracher',
+        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskuschuun tuupfaadet an apredet: %(num)i bidracher üüb %(page)s',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'BOT NOORACHT',
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nTuupfaadet faan: %(sign)s</noinclude>',
     },
@@ -746,8 +749,9 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nResumo xerado desde e en: %(sign)s</noinclude>',
     },
     # Author: Harsh4101991
+    # Author: KartikMistry
     'gu': {
-        'thirdparty-drtrigonbot-sum_disc-summary-head': u'રોબોટ',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'બોટ',
     },
     # Author: Anson2812
     # Author: Jetlag
@@ -1650,7 +1654,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(није пронађен људски уредник)',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s – [%(history_link)s последња измена] (%(page_size)s бајтова) од %(user)s (%(time)s)',
-        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Упозорење робота: %(page)s „\'\'%(warning)s\'\'“',
+        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Упозорење бота: %(page)s „\'\'%(warning)s\'\'“',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Нови разговор',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – последња измена од [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Обавештење',
@@ -1665,27 +1669,29 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nОпис је генерисан из и у: %(sign)s</noinclude>',
     },
     # Author: DrTrigon
+    # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'thirdparty-drtrigonbot-sum_disc-summary-head': u'robot',
-        'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nema urednika)',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
+        'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(nije pronađen ljudski urednik)',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s – [%(history_link)s poslednja izmena] (%(page_size)s bajtova) od %(user)s (%(time)s)',
-        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Robotovo upozorenje: %(page)s „\'\'%(warning)s\'\'“',
+        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Upozorenje bota: %(page)s „\'\'%(warning)s\'\'“',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Novi razgovor',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> – poslednja izmena od [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Obaveštenje',
-        'thirdparty-drtrigonbot-subster-summary-mod': u'zamena oznaka %(tags)s',
+        'thirdparty-drtrigonbot-subster-summary-mod': u'zamenjene oznake %(tags)s',
         'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Razgovor je zatvoren',
         'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s svi razgovori su završeni (nadzor je prekinut) – poslednja izmena od %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-summary-add': u'Dodat je opis razgovora: %(num)i unosa',
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Razgovor je izmenjen',
         'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Dodat je opis razgovora sa čišćenjem: %(num)i unosa',
-        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Opis razgovora je ažuriran: %(num)i unosa u %(page)s',
-        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTOVA PORUKA',
-        'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nOpis je stvoren iz i u: %(sign)s</noinclude>',
+        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Opis razgovora je ažuriran: %(num)i unosa na stranici %(page)s',
+        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'PORUKA BOTA',
+        'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nOpis je generisan iz i u: %(sign)s</noinclude>',
     },
     # Author: Jopparn
+    # Author: Lokal Profil
     # Author: WikiPhoenix
     'sv': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
@@ -1696,7 +1702,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Ny diskussion',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - senaste redigering av [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Meddelande',
-        'thirdparty-drtrigonbot-subster-summary-mod': u'ersätter %(tags)s tag(s)',
+        'thirdparty-drtrigonbot-subster-summary-mod': u'ersätter %(tags)s tagg(ar)',
         'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Diskussion stängd',
         'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alla diskussioner är klara (övervakning stoppades) - senaste redigering av %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskussionssammanfattning lades till: %(num)i poster',
@@ -1950,6 +1956,7 @@ msg = {
     # Author: Breawycker
     # Author: Justincheng12345
     # Author: LNDDYL
+    # Author: Liuxinyu970226
     # Author: Simon Shek
     'zh-hant': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'機械人',
@@ -1989,5 +1996,9 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-summary-mod': u'討論摘要更新：%(page)s中%(num)i項',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'機械人信息',
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>摘要由在%(sign)s生成</noinclude></noinclude>',
+    },
+    # Author: LNDDYL
+    'zh-tw': {
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'機器人',
     },
 };
