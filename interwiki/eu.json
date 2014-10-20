@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "robota Aldatua: %(modifying)s",
 	"interwiki-adding-modifying": "robota Erantsia: %(adding)s Aldatua: %(modifying)s",
 	"interwiki-adding-removing": "robota Erantsia: %(adding)s Ezabatua: %(removing)s",

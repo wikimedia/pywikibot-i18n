@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"weblinkchecker-archive_msg": "Denne nettsiden er lagra i Internet Archive. Vurder om lenka kan endres til å peke til en av de arkiverte versjonene: [%(URL)s].",
 	"weblinkchecker-caption": "Død lenke",
 	"weblinkchecker-summary": "bot: Rapporter død eksternlenke",

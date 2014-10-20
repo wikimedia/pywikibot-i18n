@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "бот полафтозе: %(modifying)s",
 	"interwiki-adding-modifying": "бот поладозе: %(adding)s полафтозе: %(modifying)s",
 	"interwiki-adding-removing": "бот поладозе: %(adding)s нардазе: %(removing)s",

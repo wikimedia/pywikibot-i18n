@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"category-adding": "робот: эптэ category [[:Category:%(newcat)s|%(newcat)s]]"
 }

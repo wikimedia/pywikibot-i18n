@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"category-adding": "bot: Nambih category [[:Category:%(newcat)s|%(newcat)s]]"
 }

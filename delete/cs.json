@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"delete-images": "Robot smazal všechny obrázky z %(page)s",
 	"delete-referring-pages": "Robot smazal vše odkazující na %(page)s",
 	"delete-from-category": "Robot smazal obsah kategorie %(page)s",

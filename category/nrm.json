@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"category-adding": "robot: ajouôte category [[:Category:%(newcat)s|%(newcat)s]]"
 }

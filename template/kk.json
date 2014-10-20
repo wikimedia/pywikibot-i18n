@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"template-removing": "Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} аластатылды: %(list)s",
 	"template-changing": "Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} өзгертілді: %(list)s",
 	"template-substituting": "Бот: Мына {{PLURAL:%(num)d|үлгі|үлгілер}} бәделдірленді: %(list)s"

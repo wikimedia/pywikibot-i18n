@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Helder.wiki",
-			555
+			555,
+			"He7d3r"
 		]
 	},
 	"solve_disambiguation-redirect-removed": "Desambiguação assistida por bot: %(from)s - link(s) removido(s)",

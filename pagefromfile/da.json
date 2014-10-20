@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List"
+		]
+	},
+	"pagefromfile-msg_bottom": "tilføjer nederst",
+	"pagefromfile-msg_force": "erstatter eksisterende tekst",
+	"pagefromfile-msg_top": "tilføjer øverst",
+	"pagefromfile-msg": "Bot: Automatiseret import af artikler"
+}

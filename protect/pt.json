@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"protect-links": "Bot: Protegendo todos os artigos ligados a %(page)s",
 	"protect-simple": "Bot: Protegendo uma lista de artigos.",
 	"protect-category": "Bot: Protegendo todos os artigos da categoria %(cat)s",

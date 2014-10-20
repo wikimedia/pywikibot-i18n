@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "робот ҳaвз карда истодааст: %(modifying)s",
 	"interwiki-adding-modifying": "робот илова карда истодааст: %(adding)s ҳaвз карда истодааст: %(modifying)s",
 	"interwiki-adding-removing": "робот илова карда истодааст: %(adding)s дигаргуни карда истодааст: %(removing)s",

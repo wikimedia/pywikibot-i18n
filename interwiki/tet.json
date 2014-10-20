@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "bot filak: %(modifying)s",
 	"interwiki-adding-modifying": "bot tau tan: %(adding)s filak: %(modifying)s",
 	"interwiki-adding-removing": "bot tau tan: %(adding)s hasai: %(removing)s",

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Theklan"
+			"Theklan",
+			"Subi"
 		]
 	},
-	"archivebot-older-than": "hau baino zaharragoak:",
+	"archivebot-older-than": "%(duration)s baino zaharragoak",
 	"archivebot-archive-full": "(ARTXIBOA BETETA)"
 }

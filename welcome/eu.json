@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"An13sa"
+			"An13sa",
+			"Subi"
 		]
 	},
-	"welcome-welcome": "Ongi etorri!"
+	"welcome-welcome": "Ongi etorri!",
+	"welcome-updating": "Bot-a: Erregistroa eguneratzen"
 }

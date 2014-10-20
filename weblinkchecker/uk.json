@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"weblinkchecker-archive_msg": "Веб-сторінка була збережена у Internet Archive. Будь ласка, подумайте над заміною посилання на відповідну збережену версію: [%(URL)s].",
 	"weblinkchecker-caption": "Недоступне зовнішнє посилання",
 	"weblinkchecker-summary": "Бот: Сповіщення про мертві зовнішні посилання",

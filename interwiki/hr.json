@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "robot Mijenja: %(modifying)s",
 	"interwiki-adding-modifying": "robot Dodaje: %(adding)s Mijenja: %(modifying)s",
 	"interwiki-adding-removing": "robot Dodaje: %(adding)s Uklanja: %(removing)s",

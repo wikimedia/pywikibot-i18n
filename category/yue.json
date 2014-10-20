@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"category-adding": "機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]"
 }

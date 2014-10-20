@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "robot pòprôwiô: %(modifying)s",
 	"interwiki-adding-modifying": "robot dodôwô: %(adding)s pòprôwiô: %(modifying)s",
 	"interwiki-adding-removing": "robot dodôwô: %(adding)s rëmô: %(removing)s",

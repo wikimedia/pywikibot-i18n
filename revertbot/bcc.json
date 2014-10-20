@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Baloch Afghanistan"
+		]
+	},
+	"revertbot-revert": "ربات: واگردانی به نسخهٔ  %(revid)s توسط %(author)s در %(timestamp)s"
+}

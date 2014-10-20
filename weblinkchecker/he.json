@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"weblinkchecker-archive_msg": "עמוד האינטרנט נשמר על־ידי ארכיון האינטרנט. אנא שקלו לקשר לגרסה המאורכבת המתאימה: [%(URL)s]",
 	"weblinkchecker-caption": "קישור שבור",
 	"weblinkchecker-summary": "בוט: מדווח על קישור חיצוני בלתי זמין",

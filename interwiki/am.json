@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "ሎሌ ማስተካከል: %(modifying)s",
 	"interwiki-adding-modifying": "ሎሌ መጨመር: %(adding)s ማስተካከል: %(modifying)s",
 	"interwiki-adding-removing": "ሎሌ መጨመር: %(adding)s ማስወገድ: %(removing)s",

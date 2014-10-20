@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"category-adding": "Robot: jontant category [[:Category:%(newcat)s|%(newcat)s]]"
 }

@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"makecat-create": "Bot: Kategorie [[:Category:%(cat)s|]] wurde neu angelegt oder aktualisiert"
 }

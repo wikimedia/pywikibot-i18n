@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "bot oñemoambue: %(modifying)s",
 	"interwiki-adding-modifying": "bot ojoapy: %(adding)s oñemoambue: %(modifying)s",
 	"interwiki-adding-removing": "bot ojoapy: %(adding)s oñembogue: %(removing)s",

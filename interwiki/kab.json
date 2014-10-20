@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "a rubut a senfel: %(modifying)s",
 	"interwiki-adding-modifying": "a rubut ti merniwt: %(adding)s a senfel: %(modifying)s",
 	"interwiki-adding-removing": "a rubut ti merniwt: %(adding)s a ḍegger: %(removing)s",

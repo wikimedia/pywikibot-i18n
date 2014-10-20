@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "Боттың түзеткені: %(modifying)s",
 	"interwiki-adding-modifying": "Боттың үстегені: %(adding)s түзеткені: %(modifying)s",
 	"interwiki-adding-removing": "Боттың үстегені: %(adding)s аластағаны: %(removing)s",

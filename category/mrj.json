@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"category-adding": "робот: темен category [[:Category:%(newcat)s|%(newcat)s]]"
 }

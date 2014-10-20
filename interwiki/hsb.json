@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "bot změnił: %(modifying)s",
 	"interwiki-adding-modifying": "bot přidał: %(adding)s změnił: %(modifying)s",
 	"interwiki-adding-removing": "bot přidał: %(adding)s wotstronił: %(removing)s",

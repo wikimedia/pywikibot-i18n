@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "bot ebóngólí: %(modifying)s",
 	"interwiki-adding-modifying": "bot ebakísí: %(adding)s ebóngólí: %(modifying)s",
 	"interwiki-adding-removing": "bot ebakísí: %(adding)s elongólí: %(removing)s",

@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alunardon90"
+			"Alunardon90",
+			"Candalua"
 		]
 	},
-	"archivebot-older-than": "pi vecio de",
+	"archivebot-older-than": "pi vecio de %(duration)s",
 	"archivebot-page-summary": "Robot: Archiviasion de %(count)d discusion (%(why)s) in %(archives)s.",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARCHIVIO PIEN)",

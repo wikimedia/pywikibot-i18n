@@ -1,3 +1,4 @@
 {
+	"@metadata": [],
 	"add_text-adding": "Edit summary when the bot adds text to a given page. %(adding)s is the added text truncated to 200 characters."
 }

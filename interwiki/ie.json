@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "Bot: Modificat: %(modifying)s",
 	"interwiki-adding-modifying": "Bot: Adjuntet: %(adding)s Modificat: %(modifying)s",
 	"interwiki-adding-removing": "Bot: Adjuntet: %(adding)s Removet: %(removing)s",

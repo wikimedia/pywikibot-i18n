@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"commons-file-moved": "[[:File:%(localfile)s|Bestand]] is verplaatst naar [[:commons:File:%(commonsfile)s|commons]].",
 	"commons-file-now-available": "Dit bestand staat nu op [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
 }

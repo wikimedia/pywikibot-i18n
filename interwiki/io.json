@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"interwiki-modifying": "roboto modifikas: %(modifying)s",
 	"interwiki-adding-modifying": "roboto adjuntas: %(adding)s modifikas: %(modifying)s",
 	"interwiki-adding-removing": "roboto adjuntas: %(adding)s efacas: %(removing)s",

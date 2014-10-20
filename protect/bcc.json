@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Baloch Afghanistan"
+		]
+	},
+	"protect-links": "ربات:حفاظت تمام صفحه‌هایی که در %(page)s پیوند شده‌اند.",
+	"protect-simple": "ربات:حفاظت فهرستی از صفحات",
+	"protect-category": "ربات:حفاظت تمام صفحه‌های رده %(cat)s",
+	"protect-ref": "ربات:حفاظت تمام صفحه‌هایی که به %(page)s پیوند داده‌اند",
+	"protect-images": "ربات: حفاظت از تمام تصاویر به کار رفته در %(page)s"
+}
