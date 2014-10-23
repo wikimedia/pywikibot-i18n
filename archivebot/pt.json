@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Giro720",
-			"Xqt"
+			"Xqt",
+			"Macofe"
 		]
 	},
-	"archivebot-older-than": "mais velho que",
+	"archivebot-older-than": "mais velho que %(duration)s",
 	"archivebot-page-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s.",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
