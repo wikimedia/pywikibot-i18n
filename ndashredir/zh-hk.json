@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Justincheng12345"
+			"Justincheng12345",
+			"LNDDYL"
 		]
 	},
-	"ndashredir-create": "機械人創建連字符重定向到[[%(title)s]]"
+	"ndashredir-create": "機械人建立連字符重新導向至[[%(title)s]]"
 }

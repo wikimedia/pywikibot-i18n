@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"C5st4wr6ch",
-			"Ilham151096"
+			"Ilham151096",
+			"Ezagren"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas XML dump:",
 	"pywikibot-enter-page-processing": "Halaman yang harus diproses?",
+	"pywikibot-enter-file-links-processing": "Pranala ke halaman berkas mana yang harus diproses?",
 	"pywikibot-enter-namespace-number": "Silakan masukkan ruang nama berdasarkan nomornya:",
 	"pywikibot-enter-new-text": "Masukkan teks baru:",
 	"pywikibot-enter-category-name": "Silakan masukkan nama kategori:",

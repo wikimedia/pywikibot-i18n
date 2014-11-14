@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Alirezaaa",
-			"ZxxZxxZ"
+			"ZxxZxxZ",
+			"Ladsgroup"
 		]
 	},
 	"archivebot-older-than": "قدیمی‌تر از %(duration)s",
-	"archivebot-page-summary": "ربات: بایگانی %(count)d {{PLURAL:%(count)d|بحث|مباحث}} (%(why)s) به %(archives)s.",
+	"archivebot-page-summary": "ربات: بایگانی %(count)d بحث (%(why)s) به %(archives)s.",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(بایگانی پر است)",
-	"archivebot-archive-summary": "ربات: بایگانی %(count)d {{PLURAL:%(count)d|بحث|مباحث}} از [[%(from)s]]."
+	"archivebot-archive-summary": "ربات: بایگانی %(count)d بحث از [[%(from)s]]."
 }

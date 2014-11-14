@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ezagren"
+		]
+	},
+	"casechecker-replacement-summary": "Bot: Kapitalisasi:",
+	"casechecker-delete-summary": "Bot: Pa-ugahan mamakai aksara Kiril dan Latin nang mahirip",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-delete-reason": "Pa-ugahan ngini diguna-akan gasan ka %(target)s",
+	"casechecker-rename": "Parlu digani-i?"
+}

@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Wehwei"
 		]
 	},
-	"pagefromfile-msg_bottom": "於底部加入"
+	"pagefromfile-msg_bottom": "於底部加入",
+	"pagefromfile-msg_force": "覆寫現有文字",
+	"pagefromfile-msg_top": "從頂部加入",
+	"pagefromfile-msg": "機器人：自動導入條目"
 }

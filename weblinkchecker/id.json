@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"ArdWar",
-			"C5st4wr6ch"
+			"C5st4wr6ch",
+			"Ezagren"
 		]
 	},
+	"weblinkchecker-archive_msg": "Halaman web telah diselamatkan oleh Internet Archive. Silakan mempertimbangkan menghubungkan ke versi arsip yang sesuai: [%(URL)].",
 	"weblinkchecker-caption": "Pranala mati",
+	"weblinkchecker-summary": "Bot: Pelaporan pranala luar yang tersedia",
 	"weblinkchecker-report": "Selama beberapa bot otomatis berjalan, pranala luar berikut menjadi tidak tersedia. Silakan memeriksa apakah pranala sebenarnya sedang turun dan memperbaiki atau menghapusnya dalam hal ini!"
 }

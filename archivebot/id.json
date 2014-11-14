@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Aldnonymous",
-			"Farras"
+			"Farras",
+			"Ezagren"
 		]
 	},
-	"archivebot-older-than": "lebih tua dari",
+	"archivebot-older-than": "lebih tua dari s % (durasi)",
 	"archivebot-page-summary": "Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ke %(archives)s.",
 	"archivebot-archiveheader": "{{Talkarchive}}",
 	"archivebot-archive-full": "(ARSIP LENGKAP)",

@@ -5,17 +5,18 @@
 			"Dalba",
 			"Ebraminio",
 			"Mjbmr",
-			"ZxxZxxZ"
+			"ZxxZxxZ",
+			"Ladsgroup"
 		]
 	},
 	"category-version-history": "ربات: ذخیرهٔ تاریخچهٔ سابق %(oldcat)s",
 	"category-changing": "ربات: تغییر %(oldcat)s به %(newcat)s",
-	"category-adding": "ربات: افزودن ردهٔ [[:رده:%(newcat)s|%(newcat)s]]",
+	"category-adding": "ربات: افزودن ردهٔ [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(همچنین در %(alsocat)s)",
 	"category-was-disbanded": "ربات: رده خالی شد",
 	"category-replacing": "ربات: جایگزینی ردهٔ %(oldcat)s با %(newcat)s",
 	"category-removing": "ربات: حذف از %(oldcat)s",
-	"category-was-moved": "ربات: رده به [[:Category:%(newcat)s|%(title)s]] منتقل شد",
+	"category-was-moved": "ربات: رده به [[:رده:%(newcat)s|%(title)s]] منتقل شد",
 	"category-renamed": "ربات: از %s منتقل شد. پدیدآورندگان: %s",
 	"category-section-title": "تاریخچهٔ صفحهٔ %(oldcat)s سابق",
 	"category-listifying": "ربات: فهرست‌کردن از %(fromcat)s ({{PLURAL:%(num)d|یک عضو|%(num)d عضو}})"

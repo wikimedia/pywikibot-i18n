@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Justincheng12345"
+			"Justincheng12345",
+			"LNDDYL"
 		]
 	},
 	"delete-images": "機械人刪除%(page)s中所有圖像",
 	"delete-referring-pages": "機械人删除所有從%(page)s指向的頁面",
 	"delete-from-category": "機械人刪除所有来自%(page)s分類的頁面",
 	"delete-from-file": "機械人正在刪除列表中的檔案。",
-	"delete-linked-pages": "機械人删除所有從%(page)s鏈接的頁面"
+	"delete-linked-pages": "機械人删除所有從%(page)s連結的頁面"
 }

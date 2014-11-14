@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"C5st4wr6ch"
+			"C5st4wr6ch",
+			"Ezagren"
 		]
 	},
-	"reflinks-comment": "Judul yang dihasilkan bot"
+	"reflinks-autogen": "Software otomatis",
+	"reflinks-comment": "Judul yang dihasilkan bot",
+	"reflinks-msg": "Bot: Mengubah referensi kosong, menggunakan nama ref untuk menghindari duplikat, lihat [[%(manual)|FAQ]]"
 }

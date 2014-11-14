@@ -11,7 +11,7 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Роботан дӀахьедар: %(page)s \"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Керла дийцаре",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - последняя декъашхочун [[User:%(user)s]] тӀехьара нисдар (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Хаамаш",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Хаам",
 	"thirdparty-drtrigonbot-subster-summary-mod": "хуьйцуш ю тегаш %(tags)s",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Дийцаре дIачIаьгIна",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s массо дийцарш чекхдаьлла (тергам бар чекхдаьлла) - тӀехьара нисдар дина декъашхочо %(user)s (%(time)s)",
