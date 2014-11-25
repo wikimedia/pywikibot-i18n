@@ -2,12 +2,14 @@
 msg = {
     'en': {
         'weblinkchecker-archive_msg': u'The web page has been saved by the Internet Archive. Please consider linking to an appropriate archived version: [%(URL)s].',
+        'weblinkchecker-badurl_msg': u'The link provided does not appear to be a valid URL',
         'weblinkchecker-caption': u'Dead link',
         'weblinkchecker-summary': u'Bot: Reporting unavailable external link',
         'weblinkchecker-report': u'During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!',
     },
     'qqq': {
         'weblinkchecker-archive_msg': u'weblinkchecker report message for web archives',
+        'weblinkchecker-badurl_msg': u'weblinkchecker report message if the link in the article is not a valid URL',
         'weblinkchecker-caption': u'The weblinkchecker report\'s caption',
         'weblinkchecker-summary': u'Edit summary for weblinkchecker report',
         'weblinkchecker-report': u'The weblinkchecker report',
