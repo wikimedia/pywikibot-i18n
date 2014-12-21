@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"redirect-fix-double": "Bot: Fixing double redirect to %(to)s",
 	"redirect-remove-broken": "Bot: Redirect to a deleted or non-existent page",
 	"redirect-fix-broken-moved": "Bot: Fixing broken redirect to moved target page %(to)s",
