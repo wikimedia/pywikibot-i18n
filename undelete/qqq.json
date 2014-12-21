@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Unicodesnowman"
+		]
+	},
+	"undelete-from-file": "Edit summary when the bot undeletes a list of pages.",
+	"undelete-images": "Edit summary when the bot undeletes all images on a page.\n\nParameters:\n* %(page)s - page where linked images are deleted\nSee also:\n* {{msg-pywikibot|Protect-links}}",
+	"undelete-linked-pages": "Edit summary when the bot undeletes all pages linked on a page.\n\nParameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-links}}"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Unicodesnowman"
+		]
+	},
+	"undelete-from-file": "Bot: Undeleting a list of pages.",
+	"undelete-images": "Bot: Undeleting all images on page %(page)s",
+	"undelete-linked-pages": "Bot: Undeleting all pages linked from %(page)s"
+}

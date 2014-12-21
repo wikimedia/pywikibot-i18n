@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 msg = {
+    # Author: Lloffiwr
+    # Author: Shirayuki
+    # Author: Xqt
     'en': {
         'delete-from-category': u'Bot: Deleting all pages from category %(page)s',
         'delete-from-file': u'Bot: Deleting a list of pages.',
