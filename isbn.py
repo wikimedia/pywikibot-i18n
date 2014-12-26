@@ -7,7 +7,7 @@ msg = {
     # Author: Lloffiwr
     # Author: Xqt
     'qqq': {
-        'isbn-formatting': u'Edit summary when the bot fixes [http://en.wikipedia.org/wiki/International_Standard_Book_Number ISBN] number formatting.',
+        'isbn-formatting': u'Edit summary when the bot fixes [[w:International Standard Book Number|ISBN]] number formatting.',
     },
     # Author: Csisc
     'aeb': {

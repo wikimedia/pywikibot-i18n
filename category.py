@@ -31,7 +31,7 @@ msg = {
         'category-removing': u'Edit summary. Parameters:\n* %(oldcat)s - old category name',
         'category-was-moved': u'{{doc-important|Do not translate "[[:Category:%(newcat)s|%(title)s]]"}}',
         'category-section-title': u'Section title for keeping page history',
-        'category-listifying': u'Definition of [http://meta.wikimedia.org/wiki/Pywikipediabot/category.py#Syntax listify] - make a list of all of the articles that are in a category.\n\n*Variable "%(fromcat)s" = the category to make a list of in the listify option.\n*Variable "%(num)d" is probably a number.\n*You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(num)d|1 entry|%(num)d entries}}</nowiki></code>)\nDo not translate the variables.',
+        'category-listifying': u'Definition of [[mw:Manual:Pywikibot/category.py#Syntax listify] - make a list of all of the articles that are in a category.\n\n*Variable "%(fromcat)s" = the category to make a list of in the listify option.\n*Variable "%(num)d" is probably a number.\n*You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(num)d|1 entry|%(num)d entries}}</nowiki></code>)\nDo not translate the variables.',
     },
     # Author: Csisc
     'aeb': {

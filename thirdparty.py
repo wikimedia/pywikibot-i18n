@@ -30,7 +30,7 @@ msg = {
     'qqq': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'Summary line first part.\n{{Identical|Bot}}',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'Message part indicating the fact that no human editor is given for a page.',
-        'thirdparty-drtrigonbot-sum_disc-parse-start': u'Message header for bot report output. Is just a timestamp format and language independent.\n\nTimestamp format markers are as in the "strftime" C function. See "man 3 strftime" on any Linux/Unix system, or http://www.manpagez.com/man/3/strftime/',
+        'thirdparty-drtrigonbot-sum_disc-parse-start': u'Message header for bot report output. Is just a timestamp format and language independent.\n\nTimestamp format markers are as in the "strftime" C function. See "man 3 strftime" on any Linux/Unix system, or [[w:strftime|strftime]]',
         'thirdparty-drtrigonbot-sum_disc-parse': u'Message for reporting of new or changed discussion pages (sections within pages).',
         'thirdparty-drtrigonbot-sum_disc-parse-warning': u'Message for reporting of unexpected behaviour or situations to the user.',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'First part of message if discussion is new.',
