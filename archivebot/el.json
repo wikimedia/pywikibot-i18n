@@ -5,7 +5,7 @@
 			"Glavkos"
 		]
 	},
-	"archivebot-older-than": "παλαιότερο από",
+	"archivebot-older-than": "παλαιότερο από %(duration)s",
 	"archivebot-page-summary": "Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s.",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)",

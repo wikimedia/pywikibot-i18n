@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Rezonansowy",
-			"Ty221"
+			"Ty221",
+			"Saper",
+			"Sp5uhe"
 		]
 	},
-	"weblinkchecker-archive_msg": "Ta strona została zapisana przez Archiwum Internetowe. Proszę sprawdzić czy jakieś strony nie linkują do tej zarchiwizowanej wersji : %(URL)s",
-	"weblinkchecker-caption": "Niedziałający link",
+	"weblinkchecker-archive_msg": "Zawartość niedostępnej strony została zarchiwizowana przez Internet Archive. Sprawdź czy nie warto podlinkować strony archiwalnej: %(URL)s",
+	"weblinkchecker-caption": "Martwy link",
 	"weblinkchecker-summary": "Robot zgłasza niedostępny link zewnętrzny",
-	"weblinkchecker-report": "W ciągu kilku automatycznych kontroli następujący link zewnętrzny był niedostępny. Proszę, sprawdź linki naprawdę \"martwe\" i w takim przypadku należy skorygować lub usunąć go!"
+	"weblinkchecker-report": "Automat już kilka razy próbował otworzyć linkowaną stronę, niestety bez rezultatu. Sprawdź czy strona rzeczywiście nie działa i ewentualnie popraw link na właściwy. Jeżeli nie można odnaleźć linkowanej strony, rozważ usunięcie odwołania."
 }

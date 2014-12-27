@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Edinwiki"
+			"Edinwiki",
+			"Palapa"
 		]
 	},
-	"archivebot-older-than": "starije od",
+	"archivebot-older-than": "starije od %(dužina)s",
 	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} (%(why)s) u arhivu %(archives)s.",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARHIVA PUNA)",

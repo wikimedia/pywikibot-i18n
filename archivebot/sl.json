@@ -4,7 +4,7 @@
 			"Dbc334"
 		]
 	},
-	"archivebot-older-than": "starejše od",
+	"archivebot-older-than": "starejše od %(duration)s",
 	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|razprave|razpravi|razprave|razprav}} (%(why)s) na %(archives)s.",
 	"archivebot-archiveheader": "{{arhiviran-pogovor}}",
 	"archivebot-archive-full": "(ARHIV JE POLN)",

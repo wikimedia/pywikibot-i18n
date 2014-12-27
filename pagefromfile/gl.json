@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"pagefromfile-msg_bottom": "achega na parte inferior",
+	"pagefromfile-msg_force": "texto existente sobrescrito",
+	"pagefromfile-msg_top": "achega na parte superior",
+	"pagefromfile-msg": "Bot: importación automática de artigos"
+}

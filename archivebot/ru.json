@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Express2000",
-			"Rubin16"
+			"Rubin16",
+			"Okras"
 		]
 	},
-	"archivebot-older-than": "старше, чем",
+	"archivebot-older-than": "старше, чем %(duration)s",
 	"archivebot-page-summary": "Архивация %(count)d {{PLURAL:%(count)d|темы|тем}} (%(why)s) в %(archives)s.",
 	"archivebot-archiveheader": "{{Архив обсуждения}}",
 	"archivebot-archive-full": "(АРХИВ ЗАПОЛНЕН)",

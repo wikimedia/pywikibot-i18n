@@ -4,7 +4,7 @@
 			"Minh Nguyen"
 		]
 	},
-	"archivebot-older-than": "cũ hơn",
+	"archivebot-older-than": "cũ hơn %(duration)s",
 	"archivebot-page-summary": "Lưu trữ %(count)d luồng (%(why)s) qua %(archives)s.",
 	"archivebot-archiveheader": "{{Thảo luận lưu}}",
 	"archivebot-archive-full": "(LƯU TRỮ ĐÃ ĐẦY)",

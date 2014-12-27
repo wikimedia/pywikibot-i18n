@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Waihorace"
+			"Waihorace",
+			"LNDDYL"
 		]
 	},
-	"capitalize_redirects-create-redirect": "機械人：創建重定向至[[%(to)s]]"
+	"capitalize_redirects-create-redirect": "機械人：建立重新導向至 [[%(to)s]]"
 }

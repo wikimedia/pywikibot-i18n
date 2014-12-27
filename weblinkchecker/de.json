@@ -1,6 +1,11 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
 	"weblinkchecker-archive_msg": "Die Webseite wurde vom Internet Archive gespeichert. Bitte verlinke gegebenenfalls eine geeignete archivierte Version: [%(URL)s].",
+	"weblinkchecker-badurl": "Der angegebene Link scheint keine gültige URL zu sein",
 	"weblinkchecker-caption": "Toter Weblink",
 	"weblinkchecker-summary": "Bot: Berichte nicht verfügbaren Weblink",
 	"weblinkchecker-report": "Bei mehreren automatisierten Botläufen wurde der folgende Weblink als nicht verfügbar erkannt. Bitte überprüfe, ob der Link tatsächlich unerreichbar ist, und korrigiere oder entferne ihn in diesem Fall!"
