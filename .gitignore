@@ -1,2 +1,7 @@
 *.bak
 *.pyc
+*.pyo
+*.py~
+*pycache*
+*.json~
+
