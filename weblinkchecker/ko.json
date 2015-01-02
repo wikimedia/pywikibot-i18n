@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Gusdud25"
 		]
 	},
 	"weblinkchecker-archive_msg": "웹 페이지가 인터넷 아카이브에 저장되어 있습니다. 적절한 아카이브한 버전으로 링크를 고려하세요: [%(URL)s].",
+	"weblinkchecker-badurl": "주어진 링크가 올바른 URL로 보이지 않아요 ㅠㅠ",
 	"weblinkchecker-caption": "죽은 링크",
 	"weblinkchecker-summary": "로봇: 사용할 수 없는 바깥 링크를 보고",
 	"weblinkchecker-report": "봇이 여러 번 자동으로 실행하는 동안 다음 바깥 링크는 사용할 수 없는 것으로 확인되었습니다. 끊어진 링크가 있는지 확인하고 고치거나 제거하세요!"

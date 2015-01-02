@@ -12,7 +12,7 @@
 	"category-replacing": "Robot: categorie %(oldcat)s is vervangen door %(newcat)s",
 	"category-removing": "Robot: verwijderd uit %(oldcat)s",
 	"category-was-moved": "Robot: categorie is hernoemd naar [[:Category:%(newcat)s|%(title)s]]",
-	"category-renamed": "Bot: hernoemd van %s. Auteurs: %s",
+	"category-renamed": "Robot: hernoemd van %s. Auteurs: %s",
 	"category-section-title": "Paginageschiedenis van voormalige %(oldcat)s",
 	"category-listifying": "Robot: lijst van %(fromcat)s (%(num)d pagina's)"
 }

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"undelete-from-file": "Robot: Annulation de la suppression d’une liste de pages",
+	"undelete-images": "Robot : Annulation de la suppression de toutes les images de la page %(page)s",
+	"undelete-linked-pages": "Robot: Annulation de la suppression de toutes les pages liées à %(page)s"
+}

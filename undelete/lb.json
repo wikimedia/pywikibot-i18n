@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"undelete-from-file": "Bot: Restauratioun vun enger Lëscht vu Säiten",
+	"undelete-images": "Bot: All Fichieren op der Säit %(page)s restauréieren",
+	"undelete-linked-pages": "Bot: All Säite restauréieren déi vun der Säit %(page)s verlinkt sinn"
+}

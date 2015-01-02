@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Crt",
-			"Silvonen"
+			"Silvonen",
+			"Harriv"
 		]
 	},
-	"archivebot-older-than": "vanhempi kuin",
+	"archivebot-older-than": "vanhempi kuin %(duration)s",
 	"archivebot-page-summary": "Botti arkistoi %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} (%(why)s) arkistoon %(archives)s.",
 	"archivebot-archiveheader": "{{Arkisto}}",
 	"archivebot-archive-full": "(ARKISTO TÄYNNÄ)",

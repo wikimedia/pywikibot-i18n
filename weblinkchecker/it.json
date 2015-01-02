@@ -5,6 +5,7 @@
 		]
 	},
 	"weblinkchecker-archive_msg": "La pagina web è stata salvata da Internet Archive. Prendi in considerazione di collegare alla versione archiviata appropriata: [%(URL)s].",
+	"weblinkchecker-badurl": "Il collegamento fornito non sembra essere un URL valido",
 	"weblinkchecker-caption": "Link rotti",
 	"weblinkchecker-summary": "Bot: segnalo collegamenti esterni non raggiungibili",
 	"weblinkchecker-report": "Durante varie esecuzioni del bot i seguenti collegamenti esterni si sono rivelati non raggiungibili. Si prega di controllare se il link è effettivamente errato, quindi correggerlo o rimuoverlo."

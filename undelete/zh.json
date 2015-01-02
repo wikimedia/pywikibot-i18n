@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"undelete-from-file": "机器人：取消删除一列表的页面",
+	"undelete-images": "机器人：取消删除%(page)s页面上的所有图片",
+	"undelete-linked-pages": "机器人：取消删除所有从%(page)s链接的页面"
+}

@@ -8,5 +8,10 @@
 	"category-changing": "Bot: Cagnanno 'e %(oldcat)s dint'a %(newcat)s",
 	"category-adding": "Bot: Azzeccata 'a categurìa [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(pure 'n %(alsocat)s)",
-	"category-was-disbanded": "Bot: 'A categurìa è stata luvata"
+	"category-was-disbanded": "Bot: 'A categurìa è stata luvata",
+	"category-replacing": "Bot: Rimpiazzanno categurìe %(oldcat)s cu %(newcat)s",
+	"category-removing": "Bot: Luvann'a %(oldcat)s",
+	"category-was-moved": "Bot: Categurìa spustat'a [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Spustata 'a %s. Auture: %s",
+	"category-section-title": "Cronologgia 'e primma %(oldcat)s"
 }

@@ -4,6 +4,6 @@
 			"Siebrand"
 		]
 	},
-	"table2wiki-warnings": "Tabel gewijzigd van HTML naar Wikiopmaak - {{PLURAL:count|1 waarschuwing|%(count)d waarschuwingen}}!",
-	"table2wiki-no-warning": "Tabel gewijzigd van HTML naar Wikiopmaak"
+	"table2wiki-warnings": "Tabel gewijzigd van HTML naar wikiopmaak - {{PLURAL:count|1 waarschuwing|%(count)d waarschuwingen}}!",
+	"table2wiki-no-warning": "Tabel gewijzigd van HTML naar wikiopmaak"
 }

@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"selflink-remove": "Bot: verwijzingen naar pagina zelf verwijderd"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"selflink-remove": "Robot: verwijzingen naar pagina zelf verwijderd"
 }

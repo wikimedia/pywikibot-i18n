@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"undelete-from-file": "Robot: lijst met pagina's teruggeplaatst",
+	"undelete-images": "Robot: alle afbeeldingen op pagina %(page)s teruggeplaatst",
+	"undelete-linked-pages": "Robot: alle pagina's gekoppeld vanaf %(page)s teruggeplaatst"
+}

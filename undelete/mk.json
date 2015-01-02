@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"undelete-from-file": "Бот: Отповикано бришење на список на страници",
+	"undelete-images": "Бот: Отповикано бришење на сите слики на страницата %(page)s",
+	"undelete-linked-pages": "Бот: Отповикано бришење на сите страници што водат од %(page)s"
+}

@@ -5,6 +5,7 @@
 		]
 	},
 	"weblinkchecker-archive_msg": "Deze website is bewaard in het Internet Archive. Overweeg te koppelen naar een gearchiveerde pagina: [%(URL)s].",
+	"weblinkchecker-badurl": "De koppeling lijkt geen geldige URL te zijn",
 	"weblinkchecker-caption": "Dode koppeling",
 	"weblinkchecker-summary": "Robot: melding (tijdelijk) onbereikbare externe koppeling",
 	"weblinkchecker-report": "Tijdens enkele automatische controles bleek de onderstaande externe koppeling onbereikbaar. Controleer of de koppeling inderdaad onbereikbaar is. Verwijder deze tekst na een succesvolle controle of na het verwijderen of corrigeren van de externe koppeling."

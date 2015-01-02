@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"undelete-from-file": "בוט: שחזור רשימת דפים מחוקים",
+	"undelete-images": "בוט: שחזור כל התמונות שנמחקו בדף %(page)s",
+	"undelete-linked-pages": "בוט: שחזור כל הדפים שמקושרים מהדף %(page)s"
+}

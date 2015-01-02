@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"undelete-from-file": "Bot: Stelle eine Liste mit Seiten wieder her",
+	"undelete-images": "Bot: Stelle alle Bilder auf der Seite %(page)s wieder her",
+	"undelete-linked-pages": "Bot: Stelle alle Seiten wieder her, die von %(page)s verlinkt sind"
+}
