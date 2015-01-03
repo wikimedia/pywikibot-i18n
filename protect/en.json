@@ -1,4 +1,5 @@
 {
+	"@metadata": [],
 	"protect-links": "Bot: Protecting all pages linked from %(page)s",
 	"protect-simple": "Bot: Protecting a list of files.",
 	"protect-category": "Bot: Protecting all pages from category %(cat)s",

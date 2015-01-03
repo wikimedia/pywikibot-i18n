@@ -1,0 +1,11 @@
+{
+  "name": "pywikibot-i18n",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-banana-checker": "0.2.0"
+  }
+}
