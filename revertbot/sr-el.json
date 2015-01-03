@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Milicevic01"
-		]
-	},
-	"revertbot-revert": "Bot: vraćeno na izmenu %(revid)s autora %(author)s od %(timestamp)s"
-}

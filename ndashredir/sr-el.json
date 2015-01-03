@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Rancher"
-		]
-	},
-	"ndashredir-create": "Bot: napravljeno preusmerenje pojma sa crticom na [[%(title)s]]"
-}

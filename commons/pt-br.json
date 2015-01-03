@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			555
-		]
-	},
-	"commons-file-moved": "[[:File:%(localfile)s|Arquivo]] movido para o [[:commons:File:%(commonsfile)s|commons]].",
-	"commons-file-now-available": "O arquivo agora está disponível no [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
-}

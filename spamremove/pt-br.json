@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Amgauna"
-		]
-	},
-	"spamremove-remove": "Removendo links de spam do site %(url)s"
-}
