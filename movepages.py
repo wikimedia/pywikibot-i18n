@@ -280,8 +280,8 @@ msg = {
     'pt': {
         'movepages-moving': u'Robô: Página movida',
     },
-    # Author: Pedroca cerebral
     # Author: 555
+    # Author: Pedroca cerebral
     'pt-br': {
         'movepages-moving': u'Bot: Página movida',
     },

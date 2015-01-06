@@ -324,8 +324,8 @@ msg = {
     'pt': {
         'catall-changing': u'Robô: Categorizando',
     },
-    # Author: Pedroca cerebral
     # Author: 555
+    # Author: Pedroca cerebral
     'pt-br': {
         'catall-changing': u'Bot: Alterando categorias',
     },

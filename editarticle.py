@@ -282,8 +282,8 @@ msg = {
     'pt': {
         'editarticle-edit': u'A editar manualmente com bot: %(description)s',
     },
-    # Author: Giro720
     # Author: 555
+    # Author: Giro720
     'pt-br': {
         'editarticle-edit': u'Edição manual via Bot: %(description)s',
     },

@@ -345,9 +345,9 @@ msg = {
     'pt': {
         'isbn-formatting': u'Robô: A formatar o ISBN',
     },
+    # Author: 555
     # Author: Hamilton Abreu
     # Author: Helder.wiki
-    # Author: 555
     'pt-br': {
         'isbn-formatting': u'Bot: Formatando ISBN',
     },

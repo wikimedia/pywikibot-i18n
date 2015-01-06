@@ -295,8 +295,8 @@ msg = {
     'pt': {
         'fixing_redirects-fixing': u'Robô: Arrumando redirects',
     },
-    # Author: Pedroca cerebral
     # Author: 555
+    # Author: Pedroca cerebral
     'pt-br': {
         'fixing_redirects-fixing': u'Bot: Corrigindo redirecionamentos',
     },

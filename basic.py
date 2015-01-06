@@ -395,8 +395,8 @@ msg = {
     'pt': {
         'basic-changing': u'Robô: A alterar ...',
     },
-    # Author: Giro720
     # Author: 555
+    # Author: Giro720
     'pt-br': {
         'basic-changing': u'Bot: Alterando...',
     },

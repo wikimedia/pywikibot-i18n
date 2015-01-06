@@ -9,38 +9,38 @@ msg = {
     # Author: EugeneZelenko
     # Author: Xqt
     'qqq': {
-        'welcome-welcome': u'Edit summary for the welcome message\n{{Identical|Welcome}}',
         'welcome-bad_username': u'Edit summary for reporting a possibly bad username.',
         'welcome-updating': u'Edit summary for updating the welcome log.',
+        'welcome-welcome': u'Edit summary for the welcome message\n{{Identical|Welcome}}',
     },
     # Author: Csisc
     'aeb': {
-        'welcome-welcome': u'مرحبا!',
         'welcome-bad_username': u'بوت: إضافة اسم مستخدم يحتاج للفحص',
         'welcome-updating': u'بوت: تحديث السجل',
+        'welcome-welcome': u'مرحبا!',
     },
     # Author: Naudefj
     'af': {
-        'welcome-welcome': u'Welkom!',
         'welcome-bad_username': u'Robot: voeg \'n gebruikersnaam wat gekontrolleer moet word by',
         'welcome-updating': u'Robot: werk logboek by',
+        'welcome-welcome': u'Welkom!',
     },
     # Author: Als-Chlämens
     'als': {
-        'welcome-welcome': u'Willchu!',
         'welcome-bad_username': u'Bötli: due e Benutzername ergänze, wo no überprieft werde muess',
         'welcome-updating': u'Bötli: Logbuech wird aktualisiert',
+        'welcome-welcome': u'Willchu!',
     },
     'am': {
-        'welcome-welcome': u'Welcome to Amharic Wikipedia!',
         'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
         'welcome-updating': u'Bot: Updating log',
+        'welcome-welcome': u'Welcome to Amharic Wikipedia!',
     },
     # Author: ترجمان05
     'ar': {
-        'welcome-welcome': u'مرحبا!',
         'welcome-bad_username': u'بوت: إضافة اسم مستخدم يحتاج للفحص',
         'welcome-updating': u'بوت: تحديث السجل',
+        'welcome-welcome': u'مرحبا!',
     },
     # Author: Man2fly2002
     'arc': {
@@ -49,29 +49,29 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'welcome-welcome': u'¡Bienllegáu!',
         'welcome-bad_username': u'Robó: Amestando un nome d\'usuariu que necesita comprobase',
         'welcome-updating': u'Robó: Anovando\'l rexistru',
+        'welcome-welcome': u'¡Bienllegáu!',
     },
     # Author: Cekli829
     # Author: Ebrahimi-amir
     'az': {
-        'welcome-welcome': u'Xoş gəlmisiniz!',
         'welcome-bad_username': u'Bot: İstifadəçinin adını kontorol edilməsi lazım olanlara əlavə edir',
         'welcome-updating': u'Bot: Qeyd etmə yeniləmə',
+        'welcome-welcome': u'Xoş gəlmisiniz!',
     },
     # Author: E THP
     'azb': {
-        'welcome-welcome': u'خوش گلمیسینیز!',
         'welcome-bad_username': u'بوت: ایستیفاده‌چی‌نین آدینی کونتورول ائدیلمه‌سی لازیم اولانلارا علاوه‌‌ ائدیر',
         'welcome-updating': u'بوت: قئيد ائتمه يئنیله‌مه',
+        'welcome-welcome': u'خوش گلمیسینیز!',
     },
     # Author: Roustammr
     # Author: Sagan
     'ba': {
-        'welcome-welcome': u'Рәхим итегеҙ!',
         'welcome-bad_username': u'Робот: шикле ҡатнашыусы исеме өҫтәлгән',
         'welcome-updating': u'Робот: журналды яңыртыу',
+        'welcome-welcome': u'Рәхим итегеҙ!',
     },
     # Author: Stephensuleeman
     'bbc-latn': {
@@ -80,21 +80,21 @@ msg = {
     # Author: EugeneZelenko
     # Author: Jim-by
     'be-x-old': {
-        'welcome-welcome': u'Вітаем!',
         'welcome-bad_username': u'Робат: дадаў імя карыстальніка, якое неабходна праверыць',
         'welcome-updating': u'Робат: журнал абнаўленьняў',
+        'welcome-welcome': u'Вітаем!',
     },
     # Author: Riemogerz
     'bjn': {
-        'welcome-welcome': u'Salamat datang',
         'welcome-bad_username': u'Bot: Manambahakan ngaran pamakai nang parlu dipariksa',
+        'welcome-welcome': u'Salamat datang',
     },
     # Author: Aftab1995
     # Author: Tauhid16
     'bn': {
-        'welcome-welcome': u'স্বাগতম!',
         'welcome-bad_username': u'বট: একটি ব্যবহারকারী নাম যোগ করা হচ্ছে যা পরীক্ষা করা প্রয়োজন',
         'welcome-updating': u'রোবট: লগ হালনাগাদ করেছে',
+        'welcome-welcome': u'স্বাগতম!',
     },
     # Author: Freeyak
     'bo': {
@@ -102,40 +102,40 @@ msg = {
     },
     # Author: Y-M D
     'br': {
-        'welcome-welcome': u'Degemer mat !',
         'welcome-bad_username': u'Bot : Ouzhpennadenn un anv implijer a rank bezañ gwiriekaet',
         'welcome-updating': u'Bot : Hizivadenn ar renabl',
+        'welcome-welcome': u'Degemer mat !',
     },
     # Author: Edinwiki
     'bs': {
-        'welcome-welcome': u'Dobrodošli!',
         'welcome-bad_username': u'Bot: Dodavanje korisničkog imena koje treba provjeriti.',
         'welcome-updating': u'Bot: Ažuriranje zapisnika.',
+        'welcome-welcome': u'Dobrodošli!',
     },
     # Author: Grondin
     # Author: SMP
     'ca': {
-        'welcome-welcome': u'Benvinguts!',
         'welcome-bad_username': u'Robot: afegint un nom d\'usuari que ha de ser revisat',
         'welcome-updating': u'Robot: actualitzant el registre',
+        'welcome-welcome': u'Benvinguts!',
     },
     # Author: Умар
     'ce': {
-        'welcome-welcome': u'Марша догӀийла!',
         'welcome-bad_username': u'бот: декъашхочун шеко цӀе тӀетоьхна',
         'welcome-updating': u'бот: тептар карлаяккхар',
+        'welcome-welcome': u'Марша догӀийла!',
     },
     # Author: Asoxor
     # Author: Calak
     'ckb': {
-        'welcome-welcome': u'بەخێربێی!',
         'welcome-updating': u'بۆت: نوێکردنەوە لۆگ',
+        'welcome-welcome': u'بەخێربێی!',
     },
     # Author: Spiffyk
     'cs': {
-        'welcome-welcome': u'Vítejte!',
         'welcome-bad_username': u'Robot: Přidávám uživatelské jméno, které je potřeba zkontrolovat',
         'welcome-updating': u'Robot: Aktualizuji log',
+        'welcome-welcome': u'Vítejte!',
     },
     # Author: ОйЛ
     'cu': {
@@ -147,68 +147,68 @@ msg = {
     },
     # Author: Robin Owain
     'cy': {
-        'welcome-welcome': u'Croeso!',
         'welcome-bad_username': u'Robot: Yn ychwanegu enwdefnyddiwr sydd angen ei wiro',
         'welcome-updating': u'Robot: Yn ychwanegu at y log',
+        'welcome-welcome': u'Croeso!',
     },
     # Author: Christian List
     # Author: Sarrus
     'da': {
-        'welcome-welcome': u'Velkommen!',
         'welcome-bad_username': u'Robot: Tilføjer et brugernavn, der skal kontrolleres',
         'welcome-updating': u'Robot: Opdaterer log',
+        'welcome-welcome': u'Velkommen!',
     },
     'de': {
-        'welcome-welcome': u'Herzlich willkommen!',
         'welcome-bad_username': u'Bot: Ergänze zu überprüfenden Benutzernamen',
         'welcome-updating': u'Bot: Aktualisiere Logdatei',
+        'welcome-welcome': u'Herzlich willkommen!',
     },
     # Author: Eruedin
     'de-ch': {
-        'welcome-welcome': u'Grüezi!',
         'welcome-bad_username': u'Bot: Ergänze zu überprüfenden Benutzernamen',
         'welcome-updating': u'Bot: Aktualisiere Logdatei',
+        'welcome-welcome': u'Grüezi!',
     },
     # Author: Erdemaslancan
     'diq': {
-        'welcome-welcome': u'Xeyr amey',
         'welcome-bad_username': u'Boti namey karberanê ke qontrol bê, namey cı dekerd ênan miyan',
         'welcome-updating': u'Robot:Qeyd newekerdış',
+        'welcome-welcome': u'Xeyr amey',
     },
     # Author: Crazymadlover
     # Author: Geraki
     'el': {
-        'welcome-welcome': u'Καλώς ήρθατε!',
         'welcome-bad_username': u'Ρομπότ: Προσθήκη ονόματος χρήστη που χρειάζεται έλεγχο',
         'welcome-updating': u'Ρομπότ: Ενημέρωση αρχείου καταγραφής',
+        'welcome-welcome': u'Καλώς ήρθατε!',
     },
     # Author: Gloria sah
     # Author: Lévi
     'eml': {
-        'welcome-welcome': u'Beinvgnû!',
         'welcome-bad_username': u'Robot: Śuntèda \'d un nòm \'d utèint ch\' al dév èser verifichè',
+        'welcome-welcome': u'Beinvgnû!',
     },
     # Author: Blahma
     # Author: Objectivesea
     'eo': {
-        'welcome-welcome': u'Bonvenon!',
         'welcome-bad_username': u'Roboto: Aldonas kontrolendan uzantonomon',
         'welcome-updating': u'Roboto: Ĝisdatigas protokolon',
+        'welcome-welcome': u'Bonvenon!',
     },
     # Author: Crazymadlover
     # Author: Fitoschido
     # Author: Invadinado
     # Author: Vivaelcelta
     'es': {
-        'welcome-welcome': u'¡Bienvenido!',
         'welcome-bad_username': u'Bot: adición de nombre de usuario que necesita revisión',
         'welcome-updating': u'Bot: actualización del registro',
+        'welcome-welcome': u'¡Bienvenido!',
     },
     # Author: Avjoska
     # Author: Pikne
     'et': {
-        'welcome-welcome': u'Tere tulemast!',
         'welcome-updating': u'Robot: logi uuendatud',
+        'welcome-welcome': u'Tere tulemast!',
     },
     # Author: An13sa
     'eu': {
@@ -218,51 +218,51 @@ msg = {
     # Author: Mjbmr
     # Author: ZxxZxxZ
     'fa': {
-        'welcome-welcome': u'خوش آمدید!',
         'welcome-bad_username': u'ربات: افزودن یک نام کاربری که نیاز به بررسی دارد',
         'welcome-updating': u'ربات: به‌روزرسانی سیاهه',
+        'welcome-welcome': u'خوش آمدید!',
     },
     # Author: Crt
     # Author: Olli
     'fi': {
-        'welcome-welcome': u'Tervetuloa!',
         'welcome-bad_username': u'Botti: Lisätään käyttäjätunnus, joka pitää tarkistaa',
         'welcome-updating': u'Botti päivitti lokia',
+        'welcome-welcome': u'Tervetuloa!',
     },
     # Author: EileenSanda
     'fo': {
-        'welcome-welcome': u'Vælkomin!',
         'welcome-bad_username': u'Bottur: Leggur afturat eitt brúkaranavn sum má eftirkannast',
         'welcome-updating': u'Bottur: Dagførir loggin',
+        'welcome-welcome': u'Vælkomin!',
     },
     # Author: Nemo bis
     # Author: Od1n
     'fr': {
-        'welcome-welcome': u'Bienvenue !',
         'welcome-bad_username': u'Bot : Ajout d\'un nom d\'utilisateur qui doit être vérifié',
         'welcome-updating': u'Bot : Mise à jour du journal',
+        'welcome-welcome': u'Bienvenue !',
     },
     # Author: ChrisPtDe
     'frp': {
-        'welcome-welcome': u'Benvegnua !',
         'welcome-bad_username': u'Robot : aponsa d’un nom d’utilisator que dêt étre controlâ',
         'welcome-updating': u'Robot : misa a jorn du jornal',
+        'welcome-welcome': u'Benvegnua !',
     },
     # Author: Murma174
     'frr': {
-        'welcome-welcome': u'Welkimen!',
         'welcome-bad_username': u'Bot: Du en brükernööm diartu, di auerwerket wurd skal',
         'welcome-updating': u'Bot: Logdatei woort auerwerket',
+        'welcome-welcome': u'Welkimen!',
     },
     'ga': {
-        'welcome-welcome': u'Fáilte!',
         'welcome-updating': u'Bot: Log a thabhairt suas chun dáta',
+        'welcome-welcome': u'Fáilte!',
     },
     # Author: Toliño
     'gl': {
-        'welcome-welcome': u'Benvido!',
         'welcome-bad_username': u'Bot: Engado un nome de usuario que necesita ser comprobado',
         'welcome-updating': u'Bot: Actualizo o rexistro',
+        'welcome-welcome': u'Benvido!',
     },
     # Author: The Discoverer
     'gom-latn': {
@@ -274,26 +274,26 @@ msg = {
     },
     # Author: Jetlag
     'hak': {
-        'welcome-welcome': u'歡迎！',
         'welcome-bad_username': u'機械人：添加需要檢查个用戶名',
         'welcome-updating': u'機械人：更新日誌',
+        'welcome-welcome': u'歡迎！',
     },
     # Author: Kolonahe
     'haw': {
-        'welcome-welcome': u'Welina mai!',
         'welcome-bad_username': u'Lopako: Ke hoʻohui nei i kekahi inoa mea hoʻohana e pono e hōʻoiaʻiʻo',
         'welcome-updating': u'Lopako: Ke hoʻopuka hou nei i ka papahelu',
+        'welcome-welcome': u'Welina mai!',
     },
     # Author: Amire80
     'he': {
-        'welcome-welcome': u'ברוך הבא!',
         'welcome-bad_username': u'בוט: הוספת שם משתמש שצריך לבדוק',
         'welcome-updating': u'בוט: עדכון יומן',
+        'welcome-welcome': u'ברוך הבא!',
     },
     # Author: Ex13
     'hr': {
-        'welcome-welcome': u'Dobrodošli!',
         'welcome-updating': u'Bot: ažuriranje zapisnika',
+        'welcome-welcome': u'Dobrodošli!',
     },
     # Author: Michawiki
     'hsb': {
@@ -302,9 +302,9 @@ msg = {
     # Author: Bináris
     # Author: Dj
     'hu': {
-        'welcome-welcome': u'Üdvözlet!',
         'welcome-bad_username': u'Bot: ellenőrizendő szerkesztőnév hozzáadása',
         'welcome-updating': u'Bot: napló aktualizálása',
+        'welcome-welcome': u'Üdvözlet!',
     },
     # Author: Xelgen
     'hy': {
@@ -312,15 +312,15 @@ msg = {
     },
     # Author: McDutchie
     'ia': {
-        'welcome-welcome': u'Benvenite!',
         'welcome-bad_username': u'Robot: Addition de un nomine de usator que debe esser verificate',
         'welcome-updating': u'Robot: Actualisation del registro',
+        'welcome-welcome': u'Benvenite!',
     },
     # Author: Farras
     'id': {
-        'welcome-welcome': u'Selamat datang',
         'welcome-bad_username': u'Bot: Menambahkan nama pengguna yang perlu diperiksa',
         'welcome-updating': u'Bot: Memutakhirkan log',
+        'welcome-welcome': u'Selamat datang',
     },
     # Author: Ukabia
     'ig': {
@@ -328,34 +328,34 @@ msg = {
     },
     # Author: Lam-ang
     'ilo': {
-        'welcome-welcome': u'Kablaaw!',
         'welcome-bad_username': u'Robot: Agnaynayon ti nagan ti agar-aramat a nasken a maikita',
         'welcome-updating': u'Robot: Agpabpabaro ti listaan',
+        'welcome-welcome': u'Kablaaw!',
     },
     # Author: Snævar
     'is': {
-        'welcome-welcome': u'Velkomin!',
         'welcome-bad_username': u'Vélmenni: Bæti við notendanafni sem þarf að athuga',
         'welcome-updating': u'Vélmenni: Uppfæri aðgerðarskrá',
+        'welcome-welcome': u'Velkomin!',
     },
     # Author: Nemo bis
     'it': {
-        'welcome-welcome': u'Benvenuto/a!',
         'welcome-bad_username': u'Bot: Aggiunto utente da controllare',
         'welcome-updating': u'Bot: Aggiorno il log',
+        'welcome-welcome': u'Benvenuto/a!',
     },
     # Author: Shirayuki
     # Author: Whym
     'ja': {
-        'welcome-welcome': u'ようこそ!',
         'welcome-bad_username': u'ロボットによる: チェックが必要な利用者名の報告',
         'welcome-updating': u'ロボットによる: 更新記録',
+        'welcome-welcome': u'ようこそ!',
     },
     # Author: NoiX180
     'jv': {
-        'welcome-welcome': u'Sugeng rawuh!',
         'welcome-bad_username': u'Bot: Nambah jeneng panganggo sing kudu ditliti',
         'welcome-updating': u'Bot: Nganyari log',
+        'welcome-welcome': u'Sugeng rawuh!',
     },
     'ka': {
         'welcome-welcome': u'კეთილი იყოს თქვენი მობრძანება!',
@@ -367,23 +367,23 @@ msg = {
     # Author: Akoppad
     # Author: Nayvik
     'kn': {
-        'welcome-welcome': u'ಸುಸ್ವಾಗತ!',
         'welcome-bad_username': u'ರೋಬೋಟ್: ಸೇರಿಸಲಾಗುತ್ತಿರುವ  ಬಳಕೆದಾರಹೆಸರನ್ನು ಪರಿಶೀಲಿಸುವ   ಅಗತ್ಯವಿದೆ',
         'welcome-updating': u'ರೋಬೋಟ್: ದಾಖಲೆ ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ',
+        'welcome-welcome': u'ಸುಸ್ವಾಗತ!',
     },
     # Author: Kwj2772
     # Author: Priviet
     # Author: 아라
     'ko': {
-        'welcome-welcome': u'환영합니다!',
         'welcome-bad_username': u'로봇: 확인이 필요한 사용자 이름 추가',
         'welcome-updating': u'로봇: 기록 업데이트',
+        'welcome-welcome': u'환영합니다!',
     },
     # Author: Rentenirer
     'ksh': {
-        'welcome-welcome': u'Wellkumme!',
         'welcome-bad_username': u'Bot: Däm singe Metmaacher-Name sullt mer ens prööfe.',
         'welcome-updating': u'Bot: Et Logbooch op der neue Schtand bränge',
+        'welcome-welcome': u'Wellkumme!',
     },
     # Author: George Animal
     'ku': {
@@ -392,15 +392,15 @@ msg = {
     # Author: Growingup
     # Author: Викиней
     'ky': {
-        'welcome-welcome': u'Кош келиңиз!',
         'welcome-bad_username': u'Бот: Шектүү колдонуучу аты кошулду.',
         'welcome-updating': u'Бот: журналды жаңыртуу',
+        'welcome-welcome': u'Кош келиңиз!',
     },
     # Author: Robby
     'lb': {
-        'welcome-welcome': u'Wëllkomm!',
         'welcome-bad_username': u'Bot: E Benotzernumm derbäigesat deen nogekuckt muss ginn',
         'welcome-updating': u'Bot: Aktualisatioun vum Logbuch',
+        'welcome-welcome': u'Wëllkomm!',
     },
     # Author: Eruedin
     'ln': {
@@ -413,15 +413,15 @@ msg = {
     # Author: Eitvys200
     # Author: Mantak111
     'lt': {
-        'welcome-welcome': u'Sveiki atvykę!',
         'welcome-bad_username': u'Robotas: Pridedamas naudotojo vardas, kuris turi būti tikrinamas',
         'welcome-updating': u'Robotas: Atnaujinamas žurnalas',
+        'welcome-welcome': u'Sveiki atvykę!',
     },
     # Author: RMizo
     'lus': {
-        'welcome-welcome': u'Kan lo lawm a che!',
         'welcome-bad_username': u'Khawlmi: Hmangtuhming finfiah ngai telh',
         'welcome-updating': u'Khawlmi: Chanchin siamthat',
+        'welcome-welcome': u'Kan lo lawm a che!',
     },
     # Author: Papuass
     'lv': {
@@ -433,15 +433,15 @@ msg = {
     },
     # Author: StefanusRA
     'map-bms': {
-        'welcome-welcome': u'Sugeng teka!',
         'welcome-bad_username': u'Bot:Nambahna jeneng panganggo sing perlu dipriksa',
         'welcome-updating': u'Bot: Mutakhirna log',
+        'welcome-welcome': u'Sugeng teka!',
     },
     # Author: Jagwar
     'mg': {
-        'welcome-welcome': u'Tonga soa!',
         'welcome-bad_username': u'Rôbô : Fanampiana anaram-pikambana tokony marihana',
         'welcome-updating': u'Rôbô : Fanavaozana ny laogy',
+        'welcome-welcome': u'Tonga soa!',
     },
     # Author: Luthfi94
     'min': {
@@ -450,15 +450,15 @@ msg = {
     # Author: Bjankuloski06
     # Author: Rancher
     'mk': {
-        'welcome-welcome': u'Добре дојдовте!',
         'welcome-bad_username': u'Робот: Додава корисничко име што треба да се провери',
         'welcome-updating': u'Робот: Подновува дневник',
+        'welcome-welcome': u'Добре дојдовте!',
     },
     # Author: Praveenp
     'ml': {
-        'welcome-welcome': u'സ്വാഗതം!',
         'welcome-bad_username': u'യന്ത്രം: പരിശോധിക്കേണ്ട ഒരു ഉപയോക്തൃനാമം ചേർക്കുന്നു',
         'welcome-updating': u'യന്ത്രം: രേഖ പുതുക്കുന്നു',
+        'welcome-welcome': u'സ്വാഗതം!',
     },
     # Author: Kaajawa
     'mr': {
@@ -466,9 +466,9 @@ msg = {
     },
     # Author: Diagramma Della Verita
     'ms': {
-        'welcome-welcome': u'Selamat datang!',
         'welcome-bad_username': u'Bot: Menambah nama pengguna yang perlu diperiksa',
         'welcome-updating': u'Bot: Pengemaskinian log',
+        'welcome-welcome': u'Selamat datang!',
     },
     # Author: Chrisportelli
     'mt': {
@@ -476,15 +476,15 @@ msg = {
     },
     # Author: Servien
     'nds-nl': {
-        'welcome-welcome': u'Welkom!',
         'welcome-bad_username': u'Bot: nao te kieken gebrukersnaam derbie ezet',
         'welcome-updating': u'Bot: logboek biewarken',
+        'welcome-welcome': u'Welkom!',
     },
     # Author: सरोज कुमार ढकाल
     'ne': {
-        'welcome-welcome': u'स्वागत!',
         'welcome-bad_username': u'प्रयोगकर्ताको नाम थप्दै , जुन जाच्नु पर्ने छ',
         'welcome-updating': u'रोबोट: लग अध्यावधिक गर्दै',
+        'welcome-welcome': u'स्वागत!',
     },
     # Author: Eukesh
     'new': {
@@ -492,28 +492,28 @@ msg = {
     },
     # Author: Siebrand
     'nl': {
-        'welcome-welcome': u'Welkom!',
         'welcome-bad_username': u'Robot: te controleren gebruikersnaam toegevoegd',
         'welcome-updating': u'Robot: logboek bijwerken',
+        'welcome-welcome': u'Welkom!',
     },
     # Author: Harald Khan
     # Author: Njardarlogar
     'nn': {
-        'welcome-welcome': u'velkomen!',
         'welcome-updating': u'robot: oppdaterer logg',
+        'welcome-welcome': u'velkomen!',
     },
     # Author: Lokal Profil
     'no': {
-        'welcome-welcome': u'Velkommen!',
         'welcome-bad_username': u'Bot: Legger til et brukernavn som må sjekkes',
         'welcome-updating': u'Bot: Oppdaterer logg',
+        'welcome-welcome': u'Velkommen!',
     },
     # Author: Boulaur
     # Author: Cedric31
     'oc': {
-        'welcome-welcome': u'Benvenguda!',
         'welcome-bad_username': u'Robòt : Apondon d\'un nom d\'utilizaire que deu èsser verificat',
         'welcome-updating': u'Bot : Mesa a jorn del jornal',
+        'welcome-welcome': u'Benvenguda!',
     },
     # Author: Shisir 1945
     'or': {
@@ -525,22 +525,22 @@ msg = {
         'welcome-welcome': u'ਜੀ ਆਇਆਂ ਨੂੰ!',
     },
     'pdc': {
-        'welcome-welcome': u'Wilkum!',
         'welcome-bad_username': u'Bot: Yuusernaame zum iwwerpriefe',
         'welcome-updating': u'Bot: Logfeil ennere',
+        'welcome-welcome': u'Wilkum!',
     },
     # Author: Sp5uhe
     'pl': {
-        'welcome-welcome': u'Witaj!',
         'welcome-bad_username': u'Robot dodał nazwę użytkownika, która wymaga sprawdzenia',
         'welcome-updating': u'Robot zaktualizował dziennik',
+        'welcome-welcome': u'Witaj!',
     },
     # Author: Borichèt
     # Author: Dragonòt
     'pms': {
-        'welcome-welcome': u'Bin ëvnù!',
         'welcome-bad_username': u'Trigomiro: Gionta ëd në stranòm ch\'a dev esse controlà',
         'welcome-updating': u'Trigomiro: Agiornament dël registr',
+        'welcome-welcome': u'Bin ëvnù!',
     },
     # Author: Ahmed-Najib-Biabani-Ibrahimkhel
     'ps': {
@@ -548,149 +548,149 @@ msg = {
     },
     # Author: Giro720
     'pt': {
-        'welcome-welcome': u'Bem vindo!',
         'welcome-bad_username': u'Robô : A adicionar um nome de utilizador que precisa ser verificado',
         'welcome-updating': u'Robô: A atualizando registo',
+        'welcome-welcome': u'Bem vindo!',
     },
+    # Author: 555
     # Author: Giro720
     # Author: Luckas
     # Author: Luckas Blade
-    # Author: 555
     'pt-br': {
-        'welcome-welcome': u'Bem-vindo!',
         'welcome-bad_username': u'Bot: Adicionando um nome de usuário que precisa ser verificado',
         'welcome-updating': u'Bot: Atualizando registro',
+        'welcome-welcome': u'Bem-vindo!',
     },
     # Author: Minisarm
     # Author: Strainu
     'ro': {
-        'welcome-welcome': u'Bun venit!',
         'welcome-bad_username': u'Robot: Adăugat un nume de utilizator care trebuie verificat',
         'welcome-updating': u'Robot: Actualizat jurnal',
+        'welcome-welcome': u'Bun venit!',
     },
     # Author: Volkov
     'ru': {
-        'welcome-welcome': u'Добро пожаловать!',
         'welcome-bad_username': u'бот: добавлено подозрительное имя участника',
         'welcome-updating': u'бот: обновление журнала',
+        'welcome-welcome': u'Добро пожаловать!',
     },
     # Author: John Reid
     'sco': {
-        'welcome-welcome': u'Weelcome!',
         'welcome-bad_username': u'Bot: Eikin ae uisername that needs tae be checked',
         'welcome-updating': u'Robot: Updatin log',
+        'welcome-welcome': u'Weelcome!',
     },
     # Author: Kolega2357
     'sh': {
-        'welcome-welcome': u'Dobrodošli!',
         'welcome-bad_username': u'Bot: dodato korisničko ime koje treba da se provjeri',
         'welcome-updating': u'Bot: ažurirana historija',
+        'welcome-welcome': u'Dobrodošli!',
     },
     # Author: පසිඳු කාවින්ද
     # Author: බිඟුවා
     'si': {
-        'welcome-welcome': u'ආයුබෝවන් !',
         'welcome-updating': u'රොබෝ: ලොගය යාවත්කාලීන කරමින්',
+        'welcome-welcome': u'ආයුබෝවන් !',
     },
     # Author: Wizzard
     'sk': {
-        'welcome-welcome': u'Vitajte!',
         'welcome-bad_username': u'Robot: Pridávam používateľské meno, ktoré je potrebné skontrolovať',
         'welcome-updating': u'Robot: Aktualizujem log',
+        'welcome-welcome': u'Vitajte!',
     },
     # Author: Dbc334
     'sl': {
-        'welcome-welcome': u'Dobrodošli!',
         'welcome-bad_username': u'Bot: Dodajanje uporabniškega imena, ki ga je treba pregledati',
         'welcome-updating': u'Bot: Posodabljanje dnevnika',
+        'welcome-welcome': u'Dobrodošli!',
     },
     # Author: Abshirdheere
     'so': {
-        'welcome-welcome': u'Soo dhowoow!',
         'welcome-bad_username': u'Bot: Ku dar magaca adeegsade ubaahan baaris',
         'welcome-updating': u'Bot: dib u hawl galin Log',
+        'welcome-welcome': u'Soo dhowoow!',
     },
     'sq': {
-        'welcome-welcome': u'Tung',
         'welcome-bad_username': u'Bot: Added username to be checked',
         'welcome-updating': u'Bot: Rifreskoj log',
+        'welcome-welcome': u'Tung',
     },
     # Author: Milicevic01
     # Author: Rancher
     'sr': {
-        'welcome-welcome': u'Добро дошли!',
         'welcome-bad_username': u'Бот: додато корисничко име које треба проверити',
         'welcome-updating': u'Бот: ажуриран дневник',
+        'welcome-welcome': u'Добро дошли!',
     },
     # Author: Milicevic01
     # Author: Rancher
     'sr-el': {
-        'welcome-welcome': u'Dobro došli!',
         'welcome-bad_username': u'Bot: dodato korisničko ime koje treba da se proveri',
         'welcome-updating': u'Bot: ažuriran dnevnik',
+        'welcome-welcome': u'Dobro došli!',
     },
     # Author: Lokal Profil
     'sv': {
-        'welcome-welcome': u'Välkommen!',
         'welcome-bad_username': u'Bot: Lägger till ett användarnamn som behöver kontrolleras',
         'welcome-updating': u'Bot: Uppdaterar logg',
+        'welcome-welcome': u'Välkommen!',
     },
     # Author: Baba Tabita
     # Author: Kwisha
     'sw': {
-        'welcome-welcome': u'Karibu!',
         'welcome-bad_username': u'Roboti: Inaongeza jina la mtumiaji linalohitaji kuangaliwa',
         'welcome-updating': u'Boti: Inasasisha kumbukumbu',
+        'welcome-welcome': u'Karibu!',
     },
     # Author: Przemub
     'szl': {
-        'welcome-welcome': u'Witej!',
         'welcome-bad_username': u'Robot: Wkludzenie miana kere trza sprawdzić',
         'welcome-updating': u'Robot: Rejer',
+        'welcome-welcome': u'Witej!',
     },
     # Author: Aswn
     # Author: Karthi.dr
     'ta': {
-        'welcome-welcome': u'வருக ! வணக்கம் !',
         'welcome-bad_username': u'தானியங்கி: பயனர் பெயரைச் சேர்ப்பதை சோதிக்க வேண்டும்.',
         'welcome-updating': u'தானியங்கி: பதிவேடு புதுப்பிக்கப்படுகிறது',
+        'welcome-welcome': u'வருக ! வணக்கம் !',
     },
     # Author: Jprmvnvijay5
     # Author: Veeven
     'te': {
-        'welcome-welcome': u'రండి',
         'welcome-updating': u'బాటు: చిట్టాను తాజాకరించింది',
+        'welcome-welcome': u'రండి',
     },
     # Author: Nullzero
     'th': {
-        'welcome-welcome': u'ยินดีต้อนรับ!',
         'welcome-bad_username': u'โรบอต: เพิ่มชื่อผู้ใช้ที่ต้องการการตรวจสอบ',
         'welcome-updating': u'โรบอต: กำลังปรับปรุงปูม',
+        'welcome-welcome': u'ยินดีต้อนรับ!',
     },
     # Author: AnakngAraw
     'tl': {
-        'welcome-welcome': u'Maligayang pagdating!',
         'welcome-bad_username': u'Robot: Nagdaragdag ng isang pangalan ng tagagamit na kailangang suriin',
         'welcome-updating': u'Robot: Isinasapanahon ang talaan',
+        'welcome-welcome': u'Maligayang pagdating!',
     },
     # Author: Гусейн
     'tly': {
-        'welcome-welcome': u'Хәш омәјшон!',
         'welcome-bad_username': u'Робот: Иштирокәкәси шәкинә ном зијод кардә быә',
         'welcome-updating': u'Робот: Тожә карде',
+        'welcome-welcome': u'Хәш омәјшон!',
     },
     # Author: Emperyan
     # Author: Khutuck
     'tr': {
-        'welcome-welcome': u'Hoş geldiniz!',
         'welcome-bad_username': u'Bot: Kullanıcı adını kontrol edilmesi gerekenlere ekliyor',
         'welcome-updating': u'Bot: Kayıt güncelleme',
+        'welcome-welcome': u'Hoş geldiniz!',
     },
     # Author: Ajdar
     'tt': {
-        'welcome-welcome': u'Рәхим итегез!',
         'welcome-bad_username': u'Робот:Шикле кулланучы исеме өстәлгән',
         'welcome-updating': u'Робот:Яңарту',
+        'welcome-welcome': u'Рәхим итегез!',
     },
     # Author: Agilight
     'tyv': {
@@ -703,47 +703,47 @@ msg = {
     # Author: A1
     # Author: Dim Grits
     'uk': {
-        'welcome-welcome': u'Ласкаво просимо!',
         'welcome-bad_username': u'Бот: Додане підозріле ім\'я користувача',
         'welcome-updating': u'Бот: Оновлення журналу',
+        'welcome-welcome': u'Ласкаво просимо!',
     },
     # Author: Muhammad Shuaib
     'ur': {
-        'welcome-welcome': u'خوش آمدید!',
         'welcome-bad_username': u'روبالہ: اضافہ صارف نام جس کی پڑتال درکار ہے',
         'welcome-updating': u'روبالہ: تحدیث نوشتہ',
+        'welcome-welcome': u'خوش آمدید!',
     },
     # Author: CoderSI
     'uz': {
-        'welcome-welcome': u'Xush kelibsiz!',
         'welcome-updating': u'Bot: qaydlarni yangilash',
+        'welcome-welcome': u'Xush kelibsiz!',
     },
     # Author: Alunardon90
     # Author: GatoSelvadego
     'vec': {
-        'welcome-welcome': u'Benvegnùo/a!',
         'welcome-bad_username': u'Robot: Xontà utente da controłare',
         'welcome-updating': u'Robot: Axorno el log',
+        'welcome-welcome': u'Benvegnùo/a!',
     },
     # Author: Minh Nguyen
     'vi': {
-        'welcome-welcome': u'Hoan nghênh!',
         'welcome-bad_username': u'Bot: Thêm một tên người dùng cần được kiểm tra',
         'welcome-updating': u'Bot: Cập nhật nhật trình',
+        'welcome-welcome': u'Hoan nghênh!',
     },
     'vo': {
         'welcome-welcome': u'Benokömö!',
     },
     # Author: Srtxg
     'wa': {
-        'welcome-welcome': u'Bénvnowe!',
         'welcome-bad_username': u'Robot: radjouter on no d\' uzeu ki doet esse verifyî',
         'welcome-updating': u'Robot: metaedje a djoû do djournå',
+        'welcome-welcome': u'Bénvnowe!',
     },
     # Author: פוילישער
     'yi': {
-        'welcome-welcome': u'ברוך הבא!',
         'welcome-bad_username': u'באט: צולייגן א באניצער נאמען וואס מ\'דארף קאנטראלירן',
+        'welcome-welcome': u'ברוך הבא!',
     },
     # Author: Demmy
     'yo': {
@@ -753,9 +753,9 @@ msg = {
     # Author: Hzy980512
     # Author: Liuxinyu970226
     'zh': {
-        'welcome-welcome': u'欢迎！',
         'welcome-bad_username': u'机器人：添加一个需要进行检查的用户名',
         'welcome-updating': u'机器人：更新日志',
+        'welcome-welcome': u'欢迎！',
     },
     # Author: Breawycker
     # Author: Cwlin0416
@@ -764,18 +764,18 @@ msg = {
     # Author: Lauhenry
     # Author: Simon Shek
     'zh-hant': {
-        'welcome-welcome': u'歡迎！',
         'welcome-bad_username': u'機械人：新增需要檢查的使用者名稱',
         'welcome-updating': u'機械人：更新日誌',
+        'welcome-welcome': u'歡迎！',
     },
     # Author: Justincheng12345
     'zh-hk': {
-        'welcome-welcome': u'歡迎！',
         'welcome-bad_username': u'機械人添加需要檢查的用戶名',
         'welcome-updating': u'機械人更新日誌',
+        'welcome-welcome': u'歡迎！',
     },
     'zh-yue': {
-        'welcome-welcome': u'歡迎',
         'welcome-updating': u'Bot: 更新日誌',
+        'welcome-welcome': u'歡迎',
     },
 };

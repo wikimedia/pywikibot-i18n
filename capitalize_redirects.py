@@ -318,9 +318,9 @@ msg = {
     'pt': {
         'capitalize_redirects-create-redirect': u'Robô: A criar redirecionamento para [[%(to)s]]',
     },
+    # Author: 555
     # Author: Giro720
     # Author: Prilopes
-    # Author: 555
     'pt-br': {
         'capitalize_redirects-create-redirect': u'Bot: Cria redirecionamento para [[%(to)s]]',
     },

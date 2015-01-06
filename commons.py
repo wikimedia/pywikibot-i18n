@@ -373,8 +373,8 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Ficheiro]] movido para a [[:commons:File:%(commonsfile)s|Commons]].',
         'commons-file-now-available': u'O ficheiro está agora no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
-    # Author: Giro720
     # Author: 555
+    # Author: Giro720
     'pt-br': {
         'commons-file-moved': u'[[:File:%(localfile)s|Arquivo]] movido para o [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'O arquivo agora está disponível no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',

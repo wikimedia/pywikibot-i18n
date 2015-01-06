@@ -291,8 +291,8 @@ msg = {
     'pt': {
         'noreferences-add-tag': u'Robô: A adicionar a tag <references />',
     },
-    # Author: Giro720
     # Author: 555
+    # Author: Giro720
     'pt-br': {
         'noreferences-add-tag': u'Bot: Adicionando tag <references />',
     },

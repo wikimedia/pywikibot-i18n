@@ -318,8 +318,8 @@ msg = {
     'pt': {
         'replace-replacing': u'Robô: Substituição de texto automática %(description)s',
     },
-    # Author: Raylton P. Sousa
     # Author: 555
+    # Author: Raylton P. Sousa
     'pt-br': {
         'replace-replacing': u'Bot: Substituição automática de texto %(description)s',
     },

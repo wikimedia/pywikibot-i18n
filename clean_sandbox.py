@@ -303,8 +303,8 @@ msg = {
     'pt': {
         'clean_sandbox-cleaned': u'Robô: Limpeza da página de testes',
     },
-    # Author: Giro720
     # Author: 555
+    # Author: Giro720
     'pt-br': {
         'clean_sandbox-cleaned': u'Bot: Limpeza automática',
     },
