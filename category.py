@@ -1965,10 +1965,6 @@ msg = {
         'category-was-disbanded': u'Bot:Ẹ̀ka kò sí mọ́',
         'category-was-moved': u'Bot: Ẹ̀ka ti jẹ́ yíyípòpadà sí [[:Category:%(newcat)s|%(title)s]]',
     },
-    # Author: Xqt
-    'yue': {
-        'category-adding': u'機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]',
-    },
     # Author: Anakmalaysia
     # Author: Liuxinyu970226
     # Author: Shizhao
@@ -2024,6 +2020,7 @@ msg = {
     'zh-min-nan': {
         'category-adding': u'bot: ka-thiam category [[:Category:%(newcat)s|%(newcat)s]]',
     },
+    # Author: Xqt
     'zh-yue': {
         'category-adding': u'機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]',
     },

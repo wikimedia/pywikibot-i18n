@@ -663,9 +663,6 @@ msg = {
     'yo': {
         'add_text-adding': u'Bot: Ìfikún %(adding)s',
     },
-    'yue': {
-        'add_text-adding': u'機械人 加 %(adding)s',
-    },
     # Author: Liuxinyu970226
     # Author: Mys 721tx
     # Author: Yfdyh000
