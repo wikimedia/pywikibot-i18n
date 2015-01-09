@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Liuxinyu970226"
-		]
-	},
-	"revertbot-revert": "機械人：回退至由%(author)s於%(timestamp)s做出之修訂%(revid)s"
-}

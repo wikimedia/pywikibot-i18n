@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Prilopes"
-		]
-	},
-	"capitalize_redirects-create-redirect": "Bot: Cria redirecionamento para [[%(to)s]]"
-}

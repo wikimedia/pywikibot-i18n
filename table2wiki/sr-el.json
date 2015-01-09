@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Milicevic01"
-		]
-	},
-	"table2wiki-warnings": "Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja}})",
-	"table2wiki-no-warning": "Bot kojim upravlja korisnik: sintaksa tabele je ažurirana"
-}
