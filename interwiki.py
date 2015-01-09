@@ -1991,15 +1991,6 @@ msg = {
         'interwiki-removing': u'Bot: Ìyọkúrò %(removing)s',
         'interwiki-removing-modifying': u'Bot: Ìyọkúrò %(removing)s; ìtúnṣe %(modifying)s',
     },
-    'yue': {
-        'interwiki-adding': u'機械人 加: %(adding)s',
-        'interwiki-adding-modifying': u'機械人 加: %(adding)s 改: %(modifying)s',
-        'interwiki-adding-removing': u'機械人 加: %(adding)s 減: %(removing)s',
-        'interwiki-adding-removing-modifying': u'機械人 加: %(adding)s 減: %(removing)s 改: %(modifying)s',
-        'interwiki-modifying': u'機械人 改: %(modifying)s',
-        'interwiki-removing': u'機械人 減: %(removing)s',
-        'interwiki-removing-modifying': u'機械人 減: %(removing)s 改: %(modifying)s',
-    },
     # Author: Liuxinyu970226
     # Author: Yfdyh000
     # Author: 阿pp
