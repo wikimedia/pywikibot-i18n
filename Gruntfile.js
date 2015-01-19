@@ -50,6 +50,8 @@ module.exports = function ( grunt ) {
 			spellcheck: __dirname + '/spellcheck/',
 			table2wiki: __dirname + '/table2wiki/',
 			template: __dirname + '/template/',
+			undelete: __dirname + '/undelete/',
+			unprotect: __dirname + '/unprotect/',
 			unlink: __dirname + '/unlink/',
 			//missing messages: weblinkchecker: __dirname + '/weblinkchecker/',
 			welcome: __dirname + '/welcome/'
