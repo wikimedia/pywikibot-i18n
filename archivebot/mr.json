@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaajawa"
+			"Kaajawa",
+			"Xqt"
 		]
 	},
-	"archivebot-older-than": "याहून जुने"
+	"archivebot-older-than": "याहून जुने",
+	"archivebot-archiveheader": "{{जुन्या चर्चा}}"
 }

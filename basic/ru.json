@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Dima st bk"
 		]
 	},
-	"basic-changing": "бот: изменил ..."
+	"basic-changing": "Бот: изменил ..."
 }

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn"
+		]
+	},
+	"undelete-from-file": "Bot: Återställer en lista med sidor.",
+	"undelete-images": "Bot: Återställer alla bilder på sida %(page)s",
+	"undelete-linked-pages": "Bot: Återställer alla sidor länkade från %(page)s"
+}

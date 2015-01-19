@@ -3,12 +3,13 @@
 		"authors": [
 			"A1",
 			"Dim Grits",
-			"Тест"
+			"Тест",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "старше за %(duration)s",
 	"archivebot-page-summary": "Архівація %(count)d {{PLURAL:%(count)d|теми|тем}} (%(why)s) в %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{Архів обговорення}}",
 	"archivebot-archive-full": "(ARCHIVE FULL)",
 	"archivebot-archive-summary": "Архівування %(count)d {{PLURAL:%(count)d|теми|тем}} з [[%(from)s]]."
 }

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"JulesWinnfield-hu"
+			"JulesWinnfield-hu",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "régebbi, mint %(duration)s",
 	"archivebot-page-summary": "Bot: {{PLURAL:%(count)d|Egy|%(count)d}} szakasz archiválása (%(why)s) a %(archives)s lapra.",
-	"archivebot-archiveheader": "{{archív lap}}",
+	"archivebot-archiveheader": "{{Archív vitalap}}",
 	"archivebot-archive-full": "(MEGTELT)",
 	"archivebot-archive-summary": "Bot: {{PLURAL:%(count)d|Egy|%(count)d}} szakasz archiválása a [[%(from)s]] lapról."
 }

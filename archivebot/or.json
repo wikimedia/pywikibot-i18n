@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jnanaranjan Sahu"
+			"Jnanaranjan Sahu",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "ଠାରୁ ପୁରୁଣା",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{Talk archive}}",
 	"archivebot-archive-full": "(ARCHIVE FULL)"
 }

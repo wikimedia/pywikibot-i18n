@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"StefanusRA"
+			"StefanusRA",
+			"John Vandenberg"
 		]
 	},
 	"solve_disambiguation-redirect-removed": "Disambiguasi \"sing direwangi bot\": %(from)s - Pranala dibusek",
 	"solve_disambiguation-redirect-resolved": "Disambiguasi \"sing direwangi bot\": %(from)s - Pranala diganti dadi %(to)s",
 	"solve_disambiguation-links-resolved": "Disambiguasi \"sing direwangi bot\": %(from)s - Pranala diganti dadi %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi \"\"sing direwangi bot\": %(from)s - Perlu ''perhatian sekang pakar''",
-	"solve_disambiguation-adding-dn-template": "Disambiguasi \"\"sing direwangi bot\": %(from)s - ditandani nek kiye kuwe perlu ''perhatian sekang pakar''",
+	"solve_disambiguation-adding-dn-template": "Disambiguasi \"sing direwangi bot\": %(from)s - ditandani nek kiye kuwe perlu ''perhatian sekang pakar''",
 	"solve_disambiguation-unknown-page": "(ora konangan)",
 	"solve_disambiguation-links-removed": "Disambiguasi \"sing direwangi bot\": %(from)s - Pranala dibusek"
 }

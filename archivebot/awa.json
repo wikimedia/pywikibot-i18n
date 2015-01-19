@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"1AnuraagPandey",
+			"Xqt"
+		]
+	},
+	"archivebot-page-summary": "रोबोट:%(count)d {{PLURAL:%(count)d|धागा|धागन्}} कय (%(why)s) %(archives)s में बिटोरत़ है।",
+	"archivebot-archive-full": "(पुरालेख पुरा)",
+	"archivebot-archive-summary": "रोबोट:%(count)d {{PLURAL:%(count)d|धागा|धागन्}} कय [[%(from)s]] से बिटोरत़ है।"
+}

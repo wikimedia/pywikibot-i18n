@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Michawiki"
+			"Michawiki",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "starši hač",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{Archiw stronow}}",
 	"archivebot-archive-full": "(ARCHIWA POŁNA)"
 }

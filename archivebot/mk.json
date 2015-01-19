@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bjankuloski06"
+			"Bjankuloski06",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "постаро од %(duration)s",
 	"archivebot-page-summary": "Архивирање на %(count)d {{PLURAL:%(count)d|нишка|нишки}} (%(why)s) во %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{Разговор-архива}}",
 	"archivebot-archive-full": "(АРХИВОТ Е НАПОЛНЕТ)",
 	"archivebot-archive-summary": "Архивирање на %(count)d {{PLURAL:%(count)d|нишка|нишки}} од [[%(from)s]]."
 }

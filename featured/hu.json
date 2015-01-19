@@ -8,5 +8,5 @@
 	"featured-good": "Bot: %(page)s egy jó cikk",
 	"featured-list": "Bot: %(page)s egy kiemelt kiemelt lista",
 	"featured-featured": "Bot: a(z) %(page)s kiemelt szócikk",
-	"featured-former": "Bot: %(page)s egy korábban kiemelt cikk"
+	"featured-former": "Bot: %(page)s korábbi kiemelt cikk"
 }

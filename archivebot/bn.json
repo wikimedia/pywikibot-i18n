@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Bellayet",
-			"Nasir8891"
+			"Nasir8891",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "পুরাতন",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{টেমপ্লেট}}",
 	"archivebot-archive-full": "(আর্কাইভ পূর্ণ)"
 }

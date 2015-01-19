@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ebraminio"
+			"Ebraminio",
+			"Reza1615"
 		]
 	},
 	"weblinkchecker-archive_msg": "وب‌گاه اینترنت آرشیو یک نسخهٔ بایگانی‌شده از این پیوند دارد لطفاً از آن استفاده نمایید:[%(URL)s]",
+	"weblinkchecker-badurl": "نشانی اینترنتی داده‌شده به نظر نادرست است",
 	"weblinkchecker-caption": "پیوند مرده",
 	"weblinkchecker-summary": "ربات:گزارش پیوند غیرقابل دسترسی",
 	"weblinkchecker-report": "بر طبق بررسی‌های رباتیکی من چندین پیوند غیرقابل دسترس پیدا شد. لطفاً آن‌ها بررسی و در صورت لزوم درستش کنید. تشکر!"

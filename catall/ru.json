@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Dima st bk"
 		]
 	},
-	"catall-changing": "бот: изменение категорий"
+	"catall-changing": "Бот: изменение категорий"
 }

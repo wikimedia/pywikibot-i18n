@@ -3,14 +3,15 @@
 		"authors": [
 			"AZISS",
 			"Express2000",
-			"Volkov"
+			"Volkov",
+			"Dima st bk"
 		]
 	},
-	"category-version-history": "бот: сохранение истории версий из бывшей %(oldcat)s",
-	"category-changing": "бот изменил: %(oldcat)s на %(newcat)s",
-	"category-adding": "бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-version-history": "Бот: сохранение истории версий из бывшей %(oldcat)s",
+	"category-changing": "Бот изменил: %(oldcat)s на %(newcat)s",
+	"category-adding": "Бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(также в %(alsocat)s)",
-	"category-was-disbanded": "бот: категория расформирована",
+	"category-was-disbanded": "Бот: категория расформирована",
 	"category-replacing": "бот: замена категории %(oldcat)s на %(newcat)s",
 	"category-removing": "бот: исключение из %(oldcat)s",
 	"category-was-moved": "бот: категория переименована в [[:Category:%(newcat)s|%(title)s]]",

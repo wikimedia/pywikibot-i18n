@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aswn"
+			"Aswn",
+			"Xqt"
 		]
 	},
-	"add_text-adding": "தானியங்கியிணைப்பு %(adding)கள்"
+	"add_text-adding": "தானியங்கிஇணைப்பு %(adding)s"
 }

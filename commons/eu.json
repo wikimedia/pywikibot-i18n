@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Fitxategia]] [[:commons:File:%(commonsfile)s|commons]]-era mugitu da.",
+	"commons-file-now-available": "Fitxategia [[:commons:File:%(commonsfile)s|Wikimedia Commons]]-en erabilgarri dago orain."
+}

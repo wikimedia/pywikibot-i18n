@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Dima st bk"
 		]
 	},
-	"add_text-adding": "бот добавил: %(adding)s"
+	"add_text-adding": "Бот добавил: %(adding)s"
 }

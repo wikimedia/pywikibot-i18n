@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "starejše od %(duration)s",
 	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|razprave|razpravi|razprave|razprav}} (%(why)s) na %(archives)s.",
-	"archivebot-archiveheader": "{{arhiviran-pogovor}}",
+	"archivebot-archiveheader": "{{Arhiviran-pogovor}}",
 	"archivebot-archive-full": "(ARHIV JE POLN)",
 	"archivebot-archive-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|razprave|razpravi|razprave|razprav}} s strani [[%(from)s]]."
 }

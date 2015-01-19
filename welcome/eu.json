@@ -6,5 +6,6 @@
 		]
 	},
 	"welcome-welcome": "Ongi etorri!",
+	"welcome-bad_username": "Robota: Egiaztatu beharreko erabiltzaile-izen bat gehitzen",
 	"welcome-updating": "Bot-a: Erregistroa eguneratzen"
 }

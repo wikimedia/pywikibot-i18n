@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reza1615"
+		]
+	},
+	"undelete-from-file": "ربات: احیای فهرستی از صفحات",
+	"undelete-images": "ربات: احیای همهٔ تصاویر صفحهٔ %(page)s",
+	"undelete-linked-pages": "ربات: احیای تمام صفحه‌هایی که در %(page)s پیوند شده‌اند"
+}

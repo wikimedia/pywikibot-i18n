@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"undelete-from-file": "Bot: Restaurando unha lista de páxinas.",
+	"undelete-images": "Bot: Restaurando todas as imaxes da páxina %(page)s",
+	"undelete-linked-pages": "Bot: Restaurando todas as páxinas ligadas desde %(page)s"
+}

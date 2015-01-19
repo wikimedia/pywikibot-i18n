@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Spiffyk",
-			"Tchoř"
+			"Tchoř",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "starší než",
 	"archivebot-page-summary": "Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} (%(why)s) do %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{Archiv diskuse}}",
 	"archivebot-archive-full": "(ARCHIV JE PLNÝ)",
 	"archivebot-archive-summary": "Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} z [[%(from)s]]."
 }

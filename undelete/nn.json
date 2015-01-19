@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gaute",
+			"Xqt"
+		]
+	},
+	"undelete-from-file": "Robot: Atterreiser ei liste med sider",
+	"undelete-images": "Robot: Atterreiser alle bilder på sida %(page)s",
+	"undelete-linked-pages": "Robot: Atterreiser alle sider som er lenkja frå %(page)s"
+}

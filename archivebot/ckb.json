@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Asoxor",
-			"Calak"
+			"Calak",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "کۆنتر لە",
 	"archivebot-page-summary": "ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{ئەرشیڤی وتووێژ}}",
 	"archivebot-archive-full": "(ئەرشیڤ پڕە)",
 	"archivebot-archive-summary": "ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} لە [[%(from)s]]."
 }

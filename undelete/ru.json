@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dima st bk"
+		]
+	},
+	"undelete-from-file": "Бот: восстановление списка страниц",
+	"undelete-images": "Бот: восстановление всех изображений на странице %(page)s",
+	"undelete-linked-pages": "Бот: восстановление всех страниц, на которые ссылается %(page)s"
+}

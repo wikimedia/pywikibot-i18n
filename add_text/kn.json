@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Akoppad"
+			"Akoppad",
+			"Xqt"
 		]
 	},
-	"add_text-adding": "ರೋಬೋಟ್:ಸೇರಿಸುವುದರಿಂದ % (ಸೇರಿಸುವುದರಿಂದ)"
+	"add_text-adding": "ರೋಬೋಟ್:ಸೇರಿಸುವುದರಿಂದ %(adding)s"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Dima st bk"
 		]
 	},
-	"capitalize_redirects-create-redirect": "бот: создано перенаправление на [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "Бот: создано перенаправление на [[%(to)s]]"
 }
