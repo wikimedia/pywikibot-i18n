@@ -64,6 +64,11 @@ msg = {
         'cosmetic_changes-append': u'; kósmeetische Änderrungen',
         'cosmetic_changes-standalone': u'Bot: Kósmeetische Änderrungen',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'cosmetic_changes-append': u'؛ زیباسازی',
+        'cosmetic_changes-standalone': u'ربات: زیباسازی',
+    },
     # Author: LexArt
     'be': {
         'cosmetic_changes-append': u'; дробныя змены',
@@ -134,11 +139,6 @@ msg = {
         'cosmetic_changes-standalone': u'Robot: Kosmetiske ændringer',
     },
     'de': {
-        'cosmetic_changes-append': u'; kosmetische Änderungen',
-        'cosmetic_changes-standalone': u'Bot: Kosmetische Änderungen',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'cosmetic_changes-append': u'; kosmetische Änderungen',
         'cosmetic_changes-standalone': u'Bot: Kosmetische Änderungen',
     },
@@ -440,12 +440,6 @@ msg = {
         'cosmetic_changes-append': u'; mudanças triviais',
         'cosmetic_changes-standalone': u'Robô: Mudanças triviais',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'cosmetic_changes-append': u'; mudanças triviais',
-        'cosmetic_changes-standalone': u'Bot: Mudanças triviais',
-    },
     # Author: Minisarm
     'ro': {
         'cosmetic_changes-append': u'; modificări cosmetice',
@@ -495,12 +489,6 @@ msg = {
     'sr': {
         'cosmetic_changes-append': u'; козметичке измене',
         'cosmetic_changes-standalone': u'Бот: козметичке измене',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'cosmetic_changes-append': u'; kozmetičke izmene',
-        'cosmetic_changes-standalone': u'Bot: kozmetičke izmene',
     },
     'sv': {
         'cosmetic_changes-append': u'; kosmetiska ändringar',
@@ -594,16 +582,5 @@ msg = {
     'zh': {
         'cosmetic_changes-append': u';整理源码',
         'cosmetic_changes-standalone': u'机器人：整理源码',
-    },
-    # Author: Breawycker
-    # Author: Justincheng12345
-    'zh-hant': {
-        'cosmetic_changes-append': u';整潔化更改',
-        'cosmetic_changes-standalone': u'機械人：整潔化',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'cosmetic_changes-append': u'; 整潔化更改',
-        'cosmetic_changes-standalone': u'機械人整潔化',
     },
 };

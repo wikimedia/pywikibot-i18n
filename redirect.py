@@ -113,6 +113,14 @@ msg = {
     'bat-smg': {
         'redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms → %(to)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'redirect-fix-broken-moved': u'ربات: اصلاح تغییرمسیرهای خراب به صفحهٔ انتقال‌یافتهٔ هدف %(to)s',
+        'redirect-fix-double': u'ربات: اصلاح تغییرمسیر دوتایی به %(to)s',
+        'redirect-fix-loop': u'ربات: رفع حلقه در تغییرمسیر به %(to)s',
+        'redirect-remove-broken': u'ربات: تغییرمسیر به صفحهٔ ناموجود یا حذف‌شده',
+        'redirect-remove-loop': u'ربات: مقصد تغییرمسیر یک تغییرمسیر حلقه‌ای ایجاد می‌کند',
+    },
     # Author: EugeneZelenko
     # Author: Jim-by
     # Author: Renessaince
@@ -234,14 +242,6 @@ msg = {
         'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
         'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
     },
-    # Author: Eruedin
-    'de-ch': {
-        'redirect-fix-broken-moved': u'Bot: Korrigiere defekte Weiterleitung auf verschobener Zielseite %(to)s',
-        'redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung auf %(to)s',
-        'redirect-fix-loop': u'Bot: Korrigiere Weiterleitungschleife auf %(to)s',
-        'redirect-remove-broken': u'Bot: Weiterleitungsziel existiert nicht',
-        'redirect-remove-loop': u'Bot: Weiterleitungsziel auf sich selbst',
-    },
     # Author: Erdemaslancan
     # Author: Gorizon
     # Author: Mirzali
@@ -286,7 +286,7 @@ msg = {
     # Author: Vivaelcelta
     # Author: Xqt
     'es': {
-        'redirect-broken-redirect-template': u'{{destruir|1=La página a la que redirige no existe|bot=~~~~}}',
+        'redirect-broken-redirect-template': u'{{destruir|1=La página a la que redirige no existe}}',
         'redirect-fix-broken-moved': u'Bot: arreglo la redirección rota hacia la página de destino trasladada "%(to)s"',
         'redirect-fix-double': u'Bot: arreglo de redirección doble a %(to)s',
         'redirect-fix-loop': u'Bot: arreglo de redirección infinita a %(to)s',
@@ -445,10 +445,13 @@ msg = {
         'redirect-remove-broken': u'Robot: Redirection a un pagina delite o non existente',
         'redirect-remove-loop': u'Robot: Le destination del redirection forma un circulo de redirectiones',
     },
+    # Author: Ezagren
     # Author: Farras
     # Author: IvanLanin
+    # Author: Xqt
     'id': {
         'redirect-broken-redirect-template': u'{{db-r1}}',
+        'redirect-fix-broken-moved': u'Bot: Memperbaiki pengalihan rusak ke target halaman bergerak %(to)s',
         'redirect-fix-double': u'Bot: Memperbaiki pengalihan ganda ke %(to)s',
         'redirect-fix-loop': u'Robot: Memperbaiki pengalihan ganda ke %(to)s',
         'redirect-remove-broken': u'Robot: Pengalihan ke halaman yang dihapus atau tidak ada',
@@ -756,21 +759,6 @@ msg = {
         'redirect-remove-broken': u'Robô: Redirecionamento para uma página eliminada ou inexistente',
         'redirect-remove-loop': u'Robô: O destino do redirecionamento cria um ciclo de redirecionamentos',
     },
-    # Author: 555
-    # Author: Amgauna
-    # Author: Hamilton Abreu
-    # Author: Helder.wiki
-    # Author: Luckas
-    # Author: Luckas Blade
-    # Author: Tuliouel
-    # Author: Xqt
-    'pt-br': {
-        'redirect-fix-broken-moved': u'Bot: consertando redirecionamento quebrado para página-alvo movida %(to)s',
-        'redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo para %(to)s',
-        'redirect-fix-loop': u'Bot: Corrigindo ciclo de redirecionamentos para %(to)s',
-        'redirect-remove-broken': u'Robô: Redirecionamento para uma página eliminada ou inexistente',
-        'redirect-remove-loop': u'Bot: O destino do redirecionamento cria um ciclo de redirecionamentos',
-    },
     # Author: Firilacroco
     # Author: Minisarm
     'ro': {
@@ -850,15 +838,6 @@ msg = {
         'redirect-fix-loop': u'Бот: исправљена петља преусмерења на %(to)s',
         'redirect-remove-broken': u'Бот: преусмерење до обрисане или непостојеће странице',
         'redirect-remove-loop': u'Бот: одредиште преусмерења образује петљу',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'redirect-fix-broken-moved': u'Bot: ispravljeno pokvareno preusmerenje do premeštene ciljne stranice %(to)s',
-        'redirect-fix-double': u'Bot: ispravljena dvostruka preusmerenja u %(to)s',
-        'redirect-fix-loop': u'Bot: ispravljena petlja preusmerenja na %(to)s',
-        'redirect-remove-broken': u'Bot: preusmerenje do obrisane ili nepostojeće stranice',
-        'redirect-remove-loop': u'Bot: odredište preusmerenja obrazuje petlju',
     },
     # Author: Boivie
     # Author: Jopparn
@@ -1012,25 +991,6 @@ msg = {
     },
     'zh-classical': {
         'redirect-fix-double': u'僕:復修渡口 → %(to)s',
-    },
-    # Author: Andrew971218
-    # Author: Justincheng12345
-    # Author: Liangent
-    # Author: Simon Shek
-    'zh-hant': {
-        'redirect-fix-broken-moved': u'機械人：修復損壞的重定向頁到移動目標頁面 %(to)s',
-        'redirect-fix-double': u'機械人：修正雙重定向至%(to)s',
-        'redirect-fix-loop': u'機械人：修復重定向迴圈至%(to)s',
-        'redirect-remove-broken': u'機械人：重定向到已刪除或不存在的頁面',
-        'redirect-remove-loop': u'機械人：重定向目標構成循環',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'redirect-fix-broken-moved': u'機械人修復損壞的重定向到已移動的目標頁面%(to)s',
-        'redirect-fix-double': u'機械人修正雙重定向至%(to)s',
-        'redirect-fix-loop': u'機械人修復重定向迴圈至%(to)s',
-        'redirect-remove-broken': u'[[WP:SD#G15|G15]]：[[Wikipedia:重定向|重定向]]到已刪除或不存在的頁面',
-        'redirect-remove-loop': u'[[WP:SD#R5|R5]]：[[Wikipedia:重定向|重定向]]目標構成循環',
     },
     'zh-yue': {
         'redirect-fix-double': u'機械人：拉直連串跳轉 → %(to)s',

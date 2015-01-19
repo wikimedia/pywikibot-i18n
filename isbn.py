@@ -49,6 +49,10 @@ msg = {
     'bar': {
         'isbn-formatting': u'Bot: Formaatir ISBN',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'isbn-formatting': u'ربات: استانداردسازی شابک',
+    },
     # Author: Yury Tarasievich
     'be': {
         'isbn-formatting': u'робат аформіў ISBN',
@@ -110,10 +114,6 @@ msg = {
         'isbn-formatting': u'Robot: Formaterer ISBN',
     },
     'de': {
-        'isbn-formatting': u'Bot: Formatiere ISBN',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'isbn-formatting': u'Bot: Formatiere ISBN',
     },
     # Author: Erdemaslancan
@@ -346,12 +346,6 @@ msg = {
     'pt': {
         'isbn-formatting': u'Robô: A formatar o ISBN',
     },
-    # Author: 555
-    # Author: Hamilton Abreu
-    # Author: Helder.wiki
-    'pt-br': {
-        'isbn-formatting': u'Bot: Formatando ISBN',
-    },
     # Author: Minisarm
     'ro': {
         'isbn-formatting': u'Robot: Formatat codul ISBN',
@@ -394,11 +388,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'isbn-formatting': u'Бот: обликовање ISBN-а',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'isbn-formatting': u'Bot: oblikovanje ISBN-a',
     },
     # Author: Ainali
     # Author: Lokal Profil
@@ -465,14 +454,5 @@ msg = {
     # Author: Hydra
     'zh': {
         'isbn-formatting': u'机器人：ISBN格式化',
-    },
-    # Author: Andrew971218
-    # Author: Simon Shek
-    'zh-hant': {
-        'isbn-formatting': u'機械人：格式化ISBN',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'isbn-formatting': u'機械人將ISBN格式化',
     },
 };

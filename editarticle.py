@@ -40,6 +40,10 @@ msg = {
     'bar': {
         'editarticle-edit': u'Manuelle Beorweitung: %(description)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'editarticle-edit': u'ویرایش دستی با ربات: %(description)s',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'editarticle-edit': u'Ручное рэдагаваньне з робатам: %(description)s',
@@ -49,6 +53,7 @@ msg = {
         'editarticle-edit': u'Babakan manual lawan bot: %(description)s',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'editarticle-edit': u'রোবটের সাথে ম্যানুয়াল সম্পাদনা: %(description)s',
     },
@@ -86,10 +91,6 @@ msg = {
     },
     'de': {
         'editarticle-edit': u'Manuelle Bearbeitung: %(description)s',
-    },
-    # Author: Eruedin
-    'de-ch': {
-        'editarticle-edit': u'Manuelle Bearbeitung mit Bot: %(description)s',
     },
     # Author: Erdemaslancan
     # Author: Mirzali
@@ -283,11 +284,6 @@ msg = {
     'pt': {
         'editarticle-edit': u'A editar manualmente com bot: %(description)s',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'editarticle-edit': u'Edição manual via Bot: %(description)s',
-    },
     # Author: KlaudiuMihaila
     # Author: Minisarm
     'ro': {
@@ -322,11 +318,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'editarticle-edit': u'Ручно уређивање са ботом: %(description)s',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'editarticle-edit': u'Ručno uređivanje sa botom: %(description)s',
     },
     # Author: Jopparn
     'sv': {
@@ -388,13 +379,5 @@ msg = {
     # Author: Hydra
     'zh': {
         'editarticle-edit': u'利用机器方式手动编辑：%(description)s',
-    },
-    # Author: Justincheng12345
-    'zh-hant': {
-        'editarticle-edit': u'手動控制機械人進行更改：%(description)s',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'editarticle-edit': u'手動控制機械人進行更改：%(description)s',
     },
 };

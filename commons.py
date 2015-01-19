@@ -51,6 +51,11 @@ msg = {
         'commons-file-moved': u'Bot: [[:File:%(localfile)s|Daatei]] is auf [[:commons:File:%(commonsfile)s|commons]] vaschóm.',
         'commons-file-now-available': u'Daatei ist iatz auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] vafiagbor.',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'commons-file-moved': u'[[:پایل:%(localfile)s|پرونده]] به [[:commons:File:%(commonsfile)s|انبار]] منتقل شد.',
+        'commons-file-now-available': u'پرونده همکنون در [[:commons:File:%(commonsfile)s|انبار ویکی‌مدیا]] در دسترس است.',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'commons-file-moved': u'[[:File:%(localfile)s|Файл]] перанесены ў [[:commons:File:%(commonsfile)s|ВікіCховішча]].',
@@ -112,11 +117,6 @@ msg = {
         'commons-file-moved': u'Bot: [[:File:%(localfile)s|Datei]] wurde nach [[:commons:File:%(commonsfile)s|commons]] verschoben.',
         'commons-file-now-available': u'Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar.',
     },
-    # Author: Eruedin
-    'de-ch': {
-        'commons-file-moved': u'Bot: [[:File:%(localfile)s|Datei]] wurde nach [[:commons:File:%(commonsfile)s|commons]] verschoben.',
-        'commons-file-now-available': u'Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar.',
-    },
     # Author: Erdemaslancan
     'diq': {
         'commons-file-moved': u'[[:Dosya:%(localfile)s|Dosya]], berd site da [[:commons:File:%(commonsfile)s|commons]]i.',
@@ -138,6 +138,11 @@ msg = {
     'es': {
         'commons-file-moved': u'[[:File:%(localfile)s|File]] movido a [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'El archivo ya está disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+    },
+    # Author: Subi
+    'eu': {
+        'commons-file-moved': u'[[:File:%(localfile)s|Fitxategia]] [[:commons:File:%(commonsfile)s|commons]]-era mugitu da.',
+        'commons-file-now-available': u'Fitxategia [[:commons:File:%(commonsfile)s|Wikimedia Commons]]-en erabilgarri dago orain.',
     },
     # Author: Mjbmr
     # Author: ZxxZxxZ
@@ -374,12 +379,6 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Ficheiro]] movido para a [[:commons:File:%(commonsfile)s|Commons]].',
         'commons-file-now-available': u'O ficheiro está agora no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'commons-file-moved': u'[[:File:%(localfile)s|Arquivo]] movido para o [[:commons:File:%(commonsfile)s|commons]].',
-        'commons-file-now-available': u'O arquivo agora está disponível no [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
-    },
     # Author: Minisarm
     'ro': {
         'commons-file-moved': u'[[:File:%(localfile)s|Fișier]] mutat la [[:commons:File:%(commonsfile)s|commons]].',
@@ -427,12 +426,6 @@ msg = {
     'sr': {
         'commons-file-moved': u'[[:File:%(localfile)s|Датотека]] је премештена у [[:commons:File:%(commonsfile)s|Оставу]].',
         'commons-file-now-available': u'Датотека је сада доступна на [[:commons:File:%(commonsfile)s|Остави]].',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'commons-file-moved': u'[[:File:%(localfile)s|Datoteka]] je premeštena u [[:commons:File:%(commonsfile)s|Ostavu]].',
-        'commons-file-now-available': u'Datoteka je sada dostupna na [[:commons:File:%(commonsfile)s|Ostavi]].',
     },
     # Author: Lokal Profil
     'sv': {
@@ -501,15 +494,5 @@ msg = {
     'zh': {
         'commons-file-moved': u'[[:File:%(localfile)s|文件]] 已移动到[[:commons:File:%(commonsfile)s|维基共享资源]]。',
         'commons-file-now-available': u'文件现已在 [[:commons:File:%(commonsfile)s|维基共享资源]]。',
-    },
-    # Author: Justincheng12345
-    'zh-hant': {
-        'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
-        'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有此檔案。',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'commons-file-moved': u'[[:File:%(localfile)s|檔案]]已移動到[[:commons:File:%(commonsfile)s|維基共享資源]]。',
-        'commons-file-now-available': u'[[:commons:File:%(commonsfile)s|維基共享資源]]已有此檔案。',
     },
 };

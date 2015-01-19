@@ -24,6 +24,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Robó: Amestando una páxina de dixebra',
         'lonelypages-comment-add-template': u'Robó: Páxina güérfana, amestada plantía',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'lonelypages-comment-add-disambig-template': u'ربات:افزودن صفحات ابهام‌زدایی',
+        'lonelypages-comment-add-template': u'ربات:افزودن الگو، صفحه یتیم',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'lonelypages-comment-add-disambig-template': u'Робат: дадаваньне старонкі-неадназначнасьці',
@@ -81,6 +86,10 @@ msg = {
     'es': {
         'lonelypages-comment-add-disambig-template': u'Robot: adición de una página de desambiguación',
         'lonelypages-comment-add-template': u'Robot: Página huérfana, adición de plantilla',
+    },
+    # Author: Subi
+    'eu': {
+        'lonelypages-comment-add-template': u'Robota: Orri umezurtza, txantiloia gehitu da',
     },
     # Author: Ebraminio
     # Author: Reza1615
@@ -207,11 +216,6 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Bot: Dodawanie strony ujednoznaczniającej.',
         'lonelypages-comment-add-template': u'Robot: osierocona strona, dodanie szablonu',
     },
-    # Author: Amgauna
-    'pt-br': {
-        'lonelypages-comment-add-disambig-template': u'Robot: Adicionar uma página de desambiguação',
-        'lonelypages-comment-add-template': u'Robot: Página Órfã, adicionar template',
-    },
     # Author: Minisarm
     'ro': {
         'lonelypages-comment-add-disambig-template': u'Robot: Adăugat o pagină de dezambiguizare',
@@ -232,11 +236,6 @@ msg = {
     'sr': {
         'lonelypages-comment-add-disambig-template': u'Бот: додата вишезначна одредница',
         'lonelypages-comment-add-template': u'Бот: неповезана страница, додат шаблон',
-    },
-    # Author: Milicevic01
-    'sr-el': {
-        'lonelypages-comment-add-disambig-template': u'Bot: dodata višeznačna odrednica',
-        'lonelypages-comment-add-template': u'Bot: nepovezana stranica, dodat šablon',
     },
     # Author: Lokal Profil
     # Author: WikiPhoenix
@@ -266,10 +265,5 @@ msg = {
     'zh': {
         'lonelypages-comment-add-disambig-template': u'机器人：加入消歧义页',
         'lonelypages-comment-add-template': u'机器人：孤立页面，添加模板',
-    },
-    # Author: Kc kennylau
-    'zh-hant': {
-        'lonelypages-comment-add-disambig-template': u'機械人: 增加消歧義頁面',
-        'lonelypages-comment-add-template': u'機械人： 為孤立頁面添加模板',
     },
 };

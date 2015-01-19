@@ -42,6 +42,10 @@ msg = {
     'ba': {
         'unlink-unlinking': u'Робот: «%s» һылтаһын юйыу',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'unlink-unlinking': u'ربات: از پیوند درآوردن «%s»',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'unlink-unlinking': u'Робат: Выдаленьне спасылак на «%s»',
@@ -77,11 +81,6 @@ msg = {
     # Author: Purodha
     'de': {
         'unlink-unlinking': u'Bot: Entlinke „%s“',
-    },
-    # Author: Eruedin
-    # Author: Geitost
-    'de-ch': {
-        'unlink-unlinking': u'Bot: Entknüpfe «%s»',
     },
     # Author: Erdemaslancan
     # Author: Marmase
@@ -260,11 +259,6 @@ msg = {
     'pt': {
         'unlink-unlinking': u'Robô: Retirando link para "%s"',
     },
-    # Author: 555
-    # Author: Pedroca cerebral
-    'pt-br': {
-        'unlink-unlinking': u'Bot: Removendo link para "%s"',
-    },
     # Author: Minisarm
     'ro': {
         'unlink-unlinking': u'Robot: Eliminat legături către „%s”',
@@ -306,11 +300,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'unlink-unlinking': u'Бот: уклоњена веза „%s“',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'unlink-unlinking': u'Bot: uklonjena veza „%s“',
     },
     # Author: Jopparn
     # Author: Lokal Profil
@@ -361,14 +350,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'unlink-unlinking': u'机器人：断开“%s”链接',
-    },
-    # Author: Breawycker
-    # Author: Simon Shek
-    'zh-hant': {
-        'unlink-unlinking': u'機械人： 斷開連結" %s "',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'unlink-unlinking': u'機械人取消“%s”鏈接',
     },
 };

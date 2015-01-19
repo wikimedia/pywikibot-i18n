@@ -42,6 +42,14 @@ msg = {
         'protect-ref': u'Robó: Protexendo toles páxines con referencia dende %(page)s',
         'protect-simple': u'Robó: Protexendo una llista de ficheros.',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'protect-category': u'ربات:حفاظت تمام صفحه‌های رده %(cat)s',
+        'protect-images': u'ربات: حفاظت از تمام تصاویر به کار رفته در %(page)s',
+        'protect-links': u'ربات:حفاظت تمام صفحه‌هایی که در %(page)s پیوند شده‌اند.',
+        'protect-ref': u'ربات:حفاظت تمام صفحه‌هایی که به %(page)s پیوند داده‌اند',
+        'protect-simple': u'ربات:حفاظت فهرستی از صفحات',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'protect-category': u'Робат: абарона ўсіх старонак з катэгорыі %(cat)s',
@@ -141,6 +149,12 @@ msg = {
         'protect-ref': u'Robot: Protegiendo todas las páginas que enlazan hacia %(page)s',
         'protect-simple': u'Robot: protección de una lista de archivos.',
     },
+    # Author: Subi
+    'eu': {
+        'protect-category': u'Bot: %(cat)s kategoriako orrialde guztiak babesten',
+        'protect-images': u'Bot: %(page)s orrialdeko irudi guztiak babesten',
+        'protect-simple': u'Bot: Fitxategi-zerrenda bat babesten.',
+    },
     # Author: Alirezaaa
     'fa': {
         'protect-category': u'ربات:حفاظت تمام صفحه‌های رده %(cat)s',
@@ -208,9 +222,13 @@ msg = {
         'protect-simple': u'Robot: Protege un lista de files',
     },
     # Author: C5st4wr6ch
+    # Author: Ezagren
     'id': {
         'protect-category': u'Robot: Melindungi seluruh halaman dari kategori %(cat)s',
+        'protect-images': u'Bot: Melindungi semua gambar pada halaman % (halaman)',
+        'protect-links': u'Bot: Melindungi semua halaman yang terhubung dari % (halaman)',
         'protect-ref': u'Robot: Melindungi semua halaman yang mengarah dari %(page)s',
+        'protect-simple': u'Bot: Melindungi daftar berkas.',
     },
     # Author: Beta16
     # Author: Ricordisamoa
@@ -326,14 +344,6 @@ msg = {
         'protect-ref': u'Bot: Protegendo todos os artigos afluentes a %(page)s',
         'protect-simple': u'Bot: Protegendo uma lista de artigos.',
     },
-    # Author: Amgauna
-    'pt-br': {
-        'protect-category': u'Bot: Protegendo todas as páginas da categoria %(cat)s',
-        'protect-images': u'Bot: Protegendo todas as imagens das páginas %(page)s',
-        'protect-links': u'Bot: Protegendo todas as páginas ligadas a %(page)s',
-        'protect-ref': u'Bot: Protegendo todas as páginas referenciadas em %(page)s',
-        'protect-simple': u'Bot: Protegendo uma lista de arquivos.',
-    },
     # Author: Minisarm
     'ro': {
         'protect-category': u'Robot: Protejat toate paginile din categoria %(cat)s',
@@ -366,14 +376,6 @@ msg = {
         'protect-links': u'Бот: заштићене све странице које потичу из „%(page)s“',
         'protect-ref': u'Бот: заштићене све странице које потичу из „%(page)s“',
         'protect-simple': u'Бот: заштићен списак датотека.',
-    },
-    # Author: Milicevic01
-    'sr-el': {
-        'protect-category': u'Bot: zaštićene sve stranice iz kategorije „%(cat)s“',
-        'protect-images': u'Bot: zaštićene sve slike na stranici „%(page)s“',
-        'protect-links': u'Bot: zaštićene sve stranice koje potiču iz „%(page)s“',
-        'protect-ref': u'Bot: zaštićene sve stranice koje potiču iz „%(page)s“',
-        'protect-simple': u'Bot: zaštićen spisak datoteka.',
     },
     # Author: Jopparn
     # Author: Lokal Profil
@@ -414,15 +416,5 @@ msg = {
         'protect-links': u'机器人：保护所有连接自%(page)s的页面',
         'protect-ref': u'机器人：保护所有提及自%(page)s的页面',
         'protect-simple': u'机器人：保护文件列表。',
-    },
-    # Author: Kc kennylau
-    # Author: LNDDYL
-    # Author: Liuxinyu970226
-    'zh-hant': {
-        'protect-category': u'機械人：保護所有分類%(cat)s的頁面',
-        'protect-images': u'機械人: 保護頁面%(page)s中的所有圖像',
-        'protect-links': u'機械人：保護所有從%(page)s連結的頁面',
-        'protect-ref': u'機械人：保護所有於%(page)s提及之頁面',
-        'protect-simple': u'機器人：保護檔案列表。',
     },
 };

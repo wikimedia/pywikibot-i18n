@@ -14,6 +14,10 @@ msg = {
     'ast': {
         'spamremove-remove': u'Desaniciando los enllaces a un sitiu que fai spam %(url)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'spamremove-remove': u'حذف پیوند به وبگاه هرزنگاری %(url)s',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'spamremove-remove': u'Выдаленьне спам-спасылак на сайт %(url)s',
@@ -37,6 +41,10 @@ msg = {
     # Author: Matěj Suchánek
     'cs': {
         'spamremove-remove': u'Odstraňuji odkazy na spamerskou stránku %(url)s',
+    },
+    # Author: Christian List
+    'da': {
+        'spamremove-remove': u'Fjerner links til spamside %(url)s',
     },
     'de': {
         'spamremove-remove': u'Entferne in Spam-Blacklist eingetragenen Weblink auf %(url)s',
@@ -141,10 +149,6 @@ msg = {
     'pt': {
         'spamremove-remove': u'A remover ligações para o sítio de spam %(url)s',
     },
-    # Author: Amgauna
-    'pt-br': {
-        'spamremove-remove': u'Removendo links de spam do site %(url)s',
-    },
     # Author: Okras
     'ru': {
         'spamremove-remove': u'Удаление ссылки на спамерский сайт %(url)s',
@@ -156,10 +160,6 @@ msg = {
     # Author: Milicevic01
     'sr': {
         'spamremove-remove': u'Уклоњене везе према спам сајту %(url)s',
-    },
-    # Author: Milicevic01
-    'sr-el': {
-        'spamremove-remove': u'Uklonjene veze prema spam sajtu %(url)s',
     },
     # Author: Jopparn
     'sv': {
@@ -182,10 +182,5 @@ msg = {
     # Author: Liuxinyu970226
     'zh': {
         'spamremove-remove': u'移除垃圾站点%(url)s的连接',
-    },
-    # Author: Kc kennylau
-    # Author: LNDDYL
-    'zh-hant': {
-        'spamremove-remove': u'機械人: 移除至%(url)s的廣告黑名單連結',
     },
 };

@@ -190,6 +190,17 @@ msg = {
         'interwiki-removing': u'robots Trėnama: %(removing)s',
         'interwiki-removing-modifying': u'robots Trėnama: %(removing)s Keitama: %(modifying)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'interwiki-adding': u'ربات: اڈ	 کورتین %(adding)s',
+        'interwiki-adding-modifying': u'ربات: افزودن %(adding)s؛ اصلاح %(modifying)s',
+        'interwiki-adding-removing': u'ربات: افزودن %(adding)s؛ حذف: %(removing)s',
+        'interwiki-adding-removing-modifying': u'ربات: افزودن %(adding)s؛ حذف %(removing)s؛ اصلاح %(modifying)s',
+        'interwiki-modifying': u'ربات: اصلاح %(modifying)s',
+        'interwiki-modifying-from': u'ربات: تغییر %(from)s به %(modifying)s',
+        'interwiki-removing': u'ربات: پاک کورتین %(removing)s',
+        'interwiki-removing-modifying': u'ربات: پاک کورتین %(removing)s؛ اصلاح %(modifying)s',
+    },
     'bcl': {
         'interwiki-adding': u'robot minadugang: %(adding)s',
         'interwiki-adding-modifying': u'robot minadugang: %(adding)s minamodifikar: %(modifying)s',
@@ -406,17 +417,6 @@ msg = {
     },
     # Author: Xqt
     'de': {
-        'interwiki-adding': u'Bot: Ergänze: %(adding)s',
-        'interwiki-adding-modifying': u'Bot: Ergänze: %(adding)s; ändere: %(modifying)s',
-        'interwiki-adding-removing': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s',
-        'interwiki-adding-removing-modifying': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s; ändere: %(modifying)s',
-        'interwiki-modifying': u'Bot: Ändere: %(modifying)s',
-        'interwiki-modifying-from': u'Bot: Ändere %(from)s zu %(modifying)s',
-        'interwiki-removing': u'Bot: Entferne: %(removing)s',
-        'interwiki-removing-modifying': u'Bot: Entferne: %(removing)s; ändere: %(modifying)s',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'interwiki-adding': u'Bot: Ergänze: %(adding)s',
         'interwiki-adding-modifying': u'Bot: Ergänze: %(adding)s; ändere: %(modifying)s',
         'interwiki-adding-removing': u'Bot: Ergänze: %(adding)s; entferne: %(removing)s',
@@ -903,6 +903,13 @@ msg = {
         'interwiki-modifying': u'រ៉ូបូ កែសំរួល: %(modifying)s',
         'interwiki-removing': u'រ៉ូបូ ដកចេញ: %(removing)s',
         'interwiki-removing-modifying': u'រ៉ូបូ ដកចេញ: %(removing)s កែសំរួល: %(modifying)s',
+    },
+    # Author: Akoppad
+    'kn': {
+        'interwiki-adding-modifying': u'ರೋಬೋಟ್: (ಸೇರಿಸುವ)% s ಸೇರಿಸುವ; ಮಾರ್ಪಡಿಸುವಿಕೆ % (ಮಾರ್ಪಡಿಸುವ)ಗಳು',
+        'interwiki-adding-removing': u'ರೋಬೋಟ್: (ಸೇರಿಸುವ)% s ಸೇರಿಸುವುದರಿಂದ; ತೆಗೆದುಹಾಕುವ:% (ತೆಗೆದುಹಾಕಿ) ರು',
+        'interwiki-adding-removing-modifying': u'ರೋಬೋಟ್: ರು (ಸೇರಿಸುವ)% ಸೇರ್ಪಡೆ;% ತೆಗೆಯುವ (ತೆಗೆದುಹಾಕಿ) ರು;% ಮಾರ್ಪಡಿಸುವ (ಮಾರ್ಪಡಿಸುವ) ರು',
+        'interwiki-modifying': u'ರೋಬೋಟ್:ಮಾರ್ಪಡಿಸುವಿಕೆ % (ಮಾರ್ಪಡಿಸುವ)ಗಳು',
     },
     # Author: 아라
     'ko': {
@@ -1490,19 +1497,6 @@ msg = {
         'interwiki-removing': u'Robô: A remover: %(removing)s',
         'interwiki-removing-modifying': u'Robô: A remover: %(removing)s A modificar: %(modifying)s',
     },
-    # Author: 555
-    # Author: Hamilton Abreu
-    # Author: Helder.wiki
-    'pt-br': {
-        'interwiki-adding': u'Bot: Adicionando %(adding)s',
-        'interwiki-adding-modifying': u'Bot: Adicionando: %(adding)s; modificando: %(modifying)s',
-        'interwiki-adding-removing': u'Bot: Adicionando: %(adding)s; removendo: %(removing)s',
-        'interwiki-adding-removing-modifying': u'Bot: Adicionando: %(adding)s; removendo: %(removing)s; modificando: %(modifying)s',
-        'interwiki-modifying': u'Bot: Modificando: %(modifying)s',
-        'interwiki-modifying-from': u'Bot: Mudando de %(from)s para %(modifying)s',
-        'interwiki-removing': u'Bot: Removendo %(removing)s',
-        'interwiki-removing-modifying': u'Bot: Removendo %(removing)s; modificando: %(modifying)s',
-    },
     'qu': {
         'interwiki-adding': u'Rurana antacha Yapasqa: %(adding)s',
         'interwiki-adding-modifying': u'Rurana antacha Yapasqa: %(adding)s Hukchasqa: %(modifying)s',
@@ -1676,18 +1670,6 @@ msg = {
         'interwiki-modifying-from': u'Бот: измењено %(from)s у %(modifying)s',
         'interwiki-removing': u'Бот: уклоњено %(removing)s',
         'interwiki-removing-modifying': u'Бот: уклоњено %(removing)s; измењено %(modifying)s',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'interwiki-adding': u'Bot: dodato %(adding)s',
-        'interwiki-adding-modifying': u'Bot: dodato %(adding)s; izmenjeno %(modifying)s',
-        'interwiki-adding-removing': u'Bot: dodato %(adding)s; uklonjeno %(removing)s',
-        'interwiki-adding-removing-modifying': u'Bot: dodato %(adding)s; uklonjeno %(removing)s; izmenjeno %(modifying)s',
-        'interwiki-modifying': u'Bot: izmenjeno %(modifying)s',
-        'interwiki-modifying-from': u'Bot: izmenjeno %(from)s u %(modifying)s',
-        'interwiki-removing': u'Bot: uklonjeno %(removing)s',
-        'interwiki-removing-modifying': u'Bot: uklonjeno %(removing)s; izmenjeno %(modifying)s',
     },
     'su': {
         'interwiki-adding': u'bot Nambih: %(adding)s',
@@ -2013,31 +1995,6 @@ msg = {
         'interwiki-modifying': u'僕 修: %(modifying)s',
         'interwiki-removing': u'僕 削: %(removing)s',
         'interwiki-removing-modifying': u'僕 削: %(removing)s 修: %(modifying)s',
-    },
-    # Author: Alexsh
-    # Author: Andrew971218
-    # Author: Justincheng12345
-    # Author: Simon Shek
-    'zh-hant': {
-        'interwiki-adding': u'機械人：新增%(adding)s',
-        'interwiki-adding-modifying': u'機械人：增加%(adding)s、修改%(modifying)s',
-        'interwiki-adding-removing': u'機械人：新增%(adding)s、刪除%(removing)s',
-        'interwiki-adding-removing-modifying': u'機械人：添加%(adding)s、刪除%(removing)s、修改%(modifying)s',
-        'interwiki-modifying': u'機械人：修改%(modifying)s',
-        'interwiki-modifying-from': u'機械人：更換%(from)s至%(modifying)s',
-        'interwiki-removing': u'機械人：刪除%(removing)s',
-        'interwiki-removing-modifying': u'機械人：刪除%(removing)s、修改%(modifying)s',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'interwiki-adding': u'機械人新增%(adding)s',
-        'interwiki-adding-modifying': u'機械人增加%(adding)s、修改%(modifying)s',
-        'interwiki-adding-removing': u'機械人新增%(adding)s、刪除%(removing)s',
-        'interwiki-adding-removing-modifying': u'機械人添加%(adding)s、刪除%(removing)s、修改%(modifying)s',
-        'interwiki-modifying': u'機械人修改%(modifying)s',
-        'interwiki-modifying-from': u'機械人更換%(from)s至%(modifying)s',
-        'interwiki-removing': u'機械人刪除%(removing)s',
-        'interwiki-removing-modifying': u'機械人刪除%(removing)s、修改%(modifying)s',
     },
     'zh-min-nan': {
         'interwiki-adding': u'bot ka-thiam: %(adding)s',

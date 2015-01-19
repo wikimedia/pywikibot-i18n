@@ -53,6 +53,11 @@ msg = {
         'table2wiki-no-warning': u'Ярым автомат робот: таблица синтаксисы яңыртылды',
         'table2wiki-warnings': u'Ярым автомат робот: таблица синтаксисы яңыртылған - {{PLURAL:count|1 иҫкәртеү|иҫкәртеүҙәр: %(count)d}}!',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'table2wiki-no-warning': u'ربات کنترل‌شده توسط کاربر: به‌روزرسانی ترکیب جدول',
+        'table2wiki-warnings': u'ربات کنترل‌شده توسط کاربر: به‌روز‌رسانی ترکیب جدول - {{PLURAL:count|۱ هشدار|%(count)d هشدار}}!',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'table2wiki-no-warning': u'Кіраваны ўдзельнікам робат: сынтаксіс табліцы абноўлены',
@@ -99,11 +104,6 @@ msg = {
         'table2wiki-no-warning': u'Bot: Tabellensyntax konvertiert',
         'table2wiki-warnings': u'Bot: Tabellensyntax konvertiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!',
     },
-    # Author: Eruedin
-    'de-ch': {
-        'table2wiki-no-warning': u'Bot: Tabellensyntax konvertiert',
-        'table2wiki-warnings': u'Bot: Tabellensyntax konvertiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!',
-    },
     # Author: Erdemaslancan
     'diq': {
         'table2wiki-no-warning': u'Karberê qontrolkarê boti: İmlay tabloy kerd anewi',
@@ -125,6 +125,11 @@ msg = {
     'es': {
         'table2wiki-no-warning': u'Bot controlado: actualizada sintaxis de tabla',
         'table2wiki-warnings': u'Bot controlado: actualizada sintaxis de tabla - {{PLURAL:count|1 aviso|%(count)d avisos}}!',
+    },
+    # Author: Subi
+    'eu': {
+        'table2wiki-no-warning': u'Erabiltzaile batek kontrolatutako robota: Taularen sintaxia eguneratua',
+        'table2wiki-warnings': u'Erabiltzaile batek kontrolatutako robota: Taularen sintaxia eguneratu da - {{PLURAL:count|Abisu 1|%(count)d abisu}}!',
     },
     # Author: Mjbmr
     'fa': {
@@ -281,8 +286,8 @@ msg = {
     # Author: Siebrand
     # Author: Xqt
     'nl': {
-        'table2wiki-no-warning': u'Tabel gewijzigd van HTML naar Wikiopmaak',
-        'table2wiki-warnings': u'Tabel gewijzigd van HTML naar Wikiopmaak - {{PLURAL:count|1 waarschuwing|%(count)d waarschuwingen}}!',
+        'table2wiki-no-warning': u'Tabel gewijzigd van HTML naar wikiopmaak',
+        'table2wiki-warnings': u'Tabel gewijzigd van HTML naar wikiopmaak - {{PLURAL:count|1 waarschuwing|%(count)d waarschuwingen}}!',
     },
     # Author: Xqt
     'no': {
@@ -308,12 +313,6 @@ msg = {
     'pt': {
         'table2wiki-no-warning': u'Bot: Sintaxe da tabela HTML para Wiki atualizada',
         'table2wiki-warnings': u'Robô: Sintaxe da tabela HTML para Wiki atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}',
-    },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'table2wiki-no-warning': u'Bot controlado por usuário: Sintaxe de tabela atualizada',
-        'table2wiki-warnings': u'Bot controlado por usuário: Sintaxe de tabela atualizada - {{PLURAL:count|1 aviso|%(count)d avisos}}!',
     },
     # Author: Minisarm
     'ro': {
@@ -357,12 +356,6 @@ msg = {
     'sr': {
         'table2wiki-no-warning': u'Бот којим управља корисник: синтакса табеле је ажурирана',
         'table2wiki-warnings': u'Бот којим управља корисник: синтакса табеле је ажурирана ({{PLURAL:count|1 упозорење|%(count)d упозорења}})',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'table2wiki-no-warning': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana',
-        'table2wiki-warnings': u'Bot kojim upravlja korisnik: sintaksa tabele je ažurirana ({{PLURAL:count|1 upozorenje|%(count)d upozorenja}})',
     },
     # Author: Jopparn
     # Author: WikiPhoenix
@@ -411,17 +404,5 @@ msg = {
     'zh': {
         'table2wiki-no-warning': u'用户控制的机器人：更新表语法',
         'table2wiki-warnings': u'用户控制的机器人：更新表语法——但有%(count)d个警告！',
-    },
-    # Author: Breawycker
-    # Author: Justincheng12345
-    # Author: Simon Shek
-    'zh-hant': {
-        'table2wiki-no-warning': u'使用者控制的機械人： 表更新的語法',
-        'table2wiki-warnings': u'手動控制機械人進行表語法更新-出現%(count)d個警告！',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'table2wiki-no-warning': u'手動控制機械人進行表語法更新',
-        'table2wiki-warnings': u'手動控制機械人進行表語法更新-出現%(count)d個警告！',
     },
 };

@@ -42,6 +42,10 @@ msg = {
     'ba': {
         'ndashredir-create': u'Робот:  [[%(title)s]] битенә дефислы йүнәлтеү',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'ndashredir-create': u'ربات: ایجاد تغییرمسیر خط‌تیره‌دار به [[%(title)s]]',
+    },
     # Author: Jim-by
     'be-x-old': {
         'ndashredir-create': u'Робат: Стварэньне перанакіраваньня з дэфісам на [[%(title)s]]',
@@ -77,10 +81,6 @@ msg = {
         'ndashredir-create': u'Robot: Opretter omdirigering med bindestreg til [[%(title)s]]',
     },
     'de': {
-        'ndashredir-create': u'Bot: Weiterleitung mit Bindestrich auf [[%(title)s]] erstellt',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'ndashredir-create': u'Bot: Weiterleitung mit Bindestrich auf [[%(title)s]] erstellt',
     },
     # Author: Erdemaslancan
@@ -239,10 +239,6 @@ msg = {
     'pt': {
         'ndashredir-create': u'Robô: A criar um redirecionamento hifenizado para [[%(title)s]]',
     },
-    # Author: 555
-    'pt-br': {
-        'ndashredir-create': u'Bot: Criando redirecionamento hifenizado para [[%(title)s]]',
-    },
     # Author: Minisarm
     'ro': {
         'ndashredir-create': u'Robot: Creat redirecționare cu cratimă către [[%(title)s]]',
@@ -271,10 +267,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'ndashredir-create': u'Бот: направљено преусмерење појма са цртицом на [[%(title)s]]',
-    },
-    # Author: Rancher
-    'sr-el': {
-        'ndashredir-create': u'Bot: napravljeno preusmerenje pojma sa crticom na [[%(title)s]]',
     },
     # Author: VickyC
     'sv': {
@@ -311,14 +303,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'ndashredir-create': u'机器人：创建连字符的重定向到[[%(title)s]]',
-    },
-    # Author: Justincheng12345
-    # Author: LNDDYL
-    'zh-hant': {
-        'ndashredir-create': u'機械人：建立連字號重新導向到[[%(title)s]]',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'ndashredir-create': u'機械人創建連字符重定向到[[%(title)s]]',
     },
 };

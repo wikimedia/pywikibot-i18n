@@ -34,6 +34,10 @@ msg = {
     'ast': {
         'basic-changing': u'Robó: Camudando ...',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'basic-changing': u'बॉट: बदलत् है ...',
+    },
     # Author: Cekli829
     'az': {
         'basic-changing': u'Bot: Dəyişdirilir...',
@@ -50,6 +54,10 @@ msg = {
     # Author: Xqt
     'bar': {
         'basic-changing': u'Bot: Åpassen ...',
+    },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'basic-changing': u'ربات: بی ٹ	گل داتین ئالتا ...',
     },
     # Author: EugeneZelenko
     'be-x-old': {
@@ -108,10 +116,6 @@ msg = {
     # Author: Metalhead64
     'de': {
         'basic-changing': u'Bot: Ändere…',
-    },
-    # Author: Eruedin
-    'de-ch': {
-        'basic-changing': u'Bot: Ändere ...',
     },
     # Author: Erdemaslancan
     'diq': {
@@ -396,18 +400,14 @@ msg = {
     'pt': {
         'basic-changing': u'Robô: A alterar ...',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'basic-changing': u'Bot: Alterando...',
-    },
     # Author: Firilacroco
     'ro': {
         'basic-changing': u'Robot: Schimb ...',
     },
+    # Author: Dima st bk
     # Author: Volkov
     'ru': {
-        'basic-changing': u'бот: изменил ...',
+        'basic-changing': u'Бот: изменил ...',
     },
     # Author: Hemant wikikosh1
     'sa': {
@@ -446,11 +446,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'basic-changing': u'Бот: промењено',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'basic-changing': u'Bot: promenjeno',
     },
     'sv': {
         'basic-changing': u'Bot: Ändrar ...',
@@ -540,13 +535,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'basic-changing': u'机器人：修改...',
-    },
-    # Author: Waihorace
-    'zh-hant': {
-        'basic-changing': u'機械人：修改中...',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'basic-changing': u'機械人修改中...',
     },
 };

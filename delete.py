@@ -90,6 +90,14 @@ msg = {
         'delete-linked-pages': u'Робот: %(page)s бите менән бәйле бөтә биттәрҙе юйыу',
         'delete-referring-pages': u'Робот:  %(page)s битенә ҡағылышлы бар биттәрҙе юйыу',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'delete-from-category': u'ربات: حذف تمام صفحه‌های ردهٔ %(page)s',
+        'delete-from-file': u'ربات: حذف فهرستی از صفحات.',
+        'delete-images': u'ربات: حذف همهٔ تصاویر صفحهٔ %(page)s',
+        'delete-linked-pages': u'ربات: حذف تمام صفحه‌هایی که در %(page)s پیوند شده‌اند',
+        'delete-referring-pages': u'ربات: حذف تمام صفحه‌هایی که به %(page)s پیوند داده‌اند',
+    },
     # Author: EugeneZelenko
     # Author: Red Winged Duck
     'be-x-old': {
@@ -98,6 +106,13 @@ msg = {
         'delete-images': u'Робат: выдаліў усе выявы на старонцы %(page)s',
         'delete-linked-pages': u'Робат: выдаліў усе старонкі зьвязаныя з %(page)s',
         'delete-referring-pages': u'Робат: выдаліў усе старонкі, на якія спасылаецца %(page)s',
+    },
+    # Author: Ezagren
+    'bjn': {
+        'delete-from-category': u'Robot: Mahapus sabarataan tungkaran tumatan tumbung %(page)s',
+        'delete-from-file': u'Bot: Mahapus daptar tungkaran.',
+        'delete-images': u'Robot: Mahapus sabarataan gambar pada tungkaran %(page)',
+        'delete-referring-pages': u'Robot: Mahapus sabarataan tungkaran nang ba-ampah tumatan %(page)s',
     },
     # Author: Tauhid16
     'bn': {
@@ -177,20 +192,13 @@ msg = {
     # Author: ChrisiPK
     # Author: MF-Warburg
     # Author: Pyfisch
+    # Author: Xqt
     'de': {
         'delete-from-category': u'Bot: Lösche alle Seiten in Kategorie %(page)s',
         'delete-from-file': u'Bot: Löschen einer Liste von Seiten.',
         'delete-images': u'Bot: Lösche alle in %(page)s eingebundenen Bilder',
         'delete-linked-pages': u'Bot: Lösche alle in %(page)s verlinkte Seiten',
-        'delete-referring-pages': u'Bot: Lösche alle auf %(page)s linkenden Seiten',
-    },
-    # Author: Eruedin
-    'de-ch': {
-        'delete-from-category': u'Bot: Lösche alle Seiten von Kategorie %(page)s',
-        'delete-from-file': u'Bot: Löschen einer Liste von Dateien.',
-        'delete-images': u'Bot: Lösche alle in %(page)s eingebundenen Bilder',
-        'delete-linked-pages': u'Bot: Lösche alle auf %(page)s verlinkte Seiten',
-        'delete-referring-pages': u'Bot: Lösche alle auf %(page)s verweisenden Seiten',
+        'delete-referring-pages': u'Bot: Lösche alle auf %(page)s verlinkende Seiten',
     },
     # Author: Erdemaslancan
     # Author: Marmase
@@ -240,6 +248,10 @@ msg = {
         'delete-linked-pages': u'Robot: kustutatud kõik asukohas %(page)s lingitud leheküljed',
         'delete-referring-pages': u'Robot: kustutatud kõik asukohas %(page)s viidatud leheküljed',
     },
+    # Author: Subi
+    'eu': {
+        'delete-from-file': u'Bot: Orrialde-zerrenda bat ezabatzen.',
+    },
     # Author: Alirezaaa
     # Author: Ladsgroup
     # Author: ZxxZxxZ
@@ -251,10 +263,11 @@ msg = {
         'delete-referring-pages': u'ربات: حذف تمام صفحه‌هایی که به %(page)s پیوند داده‌اند',
     },
     # Author: Crt
+    # Author: Harriv
     # Author: Olli
     'fi': {
         'delete-from-category': u'Botti: Poistetaan kaikki sivut luokasta %(page)s',
-        'delete-from-file': u'Botti: Poistetaan tiedostoluettelo.',
+        'delete-from-file': u'Botti: Poistetaan sivuja luettelosta.',
         'delete-images': u'Botti: Poistetaan kaikki kuvat sivulta %(page)s',
         'delete-linked-pages': u'Botti: Poistetaan kaikki sivut, jotka on linkitetty sivulta %(page)s',
         'delete-referring-pages': u'Botti: Poistetaan kaikki sivut, jotka viittaavat sivulta %(page)s',
@@ -603,16 +616,6 @@ msg = {
         'delete-linked-pages': u'Robô: Apagando todas as páginas ligadas a %(page)s',
         'delete-referring-pages': u'Robô: Apagando todas as páginas afluentes a %(page)s',
     },
-    # Author: 555
-    # Author: Pedroca cerebral
-    # Author: Prilopes
-    'pt-br': {
-        'delete-from-category': u'Bot: Apagando todas as páginas da categoria %(page)s',
-        'delete-from-file': u'Bot: Apagando uma listagem de páginas.',
-        'delete-images': u'Bot: Apagando todas as imagens da página %(page)s',
-        'delete-linked-pages': u'Bot: Apagando todas as páginas com links para %(page)s',
-        'delete-referring-pages': u'Bot: Apagando todas as páginas afluentes de %(page)s',
-    },
     # Author: Minisarm
     'ro': {
         'delete-from-category': u'Robot: Șters toate paginile din categoria %(page)s',
@@ -686,15 +689,6 @@ msg = {
         'delete-images': u'Бот: обрисане све слике на страници %(page)s',
         'delete-linked-pages': u'Бот: обрисане све странице које потичу из %(page)s',
         'delete-referring-pages': u'Бот: обрисане све странице које потичу из %(page)s',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'delete-from-category': u'Bot: obrisane sve stranice iz kategorije %(page)s',
-        'delete-from-file': u'Bot: obrisan spisak stranica.',
-        'delete-images': u'Bot: obrisane sve slike na stranici %(page)s',
-        'delete-linked-pages': u'Bot: obrisane sve stranice koje potiču iz %(page)s',
-        'delete-referring-pages': u'Bot: obrisane sve stranice koje potiču iz %(page)s',
     },
     # Author: Lokal Profil
     # Author: WikiPhoenix
@@ -776,10 +770,11 @@ msg = {
         'delete-from-file': u'Bot: Fayllar ro‘yxati o‘chirildi',
     },
     # Author: Alunardon90
+    # Author: Candalua
     # Author: GatoSelvadego
     'vec': {
         'delete-from-category': u'Robot: Scansełasion de tute łe pajine da ła categoria %(page)s',
-        'delete-from-file': u'Robot: Scansełasion de na lista de file.',
+        'delete-from-file': u'Bot: Scansełasion de na lista de pagine.',
         'delete-images': u'Robot: Scansełasion de tute łe imajini contegnude inte ła pajina %(page)s',
         'delete-linked-pages': u'Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s',
         'delete-referring-pages': u'Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s',
@@ -817,26 +812,5 @@ msg = {
         'delete-images': u'机器人：删除%(page)s页面上的所有图像',
         'delete-linked-pages': u'机器人：删除所有从%(page)s链接的页面',
         'delete-referring-pages': u'机器人：删除所有%(page)s提及的页面',
-    },
-    # Author: Breawycker
-    # Author: Gabrielchihonglee
-    # Author: Justincheng12345
-    # Author: LNDDYL
-    # Author: Lauhenry
-    # Author: Simon Shek
-    'zh-hant': {
-        'delete-from-category': u'機械人：刪除所有来自%(page)s分類的頁面',
-        'delete-from-file': u'機器人：刪除頁面列表。',
-        'delete-images': u'機械人：刪除%(page)s上的所有圖像',
-        'delete-linked-pages': u'機械人：删除所有從%(page)s連結的頁面',
-        'delete-referring-pages': u'機械人：删除所有從%(page)s指向的頁面',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'delete-from-category': u'機械人刪除所有来自%(page)s分類的頁面',
-        'delete-from-file': u'機械人正在刪除列表中的檔案。',
-        'delete-images': u'機械人刪除%(page)s中所有圖像',
-        'delete-linked-pages': u'機械人删除所有從%(page)s鏈接的頁面',
-        'delete-referring-pages': u'機械人删除所有從%(page)s指向的頁面',
     },
 };

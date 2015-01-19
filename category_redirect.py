@@ -112,6 +112,15 @@ msg = {
     'bat-smg': {
         'category_redirect-fix-double': u'Robots: Taisuoms dvėgobs paradresavėms',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'category_redirect-add-template': u'ربات: افزودن الگوی {{رده بهتر}}',
+        'category_redirect-change-category': u'ربات: تغییر ردهٔ تغییرمسیرداده‌شدهٔ [[:%(oldCatLink)s|%(oldCatTitle)s]] به [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-comment': u'ربات نگهداری ردهٔ منتقل‌شده',
+        'category_redirect-edit-request': u'این صفحه‌های محافظت‌شده به عنوان صفحه‌های نیازمند به‌روزرسانی رده‌ها تشخیص داده شده‌اند: %(itemlist)s',
+        'category_redirect-edit-request-item': u'* %(title)s در %(oldcat)s قرار دارد، که به %(newcat)s تغییرمسیر دارد',
+        'category_redirect-fix-double': u'ربات: تصحیح تغییرمسیر دوتایی',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'category_redirect-add-template': u'Робат: дадаў шаблён перанакіраваньня катэгорыі',
@@ -224,15 +233,6 @@ msg = {
     },
     # Author: ✓
     'de': {
-        'category_redirect-add-template': u'Bot: Füge Kategorieweiterleitungs-Vorlage für die Wartung hinzu',
-        'category_redirect-change-category': u'Bot: Ändere weitergeleitete Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-comment': u'Bot zur Wartung von Kategorieweiterleitungen',
-        'category_redirect-edit-request': u'Die folgenden geschützten Seiten benötigen noch eine Kategorielink-Aktualisierung: %(itemlist)s',
-        'category_redirect-edit-request-item': u'* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet',
-        'category_redirect-fix-double': u'Bot: Korrigiere doppelte Weiterleitung',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'category_redirect-add-template': u'Bot: Füge Kategorieweiterleitungs-Vorlage für die Wartung hinzu',
         'category_redirect-change-category': u'Bot: Ändere weitergeleitete Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]',
         'category_redirect-comment': u'Bot zur Wartung von Kategorieweiterleitungen',
@@ -631,6 +631,11 @@ msg = {
     'mzn': {
         'category_redirect-fix-double': u'ربوت:عوض هایتن دکشیه‌ئون دِتایی',
     },
+    # Author: C.R.
+    'nap': {
+        'category_redirect-change-category': u'Bot: Cagn\' \'a categurìa cu redirect [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-comment': u'Bot \'e manutenziòne d\' \'e redirect a categurìe',
+    },
     # Author: Slomox
     'nds': {
         'category_redirect-add-template': u'Bot: Kategorieredirect-Vörlaag toföögt',
@@ -725,16 +730,6 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s está em %(oldcat)s, que é um redirecionamento para %(newcat)s',
         'category_redirect-fix-double': u'Robô: Correção de redirecionamento duplo',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'category_redirect-add-template': u'Bot: Adicionando predefinição de redirecionamento de categoria',
-        'category_redirect-change-category': u'Bot: Alterando categoria redirecionada [[:%(oldCatLink)s|%(oldCatTitle)s]] para [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-comment': u'Script para manutenção de redirecionamentos de categorias',
-        'category_redirect-edit-request': u'As seguintes páginas protegidas precisam receber atualizações em seus links de categorias: %(itemlist)s',
-        'category_redirect-edit-request-item': u'* %(title)s está em %(oldcat)s, que é um redirecionamento para %(newcat)s',
-        'category_redirect-fix-double': u'Bot: Corrigindo redirecionamento duplo',
-    },
     # Author: Minisarm
     'ro': {
         'category_redirect-add-template': u'Robot: Adăugat formatul de întreținere pentru categorie redirecționată',
@@ -822,16 +817,6 @@ msg = {
         'category_redirect-edit-request': u'Следећим заштићеним страницама потребно је ажурирање веза категорија: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s',
         'category_redirect-fix-double': u'Бот: исправљена двострука преусмерења',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'category_redirect-add-template': u'Bot: dodat šablon za preusmerenu kategoriju radi održavanja',
-        'category_redirect-change-category': u'Bot: promenjena preusmerena kategorija [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-comment': u'Bot za održavanje preusmerenih kategorija',
-        'category_redirect-edit-request': u'Sledećim zaštićenim stranicama potrebno je ažuriranje veza kategorija: %(itemlist)s',
-        'category_redirect-edit-request-item': u'* %(title)s je u %(oldcat)s, a to je preusmerenje na %(newcat)s',
-        'category_redirect-fix-double': u'Bot: ispravljena dvostruka preusmerenja',
     },
     # Author: Lokal Profil
     'sv': {
@@ -963,30 +948,5 @@ msg = {
         'category_redirect-edit-request': u'以下受保护的页面被检测到需要更新分类链接：%(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向',
         'category_redirect-fix-double': u'机器人：修正双重重定向',
-    },
-    'zh-classical': {
-        'category_redirect-fix-double': u'僕:復修渡口',
-    },
-    # Author: Justincheng12345
-    # Author: Waihorace
-    'zh-hant': {
-        'category_redirect-add-template': u'機械人：增加分類重定向模板供維護',
-        'category_redirect-change-category': u'機械人：更改分類重定向由[[:%(oldCatLink)s|%(oldCatTitle)s]]至[[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-comment': u'分類重定向機械人',
-        'category_redirect-edit-request': u'以下被保護頁面已經被檢測到要更新分類連結：%(itemlist)s',
-        'category_redirect-edit-request-item': u'%(title)s是在%(oldcat)s，那是一個連結到%(newcat)s的重定向',
-        'category_redirect-fix-double': u'機械人：修復雙重重定向',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'category_redirect-add-template': u'機械人增加分類重定向模板以供維護',
-        'category_redirect-change-category': u'機械人將分類[[:%(oldCatLink)s|%(oldCatTitle)s]]重定向至[[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-comment': u'分類重定向機械人',
-        'category_redirect-edit-request': u'以下被保護頁面檢測到要更新分類連結：%(itemlist)s',
-        'category_redirect-edit-request-item': u'%(title)s的分類%(oldcat)s已重定向至%(newcat)s',
-        'category_redirect-fix-double': u'機械人修復雙重重定向',
-    },
-    'zh-yue': {
-        'category_redirect-fix-double': u'機械人：拉直連串跳轉',
     },
 };

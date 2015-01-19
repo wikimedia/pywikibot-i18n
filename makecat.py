@@ -14,6 +14,10 @@ msg = {
     'ast': {
         'makecat-create': u'Bot: Creación o anovamientu de la categoría [[:Category:%(cat)s|]]',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'makecat-create': u'ربات: ایجاد یا تصحیح رده [[:Category:%(cat)s|]]',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'makecat-create': u'Робат: стварэньне або абнаўленьне катэгорыі [[:Category:%(cat)s|]]',
@@ -41,6 +45,10 @@ msg = {
     # Author: Matěj Suchánek
     'cs': {
         'makecat-create': u'Robot: Vytvoření nebo aktualizace [[:Category:%(cat)s|kategorie %(cat)s]]',
+    },
+    # Author: Christian List
+    'da': {
+        'makecat-create': u'Bot: Oprettelse eller opdatering af kategori [[:Category:%(cat)s|]]',
     },
     'de': {
         'makecat-create': u'Bot: Kategorie [[:Category:%(cat)s|]] wurde neu angelegt oder aktualisiert',
@@ -145,10 +153,6 @@ msg = {
     'pt': {
         'makecat-create': u'Robô: Criação ou atualização de categoria [[:Categoria:%(cat)s|]]',
     },
-    # Author: Amgauna
-    'pt-br': {
-        'makecat-create': u'Robot: Criação ou atualização de [[:Category:%(cat)s|Categoria]]',
-    },
     # Author: Minisarm
     'ro': {
         'makecat-create': u'Robot: Creat sau actualizat categoria [[:Category:%(cat)s|]]',
@@ -165,10 +169,6 @@ msg = {
     'sr': {
         'makecat-create': u'Бот: прављење или аужурирање категорије [[:Category:%(cat)s|]]',
     },
-    # Author: Milicevic01
-    'sr-el': {
-        'makecat-create': u'Bot: pravljenje ili aužuriranje kategorije [[:Category:%(cat)s|]]',
-    },
     # Author: Jopparn
     'sv': {
         'makecat-create': u'Bot: Skapande eller uppdatering av kategorin [[:Category:%(cat)s|]]',
@@ -184,9 +184,5 @@ msg = {
     # Author: Liuxinyu970226
     'zh': {
         'makecat-create': u'机器人：创建或更新分类[[:Category:%(cat)s|]]',
-    },
-    # Author: Kc kennylau
-    'zh-hant': {
-        'makecat-create': u'機械人：創建或更新分類[[:Category:%(cat)s|]]',
     },
 };

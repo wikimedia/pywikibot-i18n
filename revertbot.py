@@ -16,6 +16,10 @@ msg = {
     'ast': {
         'revertbot-revert': u'Robó:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'revertbot-revert': u'ربات: واگردانی به نسخهٔ  %(revid)s توسط %(author)s در %(timestamp)s',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'revertbot-revert': u'Робат: вяртаньне да вэрсіі %(revid)s аўтарства %(author)s за %(timestamp)s',
@@ -106,6 +110,10 @@ msg = {
     'ko': {
         'revertbot-revert': u'봇: %(author)s의 %(timestamp)s 에 작성한 %(revid)s 판으로 되돌림',
     },
+    # Author: Purodha
+    'ksh': {
+        'revertbot-revert': u'Bot: Op di Väsjohn %(revid)s vum Metmaacher %(author)s vun %(timestamp)s zerök jesaz.',
+    },
     # Author: Robby
     'lb': {
         'revertbot-revert': u'Bot: Zréckgesat op d\'Versioun %(revid)s vum %(author)s vum %(timestamp)s',
@@ -146,10 +154,6 @@ msg = {
     'pl': {
         'revertbot-revert': u'Bot: Cofnięto do wersji %(revid)s autorstwa %(author)s z %(timestamp)s',
     },
-    # Author: Amgauna
-    'pt-br': {
-        'revertbot-revert': u'Bot: Revertida a revisão %(revid)s do %(author)s em %(timestamp)s',
-    },
     # Author: Okras
     'ru': {
         'revertbot-revert': u'Бот: возврат к версии %(revid)s участника %(author)s от %(timestamp)s',
@@ -161,10 +165,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'revertbot-revert': u'Бот: враћено на измену %(revid)s аутора %(author)s од %(timestamp)s',
-    },
-    # Author: Milicevic01
-    'sr-el': {
-        'revertbot-revert': u'Bot: vraćeno na izmenu %(revid)s autora %(author)s od %(timestamp)s',
     },
     # Author: Lokal Profil
     'sv': {
@@ -181,9 +181,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'revertbot-revert': u'机器人：恢复到%(author)s在%(timestamp)s作出的修订%(revid)s',
-    },
-    # Author: Liuxinyu970226
-    'zh-hant': {
-        'revertbot-revert': u'機械人：回退至由%(author)s於%(timestamp)s做出之修訂%(revid)s',
     },
 };

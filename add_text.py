@@ -43,6 +43,10 @@ msg = {
     'ast': {
         'add_text-adding': u'Robó: Añadiendo %(adding)s',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'add_text-adding': u'रोबोट:%(adding)s जोड़त है',
+    },
     # Author: AZISS
     'az': {
         'add_text-adding': u'Bot redaktəsi əlavə edilir: %(adding)s',
@@ -133,10 +137,6 @@ msg = {
         'add_text-adding': u'Robot: Tilføjer %(adding)s',
     },
     'de': {
-        'add_text-adding': u'Bot: %(adding)s hinzugefügt',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'add_text-adding': u'Bot: %(adding)s hinzugefügt',
     },
     # Author: Erdemaslancan
@@ -296,6 +296,11 @@ msg = {
     'km': {
         'add_text-adding': u'រ៉ូបូ បន្ថែម %(adding)s',
     },
+    # Author: Akoppad
+    # Author: Xqt
+    'kn': {
+        'add_text-adding': u'ರೋಬೋಟ್:ಸೇರಿಸುವುದರಿಂದ %(adding)s',
+    },
     # Author: 아라
     'ko': {
         'add_text-adding': u'로봇: %(adding)s 추가',
@@ -434,6 +439,10 @@ msg = {
     'ne': {
         'add_text-adding': u'रोबोट: थप्दै %(adding)s',
     },
+    # Author: Eukesh
+    'new': {
+        'add_text-adding': u'%(adding)त तनाच्वंगु दु।',
+    },
     'nl': {
         'add_text-adding': u'Robot: toegevoegd %(adding)s',
     },
@@ -493,10 +502,6 @@ msg = {
     'pt': {
         'add_text-adding': u'Robô: Adicionando %(adding)s',
     },
-    # Author: 555
-    'pt-br': {
-        'add_text-adding': u'Bot: Adicionando %(adding)s',
-    },
     'qu': {
         'add_text-adding': u'Rurana antacha Yapasqa %(adding)s',
     },
@@ -509,10 +514,11 @@ msg = {
     'roa-tara': {
         'add_text-adding': u'Robbot Stoche a mette %(adding)s',
     },
+    # Author: Dima st bk
     # Author: Rubin
     # Author: Volkov
     'ru': {
-        'add_text-adding': u'бот добавил: %(adding)s',
+        'add_text-adding': u'Бот добавил: %(adding)s',
     },
     'rue': {
         'add_text-adding': u'робот додав %(adding)s',
@@ -561,11 +567,6 @@ msg = {
     'sr': {
         'add_text-adding': u'Бот: додато %(adding)s',
     },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'add_text-adding': u'Bot: dodato %(adding)s',
-    },
     'su': {
         'add_text-adding': u'bot Nambih %(adding)s',
     },
@@ -579,6 +580,8 @@ msg = {
     'szl': {
         'add_text-adding': u'Bot dodowo: %(adding)s',
     },
+    # Author: Aswn
+    # Author: Xqt
     'ta': {
         'add_text-adding': u'தானியங்கிஇணைப்பு %(adding)s',
     },
@@ -613,6 +616,10 @@ msg = {
     },
     'tt': {
         'add_text-adding': u'робот кушты %(adding)s',
+    },
+    # Author: SuKhDug
+    'tyv': {
+        'add_text-adding': u'Немээр %(немелде)лер%',
     },
     # Author: Tifinaghes
     'tzm': {
@@ -672,14 +679,6 @@ msg = {
     },
     'zh-classical': {
         'add_text-adding': u'僕 增 %(adding)s',
-    },
-    # Author: Simon Shek
-    'zh-hant': {
-        'add_text-adding': u'機械人：新增%(adding)s',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'add_text-adding': u'機械人新增：%(adding)s',
     },
     'zh-min-nan': {
         'add_text-adding': u'bot ka-thiam %(adding)s',

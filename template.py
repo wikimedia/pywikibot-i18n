@@ -62,6 +62,12 @@ msg = {
         'template-removing': u'Робот: {{PLURAL:%(num)d|ҡалып}} юйыу: %(list)s',
         'template-substituting': u'Робот: {{PLURAL:%(num)d|ҡалып}} алыштырыу: %(list)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'template-changing': u'ربات: تغییر {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
+        'template-removing': u'ربات:حذف {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
+        'template-substituting': u'ربات: جانشینی {{PLURAL:%(num)d|الگو|الگوها}}: %(list)s',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'template-changing': u'Робат: зьмяніў{{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
@@ -69,6 +75,7 @@ msg = {
         'template-substituting': u'Робат: падставіў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'template-removing': u'রোবট: {{PLURAL:%(num)d|টেমপ্লেট|টেমপ্লেটসমূহ}} অপসারণ করছে: %(list)s',
     },
@@ -120,12 +127,6 @@ msg = {
     # Author: Metalhead64
     # Author: Xqt
     'de': {
-        'template-changing': u'Bot: Ändere {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
-        'template-removing': u'Bot: Entferne {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
-        'template-substituting': u'Bot: Ersetze {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'template-changing': u'Bot: Ändere {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
         'template-removing': u'Bot: Entferne {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
         'template-substituting': u'Bot: Ersetze {{PLURAL:%(num)d|Vorlage|Vorlagen}}: %(list)s',
@@ -389,14 +390,6 @@ msg = {
         'template-removing': u'Robô: A remover {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
         'template-substituting': u'Robô: A substituir {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
     },
-    # Author: 555
-    # Author: Pedroca cerebral
-    # Author: Tuliouel
-    'pt-br': {
-        'template-changing': u'Bot: Alterando {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
-        'template-removing': u'Bot: Removendo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
-        'template-substituting': u'Bot: Substituindo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s',
-    },
     # Author: Minisarm
     'ro': {
         'template-changing': u'Robot: Modificat {{PLURAL:%(num)d|formatul|formatele}}: %(list)s',
@@ -445,13 +438,6 @@ msg = {
         'template-changing': u'Бот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s',
         'template-removing': u'Бот: {{PLURAL:%(num)d|уклоњен шаблон|уклоњени шаблони}}: %(list)s',
         'template-substituting': u'Бот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'template-changing': u'Bot: {{PLURAL:%(num)d|promenjen šablon|promenjeni šabloni}}: %(list)s',
-        'template-removing': u'Bot: {{PLURAL:%(num)d|uklonjen šablon|uklonjeni šabloni}}: %(list)s',
-        'template-substituting': u'Bot: {{PLURAL:%(num)d|zamenjen šablon|zamenjeni šabloni}}: %(list)s',
     },
     # Author: WikiPhoenix
     'sv': {
@@ -521,18 +507,5 @@ msg = {
         'template-changing': u'机器人：修改%(num)d个模板：%(list)s',
         'template-removing': u'机器人：删除%(num)d个模板：%(list)s',
         'template-substituting': u'机器人：替换%(num)d个模板：%(list)s',
-    },
-    # Author: Justincheng12345
-    # Author: Simon Shek
-    'zh-hant': {
-        'template-changing': u'機械人更改%(num)d個模板：%(list)s',
-        'template-removing': u'機械人刪除%(num)d個模板：%(list)s',
-        'template-substituting': u'機械人替換%(num)d個模板：%(list)s',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'template-changing': u'機械人更改%(num)d個模板：%(list)s',
-        'template-removing': u'機械人刪除%(num)d個模板：%(list)s',
-        'template-substituting': u'機械人替換%(num)d個模板：%(list)s',
     },
 };

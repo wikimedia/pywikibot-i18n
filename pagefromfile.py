@@ -26,6 +26,13 @@ msg = {
         'pagefromfile-msg_force': u'testu esistente sustituíu',
         'pagefromfile-msg_top': u'amestar na parte d\'arriba',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'pagefromfile-msg': u'درون‌ریزی خودکار مقاله‌ها',
+        'pagefromfile-msg_bottom': u'به پایین اضافه شد',
+        'pagefromfile-msg_force': u'متن جایگزین شد',
+        'pagefromfile-msg_top': u'به بالا اضافه شد',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'pagefromfile-msg': u'Робат: аўтаматызаваны імпарт артыкулаў',
@@ -34,6 +41,7 @@ msg = {
         'pagefromfile-msg_top': u'дададзена зьверху',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'pagefromfile-msg': u'বট: নিবন্ধের স্বয়ংক্রিয় আমদানি',
     },
@@ -66,6 +74,18 @@ msg = {
         'pagefromfile-msg_force': u'долуш долу йоза юху дӀаяхдина',
         'pagefromfile-msg_top': u'лакхахьа тӀетохар',
     },
+    # Author: Chmee2
+    'cs': {
+        'pagefromfile-msg': u'Bot: Automatizovaný import článků',
+        'pagefromfile-msg_top': u'připojit na vrchol',
+    },
+    # Author: Christian List
+    'da': {
+        'pagefromfile-msg': u'Bot: Automatiseret import af artikler',
+        'pagefromfile-msg_bottom': u'tilføjer nederst',
+        'pagefromfile-msg_force': u'erstatter eksisterende tekst',
+        'pagefromfile-msg_top': u'tilføjer øverst',
+    },
     'de': {
         'pagefromfile-msg': u'Bot: Automatischer Import von Artikeln',
         'pagefromfile-msg_bottom': u'ergänze am Ende',
@@ -86,6 +106,13 @@ msg = {
         'pagefromfile-msg_force': u'texto existente sobrescrito',
         'pagefromfile-msg_top': u'adición en la parte superior',
     },
+    # Author: Subi
+    'eu': {
+        'pagefromfile-msg': u'Bot: Artikulu-igoera automatikoa',
+        'pagefromfile-msg_bottom': u'behean erantsi',
+        'pagefromfile-msg_force': u'zegoen testuaren gainean idatzi da',
+        'pagefromfile-msg_top': u'goian erantsi',
+    },
     'fa': {
         'pagefromfile-msg': u'درون‌ریزی خودکار مقاله‌ها',
         'pagefromfile-msg_bottom': u'به پایین اضافه شد',
@@ -104,6 +131,13 @@ msg = {
         'pagefromfile-msg_bottom': u'bi\'t aanj bihinge',
         'pagefromfile-msg_force': u'ual tekst auerskrewen',
         'pagefromfile-msg_top': u'bi a began bihinge',
+    },
+    # Author: Elisardojm
+    'gl': {
+        'pagefromfile-msg': u'Bot: importación automática de artigos',
+        'pagefromfile-msg_bottom': u'achega na parte inferior',
+        'pagefromfile-msg_force': u'texto existente sobrescrito',
+        'pagefromfile-msg_top': u'achega na parte superior',
     },
     'he': {
         'pagefromfile-msg': u'ייבוא ערכים אוטומטי',
@@ -175,6 +209,13 @@ msg = {
         'pagefromfile-msg_force': u'постоечкиот текст е заменет',
         'pagefromfile-msg_top': u'приложи на врвот',
     },
+    # Author: Praveenp
+    'ml': {
+        'pagefromfile-msg': u'യന്ത്രം: ലേഖനത്തെ യാന്ത്രികമായി ഇറക്കുമതി',
+        'pagefromfile-msg_bottom': u'അടിയിൽ ചേർക്കുക',
+        'pagefromfile-msg_force': u'നിലവിലുള്ള എഴുത്തിനുള്ള മുകളിൽ എഴുതുക',
+        'pagefromfile-msg_top': u'മുകളിൽ ചേർക്കുക',
+    },
     # Author: Anakmalaysia
     'ms': {
         'pagefromfile-msg': u'Bot: Pengimportan rencana automatik',
@@ -185,8 +226,9 @@ msg = {
     'mzn': {
         'pagefromfile-msg': u'ربوت:صفحه شه خاد به خاد دله دکته',
     },
+    # Author: Siebrand
     'nl': {
-        'pagefromfile-msg': u'Robot: Geautomatiseerde import',
+        'pagefromfile-msg': u'Robot: geautomatiseerde import',
         'pagefromfile-msg_bottom': u'onderaan toegevoegd',
         'pagefromfile-msg_force': u'bestaande tekst overschreven',
         'pagefromfile-msg_top': u'bovenaan toegevoegd',
@@ -209,13 +251,6 @@ msg = {
         'pagefromfile-msg_force': u'sobrescrever texto',
         'pagefromfile-msg_top': u'adicionado no topo',
     },
-    # Author: Tooguether
-    'pt-br': {
-        'pagefromfile-msg': u'Robô: Importação automática de artigos',
-        'pagefromfile-msg_bottom': u'adicionando no fim',
-        'pagefromfile-msg_force': u'texto sobrescrito existente',
-        'pagefromfile-msg_top': u'adicionado no topo',
-    },
     # Author: Okras
     'ru': {
         'pagefromfile-msg': u'Бот: автоматизированный импорт статей',
@@ -226,10 +261,6 @@ msg = {
     # Author: Milicevic01
     'sr': {
         'pagefromfile-msg': u'Бот: аутоматски увоз чланака',
-    },
-    # Author: Milicevic01
-    'sr-el': {
-        'pagefromfile-msg': u'Bot: automatski uvoz članaka',
     },
     # Author: Jopparn
     'sv': {
@@ -251,6 +282,11 @@ msg = {
         'pagefromfile-msg_force': u'існуючий текст перезаписано',
         'pagefromfile-msg_top': u'додано зверху',
     },
+    # Author: Candalua
+    'vec': {
+        'pagefromfile-msg_bottom': u'taco in fondo',
+        'pagefromfile-msg_top': u'taco in zima',
+    },
     # Author: Minh Nguyen
     'vi': {
         'pagefromfile-msg': u'Bot: Tự động nhập các bài',
@@ -264,9 +300,5 @@ msg = {
         'pagefromfile-msg_bottom': u'添加至最底部',
         'pagefromfile-msg_force': u'覆写现有文字',
         'pagefromfile-msg_top': u'附加于顶部',
-    },
-    # Author: Liuxinyu970226
-    'zh-hant': {
-        'pagefromfile-msg_bottom': u'於底部加入',
     },
 };

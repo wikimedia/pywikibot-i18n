@@ -31,6 +31,10 @@ msg = {
     'ba': {
         'spellcheck-checking': u'робот ярҙамында орфография',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'spellcheck-checking': u'غلط‌گیری به کمک ربات',
+    },
     # Author: Wizardist
     'be-x-old': {
         'spellcheck-checking': u'Выпраўленьне артаграфіі ботам',
@@ -61,10 +65,6 @@ msg = {
     },
     # Author: Xqt
     'de': {
-        'spellcheck-checking': u'Bot-unterstützte Rechtschreibprüfung',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'spellcheck-checking': u'Bot-unterstützte Rechtschreibprüfung',
     },
     # Author: Mirzali
@@ -122,6 +122,10 @@ msg = {
     },
     'ia': {
         'spellcheck-checking': u'Correction de orthographia per robot',
+    },
+    # Author: Ezagren
+    'id': {
+        'spellcheck-checking': u'Pemeriksa ejaan berbantuan bot',
     },
     # Author: Beta16
     'it': {
@@ -201,11 +205,8 @@ msg = {
         'spellcheck-checking': u'Coretor d\'ortografìa për mojen d\'un trigomiro',
     },
     # Author: 555
-    'pt': {
-        'spellcheck-checking': u'Correção ortográfica assistida por bot',
-    },
     # Author: 555
-    'pt-br': {
+    'pt': {
         'spellcheck-checking': u'Correção ortográfica assistida por bot',
     },
     # Author: Minisarm
@@ -241,10 +242,6 @@ msg = {
     'sr': {
         'spellcheck-checking': u'Ботовска провера правописа',
     },
-    # Author: Rancher
-    'sr-el': {
-        'spellcheck-checking': u'Botovska provera pravopisa',
-    },
     # Author: Jopparn
     # Author: Lokal Profil
     'sv': {
@@ -265,13 +262,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'spellcheck-checking': u'机器人辅助的拼写检查器',
-    },
-    # Author: Justincheng12345
-    'zh-hant': {
-        'spellcheck-checking': u'機械人輔助的拼字檢查',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'spellcheck-checking': u'機械人輔助的拼字檢查',
     },
 };

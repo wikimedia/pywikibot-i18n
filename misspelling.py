@@ -14,6 +14,10 @@ msg = {
     'ast': {
         'misspelling-fixing': u'Robot: Iguando l\'enllaz mal escritu a %(page)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'misspelling-fixing': u'ربات: اصلاح پیوند با املاء نادرست به %(page)s',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'misspelling-fixing': u'Робат: выпраўленьне памылковай спасылкі на %(page)s',
@@ -144,10 +148,6 @@ msg = {
     'pt': {
         'misspelling-fixing': u'Bot: Corrigindo link com erro ortográfico para %(page)s',
     },
-    # Author: Amgauna
-    'pt-br': {
-        'misspelling-fixing': u'Bot: Corrigindo link com erro ortográfico para %(page)s',
-    },
     # Author: Okras
     'ru': {
         'misspelling-fixing': u'Робот: Исправление ссылки с ошибками на %(page)s',
@@ -159,10 +159,6 @@ msg = {
     # Author: Milicevic01
     'sr': {
         'misspelling-fixing': u'Бот: поправљена погрешна веза према %(page)s',
-    },
-    # Author: Milicevic01
-    'sr-el': {
-        'misspelling-fixing': u'Bot: popravljena pogrešna veza prema %(page)s',
     },
     # Author: Jopparn
     'sv': {
@@ -179,10 +175,5 @@ msg = {
     # Author: Liuxinyu970226
     'zh': {
         'misspelling-fixing': u'机器人：修复错误连接至%(page)s',
-    },
-    # Author: Kc kennylau
-    # Author: LNDDYL
-    'zh-hant': {
-        'misspelling-fixing': u'機械人：修復至%(page)s的錯誤連結',
     },
 };

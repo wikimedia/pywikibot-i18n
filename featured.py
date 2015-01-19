@@ -71,6 +71,13 @@ msg = {
     'bat-smg': {
         'featured-featured': u'robots: Pavīzdėnė straipsnė nūruoda %(page)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'featured-featured': u'ربات: %(page)s یک مقالهٔ برگزیده است',
+        'featured-former': u'ربات: %(page)s مقالهٔ برگزیدهٔ پیشین است',
+        'featured-good': u'ربات: %(page)s یک جوانین مکاله یی اینت',
+        'featured-list': u'ربات: %(page)s یک فهرست برگزیده است',
+    },
     # Author: EugeneZelenko
     # Author: Jim-by
     'be-x-old': {
@@ -87,6 +94,7 @@ msg = {
         'featured-list': u'Bot: %(page)s adalah daptar pilihan',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'featured-featured': u'বট: %(page)s একটি নির্বাচিত নিবন্ধ',
         'featured-good': u'বট: %(page)s একটি ভালো নিবন্ধ',
@@ -163,13 +171,6 @@ msg = {
         'featured-good': u'Bot: %(page)s ist ein lesenswerter Artikel',
         'featured-list': u'Bot: %(page)s ist eine informative Liste',
     },
-    # Author: Eruedin
-    'de-ch': {
-        'featured-featured': u'Bot: %(page)s ist ein ausgezeichneter Artikel',
-        'featured-former': u'Bot: %(page)s ist ein ehemaliger ausgezeichneter Artikel',
-        'featured-good': u'Bot: %(page)s ist ein lesenswerter Artikel',
-        'featured-list': u'Bot: %(page)s ist eine ausgezeichnete Liste',
-    },
     # Author: Erdemaslancan
     'diq': {
         'featured-featured': u'Boti pera %(page)s yew [[Wikipedia:Weş wesiqe|Weş wesiqeya]]',
@@ -208,6 +209,10 @@ msg = {
         'featured-former': u'Robot: %(page)s on endine eeskujulik artikkel',
         'featured-good': u'Robot: %(page)s on hea artikkel',
         'featured-list': u'Robot: %(page)s on eeskujulik loend',
+    },
+    # Author: Subi
+    'eu': {
+        'featured-good': u'Bot: %(page)s artikulu ona da',
     },
     # Author: ZxxZxxZ
     'fa': {
@@ -295,7 +300,7 @@ msg = {
     # Author: Tacsipacsi
     'hu': {
         'featured-featured': u'Bot: a(z) %(page)s kiemelt szócikk',
-        'featured-former': u'Bot: %(page)s egy korábban kiemelt cikk',
+        'featured-former': u'Bot: %(page)s korábbi kiemelt cikk',
         'featured-good': u'Bot: %(page)s egy jó cikk',
         'featured-list': u'Bot: %(page)s egy kiemelt kiemelt lista',
     },
@@ -353,6 +358,13 @@ msg = {
     },
     'ka': {
         'featured-featured': u'ბოტი: რჩეული სტატიის ბმული გვერდისათვის %(page)s',
+    },
+    # Author: Akoppad
+    'kn': {
+        'featured-featured': u'ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ವಿಶೇಷ  ಲೇಖನ',
+        'featured-former': u'ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ಮಾಜಿ ವಿಶೇಷ  ಲೇಖನ',
+        'featured-good': u'ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ಉತ್ತಮ ಲೇಖನ',
+        'featured-list': u'ರೋಬೋಟ್:% (ಪುಟ) ರು ವೈಶಿಷ್ಟ್ಯಗೊಳಿಸಿದ ಪಟ್ಟಿ',
     },
     # Author: 아라
     'ko': {
@@ -515,14 +527,6 @@ msg = {
         'featured-good': u'Robô: %(page)s é um artigo bom',
         'featured-list': u'Robô: %(page)s é um anexo destacado',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'featured-featured': u'Bot: Link de \'artigo destacado\' para %(page)s',
-        'featured-former': u'Bot: %(page)s deixou de ser um \'artigo destacado\'',
-        'featured-good': u'Bot: Link de \'artigo bom\' para %(page)s',
-        'featured-list': u'Bot: Link de \'anexo destacado\' para %(page)s',
-    },
     # Author: Strainu
     'ro': {
         'featured-featured': u'Robot: %(page)s este un articol de calitate',
@@ -578,14 +582,6 @@ msg = {
         'featured-former': u'Бот: %(page)s је био сјајан чланак',
         'featured-good': u'Бот: %(page)s је добар чланак',
         'featured-list': u'Бот: %(page)s је сјајан списак',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'featured-featured': u'Bot: %(page)s je sjajan članak',
-        'featured-former': u'Bot: %(page)s je bio sjajan članak',
-        'featured-good': u'Bot: %(page)s je dobar članak',
-        'featured-list': u'Bot: %(page)s je sjajan spisak',
     },
     # Author: Jopparn
     # Author: Lokal Profil
@@ -686,19 +682,5 @@ msg = {
         'featured-former': u'机器人：%(page)s曾经是一篇特色条目',
         'featured-good': u'机器人：%(page)s是一篇优良条目',
         'featured-list': u'机器人：%(page)s是一篇特色列表',
-    },
-    # Author: Justincheng12345
-    'zh-hant': {
-        'featured-featured': u'機械人：%(page)s為特色條目',
-        'featured-former': u'機械人：%(page)s曾經是一特色條目',
-        'featured-good': u'機械人：%(page)s為優良條目',
-        'featured-list': u'機械人：%(page)s為特色列表',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'featured-featured': u'機械人將%(page)s列為特色條目',
-        'featured-former': u'機械人將%(page)s列為曾經的特色條目',
-        'featured-good': u'機械人將%(page)s列為優良條目',
-        'featured-list': u'機械人將%(page)s列為特色列表',
     },
 };

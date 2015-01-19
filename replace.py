@@ -46,6 +46,10 @@ msg = {
     'bar': {
         'replace-replacing': u'Bot: Autómaatisirde Textersétzung %(description)s',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'replace-replacing': u'ربات: جایگزینی خودکار متن %(description)s',
+    },
     # Author: Jim-by
     'be-x-old': {
         'replace-replacing': u'Робат: аўтаматызаваная замена тэксту %(description)s',
@@ -89,10 +93,6 @@ msg = {
         'replace-replacing': u'Robot: Automatisk erstatning af tekst: %(description)s',
     },
     'de': {
-        'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'replace-replacing': u'Bot: Automatisierte Textersetzung %(description)s',
     },
     # Author: Erdemaslancan
@@ -319,11 +319,6 @@ msg = {
     'pt': {
         'replace-replacing': u'Robô: Substituição de texto automática %(description)s',
     },
-    # Author: 555
-    # Author: Raylton P. Sousa
-    'pt-br': {
-        'replace-replacing': u'Bot: Substituição automática de texto %(description)s',
-    },
     # Author: Minisarm
     'ro': {
         'replace-replacing': u'Robot. Înlocuire automată de text %(description)s',
@@ -361,11 +356,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'replace-replacing': u'Бот: аутоматски замењен текст %(description)s',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'replace-replacing': u'Bot: automatski zamenjen tekst %(description)s',
     },
     'sv': {
         'replace-replacing': u'Bot: Automatisk textersättning: %(description)s',
@@ -417,14 +407,5 @@ msg = {
     # Author: 阿pp
     'zh': {
         'replace-replacing': u'机器人：自动文本替换%(description)s',
-    },
-    # Author: Andrew971218
-    # Author: Justincheng12345
-    'zh-hant': {
-        'replace-replacing': u'機械人：自動替換文字%(description)s',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'replace-replacing': u'機械人自動替換文字%(description)s',
     },
 };

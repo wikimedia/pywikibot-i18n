@@ -24,10 +24,20 @@ msg = {
         'commons_link-cat-template-added': u'Robó: Incluir plantía de commonscat',
         'commons_link-template-added': u'Robó: Incluir plantía de commons',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'commons_link-cat-template-added': u'ربات: افزودن الگوی رده‌بندی ویکی‌انبار',
+        'commons_link-template-added': u'ربات: افزودن الگوی ویکی‌انبار',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'commons_link-cat-template-added': u'Робат: дадаваньне шаблёну катэгорыі Вікісховішча',
         'commons_link-template-added': u'Робат: дадаваньне шаблёну Вікісховішча',
+    },
+    # Author: Ezagren
+    'bjn': {
+        'commons_link-cat-template-added': u'Bot: Tambahakan citakan commonscat',
+        'commons_link-template-added': u'Bot: Tambahakan citakan commons',
     },
     # Author: Phurbutsering
     'bo': {
@@ -204,11 +214,6 @@ msg = {
         'commons_link-cat-template-added': u'Robot: Włącz szablon commonscat',
         'commons_link-template-added': u'Robot: Włącz szablon commons',
     },
-    # Author: Amgauna
-    'pt-br': {
-        'commons_link-cat-template-added': u'Robot: Incluir template commonscat',
-        'commons_link-template-added': u'Robot: Incluir template comum',
-    },
     # Author: Minisarm
     'ro': {
         'commons_link-cat-template-added': u'Robot: Introdus format commonscat',
@@ -229,11 +234,6 @@ msg = {
     'sr': {
         'commons_link-cat-template-added': u'Бот: додат шаблон за везу до Оставе',
         'commons_link-template-added': u'Бот: додат шаблон Оставе',
-    },
-    # Author: Milicevic01
-    'sr-el': {
-        'commons_link-cat-template-added': u'Bot: dodat šablon za vezu do Ostave',
-        'commons_link-template-added': u'Bot: dodat šablon Ostave',
     },
     # Author: Jopparn
     'sv': {
@@ -259,10 +259,5 @@ msg = {
     'zh': {
         'commons_link-cat-template-added': u'机器人：增加commonscat模板',
         'commons_link-template-added': u'机器人：增加commons模板',
-    },
-    # Author: Liuxinyu970226
-    'zh-hant': {
-        'commons_link-cat-template-added': u'機械人：包含commonscat模板',
-        'commons_link-template-added': u'機械人：包含commons模板',
     },
 };

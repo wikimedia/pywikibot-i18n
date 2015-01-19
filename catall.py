@@ -44,6 +44,10 @@ msg = {
     'ba': {
         'catall-changing': u'Робот: категория үҙгәртеү',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'catall-changing': u'ربات: تغییر رده‌ها',
+    },
     # Author: Jim-by
     'be-x-old': {
         'catall-changing': u'Робат: Зьмена катэгорыяў',
@@ -52,7 +56,12 @@ msg = {
     'bg': {
         'catall-changing': u'Робот: Промяна на категории',
     },
+    # Author: Ezagren
+    'bjn': {
+        'catall-changing': u'Robot: Ma-ubah tumbung',
+    },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'catall-changing': u'রোবট: বিষয়শ্রেণী পরিবর্তন করেছে',
     },
@@ -96,10 +105,6 @@ msg = {
     },
     'de': {
         'catall-changing': u'Bot: Wechsele Kategorien',
-    },
-    # Author: Eruedin
-    'de-ch': {
-        'catall-changing': u'Bot: Ändern von Kategorien',
     },
     # Author: Erdemaslancan
     # Author: Marmase
@@ -325,19 +330,15 @@ msg = {
     'pt': {
         'catall-changing': u'Robô: Categorizando',
     },
-    # Author: 555
-    # Author: Pedroca cerebral
-    'pt-br': {
-        'catall-changing': u'Bot: Alterando categorias',
-    },
     # Author: Minisarm
     'ro': {
         'catall-changing': u'Robot: Schimbat categorii',
     },
+    # Author: Dima st bk
     # Author: Eleferen
     # Author: Volkov
     'ru': {
-        'catall-changing': u'бот: изменение категорий',
+        'catall-changing': u'Бот: изменение категорий',
     },
     # Author: Hemant wikikosh1
     'sa': {
@@ -375,11 +376,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'catall-changing': u'Бот: промењене категорије',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'catall-changing': u'Bot: promenjene kategorije',
     },
     # Author: Jopparn
     'sv': {
@@ -464,15 +460,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'catall-changing': u'机器人：修改分类',
-    },
-    # Author: Breawycker
-    # Author: Justincheng12345
-    # Author: Simon Shek
-    'zh-hant': {
-        'catall-changing': u'機械人：更改分類',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'catall-changing': u'機械人更改分類',
     },
 };

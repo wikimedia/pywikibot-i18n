@@ -40,6 +40,10 @@ msg = {
     'ba': {
         'djvutext-creating': u'Робот: DjVu-нан алынған текст булған бит төҙөү',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'djvutext-creating': u'ربات: ایجاد صفحه با متن استخراج‌شده از دژاوو',
+    },
     # Author: Jim-by
     'be-x-old': {
         'djvutext-creating': u'Робат: Стварэньне старонкі з тэкстам, узятым з DjVu',
@@ -78,10 +82,6 @@ msg = {
     # Author: Purodha
     'de': {
         'djvutext-creating': u'Bot: Erstelle eine Seite mit aus DjVu extrahiertem Text',
-    },
-    # Author: Eruedin
-    'de-ch': {
-        'djvutext-creating': u'Bot: Seite mit Text aus dem DjVu erstellen',
     },
     # Author: Erdemaslancan
     'diq': {
@@ -267,10 +267,6 @@ msg = {
     'pt': {
         'djvutext-creating': u'Robô: criando página com texto extraído do DjVu',
     },
-    # Author: Pedroca cerebral
-    'pt-br': {
-        'djvutext-creating': u'Bot: Criando página com texto extraído do DjVu',
-    },
     # Author: Minisarm
     'ro': {
         'djvutext-creating': u'Robot: Creat pagină cu text extras din DjVu',
@@ -304,11 +300,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'djvutext-creating': u'Бот: направљена страница са текстом изведеним из DjVu-а',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'djvutext-creating': u'Bot: napravljena stranica sa tekstom izvedenim iz DjVu-a',
     },
     # Author: Lokal Profil
     # Author: WikiPhoenix
@@ -358,14 +349,5 @@ msg = {
     # Author: Anakmalaysia
     'zh': {
         'djvutext-creating': u'机器人：创建文本由DjVu提取的页面',
-    },
-    # Author: Breawycker
-    # Author: Justincheng12345
-    'zh-hant': {
-        'djvutext-creating': u'機械人：為從DjVu中提取頁面創建檔案',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'djvutext-creating': u'機械人為從DjVu中提取頁面創建檔案',
     },
 };

@@ -43,6 +43,10 @@ msg = {
     'ba': {
         'noreferences-add-tag': u'Робот: булмаған <references /> тегы өҫтәлде',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'noreferences-add-tag': u'ربات: افزودن برچسب <references /> که فراموش شده بود',
+    },
     'be': {
         'noreferences-add-tag': u'Robot: дабаўлены адсутнічаючы тэг <references />',
     },
@@ -59,6 +63,7 @@ msg = {
         'noreferences-add-tag': u'Bot: Manambahakan tag <references /> tag',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'noreferences-add-tag': u'রোবট: অনুপস্থিত <references /> ট্যাগ যোগ করেছে',
     },
@@ -98,10 +103,6 @@ msg = {
     'de': {
         'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',
     },
-    # Author: Eruedin
-    'de-ch': {
-        'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',
-    },
     # Author: Erdemaslancan
     'diq': {
         'noreferences-add-tag': u'Boti etiketo ke kemiyo <references /> o dekerd de',
@@ -121,6 +122,10 @@ msg = {
     # Author: Pikne
     'et': {
         'noreferences-add-tag': u'Robot: lisatud puuduv <references />-silt',
+    },
+    # Author: Subi
+    'eu': {
+        'noreferences-add-tag': u'Bot-a: Falta den <references /> etiketa eransten',
     },
     # Author: ZxxZxxZ
     'fa': {
@@ -292,11 +297,6 @@ msg = {
     'pt': {
         'noreferences-add-tag': u'Robô: A adicionar a tag <references />',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'noreferences-add-tag': u'Bot: Adicionando tag <references />',
-    },
     # Author: Minisarm
     'ro': {
         'noreferences-add-tag': u'Robot: Adăugat tagul lipsă <references />',
@@ -333,11 +333,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'noreferences-add-tag': u'Бот: додата ознака <references /> која недостаје',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'noreferences-add-tag': u'Bot: dodata oznaka <references /> koja nedostaje',
     },
     # Author: Lokal Profil
     'sv': {
@@ -398,14 +393,5 @@ msg = {
     # Author: Anakmalaysia
     'zh': {
         'noreferences-add-tag': u'机器人：添加缺少的<references />标签',
-    },
-    # Author: Breawycker
-    # Author: Justincheng12345
-    'zh-hant': {
-        'noreferences-add-tag': u'機械人：添加缺少的<references/>標記',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'noreferences-add-tag': u'機械人添加缺少的<references/>標記',
     },
 };

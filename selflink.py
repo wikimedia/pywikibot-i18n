@@ -15,6 +15,10 @@ msg = {
     'ast': {
         'selflink-remove': u'Bot: Desaniciu d\'enllaces a la propia páxina',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'selflink-remove': u'ربات: حذف پیوند به خود',
+    },
     'be-x-old': {
         'selflink-remove': u'Робат: выдаленьне аўтаспасылкі',
     },
@@ -62,11 +66,23 @@ msg = {
     'frr': {
         'selflink-remove': u'Bot: Nem rekursiif ferwisangen wech',
     },
+    # Author: Elisardojm
+    'gl': {
+        'selflink-remove': u'Bot: eliminación de ligazóns cara a propia páxina',
+    },
     'he': {
         'selflink-remove': u'בוט: מסיר קישורים של הדף לעצמו',
     },
     'hu': {
         'selflink-remove': u'Bot: Önmagukra mutató hivatkozások eltávolítása',
+    },
+    # Author: McDutchie
+    'ia': {
+        'selflink-remove': u'Robot: Remove ligamines verso proprie pagina',
+    },
+    # Author: Ezagren
+    'id': {
+        'selflink-remove': u'Bot: Menghapus pranala sendiri',
     },
     # Author: Beta16
     'it': {
@@ -103,8 +119,9 @@ msg = {
     'ms': {
         'selflink-remove': u'Bot: Menggugurkan pautan sendiri',
     },
+    # Author: Siebrand
     'nl': {
-        'selflink-remove': u'Bot: verwijzingen naar pagina zelf verwijderd',
+        'selflink-remove': u'Robot: verwijzingen naar pagina zelf verwijderd',
     },
     'nn': {
         'selflink-remove': u'robot: fjerna sjølvlenkjer',
@@ -117,10 +134,6 @@ msg = {
     },
     'pt': {
         'selflink-remove': u'Bot: Retirando link para o próprio artigo',
-    },
-    # Author: !Silent
-    'pt-br': {
-        'selflink-remove': u'Bot: removendo ligações para o próprio artigo',
     },
     'ru': {
         'selflink-remove': u'Бот: удалил заголовок-ссылку в тексте. см.',
@@ -140,9 +153,5 @@ msg = {
     # Author: Liuxinyu970226
     'zh': {
         'selflink-remove': u'机器人：移除自链接',
-    },
-    # Author: Liuxinyu970226
-    'zh-hant': {
-        'selflink-remove': u'機械人: 刪除自我連結',
     },
 };

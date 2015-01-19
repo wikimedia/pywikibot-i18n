@@ -44,11 +44,16 @@ msg = {
     'ba': {
         'fixing_redirects-fixing': u'Робот: йүнәлтеүҙәрҙе төҙәтеү',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'fixing_redirects-fixing': u'ربات:تصحیح تغییرمسیرها',
+    },
     # Author: Jim-by
     'be-x-old': {
         'fixing_redirects-fixing': u'Робат: Выпраўленьне перанакіраваньняў',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'fixing_redirects-fixing': u'বট: পুনর্নির্দেশনা ঠিক করছে',
     },
@@ -88,10 +93,6 @@ msg = {
     },
     # Author: Purodha
     'de': {
-        'fixing_redirects-fixing': u'Bot: Reparieren von Umleitungen',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'fixing_redirects-fixing': u'Bot: Reparieren von Umleitungen',
     },
     # Author: Erdemaslancan
@@ -296,11 +297,6 @@ msg = {
     'pt': {
         'fixing_redirects-fixing': u'Robô: Arrumando redirects',
     },
-    # Author: 555
-    # Author: Pedroca cerebral
-    'pt-br': {
-        'fixing_redirects-fixing': u'Bot: Corrigindo redirecionamentos',
-    },
     # Author: Minisarm
     'ro': {
         'fixing_redirects-fixing': u'Robot: Reparat redirecționările',
@@ -341,10 +337,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'fixing_redirects-fixing': u'Бот: исправљена преусмерења',
-    },
-    # Author: Rancher
-    'sr-el': {
-        'fixing_redirects-fixing': u'Bot: ispravljena preusmerenja',
     },
     'sv': {
         'fixing_redirects-fixing': u'Bot: Rättar omdirigeringar',
@@ -416,14 +408,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'fixing_redirects-fixing': u'机器人：修正重定向',
-    },
-    # Author: Breawycker
-    # Author: Justincheng12345
-    'zh-hant': {
-        'fixing_redirects-fixing': u'機械人：修補重定向',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'fixing_redirects-fixing': u'機械人修補重定向',
     },
 };

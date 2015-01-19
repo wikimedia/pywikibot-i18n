@@ -18,13 +18,25 @@ msg = {
     'ast': {
         'blockpageschecker-summary': u'Robó: Desaniciando plantía anticuada',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'blockpageschecker-summary': u'बॉट:अप्रचलित साँचन् कय हटावत है',
+    },
     # Author: Рустам Нурыев
     'ba': {
         'blockpageschecker-summary': u'Бот: иҫкергән ҡалыпты юйыу',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'blockpageschecker-summary': u'ربات: پاک کورتین کدیمین تمپلتی',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'blockpageschecker-summary': u'Робат: выдаленьне састарэлага шаблёну',
+    },
+    # Author: Ezagren
+    'bjn': {
+        'blockpageschecker-summary': u'Bot: Mahapus citakan usang',
     },
     # Author: Phurbutsering
     'bo': {
@@ -203,10 +215,6 @@ msg = {
     'pt': {
         'blockpageschecker-summary': u'Bot: Retirando predefinição de proteção',
     },
-    # Author: Leosls
-    'pt-br': {
-        'blockpageschecker-summary': u'Bot: Retirando predefinição de proteção',
-    },
     # Author: Minisarm
     'ro': {
         'blockpageschecker-summary': u'Bot: Șters format învechit',
@@ -240,10 +248,6 @@ msg = {
     'sr': {
         'blockpageschecker-summary': u'Бот: обрисан застарели шаблон',
     },
-    # Author: Milicevic01
-    'sr-el': {
-        'blockpageschecker-summary': u'Bot: obrisan zastareli šablon',
-    },
     # Author: WikiPhoenix
     'sv': {
         'blockpageschecker-summary': u'Bot: Raderar föråldrad mall',
@@ -267,10 +271,5 @@ msg = {
     # Author: Liuxinyu970226
     'zh': {
         'blockpageschecker-summary': u'机器人：删除过期模板中',
-    },
-    # Author: Gabrielchihonglee
-    # Author: Kc kennylau
-    'zh-hant': {
-        'blockpageschecker-summary': u'機械人：移除過期的保護模板',
     },
 };

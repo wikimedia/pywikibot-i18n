@@ -42,11 +42,16 @@ msg = {
     'ba': {
         'movepages-moving': u'Робот: биттең исемен үҙгәртеү',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'movepages-moving': u'ربات: صفحه منتقل شد',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'movepages-moving': u'робат перанёс старонку',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
         'movepages-moving': u'রোবট: পাতা স্থানান্তরিত করেছে',
     },
@@ -86,10 +91,6 @@ msg = {
     'de': {
         'movepages-moving': u'Bot: Seite verschoben',
     },
-    # Author: Eruedin
-    'de-ch': {
-        'movepages-moving': u'Bot: Seite verschoben',
-    },
     # Author: Erdemaslancan
     'diq': {
         'movepages-moving': u'Boti pela wedarne',
@@ -109,6 +110,10 @@ msg = {
     # Author: Pikne
     'et': {
         'movepages-moving': u'Robot: lehekülg teisaldatud',
+    },
+    # Author: Subi
+    'eu': {
+        'movepages-moving': u'Bot-a: Mugitutako orrialdea',
     },
     'fa': {
         'movepages-moving': u'ربات: صفحه منتقل شد',
@@ -281,11 +286,6 @@ msg = {
     'pt': {
         'movepages-moving': u'Robô: Página movida',
     },
-    # Author: 555
-    # Author: Pedroca cerebral
-    'pt-br': {
-        'movepages-moving': u'Bot: Página movida',
-    },
     # Author: Minisarm
     'ro': {
         'movepages-moving': u'Robot: Redenumit pagina',
@@ -326,11 +326,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'movepages-moving': u'Бот: премештена страница',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'movepages-moving': u'Bot: premeštena stranica',
     },
     # Author: WikiPhoenix
     'sv': {
@@ -404,14 +399,5 @@ msg = {
     # Author: Anakmalaysia
     'zh': {
         'movepages-moving': u'机器人：移动页面',
-    },
-    # Author: Breawycker
-    # Author: Justincheng12345
-    'zh-hant': {
-        'movepages-moving': u'機械人：移動頁面',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'movepages-moving': u'機械人移動頁面',
     },
 };

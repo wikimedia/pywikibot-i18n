@@ -44,6 +44,10 @@ msg = {
     'bar': {
         'clean_sandbox-cleaned': u'Bot: Sétz d\' Spüwiesen zruck.',
     },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'clean_sandbox-cleaned': u'ربات: صفحه به طور خودکار تميز شد',
+    },
     # Author: EugeneZelenko
     'be-x-old': {
         'clean_sandbox-cleaned': u'Робат: аўтаматычная ачыстка',
@@ -53,8 +57,9 @@ msg = {
         'clean_sandbox-cleaned': u'Bot: Tata ulang',
     },
     # Author: Aftab1995
+    # Author: Aftabuzzaman
     'bn': {
-        'clean_sandbox-cleaned': u'রোবট: স্বয়ংক্রিয়ভাবে পরিষ্কার করেছে',
+        'clean_sandbox-cleaned': u'বট: স্বয়ংক্রিয়ভাবে পরিষ্কার করেছে',
     },
     # Author: Phurbutsering
     'bo': {
@@ -96,10 +101,6 @@ msg = {
     },
     'de': {
         'clean_sandbox-cleaned': u'Bot: Setze Spielwiese zurück.',
-    },
-    # Author: Eruedin
-    'de-ch': {
-        'clean_sandbox-cleaned': u'Bot: Spielwiese aufgeräumt.',
     },
     # Author: Erdemaslancan
     # Author: Mirzali
@@ -304,11 +305,6 @@ msg = {
     'pt': {
         'clean_sandbox-cleaned': u'Robô: Limpeza da página de testes',
     },
-    # Author: 555
-    # Author: Giro720
-    'pt-br': {
-        'clean_sandbox-cleaned': u'Bot: Limpeza automática',
-    },
     # Author: Minisarm
     'ro': {
         'clean_sandbox-cleaned': u'Robot: Curățat automat',
@@ -346,11 +342,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'clean_sandbox-cleaned': u'Бот: очишћен песак',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'clean_sandbox-cleaned': u'Bot: očišćen pesak',
     },
     # Author: Jopparn
     'sv': {
@@ -412,13 +403,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'clean_sandbox-cleaned': u'机器人：自动清理',
-    },
-    # Author: Waihorace
-    'zh-hant': {
-        'clean_sandbox-cleaned': u'機械人：自動清除',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'clean_sandbox-cleaned': u'機械人自動清除',
     },
 };

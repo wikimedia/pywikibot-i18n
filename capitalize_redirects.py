@@ -34,6 +34,10 @@ msg = {
     'ast': {
         'capitalize_redirects-create-redirect': u'Robó: Crear redireición a [[%(to)s]]',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'capitalize_redirects-create-redirect': u'रोबोट: [[%(to)s]] पे पुनर्निर्देशन बनावा जाय',
+    },
     # Author: AZISS
     # Author: Ebrahimi-amir
     'az': {
@@ -46,6 +50,10 @@ msg = {
     # Author: Haqmar
     'ba': {
         'capitalize_redirects-create-redirect': u'Робот: [[%(to)s]] битенә йүнәлтеү яһалды',
+    },
+    # Author: Baloch Afghanistan
+    'bcc': {
+        'capitalize_redirects-create-redirect': u'ربات: ایجاد تغییرمسیر به [[%(to)s]]',
     },
     # Author: EugeneZelenko
     'be-x-old': {
@@ -99,10 +107,6 @@ msg = {
         'capitalize_redirects-create-redirect': u'Robot: Opretter omdirigering til [[%(to)s]]',
     },
     'de': {
-        'capitalize_redirects-create-redirect': u'Bot: Weiterleitung angelegt auf [[%(to)s]]',
-    },
-    # Author: Eruedin
-    'de-ch': {
         'capitalize_redirects-create-redirect': u'Bot: Weiterleitung angelegt auf [[%(to)s]]',
     },
     # Author: Erdemaslancan
@@ -222,6 +226,10 @@ msg = {
     'kab': {
         'capitalize_redirects-create-redirect': u'Aṛubut: Snulfud abeddel n webrid γer [[%(to)s]]',
     },
+    # Author: Akoppad
+    'kn': {
+        'capitalize_redirects-create-redirect': u'ರೋಬೋಟ್: [[%(ಗೆ)ರು ]] ಮರುನಿರ್ದೇಶನ    ರಚಿಸಿ',
+    },
     # Author: 아라
     'ko': {
         'capitalize_redirects-create-redirect': u'로봇: [[%(to)s]] 문서로 넘겨주기를 만듦',
@@ -319,19 +327,14 @@ msg = {
     'pt': {
         'capitalize_redirects-create-redirect': u'Robô: A criar redirecionamento para [[%(to)s]]',
     },
-    # Author: 555
-    # Author: Giro720
-    # Author: Prilopes
-    'pt-br': {
-        'capitalize_redirects-create-redirect': u'Bot: Cria redirecionamento para [[%(to)s]]',
-    },
     # Author: Minisarm
     'ro': {
         'capitalize_redirects-create-redirect': u'Robot: Creat redirecționare către [[%(to)s]]',
     },
+    # Author: Dima st bk
     # Author: Volkov
     'ru': {
-        'capitalize_redirects-create-redirect': u'бот: создано перенаправление на [[%(to)s]]',
+        'capitalize_redirects-create-redirect': u'Бот: создано перенаправление на [[%(to)s]]',
     },
     # Author: Hemant wikikosh1
     'sa': {
@@ -362,11 +365,6 @@ msg = {
     # Author: Rancher
     'sr': {
         'capitalize_redirects-create-redirect': u'Бот: направљено преусмерење на [[%(to)s]]',
-    },
-    # Author: Milicevic01
-    # Author: Rancher
-    'sr-el': {
-        'capitalize_redirects-create-redirect': u'Bot: napravljeno preusmerenje na [[%(to)s]]',
     },
     'sv': {
         'capitalize_redirects-create-redirect': u'Bot: Omdirigerar till [[%(to)s]]',
@@ -440,13 +438,5 @@ msg = {
     # Author: Yfdyh000
     'zh': {
         'capitalize_redirects-create-redirect': u'机器人：创建至[[%(to)s]]的重定向',
-    },
-    # Author: Waihorace
-    'zh-hant': {
-        'capitalize_redirects-create-redirect': u'機械人：創建重定向至[[%(to)s]]',
-    },
-    # Author: Justincheng12345
-    'zh-hk': {
-        'capitalize_redirects-create-redirect': u'機械人創建重定向至[[%(to)s]]',
     },
 };
