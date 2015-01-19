@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'template-changing': u'Bot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s',

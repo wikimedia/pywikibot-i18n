@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',

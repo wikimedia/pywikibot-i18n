@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'pywikibot-enter-category-name': u'Please enter the category name:',

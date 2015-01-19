@@ -1,4 +1,5 @@
 #  -*-  coding:  utf-8  -*-
+"""i18n message bundle."""
 msg = {
         'nl': {
                 'wiktionary-lang-translingual': u'Taalonafhankelijk',

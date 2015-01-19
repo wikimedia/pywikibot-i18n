@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'noreferences-add-tag': u'Bot: Adding missing <references /> tag',

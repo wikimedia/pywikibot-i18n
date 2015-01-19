@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'casechecker-delete-reason': u'This redirect used to point to %(target)s',

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'makecat-create': u'Bot: Creation or update of category [[:Category:%(cat)s|]]',

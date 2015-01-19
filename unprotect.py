@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'unprotect-category': u'Bot: Unprotecting all pages from category %(cat)s',

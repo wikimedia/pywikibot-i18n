@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'category_redirect-add-template': u'Bot: Adding category redirect template for maintenance',

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'blockpageschecker-summary': u'Bot: Deleting out-dated template',

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'commons_link-cat-template-added': u'Bot: Include commonscat template',

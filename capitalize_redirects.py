@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'capitalize_redirects-create-redirect': u'Bot: Create redirect to [[%(to)s]]',
