@@ -2,7 +2,7 @@
 	"@metadata": [],
 	"archivebot-older-than": "older than %(duration)s",
 	"archivebot-page-summary": "Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-archiveheader": "{{talk archive}}",
 	"archivebot-archive-full": "(ARCHIVE FULL)",
 	"archivebot-archive-summary": "Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]]."
 }
