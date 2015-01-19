@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'lonelypages-comment-add-disambig-template': u'Bot: Adding a disambig page',

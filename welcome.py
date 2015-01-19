@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'welcome-bad_username': u'Bot: Adding a username that needs to be checked',

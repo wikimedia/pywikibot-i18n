@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'misspelling-fixing': u'Bot: Fixing misspelled link to %(page)s',

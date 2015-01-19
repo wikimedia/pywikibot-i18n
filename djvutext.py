@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'djvutext-creating': u'Bot: Creating page with text extracted from DjVu',

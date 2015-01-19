@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'weblinkchecker-archive_msg': u'The web page has been saved by the Internet Archive. Please consider linking to an appropriate archived version: [%(URL)s].',

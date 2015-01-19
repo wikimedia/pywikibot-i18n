@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'solve_disambiguation-adding-dn-template': u'Bot-assisted disambiguation: %(from)s - Marked as needing expert attention',

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'replace-replacing': u'Bot: Automated text replacement %(description)s',

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+"""i18n message bundle."""
 msg = {
     'en': {
         'revertbot-revert': u'Bot: Reverted to revision %(revid)s by %(author)s on %(timestamp)s',
