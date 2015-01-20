@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kazu89"
+			"Kazu89",
+			"Xqt"
 		]
 	},
 	"category-version-history": "Bot: Memorisar la cronologia da versiuns da l'anteriura %(oldcat)s",

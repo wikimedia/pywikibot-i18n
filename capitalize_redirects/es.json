@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Invadinado",
+			"Vivaelcelta"
 		]
 	},
 	"capitalize_redirects-create-redirect": "Bot: creación de redirección a «[[%(to)s]]»"

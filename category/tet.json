@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"MF-Warburg"
+			"MF-Warburg",
+			"Xqt"
 		]
 	},
 	"category-changing": "Bot: Muda %(oldcat)s ba %(newcat)s",

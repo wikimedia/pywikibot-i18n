@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alunardon90"
+			"Alunardon90",
+			"Candalua"
 		]
 	},
 	"capitalize_redirects-create-redirect": "Robot: Crea rindirisamento a [[%(to)s]]"

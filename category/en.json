@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
 	"category-version-history": "Bot: Saving version history of former %(oldcat)s",
 	"category-changing": "Bot: Changing %(oldcat)s to %(newcat)s",
 	"category-adding": "Bot: Adding category [[:Category:%(newcat)s|%(newcat)s]]",

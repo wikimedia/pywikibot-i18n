@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Armando-Martin",
 			"Fitoschido",
 			"Ricordisamoa",
 			"TheBITLINK",
 			"Vivaelcelta",
-			"Macofe"
+			"Macofe",
+			"Xqt"
 		]
 	},
 	"archivebot-older-than": "más antiguo que %(duration)s",
