@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Vandenberg"
+		]
+	},
+	"commonscat-msg_change": "Edit summary. Parameters:\n* %(oldcat)s - old category name\n* %(newcat)s - new category name."
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mercy"
+		]
+	},
+	"commonscat-msg_change": "บอต: เปลี่ยนลิงก์หมวดหมู่คอมมอนส์จาก [[:Commons:Category:%(oldcat)s|%(oldcat)s]] เป็น [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

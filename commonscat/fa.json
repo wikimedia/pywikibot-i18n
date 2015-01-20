@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amir Sarabadani"
+		]
+	},
+	"commonscat-msg_change": "ربات: تغییر پیوند به انبار از [[:Commons:Category:%(oldcat)s|%(oldcat)s]] به [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}
