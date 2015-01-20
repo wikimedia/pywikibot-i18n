@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"ElangoRamanujam",
-			"Karthi.dr"
+			"Karthi.dr",
+			"Shanmugamp7"
 		]
 	},
 	"archivebot-older-than": "%(duration)s முந்தையது",

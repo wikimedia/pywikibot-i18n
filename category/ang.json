@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gott wisst"
+			"Gott wisst",
+			"Xqt"
 		]
 	},
 	"category-adding": "Robot: ēcung category [[:Category:%(newcat)s|%(newcat)s]]",

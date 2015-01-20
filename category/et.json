@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pikne"
+			"Pikne",
+			"Xqt"
 		]
 	},
 	"category-changing": "Robot: %(oldcat)s → %(newcat)s",

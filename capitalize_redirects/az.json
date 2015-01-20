@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"AZISS"
+			"AZISS",
+			"Ebrahimi-amir"
 		]
 	},
 	"capitalize_redirects-create-redirect": "Bot: [[%(to)s]] səhifəsinə istiqamətləndirilmə yaradıldı"

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
 	"capitalize_redirects-create-redirect": "Бот: направљено преусмерење на [[%(to)s]]"

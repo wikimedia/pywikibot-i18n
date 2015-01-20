@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"TheBITLINK",
+			"Xqt"
 		]
 	},
 	"add_text-adding": "Bot: adición de %(adding)s"
