@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"snaevar"
+		]
+	},
+	"commonscat-msg_change": "Vélmenni: Breyti Commonscat tengli frá [[:Commons:Category:%(oldcat)s|%(oldcat)s]] í [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}
