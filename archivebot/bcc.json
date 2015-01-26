@@ -6,7 +6,6 @@
 	},
 	"archivebot-older-than": "کوونگ تیر شه %(duration)s",
 	"archivebot-page-summary": "ربات: بایگانی %(count)d {{PLURAL:%(count)d|گپ|گپان}} (%(why)s) به %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(بایگانی پُر اینت)",
 	"archivebot-archive-summary": "ربات: بایگانی %(count)d {{PLURAL:%(count)d|گپ|گپان}} شه [[%(from)s]]."
 }

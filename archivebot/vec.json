@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "pi vecio de %(duration)s",
 	"archivebot-page-summary": "Robot: Archiviasion de %(count)d discusion (%(why)s) in %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARCHIVIO PIEN)",
 	"archivebot-archive-summary": "Robot: Archiviasion de %(count)d discusion da [[%(from)s]]."
 }

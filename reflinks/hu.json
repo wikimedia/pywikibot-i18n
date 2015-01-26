@@ -7,5 +7,5 @@
 	},
 	"reflinks-autogen": "automatikusan létrehozott",
 	"reflinks-comment": "Robot generálta cím",
-	"reflinks-msg": "Robot: Forráshivatkozások kibővítése a hivatkozott oldal címével, lásd [[%(manual)s|GyIK]]"
+	"reflinks-msg": "Bot: forráshivatkozások kibővítése a hivatkozott oldal címével, lásd [[%(manual)s|GyIK]]"
 }

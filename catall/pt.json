@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Vitorvicentevalente"
 		]
 	},
-	"catall-changing": "Robô: Categorizando"
+	"catall-changing": "Robô: A alterar categorias"
 }

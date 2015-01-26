@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"selflink-remove": "Bot: Önmagukra mutató hivatkozások eltávolítása"
+	"@metadata": {
+		"authors": [
+			"Dj"
+		]
+	},
+	"selflink-remove": "Bot: önmagukra mutató hivatkozások eltávolítása"
 }

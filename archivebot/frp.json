@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "ples viely que",
 	"archivebot-page-summary": "Robot : arch·ivâjo de %(count)d {{PLURAL:%(count)d|fil de discussion|fils de discussion}} (%(why)s) de vers %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARCH·IVES PLÊNES)",
 	"archivebot-archive-summary": "Robot : arch·ivâjo de %(count)d {{PLURAL:%(count)d|fil de discussion|fils de discussion}} dês [[%(from)s]]."
 }

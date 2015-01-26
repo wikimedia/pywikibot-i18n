@@ -3,7 +3,8 @@
 		"authors": [
 			"DrTrigon",
 			"Giro720",
-			"Waldir"
+			"Waldir",
+			"Vitorvicentevalente"
 		]
 	},
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "robô",
@@ -17,7 +18,7 @@
 	"thirdparty-drtrigonbot-subster-summary-mod": "a substituir %(tags)s tag(s)",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussão encerrada",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s todas as discussões terminaram (vigilância parada) - última modificação por %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-summary-add": "Adicionado resumo da discussão: %(num)i entradas",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "A adicionar resumo da discussão: %(num)i entradas",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussão alterada",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Resumo da discussão adicionado com limpeza: %(num)i entradas",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Atualizado o resumo da discussão: %(num)i entradas em %(page)s",

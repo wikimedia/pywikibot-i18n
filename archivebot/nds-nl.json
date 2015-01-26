@@ -6,7 +6,6 @@
 	},
 	"archivebot-older-than": "ouwer as",
 	"archivebot-page-summary": "Bot: %(count)d {{PLURAL:%(count)d|onderwarp|onderwarpen}} verplaotst naor t archief %(archives)s (%(why)s).",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARCHIEF VOL)",
 	"archivebot-archive-summary": "Bot: %(count)d {{PLURAL:%(count)d|onderwarp|onderwarpen}} verplaotst vanuut t archief [[%(from)s]]."
 }

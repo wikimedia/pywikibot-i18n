@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Csega"
+			"Csega",
+			"Dj"
 		]
 	},
-	"protect-links": "Bot: A(z) %(page)s oldalról hivatkozott összes lap védelme",
-	"protect-simple": "Bot: Fájlok listájának védelme.",
-	"protect-category": "Bot: A(z) %(cat)s kategóriába tartozó összes lap védelme",
-	"protect-ref": "Bot: A(z) %(page)s lapról hivatkozott össze lap védelme",
-	"protect-images": "Bot: Minden kép védelme a(z) %(page)s lapon"
+	"protect-links": "Bot: a(z) %(page)s oldalról hivatkozott összes lap védelme",
+	"protect-simple": "Bot: fájlok listájának védelme.",
+	"protect-category": "Bot: a(z) %(cat)s kategóriába tartozó összes lap védelme",
+	"protect-ref": "Bot: a(z) %(page)s lapról hivatkozott össze lap védelme",
+	"protect-images": "Bot: minden kép védelme a(z) %(page)s lapon"
 }

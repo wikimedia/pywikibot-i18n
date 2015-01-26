@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Giro720"
+			"Giro720",
+			"Vitorvicentevalente"
 		]
 	},
-	"noreferences-add-tag": "Robô: A adicionar a tag <references />"
+	"noreferences-add-tag": "Robô: A adicionar a marca <references />"
 }

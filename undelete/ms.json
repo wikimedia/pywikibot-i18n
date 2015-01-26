@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"undelete-from-file": "Bot: Menyahhapus senarai laman",
+	"undelete-images": "Bot: Menyahhapus semua imej pada laman %(page)s",
+	"undelete-linked-pages": "Bot: Menyahhapus semua laman yang terpaut dari %(page)s"
+}

@@ -6,7 +6,6 @@
 	},
 	"archivebot-older-than": "kahiko aʻe ma mua o",
 	"archivebot-page-summary": "Lopako: Ke papaʻa nei i %(count)d {{PLURAL:%(count)d|lopi|mau lopi}} (%(why)s) i %(archives)s",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(PIHA KA WAIHONAʻIKE)",
 	"archivebot-archive-summary": "Lopako: Ke papaʻa nei i %(count)d {{PLURAL:%(count)d|lopi|mau lopi}} mai [[%(from)s]]."
 }

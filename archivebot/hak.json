@@ -6,7 +6,6 @@
 	},
 	"archivebot-older-than": "早於",
 	"archivebot-page-summary": "機械人：%(count)d討論串(%(why)s)存檔至%(archives)s。",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(存檔滿矣)",
 	"archivebot-archive-summary": "機械人：從%(from)s存檔%(count)d。"
 }

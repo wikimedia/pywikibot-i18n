@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"misspelling-fixing": "Bot: Corrigindo link com erro ortográfico para %(page)s"
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"misspelling-fixing": "Robô: A corrigir ligação com erro ortográfico para %(page)s"
 }

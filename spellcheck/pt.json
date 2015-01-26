@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			555
+			555,
+			"Vitorvicentevalente"
 		]
 	},
-	"spellcheck-checking": "Correção ortográfica assistida por bot"
+	"spellcheck-checking": "Correção ortográfica assistida por robô"
 }

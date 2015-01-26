@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"blockpageschecker-summary": "Bot: Retirando predefinição de proteção"
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"blockpageschecker-summary": "Robô: A retirar predefinição de proteção"
 }

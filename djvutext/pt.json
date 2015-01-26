@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Vitorvicentevalente"
 		]
 	},
-	"djvutext-creating": "Robô: criando página com texto extraído do DjVu"
+	"djvutext-creating": "Robô: A criar página com texto extraído do DjVu"
 }

@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "Robô: Adicionando %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"add_text-adding": "Robô: A adicionar %(adding)s"
 }

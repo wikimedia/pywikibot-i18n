@@ -1,7 +1,12 @@
 {
-	"@metadata": [],
-	"weblinkchecker-archive_msg": "Esta página web foi gravada na Internet Archive. Por favor considere o link para a versão arquivada: [%(URL)s].",
-	"weblinkchecker-caption": "Link quebrado",
-	"weblinkchecker-summary": "Bot: Link externo não funcionando",
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"weblinkchecker-archive_msg": "Esta página web foi gravada na Internet Archive. Por favor, considere a ligação para a versão arquivada: [%(URL)s].",
+	"weblinkchecker-badurl": "A ligação fornecida não parece ser uma URL válida",
+	"weblinkchecker-caption": "Ligação inativa",
+	"weblinkchecker-summary": "Robô: A denunciar ligação externa inativa",
 	"weblinkchecker-report": "Foi checado os links externos deste artigo por vários minutos. Alguém verifique por favor se a ligação estiver fora do ar e tente arrumá-lo ou removê-la!"
 }

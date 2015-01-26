@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"undelete-from-file": "Robô: A restaurar lista de páginas",
+	"undelete-images": "Robô: A restaurar todas as imagens da página %(page)s",
+	"undelete-linked-pages": "Robô: A restaurar todas as páginas ligadas a partir de %(page)s"
+}

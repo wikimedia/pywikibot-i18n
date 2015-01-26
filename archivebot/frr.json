@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "ääler üs %(duration)s",
 	"archivebot-page-summary": "Bot: Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} (%(why)s) efter %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARCHIIF FOL)",
 	"archivebot-archive-summary": "Bot: Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} faan [[%(from)s]]."
 }

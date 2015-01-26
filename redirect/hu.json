@@ -6,9 +6,9 @@
 		]
 	},
 	"redirect-fix-double": "Bot: %(to)s lapra mutató dupla átirányítás javítása",
-	"redirect-remove-broken": "Bot: Törölt vagy nem létező lapra mutató átirányítás törlése",
-	"redirect-fix-broken-moved": "Bot: Törött hivatkozás javítása; új cél oldal: %(to)s",
-	"redirect-fix-loop": "Bot: Ide mutató átirányítási hurkok javítása: %(to)s",
+	"redirect-remove-broken": "Bot: törölt vagy nem létező lapra mutató átirányítás törlése",
+	"redirect-fix-broken-moved": "Bot: törött hivatkozás javítása; új cél oldal: %(to)s",
+	"redirect-fix-loop": "Bot: ide mutató átirányítási hurkok javítása: %(to)s",
 	"redirect-remove-loop": "Bot: körkörös átirányítás",
 	"redirect-broken-redirect-template": "{{azonnali|Hibás átirányítás}}"
 }

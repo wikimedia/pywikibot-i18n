@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "starije od",
 	"archivebot-page-summary": "Bot: Arhiviram %(count)d {{PLURAL:%(count)d|temu|teme|tema}} (%(why)s) u %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARHIV JE PUN)",
 	"archivebot-archive-summary": "Bot: Arhiviram %(count)d {{PLURAL:%(count)d|temu|teme|tema}} iz u %(from)s."
 }

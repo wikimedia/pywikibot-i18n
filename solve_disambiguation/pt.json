@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Vitorvicentevalente"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Desambiguação auxiliada por robô: %(from)s - Link(s) removidos",
-	"solve_disambiguation-redirect-resolved": "Desambiguação auxiliada por robô: %(from)s - Links mudados para %(to)s",
-	"solve_disambiguation-links-resolved": "Desambiguação auxiliada por robô: %(from)s - Links mudados para %(to)s",
+	"solve_disambiguation-redirect-removed": "Desambiguação auxiliada por robô: %(from)s - Ligação(ões) removidas",
+	"solve_disambiguation-redirect-resolved": "Desambiguação auxiliada por robô: %(from)s - Ligação(ões) mudadas para %(to)s",
+	"solve_disambiguation-links-resolved": "Desambiguação auxiliada por robô: %(from)s - Ligação(ões) mudadas para %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Desambiguação auxiliada por robô: %(from)s - Marcada como necessitando de atenção especializada",
 	"solve_disambiguation-adding-dn-template": "Desambiguação auxiliada por robô: %(from)s - Marcada como necessitando de atenção especializada",
 	"solve_disambiguation-unknown-page": "(desconhecido)",
-	"solve_disambiguation-links-removed": "Desambiguação auxiliada por robô: %(from)s - Links removidos."
+	"solve_disambiguation-links-removed": "Desambiguação auxiliada por robô: %(from)s - Ligação(ões) removidas."
 }

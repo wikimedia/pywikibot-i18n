@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"undelete-from-file": "Bot: Phục hồi một danh sách trang",
+	"undelete-images": "Bot: Phục hồi tất cả các hình ảnh trên trang “%(page)s”",
+	"undelete-linked-pages": "Bot: Phục hồi tất cả các trang được liên kết từ “%(page)s”"
+}

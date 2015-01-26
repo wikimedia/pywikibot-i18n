@@ -6,7 +6,7 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "starije od %(dužina)s",
+	"archivebot-older-than": "starije od %(duration)s",
 	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} (%(why)s) u arhivu %(archives)s.",
 	"archivebot-archiveheader": "{{Razgovor arhiva}}",
 	"archivebot-archive-full": "(ARHIVA PUNA)",

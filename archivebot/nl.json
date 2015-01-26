@@ -9,7 +9,6 @@
 	},
 	"archivebot-older-than": "ouder dan %(duration)s",
 	"archivebot-page-summary": "Robot: %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd naar %(archives)s (%(why)s).",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARCHIEF VOL)",
 	"archivebot-archive-summary": "Robot: %(count)d  {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd van [[%(from)s]]."
 }

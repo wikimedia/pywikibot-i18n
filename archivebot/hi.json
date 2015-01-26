@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "%(समय) से पुराना",
 	"archivebot-page-summary": "रोबोट:%(count)d {{PLURAL:%(count)d|धागे|धागों}} को (%(why)s) %(archives)s में संगृहीत किया जा रहा है।",
-	"archivebot-archiveheader": "{{वार्तापुरालेख}}",
 	"archivebot-archive-full": "{{पुरालेख पूर्ण}}",
 	"archivebot-archive-summary": "रोबोट:%(count)d {{PLURAL:%(count)d|धागे|धागों}} को [[%(from)s]] से संगृहीत किया जा रहा है।"
 }

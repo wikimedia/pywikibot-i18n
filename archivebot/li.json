@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "auwer es",
 	"archivebot-page-summary": "Robot: %(count)d thread(s) gearchiveerd nao %(archives)s (%(why)s).",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARSJIEF VOL)",
 	"archivebot-archive-summary": "Robot: %(count)d óngerwerp(e) gearchiveerd van [[%(from)s]]."
 }

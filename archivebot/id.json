@@ -3,12 +3,12 @@
 		"authors": [
 			"Aldnonymous",
 			"Farras",
-			"Ezagren"
+			"Ezagren",
+			"Xqt"
 		]
 	},
-	"archivebot-older-than": "lebih tua dari s % (durasi)",
+	"archivebot-older-than": "lebih tua dari %(duration)s",
 	"archivebot-page-summary": "Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ke %(archives)s.",
-	"archivebot-archiveheader": "{{Talkarchive}}",
 	"archivebot-archive-full": "(ARSIP LENGKAP)",
 	"archivebot-archive-summary": "Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]]."
 }

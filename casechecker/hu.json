@@ -6,7 +6,7 @@
 		]
 	},
 	"casechecker-replacement-summary": "Bot: kis-/nagybetűs cserék:",
-	"casechecker-delete-summary": "Bot: Ez az átirányítás ugyanúgy kinéző cirill és latin betűket tartalmaz a címében",
+	"casechecker-delete-summary": "Bot: ez az átirányítás ugyanúgy kinéző cirill és latin betűket tartalmaz a címében",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Ez az átirányítás eddig ide mutatott: %(target)s",
 	"casechecker-rename": "Bot: vegyes írásrendszerű átnevezés"
