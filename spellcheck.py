@@ -205,9 +205,9 @@ msg = {
         'spellcheck-checking': u'Coretor d\'ortografìa për mojen d\'un trigomiro',
     },
     # Author: 555
-    # Author: 555
+    # Author: Vitorvicentevalente
     'pt': {
-        'spellcheck-checking': u'Correção ortográfica assistida por bot',
+        'spellcheck-checking': u'Correção ortográfica assistida por robô',
     },
     # Author: Minisarm
     'ro': {

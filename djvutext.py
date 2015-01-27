@@ -263,9 +263,10 @@ msg = {
     'pms': {
         'djvutext-creating': u'Trigomiro: Creassion ëd na pàgina con dël test pijà da DjVu',
     },
+    # Author: Vitorvicentevalente
     # Author: Xqt
     'pt': {
-        'djvutext-creating': u'Robô: criando página com texto extraído do DjVu',
+        'djvutext-creating': u'Robô: A criar página com texto extraído do DjVu',
     },
     # Author: Minisarm
     'ro': {

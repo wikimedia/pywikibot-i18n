@@ -49,9 +49,12 @@ msg = {
         'undelete-images': u'בוט: שחזור כל התמונות שנמחקו בדף %(page)s',
         'undelete-linked-pages': u'בוט: שחזור כל הדפים שמקושרים מהדף %(page)s',
     },
+    # Author: Dj
     # Author: Tacsipacsi
     'hu': {
+        'undelete-from-file': u'Bot: törölt lapok listájának helyreállítása',
         'undelete-images': u'Bot: Minden kép helyreállítása a(z) %(page)s lapon',
+        'undelete-linked-pages': u'Bot: a(z) %(page)s oldalról hivatkozott összes lap visszaállítása',
     },
     # Author: Gianfranco
     'it': {
@@ -77,6 +80,12 @@ msg = {
         'undelete-images': u'Бот: Отповикано бришење на сите слики на страницата %(page)s',
         'undelete-linked-pages': u'Бот: Отповикано бришење на сите страници што водат од %(page)s',
     },
+    # Author: Anakmalaysia
+    'ms': {
+        'undelete-from-file': u'Bot: Menyahhapus senarai laman',
+        'undelete-images': u'Bot: Menyahhapus semua imej pada laman %(page)s',
+        'undelete-linked-pages': u'Bot: Menyahhapus semua laman yang terpaut dari %(page)s',
+    },
     # Author: Siebrand
     'nl': {
         'undelete-from-file': u'Robot: lijst met pagina\'s teruggeplaatst',
@@ -96,6 +105,12 @@ msg = {
         'undelete-images': u'Robot: Gjenoppretter alle bilder på %(page)s',
         'undelete-linked-pages': u'Robot: Gjenoppretter alle sider lenket fra %(page)s',
     },
+    # Author: Vitorvicentevalente
+    'pt': {
+        'undelete-from-file': u'Robô: A restaurar lista de páginas',
+        'undelete-images': u'Robô: A restaurar todas as imagens da página %(page)s',
+        'undelete-linked-pages': u'Robô: A restaurar todas as páginas ligadas a partir de %(page)s',
+    },
     # Author: Dima st bk
     'ru': {
         'undelete-from-file': u'Бот: восстановление списка страниц',
@@ -107,6 +122,12 @@ msg = {
         'undelete-from-file': u'Bot: Återställer en lista med sidor.',
         'undelete-images': u'Bot: Återställer alla bilder på sida %(page)s',
         'undelete-linked-pages': u'Bot: Återställer alla sidor länkade från %(page)s',
+    },
+    # Author: Minh Nguyen
+    'vi': {
+        'undelete-from-file': u'Bot: Phục hồi một danh sách trang',
+        'undelete-images': u'Bot: Phục hồi tất cả các hình ảnh trên trang “%(page)s”',
+        'undelete-linked-pages': u'Bot: Phục hồi tất cả các trang được liên kết từ “%(page)s”',
     },
     # Author: Liuxinyu970226
     'zh': {

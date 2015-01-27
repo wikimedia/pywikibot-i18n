@@ -293,9 +293,10 @@ msg = {
     'pms': {
         'fixing_redirects-fixing': u'Trigomiro: Coression dle ridiression',
     },
+    # Author: Vitorvicentevalente
     # Author: Xqt
     'pt': {
-        'fixing_redirects-fixing': u'Robô: Arrumando redirects',
+        'fixing_redirects-fixing': u'Robô: A corrigir redirecionamentos',
     },
     # Author: Minisarm
     'ro': {

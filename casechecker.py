@@ -193,6 +193,7 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s → %(target)s',
         'casechecker-replacement-summary': u'Bot: Skriiwwiisen feranert:',
     },
+    # Author: Elisardojm
     # Author: Robin0van0der0vliet
     'fy': {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
@@ -245,7 +246,7 @@ msg = {
     # Author: Dj
     'hu': {
         'casechecker-delete-reason': u'Ez az átirányítás eddig ide mutatott: %(target)s',
-        'casechecker-delete-summary': u'Bot: Ez az átirányítás ugyanúgy kinéző cirill és latin betűket tartalmaz a címében',
+        'casechecker-delete-summary': u'Bot: ez az átirányítás ugyanúgy kinéző cirill és latin betűket tartalmaz a címében',
         'casechecker-rename': u'Bot: vegyes írásrendszerű átnevezés',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Bot: kis-/nagybetűs cserék:',

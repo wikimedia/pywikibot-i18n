@@ -806,13 +806,14 @@ msg = {
     },
     # Author: Hamilton Abreu
     # Author: Malafaya
+    # Author: Vitorvicentevalente
     'pt': {
         'solve_disambiguation-adding-dn-template': u'Desambiguação auxiliada por robô: %(from)s - Marcada como necessitando de atenção especializada',
-        'solve_disambiguation-links-removed': u'Desambiguação auxiliada por robô: %(from)s - Links removidos.',
-        'solve_disambiguation-links-resolved': u'Desambiguação auxiliada por robô: %(from)s - Links mudados para %(to)s',
+        'solve_disambiguation-links-removed': u'Desambiguação auxiliada por robô: %(from)s - Ligação(ões) removidas.',
+        'solve_disambiguation-links-resolved': u'Desambiguação auxiliada por robô: %(from)s - Ligação(ões) mudadas para %(to)s',
         'solve_disambiguation-redirect-adding-dn-template': u'Desambiguação auxiliada por robô: %(from)s - Marcada como necessitando de atenção especializada',
-        'solve_disambiguation-redirect-removed': u'Desambiguação auxiliada por robô: %(from)s - Link(s) removidos',
-        'solve_disambiguation-redirect-resolved': u'Desambiguação auxiliada por robô: %(from)s - Links mudados para %(to)s',
+        'solve_disambiguation-redirect-removed': u'Desambiguação auxiliada por robô: %(from)s - Ligação(ões) removidas',
+        'solve_disambiguation-redirect-resolved': u'Desambiguação auxiliada por robô: %(from)s - Ligação(ões) mudadas para %(to)s',
         'solve_disambiguation-unknown-page': u'(desconhecido)',
     },
     # Author: KlaudiuMihaila

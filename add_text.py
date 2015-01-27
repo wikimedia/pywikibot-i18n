@@ -499,8 +499,9 @@ msg = {
     'ps': {
         'add_text-adding': u'روباټ زیاتول %(adding)s',
     },
+    # Author: Vitorvicentevalente
     'pt': {
-        'add_text-adding': u'Robô: Adicionando %(adding)s',
+        'add_text-adding': u'Robô: A adicionar %(adding)s',
     },
     'qu': {
         'add_text-adding': u'Rurana antacha Yapasqa %(adding)s',
@@ -680,6 +681,7 @@ msg = {
     'zh-classical': {
         'add_text-adding': u'僕 增 %(adding)s',
     },
+    # Author: Xqt
     'zh-min-nan': {
         'add_text-adding': u'bot ka-thiam %(adding)s',
     },

@@ -73,8 +73,9 @@ msg = {
     'he': {
         'selflink-remove': u'בוט: מסיר קישורים של הדף לעצמו',
     },
+    # Author: Dj
     'hu': {
-        'selflink-remove': u'Bot: Önmagukra mutató hivatkozások eltávolítása',
+        'selflink-remove': u'Bot: önmagukra mutató hivatkozások eltávolítása',
     },
     # Author: McDutchie
     'ia': {
@@ -132,8 +133,9 @@ msg = {
     'pl': {
         'selflink-remove': u'Robot automatycznie usuwa linki zwrotne',
     },
+    # Author: Vitorvicentevalente
     'pt': {
-        'selflink-remove': u'Bot: Retirando link para o próprio artigo',
+        'selflink-remove': u'Robô: A retirar ligação para o próprio artigo',
     },
     'ru': {
         'selflink-remove': u'Бот: удалил заголовок-ссылку в тексте. см.',

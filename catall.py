@@ -326,9 +326,10 @@ msg = {
     'pms': {
         'catall-changing': u'Trigomiro: Cangé categorìe',
     },
+    # Author: Vitorvicentevalente
     # Author: Xqt
     'pt': {
-        'catall-changing': u'Robô: Categorizando',
+        'catall-changing': u'Robô: A alterar categorias',
     },
     # Author: Minisarm
     'ro': {

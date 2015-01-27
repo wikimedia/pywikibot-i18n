@@ -6,7 +6,6 @@
 	},
 	"archivebot-older-than": "lebih lama daripada %(duration)s",
 	"archivebot-page-summary": "%(count)d tred (%(why)s) sedang diarkibkan ke dalam %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARKIB PENUH)",
 	"archivebot-archive-summary": "%(count)d tred sedang diarkibkan dari [[%(from)s]]."
 }

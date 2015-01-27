@@ -294,8 +294,9 @@ msg = {
         'noreferences-add-tag': u'Trigomiro: Gionta ëd la tichëtta <references /> mancanta',
     },
     # Author: Giro720
+    # Author: Vitorvicentevalente
     'pt': {
-        'noreferences-add-tag': u'Robô: A adicionar a tag <references />',
+        'noreferences-add-tag': u'Robô: A adicionar a marca <references />',
     },
     # Author: Minisarm
     'ro': {

@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "köhnədir",
 	"archivebot-page-summary": "Bot: Arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}} (%(why)s) səbəbindən  %(archives)s yerləşdirilib.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARXİV DOLUDUR)",
 	"archivebot-archive-summary": "Bot: [[%(from)s]] tərəfindən arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}}."
 }

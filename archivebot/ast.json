@@ -7,7 +7,6 @@
 	},
 	"archivebot-older-than": "más antiguu que",
 	"archivebot-page-summary": "Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} (%(why)s) en %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARCHIVU LLENU)",
 	"archivebot-archive-summary": "Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} de [[%(from)s]]."
 }

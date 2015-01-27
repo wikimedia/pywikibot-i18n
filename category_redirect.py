@@ -722,11 +722,12 @@ msg = {
     },
     # Author: Hamilton Abreu
     # Author: Luckas
+    # Author: Vitorvicentevalente
     'pt': {
         'category_redirect-add-template': u'Robô: Adição da predefinição de redirecionamento da categoria',
         'category_redirect-change-category': u'Robô: Alteração da categoria redireccionada [[:%(oldCatLink)s|%(oldCatTitle)s]] para [[:%(newCatLink)s|%(newCatTitle)s]]',
         'category_redirect-comment': u'Robô de manutenção de redirecionamentos de categorias',
-        'category_redirect-edit-request': u'As seguintes páginas protegidas necessitam de atualização dos links de categorias: %(itemlist)s',
+        'category_redirect-edit-request': u'As seguintes páginas protegidas necessitam de atualização das ligações de categorias: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s está em %(oldcat)s, que é um redirecionamento para %(newcat)s',
         'category_redirect-fix-double': u'Robô: Correção de redirecionamento duplo',
     },

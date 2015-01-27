@@ -169,7 +169,7 @@ msg = {
     },
     # Author: Dj
     'hu': {
-        'replace-replacing': u'Bot: Automatikus szövegcsere %(description)s',
+        'replace-replacing': u'Bot: automatikus szövegcsere %(description)s',
     },
     # Author: Xelgen
     'hy': {

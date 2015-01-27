@@ -1447,6 +1447,7 @@ msg = {
     },
     # Author: DrTrigon
     # Author: Giro720
+    # Author: Vitorvicentevalente
     # Author: Waldir
     'pt': {
         'thirdparty-drtrigonbot-subster-summary-mod': u'a substituir %(tags)s tag(s)',
@@ -1462,7 +1463,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - última modificação por [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Mensagem de aviso do robô: %(page)s "\'\'%(warning)s\'\'"',
-        'thirdparty-drtrigonbot-sum_disc-summary-add': u'Adicionado resumo da discussão: %(num)i entradas',
+        'thirdparty-drtrigonbot-sum_disc-summary-add': u'A adicionar resumo da discussão: %(num)i entradas',
         'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Resumo da discussão adicionado com limpeza: %(num)i entradas',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'robô',
         'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Atualizado o resumo da discussão: %(num)i entradas em %(page)s',

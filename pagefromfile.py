@@ -146,8 +146,9 @@ msg = {
         'pagefromfile-msg_top': u'הוספה בראש הדף',
     },
     # Author: Csega
+    # Author: Dj
     'hu': {
-        'pagefromfile-msg': u'Bot: Szócikkek automatikus importálása',
+        'pagefromfile-msg': u'Bot: szócikkek automatikus importálása',
         'pagefromfile-msg_bottom': u'hozzáfűzés az aljához',
         'pagefromfile-msg_force': u'létező szöveg felülírva',
         'pagefromfile-msg_top': u'hozzáfűzés a tetejéhez',

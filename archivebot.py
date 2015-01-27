@@ -127,6 +127,7 @@ msg = {
     },
     # Author: Ezagren
     # Author: Riemogerz
+    # Author: Xqt
     'bjn': {
         'archivebot-archive-full': u'(ARSIP LANGKAP)',
         'archivebot-archive-summary': u'Pangarsipan %(count)d thread(s) dari [[%(from)s]].',
@@ -450,6 +451,7 @@ msg = {
     # Author: Aldnonymous
     # Author: Ezagren
     # Author: Farras
+    # Author: Xqt
     'id': {
         'archivebot-archive-full': u'(ARSIP LENGKAP)',
         'archivebot-archive-summary': u'Robot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]].',

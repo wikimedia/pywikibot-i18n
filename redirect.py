@@ -425,10 +425,10 @@ msg = {
     # Author: Dj
     'hu': {
         'redirect-broken-redirect-template': u'{{azonnali|Hibás átirányítás}}',
-        'redirect-fix-broken-moved': u'Bot: Törött hivatkozás javítása; új cél oldal: %(to)s',
+        'redirect-fix-broken-moved': u'Bot: törött hivatkozás javítása; új cél oldal: %(to)s',
         'redirect-fix-double': u'Bot: %(to)s lapra mutató dupla átirányítás javítása',
-        'redirect-fix-loop': u'Bot: Ide mutató átirányítási hurkok javítása: %(to)s',
-        'redirect-remove-broken': u'Bot: Törölt vagy nem létező lapra mutató átirányítás törlése',
+        'redirect-fix-loop': u'Bot: ide mutató átirányítási hurkok javítása: %(to)s',
+        'redirect-remove-broken': u'Bot: törölt vagy nem létező lapra mutató átirányítás törlése',
         'redirect-remove-loop': u'Bot: körkörös átirányítás',
     },
     # Author: Xelgen

@@ -127,8 +127,9 @@ msg = {
         'blockpageschecker-summary': u'बॉट:अप्रचलित साँचो को हटाया जा रहा है',
     },
     # Author: Csega
+    # Author: Dj
     'hu': {
-        'blockpageschecker-summary': u'Bot: Elavult sablon törlése',
+        'blockpageschecker-summary': u'Bot: elavult sablon törlése',
     },
     # Author: M hamlet
     'hy': {
@@ -212,8 +213,9 @@ msg = {
     'pms': {
         'blockpageschecker-summary': u'Trigomiro: gavé ël vej stamp',
     },
+    # Author: Vitorvicentevalente
     'pt': {
-        'blockpageschecker-summary': u'Bot: Retirando predefinição de proteção',
+        'blockpageschecker-summary': u'Robô: A retirar predefinição de proteção',
     },
     # Author: Minisarm
     'ro': {

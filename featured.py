@@ -521,11 +521,12 @@ msg = {
         'featured-good': u'روبوټ: %(page)s يوه ښه ليکنه ده',
     },
     # Author: Giro720
+    # Author: Vitorvicentevalente
     'pt': {
         'featured-featured': u'Robô: %(page)s é um artigo destacado',
         'featured-former': u'Robô : %(page)s é um ex-artigo destacado',
         'featured-good': u'Robô: %(page)s é um artigo bom',
-        'featured-list': u'Robô: %(page)s é um anexo destacado',
+        'featured-list': u'Robô: %(page)s é uma lista destacada',
     },
     # Author: Strainu
     'ro': {

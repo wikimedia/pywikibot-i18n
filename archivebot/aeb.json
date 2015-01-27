@@ -6,7 +6,6 @@
 	},
 	"archivebot-older-than": "أقدم من",
 	"archivebot-page-summary": "el archivage mte3 %(count) {{PLURAL:%(count)d|thread|threads}} (%(why)s) ila %(archives)s.",
-	"archivebot-archiveheader": "{{أرشيف نقاش}}",
 	"archivebot-archive-full": "(الأرشيف ممتلئ)",
 	"archivebot-archive-summary": "!el archivage mte3 %(count) {{PLURAL:%(count)d|thread|threads}} min [%(from)s]]."
 }

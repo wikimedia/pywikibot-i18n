@@ -165,7 +165,7 @@ msg = {
     'hu': {
         'reflinks-autogen': u'automatikusan létrehozott',
         'reflinks-comment': u'Robot generálta cím',
-        'reflinks-msg': u'Robot: Forráshivatkozások kibővítése a hivatkozott oldal címével, lásd [[%(manual)s|GyIK]]',
+        'reflinks-msg': u'Bot: forráshivatkozások kibővítése a hivatkozott oldal címével, lásd [[%(manual)s|GyIK]]',
     },
     # Author: M hamlet
     'hy': {
@@ -267,10 +267,11 @@ msg = {
         'reflinks-msg': u'Bot: Dodanie tytułów do linków w przypisach (patrz [[%(manual)s|FAQ]])',
     },
     # Author: Giro720
+    # Author: Vitorvicentevalente
     'pt': {
         'reflinks-autogen': u'gerado automaticamente',
-        'reflinks-comment': u'Título gerado pelo bot',
-        'reflinks-msg': u'Bot: a converter referências vazias, usando nomes de referências para evitar duplicidade, veja [[%(manual)s|FAQ]]',
+        'reflinks-comment': u'Título gerado pelo robô',
+        'reflinks-msg': u'Robô: a converter referências vazias, usando nomes de referências para evitar duplicidade, veja [[%(manual)s|FAQ]]',
     },
     # Author: Minisarm
     'ro': {

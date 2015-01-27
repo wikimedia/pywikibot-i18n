@@ -621,12 +621,13 @@ msg = {
     },
     # Author: Alchimista
     # Author: Malafaya
+    # Author: Vitorvicentevalente
     'pt': {
-        'pywikibot-enter-category-name': u'Por favor introduza o nome da categoria:',
-        'pywikibot-enter-file-links-processing': u'Para qual página de ficheiro devem ser processados os links?',
+        'pywikibot-enter-category-name': u'Por favor, introduza o nome da categoria:',
+        'pywikibot-enter-file-links-processing': u'Para qual página de ficheiro devem ser processadas as ligações?',
         'pywikibot-enter-finished-browser': u'Pressione Enter quando terminar no navegador',
-        'pywikibot-enter-namespace-number': u'Por favor introduza um namespace pelo seu número:',
-        'pywikibot-enter-new-text': u'Por favor introduza o novo texto:',
+        'pywikibot-enter-namespace-number': u'Por favor, introduza um domínio pelo seu número:',
+        'pywikibot-enter-new-text': u'Por favor, introduza o novo texto:',
         'pywikibot-enter-page-processing': u'Que página deve ser processada?',
         'pywikibot-enter-xml-filename': u'Por favor introduza o nome do ficheiro XML:',
     },

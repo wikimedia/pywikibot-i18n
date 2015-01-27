@@ -608,13 +608,14 @@ msg = {
         'delete-referring-pages': u'Trigomiro: A scancela tute le pàgine ch\'a arferisso a %(page)s',
     },
     # Author: Alchimista
+    # Author: Vitorvicentevalente
     # Author: Xqt
     'pt': {
-        'delete-from-category': u'Robô: Apagando todas as páginas da categoria %(page)s',
-        'delete-from-file': u'Robô: Apagando uma lista de páginas.',
-        'delete-images': u'Robô: Apagando todas as imagens da página %(page)s',
-        'delete-linked-pages': u'Robô: Apagando todas as páginas ligadas a %(page)s',
-        'delete-referring-pages': u'Robô: Apagando todas as páginas afluentes a %(page)s',
+        'delete-from-category': u'Robô: A eliminar todas as páginas da categoria %(page)s',
+        'delete-from-file': u'Robô: A eliminar uma lista de páginas.',
+        'delete-images': u'Robô: A eliminar todas as imagens da página %(page)s',
+        'delete-linked-pages': u'Robô: A eliminar todas as páginas ligadas a %(page)s',
+        'delete-referring-pages': u'Robô: A eliminar todas as páginas afluentes a %(page)s',
     },
     # Author: Minisarm
     'ro': {

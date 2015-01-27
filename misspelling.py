@@ -145,8 +145,9 @@ msg = {
     'pl': {
         'misspelling-fixing': u'Robot poprawia literówkę w linku do %(page)s',
     },
+    # Author: Vitorvicentevalente
     'pt': {
-        'misspelling-fixing': u'Bot: Corrigindo link com erro ortográfico para %(page)s',
+        'misspelling-fixing': u'Robô: A corrigir ligação com erro ortográfico para %(page)s',
     },
     # Author: Okras
     'ru': {

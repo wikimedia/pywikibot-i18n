@@ -6,7 +6,6 @@
 	},
 	"archivebot-older-than": "داها کؤهنه",
 	"archivebot-page-summary": "بوت: آرشیوائدیر: %(count)d باشلیق(%(why)s) بورایا: %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(آرشیو دولو دیر)",
 	"archivebot-archive-summary": "آرشیو%(count)d {{PLURAL:%(count)d|دانیشیق|دانیشیق}} از [[%(from)s]]."
 }

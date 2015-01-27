@@ -216,6 +216,10 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Bot: Dodawanie strony ujednoznaczniającej.',
         'lonelypages-comment-add-template': u'Robot: osierocona strona, dodanie szablonu',
     },
+    # Author: Vitorvicentevalente
+    'pt': {
+        'lonelypages-comment-add-disambig-template': u'Robô: A adicionar página de desambiguação',
+    },
     # Author: Minisarm
     'ro': {
         'lonelypages-comment-add-disambig-template': u'Robot: Adăugat o pagină de dezambiguizare',

@@ -8,6 +8,7 @@ msg = {
         'weblinkchecker-report': u'During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!',
         'weblinkchecker-summary': u'Bot: Reporting unavailable external link',
     },
+    # Author: Xqt
     'qqq': {
         'weblinkchecker-archive_msg': u'weblinkchecker report message for web archives',
         'weblinkchecker-badurl': u'weblinkchecker report message if the link in the article is not a valid URL',
@@ -253,9 +254,10 @@ msg = {
     # Author: Dj
     'hu': {
         'weblinkchecker-archive_msg': u'Ezt a weblapot az Internet Archívum elmentette. Kérjük, fontold meg a megfelelő, archivált verzióra történő hivatkozást: [%(URL)s].',
+        'weblinkchecker-badurl': u'A megadott hivatkozás nem tűnik érvényes URL-nek',
         'weblinkchecker-caption': u'Halott hivatkozás',
         'weblinkchecker-report': u'Számos automatikus bot futtatás után az alábbi külső hivatkozás nem elérhető. Kérlek ellenőrizd, hogy a hivatkozás valóban nem elérhető, és ha így van, akkor javítsd ki vagy távolítsd el!',
-        'weblinkchecker-summary': u'bot: nem elérhető külső hivatkozás jelentése',
+        'weblinkchecker-summary': u'Bot: nem elérhető külső hivatkozás jelentése',
     },
     # Author: McDutchie
     'ia': {
@@ -381,6 +383,7 @@ msg = {
     # Author: Anakmalaysia
     'ms': {
         'weblinkchecker-archive_msg': u'Halaman sesawang ini telah disimpan oleh Internet Archive. Sila pertimbangkan untuk membuat pautan ke versi arkib yang sewajarnya: [%(URL)s].',
+        'weblinkchecker-badurl': u'Pautan yang diberikan nampaknya bukan URL yang sah',
         'weblinkchecker-caption': u'Pautan mati',
         'weblinkchecker-report': u'Ketika beberapa jalanan bot automatik, pautan luar yang berikut didapati tidak berkesan. Sila semak sama ada halaman sesawang yang dipauti itu sebenarnya ditutup, dan jika begitu, betulkan atau buang pautan itu.',
         'weblinkchecker-summary': u'Robot: Melaporkan pautan luar yang tidak berkesan',
@@ -456,11 +459,13 @@ msg = {
         'weblinkchecker-report': u'Durant vàire vìsite automatisà d\'un trigomiro le liure esterne sì-dapress a son trovasse esse nen disponìbij. Për piasì, ch\'a contròla se la liura a marcia pròpe nen e ant ës cas-sì ch\'a la coregia o ch\'a la gava!',
         'weblinkchecker-summary': u'Trigomiro: A arpòrta na liura esterna nen disponìbil',
     },
+    # Author: Vitorvicentevalente
     'pt': {
-        'weblinkchecker-archive_msg': u'Esta página web foi gravada na Internet Archive. Por favor considere o link para a versão arquivada: [%(URL)s].',
-        'weblinkchecker-caption': u'Link quebrado',
+        'weblinkchecker-archive_msg': u'Esta página web foi gravada na Internet Archive. Por favor, considere a ligação para a versão arquivada: [%(URL)s].',
+        'weblinkchecker-badurl': u'A ligação fornecida não parece ser uma URL válida',
+        'weblinkchecker-caption': u'Ligação inativa',
         'weblinkchecker-report': u'Foi checado os links externos deste artigo por vários minutos. Alguém verifique por favor se a ligação estiver fora do ar e tente arrumá-lo ou removê-la!',
-        'weblinkchecker-summary': u'Bot: Link externo não funcionando',
+        'weblinkchecker-summary': u'Robô: A denunciar ligação externa inativa',
     },
     # Author: Minisarm
     'ro': {
@@ -562,6 +567,7 @@ msg = {
     # Author: Minh Nguyen
     'vi': {
         'weblinkchecker-archive_msg': u'Trang Web đã được Internet Archive lưu trữ. Xin vui lòng đặt liên kết đến bản lưu trữ: [%(URL)s].',
+        'weblinkchecker-badurl': u'Hình như liên kết được cung cấp không phải là URL hợp lệ',
         'weblinkchecker-caption': u'Liên kết hỏng',
         'weblinkchecker-report': u'Bot tự động chạy vài lần mà không truy cập được liên kết bên ngoài sau. Xin vui lòng kiểm tra nó thực sự bị hỏng, và nếu vậy, xin sửa hoặc xóa liên kết.',
         'weblinkchecker-summary': u'Bot: Báo cáo liên kết bên ngoài không truy cập được',

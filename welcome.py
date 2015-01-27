@@ -559,7 +559,7 @@ msg = {
     # Author: Vitorvicentevalente
     'pt': {
         'welcome-bad_username': u'Robô : A adicionar um nome de utilizador que precisa ser verificado',
-        'welcome-updating': u'Robô: A atualizando registo',
+        'welcome-updating': u'Robô: A atualizar registo',
         'welcome-welcome': u'Bem-vindo(a)!',
     },
     # Author: Minisarm

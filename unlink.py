@@ -255,9 +255,10 @@ msg = {
     'pms': {
         'unlink-unlinking': u'Trigomiro: Dëscoleghé "%s"',
     },
+    # Author: Vitorvicentevalente
     # Author: Xqt
     'pt': {
-        'unlink-unlinking': u'Robô: Retirando link para "%s"',
+        'unlink-unlinking': u'Robô: A retirar ligações para "%s"',
     },
     # Author: Minisarm
     'ro': {

@@ -206,12 +206,13 @@ msg = {
         'protect-simple': u'בוט: מגן על רשימת דפים',
     },
     # Author: Csega
+    # Author: Dj
     'hu': {
-        'protect-category': u'Bot: A(z) %(cat)s kategóriába tartozó összes lap védelme',
-        'protect-images': u'Bot: Minden kép védelme a(z) %(page)s lapon',
-        'protect-links': u'Bot: A(z) %(page)s oldalról hivatkozott összes lap védelme',
-        'protect-ref': u'Bot: A(z) %(page)s lapról hivatkozott össze lap védelme',
-        'protect-simple': u'Bot: Fájlok listájának védelme.',
+        'protect-category': u'Bot: a(z) %(cat)s kategóriába tartozó összes lap védelme',
+        'protect-images': u'Bot: minden kép védelme a(z) %(page)s lapon',
+        'protect-links': u'Bot: a(z) %(page)s oldalról hivatkozott összes lap védelme',
+        'protect-ref': u'Bot: a(z) %(page)s lapról hivatkozott össze lap védelme',
+        'protect-simple': u'Bot: fájlok listájának védelme.',
     },
     # Author: McDutchie
     'ia': {
@@ -337,12 +338,13 @@ msg = {
         'protect-ref': u'Robot: Zabezpieczanie wszystkich stron, które linkują do %(page)s',
         'protect-simple': u'Bot: zabezpieczenie plików z listy.',
     },
+    # Author: Vitorvicentevalente
     'pt': {
-        'protect-category': u'Bot: Protegendo todos os artigos da categoria %(cat)s',
-        'protect-images': u'Bot: Protegendo todas as imagens do artigo %(page)',
-        'protect-links': u'Bot: Protegendo todos os artigos ligados a %(page)s',
-        'protect-ref': u'Bot: Protegendo todos os artigos afluentes a %(page)s',
-        'protect-simple': u'Bot: Protegendo uma lista de artigos.',
+        'protect-category': u'Robô: A proteger todos os artigos da categoria %(cat)s',
+        'protect-images': u'Robô: A proteger todas as imagens na página %(page)s',
+        'protect-links': u'Robô: A proteger todos os artigos ligados a %(page)s',
+        'protect-ref': u'Robô: A proteger todos os artigos afluentes a %(page)s',
+        'protect-simple': u'Robô: A proteger uma lista de ficheiros.',
     },
     # Author: Minisarm
     'ro': {

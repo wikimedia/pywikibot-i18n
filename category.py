@@ -1487,7 +1487,6 @@ msg = {
         'category-adding': u'روباټ: وېشنيزه ورگډول [[:Category:%(newcat)s|%(newcat)s]]',
     },
     # Author: 555
-    # Author: 555
     # Author: Hamilton Abreu
     # Author: Waldir
     'pt': {
@@ -1536,6 +1535,7 @@ msg = {
     # Author: Express2000
     # Author: KorneySan
     # Author: Rubin
+    # Author: Rubin16
     # Author: Volkov
     # Author: Xqt
     # Author: Александр Сигачёв
