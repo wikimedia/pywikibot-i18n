@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Sasa Stefanovic"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Унесите назив XML исписа:",
@@ -11,5 +12,7 @@
 	"pywikibot-enter-namespace-number": "Унесите именски простор поред његовог броја:",
 	"pywikibot-enter-new-text": "Унесите нови текст:",
 	"pywikibot-enter-category-name": "Унесите назив категорије:",
-	"pywikibot-enter-finished-browser": "Притисните Enter када завршите у прегледачу."
+	"pywikibot-enter-finished-browser": "Притисните Enter када завршите у прегледачу.",
+	"pywikibot-fixes-html": "Бот: Поправка HTML-а",
+	"pywikibot-fixes-syntax": "Бот: Поправка вики синтаксе"
 }

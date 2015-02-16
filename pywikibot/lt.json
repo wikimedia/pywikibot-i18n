@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aurimas Fischer",
 			"Hugo.arg",
 			"Mantak111"
 		]
@@ -10,5 +11,7 @@
 	"pywikibot-enter-namespace-number": "Įvestkite vardų srities numerį:",
 	"pywikibot-enter-new-text": "Įveskite naują tekstą:",
 	"pywikibot-enter-category-name": "Įveskite kategorijos pavadinimą:",
-	"pywikibot-enter-finished-browser": "Paspauskite Enter kuomet baigsite naršyklėje."
+	"pywikibot-enter-finished-browser": "Paspauskite Enter kuomet baigsite naršyklėje.",
+	"pywikibot-fixes-html": "robotas: konvertuojamas/taisomas HTML",
+	"pywikibot-fixes-syntax": "robotas: Taisoma wiki sintaksė"
 }

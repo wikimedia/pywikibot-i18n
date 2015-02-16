@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Daniel Herding",
 			"Se4598",
 			"Xqt"
 		]
@@ -11,5 +12,7 @@
 	"pywikibot-enter-namespace-number": "Bitte gib die Nummer des Namensraums ein:",
 	"pywikibot-enter-new-text": "Bitte gib den neuen Text ein:",
 	"pywikibot-enter-category-name": "Bitte Name der Kategorie eingeben:",
-	"pywikibot-enter-finished-browser": "Enter drücken nach dem Beenden des Browsers."
+	"pywikibot-enter-finished-browser": "Enter drücken nach dem Beenden des Browsers.",
+	"pywikibot-fixes-html": "Bot: konvertiere/korrigiere HTML",
+	"pywikibot-fixes-syntax": "Bot: Korrigiere Wiki-Syntax"
 }

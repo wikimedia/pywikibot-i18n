@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alex Shih-Han Lin",
 			"Shirayuki"
 		]
 	},
@@ -10,5 +11,7 @@
 	"pywikibot-enter-namespace-number": "名前空間の番号を入力:",
 	"pywikibot-enter-new-text": "新しいテキストを入力:",
 	"pywikibot-enter-category-name": "カテゴリ名を入力:",
-	"pywikibot-enter-finished-browser": "終了したら Enter キーを押してください。"
+	"pywikibot-enter-finished-browser": "終了したら Enter キーを押してください。",
+	"pywikibot-fixes-html": "ロボットによる: HTML転換",
+	"pywikibot-fixes-syntax": "ロボットによる: wiki構文修正"
 }

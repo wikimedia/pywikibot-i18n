@@ -10,5 +10,7 @@
 	"pywikibot-enter-namespace-number": "Per favor entra le numero de un spatio de nomines:",
 	"pywikibot-enter-new-text": "Per favor entra le nove texto:",
 	"pywikibot-enter-category-name": "Per favor entra le nomine del categoria:",
-	"pywikibot-enter-finished-browser": "Preme Enter quando tu ha finite le modification in le navigator."
+	"pywikibot-enter-finished-browser": "Preme Enter quando tu ha finite le modification in le navigator.",
+	"pywikibot-fixes-html": "Robot: conversion/reparation de HTML",
+	"pywikibot-fixes-syntax": "Robot: Reparation de syntaxe wiki"
 }

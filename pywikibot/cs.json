@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"JAn Dudík",
 			"Leanes",
 			"Matěj Suchánek",
 			"Tchoř"
@@ -12,5 +13,7 @@
 	"pywikibot-enter-namespace-number": "Prosím, zadejte číslo jmenného prostoru:",
 	"pywikibot-enter-new-text": "Prosím zadejte nový text:",
 	"pywikibot-enter-category-name": "Prosím, zadejte jméno kategorie:",
-	"pywikibot-enter-finished-browser": "Po ukončení práce v prohlížeči zmáčněte Enter."
+	"pywikibot-enter-finished-browser": "Po ukončení práce v prohlížeči zmáčněte Enter.",
+	"pywikibot-fixes-html": "převod/oprava HTML",
+	"pywikibot-fixes-syntax": "Oprava wikisyntaxe"
 }

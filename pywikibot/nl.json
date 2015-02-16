@@ -10,5 +10,7 @@
 	"pywikibot-enter-namespace-number": "Geef een naamruimtenummer op:",
 	"pywikibot-enter-new-text": "Geef de nieuwe tekst op:",
 	"pywikibot-enter-category-name": "Geef de categorienaam op:",
-	"pywikibot-enter-finished-browser": "Druk op \"Enter\" wanneer u klaar bent in de browser."
+	"pywikibot-enter-finished-browser": "Druk op \"Enter\" wanneer u klaar bent in de browser.",
+	"pywikibot-fixes-html": "Bot: conversie/reparatie HTML",
+	"pywikibot-fixes-syntax": "Bot: reparatie wikisyntaxis"
 }
