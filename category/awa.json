@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"1AnuraagPandey"
+		]
+	},
+	"category-version-history": "बॉट: पुरान %(oldcat)s कय अवतरण इतिहास सहेजत है",
+	"category-changing": "बॉट: %(oldcat)s कय जगही %(newcat)s जोड़त है",
+	"category-adding": "रोबॉट: [[:Category:%(newcat)s|%(newcat)s]] श्रेणी जोड़ीस",
+	"category-also-in": "(%(alsocat)s में भी)",
+	"category-was-disbanded": "रोबॉट: श्रेणी समाप्त कर दी गयी",
+	"category-replacing": "रोबॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है",
+	"category-removing": "रोबॉट: %(oldcat)s से हटा रहा है",
+	"category-was-moved": "रोबॉट: श्रेणी को [[:Category:%(newcat)s|%(title)s]] पर स्थानांतरित किया गया",
+	"category-renamed": "रोबॉट: %s से स्थानांतरित। लेखक: %s",
+	"category-section-title": "पुरानी %(oldcat)s का पृष्ठ इतिहास",
+	"category-listifying": "रोबॉट: %(fromcat)s से listify ({{PLURAL:%(num)d|1 प्रविष्टि|%(num)d प्रविष्टियाँ}})"
+}

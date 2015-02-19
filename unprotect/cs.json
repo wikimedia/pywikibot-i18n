@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Juandev"
+		]
+	},
+	"unprotect-links": "Bot: Odemykám všechny stránky na které je odkazováno ze %(page)s",
+	"unprotect-simple": "Bot: Odemykám seznam souborů",
+	"unprotect-category": "Bot: Odemykám všechny stránky v kategorii %(cat)s",
+	"unprotect-ref": "Bot: Odemykám všechny stránky, které jsou zmíněny na stránce %(page)s",
+	"unprotect-images": "Bot: Odemykám všechny obrázky na stránce %(page)s"
+}

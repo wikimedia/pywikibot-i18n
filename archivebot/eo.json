@@ -3,10 +3,11 @@
 		"authors": [
 			"Airon90",
 			"Objectivesea",
-			"Remux"
+			"Remux",
+			"KuboF"
 		]
 	},
-	"archivebot-older-than": "plimalnova ol",
+	"archivebot-older-than": "pli malnova ol %(duration)s",
 	"archivebot-page-summary": "Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.",
 	"archivebot-archiveheader": "{{Arkivo de diskutoj}}",
 	"archivebot-archive-full": "(plena arkivo)",

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Yfdyh000"
 		]
 	},
-	"protect-links": "机器人：保护所有连接自%(page)s的页面",
-	"protect-simple": "机器人：保护文件列表。",
-	"protect-category": "机器人：保护来自分类%(cat)s的所有页面",
-	"protect-ref": "机器人：保护所有提及自%(page)s的页面",
+	"protect-links": "机器人：保护%(page)s链接的所有页面",
+	"protect-simple": "机器人：保护一个文件列表。",
+	"protect-category": "机器人：保护分类%(cat)s的所有页面",
+	"protect-ref": "机器人：保护%(page)s提及的所有页面",
 	"protect-images": "机器人：保护页面%(page)s的所有图片"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"1AnuraagPandey"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|फ़ाइल]] को [[:commons:File:%(commonsfile)s|कॉमन्स]] पर स्थानांतरित किया गया।",
+	"commons-file-now-available": "फ़ाइल अब [[:commons:File:%(commonsfile)s|विकिमीडिया कॉमन्स]] पर उपलब्ध है।"
+}

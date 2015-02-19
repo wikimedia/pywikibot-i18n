@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"commonscat-msg_change": "Bot: Thay thế liên kết thể loại Commons [[:Commons:Category:%(oldcat)s|%(oldcat)s]] bằng [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

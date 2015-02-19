@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"unprotect-links": "Bot: Mở khóa tất cả các trang được liên kết từ %(page)s",
+	"unprotect-simple": "Bot: Mở khóa một danh sách trang",
+	"unprotect-category": "Bot: Mở khóa tất cả các trang trong thể loại “%(cat)s”",
+	"unprotect-ref": "Bot: Mở khóa tất cả các trang có liên kết đến “%(page)s”",
+	"unprotect-images": "Bot: Mở khóa tất cả các hình ảnh trên trang “%(page)s”"
+}

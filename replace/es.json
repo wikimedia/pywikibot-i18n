@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Macofe"
 		]
 	},
-	"replace-replacing": "Bot: Reemplazo automático de texto %(description)s"
+	"replace-replacing": "Bot: reemplazo automático de texto %(description)s"
 }

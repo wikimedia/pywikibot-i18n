@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Giro720"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "Robô: A adicionar página de desambiguação"
+	"lonelypages-comment-add-disambig-template": "Robô: A adicionar página de desambiguação",
+	"lonelypages-comment-add-template": "Robô: Página órfã, adicionar predefinição"
 }

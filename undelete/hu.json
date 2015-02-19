@@ -6,6 +6,6 @@
 		]
 	},
 	"undelete-from-file": "Bot: törölt lapok listájának helyreállítása",
-	"undelete-images": "Bot: Minden kép helyreállítása a(z) %(page)s lapon",
+	"undelete-images": "Bot: minden kép helyreállítása a(z) %(page)s lapon",
 	"undelete-linked-pages": "Bot: a(z) %(page)s oldalról hivatkozott összes lap visszaállítása"
 }

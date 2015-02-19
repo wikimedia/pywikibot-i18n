@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tchoř"
+			"Tchoř",
+			"Juandev"
 		]
 	},
 	"weblinkchecker-archive_msg": "Webová stránka je uložena v projektu Internet Archive. Prosím zvažte, zda neodkázat na patřičnou archivovanou verzi  [%(URL)s].",
+	"weblinkchecker-badurl": "Nezdá se, že by byl poskytnutý odkaz platným URL",
 	"weblinkchecker-caption": "Mrtvý odkaz",
 	"weblinkchecker-summary": "Robot: Ohlašuji nedostupný externí odkaz.",
 	"weblinkchecker-report": "Během několika automatizovaných běhů byl následující externí odkaz nedostupný. Prosím, ověřte, zda je skutečně nedostupný, a pokud ano, pak jej opravte nebo odstraňte!"

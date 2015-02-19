@@ -7,5 +7,6 @@
 	"protect-links": "Roboto: Protektitaj ĉiuj paĝoj ligitaj de %(page)s",
 	"protect-simple": "Roboto: Protekto de listo da dosieroj.",
 	"protect-category": "Roboto: Protekto de ĉiuj paĝoj de la kategorio %(cat)s",
+	"protect-ref": "Roboto: Protekto de ĉiuj paĝoj ligantaj al %(page)s",
 	"protect-images": "Roboto: Protekto de ĉiuj bildoj ĉe la paĝo %(page)s"
 }

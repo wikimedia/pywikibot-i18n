@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"commonscat-msg_change": "Bot: De Commonscat Link [[:Commons:Category:%(oldcat)s|%(oldcat)s]] gouf op [[:Commons:Category:%(newcat)s|%(newcat)s]] geännert"
+}

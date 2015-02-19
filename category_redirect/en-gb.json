@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chase me ladies, I'm the Cavalry"
+		]
+	},
+	"category_redirect-comment": "Category redirect maintenance bot",
+	"category_redirect-change-category": "Bot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: Adding category redirect template for maintenance",
+	"category_redirect-edit-request": "The following protected pages have been detected as requiring updates to category links: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s",
+	"category_redirect-fix-double": "Bot: Fixing double redirect"
+}

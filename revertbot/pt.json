@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720"
+		]
+	},
+	"revertbot-revert": "Robô: Revertida a revisão %(revid)s de %(author)s em %(timestamp)s"
+}

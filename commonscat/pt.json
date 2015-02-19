@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"commonscat-msg_change": "Robô: A alterar ligação da categoria do Commons de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] para [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

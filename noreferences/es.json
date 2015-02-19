@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Invadinado"
+			"Invadinado",
+			"Macofe"
 		]
 	},
-	"noreferences-add-tag": "Bot: Añadiendo etiqueta <references /> que faltaba"
+	"noreferences-add-tag": "Bot: adición de etiqueta <references /> faltante"
 }

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"undelete-from-file": "Bot: restauración de una lista de páginas.",
+	"undelete-images": "Bot: restauración de todas las imágenes de la página %(page)s",
+	"undelete-linked-pages": "Bot: restauración de todas las páginas enlazadas desde %(page)s"
+}

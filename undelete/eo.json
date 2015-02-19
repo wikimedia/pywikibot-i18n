@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"KuboF"
+		]
+	},
+	"undelete-from-file": "Roboto: Restarigado de listo de paĝoj",
+	"undelete-images": "Roboto: Restarigo de ĉiuj bildoj en la paĝo %(page)s",
+	"undelete-linked-pages": "Roboto: Restarigo de ĉiuj paĝoj ligitaj de %(page)s"
+}

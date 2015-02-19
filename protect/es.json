@@ -3,12 +3,13 @@
 		"authors": [
 			"Fitoschido",
 			"Sporeunai",
-			"VegaDark"
+			"VegaDark",
+			"Macofe"
 		]
 	},
-	"protect-links": "Robot: Protección de todas las páginas enlazadas en %(page)s",
-	"protect-simple": "Robot: protección de una lista de archivos.",
-	"protect-category": "Robot: Protegiendo todas las páginas contenidas en la categoría %(cat)s",
-	"protect-ref": "Robot: Protegiendo todas las páginas que enlazan hacia %(page)s",
-	"protect-images": "Robot: Protegiendo todas las imágenes de la página %(page)s"
+	"protect-links": "Bot: protección de todas las páginas enlazadas desde %(page)s",
+	"protect-simple": "Bot: protección de una lista de archivos.",
+	"protect-category": "Bot: protección de todas las páginas de la categoría %(cat)s",
+	"protect-ref": "Bot: protección de todas las páginas que enlazan hacia %(page)s",
+	"protect-images": "Bot: protección de todas las imágenes de la página %(page)s"
 }

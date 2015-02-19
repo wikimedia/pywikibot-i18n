@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Juandev"
+		]
+	},
+	"undelete-from-file": "Bot: Obnovuji seznam stránek",
+	"undelete-images": "Bot: Obnovuji všechny obrázky na stránce %(page)s",
+	"undelete-linked-pages": "Bot: Obnovuji všechny stránka na které je odkazováno ze %(page)s"
+}

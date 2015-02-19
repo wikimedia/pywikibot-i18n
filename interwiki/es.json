@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
-			"Invadinado"
+			"Invadinado",
+			"Macofe"
 		]
 	},
 	"interwiki-modifying": "Bot: modificación de %(modifying)s",
@@ -12,5 +13,5 @@
 	"interwiki-adding": "Bot: adición de %(adding)s",
 	"interwiki-removing": "Bot: eliminación de %(removing)s",
 	"interwiki-removing-modifying": "Bot: eliminación de %(removing)s; modificación de %(modifying)s",
-	"interwiki-modifying-from": "Bot: Modificando %(from)s por %(modifying)s"
+	"interwiki-modifying-from": "Bot: modificación de %(from)s por %(modifying)s"
 }

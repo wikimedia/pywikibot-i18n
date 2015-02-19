@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Macofe"
 		]
 	},
-	"template-removing": "Bot: Retirando {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s",
-	"template-changing": "Bot: Cambiada la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s",
-	"template-substituting": "Bot: Sustituyendo la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s"
+	"template-removing": "Bot: eliminación de {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s",
+	"template-changing": "Bot: cambio de {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s",
+	"template-substituting": "Bot: sustitución de {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s"
 }

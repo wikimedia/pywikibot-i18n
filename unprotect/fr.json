@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"unprotect-links": "Robot : Suppression de la protection de toutes les pages liées depuis %(page)s",
+	"unprotect-simple": "Robot : Suppression de la protection d’une liste de fichiers.",
+	"unprotect-category": "Robot : Suppression de la protection de toutes les pages de la catégorie %(cat)s",
+	"unprotect-ref": "Robot : Suppression de la protection de toutes les pages faisant référence à %(page)s",
+	"unprotect-images": "Robot : Suppression de la protection de toutes les images de la page %(page)s"
+}

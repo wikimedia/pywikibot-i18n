@@ -5,5 +5,6 @@
 		]
 	},
 	"reflinks-autogen": "kreita aŭtomate",
-	"reflinks-comment": "Titolo kreita de roboto"
+	"reflinks-comment": "Titolo kreita de roboto",
+	"reflinks-msg": "Roboto: Konverto de plataj referencoj, nomigo de referencoj por eviti duoblaĵojn, vidu [[%(manual)s|manlibron]]"
 }

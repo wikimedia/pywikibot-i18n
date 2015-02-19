@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"unprotect-links": "Bot: desprotección de todas las páginas enlazadas desde %(page)s",
+	"unprotect-simple": "Bot: desprotección de una lista de archivos.",
+	"unprotect-category": "Bot: desprotección de todas las páginas de la categoría %(cat)s",
+	"unprotect-ref": "Bot: desprotección de todas las páginas que enlazan hacia %(page)s",
+	"unprotect-images": "Bot: desprotección de todas las imágenes de la página %(page)s"
+}

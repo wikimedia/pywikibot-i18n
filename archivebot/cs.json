@@ -3,10 +3,11 @@
 		"authors": [
 			"Spiffyk",
 			"Tchoř",
-			"Xqt"
+			"Xqt",
+			"Juandev"
 		]
 	},
-	"archivebot-older-than": "starší než",
+	"archivebot-older-than": "starší než %(duration)s",
 	"archivebot-page-summary": "Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} (%(why)s) do %(archives)s.",
 	"archivebot-archiveheader": "{{Archiv diskuse}}",
 	"archivebot-archive-full": "(ARCHIV JE PLNÝ)",
