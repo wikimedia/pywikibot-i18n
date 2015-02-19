@@ -7,11 +7,12 @@ msg = {
         'pagefromfile-msg_force': u'existing text overwritten',
         'pagefromfile-msg_top': u'append on top',
     },
+    # Author: Chase me ladies, I'm the Cavalry
     'qqq': {
         'pagefromfile-msg': u'Edit summary for making a new page',
         'pagefromfile-msg_bottom': u'Edit summary for appending text to the bottom of the page',
         'pagefromfile-msg_force': u'Edit summary for substituting text of the page',
-        'pagefromfile-msg_top': u'Edit summary for appending text to the top of the page',
+        'pagefromfile-msg_top': u'Edit summary for prepending text to the top of the page',
     },
     'ar': {
         'pagefromfile-msg': u'استيراد تلقائي للمقالات',
@@ -75,8 +76,11 @@ msg = {
         'pagefromfile-msg_top': u'лакхахьа тӀетохар',
     },
     # Author: Chmee2
+    # Author: Juandev
     'cs': {
         'pagefromfile-msg': u'Bot: Automatizovaný import článků',
+        'pagefromfile-msg_bottom': u'připojit dole',
+        'pagefromfile-msg_force': u'stávající text přepsán',
         'pagefromfile-msg_top': u'připojit na vrchol',
     },
     # Author: Christian List
@@ -98,6 +102,20 @@ msg = {
         'pagefromfile-msg_bottom': u'προσάρτηση στον πάτο',
         'pagefromfile-msg_force': u'υπάρχον κείμενο αντικαταστάθηκε',
         'pagefromfile-msg_top': u'προσάρτηση στην κορυφή',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'pagefromfile-msg': u'Bot: Automated import of articles',
+        'pagefromfile-msg_bottom': u'appending text to the bottom of the page',
+        'pagefromfile-msg_force': u'existing text overwritten',
+        'pagefromfile-msg_top': u'prepending text to the top of the page',
+    },
+    # Author: KuboF
+    'eo': {
+        'pagefromfile-msg': u'Roboto: Aŭtomata importo de artikoloj',
+        'pagefromfile-msg_bottom': u'postaldoni malsupren',
+        'pagefromfile-msg_force': u'ekzistanta teksto estas superskribita',
+        'pagefromfile-msg_top': u'postaldoni supren',
     },
     # Author: Fitoschido
     'es': {

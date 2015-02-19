@@ -46,6 +46,13 @@ msg = {
         'featured-good': u'Robó: %(page)s ye un artículu bonu',
         'featured-list': u'Robó: %(page)s ye una llista destacada',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'featured-featured': u'रोबोट: %(page)s एक निर्वाचित लेख है',
+        'featured-former': u'रोबोट: %(page)s एक पूर्व निर्वाचित लेख है',
+        'featured-good': u'रोबोट: %(page)s एक अच्छा लेख है',
+        'featured-list': u'रोबोट: %(page)s एक निर्वाचित सूची है',
+    },
     # Author: Ebrahimi-amir
     # Author: Khutuck
     'az': {
@@ -188,6 +195,13 @@ msg = {
         'featured-former': u'Ρομπότ: το %(page)s είναι πρώην αξιόλογο άρθρο',
         'featured-good': u'Ρομπότ: το %(page)s είναι καλό άρθρο',
         'featured-list': u'Ρομπότ: το %(page)s είναι ένας κατάλογος αξιόλογων',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'featured-featured': u'Bot: %(page)s is a Featured Article',
+        'featured-former': u'Bot: %(page)s is a former Featured Article',
+        'featured-good': u'Bot: %(page)s is a Good Article',
+        'featured-list': u'Bot: %(page)s is a Featured List',
     },
     # Author: Blahma
     'eo': {

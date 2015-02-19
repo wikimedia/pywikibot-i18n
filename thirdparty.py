@@ -282,6 +282,13 @@ msg = {
     'bg': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'робот',
     },
+    # Author: Baloch Afghanistan
+    'bgn': {
+        'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s آخرئین ایڈیٹ] (%(page_size)s بایٹ) شه  %(user)s (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-start': u'؛ %d. %B %Y',
+        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':*رباٹ ئی هشدار پیام: %(page)s «\'\'%(warning)s\'\'»',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'ربات',
+    },
     # Author: Riemogerz
     'bjn': {
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Diskusi diganti',

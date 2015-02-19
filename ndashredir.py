@@ -91,6 +91,10 @@ msg = {
     'el': {
         'ndashredir-create': u'Bot: Δημιουργία ανακατεύθυνσης με ενωτικό στο [[%(title)s]]',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'ndashredir-create': u'Bot: Creating hyphenated redirect to [[%(title)s]]',
+    },
     # Author: Blahma
     # Author: Objectivesea
     'eo': {

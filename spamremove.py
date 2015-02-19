@@ -53,6 +53,10 @@ msg = {
     'el': {
         'spamremove-remove': u'Αφαίρεση συνδέσμων προς σπαμ ιστότοπο %(url)s',
     },
+    # Author: KuboF
+    'eo': {
+        'spamremove-remove': u'Forigo de ligiloj al spam-retejo %(url)s',
+    },
     # Author: Fitoschido
     'es': {
         'spamremove-remove': u'Eliminación de enlaces a sitio publicitario %(url)s',

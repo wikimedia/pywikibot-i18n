@@ -144,6 +144,20 @@ msg = {
         'category-was-disbanded': u'Robó: Desanicióse la categoría',
         'category-was-moved': u'Robó: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'category-adding': u'रोबॉट: [[:Category:%(newcat)s|%(newcat)s]] श्रेणी जोड़ीस',
+        'category-also-in': u'(%(alsocat)s में भी)',
+        'category-changing': u'बॉट: %(oldcat)s कय जगही %(newcat)s जोड़त है',
+        'category-listifying': u'रोबॉट: %(fromcat)s से listify ({{PLURAL:%(num)d|1 प्रविष्टि|%(num)d प्रविष्टियाँ}})',
+        'category-removing': u'रोबॉट: %(oldcat)s से हटा रहा है',
+        'category-renamed': u'रोबॉट: %s से स्थानांतरित। लेखक: %s',
+        'category-replacing': u'रोबॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है',
+        'category-section-title': u'पुरानी %(oldcat)s का पृष्ठ इतिहास',
+        'category-version-history': u'बॉट: पुरान %(oldcat)s कय अवतरण इतिहास सहेजत है',
+        'category-was-disbanded': u'रोबॉट: श्रेणी समाप्त कर दी गयी',
+        'category-was-moved': u'रोबॉट: श्रेणी को [[:Category:%(newcat)s|%(title)s]] पर स्थानांतरित किया गया',
+    },
     # Author: AZISS
     # Author: Khutuck
     # Author: PPerviz
@@ -502,6 +516,20 @@ msg = {
     'eml': {
         'category-adding': u'Robot: A Śònt category [[:Category:%(newcat)s|%(newcat)s]]',
         'category-version-history': u'Robot: Salvèr al stòric \'dla versiòun \'dl antìg %(oldcat)s',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'category-adding': u'Bot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
+        'category-also-in': u'(also in %(alsocat)s)',
+        'category-changing': u'Bot: Changing %(oldcat)s to %(newcat)s',
+        'category-listifying': u'Bot: Creating a list from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})',
+        'category-removing': u'Bot: Removing from %(oldcat)s',
+        'category-renamed': u'Bot: Moved from %s. Authors: %s',
+        'category-replacing': u'Bot: Replacing category %(oldcat)s with %(newcat)s',
+        'category-section-title': u'Page history of former %(oldcat)s',
+        'category-version-history': u'Bot: Saving version history of former %(oldcat)s',
+        'category-was-disbanded': u'Bot: Category was disbanded',
+        'category-was-moved': u'Bot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
     },
     # Author: Airon90
     # Author: Blahma
@@ -1534,7 +1562,6 @@ msg = {
     # Author: Dima st bk
     # Author: Express2000
     # Author: KorneySan
-    # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
     # Author: Xqt

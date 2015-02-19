@@ -43,6 +43,11 @@ msg = {
         'cosmetic_changes-append': u'; cambeos cosméticos',
         'cosmetic_changes-standalone': u'Robó: Cambeos cosméticos',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'cosmetic_changes-append': u'; अंगराग परिवर्तन',
+        'cosmetic_changes-standalone': u'रोबॉट: अंगराग परिवर्तन',
+    },
     # Author: Khutuck
     # Author: Vago
     'az': {
@@ -150,6 +155,11 @@ msg = {
     'el': {
         'cosmetic_changes-append': u'; διακοσμητικές αλλαγές',
         'cosmetic_changes-standalone': u'Ρομπότ: διακοσμητικές αλλαγές',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'cosmetic_changes-append': u'; cosmetic changes',
+        'cosmetic_changes-standalone': u'Bot: Cosmetic changes',
     },
     # Author: Remux
     'eo': {

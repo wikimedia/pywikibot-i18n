@@ -469,6 +469,17 @@ msg = {
         'interwiki-removing': u'Robot: A tir vìa %(removing)s',
         'interwiki-removing-modifying': u'Robot: A tir vìa %(removing)s; a cambi %(modifying)s',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'interwiki-adding': u'Bot: Adding %(adding)s',
+        'interwiki-adding-modifying': u'Bot: Adding %(adding)s; modifying %(modifying)s',
+        'interwiki-adding-removing': u'Bot: Adding %(adding)s; removing: %(removing)s',
+        'interwiki-adding-removing-modifying': u'Bot: Adding %(adding)s; removing %(removing)s; modifying %(modifying)s',
+        'interwiki-modifying': u'Bot: Modifying %(modifying)s',
+        'interwiki-modifying-from': u'Bot: Modifying %(from)s to %(modifying)s',
+        'interwiki-removing': u'Bot: Removing %(removing)s',
+        'interwiki-removing-modifying': u'Bot: Removing %(removing)s; modifying %(modifying)s',
+    },
     # Author: Objectivesea
     'eo': {
         'interwiki-adding': u'robota aldono de: %(adding)s',
@@ -482,6 +493,7 @@ msg = {
     },
     # Author: Fitoschido
     # Author: Invadinado
+    # Author: Macofe
     # Author: Xqt
     'es': {
         'interwiki-adding': u'Bot: adición de %(adding)s',
@@ -489,7 +501,7 @@ msg = {
         'interwiki-adding-removing': u'Bot: adición de %(adding)s; eliminación de %(removing)s',
         'interwiki-adding-removing-modifying': u'Bot: adición de %(adding)s; eliminación de %(removing)s; modificación de %(modifying)s',
         'interwiki-modifying': u'Bot: modificación de %(modifying)s',
-        'interwiki-modifying-from': u'Bot: Modificando %(from)s por %(modifying)s',
+        'interwiki-modifying-from': u'Bot: modificación de %(from)s por %(modifying)s',
         'interwiki-removing': u'Bot: eliminación de %(removing)s',
         'interwiki-removing-modifying': u'Bot: eliminación de %(removing)s; modificación de %(modifying)s',
     },

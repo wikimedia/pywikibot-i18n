@@ -152,12 +152,13 @@ msg = {
         'template-removing': u'Roboto: Forigas {{PLURAL:%(num)d|ŝablonon|ŝablonojn}}: %(list)s',
         'template-substituting': u'Roboto: Anstataŭigas {{PLURAL:%(num)d|ŝablonon|ŝablonojn}}: %(list)s',
     },
+    # Author: Macofe
     # Author: TheBITLINK
     # Author: Xqt
     'es': {
-        'template-changing': u'Bot: Cambiada la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
-        'template-removing': u'Bot: Retirando {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
-        'template-substituting': u'Bot: Sustituyendo la {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
+        'template-changing': u'Bot: cambio de {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
+        'template-removing': u'Bot: eliminación de {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
+        'template-substituting': u'Bot: sustitución de {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s',
     },
     # Author: Huji
     # Author: ZxxZxxZ

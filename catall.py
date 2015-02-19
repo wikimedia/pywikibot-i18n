@@ -32,6 +32,10 @@ msg = {
     'ast': {
         'catall-changing': u'Robó: Camudando categoríes',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'catall-changing': u'रोबॉट: श्रेणि बदलत है',
+    },
     # Author: AZISS
     'az': {
         'catall-changing': u'Robot: Kateqoriyaların dəyişdirilməsi',
@@ -119,6 +123,10 @@ msg = {
     # Author: Gloria sah
     'eml': {
         'catall-changing': u'Robot: Cambièr el categorìi',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'catall-changing': u'Bot: Changing categories',
     },
     # Author: Airon90
     # Author: Objectivesea
@@ -233,6 +241,10 @@ msg = {
     },
     'ksh': {
         'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',
+    },
+    # Author: George Animal
+    'ku': {
+        'catall-changing': u'Bot: Kategoriyan diguherîne',
     },
     # Author: Викиней
     'ky': {

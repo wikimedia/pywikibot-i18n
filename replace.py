@@ -102,13 +102,18 @@ msg = {
     'el': {
         'replace-replacing': u'Ρομπότ: Αυτόματη αντικατάσταση κειμένου %(description)s',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'replace-replacing': u'Bot: Automated text replacement %(description)s',
+    },
     # Author: Mihxil
     'eo': {
         'replace-replacing': u'Roboto: Automata tekst-anstataŭigo: %(description)s',
     },
+    # Author: Macofe
     # Author: Xqt
     'es': {
-        'replace-replacing': u'Bot: Reemplazo automático de texto %(description)s',
+        'replace-replacing': u'Bot: reemplazo automático de texto %(description)s',
     },
     # Author: AivoK
     # Author: Pikne

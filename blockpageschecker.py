@@ -79,6 +79,10 @@ msg = {
     'el': {
         'blockpageschecker-summary': u'Bot: Διαγραφή παρωχημένου πρότυπου',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'blockpageschecker-summary': u'Bot: Deleting out-dated template',
+    },
     # Author: KuboF
     'eo': {
         'blockpageschecker-summary': u'Roboto: Forigo de eksmoda ŝablono',

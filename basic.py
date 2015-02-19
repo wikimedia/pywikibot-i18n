@@ -129,14 +129,19 @@ msg = {
     'eml': {
         'basic-changing': u'Robot: Caṅbia ...',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'basic-changing': u'Robot: Changing ...',
+    },
     # Author: Airon90
     # Author: Objectivesea
     'eo': {
         'basic-changing': u'Roboto: Ŝanĝado...',
     },
+    # Author: Edslov
     # Author: Fitoschido
     'es': {
-        'basic-changing': u'Robot: cambio de…',
+        'basic-changing': u'Bot: Cambiando...',
     },
     # Author: An13sa
     'eu': {

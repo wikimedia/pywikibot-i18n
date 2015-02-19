@@ -28,6 +28,10 @@ msg = {
     'ast': {
         'djvutext-creating': u'Robó: Creando una páxina con testu sacáu de DjVu',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'djvutext-creating': u'रोबोट: DjVu से निकाले गए पाठ के साथ पृष्ठ बनाया जा रहा है',
+    },
     # Author: AZISS
     'az': {
         'djvutext-creating': u'Robot: DjVu-dən çixarılmış mətnlə səhifə yaratmaq',
@@ -90,6 +94,10 @@ msg = {
     # Author: Glavkos
     'el': {
         'djvutext-creating': u'Ρομπότ: Δημιουργία σελίδας με κείμενο που έχει εξαχθεί από το DjVu',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'djvutext-creating': u'Bot: Creating page with text extracted from DjVu',
     },
     # Author: Objectivesea
     # Author: Remux

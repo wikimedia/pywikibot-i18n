@@ -98,6 +98,10 @@ msg = {
     'el': {
         'movepages-moving': u'Μετακίνηση σελίδων με bot',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'movepages-moving': u'Bot: Moved page',
+    },
     # Author: Objectivesea
     'eo': {
         'movepages-moving': u'Roboto: Paĝon moviĝis',

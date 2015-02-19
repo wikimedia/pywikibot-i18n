@@ -136,6 +136,10 @@ msg = {
         'solve_disambiguation-redirect-resolved': u'Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — зьмененая спасылка(і) на %(to)s',
         'solve_disambiguation-unknown-page': u'(невядома)',
     },
+    # Author: Baloch Afghanistan
+    'bgn': {
+        'solve_disambiguation-unknown-page': u'(نامئلوم)',
+    },
     # Author: Riemogerz
     'bjn': {
         'solve_disambiguation-links-resolved': u'Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s',
@@ -270,6 +274,10 @@ msg = {
     # Author: Lévi
     'eml': {
         'solve_disambiguation-unknown-page': u'(mìa cgnusû)',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'solve_disambiguation-redirect-removed': u'Bot-assisted disambiguation: %(from)s - Removed link(s)',
     },
     # Author: Mihxil
     'eo': {

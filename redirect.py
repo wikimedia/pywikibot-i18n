@@ -267,6 +267,14 @@ msg = {
         'redirect-remove-broken': u'Ρομπότ: Ανακατεύθυνση σε μια σελίδα διαγεγραμμένη  ή ανύπαρκτη',
         'redirect-remove-loop': u'Robot: Ανακατεύθυνση στόχου σχηματίζει έναν βρόγχο ανακατεύθυνσης',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'redirect-fix-broken-moved': u'Bot: Fixing broken redirect to moved target page %(to)s',
+        'redirect-fix-double': u'Bot: Fixing double redirect to %(to)s',
+        'redirect-fix-loop': u'Bot: Fixing redirect loop to %(to)s',
+        'redirect-remove-broken': u'Bot: Redirect to a deleted or non-existent page',
+        'redirect-remove-loop': u'Bot: Redirect target forms a redirect loop',
+    },
     # Author: Blahma
     # Author: Mihxil
     # Author: Objectivesea
@@ -283,6 +291,7 @@ msg = {
     # Author: Dferg
     # Author: Fitoschido
     # Author: Invadinado
+    # Author: Macofe
     # Author: Vivaelcelta
     # Author: Xqt
     'es': {
@@ -291,7 +300,7 @@ msg = {
         'redirect-fix-double': u'Bot: arreglo de redirección doble a %(to)s',
         'redirect-fix-loop': u'Bot: arreglo de redirección infinita a %(to)s',
         'redirect-remove-broken': u'Bot: Redirige a una página borrada o que no existe',
-        'redirect-remove-loop': u'[[WP:CSD#G8|G8]]: El destino de la [[Wikipedia:Redirect|redirección]] crea un bucle de redirección',
+        'redirect-remove-loop': u'Bot: el destino de la redirección crea un bucle de redirección',
     },
     # Author: Pikne
     'et': {

@@ -61,8 +61,17 @@ msg = {
     'el': {
         'makecat-create': u'Bot: Δημιουργία ή ενημέρωση της κατηγορίας [[:Category:%(cat)s|]]',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'makecat-create': u'Bot: Creation or update of category [[:Category:%(cat)s|]]',
+    },
+    # Author: KuboF
+    'eo': {
+        'makecat-create': u'Roboto: Kreo aŭ ĝisdatigo de la kategorio [[:Category:%(cat)s|]]',
+    },
+    # Author: Macofe
     'es': {
-        'makecat-create': u'Bot: Creación o actualiza de la categoría [[:Category:%(cat)s|]]',
+        'makecat-create': u'Bot: creación o actualización de la categoría [[:Category:%(cat)s|]]',
     },
     'fa': {
         'makecat-create': u'ربات: ایجاد یا تصحیح رده [[:Category:%(cat)s|]]',

@@ -31,6 +31,11 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Ficheru]] treslladáu a [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'El ficheru yá ta disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'commons-file-moved': u'[[:File:%(localfile)s|फ़ाइल]] को [[:commons:File:%(commonsfile)s|कॉमन्स]] पर स्थानांतरित किया गया।',
+        'commons-file-now-available': u'फ़ाइल अब [[:commons:File:%(commonsfile)s|विकिमीडिया कॉमन्स]] पर उपलब्ध है।',
+    },
     # Author: Ebrahimi-amir
     'az': {
         'commons-file-moved': u'[[:Fayl:%(localfile)s|Fayl]], [[:commons:File:%(commonsfile)s|commons]] saytına keçirildi.',
@@ -126,6 +131,11 @@ msg = {
     'el': {
         'commons-file-moved': u'Το [[:File:%(localfile)s|αρχείο]] μετακινήθηκε στα [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'Το αρχείο είναι τώρα διαθέσιμο στα [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'commons-file-moved': u'[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].',
+        'commons-file-now-available': u'File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
     # Author: Airon90
     # Author: Objectivesea

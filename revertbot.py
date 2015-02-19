@@ -60,6 +60,10 @@ msg = {
     'el': {
         'revertbot-revert': u'Bot: Επαναφορά στην έκδοση %(revid)s από τον %(author)s στις %(timestamp)s',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'revertbot-revert': u'Bot: Reverted to revision %(revid)s by %(author)s on %(timestamp)s',
+    },
     # Author: VegaDark
     'es': {
         'revertbot-revert': u'Bot: Revertido a la revisión %(revid)s de %(author)s en %(timestamp)s',
@@ -153,6 +157,10 @@ msg = {
     # Author: Wedkarski
     'pl': {
         'revertbot-revert': u'Bot: Cofnięto do wersji %(revid)s autorstwa %(author)s z %(timestamp)s',
+    },
+    # Author: Giro720
+    'pt': {
+        'revertbot-revert': u'Robô: Revertida a revisão %(revid)s de %(author)s em %(timestamp)s',
     },
     # Author: Okras
     'ru': {

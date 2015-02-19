@@ -24,6 +24,11 @@ msg = {
         'commons_link-cat-template-added': u'Robó: Incluir plantía de commonscat',
         'commons_link-template-added': u'Robó: Incluir plantía de commons',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'commons_link-cat-template-added': u'रोबोट: commonscat साँचे को जोड़ा',
+        'commons_link-template-added': u'रोबोट: कॉमन्स साँचे को जोड़ा',
+    },
     # Author: Baloch Afghanistan
     'bcc': {
         'commons_link-cat-template-added': u'ربات: افزودن الگوی رده‌بندی ویکی‌انبار',
@@ -82,6 +87,11 @@ msg = {
     'el': {
         'commons_link-cat-template-added': u'Robot: Προσθήκη προτύπου commonscat',
         'commons_link-template-added': u'Robot: Προσθήκη προτύπου commons',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'commons_link-cat-template-added': u'Bot: Include commonscat template',
+        'commons_link-template-added': u'Bot: Include Commons template',
     },
     # Author: KuboF
     'eo': {
@@ -213,6 +223,11 @@ msg = {
     'pl': {
         'commons_link-cat-template-added': u'Robot: Włącz szablon commonscat',
         'commons_link-template-added': u'Robot: Włącz szablon commons',
+    },
+    # Author: Giro720
+    'pt': {
+        'commons_link-cat-template-added': u'Robô: Incluir predefinição commonscat',
+        'commons_link-template-added': u'Robô: Incluir predefinição do Commons',
     },
     # Author: Minisarm
     'ro': {

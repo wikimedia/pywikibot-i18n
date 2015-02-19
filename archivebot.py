@@ -11,12 +11,13 @@ msg = {
     },
     # Author: Csisc
     # Author: McDutchie
+    # Author: Purodha
     # Author: Shirayuki
     # Author: Xqt
     'qqq': {
         'archivebot-archive-full': u'Appended to the summary.',
         'archivebot-archive-summary': u'Summary message when the bot adds threads to the archive.',
-        'archivebot-archiveheader': u'{{doc-important|Only use your deletion template like <code><nowiki>{{talk archive}}</nowiki></code> which exist on your local project.}}\nNOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate that will be put on new archive pages as the header.\n\nNOTE: If this system message is not given for a language code, archiving a bot might not supported on your site.',
+        'archivebot-archiveheader': u'{{doc-important|Only use your deletion template like <code><nowiki>{{talk archive}}</nowiki></code> which exist on your local project.}}\nNOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate that will be put on new archive pages as the header.\n\nNOTE: If this system message is not given for a language code, an archiving bot might not supported on your site.',
         'archivebot-older-than': u'"duration" is the localized form of the elapsed time.\n{{Identical|Older than}}',
         'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
     },
@@ -196,6 +197,7 @@ msg = {
         'archivebot-older-than': u'کۆنتر لە',
         'archivebot-page-summary': u'ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s.',
     },
+    # Author: Juandev
     # Author: Spiffyk
     # Author: Tchoř
     # Author: Xqt
@@ -203,7 +205,7 @@ msg = {
         'archivebot-archive-full': u'(ARCHIV JE PLNÝ)',
         'archivebot-archive-summary': u'Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} z [[%(from)s]].',
         'archivebot-archiveheader': u'{{Archiv diskuse}}',
-        'archivebot-older-than': u'starší než',
+        'archivebot-older-than': u'starší než %(duration)s',
         'archivebot-page-summary': u'Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} (%(why)s) do %(archives)s.',
     },
     # Author: Pwyll
@@ -260,14 +262,22 @@ msg = {
         'archivebot-older-than': u'piò vèć ed %(duration)s',
         'archivebot-page-summary': u'Robot: Archiviasiòun ed %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'archivebot-archive-full': u'(ARCHIVE FULL)',
+        'archivebot-archive-summary': u'Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].',
+        'archivebot-older-than': u'older than %(duration)s',
+        'archivebot-page-summary': u'Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.',
+    },
     # Author: Airon90
+    # Author: KuboF
     # Author: Objectivesea
     # Author: Remux
     'eo': {
         'archivebot-archive-full': u'(plena arkivo)',
         'archivebot-archive-summary': u'Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} de [[%(from)s]].',
         'archivebot-archiveheader': u'{{Arkivo de diskutoj}}',
-        'archivebot-older-than': u'plimalnova ol',
+        'archivebot-older-than': u'pli malnova ol %(duration)s',
         'archivebot-page-summary': u'Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s.',
     },
     # Author: Armando-Martin

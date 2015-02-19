@@ -132,22 +132,32 @@ msg = {
         'protect-ref': u'Ρομπότ: Προστασία όλων των σελίδων που αναφέρονται από την %(page)s',
         'protect-simple': u'Ρομπότ: Προστασία μιας λίστας σελίδων.',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'protect-category': u'Bot: Protecting all pages from category %(cat)s',
+        'protect-images': u'Bot: Protecting all images on page %(page)s',
+        'protect-links': u'Bot: Protecting all pages linked from %(page)s',
+        'protect-ref': u'Bot: Protecting all pages referring from %(page)s',
+        'protect-simple': u'Bot: Protecting a list of files.',
+    },
     # Author: KuboF
     'eo': {
         'protect-category': u'Roboto: Protekto de ĉiuj paĝoj de la kategorio %(cat)s',
         'protect-images': u'Roboto: Protekto de ĉiuj bildoj ĉe la paĝo %(page)s',
         'protect-links': u'Roboto: Protektitaj ĉiuj paĝoj ligitaj de %(page)s',
+        'protect-ref': u'Roboto: Protekto de ĉiuj paĝoj ligantaj al %(page)s',
         'protect-simple': u'Roboto: Protekto de listo da dosieroj.',
     },
     # Author: Fitoschido
+    # Author: Macofe
     # Author: Sporeunai
     # Author: VegaDark
     'es': {
-        'protect-category': u'Robot: Protegiendo todas las páginas contenidas en la categoría %(cat)s',
-        'protect-images': u'Robot: Protegiendo todas las imágenes de la página %(page)s',
-        'protect-links': u'Robot: Protección de todas las páginas enlazadas en %(page)s',
-        'protect-ref': u'Robot: Protegiendo todas las páginas que enlazan hacia %(page)s',
-        'protect-simple': u'Robot: protección de una lista de archivos.',
+        'protect-category': u'Bot: protección de todas las páginas de la categoría %(cat)s',
+        'protect-images': u'Bot: protección de todas las imágenes de la página %(page)s',
+        'protect-links': u'Bot: protección de todas las páginas enlazadas desde %(page)s',
+        'protect-ref': u'Bot: protección de todas las páginas que enlazan hacia %(page)s',
+        'protect-simple': u'Bot: protección de una lista de archivos.',
     },
     # Author: Subi
     'eu': {
@@ -413,10 +423,10 @@ msg = {
     # Author: Liuxinyu970226
     # Author: Yfdyh000
     'zh': {
-        'protect-category': u'机器人：保护来自分类%(cat)s的所有页面',
+        'protect-category': u'机器人：保护分类%(cat)s的所有页面',
         'protect-images': u'机器人：保护页面%(page)s的所有图片',
-        'protect-links': u'机器人：保护所有连接自%(page)s的页面',
-        'protect-ref': u'机器人：保护所有提及自%(page)s的页面',
-        'protect-simple': u'机器人：保护文件列表。',
+        'protect-links': u'机器人：保护%(page)s链接的所有页面',
+        'protect-ref': u'机器人：保护%(page)s提及的所有页面',
+        'protect-simple': u'机器人：保护一个文件列表。',
     },
 };

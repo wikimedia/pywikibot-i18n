@@ -39,6 +39,8 @@ msg = {
     },
     # Author: 1AnuraagPandey
     'awa': {
+        'casechecker-rename': u'बोट: मिश्रित वर्ण पूनर्नामाङ्कन',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'बॉट: केस (case) प्रतिस्थापन :',
     },
     # Author: Рустам Нурыев
@@ -148,18 +150,28 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Bot: Αντικαταστάσεις πεζών/κεφαλαίων:',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'casechecker-delete-reason': u'This redirect used to point to %(target)s',
+        'casechecker-delete-summary': u'Bot: This redirect contains identical looking Cyrillic and Latin letters in its title',
+        'casechecker-rename': u'Bot: mixed case rename',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'Bot: Case Replacements:',
+    },
     # Author: KuboF
     'eo': {
         'casechecker-delete-reason': u'Tiu ĉi alidirektilo direktis al %(target)s',
+        'casechecker-delete-summary': u'Roboto: Tiu ĉi alidirektilo en sia titolo enhavas samaspektajn cirilajn kaj latinajn literojn',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Roboto: Ŝanĝo de uskleco:',
     },
     # Author: Fitoschido
+    # Author: Macofe
     # Author: Sporeunai
     # Author: VegaDark
     'es': {
         'casechecker-delete-reason': u'Esta redirección solía apuntar a %(target)s',
-        'casechecker-delete-summary': u'Bot: esta redirección contiene caracteres cirílicos y latinos que lucen idénticos',
+        'casechecker-delete-summary': u'Bot: esta redirección contiene en su título caracteres cirílicos y latinos que lucen idénticos',
         'casechecker-rename': u'Bot: renombramiento con mayúsculas/minúsculas combinadas',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Bot: reemplazo de mayúsculas/minúsculas:',
@@ -193,7 +205,6 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s → %(target)s',
         'casechecker-replacement-summary': u'Bot: Skriiwwiisen feranert:',
     },
-    # Author: Elisardojm
     # Author: Robin0van0der0vliet
     'fy': {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
@@ -398,9 +409,15 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Bot: Zamiana wielkości liter:',
     },
+    # Author: Giro720
     # Author: Imperadeiro98
+    # Author: Vitorvicentevalente
     'pt': {
+        'casechecker-delete-reason': u'Este redirecionamento é usado para apontar a %(target)s',
+        'casechecker-delete-summary': u'Robô: Este redireccionamento contém caracteres cirílicos e latinos no seu título',
+        'casechecker-rename': u'Robô: renomear com maiúsculas/minúsculas combinadas',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'Robô: Modificações de casos:',
     },
     # Author: Minisarm
     'ro': {

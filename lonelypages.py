@@ -77,15 +77,21 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Ρομπότ: Προσθήκη μιας σελίδα αποσαφήνισης',
         'lonelypages-comment-add-template': u'Ρομπότ: Ορφανή σελίδα, προσθήκη πρότυπου',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'lonelypages-comment-add-disambig-template': u'Bot: Adding a disambig page',
+        'lonelypages-comment-add-template': u'Bot: Orphan page, add template',
+    },
     # Author: KuboF
     'eo': {
         'lonelypages-comment-add-disambig-template': u'Roboto: Aldono de apartigilo',
         'lonelypages-comment-add-template': u'Roboto: Orfa paĝo, aldonita ŝablono',
     },
     # Author: Fitoschido
+    # Author: Macofe
     'es': {
-        'lonelypages-comment-add-disambig-template': u'Robot: adición de una página de desambiguación',
-        'lonelypages-comment-add-template': u'Robot: Página huérfana, adición de plantilla',
+        'lonelypages-comment-add-disambig-template': u'Bot: adición de una página de desambiguación',
+        'lonelypages-comment-add-template': u'Bot: página huérfana, adición de plantilla',
     },
     # Author: Subi
     'eu': {
@@ -216,9 +222,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Bot: Dodawanie strony ujednoznaczniającej.',
         'lonelypages-comment-add-template': u'Robot: osierocona strona, dodanie szablonu',
     },
+    # Author: Giro720
     # Author: Vitorvicentevalente
     'pt': {
         'lonelypages-comment-add-disambig-template': u'Robô: A adicionar página de desambiguação',
+        'lonelypages-comment-add-template': u'Robô: Página órfã, adicionar predefinição',
     },
     # Author: Minisarm
     'ro': {

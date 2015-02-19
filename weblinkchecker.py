@@ -100,9 +100,11 @@ msg = {
         'weblinkchecker-report': u'Ботана гучадаьлла, хьара арахьара хьажоргаш болх цабеш хилар. Хьаьжна нисъе я дӀаяха уьш.',
         'weblinkchecker-summary': u'бот: карина арахьара болх цабо хьажорг',
     },
+    # Author: Juandev
     # Author: Tchoř
     'cs': {
         'weblinkchecker-archive_msg': u'Webová stránka je uložena v projektu Internet Archive. Prosím zvažte, zda neodkázat na patřičnou archivovanou verzi  [%(URL)s].',
+        'weblinkchecker-badurl': u'Nezdá se, že by byl poskytnutý odkaz platným URL',
         'weblinkchecker-caption': u'Mrtvý odkaz',
         'weblinkchecker-report': u'Během několika automatizovaných běhů byl následující externí odkaz nedostupný. Prosím, ověřte, zda je skutečně nedostupný, a pokud ano, pak jej opravte nebo odstraňte!',
         'weblinkchecker-summary': u'Robot: Ohlašuji nedostupný externí odkaz.',
@@ -208,6 +210,7 @@ msg = {
     # Author: Murma174
     'frr': {
         'weblinkchecker-archive_msg': u'Det wääbsidj as faan\'t Internet Archive seekert wurden. Wees so gud an ferwise üüb en werjuun uun\'t archiif: [%(URL)s].',
+        'weblinkchecker-badurl': u'Detdiar ferwisang schocht ei efter en wäärdag URL ütj',
         'weblinkchecker-caption': u'Duad ferwisang',
         'weblinkchecker-report': u'Di bot hää muarsis fersoocht, det wääbsidj tu finjen, man saner lok. Wees so gud an preewe det ferwisang, an nem det wech, wan\'t uunstaken as!',
         'weblinkchecker-summary': u'Bot: Beracht auer en uunstaken ferwisang',

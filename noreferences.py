@@ -111,13 +111,18 @@ msg = {
     'el': {
         'noreferences-add-tag': u'Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'noreferences-add-tag': u'Bot: Adding missing <references /> tag',
+    },
     'eo': {
         'noreferences-add-tag': u'Roboto: Aldono de "<references />"',
     },
     # Author: Invadinado
+    # Author: Macofe
     # Author: Vivaelcelta
     'es': {
-        'noreferences-add-tag': u'Bot: Añadiendo etiqueta <references /> que faltaba',
+        'noreferences-add-tag': u'Bot: adición de etiqueta <references /> faltante',
     },
     # Author: Pikne
     'et': {

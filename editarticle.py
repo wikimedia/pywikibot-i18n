@@ -24,6 +24,10 @@ msg = {
     'ast': {
         'editarticle-edit': u'Edición manual con robó: %(description)s',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'editarticle-edit': u'रोबोट के साथ मैनुअल संपादन: %(description)s',
+    },
     # Author: Ebrahimi-amir
     'az': {
         'editarticle-edit': u'Bot hesabından əllə tənzimləmə: %(description)s',
@@ -100,6 +104,10 @@ msg = {
     # Author: Geraki
     'el': {
         'editarticle-edit': u'Μη αυτόματη επεξεργασία με ρομπότ: %(description)s',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'editarticle-edit': u'Manual edit with bot: %(description)s',
     },
     # Author: Airon90
     'eo': {

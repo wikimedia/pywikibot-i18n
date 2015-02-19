@@ -70,6 +70,15 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s ta en %(oldcat)s, que ye una redireición a %(newcat)s',
         'category_redirect-fix-double': u'Robó: Iguando redireición doble',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'category_redirect-add-template': u'रोबॉट: रखरखाव के लिए श्रेणी अनुप्रेषित साँचा जोड़ा गया',
+        'category_redirect-change-category': u'रोबॉट: अनुप्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी',
+        'category_redirect-comment': u'श्रेणी पुनर्निर्देशन रखरखाव रोबॉट',
+        'category_redirect-edit-request': u'निम्न सुरक्षित पृष्ठ पाए गए हैं जिनमें श्रेणियों को अद्यतित करने की आवश्यकता है: %(itemlist)s',
+        'category_redirect-edit-request-item': u'* %(title)s %(oldcat)s में है, जो %(newcat)s को अनुप्रेषित है',
+        'category_redirect-fix-double': u'रोबॉट: दुगना अनुप्रेषण सही किया गया',
+    },
     # Author: AZISS
     # Author: Ebrahimi-amir
     # Author: Khutuck
@@ -259,6 +268,15 @@ msg = {
         'category_redirect-edit-request': u'Οι ακόλουθες προστατευμένες σελίδες έχουν ανιχνευθεί ως χρήζουσες ενημέρωσης στις συνδέσεις κατηγορίας: %(itemlist)s',
         'category_redirect-edit-request-item': u'Το %(title)s είναι στην %(oldcat)s, η οποία είναι ανακατεύθυνση στην %(newcat)s',
         'category_redirect-fix-double': u'Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'category_redirect-add-template': u'Bot: Adding category redirect template for maintenance',
+        'category_redirect-change-category': u'Bot: Change redirected category [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-comment': u'Category redirect maintenance bot',
+        'category_redirect-edit-request': u'The following protected pages have been detected as requiring updates to category links: %(itemlist)s',
+        'category_redirect-edit-request-item': u'* %(title)s is in %(oldcat)s, which is a redirect to %(newcat)s',
+        'category_redirect-fix-double': u'Bot: Fixing double redirect',
     },
     # Author: Airon90
     # Author: Blahma

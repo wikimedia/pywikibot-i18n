@@ -32,6 +32,10 @@ msg = {
     'ast': {
         'fixing_redirects-fixing': u'Robó: Iguando redireiciones',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'fixing_redirects-fixing': u'बॉट:पुनर्निर्देशन ठीक कर रहा है',
+    },
     # Author: AZISS
     'az': {
         'fixing_redirects-fixing': u'Bot: Yönləndirmələrin düzəldilməsi',
@@ -102,6 +106,10 @@ msg = {
     # Author: Geraki
     'el': {
         'fixing_redirects-fixing': u'Ρομπότ: Διόρθωση ανακατευθύνσεων',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'fixing_redirects-fixing': u'Bot: Fixing redirects',
     },
     # Author: Objectivesea
     # Author: Remux

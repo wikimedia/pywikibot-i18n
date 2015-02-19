@@ -124,6 +124,10 @@ msg = {
     'el': {
         'isbn-formatting': u'Ρομπότ: Μορφοποίηση ISBN',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'isbn-formatting': u'Bot: Formatting ISBN',
+    },
     # Author: Mihxil
     # Author: Objectivesea
     'eo': {

@@ -121,6 +121,10 @@ msg = {
     'eml': {
         'capitalize_redirects-create-redirect': u'Robot: Creèr un rimànd vers [[%(to)s]]',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'capitalize_redirects-create-redirect': u'Bot: Create redirect to [[%(to)s]]',
+    },
     # Author: Airon90
     # Author: Objectivesea
     # Author: Remux

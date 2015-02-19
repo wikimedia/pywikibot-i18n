@@ -64,6 +64,14 @@ msg = {
         'delete-linked-pages': u'Robó: Desaniciando toles páxines enllazaes dende %(page)s',
         'delete-referring-pages': u'Robó: Desaniciando toles páxines con referencia dende %(page)s',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'delete-from-category': u'रोबोट: %(page)s श्रेणी से सभी पन्नों को हटाया जा रहा है',
+        'delete-from-file': u'रोबोट: पन्नों की सूची में से पृष्ठ हटाए जा रहे हैं।',
+        'delete-images': u'रोबोट: पृष्ठ %(page)s से सभी चित्रों को हटाया जा रहा है',
+        'delete-linked-pages': u'रोबोट: पृष्ठ %(page)s से सभी चित्रों को हटाया जा रहा है',
+        'delete-referring-pages': u'रोबोट: %(page)s से जुड़े हुए सभी पन्नों को हटाया जा रहा है',
+    },
     # Author: Khutuck
     # Author: Vago
     'az': {
@@ -216,6 +224,14 @@ msg = {
         'delete-images': u'Ρομπότ: Διαγραφή όλων των εικόνων στη σελίδα %(page)s',
         'delete-linked-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που συνδέονται από την %(page)s',
         'delete-referring-pages': u'Ρομπότ: Διαγραφή όλων των σελίδων που αναφέρονται από την %(page)s',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'delete-from-category': u'Bot: Deleting all pages from category %(page)s',
+        'delete-from-file': u'Bot: Deleting a list of pages.',
+        'delete-images': u'Bot: Deleting all images on page %(page)s',
+        'delete-linked-pages': u'Bot: Deleting all pages linked from %(page)s',
+        'delete-referring-pages': u'Bot: Deleting all pages referring from %(page)s',
     },
     # Author: Airon90
     # Author: Blahma

@@ -19,11 +19,29 @@ msg = {
         'undelete-images': u'Робат: аднаўленьне ўсіх выяваў на старонцы %(page)s',
         'undelete-linked-pages': u'Робат: аднаўленьне ўсіх старонак, на якія ёсьць спасылкі з %(page)s',
     },
+    # Author: Juandev
+    'cs': {
+        'undelete-from-file': u'Bot: Obnovuji seznam stránek',
+        'undelete-images': u'Bot: Obnovuji všechny obrázky na stránce %(page)s',
+        'undelete-linked-pages': u'Bot: Obnovuji všechny stránka na které je odkazováno ze %(page)s',
+    },
     # Author: Metalhead64
     'de': {
         'undelete-from-file': u'Bot: Stelle eine Liste mit Seiten wieder her',
         'undelete-images': u'Bot: Stelle alle Bilder auf der Seite %(page)s wieder her',
         'undelete-linked-pages': u'Bot: Stelle alle Seiten wieder her, die von %(page)s verlinkt sind',
+    },
+    # Author: KuboF
+    'eo': {
+        'undelete-from-file': u'Roboto: Restarigado de listo de paĝoj',
+        'undelete-images': u'Roboto: Restarigo de ĉiuj bildoj en la paĝo %(page)s',
+        'undelete-linked-pages': u'Roboto: Restarigo de ĉiuj paĝoj ligitaj de %(page)s',
+    },
+    # Author: Macofe
+    'es': {
+        'undelete-from-file': u'Bot: restauración de una lista de páginas.',
+        'undelete-images': u'Bot: restauración de todas las imágenes de la página %(page)s',
+        'undelete-linked-pages': u'Bot: restauración de todas las páginas enlazadas desde %(page)s',
     },
     # Author: Reza1615
     'fa': {
@@ -38,10 +56,11 @@ msg = {
         'undelete-linked-pages': u'Robot: Annulation de la suppression de toutes les pages liées à %(page)s',
     },
     # Author: Elisardojm
+    # Author: Toliño
     'gl': {
-        'undelete-from-file': u'Bot: Restaurando unha lista de páxinas.',
-        'undelete-images': u'Bot: Restaurando todas as imaxes da páxina %(page)s',
-        'undelete-linked-pages': u'Bot: Restaurando todas as páxinas ligadas desde %(page)s',
+        'undelete-from-file': u'Bot: Restauro unha lista de páxinas.',
+        'undelete-images': u'Bot: Restauro todas as imaxes da páxina "%(page)s"',
+        'undelete-linked-pages': u'Bot: Restauro todas as páxinas ligadas desde "%(page)s"',
     },
     # Author: Amire80
     'he': {
@@ -53,7 +72,7 @@ msg = {
     # Author: Tacsipacsi
     'hu': {
         'undelete-from-file': u'Bot: törölt lapok listájának helyreállítása',
-        'undelete-images': u'Bot: Minden kép helyreállítása a(z) %(page)s lapon',
+        'undelete-images': u'Bot: minden kép helyreállítása a(z) %(page)s lapon',
         'undelete-linked-pages': u'Bot: a(z) %(page)s oldalról hivatkozott összes lap visszaállítása',
     },
     # Author: Gianfranco

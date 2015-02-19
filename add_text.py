@@ -153,6 +153,10 @@ msg = {
     'eml': {
         'add_text-adding': u'Robot: A śònt %(adding)s',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'add_text-adding': u'Bot: Adding %(adding)s',
+    },
     # Author: Airon90
     'eo': {
         'add_text-adding': u'Roboto: Aldonado de %(adding)s',

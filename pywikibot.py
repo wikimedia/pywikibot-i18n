@@ -221,6 +221,16 @@ msg = {
         'pywikibot-enter-page-processing': u'Ποια σελίδα να υποβληθεί σε επεξεργασία;',
         'pywikibot-enter-xml-filename': u'Παρακαλώ εισάγετε το όνομα του αρχείου XML:',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'pywikibot-enter-category-name': u'Please enter the category name:',
+        'pywikibot-enter-file-links-processing': u'Links to which file page should be processed?',
+        'pywikibot-enter-finished-browser': u'Press Enter when finished in browser.',
+        'pywikibot-enter-namespace-number': u'Please enter a namespace using it\'s number:',
+        'pywikibot-enter-new-text': u'Please enter the new text:',
+        'pywikibot-enter-page-processing': u'Which page should be processed?',
+        'pywikibot-enter-xml-filename': u'Please enter the XML dump\'s filename:',
+    },
     # Author: Blahma
     # Author: KuboF
     # Author: Objectivesea

@@ -51,6 +51,10 @@ msg = {
     'el': {
         'selflink-remove': u'Bot: Αφαίρεση αυτοσυνδέσμων',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'selflink-remove': u'Bot: Removing selflinks',
+    },
     # Author: Fitoschido
     'es': {
         'selflink-remove': u'Bot: eliminación de enlaces hacia la propia página',

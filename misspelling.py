@@ -52,6 +52,14 @@ msg = {
     'el': {
         'misspelling-fixing': u'Bot: Διόρθωση ανορθόγραφου συνδέσμου σε %(page)s',
     },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'misspelling-fixing': u'Bot: Fixing misspelled link to %(page)s',
+    },
+    # Author: KuboF
+    'eo': {
+        'misspelling-fixing': u'Roboto: Korekto de erare literumita ligilo al %(page)s',
+    },
     # Author: Fitoschido
     'es': {
         'misspelling-fixing': u'Bot: corrección de enlace mal escrito hacia %(page)s',

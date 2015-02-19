@@ -28,6 +28,10 @@ msg = {
     'ast': {
         'clean_sandbox-cleaned': u'Robot: Llimpia automática',
     },
+    # Author: 1AnuraagPandey
+    'awa': {
+        'clean_sandbox-cleaned': u'रोबोट: स्वचालित रूप से साफ किया',
+    },
     # Author: Ebrahimi-amir
     'az': {
         'clean_sandbox-cleaned': u'Bot: Avtomatik olaraq təmizləndi',
@@ -110,6 +114,10 @@ msg = {
     # Author: Geraki
     'el': {
         'clean_sandbox-cleaned': u'Ρομπότ: Καθαρίστηκε αυτόματα',
+    },
+    # Author: Chase me ladies, I'm the Cavalry
+    'en-gb': {
+        'clean_sandbox-cleaned': u'Bot: Automatically cleaned',
     },
     # Author: Airon90
     'eo': {
