@@ -4,4 +4,4 @@
 *.py~
 *pycache*
 *.json~
-
+node_modules
