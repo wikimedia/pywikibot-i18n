@@ -38,6 +38,7 @@ module.exports = function ( grunt ) {
 			ndashredir: __dirname + '/ndashredir/',
 			noreferences: __dirname + '/noreferences/',
 			pagefromfile: __dirname + '/pagefromfile/',
+			piper: __dirname + '/piper/',
 			protect: __dirname + '/protect/',
 			pywikibot: __dirname + '/pywikibot/',
 			redirect: __dirname + '/redirect/',
