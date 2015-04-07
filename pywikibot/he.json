@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Leonardo Gregianin"
 		]
 	},
 	"pywikibot-enter-xml-filename": "נא להזין את שם קובץ ה־XML עם הדאמפ:",
@@ -10,5 +11,7 @@
 	"pywikibot-enter-namespace-number": "נא להזין את שם מרחב השם לפי המספר שלו:",
 	"pywikibot-enter-new-text": "נא להזין את הטקסט החדש:",
 	"pywikibot-enter-category-name": "נא להזין את שם הקטגוריה:",
-	"pywikibot-enter-finished-browser": "יש ללחוץ Enter כאשר מסתיימת הפעולה בדפדפן."
+	"pywikibot-enter-finished-browser": "יש ללחוץ Enter כאשר מסתיימת הפעולה בדפדפן.",
+	"pywikibot-fixes-html": "בוט: ממיר/מתקן HTML",
+	"pywikibot-fixes-syntax": "בוט: מתקן תחביר ויקי"
 }

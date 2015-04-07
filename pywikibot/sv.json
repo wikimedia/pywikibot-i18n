@@ -3,6 +3,7 @@
 		"authors": [
 			"Cybjit",
 			"Lokal Profil",
+                        "skorpan",
 			"WikiPhoenix"
 		]
 	},
@@ -12,5 +13,6 @@
 	"pywikibot-enter-namespace-number": "Ange namnrymden via dess nummer:",
 	"pywikibot-enter-new-text": "Skriv in den nya texten:",
 	"pywikibot-enter-category-name": "Ange kategorinamnet:",
-	"pywikibot-enter-finished-browser": "Tryck på Enter när du är klar i webbläsaren."
+	"pywikibot-enter-finished-browser": "Tryck på Enter när du är klar i webbläsaren.",
+	"pywikibot-fixes-html": "Bot: Konverterar/korrigerar HTML"
 }

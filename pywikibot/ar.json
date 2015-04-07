@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Meno25",
 			"TTMTT"
 		]
 	},
@@ -10,5 +11,7 @@
 	"pywikibot-enter-namespace-number": "الرجاء إدخال مساحة اسم برقمه:",
 	"pywikibot-enter-new-text": "فضلاً ادخل النص الجديد:",
 	"pywikibot-enter-category-name": "فضلاً ادخل إسم التصنيف:",
-	"pywikibot-enter-finished-browser": "اضغط Enter عند الانتهاء في المستعرض."
+	"pywikibot-enter-finished-browser": "اضغط Enter عند الانتهاء في المستعرض.",
+	"pywikibot-fixes-html": "روبوت: تحويل/تصليح HTML",
+	"pywikibot-fixes-syntax": "بوت: تصليح تهيئة الويكي"
 }

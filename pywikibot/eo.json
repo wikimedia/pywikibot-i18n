@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Blahma",
+			"Dmitry Nikitin",
 			"KuboF",
 			"Objectivesea"
 		]
@@ -12,5 +13,7 @@
 	"pywikibot-enter-namespace-number": "Bonvolu enmeti nomspacon per ties numero:",
 	"pywikibot-enter-new-text": "Bonvolu enmeti la novan tekston:",
 	"pywikibot-enter-category-name": "Bonvolu enmeti la nomon de kategorio:",
-	"pywikibot-enter-finished-browser": "Post laborfino en la retumilo, premu Enter."
+	"pywikibot-enter-finished-browser": "Post laborfino en la retumilo, premu Enter.",
+	"pywikibot-fixes-html": "Bot: koredtado de HTMLa teksto",
+	"pywikibot-fixes-syntax": "Bot: Korektado de vikia sintakso"
 }

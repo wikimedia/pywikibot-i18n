@@ -3,7 +3,8 @@
 		"authors": [
 			"A1",
 			"Base",
-			"DixonD"
+			"DixonD",
+			"Dmitry Nikitin"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Будь ласка, введіть назву файлу дампу XML:",
@@ -12,5 +13,7 @@
 	"pywikibot-enter-namespace-number": "Введіть номер простору імен:",
 	"pywikibot-enter-new-text": "Введіть новий текст:",
 	"pywikibot-enter-category-name": "Введіть ім'я категорії:",
-	"pywikibot-enter-finished-browser": "Натисніть Enter, коли завершите редагування у браузері."
+	"pywikibot-enter-finished-browser": "Натисніть Enter, коли завершите редагування у браузері.",
+	"pywikibot-fixes-html": "Бот: корекцiя HTML",
+	"pywikibot-fixes-syntax": "Бот: Корекцiя вiкi-синтаксису"
 }

@@ -10,5 +10,6 @@
 	"pywikibot-enter-namespace-number": "Jif de Nommer för dat Apachtemang en:",
 	"pywikibot-enter-new-text": "Jif dä neue Täx en:",
 	"pywikibot-enter-category-name": "Jif dä Saachjropp iere Naame en:",
-	"pywikibot-enter-finished-browser": "Dröck de <i lang=\"en\">Enter</i>-Taßß, wann de fäädesch beß em Brauser."
+	"pywikibot-enter-finished-browser": "Dröck de <i lang=\"en\">Enter</i>-Taßß, wann de fäädesch beß em Brauser.",
+	"pywikibot-fixes-html": "Bot: vun HTML en Wikikood wandelle"
 }

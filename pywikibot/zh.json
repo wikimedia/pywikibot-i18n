@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alex Shih-Han Lin",
 			"Anakmalaysia",
 			"Liuxinyu970226",
 			"Qiyue2001",
@@ -13,5 +14,7 @@
 	"pywikibot-enter-namespace-number": "请输入命名空间编号：",
 	"pywikibot-enter-new-text": "请输入新文本：",
 	"pywikibot-enter-category-name": "请输入分类名称：",
-	"pywikibot-enter-finished-browser": "请在浏览器作业完成后按下Enter键。"
+	"pywikibot-enter-finished-browser": "请在浏览器作业完成后按下Enter键。",
+	"pywikibot-fixes-html": "機器人: 轉換HTML",
+	"pywikibot-fixes-syntax": "機器人: 修正wiki語法"
 }

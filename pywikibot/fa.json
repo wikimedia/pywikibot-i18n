@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amir Sarabadani",
 			"Huji",
 			"Ladsgroup",
 			"Reza1615",
@@ -13,5 +14,8 @@
 	"pywikibot-enter-namespace-number": "لطفاً شمارهٔ یک فضای نام را وارد کنید:",
 	"pywikibot-enter-new-text": "لطفاً متن جدید را وارد کنید:",
 	"pywikibot-enter-category-name": "لطفاً نام رده را وارد کنید:",
-	"pywikibot-enter-finished-browser": "هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید."
+	"pywikibot-enter-finished-browser": "هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید.",
+	"pywikibot-fixes-html": "ربات:تبدیل/تصحیح کدهای اچ‌تی‌ام‌ال",
+	"pywikibot-fixes-syntax": "ربات:تصحیح قالب ویکی‌نویسی",
+	"pywikibot-fixes-fckeditor": "ربات: تصحیح اچ‌تی‌ام‌ال ویرایشگر پیشرفته"
 }
