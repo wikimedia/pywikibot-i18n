@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Ben McIlwain (CydeWeys)"
 		]
 	},
 	"category-version-history": "Bot: Saving version history of former %(oldcat)s",
@@ -9,6 +10,7 @@
 	"category-adding": "Bot: Adding category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(also in %(alsocat)s)",
 	"category-was-disbanded": "Bot: Category was disbanded",
+	"category-strip-cfd-templates": "Bot: Removing CFD templates for completed action",
 	"category-replacing": "Bot: Replacing category %(oldcat)s with %(newcat)s",
 	"category-removing": "Bot: Removing from %(oldcat)s",
 	"category-was-moved": "Bot: Category was moved to [[:Category:%(newcat)s|%(title)s]]",

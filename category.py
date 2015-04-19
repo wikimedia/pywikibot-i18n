@@ -2,6 +2,7 @@
 """i18n message bundle."""
 msg = {
     # Author: Xqt
+    # Author: Ben McIlwain (CydeWeys)
     'en': {
         'category-adding': u'Bot: Adding category [[:Category:%(newcat)s|%(newcat)s]]',
         'category-also-in': u'(also in %(alsocat)s)',
@@ -13,6 +14,7 @@ msg = {
         'category-section-title': u'Page history of former %(oldcat)s',
         'category-version-history': u'Bot: Saving version history of former %(oldcat)s',
         'category-was-disbanded': u'Bot: Category was disbanded',
+        'category-strip-cfd-templates': u'Bot: Removing CFD templates for completed action',
         'category-was-moved': u'Bot: Category was moved to [[:Category:%(newcat)s|%(title)s]]',
     },
     # Author: Csisc

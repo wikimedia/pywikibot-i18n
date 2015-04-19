@@ -7,7 +7,8 @@
 			"Shirayuki",
 			"Siebrand",
 			"Valhallasw",
-			"Xqt"
+			"Xqt",
+			"Ben McIlwain (CydeWeys)"
 		]
 	},
 	"category-version-history": "Edit summary when the bot saves page' version history while category moving",
@@ -15,6 +16,7 @@
 	"category-adding": "{{doc-important|Do not change \":Category:%(newcat)s\" so this message will work in any language.}}",
 	"category-also-in": "Translations to say that the current category is in more categories than the one we are coming from",
 	"category-was-disbanded": "Used as reason for deletion of the category.",
+	"category-strip-cfd-templates": "Edit summary when CFD (Categories for deletion) templates are removed from the page's text following a move/keep action",
 	"category-replacing": "Edit summary. Parameters:\n* %(oldcat)s - old category name\n* %(newcat)s - new category name",
 	"category-removing": "Edit summary. Parameters:\n* %(oldcat)s - old category name",
 	"category-was-moved": "{{doc-important|Do not translate \"[[:Category:%(newcat)s|%(title)s]]\"}}",
