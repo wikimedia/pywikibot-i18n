@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand Mazeland"
+		]
+	},
+	"followlive-blanking": "Robot tar bort innehåll på grund av '%s'"
+}
