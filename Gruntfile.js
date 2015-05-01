@@ -23,6 +23,7 @@ module.exports = function ( grunt ) {
 			commons_link: 'commons_link/',
 			commons: 'commons/',
 			cosmetic_changes: 'cosmetic_changes/',
+			deledpimage: 'deledpimage/',
 			delete: 'delete/',
 			djvutext: 'djvutext/',
 			editarticle: 'editarticle/',
