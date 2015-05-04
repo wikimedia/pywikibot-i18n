@@ -4,13 +4,14 @@
 			"Christian List",
 			"Kaare",
 			"Peter Alberti",
-			"Sarrus"
+			"Sarrus",
+			"MGA73"
 		]
 	},
 	"category_redirect-comment": "Robot til vedligeholdelse af kategoriomdirigeringer",
 	"category_redirect-change-category": "Robot: Ændrer omdirigeret kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] til [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: Tilføjer kategoriomdirigeringsskabelon til vedligeholdelse",
-	"category_redirect-edit-request": "Der er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s",
+	"category_redirect-edit-request": "Det er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s",
 	"category_redirect-fix-double": "Robot: Retter dobbelt omdirigering"
 }

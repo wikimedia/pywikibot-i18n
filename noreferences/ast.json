@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"noreferences-add-tag": "Robó: Amestando la etiqueta <references /> que falta"
+	"noreferences-add-tag": "Bot: Amestando la etiqueta <references /> que falta"
 }

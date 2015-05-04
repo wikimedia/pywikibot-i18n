@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"misspelling-fixing": "Omdirigeringer af fejlstavninger: %(page)s"
+	"@metadata": {
+		"authors": [
+			"MGA73"
+		]
+	},
+	"misspelling-fixing": "Robot: Retter forkert stavede henvisninger til %(page)s"
 }

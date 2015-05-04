@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Revi"
+			"Revi",
+			"IRTC1015"
 		]
 	},
 	"protect-links": "로봇: %(page)s에 연결한 모든 문서 보호",
 	"protect-simple": "로봇: 파일의 목록을 보호합니다.",
 	"protect-category": "로봇: %(cat)s의 모든 문서를 보호",
-	"protect-ref": "로봇: %(page)s에서 참고하는 모든 문서 보호",
-	"protect-images": "로봇: %(page)s에서 사용하는 모든 파일 보호"
+	"protect-ref": "봇: %(page)s에서 참고하는 모든 문서 보호",
+	"protect-images": "봇: %(page)s 문서에 사용된 모든 그림 보호"
 }

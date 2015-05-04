@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"commonscat-msg_change": "Bot: cambio de ligazón «commonscat» de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] a [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswanas"
+		]
+	},
+	"commonscat-msg_change": "Robotas: Keičia įprastą cat nuorodą  iš[[:Commons:Category:%(oldcat)s|%(oldcat) - as]] į [[: Commons:Category:%(newcat)s|%(newcat)s]]"
+}

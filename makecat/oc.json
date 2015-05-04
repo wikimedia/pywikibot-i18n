@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"makecat-create": "Robòt : Creacion o mesa a jorn de categoria [[:Category:%(cat)s|]]"
+}

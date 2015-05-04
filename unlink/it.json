@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Beta16"
 		]
 	},
-	"unlink-unlinking": "Bot: Eliminazione collegamenti a \"%s\""
+	"unlink-unlinking": "Bot: eliminazione collegamenti a \"%s\""
 }

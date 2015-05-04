@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Revi"
+			"Revi",
+			"IRTC1015"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "로봇: 동음이의어 문서 추가",
-	"lonelypages-comment-add-template": "로봇: 다른 문서를 링크하지 않는 문서, 틀 추가"
+	"lonelypages-comment-add-disambig-template": "봇: 동음이의어 문서 추가",
+	"lonelypages-comment-add-template": "봇: 외톨이 문서, 틀 추가"
 }

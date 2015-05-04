@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai"
+		]
+	},
+	"makecat-create": "बॉट: [[:Category:%(cat)s|]] का निर्माण/अद्यतन"
+}

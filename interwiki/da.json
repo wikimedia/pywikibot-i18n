@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Peter Alberti"
+			"Peter Alberti",
+			"MGA73"
 		]
 	},
-	"interwiki-modifying": "Robot ændrer %(modifying)s",
-	"interwiki-adding-modifying": "Robot tilføjer: %(adding)s og ændrer: %(modifying)s",
-	"interwiki-adding-removing": "Robot tilføjer: %(adding)s og fjerner: %(removing)s",
-	"interwiki-adding-removing-modifying": "Robot tilføjer: %(adding)s, fjerner: %(removing)s og ændrer: %(modifying)s",
-	"interwiki-adding": "Robot tilføjer %(adding)s",
-	"interwiki-removing": "Robot fjerner %(removing)s",
-	"interwiki-removing-modifying": "Robot fjerner: %(removing)s og ændrer: %(modifying)s",
+	"interwiki-modifying": "Robot: Ændrer %(modifying)s",
+	"interwiki-adding-modifying": "Robot: Tilføjer %(adding)s og ændrer %(modifying)s",
+	"interwiki-adding-removing": "Robot: Tilføjer %(adding)s og fjerner %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot: Tilføjer %(adding)s, fjerner %(removing)s og ændrer %(modifying)s",
+	"interwiki-adding": "Robot: Tilføjer %(adding)s",
+	"interwiki-removing": "Robot: Fjerner %(removing)s",
+	"interwiki-removing-modifying": "Robot: Fjerner %(removing)s og ændrer %(modifying)s",
 	"interwiki-modifying-from": "Robot: Ændrer %(from)s til %(modifying)s"
 }

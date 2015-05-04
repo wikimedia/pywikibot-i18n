@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Cyklopas",
-			"Eitvys200"
+			"Eitvys200",
+			"Aswanas"
 		]
 	},
-	"archivebot-older-than": "senesnis nei",
-	"archivebot-archive-full": "(ARCHYVAS PILNAS)"
+	"archivebot-older-than": "senesni nei %(duration)s",
+	"archivebot-page-summary": "Robotas: Archyvavimas %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) į %(archives)s.",
+	"archivebot-archive-full": "(ARCHYVAS PILNAS)",
+	"archivebot-archive-summary": "Robotas: Archyvavimas %(count)d {{PLURAL:%(count)d|thread|threads}} iš [[%(from)s]]."
 }

@@ -5,5 +5,5 @@
 			"Xuacu"
 		]
 	},
-	"capitalize_redirects-create-redirect": "Robó: Crear redireición a [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "Bot: Crear redireición a [[%(to)s]]"
 }

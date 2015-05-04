@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"replace-replacing": "Robó: Troquéu automáticu de testu %(description)s"
+	"replace-replacing": "Bot: Troquéu automáticu de testu %(description)s"
 }

@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "โรบอต เพิ่ม %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"add_text-adding": "บอต: เพิ่ม %(adding)s"
 }

@@ -4,5 +4,5 @@
 			"Xuacu"
 		]
 	},
-	"revertbot-revert": "Robó:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s"
+	"revertbot-revert": "Bot:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s"
 }

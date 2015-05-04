@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"commonscat-msg_change": "Bot: Modificat legătura commonscat din [[:Commons:Category:%(oldcat)s|%(oldcat)s]] în [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Marmase"
+			"Marmase",
+			"Mirzali"
 		]
 	},
 	"reflinks-autogen": "otomatik vıraziya",
 	"reflinks-comment": "Boti sername vıraşt",
-	"reflinks-msg": "Boto  referansane çerğbiyayışane mıracat kerdışan name keno , bıvin [[%(manual)s|FAQ]]"
+	"reflinks-msg": "Bot: Babetê mıracadê raşti (bıvêne [[%(manual)s|PZP]])"
 }

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai"
+		]
+	},
+	"commonscat-msg_change": "बॉट: कॉमन्स श्रेणी को [[:Commons:Category:%(oldcat)s|%(oldcat)s]] से बदलकर [[:Commons:Category:%(newcat)s|%(newcat)s]] कर रहा है"
+}

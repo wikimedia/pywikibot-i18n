@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswanas"
+		]
+	},
+	"revertbot-revert": "Robotas: Sugrįžti prie peržiūros %(revid)s pagal %(author)s pagal %(timestamp)s"
+}

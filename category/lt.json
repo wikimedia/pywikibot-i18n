@@ -4,9 +4,11 @@
 			"Cyklopas",
 			"Eitvys200",
 			"Hugo.arg",
-			"Mantak111"
+			"Mantak111",
+			"Aswanas"
 		]
 	},
+	"category-version-history": "Robotas: Išsaugo ankstesnės %(oldcat)s istorijos  versiją",
 	"category-changing": "Robotas: Keičiama %(oldcat)s į %(newcat)s",
 	"category-adding": "Robotas: Pridedama kategorija [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(taip pat ir %(alsocat)s)",
@@ -15,5 +17,6 @@
 	"category-removing": "robotas: šalinama iš %(oldcat)s",
 	"category-was-moved": "robotas: Kategorija pervadinta į [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "robotas: Perkelta iš %s. Autoriai: %s",
-	"category-section-title": "Puslapis istorija iš buvusio %(oldcat)s"
+	"category-section-title": "Puslapis istorija iš buvusio %(oldcat)s",
+	"category-listifying": "Robotas: Numeruoja nuo %(fromcat)s ({{PLURAL:%(num)d|1 įrašas|%(num)d įrašų}})"
 }

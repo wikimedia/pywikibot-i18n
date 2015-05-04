@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pio387"
+		]
+	},
+	"unprotect-links": "Robot odbezpiecza wszystkie artykuły, do których linkuje %(page)s",
+	"unprotect-simple": "Robot odbezpiecza pliki z listy.",
+	"unprotect-category": "Robot odbezpiecza wszystkie strony z kategorii %(cat)s",
+	"unprotect-images": "Robot odbezpiecza wszystkie pliki na stronie %(page)s"
+}

@@ -6,6 +6,7 @@
 		]
 	},
 	"weblinkchecker-archive_msg": "Saveteet eo bet ar bajenn Web gant Internet Archive. Marteze a-walc'h e c'hallfec'h lakaat al liamm da vukañ war-zu unan eus ar stummoù diellaouet : [%(URL)s].",
+	"weblinkchecker-badurl": "Al liamm roet n'eo ket un URL mat, a-hervez",
 	"weblinkchecker-caption": "Liamm dall",
 	"weblinkchecker-summary": "Robot : A gemenn ez eus ul liamm diavaez diziraezus",
 	"weblinkchecker-report": "E-pad meur a batrouilhenn robot n'eus ket bet gallet diaraez al liamm da-heul. Gwiriit mat eo dall al liamm e gwirionez ha mard eo, reizhit-eñ pe lamit-eñ."

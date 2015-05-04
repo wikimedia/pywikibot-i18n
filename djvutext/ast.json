@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"djvutext-creating": "Robó: Creando una páxina con testu sacáu de DjVu"
+	"djvutext-creating": "Bot: Creando una páxina con testu sacáu de DjVu"
 }

@@ -5,6 +5,6 @@
 		]
 	},
 	"reflinks-autogen": "xeneráu automáticamente",
-	"reflinks-comment": "Títulu xeneráu por un robó",
-	"reflinks-msg": "Robó: Convertiendo referencies pures, usando los nomes de ref pa evitar duplicaos, vea [[%(manual)s|FAQ]]"
+	"reflinks-comment": "Títulu xeneráu por un bot",
+	"reflinks-msg": "Bot: Convertiendo referencies pures, usando los nomes de ref pa evitar duplicaos, llei la [[%(manual)s|FAQ]]"
 }

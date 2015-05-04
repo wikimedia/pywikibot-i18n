@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
-	"cosmetic_changes-standalone": "로봇: 예쁘게 바꿈",
+	"@metadata": {
+		"authors": [
+			"IRTC1015"
+		]
+	},
+	"cosmetic_changes-standalone": "봇: 예쁘게 바꿈",
 	"cosmetic_changes-append": "; 예쁘게 바꿈"
 }

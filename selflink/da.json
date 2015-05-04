@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"selflink-remove": "Bot: fjerner selvreference"
+	"@metadata": {
+		"authors": [
+			"MGA73"
+		]
+	},
+	"selflink-remove": "Robot: Fjerner selvreference"
 }

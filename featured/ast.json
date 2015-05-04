@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"featured-good": "Robó: %(page)s ye un artículu bonu",
-	"featured-list": "Robó: %(page)s ye una llista destacada",
-	"featured-featured": "Robó: %(page)s ye un artículu destacáu",
-	"featured-former": "Robó: %(page)s ye un artículu destacáu anterior"
+	"featured-good": "Bot: %(page)s ye un artículu bonu",
+	"featured-list": "Bot: %(page)s ye una llista destacada",
+	"featured-featured": "Bot: %(page)s ye un artículu destacáu",
+	"featured-former": "Bot: %(page)s ye un artículu destacáu anterior"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shubhamkanodia"
+			"Shubhamkanodia",
+			"Siddhartha Ghai"
 		]
 	},
-	"add_text-adding": "रोबोट:%(adding)s जोड़ रहा है"
+	"add_text-adding": "बॉट: %(adding)s जोड़ रहा है"
 }

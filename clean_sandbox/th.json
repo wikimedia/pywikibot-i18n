@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"clean_sandbox-cleaned": "โรบอต: กำลังจะเก็บกวาดหน้านี้โดยอัตโนมัติ"
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"clean_sandbox-cleaned": "บอต: เก็บกวาดโดยอัตโนมัติ"
 }

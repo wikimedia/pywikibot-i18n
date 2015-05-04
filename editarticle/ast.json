@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"editarticle-edit": "Edición manual con robó: %(description)s"
+	"editarticle-edit": "Edición manual con bot: %(description)s"
 }

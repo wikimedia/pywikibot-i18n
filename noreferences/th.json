@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"noreferences-add-tag": "โรบอต: เพิ่มแท็ก <references /> ที่หายไป"
+	"noreferences-add-tag": "บอต: เพิ่มแท็ก <references /> ที่หายไป"
 }

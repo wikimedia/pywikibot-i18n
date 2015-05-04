@@ -5,7 +5,8 @@
 			"DrTrigon",
 			"Gomoko",
 			"Grondin",
-			"Od1n"
+			"Od1n",
+			"Hercule"
 		]
 	},
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
@@ -16,7 +17,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nouvelle discussion",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s : <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - dernière modification par [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notification",
-	"thirdparty-drtrigonbot-subster-summary-mod": "substitution de(s) balise(s) %(tags)s",
+	"thirdparty-drtrigonbot-subster-summary-mod": "substitution des balises %(tags)s",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussion fermée",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s : %(page)s toutes les discussions sont terminées (surveillance stoppée) - dernière modification par %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Sommaire de la discussion ajouté : %(num)i entrées",

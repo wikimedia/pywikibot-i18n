@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Steenth"
+			"Steenth",
+			"MGA73"
 		]
 	},
 	"weblinkchecker-archive_msg": "Websiden er blevet gemt af Internet Archive. Overvej sammenkædning til en passende arkiveret version: [%(URL)s].",
+	"weblinkchecker-badurl": "Henvisningen ser ikke ud til at være en gyldig URL",
 	"weblinkchecker-caption": "Dødt link",
 	"weblinkchecker-summary": "Robot: Rapporterer utilgængeligt eksternt link",
 	"weblinkchecker-report": "Følgende eksterne link har ikke været tilgængelige efter flere forsøg fra en automatiseret robot. Kontroller, at linket faktisk er nede, løs det eller fjern det i så fald!"

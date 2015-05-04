@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"interwiki-modifying": "โรบอต แก้ไข: %(modifying)s",
-	"interwiki-adding-modifying": "โรบอต เพิ่ม: %(adding)s แก้ไข: %(modifying)s",
-	"interwiki-adding-removing": "โรบอต เพิ่ม: %(adding)s ลบ: %(removing)s",
-	"interwiki-adding-removing-modifying": "โรบอต เพิ่ม: %(adding)s ลบ: %(removing)s แก้ไข: %(modifying)s",
-	"interwiki-adding": "โรบอต เพิ่ม: %(adding)s",
-	"interwiki-removing": "โรบอต ลบ: %(removing)s",
-	"interwiki-removing-modifying": "โรบอต ลบ: %(removing)s แก้ไข: %(modifying)s",
-	"interwiki-modifying-from": "โรบอต: แก้ไขจาก %(from)s ไปเป็น %(modifying)s"
+	"interwiki-modifying": "บอต: แก้ไข %(modifying)s",
+	"interwiki-adding-modifying": "บอต: เพิ่ม %(adding)s; แก้ไข %(modifying)s",
+	"interwiki-adding-removing": "บอต: เพิ่ม %(adding)s; ลบ %(removing)s",
+	"interwiki-adding-removing-modifying": "บอต: เพิ่ม %(adding)s; ลบ %(removing)s; แก้ไข %(modifying)s",
+	"interwiki-adding": "บอต: เพิ่ม %(adding)s",
+	"interwiki-removing": "บอต: ลบ %(removing)s",
+	"interwiki-removing-modifying": "บอต: ลบ %(removing)s; แก้ไข %(modifying)s",
+	"interwiki-modifying-from": "บอต: แก้ไขจาก %(from)s ไปเป็น %(modifying)s"
 }

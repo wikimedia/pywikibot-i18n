@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"featured-good": "โรบอต: %(page)s เป็นบทความคุณภาพ",
+	"featured-good": "บอต: %(page)s เป็นบทความคุณภาพ",
 	"featured-list": "บอต: %(page)s เป็นรายชื่อคัดสรร",
-	"featured-featured": "โรบอต: ลิงก์บทความคัดสรร %(page)s",
-	"featured-former": "โรบอต: %(page)s เคยเป็นบทความคัดสรร"
+	"featured-featured": "บอต: %(page)s เป็นบทความคัดสรร",
+	"featured-former": "บอต: %(page)s เป็นอดีตบทความคัดสรร"
 }

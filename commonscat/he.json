@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"commonscat-msg_change": "בוט: משנה קישור commonscat מ־[[:Commons:Category:%(oldcat)s|%(oldcat)s]] ל־[[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"interwiki-modifying": "Robó: Modificando %(modifying)s",
-	"interwiki-adding-modifying": "Robó: Añadiendo %(adding)s; modificando %(modifying)s",
-	"interwiki-adding-removing": "Robó: Añadiendo %(adding)s; desaniciando %(removing)s",
-	"interwiki-adding-removing-modifying": "Robó: Añadiendo %(adding)s; desaniciando %(removing)s; modificando %(modifying)s",
-	"interwiki-adding": "Robó: Añadiendo %(adding)s",
-	"interwiki-removing": "Robó: Desaniciando %(removing)s",
-	"interwiki-removing-modifying": "Robó: Desaniciando %(removing)s; modificando %(modifying)s",
-	"interwiki-modifying-from": "Robó: Camudando %(from)s a %(modifying)s"
+	"interwiki-modifying": "Bot: Camudando %(modifying)s",
+	"interwiki-adding-modifying": "Bot: Añadiendo %(adding)s; camudando %(modifying)s",
+	"interwiki-adding-removing": "Bot: Añadiendo %(adding)s; desaniciando %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Añadiendo %(adding)s; desaniciando %(removing)s; camudando %(modifying)s",
+	"interwiki-adding": "Bot: Añadiendo %(adding)s",
+	"interwiki-removing": "Bot: Desaniciando %(removing)s",
+	"interwiki-removing-modifying": "Bot: Desaniciando %(removing)s; camudando %(modifying)s",
+	"interwiki-modifying-from": "Bot: Camudando %(from)s a %(modifying)s"
 }

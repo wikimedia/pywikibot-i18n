@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shubhamkanodia"
+			"Shubhamkanodia",
+			"Siddhartha Ghai"
 		]
 	},
-	"djvutext-creating": "रोबोट: DjVu से निकाले गए पाठ के साथ पृष्ठ बनाया जा रहा है"
+	"djvutext-creating": "बॉट: DjVu से निकाले गए पाठ के साथ पृष्ठ बनाया जा रहा है"
 }

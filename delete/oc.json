@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"delete-images": "Robòt : Suprimís totes los fichièrs sus la pagina %(page)s",
+	"delete-referring-pages": "Robòt : Suprimís totas las paginas que referisson a %(page)s",
+	"delete-from-category": "Robòt : Suprimís totas las paginas de la categoria %(page)s",
+	"delete-from-file": "Robòt : Supression d’una lista de paginas.",
+	"delete-linked-pages": "Robòt : Suprimís totas las paginas ligadas dempuèi %(page)s"
+}

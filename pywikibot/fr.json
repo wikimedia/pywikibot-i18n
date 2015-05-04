@@ -3,7 +3,7 @@
 		"authors": [
 			"Gomoko",
 			"Romainhk",
-                        "Tavernier"
+			"Tavernier"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Veuillez entrer le nom du fichier d'extraction XML:",

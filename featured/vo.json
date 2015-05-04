@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Malafaya"
+		]
+	},
+	"featured-good": "Bot: Pad: %(page)s binon yeged gudik",
 	"featured-featured": "Bot: Yüm yegeda gudik tefü %(page)s"
 }

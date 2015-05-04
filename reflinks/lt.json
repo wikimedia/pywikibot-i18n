@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswanas"
+		]
+	},
+	"reflinks-autogen": "Automatiškai sugeneruotas",
+	"reflinks-comment": "Roboto sugeneruotas pavadinimas",
+	"reflinks-msg": "Robotas: Konvertuoja paprastas nuorodas, naudojant nuorodų pavadinimus, kad išvengti pasikartojimų, žr. [[%(manual)s|FAQ]]"
+}

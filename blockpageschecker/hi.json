@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shubhamkanodia"
+			"Shubhamkanodia",
+			"Siddhartha Ghai"
 		]
 	},
-	"blockpageschecker-summary": "बॉट:अप्रचलित साँचो को हटाया जा रहा है"
+	"blockpageschecker-summary": "बॉट: पुराने साँचे को हटाया जा रहा है"
 }

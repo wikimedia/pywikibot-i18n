@@ -8,5 +8,6 @@
 	"category-adding": "Bot: läükon: category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(i in %(alsocat)s)",
 	"category-removing": "bot moükon se %(oldcat)s",
-	"category-was-moved": "bot petopätükon kladi lü [[:Category:%(newcat)s|%(title)s]]"
+	"category-was-moved": "bot petopätükon kladi lü [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "Bot: Petopätüköl de %2. Lautans: %2"
 }

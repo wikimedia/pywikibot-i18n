@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shubhamkanodia"
+			"Shubhamkanodia",
+			"Siddhartha Ghai"
 		]
 	},
-	"editarticle-edit": "रोबोट के साथ मैनुअल संपादन: %(description)s"
+	"editarticle-edit": "बॉट के साथ मैनुअल संपादन: %(description)s"
 }

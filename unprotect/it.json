@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"unprotect-links": "Bot: sprotezione di tutte le pagine collegate a %(page)s",
+	"unprotect-simple": "Bot: sprotezione di una lista di file.",
+	"unprotect-category": "Bot: sprotezione di tutte le pagine nella categoria %(cat)s",
+	"unprotect-ref": "Bot: sprotezione di tutte le pagine con link da %(page)s",
+	"unprotect-images": "Bot: sprotezione di tutte le immagini contenute nella pagina %(page)s"
+}

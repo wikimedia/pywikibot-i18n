@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"fixing_redirects-fixing": "Robó: Iguando redireiciones"
+	"fixing_redirects-fixing": "Bot: Iguando redireiciones"
 }

@@ -4,10 +4,11 @@
 			"Hym411",
 			"Priviet",
 			"Revi",
-			"아라"
+			"아라",
+			"IRTC1015"
 		]
 	},
-	"casechecker-replacement-summary": "로봇: 대소문자 교체:",
+	"casechecker-replacement-summary": "봇: 대소문자 교체:",
 	"casechecker-delete-summary": "봇: 이 넘겨주기는 제목에 키릴 문자 또는 라틴 문자를 포함합니다.",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "이 넘겨주기는 %(target)s를 가리킵니다",

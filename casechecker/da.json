@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Christian List"
+			"Christian List",
+			"MGA73"
 		]
 	},
 	"casechecker-replacement-summary": "Robot: Udskifter store og små bogstaver:",
 	"casechecker-delete-summary": "Robot: Denne omdirigering indeholder identisk udseende kyrilliske og latinske bogstaver i sin titel",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Denne omdirigering pegede tidligere på %(target)s",
-	"casechecker-rename": "Robot: omdøbning pga. blandede bogstaver"
+	"casechecker-rename": "Robot: Omdøbning pga. blanding af store og små bogstaver"
 }

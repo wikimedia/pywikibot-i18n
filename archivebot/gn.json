@@ -4,5 +4,7 @@
 			"P. S. F. Freitas"
 		]
 	},
-	"archivebot-older-than": "itujaveva"
+	"archivebot-older-than": "ymaguareve %(duration)s gui",
+	"archivebot-page-summary": "Bot: jehai'aty %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) oĩ %(archives)s.",
+	"archivebot-archive-full": "(JEHAI'ATY CHOVI)"
 }

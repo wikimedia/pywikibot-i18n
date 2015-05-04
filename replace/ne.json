@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"RajeshPandey"
+			"RajeshPandey",
+			"सरोज कुमार ढकाल"
 		]
 	},
-	"replace-replacing": "बोट: स्वचालित रुपमा हरफहरु परिवर्तन गरिएको %(description)s"
+	"replace-replacing": "बोट: स्वचालित पाठ परिवर्तन %(description)s"
 }

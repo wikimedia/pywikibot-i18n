@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"IRTC1015"
 		]
 	},
-	"djvutext-creating": "로봇: DjVu에서 추출한 문장으로 문서를 만듦"
+	"djvutext-creating": "봇: DjVu에서 추출한 문장으로 문서를 만듦"
 }

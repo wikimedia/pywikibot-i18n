@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"djvutext-creating": "โรบอต: สร้างหน้าโดยเนื้อหานำมาจาก DjVu"
+	"djvutext-creating": "บอต: สร้างหน้าโดยเนื้อหานำมาจาก DjVu"
 }

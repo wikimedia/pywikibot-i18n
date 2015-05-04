@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
 	"welcome-welcome": "ยินดีต้อนรับ!",
-	"welcome-bad_username": "โรบอต: เพิ่มชื่อผู้ใช้ที่ต้องการการตรวจสอบ",
-	"welcome-updating": "โรบอต: กำลังปรับปรุงปูม"
+	"welcome-bad_username": "บอต: เพิ่มชื่อผู้ใช้ที่ต้องการการตรวจสอบ",
+	"welcome-updating": "บอต: ปรับปรุงปูม"
 }

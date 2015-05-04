@@ -4,7 +4,7 @@
 			"Dragonòt"
 		]
 	},
-	"archivebot-older-than": "pi vej che",
+	"archivebot-older-than": "pi vej che %(duration)s",
 	"archivebot-page-summary": "Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] (%(why)s) an %(archives)s.",
 	"archivebot-archive-full": "(ARCHIVI PIEN)",
 	"archivebot-archive-summary": "Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] da [[%(from)s]]."

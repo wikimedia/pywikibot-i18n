@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Revi"
+			"Revi",
+			"IRTC1015"
 		]
 	},
-	"makecat-create": "로봇: 분류 생성 및 업데이트 [[:Category:%(cat)s|]]"
+	"makecat-create": "봇: [[:Category:%(cat)s|]] 분류 생성 및 갱신"
 }

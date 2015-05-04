@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"commonscat-msg_change": "Bot: modifica il collegamento alla categoria di Commons da [[:Commons:Category:%(oldcat)s|%(oldcat)s]] a [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

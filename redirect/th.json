@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"redirect-fix-double": "โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s",
-	"redirect-remove-broken": "โรบอต: หน้าเปลี่ยนทางเสีย",
-	"redirect-fix-broken-moved": "โรบอต: แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s",
-	"redirect-fix-loop": "โรบอต: แก้หน้าเปลี่ยนทางวนรอบ → %(to)s",
-	"redirect-remove-loop": "โรบอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ",
+	"redirect-fix-double": "บอต: แก้หน้าเปลี่ยนทางซ้ำซ้อนไปเป็น %(to)s",
+	"redirect-remove-broken": "บอต: หน้าเปลี่ยนทางถูกลบหรือหน้าไม่มีอยู่",
+	"redirect-fix-broken-moved": "บอต: แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s",
+	"redirect-fix-loop": "บอต: แก้หน้าเปลี่ยนทางวนรอบไปเป็น %(to)s",
+	"redirect-remove-loop": "บอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ",
 	"redirect-broken-redirect-template": "{{ลบ|หน้าเปลี่ยนทางเสีย}}"
 }

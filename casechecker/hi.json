@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shubhamkanodia"
+			"Shubhamkanodia",
+			"Siddhartha Ghai"
 		]
 	},
-	"casechecker-replacement-summary": "बॉट: केस (case) प्रतिस्थापन :",
-	"casechecker-delete-summary": "बॉट: इस पुनर्निर्देशन के शीर्षक में सामान दिखने वाले सिरिलिक और लैटिन वर्ण हैं",
+	"casechecker-replacement-summary": "बॉट: केस (case) प्रतिस्थापन:",
+	"casechecker-delete-summary": "बॉट: इस पुनर्प्रेषण के शीर्षक में सामान दिखने वाले सिरिलिक और लैटिन वर्ण हैं",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-delete-reason": "यह अनुप्रेषण पहले %(target)s को पॉइंट करता था",
+	"casechecker-delete-reason": "यह पुनर्प्रेषण पहले %(target)s को जाता था",
 	"casechecker-rename": "बॉट: मिश्रित केस का नाम बदला"
 }

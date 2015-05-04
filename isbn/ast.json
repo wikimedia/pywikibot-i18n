@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"isbn-formatting": "Robó: Formatiando l'ISBN"
+	"isbn-formatting": "Bot: Dando formatu ISBN"
 }

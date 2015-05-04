@@ -14,7 +14,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Meddeilong",
 	"thirdparty-drtrigonbot-subster-summary-mod": "usjetuusch: %(tags)s Makeerong(e)",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Dä Klaaf es vörbei.",
-	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s alle Diskußjuhne sin eröm (Mer han mem Oppasse opjehüert) - de letzte Änderong es vum %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s alle Diskußjuhne sin eröm (Mer han mem Oppaßße opjehüert) - de läzde Änderong es vum %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "En Zosammefassong vun dä Diskußjuhn wood aanjeföösch: %(num)i Enndrääsch.",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "De Diskußjuhn wood verändert.",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "En Zosammefassong vun dä Diskußjuhn wood aanjeföösch un opjerühmp: %(num)i Enndrääsch.",

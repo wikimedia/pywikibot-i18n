@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Christian List"
+			"Christian List",
+			"MGA73"
 		]
 	},
-	"protect-links": "Robot: Beskytter alle sider som henvises fra %(page)s",
+	"protect-links": "Robot: Beskytter alle sider som henvises til fra %(page)s",
 	"protect-simple": "Robot: Beskytter en liste af filer.",
-	"protect-category": "Robot: Beskytter alle sider fra kategorien %(cat)s",
-	"protect-ref": "Robot: Beskytter alle sider som henviser fra %(page)s",
+	"protect-category": "Robot: Beskytter alle sider i kategorien %(cat)s",
+	"protect-ref": "Robot: Beskytter alle sider som henviser til %(page)s",
 	"protect-images": "Robot: Beskytter alle billeder på siden %(page)s"
 }

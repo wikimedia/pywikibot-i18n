@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Caliburn"
+		]
+	},
+	"welcome-welcome": "Welcome!",
+	"welcome-bad_username": "Bot: Adding a username that needs to be checked",
+	"welcome-updating": "Bot: Updating log"
+}

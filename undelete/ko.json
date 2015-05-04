@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"IRTC1015"
+		]
+	},
+	"undelete-from-file": "봇: 목록의 문서를 되살림",
+	"undelete-images": "봇: %(page)s 문서에 사용된 모든 그림을 되살림",
+	"undelete-linked-pages": "봇: %(page)s 문서에서 가리키는 모든 문서를 되살림"
+}

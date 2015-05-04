@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hugo.arg"
+			"Hugo.arg",
+			"Aswanas"
 		]
 	},
 	"redirect-fix-double": "robotas: Taisomas dvigubas peradresavimas → %(to)s",
-	"redirect-remove-broken": "robotas: peradresavimas į ištrintą ar nesantį puslapį"
+	"redirect-remove-broken": "robotas: peradresavimas į ištrintą ar nesantį puslapį",
+	"redirect-fix-broken-moved": "Robotas: Pataiso sugadintą nuorodą į perkeltą puslapį %(to)s",
+	"redirect-fix-loop": "Robotas: Pataiso nukreipimo ciklą į %(to)s",
+	"redirect-remove-loop": "Bot: Nukreipimo tikslas formuoja nukreipimo ciklą"
 }

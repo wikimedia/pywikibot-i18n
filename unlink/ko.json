@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"IRTC1015"
 		]
 	},
-	"unlink-unlinking": "로봇: \"%s\" 링크 제거 중"
+	"unlink-unlinking": "봇: \"%s\" 링크 제거"
 }

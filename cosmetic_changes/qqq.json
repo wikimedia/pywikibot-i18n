@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Macofe"
 		]
 	},
 	"cosmetic_changes-standalone": "Summary message when the bot using cosmetic changes as a stand-alone script",

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"NoiX180"
+			"NoiX180",
+			"Macofe"
 		]
 	},
-	"commons-file-moved": "[[:Berkas:%(localfile)s|Berkas]] dipindhahaké nèng [[:commons:Berkas:%(commonsfile)s|commons]].",
+	"commons-file-moved": "[[:File:%(localfile)s|Berkas]] dipindhahaké nèng [[:commons:File:%(commonsfile)s|commons]].",
 	"commons-file-now-available": "Berkas saiki wis sumadhiya nèng [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
 }

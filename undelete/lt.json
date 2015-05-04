@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswanas"
+		]
+	},
+	"undelete-from-file": "Robotas: Ištrinamas puslapių sąrašas",
+	"undelete-images": "Robotas: Sugrąžinamos visos puslapio %(page)s nuotraukos",
+	"undelete-linked-pages": "Robotas: Sugrąžinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"IRTC1015"
+		]
+	},
+	"commonscat-msg_change": "봇: 위키공용분류 링크를 [[:Commons:Category:%(oldcat)s|%(oldcat)s]]에서 [[:Commons:Category:%(newcat)s|%(newcat)s]]로 바꿈"
+}

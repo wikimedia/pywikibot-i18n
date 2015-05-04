@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"add_text-adding": "Robó: Añadiendo %(adding)s"
+	"add_text-adding": "Bot: Añadiendo %(adding)s"
 }

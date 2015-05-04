@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pio387"
+		]
+	},
+	"undelete-from-file": "Robot przywraca strony z listy",
+	"undelete-images": "Robot przywraca wszystkie pliki na stronie %(page)s",
+	"undelete-linked-pages": "Robot przywraca wszystkie strony do których linkuje %(page)s"
+}

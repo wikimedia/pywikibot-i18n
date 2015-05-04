@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"isbn-formatting": "โรบอต: การจัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ"
+	"isbn-formatting": "บอต: จัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ"
 }

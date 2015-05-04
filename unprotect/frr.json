@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"unprotect-links": "Bot: Seekrang faan aal a sidjen mä ferwisangen faan %(page)s apheew",
+	"unprotect-simple": "Bot: Seekrang faan en list faan datein apheew",
+	"unprotect-category": "Bot: Seekrang faan aal a sidjen uun det kategorii %(cat)s apheew",
+	"unprotect-ref": "Bot: Seekrang faan aal a sidjen, diar üüb %(page)s ferwise, apheew",
+	"unprotect-images": "Bot: Seekrang faan aal a datein üüb det sidj %(page)s apheew"
+}

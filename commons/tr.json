@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Khutuck"
+			"Khutuck",
+			"Macofe"
 		]
 	},
-	"commons-file-moved": "[[:Dosya:%(localfile)s|Dosya]], [[:commons:File:%(commonsfile)s|commons]] sitesine taşındı.",
+	"commons-file-moved": "[[:File:%(localfile)s|Dosya]], [[:commons:File:%(commonsfile)s|commons]] sitesine taşındı.",
 	"commons-file-now-available": "Dosya artık [[:commons:File:%(commonsfile)s|Wikimedia Commons]] projesinde bulunmaktadır."
 }

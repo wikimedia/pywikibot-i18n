@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Priviet",
-			"아라"
+			"아라",
+			"IRTC1015"
 		]
 	},
-	"pywikibot-enter-xml-filename": "XML 덤프의 파일 이름을 입력하세요:",
+	"pywikibot-enter-xml-filename": "XML 덤프 파일 이름을 입력하세요:",
 	"pywikibot-enter-page-processing": "어떤 문서를 처리하시겠습니까?",
 	"pywikibot-enter-file-links-processing": "어떤 파일 문서로 연결된 링크를 처리하시겠습니까?",
 	"pywikibot-enter-namespace-number": "이름공간 번호를 입력하세요:",
 	"pywikibot-enter-new-text": "새 텍스트를 입력하세요:",
 	"pywikibot-enter-category-name": "분류 이름을 입력하세요:",
-	"pywikibot-enter-finished-browser": "브라우저에서 완료하면 Enter를 누르세요."
+	"pywikibot-enter-finished-browser": "브라우저에서 작업이 끝나면 엔터 키를 누르세요."
 }

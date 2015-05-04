@@ -5,7 +5,7 @@
 			"Умар"
 		]
 	},
-	"category-version-history": "бот: историн верси Ӏалашяр хиллачу %(oldcat)s чура",
+	"category-version-history": "бот: историн верси Ӏалашъяр хиллачу %(oldcat)s чура",
 	"category-changing": "бото хийцина: %(oldcat)s → %(newcat)s",
 	"category-adding": "робот: тIетоьхна Категори [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(кхин %(alsocat)s) чохь",

@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shubhamkanodia"
+			"Shubhamkanodia",
+			"Siddhartha Ghai"
 		]
 	},
-	"featured-good": "रोबोट: %(page)s एक अच्छा लेख है",
-	"featured-list": "रोबोट: %(page)s एक निर्वाचित सूची है",
-	"featured-featured": "रोबोट: %(page)s एक निर्वाचित लेख है",
-	"featured-former": "रोबोट: %(page)s एक पूर्व निर्वाचित लेख है"
+	"featured-good": "बॉट: %(page)s एक अच्छा लेख है",
+	"featured-list": "बॉट: %(page)s एक निर्वाचित सूची है",
+	"featured-featured": "बॉट: %(page)s एक निर्वाचित लेख है",
+	"featured-former": "बॉट: %(page)s एक पूर्व निर्वाचित लेख है"
 }

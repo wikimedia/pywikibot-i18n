@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"pywikibot-enter-page-processing": "หน้าไหนที่จะประมวลผล",
+	"pywikibot-enter-page-processing": "หน้าใดควรจะประมวลผล?",
 	"pywikibot-enter-namespace-number": "กรุณาใส่หมายเลขของเนมสเปซ:",
 	"pywikibot-enter-new-text": "กรุณาใส่ข้อความใหม่:",
 	"pywikibot-enter-category-name": "กรุณาใส่ชื่อหมวดหมู่:",

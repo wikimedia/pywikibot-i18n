@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Esbardu"
+			"Esbardu",
+			"Xuacu"
 		]
 	},
-	"cosmetic_changes-standalone": "Robó: Cambeos cosméticos",
-	"cosmetic_changes-append": "; cambeos cosméticos"
+	"cosmetic_changes-standalone": "Bot: Cambios cosméticos",
+	"cosmetic_changes-append": "; cambios cosméticos"
 }

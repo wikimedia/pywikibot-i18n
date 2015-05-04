@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siddhartha Ghai"
+		]
+	},
+	"undelete-from-file": "बॉट: पृष्ठों की एक सूची पुनर्स्थापित कर रहा है",
+	"undelete-images": "बॉट: %(page)s पृष्ठ पर मौजूद सभी चित्र पुनर्स्थापित कर रहा है",
+	"undelete-linked-pages": "बॉट: %(page)s से जुड़े सभी पृष्ठ पुनर्स्थापित कर रहा है"
+}

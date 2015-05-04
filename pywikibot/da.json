@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Kaare"
+			"Kaare",
+			"MGA73"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Skriv XML-dumpets filnavn:",
 	"pywikibot-enter-page-processing": "Hvilken side skal behandles?",
-	"pywikibot-enter-file-links-processing": "Links til hvilken fil side skal behandles?",
+	"pywikibot-enter-file-links-processing": "Links til hvilken fil side der skal behandles?",
 	"pywikibot-enter-namespace-number": "Angiv et navnerum via dets nummer:",
 	"pywikibot-enter-new-text": "Skriv den nye tekst:",
 	"pywikibot-enter-category-name": "Skriv kategorinavnet:",

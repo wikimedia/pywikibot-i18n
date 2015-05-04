@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hugo.arg",
-			"Xqt"
+			"Xqt",
+			"Cedric31"
 		]
 	},
 	"interwiki-modifying": "Robòt Modificar: %(modifying)s",
@@ -11,5 +12,6 @@
 	"interwiki-adding-removing-modifying": "Robòt Apondre: %(adding)s Tirar: %(removing)s Modificar: %(modifying)s",
 	"interwiki-adding": "Robòt Apondre: %(adding)s",
 	"interwiki-removing": "Robòt Tirar: %(removing)s",
-	"interwiki-removing-modifying": "Robòt Tirar: %(removing)s Modificar: %(modifying)s"
+	"interwiki-removing-modifying": "Robòt Tirar: %(removing)s Modificar: %(modifying)s",
+	"interwiki-modifying-from": "Robòt : modificacion de %(from)s a %(modifying)s"
 }

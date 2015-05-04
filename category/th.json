@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"category-changing": "โรบอต: เปลี่ยนจาก %(oldcat)s ไปยัง %(newcat)s",
-	"category-adding": "โรบอต: เพิ่มหมวดหมู่ [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-replacing": "โรบอต: แทนที่หมวดหมู่ %(oldcat)s ด้วย %(newcat)s",
-	"category-removing": "โรบอต: ลบออกจาก %(oldcat)s",
-	"category-was-moved": "โรบอต: หมวดหมู่ได้ย้ายไป [[:Category:%(newcat)s|%(title)s]]",
-	"category-renamed": "โรบอต: ย้ายจาก %s ผู้เขียนเดิม:"
+	"category-changing": "บอต: เปลี่ยนจาก %(oldcat)s ไปยัง %(newcat)s",
+	"category-adding": "บอต: เพิ่มหมวดหมู่ [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-replacing": "บอต: แทนที่หมวดหมู่ %(oldcat)s ด้วย %(newcat)s",
+	"category-removing": "บอต: ลบออกจาก %(oldcat)s",
+	"category-was-moved": "บอต: หมวดหมู่ได้ย้ายไป [[:Category:%(newcat)s|%(title)s]]",
+	"category-renamed": "บอต: ย้ายจาก %s ผู้เขียนเดิม:"
 }

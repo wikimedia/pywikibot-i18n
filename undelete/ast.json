@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"undelete-from-file": "Bot: Restaurando una llista de páxines",
+	"undelete-images": "Bot: Restaurando toles imaxes de la páxina %(page)s",
+	"undelete-linked-pages": "Bot: Restaurando toles páxines enllazaes dende %(page)s"
+}

@@ -5,6 +5,6 @@
 			"Mor"
 		]
 	},
-	"commons-file-moved": "[[:File:%(localfile)s|File]] movido a [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-moved": "[[:File:%(localfile)s|Archivo]] trasladado a [[:commons:File:%(commonsfile)s|Commons]].",
 	"commons-file-now-available": "El archivo ya está disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
 }

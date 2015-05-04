@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"unprotect-links": "Robot : O tielmel gwarezadur an holl bajennoù liammet adalek %(page)s",
+	"unprotect-simple": "Robot : O lemel gwarezadur ul listennad restroù.",
+	"unprotect-category": "Robot : O tilemel gwarezadur an holl bajennoù eus ar rummad %(cat)s",
+	"unprotect-ref": "Robot : O tilemel gwarezadur an holl bajennoù a ra dave da %(page)s",
+	"unprotect-images": "Robot : O tilemel gwarezadur an holl skeudennoù war ar bajenn %(page)s"
+}

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"IRTC1015"
 		]
 	},
-	"isbn-formatting": "로봇: ISBN 형식 지정"
+	"isbn-formatting": "봇: ISBN 형식 수정"
 }

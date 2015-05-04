@@ -6,7 +6,7 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "भन्दा पुरानो",
+	"archivebot-older-than": "%(duration)s भन्दा पुरानो",
 	"archivebot-page-summary": "रोबोट: %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s)लाई  %(archives)s मा अभिलेखिकरण गरिँदै",
 	"archivebot-archiveheader": "{{Talkarchive}}",
 	"archivebot-archive-full": "(पूरा अभिलेख)",

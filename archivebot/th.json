@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"archivebot-older-than": "เก่ากว่า",
-	"archivebot-archiveheader": "{{กรุ}}"
+	"archivebot-older-than": "เก่ากว่า %(duration)s",
+	"archivebot-archiveheader": "{{กรุ}}",
+	"archivebot-archive-full": "(กรุเต็ม)"
 }

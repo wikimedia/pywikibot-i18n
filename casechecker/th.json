@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"casechecker-replacement-summary": "บอต: เปลี่ยนอักษรตัวเล็กตัวใหญ่",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}

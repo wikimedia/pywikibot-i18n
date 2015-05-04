@@ -3,11 +3,13 @@
 		"authors": [
 			"Aurimas Fischer",
 			"Hugo.arg",
-			"Mantak111"
+			"Mantak111",
+			"Aswanas"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Prašome įvesti XML iškelties failo vardą:\n:",
 	"pywikibot-enter-page-processing": "Kuris puslapis turėtų būti tvarkomas?",
+	"pywikibot-enter-file-links-processing": "Nurodo, kuris failo puslapis turėtų būti tvarkomas?",
 	"pywikibot-enter-namespace-number": "Įvestkite vardų srities numerį:",
 	"pywikibot-enter-new-text": "Įveskite naują tekstą:",
 	"pywikibot-enter-category-name": "Įveskite kategorijos pavadinimą:",

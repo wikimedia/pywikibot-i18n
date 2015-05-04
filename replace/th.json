@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"replace-replacing": "โรบอต: แทนที่ข้อความโดยอัตโนมัติ %(description)s"
+	"replace-replacing": "บอต: แทนที่ข้อความโดยอัตโนมัติ %(description)s"
 }
