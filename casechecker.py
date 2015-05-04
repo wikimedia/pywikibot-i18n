@@ -32,10 +32,10 @@ msg = {
     # Author: Xuacu
     'ast': {
         'casechecker-delete-reason': u'Esta redireición antes apuntaba a "%(target)s"',
-        'casechecker-delete-summary': u'Robó: Esta redireición contién nel títulu caráuteres cirílicos y llatinos col mesmu aspeutu',
-        'casechecker-rename': u'Robó: renomáu l\'entemecíu de mayúscules/minúscules',
+        'casechecker-delete-summary': u'Bot: Esta redireición contien nel títulu caráuteres cirílicos y llatinos col mesmu aspeutu',
+        'casechecker-rename': u'Bot: renomáu con mayúscules/minúscules entemecíes',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-        'casechecker-replacement-summary': u'Robó: Sustitución de mayúscules/minúscules:',
+        'casechecker-replacement-summary': u'Bot: Sustitución de mayúscules/minúscules:',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -123,10 +123,11 @@ msg = {
         'casechecker-replacement-summary': u'Robot změnil velikost písmen:',
     },
     # Author: Christian List
+    # Author: MGA73
     'da': {
         'casechecker-delete-reason': u'Denne omdirigering pegede tidligere på %(target)s',
         'casechecker-delete-summary': u'Robot: Denne omdirigering indeholder identisk udseende kyrilliske og latinske bogstaver i sin titel',
-        'casechecker-rename': u'Robot: omdøbning pga. blandede bogstaver',
+        'casechecker-rename': u'Robot: Omdøbning pga. blanding af store og små bogstaver',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Robot: Udskifter store og små bogstaver:',
     },
@@ -205,6 +206,7 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s → %(target)s',
         'casechecker-replacement-summary': u'Bot: Skriiwwiisen feranert:',
     },
+    # Author: Elisardojm
     # Author: Robin0van0der0vliet
     'fy': {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
@@ -242,12 +244,13 @@ msg = {
         'casechecker-replacement-summary': u'בוט: מתקן אותיות גדולות',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'casechecker-delete-reason': u'यह अनुप्रेषण पहले %(target)s को पॉइंट करता था',
-        'casechecker-delete-summary': u'बॉट: इस पुनर्निर्देशन के शीर्षक में सामान दिखने वाले सिरिलिक और लैटिन वर्ण हैं',
+        'casechecker-delete-reason': u'यह पुनर्प्रेषण पहले %(target)s को जाता था',
+        'casechecker-delete-summary': u'बॉट: इस पुनर्प्रेषण के शीर्षक में सामान दिखने वाले सिरिलिक और लैटिन वर्ण हैं',
         'casechecker-rename': u'बॉट: मिश्रित केस का नाम बदला',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-        'casechecker-replacement-summary': u'बॉट: केस (case) प्रतिस्थापन :',
+        'casechecker-replacement-summary': u'बॉट: केस (case) प्रतिस्थापन:',
     },
     # Author: Michawiki
     'hsb': {
@@ -295,6 +298,7 @@ msg = {
         'casechecker-replacement-summary': u'ロボットによる: 大文字小文字の置換:',
     },
     # Author: Hym411
+    # Author: IRTC1015
     # Author: Priviet
     # Author: Revi
     # Author: 아라
@@ -303,7 +307,7 @@ msg = {
         'casechecker-delete-summary': u'봇: 이 넘겨주기는 제목에 키릴 문자 또는 라틴 문자를 포함합니다.',
         'casechecker-rename': u'로봇: 혼합된 대소문자의 이름을 바꿈',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-        'casechecker-replacement-summary': u'로봇: 대소문자 교체:',
+        'casechecker-replacement-summary': u'봇: 대소문자 교체:',
     },
     # Author: Purodha
     'ksh': {
@@ -320,6 +324,14 @@ msg = {
         'casechecker-rename': u'Bot: Ëmbenenne vu gemëschte Schreifweisen',
         'casechecker-replacement-linklist': u'%(source)s → %(target)s',
         'casechecker-replacement-summary': u'Bot: Beispill vun Ersetzen:',
+    },
+    # Author: Aswanas
+    'lt': {
+        'casechecker-delete-reason': u'Šis peradresavimas naudojamas nukreipti į %(target)s',
+        'casechecker-delete-summary': u'Robotas: Šitame pavadinime šitas peradresavimas yra identiškas Kirilica ir lotynų raidėmis',
+        'casechecker-rename': u'Robotas: sumaišytų bylų pervardinimas',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'Robotas: Bylos pakeitimai:',
     },
     # Author: Jagwar
     'mg': {
@@ -465,6 +477,11 @@ msg = {
         'casechecker-rename': u'Bot: omdöpning på grund av blandning mellan kyrilliska och latin',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Bot: Ersätter versalisering',
+    },
+    # Author: Octahedron80
+    'th': {
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'บอต: เปลี่ยนอักษรตัวเล็กตัวใหญ่',
     },
     # Author: Andriykopanytsia
     'uk': {

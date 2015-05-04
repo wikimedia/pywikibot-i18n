@@ -190,6 +190,12 @@ msg = {
         'welcome-bad_username': u'Robot: Śuntèda \'d un nòm \'d utèint ch\' al dév èser verifichè',
         'welcome-welcome': u'Beinvgnû!',
     },
+    # Author: Caliburn
+    'en-gb': {
+        'welcome-bad_username': u'Bot: Adding a username that needs to be checked',
+        'welcome-updating': u'Bot: Updating log',
+        'welcome-welcome': u'Welcome!',
+    },
     # Author: Blahma
     # Author: Objectivesea
     'eo': {
@@ -298,6 +304,12 @@ msg = {
         'welcome-bad_username': u'בוט: הוספת שם משתמש שצריך לבדוק',
         'welcome-updating': u'בוט: עדכון יומן',
         'welcome-welcome': u'ברוך הבא!',
+    },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'welcome-bad_username': u'बॉट: एक सदस्यनाम जोड़ रहा है जिसे जाँचने की आवश्यकता है',
+        'welcome-updating': u'बॉट: लॉग अद्यतित कर रहा है',
+        'welcome-welcome': u'स्वागत है!',
     },
     # Author: Ex13
     'hr': {
@@ -410,6 +422,10 @@ msg = {
         'welcome-bad_username': u'Bot: E Benotzernumm derbäigesat deen nogekuckt muss ginn',
         'welcome-updating': u'Bot: Aktualisatioun vum Logbuch',
         'welcome-welcome': u'Wëllkomm!',
+    },
+    # Author: Robin0van0der0vliet
+    'li': {
+        'welcome-welcome': u'Wilkóm!',
     },
     # Author: Eruedin
     'ln': {
@@ -656,9 +672,10 @@ msg = {
         'welcome-welcome': u'రండి',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'welcome-bad_username': u'โรบอต: เพิ่มชื่อผู้ใช้ที่ต้องการการตรวจสอบ',
-        'welcome-updating': u'โรบอต: กำลังปรับปรุงปูม',
+        'welcome-bad_username': u'บอต: เพิ่มชื่อผู้ใช้ที่ต้องการการตรวจสอบ',
+        'welcome-updating': u'บอต: ปรับปรุงปูม',
         'welcome-welcome': u'ยินดีต้อนรับ!',
     },
     # Author: AnakngAraw

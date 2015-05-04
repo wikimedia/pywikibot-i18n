@@ -47,8 +47,9 @@ msg = {
         'makecat-create': u'Robot: Vytvoření nebo aktualizace [[:Category:%(cat)s|kategorie %(cat)s]]',
     },
     # Author: Christian List
+    # Author: MGA73
     'da': {
-        'makecat-create': u'Bot: Oprettelse eller opdatering af kategori [[:Category:%(cat)s|]]',
+        'makecat-create': u'Robot: Oprettelse eller opdatering af kategori [[:Category:%(cat)s|]]',
     },
     'de': {
         'makecat-create': u'Bot: Kategorie [[:Category:%(cat)s|]] wurde neu angelegt oder aktualisiert',
@@ -94,6 +95,10 @@ msg = {
     'he': {
         'makecat-create': u'בוט: יצירה או עדכון של קטגוריה [[:Category:%(cat)s|]]',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'makecat-create': u'बॉट: [[:Category:%(cat)s|]] का निर्माण/अद्यतन',
+    },
     # Author: Csega
     'hu': {
         'makecat-create': u'Bot: [[:Category:%(cat)s|]] kategória létrehozása vagy frissítése',
@@ -109,9 +114,10 @@ msg = {
         'makecat-create': u'Bot: La creazione o laggiornamento di categoria [[:Category:%(cat)s|]]',
     },
     # Author: Hym411
+    # Author: IRTC1015
     # Author: Revi
     'ko': {
-        'makecat-create': u'로봇: 분류 생성 및 업데이트 [[:Category:%(cat)s|]]',
+        'makecat-create': u'봇: [[:Category:%(cat)s|]] 분류 생성 및 갱신',
     },
     # Author: Purodha
     'ksh': {
@@ -120,6 +126,10 @@ msg = {
     # Author: Robby
     'lb': {
         'makecat-create': u'Bot: Uleeën oder Aktualisatioun vun enger Kategorie [[:Category:%(cat)s|]]',
+    },
+    # Author: Aswanas
+    'lt': {
+        'makecat-create': u'Robotas: Kategorijos sukūrimas arba atnaujinimas [[:Category:%(cat)s|]]',
     },
     # Author: Jagwar
     'mg': {
@@ -154,6 +164,10 @@ msg = {
     },
     'no': {
         'makecat-create': u'Robot: opprettelse eller oppdatering av kategori [[:Category:%(cat)s|]]',
+    },
+    # Author: Cedric31
+    'oc': {
+        'makecat-create': u'Robòt : Creacion o mesa a jorn de categoria [[:Category:%(cat)s|]]',
     },
     'pl': {
         'makecat-create': u'Robot: Stworzenie lub aktualizacja kategorii [[:Category:%(cat)s|]]',

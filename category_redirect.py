@@ -63,12 +63,12 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'category_redirect-add-template': u'Robó: Amestando plantía de redireición de categoríes pa mantenimientu',
-        'category_redirect-change-category': u'Robó: Cambéu de la categoría redirixida [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-comment': u'Robó de mantenimientu de categoríes redirixíes',
+        'category_redirect-add-template': u'Bot: Amestando plantía de redireición de categoríes pa mantenimientu',
+        'category_redirect-change-category': u'Bot: Cambiu de la categoría redirixida [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-comment': u'Bot de mantenimientu de redireiciones de categoríes',
         'category_redirect-edit-request': u'Deteutóse que les páxines protexíes siguientes necesiten anovamientos d\'enllaces de categoría: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s ta en %(oldcat)s, que ye una redireición a %(newcat)s',
-        'category_redirect-fix-double': u'Robó: Iguando redireición doble',
+        'category_redirect-fix-double': u'Bot: Iguando redireición doble',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -230,13 +230,14 @@ msg = {
     },
     # Author: Christian List
     # Author: Kaare
+    # Author: MGA73
     # Author: Peter Alberti
     # Author: Sarrus
     'da': {
         'category_redirect-add-template': u'Robot: Tilføjer kategoriomdirigeringsskabelon til vedligeholdelse',
         'category_redirect-change-category': u'Robot: Ændrer omdirigeret kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] til [[:%(newCatLink)s|%(newCatTitle)s]]',
         'category_redirect-comment': u'Robot til vedligeholdelse af kategoriomdirigeringer',
-        'category_redirect-edit-request': u'Der er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s',
+        'category_redirect-edit-request': u'Det er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s',
         'category_redirect-fix-double': u'Robot: Retter dobbelt omdirigering',
     },
@@ -411,12 +412,12 @@ msg = {
     # Author: Mayur
     # Author: Siddhartha Ghai
     'hi': {
-        'category_redirect-add-template': u'रोबॉट: रखरखाव के लिए श्रेणी अनुप्रेषित साँचा जोड़ा गया',
-        'category_redirect-change-category': u'रोबॉट: अनुप्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी',
-        'category_redirect-comment': u'श्रेणी पुनर्निर्देशन रखरखाव रोबॉट',
+        'category_redirect-add-template': u'बॉट: रखरखाव के लिए श्रेणी पुनर्प्रेषण साँचा जोड़ा गया',
+        'category_redirect-change-category': u'बॉट: पुनर्प्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी',
+        'category_redirect-comment': u'श्रेणी पुनर्प्रेषण रखरखाव रोबॉट',
         'category_redirect-edit-request': u'निम्न सुरक्षित पृष्ठ पाए गए हैं जिनमें श्रेणियों को अद्यतित करने की आवश्यकता है: %(itemlist)s',
-        'category_redirect-edit-request-item': u'* %(title)s %(oldcat)s में है, जो %(newcat)s को अनुप्रेषित है',
-        'category_redirect-fix-double': u'रोबॉट: दुगना अनुप्रेषण सही किया गया',
+        'category_redirect-edit-request-item': u'* %(title)s %(oldcat)s में है, जो %(newcat)s को पुनर्प्रेषित है',
+        'category_redirect-fix-double': u'बॉट: दुगना पुनर्प्रेषण सही किया गया',
     },
     # Author: Ex13
     'hr': {
@@ -575,7 +576,13 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s sjteit in %(oldcat)s, dat is \'n doorverwiezing nao %(newcat)s',
         'category_redirect-fix-double': u'Robot: dobbele doorverwiezing aangepas',
     },
+    # Author: Aswanas
     'lt': {
+        'category_redirect-add-template': u'Robotas: Prideda kategoriją nukreipti šabloną pataisymui',
+        'category_redirect-change-category': u'Robotas: Pakeisti nukreiptą kategoriją [[:%(oldCatLink)s|%(oldCatTitle)s]] į [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-comment': u'Kategorija nukreipia priežiūros robotą',
+        'category_redirect-edit-request': u'Aptikta, kad sekantys apsaugoti puslapiai turi būti atnaujinti pagal kategorijos nuorodas: %(itemlist)s',
+        'category_redirect-edit-request-item': u'* %(title)s yra %(oldcat)s, kuris yra nukreipimas į %(newcat)s',
         'category_redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas',
     },
     # Author: Papuass
@@ -712,6 +719,8 @@ msg = {
     },
     # Author: Cedric31
     'oc': {
+        'category_redirect-change-category': u'Robòt : Cambiament de la redireccion de [[:%(oldCatLink)s|%(oldCatTitle)s]] per [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-comment': u'Bòt de mantenença de las redireccions de categorias',
         'category_redirect-fix-double': u'Robòt : repara una dobla redireccion',
     },
     'pdc': {
@@ -859,10 +868,11 @@ msg = {
         'category_redirect-fix-double': u'தானியங்கி: எதிரெதிர் வழிமாற்றுதலைச் சரிசெய்தல்',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'category_redirect-change-category': u'โรบอต: เปลี่ยนหมวดหมู่เปลี่ยนทางจาก [[:%(oldCatLink)s|%(oldCatTitle)s]] ไปยัง [[:%(newCatLink)s|%(newCatTitle)s]]',
+        'category_redirect-change-category': u'บอต: เปลี่ยนหมวดหมู่เปลี่ยนทางจาก [[:%(oldCatLink)s|%(oldCatTitle)s]] ไปยัง [[:%(newCatLink)s|%(newCatTitle)s]]',
         'category_redirect-edit-request-item': u'* %(title)s อยู่ใน %(oldcat)s ซึ่งเปลี่ยนทางไปยัง %(newcat)s',
-        'category_redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน',
+        'category_redirect-fix-double': u'บอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน',
     },
     # Author: AnakngAraw
     'tl': {

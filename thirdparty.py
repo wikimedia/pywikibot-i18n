@@ -677,9 +677,10 @@ msg = {
     # Author: DrTrigon
     # Author: Gomoko
     # Author: Grondin
+    # Author: Hercule
     # Author: Od1n
     'fr': {
-        'thirdparty-drtrigonbot-subster-summary-mod': u'substitution de(s) balise(s) %(tags)s',
+        'thirdparty-drtrigonbot-subster-summary-mod': u'substitution des balises %(tags)s',
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Discussion modifiée',
         'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Discussion fermée',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'MESSAGE DU ROBOT',
@@ -832,6 +833,15 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-summary-clean': u'תקציר הדיון התווסף לאחר שעבר ניקיון: %(num)i רשומות',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'רובוט',
         'thirdparty-drtrigonbot-sum_disc-summary-mod': u'תקציר הדיון עודכן: %(num)i ערכים ב־%(page)s עמודים',
+    },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'thirdparty-drtrigonbot-sum_disc-notify-closed': u'चर्चा समाप्त',
+        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'बॉट सन्देश',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'नयी चर्चा',
+        'thirdparty-drtrigonbot-sum_disc-notify-notify': u'अधिसूचना',
+        'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(कोई इंसानी सम्पादक नहीं मिला)',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'बॉट',
     },
     # Author: Ex13
     # Author: SpeedyGonsales
@@ -1078,7 +1088,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Ene neue Klaaf',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Meddeilong',
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s de letzte Änderong] (%(page_size)s Bytes) vum %(user)s (%(time)s)',
-        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alle Diskußjuhne sin eröm (Mer han mem Oppasse opjehüert) - de letzte Änderong es vum %(user)s (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s alle Diskußjuhne sin eröm (Mer han mem Oppaßße opjehüert) - de läzde Änderong es vum %(user)s (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nZusammefaßong vum: %(sign)s</noinclude>',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(Keine Minsch als Beärbeider jefonge)',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - de letzte Änderong vum [[User:%(user)s]] (%(time)s)',
@@ -1132,6 +1142,7 @@ msg = {
     'lrc': {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'رووات',
     },
+    # Author: Aswanas
     # Author: Eitvys200
     # Author: Mantak111
     'lt': {
@@ -1141,10 +1152,17 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ROBOTO PRANEŠIMAS',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Naujas aptarimas',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Pranešimas',
+        'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s paskutinis variantas] (%(page_size)s bytes)   %(user)s (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s visos diskusijos baigtos (priežiūra baigta) - paskutinis variantas %(user)s (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-end': u'Santrauka sugeneruota iš ir: %(sign)s</noinclude>',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(redaguojančio žmogaus nerasta)',
+        'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - paskutinis variantas [[User:%(user)s]] (%(time)s)',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Roboto įspėjamoji žinutė: %(page)s "\'\'%(warning)s\'\'"',
+        'thirdparty-drtrigonbot-sum_disc-summary-add': u'Diskusijos santrauka pridėta: %(num)i įrašai',
+        'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Diskusijos santrauka su pataisymais pridėta: %(num)i įrašai',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'robotas',
+        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Diskusijos santrauka atnaujinta: %(num)i įrašai %(page)s',
     },
     # Author: RMizo
     'lus': {
@@ -1721,13 +1739,15 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'కొత్త చర్చ',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ข้อความจากโรบอต',
+        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ข้อความจากบอต',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'การอภิปรายใหม่',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'การแจ้งเตือน',
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nข้อความสรุปสร้างขึ้นจากและ ณ เวลา: %(sign)s</noinclude>',
-        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* ข้อความเตือนจากโรบอต: %(page)s "\'\'%(warning)s\'\'"',
-        'thirdparty-drtrigonbot-sum_disc-summary-head': u'โรบอต',
+        'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(ไม่พบผู้แก้ไขที่เป็นมนุษย์)',
+        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* ข้อความเตือนจากบอต: %(page)s "\'\'%(warning)s\'\'"',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'บอต',
     },
     # Author: AnakngAraw
     'tl': {
@@ -1877,6 +1897,7 @@ msg = {
     # Author: Malafaya
     'vo': {
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'Bespik Nulik',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
     },
     # Author: Srtxg
     'wa': {

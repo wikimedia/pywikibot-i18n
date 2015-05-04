@@ -21,8 +21,8 @@ msg = {
     },
     # Author: Xuacu
     'ast': {
-        'lonelypages-comment-add-disambig-template': u'Robó: Amestando una páxina de dixebra',
-        'lonelypages-comment-add-template': u'Robó: Páxina güérfana, amestada plantía',
+        'lonelypages-comment-add-disambig-template': u'Bot: Amestando una páxina de dixebra',
+        'lonelypages-comment-add-template': u'Bot: Páxina güérfana, amestada plantía',
     },
     # Author: Baloch Afghanistan
     'bcc': {
@@ -134,6 +134,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'בוט:מוסיף דף פירושונים',
         'lonelypages-comment-add-template': u'בוט: דף יתום, הוספת תבנית',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'lonelypages-comment-add-disambig-template': u'बॉट: बहुविकल्पी पृष्ठ जोड़ रहा है',
+        'lonelypages-comment-add-template': u'बॉट: एकाकी पृष्ठ, साँचा जोड़ा',
+    },
     # Author: Dj
     'hu': {
         'lonelypages-comment-add-disambig-template': u'Bot: egyértelműsítő lap hozzáadása',
@@ -161,10 +166,11 @@ msg = {
         'lonelypages-comment-add-template': u'ロボットによる: 孤立したページへのテンプレート貼り付け',
     },
     # Author: Hym411
+    # Author: IRTC1015
     # Author: Revi
     'ko': {
-        'lonelypages-comment-add-disambig-template': u'로봇: 동음이의어 문서 추가',
-        'lonelypages-comment-add-template': u'로봇: 다른 문서를 링크하지 않는 문서, 틀 추가',
+        'lonelypages-comment-add-disambig-template': u'봇: 동음이의어 문서 추가',
+        'lonelypages-comment-add-template': u'봇: 외톨이 문서, 틀 추가',
     },
     # Author: Purodha
     'ksh': {
@@ -175,6 +181,11 @@ msg = {
     'lb': {
         'lonelypages-comment-add-disambig-template': u'Bot: Eng Homonymie-Säit derbäisetzen',
         'lonelypages-comment-add-template': u'Bot: Weesesäit, Schabloun derbäigesat',
+    },
+    # Author: Aswanas
+    'lt': {
+        'lonelypages-comment-add-disambig-template': u'Robotas: Prideda dviprasmišką puslapį',
+        'lonelypages-comment-add-template': u'Robotas: Atskiras puslapis, pridėti šabloną',
     },
     # Author: Jagwar
     'mg': {

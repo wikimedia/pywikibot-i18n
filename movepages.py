@@ -28,7 +28,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'movepages-moving': u'Robó: Páxina treslladada',
+        'movepages-moving': u'Bot: Páxina treslladada',
     },
     # Author: AZISS
     'az': {
@@ -154,6 +154,10 @@ msg = {
     'he': {
         'movepages-moving': u'בוט: מעביר דף',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'movepages-moving': u'बॉट: पृष्ठ स्थानांतरित किया',
+    },
     # Author: Ex13
     'hr': {
         'movepages-moving': u'Bot: premještena stranica',
@@ -276,6 +280,10 @@ msg = {
     'no': {
         'movepages-moving': u'Robot: Flyttet side',
     },
+    # Author: Cedric31
+    'oc': {
+        'movepages-moving': u'Robòt : Pagina renomenada',
+    },
     # Author: Xqt
     'pdc': {
         'movepages-moving': u'Waddefresser: Blatt gezoge',
@@ -353,8 +361,9 @@ msg = {
         'movepages-moving': u'బాటు: పేజీని తరలించింది',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'movepages-moving': u'โรบอต: ย้ายหน้า',
+        'movepages-moving': u'บอต: ย้ายหน้า',
     },
     # Author: AnakngAraw
     'tl': {
@@ -391,6 +400,10 @@ msg = {
     # Author: Minh Nguyen
     'vi': {
         'movepages-moving': u'Bot: Di chuyển trang',
+    },
+    # Author: Malafaya
+    'vo': {
+        'movepages-moving': u'Bot: Topätükon padi',
     },
     # Author: Harvzsf
     'war': {

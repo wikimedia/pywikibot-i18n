@@ -6,6 +6,7 @@ msg = {
         'cosmetic_changes-standalone': u'Bot: Cosmetic changes',
     },
     # Author: Csisc
+    # Author: Macofe
     # Author: Xqt
     'qqq': {
         'cosmetic_changes-append': u'Summary message that will be appended to the normal edit summary when cosmetic changes are made on the fly.\n\n"Cosmetic changes" here means changes to the appearance of the page only, without any changes to the substance of the page.',
@@ -40,8 +41,8 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'cosmetic_changes-append': u'; cambeos cosméticos',
-        'cosmetic_changes-standalone': u'Robó: Cambeos cosméticos',
+        'cosmetic_changes-append': u'; cambios cosméticos',
+        'cosmetic_changes-standalone': u'Bot: Cambios cosméticos',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -220,9 +221,10 @@ msg = {
         'cosmetic_changes-append': u'; athruithe cosmaideacha',
         'cosmetic_changes-standalone': u'Róbat: Athruithe cosmaideacha',
     },
+    # Author: Banjo
     'gl': {
         'cosmetic_changes-append': u'; cambios estética',
-        'cosmetic_changes-standalone': u'bot Cambios estética',
+        'cosmetic_changes-standalone': u'Bot: Cambios estética',
     },
     # Author: Jetlag
     'hak': {
@@ -240,8 +242,8 @@ msg = {
     },
     # Author: Siddhartha Ghai
     'hi': {
-        'cosmetic_changes-append': u'; अंगराग परिवर्तन',
-        'cosmetic_changes-standalone': u'रोबॉट: अंगराग परिवर्तन',
+        'cosmetic_changes-append': u'; ऊपरी परिवर्तन',
+        'cosmetic_changes-standalone': u'बॉट: ऊपरी परिवर्तन',
     },
     'hr': {
         'cosmetic_changes-append': u'; kozmetičke promjene',
@@ -266,6 +268,7 @@ msg = {
     },
     # Author: Bennylin
     # Author: Kenrick95
+    # Author: Totosunarto
     'id': {
         'cosmetic_changes-append': u'; perubahan kosmetik',
         'cosmetic_changes-standalone': u'Robot: Perubahan kosmetika',
@@ -308,9 +311,10 @@ msg = {
         'cosmetic_changes-append': u'ಅಂದಗೊಳಿಸುವ ಬದಲಾವಣೆಗಳು',
         'cosmetic_changes-standalone': u'ರೋಬೋಟ್: ಕಾಂತಿವರ್ಧಕ ಬದಲಾವಣೆಗಳು',
     },
+    # Author: IRTC1015
     'ko': {
         'cosmetic_changes-append': u'; 예쁘게 바꿈',
-        'cosmetic_changes-standalone': u'로봇: 예쁘게 바꿈',
+        'cosmetic_changes-standalone': u'봇: 예쁘게 바꿈',
     },
     # Author: Purodha
     'ksh': {
@@ -521,9 +525,10 @@ msg = {
         'cosmetic_changes-standalone': u'బాటు: పైపై మార్పులు',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
         'cosmetic_changes-append': u'; ปรับแต่งให้อ่านง่าย',
-        'cosmetic_changes-standalone': u'โรบอต ปรับแต่งให้อ่านง่าย',
+        'cosmetic_changes-standalone': u'บอต: ปรับแต่งให้อ่านง่าย',
     },
     'tk': {
         'cosmetic_changes-append': u'; kosmetik üýtgeşme',

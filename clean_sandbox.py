@@ -26,7 +26,7 @@ msg = {
     },
     # Author: Xuacu
     'ast': {
-        'clean_sandbox-cleaned': u'Robot: Llimpia automática',
+        'clean_sandbox-cleaned': u'Bot: Llimpia automática',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -174,8 +174,9 @@ msg = {
         'clean_sandbox-cleaned': u'בוט: דף זה ינוקה אוטומטית.',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'clean_sandbox-cleaned': u'रोबोट: स्वचालित रूप से साफ किया',
+        'clean_sandbox-cleaned': u'बॉट: स्वचालित रूप से साफ़ किया',
     },
     # Author: SpeedyGonsales
     'hr': {
@@ -364,8 +365,9 @@ msg = {
     'ta': {
         'clean_sandbox-cleaned': u'தானியங்கி: தானாகவே சுத்தப்படுத்தப்பட்டது',
     },
+    # Author: Octahedron80
     'th': {
-        'clean_sandbox-cleaned': u'โรบอต: กำลังจะเก็บกวาดหน้านี้โดยอัตโนมัติ',
+        'clean_sandbox-cleaned': u'บอต: เก็บกวาดโดยอัตโนมัติ',
     },
     # Author: AnakngAraw
     'tl': {

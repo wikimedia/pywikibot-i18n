@@ -123,8 +123,9 @@ msg = {
         'commons-file-now-available': u'Datei ist jetzt auf [[:commons:File:%(commonsfile)s|Wikimedia Commons]] verfügbar.',
     },
     # Author: Erdemaslancan
+    # Author: Mirzali
     'diq': {
-        'commons-file-moved': u'[[:Dosya:%(localfile)s|Dosya]], berd site da [[:commons:File:%(commonsfile)s|commons]]i.',
+        'commons-file-moved': u'[[:File:%(localfile)s|Dosya]], berde sita [[:commons:File:%(commonsfile)s|commons]]i.',
         'commons-file-now-available': u'Ena dosya henda proce de[[:commons:File:%(commonsfile)s|Wikimedia Commons]] zeredeya.',
     },
     # Author: Geraki
@@ -146,7 +147,7 @@ msg = {
     # Author: Fitoschido
     # Author: Mor
     'es': {
-        'commons-file-moved': u'[[:File:%(localfile)s|File]] movido a [[:commons:File:%(commonsfile)s|commons]].',
+        'commons-file-moved': u'[[:File:%(localfile)s|Archivo]] trasladado a [[:commons:File:%(commonsfile)s|Commons]].',
         'commons-file-now-available': u'El archivo ya está disponible en [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
     # Author: Subi
@@ -226,8 +227,9 @@ msg = {
         'commons-file-now-available': u'Le file es ora disponibile in [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
     # Author: Farras
+    # Author: Macofe
     'id': {
-        'commons-file-moved': u'[[:Berkas:%(localfile)s|Berkas]] dipindahkan ke [[:commons:File:%(commonsfile)s|commons]].',
+        'commons-file-moved': u'[[:File:%(localfile)s|Berkas]] dipindahkan ke [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'Berkas ini sekarang tersedia di [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
     # Author: Renan
@@ -256,9 +258,10 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|このファイル]]は[[:commons:File:%(commonsfile)s|コモンズ]]へと移動しました。',
         'commons-file-now-available': u'このファイルは[[:commons:File:%(commonsfile)s|ウィキメディア・コモンズ]]で利用できるようになりました。',
     },
+    # Author: Macofe
     # Author: NoiX180
     'jv': {
-        'commons-file-moved': u'[[:Berkas:%(localfile)s|Berkas]] dipindhahaké nèng [[:commons:Berkas:%(commonsfile)s|commons]].',
+        'commons-file-moved': u'[[:File:%(localfile)s|Berkas]] dipindhahaké nèng [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'Berkas saiki wis sumadhiya nèng [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
     # Author: 아라
@@ -459,8 +462,9 @@ msg = {
         'commons-file-now-available': u'Фајл һәни бәбе винде ијо [[:commons:File:%(commonsfile)s|Викиамбоәдә]].',
     },
     # Author: Khutuck
+    # Author: Macofe
     'tr': {
-        'commons-file-moved': u'[[:Dosya:%(localfile)s|Dosya]], [[:commons:File:%(commonsfile)s|commons]] sitesine taşındı.',
+        'commons-file-moved': u'[[:File:%(localfile)s|Dosya]], [[:commons:File:%(commonsfile)s|commons]] sitesine taşındı.',
         'commons-file-now-available': u'Dosya artık [[:commons:File:%(commonsfile)s|Wikimedia Commons]] projesinde bulunmaktadır.',
     },
     # Author: Ильнар

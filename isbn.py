@@ -31,7 +31,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'isbn-formatting': u'Robó: Formatiando l\'ISBN',
+        'isbn-formatting': u'Bot: Dando formatu ISBN',
     },
     # Author: Khutuck
     'az': {
@@ -193,6 +193,10 @@ msg = {
     'he': {
         'isbn-formatting': u'בוט: מעצב מסת״ב',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'isbn-formatting': u'बॉट: आइ॰एस॰बी॰एन फ़ॉर्मैट कर रहा है',
+    },
     # Author: Ex13
     'hr': {
         'isbn-formatting': u'Bot: Oblikovanje ISBN',
@@ -242,9 +246,10 @@ msg = {
     'jv': {
         'isbn-formatting': u'Bot: Mormat ISBN',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'isbn-formatting': u'로봇: ISBN 형식 지정',
+        'isbn-formatting': u'봇: ISBN 형식 수정',
     },
     # Author: Purodha
     'ksh': {
@@ -408,8 +413,9 @@ msg = {
     },
     # Author: Horus
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'isbn-formatting': u'โรบอต: การจัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ',
+        'isbn-formatting': u'บอต: จัดรูปแบบเลขมาตรฐานสากลประจำหนังสือ',
     },
     # Author: AnakngAraw
     'tl': {

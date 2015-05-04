@@ -523,7 +523,7 @@ msg = {
     },
     # Author: Malafaya
     'vo': {
-        'basic-changing': u'bot läükon: ...',
+        'basic-changing': u'Bot: Votükon: ...',
     },
     # Author: Srtxg
     'wa': {

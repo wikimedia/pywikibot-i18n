@@ -14,7 +14,7 @@ msg = {
     },
     # Author: Xuacu
     'ast': {
-        'revertbot-revert': u'Robó:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s',
+        'revertbot-revert': u'Bot:Revertíu a la revisión %(revid)s de %(author)s el %(timestamp)s',
     },
     # Author: Baloch Afghanistan
     'bcc': {
@@ -121,6 +121,10 @@ msg = {
     # Author: Robby
     'lb': {
         'revertbot-revert': u'Bot: Zréckgesat op d\'Versioun %(revid)s vum %(author)s vum %(timestamp)s',
+    },
+    # Author: Aswanas
+    'lt': {
+        'revertbot-revert': u'Robotas: Sugrįžti prie peržiūros %(revid)s pagal %(author)s pagal %(timestamp)s',
     },
     # Author: Jagwar
     'mg': {

@@ -421,6 +421,10 @@ msg = {
         'solve_disambiguation-redirect-resolved': u'תיקון קישור לדף פירושונים באמצעות בוט: %(from)s שונה ל%(to)s',
         'solve_disambiguation-unknown-page': u'(לא ידוע)',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'solve_disambiguation-unknown-page': u'(अज्ञात)',
+    },
     # Author: Ex13
     'hr': {
         'solve_disambiguation-adding-dn-template': u'Razdvojba podržana od bota: %(from)s - označen kao potrebna stručna pozornost',
@@ -601,11 +605,14 @@ msg = {
     'lrc': {
         'solve_disambiguation-unknown-page': u'ناشناس',
     },
+    # Author: Aswanas
     # Author: Homo
     # Author: Hugo.arg
     'lt': {
+        'solve_disambiguation-adding-dn-template': u'Roboto pagalba pašalinta dviprasmybė:%(from)s - Pažymėta, kad reikia eksperto įvertinimo',
         'solve_disambiguation-links-removed': u'Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pašalintos nuorodos',
         'solve_disambiguation-links-resolved': u'Nuorodų į nukreipiamąjį straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s',
+        'solve_disambiguation-redirect-adding-dn-template': u'Roboto pagalba pašalinta dviprasmybė:%(from)s - Pažymėta, kad reikia eksperto įvertinimo',
         'solve_disambiguation-redirect-removed': u'Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pašalintos nuorodos',
         'solve_disambiguation-redirect-resolved': u'Nuorodų į peradresavimo straipsnį keitimas: %(from)s - Pakeistos nuorodos į %(to)s',
         'solve_disambiguation-unknown-page': u'(nežinomas)',
@@ -949,6 +956,10 @@ msg = {
     # Author: Veeven
     'te': {
         'solve_disambiguation-unknown-page': u'(తెలియదు)',
+    },
+    # Author: Octahedron80
+    'th': {
+        'solve_disambiguation-unknown-page': u'(ไม่ทราบ)',
     },
     # Author: AnakngAraw
     'tl': {

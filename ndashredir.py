@@ -28,7 +28,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'ndashredir-create': u'Robó: Creando redireición con guiones a [[%(title)s]]',
+        'ndashredir-create': u'Bot: Creando redireición con guiones a [[%(title)s]]',
     },
     # Author: AZISS
     'az': {
@@ -141,6 +141,10 @@ msg = {
     'he': {
         'ndashredir-create': u'בוט: יצירת הפניה עם מיקוף ל[[%(title)s]]',
     },
+    # Author: संजीव कुमार
+    'hi': {
+        'ndashredir-create': u'बॉट: [[%(title)s]] पर हयफन सहित अनुप्रेषण निर्मित कर रहा है',
+    },
     # Author: Bináris
     'hu': {
         'ndashredir-create': u'Kiskötőjeles átirányítás létrehozása a(z) [[%(title)s]] lapra (automatikus botszerkesztés)',
@@ -185,6 +189,10 @@ msg = {
     'lb': {
         'ndashredir-create': u'Bot: Viruleedunge mat \'trait-d\'union\' op [[%(title)s]] uleeën',
     },
+    # Author: Aswanas
+    'lt': {
+        'ndashredir-create': u'Robotas: Sukuria rašomą su brūkšneliu  nuorodą į [[%(title)s]]',
+    },
     # Author: StefanusRA
     'map-bms': {
         'ndashredir-create': u'Bot: Nggawé pangalihan mawa tandha pangubung nèng [[%(title)s]]',
@@ -228,6 +236,10 @@ msg = {
     # Author: Danmichaelo
     'no': {
         'ndashredir-create': u'Bot: Oppretter omdirigering med bindestrek til [[%(title)s]]',
+    },
+    # Author: Cedric31
+    'oc': {
+        'ndashredir-create': u'Robòt : Creacion de redireccions amb jonhent cap a [[%(title)s]]',
     },
     # Author: BeginaFelicysym
     'pl': {

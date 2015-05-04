@@ -25,8 +25,8 @@ msg = {
     # Author: Xuacu
     'ast': {
         'reflinks-autogen': u'xeneráu automáticamente',
-        'reflinks-comment': u'Títulu xeneráu por un robó',
-        'reflinks-msg': u'Robó: Convertiendo referencies pures, usando los nomes de ref pa evitar duplicaos, vea [[%(manual)s|FAQ]]',
+        'reflinks-comment': u'Títulu xeneráu por un bot',
+        'reflinks-msg': u'Bot: Convertiendo referencies pures, usando los nomes de ref pa evitar duplicaos, llei la [[%(manual)s|FAQ]]',
     },
     # Author: Baloch Afghanistan
     'bcc': {
@@ -85,10 +85,11 @@ msg = {
         'reflinks-msg': u'Bot: Korrektes Referenzformat (siehe [[%(manual)s]])',
     },
     # Author: Marmase
+    # Author: Mirzali
     'diq': {
         'reflinks-autogen': u'otomatik vıraziya',
         'reflinks-comment': u'Boti sername vıraşt',
-        'reflinks-msg': u'Boto  referansane çerğbiyayışane mıracat kerdışan name keno , bıvin [[%(manual)s|FAQ]]',
+        'reflinks-msg': u'Bot: Babetê mıracadê raşti (bıvêne [[%(manual)s|PZP]])',
     },
     # Author: Geraki
     'el': {
@@ -219,6 +220,12 @@ msg = {
         'reflinks-autogen': u'automatesch generéiert',
         'reflinks-comment': u'Automatesch generéierten Titel',
         'reflinks-msg': u'Bot: Verbesserung vun de Referenzen, et ginn Nimm vu Referenze benotzt fir Doublonen ze verhënneren, kuckt d\'[[%(manual)s|FAQen]]',
+    },
+    # Author: Aswanas
+    'lt': {
+        'reflinks-autogen': u'Automatiškai sugeneruotas',
+        'reflinks-comment': u'Roboto sugeneruotas pavadinimas',
+        'reflinks-msg': u'Robotas: Konvertuoja paprastas nuorodas, naudojant nuorodų pavadinimus, kad išvengti pasikartojimų, žr. [[%(manual)s|FAQ]]',
     },
     # Author: Jagwar
     'mg': {

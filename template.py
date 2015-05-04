@@ -221,6 +221,11 @@ msg = {
         'template-removing': u'בוט: מסיר {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s',
         'template-substituting': u'בוט: מכליל {{PLURAL:%(num)d|תבנית|תבניות}} בקוד הדף: %(list)s',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'template-changing': u'बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} बदल रहा है: %(list)s',
+        'template-removing': u'बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} हटा रहा है: %(list)s',
+    },
     # Author: Dj
     'hu': {
         'template-changing': u'Bot: {{PLURAL:%(num)d|sablon csere|sablonok cseréje}}: %(list)s',

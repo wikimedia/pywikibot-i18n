@@ -21,8 +21,8 @@ msg = {
     },
     # Author: Xuacu
     'ast': {
-        'commons_link-cat-template-added': u'Robó: Incluir plantía de commonscat',
-        'commons_link-template-added': u'Robó: Incluir plantía de commons',
+        'commons_link-cat-template-added': u'Bot: Incluir plantía de commonscat',
+        'commons_link-template-added': u'Bot: Incluir plantía de commons',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -74,9 +74,10 @@ msg = {
         'commons_link-template-added': u'Robot přidal šablonu commons',
     },
     # Author: Christian List
+    # Author: MGA73
     'da': {
-        'commons_link-cat-template-added': u'Robot: Tilføjer commonscat skabelon',
-        'commons_link-template-added': u'Robot: Tilføjer commons skabelon',
+        'commons_link-cat-template-added': u'Robot: Tilføjer commonscat-skabelon',
+        'commons_link-template-added': u'Robot: Tilføjer commons-skabelon',
     },
     # Author: Metalhead64
     'de': {
@@ -133,9 +134,10 @@ msg = {
         'commons_link-template-added': u'בוט: מוסיף תבנית Commons',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'commons_link-cat-template-added': u'रोबोट: commonscat साँचे को जोड़ा',
-        'commons_link-template-added': u'रोबोट: कॉमन्स साँचे को जोड़ा',
+        'commons_link-cat-template-added': u'बॉट: कॉमन्स श्रेणी साँचे को जोड़ा',
+        'commons_link-template-added': u'बॉट: कॉमन्स साँचे को जोड़ा',
     },
     # Author: Csega
     'hu': {
@@ -177,6 +179,11 @@ msg = {
     'lb': {
         'commons_link-cat-template-added': u'Bot:Commonscat-Schabloun abannen',
         'commons_link-template-added': u'Bot:Commons-Schabloun abannen',
+    },
+    # Author: Aswanas
+    'lt': {
+        'commons_link-cat-template-added': u'Robotas: Įtrauktas įprastas cat šablonas',
+        'commons_link-template-added': u'Robotas: Įtrauktas įprastinis šablonas',
     },
     # Author: Jagwar
     'mg': {

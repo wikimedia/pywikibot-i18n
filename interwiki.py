@@ -127,15 +127,16 @@ msg = {
     # Author: Esbardu
     # Author: Hugo.arg
     # Author: Xqt
+    # Author: Xuacu
     'ast': {
-        'interwiki-adding': u'Robó: Añadiendo %(adding)s',
-        'interwiki-adding-modifying': u'Robó: Añadiendo %(adding)s; modificando %(modifying)s',
-        'interwiki-adding-removing': u'Robó: Añadiendo %(adding)s; desaniciando %(removing)s',
-        'interwiki-adding-removing-modifying': u'Robó: Añadiendo %(adding)s; desaniciando %(removing)s; modificando %(modifying)s',
-        'interwiki-modifying': u'Robó: Modificando %(modifying)s',
-        'interwiki-modifying-from': u'Robó: Camudando %(from)s a %(modifying)s',
-        'interwiki-removing': u'Robó: Desaniciando %(removing)s',
-        'interwiki-removing-modifying': u'Robó: Desaniciando %(removing)s; modificando %(modifying)s',
+        'interwiki-adding': u'Bot: Añadiendo %(adding)s',
+        'interwiki-adding-modifying': u'Bot: Añadiendo %(adding)s; camudando %(modifying)s',
+        'interwiki-adding-removing': u'Bot: Añadiendo %(adding)s; desaniciando %(removing)s',
+        'interwiki-adding-removing-modifying': u'Bot: Añadiendo %(adding)s; desaniciando %(removing)s; camudando %(modifying)s',
+        'interwiki-modifying': u'Bot: Camudando %(modifying)s',
+        'interwiki-modifying-from': u'Bot: Camudando %(from)s a %(modifying)s',
+        'interwiki-removing': u'Bot: Desaniciando %(removing)s',
+        'interwiki-removing-modifying': u'Bot: Desaniciando %(removing)s; camudando %(modifying)s',
     },
     # Author: AZISS
     'az': {
@@ -404,16 +405,17 @@ msg = {
         'interwiki-removing': u'robot yn tynnu: %(removing)s',
         'interwiki-removing-modifying': u'robot yn tynnu: %(removing)s yn newid: %(modifying)s',
     },
+    # Author: MGA73
     # Author: Peter Alberti
     'da': {
-        'interwiki-adding': u'Robot tilføjer %(adding)s',
-        'interwiki-adding-modifying': u'Robot tilføjer: %(adding)s og ændrer: %(modifying)s',
-        'interwiki-adding-removing': u'Robot tilføjer: %(adding)s og fjerner: %(removing)s',
-        'interwiki-adding-removing-modifying': u'Robot tilføjer: %(adding)s, fjerner: %(removing)s og ændrer: %(modifying)s',
-        'interwiki-modifying': u'Robot ændrer %(modifying)s',
+        'interwiki-adding': u'Robot: Tilføjer %(adding)s',
+        'interwiki-adding-modifying': u'Robot: Tilføjer %(adding)s og ændrer %(modifying)s',
+        'interwiki-adding-removing': u'Robot: Tilføjer %(adding)s og fjerner %(removing)s',
+        'interwiki-adding-removing-modifying': u'Robot: Tilføjer %(adding)s, fjerner %(removing)s og ændrer %(modifying)s',
+        'interwiki-modifying': u'Robot: Ændrer %(modifying)s',
         'interwiki-modifying-from': u'Robot: Ændrer %(from)s til %(modifying)s',
-        'interwiki-removing': u'Robot fjerner %(removing)s',
-        'interwiki-removing-modifying': u'Robot fjerner: %(removing)s og ændrer: %(modifying)s',
+        'interwiki-removing': u'Robot: Fjerner %(removing)s',
+        'interwiki-removing-modifying': u'Robot: Fjerner %(removing)s og ændrer %(modifying)s',
     },
     # Author: Xqt
     'de': {
@@ -719,9 +721,16 @@ msg = {
         'interwiki-removing-modifying': u'בוט מסיר: %(removing)s משנה: %(modifying)s',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'interwiki-modifying': u'रोबोट: %(modifying)s संशोधित कर रहा है',
-        'interwiki-modifying-from': u'रोबॉट: %(from)s की जगह %(modifying)s जोड़ रहा है',
+        'interwiki-adding': u'बॉट: %(adding)s जोड़ रहा है',
+        'interwiki-adding-modifying': u'बॉट: %(adding)s जोड़ रहा है; %(modifying)s परिवर्तित कर रहा है',
+        'interwiki-adding-removing': u'बॉट: %(adding)s जोड़ रहा है; %(removing)s हटा रहा है',
+        'interwiki-adding-removing-modifying': u'बॉट: %(adding)s जोड़ रहा है; %(removing)s हटा रहा है; %(modifying)s परिवर्तित कर रहा है',
+        'interwiki-modifying': u'बॉट: %(modifying)s संशोधित कर रहा है',
+        'interwiki-modifying-from': u'बॉट: %(from)s की जगह %(modifying)s जोड़ रहा है',
+        'interwiki-removing': u'बॉट: %(removing)s हटा रहा है',
+        'interwiki-removing-modifying': u'बॉट: %(removing)s हटा रहा है; %(modifying)s परिवर्तित कर रहा है',
     },
     # Author: Hugo.arg
     'hif': {
@@ -923,16 +932,17 @@ msg = {
         'interwiki-adding-removing-modifying': u'ರೋಬೋಟ್: ರು (ಸೇರಿಸುವ)% ಸೇರ್ಪಡೆ;% ತೆಗೆಯುವ (ತೆಗೆದುಹಾಕಿ) ರು;% ಮಾರ್ಪಡಿಸುವ (ಮಾರ್ಪಡಿಸುವ) ರು',
         'interwiki-modifying': u'ರೋಬೋಟ್:ಮಾರ್ಪಡಿಸುವಿಕೆ % (ಮಾರ್ಪಡಿಸುವ)ಗಳು',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'interwiki-adding': u'로봇: %(adding)s 추가',
-        'interwiki-adding-modifying': u'로봇: %(adding)s 추가, %(modifying)s 바꿈',
-        'interwiki-adding-removing': u'로봇: %(adding)s 추가, %(removing)s 지움',
-        'interwiki-adding-removing-modifying': u'로봇: %(adding)s 추가, %(removing)s 지움, %(modifying)s 바꿈',
-        'interwiki-modifying': u'로봇: %(modifying)s 바꿈',
-        'interwiki-modifying-from': u'로봇: %(from)s에서 %(modifying)s(으)로 바꿈',
-        'interwiki-removing': u'로봇: %(removing)s 지움',
-        'interwiki-removing-modifying': u'로봇: %(removing)s 지움, %(modifying)s 바꿈',
+        'interwiki-adding': u'봇: %(adding)s 추가',
+        'interwiki-adding-modifying': u'봇: %(adding)s 추가, %(modifying)s 바꿈',
+        'interwiki-adding-removing': u'봇: %(adding)s 추가, %(removing)s 지움',
+        'interwiki-adding-removing-modifying': u'봇: %(adding)s 추가, %(removing)s 지움, %(modifying)s 바꿈',
+        'interwiki-modifying': u'봇: %(modifying)s 바꿈',
+        'interwiki-modifying-from': u'봇: %(from)s에서 %(modifying)s(으)로 바꿈',
+        'interwiki-removing': u'봇: %(removing)s 지움',
+        'interwiki-removing-modifying': u'봇: %(removing)s 지움, %(modifying)s 바꿈',
     },
     'koi': {
         'interwiki-adding': u'робот содтiс: %(adding)s',
@@ -1406,6 +1416,7 @@ msg = {
         'interwiki-removing': u'botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (-): %(removing)s',
         'interwiki-removing-modifying': u'botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (-): %(removing)s (+/-): %(modifying)s',
     },
+    # Author: Cedric31
     # Author: Hugo.arg
     # Author: Xqt
     'oc': {
@@ -1414,6 +1425,7 @@ msg = {
         'interwiki-adding-removing': u'Robòt Apondre: %(adding)s Tirar: %(removing)s',
         'interwiki-adding-removing-modifying': u'Robòt Apondre: %(adding)s Tirar: %(removing)s Modificar: %(modifying)s',
         'interwiki-modifying': u'Robòt Modificar: %(modifying)s',
+        'interwiki-modifying-from': u'Robòt : modificacion de %(from)s a %(modifying)s',
         'interwiki-removing': u'Robòt Tirar: %(removing)s',
         'interwiki-removing-modifying': u'Robòt Tirar: %(removing)s Modificar: %(modifying)s',
     },
@@ -1766,15 +1778,16 @@ msg = {
         'interwiki-removing-modifying': u'робот дигаргуни карда истодааст: %(removing)s ҳaвз карда истодааст: %(modifying)s',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'interwiki-adding': u'โรบอต เพิ่ม: %(adding)s',
-        'interwiki-adding-modifying': u'โรบอต เพิ่ม: %(adding)s แก้ไข: %(modifying)s',
-        'interwiki-adding-removing': u'โรบอต เพิ่ม: %(adding)s ลบ: %(removing)s',
-        'interwiki-adding-removing-modifying': u'โรบอต เพิ่ม: %(adding)s ลบ: %(removing)s แก้ไข: %(modifying)s',
-        'interwiki-modifying': u'โรบอต แก้ไข: %(modifying)s',
-        'interwiki-modifying-from': u'โรบอต: แก้ไขจาก %(from)s ไปเป็น %(modifying)s',
-        'interwiki-removing': u'โรบอต ลบ: %(removing)s',
-        'interwiki-removing-modifying': u'โรบอต ลบ: %(removing)s แก้ไข: %(modifying)s',
+        'interwiki-adding': u'บอต: เพิ่ม %(adding)s',
+        'interwiki-adding-modifying': u'บอต: เพิ่ม %(adding)s; แก้ไข %(modifying)s',
+        'interwiki-adding-removing': u'บอต: เพิ่ม %(adding)s; ลบ %(removing)s',
+        'interwiki-adding-removing-modifying': u'บอต: เพิ่ม %(adding)s; ลบ %(removing)s; แก้ไข %(modifying)s',
+        'interwiki-modifying': u'บอต: แก้ไข %(modifying)s',
+        'interwiki-modifying-from': u'บอต: แก้ไขจาก %(from)s ไปเป็น %(modifying)s',
+        'interwiki-removing': u'บอต: ลบ %(removing)s',
+        'interwiki-removing-modifying': u'บอต: ลบ %(removing)s; แก้ไข %(modifying)s',
     },
     'tk': {
         'interwiki-adding': u'robot goşdy: %(adding)s',

@@ -84,8 +84,9 @@ msg = {
         'pagefromfile-msg_top': u'připojit na vrchol',
     },
     # Author: Christian List
+    # Author: MGA73
     'da': {
-        'pagefromfile-msg': u'Bot: Automatiseret import af artikler',
+        'pagefromfile-msg': u'Robot: Automatiseret import af artikler',
         'pagefromfile-msg_bottom': u'tilføjer nederst',
         'pagefromfile-msg_force': u'erstatter eksisterende tekst',
         'pagefromfile-msg_top': u'tilføjer øverst',
@@ -163,6 +164,13 @@ msg = {
         'pagefromfile-msg_force': u'הטקסט הישן נמחק',
         'pagefromfile-msg_top': u'הוספה בראש הדף',
     },
+    # Author: संजीव कुमार
+    'hi': {
+        'pagefromfile-msg': u'बॉट: लेखों का स्वतः आयात',
+        'pagefromfile-msg_bottom': u'नीचे जोड़ रहा है',
+        'pagefromfile-msg_force': u'मौजूदा पाठ अधिलेखित हो रहा है',
+        'pagefromfile-msg_top': u'शीर्ष पर जोड़ रहा है',
+    },
     # Author: Csega
     # Author: Dj
     'hu': {
@@ -215,6 +223,13 @@ msg = {
         'pagefromfile-msg_force': u'Text iwwerschriwwen',
         'pagefromfile-msg_top': u'uewen derbäisetzen',
     },
+    # Author: Aswanas
+    'lt': {
+        'pagefromfile-msg': u'Robotas: Automatizuotas straipsnių įkėlimas',
+        'pagefromfile-msg_bottom': u'pridėti apačioje',
+        'pagefromfile-msg_force': u'esamas tekstas perrašytas iš naujo',
+        'pagefromfile-msg_top': u'pridėti viršuje',
+    },
     # Author: Jagwar
     'mg': {
         'pagefromfile-msg': u'Rôbô: Fanafaran-dahatsoratra ho azy',
@@ -245,6 +260,13 @@ msg = {
     'mzn': {
         'pagefromfile-msg': u'ربوت:صفحه شه خاد به خاد دله دکته',
     },
+    # Author: सरोज कुमार ढकाल
+    'ne': {
+        'pagefromfile-msg': u'बोट : स्वत लेखहरू आयात',
+        'pagefromfile-msg_bottom': u'पुच्छारमा थप्ने',
+        'pagefromfile-msg_force': u'हाल रहेको पाठ अधिलेखन गरियो',
+        'pagefromfile-msg_top': u'सुरुमा थप्ने',
+    },
     # Author: Siebrand
     'nl': {
         'pagefromfile-msg': u'Robot: geautomatiseerde import',
@@ -270,6 +292,10 @@ msg = {
         'pagefromfile-msg_force': u'sobrescrever texto',
         'pagefromfile-msg_top': u'adicionado no topo',
     },
+    # Author: XXN
+    'ro': {
+        'pagefromfile-msg': u'Robot: importare automată de articole',
+    },
     # Author: Okras
     'ru': {
         'pagefromfile-msg': u'Бот: автоматизированный импорт статей',
@@ -280,6 +306,9 @@ msg = {
     # Author: Milicevic01
     'sr': {
         'pagefromfile-msg': u'Бот: аутоматски увоз чланака',
+        'pagefromfile-msg_bottom': u'прикачено на дно',
+        'pagefromfile-msg_force': u'постојећи текст преснимљен',
+        'pagefromfile-msg_top': u'прикачено на врх',
     },
     # Author: Jopparn
     'sv': {

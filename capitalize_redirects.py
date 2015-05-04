@@ -32,7 +32,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'capitalize_redirects-create-redirect': u'Robó: Crear redireición a [[%(to)s]]',
+        'capitalize_redirects-create-redirect': u'Bot: Crear redireición a [[%(to)s]]',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -183,8 +183,9 @@ msg = {
         'capitalize_redirects-create-redirect': u'בוט: יוצר הפניה לדף [[%(to)s]]',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'capitalize_redirects-create-redirect': u'रोबोट: [[%(to)s]] पर पुनर्निर्देशन बनाएँ',
+        'capitalize_redirects-create-redirect': u'बॉट: [[%(to)s]] पर पुनर्प्रेषण बनाएँ',
     },
     # Author: SpeedyGonsales
     'hr': {
@@ -382,8 +383,9 @@ msg = {
         'capitalize_redirects-create-redirect': u'தானியங்கி: [[%(to)s]] இற்கு வழிமாற்றி ஒன்றினை உருவாக்கு',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'capitalize_redirects-create-redirect': u'โรบอต: สร้างหน้าเปลี่ยนทางไปยัง %(to)s',
+        'capitalize_redirects-create-redirect': u'บอต: สร้างหน้าเปลี่ยนทางไปยัง %(to)s',
     },
     # Author: AnakngAraw
     'tl': {
@@ -421,6 +423,10 @@ msg = {
     # Author: Minh Nguyen
     'vi': {
         'capitalize_redirects-create-redirect': u'Bot: Tạo trang đổi hướng đến [[%(to)s]]',
+    },
+    # Author: Malafaya
+    'vo': {
+        'capitalize_redirects-create-redirect': u'Bot: Jafon lüodükömi lü [[%(to)s]]',
     },
     # Author: Srtxg
     'wa': {

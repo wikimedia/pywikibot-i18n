@@ -17,7 +17,7 @@ msg = {
     'qqq': {
         'archivebot-archive-full': u'Appended to the summary.',
         'archivebot-archive-summary': u'Summary message when the bot adds threads to the archive.',
-        'archivebot-archiveheader': u'{{doc-important|Only use your deletion template like <code><nowiki>{{talk archive}}</nowiki></code> which exist on your local project.}}\nNOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate that will be put on new archive pages as the header.\n\nNOTE: If this system message is not given for a language code, an archiving bot might not supported on your site.',
+        'archivebot-archiveheader': u'{{doc-important|Only use your deletion template like <code><nowiki>{{talk archive}}</nowiki></code> which exist on your local project.}}\nNOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate that will be put on new archive pages as the header.\n\nNOTE: If this system message is not given for a language code, an archiving bot might not be supported on your site.',
         'archivebot-older-than': u'"duration" is the localized form of the elapsed time.\n{{Identical|Older than}}',
         'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
     },
@@ -67,9 +67,9 @@ msg = {
     # Author: Xuacu
     'ast': {
         'archivebot-archive-full': u'(ARCHIVU LLENU)',
-        'archivebot-archive-summary': u'Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} de [[%(from)s]].',
-        'archivebot-older-than': u'más antiguu que',
-        'archivebot-page-summary': u'Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} (%(why)s) en %(archives)s.',
+        'archivebot-archive-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} de [[%(from)s]].',
+        'archivebot-older-than': u'más antiguu que %(duration)s',
+        'archivebot-page-summary': u'Bot: Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} (%(why)s) en %(archives)s.',
     },
     # Author: 1AnuraagPandey
     # Author: Xqt
@@ -87,10 +87,11 @@ msg = {
         'archivebot-page-summary': u'Bot: Arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}} (%(why)s) səbəbindən  %(archives)s yerləşdirilib.',
     },
     # Author: E THP
+    # Author: Mousa
     'azb': {
         'archivebot-archive-full': u'(آرشیو دولو دیر)',
         'archivebot-archive-summary': u'آرشیو%(count)d {{PLURAL:%(count)d|دانیشیق|دانیشیق}} از [[%(from)s]].',
-        'archivebot-older-than': u'داها کؤهنه',
+        'archivebot-older-than': u'%(duration)s-دن داها اسکی',
         'archivebot-page-summary': u'بوت: آرشیوائدیر: %(count)d باشلیق(%(why)s) بورایا: %(archives)s.',
     },
     # Author: Haqmar
@@ -363,6 +364,7 @@ msg = {
     'frr': {
         'archivebot-archive-full': u'(ARCHIIF FOL)',
         'archivebot-archive-summary': u'Bot: Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} faan [[%(from)s]].',
+        'archivebot-archiveheader': u'{{Archiif}}',
         'archivebot-older-than': u'ääler üs %(duration)s',
         'archivebot-page-summary': u'Bot: Archiwiare %(count)d {{PLURAL:%(count)d|triad|triader}} (%(why)s) efter %(archives)s.',
     },
@@ -378,7 +380,9 @@ msg = {
     },
     # Author: P. S. F. Freitas
     'gn': {
-        'archivebot-older-than': u'itujaveva',
+        'archivebot-archive-full': u'(JEHAI\'ATY CHOVI)',
+        'archivebot-older-than': u'ymaguareve %(duration)s gui',
+        'archivebot-page-summary': u'Bot: jehai\'aty %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) oĩ %(archives)s.',
     },
     # Author: KartikMistry
     'gu': {
@@ -408,12 +412,13 @@ msg = {
         'archivebot-page-summary': u'ארכוב {{PLURAL:%(count)d|שיחה אחת|%(count)d שיחות}} (%(why)s) אל %(archives)s.',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     # Author: संजीव कुमार
     'hi': {
         'archivebot-archive-full': u'{{पुरालेख पूर्ण}}',
-        'archivebot-archive-summary': u'रोबोट:%(count)d {{PLURAL:%(count)d|धागे|धागों}} को [[%(from)s]] से संगृहीत किया जा रहा है।',
-        'archivebot-older-than': u'%(समय) से पुराना',
-        'archivebot-page-summary': u'रोबोट:%(count)d {{PLURAL:%(count)d|धागे|धागों}} को (%(why)s) %(archives)s में संगृहीत किया जा रहा है।',
+        'archivebot-archive-summary': u'बॉट: %(count)d {{PLURAL:%(count)d|सूत्र|सूत्रों}} को [[%(from)s]] से संग्रहीत किया जा रहा है।',
+        'archivebot-older-than': u'%(duration)s से पुराना',
+        'archivebot-page-summary': u'बॉट:%(count)d {{PLURAL:%(count)d|सूत्र|सूत्रों}} को (%(why)s) %(archives)s में संग्रहीत किया जा रहा है।',
     },
     # Author: Thakurji
     'hif': {
@@ -534,6 +539,7 @@ msg = {
         'archivebot-archive-full': u'(ಪೂರ್ಣ ಸಂಗ್ರಹ )',
         'archivebot-older-than': u'ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ',
     },
+    # Author: IRTC1015
     # Author: Kwj2772
     # Author: Revi
     # Author: 아라
@@ -542,7 +548,7 @@ msg = {
         'archivebot-archive-summary': u'로봇: [[%(from)s]]에서 {{PLURAL:%(count)d|스레드}} %(count)d개를 보존합니다.',
         'archivebot-archiveheader': u'{{보존}}',
         'archivebot-older-than': u'%(duration)s 보다 오래됨',
-        'archivebot-page-summary': u'로봇: {{PLURAL:%(count)d|스레드}} %(count)d개(%(why)s)를 %(archives)s에 보존합니다.',
+        'archivebot-page-summary': u'봇: {{PLURAL:%(count)d|스레드}} %(count)d개(%(why)s)를 %(archives)s에 보존합니다.',
     },
     # Author: Purodha
     'ksh': {
@@ -576,11 +582,14 @@ msg = {
     'lrc': {
         'archivebot-older-than': u'کونه تر د',
     },
+    # Author: Aswanas
     # Author: Cyklopas
     # Author: Eitvys200
     'lt': {
         'archivebot-archive-full': u'(ARCHYVAS PILNAS)',
-        'archivebot-older-than': u'senesnis nei',
+        'archivebot-archive-summary': u'Robotas: Archyvavimas %(count)d {{PLURAL:%(count)d|thread|threads}} iš [[%(from)s]].',
+        'archivebot-older-than': u'senesni nei %(duration)s',
+        'archivebot-page-summary': u'Robotas: Archyvavimas %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) į %(archives)s.',
     },
     # Author: RMizo
     'lus': {
@@ -681,7 +690,7 @@ msg = {
         'archivebot-archive-full': u'(पूरा अभिलेख)',
         'archivebot-archive-summary': u'रोबोट : अभिलेखिकरण गर्दै  %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}  [[%(from)s]]बाट.',
         'archivebot-archiveheader': u'{{Talkarchive}}',
-        'archivebot-older-than': u'भन्दा पुरानो',
+        'archivebot-older-than': u'%(duration)s भन्दा पुरानो',
         'archivebot-page-summary': u'रोबोट: %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s)लाई  %(archives)s मा अभिलेखिकरण गरिँदै',
     },
     # Author: Eukesh
@@ -715,7 +724,7 @@ msg = {
     # Author: Xqt
     'no': {
         'archivebot-archive-full': u'(ARKIV FULLT)',
-        'archivebot-archive-summary': u'Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].',
+        'archivebot-archive-summary': u'Bot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].',
         'archivebot-archiveheader': u'{{Arkivert}}',
         'archivebot-older-than': u'eldre enn %(duration)s',
         'archivebot-page-summary': u'Bot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} (%(why)s) til %(archives)s.',
@@ -757,7 +766,7 @@ msg = {
     'pms': {
         'archivebot-archive-full': u'(ARCHIVI PIEN)',
         'archivebot-archive-summary': u'Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] da [[%(from)s]].',
-        'archivebot-older-than': u'pi vej che',
+        'archivebot-older-than': u'pi vej che %(duration)s',
         'archivebot-page-summary': u'Archivié %(count)d {{PLURAL:%(count)d|discussion|discussion]] (%(why)s) an %(archives)s.',
     },
     # Author: Ahmed-Najib-Biabani-Ibrahimkhel
@@ -910,9 +919,11 @@ msg = {
         'archivebot-older-than': u'tuan liu',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
+        'archivebot-archive-full': u'(กรุเต็ม)',
         'archivebot-archiveheader': u'{{กรุ}}',
-        'archivebot-older-than': u'เก่ากว่า',
+        'archivebot-older-than': u'เก่ากว่า %(duration)s',
     },
     # Author: AnakngAraw
     'tl': {

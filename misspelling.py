@@ -12,7 +12,7 @@ msg = {
     },
     # Author: Xuacu
     'ast': {
-        'misspelling-fixing': u'Robot: Iguando l\'enllaz mal escritu a %(page)s',
+        'misspelling-fixing': u'Bot: Iguando l\'enllaz mal escritu a %(page)s',
     },
     # Author: Baloch Afghanistan
     'bcc': {
@@ -42,8 +42,9 @@ msg = {
     'cs': {
         'misspelling-fixing': u'Robot: Opravuji pravopisně chybný odkaz na %(page)s',
     },
+    # Author: MGA73
     'da': {
-        'misspelling-fixing': u'Omdirigeringer af fejlstavninger: %(page)s',
+        'misspelling-fixing': u'Robot: Retter forkert stavede henvisninger til %(page)s',
     },
     'de': {
         'misspelling-fixing': u'Bot: korrigiere Link auf Falschschreibung: %(page)s',
@@ -87,6 +88,10 @@ msg = {
     'he': {
         'misspelling-fixing': u'בוט: מתקן קישור עם שגיאה לדף %(page)s',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'misspelling-fixing': u'बॉट: %(page)s की वर्तनी त्रुटी वाली कड़ी ठीक की',
+    },
     # Author: Csega
     'hu': {
         'misspelling-fixing': u'Bot: %(page)s lapra mutató, elírt link javítása',
@@ -107,9 +112,10 @@ msg = {
     'ja': {
         'misspelling-fixing': u'ロボットによる: 「%(page)s」へのリンクのスペル誤りを修正',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'misspelling-fixing': u'로봇: %(page)s 로의 링크 오타 고침',
+        'misspelling-fixing': u'봇: %(page)s 문서를 가리키는 링크의 오자를 고침',
     },
     # Author: Purodha
     'ksh': {
@@ -118,6 +124,10 @@ msg = {
     # Author: Robby
     'lb': {
         'misspelling-fixing': u'Bot:Falschgeschriwwene Link %(page)s verbessert',
+    },
+    # Author: Aswanas
+    'lt': {
+        'misspelling-fixing': u'Robotas: Klaidingos nuorodos pataisymas į %(page)s',
     },
     # Author: Jagwar
     'mg': {
@@ -149,6 +159,10 @@ msg = {
     # Author: Cocu
     'no': {
         'misspelling-fixing': u'Robot: Retter feilstavet lenke til %(page)s',
+    },
+    # Author: Cedric31
+    'oc': {
+        'misspelling-fixing': u'Robòt : Reparacion dels ligams mal ortografiats cap a %(page)s',
     },
     'pl': {
         'misspelling-fixing': u'Robot poprawia literówkę w linku do %(page)s',

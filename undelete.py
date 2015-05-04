@@ -13,17 +13,35 @@ msg = {
         'undelete-images': u'Edit summary when the bot undeletes all images on a page.\n\nParameters:\n* %(page)s - page where linked images are deleted\nSee also:\n* {{msg-pywikibot|Protect-links}}',
         'undelete-linked-pages': u'Edit summary when the bot undeletes all pages linked on a page.\n\nParameters:\n* %(page)s - page name\nSee also:\n* {{msg-pywikibot|Protect-links}}',
     },
+    # Author: Xuacu
+    'ast': {
+        'undelete-from-file': u'Bot: Restaurando una llista de páxines',
+        'undelete-images': u'Bot: Restaurando toles imaxes de la páxina %(page)s',
+        'undelete-linked-pages': u'Bot: Restaurando toles páxines enllazaes dende %(page)s',
+    },
     # Author: Red Winged Duck
     'be-x-old': {
         'undelete-from-file': u'Робат: аднаўленьне сьпісу старонак',
         'undelete-images': u'Робат: аднаўленьне ўсіх выяваў на старонцы %(page)s',
         'undelete-linked-pages': u'Робат: аднаўленьне ўсіх старонак, на якія ёсьць спасылкі з %(page)s',
     },
+    # Author: Gwenn-Ael
+    'br': {
+        'undelete-from-file': u'Robot : nullañ dilamadur ul listennad pajennoù',
+        'undelete-images': u'Robot : o tiverkañ dilamadur an holl skeudennoù diwar ar bajenn %(page)s")',
+        'undelete-linked-pages': u'Robot : O tiverkañ dilamadur an holl bajennoù liammet adalek %(page)s',
+    },
     # Author: Juandev
     'cs': {
         'undelete-from-file': u'Bot: Obnovuji seznam stránek',
         'undelete-images': u'Bot: Obnovuji všechny obrázky na stránce %(page)s',
         'undelete-linked-pages': u'Bot: Obnovuji všechny stránka na které je odkazováno ze %(page)s',
+    },
+    # Author: MGA73
+    'da': {
+        'undelete-from-file': u'Robot: Gendanner en liste af sider',
+        'undelete-images': u'Robot: Gendanner alle billeder på side %(page)s',
+        'undelete-linked-pages': u'Robot: Gendanner alle sider der henvises til fra %(page)s',
     },
     # Author: Metalhead64
     'de': {
@@ -55,6 +73,12 @@ msg = {
         'undelete-images': u'Robot : Annulation de la suppression de toutes les images de la page %(page)s',
         'undelete-linked-pages': u'Robot: Annulation de la suppression de toutes les pages liées à %(page)s',
     },
+    # Author: Murma174
+    'frr': {
+        'undelete-from-file': u'Bot: Haale en list faan sidjen turag.',
+        'undelete-images': u'Bot: Haale aal jo datein üüb det sidj %(page)s turag',
+        'undelete-linked-pages': u'Bot: Haale aal jo sidjen mä ferwisangen faan %(page)s turag',
+    },
     # Author: Elisardojm
     # Author: Toliño
     'gl': {
@@ -67,6 +91,12 @@ msg = {
         'undelete-from-file': u'בוט: שחזור רשימת דפים מחוקים',
         'undelete-images': u'בוט: שחזור כל התמונות שנמחקו בדף %(page)s',
         'undelete-linked-pages': u'בוט: שחזור כל הדפים שמקושרים מהדף %(page)s',
+    },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'undelete-from-file': u'बॉट: पृष्ठों की एक सूची पुनर्स्थापित कर रहा है',
+        'undelete-images': u'बॉट: %(page)s पृष्ठ पर मौजूद सभी चित्र पुनर्स्थापित कर रहा है',
+        'undelete-linked-pages': u'बॉट: %(page)s से जुड़े सभी पृष्ठ पुनर्स्थापित कर रहा है',
     },
     # Author: Dj
     # Author: Tacsipacsi
@@ -81,6 +111,12 @@ msg = {
         'undelete-images': u'Bot: Ripristinare tutte le immagini sulla pagina %(page)s',
         'undelete-linked-pages': u'Bot: Recuperare tutte le pagine collegate da %(page)s',
     },
+    # Author: IRTC1015
+    'ko': {
+        'undelete-from-file': u'봇: 목록의 문서를 되살림',
+        'undelete-images': u'봇: %(page)s 문서에 사용된 모든 그림을 되살림',
+        'undelete-linked-pages': u'봇: %(page)s 문서에서 가리키는 모든 문서를 되살림',
+    },
     # Author: Purodha
     'ksh': {
         'undelete-from-file': u'Bot: Ben en Leß vun Sigge aam wider holle.',
@@ -93,6 +129,12 @@ msg = {
         'undelete-images': u'Bot: All Fichieren op der Säit %(page)s restauréieren',
         'undelete-linked-pages': u'Bot: All Säite restauréieren déi vun der Säit %(page)s verlinkt sinn',
     },
+    # Author: Aswanas
+    'lt': {
+        'undelete-from-file': u'Robotas: Ištrinamas puslapių sąrašas',
+        'undelete-images': u'Robotas: Sugrąžinamos visos puslapio %(page)s nuotraukos',
+        'undelete-linked-pages': u'Robotas: Sugrąžinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s',
+    },
     # Author: Bjankuloski06
     'mk': {
         'undelete-from-file': u'Бот: Отповикано бришење на список на страници',
@@ -104,6 +146,12 @@ msg = {
         'undelete-from-file': u'Bot: Menyahhapus senarai laman',
         'undelete-images': u'Bot: Menyahhapus semua imej pada laman %(page)s',
         'undelete-linked-pages': u'Bot: Menyahhapus semua laman yang terpaut dari %(page)s',
+    },
+    # Author: सरोज कुमार ढकाल
+    'ne': {
+        'undelete-from-file': u'रोबोट: सूचीमा रहेका पृष्ठहरू मेट्दै',
+        'undelete-images': u'रोबोट:  %(page)s पृष्ठमा रहेका सबै तस्वीरहरु अनडिलिट गर्दै',
+        'undelete-linked-pages': u'बोट: %(page)s सँग जोडिएका र मेटिएका पानाहरू पुन:स्थापित गर्दै',
     },
     # Author: Siebrand
     'nl': {
@@ -124,17 +172,33 @@ msg = {
         'undelete-images': u'Robot: Gjenoppretter alle bilder på %(page)s',
         'undelete-linked-pages': u'Robot: Gjenoppretter alle sider lenket fra %(page)s',
     },
+    # Author: Pio387
+    'pl': {
+        'undelete-from-file': u'Robot przywraca strony z listy',
+        'undelete-images': u'Robot przywraca wszystkie pliki na stronie %(page)s',
+        'undelete-linked-pages': u'Robot przywraca wszystkie strony do których linkuje %(page)s',
+    },
     # Author: Vitorvicentevalente
     'pt': {
         'undelete-from-file': u'Robô: A restaurar lista de páginas',
         'undelete-images': u'Robô: A restaurar todas as imagens da página %(page)s',
         'undelete-linked-pages': u'Robô: A restaurar todas as páginas ligadas a partir de %(page)s',
     },
+    # Author: Minisarm
+    'ro': {
+        'undelete-from-file': u'Robot: Restaurat o listă de pagini',
+    },
     # Author: Dima st bk
     'ru': {
         'undelete-from-file': u'Бот: восстановление списка страниц',
         'undelete-images': u'Бот: восстановление всех изображений на странице %(page)s',
         'undelete-linked-pages': u'Бот: восстановление всех страниц, на которые ссылается %(page)s',
+    },
+    # Author: Milicevic01
+    'sr': {
+        'undelete-from-file': u'Бот: враћене странице из списка',
+        'undelete-images': u'Бот: враћене све слике које потичу из %(page)s',
+        'undelete-linked-pages': u'Бот: враћене све странице повезане са %(page)s',
     },
     # Author: Jopparn
     'sv': {

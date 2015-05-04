@@ -40,8 +40,9 @@ msg = {
         'add_text-adding': u'ৰবট যোগ দিছে %(adding)s',
     },
     # Author: Esbardu
+    # Author: Xuacu
     'ast': {
-        'add_text-adding': u'Robó: Añadiendo %(adding)s',
+        'add_text-adding': u'Bot: Añadiendo %(adding)s',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -235,8 +236,9 @@ msg = {
         'add_text-adding': u'בוט: מוסיף %(adding)s',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'add_text-adding': u'रोबोट:%(adding)s जोड़ रहा है',
+        'add_text-adding': u'बॉट: %(adding)s जोड़ रहा है',
     },
     'hr': {
         'add_text-adding': u'robot Dodaje %(adding)s',
@@ -305,9 +307,10 @@ msg = {
     'kn': {
         'add_text-adding': u'ರೋಬೋಟ್:ಸೇರಿಸುವುದರಿಂದ %(adding)s',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'add_text-adding': u'로봇: %(adding)s 추가',
+        'add_text-adding': u'봇: %(adding)s 추가',
     },
     'koi': {
         'add_text-adding': u'робот содтiс %(adding)s',
@@ -599,8 +602,9 @@ msg = {
     'tg': {
         'add_text-adding': u'робот илова карда истодааст %(adding)s',
     },
+    # Author: Octahedron80
     'th': {
-        'add_text-adding': u'โรบอต เพิ่ม %(adding)s',
+        'add_text-adding': u'บอต: เพิ่ม %(adding)s',
     },
     'tk': {
         'add_text-adding': u'robot goşdy %(adding)s',

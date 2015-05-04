@@ -29,7 +29,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'noreferences-add-tag': u'Robó: Amestando la etiqueta <references /> que falta',
+        'noreferences-add-tag': u'Bot: Amestando la etiqueta <references /> que falta',
     },
     # Author: Ebrahimi-amir
     'az': {
@@ -286,6 +286,10 @@ msg = {
     'no': {
         'noreferences-add-tag': u'Robot: Legger til manglende <references />-element',
     },
+    # Author: Cedric31
+    'oc': {
+        'noreferences-add-tag': u'Robòt : Apondon de la balisa <references /> mancanta',
+    },
     # Author: Xqt
     'pdc': {
         'noreferences-add-tag': u'Waddefresser: Fehlendes <references /> dezu geduh',
@@ -357,8 +361,9 @@ msg = {
         'noreferences-add-tag': u'தானியங்கி: <references /> குறியீடினை இணைத்தல்',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'noreferences-add-tag': u'โรบอต: เพิ่มแท็ก <references /> ที่หายไป',
+        'noreferences-add-tag': u'บอต: เพิ่มแท็ก <references /> ที่หายไป',
     },
     # Author: AnakngAraw
     'tl': {

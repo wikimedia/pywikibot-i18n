@@ -22,7 +22,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'editarticle-edit': u'Edición manual con robó: %(description)s',
+        'editarticle-edit': u'Edición manual con bot: %(description)s',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -157,8 +157,9 @@ msg = {
         'editarticle-edit': u'עריכה ידנית: %(description)s',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'editarticle-edit': u'रोबोट के साथ मैनुअल संपादन: %(description)s',
+        'editarticle-edit': u'बॉट के साथ मैनुअल संपादन: %(description)s',
     },
     # Author: Michawiki
     'hsb': {
@@ -202,9 +203,10 @@ msg = {
     'kn': {
         'editarticle-edit': u'ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(ವಿವರಣೆ)s',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'editarticle-edit': u'로봇으로 수동 편집: %(description)s',
+        'editarticle-edit': u'봇으로 수동 편집: %(description)s',
     },
     # Author: Purodha
     'ksh': {
@@ -271,6 +273,10 @@ msg = {
     # Author: Nghtwlkr
     'no': {
         'editarticle-edit': u'Manuell redigert med robot: %(description)s',
+    },
+    # Author: Cedric31
+    'oc': {
+        'editarticle-edit': u'Modificacion manuala gràcias a un bòt : %(description)s',
     },
     # Author: Shisir 1945
     'or': {
@@ -340,8 +346,9 @@ msg = {
         'editarticle-edit': u'Manualne sprowianiy z robotym: %(description)s',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'editarticle-edit': u'แก้ไขผ่านโรบอตด้วยตนเอง: %(description)s',
+        'editarticle-edit': u'แก้ไขผ่านบอตด้วยตนเอง: %(description)s',
     },
     # Author: AnakngAraw
     'tl': {

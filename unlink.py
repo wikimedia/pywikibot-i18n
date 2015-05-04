@@ -74,9 +74,10 @@ msg = {
     'cy': {
         'unlink-unlinking': u'Robot: Yn datgysylltu "%s"',
     },
+    # Author: MGA73
     # Author: Peter Alberti
     'da': {
-        'unlink-unlinking': u'Robot: fjerner henvisning til "%s"',
+        'unlink-unlinking': u'Robot: Fjerner henvisning til "%s"',
     },
     # Author: Purodha
     'de': {
@@ -144,6 +145,10 @@ msg = {
     'he': {
         'unlink-unlinking': u'בוט: מסיר קישורים לדף "%s"',
     },
+    # Author: Siddhartha Ghai
+    'hi': {
+        'unlink-unlinking': u'बॉट: "%s" की कड़ी हटा रहा है',
+    },
     # Author: Dj
     'hu': {
         'unlink-unlinking': u'Bot: „%s” hivatkozás törlése',
@@ -164,9 +169,10 @@ msg = {
     'is': {
         'unlink-unlinking': u'Vélmenni: Aftengi "%s"',
     },
+    # Author: Beta16
     # Author: Nemo bis
     'it': {
-        'unlink-unlinking': u'Bot: Eliminazione collegamenti a "%s"',
+        'unlink-unlinking': u'Bot: eliminazione collegamenti a "%s"',
     },
     # Author: Shirayuki
     'ja': {
@@ -176,9 +182,10 @@ msg = {
     'jv': {
         'unlink-unlinking': u'Bot: Medhot pranala "%s"',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'unlink-unlinking': u'로봇: "%s" 링크 제거 중',
+        'unlink-unlinking': u'봇: "%s" 링크 제거',
     },
     # Author: Purodha
     'ksh': {
@@ -314,6 +321,10 @@ msg = {
     # Author: Aswn
     'ta': {
         'unlink-unlinking': u'தானியங்கி: "%s" இணைப்பு நீக்கப்படுகின்றது',
+    },
+    # Author: Octahedron80
+    'th': {
+        'unlink-unlinking': u'บอต: ลบถาวร "%s"',
     },
     # Author: AnakngAraw
     'tl': {

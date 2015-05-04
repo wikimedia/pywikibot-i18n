@@ -41,10 +41,10 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'featured-featured': u'Robó: %(page)s ye un artículu destacáu',
-        'featured-former': u'Robó: %(page)s ye un artículu destacáu anterior',
-        'featured-good': u'Robó: %(page)s ye un artículu bonu',
-        'featured-list': u'Robó: %(page)s ye una llista destacada',
+        'featured-featured': u'Bot: %(page)s ye un artículu destacáu',
+        'featured-former': u'Bot: %(page)s ye un artículu destacáu anterior',
+        'featured-good': u'Bot: %(page)s ye un artículu bonu',
+        'featured-list': u'Bot: %(page)s ye una llista destacada',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -298,11 +298,12 @@ msg = {
         'featured-list': u'בוט: הדף %(page)s הוא רשימה מומלצת',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'featured-featured': u'रोबोट: %(page)s एक निर्वाचित लेख है',
-        'featured-former': u'रोबोट: %(page)s एक पूर्व निर्वाचित लेख है',
-        'featured-good': u'रोबोट: %(page)s एक अच्छा लेख है',
-        'featured-list': u'रोबोट: %(page)s एक निर्वाचित सूची है',
+        'featured-featured': u'बॉट: %(page)s एक निर्वाचित लेख है',
+        'featured-former': u'बॉट: %(page)s एक पूर्व निर्वाचित लेख है',
+        'featured-good': u'बॉट: %(page)s एक अच्छा लेख है',
+        'featured-list': u'बॉट: %(page)s एक निर्वाचित सूची है',
     },
     'hr': {
         'featured-featured': u'Bot: Interwiki za izabrane članke za %(page)s',
@@ -508,6 +509,13 @@ msg = {
     'nv': {
         'featured-featured': u'Naaltsoos %(page)s kʼad nizhónígo ályaa',
     },
+    # Author: Cedric31
+    'oc': {
+        'featured-featured': u'Bòt : %(page)s es un article de qualitat',
+        'featured-former': u'Bòt : %(page)s es un article de qualitat descaigut',
+        'featured-good': u'Robòt : %(page)s es un bon article',
+        'featured-list': u'Bòt : %(page)s es una lista de qualitat',
+    },
     # Author: Shisir 1945
     'or': {
         'featured-featured': u'ରୋବଟ୍‌: %(page)s ହେଉଛି ଗୋଟିଏ ବିଶେଷ ଲେଖା',
@@ -622,10 +630,11 @@ msg = {
         'featured-good': u'தானியங்கி: %(page)s ஒரு நல்ல கட்டுரையாகும்',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'featured-featured': u'โรบอต: ลิงก์บทความคัดสรร %(page)s',
-        'featured-former': u'โรบอต: %(page)s เคยเป็นบทความคัดสรร',
-        'featured-good': u'โรบอต: %(page)s เป็นบทความคุณภาพ',
+        'featured-featured': u'บอต: %(page)s เป็นบทความคัดสรร',
+        'featured-former': u'บอต: %(page)s เป็นอดีตบทความคัดสรร',
+        'featured-good': u'บอต: %(page)s เป็นบทความคุณภาพ',
         'featured-list': u'บอต: %(page)s เป็นรายชื่อคัดสรร',
     },
     # Author: AnakngAraw
@@ -684,8 +693,10 @@ msg = {
         'featured-good': u'Bot: %(page)s là một bài viết chất lượng tốt',
         'featured-list': u'Bot: %(page)s là một danh sách chọn lọc',
     },
+    # Author: Malafaya
     'vo': {
         'featured-featured': u'Bot: Yüm yegeda gudik tefü %(page)s',
+        'featured-good': u'Bot: Pad: %(page)s binon yeged gudik',
     },
     # Author: פוילישער
     'yi': {

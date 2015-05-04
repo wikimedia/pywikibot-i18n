@@ -41,8 +41,9 @@ msg = {
     'cs': {
         'selflink-remove': u'Robot odstranil odkaz na název článku',
     },
+    # Author: MGA73
     'da': {
-        'selflink-remove': u'Bot: fjerner selvreference',
+        'selflink-remove': u'Robot: Fjerner selvreference',
     },
     'de': {
         'selflink-remove': u'Bot: Entferne Selbstlinks',
@@ -101,12 +102,17 @@ msg = {
     'ko': {
         'selflink-remove': u'봇: 자기링크 제거',
     },
+    # Author: Purodha
     'ksh': {
-        'selflink-remove': u'Bot: Ene Lengk vun de Sigg op sesch sellver, erus jenumme.',
+        'selflink-remove': u'Bot: Ene Lengk vun de Sigg op sesch sellver weed erus jenumme.',
     },
     # Author: Robby
     'lb': {
         'selflink-remove': u'Bot: Linken op déi selwecht Säit ewechhuelen',
+    },
+    # Author: Aswanas
+    'lt': {
+        'selflink-remove': u'Robotas: Pašalinti vidines nuorodas',
     },
     # Author: Jagwar
     'mg': {
@@ -123,6 +129,10 @@ msg = {
     # Author: Anakmalaysia
     'ms': {
         'selflink-remove': u'Bot: Menggugurkan pautan sendiri',
+    },
+    # Author: सरोज कुमार ढकाल
+    'ne': {
+        'selflink-remove': u'बोट : सेल्फ लिङ्कहरू हटाउँदै',
     },
     # Author: Siebrand
     'nl': {
@@ -143,6 +153,10 @@ msg = {
     },
     'ru': {
         'selflink-remove': u'Бот: удалил заголовок-ссылку в тексте. см.',
+    },
+    # Author: Milicevic01
+    'sr': {
+        'selflink-remove': u'Бот: уклоњени selflink-и',
     },
     # Author: Lokal Profil
     'sv': {

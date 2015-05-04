@@ -58,11 +58,11 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'delete-from-category': u'Robó: Desaniciando toles páxines de la categoría %(page)s',
-        'delete-from-file': u'Robó: Desaniciando una llista de páxines.',
-        'delete-images': u'Robó: Desaniciando toles imaxes de la páxina %(page)s',
-        'delete-linked-pages': u'Robó: Desaniciando toles páxines enllazaes dende %(page)s',
-        'delete-referring-pages': u'Robó: Desaniciando toles páxines con referencia dende %(page)s',
+        'delete-from-category': u'Bot: Desaniciando toles páxines de la categoría %(page)s',
+        'delete-from-file': u'Bot: Desaniciando una llista de páxines.',
+        'delete-images': u'Bot: Desaniciando toles imaxes de la páxina %(page)s',
+        'delete-linked-pages': u'Bot: Desaniciando toles páxines enllazaes dende %(page)s',
+        'delete-referring-pages': u'Bot: Desaniciando toles páxines con referencia dende %(page)s',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -355,12 +355,13 @@ msg = {
         'delete-referring-pages': u'בוט: מוחק את כל הדפים המקשרים לדף %(page)s.',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'delete-from-category': u'रोबोट: %(page)s श्रेणी से सभी पन्नों को हटाया जा रहा है',
-        'delete-from-file': u'रोबोट: पन्नों की सूची में से पृष्ठ हटाए जा रहे हैं।',
-        'delete-images': u'रोबोट: पृष्ठ %(page)s से सभी चित्रों को हटाया जा रहा है',
-        'delete-linked-pages': u'रोबोट: %(page)s से लिंक किये गए सभी पन्नों को हटाया जा रहा है',
-        'delete-referring-pages': u'रोबोट: %(page)s से जुड़े हुए सभी पन्नों को हटाया जा रहा है',
+        'delete-from-category': u'बॉट: %(page)s श्रेणी से सभी पन्नों को हटाया जा रहा है',
+        'delete-from-file': u'बॉट: पन्नों की सूची में से पृष्ठ हटाए जा रहे हैं।',
+        'delete-images': u'बॉट: पृष्ठ %(page)s पर मौजूद सभी चित्रों को हटाया जा रहा है',
+        'delete-linked-pages': u'बॉट: %(page)s से लिंक किये गए सभी पन्नों को हटाया जा रहा है',
+        'delete-referring-pages': u'बॉट: %(page)s से जुड़े हुए सभी पन्नों को हटाया जा रहा है',
     },
     # Author: Dj
     'hu': {
@@ -416,11 +417,11 @@ msg = {
     # Author: Nemo bis
     # Author: Ricordisamoa
     'it': {
-        'delete-from-category': u'Bot: Cancellazione di tutte le pagine dalla categoria %(page)s',
+        'delete-from-category': u'Bot: cancellazione di tutte le pagine dalla categoria %(page)s',
         'delete-from-file': u'Bot: cancello un elenco di pagine.',
         'delete-images': u'Bot: cancellazione di tutte le immagini contenute nella pagina %(page)s',
         'delete-linked-pages': u'Bot: cancellazione di tutte le pagine collegate a %(page)s',
-        'delete-referring-pages': u'Bot: Cancellazione di tutte le pagine con link verso %(page)s',
+        'delete-referring-pages': u'Bot: cancellazione di tutte le pagine con link da %(page)s',
     },
     # Author: Fryed-peach
     # Author: Shirayuki
@@ -447,13 +448,14 @@ msg = {
         'delete-linked-pages': u'ರೋಬೋಟ್:% (ಪುಟ) ಗೆ ಸಂಬಂದ ಪಟ್ಟ  ಎಲ್ಲ ಲಿಂಕ್ ಎಲ್ಲಾ ಪುಟಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
         'delete-referring-pages': u'ರೋಬೋಟ್: % (ಪುಟ)ಗಳಲ್ಲಿರು ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'delete-from-category': u'로봇: %(page)s 분류에 있는 모든 문서 삭제',
-        'delete-from-file': u'로봇: 문서의 목록을 삭제합니다.',
-        'delete-images': u'로봇: %(page)s 문서에 모든 그림 삭제',
-        'delete-linked-pages': u'로봇: %(page)s에 연결한 모든 문서 삭제',
-        'delete-referring-pages': u'로봇: %(page)s에서 참고하는 모든 문서 삭제',
+        'delete-from-category': u'봇: %(page)s 분류의 모든 문서를 삭제',
+        'delete-from-file': u'봇: 목록의 문서를 삭제',
+        'delete-images': u'봇: %(page)s 문서에 사용된 모든 그림 삭제',
+        'delete-linked-pages': u'봇: %(page)s에서 가리키는 모든 문서를 삭제',
+        'delete-referring-pages': u'봇: %(page)s에서 참고하는 모든 문서 삭제',
     },
     # Author: Purodha
     # Author: Xqt
@@ -463,6 +465,10 @@ msg = {
         'delete-images': u'Bot: Alle Sigge us dä Sigg %(page)s wääde fottjeschmeße.',
         'delete-linked-pages': u'Bot: Mer schmiiße alle Sigge fott, woh %(page)s ene Lenk drop hät.',
         'delete-referring-pages': u'Bot: Mer schmiiße alle Sigge fott, di ene Lenk op %(page)s han.',
+    },
+    # Author: George Animal
+    'ku': {
+        'delete-from-file': u'Bot: Lîsteyeka rûpelan jê dibe.',
     },
     # Author: Викиней
     'ky': {
@@ -480,11 +486,12 @@ msg = {
         'delete-linked-pages': u'Bot: All Säite läschen déi vun der Säit %(page)s verlinkt sinn',
         'delete-referring-pages': u'Bot: All Säite läschen déi mat der Säit %(page)s verlinkt sinn',
     },
+    # Author: Aswanas
     # Author: Homo
     # Author: Hugo.arg
     'lt': {
         'delete-from-category': u'robotas: Trinami visi puslapiai iš kategorijos %(page)s',
-        'delete-from-file': u'Robotas: Trinamas failų sąrašas.',
+        'delete-from-file': u'Robotas: Ištrinamas puslapių sąrašas.',
         'delete-images': u'robotas: Trinami visi puslapio %(page)s paveikslėliai',
         'delete-linked-pages': u'robotas: Trinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s',
         'delete-referring-pages': u'robotas: Trinami visi puslapiai, rodantys į %(page)s',
@@ -597,6 +604,14 @@ msg = {
         'delete-images': u'Bot: Sletter alle bilder på siden %(page)s',
         'delete-linked-pages': u'Bot: Sletter alle sider som lenkes fra %(page)s',
         'delete-referring-pages': u'Bot: Sletter alle sider som lenker til %(page)s',
+    },
+    # Author: Cedric31
+    'oc': {
+        'delete-from-category': u'Robòt : Suprimís totas las paginas de la categoria %(page)s',
+        'delete-from-file': u'Robòt : Supression d’una lista de paginas.',
+        'delete-images': u'Robòt : Suprimís totes los fichièrs sus la pagina %(page)s',
+        'delete-linked-pages': u'Robòt : Suprimís totas las paginas ligadas dempuèi %(page)s',
+        'delete-referring-pages': u'Robòt : Suprimís totas las paginas que referisson a %(page)s',
     },
     # Author: Shisir 1945
     'or': {
@@ -742,12 +757,13 @@ msg = {
         'delete-linked-pages': u'தானியங்கி:%(page)s பக்கத்துடன் இணைக்கப்பட்டுள்ள அனைத்து பக்கங்களும் நீக்கப்படுகின்றன',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'delete-from-category': u'โรบอต: ลบหน้าทั้งหมดจากหมวดหมู่ %(page)s',
+        'delete-from-category': u'บอต: ลบหน้าทั้งหมดจากหมวดหมู่ %(page)s',
         'delete-from-file': u'บอต: ลบหน้าจากไฟล์รายการ',
-        'delete-images': u'โรบอต: ลบรูปภาพทั้งหมดจากหน้า %(page)s',
-        'delete-linked-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์จาก %(page)s',
-        'delete-referring-pages': u'โรบอต: ลบหน้าทั้งหมดที่ลิงก์ไป %(page)s',
+        'delete-images': u'บอต: ลบรูปภาพทั้งหมดจากหน้า %(page)s',
+        'delete-linked-pages': u'บอต: ลบหน้าทั้งหมดที่ลิงก์จาก %(page)s',
+        'delete-referring-pages': u'บอต: ลบหน้าทั้งหมดที่ลิงก์ไป %(page)s',
     },
     # Author: AnakngAraw
     'tl': {
@@ -803,6 +819,12 @@ msg = {
         'delete-images': u'Bot: Xóa tất cả các hình ảnh khỏi trang “%(page)s”',
         'delete-linked-pages': u'Bot: Xóa tất cả các trang được liên kết từ “%(page)s”',
         'delete-referring-pages': u'Bot: Xóa tất cả các trang có liên kết đến “%(page)s”',
+    },
+    # Author: Malafaya
+    'vo': {
+        'delete-from-category': u'Bot: Moükon padis valik in klad: %(page)s',
+        'delete-from-file': u'Bot: Moükon lisedi padas.',
+        'delete-images': u'Bot: Moükon magodis valik su pad: %(page)s',
     },
     # Author: Harvzsf
     'war': {

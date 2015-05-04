@@ -113,6 +113,10 @@ msg = {
     'lb': {
         'spamremove-remove': u'Linken op Spam-Siten %(url)s ewechhuelen',
     },
+    # Author: Aswanas
+    'lt': {
+        'spamremove-remove': u'Šalina nuorodas į šiukšlių svetainę %(url)s',
+    },
     # Author: Jagwar
     'mg': {
         'spamremove-remove': u'Fanalana ny rohy mankany amin\'ny tranonkala voalisi-mainty %(url)s',

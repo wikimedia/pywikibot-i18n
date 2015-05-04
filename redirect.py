@@ -68,11 +68,11 @@ msg = {
     # Author: Xuacu
     'ast': {
         'redirect-broken-redirect-template': u'{{Destruir|La páxina a la que redirixe nun esiste|--~~~~}}',
-        'redirect-fix-broken-moved': u'Robó: Arreglu de redireición frañada a la páxina de destín treslladada "%(to)s"',
-        'redirect-fix-double': u'Robó: Iguando la redireición doble a %(to)s',
-        'redirect-fix-loop': u'Robó: Iguando la redireición cíclica a %(to)s',
-        'redirect-remove-broken': u'Robó: Redireición a una páxina desaniciada o que nun esiste',
-        'redirect-remove-loop': u'Robó: El destín de la redireición forma un bucle de redireición',
+        'redirect-fix-broken-moved': u'Bot: Arreglu de redireición frañada a la páxina de destín treslladada "%(to)s"',
+        'redirect-fix-double': u'Bot: Iguando la redireición doble a %(to)s',
+        'redirect-fix-loop': u'Bot: Iguando la redireición cíclica a %(to)s',
+        'redirect-remove-broken': u'Bot: Redireición a una páxina desaniciada o que nun esiste',
+        'redirect-remove-loop': u'Bot: El destín de la redireición forma un bucle de redireición',
     },
     # Author: AZISS
     # Author: Cekli829
@@ -524,14 +524,15 @@ msg = {
         'redirect-remove-broken': u'Бот: Айдату нысанасы жоқ болды',
     },
     # Author: Cwt96
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
         'redirect-broken-redirect-template': u'{{ㅅ}}',
-        'redirect-fix-broken-moved': u'로봇: %(to)s(으)로 옮긴 대상 문서로 끊긴 넘겨주기 고침',
-        'redirect-fix-double': u'로봇: %(to)s(으)로 이중 넘겨주기 고침',
-        'redirect-fix-loop': u'로봇: %(to)s(으)로 재귀적인 넘겨주기 고침',
-        'redirect-remove-broken': u'로봇: 끊긴 넘겨주기',
-        'redirect-remove-loop': u'로봇: 넘겨주기 대상이 재귀적인 넘겨주기로 생김',
+        'redirect-fix-broken-moved': u'봇: 옮겨진 %(to)s 문서를 가리키도록 끊긴 넘겨주기를 고침',
+        'redirect-fix-double': u'봇: %(to)s 문서를 가리키도록 이중 넘겨주기 고침',
+        'redirect-fix-loop': u'봇: %(to)s(으)로 재귀적인 넘겨주기 고침',
+        'redirect-remove-broken': u'봇: 끊긴 넘겨주기',
+        'redirect-remove-loop': u'봇: 넘겨주기 대상이 재귀적인 넘겨주기를 형성함',
     },
     # Author: Purodha
     'ksh': {
@@ -576,11 +577,15 @@ msg = {
         'redirect-remove-broken': u'Robot: de doelpagina van de doorverwiezing besjteit neet',
         'redirect-remove-loop': u'Doorverwiezing vörmp \'n óneindige lus',
     },
+    # Author: Aswanas
     # Author: Hugo.arg
     # Author: Mantak111
     'lt': {
+        'redirect-fix-broken-moved': u'Robotas: Pataiso sugadintą nuorodą į perkeltą puslapį %(to)s',
         'redirect-fix-double': u'robotas: Taisomas dvigubas peradresavimas → %(to)s',
+        'redirect-fix-loop': u'Robotas: Pataiso nukreipimo ciklą į %(to)s',
         'redirect-remove-broken': u'robotas: peradresavimas į ištrintą ar nesantį puslapį',
+        'redirect-remove-loop': u'Bot: Nukreipimo tikslas formuoja nukreipimo ciklą',
     },
     # Author: StefanusRA
     'map-bms': {
@@ -771,6 +776,7 @@ msg = {
     # Author: Firilacroco
     # Author: Minisarm
     'ro': {
+        'redirect-fix-broken-moved': u'Robot: Corectat redirecționare greșită către pagina țintă redenumită %(to)s',
         'redirect-fix-double': u'Robot: Reparat dubla redirecționare înspre %(to)s',
         'redirect-fix-loop': u'Robot: Reparat bucla de redirecționare către %(to)s',
         'redirect-remove-broken': u'Robot: Redirecționare către o pagină ștearsă sau inexistentă',
@@ -879,13 +885,14 @@ msg = {
         'redirect-remove-broken': u'[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
         'redirect-broken-redirect-template': u'{{ลบ|หน้าเปลี่ยนทางเสีย}}',
-        'redirect-fix-broken-moved': u'โรบอต: แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s',
-        'redirect-fix-double': u'โรบอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน → %(to)s',
-        'redirect-fix-loop': u'โรบอต: แก้หน้าเปลี่ยนทางวนรอบ → %(to)s',
-        'redirect-remove-broken': u'โรบอต: หน้าเปลี่ยนทางเสีย',
-        'redirect-remove-loop': u'โรบอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ',
+        'redirect-fix-broken-moved': u'บอต: แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s',
+        'redirect-fix-double': u'บอต: แก้หน้าเปลี่ยนทางซ้ำซ้อนไปเป็น %(to)s',
+        'redirect-fix-loop': u'บอต: แก้หน้าเปลี่ยนทางวนรอบไปเป็น %(to)s',
+        'redirect-remove-broken': u'บอต: หน้าเปลี่ยนทางถูกลบหรือหน้าไม่มีอยู่',
+        'redirect-remove-loop': u'บอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ',
     },
     # Author: AnakngAraw
     'tl': {

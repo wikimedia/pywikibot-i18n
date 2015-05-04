@@ -28,7 +28,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'replace-replacing': u'Robó: Troquéu automáticu de testu %(description)s',
+        'replace-replacing': u'Bot: Troquéu automáticu de testu %(description)s',
     },
     # Author: Khutuck
     'az': {
@@ -293,8 +293,9 @@ msg = {
         'replace-replacing': u'Bot: automatiese tekste vervöngen %(description)s',
     },
     # Author: RajeshPandey
+    # Author: सरोज कुमार ढकाल
     'ne': {
-        'replace-replacing': u'बोट: स्वचालित रुपमा हरफहरु परिवर्तन गरिएको %(description)s',
+        'replace-replacing': u'बोट: स्वचालित पाठ परिवर्तन %(description)s',
     },
     # Author: Siebrand
     'nl': {
@@ -370,8 +371,9 @@ msg = {
         'replace-replacing': u'தானியங்கி:  தானியக்கமாய் உரை மாற்றம் %(description)s',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'replace-replacing': u'โรบอต: แทนที่ข้อความโดยอัตโนมัติ %(description)s',
+        'replace-replacing': u'บอต: แทนที่ข้อความโดยอัตโนมัติ %(description)s',
     },
     # Author: AnakngAraw
     'tl': {

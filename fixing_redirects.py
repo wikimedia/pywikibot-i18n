@@ -30,7 +30,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'fixing_redirects-fixing': u'Robó: Iguando redireiciones',
+        'fixing_redirects-fixing': u'Bot: Iguando redireiciones',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -169,8 +169,9 @@ msg = {
         'fixing_redirects-fixing': u'בוט: מתקן הפניות',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'fixing_redirects-fixing': u'बॉट:पुनर्निर्देशन ठीक कर रहा है',
+        'fixing_redirects-fixing': u'बॉट: पुनर्प्रेषण ठीक कर रहा है',
     },
     # Author: Ex13
     'hr': {
@@ -294,6 +295,10 @@ msg = {
     'no': {
         'fixing_redirects-fixing': u'Robot: Retter omdirigeringer',
     },
+    # Author: Cedric31
+    'oc': {
+        'fixing_redirects-fixing': u'Robòt : Correccion de las redireccions',
+    },
     'pl': {
         'fixing_redirects-fixing': u'Bot: naprawa przekierowań',
     },
@@ -367,8 +372,9 @@ msg = {
         'fixing_redirects-fixing': u'బాటు: దారిమార్పులను సరిచేసింది',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'fixing_redirects-fixing': u'โรบอต: แก้หน้าเปลี่ยนทาง',
+        'fixing_redirects-fixing': u'บอต: แก้หน้าเปลี่ยนทาง',
     },
     # Author: AnakngAraw
     'tl': {

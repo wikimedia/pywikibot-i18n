@@ -16,11 +16,15 @@ msg = {
     },
     # Author: Xuacu
     'ast': {
-        'blockpageschecker-summary': u'Robó: Desaniciando plantía anticuada',
+        'blockpageschecker-summary': u'Bot: Desaniciando plantía anticuada',
     },
     # Author: 1AnuraagPandey
     'awa': {
         'blockpageschecker-summary': u'बॉट:अप्रचलित साँचन् कय हटावत है',
+    },
+    # Author: Mousa
+    'azb': {
+        'blockpageschecker-summary': u'بوت: وقتی گئچمیش شابلون سیلینیر',
     },
     # Author: Рустам Нурыев
     'ba': {
@@ -127,8 +131,9 @@ msg = {
         'blockpageschecker-summary': u'בוט: מסיר תבנית שעבר זמנה',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'blockpageschecker-summary': u'बॉट:अप्रचलित साँचो को हटाया जा रहा है',
+        'blockpageschecker-summary': u'बॉट: पुराने साँचे को हटाया जा रहा है',
     },
     # Author: Csega
     # Author: Dj
@@ -167,6 +172,10 @@ msg = {
     # Author: Robby
     'lb': {
         'blockpageschecker-summary': u'Bot: Vereelste Schabloun gouf geläscht',
+    },
+    # Author: Aswanas
+    'lt': {
+        'blockpageschecker-summary': u'Bot: trina pasenusį šabloną',
     },
     # Author: Jagwar
     'mg': {
@@ -257,6 +266,10 @@ msg = {
     # Author: WikiPhoenix
     'sv': {
         'blockpageschecker-summary': u'Bot: Raderar föråldrad mall',
+    },
+    # Author: Octahedron80
+    'th': {
+        'blockpageschecker-summary': u'บอต: ลบแม่แบบล้าสมัย',
     },
     # Author: Meelo
     'tr': {

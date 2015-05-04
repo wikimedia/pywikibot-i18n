@@ -26,7 +26,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'djvutext-creating': u'Robó: Creando una páxina con testu sacáu de DjVu',
+        'djvutext-creating': u'Bot: Creando una páxina con testu sacáu de DjVu',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -156,8 +156,9 @@ msg = {
         'djvutext-creating': u'בוט: יוצר דף עם טקסט שיוצר מ־DjVu',
     },
     # Author: Shubhamkanodia
+    # Author: Siddhartha Ghai
     'hi': {
-        'djvutext-creating': u'रोबोट: DjVu से निकाले गए पाठ के साथ पृष्ठ बनाया जा रहा है',
+        'djvutext-creating': u'बॉट: DjVu से निकाले गए पाठ के साथ पृष्ठ बनाया जा रहा है',
     },
     # Author: Dj
     'hu': {
@@ -195,9 +196,10 @@ msg = {
     'kn': {
         'djvutext-creating': u'ರೋಬೋಟ್: DjVu ಯಿಂದ ಹೊರತೆಗೆದ ಪಠ್ಯದಿಂದ  ರಚಿಸಲಾದ ಪುಟ',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'djvutext-creating': u'로봇: DjVu에서 추출한 문장으로 문서를 만듦',
+        'djvutext-creating': u'봇: DjVu에서 추출한 문장으로 문서를 만듦',
     },
     # Author: Purodha
     'ksh': {
@@ -258,6 +260,10 @@ msg = {
     # Author: Nghtwlkr
     'no': {
         'djvutext-creating': u'Robot: Oppretter side med tekst som er trukket ut fra DjVu',
+    },
+    # Author: Cedric31
+    'oc': {
+        'djvutext-creating': u'Robòt : Creacion de la pagina amb lo tèxte extrach dempuèi DjVu',
     },
     # Author: Shisir 1945
     'or': {
@@ -324,8 +330,9 @@ msg = {
         'djvutext-creating': u'Robot: Złōnaczyniy zajty z Djvu',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'djvutext-creating': u'โรบอต: สร้างหน้าโดยเนื้อหานำมาจาก DjVu',
+        'djvutext-creating': u'บอต: สร้างหน้าโดยเนื้อหานำมาจาก DjVu',
     },
     # Author: AnakngAraw
     'tl': {

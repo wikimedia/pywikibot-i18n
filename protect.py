@@ -36,11 +36,11 @@ msg = {
     },
     # Author: Xuacu
     'ast': {
-        'protect-category': u'Robó: Protexendo toles páxines de la categoría %(cat)s',
-        'protect-images': u'Robó: Protexendo toles imaxes de la páxina %(page)s',
-        'protect-links': u'Robó: Protexendo toles páxines enllazaes dende %(page)s',
-        'protect-ref': u'Robó: Protexendo toles páxines con referencia dende %(page)s',
-        'protect-simple': u'Robó: Protexendo una llista de ficheros.',
+        'protect-category': u'Bot: Protexendo toles páxines de la categoría %(cat)s',
+        'protect-images': u'Bot: Protexendo toles imaxes de la páxina %(page)s',
+        'protect-links': u'Bot: Protexendo toles páxines enllazaes dende %(page)s',
+        'protect-ref': u'Bot: Protexendo toles páxines con referencia dende %(page)s',
+        'protect-simple': u'Bot: Protexendo una llista de ficheros.',
     },
     # Author: Baloch Afghanistan
     'bcc': {
@@ -100,11 +100,12 @@ msg = {
         'protect-simple': u'Robot: Zamykám seznam souborů.',
     },
     # Author: Christian List
+    # Author: MGA73
     'da': {
-        'protect-category': u'Robot: Beskytter alle sider fra kategorien %(cat)s',
+        'protect-category': u'Robot: Beskytter alle sider i kategorien %(cat)s',
         'protect-images': u'Robot: Beskytter alle billeder på siden %(page)s',
-        'protect-links': u'Robot: Beskytter alle sider som henvises fra %(page)s',
-        'protect-ref': u'Robot: Beskytter alle sider som henviser fra %(page)s',
+        'protect-links': u'Robot: Beskytter alle sider som henvises til fra %(page)s',
+        'protect-ref': u'Robot: Beskytter alle sider som henviser til %(page)s',
         'protect-simple': u'Robot: Beskytter en liste af filer.',
     },
     # Author: Metalhead64
@@ -215,6 +216,14 @@ msg = {
         'protect-ref': u'בוט: מגן על כל הדפים המקשרים לדף %(page)s.',
         'protect-simple': u'בוט: מגן על רשימת דפים',
     },
+    # Author: संजीव कुमार
+    'hi': {
+        'protect-category': u'बॉट: श्रेणी %(cat)s के सभी पृष्ठों को सुरक्षित कर रहा है',
+        'protect-images': u'बॉट: पृष्ठ %(page)s के सभी चित्र सुरक्षित किए जा रहे हैं',
+        'protect-links': u'बॉट: %(page)s से जुड़े सभी पृष्ठों को सुरक्षित कर रहा है',
+        'protect-ref': u'बॉट: %(page)s से सम्बंधित सभी पृष्ठों को सुरक्षित कर रहा है।',
+        'protect-simple': u'बॉट: फाइलों की सूची को सुरक्षित कर रहा है।',
+    },
     # Author: Csega
     # Author: Dj
     'hu': {
@@ -244,11 +253,11 @@ msg = {
     # Author: Beta16
     # Author: Ricordisamoa
     'it': {
-        'protect-category': u'Bot: Protezione di tutte le pagine nella categoria %(cat)s',
+        'protect-category': u'Bot: protezione di tutte le pagine nella categoria %(cat)s',
         'protect-images': u'Bot: protezione di tutte le immagini contenute nella pagina %(page)s',
         'protect-links': u'Bot: protezione di tutte le pagine collegate a %(page)s',
-        'protect-ref': u'Bot: Protezione di tutte le pagine con link verso %(page)s',
-        'protect-simple': u'Bot: Protezione di una lista di file.',
+        'protect-ref': u'Bot: protezione di tutte le pagine con link da %(page)s',
+        'protect-simple': u'Bot: protezione di una lista di file.',
     },
     # Author: Shirayuki
     'ja': {
@@ -259,12 +268,13 @@ msg = {
         'protect-simple': u'ロボットによる: ファイルのリストを保護',
     },
     # Author: Hym411
+    # Author: IRTC1015
     # Author: Revi
     'ko': {
         'protect-category': u'로봇: %(cat)s의 모든 문서를 보호',
-        'protect-images': u'로봇: %(page)s에서 사용하는 모든 파일 보호',
+        'protect-images': u'봇: %(page)s 문서에 사용된 모든 그림 보호',
         'protect-links': u'로봇: %(page)s에 연결한 모든 문서 보호',
-        'protect-ref': u'로봇: %(page)s에서 참고하는 모든 문서 보호',
+        'protect-ref': u'봇: %(page)s에서 참고하는 모든 문서 보호',
         'protect-simple': u'로봇: 파일의 목록을 보호합니다.',
     },
     # Author: Purodha
@@ -282,6 +292,14 @@ msg = {
         'protect-links': u'Bot: All Säite spären déi vun der Säit %(page)s verlinkt sinn',
         'protect-ref': u'Bot: All Säite spären, déi op d\'Säit %(page)s linken',
         'protect-simple': u'Bot: Eng Lëscht vu Fichiere spären.',
+    },
+    # Author: Aswanas
+    'lt': {
+        'protect-category': u'Robotas: Išsaugomi visi puslapiai iš kategorijos %(cat)s',
+        'protect-images': u'Robotas: Išsaugomos visos nuotraukos puslapyje %(page)s',
+        'protect-links': u'Robotas: Išsaugomi visi puslapiai, į kuriuos yra nuoroda iš %(page)s',
+        'protect-ref': u'Robotas: Išsaugomi visi puslapiai, į kuriuos yra nuoroda iš %(page)s',
+        'protect-simple': u'Robotas: Išsaugomas failų sąrašas.',
     },
     # Author: Jagwar
     'mg': {
@@ -384,9 +402,9 @@ msg = {
     # Author: Rancher
     'sr': {
         'protect-category': u'Бот: заштићене све странице из категорије „%(cat)s“',
-        'protect-images': u'Бот: заштићене све слике на страници „%(page)s“',
-        'protect-links': u'Бот: заштићене све странице које потичу из „%(page)s“',
-        'protect-ref': u'Бот: заштићене све странице које потичу из „%(page)s“',
+        'protect-images': u'Бот: заштићене све слике на страници %(page)s',
+        'protect-links': u'Бот: заштићене све странице које потичу из %(page)s',
+        'protect-ref': u'Бот: заштићене све странице које потичу из %(page)s',
         'protect-simple': u'Бот: заштићен списак датотека.',
     },
     # Author: Jopparn

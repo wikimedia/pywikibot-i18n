@@ -30,7 +30,7 @@ msg = {
     # Author: Esbardu
     # Author: Xuacu
     'ast': {
-        'catall-changing': u'Robó: Camudando categoríes',
+        'catall-changing': u'Bot: Camudando categoríes',
     },
     # Author: 1AnuraagPandey
     'awa': {
@@ -189,7 +189,7 @@ msg = {
     },
     # Author: Siddhartha Ghai
     'hi': {
-        'catall-changing': u'रोबॉट: श्रेणियाँ बदल रहा है',
+        'catall-changing': u'बॉट: श्रेणियाँ बदल रहा है',
     },
     # Author: SpeedyGonsales
     'hr': {
@@ -235,9 +235,10 @@ msg = {
     'kn': {
         'catall-changing': u'ರೋಬೋಟ್:   ವರ್ಗಗಳನ್ನು  ಬದಲಾಯಿಸುವುದು',
     },
+    # Author: IRTC1015
     # Author: 아라
     'ko': {
-        'catall-changing': u'로봇: 분류를 바꿈',
+        'catall-changing': u'봇: 분류를 바꿈',
     },
     'ksh': {
         'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',
@@ -304,7 +305,7 @@ msg = {
     # Author: Krish Dulal
     # Author: सरोज कुमार ढकाल
     'ne': {
-        'catall-changing': u'रोबोट : श्रेणीहरू बदल्दै',
+        'catall-changing': u'बोट : श्रेणीहरू बदल्दै',
     },
     # Author: Eukesh
     'new': {
@@ -411,8 +412,9 @@ msg = {
         'catall-changing': u'బాటు: వర్గాలను మార్చింది',
     },
     # Author: Nullzero
+    # Author: Octahedron80
     'th': {
-        'catall-changing': u'โรบอต: กำลังเปลี่ยนหมวดหมู่',
+        'catall-changing': u'บอต: กำลังเปลี่ยนหมวดหมู่',
     },
     # Author: AnakngAraw
     'tl': {
