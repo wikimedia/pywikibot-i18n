@@ -29,6 +29,7 @@ module.exports = function ( grunt ) {
 			editarticle: 'editarticle/',
 			featured: 'featured/',
 			fixing_redirects: 'fixing_redirects/',
+			followlive: 'followlive/',
 			interwiki: 'interwiki/',
 			isbn: 'isbn/',
 			lonelypages: 'lonelypages/',
