@@ -1,13 +1,16 @@
 # -*- coding: utf-8 -*-
 """i18n message bundle."""
 msg = {
+    # Author: Xqt
     'en': {
         'noreferences-add-tag': u'Bot: Adding missing <references /> tag',
+        'noreferences-fix-tag': u'Bot: Fix invalid syntax of <references /> tag',
     },
     # Author: Csisc
     # Author: Xqt
     'qqq': {
         'noreferences-add-tag': u'Edit summary when the bot adds a missing <code><references /></code> tag to the references section and if needed the section itself.\n\nDo not translate <code><references /></code>.',
+        'noreferences-fix-tag': u'Edit summary when the bot corrects the syntax of a <code><references /></code> tag.\n\nDo not translate <code><references /></code>.',
     },
     # Author: Csisc
     'aeb': {
@@ -100,8 +103,10 @@ msg = {
     'da': {
         'noreferences-add-tag': u'Robot: Tilføjer manglende <references />-tag',
     },
+    # Author: Xqt
     'de': {
         'noreferences-add-tag': u'Bot: Trage fehlendes <references /> nach',
+        'noreferences-fix-tag': u'Bot: Korrigiere Syntax des <references />-Tags',
     },
     # Author: Erdemaslancan
     'diq': {

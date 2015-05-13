@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"noreferences-add-tag": "Bot: Trage fehlendes <references /> nach"
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"noreferences-add-tag": "Bot: Trage fehlendes <references /> nach",
+	"noreferences-fix-tag": "Bot: Korrigiere Syntax des <references />-Tags"
 }
