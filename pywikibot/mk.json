@@ -10,5 +10,8 @@
 	"pywikibot-enter-namespace-number": "Внесете го именскиот простор според неговиот број:",
 	"pywikibot-enter-new-text": "Внесете го новиот текст:",
 	"pywikibot-enter-category-name": "Внесете го името на категоријата:",
-	"pywikibot-enter-finished-browser": "Стиснете на „Enter“ кога ќе завршите во прелистувачот."
+	"pywikibot-enter-finished-browser": "Стиснете на „Enter“ кога ќе завршите во прелистувачот.",
+	"pywikibot-fixes-html": "Робот: Претворање/исправка на HTML",
+	"pywikibot-fixes-syntax": "Робот: Исправка на викисинтакса",
+	"pywikibot-fixes-fckeditor": "Робот: Исправка на збогатен HMTL"
 }

@@ -5,7 +5,8 @@
 			"Giftpflanze",
 			"Merlissimo",
 			"The Evil IP address",
-			"Xqt"
+			"Xqt",
+			"Metalhead64"
 		]
 	},
 	"category-version-history": "Bot: Sichere Versionsgeschichte der alten %(oldcat)s",
@@ -13,6 +14,7 @@
 	"category-adding": "Bot: Ergänze Kategorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(auch in %(alsocat)s)",
 	"category-was-disbanded": "Bot: Kategorie wurde aufgelöst",
+	"category-strip-cfd-templates": "Bot: Entferne CFD-Vorlagen für abgeschlossene Aktion",
 	"category-replacing": "Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s",
 	"category-removing": "Bot: Entferne aus %(oldcat)s",
 	"category-was-moved": "Bot: Kategorie wurde nach [[:Category:%(newcat)s|%(title)s]] verschoben",

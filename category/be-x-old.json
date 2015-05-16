@@ -4,7 +4,8 @@
 			"EugeneZelenko",
 			"Jim-by",
 			"Renessaince",
-			"Wizardist"
+			"Wizardist",
+			"Red Winged Duck"
 		]
 	},
 	"category-version-history": "Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s",
@@ -12,6 +13,7 @@
 	"category-adding": "Робат: дадаваньне category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(таксама ў %(alsocat)s)",
 	"category-was-disbanded": "Робат: катэгорыя расфармаваная",
+	"category-strip-cfd-templates": "Робат: выдаленьне CFD-шаблёнаў для завяршэньня дзеяньня",
 	"category-replacing": "Робат: замена катэгорыі %(oldcat)s на %(newcat)s",
 	"category-removing": "Робат: выключэньне з [[%(oldcat)s]]",
 	"category-was-moved": "Робат: катэгорыя перайменаваная ў [[:Category:%(newcat)s|%(title)s]]",

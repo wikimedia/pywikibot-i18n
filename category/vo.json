@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Malafaya"
+			"Malafaya",
+			"Xqt"
 		]
 	},
 	"category-changing": "Bot: Votükon: %(oldcat)s ad %(newcat)s",
@@ -9,5 +10,5 @@
 	"category-also-in": "(i in %(alsocat)s)",
 	"category-removing": "bot moükon se %(oldcat)s",
 	"category-was-moved": "bot petopätükon kladi lü [[:Category:%(newcat)s|%(title)s]]",
-	"category-renamed": "Bot: Petopätüköl de %2. Lautans: %2"
+	"category-renamed": "Bot: Petopätüköl de %s. Lautans: %s"
 }

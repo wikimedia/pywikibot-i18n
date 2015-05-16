@@ -14,6 +14,6 @@
 	"pywikibot-enter-new-text": "Por favor, introduza o novo texto:",
 	"pywikibot-enter-category-name": "Por favor, introduza o nome da categoria:",
 	"pywikibot-enter-finished-browser": "Pressione Enter quando terminar no navegador",
-	"pywikibot-fixes-html": "Bot: Corrigindo HTML",
-	"pywikibot-fixes-syntax": "Bot: Corrigindo sintaxe wiki"
+	"pywikibot-fixes-html": "Robô: Corrigindo HTML",
+	"pywikibot-fixes-syntax": "Robô: Corrigindo sintaxe wiki"
 }

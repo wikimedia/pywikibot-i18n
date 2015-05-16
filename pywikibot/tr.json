@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meelo"
+			"Meelo",
+			"Captantrips"
 		]
 	},
 	"pywikibot-enter-new-text": "Lütfen yeni metni girin:",
-	"pywikibot-enter-category-name": "Lütfen kategori adını girin:"
+	"pywikibot-enter-category-name": "Lütfen kategori adını girin:",
+	"pywikibot-fixes-html": "Robot: HTML'i dönüştürüyor/onarıyor"
 }

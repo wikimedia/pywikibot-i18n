@@ -3,7 +3,8 @@
 		"authors": [
 			"Daniel Herding",
 			"Se4598",
-			"Xqt"
+			"Xqt",
+			"Metalhead64"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Bitte gib den Dateinamen des XML-Dumps ein:",
@@ -14,5 +15,6 @@
 	"pywikibot-enter-category-name": "Bitte Name der Kategorie eingeben:",
 	"pywikibot-enter-finished-browser": "Enter drücken nach dem Beenden des Browsers.",
 	"pywikibot-fixes-html": "Bot: konvertiere/korrigiere HTML",
-	"pywikibot-fixes-syntax": "Bot: Korrigiere Wiki-Syntax"
+	"pywikibot-fixes-syntax": "Bot: Korrigiere Wiki-Syntax",
+	"pywikibot-fixes-fckeditor": "Bot: Korrigiere Rich-Editor-HTML"
 }

@@ -16,5 +16,6 @@
 	"pywikibot-enter-category-name": "请输入分类名称：",
 	"pywikibot-enter-finished-browser": "请在浏览器作业完成后按下Enter键。",
 	"pywikibot-fixes-html": "機器人: 轉換HTML",
-	"pywikibot-fixes-syntax": "機器人: 修正wiki語法"
+	"pywikibot-fixes-syntax": "機器人: 修正wiki語法",
+	"pywikibot-fixes-fckeditor": "机器人：修复富编辑器html"
 }

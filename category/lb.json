@@ -9,6 +9,7 @@
 	"category-adding": "Bot: Kategorie derbäisetzen [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(och a(n) %(alsocat)s)",
 	"category-was-disbanded": "Bot: Kategorie gouf opgeléist",
+	"category-strip-cfd-templates": "Bot: CFD-Schablounen ewechgeholl fir ofgeschlossen Aktioun",
 	"category-replacing": "Bot: Ersetze vun der Kategorie %(oldcat)s duerch %(newcat)s",
 	"category-removing": "Bot: Ewech huele vun %(oldcat)s",
 	"category-was-moved": "Bot: Kategorie gouf geréckelt: Nei [[:Category:%(newcat)s|%(title)s]]",

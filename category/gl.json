@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Gallaecio"
 		]
 	},
 	"category-version-history": "Bot: Gardo o historial de versións da antiga \"%(oldcat)s\"",
@@ -9,6 +10,7 @@
 	"category-adding": "Bot: Engado a categoría \"[[:Category:%(newcat)s|%(newcat)s]]\"",
 	"category-also-in": "(tamén en %(alsocat)s)",
 	"category-was-disbanded": "Bot: A categoría foi eliminada",
+	"category-strip-cfd-templates": "Robot: Eliminando os modelos das categorías para eliminar correspondentes á acción completada.",
 	"category-replacing": "Bot: Substitución da categoría \"%(oldcat)s\" pola categoría \"%(newcat)s\"",
 	"category-removing": "Bot: Elimino desde \"%(oldcat)s\"",
 	"category-was-moved": "Bot: A categoría trasladouse a \"[[:Category:%(newcat)s|%(title)s]]\"",

@@ -13,6 +13,7 @@
 	"category-adding": "机器人：添加分类[[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(同样在%(alsocat)s)",
 	"category-was-disbanded": "机器人：分类已被解散",
+	"category-strip-cfd-templates": "机器人：从完整的操作中移除CFD模板",
 	"category-replacing": "机器人：变更分类%(oldcat)s为%(newcat)s",
 	"category-removing": "机器人：从%(oldcat)s中移除",
 	"category-was-moved": "机器人：移动分类至[[:Category:%(newcat)s|%(title)s]]",

@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"George Animal",
-			"Ghybu"
+			"Ghybu",
+			"Bikarhêner"
 		]
 	},
-	"category-changing": "Robot: Biguherîne %(oldcat)s",
+	"category-changing": "Bot: %(oldcat)s wek %(newcat)s biguherîne",
 	"category-adding": "Robot:Zêdebike category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(herwiha di %(alsocat)s)",
+	"category-was-disbanded": "Bot: Bikaranîna kategorîye hat dawîkirin",
 	"category-removing": "Bot: Ji kategoriya %(oldcat)s tê rakirin"
 }

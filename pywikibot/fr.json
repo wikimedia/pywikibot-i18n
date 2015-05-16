@@ -14,5 +14,6 @@
 	"pywikibot-enter-category-name": "Veuillez entrer le nom de la catégorie:",
 	"pywikibot-enter-finished-browser": "Appuyez sur Entrée une fois que vous avez fini dans le navigateur.",
 	"pywikibot-fixes-html": "Robot: convertit/fixe HTML",
-	"pywikibot-fixes-syntax": "Bot: Corrige wiki-syntaxe"
+	"pywikibot-fixes-syntax": "Bot: Corrige wiki-syntaxe",
+	"pywikibot-fixes-fckeditor": "Robot : Correction du HTML de l’éditeur riche"
 }

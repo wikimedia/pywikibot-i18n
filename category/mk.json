@@ -11,6 +11,7 @@
 	"category-adding": "Робот: Додава [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(и во %(alsocat)s)",
 	"category-was-disbanded": "Робот: Категоријата е распуштена",
+	"category-strip-cfd-templates": "Бот: Отстранување на CFD-шаблони за извршено дејство",
 	"category-replacing": "Робот: Ја заменувам категоријата %(oldcat)s со %(newcat)s",
 	"category-removing": "Робот: Отстранувам од %(oldcat)s",
 	"category-was-moved": "Бот: Категоријата е преместена во [[:Category:%(newcat)s|%(title)s]]",

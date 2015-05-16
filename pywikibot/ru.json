@@ -3,7 +3,8 @@
 		"authors": [
 			"Dmitry Nikitin",
 			"Eleferen",
-			"Rubin16"
+			"Rubin16",
+			"Okras"
 		]
 	},
 	"pywikibot-enter-xml-filename": "Пожалуйста, введите имя файла дампа XML:",
@@ -14,5 +15,6 @@
 	"pywikibot-enter-category-name": "Пожалуйста, введите название категории:",
 	"pywikibot-enter-finished-browser": "Нажмите клавишу Enter, когда закончите вносить изменения в браузере.",
 	"pywikibot-fixes-html": "Бот: коррекция HTML",
-	"pywikibot-fixes-syntax": "Бот: Коррекция вики синтаксиса"
+	"pywikibot-fixes-syntax": "Бот: Коррекция вики синтаксиса",
+	"pywikibot-fixes-fckeditor": "Робот: Исправление HTML-кода редактора форматированного текста"
 }

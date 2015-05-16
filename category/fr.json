@@ -17,6 +17,7 @@
 	"category-adding": "Robot : Ajout de la catégorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(également dans %(alsocat)s)",
 	"category-was-disbanded": "Robot : La catégorie a été supprimée",
+	"category-strip-cfd-templates": "Robot : Suppression des modèles CFD pour l’action terminée",
 	"category-replacing": "Robot : Remplacement de la catégorie %(oldcat)s par %(newcat)s",
 	"category-removing": "Robot : Retiré depuis %(oldcat)s",
 	"category-was-moved": "Robot : la catégorie a été déplacé vers [[:Category:%(newcat)s|%(title)s]]",

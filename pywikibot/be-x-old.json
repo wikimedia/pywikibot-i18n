@@ -14,5 +14,6 @@
 	"pywikibot-enter-category-name": "Калі ласка, увядзіце назву катэгорыі:",
 	"pywikibot-enter-finished-browser": "Націсьніце Enter, калі скончыце рэдагаваньне ў броўзэры.",
 	"pywikibot-fixes-html": "Бот: карэкцыя HTML",
-	"pywikibot-fixes-syntax": "Бот выпраўляе вiкi-сынтаксiс"
+	"pywikibot-fixes-syntax": "Бот выпраўляе вiкi-сынтаксiс",
+	"pywikibot-fixes-fckeditor": "Робат: выпраўленьне html-разьметкі рэдактару ўзбагачанага тэксту"
 }

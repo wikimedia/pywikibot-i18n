@@ -8,7 +8,8 @@
 			"Volkov",
 			"Xqt",
 			"Александр Сигачёв",
-			"Dima st bk"
+			"Dima st bk",
+			"Okras"
 		]
 	},
 	"category-version-history": "Бот: сохранение истории версий из бывшей %(oldcat)s",
@@ -16,6 +17,7 @@
 	"category-adding": "Бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(также в %(alsocat)s)",
 	"category-was-disbanded": "Бот: категория расформирована",
+	"category-strip-cfd-templates": "Бот: Удаление CFD-шаблонов для завершённых действий",
 	"category-replacing": "бот: замена категории %(oldcat)s на %(newcat)s",
 	"category-removing": "бот: исключение из %(oldcat)s",
 	"category-was-moved": "бот: категория переименована в [[:Category:%(newcat)s|%(title)s]]",

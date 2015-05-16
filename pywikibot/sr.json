@@ -13,6 +13,6 @@
 	"pywikibot-enter-new-text": "Унесите нови текст:",
 	"pywikibot-enter-category-name": "Унесите назив категорије:",
 	"pywikibot-enter-finished-browser": "Притисните Enter када завршите у прегледачу.",
-	"pywikibot-fixes-html": "Бот: Поправка HTML-а",
-	"pywikibot-fixes-syntax": "Бот: Поправка вики синтаксе"
+	"pywikibot-fixes-html": "Бот: поправљен HTML",
+	"pywikibot-fixes-syntax": "Бот: поправљена вики синтакса"
 }
