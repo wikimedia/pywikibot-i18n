@@ -117,12 +117,13 @@ msg = {
         'interwiki-adding-removing': u'تزويد روبوت: %(adding)s مسح: %(removing)s',
         'interwiki-adding-removing-modifying': u'تزويد روبوت: %(adding)s مسح: %(removing)s تحوير: %(modifying)s',
     },
+    # Author: Gitartha.bordoloi
     # Author: Jaminianurag
     # Author: Xqt
     'as': {
         'interwiki-adding': u'ৰবট যোগ দিছে :%(adding)s',
         'interwiki-adding-modifying': u'ৰবট যোগ দিছে :%(adding)s পৰিবৰ্তন কৰিছে: %(modifying)s',
-        'interwiki-modifying': u'ৰবট পৰিবৰ্তন কৰিছে: %(modifying)s',
+        'interwiki-modifying': u'ৰবট পৰিৱৰ্তন কৰিছে: %(modifying)s',
     },
     # Author: Esbardu
     # Author: Hugo.arg

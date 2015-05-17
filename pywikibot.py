@@ -123,6 +123,7 @@ msg = {
         'pywikibot-enter-new-text': u'Калі ласка, увядзіце новы тэкст:',
         'pywikibot-enter-page-processing': u'Якую старонку патрэбна апрацаваць?',
         'pywikibot-enter-xml-filename': u'Калі ласка, увядзіце назву файлу дампу XML:',
+        'pywikibot-fixes-fckeditor': u'Робат: выпраўленьне html-разьметкі рэдактару ўзбагачанага тэксту',
         'pywikibot-fixes-html': u'Бот: карэкцыя HTML',
         'pywikibot-fixes-syntax': u'Бот выпраўляе вiкi-сынтаксiс',
     },
@@ -214,6 +215,7 @@ msg = {
         'pywikibot-enter-xml-filename': u'Skriv XML-dumpets filnavn:',
     },
     # Author: Daniel Herding
+    # Author: Metalhead64
     # Author: Se4598
     # Author: Xqt
     'de': {
@@ -224,6 +226,7 @@ msg = {
         'pywikibot-enter-new-text': u'Bitte gib den neuen Text ein:',
         'pywikibot-enter-page-processing': u'Welche Seite soll bearbeitet werden?',
         'pywikibot-enter-xml-filename': u'Bitte gib den Dateinamen des XML-Dumps ein:',
+        'pywikibot-fixes-fckeditor': u'Bot: Korrigiere Rich-Editor-HTML',
         'pywikibot-fixes-html': u'Bot: konvertiere/korrigiere HTML',
         'pywikibot-fixes-syntax': u'Bot: Korrigiere Wiki-Syntax',
     },
@@ -344,6 +347,7 @@ msg = {
         'pywikibot-enter-new-text': u'Veuillez entrer le nouveau texte:',
         'pywikibot-enter-page-processing': u'Quelle page faut-il traiter?',
         'pywikibot-enter-xml-filename': u'Veuillez entrer le nom du fichier d\'extraction XML:',
+        'pywikibot-fixes-fckeditor': u'Robot : Correction du HTML de l’éditeur riche',
         'pywikibot-fixes-html': u'Robot: convertit/fixe HTML',
         'pywikibot-fixes-syntax': u'Bot: Corrige wiki-syntaxe',
     },
@@ -357,6 +361,7 @@ msg = {
         'pywikibot-enter-page-processing': u'Hün sidj skal bewerket wurd?',
         'pywikibot-enter-xml-filename': u'Du di datei-nööm faan\'t XML-dump iin:',
     },
+    # Author: Gallaecio
     # Author: Toliño
     'gl': {
         'pywikibot-enter-category-name': u'Insira o nome da categoría:',
@@ -366,6 +371,9 @@ msg = {
         'pywikibot-enter-new-text': u'Insira o novo texto:',
         'pywikibot-enter-page-processing': u'Que páxina se debe procesar?',
         'pywikibot-enter-xml-filename': u'Insira o nome do ficheiro de descarga XML:',
+        'pywikibot-fixes-fckeditor': u'Robot: Corrixindo o HTML xerado polo editor gráfico.',
+        'pywikibot-fixes-html': u'Robot: Convertendo e corrixindo o código HTML.',
+        'pywikibot-fixes-syntax': u'Robot: Corrixindo a sintaxe MediaWiki.',
     },
     # Author: EagerLin
     # Author: Jetlag
@@ -398,6 +406,7 @@ msg = {
         'pywikibot-enter-new-text': u'נא להזין את הטקסט החדש:',
         'pywikibot-enter-page-processing': u'איזה דף יש לעבד?',
         'pywikibot-enter-xml-filename': u'נא להזין את שם קובץ ה־XML עם הדאמפ:',
+        'pywikibot-fixes-fckeditor': u'רובוט: תיקון HTML מעורך עשיר',
         'pywikibot-fixes-html': u'בוט: ממיר/מתקן HTML',
         'pywikibot-fixes-syntax': u'בוט: מתקן תחביר ויקי',
     },
@@ -493,6 +502,7 @@ msg = {
         'pywikibot-enter-page-processing': u'ಯಾವ ಪುಟವನ್ನು  ಸಂಸ್ಕರಣೆ  ಮಾಡಬೇಕು?',
     },
     # Author: IRTC1015
+    # Author: Kwj2772
     # Author: Priviet
     # Author: 아라
     'ko': {
@@ -503,6 +513,7 @@ msg = {
         'pywikibot-enter-new-text': u'새 텍스트를 입력하세요:',
         'pywikibot-enter-page-processing': u'어떤 문서를 처리하시겠습니까?',
         'pywikibot-enter-xml-filename': u'XML 덤프 파일 이름을 입력하세요:',
+        'pywikibot-fixes-html': u'로봇: HTML 코드를 변환/교정함',
     },
     # Author: Purodha
     'ksh': {
@@ -529,6 +540,9 @@ msg = {
         'pywikibot-enter-new-text': u'Gitt w.e.g. den neien Text an:',
         'pywikibot-enter-page-processing': u'Watfir eng Säit soll verschafft ginn?',
         'pywikibot-enter-xml-filename': u'Gitt w.e.g. den Numm vum XML-Dump-Fichier an:',
+        'pywikibot-fixes-fckeditor': u'Bot: Verbessere vu Rich-Editor-HTML',
+        'pywikibot-fixes-html': u'Bot:HTML konvertéieren/verbesseren',
+        'pywikibot-fixes-syntax': u'Bot: Verbessere vun der Wiki-Syntax',
     },
     # Author: Aswanas
     # Author: Aurimas Fischer
@@ -592,6 +606,9 @@ msg = {
         'pywikibot-enter-new-text': u'Внесете го новиот текст:',
         'pywikibot-enter-page-processing': u'Која страница треба да се обработи?',
         'pywikibot-enter-xml-filename': u'Внесете го името на XML-складот:',
+        'pywikibot-fixes-fckeditor': u'Робот: Исправка на збогатен HMTL',
+        'pywikibot-fixes-html': u'Робот: Претворање/исправка на HTML',
+        'pywikibot-fixes-syntax': u'Робот: Исправка на викисинтакса',
     },
     # Author: Praveenp
     'ml': {
@@ -703,8 +720,8 @@ msg = {
         'pywikibot-enter-new-text': u'Por favor, introduza o novo texto:',
         'pywikibot-enter-page-processing': u'Que página deve ser processada?',
         'pywikibot-enter-xml-filename': u'Por favor introduza o nome do ficheiro XML:',
-        'pywikibot-fixes-html': u'Bot: Corrigindo HTML',
-        'pywikibot-fixes-syntax': u'Bot: Corrigindo sintaxe wiki',
+        'pywikibot-fixes-html': u'Robô: Corrigindo HTML',
+        'pywikibot-fixes-syntax': u'Robô: Corrigindo sintaxe wiki',
     },
     # Author: Minisarm
     'ro': {
@@ -718,6 +735,7 @@ msg = {
     },
     # Author: Dmitry Nikitin
     # Author: Eleferen
+    # Author: Okras
     # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
@@ -729,6 +747,7 @@ msg = {
         'pywikibot-enter-new-text': u'Пожалуйста, введите новый текст:',
         'pywikibot-enter-page-processing': u'Какая страница должна обрабатываться?',
         'pywikibot-enter-xml-filename': u'Пожалуйста, введите имя файла дампа XML:',
+        'pywikibot-fixes-fckeditor': u'Робот: Исправление HTML-кода редактора форматированного текста',
         'pywikibot-fixes-html': u'Бот: коррекция HTML',
         'pywikibot-fixes-syntax': u'Бот: Коррекция вики синтаксиса',
     },
@@ -804,8 +823,8 @@ msg = {
         'pywikibot-enter-new-text': u'Унесите нови текст:',
         'pywikibot-enter-page-processing': u'Коју страницу желите да обрадите?',
         'pywikibot-enter-xml-filename': u'Унесите назив XML исписа:',
-        'pywikibot-fixes-html': u'Бот: Поправка HTML-а',
-        'pywikibot-fixes-syntax': u'Бот: Поправка вики синтаксе',
+        'pywikibot-fixes-html': u'Бот: поправљен HTML',
+        'pywikibot-fixes-syntax': u'Бот: поправљена вики синтакса',
     },
     # Author: Cybjit
     # Author: Lokal Profil
@@ -861,10 +880,12 @@ msg = {
         'pywikibot-enter-page-processing': u'Кон гылә сәһифә бәпе емол кардә быбу?',
         'pywikibot-enter-xml-filename': u'Зәһмәт ныбо, бынывыштән XML дампи фајли ном:',
     },
+    # Author: Captantrips
     # Author: Meelo
     'tr': {
         'pywikibot-enter-category-name': u'Lütfen kategori adını girin:',
         'pywikibot-enter-new-text': u'Lütfen yeni metni girin:',
+        'pywikibot-fixes-html': u'Robot: HTML\'i dönüştürüyor/onarıyor',
     },
     # Author: A1
     # Author: Base
@@ -909,6 +930,7 @@ msg = {
         'pywikibot-enter-new-text': u'请输入新文本：',
         'pywikibot-enter-page-processing': u'哪个页面需要处理？',
         'pywikibot-enter-xml-filename': u'请输入XML转储文件名称：',
+        'pywikibot-fixes-fckeditor': u'机器人：修复富编辑器html',
         'pywikibot-fixes-html': u'機器人: 轉換HTML',
         'pywikibot-fixes-syntax': u'機器人: 修正wiki語法',
     },

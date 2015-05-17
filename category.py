@@ -256,6 +256,7 @@ msg = {
     },
     # Author: EugeneZelenko
     # Author: Jim-by
+    # Author: Red Winged Duck
     # Author: Renessaince
     # Author: Wizardist
     'be-x-old': {
@@ -267,6 +268,7 @@ msg = {
         'category-renamed': u'Робат: перанесена з %s. Аўтары: %s',
         'category-replacing': u'Робат: замена катэгорыі %(oldcat)s на %(newcat)s',
         'category-section-title': u'Гісторыя старонкі папярэдняе %(oldcat)s',
+        'category-strip-cfd-templates': u'Робат: выдаленьне CFD-шаблёнаў для завяршэньня дзеяньня',
         'category-version-history': u'Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s',
         'category-was-disbanded': u'Робат: катэгорыя расфармаваная',
         'category-was-moved': u'Робат: катэгорыя перайменаваная ў [[:Category:%(newcat)s|%(title)s]]',
@@ -471,6 +473,7 @@ msg = {
     # Author: Als-Holder
     # Author: Giftpflanze
     # Author: Merlissimo
+    # Author: Metalhead64
     # Author: The Evil IP address
     # Author: Xqt
     'de': {
@@ -482,6 +485,7 @@ msg = {
         'category-renamed': u'Bot: Verschoben von %s. Autoren: %s',
         'category-replacing': u'Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s',
         'category-section-title': u'Versionsgeschichte der ursprünglichen %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: Entferne CFD-Vorlagen für abgeschlossene Aktion',
         'category-version-history': u'Bot: Sichere Versionsgeschichte der alten %(oldcat)s',
         'category-was-disbanded': u'Bot: Kategorie wurde aufgelöst',
         'category-was-moved': u'Bot: Kategorie wurde nach [[:Category:%(newcat)s|%(title)s]] verschoben',
@@ -602,6 +606,7 @@ msg = {
     # Author: Ebraminio
     # Author: Ladsgroup
     # Author: Mjbmr
+    # Author: Reza1615
     # Author: ZxxZxxZ
     'fa': {
         'category-adding': u'ربات: افزودن ردهٔ [[:Category:%(newcat)s|%(newcat)s]]',
@@ -612,6 +617,7 @@ msg = {
         'category-renamed': u'ربات: از %s منتقل شد. پدیدآورندگان: %s',
         'category-replacing': u'ربات: جایگزینی ردهٔ %(oldcat)s با %(newcat)s',
         'category-section-title': u'تاریخچهٔ صفحهٔ %(oldcat)s سابق',
+        'category-strip-cfd-templates': u'ربات:حذف الگوی پیشنهاد حذف برای اتمام کار',
         'category-version-history': u'ربات: ذخیرهٔ تاریخچهٔ سابق %(oldcat)s',
         'category-was-disbanded': u'ربات: رده خالی شد',
         'category-was-moved': u'ربات: رده به [[:رده:%(newcat)s|%(title)s]] منتقل شد',
@@ -666,6 +672,7 @@ msg = {
         'category-renamed': u'Robot : déplacé depuis %s. Auteurs: %s',
         'category-replacing': u'Robot : Remplacement de la catégorie %(oldcat)s par %(newcat)s',
         'category-section-title': u'Historique de page de l\'ancien %(oldcat)s',
+        'category-strip-cfd-templates': u'Robot : Suppression des modèles CFD pour l’action terminée',
         'category-version-history': u'Robot : Enregistrement de l\'historique de version de l\'ancien %(oldcat)s',
         'category-was-disbanded': u'Robot : La catégorie a été supprimée',
         'category-was-moved': u'Robot : la catégorie a été déplacé vers [[:Category:%(newcat)s|%(title)s]]',
@@ -712,6 +719,7 @@ msg = {
     'ga': {
         'category-adding': u'róbat: ag suimiú category [[:Category:%(newcat)s|%(newcat)s]]',
     },
+    # Author: Gallaecio
     # Author: Toliño
     'gl': {
         'category-adding': u'Bot: Engado a categoría "[[:Category:%(newcat)s|%(newcat)s]]"',
@@ -722,6 +730,7 @@ msg = {
         'category-renamed': u'Bot: Traslado desde "%s". Autores: %s',
         'category-replacing': u'Bot: Substitución da categoría "%(oldcat)s" pola categoría "%(newcat)s"',
         'category-section-title': u'Historial da antiga "%(oldcat)s"',
+        'category-strip-cfd-templates': u'Robot: Eliminando os modelos das categorías para eliminar correspondentes á acción completada.',
         'category-version-history': u'Bot: Gardo o historial de versións da antiga "%(oldcat)s"',
         'category-was-disbanded': u'Bot: A categoría foi eliminada',
         'category-was-moved': u'Bot: A categoría trasladouse a "[[:Category:%(newcat)s|%(title)s]]"',
@@ -772,6 +781,7 @@ msg = {
         'category-renamed': u'בוט: הועבר מהשם %s. כותבים: %s',
         'category-replacing': u'בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s',
         'category-section-title': u'גרסאות של %(oldcat)s הקודמת',
+        'category-strip-cfd-templates': u'בוט: הסרת תבניות CFD לפעולה שהושלמה',
         'category-version-history': u'רובוט: שמירת היסטוריית גרסאות של %(oldcat)s הקודמת',
         'category-was-disbanded': u'בוט: הקטגוריה פורקה',
         'category-was-moved': u'בוט: הקטגוריה הועברה לשם [[:Category:%(newcat)s|%(title)s]]',
@@ -1058,13 +1068,15 @@ msg = {
         'category-was-disbanded': u'Bot: de Saachjropp is nu opjelööß',
         'category-was-moved': u'Bot: Saachjropp noh [[:Category:%(newcat)s|%(title)s]] jeschovve',
     },
+    # Author: Bikarhêner
     # Author: George Animal
     # Author: Ghybu
     'ku': {
         'category-adding': u'Robot:Zêdebike category [[:Category:%(newcat)s|%(newcat)s]]',
         'category-also-in': u'(herwiha di %(alsocat)s)',
-        'category-changing': u'Robot: Biguherîne %(oldcat)s',
+        'category-changing': u'Bot: %(oldcat)s wek %(newcat)s biguherîne',
         'category-removing': u'Bot: Ji kategoriya %(oldcat)s tê rakirin',
+        'category-was-disbanded': u'Bot: Bikaranîna kategorîye hat dawîkirin',
     },
     'kv': {
         'category-adding': u'робот: содтi category [[:Category:%(newcat)s|%(newcat)s]]',
@@ -1103,6 +1115,7 @@ msg = {
         'category-renamed': u'Bot: Geréckelt vum %s. Auteuren: %s',
         'category-replacing': u'Bot: Ersetze vun der Kategorie %(oldcat)s duerch %(newcat)s',
         'category-section-title': u'Versioune vun de virege(n) %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: CFD-Schablounen ewechgeholl fir ofgeschlossen Aktioun',
         'category-version-history': u'Bot: Späicher vum Versiounshistorique vun der vireger %(oldcat)s',
         'category-was-disbanded': u'Bot: Kategorie gouf opgeléist',
         'category-was-moved': u'Bot: Kategorie gouf geréckelt: Nei [[:Category:%(newcat)s|%(title)s]]',
@@ -1226,6 +1239,7 @@ msg = {
         'category-renamed': u'Робот: Преместено од %(oldcat)s. Автори: %(authors)s',
         'category-replacing': u'Робот: Ја заменувам категоријата %(oldcat)s со %(newcat)s',
         'category-section-title': u'Историја на поранешни верзии на %(oldcat)s',
+        'category-strip-cfd-templates': u'Бот: Отстранување на CFD-шаблони за извршено дејство',
         'category-version-history': u'Робот: Зачувува историја на поранешни верзии на %(oldcat)s',
         'category-was-disbanded': u'Робот: Категоријата е распуштена',
         'category-was-moved': u'Бот: Категоријата е преместена во [[:Category:%(newcat)s|%(title)s]]',
@@ -1570,6 +1584,7 @@ msg = {
     # Author: Dima st bk
     # Author: Express2000
     # Author: KorneySan
+    # Author: Okras
     # Author: Rubin16
     # Author: Volkov
     # Author: Xqt
@@ -1583,6 +1598,7 @@ msg = {
         'category-renamed': u'бот: перенёс из %s. авторы: %s',
         'category-replacing': u'бот: замена категории %(oldcat)s на %(newcat)s',
         'category-section-title': u'История страницы из бывшей %(oldcat)s',
+        'category-strip-cfd-templates': u'Бот: Удаление CFD-шаблонов для завершённых действий',
         'category-version-history': u'Бот: сохранение истории версий из бывшей %(oldcat)s',
         'category-was-disbanded': u'Бот: категория расформирована',
         'category-was-moved': u'бот: категория переименована в [[:Category:%(newcat)s|%(title)s]]',
@@ -1941,6 +1957,7 @@ msg = {
         'category-adding': u'Robot: Derby category [[:Category:%(newcat)s|%(newcat)s]]',
     },
     # Author: Malafaya
+    # Author: Xqt
     'vo': {
         'category-adding': u'Bot: läükon: category [[:Category:%(newcat)s|%(newcat)s]]',
         'category-also-in': u'(i in %(alsocat)s)',
@@ -2011,6 +2028,7 @@ msg = {
         'category-renamed': u'机器人：已从 %s 移动。原作者：%s',
         'category-replacing': u'机器人：变更分类%(oldcat)s为%(newcat)s',
         'category-section-title': u'之前%(oldcat)s的页面历史',
+        'category-strip-cfd-templates': u'机器人：从完整的操作中移除CFD模板',
         'category-version-history': u'机器人：保存之前%(oldcat)s的历史版本记录',
         'category-was-disbanded': u'机器人：分类已被解散',
         'category-was-moved': u'机器人：移动分类至[[:Category:%(newcat)s|%(title)s]]',
