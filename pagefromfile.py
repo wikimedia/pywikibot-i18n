@@ -216,6 +216,10 @@ msg = {
         'pagefromfile-msg_force': u'un komplët ußjetuusch',
         'pagefromfile-msg_top': u'un dofüürjesaz',
     },
+    # Author: Chorobek
+    'ky': {
+        'pagefromfile-msg': u'Бот: макалаларды автоматтык импорттоо',
+    },
     # Author: Robby
     'lb': {
         'pagefromfile-msg': u'Bot:Automateschen Import vun Artikelen',
