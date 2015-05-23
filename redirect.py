@@ -784,6 +784,7 @@ msg = {
     },
     # Author: DCamer
     # Author: Rubin
+    # Author: Rubin16
     # Author: Volkov
     # Author: Xqt
     'ru': {

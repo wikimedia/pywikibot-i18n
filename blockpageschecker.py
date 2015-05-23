@@ -267,6 +267,10 @@ msg = {
     'sv': {
         'blockpageschecker-summary': u'Bot: Raderar föråldrad mall',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'blockpageschecker-summary': u'బాటు : కాలం చెల్లిన మూసను తొలగిస్తున్నాము',
+    },
     # Author: Octahedron80
     'th': {
         'blockpageschecker-summary': u'บอต: ลบแม่แบบล้าสมัย',

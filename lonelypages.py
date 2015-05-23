@@ -266,6 +266,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Bot: Lägger till en förgreningssida',
         'lonelypages-comment-add-template': u'Bot: Föräldralös sida, lägger till mall',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'lonelypages-comment-add-disambig-template': u'బాటు : ఒక అయోమయ నివృత్తి పేజీని జతపరుస్తున్నాము',
+        'lonelypages-comment-add-template': u'బాటు : అనాధ పేజీ, మూసను చేర్చండి',
+    },
     # Author: Nullzero
     'th': {
         'lonelypages-comment-add-disambig-template': u'บอต: เพิ่มหน้าแก้ความกำกวม',

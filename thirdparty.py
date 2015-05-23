@@ -1040,6 +1040,7 @@ msg = {
     'ka': {
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'რობოტის შეტყობინება',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'ახალი განხილვა',
+        'thirdparty-drtrigonbot-sum_disc-notify-notify': u'შეტყობინება',
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'რობოტი',
     },
@@ -1102,6 +1103,9 @@ msg = {
     # Author: George Animal
     'ku': {
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Gotûbêj hat guhertin',
+        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'PEYAMA BOT',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'Gotûbêja Nû',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
     },
     # Author: Growingup
     # Author: Викиней

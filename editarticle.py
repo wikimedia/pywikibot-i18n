@@ -345,6 +345,10 @@ msg = {
     'szl': {
         'editarticle-edit': u'Manualne sprowianiy z robotym: %(description)s',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'editarticle-edit': u'బాటు ద్వారా మానవీయ మార్పు : %(description)s',
+    },
     # Author: Nullzero
     # Author: Octahedron80
     'th': {

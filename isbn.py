@@ -411,6 +411,10 @@ msg = {
     'ta': {
         'isbn-formatting': u'தானியங்கி: ISBN ஐ வடிவமைத்தல்',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'isbn-formatting': u'బాటు : ISBN ను ఫార్మాట్ చేస్తున్నాము',
+    },
     # Author: Horus
     # Author: Nullzero
     # Author: Octahedron80

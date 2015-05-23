@@ -329,6 +329,10 @@ msg = {
     'szl': {
         'djvutext-creating': u'Robot: Złōnaczyniy zajty z Djvu',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'djvutext-creating': u'బాటు : DjVu నుండి గ్రహించిన పాఠ్యంతో పేజీ రూపొందిస్తున్నాము',
+    },
     # Author: Nullzero
     # Author: Octahedron80
     'th': {

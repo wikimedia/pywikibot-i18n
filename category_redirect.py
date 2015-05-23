@@ -867,6 +867,13 @@ msg = {
         'category_redirect-comment': u'வகைப்பாட்டு மாற்றுவழிப் பராமரிப்புத் தானியங்கி',
         'category_redirect-fix-double': u'தானியங்கி: எதிரெதிர் வழிமாற்றுதலைச் சரிசெய்தல்',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'category_redirect-add-template': u'బాటు : నిర్వహణ కోసం వర్గపు దారిమార్పు మూసను చేరుస్తున్నాము',
+        'category_redirect-comment': u'మూస దారిమార్పు నిర్వహణా బాటు',
+        'category_redirect-edit-request-item': u'* %(title)s లో %(oldcat)s ఉంది, ఇది %(newcat)s కు దారిమార్పు',
+        'category_redirect-fix-double': u'బాటు : ద్వంద్వ దారిమార్పును సరిచేస్తున్నాము',
+    },
     # Author: Nullzero
     # Author: Octahedron80
     'th': {

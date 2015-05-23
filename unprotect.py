@@ -184,6 +184,14 @@ msg = {
         'unprotect-ref': u'Бот: Ги одзаштитувам сите страници што водат од „%(page)s“',
         'unprotect-simple': u'Бот: Одзаштитувам список на податотеки.',
     },
+    # Author: Anakmalaysia
+    'ms': {
+        'unprotect-category': u'Robot: Menyahlindung semua halaman dari kategori %(cat)s',
+        'unprotect-images': u'Robot: Menyahlindung semua imej pada laman %(page)s',
+        'unprotect-links': u'Bot: Menyahlindung semua laman yang terpaut dari %(page)s',
+        'unprotect-ref': u'Robot: Menyahlindung semua laman yang dirujuk dari %(page)s',
+        'unprotect-simple': u'Bot: Menyahlindung sesenarai fail.',
+    },
     # Author: सरोज कुमार ढकाल
     'ne': {
         'unprotect-category': u'बोट:  %(cat)s वर्गमा रहेका सबै पृष्ठहरूको सुरक्षा हटाउँदै',
@@ -191,6 +199,22 @@ msg = {
         'unprotect-links': u'बोट:  %(page)s पृष्ठमा जोडिएका सबै पृष्ठहरूको सुरक्षा खारेज गर्दै',
         'unprotect-ref': u'बोट:  %(page)s ले जनाउने सबै पृष्ठहरूको सुरक्षा खारेज गर्दै',
         'unprotect-simple': u'बोट: फाइलहरूको सूची सुरक्षित गर्दै ।',
+    },
+    # Author: Siebrand
+    'nl': {
+        'unprotect-category': u'Robot: beveiliging opheffen voor alle pagina\'s van categorie %(cat)s',
+        'unprotect-images': u'Robot: beveiliging opheffen voor alle bestanden op pagina %(page)s',
+        'unprotect-links': u'Robot: beveiliging opheffen voor alle pagina\'s gekoppeld vanaf %(page)s',
+        'unprotect-ref': u'Robot: beveiliging opheffen voor alle pagina\'s met een koppeling vanaf %(page)s',
+        'unprotect-simple': u'Robot: beveiliging opheffen voor een bestandlijst',
+    },
+    # Author: Danmichaelo
+    'no': {
+        'unprotect-category': u'Bot: Fjerner beskyttelse fra sider i kategorien %(cat)s',
+        'unprotect-images': u'Bot: Fjerner beskyttelse fra alle bilder på siden %(page)s',
+        'unprotect-links': u'Bot: Fjerner beskyttelse fra alle sider lenket fra %(page)s',
+        'unprotect-ref': u'Bot: Fjerner beskyttelse fra alle sider som peker til %(page)s',
+        'unprotect-simple': u'Bot: Fjerner beskyttelse fra en liste av filer.',
     },
     # Author: Pio387
     'pl': {
