@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
 	"interwiki-adding-removing-modifying": "機械人 添進: %(adding)s 刪吥: %(removing)s 改吥: %(modifying)s"
 }

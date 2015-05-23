@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki"
+			"Shirayuki",
+			"Whym"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました",

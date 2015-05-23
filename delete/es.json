@@ -1,7 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Invadinado",
+			"Ovruni",
+			"Vivaelcelta"
 		]
 	},
 	"delete-from-category": "Bot: borrado de todas las páginas de la categoría «%(page)s»",

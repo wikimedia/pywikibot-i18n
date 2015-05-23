@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
 	"noreferences-add-tag": "Бот: додата ознака <references /> која недостаје"

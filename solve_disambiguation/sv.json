@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Boivie",
+			"Jopparn",
 			"Lokal Profil",
-			"Tobulos1",
-			"Jopparn"
+			"Tobulos1"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Bot-assisterad förgreningssida: %(from)s - Märkt som i behov av uppmärksamhet från expert",

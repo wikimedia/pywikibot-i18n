@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Spiffyk",
+			"Vks"
 		]
 	},
 	"template-changing": "Robot: Upravuji {{PLURAL:%(num)d|šablonu|šablony|šablon}}: %(list)s",

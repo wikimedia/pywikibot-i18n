@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fabian Neundorf"
+			"Als-Holder",
+			"Fabian Neundorf",
+			"TTMTT"
 		]
 	},
 	"pywikibot-enter-category-name": "Message displayed to the bot owner to enter the category name.",

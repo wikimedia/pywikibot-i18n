@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Slomox"
+		]
+	},
 	"redirect-broken-redirect-template": "{{delete}}Kaputte Wiederleiden, wat nich brukt ward.",
 	"redirect-fix-double": "Bot: Dubbelte Wiederleiden rutmakt → %(to)s",
 	"redirect-remove-broken": "Bot: Kaputte Wiederleiden ward nich brukt",

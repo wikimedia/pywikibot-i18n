@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand"
+			"Siebrand",
+			"Xqt"
 		]
 	},
 	"table2wiki-no-warning": "Tabel gewijzigd van HTML naar wikiopmaak",

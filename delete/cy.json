@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lloffiwr"
+			"Lloffiwr",
+			"Pwyll",
+			"Robin Owain"
 		]
 	},
 	"delete-from-category": "Robot: Yn dileu pob tudalen yn y categori %(page)s",

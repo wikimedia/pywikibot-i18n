@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"Gianfranco",
+			"Vituzzu"
 		]
 	},
 	"template-changing": "Bot: Modifica di {{PLURAL:%(num)d|template|template}}: %(list)s",

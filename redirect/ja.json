@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"赤の旋律"
 		]
 	},
 	"redirect-fix-broken-moved": "ロボットによる: 迷子のリダイレクトのリダイレクト先を %(to)s に修正",

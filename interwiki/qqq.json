@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Csisc",
+			"Shirayuki",
+			"The Evil IP address"
 		]
 	},
 	"interwiki-adding": "Edit summary when the bot adds interwiki(s).\n* %(adding)s is either an interwiki link or a comma-separated list of language codes",

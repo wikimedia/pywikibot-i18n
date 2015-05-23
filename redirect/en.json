@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
 	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "Bot: Fixing broken redirect to moved target page %(to)s",
 	"redirect-fix-double": "Bot: Fixing double redirect to %(to)s",

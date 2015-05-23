@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChrisPtDe"
+			"ChrisPtDe",
+			"DrTrigon"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "substitucion d’una balisa ou ben de les balises %(tags)s",

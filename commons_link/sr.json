@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
 	"commons_link-cat-template-added": "Бот: додат шаблон за везу до Оставе",

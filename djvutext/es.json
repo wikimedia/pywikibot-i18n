@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Armando-Martin",
+			"Fitoschido",
+			"Xqt"
 		]
 	},
 	"djvutext-creating": "Bot: creación de página con texto extraído de DjVu"

@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Csisc"
+		]
+	},
 	"clean_sandbox-cleaned": "Summary message when the bot cleans sandbox"
 }

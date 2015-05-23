@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Khutuck"
+			"Khutuck",
+			"Vito Genovese"
 		]
 	},
 	"interwiki-adding": "Bot: Ekleniyor: %(adding)s",

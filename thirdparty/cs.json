@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Blahma",
-			"Spiffyk"
+			"Jezevec",
+			"Spiffyk",
+			"Tchoř"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "nahrazuji tag(y): %(tags)s",

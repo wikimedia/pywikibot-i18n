@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lloffiwr"
+			"Lloffiwr",
+			"Xxglennxx"
 		]
 	},
 	"replace-replacing": "Bot: Yn amnewid testun yn awtomatig %(description)s"

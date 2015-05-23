@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"SMP"
 		]
 	},
 	"delete-from-category": "Robot: esborrant totes les pàgines de la categoria %(page)s",

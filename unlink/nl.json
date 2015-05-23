@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
 	"unlink-unlinking": "Robot: koppeling naar \"%s\" verwijderd"
 }

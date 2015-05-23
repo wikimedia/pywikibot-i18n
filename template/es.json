@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt",
-			"Macofe"
+			"Macofe",
+			"TheBITLINK",
+			"Xqt"
 		]
 	},
 	"template-changing": "Bot: cambio de {{PLURAL:%(num)d|la plantilla|las plantillas}}: %(list)s",

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Blahma",
 			"Mihxil",
-			"Objectivesea"
+			"Objectivesea",
+			"Xqt"
 		]
 	},
 	"redirect-broken-redirect-template": "{{db-r1}}",

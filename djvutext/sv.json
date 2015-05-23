@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lokal Profil"
+			"Lokal Profil",
+			"WikiPhoenix"
 		]
 	},
 	"djvutext-creating": "Bot: Skapar sida med extraherad text från DjVu"

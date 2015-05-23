@@ -1,7 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luckas"
+			"Hamilton Abreu",
+			"Luckas",
+			"Malafaya",
+			"Xqt"
 		]
 	},
 	"redirect-fix-broken-moved": "Robô: A corrigir redirecionamento quebrado para página alvo movida %(to)s",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
 	"template-changing": "Бот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s",

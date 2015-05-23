@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"John Reid"
+			"Hugo.arg",
+			"John Reid",
+			"Xqt"
 		]
 	},
 	"interwiki-adding": "Robot: Eikin %(adding)s",

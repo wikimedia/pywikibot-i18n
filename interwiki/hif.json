@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
 	"interwiki-adding-removing-modifying": "robot jorrta hae: %(adding)s hatata hae: %(removing)s badalta hae: %(modifying)s"
 }

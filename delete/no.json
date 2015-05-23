@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cocu"
+			"Cocu",
+			"Jon Harald Søby"
 		]
 	},
 	"delete-from-category": "Bot: Sletter alle sider i kategorien %(page)s",

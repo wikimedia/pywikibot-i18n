@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"SMP",
+			"Xqt"
 		]
 	},
 	"table2wiki-no-warning": "Robot controlat per usuari: actualitzant la sintaxi de la taula.",

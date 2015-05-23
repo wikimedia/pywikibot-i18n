@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Kaare"
+			"Kaare",
+			"Tjernobyl"
 		]
 	},
 	"delete-from-category": "Robot: Sletter alle sider fra kategorien %(page)s",

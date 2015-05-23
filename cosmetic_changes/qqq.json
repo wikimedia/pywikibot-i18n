@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt",
-			"Macofe"
+			"Csisc",
+			"Macofe",
+			"Xqt"
 		]
 	},
 	"cosmetic_changes-append": "Summary message that will be appended to the normal edit summary when cosmetic changes are made on the fly.\n\n\"Cosmetic changes\" here means changes to the appearance of the page only, without any changes to the substance of the page.",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"SMP"
 		]
 	},
 	"template-changing": "Robot: canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s",

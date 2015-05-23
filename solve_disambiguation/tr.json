@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Emperyan",
-			"Khutuck"
+			"Khutuck",
+			"Stultiwikia",
+			"Vito Genovese"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Bot destekli anlam ayrımı: %(from)s - Uzman ilgisi ihtiyacına dair işaretlendi",

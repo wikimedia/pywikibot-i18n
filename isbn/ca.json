@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"SMP"
 		]
 	},
 	"isbn-formatting": "Robot: format de l'ISBN"

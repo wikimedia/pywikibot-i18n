@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ahonc",
+			"Andriykopanytsia",
 			"Base",
-			"Xqt"
+			"Xqt",
+			"Тест"
 		]
 	},
 	"redirect-broken-redirect-template": "{{db-reason|перенаправлення до вилученої або неіснуючої сторінки}}",

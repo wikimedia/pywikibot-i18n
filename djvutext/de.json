@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Das Schäfchen"
+			"Das Schäfchen",
+			"Purodha"
 		]
 	},
 	"djvutext-creating": "Bot: Erstelle eine Seite mit aus DjVu extrahiertem Text"

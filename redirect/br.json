@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Fohanno",
 			"Fulup",
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Y-M D"
 		]
 	},
 	"redirect-fix-broken-moved": "Robot : O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s",

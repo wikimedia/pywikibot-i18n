@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Csisc"
+		]
+	},
 	"commons-file-moved": "Edit summary when the bot replaces usage of an image available under a different name. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons.",
 	"commons-file-now-available": "Edit summary when the bot has moved a file to Commons and adds the NowCommons template. %(localfile)s contains the local filename and %(commonsfile)s the filename at Commons."
 }

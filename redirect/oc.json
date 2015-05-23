@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cedric31"
+			"Cedric31",
+			"Xqt"
 		]
 	},
 	"redirect-fix-broken-moved": "Robòt: Correccion de las redireccions erronèas cap a una pagina cibla %(to)s desplaçada",

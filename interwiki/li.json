@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hugo.arg",
 			"Ooswesthoesbes",
-			"Pahles"
+			"Pahles",
+			"Xqt"
 		]
 	},
 	"interwiki-adding": "Robot: d'rbie: %(adding)s",

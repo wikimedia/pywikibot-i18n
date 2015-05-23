@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kazu89"
+			"Hugo.arg",
+			"Kazu89",
+			"Xqt"
 		]
 	},
 	"interwiki-adding": "Bot: Agiunt: %(adding)s",

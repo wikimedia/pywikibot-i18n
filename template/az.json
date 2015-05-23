@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"AZISS"
+			"AZISS",
+			"Vago"
 		]
 	},
 	"template-changing": "Bot: {{PLURAL:%(num)d|şablon}} dəyişdirilir: %(list)s",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"SMP"
 		]
 	},
 	"noreferences-add-tag": "Robot: afegint l'etiqueta <references /> que mancava"

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Revi",
-			"IRTC1015"
+			"Hym411",
+			"IRTC1015",
+			"Revi"
 		]
 	},
 	"protect-category": "로봇: %(cat)s의 모든 문서를 보호",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Invadinado"
+			"Invadinado",
+			"Ryo567"
 		]
 	},
 	"ndashredir-create": "Bot: Creando redirecciones con guiones a «[[%(title)s]]»"

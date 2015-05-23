@@ -1,7 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"AZISS"
+			"AZISS",
+			"Cekli829",
+			"Ebrahimi-amir",
+			"Khutuck"
 		]
 	},
 	"redirect-fix-broken-moved": "Bot: İşləməyən yönləndirilmənin yeri dəyişdirilmiş hədəf səhifəyə %(to)s düzəldilməsi",

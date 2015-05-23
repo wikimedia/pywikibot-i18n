@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Crt"
+			"Crt",
+			"Olli"
 		]
 	},
 	"djvutext-creating": "Botti: Luodaan sivu DjVu-tiedostosta puretulle tekstille"

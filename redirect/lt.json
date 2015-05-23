@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aswanas",
 			"Hugo.arg",
-			"Aswanas"
+			"Mantak111"
 		]
 	},
 	"redirect-fix-broken-moved": "Robotas: Pataiso sugadintą nuorodą į perkeltą puslapį %(to)s",
