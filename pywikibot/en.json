@@ -6,14 +6,14 @@
 			"Siebrand"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Please enter the XML dump's filename:",
-	"pywikibot-enter-page-processing": "Which page should be processed?",
+	"pywikibot-enter-category-name": "Please enter the category name:",
 	"pywikibot-enter-file-links-processing": "Links to which file page should be processed?",
+	"pywikibot-enter-finished-browser": "Press Enter when finished in browser.",
 	"pywikibot-enter-namespace-number": "Please enter a namespace by its number:",
 	"pywikibot-enter-new-text": "Please enter the new text:",
-	"pywikibot-enter-category-name": "Please enter the category name:",
-	"pywikibot-enter-finished-browser": "Press Enter when finished in browser.",
+	"pywikibot-enter-page-processing": "Which page should be processed?",
+	"pywikibot-enter-xml-filename": "Please enter the XML dump's filename:",
+	"pywikibot-fixes-fckeditor": "Robot: Fixing rich-editor html",
 	"pywikibot-fixes-html": "Robot: Converting/fixing HTML",
-	"pywikibot-fixes-syntax": "Robot: Fixing wiki syntax",
-	"pywikibot-fixes-fckeditor": "Robot: Fixing rich-editor html"
+	"pywikibot-fixes-syntax": "Robot: Fixing wiki syntax"
 }

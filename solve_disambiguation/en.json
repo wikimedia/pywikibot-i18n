@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"solve_disambiguation-redirect-removed": "Bot-assisted disambiguation: %(from)s - Removed link(s)",
-	"solve_disambiguation-redirect-resolved": "Bot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-adding-dn-template": "Bot-assisted disambiguation: %(from)s - Marked as needing expert attention",
+	"solve_disambiguation-links-removed": "Bot-assisted disambiguation: %(from)s - Removed link(s).",
 	"solve_disambiguation-links-resolved": "Bot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Bot-assisted disambiguation: %(from)s - Marked as needing expert attention",
-	"solve_disambiguation-adding-dn-template": "Bot-assisted disambiguation: %(from)s - Marked as needing expert attention",
-	"solve_disambiguation-unknown-page": "(unknown)",
-	"solve_disambiguation-links-removed": "Bot-assisted disambiguation: %(from)s - Removed link(s)."
+	"solve_disambiguation-redirect-removed": "Bot-assisted disambiguation: %(from)s - Removed link(s)",
+	"solve_disambiguation-redirect-resolved": "Bot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-unknown-page": "(unknown)"
 }

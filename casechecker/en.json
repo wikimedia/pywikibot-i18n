@@ -1,8 +1,8 @@
 {
 	"@metadata": [],
-	"casechecker-replacement-summary": "Bot: Case Replacements:",
-	"casechecker-delete-summary": "Bot: This redirect contains identical looking Cyrillic and Latin letters in its title",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "This redirect used to point to %(target)s",
-	"casechecker-rename": "Bot: mixed case rename"
+	"casechecker-delete-summary": "Bot: This redirect contains identical looking Cyrillic and Latin letters in its title",
+	"casechecker-rename": "Bot: mixed case rename",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: Case Replacements:"
 }

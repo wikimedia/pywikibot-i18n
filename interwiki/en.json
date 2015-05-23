@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Bot: Modifying %(modifying)s",
+	"interwiki-adding": "Bot: Adding %(adding)s",
 	"interwiki-adding-modifying": "Bot: Adding %(adding)s; modifying %(modifying)s",
 	"interwiki-adding-removing": "Bot: Adding %(adding)s; removing: %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot: Adding %(adding)s; removing %(removing)s; modifying %(modifying)s",
-	"interwiki-adding": "Bot: Adding %(adding)s",
+	"interwiki-modifying": "Bot: Modifying %(modifying)s",
+	"interwiki-modifying-from": "Bot: Modifying %(from)s to %(modifying)s",
 	"interwiki-removing": "Bot: Removing %(removing)s",
-	"interwiki-removing-modifying": "Bot: Removing %(removing)s; modifying %(modifying)s",
-	"interwiki-modifying-from": "Bot: Modifying %(from)s to %(modifying)s"
+	"interwiki-removing-modifying": "Bot: Removing %(removing)s; modifying %(modifying)s"
 }

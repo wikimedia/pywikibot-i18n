@@ -1,6 +1,6 @@
 {
 	"@metadata": [],
-	"template-removing": "Bot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s",
 	"template-changing": "Bot: Changing {{PLURAL:%(num)d|template|templates}}: %(list)s",
+	"template-removing": "Bot: Removing {{PLURAL:%(num)d|template|templates}}: %(list)s",
 	"template-substituting": "Bot: Substituting {{PLURAL:%(num)d|template|templates}}: %(list)s"
 }

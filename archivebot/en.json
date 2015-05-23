@@ -4,9 +4,9 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "older than %(duration)s",
-	"archivebot-page-summary": "Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s.",
-	"archivebot-archiveheader": "{{talk archive}}",
 	"archivebot-archive-full": "(ARCHIVE FULL)",
-	"archivebot-archive-summary": "Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]]."
+	"archivebot-archive-summary": "Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} from [[%(from)s]].",
+	"archivebot-archiveheader": "{{talk archive}}",
+	"archivebot-older-than": "older than %(duration)s",
+	"archivebot-page-summary": "Bot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s."
 }
