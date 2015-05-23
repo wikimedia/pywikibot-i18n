@@ -4,7 +4,7 @@
 			"아라"
 		]
 	},
-	"template-removing": "로봇: {{PLURAL:%(num)d|틀}} 제거: %(list)s",
 	"template-changing": "로봇: {{PLURAL:%(num)d|틀}} 바꿈: %(list)s",
+	"template-removing": "로봇: {{PLURAL:%(num)d|틀}} 제거: %(list)s",
 	"template-substituting": "로봇: {{PLURAL:%(num)d|틀}} 전개: %(list)s"
 }

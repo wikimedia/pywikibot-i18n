@@ -4,15 +4,15 @@
 			"Snævar"
 		]
 	},
-	"category-version-history": "Vélmenni: Vista breytingaskrá fyrri %(oldcat)s",
-	"category-changing": "Vélmenni: Breyti frá %(oldcat)s yfir í %(newcat)s",
 	"category-adding": "Vélmenni: Bæti við [[:Category:%(newcat)s]]",
 	"category-also-in": "(einnig í %(alsocat)s)",
-	"category-was-disbanded": "Vélmenni: Flokkurinn var tæmdur.",
-	"category-replacing": "Vélmenni: Skipti flokknum %(oldcat)s út fyrir %(newcat)s",
+	"category-changing": "Vélmenni: Breyti frá %(oldcat)s yfir í %(newcat)s",
+	"category-listifying": "Vélmenni: Bæti %(num)d {{PLURAL:%(num)d|færslu|færslum}} frá %(fromcat)s við listann.",
 	"category-removing": "Vélmenni: Fjarlægi [[%(oldcat)s]]",
-	"category-was-moved": "Vélmenni: Færði flokk á [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Vélmenni: Færi frá %s. Höfundar: %s",
+	"category-replacing": "Vélmenni: Skipti flokknum %(oldcat)s út fyrir %(newcat)s",
 	"category-section-title": "Breytingarskrá fyrri %(oldcat)s",
-	"category-listifying": "Vélmenni: Bæti %(num)d {{PLURAL:%(num)d|færslu|færslum}} frá %(fromcat)s við listann."
+	"category-version-history": "Vélmenni: Vista breytingaskrá fyrri %(oldcat)s",
+	"category-was-disbanded": "Vélmenni: Flokkurinn var tæmdur.",
+	"category-was-moved": "Vélmenni: Færði flokk á [[:Category:%(newcat)s|%(title)s]]"
 }

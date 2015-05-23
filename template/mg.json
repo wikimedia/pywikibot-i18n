@@ -4,7 +4,7 @@
 			"Jagwar"
 		]
 	},
-	"template-removing": "Rôbô: Manala ny endrika{{PLURAL:%(num)d}}: %(list)s",
 	"template-changing": "Rôbô : Manala ny endrika %(num)d : %(list)s",
+	"template-removing": "Rôbô: Manala ny endrika{{PLURAL:%(num)d}}: %(list)s",
 	"template-substituting": "Rôbô: Manolo endrika %(num)d : %(list)s"
 }

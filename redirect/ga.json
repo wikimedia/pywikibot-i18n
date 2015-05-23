@@ -4,7 +4,7 @@
 			"Alison"
 		]
 	},
+	"redirect-broken-redirect-template": "{{scrios|Athsheoladh briste}}",
 	"redirect-fix-double": "Róbó: Ag socrú athsheolta dúbailte → %(to)s",
-	"redirect-remove-broken": "Róbó : Targaid athsheoladh ar iarraidh",
-	"redirect-broken-redirect-template": "{{scrios|Athsheoladh briste}}"
+	"redirect-remove-broken": "Róbó : Targaid athsheoladh ar iarraidh"
 }

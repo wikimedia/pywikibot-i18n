@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "bot Ngarobih: %(modifying)s",
+	"interwiki-adding": "bot Nambih: %(adding)s",
 	"interwiki-adding-modifying": "bot Nambih: %(adding)s Ngarobih: %(modifying)s",
 	"interwiki-adding-removing": "bot Nambih: %(adding)s Miceun: %(removing)s",
 	"interwiki-adding-removing-modifying": "bot Nambih: %(adding)s Miceun: %(removing)s Ngarobih: %(modifying)s",
-	"interwiki-adding": "bot Nambih: %(adding)s",
+	"interwiki-modifying": "bot Ngarobih: %(modifying)s",
 	"interwiki-removing": "bot Miceun: %(removing)s",
 	"interwiki-removing-modifying": "bot Miceun: %(removing)s Ngarobih: %(modifying)s"
 }

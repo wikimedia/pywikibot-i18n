@@ -3,18 +3,20 @@
 		"authors": [
 			"Veeven",
 			"JVRKPRASAD",
-			"Naidugari Jayanna"
+			"Naidugari Jayanna",
+			"రహ్మానుద్దీన్"
 		]
 	},
-	"category-version-history": "బాట్: %(oldcat)s మాజీ చరిత్ర వెర్షన్ భద్రపరుస్తోంది",
-	"category-changing": "బాటు: %(oldcat)s వర్గాన్ని %(newcat)sకి మార్చింది",
 	"category-adding": "బాటు: [[:Category:%(newcat)s|%(newcat)s]] వర్గాన్ని చేర్చింది",
 	"category-also-in": "(%(alsocat)s లలో కూడా ఉంది)",
-	"category-was-disbanded": "బాట్: వర్గం రద్దు చేయబడింది",
-	"category-replacing": "బాట్: %(oldcat)s వర్గాన్ని %(newcat)s తోటి మారుస్తున్నాం",
+	"category-changing": "బాటు: %(oldcat)s వర్గాన్ని %(newcat)sకి మార్చింది",
+	"category-listifying": "బాట్: %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}}) నుండి జాబితా సేకరణ",
 	"category-removing": "బాట్: %(oldcat)s నుండి తొలగించడం",
-	"category-was-moved": "బాట్: వర్గం అనేది [[:Category:%(newcat)s|%(title)s]] నకు తరలించారు",
 	"category-renamed": "బాట్: %s నుండి తరలించబడింది. రచయితలు:%s",
+	"category-replacing": "బాట్: %(oldcat)s వర్గాన్ని %(newcat)s తోటి మారుస్తున్నాం",
 	"category-section-title": "%(oldcat)s యొక్క పూర్వపు పేజీ చరితం",
-	"category-listifying": "బాట్: %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}}) నుండి జాబితా సేకరణ"
+	"category-strip-cfd-templates": "బాటు : పని పూర్తయేందుకు CFD మూసలను తొలగిస్తున్నాము",
+	"category-version-history": "బాట్: %(oldcat)s మాజీ చరిత్ర వెర్షన్ భద్రపరుస్తోంది",
+	"category-was-disbanded": "బాట్: వర్గం రద్దు చేయబడింది",
+	"category-was-moved": "బాట్: వర్గం అనేది [[:Category:%(newcat)s|%(title)s]] నకు తరలించారు"
 }

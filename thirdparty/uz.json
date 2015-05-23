@@ -4,12 +4,12 @@
 			"CoderSI"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
-	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ishtirokchi-tahrirlovchilar topilmadi)",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Munozara oʻzgardi",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Munozara yopildi",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOT XABARI",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Yangi munozara",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Xabar berish",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Munozara yopildi",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Munozara oʻzgardi",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOT XABARI"
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ishtirokchi-tahrirlovchilar topilmadi)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
 }

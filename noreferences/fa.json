@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"ZxxZxxZ"
+			"ZxxZxxZ",
+			"Reza1615"
 		]
 	},
-	"noreferences-add-tag": "ربات: افزودن برچسب <references /> که فراموش شده بود"
+	"noreferences-add-tag": "ربات: افزودن برچسب <references /> که فراموش شده بود",
+	"noreferences-fix-tag": "ربات:اصلاح شیوه نوشتاری نادرست برچسب <references />"
 }

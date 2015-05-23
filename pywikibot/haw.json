@@ -4,11 +4,11 @@
 			"Kolonahe"
 		]
 	},
-	"pywikibot-enter-xml-filename": "E kikokiko i ka inoa waihona o ka hoʻohanini hōkeo ʻikepili XML:",
-	"pywikibot-enter-page-processing": "Haʻaliu ka ʻaoʻao hea?",
+	"pywikibot-enter-category-name": "E ʻoluʻolu, e kikokiko i ka inoa mahele:",
 	"pywikibot-enter-file-links-processing": "Haʻaliu i ka loulou i ka ʻaoʻao waihona hea?",
+	"pywikibot-enter-finished-browser": "E komi i ke kāhoʻi i ka hana pau ʻana o ke pōlamu pūnaewele.",
 	"pywikibot-enter-namespace-number": "E ʻoluʻolu, e kikokiko i kekahi lewainoa kokoke i kāna helu:",
 	"pywikibot-enter-new-text": "E ʻoluʻolu, e kikokiko i ke kikokikona hou:",
-	"pywikibot-enter-category-name": "E ʻoluʻolu, e kikokiko i ka inoa mahele:",
-	"pywikibot-enter-finished-browser": "E komi i ke kāhoʻi i ka hana pau ʻana o ke pōlamu pūnaewele."
+	"pywikibot-enter-page-processing": "Haʻaliu ka ʻaoʻao hea?",
+	"pywikibot-enter-xml-filename": "E kikokiko i ka inoa waihona o ka hoʻohanini hōkeo ʻikepili XML:"
 }

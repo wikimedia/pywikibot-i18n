@@ -1,7 +1,7 @@
 {
 	"@metadata": [],
+	"pagefromfile-msg": "bot: Automatisk import",
 	"pagefromfile-msg_bottom": "legger til nederst",
 	"pagefromfile-msg_force": "erstatter eksisterende tekst",
-	"pagefromfile-msg_top": "legger til øverst",
-	"pagefromfile-msg": "bot: Automatisk import"
+	"pagefromfile-msg_top": "legger til øverst"
 }

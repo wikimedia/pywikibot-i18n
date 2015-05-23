@@ -6,15 +6,15 @@
 			"Dj"
 		]
 	},
-	"category-version-history": "A megszűnt %(oldcat)s kategória laptörténetének mentése bottal",
-	"category-changing": "Bot: %(oldcat)s cseréje a következőre: %(newcat)s",
 	"category-adding": "Bot: [[:Category:%(newcat)s]] hozzáadása bottal",
 	"category-also-in": "(a következőkben is: %(alsocat)s)",
-	"category-was-disbanded": "Bot: a kategória kiürítve",
-	"category-replacing": "Bot: következő kategória cseréje: %(oldcat)s erre: %(newcat)s",
+	"category-changing": "Bot: %(oldcat)s cseréje a következőre: %(newcat)s",
+	"category-listifying": "%(fromcat)s listázása bottal (%(num)d lap)",
 	"category-removing": "Bot: eltávolítás [[%(oldcat)s]] kategóriából",
-	"category-was-moved": "A bot áthelyezte a kategória tartalmát ide: [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Bot: átmozgatva innen: %s. Szerzők: %s",
+	"category-replacing": "Bot: következő kategória cseréje: %(oldcat)s erre: %(newcat)s",
 	"category-section-title": "A megszűnt %(oldcat)s laptörténete",
-	"category-listifying": "%(fromcat)s listázása bottal (%(num)d lap)"
+	"category-version-history": "A megszűnt %(oldcat)s kategória laptörténetének mentése bottal",
+	"category-was-disbanded": "Bot: a kategória kiürítve",
+	"category-was-moved": "A bot áthelyezte a kategória tartalmát ide: [[:Category:%(newcat)s|%(title)s]]"
 }

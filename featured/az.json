@@ -5,8 +5,8 @@
 			"Khutuck"
 		]
 	},
-	"featured-good": "Bot: %(page)s yaxşı məqalədir",
-	"featured-list": "Bot: %(page)s seçilmiş siyahıdadır",
 	"featured-featured": "Bot: %(page)s seçilmiş məqalədir",
-	"featured-former": "Bot: %(page)s keşmiş seçilmiş məqalədir"
+	"featured-former": "Bot: %(page)s keşmiş seçilmiş məqalədir",
+	"featured-good": "Bot: %(page)s yaxşı məqalədir",
+	"featured-list": "Bot: %(page)s seçilmiş siyahıdadır"
 }

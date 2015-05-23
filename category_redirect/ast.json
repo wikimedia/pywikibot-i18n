@@ -5,9 +5,9 @@
 			"Xuacu"
 		]
 	},
-	"category_redirect-comment": "Bot de mantenimientu de redireiciones de categoríes",
-	"category_redirect-change-category": "Bot: Cambiu de la categoría redirixida [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Bot: Amestando plantía de redireición de categoríes pa mantenimientu",
+	"category_redirect-change-category": "Bot: Cambiu de la categoría redirixida [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot de mantenimientu de redireiciones de categoríes",
 	"category_redirect-edit-request": "Deteutóse que les páxines protexíes siguientes necesiten anovamientos d'enllaces de categoría: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ta en %(oldcat)s, que ye una redireición a %(newcat)s",
 	"category_redirect-fix-double": "Bot: Iguando redireición doble"

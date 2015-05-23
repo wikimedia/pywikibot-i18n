@@ -5,12 +5,12 @@
 			"Yfdyh000"
 		]
 	},
-	"interwiki-modifying": "机器人：修改%(modifying)s",
+	"interwiki-adding": "机器人：添加%(adding)s",
 	"interwiki-adding-modifying": "机器人：添加%(adding)s；修改%(modifying)s",
 	"interwiki-adding-removing": "机器人：添加%(adding)s；移除%(removing)s",
 	"interwiki-adding-removing-modifying": "机器人：添加%(adding)s；移除%(removing)s；修改%(modifying)s",
-	"interwiki-adding": "机器人：添加%(adding)s",
+	"interwiki-modifying": "机器人：修改%(modifying)s",
+	"interwiki-modifying-from": "机器人：修改%(from)s至%(modifying)s",
 	"interwiki-removing": "机器人：移除%(removing)s",
-	"interwiki-removing-modifying": "机器人：移除%(removing)s；修改%(modifying)s",
-	"interwiki-modifying-from": "机器人：修改%(from)s至%(modifying)s"
+	"interwiki-removing-modifying": "机器人：移除%(removing)s；修改%(modifying)s"
 }

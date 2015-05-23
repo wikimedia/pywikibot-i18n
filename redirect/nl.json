@@ -4,10 +4,10 @@
 			"Siebrand"
 		]
 	},
-	"redirect-fix-double": "Robot: dubbele doorverwijzing gecorrigeerd naar %(to)s",
-	"redirect-remove-broken": "Robot: de doelpagina van de doorverwijzing bestaat niet",
+	"redirect-broken-redirect-template": "{{nuweg|Weesdoorverwijzing of doorverwijzing naar verwijderde pagina}}",
 	"redirect-fix-broken-moved": "Robot: kapotte doorverwijzing gecorrigeerd door aanpassing naar hernoemde doelpagina %(to)s",
+	"redirect-fix-double": "Robot: dubbele doorverwijzing gecorrigeerd naar %(to)s",
 	"redirect-fix-loop": "Robot: doorverwijscirkel naar %(to)s gerepareerd",
-	"redirect-remove-loop": "[[WP:NW|NUWEG]]: [[Wikipedia:Doorverwijzing|Doorverwijzing]] vormt een oneindige lus",
-	"redirect-broken-redirect-template": "{{nuweg|Weesdoorverwijzing of doorverwijzing naar verwijderde pagina}}"
+	"redirect-remove-broken": "Robot: de doelpagina van de doorverwijzing bestaat niet",
+	"redirect-remove-loop": "[[WP:NW|NUWEG]]: [[Wikipedia:Doorverwijzing|Doorverwijzing]] vormt een oneindige lus"
 }

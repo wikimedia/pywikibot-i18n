@@ -4,8 +4,8 @@
 			"Anakmalaysia"
 		]
 	},
+	"pagefromfile-msg": "Bot: Pengimportan rencana automatik",
 	"pagefromfile-msg_bottom": "lampiran di bawah",
 	"pagefromfile-msg_force": "menulis ganti teks sedia ada",
-	"pagefromfile-msg_top": "lampiran di atas",
-	"pagefromfile-msg": "Bot: Pengimportan rencana automatik"
+	"pagefromfile-msg_top": "lampiran di atas"
 }

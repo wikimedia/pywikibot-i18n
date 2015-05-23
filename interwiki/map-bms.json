@@ -5,12 +5,12 @@
 			"Xqt"
 		]
 	},
-	"interwiki-modifying": "Robot Ngobah: %(modifying)s",
+	"interwiki-adding": "Robot Nambah: %(adding)s",
 	"interwiki-adding-modifying": "Robot Nambah: %(adding)s Ngobah: %(modifying)s",
 	"interwiki-adding-removing": "Robot Nambah: %(adding)s Ngilangna: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot Nambah: %(adding)s Ngilangna: %(removing)s Ngobah: %(modifying)s",
-	"interwiki-adding": "Robot Nambah: %(adding)s",
+	"interwiki-modifying": "Robot Ngobah: %(modifying)s",
+	"interwiki-modifying-from": "Bor: Ngowahi %(from)s dadi %(modifying)s",
 	"interwiki-removing": "Robot Ngilangna: %(removing)s",
-	"interwiki-removing-modifying": "Robot Ngilangna: %(removing)s Ngobah: %(modifying)s",
-	"interwiki-modifying-from": "Bor: Ngowahi %(from)s dadi %(modifying)s"
+	"interwiki-removing-modifying": "Robot Ngilangna: %(removing)s Ngobah: %(modifying)s"
 }

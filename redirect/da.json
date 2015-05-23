@@ -5,10 +5,10 @@
 			"Kaare"
 		]
 	},
-	"redirect-fix-double": "Robot: Retter dobbelt omdirigering til %(to)s",
-	"redirect-remove-broken": "Robot: Omdirigering til en slettet eller ikke-eksisterende side",
+	"redirect-broken-redirect-template": "{{slet}}",
 	"redirect-fix-broken-moved": "Robot: Retter brudt omdirigering til flyttet målside %(to)s",
+	"redirect-fix-double": "Robot: Retter dobbelt omdirigering til %(to)s",
 	"redirect-fix-loop": "Robot: Retter omdirigeringsløkke til %(to)s",
-	"redirect-remove-loop": "Robot: Målet for omdirigeringen danner en omdirigeringsløkke",
-	"redirect-broken-redirect-template": "{{slet}}"
+	"redirect-remove-broken": "Robot: Omdirigering til en slettet eller ikke-eksisterende side",
+	"redirect-remove-loop": "Robot: Målet for omdirigeringen danner en omdirigeringsløkke"
 }

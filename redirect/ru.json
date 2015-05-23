@@ -5,10 +5,10 @@
 			"Volkov"
 		]
 	},
-	"redirect-fix-double": "бот: исправление двойного перенаправления → %(to)s",
-	"redirect-remove-broken": "бот: [[ВП:КБУ#П1|П1]] - перенаправление на удалённую или несуществующую страницу",
+	"redirect-broken-redirect-template": "{{db-redirnone}}",
 	"redirect-fix-broken-moved": "Робот: Исправление перенаправления на перемещенную целевую страницу %(to)s",
+	"redirect-fix-double": "бот: исправление двойного перенаправления → %(to)s",
 	"redirect-fix-loop": "бот: исправление перенаправления на %(to)s",
-	"redirect-remove-loop": "бот: перенаправление в никуда",
-	"redirect-broken-redirect-template": "{{db-redirnone}}"
+	"redirect-remove-broken": "бот: [[ВП:КБУ#П1|П1]] - перенаправление на удалённую или несуществующую страницу",
+	"redirect-remove-loop": "бот: перенаправление в никуда"
 }

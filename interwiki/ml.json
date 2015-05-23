@@ -4,12 +4,12 @@
 			"Praveenp"
 		]
 	},
-	"interwiki-modifying": "യന്ത്രം പുതുക്കുന്നു: %(modifying)s",
+	"interwiki-adding": "യന്ത്രം ചേര്‍ക്കുന്നു: %(adding)s",
 	"interwiki-adding-modifying": "യന്ത്രം ചേര്‍ക്കുന്നു: %(adding)s പുതുക്കുന്നു: %(modifying)s",
 	"interwiki-adding-removing": "യന്ത്രം ചേര്‍ക്കുന്നു: %(adding)s നീക്കുന്നു: %(removing)s",
 	"interwiki-adding-removing-modifying": "യന്ത്രം ചേര്‍ക്കുന്നു: %(adding)s നീക്കുന്നു: %(removing)s പുതുക്കുന്നു: %(modifying)s",
-	"interwiki-adding": "യന്ത്രം ചേര്‍ക്കുന്നു: %(adding)s",
+	"interwiki-modifying": "യന്ത്രം പുതുക്കുന്നു: %(modifying)s",
+	"interwiki-modifying-from": "യന്ത്രം: %(from)s എന്നത് %(modifying)s എന്നാക്കി മാറ്റുന്നു",
 	"interwiki-removing": "യന്ത്രം നീക്കുന്നു: %(removing)s",
-	"interwiki-removing-modifying": "യന്ത്രം നീക്കുന്നു: %(removing)s പുതുക്കുന്നു: %(modifying)s",
-	"interwiki-modifying-from": "യന്ത്രം: %(from)s എന്നത് %(modifying)s എന്നാക്കി മാറ്റുന്നു"
+	"interwiki-removing-modifying": "യന്ത്രം നീക്കുന്നു: %(removing)s പുതുക്കുന്നു: %(modifying)s"
 }

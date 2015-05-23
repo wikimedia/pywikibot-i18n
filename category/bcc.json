@@ -4,15 +4,15 @@
 			"Baloch Afghanistan"
 		]
 	},
-	"category-version-history": "ربات: ذخیرهٔ تاریخچهٔ سابق %(oldcat)s",
-	"category-changing": "ربات: ٹ\tگل داته بوت %(oldcat)s بی %(newcat)s",
 	"category-adding": "ربات: افزودن ردهٔ [[:رده:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(همچنین بی %(alsocat)s)",
-	"category-was-disbanded": "ربات: رده خالی شد",
-	"category-replacing": "ربات: جایگزینی ردهٔ %(oldcat)s با %(newcat)s",
+	"category-changing": "ربات: ٹ\tگل داته بوت %(oldcat)s بی %(newcat)s",
+	"category-listifying": "ربات: فهرست‌کردن از %(fromcat)s ({{PLURAL:%(num)d|یک عضو|%(num)d عضو}})",
 	"category-removing": "ربات: حذف از %(oldcat)s",
-	"category-was-moved": "ربات: رده به [[:Category:%(newcat)s|%(title)s]] منتقل شد",
 	"category-renamed": "ربات: از %s منتقل شد. پدیدآورندگان: %s",
+	"category-replacing": "ربات: جایگزینی ردهٔ %(oldcat)s با %(newcat)s",
 	"category-section-title": "تاریخچهٔ صفحهٔ %(oldcat)s سابق",
-	"category-listifying": "ربات: فهرست‌کردن از %(fromcat)s ({{PLURAL:%(num)d|یک عضو|%(num)d عضو}})"
+	"category-version-history": "ربات: ذخیرهٔ تاریخچهٔ سابق %(oldcat)s",
+	"category-was-disbanded": "ربات: رده خالی شد",
+	"category-was-moved": "ربات: رده به [[:Category:%(newcat)s|%(title)s]] منتقل شد"
 }

@@ -6,9 +6,9 @@
 			"KuboF"
 		]
 	},
-	"delete-images": "Roboto: Forigado de ĉiuj bildoj ĉe la paĝo %(page)s",
-	"delete-referring-pages": "Roboto: Forigado de ĉiuj paĝoj, kiuj ligas al %(page)s",
 	"delete-from-category": "Roboto: Forigado de ĉiuj paĝoj de la kategorio %(page)s",
 	"delete-from-file": "Roboto: Forigo de listo da paĝoj.",
-	"delete-linked-pages": "Roboto: Forigante ĉiujn paĝojn ligatajn el %(page)s"
+	"delete-images": "Roboto: Forigado de ĉiuj bildoj ĉe la paĝo %(page)s",
+	"delete-linked-pages": "Roboto: Forigante ĉiujn paĝojn ligatajn el %(page)s",
+	"delete-referring-pages": "Roboto: Forigado de ĉiuj paĝoj, kiuj ligas al %(page)s"
 }

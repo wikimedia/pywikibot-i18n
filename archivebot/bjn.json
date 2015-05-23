@@ -6,8 +6,8 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "tatuha matan %(duration)s",
-	"archivebot-page-summary": "Robot: Mangarsipakan %(count)d {{PLURAL:%(count)d|lambaran|lambaran}} (%(why)s) ka %(archives)s.",
 	"archivebot-archive-full": "(ARSIP LANGKAP)",
-	"archivebot-archive-summary": "Pangarsipan %(count)d thread(s) dari [[%(from)s]]."
+	"archivebot-archive-summary": "Pangarsipan %(count)d thread(s) dari [[%(from)s]].",
+	"archivebot-older-than": "tatuha matan %(duration)s",
+	"archivebot-page-summary": "Robot: Mangarsipakan %(count)d {{PLURAL:%(count)d|lambaran|lambaran}} (%(why)s) ka %(archives)s."
 }

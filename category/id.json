@@ -6,15 +6,15 @@
 			"Kenrick95"
 		]
 	},
-	"category-version-history": "Robot: Menyimpan versi terdahulu bekas %(oldcat)s",
-	"category-changing": "Robot: Mengubah %(oldcat)s menjadi %(newcat)s",
 	"category-adding": "Robot: Menambahkan kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(juga dalam %(alsocat)s)",
-	"category-was-disbanded": "Bot: Kategori dipecah",
-	"category-replacing": "Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s",
+	"category-changing": "Robot: Mengubah %(oldcat)s menjadi %(newcat)s",
+	"category-listifying": "Bot: Membuat daftar dari %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Menghapus dari %(oldcat)s",
-	"category-was-moved": "Bot: Kategori dipindahkan ke [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Bot: Memindahkan dari %s. Kontributor: %s",
+	"category-replacing": "Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s",
 	"category-section-title": "Versi terdahulu halaman bekas %(oldcat)s",
-	"category-listifying": "Bot: Membuat daftar dari %(fromcat)s (%(num)d entri)"
+	"category-version-history": "Robot: Menyimpan versi terdahulu bekas %(oldcat)s",
+	"category-was-disbanded": "Bot: Kategori dipecah",
+	"category-was-moved": "Bot: Kategori dipindahkan ke [[:Category:%(newcat)s|%(title)s]]"
 }

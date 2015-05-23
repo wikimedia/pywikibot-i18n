@@ -4,6 +4,6 @@
 			"Boniface"
 		]
 	},
-	"table2wiki-warnings": "Robot : wikification syntaxe tableaux - {{PLURAL:count|1 avertissement|%(count)d avertissements}} !",
-	"table2wiki-no-warning": "Robot : wikification de la syntaxe du tableau"
+	"table2wiki-no-warning": "Robot : wikification de la syntaxe du tableau",
+	"table2wiki-warnings": "Robot : wikification syntaxe tableaux - {{PLURAL:count|1 avertissement|%(count)d avertissements}} !"
 }

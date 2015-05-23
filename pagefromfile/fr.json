@@ -1,7 +1,7 @@
 {
 	"@metadata": [],
+	"pagefromfile-msg": "Robot : Import automatique",
 	"pagefromfile-msg_bottom": "rajouté en bas",
 	"pagefromfile-msg_force": "texte existant écrasé",
-	"pagefromfile-msg_top": "rajouté en haut",
-	"pagefromfile-msg": "Robot : Import automatique"
+	"pagefromfile-msg_top": "rajouté en haut"
 }

@@ -4,9 +4,9 @@
 			"Aswanas"
 		]
 	},
-	"category_redirect-comment": "Kategorija nukreipia priežiūros robotą",
-	"category_redirect-change-category": "Robotas: Pakeisti nukreiptą kategoriją [[:%(oldCatLink)s|%(oldCatTitle)s]] į [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robotas: Prideda kategoriją nukreipti šabloną pataisymui",
+	"category_redirect-change-category": "Robotas: Pakeisti nukreiptą kategoriją [[:%(oldCatLink)s|%(oldCatTitle)s]] į [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Kategorija nukreipia priežiūros robotą",
 	"category_redirect-edit-request": "Aptikta, kad sekantys apsaugoti puslapiai turi būti atnaujinti pagal kategorijos nuorodas: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s yra %(oldcat)s, kuris yra nukreipimas į %(newcat)s",
 	"category_redirect-fix-double": "robotas: Taisomas dvigubas peradresavimas"

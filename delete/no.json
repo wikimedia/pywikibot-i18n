@@ -4,9 +4,9 @@
 			"Cocu"
 		]
 	},
-	"delete-images": "Bot: Sletter alle bilder på siden %(page)s",
-	"delete-referring-pages": "Bot: Sletter alle sider som lenker til %(page)s",
 	"delete-from-category": "Bot: Sletter alle sider i kategorien %(page)s",
 	"delete-from-file": "Bot: Sletter en liste over sider.",
-	"delete-linked-pages": "Bot: Sletter alle sider som lenkes fra %(page)s"
+	"delete-images": "Bot: Sletter alle bilder på siden %(page)s",
+	"delete-linked-pages": "Bot: Sletter alle sider som lenkes fra %(page)s",
+	"delete-referring-pages": "Bot: Sletter alle sider som lenker til %(page)s"
 }

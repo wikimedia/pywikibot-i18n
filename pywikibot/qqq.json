@@ -4,14 +4,14 @@
 			"Fabian Neundorf"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Message displayed to the bot owner to enter the XML dump's filename.",
-	"pywikibot-enter-page-processing": "Question displayed to the bot owner which page should be processed.",
+	"pywikibot-enter-category-name": "Message displayed to the bot owner to enter the category name.",
 	"pywikibot-enter-file-links-processing": "Question displayed to the bot owner processing links to a given file page.",
+	"pywikibot-enter-finished-browser": "Message displayed to the bot owner to press Enter button when browser edits are finished.",
 	"pywikibot-enter-namespace-number": "Message displayed to the bot owner to enter a namespace by its number.",
 	"pywikibot-enter-new-text": "Message displayed to the bot owner to enter the new text.",
-	"pywikibot-enter-category-name": "Message displayed to the bot owner to enter the category name.",
-	"pywikibot-enter-finished-browser": "Message displayed to the bot owner to press Enter button when browser edits are finished.",
+	"pywikibot-enter-page-processing": "Question displayed to the bot owner which page should be processed.",
+	"pywikibot-enter-xml-filename": "Message displayed to the bot owner to enter the XML dump's filename.",
+	"pywikibot-fixes-fckeditor": "Edit summary for fixes which convert HTML tags from FCK-editor to wiki syntax.",
 	"pywikibot-fixes-html": "Edit summary for the HTML fixes.",
-	"pywikibot-fixes-syntax": "Edit summary for the syntax and syntax-safe fixes.",
-	"pywikibot-fixes-fckeditor": "Edit summary for fixes which convert HTML tags from FCK-editor to wiki syntax."
+	"pywikibot-fixes-syntax": "Edit summary for the syntax and syntax-safe fixes."
 }

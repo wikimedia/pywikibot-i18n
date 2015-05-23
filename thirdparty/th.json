@@ -5,11 +5,11 @@
 			"Octahedron80"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "บอต",
-	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ไม่พบผู้แก้ไขที่เป็นมนุษย์)",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* ข้อความเตือนจากบอต: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ข้อความจากบอต",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "การอภิปรายใหม่",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "การแจ้งเตือน",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ข้อความจากบอต",
-	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nข้อความสรุปสร้างขึ้นจากและ ณ เวลา: %(sign)s</noinclude>"
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nข้อความสรุปสร้างขึ้นจากและ ณ เวลา: %(sign)s</noinclude>",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ไม่พบผู้แก้ไขที่เป็นมนุษย์)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* ข้อความเตือนจากบอต: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "บอต"
 }

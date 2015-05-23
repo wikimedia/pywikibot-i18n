@@ -6,9 +6,9 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "starsze niż %(duration)s",
-	"archivebot-page-summary": "Robot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} (%(why)s) do %(archives)s.",
-	"archivebot-archiveheader": "{{archiwum}}",
 	"archivebot-archive-full": "(ARCHIWUM PEŁNE)",
-	"archivebot-archive-summary": "Robot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} z [[%(from)s]]."
+	"archivebot-archive-summary": "Robot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} z [[%(from)s]].",
+	"archivebot-archiveheader": "{{archiwum}}",
+	"archivebot-older-than": "starsze niż %(duration)s",
+	"archivebot-page-summary": "Robot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} (%(why)s) do %(archives)s."
 }

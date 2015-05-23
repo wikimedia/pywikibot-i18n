@@ -4,11 +4,14 @@
 			"Anakmalaysia"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Sila masukkan nama fail longgokan XML:",
-	"pywikibot-enter-page-processing": "Halaman yang manakah harus diproses?",
+	"pywikibot-enter-category-name": "Sila masukkan nama kategori:",
 	"pywikibot-enter-file-links-processing": "Pautan ke halaman fail yang manakah harus diproses?",
+	"pywikibot-enter-finished-browser": "Tekan Enter selepas siap dalam pelayar.",
 	"pywikibot-enter-namespace-number": "Sila masukkan ruang nama mengikut nombornya:",
 	"pywikibot-enter-new-text": "Sila masukkan teks baru:",
-	"pywikibot-enter-category-name": "Sila masukkan nama kategori:",
-	"pywikibot-enter-finished-browser": "Tekan Enter selepas siap dalam pelayar."
+	"pywikibot-enter-page-processing": "Halaman yang manakah harus diproses?",
+	"pywikibot-enter-xml-filename": "Sila masukkan nama fail longgokan XML:",
+	"pywikibot-fixes-fckeditor": "Robot: Membetulkan html rich-editor",
+	"pywikibot-fixes-html": "Robot: Menukarkan/membetulkan HTML",
+	"pywikibot-fixes-syntax": "Robot: Membetulkan sintaks wiki"
 }

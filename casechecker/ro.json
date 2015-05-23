@@ -4,7 +4,7 @@
 			"Minisarm"
 		]
 	},
+	"casechecker-delete-reason": "Această redirecționare trimitea către %(target)s",
 	"casechecker-delete-summary": "Robot: Această redirecționare conține caractere chirilice și latine identice în titlul său",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-delete-reason": "Această redirecționare trimitea către %(target)s"
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
 }

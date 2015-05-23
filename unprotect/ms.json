@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"unprotect-category": "Robot: Menyahlindung semua halaman dari kategori %(cat)s",
+	"unprotect-images": "Robot: Menyahlindung semua imej pada laman %(page)s",
+	"unprotect-links": "Bot: Menyahlindung semua laman yang terpaut dari %(page)s",
+	"unprotect-ref": "Robot: Menyahlindung semua laman yang dirujuk dari %(page)s",
+	"unprotect-simple": "Bot: Menyahlindung sesenarai fail."
+}

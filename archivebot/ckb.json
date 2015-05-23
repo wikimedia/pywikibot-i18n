@@ -7,9 +7,9 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "کۆنتر لە",
-	"archivebot-page-summary": "ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s.",
-	"archivebot-archiveheader": "{{ئەرشیڤی وتووێژ}}",
 	"archivebot-archive-full": "(ئەرشیڤ پڕە)",
-	"archivebot-archive-summary": "ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} لە [[%(from)s]]."
+	"archivebot-archive-summary": "ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} لە [[%(from)s]].",
+	"archivebot-archiveheader": "{{ئەرشیڤی وتووێژ}}",
+	"archivebot-older-than": "کۆنتر لە",
+	"archivebot-page-summary": "ڕۆبۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s."
 }

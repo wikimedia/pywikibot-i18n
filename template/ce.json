@@ -4,7 +4,7 @@
 			"Умар"
 		]
 	},
-	"template-removing": "бот: {{PLURAL:%(num)d|кеп дӀаяккхар|кепаш дӀаяхар}}: %(list)s",
 	"template-changing": "бот: {{PLURAL:%(num)d|кеп|кепаш}} хийцар: %(list)s",
+	"template-removing": "бот: {{PLURAL:%(num)d|кеп дӀаяккхар|кепаш дӀаяхар}}: %(list)s",
 	"template-substituting": "бот: {{PLURAL:%(num)d|кеп|кепаш}} дӀахӀоттор: %(list)s"
 }

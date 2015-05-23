@@ -4,9 +4,9 @@
 			"Toliño"
 		]
 	},
-	"category_redirect-comment": "Bot de mantemento das redireccións de categorías",
-	"category_redirect-change-category": "Bot: Cambio a categoría redirixida \"[[:%(oldCatLink)s|%(oldCatTitle)s]]\" por \"[[:%(newCatLink)s|%(newCatTitle)s]]\"",
 	"category_redirect-add-template": "Bot: Engado o modelo de mantemento que informa da redirección de categoría",
+	"category_redirect-change-category": "Bot: Cambio a categoría redirixida \"[[:%(oldCatLink)s|%(oldCatTitle)s]]\" por \"[[:%(newCatLink)s|%(newCatTitle)s]]\"",
+	"category_redirect-comment": "Bot de mantemento das redireccións de categorías",
 	"category_redirect-edit-request": "Detectáronse as seguintes páxinas protexidas que necesitan actualizar as categorías: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s está en %(oldcat)s, que é unha redirección cara a %(newcat)s",
 	"category_redirect-fix-double": "Bot: Arranxo a redirección dobre cara"

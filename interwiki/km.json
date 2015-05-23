@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "រ៉ូបូ កែសំរួល: %(modifying)s",
+	"interwiki-adding": "រ៉ូបូ បន្ថែម: %(adding)s",
 	"interwiki-adding-modifying": "រ៉ូបូ បន្ថែម: %(adding)s កែសំរួល: %(modifying)s",
 	"interwiki-adding-removing": "រ៉ូបូ បន្ថែម: %(adding)s ដកចេញ: %(removing)s",
 	"interwiki-adding-removing-modifying": "រ៉ូបូ បន្ថែម: %(adding)s ដកចេញ: %(removing)s កែសំរួល: %(modifying)s",
-	"interwiki-adding": "រ៉ូបូ បន្ថែម: %(adding)s",
+	"interwiki-modifying": "រ៉ូបូ កែសំរួល: %(modifying)s",
 	"interwiki-removing": "រ៉ូបូ ដកចេញ: %(removing)s",
 	"interwiki-removing-modifying": "រ៉ូបូ ដកចេញ: %(removing)s កែសំរួល: %(modifying)s"
 }

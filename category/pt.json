@@ -6,15 +6,15 @@
 			555
 		]
 	},
-	"category-version-history": "Robô: A guardar histórico de versões da antiga %(oldcat)s",
-	"category-changing": "Robô: A modificar %(oldcat)s para %(newcat)s",
 	"category-adding": "Robô: A adicionar a categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(também em %(alsocat)s)",
-	"category-was-disbanded": "Robô: A categoria foi eliminada",
-	"category-replacing": "Robô: A substituir a categoria %(oldcat)s por %(newcat)s",
+	"category-changing": "Robô: A modificar %(oldcat)s para %(newcat)s",
+	"category-listifying": "Robô: A listar a partir de %(fromcat)s (%(num)d entradas)",
 	"category-removing": "Robô: A remover de [[%(oldcat)s]]",
-	"category-was-moved": "Robô: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Bot: Movido de %s. Autores: %s",
+	"category-replacing": "Robô: A substituir a categoria %(oldcat)s por %(newcat)s",
 	"category-section-title": "Histórico de versões da antiga %(oldcat)s",
-	"category-listifying": "Robô: A listar a partir de %(fromcat)s (%(num)d entradas)"
+	"category-version-history": "Robô: A guardar histórico de versões da antiga %(oldcat)s",
+	"category-was-disbanded": "Robô: A categoria foi eliminada",
+	"category-was-moved": "Robô: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]"
 }

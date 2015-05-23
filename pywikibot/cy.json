@@ -5,11 +5,11 @@
 			"Robin Owain"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Nodwch enwffeil y gronfa XML",
-	"pywikibot-enter-page-processing": "Pa dudalen ddylem ei phrosesu?",
+	"pywikibot-enter-category-name": "Nodwch enw'r categori:",
 	"pywikibot-enter-file-links-processing": "I ba dudalen ffeil y dylid prosesu'r dolenni?",
+	"pywikibot-enter-finished-browser": "Pwyswch Enter ar ôl gorffen pori.",
 	"pywikibot-enter-namespace-number": "Nodwch rif y \"namespace\"",
 	"pywikibot-enter-new-text": "Nodwch y testun newydd",
-	"pywikibot-enter-category-name": "Nodwch enw'r categori:",
-	"pywikibot-enter-finished-browser": "Pwyswch Enter ar ôl gorffen pori."
+	"pywikibot-enter-page-processing": "Pa dudalen ddylem ei phrosesu?",
+	"pywikibot-enter-xml-filename": "Nodwch enwffeil y gronfa XML"
 }

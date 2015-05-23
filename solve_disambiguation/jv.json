@@ -4,11 +4,11 @@
 			"NoiX180"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Disambiguasi mawa pitulungan bot: %(from)s - Nyingkiraké pranala",
-	"solve_disambiguation-redirect-resolved": "Disambiguasi mawa pitulungan bot: %(from)s - Ngganti pranala dadi %(to)s",
+	"solve_disambiguation-adding-dn-template": "Disambiguasi mawa pitulungan bot: %(from)s - Ditandhai amarga butuh pagatèné ahli",
+	"solve_disambiguation-links-removed": "Disambiguasi mawa pitulungan bot: %(from)s - Pranala disingkiraké.",
 	"solve_disambiguation-links-resolved": "Disambiguasi mawa pitulungan bot: %(from)s - Ngganti pranala dadi %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi mawa pitulungan bot: %(from)s - Ditandhai amarga butuh pagatèné ahli",
-	"solve_disambiguation-adding-dn-template": "Disambiguasi mawa pitulungan bot: %(from)s - Ditandhai amarga butuh pagatèné ahli",
-	"solve_disambiguation-unknown-page": "(ora dingertèni)",
-	"solve_disambiguation-links-removed": "Disambiguasi mawa pitulungan bot: %(from)s - Pranala disingkiraké."
+	"solve_disambiguation-redirect-removed": "Disambiguasi mawa pitulungan bot: %(from)s - Nyingkiraké pranala",
+	"solve_disambiguation-redirect-resolved": "Disambiguasi mawa pitulungan bot: %(from)s - Ngganti pranala dadi %(to)s",
+	"solve_disambiguation-unknown-page": "(ora dingertèni)"
 }

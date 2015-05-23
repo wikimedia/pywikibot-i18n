@@ -4,14 +4,14 @@
 			"ChrisPtDe"
 		]
 	},
-	"category-version-history": "Robot : encartâjo de l’historico de les vèrsions de la vielye %(oldcat)s",
-	"category-changing": "Robot : changement de %(oldcat)s a %(newcat)s",
 	"category-adding": "Robot : apond la catègorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tot-pariér dedens %(alsocat)s)",
-	"category-was-disbanded": "Robot : la catègorie est étâye suprimâye",
-	"category-replacing": "Robot : remplacement de la catègorie %(oldcat)s per %(newcat)s",
+	"category-changing": "Robot : changement de %(oldcat)s a %(newcat)s",
+	"category-listifying": "Robot : listâjo de %(fromcat)s ({{PLURAL:%(num)d|1 èlèment|%(num)d èlèments}})",
 	"category-removing": "Robot : enléve dês %(oldcat)s",
-	"category-was-moved": "Robot : catègorie dèplaciêye vers [[:Category:%(newcat)s|%(title)s]]",
+	"category-replacing": "Robot : remplacement de la catègorie %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historico de les vèrsions de la vielye %(oldcat)s",
-	"category-listifying": "Robot : listâjo de %(fromcat)s ({{PLURAL:%(num)d|1 èlèment|%(num)d èlèments}})"
+	"category-version-history": "Robot : encartâjo de l’historico de les vèrsions de la vielye %(oldcat)s",
+	"category-was-disbanded": "Robot : la catègorie est étâye suprimâye",
+	"category-was-moved": "Robot : catègorie dèplaciêye vers [[:Category:%(newcat)s|%(title)s]]"
 }

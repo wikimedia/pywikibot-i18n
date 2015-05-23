@@ -5,7 +5,7 @@
 			"Dim Grits"
 		]
 	},
-	"welcome-welcome": "Ласкаво просимо!",
 	"welcome-bad_username": "Бот: Додане підозріле ім'я користувача",
-	"welcome-updating": "Бот: Оновлення журналу"
+	"welcome-updating": "Бот: Оновлення журналу",
+	"welcome-welcome": "Ласкаво просимо!"
 }

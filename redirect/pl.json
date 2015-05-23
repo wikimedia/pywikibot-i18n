@@ -7,10 +7,10 @@
 			"Sp5uhe"
 		]
 	},
-	"redirect-fix-double": "Robot naprawił podwójne przekierowanie do %(to)s",
-	"redirect-remove-broken": "Robot: przekierowanie do usuniętej lub nieistniejącej strony",
+	"redirect-broken-redirect-template": "{{ek|przekierowanie do usuniętej lub nieistniejącej strony}}",
 	"redirect-fix-broken-moved": "Bot: Poprawa urwanych przekierowań - przeniesiono cel do %(to)s",
+	"redirect-fix-double": "Robot naprawił podwójne przekierowanie do %(to)s",
 	"redirect-fix-loop": "Robot: Naprawa pętli przekierowań do %(to)s",
-	"redirect-remove-loop": "Robot: pętla przekierowań",
-	"redirect-broken-redirect-template": "{{ek|przekierowanie do usuniętej lub nieistniejącej strony}}"
+	"redirect-remove-broken": "Robot: przekierowanie do usuniętej lub nieistniejącej strony",
+	"redirect-remove-loop": "Robot: pętla przekierowań"
 }

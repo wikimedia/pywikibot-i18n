@@ -4,9 +4,9 @@
 			"Alvaro Vidal-Abarca"
 		]
 	},
-	"protect-links": "Robot: Protegint totes les pàgines que s'enllacen des de %(page)s",
-	"protect-simple": "Robot: Protegint una llista de fitxers.",
 	"protect-category": "Robot: Protegint totes les pàgines de la categoria %(cat)s",
+	"protect-images": "Robot: Protegint totes les imatges de la pàgina %(page)s",
+	"protect-links": "Robot: Protegint totes les pàgines que s'enllacen des de %(page)s",
 	"protect-ref": "Robot: Protegint totes les pàgines amb referència des de  %(page)s",
-	"protect-images": "Robot: Protegint totes les imatges de la pàgina %(page)s"
+	"protect-simple": "Robot: Protegint una llista de fitxers."
 }

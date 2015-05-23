@@ -4,10 +4,10 @@
 			"Purodha"
 		]
 	},
-	"redirect-fix-double": "Bot: [[Special:Doubleredirects|Dubbel Ömlëijdong]] fottjemaat → %(to)s",
-	"redirect-remove-broken": "Bot: Di Ömlëijdong jingk ennet Liiere.",
+	"redirect-broken-redirect-template": "{{Schmieß fott}}Di [[Wikipedia:Ömleijdung|Ömlëijdong]] jeiht noh nörjendswoh hen.",
 	"redirect-fix-broken-moved": "Bot: De kappodde Ömleidong op de ömjenannte Sigg %(to)s es reppareert.",
+	"redirect-fix-double": "Bot: [[Special:Doubleredirects|Dubbel Ömlëijdong]] fottjemaat → %(to)s",
 	"redirect-fix-loop": "Bot: En Reih vun Ömleidonge jeng em Kreis eröm. Op %(to)s jescheck.",
-	"redirect-remove-loop": "Bot: Di Ömleidonge jonn em Kreis eröm.",
-	"redirect-broken-redirect-template": "{{Schmieß fott}}Di [[Wikipedia:Ömleijdung|Ömlëijdong]] jeiht noh nörjendswoh hen."
+	"redirect-remove-broken": "Bot: Di Ömlëijdong jingk ennet Liiere.",
+	"redirect-remove-loop": "Bot: Di Ömleidonge jonn em Kreis eröm."
 }

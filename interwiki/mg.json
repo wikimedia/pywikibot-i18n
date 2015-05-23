@@ -4,12 +4,12 @@
 			"Jagwar"
 		]
 	},
-	"interwiki-modifying": "Rôbô Nanova: %(modifying)s",
+	"interwiki-adding": "Rôbô Nanampy: %(adding)s",
 	"interwiki-adding-modifying": "Rôbô Nanampy: %(adding)s Nanova: %(modifying)s",
 	"interwiki-adding-removing": "Rôbô Nanampy: %(adding)s Nanala: %(removing)s",
 	"interwiki-adding-removing-modifying": "Rôbô Nanampy: %(adding)s Nanala: %(removing)s Nanova: %(modifying)s",
-	"interwiki-adding": "Rôbô Nanampy: %(adding)s",
+	"interwiki-modifying": "Rôbô Nanova: %(modifying)s",
+	"interwiki-modifying-from": "Rôbô : fanovana avy amin'i %(from)s ho an'i %(modifying)s",
 	"interwiki-removing": "Rôbô Nanala: %(removing)s",
-	"interwiki-removing-modifying": "Rôbô Nanala: %(removing)s Nanova: %(modifying)s",
-	"interwiki-modifying-from": "Rôbô : fanovana avy amin'i %(from)s ho an'i %(modifying)s"
+	"interwiki-removing-modifying": "Rôbô Nanala: %(removing)s Nanova: %(modifying)s"
 }

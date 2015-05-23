@@ -4,9 +4,9 @@
 			"StefanusRA"
 		]
 	},
-	"delete-images": "Bot: Mbusek kabeh gambar nang kaca %(page)s",
-	"delete-referring-pages": "Bot: Mbusek kabeh kaca sing direferensikna sekang %(page)s",
 	"delete-from-category": "Bot: Mbusek kabeh kaca sekang kategori %(page)s",
 	"delete-from-file": "Bot: mbusek daftar berkas.",
-	"delete-linked-pages": "Bot: Mbusek kabeh kaca sing nggandeng sekang %(page)s"
+	"delete-images": "Bot: Mbusek kabeh gambar nang kaca %(page)s",
+	"delete-linked-pages": "Bot: Mbusek kabeh kaca sing nggandeng sekang %(page)s",
+	"delete-referring-pages": "Bot: Mbusek kabeh kaca sing direferensikna sekang %(page)s"
 }

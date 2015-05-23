@@ -5,7 +5,7 @@
 			"Dj"
 		]
 	},
-	"welcome-welcome": "Üdvözlet!",
 	"welcome-bad_username": "Bot: ellenőrizendő szerkesztőnév hozzáadása",
-	"welcome-updating": "Bot: napló aktualizálása"
+	"welcome-updating": "Bot: napló aktualizálása",
+	"welcome-welcome": "Üdvözlet!"
 }

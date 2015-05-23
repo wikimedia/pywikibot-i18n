@@ -4,9 +4,9 @@
 			"Snævar"
 		]
 	},
-	"category_redirect-comment": "Vélmenni sem framkvæmir viðhald á tilvísunum flokka",
-	"category_redirect-change-category": "Vélmenni: Breyti tilvísuðum flokki [[:%(oldCatLink)s|%(oldCatTitle)s]] í [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Vélmenni: Bæti við tilvísun vegna viðhalds",
+	"category_redirect-change-category": "Vélmenni: Breyti tilvísuðum flokki [[:%(oldCatLink)s|%(oldCatTitle)s]] í [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Vélmenni sem framkvæmir viðhald á tilvísunum flokka",
 	"category_redirect-edit-request": "Eftirfarandi vernduðu síður þurfa uppfærslu á flokkatenglum: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s er í %(oldcat)s, sem er tilvísun á %(newcat)s",
 	"category_redirect-fix-double": "Vélmenni: Lagfæri tvöfalda tilvísun"

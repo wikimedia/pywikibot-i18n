@@ -4,9 +4,9 @@
 			"✓"
 		]
 	},
-	"category_redirect-comment": "Bot zur Wartung von Kategorieweiterleitungen",
-	"category_redirect-change-category": "Bot: Ändere weitergeleitete Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Bot: Füge Kategorieweiterleitungs-Vorlage für die Wartung hinzu",
+	"category_redirect-change-category": "Bot: Ändere weitergeleitete Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot zur Wartung von Kategorieweiterleitungen",
 	"category_redirect-edit-request": "Die folgenden geschützten Seiten benötigen noch eine Kategorielink-Aktualisierung: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s befindet sich in %(oldcat)s, welche nach %(newcat)s weiterleitet",
 	"category_redirect-fix-double": "Bot: Korrigiere doppelte Weiterleitung"

@@ -5,11 +5,11 @@
 			"Glavkos"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Υποβοηθούμενη αποσαφήνιση από ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν)",
-	"solve_disambiguation-redirect-resolved": "Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αλλάχτηκε(αν) προς  %(to)s",
+	"solve_disambiguation-adding-dn-template": "Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενός ειδικού",
+	"solve_disambiguation-links-removed": "Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν).",
 	"solve_disambiguation-links-resolved": "Υποβοηθούμενη από ρομπότ αποσαφήνιση: %(from)s - Αλλαγή συνδέσμου(ων) στο %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενος ειδικού",
-	"solve_disambiguation-adding-dn-template": "Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενός ειδικού",
-	"solve_disambiguation-unknown-page": "(άγνωστο)",
-	"solve_disambiguation-links-removed": "Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν)."
+	"solve_disambiguation-redirect-removed": "Υποβοηθούμενη αποσαφήνιση από ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν)",
+	"solve_disambiguation-redirect-resolved": "Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αλλάχτηκε(αν) προς  %(to)s",
+	"solve_disambiguation-unknown-page": "(άγνωστο)"
 }

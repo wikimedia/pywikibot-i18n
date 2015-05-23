@@ -4,7 +4,7 @@
 			"Volkov"
 		]
 	},
-	"template-removing": "бот: удаление {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s",
 	"template-changing": "бот: замена {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s",
+	"template-removing": "бот: удаление {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s",
 	"template-substituting": "бот: подстановка {{PLURAL:%(num)d|шаблона|шаблонов}}: %(list)s"
 }

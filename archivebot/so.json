@@ -5,9 +5,9 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "Aad uga duqsan",
-	"archivebot-page-summary": "Bot: Kaydin %(count)d {{PLURAL:%(count)d|qodob|qodobo}} (%(why)s) ee ku %(archives)s.",
-	"archivebot-archiveheader": "{{Kaydka wadahadalka}}",
 	"archivebot-archive-full": "(KAYD BUUXA)",
-	"archivebot-archive-summary": "Bot: Kaydin %(count)d {{PLURAL:%(count)d|qodob|qodobo}} ee ka [[%(from)s]]."
+	"archivebot-archive-summary": "Bot: Kaydin %(count)d {{PLURAL:%(count)d|qodob|qodobo}} ee ka [[%(from)s]].",
+	"archivebot-archiveheader": "{{Kaydka wadahadalka}}",
+	"archivebot-older-than": "Aad uga duqsan",
+	"archivebot-page-summary": "Bot: Kaydin %(count)d {{PLURAL:%(count)d|qodob|qodobo}} (%(why)s) ee ku %(archives)s."
 }

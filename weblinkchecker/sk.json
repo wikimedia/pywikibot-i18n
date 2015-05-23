@@ -6,6 +6,6 @@
 	},
 	"weblinkchecker-archive_msg": "Webová stránka je uložená v projekte Internet Archive. Zvážte prosím, či nepoužiť odkaz na príslušnú archivovanú verziu [%(URL)s].",
 	"weblinkchecker-caption": "Mŕtvy odkaz",
-	"weblinkchecker-summary": "Robot: Nedostupný externý odkaz",
-	"weblinkchecker-report": "Počas niekoľkých automatických pokusov bol nasledovný externý odkaz nedostupný. Overte prosím, či je skutočne nedostupný a pokiaľ áno, opravte ho alebo odstráňte."
+	"weblinkchecker-report": "Počas niekoľkých automatických pokusov bol nasledovný externý odkaz nedostupný. Overte prosím, či je skutočne nedostupný a pokiaľ áno, opravte ho alebo odstráňte.",
+	"weblinkchecker-summary": "Robot: Nedostupný externý odkaz"
 }

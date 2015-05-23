@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"రహ్మానుద్దీన్"
+		]
+	},
+	"category_redirect-add-template": "బాటు : నిర్వహణ కోసం వర్గపు దారిమార్పు మూసను చేరుస్తున్నాము",
+	"category_redirect-comment": "మూస దారిమార్పు నిర్వహణా బాటు",
+	"category_redirect-edit-request-item": "* %(title)s లో %(oldcat)s ఉంది, ఇది %(newcat)s కు దారిమార్పు",
+	"category_redirect-fix-double": "బాటు : ద్వంద్వ దారిమార్పును సరిచేస్తున్నాము"
+}

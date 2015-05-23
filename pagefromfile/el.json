@@ -4,8 +4,8 @@
 			"Geraki"
 		]
 	},
+	"pagefromfile-msg": "Bot: Αυτοματοποιημένη εισαγωγή λημμάτων",
 	"pagefromfile-msg_bottom": "προσάρτηση στον πάτο",
 	"pagefromfile-msg_force": "υπάρχον κείμενο αντικαταστάθηκε",
-	"pagefromfile-msg_top": "προσάρτηση στην κορυφή",
-	"pagefromfile-msg": "Bot: Αυτοματοποιημένη εισαγωγή λημμάτων"
+	"pagefromfile-msg_top": "προσάρτηση στην κορυφή"
 }

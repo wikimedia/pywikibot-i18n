@@ -4,10 +4,10 @@
 			"செல்வா"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) நீக்கப்பட்டன",
+	"solve_disambiguation-adding-dn-template": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - வல்லுநர் தேவை என்று குறிக்கப்பெற்றது",
+	"solve_disambiguation-links-removed": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - link(s) தொடுப்புகள் நீக்கப்பட்டன",
 	"solve_disambiguation-links-resolved": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) தொடுப்புகள்  %(to)s உக்கு மாற்றப்பட்டன",
 	"solve_disambiguation-redirect-adding-dn-template": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - வல்லுநர் தேவை என்று குறிக்கப்பெற்றது",
-	"solve_disambiguation-adding-dn-template": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - வல்லுநர் தேவை என்று குறிக்கப்பெற்றது",
-	"solve_disambiguation-unknown-page": "(அறியாதது)",
-	"solve_disambiguation-links-removed": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s - link(s) தொடுப்புகள் நீக்கப்பட்டன"
+	"solve_disambiguation-redirect-removed": "தானியங்கி உதவியுடன் செய்த குழப்பச்சீரமைப்பு: %(from)s  - link(s) நீக்கப்பட்டன",
+	"solve_disambiguation-unknown-page": "(அறியாதது)"
 }

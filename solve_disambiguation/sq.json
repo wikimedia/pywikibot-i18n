@@ -4,11 +4,11 @@
 			"Vinie007"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Robot-assisted disambiguation: %(from)s - Removed link(s)",
-	"solve_disambiguation-redirect-resolved": "Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-adding-dn-template": "Robot-assisted disambiguation: %(from)s - Marked as needing expert attention",
+	"solve_disambiguation-links-removed": "Robot-assisted disambiguation: %(from)s - Removed link(s).",
 	"solve_disambiguation-links-resolved": "Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Robot-assisted disambiguation: %(from)s - Marked as needing expert attention",
-	"solve_disambiguation-adding-dn-template": "Robot-assisted disambiguation: %(from)s - Marked as needing expert attention",
-	"solve_disambiguation-unknown-page": "e panjohur",
-	"solve_disambiguation-links-removed": "Robot-assisted disambiguation: %(from)s - Removed link(s)."
+	"solve_disambiguation-redirect-removed": "Robot-assisted disambiguation: %(from)s - Removed link(s)",
+	"solve_disambiguation-redirect-resolved": "Robot-assisted disambiguation: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-unknown-page": "e panjohur"
 }

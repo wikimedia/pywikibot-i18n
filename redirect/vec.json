@@ -6,9 +6,9 @@
 			"GatoSelvadego"
 		]
 	},
+	"redirect-broken-redirect-template": "{{Scanseła suito|9}}",
 	"redirect-fix-double": "Robot: Sistemo i dopi rimandi a %(to)s",
-	"redirect-remove-broken": "Bot: Rinvio a na pagina scancelà o mia esistente",
 	"redirect-fix-loop": "Robot: Preparasion de un ciclo de rindirisamento a %(to)s",
-	"redirect-remove-loop": "Ła destinasion del rindirisamento rimanda a ła pajina de partensa",
-	"redirect-broken-redirect-template": "{{Scanseła suito|9}}"
+	"redirect-remove-broken": "Bot: Rinvio a na pagina scancelà o mia esistente",
+	"redirect-remove-loop": "Ła destinasion del rindirisamento rimanda a ła pajina de partensa"
 }

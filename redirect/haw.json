@@ -4,9 +4,9 @@
 			"Kolonahe"
 		]
 	},
-	"redirect-fix-double": "Lopako: Ke kāpili hou i ka hoʻoili pālua iā %(to)s",
-	"redirect-remove-broken": "Lopako: Hoʻoili i kekahi ʻaoʻao i holoi ʻia aiʻole he ʻaoʻao i hakuʻole ʻia",
 	"redirect-fix-broken-moved": "Lopako: Ke kāpili hou nei i ka hoʻoili haki o kekahi ʻaoʻao hoʻoneʻe ʻia iā %(to)s",
+	"redirect-fix-double": "Lopako: Ke kāpili hou i ka hoʻoili pālua iā %(to)s",
 	"redirect-fix-loop": "Lopako: Ke kāpili hou i ka linapoepoe hoʻoili iā %(to)s",
+	"redirect-remove-broken": "Lopako: Hoʻoili i kekahi ʻaoʻao i holoi ʻia aiʻole he ʻaoʻao i hakuʻole ʻia",
 	"redirect-remove-loop": "Lopako: Hoʻokino ka māka hoʻoili i kekahi linapoepoe hoʻoili"
 }

@@ -7,15 +7,15 @@
 			"XVEC"
 		]
 	},
-	"category-version-history": "Robot: guardant l'historial de versions dels %(oldcat)s previs",
-	"category-changing": "Robot: canviant %(oldcat)s a %(newcat)s",
 	"category-adding": "Robot: Afegint la categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(també a %(alsocat)s)",
-	"category-was-disbanded": "Robot: La categoria s'ha eliminat",
-	"category-replacing": "Robot: Substitució de la categoria %(oldcat)s per %(newcat)s",
+	"category-changing": "Robot: canviant %(oldcat)s a %(newcat)s",
+	"category-listifying": "Robot: llistant de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entrades}})",
 	"category-removing": "Robot: Eliminant de %(oldcat)s",
-	"category-was-moved": "Robot: La categoria s'ha mogut a [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Robot:  Mogut des de %s. Autors : %s",
+	"category-replacing": "Robot: Substitució de la categoria %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historial de la pàgina de %(oldcat)s previs",
-	"category-listifying": "Robot: llistant de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entrades}})"
+	"category-version-history": "Robot: guardant l'historial de versions dels %(oldcat)s previs",
+	"category-was-disbanded": "Robot: La categoria s'ha eliminat",
+	"category-was-moved": "Robot: La categoria s'ha mogut a [[:Category:%(newcat)s|%(title)s]]"
 }

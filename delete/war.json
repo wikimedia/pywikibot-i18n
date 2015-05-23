@@ -4,9 +4,9 @@
 			"Harvzsf"
 		]
 	},
-	"delete-images": "Robot: Ginpapara an ngatanan nga mga hulagway ha pakli nga %(page)s",
-	"delete-referring-pages": "Robot: Ginpapara an ngatanan nga mga pakli nga nanarig tikang ha %(page)s",
 	"delete-from-category": "Robot: Ginpapara an ngatanan ng mga pakli nga tikang han kaarangay %(page)s",
 	"delete-from-file": "Robot: Ginpapara in talaan hin mga paypay.",
-	"delete-linked-pages": "Robot: Ginpapara an ngatanan nga mga pakli nga nahasumpay tikang ha %(page)s"
+	"delete-images": "Robot: Ginpapara an ngatanan nga mga hulagway ha pakli nga %(page)s",
+	"delete-linked-pages": "Robot: Ginpapara an ngatanan nga mga pakli nga nahasumpay tikang ha %(page)s",
+	"delete-referring-pages": "Robot: Ginpapara an ngatanan nga mga pakli nga nanarig tikang ha %(page)s"
 }

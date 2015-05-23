@@ -4,12 +4,12 @@
 			"Minisarm"
 		]
 	},
-	"interwiki-modifying": "Robot interwiki: Modificat: %(modifying)s",
+	"interwiki-adding": "Robot interwiki: Adăugat: %(adding)s",
 	"interwiki-adding-modifying": "Robot interwiki: Adăugat: %(adding)s Modificat: %(modifying)s",
 	"interwiki-adding-removing": "Robot interwiki: Adăugat: %(adding)s Înlăturat: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot interwiki: Adăugat: %(adding)s Înlăturat: %(removing)s Modificat: %(modifying)s",
-	"interwiki-adding": "Robot interwiki: Adăugat: %(adding)s",
+	"interwiki-modifying": "Robot interwiki: Modificat: %(modifying)s",
+	"interwiki-modifying-from": "Robot: Modificat %(from)s cu %(modifying)s",
 	"interwiki-removing": "Robot interwiki: Înlăturat: %(removing)s",
-	"interwiki-removing-modifying": "Robot interwiki: Înlăturat: %(removing)s Modificat: %(modifying)s",
-	"interwiki-modifying-from": "Robot: Modificat %(from)s cu %(modifying)s"
+	"interwiki-removing-modifying": "Robot interwiki: Înlăturat: %(removing)s Modificat: %(modifying)s"
 }

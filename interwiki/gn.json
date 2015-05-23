@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "bot oñemoambue: %(modifying)s",
+	"interwiki-adding": "bot ojoapy: %(adding)s",
 	"interwiki-adding-modifying": "bot ojoapy: %(adding)s oñemoambue: %(modifying)s",
 	"interwiki-adding-removing": "bot ojoapy: %(adding)s oñembogue: %(removing)s",
 	"interwiki-adding-removing-modifying": "bot ojoapy: %(adding)s oñembogue: %(removing)s oñemoambue: %(modifying)s",
-	"interwiki-adding": "bot ojoapy: %(adding)s",
+	"interwiki-modifying": "bot oñemoambue: %(modifying)s",
 	"interwiki-removing": "bot oñembogue: %(removing)s",
 	"interwiki-removing-modifying": "bot oñembogue: %(removing)s oñemoambue: %(modifying)s"
 }

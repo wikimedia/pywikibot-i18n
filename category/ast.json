@@ -5,15 +5,15 @@
 			"Xuacu"
 		]
 	},
-	"category-version-history": "Bot: Guardando l'historial de versiones de los %(oldcat)s anteriores",
-	"category-changing": "Bot: Camudando %(oldcat)s a %(newcat)s",
 	"category-adding": "Bot: Amestando la categoría [[Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tamién en %(alsocat)s)",
-	"category-was-disbanded": "Bot: Desanicióse la categoría",
-	"category-replacing": "Bot: Trocando la categoría %(oldcat)s por %(newcat)s",
+	"category-changing": "Bot: Camudando %(oldcat)s a %(newcat)s",
+	"category-listifying": "Bot: Llistando de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entraes}})",
 	"category-removing": "Bot: Desaniciando de %(oldcat)s",
-	"category-was-moved": "Bot: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Bot: Movíu dende %s. Autores: %s",
+	"category-replacing": "Bot: Trocando la categoría %(oldcat)s por %(newcat)s",
 	"category-section-title": "Historial de páxina de %(oldcat)s anteriores",
-	"category-listifying": "Bot: Llistando de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entraes}})"
+	"category-version-history": "Bot: Guardando l'historial de versiones de los %(oldcat)s anteriores",
+	"category-was-disbanded": "Bot: Desanicióse la categoría",
+	"category-was-moved": "Bot: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]"
 }

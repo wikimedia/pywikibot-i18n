@@ -5,11 +5,11 @@
 			"Kurniasan"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Penyahkekaburan bantuan bot: %(from)s - Pautan digugurkan",
-	"solve_disambiguation-redirect-resolved": "Penyahkekaburan bantuan bot: %(from)s - Pautan ditukar kepada %(to)s",
+	"solve_disambiguation-adding-dn-template": "Penyahkekaburan bantuan bot: %(from)s - Ditandai kerana memerlukan perhatian pakar",
+	"solve_disambiguation-links-removed": "Penyahkekaburan bantuan bot: %(from)s - Pautan digugurkan",
 	"solve_disambiguation-links-resolved": "Penyahkekaburan bantuan bot: %(from)s - Pautan ditukar kepada %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Penyahkekaburan bantuan bot: %(from)s - Ditandai kerana memerlukan perhatian pakar",
-	"solve_disambiguation-adding-dn-template": "Penyahkekaburan bantuan bot: %(from)s - Ditandai kerana memerlukan perhatian pakar",
-	"solve_disambiguation-unknown-page": "(tidak diketahui)",
-	"solve_disambiguation-links-removed": "Penyahkekaburan bantuan bot: %(from)s - Pautan digugurkan"
+	"solve_disambiguation-redirect-removed": "Penyahkekaburan bantuan bot: %(from)s - Pautan digugurkan",
+	"solve_disambiguation-redirect-resolved": "Penyahkekaburan bantuan bot: %(from)s - Pautan ditukar kepada %(to)s",
+	"solve_disambiguation-unknown-page": "(tidak diketahui)"
 }

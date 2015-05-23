@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Robot Inisseeqqinneq: %(modifying)s",
+	"interwiki-adding": "Robot Ilassut: %(adding)s",
 	"interwiki-adding-modifying": "Robot Ilassut: %(adding)s Inisseeqqinneq: %(modifying)s",
 	"interwiki-adding-removing": "Robot Ilassut: %(adding)s Peersineq: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot Ilassut: %(adding)s Peersineq: %(removing)s Inisseeqqinneq: %(modifying)s",
-	"interwiki-adding": "Robot Ilassut: %(adding)s",
+	"interwiki-modifying": "Robot Inisseeqqinneq: %(modifying)s",
 	"interwiki-removing": "Robot Peersineq: %(removing)s",
 	"interwiki-removing-modifying": "Robot Peersineq: %(removing)s Inisseeqqinneq: %(modifying)s"
 }

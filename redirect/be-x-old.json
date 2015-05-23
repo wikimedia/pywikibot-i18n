@@ -7,10 +7,10 @@
 			"Zedlik"
 		]
 	},
-	"redirect-fix-double": "Робат: выпраўленьне падвойнага перанакіраваньня → %(to)s",
-	"redirect-remove-broken": "Робат: мэта перанакіраваньня не існуе",
+	"redirect-broken-redirect-template": "{{Выдаліць|некарэктнае перанакіраваньне}}",
 	"redirect-fix-broken-moved": "Робат: Выпраўленьне перанакіраваньня на старонку, перанесеную ў %(to)s",
+	"redirect-fix-double": "Робат: выпраўленьне падвойнага перанакіраваньня → %(to)s",
 	"redirect-fix-loop": "Робат: Выпраўленьне перанакіраваньня на %(to)s",
-	"redirect-remove-loop": "Робат: Пятля перанакіраваньняў",
-	"redirect-broken-redirect-template": "{{Выдаліць|некарэктнае перанакіраваньне}}"
+	"redirect-remove-broken": "Робат: мэта перанакіраваньня не існуе",
+	"redirect-remove-loop": "Робат: Пятля перанакіраваньняў"
 }

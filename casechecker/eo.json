@@ -4,8 +4,8 @@
 			"KuboF"
 		]
 	},
-	"casechecker-replacement-summary": "Roboto: Ŝanĝo de uskleco:",
+	"casechecker-delete-reason": "Tiu ĉi alidirektilo direktis al %(target)s",
 	"casechecker-delete-summary": "Roboto: Tiu ĉi alidirektilo en sia titolo enhavas samaspektajn cirilajn kaj latinajn literojn",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-delete-reason": "Tiu ĉi alidirektilo direktis al %(target)s"
+	"casechecker-replacement-summary": "Roboto: Ŝanĝo de uskleco:"
 }

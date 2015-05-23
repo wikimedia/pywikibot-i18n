@@ -5,7 +5,7 @@
 			"Marmase"
 		]
 	},
-	"template-removing": "Boto newke {{PLURAL:%(num)d|şabloner|şablonan}} %(list)s veceno",
 	"template-changing": "Robot: {{PLURAL:%(num)d|şablon|şablona}}: %(list)s ra Vurneno",
+	"template-removing": "Boto newke {{PLURAL:%(num)d|şabloner|şablonan}} %(list)s veceno",
 	"template-substituting": "Robot: {{PLURAL:%(num)d|şablon|şablon}}: %(list)s Cay cı vurneno"
 }

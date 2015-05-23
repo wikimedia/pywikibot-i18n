@@ -4,12 +4,12 @@
 			"Gazeb"
 		]
 	},
-	"category-changing": "Робот: зміна %(oldcat)s",
 	"category-adding": "Робот: додаваня category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(тыж у %(alsocat)s)",
-	"category-was-disbanded": "Робот: катеґорія розформована",
-	"category-replacing": "Робот: заміна катеґорії %(oldcat)s на %(newcat)s",
+	"category-changing": "Робот: зміна %(oldcat)s",
+	"category-listifying": "Робот: складаня списку %(fromcat)s з (%(num)d записів)",
 	"category-removing": "Робот: одстранїня з %(oldcat)s",
-	"category-was-moved": "Робот: катеґорія переменована на [[:Category:%(newcat)s|%(title)s]]",
-	"category-listifying": "Робот: складаня списку %(fromcat)s з (%(num)d записів)"
+	"category-replacing": "Робот: заміна катеґорії %(oldcat)s на %(newcat)s",
+	"category-was-disbanded": "Робот: катеґорія розформована",
+	"category-was-moved": "Робот: катеґорія переменована на [[:Category:%(newcat)s|%(title)s]]"
 }

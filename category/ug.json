@@ -4,14 +4,14 @@
 			"Sahran"
 		]
 	},
-	"category-version-history": "ماشىنا ئادەم: ئىلگىرىكى %(oldcat)s تارىخى نەشرىنىڭ خاتىرىسىنى ساقلاۋاتىدۇ",
-	"category-changing": "ماشىنا ئادەم: %(oldcat)s دىن %(newcat)s غىچە ئۆزگەرتىۋاتىدۇ",
 	"category-adding": "ماشىنا ئادەم: [[:Category:%(newcat)s|%(newcat)s]] كاتېگورىيە قوشۇۋاتىدۇ",
 	"category-also-in": "(%(alsocat)s كاتېگورىيەدىمۇ بار)",
-	"category-was-disbanded": "ماشىنا ئادەم: كاتېگورىيە تارقىتىۋېتىلدى",
-	"category-replacing": "ماشىنا ئادەم: كاتېگورىيە %(oldcat)sنى %(newcat)sغا ئالماشتۇرىۋاتىدۇ",
+	"category-changing": "ماشىنا ئادەم: %(oldcat)s دىن %(newcat)s غىچە ئۆزگەرتىۋاتىدۇ",
+	"category-listifying": "ماشىنا ئادەم: %(fromcat)sدىن ({{PLURAL:%(num)d|1 تۈر|%(num)d تۈر}}) تىزىمىنى ئاجرىتىۋاتىدۇ",
 	"category-removing": "ماشىنا ئادەم: %(oldcat)sدىن چىقىرىۋېتىۋاتىدۇ",
-	"category-was-moved": "ماشىنا ئادەم: كاتېگورىيە [[:Category:%(newcat)s|%(title)s]]غا يۆتكەلدى",
+	"category-replacing": "ماشىنا ئادەم: كاتېگورىيە %(oldcat)sنى %(newcat)sغا ئالماشتۇرىۋاتىدۇ",
 	"category-section-title": " %(oldcat)s نىڭ بەت تارىخى",
-	"category-listifying": "ماشىنا ئادەم: %(fromcat)sدىن ({{PLURAL:%(num)d|1 تۈر|%(num)d تۈر}}) تىزىمىنى ئاجرىتىۋاتىدۇ"
+	"category-version-history": "ماشىنا ئادەم: ئىلگىرىكى %(oldcat)s تارىخى نەشرىنىڭ خاتىرىسىنى ساقلاۋاتىدۇ",
+	"category-was-disbanded": "ماشىنا ئادەم: كاتېگورىيە تارقىتىۋېتىلدى",
+	"category-was-moved": "ماشىنا ئادەم: كاتېگورىيە [[:Category:%(newcat)s|%(title)s]]غا يۆتكەلدى"
 }

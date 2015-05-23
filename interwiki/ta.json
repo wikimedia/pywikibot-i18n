@@ -4,11 +4,11 @@
 			"Aswn"
 		]
 	},
-	"interwiki-modifying": "தானியங்கி மாற்றல்: %(modifying)s",
+	"interwiki-adding": "தானியங்கி இணைப்பு: %(adding)s",
 	"interwiki-adding-modifying": "தானியங்கி இணைப்பு: %(adding)s மாற்றல்: %(modifying)s",
 	"interwiki-adding-removing": "தானியங்கி இணைப்பு: %(adding)s அழிப்பு: %(removing)s",
 	"interwiki-adding-removing-modifying": "தானியங்கி இணைப்பு: %(adding)s அழிப்பு: %(removing)s மாற்றல்: %(modifying)s",
-	"interwiki-adding": "தானியங்கி இணைப்பு: %(adding)s",
+	"interwiki-modifying": "தானியங்கி மாற்றல்: %(modifying)s",
 	"interwiki-removing": "தானியங்கி அழிப்பு: %(removing)s",
 	"interwiki-removing-modifying": "தானியங்கி அழிப்பு: %(removing)s மாற்றல்: %(modifying)s"
 }

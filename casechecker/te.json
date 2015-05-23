@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"రహ్మానుద్దీన్"
+		]
+	},
+	"casechecker-delete-reason": "ఈ దారిమార్పు %(target)s ను చూపేందుకు వాడతారు",
+	"casechecker-delete-summary": "బాటు : ఈ దారిమార్పు పాఠ్యంలో సిరిలిక్, లాటిన్ అక్షరాలు శీర్షికను పోలి ఉన్నాయి",
+	"casechecker-rename": "బాటు : ఆంఘ్ల పెద్దబడి-చిన్నబడి మిశ్రిత పేరుమార్పు",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "బాటు : ఆంగ్ల పెద్దబడి⇆చిన్నబడి మార్పిడిలు :"
+}

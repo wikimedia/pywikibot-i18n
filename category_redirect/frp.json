@@ -4,9 +4,9 @@
 			"ChrisPtDe"
 		]
 	},
-	"category_redirect-comment": "Robot de mantegnence de les redirèccions de catègories",
-	"category_redirect-change-category": "Robot : changement de la redirèccion de [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot : apond lo modèlo de redirèccion de catègorie por mantegnence",
+	"category_redirect-change-category": "Robot : changement de la redirèccion de [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Robot de mantegnence de les redirèccions de catègories",
 	"category_redirect-edit-request": "Cetes pâges protègiêyes sont étâyes dècelâyes coment èyent fôta de les mises a jorn des lims de catègorie : %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s est dedens %(oldcat)s qu’est na redirèccion de vers %(newcat)s",
 	"category_redirect-fix-double": "Robot : rèpâre na redirèccion dobla"

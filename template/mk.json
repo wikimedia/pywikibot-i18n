@@ -5,7 +5,7 @@
 			"Rancher"
 		]
 	},
-	"template-removing": "Робот: Отстранување на {{PLURAL:%(num)d|шаблонот|шаблоните}}: %(list)s",
 	"template-changing": "Робот: Менување на {{PLURAL:%(num)d|шаблонот|шаблоните}}: %(list)s",
+	"template-removing": "Робот: Отстранување на {{PLURAL:%(num)d|шаблонот|шаблоните}}: %(list)s",
 	"template-substituting": "Робот: Заменување на {{PLURAL:%(num)d|шаблонот|шаблоните}}: %(list)s"
 }

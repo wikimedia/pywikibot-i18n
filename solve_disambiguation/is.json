@@ -4,11 +4,11 @@
 			"Snævar"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Fjarlægði tengilinn",
-	"solve_disambiguation-redirect-resolved": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Breytti tenglinum í %(to)s",
+	"solve_disambiguation-adding-dn-template": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Beiðni um aðkomu sérfræðings",
+	"solve_disambiguation-links-removed": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Fjarlægði tengilinn",
 	"solve_disambiguation-links-resolved": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Breytti tenglum í %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Beiðni um aðkomu sérfræðings",
-	"solve_disambiguation-adding-dn-template": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Beiðni um aðkomu sérfræðings",
-	"solve_disambiguation-unknown-page": "(óþekkt)",
-	"solve_disambiguation-links-removed": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Fjarlægði tengilinn"
+	"solve_disambiguation-redirect-removed": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Fjarlægði tengilinn",
+	"solve_disambiguation-redirect-resolved": "Lagfæri tengla sem tengjast á aðgreiningarsíðu: %(from)s - Breytti tenglinum í %(to)s",
+	"solve_disambiguation-unknown-page": "(óþekkt)"
 }

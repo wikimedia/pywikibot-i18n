@@ -5,8 +5,8 @@
 			"Xuacu"
 		]
 	},
-	"archivebot-older-than": "más antiguu que %(duration)s",
-	"archivebot-page-summary": "Bot: Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} (%(why)s) en %(archives)s.",
 	"archivebot-archive-full": "(ARCHIVU LLENU)",
-	"archivebot-archive-summary": "Bot: Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} de [[%(from)s]]."
+	"archivebot-archive-summary": "Bot: Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} de [[%(from)s]].",
+	"archivebot-older-than": "más antiguu que %(duration)s",
+	"archivebot-page-summary": "Bot: Archivando %(count)d {{PLURAL:%(count)d|filu|filos}} (%(why)s) en %(archives)s."
 }

@@ -8,14 +8,14 @@
 			"ZxxZxxZ"
 		]
 	},
-	"pywikibot-enter-xml-filename": "لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:",
-	"pywikibot-enter-page-processing": "کدام صفحه باید پردازش شود؟",
+	"pywikibot-enter-category-name": "لطفاً نام رده را وارد کنید:",
 	"pywikibot-enter-file-links-processing": "پیوند به کدام پرونده باید پردازش شود؟",
+	"pywikibot-enter-finished-browser": "هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید.",
 	"pywikibot-enter-namespace-number": "لطفاً شمارهٔ یک فضای نام را وارد کنید:",
 	"pywikibot-enter-new-text": "لطفاً متن جدید را وارد کنید:",
-	"pywikibot-enter-category-name": "لطفاً نام رده را وارد کنید:",
-	"pywikibot-enter-finished-browser": "هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید.",
+	"pywikibot-enter-page-processing": "کدام صفحه باید پردازش شود؟",
+	"pywikibot-enter-xml-filename": "لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:",
+	"pywikibot-fixes-fckeditor": "ربات: تصحیح اچ‌تی‌ام‌ال ویرایشگر پیشرفته",
 	"pywikibot-fixes-html": "ربات:تبدیل/تصحیح کدهای اچ‌تی‌ام‌ال",
-	"pywikibot-fixes-syntax": "ربات:تصحیح قالب ویکی‌نویسی",
-	"pywikibot-fixes-fckeditor": "ربات: تصحیح اچ‌تی‌ام‌ال ویرایشگر پیشرفته"
+	"pywikibot-fixes-syntax": "ربات:تصحیح قالب ویکی‌نویسی"
 }

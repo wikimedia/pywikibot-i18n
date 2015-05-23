@@ -6,9 +6,9 @@
 			"Ricordisamoa"
 		]
 	},
-	"delete-images": "Bot: cancellazione di tutte le immagini contenute nella pagina %(page)s",
-	"delete-referring-pages": "Bot: cancellazione di tutte le pagine con link da %(page)s",
 	"delete-from-category": "Bot: cancellazione di tutte le pagine dalla categoria %(page)s",
 	"delete-from-file": "Bot: cancello un elenco di pagine.",
-	"delete-linked-pages": "Bot: cancellazione di tutte le pagine collegate a %(page)s"
+	"delete-images": "Bot: cancellazione di tutte le immagini contenute nella pagina %(page)s",
+	"delete-linked-pages": "Bot: cancellazione di tutte le pagine collegate a %(page)s",
+	"delete-referring-pages": "Bot: cancellazione di tutte le pagine con link da %(page)s"
 }

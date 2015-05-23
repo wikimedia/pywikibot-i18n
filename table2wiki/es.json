@@ -4,6 +4,6 @@
 			"Xqt"
 		]
 	},
-	"table2wiki-warnings": "Bot controlado: actualizada sintaxis de tabla - {{PLURAL:count|1 aviso|%(count)d avisos}}!",
-	"table2wiki-no-warning": "Bot controlado: actualizada sintaxis de tabla"
+	"table2wiki-no-warning": "Bot controlado: actualizada sintaxis de tabla",
+	"table2wiki-warnings": "Bot controlado: actualizada sintaxis de tabla - {{PLURAL:count|1 aviso|%(count)d avisos}}!"
 }

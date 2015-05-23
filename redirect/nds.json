@@ -1,7 +1,7 @@
 {
 	"@metadata": [],
+	"redirect-broken-redirect-template": "{{delete}}Kaputte Wiederleiden, wat nich brukt ward.",
 	"redirect-fix-double": "Bot: Dubbelte Wiederleiden rutmakt → %(to)s",
 	"redirect-remove-broken": "Bot: Kaputte Wiederleiden ward nich brukt",
-	"redirect-remove-loop": "Bot: Redirect wiest wedder op sik sülvs",
-	"redirect-broken-redirect-template": "{{delete}}Kaputte Wiederleiden, wat nich brukt ward."
+	"redirect-remove-loop": "Bot: Redirect wiest wedder op sik sülvs"
 }

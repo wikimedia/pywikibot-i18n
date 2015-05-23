@@ -4,7 +4,7 @@
 			"Hemant wikikosh1"
 		]
 	},
+	"archivebot-archive-full": "(सम्पूर्णं पुरालेखीक्रियताम्)",
 	"archivebot-older-than": "इतः पुरातनानि",
-	"archivebot-page-summary": "कारुयन्त्रम् : पुरालेखीक्रियन्ते %(count)d {{PLURAL:%(count)d|सूत्राणि|सूत्राणि}} (%(why)s) %(archives)s इत्यत्र।",
-	"archivebot-archive-full": "(सम्पूर्णं पुरालेखीक्रियताम्)"
+	"archivebot-page-summary": "कारुयन्त्रम् : पुरालेखीक्रियन्ते %(count)d {{PLURAL:%(count)d|सूत्राणि|सूत्राणि}} (%(why)s) %(archives)s इत्यत्र।"
 }

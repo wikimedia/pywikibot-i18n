@@ -5,9 +5,9 @@
 			"Siddhartha Ghai"
 		]
 	},
-	"category_redirect-comment": "श्रेणी पुनर्प्रेषण रखरखाव रोबॉट",
-	"category_redirect-change-category": "बॉट: पुनर्प्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी",
 	"category_redirect-add-template": "बॉट: रखरखाव के लिए श्रेणी पुनर्प्रेषण साँचा जोड़ा गया",
+	"category_redirect-change-category": "बॉट: पुनर्प्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी",
+	"category_redirect-comment": "श्रेणी पुनर्प्रेषण रखरखाव रोबॉट",
 	"category_redirect-edit-request": "निम्न सुरक्षित पृष्ठ पाए गए हैं जिनमें श्रेणियों को अद्यतित करने की आवश्यकता है: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s %(oldcat)s में है, जो %(newcat)s को पुनर्प्रेषित है",
 	"category_redirect-fix-double": "बॉट: दुगना पुनर्प्रेषण सही किया गया"

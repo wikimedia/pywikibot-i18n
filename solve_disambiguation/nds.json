@@ -4,11 +4,11 @@
 			"Slomox"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Bot-stütt MB: %(from)s - Lenken rutnahmen",
-	"solve_disambiguation-redirect-resolved": "Bot-stütt MB: %(from)s - Lenk(en) ännert na %(to)s",
+	"solve_disambiguation-adding-dn-template": "Bot-stütt MB: %(from)s - Hülp von en Experten nödig",
+	"solve_disambiguation-links-removed": "Bot-stütt MB: %(from)s - Lenken rutnahmen",
 	"solve_disambiguation-links-resolved": "Bot-stütt MB: %(from)s - %(from)s - Lenk(en) ännert na %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Bot-stütt MB: %(from)s - Hülp von en Experten nödig",
-	"solve_disambiguation-adding-dn-template": "Bot-stütt MB: %(from)s - Hülp von en Experten nödig",
-	"solve_disambiguation-unknown-page": "(nich kennt)",
-	"solve_disambiguation-links-removed": "Bot-stütt MB: %(from)s - Lenken rutnahmen"
+	"solve_disambiguation-redirect-removed": "Bot-stütt MB: %(from)s - Lenken rutnahmen",
+	"solve_disambiguation-redirect-resolved": "Bot-stütt MB: %(from)s - Lenk(en) ännert na %(to)s",
+	"solve_disambiguation-unknown-page": "(nich kennt)"
 }

@@ -5,12 +5,12 @@
 			"Siddhartha Ghai"
 		]
 	},
-	"interwiki-modifying": "बॉट: %(modifying)s संशोधित कर रहा है",
+	"interwiki-adding": "बॉट: %(adding)s जोड़ रहा है",
 	"interwiki-adding-modifying": "बॉट: %(adding)s जोड़ रहा है; %(modifying)s परिवर्तित कर रहा है",
 	"interwiki-adding-removing": "बॉट: %(adding)s जोड़ रहा है; %(removing)s हटा रहा है",
 	"interwiki-adding-removing-modifying": "बॉट: %(adding)s जोड़ रहा है; %(removing)s हटा रहा है; %(modifying)s परिवर्तित कर रहा है",
-	"interwiki-adding": "बॉट: %(adding)s जोड़ रहा है",
+	"interwiki-modifying": "बॉट: %(modifying)s संशोधित कर रहा है",
+	"interwiki-modifying-from": "बॉट: %(from)s की जगह %(modifying)s जोड़ रहा है",
 	"interwiki-removing": "बॉट: %(removing)s हटा रहा है",
-	"interwiki-removing-modifying": "बॉट: %(removing)s हटा रहा है; %(modifying)s परिवर्तित कर रहा है",
-	"interwiki-modifying-from": "बॉट: %(from)s की जगह %(modifying)s जोड़ रहा है"
+	"interwiki-removing-modifying": "बॉट: %(removing)s हटा रहा है; %(modifying)s परिवर्तित कर रहा है"
 }

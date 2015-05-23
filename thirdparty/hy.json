@@ -4,7 +4,7 @@
 			"Xelgen"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "ռոբոտ",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(խմբագրող անձիք չեն հայտնաբերվել)",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": ", %Y %Bի %d"
+	"thirdparty-drtrigonbot-sum_disc-parse-start": ", %Y %Bի %d",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "ռոբոտ"
 }

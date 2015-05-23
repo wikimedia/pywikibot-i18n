@@ -4,8 +4,8 @@
 			"Pikne"
 		]
 	},
-	"featured-good": "Robot: %(page)s on hea artikkel",
-	"featured-list": "Robot: %(page)s on eeskujulik loend",
 	"featured-featured": "Robot: %(page)s on eeskujulik artikkel",
-	"featured-former": "Robot: %(page)s on endine eeskujulik artikkel"
+	"featured-former": "Robot: %(page)s on endine eeskujulik artikkel",
+	"featured-good": "Robot: %(page)s on hea artikkel",
+	"featured-list": "Robot: %(page)s on eeskujulik loend"
 }

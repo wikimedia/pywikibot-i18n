@@ -4,9 +4,9 @@
 			"Shirayuki"
 		]
 	},
-	"protect-links": "ロボットによる: 「%(page)s」からリンクされているページをすべて保護",
-	"protect-simple": "ロボットによる: ファイルのリストを保護",
 	"protect-category": "ロボットによる: カテゴリ「%(cat)s」にあるページをすべて保護",
+	"protect-images": "ロボットによる: ページ「%(page)s」上の画像をすべて保護",
+	"protect-links": "ロボットによる: 「%(page)s」からリンクされているページをすべて保護",
 	"protect-ref": "ロボットによる: 「%(page)s」を参照しているページをすべて保護",
-	"protect-images": "ロボットによる: ページ「%(page)s」上の画像をすべて保護"
+	"protect-simple": "ロボットによる: ファイルのリストを保護"
 }

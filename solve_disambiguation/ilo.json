@@ -4,11 +4,11 @@
 			"Lam-ang"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Inikkat ti panilpo (dagiti panilpo)",
-	"solve_disambiguation-redirect-resolved": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Sinukatan ti panilpo (dagiti panilpo) idiay %(to)s",
+	"solve_disambiguation-adding-dn-template": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Namarkaan a kas makasapul ti eksperto a tulong",
+	"solve_disambiguation-links-removed": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Inikkat ti panilpo (dagiti panilpo).",
 	"solve_disambiguation-links-resolved": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Sinukatan ti panilpo (dagiti panilpo) idiay %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Namarkaan a kas makasapul ti eksperto a tulong",
-	"solve_disambiguation-adding-dn-template": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Namarkaan a kas makasapul ti eksperto a tulong",
-	"solve_disambiguation-unknown-page": "(di amammo)",
-	"solve_disambiguation-links-removed": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Inikkat ti panilpo (dagiti panilpo)."
+	"solve_disambiguation-redirect-removed": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Inikkat ti panilpo (dagiti panilpo)",
+	"solve_disambiguation-redirect-resolved": "Tinultulongan ti robot a panangipalpalawag: %(from)s - Sinukatan ti panilpo (dagiti panilpo) idiay %(to)s",
+	"solve_disambiguation-unknown-page": "(di amammo)"
 }

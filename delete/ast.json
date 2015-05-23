@@ -5,9 +5,9 @@
 			"Xuacu"
 		]
 	},
-	"delete-images": "Bot: Desaniciando toles imaxes de la páxina %(page)s",
-	"delete-referring-pages": "Bot: Desaniciando toles páxines con referencia dende %(page)s",
 	"delete-from-category": "Bot: Desaniciando toles páxines de la categoría %(page)s",
 	"delete-from-file": "Bot: Desaniciando una llista de páxines.",
-	"delete-linked-pages": "Bot: Desaniciando toles páxines enllazaes dende %(page)s"
+	"delete-images": "Bot: Desaniciando toles imaxes de la páxina %(page)s",
+	"delete-linked-pages": "Bot: Desaniciando toles páxines enllazaes dende %(page)s",
+	"delete-referring-pages": "Bot: Desaniciando toles páxines con referencia dende %(page)s"
 }

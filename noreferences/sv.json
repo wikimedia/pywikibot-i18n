@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lokal Profil"
+			"Lokal Profil",
+			"WikiPhoenix"
 		]
 	},
-	"noreferences-add-tag": "Bot: Lägger till saknad <references />-tagg"
+	"noreferences-add-tag": "Bot: Lägger till saknad <references />-tagg",
+	"noreferences-fix-tag": "Bot: Fixar ogiltig syntax för taggen <references />"
 }

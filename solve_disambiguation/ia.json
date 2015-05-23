@@ -4,11 +4,11 @@
 			"McDutchie"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Resolution de redirectiones assistite per robot: %(from)s - Removed link(s).",
-	"solve_disambiguation-redirect-resolved": "Resolution de redirectiones assistite per robot: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-adding-dn-template": "Disambiguation con robot: %(from)s - Marcate como necessitante le attention de un experto",
+	"solve_disambiguation-links-removed": "Disambiguation assistite per robot: %(from)s - Removed link(s).",
 	"solve_disambiguation-links-resolved": "Disambiguation assistite per robot: %(from)s - Changed link(s) to %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Disambiguation con robot: %(from)s - Marcate como necessitante le attention de un experto",
-	"solve_disambiguation-adding-dn-template": "Disambiguation con robot: %(from)s - Marcate como necessitante le attention de un experto",
-	"solve_disambiguation-unknown-page": "(incognite)",
-	"solve_disambiguation-links-removed": "Disambiguation assistite per robot: %(from)s - Removed link(s)."
+	"solve_disambiguation-redirect-removed": "Resolution de redirectiones assistite per robot: %(from)s - Removed link(s).",
+	"solve_disambiguation-redirect-resolved": "Resolution de redirectiones assistite per robot: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-unknown-page": "(incognite)"
 }

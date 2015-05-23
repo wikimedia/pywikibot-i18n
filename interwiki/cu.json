@@ -4,11 +4,11 @@
 			"ОйЛ"
 		]
 	},
-	"interwiki-modifying": "аѵтоматъ иꙁмѣнилъ : %(modifying)s",
+	"interwiki-adding": "аѵтоматъ добавилъ : %(adding)s",
 	"interwiki-adding-modifying": "аѵтоматъ добавилъ : %(adding)s иꙁмѣнилъ : %(modifying)s",
 	"interwiki-adding-removing": "аѵтоматъ добавилъ : %(adding)s оуничьжилъ : %(removing)s",
 	"interwiki-adding-removing-modifying": "аѵтоматъ добавилъ : %(adding)s оуничьжилъ : %(removing)s иꙁмѣнилъ : %(modifying)s",
-	"interwiki-adding": "аѵтоматъ добавилъ : %(adding)s",
+	"interwiki-modifying": "аѵтоматъ иꙁмѣнилъ : %(modifying)s",
 	"interwiki-removing": "аѵтоматъ оуничьжилъ : %(removing)s",
 	"interwiki-removing-modifying": "аѵтоматъ оуничьжилъ : %(removing)s иꙁмѣнилъ : %(modifying)s"
 }

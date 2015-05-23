@@ -4,7 +4,7 @@
 			"Haqmar"
 		]
 	},
-	"template-removing": "Робот: {{PLURAL:%(num)d|ҡалып}} юйыу: %(list)s",
 	"template-changing": "Робот: {{PLURAL:%(num)d|ҡалып}} үҙгәртеү: %(list)s",
+	"template-removing": "Робот: {{PLURAL:%(num)d|ҡалып}} юйыу: %(list)s",
 	"template-substituting": "Робот: {{PLURAL:%(num)d|ҡалып}} алыштырыу: %(list)s"
 }

@@ -5,7 +5,7 @@
 			"Cedric31"
 		]
 	},
-	"welcome-welcome": "Benvenguda!",
 	"welcome-bad_username": "Robòt : Apondon d'un nom d'utilizaire que deu èsser verificat",
-	"welcome-updating": "Bot : Mesa a jorn del jornal"
+	"welcome-updating": "Bot : Mesa a jorn del jornal",
+	"welcome-welcome": "Benvenguda!"
 }

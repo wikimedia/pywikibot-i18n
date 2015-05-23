@@ -4,7 +4,7 @@
 			"EileenSanda"
 		]
 	},
-	"welcome-welcome": "Vælkomin!",
 	"welcome-bad_username": "Bottur: Leggur afturat eitt brúkaranavn sum má eftirkannast",
-	"welcome-updating": "Bottur: Dagførir loggin"
+	"welcome-updating": "Bottur: Dagførir loggin",
+	"welcome-welcome": "Vælkomin!"
 }

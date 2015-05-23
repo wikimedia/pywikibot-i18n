@@ -4,6 +4,6 @@
 			"Minisarm"
 		]
 	},
-	"table2wiki-warnings": "Robot controlat de utilizator: actualizat sintaxa tabelului — {{PLURAL:count|1 avertisment|%(count)d avertismente}}!",
-	"table2wiki-no-warning": "Robot controlat de utilizator: sintaxa tabelului actualizată"
+	"table2wiki-no-warning": "Robot controlat de utilizator: sintaxa tabelului actualizată",
+	"table2wiki-warnings": "Robot controlat de utilizator: actualizat sintaxa tabelului — {{PLURAL:count|1 avertisment|%(count)d avertismente}}!"
 }

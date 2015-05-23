@@ -4,9 +4,9 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"unprotect-links": "Robô: A desproteger todas as páginas ligadas a %(page)s.",
-	"unprotect-simple": "Robô: A desproteger uma lista de ficheiros.",
 	"unprotect-category": "Robô: A desproteger todos as páginas da categoria %(cat)s",
+	"unprotect-images": "Robô: A desproteger todas as imagens na página %(page)s.",
+	"unprotect-links": "Robô: A desproteger todas as páginas ligadas a %(page)s.",
 	"unprotect-ref": "Robô: A desproteger todas as páginas afluentes a %(page)s.",
-	"unprotect-images": "Robô: A desproteger todas as imagens na página %(page)s."
+	"unprotect-simple": "Robô: A desproteger uma lista de ficheiros."
 }

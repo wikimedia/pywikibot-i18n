@@ -4,6 +4,6 @@
 			"C.R."
 		]
 	},
-	"category_redirect-comment": "Bot 'e manutenziòne d' 'e redirect a categurìe",
-	"category_redirect-change-category": "Bot: Cagn' 'a categurìa cu redirect [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]"
+	"category_redirect-change-category": "Bot: Cagn' 'a categurìa cu redirect [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot 'e manutenziòne d' 'e redirect a categurìe"
 }

@@ -4,12 +4,14 @@
 			"Purodha"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Jif däm <i lang=\"en\">XML-Dump</i> singe Dateiname en:",
-	"pywikibot-enter-page-processing": "Wat för en Sigg sulle mer beärbeide?",
+	"pywikibot-enter-category-name": "Jif dä Saachjropp iere Naame en:",
 	"pywikibot-enter-file-links-processing": "De Lengks op wat för en Datteisigg sull beärbeid wääde?",
+	"pywikibot-enter-finished-browser": "Dröck de <i lang=\"en\">Enter</i>-Taßß, wann de fäädesch beß em Brauser.",
 	"pywikibot-enter-namespace-number": "Jif de Nommer för dat Apachtemang en:",
 	"pywikibot-enter-new-text": "Jif dä neue Täx en:",
-	"pywikibot-enter-category-name": "Jif dä Saachjropp iere Naame en:",
-	"pywikibot-enter-finished-browser": "Dröck de <i lang=\"en\">Enter</i>-Taßß, wann de fäädesch beß em Brauser.",
-	"pywikibot-fixes-html": "Bot: vun HTML en Wikikood wandelle"
+	"pywikibot-enter-page-processing": "Wat för en Sigg sulle mer beärbeide?",
+	"pywikibot-enter-xml-filename": "Jif däm <i lang=\"en\">XML-Dump</i> singe Dateiname en:",
+	"pywikibot-fixes-fckeditor": "Bot: Donn et HTML vum FCK-editor repparehre",
+	"pywikibot-fixes-html": "Bot: vun HTML en Wikikood wandelle",
+	"pywikibot-fixes-syntax": "Bot: Donn de Süntax vum Wikki repparehre"
 }

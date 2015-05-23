@@ -4,7 +4,7 @@
 			"Christian List"
 		]
 	},
-	"template-removing": "Robot: Fjerner {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s",
 	"template-changing": "Robot: Ændrer {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s",
+	"template-removing": "Robot: Fjerner {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s",
 	"template-substituting": "Robot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s"
 }

@@ -4,8 +4,8 @@
 			"Cedric31"
 		]
 	},
-	"featured-good": "Robòt : %(page)s es un bon article",
-	"featured-list": "Bòt : %(page)s es una lista de qualitat",
 	"featured-featured": "Bòt : %(page)s es un article de qualitat",
-	"featured-former": "Bòt : %(page)s es un article de qualitat descaigut"
+	"featured-former": "Bòt : %(page)s es un article de qualitat descaigut",
+	"featured-good": "Robòt : %(page)s es un bon article",
+	"featured-list": "Bòt : %(page)s es una lista de qualitat"
 }

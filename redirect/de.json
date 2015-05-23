@@ -6,10 +6,10 @@
 			"The Evil IP address"
 		]
 	},
-	"redirect-fix-double": "Bot: Korrigiere doppelte Weiterleitung auf %(to)s",
-	"redirect-remove-broken": "Bot: Weiterleitungsziel existiert nicht",
+	"redirect-broken-redirect-template": "{{Löschen|Defekte Weiterleitung}}",
 	"redirect-fix-broken-moved": "Bot: Korrigiere defekte Weiterleitung auf Verschiebeziel %(to)s",
+	"redirect-fix-double": "Bot: Korrigiere doppelte Weiterleitung auf %(to)s",
 	"redirect-fix-loop": "Bot: Korrigiere Weiterleitungschleife auf %(to)s",
-	"redirect-remove-loop": "Bot: Weiterleitungsziel auf sich selbst",
-	"redirect-broken-redirect-template": "{{Löschen|Defekte Weiterleitung}}"
+	"redirect-remove-broken": "Bot: Weiterleitungsziel existiert nicht",
+	"redirect-remove-loop": "Bot: Weiterleitungsziel auf sich selbst"
 }

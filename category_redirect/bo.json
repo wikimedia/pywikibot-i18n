@@ -4,9 +4,9 @@
 			"Phurbutsering"
 		]
 	},
-	"category_redirect-comment": "སྡེ་ཚན་མི་གཟུགས་འཕྲུལ་ཆས་ཉར་འཚག་ཁ་ཕྱོགས་དུ་བསྐྱར་སྟོན་བྱས་པ།",
-	"category_redirect-change-category": "མི་གཟུགས་འཕྲུལ་ཆས་ ：ཁ་ཕྱོགས་བསྐྱོར་སྟོན་གི་སྡེ་ཚན་  [[:%(oldCatLink)s|%(oldCatTitle)s]] ནས་  [[:%(newCatLink)s|%(newCatTitle)s]] བརྗེ་བ།",
 	"category_redirect-add-template": "མི་གཟུགས་འཕྲུལ་ཆས་ : ཁ་ཕྱོགས་བསྐྱར་སྟོན་གི་གཅོད་འབིགས་ཀྱི་དཔེ་ཚད་སྡེ་ཚན་ཉར་འཚག་དུ་སྣོན་པ།",
+	"category_redirect-change-category": "མི་གཟུགས་འཕྲུལ་ཆས་ ：ཁ་ཕྱོགས་བསྐྱོར་སྟོན་གི་སྡེ་ཚན་  [[:%(oldCatLink)s|%(oldCatTitle)s]] ནས་  [[:%(newCatLink)s|%(newCatTitle)s]] བརྗེ་བ།",
+	"category_redirect-comment": "སྡེ་ཚན་མི་གཟུགས་འཕྲུལ་ཆས་ཉར་འཚག་ཁ་ཕྱོགས་དུ་བསྐྱར་སྟོན་བྱས་པ།",
 	"category_redirect-edit-request": "གཤམ་གི་ འགོག་སྲུང་བྱས་པའི་ཤོག་ངོས་རྣམས་སྡེ་ཚན་འབྲེལ་མཐུད་ཁ་སྐོང་དུ་བྱེད་དགོས་པ་མཁོ་བར་རྩད་རྟོགས་བྱུང་སོང།  : %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s འདི་ནང་ཡོད་པའི་ %(oldcat)s, ཁ་ཕྱོགས་བསྐྱར་སྟོན་བྱེད་གནས་ %(newcat)s",
 	"category_redirect-fix-double": "མི་གཟུགས་འཕྲུལ་ཆས་ ：ཁ་ཕྱོགས་བསྐྱར་སྟོན་ཉིས་བརྩེགས་ཅན་བཟོ་བཅོས་རྒྱག་པ།"

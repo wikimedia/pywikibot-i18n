@@ -4,6 +4,6 @@
 			"Grondin"
 		]
 	},
-	"table2wiki-warnings": "Robot controlat per usuari: actualitzant la sintaxi de la taula. {{PLURAL:count|Un advertiment|%(count)d advertiments}}!",
-	"table2wiki-no-warning": "Robot controlat per usuari: actualitzant la sintaxi de la taula."
+	"table2wiki-no-warning": "Robot controlat per usuari: actualitzant la sintaxi de la taula.",
+	"table2wiki-warnings": "Robot controlat per usuari: actualitzant la sintaxi de la taula. {{PLURAL:count|Un advertiment|%(count)d advertiments}}!"
 }

@@ -4,7 +4,7 @@
 			"Siebrand"
 		]
 	},
-	"welcome-welcome": "Welkom!",
 	"welcome-bad_username": "Robot: te controleren gebruikersnaam toegevoegd",
-	"welcome-updating": "Robot: logboek bijwerken"
+	"welcome-updating": "Robot: logboek bijwerken",
+	"welcome-welcome": "Welkom!"
 }

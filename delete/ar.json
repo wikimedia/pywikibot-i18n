@@ -4,9 +4,9 @@
 			"Meno25"
 		]
 	},
-	"delete-images": "روبوت -حذف كل الصور في الصفحة %(page)s",
-	"delete-referring-pages": "روبوت - حذف كل الصفحات الراجعة من %(page)s",
 	"delete-from-category": "روبوت - حذف كل الصفحات من التصنيف %(page)s",
 	"delete-from-file": "بوت: حذف قائمة من الملفات.",
-	"delete-linked-pages": "روبوت - حذف كل الصفحات الموصولة من %(page)s"
+	"delete-images": "روبوت -حذف كل الصور في الصفحة %(page)s",
+	"delete-linked-pages": "روبوت - حذف كل الصفحات الموصولة من %(page)s",
+	"delete-referring-pages": "روبوت - حذف كل الصفحات الراجعة من %(page)s"
 }

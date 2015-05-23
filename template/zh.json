@@ -4,7 +4,7 @@
 			"Yfdyh000"
 		]
 	},
-	"template-removing": "机器人：删除%(num)d个模板：%(list)s",
 	"template-changing": "机器人：修改%(num)d个模板：%(list)s",
+	"template-removing": "机器人：删除%(num)d个模板：%(list)s",
 	"template-substituting": "机器人：替换%(num)d个模板：%(list)s"
 }

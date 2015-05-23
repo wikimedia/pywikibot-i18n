@@ -5,13 +5,13 @@
 			"Shirayuki"
 		]
 	},
-	"pywikibot-enter-xml-filename": "XML ダンプのファイル名を入力:",
-	"pywikibot-enter-page-processing": "どのページを処理しますか?",
+	"pywikibot-enter-category-name": "カテゴリ名を入力:",
 	"pywikibot-enter-file-links-processing": "どのファイルページヘのリンクを処理しますか?",
+	"pywikibot-enter-finished-browser": "終了したら Enter キーを押してください。",
 	"pywikibot-enter-namespace-number": "名前空間の番号を入力:",
 	"pywikibot-enter-new-text": "新しいテキストを入力:",
-	"pywikibot-enter-category-name": "カテゴリ名を入力:",
-	"pywikibot-enter-finished-browser": "終了したら Enter キーを押してください。",
+	"pywikibot-enter-page-processing": "どのページを処理しますか?",
+	"pywikibot-enter-xml-filename": "XML ダンプのファイル名を入力:",
 	"pywikibot-fixes-html": "ロボットによる: HTML転換",
 	"pywikibot-fixes-syntax": "ロボットによる: wiki構文修正"
 }

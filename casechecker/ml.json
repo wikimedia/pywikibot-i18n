@@ -4,9 +4,9 @@
 			"Praveenp"
 		]
 	},
-	"casechecker-replacement-summary": "യന്ത്രം: കേസ് (Case) മാറ്റിച്ചേർക്കലുകൾ:",
-	"casechecker-delete-summary": "യന്ത്രം: ഈ തിരിച്ചുവിടലിൽ ഒരേ പോലെ തോന്നിക്കുന്ന സിറിലിക്, ലാറ്റിൻ അക്ഷരങ്ങൾ തലക്കെട്ടിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്നു.",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "ഈ തിരിച്ചുവിടൽ %(target)s എന്നതിലേക്കുള്ളതാണ്",
-	"casechecker-rename": "യന്ത്രം: മിശ്രിത കേസ് പുനർനാമകരണം"
+	"casechecker-delete-summary": "യന്ത്രം: ഈ തിരിച്ചുവിടലിൽ ഒരേ പോലെ തോന്നിക്കുന്ന സിറിലിക്, ലാറ്റിൻ അക്ഷരങ്ങൾ തലക്കെട്ടിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്നു.",
+	"casechecker-rename": "യന്ത്രം: മിശ്രിത കേസ് പുനർനാമകരണം",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "യന്ത്രം: കേസ് (Case) മാറ്റിച്ചേർക്കലുകൾ:"
 }

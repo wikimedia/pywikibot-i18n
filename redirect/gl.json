@@ -4,10 +4,10 @@
 			"Toliño"
 		]
 	},
-	"redirect-fix-double": "Bot: Arranxo a redirección dobre cara a \"%(to)s\"",
-	"redirect-remove-broken": "Bot: Redirección cara a unha páxina eliminada ou en branco",
+	"redirect-broken-redirect-template": "{{delete}}",
 	"redirect-fix-broken-moved": "Bot: Arranxo a redirección rota cara á páxina de destino trasladada \"%(to)s\"",
+	"redirect-fix-double": "Bot: Arranxo a redirección dobre cara a \"%(to)s\"",
 	"redirect-fix-loop": "Bot: Arranxo a redirección en bucle cara a \"%(to)s\"",
-	"redirect-remove-loop": "Bot: O destino da redirección crea un bucle",
-	"redirect-broken-redirect-template": "{{delete}}"
+	"redirect-remove-broken": "Bot: Redirección cara a unha páxina eliminada ou en branco",
+	"redirect-remove-loop": "Bot: O destino da redirección crea un bucle"
 }

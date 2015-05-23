@@ -5,9 +5,9 @@
 			"Edinwiki"
 		]
 	},
-	"category_redirect-comment": "Bot za održavanje preusmjeravanja kategorije",
-	"category_redirect-change-category": "Bot: mijenja preusmjerenu kategoriju [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Bot: dodaje šablon preusmjerenja kategorije radi održavanja",
+	"category_redirect-change-category": "Bot: mijenja preusmjerenu kategoriju [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot za održavanje preusmjeravanja kategorije",
 	"category_redirect-edit-request": "Sljedeće zaštićene stranice su otkrivene a koje trebaju ažuriranje linkova kategorija: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s je u %(oldcat)s, koja je preusmjerenje na %(newcat)s",
 	"category_redirect-fix-double": "Bot: Popravlja dvostruka preusmjerenja"

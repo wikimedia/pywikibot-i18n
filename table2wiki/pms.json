@@ -4,6 +4,6 @@
 			"Borichèt"
 		]
 	},
-	"table2wiki-warnings": "Trigomiro controlà da utent: Sintassi ëd tàula agiornà - {{PLURAL:count|1 avertiment|%(count)d avertiment}}!",
-	"table2wiki-no-warning": "Trigomiro controlà da utent: Sintassi ëd tàula agiornà"
+	"table2wiki-no-warning": "Trigomiro controlà da utent: Sintassi ëd tàula agiornà",
+	"table2wiki-warnings": "Trigomiro controlà da utent: Sintassi ëd tàula agiornà - {{PLURAL:count|1 avertiment|%(count)d avertiment}}!"
 }

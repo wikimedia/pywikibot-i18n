@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robot yn newid: %(modifying)s",
+	"interwiki-adding": "robot yn ychwanegu: %(adding)s",
 	"interwiki-adding-modifying": "robot yn ychwanegu: %(adding)s yn newid: %(modifying)s",
 	"interwiki-adding-removing": "robot yn ychwanegu: %(adding)s yn tynnu: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot yn ychwanegu: %(adding)s yn tynnu: %(removing)s yn newid: %(modifying)s",
-	"interwiki-adding": "robot yn ychwanegu: %(adding)s",
+	"interwiki-modifying": "robot yn newid: %(modifying)s",
+	"interwiki-modifying-from": "Robot: Yn newid %(from)s yn %(modifying)s",
 	"interwiki-removing": "robot yn tynnu: %(removing)s",
-	"interwiki-removing-modifying": "robot yn tynnu: %(removing)s yn newid: %(modifying)s",
-	"interwiki-modifying-from": "Robot: Yn newid %(from)s yn %(modifying)s"
+	"interwiki-removing-modifying": "robot yn tynnu: %(removing)s yn newid: %(modifying)s"
 }

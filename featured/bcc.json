@@ -4,8 +4,8 @@
 			"Baloch Afghanistan"
 		]
 	},
-	"featured-good": "ربات: %(page)s یک جوانین مکاله یی اینت",
-	"featured-list": "ربات: %(page)s یک فهرست برگزیده است",
 	"featured-featured": "ربات: %(page)s یک مقالهٔ برگزیده است",
-	"featured-former": "ربات: %(page)s مقالهٔ برگزیدهٔ پیشین است"
+	"featured-former": "ربات: %(page)s مقالهٔ برگزیدهٔ پیشین است",
+	"featured-good": "ربات: %(page)s یک جوانین مکاله یی اینت",
+	"featured-list": "ربات: %(page)s یک فهرست برگزیده است"
 }

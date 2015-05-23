@@ -5,8 +5,8 @@
 			"SpeedyGonsales"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
-	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Obavijest",
 	"thirdparty-drtrigonbot-subster-summary-mod": "zamjena %(tags)s oznaka",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "PORUKA BOTA"
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "PORUKA BOTA",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Obavijest",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
 }

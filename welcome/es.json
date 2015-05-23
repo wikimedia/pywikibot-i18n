@@ -5,7 +5,7 @@
 			"Invadinado"
 		]
 	},
-	"welcome-welcome": "¡Bienvenido!",
 	"welcome-bad_username": "Bot: adición de nombre de usuario que necesita revisión",
-	"welcome-updating": "Bot: actualización del registro"
+	"welcome-updating": "Bot: actualización del registro",
+	"welcome-welcome": "¡Bienvenido!"
 }

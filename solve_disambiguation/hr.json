@@ -4,11 +4,11 @@
 			"Ex13"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Razdvojba podržan od bota: %(from)s - Uklonjena(ne) poveznica(ce)",
-	"solve_disambiguation-redirect-resolved": "Razdvojba podržana od bota: %(from)s - Promijenjena(ne) poveznica(ce) u %(to)s",
+	"solve_disambiguation-adding-dn-template": "Razdvojba podržana od bota: %(from)s - označen kao potrebna stručna pozornost",
+	"solve_disambiguation-links-removed": "Razdvojba podržana od bota: %(from)s - Uklonjena(ne) poveznica(ce)",
 	"solve_disambiguation-links-resolved": "Razdvojba podržana od bota: %(from)s - Promijenjena(ne) poveznica(ce) u %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Razdvojba podržana od bota: %(from)s - označen kao potrebna stručna pozornost",
-	"solve_disambiguation-adding-dn-template": "Razdvojba podržana od bota: %(from)s - označen kao potrebna stručna pozornost",
-	"solve_disambiguation-unknown-page": "(nepoznato)",
-	"solve_disambiguation-links-removed": "Razdvojba podržana od bota: %(from)s - Uklonjena(ne) poveznica(ce)"
+	"solve_disambiguation-redirect-removed": "Razdvojba podržan od bota: %(from)s - Uklonjena(ne) poveznica(ce)",
+	"solve_disambiguation-redirect-resolved": "Razdvojba podržana od bota: %(from)s - Promijenjena(ne) poveznica(ce) u %(to)s",
+	"solve_disambiguation-unknown-page": "(nepoznato)"
 }

@@ -4,7 +4,7 @@
 			"Praveenp"
 		]
 	},
-	"template-removing": "യന്ത്രം: {{PLURAL:%(num)d|ഫലകം|ഫലകങ്ങൾ}} നീക്കം ചെയ്യുന്നു: %(list)s",
 	"template-changing": "യന്ത്രം: {{PLURAL:%(num)d|ഫലകം|ഫലകങ്ങൾ}} മാറ്റം വരുത്തുന്നു: %(list)s",
+	"template-removing": "യന്ത്രം: {{PLURAL:%(num)d|ഫലകം|ഫലകങ്ങൾ}} നീക്കം ചെയ്യുന്നു: %(list)s",
 	"template-substituting": "യന്ത്രം: {{PLURAL:%(num)d|ഫലകം|ഫലകങ്ങൾ}} മാറ്റിച്ചേർക്കുന്നു: %(list)s"
 }

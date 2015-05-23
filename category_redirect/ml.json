@@ -4,9 +4,9 @@
 			"Praveenp"
 		]
 	},
-	"category_redirect-comment": "വർഗ്ഗം തിരിച്ചുവിടൽ പരിപാലന യന്ത്രം",
-	"category_redirect-change-category": "യന്ത്രം: തിരിച്ചുവിടപ്പെട്ട [[:%(oldCatLink)s|%(oldCatTitle)s]]  എന്ന വർഗ്ഗം  [[:%(newCatLink)s|%(newCatTitle)s]]  എന്നാക്കി മാറ്റി",
 	"category_redirect-add-template": "യന്ത്രം: പരിപാലനത്തിനായി വർഗ്ഗ തിരിച്ചുവിടൽ ഫലകം കൂട്ടിച്ചേർക്കുന്നു",
+	"category_redirect-change-category": "യന്ത്രം: തിരിച്ചുവിടപ്പെട്ട [[:%(oldCatLink)s|%(oldCatTitle)s]]  എന്ന വർഗ്ഗം  [[:%(newCatLink)s|%(newCatTitle)s]]  എന്നാക്കി മാറ്റി",
+	"category_redirect-comment": "വർഗ്ഗം തിരിച്ചുവിടൽ പരിപാലന യന്ത്രം",
 	"category_redirect-edit-request": "വർഗ്ഗ കണ്ണികളിലേയ്ക്ക് പുതുക്കലുകളാവശ്യമുള്ള പഴയ സംരക്ഷിക്കപ്പെട്ട താളുകൾ കാണാനിടയായി:  %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ഉള്ളത് %(oldcat)s-ൽ ആണ്, അതാകട്ടെ %(newcat)s എന്നതിലേക്ക് തിരിച്ചുവിടപ്പെട്ടിരിക്കുന്നു",
 	"category_redirect-fix-double": "യന്ത്രം: ഇരട്ട-തിരിച്ചുവിടലുകൾ ശരിയാക്കുന്നു"

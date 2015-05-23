@@ -5,9 +5,9 @@
 			"McDutchie"
 		]
 	},
-	"casechecker-replacement-summary": "Bot: Substitució de majúscules/minúscules:",
-	"casechecker-delete-summary": "Bot: Aquesta redirecció conté al títol caràcters ciríl·lics i llatins amb el mateix aspecte",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Aquesta redirecció apuntava a %(target)s",
-	"casechecker-rename": "Bot: reanomenament amb majúscules/minúscules combinades"
+	"casechecker-delete-summary": "Bot: Aquesta redirecció conté al títol caràcters ciríl·lics i llatins amb el mateix aspecte",
+	"casechecker-rename": "Bot: reanomenament amb majúscules/minúscules combinades",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: Substitució de majúscules/minúscules:"
 }

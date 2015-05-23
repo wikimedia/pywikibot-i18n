@@ -4,7 +4,7 @@
 			"Purodha"
 		]
 	},
-	"template-removing": "Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde fottjeschmeße.",
 	"template-changing": "Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde verändert..",
+	"template-removing": "Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde fottjeschmeße.",
 	"template-substituting": "Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde ußjewääßelt."
 }

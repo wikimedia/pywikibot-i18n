@@ -4,12 +4,12 @@
 			"UV"
 		]
 	},
-	"interwiki-modifying": "automaton mutat: %(modifying)s",
+	"interwiki-adding": "automaton addit: %(adding)s",
 	"interwiki-adding-modifying": "automaton addit: %(adding)s mutat: %(modifying)s",
 	"interwiki-adding-removing": "automaton addit: %(adding)s abdit: %(removing)s",
 	"interwiki-adding-removing-modifying": "automaton addit: %(adding)s abdit: %(removing)s mutat: %(modifying)s",
-	"interwiki-adding": "automaton addit: %(adding)s",
+	"interwiki-modifying": "automaton mutat: %(modifying)s",
+	"interwiki-modifying-from": "automaton mutat: %(from)s→%(modifying)s",
 	"interwiki-removing": "automaton abdit: %(removing)s",
-	"interwiki-removing-modifying": "automaton abdit: %(removing)s mutat: %(modifying)s",
-	"interwiki-modifying-from": "automaton mutat: %(from)s→%(modifying)s"
+	"interwiki-removing-modifying": "automaton abdit: %(removing)s mutat: %(modifying)s"
 }

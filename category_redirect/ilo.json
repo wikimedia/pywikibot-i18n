@@ -4,9 +4,9 @@
 			"Lam-ang"
 		]
 	},
-	"category_redirect-comment": "Robot nga agsimsimpa kadagiti baw-ing ti kategoria",
-	"category_redirect-change-category": "Robot: Agsuksukat ti naibaw-ing a kategoria [[:%(oldCatLink)s|%(oldCatTitle)s]] idiay [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: Agnaynayon ti panagbaw-ing ti kategoria a plantilia para iti panagsimpa",
+	"category_redirect-change-category": "Robot: Agsuksukat ti naibaw-ing a kategoria [[:%(oldCatLink)s|%(oldCatTitle)s]] idiay [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Robot nga agsimsimpa kadagiti baw-ing ti kategoria",
 	"category_redirect-edit-request": "Ti sumaganad a nasalakniban a pampanid ket nasiputan a makasapul ti panagpabaro kadagiti panilpo ti kategoria: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ket adda idiay %(oldcat)s, nga maysa a baw-ing idiay %(newcat)s",
 	"category_redirect-fix-double": "Robot: Agsimsimpa ti doble a baw-ing"

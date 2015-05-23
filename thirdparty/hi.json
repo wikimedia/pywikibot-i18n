@@ -4,10 +4,10 @@
 			"Siddhartha Ghai"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "बॉट",
-	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(कोई इंसानी सम्पादक नहीं मिला)",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "चर्चा समाप्त",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "बॉट सन्देश",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "नयी चर्चा",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "अधिसूचना",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "चर्चा समाप्त",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "बॉट सन्देश"
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(कोई इंसानी सम्पादक नहीं मिला)",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "बॉट"
 }

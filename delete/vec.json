@@ -5,9 +5,9 @@
 			"Candalua"
 		]
 	},
-	"delete-images": "Robot: Scansełasion de tute łe imajini contegnude inte ła pajina %(page)s",
-	"delete-referring-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s",
 	"delete-from-category": "Robot: Scansełasion de tute łe pajine da ła categoria %(page)s",
 	"delete-from-file": "Bot: Scansełasion de na lista de pagine.",
-	"delete-linked-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s"
+	"delete-images": "Robot: Scansełasion de tute łe imajini contegnude inte ła pajina %(page)s",
+	"delete-linked-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s",
+	"delete-referring-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s"
 }

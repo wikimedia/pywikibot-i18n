@@ -4,11 +4,11 @@
 			"John Reid"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Robot-assistit disambiguation: %(from)s - Remuived airtin(s)",
-	"solve_disambiguation-redirect-resolved": "Robot-assisted disambeeguation: %(from)s - Chynged airtin(s) til %(to)s",
+	"solve_disambiguation-adding-dn-template": "Robot-assistit disambiguation: %(from)s - Maurked aes needin expert attention",
+	"solve_disambiguation-links-removed": "Robot-assistit disambiguation: %(from)s - Remuived airtin(s).",
 	"solve_disambiguation-links-resolved": "Robot-assisted disambeeguation: %(from)s - Chynged airtin(s) til %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Robot-assistit disambiguation: %(from)s - Maurked aes needin expert attention",
-	"solve_disambiguation-adding-dn-template": "Robot-assistit disambiguation: %(from)s - Maurked aes needin expert attention",
-	"solve_disambiguation-unknown-page": "(onkent)",
-	"solve_disambiguation-links-removed": "Robot-assistit disambiguation: %(from)s - Remuived airtin(s)."
+	"solve_disambiguation-redirect-removed": "Robot-assistit disambiguation: %(from)s - Remuived airtin(s)",
+	"solve_disambiguation-redirect-resolved": "Robot-assisted disambeeguation: %(from)s - Chynged airtin(s) til %(to)s",
+	"solve_disambiguation-unknown-page": "(onkent)"
 }

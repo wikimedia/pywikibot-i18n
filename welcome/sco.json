@@ -4,7 +4,7 @@
 			"John Reid"
 		]
 	},
-	"welcome-welcome": "Weelcome!",
 	"welcome-bad_username": "Bot: Eikin ae uisername that needs tae be checked",
-	"welcome-updating": "Robot: Updatin log"
+	"welcome-updating": "Robot: Updatin log",
+	"welcome-welcome": "Weelcome!"
 }

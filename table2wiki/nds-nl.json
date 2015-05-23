@@ -4,6 +4,6 @@
 			"Servien"
 		]
 	},
-	"table2wiki-warnings": "Tabel ewiezigd van HTML- naor Wikisyntax - {{PLURAL:count|1 waorschuwing|%(count)d waorschuwingen}}!",
-	"table2wiki-no-warning": "Tabel ewiezigd van HTML- naor Wikisyntax"
+	"table2wiki-no-warning": "Tabel ewiezigd van HTML- naor Wikisyntax",
+	"table2wiki-warnings": "Tabel ewiezigd van HTML- naor Wikisyntax - {{PLURAL:count|1 waorschuwing|%(count)d waorschuwingen}}!"
 }

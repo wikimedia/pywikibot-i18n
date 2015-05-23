@@ -4,9 +4,9 @@
 			"Als-Holder"
 		]
 	},
-	"casechecker-replacement-summary": "Bot: Schrybige ersetzt:",
-	"casechecker-delete-summary": "Bot: In däre Wyterleitig het s kyrillischi un latynischi Zeichen im Titel, wu idäntisch uussähn",
-	"casechecker-replacement-linklist": "%(source)s uf %(target)s",
 	"casechecker-delete-reason": "Wyterleitig uf %(target)s mit gmischlete kyrillischen un latynische Zeiche.",
-	"casechecker-rename": "Bot: Umnännig vu gmischlete Schrybige"
+	"casechecker-delete-summary": "Bot: In däre Wyterleitig het s kyrillischi un latynischi Zeichen im Titel, wu idäntisch uussähn",
+	"casechecker-rename": "Bot: Umnännig vu gmischlete Schrybige",
+	"casechecker-replacement-linklist": "%(source)s uf %(target)s",
+	"casechecker-replacement-summary": "Bot: Schrybige ersetzt:"
 }

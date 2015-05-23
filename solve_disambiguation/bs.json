@@ -4,11 +4,11 @@
 			"CERminator"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Čvor podržan od bota: %(from)s - Uklonjen(i) link(ovi)",
-	"solve_disambiguation-redirect-resolved": "Čvor podržan od bota: %(from)s - Promijenjen(i) link(ovi) u %(to)s",
+	"solve_disambiguation-adding-dn-template": "Čvor podržan od bota: %(from)s - Označen za pregled od strane stručnjaka",
+	"solve_disambiguation-links-removed": "Čvor podržan od bota: %(from)s - Uklonjen(i) link(ovi).",
 	"solve_disambiguation-links-resolved": "Čvor podržan od bota: %(from)s - Promijenjen(i) link(ovi) u %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Čvor podržan od bota: %(from)s - Označen za pregled od strane stručnjaka",
-	"solve_disambiguation-adding-dn-template": "Čvor podržan od bota: %(from)s - Označen za pregled od strane stručnjaka",
-	"solve_disambiguation-unknown-page": "(nepoznato)",
-	"solve_disambiguation-links-removed": "Čvor podržan od bota: %(from)s - Uklonjen(i) link(ovi)."
+	"solve_disambiguation-redirect-removed": "Čvor podržan od bota: %(from)s - Uklonjen(i) link(ovi)",
+	"solve_disambiguation-redirect-resolved": "Čvor podržan od bota: %(from)s - Promijenjen(i) link(ovi) u %(to)s",
+	"solve_disambiguation-unknown-page": "(nepoznato)"
 }

@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robot binago: %(modifying)s",
+	"interwiki-adding": "robot dinagdag: %(adding)s",
 	"interwiki-adding-modifying": "robot dinagdag: %(adding)s binago: %(modifying)s",
 	"interwiki-adding-removing": "robot dinagdag: %(adding)s tinanggal: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot dinagdag: %(adding)s tinanggal: %(removing)s binago: %(modifying)s",
-	"interwiki-adding": "robot dinagdag: %(adding)s",
+	"interwiki-modifying": "robot binago: %(modifying)s",
+	"interwiki-modifying-from": "Robot: Binabago ang %(from)s upang maging %(modifying)s",
 	"interwiki-removing": "robot tinanggal: %(removing)s",
-	"interwiki-removing-modifying": "robot tinanggal: %(removing)s binago: %(modifying)s",
-	"interwiki-modifying-from": "Robot: Binabago ang %(from)s upang maging %(modifying)s"
+	"interwiki-removing-modifying": "robot tinanggal: %(removing)s binago: %(modifying)s"
 }

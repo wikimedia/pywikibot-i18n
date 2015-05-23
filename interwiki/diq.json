@@ -4,12 +4,12 @@
 			"Erdemaslancan"
 		]
 	},
-	"interwiki-modifying": "Boti %(modifying)s vurnê",
+	"interwiki-adding": "Boti %(adding)s dekerd de",
 	"interwiki-adding-modifying": "Boti %(adding)s dekerd de; %(modifying)s vurna",
 	"interwiki-adding-removing": "Boti %(adding)s dekerd de: %(removing)s wedarnê",
 	"interwiki-adding-removing-modifying": "Boti %(adding)s dekerd de: %(removing)s hewada: %(modifying)s vurna",
-	"interwiki-adding": "Boti %(adding)s dekerd de",
+	"interwiki-modifying": "Boti %(modifying)s vurnê",
+	"interwiki-modifying-from": "Boti: %(from)s, %(modifying)s deye vurna",
 	"interwiki-removing": "Boti %(removing)s wedarna",
-	"interwiki-removing-modifying": "Boti %(removing)s wedarnê; %(modifying)s vurna",
-	"interwiki-modifying-from": "Boti: %(from)s, %(modifying)s deye vurna"
+	"interwiki-removing-modifying": "Boti %(removing)s wedarnê; %(modifying)s vurna"
 }

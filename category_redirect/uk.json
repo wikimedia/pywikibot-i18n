@@ -5,9 +5,9 @@
 			"Ahonc"
 		]
 	},
-	"category_redirect-comment": "Робот, що працює з перенаправленнями категорій",
-	"category_redirect-change-category": "Робот: заміна перенаправленої категорії [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Робот: додав шаблон про перенаправлення категорії",
+	"category_redirect-change-category": "Робот: заміна перенаправленої категорії [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Робот, що працює з перенаправленнями категорій",
 	"category_redirect-edit-request": "У таких захищених сторінках треба оновити посилання на категорії: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s є в %(oldcat)s, яка є перенаправленням на %(newcat)s",
 	"category_redirect-fix-double": "Робот: виправлення подвійного перенаправлення"

@@ -4,12 +4,12 @@
 			"Dbc334"
 		]
 	},
-	"interwiki-modifying": "Robot: Spreminjanje %(modifying)s",
+	"interwiki-adding": "Robot: Dodajanje %(adding)s",
 	"interwiki-adding-modifying": "Robot: Dodajanje %(adding)s; spreminjanje: %(modifying)s",
 	"interwiki-adding-removing": "Robot: Dodajanje %(adding)s; odstranjevanje: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot: Dodajanje %(adding)s; odstranjevanje %(removing)s; spreminjanje %(modifying)s",
-	"interwiki-adding": "Robot: Dodajanje %(adding)s",
+	"interwiki-modifying": "Robot: Spreminjanje %(modifying)s",
+	"interwiki-modifying-from": "Robot: Spreminjanje %(from)s v %(modifying)s",
 	"interwiki-removing": "Robot: Odstranjevanje %(removing)s",
-	"interwiki-removing-modifying": "Robot: Odstranjevanje %(removing)s; spreminjanje %(modifying)s",
-	"interwiki-modifying-from": "Robot: Spreminjanje %(from)s v %(modifying)s"
+	"interwiki-removing-modifying": "Robot: Odstranjevanje %(removing)s; spreminjanje %(modifying)s"
 }

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Diagramma Della Verita"
+			"Diagramma Della Verita",
+			"Anakmalaysia"
 		]
 	},
-	"noreferences-add-tag": "Robot: Menambah tag  <references /> yang hilang"
+	"noreferences-add-tag": "Robot: Menambah tag  <references /> yang hilang",
+	"noreferences-fix-tag": "Bot: Membetulkan sintaks tak sah untuk teg <references />"
 }

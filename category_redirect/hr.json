@@ -4,9 +4,9 @@
 			"Ex13"
 		]
 	},
-	"category_redirect-comment": "Bot za održavanje preusmjeravanja kategorije",
-	"category_redirect-change-category": "Bot: mijenja preusmjerenu kategoriju [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Bot: dodaje predložak preusmjeravanja kategorije radi održavanja",
+	"category_redirect-change-category": "Bot: mijenja preusmjerenu kategoriju [[:%(oldCatLink)s|%(oldCatTitle)s]] u [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot za održavanje preusmjeravanja kategorije",
 	"category_redirect-edit-request": "Sljedeće zaštićene stranice su otkrivene koje zahtjevaju ažuriranje na poveznice kategorije: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s je u %(oldcat)s, koja je preusmjeravanje na %(newcat)s",
 	"category_redirect-fix-double": "Bot: Popravak dvostrukih preusmjeravanja"

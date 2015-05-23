@@ -5,15 +5,15 @@
 			"Vinie007"
 		]
 	},
-	"category-version-history": "Roboti: Duke ruajtuar historikun e verionit të mëparshëm %(oldcat)s",
-	"category-changing": "Roboti: Duke ndryshuar %(oldcat)s në %(newcat)s",
 	"category-adding": "Robot: Shtimi kategori [[: Category: %(newcat)s|% (newcat) s]]",
 	"category-also-in": "(Edhe në %(alsocat)s)",
-	"category-was-disbanded": "Bot: Category u shpërbë",
-	"category-replacing": "Robot:% Zëvendësimi kategori %(oldcat)s me %(newcat)s",
+	"category-changing": "Roboti: Duke ndryshuar %(oldcat)s në %(newcat)s",
+	"category-listifying": "Bot: Listifying nga %(fromcat)s, %(num)d",
 	"category-removing": "Bot: Heqja nga %(oldcat)s",
-	"category-was-moved": "Robot: Category u zhvendos tek [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Roboti: Zhvendosur nga %s. Autorët: %s",
+	"category-replacing": "Robot:% Zëvendësimi kategori %(oldcat)s me %(newcat)s",
 	"category-section-title": "Historiku i faqes së mëparshme %(oldcat)s",
-	"category-listifying": "Bot: Listifying nga %(fromcat)s, %(num)d"
+	"category-version-history": "Roboti: Duke ruajtuar historikun e verionit të mëparshëm %(oldcat)s",
+	"category-was-disbanded": "Bot: Category u shpërbë",
+	"category-was-moved": "Robot: Category u zhvendos tek [[:Category:%(newcat)s|%(title)s]]"
 }

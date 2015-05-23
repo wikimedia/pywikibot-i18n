@@ -4,14 +4,14 @@
 			"C.R."
 		]
 	},
-	"category-version-history": "Bot: Sarvanno 'a cronologgia d' 'e %(oldcat)s 'e primma",
-	"category-changing": "Bot: Cagnanno 'e %(oldcat)s dint'a %(newcat)s",
 	"category-adding": "Bot: Azzeccata 'a categurìa [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(pure 'n %(alsocat)s)",
-	"category-was-disbanded": "Bot: 'A categurìa è stata luvata",
-	"category-replacing": "Bot: Rimpiazzanno categurìe %(oldcat)s cu %(newcat)s",
+	"category-changing": "Bot: Cagnanno 'e %(oldcat)s dint'a %(newcat)s",
 	"category-removing": "Bot: Luvann'a %(oldcat)s",
-	"category-was-moved": "Bot: Categurìa spustat'a [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Bot: Spustata 'a %s. Auture: %s",
-	"category-section-title": "Cronologgia 'e primma %(oldcat)s"
+	"category-replacing": "Bot: Rimpiazzanno categurìe %(oldcat)s cu %(newcat)s",
+	"category-section-title": "Cronologgia 'e primma %(oldcat)s",
+	"category-version-history": "Bot: Sarvanno 'a cronologgia d' 'e %(oldcat)s 'e primma",
+	"category-was-disbanded": "Bot: 'A categurìa è stata luvata",
+	"category-was-moved": "Bot: Categurìa spustat'a [[:Category:%(newcat)s|%(title)s]]"
 }

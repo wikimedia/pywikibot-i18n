@@ -5,11 +5,11 @@
 			"Stephenwanjau"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Tafadhali ingiza jina la gali la dampo ya XML:",
-	"pywikibot-enter-page-processing": "Ni ukurasa upi unafaa kusindikwa?",
+	"pywikibot-enter-category-name": "Tafadhali ingiza jina la jamii:",
 	"pywikibot-enter-file-links-processing": "Viungo vya ukurasa wa picha amabo unfaa kusindikwa?",
+	"pywikibot-enter-finished-browser": "Tafadhali ingiza wakati itamaliza katika kivinjari.",
 	"pywikibot-enter-namespace-number": "Tafadhali ingiza eneo wiki kwa nambari zake:",
 	"pywikibot-enter-new-text": "Tafadhali ingiza matini mpya:",
-	"pywikibot-enter-category-name": "Tafadhali ingiza jina la jamii:",
-	"pywikibot-enter-finished-browser": "Tafadhali ingiza wakati itamaliza katika kivinjari."
+	"pywikibot-enter-page-processing": "Ni ukurasa upi unafaa kusindikwa?",
+	"pywikibot-enter-xml-filename": "Tafadhali ingiza jina la gali la dampo ya XML:"
 }

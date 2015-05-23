@@ -4,6 +4,6 @@
 			"Abshirdheere"
 		]
 	},
-	"table2wiki-warnings": "Bot La adeegsaday: dib u habayn qaab jadwal - {{PLURAL:count|1 digniin|%(count)d digniin}}!",
-	"table2wiki-no-warning": "Bot La adeegsaday: dib u habayn qaab jadwal"
+	"table2wiki-no-warning": "Bot La adeegsaday: dib u habayn qaab jadwal",
+	"table2wiki-warnings": "Bot La adeegsaday: dib u habayn qaab jadwal - {{PLURAL:count|1 digniin|%(count)d digniin}}!"
 }

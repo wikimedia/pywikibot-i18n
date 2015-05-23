@@ -4,8 +4,8 @@
 			"Christian List"
 		]
 	},
-	"featured-good": "Robot: %(page)s er en god artikel",
-	"featured-list": "Robot: %(page)s er en fremragende liste",
 	"featured-featured": "Robot: %(page)s er en fremragende artikel",
-	"featured-former": "Robot: %(page)s er en tidligere fremragende artikel"
+	"featured-former": "Robot: %(page)s er en tidligere fremragende artikel",
+	"featured-good": "Robot: %(page)s er en god artikel",
+	"featured-list": "Robot: %(page)s er en fremragende liste"
 }

@@ -4,8 +4,8 @@
 			"Liuxinyu970226"
 		]
 	},
+	"pagefromfile-msg": "机器人：自动导入条目",
 	"pagefromfile-msg_bottom": "添加至最底部",
 	"pagefromfile-msg_force": "覆写现有文字",
-	"pagefromfile-msg_top": "附加于顶部",
-	"pagefromfile-msg": "机器人：自动导入条目"
+	"pagefromfile-msg_top": "附加于顶部"
 }

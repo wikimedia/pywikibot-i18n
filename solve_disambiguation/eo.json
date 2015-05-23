@@ -4,11 +4,11 @@
 			"Mihxil"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Robota unusencigo: %(from)s - Forigis ligo(j)n",
-	"solve_disambiguation-redirect-resolved": "Robota unusencigo: %(from)s - Ŝanĝis ligo(j)n al %(to)s",
+	"solve_disambiguation-adding-dn-template": "Robota unusencigo: %(from)s - Markis ke ĝi bezonas atenton de eksperto.",
+	"solve_disambiguation-links-removed": "Robota unusencigo: %(from)s - Forigis ligo(j)n",
 	"solve_disambiguation-links-resolved": "Robota unusencigo: %(from)s - Ŝanĝis ligo(j)n al %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Robota unusencigo: %(from)s - Markis ke ĝi bezonas atenton de eksperto.",
-	"solve_disambiguation-adding-dn-template": "Robota unusencigo: %(from)s - Markis ke ĝi bezonas atenton de eksperto.",
-	"solve_disambiguation-unknown-page": "(nesciata)",
-	"solve_disambiguation-links-removed": "Robota unusencigo: %(from)s - Forigis ligo(j)n"
+	"solve_disambiguation-redirect-removed": "Robota unusencigo: %(from)s - Forigis ligo(j)n",
+	"solve_disambiguation-redirect-resolved": "Robota unusencigo: %(from)s - Ŝanĝis ligo(j)n al %(to)s",
+	"solve_disambiguation-unknown-page": "(nesciata)"
 }

@@ -5,15 +5,15 @@
 			"Wizzard"
 		]
 	},
-	"category-version-history": "Robot: Uloženie histórie verzií bývalej %(oldcat)s",
-	"category-changing": "Robot: Zmena %(oldcat)s na %(newcat)s",
 	"category-adding": "Robot: Pridanie kategórie [[: Kategória: %(newcat)s|%(newcat)s]]",
 	"category-also-in": "(aj v %(alsocat)s)",
-	"category-was-disbanded": "Robot: Kategória bola vyprázdnená",
-	"category-replacing": "Robot nahradil kategóriu %(oldcat)s za %(newcat)s",
+	"category-changing": "Robot: Zmena %(oldcat)s na %(newcat)s",
+	"category-listifying": "Robot: vytvorenie zoznamu obsahu kategórie %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položiek}})",
 	"category-removing": "Robot: Odstránenie z %(oldcat)s",
-	"category-was-moved": "Kategória bola presunutá na [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Robot: Presunuté z %s. Autori: %s",
+	"category-replacing": "Robot nahradil kategóriu %(oldcat)s za %(newcat)s",
 	"category-section-title": "História verzií bývalej %(oldcat)s",
-	"category-listifying": "Robot: vytvorenie zoznamu obsahu kategórie %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položiek}})"
+	"category-version-history": "Robot: Uloženie histórie verzií bývalej %(oldcat)s",
+	"category-was-disbanded": "Robot: Kategória bola vyprázdnená",
+	"category-was-moved": "Kategória bola presunutá na [[:Category:%(newcat)s|%(title)s]]"
 }

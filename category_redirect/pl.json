@@ -4,9 +4,9 @@
 			"Sp5uhe"
 		]
 	},
-	"category_redirect-comment": "Robot porządkuje przekierowania do kategorii",
-	"category_redirect-change-category": "Robot zmienił przekierowanie do kategorii z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot dodał szablon przekierowania do kategorii",
+	"category_redirect-change-category": "Robot zmienił przekierowanie do kategorii z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Robot porządkuje przekierowania do kategorii",
 	"category_redirect-edit-request": "Następujące zabezpieczone strony wykryto jako wymagające naprawy kategorii: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s jest w %(oldcat)s, która jest przekierowaniem do %(newcat)s",
 	"category_redirect-fix-double": "Robot naprawił podwójne przekierowanie"

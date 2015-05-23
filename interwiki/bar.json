@@ -4,12 +4,12 @@
 			"Mucalexx"
 		]
 	},
-	"interwiki-modifying": "Bot: Änderd: %(modifying)s",
+	"interwiki-adding": "Bot: Ergänz: %(adding)s",
 	"interwiki-adding-modifying": "Bot: Ergänz: %(adding)s; änderd: %(modifying)s",
 	"interwiki-adding-removing": "Bot: Ergänz: %(adding)s; entfern: %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot: Ergänz: %(adding)s; entfern: %(removing)s; änderd: %(modifying)s",
-	"interwiki-adding": "Bot: Ergänz: %(adding)s",
+	"interwiki-modifying": "Bot: Änderd: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Änderd %(from)s zua %(modifying)s",
 	"interwiki-removing": "Bot: Entfern: %(removing)s",
-	"interwiki-removing-modifying": "Bot: Entfern: %(removing)s; änderd: %(modifying)s",
-	"interwiki-modifying-from": "Bot: Änderd %(from)s zua %(modifying)s"
+	"interwiki-removing-modifying": "Bot: Entfern: %(removing)s; änderd: %(modifying)s"
 }

@@ -4,11 +4,11 @@
 			"IvanLanin"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Disambiguasi berbantuan bot: %(from)s - Tautan dihapus",
-	"solve_disambiguation-redirect-resolved": "Disambiguasi berbantuan bot: %(from)s - Tautan diubah menjadi %(to)s",
+	"solve_disambiguation-adding-dn-template": "Disambiguasi berbantuan bot: %(from)s - Perlu perhatian pakar",
+	"solve_disambiguation-links-removed": "Disambiguasi berbantuan bot: %(from)s - Tautan dihapus",
 	"solve_disambiguation-links-resolved": "Disambiguasi berbantuan bot: %(from)s - Tautan diubah menjadi %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi berbantuan bot: %(from)s - Perlu perhatian pakar",
-	"solve_disambiguation-adding-dn-template": "Disambiguasi berbantuan bot: %(from)s - Perlu perhatian pakar",
-	"solve_disambiguation-unknown-page": "(tidak dikenal)",
-	"solve_disambiguation-links-removed": "Disambiguasi berbantuan bot: %(from)s - Tautan dihapus"
+	"solve_disambiguation-redirect-removed": "Disambiguasi berbantuan bot: %(from)s - Tautan dihapus",
+	"solve_disambiguation-redirect-resolved": "Disambiguasi berbantuan bot: %(from)s - Tautan diubah menjadi %(to)s",
+	"solve_disambiguation-unknown-page": "(tidak dikenal)"
 }

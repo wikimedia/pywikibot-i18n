@@ -5,11 +5,11 @@
 			"Xqt"
 		]
 	},
-	"interwiki-modifying": "Robot Adhibito: Modificato: %(modifying)s",
+	"interwiki-adding": "Robot Adhibito: %(adding)s",
 	"interwiki-adding-modifying": "Robot Adhibito: %(adding)s Modificato: %(modifying)s",
 	"interwiki-adding-removing": "Robot Adhibito: %(adding)s Suprimito: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot Adhibito: %(adding)s Suprimito: %(removing)s Modificato: %(modifying)s",
-	"interwiki-adding": "Robot Adhibito: %(adding)s",
+	"interwiki-modifying": "Robot Adhibito: Modificato: %(modifying)s",
 	"interwiki-removing": "Robot Suprimito: %(removing)s",
 	"interwiki-removing-modifying": "Robot Suprimito: %(removing)s Modificato: %(modifying)s"
 }

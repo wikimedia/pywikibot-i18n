@@ -6,13 +6,13 @@
 			"Woytecr"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Wpisz nazwę pliku ze zrzutem w formacie XML:",
-	"pywikibot-enter-page-processing": "Jaką stronę przetworzyć?",
+	"pywikibot-enter-category-name": "Wpisz nazwę kategorii:",
 	"pywikibot-enter-file-links-processing": "Linki do strony jakiego pliku mają być przetworzone?",
+	"pywikibot-enter-finished-browser": "Wciśnij Enter, gdy przeglądarka zakończy pracę.",
 	"pywikibot-enter-namespace-number": "Wpisz numer przestrzeni nazw:",
 	"pywikibot-enter-new-text": "Wpisz nowy tekst:",
-	"pywikibot-enter-category-name": "Wpisz nazwę kategorii:",
-	"pywikibot-enter-finished-browser": "Wciśnij Enter, gdy przeglądarka zakończy pracę.",
+	"pywikibot-enter-page-processing": "Jaką stronę przetworzyć?",
+	"pywikibot-enter-xml-filename": "Wpisz nazwę pliku ze zrzutem w formacie XML:",
 	"pywikibot-fixes-html": "Robot konwertuje/naprawia HTML",
 	"pywikibot-fixes-syntax": "Robot poprawia wiki-składnię"
 }

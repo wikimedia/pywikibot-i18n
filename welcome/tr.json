@@ -5,7 +5,7 @@
 			"Khutuck"
 		]
 	},
-	"welcome-welcome": "Hoş geldiniz!",
 	"welcome-bad_username": "Bot: Kullanıcı adını kontrol edilmesi gerekenlere ekliyor",
-	"welcome-updating": "Bot: Kayıt güncelleme"
+	"welcome-updating": "Bot: Kayıt güncelleme",
+	"welcome-welcome": "Hoş geldiniz!"
 }

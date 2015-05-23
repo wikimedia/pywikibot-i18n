@@ -5,11 +5,11 @@
 			"Mirzali"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Nameyê yedegê dosya XMLi cı kewê:",
-	"pywikibot-enter-page-processing": "Kamci pele wa bınuşiyo?",
+	"pywikibot-enter-category-name": "Nameyê kategoriye cı kewê:",
 	"pywikibot-enter-file-links-processing": "Gıreyê kamci pela resıman wa bıgureniyo?",
+	"pywikibot-enter-finished-browser": "Cıgeyrayoği de ke qediya gocega enteri bıtıkne",
 	"pywikibot-enter-namespace-number": "Numreyê cı ra yew name cı kewê:",
 	"pywikibot-enter-new-text": "Nuşteyê newey cı kewê:",
-	"pywikibot-enter-category-name": "Nameyê kategoriye cı kewê:",
-	"pywikibot-enter-finished-browser": "Cıgeyrayoği de ke qediya gocega enteri bıtıkne"
+	"pywikibot-enter-page-processing": "Kamci pele wa bınuşiyo?",
+	"pywikibot-enter-xml-filename": "Nameyê yedegê dosya XMLi cı kewê:"
 }

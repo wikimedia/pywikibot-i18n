@@ -9,6 +9,6 @@
 	"weblinkchecker-archive_msg": "Internet Archive gardou a páxina web. Considere ligar cara á versión arquivada apropiada: [%(URL)s].",
 	"weblinkchecker-badurl": "A ligazón proporcionada non semella ser unha URL válida",
 	"weblinkchecker-caption": "Ligazón morta",
-	"weblinkchecker-summary": "Bot: Sinalo a ligazón externa non dispoñible",
-	"weblinkchecker-report": "Durante varias execucións automáticas, o bot constatou que a seguinte ligazón externa non está dispoñible. Comprobe se a ligazón está efectivamente caída e corríxaa ou retírea!"
+	"weblinkchecker-report": "Durante varias execucións automáticas, o bot constatou que a seguinte ligazón externa non está dispoñible. Comprobe se a ligazón está efectivamente caída e corríxaa ou retírea!",
+	"weblinkchecker-summary": "Bot: Sinalo a ligazón externa non dispoñible"
 }

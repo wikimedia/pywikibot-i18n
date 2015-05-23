@@ -4,9 +4,9 @@
 			"Gwenn-Ael"
 		]
 	},
-	"protect-links": "Robot : O wareziñ an holl bajennoù liammet adalek %(page)s",
-	"protect-simple": "Robot : O wareziñ ur roll restroù",
 	"protect-category": "Robot : O wareziñ an holl bajennoù eus ar rummad %(cat)s",
+	"protect-images": "Robot : O wareziñ an holl skeudennoù war ar bajenn %(page)s",
+	"protect-links": "Robot : O wareziñ an holl bajennoù liammet adalek %(page)s",
 	"protect-ref": "Robot : O wareziñ an holl bajennoù a ra dave da %(page)s",
-	"protect-images": "Robot : O wareziñ an holl skeudennoù war ar bajenn %(page)s"
+	"protect-simple": "Robot : O wareziñ ur roll restroù"
 }

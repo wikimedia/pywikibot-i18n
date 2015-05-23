@@ -6,9 +6,9 @@
 			"Objectivesea"
 		]
 	},
-	"category_redirect-comment": "Zorga roboto pri kategoria alidirektado",
-	"category_redirect-change-category": "Roboto: Ŝanĝado de alidirekta kategorio [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Roboto: Aldonado de ŝablono pri alidirekta kategorio por prizorgado",
+	"category_redirect-change-category": "Roboto: Ŝanĝado de alidirekta kategorio [[:%(oldCatLink)s|%(oldCatTitle)s]] al [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Zorga roboto pri kategoria alidirektado",
 	"category_redirect-edit-request": "La jenaj protektitaj paĝoj evidente bezonas ĝisdatigon de kategoriaj ligiloj: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s en %(oldcat)s, kiu estas alidirektilo al %(newcat)s",
 	"category_redirect-fix-double": "Roboto: Riparado de duobla alidirektilo"

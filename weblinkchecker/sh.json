@@ -5,6 +5,6 @@
 		]
 	},
 	"weblinkchecker-caption": "Pokvarene vanjske veze",
-	"weblinkchecker-summary": "Bot: prijavljivanje nepostojećih vanjskih veza",
-	"weblinkchecker-report": "Tokom nekoliko automatski provjera, bot je pronašao pokvarene vanjske veze. Molimo vas provjerite da li je vanjska veza dobra, popravite je ili je uklonite!"
+	"weblinkchecker-report": "Tokom nekoliko automatski provjera, bot je pronašao pokvarene vanjske veze. Molimo vas provjerite da li je vanjska veza dobra, popravite je ili je uklonite!",
+	"weblinkchecker-summary": "Bot: prijavljivanje nepostojećih vanjskih veza"
 }

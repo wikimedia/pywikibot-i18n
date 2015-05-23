@@ -4,9 +4,9 @@
 			"Amire80"
 		]
 	},
-	"category_redirect-comment": "בוט תחזוקת הפניות לקטגוריות",
-	"category_redirect-change-category": "בוט: משנה את ההפניה לקטגוריה מ[[:%(oldCatLink)s|%(oldCatTitle)s]] ל[[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "בוט: מוסיף תבנית הפניה לקטגוריה לשם תחזוקה",
+	"category_redirect-change-category": "בוט: משנה את ההפניה לקטגוריה מ[[:%(oldCatLink)s|%(oldCatTitle)s]] ל[[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "בוט תחזוקת הפניות לקטגוריות",
 	"category_redirect-edit-request": "הדפים המוגנים הבאים זוהו כדפים שיש לעדכן בהם קישורים לקטגוריות: %(itemlist)s",
 	"category_redirect-edit-request-item": "* הדף %(title)s נמצא בקטגוריה %(oldcat)s, שמפנה ל%(newcat)s",
 	"category_redirect-fix-double": "בוט: מתקן הפניה כפולה"

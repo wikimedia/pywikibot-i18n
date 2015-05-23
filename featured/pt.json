@@ -5,8 +5,8 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"featured-good": "Robô: %(page)s é um artigo bom",
-	"featured-list": "Robô: %(page)s é uma lista destacada",
 	"featured-featured": "Robô: %(page)s é um artigo destacado",
-	"featured-former": "Robô : %(page)s é um ex-artigo destacado"
+	"featured-former": "Robô : %(page)s é um ex-artigo destacado",
+	"featured-good": "Robô: %(page)s é um artigo bom",
+	"featured-list": "Robô: %(page)s é uma lista destacada"
 }

@@ -4,7 +4,7 @@
 			"WikiPhoenix"
 		]
 	},
-	"template-removing": "Bot: Tog bort {{PLURAL:%(num)d|mall|mallar}}: %(list)s",
 	"template-changing": "Bot: Ändrade {{PLURAL:%(num)d|mall|mallar}}: %(list)s",
+	"template-removing": "Bot: Tog bort {{PLURAL:%(num)d|mall|mallar}}: %(list)s",
 	"template-substituting": "Bot: Ersatte {{PLURAL:%(num)d|mall|mallar}}: %(list)s"
 }

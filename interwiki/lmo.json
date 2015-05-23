@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Robot modifiant: %(modifying)s",
+	"interwiki-adding": "Robot jontant: %(adding)s",
 	"interwiki-adding-modifying": "Robot jontant: %(adding)s modifiant: %(modifying)s",
 	"interwiki-adding-removing": "Robot jontant: %(adding)s trant via: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot jontant: %(adding)s trant via: %(removing)s modifiant: %(modifying)s",
-	"interwiki-adding": "Robot jontant: %(adding)s",
+	"interwiki-modifying": "Robot modifiant: %(modifying)s",
 	"interwiki-removing": "Robot trant via: %(removing)s",
 	"interwiki-removing-modifying": "Robot trant via: %(removing)s modifiant: %(modifying)s"
 }

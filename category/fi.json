@@ -5,15 +5,15 @@
 			"Olli"
 		]
 	},
-	"category-version-history": "Botti: Tallennetaan versiohistoria entisestä luokasta %(oldcat)s",
-	"category-changing": "Botti muutti luokan %(oldcat)s luokaksi %(newcat)s",
 	"category-adding": "Botti lisäsi luokkaan [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(myös luokassa %(alsocat)s)",
-	"category-was-disbanded": "Botti tyhjensi luokan",
-	"category-replacing": "Botti korvasi luokan %(oldcat)s luokalla %(newcat)s",
+	"category-changing": "Botti muutti luokan %(oldcat)s luokaksi %(newcat)s",
+	"category-listifying": "Botti listasi luokan %(fromcat)s (%(num)d jäsentä)",
 	"category-removing": "Botti poisti luokasta %(oldcat)s",
-	"category-was-moved": "Botti siirsi luokan nimelle [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Botti siirsi luokan %s. Muokkaajat: %s",
+	"category-replacing": "Botti korvasi luokan %(oldcat)s luokalla %(newcat)s",
 	"category-section-title": "Muutoshistoria entisestä luokasta %(oldcat)s",
-	"category-listifying": "Botti listasi luokan %(fromcat)s (%(num)d jäsentä)"
+	"category-version-history": "Botti: Tallennetaan versiohistoria entisestä luokasta %(oldcat)s",
+	"category-was-disbanded": "Botti tyhjensi luokan",
+	"category-was-moved": "Botti siirsi luokan nimelle [[:Category:%(newcat)s|%(title)s]]"
 }

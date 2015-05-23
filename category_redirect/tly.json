@@ -4,9 +4,9 @@
 			"Гусейн"
 		]
 	},
-	"category_redirect-comment": "Категоријон унвони дәгиш кардә хыдмәтәкә бот",
-	"category_redirect-change-category": "Робот: унвони дәгиш кардә категоријә дәгиш кардеј чымәдәку [[:%(oldCatLink)s|%(oldCatTitle)s]] бә [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Робот: Унвони дәгиш кардә категоријә ғәлиби зијод кардеј бо мыбәти",
+	"category_redirect-change-category": "Робот: унвони дәгиш кардә категоријә дәгиш кардеј чымәдәку [[:%(oldCatLink)s|%(oldCatTitle)s]] бә [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Категоријон унвони дәгиш кардә хыдмәтәкә бот",
 	"category_redirect-edit-request": "Омәнинә мыдофијә быә сәһифон тәләб кардејдән ын категоријон ситотон тожә кардеј: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s, %(oldcat)s'әдәј, унвони дәгиш кардејеј %(newcat)s'ку",
 	"category_redirect-fix-double": "Робот: дығатә унвон дәгиш кардеј сәрост карде"

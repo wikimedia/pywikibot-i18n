@@ -4,7 +4,7 @@
 			"Kolega2357"
 		]
 	},
-	"welcome-welcome": "Dobrodošli!",
 	"welcome-bad_username": "Bot: dodato korisničko ime koje treba da se provjeri",
-	"welcome-updating": "Bot: ažurirana historija"
+	"welcome-updating": "Bot: ažurirana historija",
+	"welcome-welcome": "Dobrodošli!"
 }

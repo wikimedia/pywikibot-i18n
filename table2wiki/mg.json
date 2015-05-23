@@ -5,6 +5,6 @@
 			"Xqt"
 		]
 	},
-	"table2wiki-warnings": "Rôbô : {{PLURAL:count|Fanawikiavana ary fanavaozana ny rafi-pehezantenin'ny tabilao - 1 fampitandremana !|fanawikiavana ny firafitry ny tabilao - fampitandremana %(count)d}}",
-	"table2wiki-no-warning": "Rôbô : fanawikiavana ny rafi-pehezantenin'ny tabilao"
+	"table2wiki-no-warning": "Rôbô : fanawikiavana ny rafi-pehezantenin'ny tabilao",
+	"table2wiki-warnings": "Rôbô : {{PLURAL:count|Fanawikiavana ary fanavaozana ny rafi-pehezantenin'ny tabilao - 1 fampitandremana !|fanawikiavana ny firafitry ny tabilao - fampitandremana %(count)d}}"
 }

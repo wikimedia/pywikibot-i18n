@@ -5,7 +5,7 @@
 		]
 	},
 	"redirect-fix-double": "Bot: Mbenakaké rong pralihan nèng %(to)s",
-	"redirect-remove-broken": "Bot: Ngalihaké nèng kaca sing ora ana utawa wis kabusak",
 	"redirect-fix-loop": "Bot: Mbenakaké ubengan pangalihan nèng %(to)s",
+	"redirect-remove-broken": "Bot: Ngalihaké nèng kaca sing ora ana utawa wis kabusak",
 	"redirect-remove-loop": "Bot: Patujon pangalihan dadi ubengan pangalihan"
 }

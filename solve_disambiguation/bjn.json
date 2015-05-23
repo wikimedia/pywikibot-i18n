@@ -4,8 +4,8 @@
 			"Riemogerz"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Disambiguasi batutulungan bot: %(from)s - Tautan dihapus",
-	"solve_disambiguation-redirect-resolved": "Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s",
 	"solve_disambiguation-links-resolved": "Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi batutulungan bot: %(from)s - Parlu pahatian pakar"
+	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi batutulungan bot: %(from)s - Parlu pahatian pakar",
+	"solve_disambiguation-redirect-removed": "Disambiguasi batutulungan bot: %(from)s - Tautan dihapus",
+	"solve_disambiguation-redirect-resolved": "Disambiguasi batutulungan bot: %(from)s - Tautan diubah manjadi %(to)s"
 }

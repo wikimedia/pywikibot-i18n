@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Robot onhweorfung: %(modifying)s",
+	"interwiki-adding": "Robot ēcung: %(adding)s",
 	"interwiki-adding-modifying": "Robot ēcung: %(adding)s onhweorfung: %(modifying)s",
 	"interwiki-adding-removing": "Robot ēcung: %(adding)s fornimung: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot ēcung: %(adding)s fornimung: %(removing)s onhweorfung: %(modifying)s",
-	"interwiki-adding": "Robot ēcung: %(adding)s",
+	"interwiki-modifying": "Robot onhweorfung: %(modifying)s",
 	"interwiki-removing": "Robot fornimung: %(removing)s",
 	"interwiki-removing-modifying": "Robot fornimung: %(removing)s onhweorfung: %(modifying)s"
 }

@@ -4,7 +4,7 @@
 			"Beta16"
 		]
 	},
-	"template-removing": "Bot: Rimozione di {{PLURAL:%(num)d|template|template}}: %(list)s",
 	"template-changing": "Bot: Modifica di {{PLURAL:%(num)d|template|template}}: %(list)s",
+	"template-removing": "Bot: Rimozione di {{PLURAL:%(num)d|template|template}}: %(list)s",
 	"template-substituting": "Bot: Sostituzione di {{PLURAL:%(num)d|template|template}}: %(list)s"
 }

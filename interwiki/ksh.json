@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Bot: ußjewääßelt: %(modifying)s",
+	"interwiki-adding": "Bot: dobëijedonn: %(adding)s",
 	"interwiki-adding-modifying": "Bot: dobëijedonn: %(adding)s ußjewääßelt: %(modifying)s",
 	"interwiki-adding-removing": "Bot: dobëijedonn: %(adding)s erußjenumme: %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot: dobëijedonn: %(adding)s erußjenumme: %(removing)s ußjewääßelt: %(modifying)s",
-	"interwiki-adding": "Bot: dobëijedonn: %(adding)s",
+	"interwiki-modifying": "Bot: ußjewääßelt: %(modifying)s",
+	"interwiki-modifying-from": "Bot: %(from)s ußjewääßelt jääje %(modifying)s",
 	"interwiki-removing": "Bot: erußjenumme: %(removing)s",
-	"interwiki-removing-modifying": "Bot: erußjenumme: %(removing)s ußjewääßelt: %(modifying)s",
-	"interwiki-modifying-from": "Bot: %(from)s ußjewääßelt jääje %(modifying)s"
+	"interwiki-removing-modifying": "Bot: erußjenumme: %(removing)s ußjewääßelt: %(modifying)s"
 }

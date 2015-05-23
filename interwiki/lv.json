@@ -4,12 +4,12 @@
 			"Papuass"
 		]
 	},
-	"interwiki-modifying": "robots izmaina: %(modifying)s",
+	"interwiki-adding": "robots pievieno: %(adding)s",
 	"interwiki-adding-modifying": "robots pievieno: %(adding)s izmaina: %(modifying)s",
 	"interwiki-adding-removing": "robots pievieno: %(adding)s izņem: %(removing)s",
 	"interwiki-adding-removing-modifying": "robots pievieno: %(adding)s izņem: %(removing)s izmaina: %(modifying)s",
-	"interwiki-adding": "robots pievieno: %(adding)s",
+	"interwiki-modifying": "robots izmaina: %(modifying)s",
+	"interwiki-modifying-from": "Robots: Izmaina %(from)s uz %(modifying)s",
 	"interwiki-removing": "robots izņem: %(removing)s",
-	"interwiki-removing-modifying": "robots izņem: %(removing)s izmaina: %(modifying)s",
-	"interwiki-modifying-from": "Robots: Izmaina %(from)s uz %(modifying)s"
+	"interwiki-removing-modifying": "robots izņem: %(removing)s izmaina: %(modifying)s"
 }

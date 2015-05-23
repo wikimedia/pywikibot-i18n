@@ -4,11 +4,11 @@
 			"John Reid"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Please enter the XML doump's filename:",
-	"pywikibot-enter-page-processing": "Whit page shid be processed?",
+	"pywikibot-enter-category-name": "Please enter the category name:",
 	"pywikibot-enter-file-links-processing": "Links til whit file page shid be processed?",
+	"pywikibot-enter-finished-browser": "Press Enter whan finish't in browser.",
 	"pywikibot-enter-namespace-number": "Please enter ae namespace bi its nummer:",
 	"pywikibot-enter-new-text": "Please enter the new tex:",
-	"pywikibot-enter-category-name": "Please enter the category name:",
-	"pywikibot-enter-finished-browser": "Press Enter whan finish't in browser."
+	"pywikibot-enter-page-processing": "Whit page shid be processed?",
+	"pywikibot-enter-xml-filename": "Please enter the XML doump's filename:"
 }

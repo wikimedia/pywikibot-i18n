@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+/-): %(modifying)s",
+	"interwiki-adding": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s",
 	"interwiki-adding-modifying": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s (+/-): %(modifying)s",
 	"interwiki-adding-removing": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s (-): %(removing)s",
 	"interwiki-adding-removing-modifying": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s (-): %(removing)s (+/-): %(modifying)s",
-	"interwiki-adding": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s",
+	"interwiki-modifying": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+/-): %(modifying)s",
 	"interwiki-removing": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (-): %(removing)s",
 	"interwiki-removing-modifying": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (-): %(removing)s (+/-): %(modifying)s"
 }

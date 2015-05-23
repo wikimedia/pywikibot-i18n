@@ -5,12 +5,12 @@
 			"IRTC1015"
 		]
 	},
-	"interwiki-modifying": "봇: %(modifying)s 바꿈",
+	"interwiki-adding": "봇: %(adding)s 추가",
 	"interwiki-adding-modifying": "봇: %(adding)s 추가, %(modifying)s 바꿈",
 	"interwiki-adding-removing": "봇: %(adding)s 추가, %(removing)s 지움",
 	"interwiki-adding-removing-modifying": "봇: %(adding)s 추가, %(removing)s 지움, %(modifying)s 바꿈",
-	"interwiki-adding": "봇: %(adding)s 추가",
+	"interwiki-modifying": "봇: %(modifying)s 바꿈",
+	"interwiki-modifying-from": "봇: %(from)s에서 %(modifying)s(으)로 바꿈",
 	"interwiki-removing": "봇: %(removing)s 지움",
-	"interwiki-removing-modifying": "봇: %(removing)s 지움, %(modifying)s 바꿈",
-	"interwiki-modifying-from": "봇: %(from)s에서 %(modifying)s(으)로 바꿈"
+	"interwiki-removing-modifying": "봇: %(removing)s 지움, %(modifying)s 바꿈"
 }

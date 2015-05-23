@@ -4,7 +4,7 @@
 			"Гусейн"
 		]
 	},
-	"template-removing": "Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} тәмиз кардеј : %(list)s",
 	"template-changing": "Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} әвәз карде: %(list)s",
+	"template-removing": "Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} тәмиз кардеј : %(list)s",
 	"template-substituting": "Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} әвәз карде: %(list)s"
 }

@@ -4,12 +4,12 @@
 			"Alunardon90"
 		]
 	},
-	"interwiki-modifying": "Robot: Canbio %(modifying)s",
+	"interwiki-adding": "Robot: Xonto %(adding)s",
 	"interwiki-adding-modifying": "Robot: Xonto %(adding)s; Canbio: %(modifying)s",
 	"interwiki-adding-removing": "Robot: Xonto %(adding)s; Cavo %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot: Xonto %(adding)s; Cavo %(removing)s; Canbio %(modifying)s",
-	"interwiki-adding": "Robot: Xonto %(adding)s",
+	"interwiki-modifying": "Robot: Canbio %(modifying)s",
+	"interwiki-modifying-from": "Robot: Canbio %(from)s in %(modifying)s",
 	"interwiki-removing": "Robot: Cavo %(removing)s",
-	"interwiki-removing-modifying": "Robot: Cavo %(removing)s; canbio %(modifying)s",
-	"interwiki-modifying-from": "Robot: Canbio %(from)s in %(modifying)s"
+	"interwiki-removing-modifying": "Robot: Cavo %(removing)s; canbio %(modifying)s"
 }

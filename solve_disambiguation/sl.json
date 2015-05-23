@@ -4,11 +4,11 @@
 			"Dbc334"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Razločitev s pomočjo robota: %(from)s – Odstranitev povezav",
-	"solve_disambiguation-redirect-resolved": "Razločitev s pomočjo robota: %(from)s – Sprememba povezav v %(to)s",
+	"solve_disambiguation-adding-dn-template": "Razločitev s pomočjo robota: %(from)s – Označeno kot potrebno pozornosti strokovnjaka",
+	"solve_disambiguation-links-removed": "Razločitev s pomočjo robota: %(from)s – Odstranitev povezav",
 	"solve_disambiguation-links-resolved": "Razločitev s pomočjo robota: %(from)s – Sprememba povezav v %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Razločitev s pomočjo robota: %(from)s – Označeno kot potrebno pozornosti strokovnjaka",
-	"solve_disambiguation-adding-dn-template": "Razločitev s pomočjo robota: %(from)s – Označeno kot potrebno pozornosti strokovnjaka",
-	"solve_disambiguation-unknown-page": "(neznano)",
-	"solve_disambiguation-links-removed": "Razločitev s pomočjo robota: %(from)s – Odstranitev povezav"
+	"solve_disambiguation-redirect-removed": "Razločitev s pomočjo robota: %(from)s – Odstranitev povezav",
+	"solve_disambiguation-redirect-resolved": "Razločitev s pomočjo robota: %(from)s – Sprememba povezav v %(to)s",
+	"solve_disambiguation-unknown-page": "(neznano)"
 }

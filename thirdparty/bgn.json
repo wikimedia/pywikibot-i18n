@@ -4,8 +4,8 @@
 			"Baloch Afghanistan"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "ربات",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "؛ %d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s آخرئین ایڈیٹ] (%(page_size)s بایٹ) شه  %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":*رباٹ ئی هشدار پیام: %(page)s «''%(warning)s''»"
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "؛ %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":*رباٹ ئی هشدار پیام: %(page)s «''%(warning)s''»",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "ربات"
 }

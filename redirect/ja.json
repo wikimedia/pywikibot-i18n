@@ -4,9 +4,9 @@
 			"Shirayuki"
 		]
 	},
-	"redirect-fix-double": "ロボットによる: 二重リダイレクト修正 → %(to)s",
-	"redirect-remove-broken": "ロボットによる: 削除済みまたは存在しないページへのリダイレクト",
 	"redirect-fix-broken-moved": "ロボットによる: 迷子のリダイレクトのリダイレクト先を %(to)s に修正",
+	"redirect-fix-double": "ロボットによる: 二重リダイレクト修正 → %(to)s",
 	"redirect-fix-loop": "ロボットによる: リダイレクトのループの修正 → %(to)s",
+	"redirect-remove-broken": "ロボットによる: 削除済みまたは存在しないページへのリダイレクト",
 	"redirect-remove-loop": "ロボットによる: リダイレクト先にあるリダイレクトのループを修正"
 }

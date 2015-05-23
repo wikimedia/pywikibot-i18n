@@ -5,6 +5,6 @@
 			"Subi"
 		]
 	},
-	"archivebot-older-than": "%(duration)s baino zaharragoak",
-	"archivebot-archive-full": "(ARTXIBOA BETETA)"
+	"archivebot-archive-full": "(ARTXIBOA BETETA)",
+	"archivebot-older-than": "%(duration)s baino zaharragoak"
 }

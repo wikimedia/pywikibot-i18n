@@ -5,10 +5,10 @@
 			"Objectivesea"
 		]
 	},
-	"redirect-fix-double": "Roboto: Riparas duoblan alidirekton al %(to)s",
-	"redirect-remove-broken": "Roboto: Alidirekto indikas forigitan aŭ neekzistantan paĝon",
+	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "Roboto: Riparas rompitan alidirekton al movita celpaĝo %(to)s",
+	"redirect-fix-double": "Roboto: Riparas duoblan alidirekton al %(to)s",
 	"redirect-fix-loop": "Roboto: Riparas ciklan alidirektilon al %(to)s",
-	"redirect-remove-loop": "Roboto: Alidirekta celas sin mem",
-	"redirect-broken-redirect-template": "{{db-r1}}"
+	"redirect-remove-broken": "Roboto: Alidirekto indikas forigitan aŭ neekzistantan paĝon",
+	"redirect-remove-loop": "Roboto: Alidirekta celas sin mem"
 }

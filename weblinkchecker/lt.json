@@ -8,6 +8,6 @@
 	"weblinkchecker-archive_msg": "Interneto puslapis buvo išsaugotas Interneto Archyve. Prašome apsvarstyti nuorodos galimybę į atitinkamą archyvinę versiją: [%(URL)s].",
 	"weblinkchecker-badurl": "Atrodo, kad pateikta nuoroda neveikia",
 	"weblinkchecker-caption": "Neveikianti nuoroda",
-	"weblinkchecker-summary": "Robotas: Nuorodą pranešti nepasiekiama",
-	"weblinkchecker-report": "Per keletą automatizuotų roboto bandymų  nustatyta, kad sekanti nuoroda neveikia. Prašome patikrinti, ar nuoroda  iš tiesų yra ir pataisyti arba pašalinti ją iš šios bylos!"
+	"weblinkchecker-report": "Per keletą automatizuotų roboto bandymų  nustatyta, kad sekanti nuoroda neveikia. Prašome patikrinti, ar nuoroda  iš tiesų yra ir pataisyti arba pašalinti ją iš šios bylos!",
+	"weblinkchecker-summary": "Robotas: Nuorodą pranešti nepasiekiama"
 }

@@ -4,8 +4,8 @@
 			"EileenSanda"
 		]
 	},
+	"solve_disambiguation-links-removed": "Rættar leinkju við fleiri týdningum við hjálp frá botti: %(from)s - Tók burtur leinkju(r)",
 	"solve_disambiguation-redirect-removed": "Rættar leinkju við fleiri týdningum til: %(from)s - Tók burtur leinkju(r)",
 	"solve_disambiguation-redirect-resolved": "Rætta leinkju við fleiri meiningum: %(from)s - Broytti leinkju(r) til %(to)s",
-	"solve_disambiguation-unknown-page": "(ókent)",
-	"solve_disambiguation-links-removed": "Rættar leinkju við fleiri týdningum við hjálp frá botti: %(from)s - Tók burtur leinkju(r)"
+	"solve_disambiguation-unknown-page": "(ókent)"
 }

@@ -4,12 +4,12 @@
 			"Lionslayer"
 		]
 	},
-	"category-changing": "ရိုဘော့ - %(oldcat)sကို ပြောင်းနေသည်",
 	"category-adding": "ရိုဘော့ - category [[:Category:%(newcat)s|%(newcat)s]]ကို ပေါင်းထည့်နေသည်",
 	"category-also-in": "(%(alsocat)s တွင်လည်း)",
-	"category-was-disbanded": "ဘော့ - ကဏ္ဍကို ပယ်ဖျက်လိုက်သည်",
-	"category-replacing": "ရိုဘော့ - %(oldcat)s ကို %(newcat)s ဖြင့် အစားထိုးနေသည်",
+	"category-changing": "ရိုဘော့ - %(oldcat)sကို ပြောင်းနေသည်",
+	"category-listifying": "ဘော့ - %(fromcat)s (စာရင်းသွင်းမှု %(num)d ခု) မှ စာရင်းများကို ပြုစုနေသည်",
 	"category-removing": "ဘော့ - %(oldcat)s မှ ဖယ်ရှားနေသည်",
-	"category-was-moved": "ရိုဘော့ - ကဏ္ဍကို [[:Category:%(newcat)s|%(title)s]]သို့ ရွှေ့လိုက်သည်",
-	"category-listifying": "ဘော့ - %(fromcat)s (စာရင်းသွင်းမှု %(num)d ခု) မှ စာရင်းများကို ပြုစုနေသည်"
+	"category-replacing": "ရိုဘော့ - %(oldcat)s ကို %(newcat)s ဖြင့် အစားထိုးနေသည်",
+	"category-was-disbanded": "ဘော့ - ကဏ္ဍကို ပယ်ဖျက်လိုက်သည်",
+	"category-was-moved": "ရိုဘော့ - ကဏ္ဍကို [[:Category:%(newcat)s|%(title)s]]သို့ ရွှေ့လိုက်သည်"
 }

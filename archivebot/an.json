@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"archivebot-archive-full": "(FICHERO COMPLETO)",
+	"archivebot-older-than": "con una antiguidat de %(duration)s"
+}

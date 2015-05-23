@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "IW-Bot: ännert: %(modifying)s",
+	"interwiki-adding": "IW-Bot: dorto: %(adding)s",
 	"interwiki-adding-modifying": "IW-Bot: dorto: %(adding)s ännert: %(modifying)s",
 	"interwiki-adding-removing": "IW-Bot: dorto: %(adding)s rut: %(removing)s",
 	"interwiki-adding-removing-modifying": "IW-Bot: dorto: %(adding)s rut: %(removing)s ännert: %(modifying)s",
-	"interwiki-adding": "IW-Bot: dorto: %(adding)s",
+	"interwiki-modifying": "IW-Bot: ännert: %(modifying)s",
 	"interwiki-removing": "IW-Bot: rut: %(removing)s",
 	"interwiki-removing-modifying": "IW-Bot: rut: %(removing)s ännert: %(modifying)s"
 }

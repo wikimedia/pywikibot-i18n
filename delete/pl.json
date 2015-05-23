@@ -5,9 +5,9 @@
 			"Ty221"
 		]
 	},
-	"delete-images": "Robot usunął wszystkie obrazy ze strony %(page)s",
-	"delete-referring-pages": "Robot usuwa wszystkie strony, które linkują do %(page)s",
 	"delete-from-category": "Robot usuwa wszystkie strony z kategorii %(page)s",
 	"delete-from-file": "Robot usuwa stony z listy.",
-	"delete-linked-pages": "Robot usuwa wszystkie artykuły, do których linkuje %(page)s"
+	"delete-images": "Robot usunął wszystkie obrazy ze strony %(page)s",
+	"delete-linked-pages": "Robot usuwa wszystkie artykuły, do których linkuje %(page)s",
+	"delete-referring-pages": "Robot usuwa wszystkie strony, które linkują do %(page)s"
 }

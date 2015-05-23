@@ -4,7 +4,7 @@
 			"Snævar"
 		]
 	},
-	"template-removing": "Vélmenni: Fjarlægi %(num)d snið: %(list)s",
 	"template-changing": "Vélmenni: Breyti %(num)d snið: %(list)s",
+	"template-removing": "Vélmenni: Fjarlægi %(num)d snið: %(list)s",
 	"template-substituting": "Vélmenni: Skipti út {{PLURAL:%(num)d|sniði|sniðum}}: %(list)s"
 }

@@ -4,6 +4,6 @@
 			"Ebrahimi-amir"
 		]
 	},
-	"table2wiki-warnings": "İstifadəçi Kontrollü Bot: Cədvəl imlası yeniləndi - {{PLURAL:count|1|%(count)d}} xəbərdarlıq}}!",
-	"table2wiki-no-warning": "İstifadəçi Kontrollü Bot: Cədvəl imlası yeniləndi."
+	"table2wiki-no-warning": "İstifadəçi Kontrollü Bot: Cədvəl imlası yeniləndi.",
+	"table2wiki-warnings": "İstifadəçi Kontrollü Bot: Cədvəl imlası yeniləndi - {{PLURAL:count|1|%(count)d}} xəbərdarlıq}}!"
 }

@@ -4,7 +4,7 @@
 			"McDutchie"
 		]
 	},
-	"welcome-welcome": "Benvenite!",
 	"welcome-bad_username": "Robot: Addition de un nomine de usator que debe esser verificate",
-	"welcome-updating": "Robot: Actualisation del registro"
+	"welcome-updating": "Robot: Actualisation del registro",
+	"welcome-welcome": "Benvenite!"
 }

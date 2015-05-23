@@ -4,9 +4,9 @@
 			"Gwenn-Ael"
 		]
 	},
-	"casechecker-replacement-summary": "Robot : kemmoù  tirenneg  :",
-	"casechecker-delete-summary": "Robot : An adkas-mañ zo ennañ lizherennoù heñvel eus al lizherenneg kirillek ha latin en e ditl.",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Bukañ a rae an adkas-se war %(target)s",
-	"casechecker-rename": "Robot : adenvel e tirenneg kemmesk"
+	"casechecker-delete-summary": "Robot : An adkas-mañ zo ennañ lizherennoù heñvel eus al lizherenneg kirillek ha latin en e ditl.",
+	"casechecker-rename": "Robot : adenvel e tirenneg kemmesk",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Robot : kemmoù  tirenneg  :"
 }

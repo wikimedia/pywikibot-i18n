@@ -4,9 +4,9 @@
 			"Snævar"
 		]
 	},
-	"delete-images": "Vélmenni: Eyði öllum myndum á %(page)s",
-	"delete-referring-pages": "Vélmenni: Eyði öllum síðum sem tengjast %(page)s",
 	"delete-from-category": "Vélmenni: Eyði öllum síðum í flokknum %(page)s",
 	"delete-from-file": "Vélmenni: Eyði lista yfir skrár.",
-	"delete-linked-pages": "Vélmenni: Eyði öllum síðum sem tengjast %(page)s"
+	"delete-images": "Vélmenni: Eyði öllum myndum á %(page)s",
+	"delete-linked-pages": "Vélmenni: Eyði öllum síðum sem tengjast %(page)s",
+	"delete-referring-pages": "Vélmenni: Eyði öllum síðum sem tengjast %(page)s"
 }

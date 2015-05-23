@@ -4,11 +4,11 @@
 			"Yury Tarasievich"
 		]
 	},
-	"interwiki-modifying": "робат змяніў: %(modifying)s",
+	"interwiki-adding": "робат дадаў: %(adding)s",
 	"interwiki-adding-modifying": "робат дадаў: %(adding)s змяніў: %(modifying)s",
 	"interwiki-adding-removing": "робат дадаў: %(adding)s выняў: %(removing)s",
 	"interwiki-adding-removing-modifying": "робат дадаў: %(adding)s выдаліў: %(removing)s змяніў: %(modifying)s",
-	"interwiki-adding": "робат дадаў: %(adding)s",
+	"interwiki-modifying": "робат змяніў: %(modifying)s",
 	"interwiki-removing": "робат выняў: %(removing)s",
 	"interwiki-removing-modifying": "робат выдаліў: %(removing)s змяніў: %(modifying)s"
 }

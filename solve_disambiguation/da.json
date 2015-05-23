@@ -6,11 +6,11 @@
 			"Sarrus"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Robotassisteret flertydig: %(from)s - Fjernede link(s)",
-	"solve_disambiguation-redirect-resolved": "Robotassisteret flertydig: %(from)s - Ændrede link(s) til %(to)s",
+	"solve_disambiguation-adding-dn-template": "Robotassisteret flertydig: %(from)s - Markeret til at kræve en eksperts opmærksomhed",
+	"solve_disambiguation-links-removed": "Robotassisteret flertydig: %(from)s - Fjernede link(s).",
 	"solve_disambiguation-links-resolved": "Robotassisteret flertydig: %(from)s - Ændrede link(s) til %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Robotassisteret flertydig: %(from)s - markeret til at kræve en eksperts opmærksomhed",
-	"solve_disambiguation-adding-dn-template": "Robotassisteret flertydig: %(from)s - Markeret til at kræve en eksperts opmærksomhed",
-	"solve_disambiguation-unknown-page": "(ukendt)",
-	"solve_disambiguation-links-removed": "Robotassisteret flertydig: %(from)s - Fjernede link(s)."
+	"solve_disambiguation-redirect-removed": "Robotassisteret flertydig: %(from)s - Fjernede link(s)",
+	"solve_disambiguation-redirect-resolved": "Robotassisteret flertydig: %(from)s - Ændrede link(s) til %(to)s",
+	"solve_disambiguation-unknown-page": "(ukendt)"
 }

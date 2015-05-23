@@ -11,6 +11,6 @@
 	"weblinkchecker-archive_msg": "Zawartość niedostępnej strony została zarchiwizowana przez Internet Archive. Sprawdź czy nie warto podlinkować strony archiwalnej: %(URL)s",
 	"weblinkchecker-badurl": "Podany link nie jest prawidłowym adresem URL",
 	"weblinkchecker-caption": "Martwy link",
-	"weblinkchecker-summary": "Robot zgłasza niedostępny link zewnętrzny",
-	"weblinkchecker-report": "Automat już kilka razy próbował otworzyć linkowaną stronę, niestety bez rezultatu. Sprawdź czy strona rzeczywiście nie działa i ewentualnie popraw link na właściwy. Jeżeli nie można odnaleźć linkowanej strony, rozważ usunięcie odwołania."
+	"weblinkchecker-report": "Automat już kilka razy próbował otworzyć linkowaną stronę, niestety bez rezultatu. Sprawdź czy strona rzeczywiście nie działa i ewentualnie popraw link na właściwy. Jeżeli nie można odnaleźć linkowanej strony, rozważ usunięcie odwołania.",
+	"weblinkchecker-summary": "Robot zgłasza niedostępny link zewnętrzny"
 }

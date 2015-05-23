@@ -4,8 +4,8 @@
 			"Blahma"
 		]
 	},
-	"featured-good": "roboto: %(page)s estas artikolo leginda",
-	"featured-list": "Roboto: %(page)s estas listo de elstaraj",
 	"featured-featured": "roboto: %(page)s estas artikolo elstara",
-	"featured-former": "Roboto: %(page)s estas eksa elstara artikolo"
+	"featured-former": "Roboto: %(page)s estas eksa elstara artikolo",
+	"featured-good": "roboto: %(page)s estas artikolo leginda",
+	"featured-list": "Roboto: %(page)s estas listo de elstaraj"
 }

@@ -5,8 +5,8 @@
 			"Y-M D"
 		]
 	},
-	"featured-good": "Bot : %(page)s a zo ur pennad vat",
-	"featured-list": "Bot : %(page)s a zo ur roll a-feson",
 	"featured-featured": "Bot : %(page)s zo ur pennad eus an dibab",
-	"featured-former": "Bot : %(page)s zo bet ur pennad eus an dibab"
+	"featured-former": "Bot : %(page)s zo bet ur pennad eus an dibab",
+	"featured-good": "Bot : %(page)s a zo ur pennad vat",
+	"featured-list": "Bot : %(page)s a zo ur roll a-feson"
 }

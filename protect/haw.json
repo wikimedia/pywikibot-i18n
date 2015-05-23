@@ -4,9 +4,9 @@
 			"Kolonahe"
 		]
 	},
-	"protect-links": "Lopako: Ke hoʻomalu nei i nā ʻaoʻao apau e loulou ʻia mai %(page)s",
-	"protect-simple": "Lopako: Ke hoʻomalu nei i kekahi papahelu waihona.",
 	"protect-category": "Lopako: Ke hoʻomalu nei i nā ʻaoʻao apau mai ka mahele %(cat)s",
+	"protect-images": "Lopako: Ke hoʻomalu nei i nā kiʻi apau mai ka ʻaoʻao %(page)s",
+	"protect-links": "Lopako: Ke hoʻomalu nei i nā ʻaoʻao apau e loulou ʻia mai %(page)s",
 	"protect-ref": "Lopako: Ke hoʻomalu nei i nā ʻaoʻao e kelelou mai mai %(page)s",
-	"protect-images": "Lopako: Ke hoʻomalu nei i nā kiʻi apau mai ka ʻaoʻao %(page)s"
+	"protect-simple": "Lopako: Ke hoʻomalu nei i kekahi papahelu waihona."
 }

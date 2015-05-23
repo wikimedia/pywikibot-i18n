@@ -2,6 +2,6 @@
 	"@metadata": [],
 	"weblinkchecker-archive_msg": "Veebilehekülg on olemas Interneti arhiivis. Võid mõelda linkimisele selle lehekülje arhiveeritud versioonile: [%(URL)s].",
 	"weblinkchecker-caption": "Surnud link",
-	"weblinkchecker-summary": "Teadaanne mittetöötavast välislingist",
-	"weblinkchecker-report": "Korduval kontrollimisel on leitud, et järgnev välislink ei tööta. Kontrolli selle toimimist ja vajadusel paranda vigane link."
+	"weblinkchecker-report": "Korduval kontrollimisel on leitud, et järgnev välislink ei tööta. Kontrolli selle toimimist ja vajadusel paranda vigane link.",
+	"weblinkchecker-summary": "Teadaanne mittetöötavast välislingist"
 }

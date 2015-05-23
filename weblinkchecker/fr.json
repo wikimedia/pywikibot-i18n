@@ -8,6 +8,6 @@
 	"weblinkchecker-archive_msg": "La page a été sauvegardée dans l’Internet Archive. Il serait peut-être utile de faire pointer le lien vers une des versions archivées : [%(URL)s].",
 	"weblinkchecker-badurl": "Le lien fourni ne semble pas être une URL valide",
 	"weblinkchecker-caption": "Lien mort",
-	"weblinkchecker-summary": "Robot : Rapporte un lien externe inaccessible",
-	"weblinkchecker-report": "Lors de plusieurs patrouilles par un robot, le lien suivant était inaccessible. Veuillez vérifier si le lien est effectivement mort et si oui corrigez ou retirez-le."
+	"weblinkchecker-report": "Lors de plusieurs patrouilles par un robot, le lien suivant était inaccessible. Veuillez vérifier si le lien est effectivement mort et si oui corrigez ou retirez-le.",
+	"weblinkchecker-summary": "Robot : Rapporte un lien externe inaccessible"
 }

@@ -4,8 +4,8 @@
 			"Yfdyh000"
 		]
 	},
-	"featured-good": "机器人：%(page)s是一篇优良条目",
-	"featured-list": "机器人：%(page)s是一篇特色列表",
 	"featured-featured": "机器人：%(page)s是一篇特色条目",
-	"featured-former": "机器人：%(page)s曾经是一篇特色条目"
+	"featured-former": "机器人：%(page)s曾经是一篇特色条目",
+	"featured-good": "机器人：%(page)s是一篇优良条目",
+	"featured-list": "机器人：%(page)s是一篇特色列表"
 }

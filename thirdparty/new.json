@@ -4,10 +4,10 @@
 			"Eukesh"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "रोबोट",
-	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(मनु सम्पादक मलूगु)",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "न्हुगु खँल्हाबल्हा",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "खँल्हाबल्हा क्वचागु",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "खँल्हाबल्हा हिलाछ्वगु",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "रोबट सन्देश"
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "खँल्हाबल्हा क्वचागु",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "रोबट सन्देश",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "न्हुगु खँल्हाबल्हा",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(मनु सम्पादक मलूगु)",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "रोबोट"
 }

@@ -5,8 +5,8 @@
 			"Chelin"
 		]
 	},
-	"archivebot-older-than": "cchiù viecchio 'e %(duration)s",
-	"archivebot-page-summary": "Bot: archivio %(count)d {{PLURAL:%(count)d|chiacchiera|chiacchiere}} (%(why)s) 'n %(archives)s.",
 	"archivebot-archive-full": "(ARCHIVIO CHIENO)",
-	"archivebot-archive-summary": "Bot: Archevanno %(count)d {{PLURAL:%(count)d|chiacchiera|chiacchiere}} 'a [[%(from)s]]."
+	"archivebot-archive-summary": "Bot: Archevanno %(count)d {{PLURAL:%(count)d|chiacchiera|chiacchiere}} 'a [[%(from)s]].",
+	"archivebot-older-than": "cchiù viecchio 'e %(duration)s",
+	"archivebot-page-summary": "Bot: archivio %(count)d {{PLURAL:%(count)d|chiacchiera|chiacchiere}} (%(why)s) 'n %(archives)s."
 }

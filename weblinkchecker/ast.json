@@ -7,6 +7,6 @@
 	"weblinkchecker-archive_msg": "Internet Archive tien guardada la páxina web. Considere enllazar a una versión archivada afayadiza: [%(URL)s].",
 	"weblinkchecker-badurl": "L'enllaz proporcionáu paez que nun ye una direición URL válida",
 	"weblinkchecker-caption": "Enllaz muertu",
-	"weblinkchecker-summary": "Robot: Informando d'un enllaz esternu non disponible",
-	"weblinkchecker-report": "En delles pasaes automátiques del robó el siguiente enllaz esternu nun s'alcontraba disponible. Compruebe si l'enllaz ta daveres caíu y corríxalu o desanícielu si ye'l casu"
+	"weblinkchecker-report": "En delles pasaes automátiques del robó el siguiente enllaz esternu nun s'alcontraba disponible. Compruebe si l'enllaz ta daveres caíu y corríxalu o desanícielu si ye'l casu",
+	"weblinkchecker-summary": "Robot: Informando d'un enllaz esternu non disponible"
 }

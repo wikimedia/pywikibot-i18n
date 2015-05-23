@@ -6,9 +6,9 @@
 			"Aswanas"
 		]
 	},
-	"delete-images": "robotas: Trinami visi puslapio %(page)s paveikslėliai",
-	"delete-referring-pages": "robotas: Trinami visi puslapiai, rodantys į %(page)s",
 	"delete-from-category": "robotas: Trinami visi puslapiai iš kategorijos %(page)s",
 	"delete-from-file": "Robotas: Ištrinamas puslapių sąrašas.",
-	"delete-linked-pages": "robotas: Trinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s"
+	"delete-images": "robotas: Trinami visi puslapio %(page)s paveikslėliai",
+	"delete-linked-pages": "robotas: Trinami visi puslapiai, į kuriuos yra nuoroda iš %(page)s",
+	"delete-referring-pages": "robotas: Trinami visi puslapiai, rodantys į %(page)s"
 }

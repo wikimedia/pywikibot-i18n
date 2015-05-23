@@ -5,14 +5,14 @@
 			"Xqt"
 		]
 	},
-	"category-version-history": "Robot: wårdaedje di l' istwere del viye modêye di «%(oldcat)s»",
-	"category-changing": "Robot: displaeçaedje di %(oldcat)s eviè %(newcat)s",
 	"category-adding": "Robot: radjouter l' categorye [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ossu dins %(alsocat)s)",
-	"category-was-disbanded": "Robot: li categoreye a stî disfwaite",
-	"category-replacing": "Robot: replaecî l' categoreye «%(oldcat)s» avou «%(newcat)s»",
+	"category-changing": "Robot: displaeçaedje di %(oldcat)s eviè %(newcat)s",
+	"category-listifying": "Robot: djivêye del categoreye «%(fromcat)s» ({{PLURAL:%(num)d|1 cayet|%(num)d cayets}})",
 	"category-removing": "Robot: disfaçaedje del categoreye «%(oldcat)s»",
-	"category-was-moved": "Robot: categoreye displaeceye viè [[:Category:%(newcat)s|%(title)s]]",
+	"category-replacing": "Robot: replaecî l' categoreye «%(oldcat)s» avou «%(newcat)s»",
 	"category-section-title": "Istwere del viye categoreye «%(oldcat)s»",
-	"category-listifying": "Robot: djivêye del categoreye «%(fromcat)s» ({{PLURAL:%(num)d|1 cayet|%(num)d cayets}})"
+	"category-version-history": "Robot: wårdaedje di l' istwere del viye modêye di «%(oldcat)s»",
+	"category-was-disbanded": "Robot: li categoreye a stî disfwaite",
+	"category-was-moved": "Robot: categoreye displaeceye viè [[:Category:%(newcat)s|%(title)s]]"
 }

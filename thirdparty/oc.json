@@ -5,16 +5,16 @@
 			"Cedric31"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "robòt",
-	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(cap d'editor uman pas detectat)",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
-	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s : %(page_sections)s - [%(history_link)s darrièr cambiament] (%(page_size)s octets) per %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Messatge d'avertiment del robòt : %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Novèla discussion",
-	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s : <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - darrièr cambiament per [[User:%(user)s]] (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notificacion",
 	"thirdparty-drtrigonbot-subster-summary-mod": "substitucion de la(s) balisa(s) %(tags)s",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussion tampada",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussion modificada",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MESSATGE DEL ROBÒT"
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussion tampada",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MESSATGE DEL ROBÒT",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Novèla discussion",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notificacion",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s : %(page_sections)s - [%(history_link)s darrièr cambiament] (%(page_size)s octets) per %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(cap d'editor uman pas detectat)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s : <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - darrièr cambiament per [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Messatge d'avertiment del robòt : %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robòt"
 }

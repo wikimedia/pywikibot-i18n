@@ -4,9 +4,9 @@
 			"Xuacu"
 		]
 	},
-	"protect-links": "Bot: Protexendo toles páxines enllazaes dende %(page)s",
-	"protect-simple": "Bot: Protexendo una llista de ficheros.",
 	"protect-category": "Bot: Protexendo toles páxines de la categoría %(cat)s",
+	"protect-images": "Bot: Protexendo toles imaxes de la páxina %(page)s",
+	"protect-links": "Bot: Protexendo toles páxines enllazaes dende %(page)s",
 	"protect-ref": "Bot: Protexendo toles páxines con referencia dende %(page)s",
-	"protect-images": "Bot: Protexendo toles imaxes de la páxina %(page)s"
+	"protect-simple": "Bot: Protexendo una llista de ficheros."
 }

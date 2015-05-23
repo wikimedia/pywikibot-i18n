@@ -4,8 +4,8 @@
 			"Jetlag"
 		]
 	},
-	"featured-good": "機械人：%(page)s為優良條目",
-	"featured-list": "機械人：%(page)s為特色列表",
 	"featured-featured": "機械人：%(page)s為特色條目",
-	"featured-former": "機械人：%(page)s曾經係一隻特色條目"
+	"featured-former": "機械人：%(page)s曾經係一隻特色條目",
+	"featured-good": "機械人：%(page)s為優良條目",
+	"featured-list": "機械人：%(page)s為特色列表"
 }

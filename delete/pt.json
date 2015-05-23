@@ -6,9 +6,9 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"delete-images": "Robô: A eliminar todas as imagens da página %(page)s",
-	"delete-referring-pages": "Robô: A eliminar todas as páginas afluentes a %(page)s",
 	"delete-from-category": "Robô: A eliminar todas as páginas da categoria %(page)s",
 	"delete-from-file": "Robô: A eliminar uma lista de páginas.",
-	"delete-linked-pages": "Robô: A eliminar todas as páginas ligadas a %(page)s"
+	"delete-images": "Robô: A eliminar todas as imagens da página %(page)s",
+	"delete-linked-pages": "Robô: A eliminar todas as páginas ligadas a %(page)s",
+	"delete-referring-pages": "Robô: A eliminar todas as páginas afluentes a %(page)s"
 }

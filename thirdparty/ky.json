@@ -5,10 +5,10 @@
 			"Викиней"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Талкуу өзгөртүлдү",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Талкуу жабык",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "РОБОТТУН БИЛДИРМЕСИ",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Жаңы талкуулоо",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Кабарландыруу",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Талкуу жабык",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Талкуу өзгөртүлдү",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "РОБОТТУН БИЛДИРМЕСИ"
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот"
 }

@@ -4,7 +4,7 @@
 			"Stephensuleeman"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BARITA ROBOT",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "%d. %B %Y",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BARITA ROBOT"
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot"
 }

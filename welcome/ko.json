@@ -6,7 +6,7 @@
 			"아라"
 		]
 	},
-	"welcome-welcome": "환영합니다!",
 	"welcome-bad_username": "로봇: 확인이 필요한 사용자 이름 추가",
-	"welcome-updating": "로봇: 기록 업데이트"
+	"welcome-updating": "로봇: 기록 업데이트",
+	"welcome-welcome": "환영합니다!"
 }

@@ -4,12 +4,12 @@
 			"Xqt"
 		]
 	},
-	"interwiki-modifying": "Waddefresser: gennert: %(modifying)s",
+	"interwiki-adding": "Waddefresser: dezu geduh: %(adding)s",
 	"interwiki-adding-modifying": "Waddefresser: dezu geduh: %(adding)s gennert: %(modifying)s",
 	"interwiki-adding-removing": "Waddefresser: dezu geduh: %(adding)s, raus gnumme: %(removing)s",
 	"interwiki-adding-removing-modifying": "Waddefresser: dezu geduh: %(adding)s, raus gnumme: %(removing)s, gennert: %(modifying)s",
-	"interwiki-adding": "Waddefresser: dezu geduh: %(adding)s",
+	"interwiki-modifying": "Waddefresser: gennert: %(modifying)s",
+	"interwiki-modifying-from": "Waddefresser: Gleecher vun %(from)s nooch %(modifying)s geennert",
 	"interwiki-removing": "Waddefresser: raus gnumme: %(removing)s",
-	"interwiki-removing-modifying": "Waddefresser: raus gnumme: %(removing)s, gennert: %(modifying)s",
-	"interwiki-modifying-from": "Waddefresser: Gleecher vun %(from)s nooch %(modifying)s geennert"
+	"interwiki-removing-modifying": "Waddefresser: raus gnumme: %(removing)s, gennert: %(modifying)s"
 }

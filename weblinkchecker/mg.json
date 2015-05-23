@@ -6,6 +6,6 @@
 	},
 	"weblinkchecker-archive_msg": "Notahirizina tao amin'ny Internet Archive ilay pejy. Mety ilaina ny mampanondro ny rohy mankany amin'ilay versiona voatahiry : [%(URL)s]",
 	"weblinkchecker-caption": "Roh maty",
-	"weblinkchecker-summary": "Rôbô : Mampilaza ny rohy ivelany tsy afaka tsidihana",
-	"weblinkchecker-report": "Nandritry ny fitsidihana maro natao tamin'ny alalan'ny robo dia tsy voasokatra ilay rohy. Jereo azafady raha tena maty ilay rohy, ary raha tena maty ilay izy dia ahitsio na esory."
+	"weblinkchecker-report": "Nandritry ny fitsidihana maro natao tamin'ny alalan'ny robo dia tsy voasokatra ilay rohy. Jereo azafady raha tena maty ilay rohy, ary raha tena maty ilay izy dia ahitsio na esory.",
+	"weblinkchecker-summary": "Rôbô : Mampilaza ny rohy ivelany tsy afaka tsidihana"
 }

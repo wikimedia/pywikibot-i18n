@@ -4,8 +4,8 @@
 			"Siebrand"
 		]
 	},
+	"pagefromfile-msg": "Robot: geautomatiseerde import",
 	"pagefromfile-msg_bottom": "onderaan toegevoegd",
 	"pagefromfile-msg_force": "bestaande tekst overschreven",
-	"pagefromfile-msg_top": "bovenaan toegevoegd",
-	"pagefromfile-msg": "Robot: geautomatiseerde import"
+	"pagefromfile-msg_top": "bovenaan toegevoegd"
 }

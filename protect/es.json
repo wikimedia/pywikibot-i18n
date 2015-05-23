@@ -7,9 +7,9 @@
 			"Macofe"
 		]
 	},
-	"protect-links": "Bot: protección de todas las páginas enlazadas desde %(page)s",
-	"protect-simple": "Bot: protección de una lista de archivos.",
 	"protect-category": "Bot: protección de todas las páginas de la categoría %(cat)s",
+	"protect-images": "Bot: protección de todas las imágenes de la página %(page)s",
+	"protect-links": "Bot: protección de todas las páginas enlazadas desde %(page)s",
 	"protect-ref": "Bot: protección de todas las páginas que enlazan hacia %(page)s",
-	"protect-images": "Bot: protección de todas las imágenes de la página %(page)s"
+	"protect-simple": "Bot: protección de una lista de archivos."
 }

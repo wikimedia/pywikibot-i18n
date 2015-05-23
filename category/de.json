@@ -9,16 +9,16 @@
 			"Metalhead64"
 		]
 	},
-	"category-version-history": "Bot: Sichere Versionsgeschichte der alten %(oldcat)s",
-	"category-changing": "Bot: Ändere %(oldcat)s zu %(newcat)s",
 	"category-adding": "Bot: Ergänze Kategorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(auch in %(alsocat)s)",
-	"category-was-disbanded": "Bot: Kategorie wurde aufgelöst",
-	"category-strip-cfd-templates": "Bot: Entferne CFD-Vorlagen für abgeschlossene Aktion",
-	"category-replacing": "Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s",
+	"category-changing": "Bot: Ändere %(oldcat)s zu %(newcat)s",
+	"category-listifying": "Bot: Liste aus %(fromcat)s ({{PLURAL:num|1 Eintrag|%(num)d Einträge}})",
 	"category-removing": "Bot: Entferne aus %(oldcat)s",
-	"category-was-moved": "Bot: Kategorie wurde nach [[:Category:%(newcat)s|%(title)s]] verschoben",
 	"category-renamed": "Bot: Verschoben von %s. Autoren: %s",
+	"category-replacing": "Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s",
 	"category-section-title": "Versionsgeschichte der ursprünglichen %(oldcat)s",
-	"category-listifying": "Bot: Liste aus %(fromcat)s ({{PLURAL:num|1 Eintrag|%(num)d Einträge}})"
+	"category-strip-cfd-templates": "Bot: Entferne CFD-Vorlagen für abgeschlossene Aktion",
+	"category-version-history": "Bot: Sichere Versionsgeschichte der alten %(oldcat)s",
+	"category-was-disbanded": "Bot: Kategorie wurde aufgelöst",
+	"category-was-moved": "Bot: Kategorie wurde nach [[:Category:%(newcat)s|%(title)s]] verschoben"
 }

@@ -4,7 +4,7 @@
 			"Toliño"
 		]
 	},
-	"template-removing": "Bot: Elimino {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s",
 	"template-changing": "Bot: Cambio {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s",
+	"template-removing": "Bot: Elimino {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s",
 	"template-substituting": "Bot: Substitúo {{PLURAL:%(num)d|o modelo|varios modelos}}: %(list)s"
 }

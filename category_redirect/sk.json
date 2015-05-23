@@ -5,9 +5,9 @@
 			"Wizzard"
 		]
 	},
-	"category_redirect-comment": "Robot na údržbu presmerovaní kategórií",
-	"category_redirect-change-category": "Robot: Zmeňte presmerovanú kategóriu [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: Pridanie šablóny presmerovania kategórie kvôli údržbe",
+	"category_redirect-change-category": "Robot: Zmeňte presmerovanú kategóriu [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Robot na údržbu presmerovaní kategórií",
 	"category_redirect-edit-request": "Nasledujúce zamknuté stránky vyžadujú úpravu odkazov ku kategóriám: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s je v kategórii %(oldcat)s, ktorá je presmerovaná na %(newcat)s",
 	"category_redirect-fix-double": "Robot opravil dvojité presmerovanie"

@@ -5,10 +5,10 @@
 			"Robby"
 		]
 	},
-	"redirect-fix-double": "Bot: Duebel Viruleedung gefléckt → %(to)s",
-	"redirect-remove-broken": "Bot: Viruleedung op eng geläscht Säit oder eng Säit déi et net gëtt",
+	"redirect-broken-redirect-template": "{{Läschen|Defekt Viruleedung}}",
 	"redirect-fix-broken-moved": "Bot: Futtis Viruleedung op déi geréckelt Zilsäit %(to)s gouf gefléckt",
+	"redirect-fix-double": "Bot: Duebel Viruleedung gefléckt → %(to)s",
 	"redirect-fix-loop": "Bot: Viruleedungsschleef op %(to)s verbessert",
-	"redirect-remove-loop": "Bot: Viruleedung där hiert Zil zu enger endlos Schleef féiert",
-	"redirect-broken-redirect-template": "{{Läschen|Defekt Viruleedung}}"
+	"redirect-remove-broken": "Bot: Viruleedung op eng geläscht Säit oder eng Säit déi et net gëtt",
+	"redirect-remove-loop": "Bot: Viruleedung där hiert Zil zu enger endlos Schleef féiert"
 }

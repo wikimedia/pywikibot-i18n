@@ -4,5 +4,6 @@
 			"Robby"
 		]
 	},
-	"noreferences-add-tag": "Bot: Tag <references /> dee gefeelt huet derbäigesat"
+	"noreferences-add-tag": "Bot: Tag <references /> dee gefeelt huet derbäigesat",
+	"noreferences-fix-tag": "Bot: Net valabel Syntx vum Tag <references /> flécken"
 }

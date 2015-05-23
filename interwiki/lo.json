@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "ໂຣບົດ ພວມແປງ: %(modifying)s",
+	"interwiki-adding": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s",
 	"interwiki-adding-modifying": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s ພວມແປງ: %(modifying)s",
 	"interwiki-adding-removing": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s ພວມລຶບ: %(removing)s",
 	"interwiki-adding-removing-modifying": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s ພວມລຶບ: %(removing)s ພວມແປງ: %(modifying)s",
-	"interwiki-adding": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s",
+	"interwiki-modifying": "ໂຣບົດ ພວມແປງ: %(modifying)s",
 	"interwiki-removing": "ໂຣບົດ ພວມລຶບ: %(removing)s",
 	"interwiki-removing-modifying": "ໂຣບົດ ພວມລຶບ: %(removing)s ພວມແປງ: %(modifying)s"
 }

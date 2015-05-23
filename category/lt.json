@@ -8,15 +8,15 @@
 			"Aswanas"
 		]
 	},
-	"category-version-history": "Robotas: Išsaugo ankstesnės %(oldcat)s istorijos  versiją",
-	"category-changing": "Robotas: Keičiama %(oldcat)s į %(newcat)s",
 	"category-adding": "Robotas: Pridedama kategorija [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(taip pat ir %(alsocat)s)",
-	"category-was-disbanded": "robotas: kategorija išformuota",
-	"category-replacing": "robotas: kategorija %(oldcat)s keičiama į %(newcat)s",
+	"category-changing": "Robotas: Keičiama %(oldcat)s į %(newcat)s",
+	"category-listifying": "Robotas: Numeruoja nuo %(fromcat)s ({{PLURAL:%(num)d|1 įrašas|%(num)d įrašų}})",
 	"category-removing": "robotas: šalinama iš %(oldcat)s",
-	"category-was-moved": "robotas: Kategorija pervadinta į [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "robotas: Perkelta iš %s. Autoriai: %s",
+	"category-replacing": "robotas: kategorija %(oldcat)s keičiama į %(newcat)s",
 	"category-section-title": "Puslapis istorija iš buvusio %(oldcat)s",
-	"category-listifying": "Robotas: Numeruoja nuo %(fromcat)s ({{PLURAL:%(num)d|1 įrašas|%(num)d įrašų}})"
+	"category-version-history": "Robotas: Išsaugo ankstesnės %(oldcat)s istorijos  versiją",
+	"category-was-disbanded": "robotas: kategorija išformuota",
+	"category-was-moved": "robotas: Kategorija pervadinta į [[:Category:%(newcat)s|%(title)s]]"
 }

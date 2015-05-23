@@ -4,8 +4,8 @@
 			"EagerLin"
 		]
 	},
-	"casechecker-replacement-summary": "機器人：案件替換",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "這重定向用來指向％(target)s",
-	"casechecker-rename": "機器人：混合大小寫的命名"
+	"casechecker-rename": "機器人：混合大小寫的命名",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "機器人：案件替換"
 }

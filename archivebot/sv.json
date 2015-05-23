@@ -7,9 +7,9 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "äldre än %(duration)s",
-	"archivebot-page-summary": "Bot: Arkiverar %(count)d {PLURAL:%(count)d|tråd|trådar}} (%(why)s) till %(archives)s.",
-	"archivebot-archiveheader": "{{Arkivsida}}",
 	"archivebot-archive-full": "(ARKIV FULLT)",
-	"archivebot-archive-summary": "Bot: Arkiverar %(count)d {{PLURAL:%(count)d|tråd|trådar}} från [[%(from)s]]."
+	"archivebot-archive-summary": "Bot: Arkiverar %(count)d {{PLURAL:%(count)d|tråd|trådar}} från [[%(from)s]].",
+	"archivebot-archiveheader": "{{Arkivsida}}",
+	"archivebot-older-than": "äldre än %(duration)s",
+	"archivebot-page-summary": "Bot: Arkiverar %(count)d {PLURAL:%(count)d|tråd|trådar}} (%(why)s) till %(archives)s."
 }

@@ -4,9 +4,9 @@
 			"Euriditi"
 		]
 	},
-	"delete-images": "Roboti: Duke fshirë të gjitha figurat në faqen %(page)s",
-	"delete-referring-pages": "Roboti: Duke fshirë të gjitha faqet e lidhura nga %(page)s",
 	"delete-from-category": "Roboti: Duke fshirë të gjitha faqet në kategorinë %(page)s",
 	"delete-from-file": "Roboti: Duke fshirë të gjithë listën e skedave.",
-	"delete-linked-pages": "Roboti: Duke fshirë të gjitha faqet e lidhura nga %(page)s"
+	"delete-images": "Roboti: Duke fshirë të gjitha figurat në faqen %(page)s",
+	"delete-linked-pages": "Roboti: Duke fshirë të gjitha faqet e lidhura nga %(page)s",
+	"delete-referring-pages": "Roboti: Duke fshirë të gjitha faqet e lidhura nga %(page)s"
 }

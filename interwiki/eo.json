@@ -4,12 +4,12 @@
 			"Objectivesea"
 		]
 	},
-	"interwiki-modifying": "robota modifo de: %(modifying)s",
+	"interwiki-adding": "robota aldono de: %(adding)s",
 	"interwiki-adding-modifying": "robota aldono de: %(adding)s modifo de: %(modifying)s",
 	"interwiki-adding-removing": "robota aldono de: %(adding)s forigo de: %(removing)s",
 	"interwiki-adding-removing-modifying": "robota aldono de: %(adding)s forigo de: %(removing)s modifo de: %(modifying)s",
-	"interwiki-adding": "robota aldono de: %(adding)s",
+	"interwiki-modifying": "robota modifo de: %(modifying)s",
+	"interwiki-modifying-from": "Roboto: Ŝanĝas %(from)s al %(modifying)s",
 	"interwiki-removing": "robota forigo de: %(removing)s",
-	"interwiki-removing-modifying": "robota forigo de: %(removing)s modifo de: %(modifying)s",
-	"interwiki-modifying-from": "Roboto: Ŝanĝas %(from)s al %(modifying)s"
+	"interwiki-removing-modifying": "robota forigo de: %(removing)s modifo de: %(modifying)s"
 }

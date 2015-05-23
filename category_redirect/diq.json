@@ -5,9 +5,9 @@
 			"Mirzali"
 		]
 	},
-	"category_redirect-comment": "Boti timarin da hetanayışi kategoriyan",
-	"category_redirect-change-category": "Boti kategoriya [[:%(oldCatLink)s|%(oldCatTitle)s]] berd [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Boti qande timar kerden şablone hetenayışe kategori dekerd de",
+	"category_redirect-change-category": "Boti kategoriya [[:%(oldCatLink)s|%(oldCatTitle)s]] berd [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Boti timarin da hetanayışi kategoriyan",
 	"category_redirect-edit-request": "Peleye ke stare deyê greye kategoriya re newe kerdış icab keno: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s, %(newcat)s re hetanayışkar ita do %(oldcat)s'",
 	"category_redirect-fix-double": "Robot: Sabıtkerdışê hetenayışê dıleti"

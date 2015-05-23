@@ -5,15 +5,15 @@
 			"Умар"
 		]
 	},
-	"category-version-history": "бот: историн верси Ӏалашъяр хиллачу %(oldcat)s чура",
-	"category-changing": "бото хийцина: %(oldcat)s → %(newcat)s",
 	"category-adding": "робот: тIетоьхна Категори [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(кхин %(alsocat)s) чохь",
-	"category-was-disbanded": "бот: категори дӀасайикъина",
-	"category-replacing": "бот: хийцина категореш %(oldcat)s → %(newcat)s",
+	"category-changing": "бото хийцина: %(oldcat)s → %(newcat)s",
+	"category-listifying": "бот: кхуллуш бу могӀам ({{PLURAL:%(num)d|элементах|элементашах}}) %(fromcat)s",
 	"category-removing": "бот: юкъара яккхар %(oldcat)s чура",
-	"category-was-moved": "бот: категорин цӀе хийцина → [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "бот: %s чура дихьа яьккхина. автораш: %s",
+	"category-replacing": "бот: хийцина категореш %(oldcat)s → %(newcat)s",
 	"category-section-title": "АгӀона истори хила %(oldcat)s чура",
-	"category-listifying": "бот: кхуллуш бу могӀам ({{PLURAL:%(num)d|элементах|элементашах}}) %(fromcat)s"
+	"category-version-history": "бот: историн верси Ӏалашъяр хиллачу %(oldcat)s чура",
+	"category-was-disbanded": "бот: категори дӀасайикъина",
+	"category-was-moved": "бот: категорин цӀе хийцина → [[:Category:%(newcat)s|%(title)s]]"
 }

@@ -4,11 +4,11 @@
 			"Silvonen"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Täsmennystä botin avulla: %(from)s - poistettiin linkkejä",
-	"solve_disambiguation-redirect-resolved": "Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s",
+	"solve_disambiguation-adding-dn-template": "Täsmennystä botin avulla: %(from)s - merkittiin huomiota tarvitsevaksi",
+	"solve_disambiguation-links-removed": "Täsmennystä botin avulla: %(from)s - poistettiin linkkejä.",
 	"solve_disambiguation-links-resolved": "Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Täsmennystä botin avulla: %(from)s - merkittiin huomiota tarvitsevaksi",
-	"solve_disambiguation-adding-dn-template": "Täsmennystä botin avulla: %(from)s - merkittiin huomiota tarvitsevaksi",
-	"solve_disambiguation-unknown-page": "(tuntematon)",
-	"solve_disambiguation-links-removed": "Täsmennystä botin avulla: %(from)s - poistettiin linkkejä."
+	"solve_disambiguation-redirect-removed": "Täsmennystä botin avulla: %(from)s - poistettiin linkkejä",
+	"solve_disambiguation-redirect-resolved": "Täsmennystä botin avulla: %(from)s korvattiin link(e)illä %(to)s",
+	"solve_disambiguation-unknown-page": "(tuntematon)"
 }

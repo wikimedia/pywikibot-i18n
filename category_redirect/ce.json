@@ -4,9 +4,9 @@
 			"Умар"
 		]
 	},
-	"category_redirect-comment": "Категореш дӀасахьажаяран болх бо бот",
-	"category_redirect-change-category": "бот: категореш дӀасахьажаяр хийцина [[:%(oldCatLink)s|%(oldCatTitle)s]] → [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "бот: дӀасахьажош йолу кеп тӀетуьхина категореш болх баран",
+	"category_redirect-change-category": "бот: категореш дӀасахьажаяр хийцина [[:%(oldCatLink)s|%(oldCatTitle)s]] → [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Категореш дӀасахьажаяран болх бо бот",
 	"category_redirect-edit-request": "ТӀехьайогӀу гӀорала дина йолу агӀонийн хьажоргаш карлаяха еза категори: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ю %(oldcat)s чохь, иза ю %(newcat)s тӀе дӀасахьажина",
 	"category_redirect-fix-double": "бот: шалха дӀасахьажинарг нисъяр"

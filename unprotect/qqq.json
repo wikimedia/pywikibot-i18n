@@ -6,9 +6,9 @@
 			"Sn1per"
 		]
 	},
-	"unprotect-links": "Edit summary when the bot unprotects all pages linked from a page. Parameters:\n* $(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-linked-pages}}",
-	"unprotect-simple": "Edit summary when the bot unprotects a list of files.",
 	"unprotect-category": "Edit summary when the bot unprotects all pages from a category. Parameters:\n* %(cat)s - category name\nSee also:\n* {{msg-pywikibot|Delete-from-category}}",
+	"unprotect-images": "Edit summary when the bot unprotects all images on a page. Parameters:\n* %(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-images}}",
+	"unprotect-links": "Edit summary when the bot unprotects all pages linked from a page. Parameters:\n* $(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-linked-pages}}",
 	"unprotect-ref": "Edit summary when the bot unprotects all pages that link to/transclude a page (Special:WhatLinksHere). Parameters:\n* %(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-referring-pages}}",
-	"unprotect-images": "Edit summary when the bot unprotects all images on a page. Parameters:\n* %(page)s - page title\nSee also:\n* {{msg-pywikibot|Delete-images}}"
+	"unprotect-simple": "Edit summary when the bot unprotects a list of files."
 }

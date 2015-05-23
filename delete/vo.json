@@ -4,7 +4,7 @@
 			"Malafaya"
 		]
 	},
-	"delete-images": "Bot: Moükon magodis valik su pad: %(page)s",
 	"delete-from-category": "Bot: Moükon padis valik in klad: %(page)s",
-	"delete-from-file": "Bot: Moükon lisedi padas."
+	"delete-from-file": "Bot: Moükon lisedi padas.",
+	"delete-images": "Bot: Moükon magodis valik su pad: %(page)s"
 }

@@ -4,15 +4,15 @@
 			"Erdemaslancan"
 		]
 	},
-	"category-version-history": "Boti qeydê verênayışê versiyoni ke %(oldcat)s",
-	"category-changing": "Boti %(oldcat)s, %(newcat)s deye vurna",
 	"category-adding": "Bot: [[Kategoriye:%(newcat)s]] dekerd de",
 	"category-also-in": "(kategori da %(alsocat)s esto)",
-	"category-was-disbanded": "Boti karkerdışe kategori qedina",
-	"category-replacing": "Boti kategori %(oldcat)s, kategori da %(newcat)s'iya vurna",
+	"category-changing": "Boti %(oldcat)s, %(newcat)s deye vurna",
+	"category-listifying": "Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi",
 	"category-removing": "Boti %(oldcat)s' ra wederna",
-	"category-was-moved": "Boti kategori name dê [[:Category:%(newcat)s|%(title)s]] ya ahûlnê",
 	"category-renamed": "Boti, Nuştoğ %s ra wedarna %s",
+	"category-replacing": "Boti kategori %(oldcat)s, kategori da %(newcat)s'iya vurna",
 	"category-section-title": "Werênayışê pela da %(oldcat)s",
-	"category-listifying": "Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi"
+	"category-version-history": "Boti qeydê verênayışê versiyoni ke %(oldcat)s",
+	"category-was-disbanded": "Boti karkerdışe kategori qedina",
+	"category-was-moved": "Boti kategori name dê [[:Category:%(newcat)s|%(title)s]] ya ahûlnê"
 }

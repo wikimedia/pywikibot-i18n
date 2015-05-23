@@ -7,14 +7,14 @@
 			"Metalhead64"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Bitte gib den Dateinamen des XML-Dumps ein:",
-	"pywikibot-enter-page-processing": "Welche Seite soll bearbeitet werden?",
+	"pywikibot-enter-category-name": "Bitte Name der Kategorie eingeben:",
 	"pywikibot-enter-file-links-processing": "Links zu welcher Dateiseite sollen bearbeitet werden?",
+	"pywikibot-enter-finished-browser": "Enter drücken nach dem Beenden des Browsers.",
 	"pywikibot-enter-namespace-number": "Bitte gib die Nummer des Namensraums ein:",
 	"pywikibot-enter-new-text": "Bitte gib den neuen Text ein:",
-	"pywikibot-enter-category-name": "Bitte Name der Kategorie eingeben:",
-	"pywikibot-enter-finished-browser": "Enter drücken nach dem Beenden des Browsers.",
+	"pywikibot-enter-page-processing": "Welche Seite soll bearbeitet werden?",
+	"pywikibot-enter-xml-filename": "Bitte gib den Dateinamen des XML-Dumps ein:",
+	"pywikibot-fixes-fckeditor": "Bot: Korrigiere Rich-Editor-HTML",
 	"pywikibot-fixes-html": "Bot: konvertiere/korrigiere HTML",
-	"pywikibot-fixes-syntax": "Bot: Korrigiere Wiki-Syntax",
-	"pywikibot-fixes-fckeditor": "Bot: Korrigiere Rich-Editor-HTML"
+	"pywikibot-fixes-syntax": "Bot: Korrigiere Wiki-Syntax"
 }

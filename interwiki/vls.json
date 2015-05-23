@@ -5,11 +5,11 @@
 			"Xqt"
 		]
 	},
-	"interwiki-modifying": "Robot Anders: %(modifying)s",
+	"interwiki-adding": "Robot Derby: %(adding)s",
 	"interwiki-adding-modifying": "Robot Derby: %(adding)s Anders: %(modifying)s",
 	"interwiki-adding-removing": "Robot Derby: %(adding)s Derof: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot Derby: %(adding)s Derof: %(removing)s Anders: %(modifying)s",
-	"interwiki-adding": "Robot Derby: %(adding)s",
+	"interwiki-modifying": "Robot Anders: %(modifying)s",
 	"interwiki-removing": "Robot Derof: %(removing)s",
 	"interwiki-removing-modifying": "Robot Derof: %(removing)s Anders: %(modifying)s"
 }

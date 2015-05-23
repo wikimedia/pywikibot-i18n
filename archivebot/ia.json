@@ -4,9 +4,9 @@
 			"McDutchie"
 		]
 	},
-	"archivebot-older-than": "plus vetule que %(duration)s",
-	"archivebot-page-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} (%(why)s) verso %(archives)s.",
-	"archivebot-archiveheader": "{{Discussion archivate}}",
 	"archivebot-archive-full": "(ARCHIVO PLEN)",
-	"archivebot-archive-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} ab [[%(from)s]]."
+	"archivebot-archive-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} ab [[%(from)s]].",
+	"archivebot-archiveheader": "{{Discussion archivate}}",
+	"archivebot-older-than": "plus vetule que %(duration)s",
+	"archivebot-page-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} (%(why)s) verso %(archives)s."
 }

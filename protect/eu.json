@@ -4,7 +4,7 @@
 			"Subi"
 		]
 	},
-	"protect-simple": "Bot: Fitxategi-zerrenda bat babesten.",
 	"protect-category": "Bot: %(cat)s kategoriako orrialde guztiak babesten",
-	"protect-images": "Bot: %(page)s orrialdeko irudi guztiak babesten"
+	"protect-images": "Bot: %(page)s orrialdeko irudi guztiak babesten",
+	"protect-simple": "Bot: Fitxategi-zerrenda bat babesten."
 }

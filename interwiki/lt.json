@@ -4,12 +4,12 @@
 			"Hugo.arg"
 		]
 	},
-	"interwiki-modifying": "robotas Keičiama: %(modifying)s",
+	"interwiki-adding": "robotas Pridedama: %(adding)s",
 	"interwiki-adding-modifying": "robotas Pridedama: %(adding)s Keičiama: %(modifying)s",
 	"interwiki-adding-removing": "robotas Pridedama: %(adding)s Šalinama: %(removing)s",
 	"interwiki-adding-removing-modifying": "robotas Pridedama: %(adding)s Šalinama: %(removing)s Keičiama: %(modifying)s",
-	"interwiki-adding": "robotas Pridedama: %(adding)s",
+	"interwiki-modifying": "robotas Keičiama: %(modifying)s",
+	"interwiki-modifying-from": "robotas: Keičiama %(from)s į %(modifying)s",
 	"interwiki-removing": "robotas Šalinama: %(removing)s",
-	"interwiki-removing-modifying": "robotas Šalinama: %(removing)s Keičiama: %(modifying)s",
-	"interwiki-modifying-from": "robotas: Keičiama %(from)s į %(modifying)s"
+	"interwiki-removing-modifying": "robotas Šalinama: %(removing)s Keičiama: %(modifying)s"
 }

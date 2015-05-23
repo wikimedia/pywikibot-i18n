@@ -4,7 +4,7 @@
 			"Robin Owain"
 		]
 	},
-	"welcome-welcome": "Croeso!",
 	"welcome-bad_username": "Robot: Yn ychwanegu enwdefnyddiwr sydd angen ei wiro",
-	"welcome-updating": "Robot: Yn ychwanegu at y log"
+	"welcome-updating": "Robot: Yn ychwanegu at y log",
+	"welcome-welcome": "Croeso!"
 }

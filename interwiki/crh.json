@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robot deñiştire: %(modifying)s",
+	"interwiki-adding": "robot ekley: %(adding)s",
 	"interwiki-adding-modifying": "robot ekley: %(adding)s deñiştire: %(modifying)s",
 	"interwiki-adding-removing": "robot ekley: %(adding)s çetleştire: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot ekley: %(adding)s çetleştire: %(removing)s deñiştire: %(modifying)s",
-	"interwiki-adding": "robot ekley: %(adding)s",
+	"interwiki-modifying": "robot deñiştire: %(modifying)s",
 	"interwiki-removing": "robot çetleştire: %(removing)s",
 	"interwiki-removing-modifying": "robot çetleştire: %(removing)s deñiştire: %(modifying)s"
 }

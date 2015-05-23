@@ -5,9 +5,9 @@
 			"Yfdyh000"
 		]
 	},
-	"protect-links": "机器人：保护%(page)s链接的所有页面",
-	"protect-simple": "机器人：保护一个文件列表。",
 	"protect-category": "机器人：保护分类%(cat)s的所有页面",
+	"protect-images": "机器人：保护页面%(page)s的所有图片",
+	"protect-links": "机器人：保护%(page)s链接的所有页面",
 	"protect-ref": "机器人：保护%(page)s提及的所有页面",
-	"protect-images": "机器人：保护页面%(page)s的所有图片"
+	"protect-simple": "机器人：保护一个文件列表。"
 }

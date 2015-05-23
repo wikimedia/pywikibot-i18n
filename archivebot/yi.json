@@ -4,6 +4,6 @@
 			"פוילישער"
 		]
 	},
-	"archivebot-older-than": "עלטער פֿון %(duration)s",
-	"archivebot-archive-full": "(ארכיוו פֿול)"
+	"archivebot-archive-full": "(ארכיוו פֿול)",
+	"archivebot-older-than": "עלטער פֿון %(duration)s"
 }

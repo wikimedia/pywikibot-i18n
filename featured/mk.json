@@ -5,8 +5,8 @@
 			"Rancher"
 		]
 	},
-	"featured-good": "Робот: %(page)s е добра статија",
-	"featured-list": "Робот: %(page)s е избран список",
 	"featured-featured": "Робот: Меѓувики за избрани статии за %(page)s",
-	"featured-former": "Робот: %(page)s е поранешна избрана статија"
+	"featured-former": "Робот: %(page)s е поранешна избрана статија",
+	"featured-good": "Робот: %(page)s е добра статија",
+	"featured-list": "Робот: %(page)s е избран список"
 }

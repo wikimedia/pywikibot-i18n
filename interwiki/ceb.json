@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robot Gimodipikar: %(modifying)s",
+	"interwiki-adding": "robot Gidugang: %(adding)s",
 	"interwiki-adding-modifying": "robot Gidugang: %(adding)s Gimodipikar: %(modifying)s",
 	"interwiki-adding-removing": "robot Gidugang: %(adding)s Gitangtang: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot Gidugang: %(adding)s Gitangtang: %(removing)s Gimodipikar: %(modifying)s",
-	"interwiki-adding": "robot Gidugang: %(adding)s",
+	"interwiki-modifying": "robot Gimodipikar: %(modifying)s",
 	"interwiki-removing": "robot Gitangtang: %(removing)s",
 	"interwiki-removing-modifying": "robot Gitangtang: %(removing)s Gimodipikar: %(modifying)s"
 }

@@ -5,12 +5,12 @@
 			"Muddyb Blast Producer"
 		]
 	},
-	"interwiki-modifying": "Roboti: Imebadilisha: %(modifying)s",
+	"interwiki-adding": "Roboti: Imeongeza %(adding)s",
 	"interwiki-adding-modifying": "Roboti: Imeongeza %(adding)s Imebadilisha %(modifying)s",
 	"interwiki-adding-removing": "Roboti: Imeongeza %(adding)s Imeondoa: %(removing)s",
 	"interwiki-adding-removing-modifying": "Roboti: Imeongeza %(adding)s Imeondoa: %(removing)s Imebadilisha: %(modifying)s",
-	"interwiki-adding": "Roboti: Imeongeza %(adding)s",
+	"interwiki-modifying": "Roboti: Imebadilisha: %(modifying)s",
+	"interwiki-modifying-from": "Boti: Inarbadilisha %(from)s hadi %(modifying)s",
 	"interwiki-removing": "Roboti: Imeondoa: %(removing)s",
-	"interwiki-removing-modifying": "Roboti: Imeondoa %(removing)s Imebadilisha: %(modifying)s",
-	"interwiki-modifying-from": "Boti: Inarbadilisha %(from)s hadi %(modifying)s"
+	"interwiki-removing-modifying": "Roboti: Imeondoa %(removing)s Imebadilisha: %(modifying)s"
 }

@@ -4,8 +4,8 @@
 			"Als-Chlämens"
 		]
 	},
-	"featured-good": "Bötli: %(page)s isch e läsige Artikel",
-	"featured-list": "Bötli: %(page)s isch e bsunders glungeni Lischt",
 	"featured-featured": "Bötli: %(page)s isch e bsundersch glungener Artikel",
-	"featured-former": "Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi"
+	"featured-former": "Bötli: %(page)s isch friener emool en bsundersch glungener Artikel gsi",
+	"featured-good": "Bötli: %(page)s isch e läsige Artikel",
+	"featured-list": "Bötli: %(page)s isch e bsunders glungeni Lischt"
 }

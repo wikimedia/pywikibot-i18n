@@ -5,9 +5,9 @@
 			"Lévi"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Discusiòun nōva",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discusiòun sarêda",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discusiòun mudifichêda",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MESAG' DAL ROBOT"
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discusiòun sarêda",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MESAG' DAL ROBOT",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Discusiòun nōva",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot"
 }

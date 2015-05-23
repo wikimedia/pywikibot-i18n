@@ -4,9 +4,9 @@
 			"Pahles"
 		]
 	},
-	"category_redirect-comment": "Robot veur categoriedoorverwiezing",
-	"category_redirect-change-category": "Robot: doorverwiezing categorie verangerd van [[:%(oldCatLink)s|%(oldCatTitle)s]] nao [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: categoriedoorverwiezingsjabloon toegevoeg",
+	"category_redirect-change-category": "Robot: doorverwiezing categorie verangerd van [[:%(oldCatLink)s|%(oldCatTitle)s]] nao [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Robot veur categoriedoorverwiezing",
 	"category_redirect-edit-request": "In de volgende beveiligde pagina's mote de categorieverwiezinge waere aangepas: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s sjteit in %(oldcat)s, dat is 'n doorverwiezing nao %(newcat)s",
 	"category_redirect-fix-double": "Robot: dobbele doorverwiezing aangepas"

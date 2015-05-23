@@ -5,8 +5,8 @@
 			"Xqt"
 		]
 	},
+	"interwiki-adding": "رلانا روبوٹ: %(adding)s",
 	"interwiki-adding-modifying": "رلانا روبوٹ: %(adding)s پلٹنا: %(modifying)s",
 	"interwiki-adding-removing": "رلانا روبوٹ: %(adding)s ہٹانا: %(removing)s",
-	"interwiki-adding-removing-modifying": "رلانا روبوٹ: %(adding)s ہٹانا: %(removing)s پلٹنا: %(modifying)s",
-	"interwiki-adding": "رلانا روبوٹ: %(adding)s"
+	"interwiki-adding-removing-modifying": "رلانا روبوٹ: %(adding)s ہٹانا: %(removing)s پلٹنا: %(modifying)s"
 }

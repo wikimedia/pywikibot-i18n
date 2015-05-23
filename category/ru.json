@@ -12,16 +12,16 @@
 			"Okras"
 		]
 	},
-	"category-version-history": "Бот: сохранение истории версий из бывшей %(oldcat)s",
-	"category-changing": "Бот изменил: %(oldcat)s на %(newcat)s",
 	"category-adding": "Бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(также в %(alsocat)s)",
-	"category-was-disbanded": "Бот: категория расформирована",
-	"category-strip-cfd-templates": "Бот: Удаление CFD-шаблонов для завершённых действий",
-	"category-replacing": "бот: замена категории %(oldcat)s на %(newcat)s",
+	"category-changing": "Бот изменил: %(oldcat)s на %(newcat)s",
+	"category-listifying": "бот: составляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s",
 	"category-removing": "бот: исключение из %(oldcat)s",
-	"category-was-moved": "бот: категория переименована в [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "бот: перенёс из %s. авторы: %s",
+	"category-replacing": "бот: замена категории %(oldcat)s на %(newcat)s",
 	"category-section-title": "История страницы из бывшей %(oldcat)s",
-	"category-listifying": "бот: составляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s"
+	"category-strip-cfd-templates": "Бот: Удаление CFD-шаблонов для завершённых действий",
+	"category-version-history": "Бот: сохранение истории версий из бывшей %(oldcat)s",
+	"category-was-disbanded": "Бот: категория расформирована",
+	"category-was-moved": "бот: категория переименована в [[:Category:%(newcat)s|%(title)s]]"
 }

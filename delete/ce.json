@@ -4,9 +4,9 @@
 			"Умар"
 		]
 	},
-	"delete-images": "бот: %(page)s агӀонгара массо суьрташ дӀадахар",
-	"delete-referring-pages": "бот: %(page)s юкъа йогӀу массо агӀонаш дӀаяхар",
 	"delete-from-category": "Бот: %(page)s категори чура массо агӀонашна гӀоралла дар",
 	"delete-from-file": "бот: агӀонийн могӀам дӀабаккхар",
-	"delete-linked-pages": "бот: %(page)s юкъа йогӀу массо агӀонаш дӀаяхар"
+	"delete-images": "бот: %(page)s агӀонгара массо суьрташ дӀадахар",
+	"delete-linked-pages": "бот: %(page)s юкъа йогӀу массо агӀонаш дӀаяхар",
+	"delete-referring-pages": "бот: %(page)s юкъа йогӀу массо агӀонаш дӀаяхар"
 }

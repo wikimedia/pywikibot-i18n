@@ -4,9 +4,9 @@
 			"Yona b"
 		]
 	},
-	"protect-links": "בוט:מגן על כל הדפים המקושרים מהדף %(page)s",
-	"protect-simple": "בוט: מגן על רשימת דפים",
 	"protect-category": "בוט: מגן על כל הדפים מהקטגוריה %(cat)s.",
+	"protect-images": "בוט: מגן על כל התמונות בדף %(page)s.",
+	"protect-links": "בוט:מגן על כל הדפים המקושרים מהדף %(page)s",
 	"protect-ref": "בוט: מגן על כל הדפים המקשרים לדף %(page)s.",
-	"protect-images": "בוט: מגן על כל התמונות בדף %(page)s."
+	"protect-simple": "בוט: מגן על רשימת דפים"
 }

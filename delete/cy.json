@@ -4,9 +4,9 @@
 			"Lloffiwr"
 		]
 	},
-	"delete-images": "Robot: Yn dileu pob delwedd ar y dudalen %(page)s",
-	"delete-referring-pages": "Robot: Yn dileu pob tudalen sydd a chysylltiad arno'n arwain at %(page)s",
 	"delete-from-category": "Robot: Yn dileu pob tudalen yn y categori %(page)s",
 	"delete-from-file": "Robot: Yn dileu rhestr o dudalennau.",
-	"delete-linked-pages": "Robot: Yn dileu yr holl dudalennau wedi'u cysylltu o %(page)s"
+	"delete-images": "Robot: Yn dileu pob delwedd ar y dudalen %(page)s",
+	"delete-linked-pages": "Robot: Yn dileu yr holl dudalennau wedi'u cysylltu o %(page)s",
+	"delete-referring-pages": "Robot: Yn dileu pob tudalen sydd a chysylltiad arno'n arwain at %(page)s"
 }

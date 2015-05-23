@@ -6,10 +6,10 @@
 			"Xqt"
 		]
 	},
-	"redirect-fix-double": "Robot : répare une double redirection vers %(to)s",
-	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] vers une page supprimée ou inexistante",
+	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "Robot: Correction des redirections erronées vers une page cible %(to)s déplacée",
+	"redirect-fix-double": "Robot : répare une double redirection vers %(to)s",
 	"redirect-fix-loop": "Robot : répare une boucle de redirection sur %(to)s",
-	"redirect-remove-loop": "Bot: la cible de la redirection forme une boucle de redirection",
-	"redirect-broken-redirect-template": "{{db-r1}}"
+	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] vers une page supprimée ou inexistante",
+	"redirect-remove-loop": "Bot: la cible de la redirection forme une boucle de redirection"
 }

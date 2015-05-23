@@ -5,9 +5,9 @@
 			"Shirayuki"
 		]
 	},
-	"category_redirect-comment": "カテゴリ転送保守ボット",
-	"category_redirect-change-category": "ロボットによる: 転送されているカテゴリ[[:%(oldCatLink)s|%(oldCatTitle)s]]を[[:%(newCatLink)s|%(newCatTitle)s]]へと変更",
 	"category_redirect-add-template": "ロボットによる: 保守のためカテゴリ転送テンプレートを追加",
+	"category_redirect-change-category": "ロボットによる: 転送されているカテゴリ[[:%(oldCatLink)s|%(oldCatTitle)s]]を[[:%(newCatLink)s|%(newCatTitle)s]]へと変更",
+	"category_redirect-comment": "カテゴリ転送保守ボット",
 	"category_redirect-edit-request": "以下の保護されたページは、カテゴリリンクの更新が必要であると検出されました: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)sは、%(newcat)sへのリダイレクトである%(oldcat)sに入っています",
 	"category_redirect-fix-double": "ロボットによる: 二重転送の修正"

@@ -5,15 +5,15 @@
 			"Dragonòt"
 		]
 	},
-	"category-version-history": "Robot: Argistrassion ëd la stòria dle version dla veja %(oldcat)s",
-	"category-changing": "Trigomiro: Cangé%(oldcat)s a %(newcat)s",
 	"category-adding": "Trigomiro: Gionta dla categorìa [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ëdcò an %(alsocat)s)",
-	"category-was-disbanded": "Trigomiro: La categorìa a l'é stàita gavà",
-	"category-replacing": "Trigomiro: Rampiass ëd la categorìa %(oldcat)s con %(newcat)s",
+	"category-changing": "Trigomiro: Cangé%(oldcat)s a %(newcat)s",
+	"category-listifying": "Trigomiro: listé da %(fromcat)s ({{PLURAL:%(num)d|1 vos|%(num)d vos}})",
 	"category-removing": "Trigomiro: Gavé da %(oldcat)s",
-	"category-was-moved": "Trigomiro: Le categorìe a son stàite tramudà a [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Trigomiro: Tramudà da %s. Autor: %s",
+	"category-replacing": "Trigomiro: Rampiass ëd la categorìa %(oldcat)s con %(newcat)s",
 	"category-section-title": "Stòria ëd pàgina dla veja %(oldcat)s",
-	"category-listifying": "Trigomiro: listé da %(fromcat)s ({{PLURAL:%(num)d|1 vos|%(num)d vos}})"
+	"category-version-history": "Robot: Argistrassion ëd la stòria dle version dla veja %(oldcat)s",
+	"category-was-disbanded": "Trigomiro: La categorìa a l'é stàita gavà",
+	"category-was-moved": "Trigomiro: Le categorìe a son stàite tramudà a [[:Category:%(newcat)s|%(title)s]]"
 }

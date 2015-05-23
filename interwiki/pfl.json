@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Bot: Gä'ännat: %(modifying)s",
+	"interwiki-adding": "Bot: Aigfiecht: %(adding)s",
 	"interwiki-adding-modifying": "Bot: Aigfiecht: %(adding)s Gä'ännat: %(modifying)s",
 	"interwiki-adding-removing": "Bot: Aigfiecht: %(adding)s Rausgenumme: %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot: Aigfiecht: %(adding)s Rausgenumme: %(removing)s Gä'ännat: %(modifying)s",
-	"interwiki-adding": "Bot: Aigfiecht: %(adding)s",
+	"interwiki-modifying": "Bot: Gä'ännat: %(modifying)s",
 	"interwiki-removing": "Bot: Rausgenumme: %(removing)s",
 	"interwiki-removing-modifying": "Bot: Rausgenumme: %(removing)s Gä'ännat: %(modifying)s"
 }

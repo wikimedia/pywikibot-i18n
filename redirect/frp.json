@@ -5,7 +5,7 @@
 		]
 	},
 	"redirect-fix-double": "Robot : rèpâre na redirèccion dobla de vers %(to)s",
-	"redirect-remove-broken": "Robot : redirèccion de vers na pâge suprimâye ou ben pas ègzistenta",
 	"redirect-fix-loop": "Robot : rèpâre na boclla de redirèccion a %(to)s",
+	"redirect-remove-broken": "Robot : redirèccion de vers na pâge suprimâye ou ben pas ègzistenta",
 	"redirect-remove-loop": "Robot : la ciba de la redirèccion fôrme na boclla de redirèccion"
 }

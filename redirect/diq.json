@@ -6,10 +6,10 @@
 			"Mirzali"
 		]
 	},
-	"redirect-fix-double": "Boti Tespitê hetanayışê dıleti heta %(to)s",
-	"redirect-remove-broken": "Robot: Yew pela ke esteriya ya zi çıniya, aye ser çarne",
+	"redirect-broken-redirect-template": "{{bestere|m1}}",
 	"redirect-fix-broken-moved": "Bot: Hetenayışe xırabi hedefe pela %(to)s vurneno",
+	"redirect-fix-double": "Boti Tespitê hetanayışê dıleti heta %(to)s",
 	"redirect-fix-loop": "Boti %(to)s rê hetanayışo dılet deke",
-	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt.",
-	"redirect-broken-redirect-template": "{{bestere|m1}}"
+	"redirect-remove-broken": "Robot: Yew pela ke esteriya ya zi çıniya, aye ser çarne",
+	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt."
 }

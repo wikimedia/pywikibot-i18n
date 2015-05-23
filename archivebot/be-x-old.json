@@ -6,9 +6,9 @@
 			"Renessaince"
 		]
 	},
-	"archivebot-older-than": "старэйшае за %(duration)s",
-	"archivebot-page-summary": "Робат: Архівацыя %(count)d {{PLURAL:%(count)d|тэмы|тэмаў}} (%(why)s) для %(archives)s.",
-	"archivebot-archiveheader": "{{архіў абмеркаваньня}}",
 	"archivebot-archive-full": "(ПОЎНЫ АРХІЎ)",
-	"archivebot-archive-summary": "Робат: Архівацыя %(count)d {{PLURAL:%(count)d|галіны|галінаў}} з [[%(from)s]]."
+	"archivebot-archive-summary": "Робат: Архівацыя %(count)d {{PLURAL:%(count)d|галіны|галінаў}} з [[%(from)s]].",
+	"archivebot-archiveheader": "{{архіў абмеркаваньня}}",
+	"archivebot-older-than": "старэйшае за %(duration)s",
+	"archivebot-page-summary": "Робат: Архівацыя %(count)d {{PLURAL:%(count)d|тэмы|тэмаў}} (%(why)s) для %(archives)s."
 }

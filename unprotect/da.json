@@ -5,9 +5,9 @@
 			"MGA73"
 		]
 	},
-	"unprotect-links": "Robot: Fjerner beskyttelsen fra alle sider som henvises til fra %(page)s",
-	"unprotect-simple": "Robot: Fjerner beskyttelsen fra en liste af filer.",
 	"unprotect-category": "Robot: Fjerner beskyttelsen fra alle sider i kategorien %(cat)s",
+	"unprotect-images": "Robot: Fjerner beskyttelsen fra alle billeder på siden %(page)s",
+	"unprotect-links": "Robot: Fjerner beskyttelsen fra alle sider som henvises til fra %(page)s",
 	"unprotect-ref": "Robot: Fjerner beskyttelsen fra alle sider som henviser til %(page)s",
-	"unprotect-images": "Robot: Fjerner beskyttelsen fra alle billeder på siden %(page)s"
+	"unprotect-simple": "Robot: Fjerner beskyttelsen fra en liste af filer."
 }

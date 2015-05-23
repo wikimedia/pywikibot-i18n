@@ -4,12 +4,12 @@
 			"Sp5uhe"
 		]
 	},
-	"interwiki-modifying": "Robot poprawił %(modifying)s",
+	"interwiki-adding": "Robot dodał %(adding)s",
 	"interwiki-adding-modifying": "Robot dodał %(adding)s i poprawił %(modifying)s",
 	"interwiki-adding-removing": "Robot dodał %(adding)s i usunął %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot dodał %(adding)s, usunął %(removing)s i poprawił %(modifying)s",
-	"interwiki-adding": "Robot dodał %(adding)s",
+	"interwiki-modifying": "Robot poprawił %(modifying)s",
+	"interwiki-modifying-from": "Robot przeniósł strony z %(from)s do %(modifying)s",
 	"interwiki-removing": "Robot usunął %(removing)s",
-	"interwiki-removing-modifying": "Robot usunął %(removing)s i poprawił %(modifying)s",
-	"interwiki-modifying-from": "Robot przeniósł strony z %(from)s do %(modifying)s"
+	"interwiki-removing-modifying": "Robot usunął %(removing)s i poprawił %(modifying)s"
 }

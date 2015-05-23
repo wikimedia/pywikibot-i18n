@@ -6,15 +6,15 @@
 			"Ezagren"
 		]
 	},
-	"category-version-history": "Robot: Manyimpan raralatan bahari bakas %(oldcat)s",
-	"category-changing": "Bot: Maubah %(oldcat)s manjadi %(newcat)s",
 	"category-adding": "Bot: Manambah tumbung [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(jua dalam %(alsocat)s)",
-	"category-was-disbanded": "Bot: Tumbung dipacah",
-	"category-replacing": "Bot: Mangganti tumbung %(oldcat)s lawan %(newcat)s",
+	"category-changing": "Bot: Maubah %(oldcat)s manjadi %(newcat)s",
+	"category-listifying": "Bot: Maulah daptar matan %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Mahapus matan %(oldcat)s",
-	"category-was-moved": "Bot: Tumbung dipindahakan ka [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Bot: Mamindahakan matan %s. Pamakai: %s",
+	"category-replacing": "Bot: Mangganti tumbung %(oldcat)s lawan %(newcat)s",
 	"category-section-title": "Raralatan bahari tungkaran bakas %(oldcat)s",
-	"category-listifying": "Bot: Maulah daptar matan %(fromcat)s (%(num)d entri)"
+	"category-version-history": "Robot: Manyimpan raralatan bahari bakas %(oldcat)s",
+	"category-was-disbanded": "Bot: Tumbung dipacah",
+	"category-was-moved": "Bot: Tumbung dipindahakan ka [[:Category:%(newcat)s|%(title)s]]"
 }

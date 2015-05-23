@@ -4,9 +4,9 @@
 			"Fitoschido"
 		]
 	},
-	"delete-images": "Bot: borrado de todas las imágenes en «%(page)s»",
-	"delete-referring-pages": "Bot: borrado de todas las páginas que enlazan hacia «%(page)s»",
 	"delete-from-category": "Bot: borrado de todas las páginas de la categoría «%(page)s»",
 	"delete-from-file": "Bot: borrado de una lista de páginas.",
-	"delete-linked-pages": "Bot: borrado de todas las páginas enlazadas desde «%(page)s»"
+	"delete-images": "Bot: borrado de todas las imágenes en «%(page)s»",
+	"delete-linked-pages": "Bot: borrado de todas las páginas enlazadas desde «%(page)s»",
+	"delete-referring-pages": "Bot: borrado de todas las páginas que enlazan hacia «%(page)s»"
 }

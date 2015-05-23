@@ -4,7 +4,7 @@
 			"Nemo bis"
 		]
 	},
-	"welcome-welcome": "Benvenuto/a!",
 	"welcome-bad_username": "Bot: Aggiunto utente da controllare",
-	"welcome-updating": "Bot: Aggiorno il log"
+	"welcome-updating": "Bot: Aggiorno il log",
+	"welcome-welcome": "Benvenuto/a!"
 }

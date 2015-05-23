@@ -4,6 +4,6 @@
 			"Siddhartha Ghai"
 		]
 	},
-	"template-removing": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} हटा रहा है: %(list)s",
-	"template-changing": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} बदल रहा है: %(list)s"
+	"template-changing": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} बदल रहा है: %(list)s",
+	"template-removing": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} हटा रहा है: %(list)s"
 }

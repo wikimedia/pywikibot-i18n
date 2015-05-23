@@ -4,12 +4,12 @@
 			"Ильнар"
 		]
 	},
-	"interwiki-modifying": "робот үзгәртте: %(modifying)s",
+	"interwiki-adding": "робот өстәде: %(adding)s",
 	"interwiki-adding-modifying": "робот өстәде: %(adding)s үзгәртте: %(modifying)s",
 	"interwiki-adding-removing": "робот өстәде: %(adding)s бетерде: %(removing)s",
 	"interwiki-adding-removing-modifying": "робот өстәде: %(adding)s бетерде: %(removing)s иүзгәртте: %(modifying)s",
-	"interwiki-adding": "робот өстәде: %(adding)s",
+	"interwiki-modifying": "робот үзгәртте: %(modifying)s",
+	"interwiki-modifying-from": "Робот: %(from)s-ны %(modifying)s-ка үзгәртте",
 	"interwiki-removing": "робот бетерде: %(removing)s",
-	"interwiki-removing-modifying": "робот бетерде: %(removing)s үзгәртте: %(modifying)s",
-	"interwiki-modifying-from": "Робот: %(from)s-ны %(modifying)s-ка үзгәртте"
+	"interwiki-removing-modifying": "робот бетерде: %(removing)s үзгәртте: %(modifying)s"
 }

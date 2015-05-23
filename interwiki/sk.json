@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robot Zmenil: %(modifying)s",
+	"interwiki-adding": "robot Pridal: %(adding)s",
 	"interwiki-adding-modifying": "robot Pridal: %(adding)s Zmenil: %(modifying)s",
 	"interwiki-adding-removing": "robot Pridal: %(adding)s Odobral: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot Pridal: %(adding)s Odobral: %(removing)s Zmenil: %(modifying)s",
-	"interwiki-adding": "robot Pridal: %(adding)s",
+	"interwiki-modifying": "robot Zmenil: %(modifying)s",
+	"interwiki-modifying-from": "Robot: Zmena %(from)s na %(modifying)s",
 	"interwiki-removing": "robot Odobral: %(removing)s",
-	"interwiki-removing-modifying": "robot Odobral: %(removing)s Zmenil: %(modifying)s",
-	"interwiki-modifying-from": "Robot: Zmena %(from)s na %(modifying)s"
+	"interwiki-removing-modifying": "robot Odobral: %(removing)s Zmenil: %(modifying)s"
 }

@@ -4,11 +4,11 @@
 			"Als-Holder"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Bot-unterstitzti Wyterleitigsuflesig: %(from)s - Link uusegnuu",
-	"solve_disambiguation-redirect-resolved": "Bot-unterstitzti Wyterleitigsuflesig: %(from)s - Link uustuscht dur %(to)s",
+	"solve_disambiguation-adding-dn-template": "Bot-unterstitzti Begriffsklärig: %(from)s - brucht Ufmerksamkeit vun eme Expert",
+	"solve_disambiguation-links-removed": "Bot-unterstitzti Begriffsklärig: %(from)s - Link uusegnuu",
 	"solve_disambiguation-links-resolved": "Bot-unterstitzti Begriffsklärig: %(from)s - Link uustuscht dur %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Bot-unterstitzti Begriffsklärig: %(from)s - brucht Ufmerksamkeit vun eme Expert",
-	"solve_disambiguation-adding-dn-template": "Bot-unterstitzti Begriffsklärig: %(from)s - brucht Ufmerksamkeit vun eme Expert",
-	"solve_disambiguation-unknown-page": "(nit bekannt)",
-	"solve_disambiguation-links-removed": "Bot-unterstitzti Begriffsklärig: %(from)s - Link uusegnuu"
+	"solve_disambiguation-redirect-removed": "Bot-unterstitzti Wyterleitigsuflesig: %(from)s - Link uusegnuu",
+	"solve_disambiguation-redirect-resolved": "Bot-unterstitzti Wyterleitigsuflesig: %(from)s - Link uustuscht dur %(to)s",
+	"solve_disambiguation-unknown-page": "(nit bekannt)"
 }

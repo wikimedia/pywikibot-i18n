@@ -4,5 +4,6 @@
 			"Bjankuloski06"
 		]
 	},
-	"noreferences-add-tag": "Робот: Додава отсутна ознака <references />"
+	"noreferences-add-tag": "Робот: Додава отсутна ознака <references />",
+	"noreferences-fix-tag": "Бот: Поправка на неважечка синтакса на ознаката <references />"
 }

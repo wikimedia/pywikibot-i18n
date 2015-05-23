@@ -4,12 +4,12 @@
 			"Snævar"
 		]
 	},
-	"interwiki-modifying": "Vélmenni: Breyti %(modifying)s",
+	"interwiki-adding": "Vélmenni: Bæti við %(adding)s",
 	"interwiki-adding-modifying": "Vélmenni: Bæti við %(adding)s; breyti: %(modifying)s",
 	"interwiki-adding-removing": "Vélmenni: Bæti við %(adding)s; fjarlægi: %(removing)s",
 	"interwiki-adding-removing-modifying": "Vélmenni: Bæti við %(adding)s; fjarlægi: %(removing)s; breyti: %(modifying)s",
-	"interwiki-adding": "Vélmenni: Bæti við %(adding)s",
+	"interwiki-modifying": "Vélmenni: Breyti %(modifying)s",
+	"interwiki-modifying-from": "Vélmenni: Færi %(from)s yfir í %(modifying)s",
 	"interwiki-removing": "Vélmenni: Fjarlægi %(removing)s",
-	"interwiki-removing-modifying": "Vélmenni: Fjarlægi %(removing)s; breyti: %(modifying)s",
-	"interwiki-modifying-from": "Vélmenni: Færi %(from)s yfir í %(modifying)s"
+	"interwiki-removing-modifying": "Vélmenni: Fjarlægi %(removing)s; breyti: %(modifying)s"
 }

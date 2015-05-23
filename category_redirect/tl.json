@@ -4,9 +4,9 @@
 			"AnakngAraw"
 		]
 	},
-	"category_redirect-comment": "Bot na tagapagpanatili ng pagpapapunta sa ibang kategorya",
-	"category_redirect-change-category": "Robot: baguhin ang kategoryang pinapunta sa iba [[:%(oldCatLink)s| %(oldCatTitle)s|%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: nagdaragdag ng suleras na papunta sa ibang kategorya para sa pagpapanatili",
+	"category_redirect-change-category": "Robot: baguhin ang kategoryang pinapunta sa iba [[:%(oldCatLink)s| %(oldCatTitle)s|%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot na tagapagpanatili ng pagpapapunta sa ibang kategorya",
 	"category_redirect-edit-request": "Ang sumusunod na nakaprutektang mga pahina ay napansing kailangan ng mga pagsasapanahon sa mga kawing na pangkategorya: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ay nasa loob ng %(oldcat)s, na isang pagpapapunta sa %(newcat)s",
 	"category_redirect-fix-double": "Bot: kinukumpuni ang nagkadalawang pagpapapunta sa iba"

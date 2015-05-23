@@ -4,9 +4,9 @@
 			"E THP"
 		]
 	},
-	"category_redirect-comment": "بؤلمه ایستیقامتلندیریلمه وظیفه‌‌لی بوت",
-	"category_redirect-change-category": "بوت: ایستیقامتلندیریلن [[:%(oldCatLink)s|%(oldCatTitle)s]] ب[[:%(newCatLink)s|%(newCatTitle)s]] حالینا چئویریر بؤلمه‌سینی",
 	"category_redirect-add-template": "بوت: ساخلاماق اوچون کاتئقوریا ایستیقامتلندیرمه شابلونو علاوه اولونور",
+	"category_redirect-change-category": "بوت: ایستیقامتلندیریلن [[:%(oldCatLink)s|%(oldCatTitle)s]] ب[[:%(newCatLink)s|%(newCatTitle)s]] حالینا چئویریر بؤلمه‌سینی",
+	"category_redirect-comment": "بؤلمه ایستیقامتلندیریلمه وظیفه‌‌لی بوت",
 	"category_redirect-edit-request": "موحافیزه آلتینداکی بو صحیفه‌لردکی کاتئقوریا باغلانتی‌لاری‌نین یئنیلمه گئرئکتیردیغی بل‌لی اولموش‌دور: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s، %(newcat)sده ایستیقامتلندیریلن %(oldcat)sعده",
 	"category_redirect-fix-double": "بوت: ایکی‌قات ایستیقامتلندیرمه دوزلدیریلیر"

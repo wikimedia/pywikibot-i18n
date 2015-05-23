@@ -6,6 +6,6 @@
 			"Shanmugamp7"
 		]
 	},
-	"archivebot-older-than": "%(duration)s முந்தையது",
-	"archivebot-archive-full": "(காப்பகம் நிரம்பியுள்ளது)"
+	"archivebot-archive-full": "(காப்பகம் நிரம்பியுள்ளது)",
+	"archivebot-older-than": "%(duration)s முந்தையது"
 }

@@ -6,9 +6,9 @@
 			"Harriv"
 		]
 	},
-	"archivebot-older-than": "vanhempi kuin %(duration)s",
-	"archivebot-page-summary": "Botti arkistoi %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} (%(why)s) arkistoon %(archives)s.",
-	"archivebot-archiveheader": "{{Arkisto}}",
 	"archivebot-archive-full": "(ARKISTO TÄYNNÄ)",
-	"archivebot-archive-summary": "Arkistoidaan %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} sivulta [[%(from)s]]."
+	"archivebot-archive-summary": "Arkistoidaan %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} sivulta [[%(from)s]].",
+	"archivebot-archiveheader": "{{Arkisto}}",
+	"archivebot-older-than": "vanhempi kuin %(duration)s",
+	"archivebot-page-summary": "Botti arkistoi %(count)d {{PLURAL:%(count)d|keskustelu|keskustelua}} (%(why)s) arkistoon %(archives)s."
 }

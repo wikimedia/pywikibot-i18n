@@ -5,8 +5,8 @@
 			"Emaus"
 		]
 	},
-	"featured-good": "Робот: добра стаття %(page)s",
-	"featured-list": "Бот: %(page)s вибраний список",
 	"featured-featured": "Робот: вибрана стаття %(page)s",
-	"featured-former": "Робот: %(page)s є колишньою вибраною статтею"
+	"featured-former": "Робот: %(page)s є колишньою вибраною статтею",
+	"featured-good": "Робот: добра стаття %(page)s",
+	"featured-list": "Бот: %(page)s вибраний список"
 }

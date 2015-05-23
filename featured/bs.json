@@ -4,8 +4,8 @@
 			"Edinwiki"
 		]
 	},
-	"featured-good": "Bot: %(page)s je dobar članak.",
-	"featured-list": "Bot: %(page)s je istaknuti spisak.",
 	"featured-featured": "Bot: Interwiki za izabrane članke za %(page)s",
-	"featured-former": "Bot: %(page)s je bivši izabrani članak."
+	"featured-former": "Bot: %(page)s je bivši izabrani članak.",
+	"featured-good": "Bot: %(page)s je dobar članak.",
+	"featured-list": "Bot: %(page)s je istaknuti spisak."
 }

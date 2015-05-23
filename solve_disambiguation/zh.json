@@ -5,11 +5,11 @@
 			"Liuxinyu970226"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "机器人辅助消歧义：%(from)s - 移除链接",
-	"solve_disambiguation-redirect-resolved": "机器人辅助消歧义：%(from)s - 链接改为%(to)s",
+	"solve_disambiguation-adding-dn-template": "机器人辅助消歧义：%(from)s - 已标记为需要专家关注",
+	"solve_disambiguation-links-removed": "机器人辅助消歧义：%(from)s - 移除链接",
 	"solve_disambiguation-links-resolved": "机器人辅助消歧义：%(from)s - 链接改为%(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "机器人辅助消歧义：%(from)s - 已标记为需要专家关注",
-	"solve_disambiguation-adding-dn-template": "机器人辅助消歧义：%(from)s - 已标记为需要专家关注",
-	"solve_disambiguation-unknown-page": "（未知）",
-	"solve_disambiguation-links-removed": "机器人辅助消歧义：%(from)s - 移除链接"
+	"solve_disambiguation-redirect-removed": "机器人辅助消歧义：%(from)s - 移除链接",
+	"solve_disambiguation-redirect-resolved": "机器人辅助消歧义：%(from)s - 链接改为%(to)s",
+	"solve_disambiguation-unknown-page": "（未知）"
 }

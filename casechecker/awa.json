@@ -4,7 +4,7 @@
 			"1AnuraagPandey"
 		]
 	},
-	"casechecker-replacement-summary": "बॉट: केस (case) प्रतिस्थापन :",
+	"casechecker-rename": "बोट: मिश्रित वर्ण पूनर्नामाङ्कन",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-rename": "बोट: मिश्रित वर्ण पूनर्नामाङ्कन"
+	"casechecker-replacement-summary": "बॉट: केस (case) प्रतिस्थापन :"
 }

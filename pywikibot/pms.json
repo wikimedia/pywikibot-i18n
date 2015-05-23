@@ -5,11 +5,11 @@
 			"Dragonòt"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Për piasì anseriss ël nòm ëd l'archivi XML dël dump:",
-	"pywikibot-enter-page-processing": "Che pàgina a ventrìa traté?",
+	"pywikibot-enter-category-name": "Për piasì, ch'a anserissa ël nòm ëd la categorìa:",
 	"pywikibot-enter-file-links-processing": "Liure a la pàgina d'archivi ch'a ventrìa traté?",
+	"pywikibot-enter-finished-browser": "Ch'a sgnaca A cap quand a l'ha finì ant ël navigador.",
 	"pywikibot-enter-namespace-number": "Për piasì anseriss në spassi nominal con sò nùmer:",
 	"pywikibot-enter-new-text": "Për piasì, ch'a anserissa ël test neuv:",
-	"pywikibot-enter-category-name": "Për piasì, ch'a anserissa ël nòm ëd la categorìa:",
-	"pywikibot-enter-finished-browser": "Ch'a sgnaca A cap quand a l'ha finì ant ël navigador."
+	"pywikibot-enter-page-processing": "Che pàgina a ventrìa traté?",
+	"pywikibot-enter-xml-filename": "Për piasì anseriss ël nòm ëd l'archivi XML dël dump:"
 }

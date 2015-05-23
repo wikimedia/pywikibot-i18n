@@ -5,12 +5,12 @@
 			"MGA73"
 		]
 	},
-	"interwiki-modifying": "Robot: Ændrer %(modifying)s",
+	"interwiki-adding": "Robot: Tilføjer %(adding)s",
 	"interwiki-adding-modifying": "Robot: Tilføjer %(adding)s og ændrer %(modifying)s",
 	"interwiki-adding-removing": "Robot: Tilføjer %(adding)s og fjerner %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot: Tilføjer %(adding)s, fjerner %(removing)s og ændrer %(modifying)s",
-	"interwiki-adding": "Robot: Tilføjer %(adding)s",
+	"interwiki-modifying": "Robot: Ændrer %(modifying)s",
+	"interwiki-modifying-from": "Robot: Ændrer %(from)s til %(modifying)s",
 	"interwiki-removing": "Robot: Fjerner %(removing)s",
-	"interwiki-removing-modifying": "Robot: Fjerner %(removing)s og ændrer %(modifying)s",
-	"interwiki-modifying-from": "Robot: Ændrer %(from)s til %(modifying)s"
+	"interwiki-removing-modifying": "Robot: Fjerner %(removing)s og ændrer %(modifying)s"
 }

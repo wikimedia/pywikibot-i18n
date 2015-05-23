@@ -4,12 +4,12 @@
 			"פוילישער"
 		]
 	},
-	"interwiki-modifying": "באט: ענדערט %(modifying)s",
+	"interwiki-adding": "באט: לייגט צו %(adding)s",
 	"interwiki-adding-modifying": "באט: לייגט צו %(adding)s ענדערט: %(modifying)s",
 	"interwiki-adding-removing": "באט: לייגט צו %(adding)s נעמט אראפ: %(removing)s",
 	"interwiki-adding-removing-modifying": "באט: לייגט צו %(adding)s; נעמט אראפ %(removing)s; ענדערט %(modifying)s",
-	"interwiki-adding": "באט: לייגט צו %(adding)s",
+	"interwiki-modifying": "באט: ענדערט %(modifying)s",
+	"interwiki-modifying-from": "ראָבאָט: ענדערן %(from)s צו %(modifying)s",
 	"interwiki-removing": "באט: נעמט אראפ %(removing)s",
-	"interwiki-removing-modifying": "באט אראפגענומען: %(removing)s געענדערט: %(modifying)s",
-	"interwiki-modifying-from": "ראָבאָט: ענדערן %(from)s צו %(modifying)s"
+	"interwiki-removing-modifying": "באט אראפגענומען: %(removing)s געענדערט: %(modifying)s"
 }

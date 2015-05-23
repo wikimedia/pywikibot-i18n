@@ -5,14 +5,14 @@
 			"Przemub"
 		]
 	},
-	"category-version-history": "Bot: Spamjyntańy gyszichty starych %(oldcat)s",
-	"category-changing": "Robot: Pomjyńo %(oldcat)s do %(newcat)s",
 	"category-adding": "Bot dodowo: category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tyż we %(alsocat)s)",
-	"category-was-disbanded": "Bot: Wyciepańy kategoryje",
-	"category-replacing": "Bot: Pomjyńo kategoryja %(oldcat)s ze %(newcat)s",
+	"category-changing": "Robot: Pomjyńo %(oldcat)s do %(newcat)s",
+	"category-listifying": "Robot tworzi lista kategoryji %(fromcat)s ({{PLURAL:%(num)d|1 zajta|%(num)d zajt}})",
 	"category-removing": "Robot wyciepuje ze %(oldcat)s",
-	"category-was-moved": "Robot przećepoł kategoryjo do [[:Category:%(newcat)s|%(title)s]]",
+	"category-replacing": "Bot: Pomjyńo kategoryja %(oldcat)s ze %(newcat)s",
 	"category-section-title": "Gyszichta poprzednij zajty %(oldcat)s",
-	"category-listifying": "Robot tworzi lista kategoryji %(fromcat)s ({{PLURAL:%(num)d|1 zajta|%(num)d zajt}})"
+	"category-version-history": "Bot: Spamjyntańy gyszichty starych %(oldcat)s",
+	"category-was-disbanded": "Bot: Wyciepańy kategoryje",
+	"category-was-moved": "Robot przećepoł kategoryjo do [[:Category:%(newcat)s|%(title)s]]"
 }

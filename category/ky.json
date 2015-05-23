@@ -5,10 +5,10 @@
 			"Викиней"
 		]
 	},
-	"category-changing": "Бот:%(oldcat)s  %(newcat)s өзгөрттү",
 	"category-adding": "робот: кошту category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(%(alsocat)s'да дагы)",
-	"category-was-disbanded": "Бот: категория жоюлду",
+	"category-changing": "Бот:%(oldcat)s  %(newcat)s өзгөрттү",
+	"category-renamed": "Бот: %s дан өзгөртүлдү. Авторлор: %s",
 	"category-replacing": "Бот: %(oldcat)s категориясын %(newcat)s'га алмаштыруу",
-	"category-renamed": "Бот: %s дан өзгөртүлдү. Авторлор: %s"
+	"category-was-disbanded": "Бот: категория жоюлду"
 }

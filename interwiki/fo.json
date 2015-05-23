@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "bottur broytur: %(modifying)s",
+	"interwiki-adding": "bottur leggur aftrat: %(adding)s",
 	"interwiki-adding-modifying": "bottur leggur aftrat: %(adding)s broytur: %(modifying)s",
 	"interwiki-adding-removing": "bottur leggur aftrat: %(adding)s strikar: %(removing)s",
 	"interwiki-adding-removing-modifying": "bottur leggur aftrat: %(adding)s strikar: %(removing)s broytur: %(modifying)s",
-	"interwiki-adding": "bottur leggur aftrat: %(adding)s",
+	"interwiki-modifying": "bottur broytur: %(modifying)s",
+	"interwiki-modifying-from": "Bottur: Broytir %(from)s til %(modifying)s",
 	"interwiki-removing": "bottur strikar: %(removing)s",
-	"interwiki-removing-modifying": "bottur strikar: %(removing)s broytur: %(modifying)s",
-	"interwiki-modifying-from": "Bottur: Broytir %(from)s til %(modifying)s"
+	"interwiki-removing-modifying": "bottur strikar: %(removing)s broytur: %(modifying)s"
 }

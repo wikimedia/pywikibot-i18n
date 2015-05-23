@@ -4,14 +4,14 @@
 			"Demmy"
 		]
 	},
-	"category-changing": "Bot: Únṣeàyípadà %(oldcat)s sí %(newcat)s",
 	"category-adding": "Bot: Ìfikún ẹ̀ka [[Category:%(newcat)s]]",
 	"category-also-in": "(bákannáà nínú %(alsocat)s)",
-	"category-was-disbanded": "Bot:Ẹ̀ka kò sí mọ́",
-	"category-replacing": "Bot: Únrọ́pò ẹ̀ka %(oldcat)s pẹ̀lú %(newcat)s",
+	"category-changing": "Bot: Únṣeàyípadà %(oldcat)s sí %(newcat)s",
+	"category-listifying": "Bot: Únṣeàtòjọ láti %(fromcat)s ({{PLURAL:%(num)d|ìkọsínú 1|ìkọsínú %(num)d}})",
 	"category-removing": "Bot: Únyọkúrò láti inú %(oldcat)s",
-	"category-was-moved": "Bot: Ẹ̀ka ti jẹ́ yíyípòpadà sí [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Robot: Jẹ́ yíyúpòpadà láti %s. Olùdá: %s",
+	"category-replacing": "Bot: Únrọ́pò ẹ̀ka %(oldcat)s pẹ̀lú %(newcat)s",
 	"category-section-title": "Ojúewé ìtàn %(oldcat)s tẹ́lẹ̀",
-	"category-listifying": "Bot: Únṣeàtòjọ láti %(fromcat)s ({{PLURAL:%(num)d|ìkọsínú 1|ìkọsínú %(num)d}})"
+	"category-was-disbanded": "Bot:Ẹ̀ka kò sí mọ́",
+	"category-was-moved": "Bot: Ẹ̀ka ti jẹ́ yíyípòpadà sí [[:Category:%(newcat)s|%(title)s]]"
 }

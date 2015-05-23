@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "ربوت هکردن: %(modifying)s",
+	"interwiki-adding": "ربوت بیشتن: %(adding)s",
 	"interwiki-adding-modifying": "ربوت بیشتن: %(adding)s هکردن: %(modifying)s",
 	"interwiki-adding-removing": "ربوت بیشتن: %(adding)s بیتن: %(removing)s",
 	"interwiki-adding-removing-modifying": "ربوت بیشتن: %(adding)s بیتن: %(removing)s هکردن: %(modifying)s",
-	"interwiki-adding": "ربوت بیشتن: %(adding)s",
+	"interwiki-modifying": "ربوت هکردن: %(modifying)s",
 	"interwiki-removing": "ربوت بیتن: %(removing)s",
 	"interwiki-removing-modifying": "ربوت بیتن: %(removing)s هکردن: %(modifying)s"
 }

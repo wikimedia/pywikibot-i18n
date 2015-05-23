@@ -5,9 +5,9 @@
 			"Linedwell"
 		]
 	},
-	"delete-images": "Robot : Supprime tous les fichiers sur la page %(page)s",
-	"delete-referring-pages": "Robot : Supprime toutes les pages référant à %(page)s",
 	"delete-from-category": "Robot : Supprime toutes les pages de la catégorie %(page)s",
 	"delete-from-file": "Robot : Suppression d’une liste de pages.",
-	"delete-linked-pages": "Robot : Supprime toutes les pages liées depuis %(page)s"
+	"delete-images": "Robot : Supprime tous les fichiers sur la page %(page)s",
+	"delete-linked-pages": "Robot : Supprime toutes les pages liées depuis %(page)s",
+	"delete-referring-pages": "Robot : Supprime toutes les pages référant à %(page)s"
 }

@@ -4,11 +4,11 @@
 			"Renan"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Disambiguition auxiliat per machine: %(from)s - Catenun(es) removet",
-	"solve_disambiguation-redirect-resolved": "Disambiguition auxiliat per machine: %(from)s - Catenun(es) changet por %(to)s",
+	"solve_disambiguation-adding-dn-template": "Disambiguiton auxiliat per machine: %(from)s - Marcat quam necessitant de atention special",
+	"solve_disambiguation-links-removed": "Disambiguiton auxiliat per machine: %(from)s - Catenun(es) removet.",
 	"solve_disambiguation-links-resolved": "Disambiguition auxiliat per machine: %(from)s - Catenun(es) changet por %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Disambiguition auxiliat per machine: %(from)s - Marcat quam necessitant de atention special",
-	"solve_disambiguation-adding-dn-template": "Disambiguiton auxiliat per machine: %(from)s - Marcat quam necessitant de atention special",
-	"solve_disambiguation-unknown-page": "(desconosset)",
-	"solve_disambiguation-links-removed": "Disambiguiton auxiliat per machine: %(from)s - Catenun(es) removet."
+	"solve_disambiguation-redirect-removed": "Disambiguition auxiliat per machine: %(from)s - Catenun(es) removet",
+	"solve_disambiguation-redirect-resolved": "Disambiguition auxiliat per machine: %(from)s - Catenun(es) changet por %(to)s",
+	"solve_disambiguation-unknown-page": "(desconosset)"
 }

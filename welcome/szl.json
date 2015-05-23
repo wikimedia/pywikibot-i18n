@@ -4,7 +4,7 @@
 			"Przemub"
 		]
 	},
-	"welcome-welcome": "Witej!",
 	"welcome-bad_username": "Robot: Wkludzenie miana kere trza sprawdzić",
-	"welcome-updating": "Robot: Rejer"
+	"welcome-updating": "Robot: Rejer",
+	"welcome-welcome": "Witej!"
 }

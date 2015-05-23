@@ -5,12 +5,12 @@
 			"Wizardist"
 		]
 	},
-	"interwiki-modifying": "робат зьмяніў: %(modifying)s",
+	"interwiki-adding": "робат дадаў: %(adding)s",
 	"interwiki-adding-modifying": "робат дадаў: %(adding)s зьмяніў: %(modifying)s",
 	"interwiki-adding-removing": "робат дадаў: %(adding)s выдаліў: %(removing)s",
 	"interwiki-adding-removing-modifying": "робат дадаў: %(adding)s выдаліў: %(removing)s зьмяніў: %(modifying)s",
-	"interwiki-adding": "робат дадаў: %(adding)s",
+	"interwiki-modifying": "робат зьмяніў: %(modifying)s",
+	"interwiki-modifying-from": "робат зьмяніў %(from)s на %(modifying)s",
 	"interwiki-removing": "робат выдаліў: %(removing)s",
-	"interwiki-removing-modifying": "робат выдаліў: %(removing)s зьмяніў: %(modifying)s",
-	"interwiki-modifying-from": "робат зьмяніў %(from)s на %(modifying)s"
+	"interwiki-removing-modifying": "робат выдаліў: %(removing)s зьмяніў: %(modifying)s"
 }

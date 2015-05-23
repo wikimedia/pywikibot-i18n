@@ -8,9 +8,9 @@
 			"Yfdyh000"
 		]
 	},
-	"archivebot-older-than": "早于%(duration)s",
-	"archivebot-page-summary": "机器人：将%(count)d个%(why)s的讨论存档至%(archives)s。",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "（存档已满）",
-	"archivebot-archive-summary": "机器人：将%(count)d个来自[[%(from)s]]的讨论存档。"
+	"archivebot-archive-summary": "机器人：将%(count)d个来自[[%(from)s]]的讨论存档。",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-older-than": "早于%(duration)s",
+	"archivebot-page-summary": "机器人：将%(count)d个%(why)s的讨论存档至%(archives)s。"
 }

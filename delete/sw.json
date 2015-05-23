@@ -5,9 +5,9 @@
 			"Kwisha"
 		]
 	},
-	"delete-images": "Roboti: Inafuta picha zote katika ukurasa %(page)s",
-	"delete-referring-pages": "Roboti: Inafuta kurasa zote zinazorejelea kutoka %(page)s",
 	"delete-from-category": "Roboti: Unafuta kurasa zote katika jamii %(page)s",
 	"delete-from-file": "Karagosi: Kuondoa orodha ya faili.",
-	"delete-linked-pages": "Roboti:inafuta kurasa zote zilzounganishwa kutoka %(page)s"
+	"delete-images": "Roboti: Inafuta picha zote katika ukurasa %(page)s",
+	"delete-linked-pages": "Roboti:inafuta kurasa zote zilzounganishwa kutoka %(page)s",
+	"delete-referring-pages": "Roboti: Inafuta kurasa zote zinazorejelea kutoka %(page)s"
 }

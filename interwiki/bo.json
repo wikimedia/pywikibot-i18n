@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "འཕྲུལ་ཆས་ཀྱི་མི། བསྐྱར་བཅོས་བྱེད་པ།: %(modifying)s",
+	"interwiki-adding": "འཕྲུལ་ཆས་ཀྱི་མི། ཁ་སྣོན་རྒྱག་པ།: %(adding)s",
 	"interwiki-adding-modifying": "འཕྲུལ་ཆས་ཀྱི་མི། ཁ་སྣོན་རྒྱག་པ།: %(adding)s བསྐྱར་བཅོས་བྱེད་པ།: %(modifying)s",
 	"interwiki-adding-removing": "འཕྲུལ་ཆས་ཀྱི་མི། ཁ་སྣོན་རྒྱག་པ།: %(adding)s བསུབ་པ།: %(removing)s",
 	"interwiki-adding-removing-modifying": "འཕྲུལ་ཆས་ཀྱི་མི། ཁ་སྣོན་རྒྱག་པ།: %(adding)s བསུབ་པ།: %(removing)s བསྐྱར་བཅོས་བྱེད་པ།: %(modifying)s",
-	"interwiki-adding": "འཕྲུལ་ཆས་ཀྱི་མི། ཁ་སྣོན་རྒྱག་པ།: %(adding)s",
+	"interwiki-modifying": "འཕྲུལ་ཆས་ཀྱི་མི། བསྐྱར་བཅོས་བྱེད་པ།: %(modifying)s",
 	"interwiki-removing": "འཕྲུལ་ཆས་ཀྱི་མི། བསུབ་པ།: %(removing)s",
 	"interwiki-removing-modifying": "འཕྲུལ་ཆས་ཀྱི་མི། བསུབ་པ།: %(removing)s བསྐྱར་བཅོས་བྱེད་པ།: %(modifying)s"
 }

@@ -4,12 +4,12 @@
 			"ChrisPtDe"
 		]
 	},
-	"interwiki-modifying": "Robot : change %(modifying)s",
+	"interwiki-adding": "Robot : apond %(adding)s",
 	"interwiki-adding-modifying": "Robot : apond %(adding)s ; change %(modifying)s",
 	"interwiki-adding-removing": "Robot : apond %(adding)s ; enléve %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot : apond %(adding)s ; enléve %(removing)s ; change %(modifying)s",
-	"interwiki-adding": "Robot : apond %(adding)s",
+	"interwiki-modifying": "Robot : change %(modifying)s",
+	"interwiki-modifying-from": "Robot : changement de %(from)s a %(modifying)s",
 	"interwiki-removing": "Robot : enléve %(removing)s",
-	"interwiki-removing-modifying": "Robot : enléve %(removing)s ; change %(modifying)s",
-	"interwiki-modifying-from": "Robot : changement de %(from)s a %(modifying)s"
+	"interwiki-removing-modifying": "Robot : enléve %(removing)s ; change %(modifying)s"
 }

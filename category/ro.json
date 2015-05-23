@@ -4,15 +4,15 @@
 			"Minisarm"
 		]
 	},
-	"category-version-history": "Robot: Se salvează istoricul versiunilor pentru vechea %(oldcat)s",
-	"category-changing": "Robot: Înlocuit %(oldcat)s cu %(newcat)s",
 	"category-adding": "Robot: Adăugat categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(de asemenea în %(alsocat)s)",
-	"category-was-disbanded": "Robot: Categoria a fost desființată",
-	"category-replacing": "Robot: Înlocuit categoria %(oldcat)s cu %(newcat)s",
+	"category-changing": "Robot: Înlocuit %(oldcat)s cu %(newcat)s",
+	"category-listifying": "Robot: Listare de la %(fromcat)s (%(num)d intrări)",
 	"category-removing": "Robot: Înlăturat din %(oldcat)s",
-	"category-was-moved": "Robot: Categoria a fost mutată la [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Robot: Mutat din %s. Autori: %s",
+	"category-replacing": "Robot: Înlocuit categoria %(oldcat)s cu %(newcat)s",
 	"category-section-title": "Istoricul paginii pentru fosta %(oldcat)s",
-	"category-listifying": "Robot: Listare de la %(fromcat)s (%(num)d intrări)"
+	"category-version-history": "Robot: Se salvează istoricul versiunilor pentru vechea %(oldcat)s",
+	"category-was-disbanded": "Robot: Categoria a fost desființată",
+	"category-was-moved": "Robot: Categoria a fost mutată la [[:Category:%(newcat)s|%(title)s]]"
 }

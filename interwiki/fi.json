@@ -4,12 +4,12 @@
 			"Crt"
 		]
 	},
-	"interwiki-modifying": "Botti muokkasi: %(modifying)s",
+	"interwiki-adding": "Botti lisäsi: %(adding)s",
 	"interwiki-adding-modifying": "Botti lisäsi: %(adding)s muokkasi: %(modifying)s",
 	"interwiki-adding-removing": "Botti lisäsi: %(adding)s poisti: %(removing)s",
 	"interwiki-adding-removing-modifying": "Botti lisäsi: %(adding)s poisti: %(removing)s muokkasi: %(modifying)s",
-	"interwiki-adding": "Botti lisäsi: %(adding)s",
+	"interwiki-modifying": "Botti muokkasi: %(modifying)s",
+	"interwiki-modifying-from": "Botti muutti kielilinkin %(from)s muotoon %(modifying)s",
 	"interwiki-removing": "Botti poisti: %(removing)s",
-	"interwiki-removing-modifying": "Botti poisti: %(removing)s muokkasi: %(modifying)s",
-	"interwiki-modifying-from": "Botti muutti kielilinkin %(from)s muotoon %(modifying)s"
+	"interwiki-removing-modifying": "Botti poisti: %(removing)s muokkasi: %(modifying)s"
 }

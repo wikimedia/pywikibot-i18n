@@ -4,7 +4,7 @@
 			"Crt"
 		]
 	},
-	"template-removing": "Botti poisti {{PLURAL:%(num)d|mallineen|mallineet}}: %(list)s",
 	"template-changing": "Botti korvasi {{PLURAL:%(num)d|mallineen|mallineet}}: %(list)s",
+	"template-removing": "Botti poisti {{PLURAL:%(num)d|mallineen|mallineet}}: %(list)s",
 	"template-substituting": "Botti substasi {{PLURAL:%(num)d|mallineen|mallineet}}: %(list)s"
 }

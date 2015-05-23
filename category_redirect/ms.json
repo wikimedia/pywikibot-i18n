@@ -4,9 +4,9 @@
 			"Anakmalaysia"
 		]
 	},
-	"category_redirect-comment": "Bot penyelenggaraan lencongan kategori",
-	"category_redirect-change-category": "Bot: tukar kategori yang dilencongkan, [[:%(oldCatLink)s|%(oldCatTitle)s]] ke [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: mengisikan templat pengalihan kategori untuk penyelenggaraan",
+	"category_redirect-change-category": "Bot: tukar kategori yang dilencongkan, [[:%(oldCatLink)s|%(oldCatTitle)s]] ke [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot penyelenggaraan lencongan kategori",
 	"category_redirect-edit-request": "Laman-laman dilindungi yang berikut dikesan memerlukan kemaskini pada pautan kategori: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ada di dalam %(oldcat)s, iaitu lencongan ke %(newcat)s",
 	"category_redirect-fix-double": "Bot: Memperbetulkan pelencongan berganda"

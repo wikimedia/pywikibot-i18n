@@ -4,7 +4,7 @@
 			"Wizzard"
 		]
 	},
-	"welcome-welcome": "Vitajte!",
 	"welcome-bad_username": "Robot: Pridávam používateľské meno, ktoré je potrebné skontrolovať",
-	"welcome-updating": "Robot: Aktualizujem log"
+	"welcome-updating": "Robot: Aktualizujem log",
+	"welcome-welcome": "Vitajte!"
 }

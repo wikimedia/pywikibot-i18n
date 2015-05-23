@@ -7,9 +7,9 @@
 			"Xabier Armendaritz"
 		]
 	},
-	"category-version-history": "Errobota: Antzinako %(oldacat)s bertsio historiala gordetzen",
-	"category-changing": "Robota: «%(oldcat)s» kategoria «%(newcat)s» kategoriara aldatzen",
 	"category-adding": "Robota: [[:Kategoria:%(newcat)s|%(newcat)s]] kategoria eransten",
+	"category-changing": "Robota: «%(oldcat)s» kategoria «%(newcat)s» kategoriara aldatzen",
 	"category-removing": "Robota: %(oldcat)s -tik ezabatzen",
+	"category-version-history": "Errobota: Antzinako %(oldacat)s bertsio historiala gordetzen",
 	"category-was-moved": "Robota: Kategoria [[:Category:%(newcat)s|%(title)s]]-ra mugitu da"
 }

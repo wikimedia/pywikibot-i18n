@@ -4,8 +4,8 @@
 			"Cedric31"
 		]
 	},
-	"redirect-fix-double": "Robòt : repara una dobla redireccion cap a %(to)s",
 	"redirect-fix-broken-moved": "Robòt: Correccion de las redireccions erronèas cap a una pagina cibla %(to)s desplaçada",
+	"redirect-fix-double": "Robòt : repara una dobla redireccion cap a %(to)s",
 	"redirect-fix-loop": "Robòt : repara una bocla de redireccion sus %(to)s",
 	"redirect-remove-loop": "Robòt: la cibla de la redireccion forma una bocla de redireccion"
 }

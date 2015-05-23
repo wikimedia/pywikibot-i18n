@@ -4,10 +4,10 @@
 			"Kolega2357"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Unesite naziv XML ispisa:",
-	"pywikibot-enter-page-processing": "Koja stranica treba da se obradi?",
+	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
+	"pywikibot-enter-finished-browser": "Pritisnite enter kada završite u pregledaču.",
 	"pywikibot-enter-namespace-number": "Unesite imenski prostor pored njegovog broja:",
 	"pywikibot-enter-new-text": "Unesite novi tekst:",
-	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
-	"pywikibot-enter-finished-browser": "Pritisnite enter kada završite u pregledaču."
+	"pywikibot-enter-page-processing": "Koja stranica treba da se obradi?",
+	"pywikibot-enter-xml-filename": "Unesite naziv XML ispisa:"
 }

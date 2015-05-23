@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"రహ్మానుద్దీన్"
+		]
+	},
+	"featured-featured": "బాటు : %(page)s విశేష వ్యాసం",
+	"featured-former": "బాటు : %(page)s ఒక మాజీ విశేష వ్యాసం",
+	"featured-good": "బాటు : %(page)s ఒక మంచి వ్యాసం",
+	"featured-list": "బాటు : %(page)s విశేష సూచీ"
+}

@@ -4,11 +4,11 @@
 			"Abshirdheere"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Caawiye-Bot ka saariska : %(from)s - linkiga(s)",
-	"solve_disambiguation-redirect-resolved": "Caawiye-Bot badalid: %(from)s -  linkiga(s) to %(to)s",
+	"solve_disambiguation-adding-dn-template": "Caawiye-Bot Cadayn: %(from)s - Waa in la daba galaa",
+	"solve_disambiguation-links-removed": "Caawiye-Bot Cadayn: %(from)s - Tirtiris linkiga.",
 	"solve_disambiguation-links-resolved": "Caawiye-Bot Badalid: %(from)s -  link(s) to %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Caawiye-Bot cadayn: %(from)s - Waa in la daba galaa",
-	"solve_disambiguation-adding-dn-template": "Caawiye-Bot Cadayn: %(from)s - Waa in la daba galaa",
-	"solve_disambiguation-unknown-page": "(aan la aqoon)",
-	"solve_disambiguation-links-removed": "Caawiye-Bot Cadayn: %(from)s - Tirtiris linkiga."
+	"solve_disambiguation-redirect-removed": "Caawiye-Bot ka saariska : %(from)s - linkiga(s)",
+	"solve_disambiguation-redirect-resolved": "Caawiye-Bot badalid: %(from)s -  linkiga(s) to %(to)s",
+	"solve_disambiguation-unknown-page": "(aan la aqoon)"
 }

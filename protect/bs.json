@@ -4,9 +4,9 @@
 			"Edinwiki"
 		]
 	},
-	"protect-links": "Bot: Zaštićivanje svih stranica koje su linkovane sa stranice %(page)s",
-	"protect-simple": "Bot: Zaštićivanje spiska datoteka.",
 	"protect-category": "Bot: Zaštićivanje svih stranica iz kategorije %(cat)s",
+	"protect-images": "Bot: Zaštićivanje svih slika na stranici %(page)s",
+	"protect-links": "Bot: Zaštićivanje svih stranica koje su linkovane sa stranice %(page)s",
 	"protect-ref": "Bot: Zaštićivanje svih stranica prema kojim ima veza sa stranice %(page)s",
-	"protect-images": "Bot: Zaštićivanje svih slika na stranici %(page)s"
+	"protect-simple": "Bot: Zaštićivanje spiska datoteka."
 }

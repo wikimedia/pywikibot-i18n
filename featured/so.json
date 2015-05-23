@@ -4,8 +4,8 @@
 			"Abshirdheere"
 		]
 	},
-	"featured-good": "Bot: %(page)s Waa maqaal muhim ah",
-	"featured-list": "Bot: %(page)s Waa liis la xushay",
 	"featured-featured": "Bot: %(page)s Waa maqaal la xushay",
-	"featured-former": "Bot: %(page)s Waa maqaal horay loo xushay"
+	"featured-former": "Bot: %(page)s Waa maqaal horay loo xushay",
+	"featured-good": "Bot: %(page)s Waa maqaal muhim ah",
+	"featured-list": "Bot: %(page)s Waa liis la xushay"
 }

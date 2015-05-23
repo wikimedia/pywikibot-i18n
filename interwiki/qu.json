@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Rurana antacha Hukchasqa: %(modifying)s",
+	"interwiki-adding": "Rurana antacha Yapasqa: %(adding)s",
 	"interwiki-adding-modifying": "Rurana antacha Yapasqa: %(adding)s Hukchasqa: %(modifying)s",
 	"interwiki-adding-removing": "Rurana antacha Yapasqa: %(adding)s Qullusqa: %(removing)s",
 	"interwiki-adding-removing-modifying": "Rurana antacha Yapasqa: %(adding)s Qullusqa: %(removing)s Hukchasqa: %(modifying)s",
-	"interwiki-adding": "Rurana antacha Yapasqa: %(adding)s",
+	"interwiki-modifying": "Rurana antacha Hukchasqa: %(modifying)s",
 	"interwiki-removing": "Rurana antacha Qullusqa: %(removing)s",
 	"interwiki-removing-modifying": "Rurana antacha Qullusqa: %(removing)s Hukchasqa: %(modifying)s"
 }

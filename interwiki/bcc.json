@@ -4,12 +4,12 @@
 			"Baloch Afghanistan"
 		]
 	},
-	"interwiki-modifying": "ربات: اصلاح %(modifying)s",
+	"interwiki-adding": "ربات: اڈ\t کورتین %(adding)s",
 	"interwiki-adding-modifying": "ربات: افزودن %(adding)s؛ اصلاح %(modifying)s",
 	"interwiki-adding-removing": "ربات: افزودن %(adding)s؛ حذف: %(removing)s",
 	"interwiki-adding-removing-modifying": "ربات: افزودن %(adding)s؛ حذف %(removing)s؛ اصلاح %(modifying)s",
-	"interwiki-adding": "ربات: اڈ\t کورتین %(adding)s",
+	"interwiki-modifying": "ربات: اصلاح %(modifying)s",
+	"interwiki-modifying-from": "ربات: تغییر %(from)s به %(modifying)s",
 	"interwiki-removing": "ربات: پاک کورتین %(removing)s",
-	"interwiki-removing-modifying": "ربات: پاک کورتین %(removing)s؛ اصلاح %(modifying)s",
-	"interwiki-modifying-from": "ربات: تغییر %(from)s به %(modifying)s"
+	"interwiki-removing-modifying": "ربات: پاک کورتین %(removing)s؛ اصلاح %(modifying)s"
 }

@@ -4,11 +4,11 @@
 			"Xuacu"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Escribi'l nome del ficheru XML de volcáu:",
-	"pywikibot-enter-page-processing": "¿Que páxina hai que procesar?",
+	"pywikibot-enter-category-name": "Escribi'l nome de categoría:",
 	"pywikibot-enter-file-links-processing": "¿Qué enllaces a páxina de ficheru hai que procesar?",
+	"pywikibot-enter-finished-browser": "Calca la tecla Intro cuando acabes nel navegador.",
 	"pywikibot-enter-namespace-number": "Escribi un espaciu de nomes pol so númberu:",
 	"pywikibot-enter-new-text": "Escribi'l testu nuevu:",
-	"pywikibot-enter-category-name": "Escribi'l nome de categoría:",
-	"pywikibot-enter-finished-browser": "Calca la tecla Intro cuando acabes nel navegador."
+	"pywikibot-enter-page-processing": "¿Que páxina hai que procesar?",
+	"pywikibot-enter-xml-filename": "Escribi'l nome del ficheru XML de volcáu:"
 }

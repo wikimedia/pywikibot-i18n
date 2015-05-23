@@ -4,11 +4,11 @@
 			"Baloch Afghanistan"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "ابهام‌زدایی به کمک ربات: %(from)s - حذف پیوند(ها)",
-	"solve_disambiguation-redirect-resolved": "ابهام‌زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]",
+	"solve_disambiguation-adding-dn-template": "ابهام‌زدایی به کمک ربات: %(from)s - علامت‌زدن به عنوان نیازمند توجه متخصص",
+	"solve_disambiguation-links-removed": "ابهام‌زدایی به کمک ربات: %(from)s - حذف پیوند(ها).",
 	"solve_disambiguation-links-resolved": "ابهام‌زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]",
 	"solve_disambiguation-redirect-adding-dn-template": "ابهام‌زدایی به کمک ربات: %(from)s - علامت‌گذاری به عنوان نیازمند توجه متخصص",
-	"solve_disambiguation-adding-dn-template": "ابهام‌زدایی به کمک ربات: %(from)s - علامت‌زدن به عنوان نیازمند توجه متخصص",
-	"solve_disambiguation-unknown-page": "(نامئلوم)",
-	"solve_disambiguation-links-removed": "ابهام‌زدایی به کمک ربات: %(from)s - حذف پیوند(ها)."
+	"solve_disambiguation-redirect-removed": "ابهام‌زدایی به کمک ربات: %(from)s - حذف پیوند(ها)",
+	"solve_disambiguation-redirect-resolved": "ابهام‌زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]",
+	"solve_disambiguation-unknown-page": "(نامئلوم)"
 }

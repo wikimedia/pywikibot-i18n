@@ -4,11 +4,11 @@
 			"Toliño"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Páxina de homónimos resolta polo bot: eliminou unha ou varias ligazóns de \"%(from)s\"",
-	"solve_disambiguation-redirect-resolved": "Páxina de homónimos resolta polo bot: cambiou unha ou varias ligazóns cara a %(to)s na páxina \"%(from)s\"",
+	"solve_disambiguation-adding-dn-template": "Páxina de homónimos resolta polo bot: \"%(from)s\" necesita atención dun experto",
+	"solve_disambiguation-links-removed": "Páxina de homónimos resolta polo bot: eliminou unha ou varias ligazóns de \"%(from)s\"",
 	"solve_disambiguation-links-resolved": "Páxina de homónimos resolta polo bot: cambiou unha ou varias ligazóns cara a %(to)s na páxina \"%(from)s\"",
 	"solve_disambiguation-redirect-adding-dn-template": "Páxina de homónimos resolta polo bot: \"%(from)s\" necesita atención dun experto",
-	"solve_disambiguation-adding-dn-template": "Páxina de homónimos resolta polo bot: \"%(from)s\" necesita atención dun experto",
-	"solve_disambiguation-unknown-page": "(descoñecido)",
-	"solve_disambiguation-links-removed": "Páxina de homónimos resolta polo bot: eliminou unha ou varias ligazóns de \"%(from)s\""
+	"solve_disambiguation-redirect-removed": "Páxina de homónimos resolta polo bot: eliminou unha ou varias ligazóns de \"%(from)s\"",
+	"solve_disambiguation-redirect-resolved": "Páxina de homónimos resolta polo bot: cambiou unha ou varias ligazóns cara a %(to)s na páxina \"%(from)s\"",
+	"solve_disambiguation-unknown-page": "(descoñecido)"
 }

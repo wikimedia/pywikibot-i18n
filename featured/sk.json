@@ -4,8 +4,8 @@
 			"Wizzard"
 		]
 	},
-	"featured-good": "Robot: %(page)s je dobrý článok",
-	"featured-list": "Robot: %(page)s je zoznam najlepších",
 	"featured-featured": "Bot: %(page)s je najlepší článok",
-	"featured-former": "Robot: %(page)s je bývalý najlepší článok"
+	"featured-former": "Robot: %(page)s je bývalý najlepší článok",
+	"featured-good": "Robot: %(page)s je dobrý článok",
+	"featured-list": "Robot: %(page)s je zoznam najlepších"
 }

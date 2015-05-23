@@ -4,5 +4,6 @@
 			"Purodha"
 		]
 	},
-	"noreferences-add-tag": "Bot: Ene <references /> Befähl hät jefählt. Dobeijedonn."
+	"noreferences-add-tag": "Bot: Ene <references /> Befähl hät jefählt. Dobeijedonn.",
+	"noreferences-fix-tag": "Bot: Donn en kappodde Süntx vum Befähl <references /> repereehre."
 }

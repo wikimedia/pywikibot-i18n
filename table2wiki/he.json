@@ -4,6 +4,6 @@
 			"Xqt"
 		]
 	},
-	"table2wiki-warnings": "בוט בפיקוח משתמש: עדכון תחביר הטבלה - {{PLURAL:count|אזהרה אחת|%(count)d אזהרות}}!",
-	"table2wiki-no-warning": "בוט בפיקוח משתמש: עדכון תחביר הטבלה"
+	"table2wiki-no-warning": "בוט בפיקוח משתמש: עדכון תחביר הטבלה",
+	"table2wiki-warnings": "בוט בפיקוח משתמש: עדכון תחביר הטבלה - {{PLURAL:count|אזהרה אחת|%(count)d אזהרות}}!"
 }

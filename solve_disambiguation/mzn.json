@@ -4,11 +4,11 @@
 			"محک"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "گجگجی بیری ربوت کومک جه: %(from)s - لینک(ئون) ِحذف",
-	"solve_disambiguation-redirect-resolved": "گجگجی بیری ربوت کومک جه: %(from)s - لینک [[%(to)s]] ره",
+	"solve_disambiguation-adding-dn-template": "گجگجی بیری ربوت کومک جه: %(from)s - عَلِمِک‌بزه، متخصص توجه محتاج بی‌ین وسّه",
+	"solve_disambiguation-links-removed": "گجگجی بیری ربوت کومک جه: %(from)s - لینک(ئون) ِحذف.",
 	"solve_disambiguation-links-resolved": "گجگجی بیری ربوت کومک جه: %(from)s - لینک [[%(to)s]] ره",
 	"solve_disambiguation-redirect-adding-dn-template": "گجگجی بیری ربوت کومک جه: %(from)s - علمک بی‌یشته متخصص توجه هاکردن وسّه",
-	"solve_disambiguation-adding-dn-template": "گجگجی بیری ربوت کومک جه: %(from)s - عَلِمِک‌بزه، متخصص توجه محتاج بی‌ین وسّه",
-	"solve_disambiguation-unknown-page": "(نامعلوم)",
-	"solve_disambiguation-links-removed": "گجگجی بیری ربوت کومک جه: %(from)s - لینک(ئون) ِحذف."
+	"solve_disambiguation-redirect-removed": "گجگجی بیری ربوت کومک جه: %(from)s - لینک(ئون) ِحذف",
+	"solve_disambiguation-redirect-resolved": "گجگجی بیری ربوت کومک جه: %(from)s - لینک [[%(to)s]] ره",
+	"solve_disambiguation-unknown-page": "(نامعلوم)"
 }

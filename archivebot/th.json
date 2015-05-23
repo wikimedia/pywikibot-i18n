@@ -5,7 +5,7 @@
 			"Octahedron80"
 		]
 	},
-	"archivebot-older-than": "เก่ากว่า %(duration)s",
+	"archivebot-archive-full": "(กรุเต็ม)",
 	"archivebot-archiveheader": "{{กรุ}}",
-	"archivebot-archive-full": "(กรุเต็ม)"
+	"archivebot-older-than": "เก่ากว่า %(duration)s"
 }

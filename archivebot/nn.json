@@ -8,9 +8,9 @@
 			"Danmichaelo"
 		]
 	},
-	"archivebot-older-than": "eldre enn %(duration)s",
-	"archivebot-page-summary": "robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} (%(why)s) til %(archives)s.",
-	"archivebot-archiveheader": "{{arkiv}}",
 	"archivebot-archive-full": "(ARKIV FULLT)",
-	"archivebot-archive-summary": "robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} frå [[%(from)s]]."
+	"archivebot-archive-summary": "robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} frå [[%(from)s]].",
+	"archivebot-archiveheader": "{{arkiv}}",
+	"archivebot-older-than": "eldre enn %(duration)s",
+	"archivebot-page-summary": "robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|trådar}} (%(why)s) til %(archives)s."
 }

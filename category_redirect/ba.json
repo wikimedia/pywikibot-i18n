@@ -4,9 +4,9 @@
 			"Haqmar"
 		]
 	},
-	"category_redirect-comment": "Категорияларҙы йүнәлтеү хеҙмәтен башҡарыусы робот",
-	"category_redirect-change-category": "Робот: йүнәлтелгән [[:%(oldCatLink)s|%(oldCatTitle)s]] категорияһын  [[:%(newCatLink)s|%(newCatTitle)s]] категорияһына үҙгәртеү",
 	"category_redirect-add-template": "Робот: категория йүнәлтеү ҡалыбын хеҙмәтләндереү өсөн өҫтәү",
+	"category_redirect-change-category": "Робот: йүнәлтелгән [[:%(oldCatLink)s|%(oldCatTitle)s]] категорияһын  [[:%(newCatLink)s|%(newCatTitle)s]] категорияһына үҙгәртеү",
+	"category_redirect-comment": "Категорияларҙы йүнәлтеү хеҙмәтен башҡарыусы робот",
 	"category_redirect-edit-request": "Түбәндәге һаҡланған биттәр категорияларҙың һылтанмаларын яңыртыуҙы һорай: %(itemlist)s",
 	"category_redirect-edit-request-item": "%(title)s, %(newcat)s категорияһына йүнәлтеү булған %(oldcat)s эсендә",
 	"category_redirect-fix-double": "Робот: Икеле йүнәлтеүҙе төҙәтеү"

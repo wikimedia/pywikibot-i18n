@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robot endra: %(modifying)s",
+	"interwiki-adding": "robot la til: %(adding)s",
 	"interwiki-adding-modifying": "robot la til: %(adding)s endra: %(modifying)s",
 	"interwiki-adding-removing": "robot la til: %(adding)s fjerna: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot la til: %(adding)s fjerna: %(removing)s endra: %(modifying)s",
-	"interwiki-adding": "robot la til: %(adding)s",
+	"interwiki-modifying": "robot endra: %(modifying)s",
+	"interwiki-modifying-from": "robot: endra %(from)s til %(modifying)s",
 	"interwiki-removing": "robot fjerna: %(removing)s",
-	"interwiki-removing-modifying": "robot fjerna: %(removing)s endra: %(modifying)s",
-	"interwiki-modifying-from": "robot: endra %(from)s til %(modifying)s"
+	"interwiki-removing-modifying": "robot fjerna: %(removing)s endra: %(modifying)s"
 }

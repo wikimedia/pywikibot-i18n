@@ -4,11 +4,11 @@
 			"Robby"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Bot-ënnerstetzten Homonymie: %(from)s - Link(en) ewechgeholl",
-	"solve_disambiguation-redirect-resolved": "Bot-ënnerstetzten Homonymie: %(from)s - Geännert(e) Link(en) op %(to)s",
+	"solve_disambiguation-adding-dn-template": "Bot-assistéiert Homonymie: %(from)s - markéiert fir duerch en Expert nogekuckt ze ginn",
+	"solve_disambiguation-links-removed": "Bot-ënnerstetzten Homonymie: %(from)s - Link(en) ewechgeholl",
 	"solve_disambiguation-links-resolved": "Bot-ënnerstetzten Homonymie: %(from)s - Geännert(e) Link(en) op %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Bot-assistéiert Homonymie: %(from)s - markéiert fir duerch en Expert nogekuckt ze ginn",
-	"solve_disambiguation-adding-dn-template": "Bot-assistéiert Homonymie: %(from)s - markéiert fir duerch en Expert nogekuckt ze ginn",
-	"solve_disambiguation-unknown-page": "(onbekannt)",
-	"solve_disambiguation-links-removed": "Bot-ënnerstetzten Homonymie: %(from)s - Link(en) ewechgeholl"
+	"solve_disambiguation-redirect-removed": "Bot-ënnerstetzten Homonymie: %(from)s - Link(en) ewechgeholl",
+	"solve_disambiguation-redirect-resolved": "Bot-ënnerstetzten Homonymie: %(from)s - Geännert(e) Link(en) op %(to)s",
+	"solve_disambiguation-unknown-page": "(onbekannt)"
 }

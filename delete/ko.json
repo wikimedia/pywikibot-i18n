@@ -5,9 +5,9 @@
 			"IRTC1015"
 		]
 	},
-	"delete-images": "봇: %(page)s 문서에 사용된 모든 그림 삭제",
-	"delete-referring-pages": "봇: %(page)s에서 참고하는 모든 문서 삭제",
 	"delete-from-category": "봇: %(page)s 분류의 모든 문서를 삭제",
 	"delete-from-file": "봇: 목록의 문서를 삭제",
-	"delete-linked-pages": "봇: %(page)s에서 가리키는 모든 문서를 삭제"
+	"delete-images": "봇: %(page)s 문서에 사용된 모든 그림 삭제",
+	"delete-linked-pages": "봇: %(page)s에서 가리키는 모든 문서를 삭제",
+	"delete-referring-pages": "봇: %(page)s에서 참고하는 모든 문서 삭제"
 }

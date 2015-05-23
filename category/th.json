@@ -5,10 +5,10 @@
 			"Octahedron80"
 		]
 	},
-	"category-changing": "บอต: เปลี่ยนจาก %(oldcat)s ไปยัง %(newcat)s",
 	"category-adding": "บอต: เพิ่มหมวดหมู่ [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-replacing": "บอต: แทนที่หมวดหมู่ %(oldcat)s ด้วย %(newcat)s",
+	"category-changing": "บอต: เปลี่ยนจาก %(oldcat)s ไปยัง %(newcat)s",
 	"category-removing": "บอต: ลบออกจาก %(oldcat)s",
-	"category-was-moved": "บอต: หมวดหมู่ได้ย้ายไป [[:Category:%(newcat)s|%(title)s]]",
-	"category-renamed": "บอต: ย้ายจาก %s ผู้เขียนเดิม:"
+	"category-renamed": "บอต: ย้ายจาก %s ผู้เขียนเดิม:",
+	"category-replacing": "บอต: แทนที่หมวดหมู่ %(oldcat)s ด้วย %(newcat)s",
+	"category-was-moved": "บอต: หมวดหมู่ได้ย้ายไป [[:Category:%(newcat)s|%(title)s]]"
 }

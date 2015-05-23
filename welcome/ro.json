@@ -5,7 +5,7 @@
 			"Strainu"
 		]
 	},
-	"welcome-welcome": "Bun venit!",
 	"welcome-bad_username": "Robot: Adăugat un nume de utilizator care trebuie verificat",
-	"welcome-updating": "Robot: Actualizat jurnal"
+	"welcome-updating": "Robot: Actualizat jurnal",
+	"welcome-welcome": "Bun venit!"
 }

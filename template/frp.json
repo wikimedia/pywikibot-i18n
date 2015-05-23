@@ -4,7 +4,7 @@
 			"ChrisPtDe"
 		]
 	},
-	"template-removing": "Robot : enléve {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s",
 	"template-changing": "Robot : change {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s",
+	"template-removing": "Robot : enléve {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s",
 	"template-substituting": "Robot : remplace {{PLURAL:%(num)d|lo modèlo|los modèlos}} : %(list)s"
 }

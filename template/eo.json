@@ -4,7 +4,7 @@
 			"Objectivesea"
 		]
 	},
-	"template-removing": "Roboto: Forigas {{PLURAL:%(num)d|ŝablonon|ŝablonojn}}: %(list)s",
 	"template-changing": "Roboto: Ŝanĝas {{PLURAL:%(num)d|ŝablonon|ŝablonojn}}: %(list)s",
+	"template-removing": "Roboto: Forigas {{PLURAL:%(num)d|ŝablonon|ŝablonojn}}: %(list)s",
 	"template-substituting": "Roboto: Anstataŭigas {{PLURAL:%(num)d|ŝablonon|ŝablonojn}}: %(list)s"
 }

@@ -4,7 +4,7 @@
 			"Volkov"
 		]
 	},
-	"welcome-welcome": "Добро пожаловать!",
 	"welcome-bad_username": "бот: добавлено подозрительное имя участника",
-	"welcome-updating": "бот: обновление журнала"
+	"welcome-updating": "бот: обновление журнала",
+	"welcome-welcome": "Добро пожаловать!"
 }

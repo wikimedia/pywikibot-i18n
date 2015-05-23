@@ -4,6 +4,6 @@
 			"Esbardu"
 		]
 	},
-	"table2wiki-warnings": "Robó controláu por usuariu: Sintaxis de tabla anovada - ¡{{PLURAL:count|1 avisu|%(count)d avisos}}!",
-	"table2wiki-no-warning": "Robó controláu por usuariu: Sintaxis de tabla anovada"
+	"table2wiki-no-warning": "Robó controláu por usuariu: Sintaxis de tabla anovada",
+	"table2wiki-warnings": "Robó controláu por usuariu: Sintaxis de tabla anovada - ¡{{PLURAL:count|1 avisu|%(count)d avisos}}!"
 }

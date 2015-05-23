@@ -4,9 +4,9 @@
 			"Phurbutsering"
 		]
 	},
-	"casechecker-replacement-summary": "རང་འགུལ་འཕྲུལ་ཆས་ : བརྡ་དག་གི་རྣམ་དབྱེ་བརྗེ་ལེན་བྱེད་པ།",
-	"casechecker-delete-summary": "རང་འགུལ་འཕྲུལ་ཆས་ : ཁ་ཕྱོགས་བསྐྱར་སྟོན་འདིར་གཅིག་མཚུངས་ཀྱི་ ལེ་ཊིན་གི་ཡི་གེ་ བྱས་བའི་འགོ་བརྗོད་འདུག།",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "ཁ་ཕྱོགས་བསྐྱར་སྟོན་འདི་ མཛུབ་སྟོན་བྱེད་ས་ནི་%(target)s ཡིན།",
-	"casechecker-rename": "རང་འགུལ་འཕྲུལ་ཆས་ ：བརྡ་དག་གི་རྣམ་དབྱ་འདྲེས་ལྷད་ཅན་ལ་མིང་འདོགས་པ།"
+	"casechecker-delete-summary": "རང་འགུལ་འཕྲུལ་ཆས་ : ཁ་ཕྱོགས་བསྐྱར་སྟོན་འདིར་གཅིག་མཚུངས་ཀྱི་ ལེ་ཊིན་གི་ཡི་གེ་ བྱས་བའི་འགོ་བརྗོད་འདུག།",
+	"casechecker-rename": "རང་འགུལ་འཕྲུལ་ཆས་ ：བརྡ་དག་གི་རྣམ་དབྱ་འདྲེས་ལྷད་ཅན་ལ་མིང་འདོགས་པ།",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "རང་འགུལ་འཕྲུལ་ཆས་ : བརྡ་དག་གི་རྣམ་དབྱེ་བརྗེ་ལེན་བྱེད་པ།"
 }

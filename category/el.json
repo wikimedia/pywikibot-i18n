@@ -6,15 +6,15 @@
 			"Xqt"
 		]
 	},
-	"category-version-history": "Ρομπότ: Αποθήκευση ιστορικού από την πρώην %(oldcat)s",
-	"category-changing": "Ρομπότ: Αλλαγή %(oldcat)s σε %(newcat)s",
 	"category-adding": "Ρομπότ: Προσθήκη κατηγορίας [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(επίσης στη %(alsocat)s)",
-	"category-was-disbanded": "Ρομπότ: Η κατηγορία διαγράφηκε",
-	"category-replacing": "Ρομπότ: Αντικατάσταση της κατηγορίας %(oldcat)s με την %(newcat)s",
+	"category-changing": "Ρομπότ: Αλλαγή %(oldcat)s σε %(newcat)s",
+	"category-listifying": "Ρομπότ: Καταλογοποίηση από %(fromcat)s (%(num)d καταχωρίσεις)",
 	"category-removing": "Ρομπότ: Αφαίρεση από την %(oldcat)s",
-	"category-was-moved": "Ρομπότ: Η κατηγορία μετακινήθηκε στην [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Ρομπότ: Μετακινήθηκε από %s. Συντάκτες: %s",
+	"category-replacing": "Ρομπότ: Αντικατάσταση της κατηγορίας %(oldcat)s με την %(newcat)s",
 	"category-section-title": "Ιστορικό της πρώην %(oldcat)s",
-	"category-listifying": "Ρομπότ: Καταλογοποίηση από %(fromcat)s (%(num)d καταχωρίσεις)"
+	"category-version-history": "Ρομπότ: Αποθήκευση ιστορικού από την πρώην %(oldcat)s",
+	"category-was-disbanded": "Ρομπότ: Η κατηγορία διαγράφηκε",
+	"category-was-moved": "Ρομπότ: Η κατηγορία μετακινήθηκε στην [[:Category:%(newcat)s|%(title)s]]"
 }

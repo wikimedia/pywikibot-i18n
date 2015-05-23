@@ -4,12 +4,12 @@
 			"Malafaya"
 		]
 	},
-	"interwiki-modifying": "bot votükon: %(modifying)s",
+	"interwiki-adding": "bot läükon: %(adding)s",
 	"interwiki-adding-modifying": "bot läükon: %(adding)s votükon: %(modifying)s",
 	"interwiki-adding-removing": "bot läükon: %(adding)s moükon: %(removing)s",
 	"interwiki-adding-removing-modifying": "bot läükon: %(adding)s moükon: %(removing)s votükon: %(modifying)s",
-	"interwiki-adding": "bot läükon: %(adding)s",
+	"interwiki-modifying": "bot votükon: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Votükon: %(from)s ad %(modifying)s",
 	"interwiki-removing": "bot moükon: %(removing)s",
-	"interwiki-removing-modifying": "bot moükon: %(removing)s votükon: %(modifying)s",
-	"interwiki-modifying-from": "Bot: Votükon: %(from)s ad %(modifying)s"
+	"interwiki-removing-modifying": "bot moükon: %(removing)s votükon: %(modifying)s"
 }

@@ -5,9 +5,9 @@
 			"Ezagren"
 		]
 	},
-	"protect-links": "Bot: Melindungi semua halaman yang terhubung dari % (halaman)",
-	"protect-simple": "Bot: Melindungi daftar berkas.",
 	"protect-category": "Robot: Melindungi seluruh halaman dari kategori %(cat)s",
+	"protect-images": "Bot: Melindungi semua gambar pada halaman % (halaman)",
+	"protect-links": "Bot: Melindungi semua halaman yang terhubung dari % (halaman)",
 	"protect-ref": "Robot: Melindungi semua halaman yang mengarah dari %(page)s",
-	"protect-images": "Bot: Melindungi semua gambar pada halaman % (halaman)"
+	"protect-simple": "Bot: Melindungi daftar berkas."
 }

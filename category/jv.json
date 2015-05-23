@@ -4,14 +4,14 @@
 			"NoiX180"
 		]
 	},
-	"category-version-history": "Bot: Nyimpen riwayat vèrsi saka kaca bekas %(oldcat)s",
-	"category-changing": "Bot: Ngganti %(oldcat)s dadi %(newcat)s",
 	"category-adding": "Bot: Nambah katégori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(uga nèng %(alsocat)s)",
-	"category-was-disbanded": "Bot: Katégori dibubaraké",
-	"category-replacing": "Bot: Ngganti katégori %(oldcat)s karo %(newcat)s",
+	"category-changing": "Bot: Ngganti %(oldcat)s dadi %(newcat)s",
+	"category-listifying": "Bot: Ndaptari saka %(fromcat)s ({{PLURAL:%(num)d|1 isi|%(num)d isi}})",
 	"category-removing": "Bot: Nyingkiraké saka %(oldcat)s",
-	"category-was-moved": "Bot: Katégori dipindhahaké nèng [[:Category:%(newcat)s|%(title)s]]",
+	"category-replacing": "Bot: Ngganti katégori %(oldcat)s karo %(newcat)s",
 	"category-section-title": "Riwaya kaca saka kaca bekas %(oldcat)s",
-	"category-listifying": "Bot: Ndaptari saka %(fromcat)s ({{PLURAL:%(num)d|1 isi|%(num)d isi}})"
+	"category-version-history": "Bot: Nyimpen riwayat vèrsi saka kaca bekas %(oldcat)s",
+	"category-was-disbanded": "Bot: Katégori dibubaraké",
+	"category-was-moved": "Bot: Katégori dipindhahaké nèng [[:Category:%(newcat)s|%(title)s]]"
 }

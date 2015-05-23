@@ -5,9 +5,9 @@
 			"Khutuck"
 		]
 	},
-	"delete-images": "Bot: %(page)s sayfasındaki tüm dosyalar siliniyor.",
-	"delete-referring-pages": "Bot: %(page)s sayfasına bağlantılar siliniyor.",
 	"delete-from-category": "Bot: %(page)s kategorisindeki tüm sayfalar siliniyor.",
 	"delete-from-file": "Robot: Bir liste sayfa siliniyor.",
-	"delete-linked-pages": "Bot: %(page)s sayfasından bağlantı verilen tüm sayfalar siliniyor."
+	"delete-images": "Bot: %(page)s sayfasındaki tüm dosyalar siliniyor.",
+	"delete-linked-pages": "Bot: %(page)s sayfasından bağlantı verilen tüm sayfalar siliniyor.",
+	"delete-referring-pages": "Bot: %(page)s sayfasına bağlantılar siliniyor."
 }

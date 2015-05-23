@@ -5,7 +5,7 @@
 			"Sarrus"
 		]
 	},
-	"welcome-welcome": "Velkommen!",
 	"welcome-bad_username": "Robot: Tilføjer et brugernavn, der skal kontrolleres",
-	"welcome-updating": "Robot: Opdaterer log"
+	"welcome-updating": "Robot: Opdaterer log",
+	"welcome-welcome": "Velkommen!"
 }

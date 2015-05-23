@@ -4,9 +4,9 @@
 			"C.R."
 		]
 	},
-	"casechecker-replacement-summary": "Bot: Scagnanno maiuscole/minuscole:",
-	"casechecker-delete-summary": "Bot: stu redirect cuntente dit' 'o titolo lettere 'a l'alfabeto cirillico e latino eguale",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Stu redirect è ausato pe' puntà a %(target)s",
-	"casechecker-rename": "Bot: rinommeno p'avé maiuscole/minuscole mmescate"
+	"casechecker-delete-summary": "Bot: stu redirect cuntente dit' 'o titolo lettere 'a l'alfabeto cirillico e latino eguale",
+	"casechecker-rename": "Bot: rinommeno p'avé maiuscole/minuscole mmescate",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: Scagnanno maiuscole/minuscole:"
 }

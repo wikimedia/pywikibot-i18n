@@ -5,9 +5,9 @@
 			"WikiPhoenix"
 		]
 	},
-	"delete-images": "Bot: Tar bort alla bilder på sida %(page)s",
-	"delete-referring-pages": "Bot: Ta bort alla sidor som hänvisar från %(page)s",
 	"delete-from-category": "Bot: Tar bort alla sidor i kategori %(page)s",
 	"delete-from-file": "Bot: Raderar en lista över sidor.",
-	"delete-linked-pages": "Bot: Tar bort alla sidor länkade från %(page)s"
+	"delete-images": "Bot: Tar bort alla bilder på sida %(page)s",
+	"delete-linked-pages": "Bot: Tar bort alla sidor länkade från %(page)s",
+	"delete-referring-pages": "Bot: Ta bort alla sidor som hänvisar från %(page)s"
 }

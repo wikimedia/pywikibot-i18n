@@ -1,7 +1,7 @@
 {
 	"@metadata": [],
+	"pagefromfile-msg": "Бот: Автоматичний імпорт статей",
 	"pagefromfile-msg_bottom": "додано знизу",
 	"pagefromfile-msg_force": "існуючий текст перезаписано",
-	"pagefromfile-msg_top": "додано зверху",
-	"pagefromfile-msg": "Бот: Автоматичний імпорт статей"
+	"pagefromfile-msg_top": "додано зверху"
 }

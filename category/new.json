@@ -4,14 +4,14 @@
 			"Eukesh"
 		]
 	},
-	"category-version-history": "रोबोट: न्हापाया %(oldcat)s तयेगु संस्करण इतिहास स्वथनाच्वंगु",
-	"category-changing": "रोबोट: %(oldcat)sतयेत %(newcat)sस हिलाच्वंगु",
 	"category-adding": "रोबोट: पुचः [[:Category:%(newcat)s|%(newcat)s]] तनाच्वंगु",
 	"category-also-in": "(%(alsocat)sय् नं)",
-	"category-was-disbanded": "रोबोट:पुचः सिधयेकाछ्वःगु दु",
-	"category-replacing": "रोबोट: पुचः %(oldcat)sयात %(newcat)sय् हिलाछ्वःगु दु",
+	"category-changing": "रोबोट: %(oldcat)sतयेत %(newcat)sस हिलाच्वंगु",
 	"category-removing": "रोबोट: %(oldcat)sनं त्वतकाच्वंगु",
-	"category-was-moved": "रोबट: पुचः [[:Category:%(newcat)s|%(title)s]]य्‌ हिलाछ्वगु दु",
 	"category-renamed": "रोबट: %sनं संकल। च्वमि: %s",
-	"category-section-title": "पुलांगु %(oldcat)sया पौ इतिहास"
+	"category-replacing": "रोबोट: पुचः %(oldcat)sयात %(newcat)sय् हिलाछ्वःगु दु",
+	"category-section-title": "पुलांगु %(oldcat)sया पौ इतिहास",
+	"category-version-history": "रोबोट: न्हापाया %(oldcat)s तयेगु संस्करण इतिहास स्वथनाच्वंगु",
+	"category-was-disbanded": "रोबोट:पुचः सिधयेकाछ्वःगु दु",
+	"category-was-moved": "रोबट: पुचः [[:Category:%(newcat)s|%(title)s]]य्‌ हिलाछ्वगु दु"
 }

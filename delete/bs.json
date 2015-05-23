@@ -4,9 +4,9 @@
 			"Edinwiki"
 		]
 	},
-	"delete-images": "Bot: Brisanje svih slika na stranici %(page)s.",
-	"delete-referring-pages": "Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.",
 	"delete-from-category": "Bot: Brisanje svih stranica iz kategorije %(page)s.",
 	"delete-from-file": "Bot: Brisanje spiska stranica.",
-	"delete-linked-pages": "Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s."
+	"delete-images": "Bot: Brisanje svih slika na stranici %(page)s.",
+	"delete-linked-pages": "Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s.",
+	"delete-referring-pages": "Bot: Brisanje svih stranica koje su referirane sa stranice %(page)s."
 }

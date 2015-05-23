@@ -4,12 +4,12 @@
 			"Chrisportelli"
 		]
 	},
-	"category-changing": "Robot: Bidla f'%(oldcat)s għal %(newcat)s",
 	"category-adding": "Robot: Miżjuda l-kategorija [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(anki f'%(alsocat)s)",
-	"category-was-disbanded": "Bot: Il-kategorija ġiet imħassra",
-	"category-replacing": "Bot: Sostituzzjoni tal-kategorija %(oldcat)s ma' %(newcat)s",
+	"category-changing": "Robot: Bidla f'%(oldcat)s għal %(newcat)s",
+	"category-listifying": "Bot: Lista tal-kontenut minn %(fromcat)s (%(num)d paġna)",
 	"category-removing": "Bot: Tneħħija minn %(oldcat)s",
-	"category-was-moved": "Bot: Il-kategorija ġiet immexxiha għal [[:Category:%(newcat)s|%(title)s]]",
-	"category-listifying": "Bot: Lista tal-kontenut minn %(fromcat)s (%(num)d paġna)"
+	"category-replacing": "Bot: Sostituzzjoni tal-kategorija %(oldcat)s ma' %(newcat)s",
+	"category-was-disbanded": "Bot: Il-kategorija ġiet imħassra",
+	"category-was-moved": "Bot: Il-kategorija ġiet immexxiha għal [[:Category:%(newcat)s|%(title)s]]"
 }

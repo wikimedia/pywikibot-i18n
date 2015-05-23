@@ -4,11 +4,11 @@
 			"Jagwar"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Atsofohy ny rakitra dump XML",
-	"pywikibot-enter-page-processing": "Inona ny pejy hovaina?",
+	"pywikibot-enter-category-name": "Atsofohy ny anaran-tsokajy:",
 	"pywikibot-enter-file-links-processing": "Ny rohin-drakitra hovaina?",
+	"pywikibot-enter-finished-browser": "Tsindrio \"ENTER\" rehefa tapitra ny fanovana ao amin'ny mpitety tranonkala.",
 	"pywikibot-enter-namespace-number": "Atsofohy eto ny laharan'ilay anaran-tsehatra",
 	"pywikibot-enter-new-text": "Mampidira lahatsoratra vaovao:",
-	"pywikibot-enter-category-name": "Atsofohy ny anaran-tsokajy:",
-	"pywikibot-enter-finished-browser": "Tsindrio \"ENTER\" rehefa tapitra ny fanovana ao amin'ny mpitety tranonkala."
+	"pywikibot-enter-page-processing": "Inona ny pejy hovaina?",
+	"pywikibot-enter-xml-filename": "Atsofohy ny rakitra dump XML"
 }

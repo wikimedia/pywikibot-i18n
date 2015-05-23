@@ -7,13 +7,13 @@
 			"Objectivesea"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Bonvolu enmeti la nomon de la XML-sekurkopia dosiero:",
-	"pywikibot-enter-page-processing": "Kiu paĝo estu prilaborita?",
+	"pywikibot-enter-category-name": "Bonvolu enmeti la nomon de kategorio:",
 	"pywikibot-enter-file-links-processing": "Ligiloj al kiu dosieropaĝo estu prilaboritaj?",
+	"pywikibot-enter-finished-browser": "Post laborfino en la retumilo, premu Enter.",
 	"pywikibot-enter-namespace-number": "Bonvolu enmeti nomspacon per ties numero:",
 	"pywikibot-enter-new-text": "Bonvolu enmeti la novan tekston:",
-	"pywikibot-enter-category-name": "Bonvolu enmeti la nomon de kategorio:",
-	"pywikibot-enter-finished-browser": "Post laborfino en la retumilo, premu Enter.",
+	"pywikibot-enter-page-processing": "Kiu paĝo estu prilaborita?",
+	"pywikibot-enter-xml-filename": "Bonvolu enmeti la nomon de la XML-sekurkopia dosiero:",
 	"pywikibot-fixes-html": "Bot: koredtado de HTMLa teksto",
 	"pywikibot-fixes-syntax": "Bot: Korektado de vikia sintakso"
 }

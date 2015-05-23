@@ -6,12 +6,12 @@
 			"Викиней"
 		]
 	},
-	"interwiki-modifying": "робот өзгөрттү: %(modifying)s",
+	"interwiki-adding": "робот кошту: %(adding)s",
 	"interwiki-adding-modifying": "робот кошту: %(adding)s өзгөрттү: %(modifying)s",
 	"interwiki-adding-removing": "робот кошту: %(adding)s өчүрдү: %(removing)s",
 	"interwiki-adding-removing-modifying": "робот кошту: %(adding)s өчүрдү: %(removing)s өзгөрттү: %(modifying)s",
-	"interwiki-adding": "робот кошту: %(adding)s",
+	"interwiki-modifying": "робот өзгөрттү: %(modifying)s",
+	"interwiki-modifying-from": "Бот өзгөрттү: %(from)sдан %(modifying)sга",
 	"interwiki-removing": "робот өчүрдү: %(removing)s",
-	"interwiki-removing-modifying": "робот өчүрдү: %(removing)s өзгөрттү: %(modifying)s",
-	"interwiki-modifying-from": "Бот өзгөрттү: %(from)sдан %(modifying)sга"
+	"interwiki-removing-modifying": "робот өчүрдү: %(removing)s өзгөрттү: %(modifying)s"
 }

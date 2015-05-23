@@ -6,6 +6,6 @@
 	},
 	"weblinkchecker-archive_msg": "The wab page has been saved bi the Internet Archive. Please consider linking til aen appropriate archived version: [%(URL)s].",
 	"weblinkchecker-caption": "Deid airtin",
-	"weblinkchecker-summary": "Robot: Reportin onavailable external link",
-	"weblinkchecker-report": "During several autaemated bot rins the follaein ootby airtin wis foond tae be onavailable. Please check gif the link is in fact doon n fix or remuiv it in that case!"
+	"weblinkchecker-report": "During several autaemated bot rins the follaein ootby airtin wis foond tae be onavailable. Please check gif the link is in fact doon n fix or remuiv it in that case!",
+	"weblinkchecker-summary": "Robot: Reportin onavailable external link"
 }

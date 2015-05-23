@@ -1,7 +1,7 @@
 {
 	"@metadata": [],
-	"featured-good": "بوت: %(page)s هي مقالة جيدة",
-	"featured-list": "بوت: %(page)s هي قائمة مختارة",
 	"featured-featured": "بوت: %(page)s هي مقالة مختارة",
-	"featured-former": "بوت: %(page)s مقالة مختارة سابقة"
+	"featured-former": "بوت: %(page)s مقالة مختارة سابقة",
+	"featured-good": "بوت: %(page)s هي مقالة جيدة",
+	"featured-list": "بوت: %(page)s هي قائمة مختارة"
 }

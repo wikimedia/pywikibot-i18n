@@ -1,6 +1,6 @@
 {
 	"@metadata": [],
-	"template-removing": "Робот: видалення {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s",
 	"template-changing": "Бот: заміна {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s",
+	"template-removing": "Робот: видалення {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s",
 	"template-substituting": "Робот: підстановка {{PLURAL:%(num)d|шаблону|шаблонів}}: %(list)s"
 }

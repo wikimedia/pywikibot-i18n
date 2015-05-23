@@ -4,8 +4,8 @@
 			"Luthfi94"
 		]
 	},
-	"featured-good": "Bot: %(page)s adolah artikel rancak",
-	"featured-list": "Bot: %(page)s adolah daftar pilihan",
 	"featured-featured": "Bot: %(page)s adolah artikel pilihan",
-	"featured-former": "Bot: %(page)s adolah bakeh artikel pilihan"
+	"featured-former": "Bot: %(page)s adolah bakeh artikel pilihan",
+	"featured-good": "Bot: %(page)s adolah artikel rancak",
+	"featured-list": "Bot: %(page)s adolah daftar pilihan"
 }

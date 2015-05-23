@@ -6,7 +6,7 @@
 			"Gitartha.bordoloi"
 		]
 	},
-	"interwiki-modifying": "ৰবট পৰিৱৰ্তন কৰিছে: %(modifying)s",
+	"interwiki-adding": "ৰবট যোগ দিছে :%(adding)s",
 	"interwiki-adding-modifying": "ৰবট যোগ দিছে :%(adding)s পৰিবৰ্তন কৰিছে: %(modifying)s",
-	"interwiki-adding": "ৰবট যোগ দিছে :%(adding)s"
+	"interwiki-modifying": "ৰবট পৰিৱৰ্তন কৰিছে: %(modifying)s"
 }

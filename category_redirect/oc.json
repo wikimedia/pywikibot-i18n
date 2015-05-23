@@ -4,7 +4,7 @@
 			"Cedric31"
 		]
 	},
-	"category_redirect-comment": "Bòt de mantenença de las redireccions de categorias",
 	"category_redirect-change-category": "Robòt : Cambiament de la redireccion de [[:%(oldCatLink)s|%(oldCatTitle)s]] per [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bòt de mantenença de las redireccions de categorias",
 	"category_redirect-fix-double": "Robòt : repara una dobla redireccion"
 }

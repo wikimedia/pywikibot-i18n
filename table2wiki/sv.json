@@ -4,6 +4,6 @@
 			"Jopparn"
 		]
 	},
-	"table2wiki-warnings": "Användarkontrollerad bot: Tabellsyntax uppdaterad - {{PLURAL:count|1 varning|%(count)d varningar}}!",
-	"table2wiki-no-warning": "Användarkontrollerad bot: Tabellsyntax uppdaterad"
+	"table2wiki-no-warning": "Användarkontrollerad bot: Tabellsyntax uppdaterad",
+	"table2wiki-warnings": "Användarkontrollerad bot: Tabellsyntax uppdaterad - {{PLURAL:count|1 varning|%(count)d varningar}}!"
 }

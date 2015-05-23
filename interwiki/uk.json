@@ -4,12 +4,12 @@
 			"Ahonc"
 		]
 	},
-	"interwiki-modifying": "робот змінив: %(modifying)s",
+	"interwiki-adding": "робот додав: %(adding)s",
 	"interwiki-adding-modifying": "робот додав: %(adding)s, змінив: %(modifying)s",
 	"interwiki-adding-removing": "робот додав: %(adding)s, вилучив: %(removing)s",
 	"interwiki-adding-removing-modifying": "робот додав: %(adding)s, вилучив: %(removing)s, змінив: %(modifying)s",
-	"interwiki-adding": "робот додав: %(adding)s",
+	"interwiki-modifying": "робот змінив: %(modifying)s",
+	"interwiki-modifying-from": "Робот: замінив %(from)s на %(modifying)s",
 	"interwiki-removing": "робот вилучив: %(removing)s",
-	"interwiki-removing-modifying": "робот вилучив: %(removing)s, змінив: %(modifying)s",
-	"interwiki-modifying-from": "Робот: замінив %(from)s на %(modifying)s"
+	"interwiki-removing-modifying": "робот вилучив: %(removing)s, змінив: %(modifying)s"
 }

@@ -1,6 +1,6 @@
 {
 	"@metadata": [],
-	"template-removing": "בוט: מסיר {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s",
 	"template-changing": "בוט: משנה {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s",
+	"template-removing": "בוט: מסיר {{PLURAL:%(num)d|תבנית|תבניות}}: %(list)s",
 	"template-substituting": "בוט: מכליל {{PLURAL:%(num)d|תבנית|תבניות}} בקוד הדף: %(list)s"
 }

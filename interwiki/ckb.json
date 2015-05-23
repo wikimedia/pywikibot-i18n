@@ -5,12 +5,12 @@
 			"Calak"
 		]
 	},
-	"interwiki-modifying": "ڕۆبۆت: چاکسازیی %(modifying)s",
+	"interwiki-adding": "ڕۆبۆت: زیادکردنی %(adding)s",
 	"interwiki-adding-modifying": "ڕۆبۆت: زیادکردنی %(adding)s؛ چاکسازیی %(modifying)s",
 	"interwiki-adding-removing": "ڕۆبۆت: زیادکردنی %(adding)s؛ لابردنی: %(removing)s",
 	"interwiki-adding-removing-modifying": "ڕۆبۆت: زیادکردنی %(adding)s؛ لابردنی %(removing)s؛ چاکسازیی %(modifying)s",
-	"interwiki-adding": "ڕۆبۆت: زیادکردنی %(adding)s",
+	"interwiki-modifying": "ڕۆبۆت: چاکسازیی %(modifying)s",
+	"interwiki-modifying-from": "ڕۆبۆت: گۆڕانی %(from)s بۆ %(modifying)s",
 	"interwiki-removing": "ڕۆبۆت: لابردنی %(removing)s",
-	"interwiki-removing-modifying": "ڕۆبۆت: لابردنی %(removing)s؛ چاکسازیی %(modifying)s",
-	"interwiki-modifying-from": "ڕۆبۆت: گۆڕانی %(from)s بۆ %(modifying)s"
+	"interwiki-removing-modifying": "ڕۆبۆت: لابردنی %(removing)s؛ چاکسازیی %(modifying)s"
 }

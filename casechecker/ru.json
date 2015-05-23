@@ -5,9 +5,9 @@
 			"Dima st bk"
 		]
 	},
-	"casechecker-replacement-summary": "Бот: Замены регистра:",
-	"casechecker-delete-summary": "Бот: перенаправление содержит смесь кириллицы и латиницы в названии",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Это перенаправление используется для указания на %(target)s",
-	"casechecker-rename": "Бот: переименование смешанного регистра"
+	"casechecker-delete-summary": "Бот: перенаправление содержит смесь кириллицы и латиницы в названии",
+	"casechecker-rename": "Бот: переименование смешанного регистра",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Бот: Замены регистра:"
 }

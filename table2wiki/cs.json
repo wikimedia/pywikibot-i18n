@@ -4,6 +4,6 @@
 			"Spiffyk"
 		]
 	},
-	"table2wiki-warnings": "Uživatelem řízený robot: Syntaxe tabulky změněna - {{PLURAL:count|1 varování|%(count)d varování}}!",
-	"table2wiki-no-warning": "Uživatelem řízený robot: Syntaxe tabulky změněna"
+	"table2wiki-no-warning": "Uživatelem řízený robot: Syntaxe tabulky změněna",
+	"table2wiki-warnings": "Uživatelem řízený robot: Syntaxe tabulky změněna - {{PLURAL:count|1 varování|%(count)d varování}}!"
 }

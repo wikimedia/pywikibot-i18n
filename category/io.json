@@ -4,7 +4,7 @@
 			"Malafaya"
 		]
 	},
-	"category-changing": "roboto modifikas: %(oldcat)s",
 	"category-adding": "roboto adjuntas: category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-changing": "roboto modifikas: %(oldcat)s",
 	"category-was-moved": "roboto: Kategorio movesis a(d) [[:Category:%(newcat)s|%(title)s]]"
 }

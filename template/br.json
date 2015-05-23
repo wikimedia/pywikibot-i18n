@@ -4,7 +4,7 @@
 			"Fulup"
 		]
 	},
-	"template-removing": "Robot : O tiverkañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s",
 	"template-changing": "Robot : O kemmañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s",
+	"template-removing": "Robot : O tiverkañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s",
 	"template-substituting": "Robot : Oc'h erlec'hiañ ar {{PLURAL:%(num)d|patrom|patromoù}}: %(list)s"
 }

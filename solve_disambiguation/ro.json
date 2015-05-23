@@ -5,11 +5,11 @@
 			"Minisarm"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Dezambiguizare asistată de robot: %(from)s - Legături eliminate",
-	"solve_disambiguation-redirect-resolved": "Dezambiguizare asistată de robot: %(from)s - Legături modificate spre %(to)s",
+	"solve_disambiguation-adding-dn-template": "Dezambiguizare asistată de robot: %(from)s - Marcat ca necesitând atenția unui expert",
+	"solve_disambiguation-links-removed": "Dezambiguizare asistată de robot: %(from)s - Legături eliminate.",
 	"solve_disambiguation-links-resolved": "Dezambiguizare asistată de robot: %(from)s - Legături modificate spre %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Dezambiguizare asistată de robot: %(from)s - Marcat ca necesitând atenția unui expert",
-	"solve_disambiguation-adding-dn-template": "Dezambiguizare asistată de robot: %(from)s - Marcat ca necesitând atenția unui expert",
-	"solve_disambiguation-unknown-page": "(necunoscut)",
-	"solve_disambiguation-links-removed": "Dezambiguizare asistată de robot: %(from)s - Legături eliminate."
+	"solve_disambiguation-redirect-removed": "Dezambiguizare asistată de robot: %(from)s - Legături eliminate",
+	"solve_disambiguation-redirect-resolved": "Dezambiguizare asistată de robot: %(from)s - Legături modificate spre %(to)s",
+	"solve_disambiguation-unknown-page": "(necunoscut)"
 }

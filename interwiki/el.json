@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Ρομπότ: Τροποποίηση: %(modifying)s",
+	"interwiki-adding": "Ρομπότ: Προσθήκη: %(adding)s",
 	"interwiki-adding-modifying": "Ρομπότ: Προσθήκη: %(adding)s Τροποποίηση: %(modifying)s",
 	"interwiki-adding-removing": "Ρομπότ: Προσθήκη: %(adding)s Αφαίρεση: %(removing)s",
 	"interwiki-adding-removing-modifying": "Ρομπότ: Προσθήκη: %(adding)s Αφαίρεση: %(removing)s Τροποποίηση: %(modifying)s",
-	"interwiki-adding": "Ρομπότ: Προσθήκη: %(adding)s",
+	"interwiki-modifying": "Ρομπότ: Τροποποίηση: %(modifying)s",
+	"interwiki-modifying-from": "Ρομπότ: Αλλαγή %(from)s σε %(modifying)s",
 	"interwiki-removing": "Ρομπότ: Αφαίρεση: %(removing)s",
-	"interwiki-removing-modifying": "Ρομπότ: Αφαίρεση: %(removing)s Τροποποίηση: %(modifying)s",
-	"interwiki-modifying-from": "Ρομπότ: Αλλαγή %(from)s σε %(modifying)s"
+	"interwiki-removing-modifying": "Ρομπότ: Αφαίρεση: %(removing)s Τροποποίηση: %(modifying)s"
 }

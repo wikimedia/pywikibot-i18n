@@ -6,6 +6,6 @@
 	},
 	"weblinkchecker-archive_msg": "Ova stranica je arhivirana na \"Internet Archive\". Pokušajte staviti vezu prema arhiviranoj verziji ove stranice: [%(URL)s].",
 	"weblinkchecker-caption": "Mrtav link",
-	"weblinkchecker-summary": "Bot: Prijavljam nedostupnu vanjsku vezu",
-	"weblinkchecker-report": "Poslije nekoliko automatskih pokušaja bota, ustanovljeno je da je sljedeća vanjska veza nedostupna. Provjerite da li je veza zaista neispravna i zatim je ispravite ako je ovo slučaj!"
+	"weblinkchecker-report": "Poslije nekoliko automatskih pokušaja bota, ustanovljeno je da je sljedeća vanjska veza nedostupna. Provjerite da li je veza zaista neispravna i zatim je ispravite ako je ovo slučaj!",
+	"weblinkchecker-summary": "Bot: Prijavljam nedostupnu vanjsku vezu"
 }

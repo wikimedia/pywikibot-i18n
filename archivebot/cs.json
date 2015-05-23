@@ -7,9 +7,9 @@
 			"Juandev"
 		]
 	},
-	"archivebot-older-than": "starší než %(duration)s",
-	"archivebot-page-summary": "Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} (%(why)s) do %(archives)s.",
-	"archivebot-archiveheader": "{{Archiv diskuse}}",
 	"archivebot-archive-full": "(ARCHIV JE PLNÝ)",
-	"archivebot-archive-summary": "Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} z [[%(from)s]]."
+	"archivebot-archive-summary": "Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} z [[%(from)s]].",
+	"archivebot-archiveheader": "{{Archiv diskuse}}",
+	"archivebot-older-than": "starší než %(duration)s",
+	"archivebot-page-summary": "Archivuji %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vláken}} (%(why)s) do %(archives)s."
 }

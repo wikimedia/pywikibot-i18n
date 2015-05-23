@@ -4,11 +4,11 @@
 			"Purodha"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Bot: Watt-ėßß-datt?-Ömleidongs-Sigg %(from)s — Lengk udder Lengks eruß jenumme.",
-	"solve_disambiguation-redirect-resolved": "Bot: Watt-ėßß-datt?-Ömleidongs-Sigg %(from)s — Lengk udder Lengks op %(to)s jeändert.",
+	"solve_disambiguation-adding-dn-template": "Bot: Han de Watt-ėßß-datt?-Sigg %(from)s makeet, doh moß ene Minsch noh looere.",
+	"solve_disambiguation-links-removed": "Bot: Watt-ėßß-datt?-Ömleidongs-Sigg %(from)s — Lengk udder Lengks eruß jenumme.",
 	"solve_disambiguation-links-resolved": "Bot: Watt-ėßß-datt?-Sigg %(from)s — Lengk udder Lengks op %(to)s jeändert.",
 	"solve_disambiguation-redirect-adding-dn-template": "Bot: Han de Watt-ėßß-datt?-Ömleidongs-Sigg %(from)s makeet, doh moß ene Minsch noh looere.",
-	"solve_disambiguation-adding-dn-template": "Bot: Han de Watt-ėßß-datt?-Sigg %(from)s makeet, doh moß ene Minsch noh looere.",
-	"solve_disambiguation-unknown-page": "(onbekannt)",
-	"solve_disambiguation-links-removed": "Bot: Watt-ėßß-datt?-Ömleidongs-Sigg %(from)s — Lengk udder Lengks eruß jenumme."
+	"solve_disambiguation-redirect-removed": "Bot: Watt-ėßß-datt?-Ömleidongs-Sigg %(from)s — Lengk udder Lengks eruß jenumme.",
+	"solve_disambiguation-redirect-resolved": "Bot: Watt-ėßß-datt?-Ömleidongs-Sigg %(from)s — Lengk udder Lengks op %(to)s jeändert.",
+	"solve_disambiguation-unknown-page": "(onbekannt)"
 }

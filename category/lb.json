@@ -4,16 +4,16 @@
 			"Robby"
 		]
 	},
-	"category-version-history": "Bot: Späicher vum Versiounshistorique vun der vireger %(oldcat)s",
-	"category-changing": "Bot: Ännere vu(n) %(oldcat)s op %(newcat)s",
 	"category-adding": "Bot: Kategorie derbäisetzen [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(och a(n) %(alsocat)s)",
-	"category-was-disbanded": "Bot: Kategorie gouf opgeléist",
-	"category-strip-cfd-templates": "Bot: CFD-Schablounen ewechgeholl fir ofgeschlossen Aktioun",
-	"category-replacing": "Bot: Ersetze vun der Kategorie %(oldcat)s duerch %(newcat)s",
+	"category-changing": "Bot: Ännere vu(n) %(oldcat)s op %(newcat)s",
+	"category-listifying": "Bot: Lëscht vun der %(fromcat)s (%(num)d Memberen)",
 	"category-removing": "Bot: Ewech huele vun %(oldcat)s",
-	"category-was-moved": "Bot: Kategorie gouf geréckelt: Nei [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Bot: Geréckelt vum %s. Auteuren: %s",
+	"category-replacing": "Bot: Ersetze vun der Kategorie %(oldcat)s duerch %(newcat)s",
 	"category-section-title": "Versioune vun de virege(n) %(oldcat)s",
-	"category-listifying": "Bot: Lëscht vun der %(fromcat)s (%(num)d Memberen)"
+	"category-strip-cfd-templates": "Bot: CFD-Schablounen ewechgeholl fir ofgeschlossen Aktioun",
+	"category-version-history": "Bot: Späicher vum Versiounshistorique vun der vireger %(oldcat)s",
+	"category-was-disbanded": "Bot: Kategorie gouf opgeléist",
+	"category-was-moved": "Bot: Kategorie gouf geréckelt: Nei [[:Category:%(newcat)s|%(title)s]]"
 }

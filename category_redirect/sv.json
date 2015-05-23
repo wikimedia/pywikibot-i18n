@@ -4,9 +4,9 @@
 			"Lokal Profil"
 		]
 	},
-	"category_redirect-comment": "Underhållsbot för kategoriomdirigeringar",
-	"category_redirect-change-category": "Bot: Ändrar omdirigerad kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] till [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Bot: lägger till kategoriomdirigeringsmall för underhåll",
+	"category_redirect-change-category": "Bot: Ändrar omdirigerad kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] till [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Underhållsbot för kategoriomdirigeringar",
 	"category_redirect-edit-request": "Det har upptäckts att följande skyddade sidor kräver uppdateringar till kategorilänkar: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s är i %(oldcat)s, som är en omdirigering till %(newcat)s",
 	"category_redirect-fix-double": "Bot: Rättar dubbel omdirigering"

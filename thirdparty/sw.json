@@ -5,14 +5,14 @@
 			"Kwisha"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "karagosi",
+	"thirdparty-drtrigonbot-subster-summary-mod": "inabadilisha %(tags)s tagi",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Majadiliano yamebadilishwa",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Majadiliano yamefungwa",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "UJUMBE WA KIKARAGOSI",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Majadiliano mapya",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(hakuna mharairi binadamu amepatikani)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Majadiliano mapya",
-	"thirdparty-drtrigonbot-subster-summary-mod": "inabadilisha %(tags)s tagi",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Majadiliano yamefungwa",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Muhtasari wa majadiliano umeongezwa: Viingizo %(num)i",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Majadiliano yamebadilishwa",
-	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Muhtasari wa majadiliano umesasishwa: viingizo %(num)i katika %(page)s",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "UJUMBE WA KIKARAGOSI"
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "karagosi",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Muhtasari wa majadiliano umesasishwa: viingizo %(num)i katika %(page)s"
 }

@@ -6,9 +6,9 @@
 			"GatoSelvadego"
 		]
 	},
-	"category_redirect-comment": "Robot de manutension de rindirisamenti a categorie",
-	"category_redirect-change-category": "Robot: Canbio ła categoria co rindirisamento [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: Xonto el modèl de rindirisamento a categoria par manutension",
+	"category_redirect-change-category": "Robot: Canbio ła categoria co rindirisamento [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Robot de manutension de rindirisamenti a categorie",
 	"category_redirect-edit-request": "Le seguenti pajine protete xe stà individuade come bixognoxe de axornamenti pa' i link a łe categorie: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s xe inte %(oldcat)s, che el xe un rindirisamento verso %(newcat)s",
 	"category_redirect-fix-double": "Robot: Sistemo i rindirisamenti dopi"

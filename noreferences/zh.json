@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Liuxinyu970226"
 		]
 	},
-	"noreferences-add-tag": "机器人：添加缺少的<references />标签"
+	"noreferences-add-tag": "机器人：添加缺少的<references />标签",
+	"noreferences-fix-tag": "机器人：修复<references />标签的无效语法"
 }

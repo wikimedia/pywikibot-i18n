@@ -4,8 +4,8 @@
 			"Anakmalaysia"
 		]
 	},
-	"featured-good": "Bot: %(page)s merupakan artikel yang baik",
-	"featured-list": "Bot: %(page)s merupakan senarai pilihan",
 	"featured-featured": "Bot: %(page)s merupakan rencana pilihan",
-	"featured-former": "Bot: %(page)s merupakan rencana pilihan arkib"
+	"featured-former": "Bot: %(page)s merupakan rencana pilihan arkib",
+	"featured-good": "Bot: %(page)s merupakan artikel yang baik",
+	"featured-list": "Bot: %(page)s merupakan senarai pilihan"
 }

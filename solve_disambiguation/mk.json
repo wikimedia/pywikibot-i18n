@@ -4,11 +4,11 @@
 			"Bjankuloski06"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Роботизирано појаснување: %(from)s - Отстранување на врска/ки",
-	"solve_disambiguation-redirect-resolved": "Роботизирано појаснување: %(from)s - Измена на врска/ки во %(to)s",
+	"solve_disambiguation-adding-dn-template": "Роботизирано појаснување: %(from)s - Означено како „потребно внимание од стручњак“",
+	"solve_disambiguation-links-removed": "Роботизирано појаснување: %(from)s - Отстранување на врска/ки",
 	"solve_disambiguation-links-resolved": "Роботизирано појаснување: %(from)s - Измена на врска/ки во %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Роботизирано појаснување: %(from)s - Означено како „потребно внимание од стручњак“",
-	"solve_disambiguation-adding-dn-template": "Роботизирано појаснување: %(from)s - Означено како „потребно внимание од стручњак“",
-	"solve_disambiguation-unknown-page": "(непозната)",
-	"solve_disambiguation-links-removed": "Роботизирано појаснување: %(from)s - Отстранување на врска/ки"
+	"solve_disambiguation-redirect-removed": "Роботизирано појаснување: %(from)s - Отстранување на врска/ки",
+	"solve_disambiguation-redirect-resolved": "Роботизирано појаснување: %(from)s - Измена на врска/ки во %(to)s",
+	"solve_disambiguation-unknown-page": "(непозната)"
 }

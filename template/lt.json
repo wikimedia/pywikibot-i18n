@@ -4,7 +4,7 @@
 			"Mantak111"
 		]
 	},
-	"template-removing": "robotas: {{PLURAL:%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s",
 	"template-changing": "robotas: {{PLURAL:%(num)d|Keičiamas šablonas|Keičiami šablonai}}: %(list)s",
+	"template-removing": "robotas: {{PLURAL:%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s",
 	"template-substituting": "robotas: {{PLURAL:%(num)d|Šalinamas šablonas|Šalinami šablonai}}: %(list)s"
 }

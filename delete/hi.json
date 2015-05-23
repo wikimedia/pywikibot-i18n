@@ -5,9 +5,9 @@
 			"Siddhartha Ghai"
 		]
 	},
-	"delete-images": "बॉट: पृष्ठ %(page)s पर मौजूद सभी चित्रों को हटाया जा रहा है",
-	"delete-referring-pages": "बॉट: %(page)s से जुड़े हुए सभी पन्नों को हटाया जा रहा है",
 	"delete-from-category": "बॉट: %(page)s श्रेणी से सभी पन्नों को हटाया जा रहा है",
 	"delete-from-file": "बॉट: पन्नों की सूची में से पृष्ठ हटाए जा रहे हैं।",
-	"delete-linked-pages": "बॉट: %(page)s से लिंक किये गए सभी पन्नों को हटाया जा रहा है"
+	"delete-images": "बॉट: पृष्ठ %(page)s पर मौजूद सभी चित्रों को हटाया जा रहा है",
+	"delete-linked-pages": "बॉट: %(page)s से लिंक किये गए सभी पन्नों को हटाया जा रहा है",
+	"delete-referring-pages": "बॉट: %(page)s से जुड़े हुए सभी पन्नों को हटाया जा रहा है"
 }

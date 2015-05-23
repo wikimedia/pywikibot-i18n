@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"unprotect-category": "Robot: beveiliging opheffen voor alle pagina's van categorie %(cat)s",
+	"unprotect-images": "Robot: beveiliging opheffen voor alle bestanden op pagina %(page)s",
+	"unprotect-links": "Robot: beveiliging opheffen voor alle pagina's gekoppeld vanaf %(page)s",
+	"unprotect-ref": "Robot: beveiliging opheffen voor alle pagina's met een koppeling vanaf %(page)s",
+	"unprotect-simple": "Robot: beveiliging opheffen voor een bestandlijst"
+}

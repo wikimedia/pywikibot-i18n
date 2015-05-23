@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "bot změnił: %(modifying)s",
+	"interwiki-adding": "bot přidał: %(adding)s",
 	"interwiki-adding-modifying": "bot přidał: %(adding)s změnił: %(modifying)s",
 	"interwiki-adding-removing": "bot přidał: %(adding)s wotstronił: %(removing)s",
 	"interwiki-adding-removing-modifying": "bot přidał: %(adding)s wotstronił: %(removing)s změnił: %(modifying)s",
-	"interwiki-adding": "bot přidał: %(adding)s",
+	"interwiki-modifying": "bot změnił: %(modifying)s",
 	"interwiki-removing": "bot wotstronił: %(removing)s",
 	"interwiki-removing-modifying": "bot wotstronił: %(removing)s změnił: %(modifying)s"
 }

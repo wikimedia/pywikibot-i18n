@@ -4,11 +4,11 @@
 			"Dontlietome7"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Robot opravil přesměrování na %(from)s - Odstraněn(y) odkaz(y)",
-	"solve_disambiguation-redirect-resolved": "Robot opravil přesměrování na %(from)s - Změněn(y) odkaz(y) na %(to)s",
+	"solve_disambiguation-adding-dn-template": "Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka",
+	"solve_disambiguation-links-removed": "Odstranění linku na rozcestník [[%(from)s]] s použitím robota - Odstraněn(y) odkaz(y)",
 	"solve_disambiguation-links-resolved": "Odstranění linku na rozcestník [[%(from)s]] s použitím robota - Změněn(y) odkaz(y) na %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka",
-	"solve_disambiguation-adding-dn-template": "Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka",
-	"solve_disambiguation-unknown-page": "(neznámé)",
-	"solve_disambiguation-links-removed": "Odstranění linku na rozcestník [[%(from)s]] s použitím robota - Odstraněn(y) odkaz(y)"
+	"solve_disambiguation-redirect-removed": "Robot opravil přesměrování na %(from)s - Odstraněn(y) odkaz(y)",
+	"solve_disambiguation-redirect-resolved": "Robot opravil přesměrování na %(from)s - Změněn(y) odkaz(y) na %(to)s",
+	"solve_disambiguation-unknown-page": "(neznámé)"
 }

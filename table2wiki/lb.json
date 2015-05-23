@@ -4,6 +4,6 @@
 			"Robby"
 		]
 	},
-	"table2wiki-warnings": "Benotzer-kontrolléierte-Bot: Tabellesyntax aktualiséiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!",
-	"table2wiki-no-warning": "Benotzer-kontrolléierte-Bot: Tabellesyntax aktualiséiert"
+	"table2wiki-no-warning": "Benotzer-kontrolléierte-Bot: Tabellesyntax aktualiséiert",
+	"table2wiki-warnings": "Benotzer-kontrolléierte-Bot: Tabellesyntax aktualiséiert - {{PLURAL:count|1 Warnung|%(count)d Warnungen}}!"
 }

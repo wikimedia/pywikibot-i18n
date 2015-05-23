@@ -4,12 +4,12 @@
 			"McDutchie"
 		]
 	},
-	"interwiki-modifying": "Robot: Modification de %(modifying)s",
+	"interwiki-adding": "Robot: Addition de %(adding)s",
 	"interwiki-adding-modifying": "Robot: Addition de %(adding)s; modification de %(modifying)s",
 	"interwiki-adding-removing": "Robot: Addition de %(adding)s; elimination de %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot: Addition de %(adding)s; elimination de %(removing)s; modification de %(modifying)s",
-	"interwiki-adding": "Robot: Addition de %(adding)s",
+	"interwiki-modifying": "Robot: Modification de %(modifying)s",
+	"interwiki-modifying-from": "Robot: Modifica %(from)s a %(modifying)s",
 	"interwiki-removing": "Robot: Elimination de %(removing)s",
-	"interwiki-removing-modifying": "Robot: Elimination de %(removing)s; modification de %(modifying)s",
-	"interwiki-modifying-from": "Robot: Modifica %(from)s a %(modifying)s"
+	"interwiki-removing-modifying": "Robot: Elimination de %(removing)s; modification de %(modifying)s"
 }

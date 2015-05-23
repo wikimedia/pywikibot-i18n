@@ -4,15 +4,15 @@
 			"Praveenp"
 		]
 	},
-	"category-version-history": "യന്ത്രം: പഴയ %(oldcat)s എന്നതിന്റെ നാൾപ്പതിപ്പ് ചരിത്രം സേവ് ചെയ്യുന്നു",
-	"category-changing": "യന്ത്രം:  %(oldcat)s എന്നത് %(newcat)s എന്നതായി മാറ്റുന്നു",
 	"category-adding": "യന്ത്രം: ചേർക്കുന്നു category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(%(alsocat)s എന്നതിലും ഉണ്ട്)",
-	"category-was-disbanded": "യന്ത്രം: വർഗ്ഗം ഒഴിവാക്കിയിരിക്കുന്നു",
-	"category-replacing": "യന്ത്രം: %(oldcat)s എന്ന വർഗ്ഗം %(newcat)s എന്നതുപയോഗിച്ച് മാറ്റിച്ചേർക്കുന്നു",
+	"category-changing": "യന്ത്രം:  %(oldcat)s എന്നത് %(newcat)s എന്നതായി മാറ്റുന്നു",
+	"category-listifying": "യന്ത്രം: %(fromcat)s എന്നതിൽ നിന്നും പട്ടികയുണ്ടാക്കുന്നു ({{PLURAL:%(num)d|ഒരു ഇനം|%(num)d ഇനങ്ങൾ}})",
 	"category-removing": "യന്ത്രം: %(oldcat)s എന്നതിൽ നിന്ന് നീക്കം ചെയ്യുന്നു",
-	"category-was-moved": "യന്ത്രം: വർഗ്ഗം [[:Category:%(newcat)s|%(title)s]] എന്നാക്കി മാറ്റിയിരിക്കുന്നു",
 	"category-renamed": "യന്ത്രം: %s എന്നതിൽ നിന്ന് മാറ്റി. രചയിതാക്കൾ: %s",
+	"category-replacing": "യന്ത്രം: %(oldcat)s എന്ന വർഗ്ഗം %(newcat)s എന്നതുപയോഗിച്ച് മാറ്റിച്ചേർക്കുന്നു",
 	"category-section-title": "പഴയ %(oldcat)s എന്നതിന്റെ  നാൾ ചരിത്രം",
-	"category-listifying": "യന്ത്രം: %(fromcat)s എന്നതിൽ നിന്നും പട്ടികയുണ്ടാക്കുന്നു ({{PLURAL:%(num)d|ഒരു ഇനം|%(num)d ഇനങ്ങൾ}})"
+	"category-version-history": "യന്ത്രം: പഴയ %(oldcat)s എന്നതിന്റെ നാൾപ്പതിപ്പ് ചരിത്രം സേവ് ചെയ്യുന്നു",
+	"category-was-disbanded": "യന്ത്രം: വർഗ്ഗം ഒഴിവാക്കിയിരിക്കുന്നു",
+	"category-was-moved": "യന്ത്രം: വർഗ്ഗം [[:Category:%(newcat)s|%(title)s]] എന്നാക്കി മാറ്റിയിരിക്കുന്നു"
 }

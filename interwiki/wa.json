@@ -5,12 +5,12 @@
 			"Xqt"
 		]
 	},
-	"interwiki-modifying": "robot candjî: %(modifying)s",
+	"interwiki-adding": "robot radjouter: %(adding)s",
 	"interwiki-adding-modifying": "robot radjouter: %(adding)s candjî: %(modifying)s",
 	"interwiki-adding-removing": "robot radjouter: %(adding)s rissaetchî: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot radjouter: %(adding)s rissaetchî: %(removing)s candjî: %(modifying)s",
-	"interwiki-adding": "robot radjouter: %(adding)s",
+	"interwiki-modifying": "robot candjî: %(modifying)s",
+	"interwiki-modifying-from": "Robot: displaeçaedje di %(from)s eviè %(modifying)s",
 	"interwiki-removing": "robot rissaetchî: %(removing)s",
-	"interwiki-removing-modifying": "robot rissaetchî: %(removing)s candjî: %(modifying)s",
-	"interwiki-modifying-from": "Robot: displaeçaedje di %(from)s eviè %(modifying)s"
+	"interwiki-removing-modifying": "robot rissaetchî: %(removing)s candjî: %(modifying)s"
 }

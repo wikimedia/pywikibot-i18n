@@ -5,8 +5,8 @@
 			"Xqt"
 		]
 	},
+	"redirect-broken-redirect-template": "{{Löschen|hinige Weiderloattung}}",
 	"redirect-fix-double": "Bot: richtt dóppéde Weiderloattung auf %(to)s",
 	"redirect-remove-broken": "Bot: Weiderloattungszü gibts néd",
-	"redirect-remove-loop": "Bot: Weiderloattungszü auf sé söwer",
-	"redirect-broken-redirect-template": "{{Löschen|hinige Weiderloattung}}"
+	"redirect-remove-loop": "Bot: Weiderloattungszü auf sé söwer"
 }

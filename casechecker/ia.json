@@ -4,9 +4,9 @@
 			"McDutchie"
 		]
 	},
-	"casechecker-replacement-summary": "Robot: Substitution de majusculas/minusculas:",
-	"casechecker-delete-summary": "Robot: Iste redirection contine litteras cyrillic e latin de aspecto identic in le titulo",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Iste redirection punctava verso %(target)s",
-	"casechecker-rename": "Robot: renomination a causa de litteras mixte"
+	"casechecker-delete-summary": "Robot: Iste redirection contine litteras cyrillic e latin de aspecto identic in le titulo",
+	"casechecker-rename": "Robot: renomination a causa de litteras mixte",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Robot: Substitution de majusculas/minusculas:"
 }

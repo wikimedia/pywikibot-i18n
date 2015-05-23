@@ -4,7 +4,7 @@
 			"McDutchie"
 		]
 	},
-	"template-removing": "Robot: Elimination de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s",
 	"template-changing": "Robot: Cambiamento de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s",
+	"template-removing": "Robot: Elimination de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s",
 	"template-substituting": "Robot: Substitution de {{PLURAL:%(num)d|un patrono|patronos}}: %(list)s"
 }

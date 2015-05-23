@@ -4,6 +4,6 @@
 			"StefanusRA"
 		]
 	},
-	"table2wiki-warnings": "Bot panganggo: sintaks tabel dimutakhirna -  {{PLURAL:count|1|%(count)d}} pengétan!",
-	"table2wiki-no-warning": "Bot panganggo: Sintaks tabel dimutakhirna"
+	"table2wiki-no-warning": "Bot panganggo: Sintaks tabel dimutakhirna",
+	"table2wiki-warnings": "Bot panganggo: sintaks tabel dimutakhirna -  {{PLURAL:count|1|%(count)d}} pengétan!"
 }

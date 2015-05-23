@@ -5,12 +5,12 @@
 			"VASANTH S.N."
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "ರೋಬೋಟ್",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "ಚರ್ಚೆ ಬದಲಾಗಿದೆ",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "ಚರ್ಚೆ ಮುಚ್ಚಲಾಗಿದೆ",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ರೋಬೋಟ್ ಸಂದೇಶ",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "ಹೊಸ ಚರ್ಚೆ",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "ಪ್ರಕಟಣೆ",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "ಚರ್ಚೆ ಮುಚ್ಚಲಾಗಿದೆ",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "ಚರ್ಚೆಯ ಸಾರಾಂಶ ಸೇರಿಸಲಾಗಿದೆ:% (no ) i  ನಮೂನೆಗಳು",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "ಚರ್ಚೆ ಬದಲಾಗಿದೆ",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": ":% (num ) i  ನಮೂನೆಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ ಚರ್ಚೆಯ ಸಾರಾಂಶಕ್ಕೆ ಸೇರಿಸಿದ್ದಾರೆ",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ರೋಬೋಟ್ ಸಂದೇಶ"
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "ರೋಬೋಟ್"
 }

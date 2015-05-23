@@ -4,11 +4,11 @@
 			"Minh Nguyen"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Xin vui lòng nhập tên tập tin của bản sao lưu XML:",
-	"pywikibot-enter-page-processing": "Nên xử lý trang nào?",
+	"pywikibot-enter-category-name": "Xin vui lòng nhập tên thể loại:",
 	"pywikibot-enter-file-links-processing": "Nên xử lý các liên kết đến trang miêu tả tập tin nào?",
+	"pywikibot-enter-finished-browser": "Bấm Enter sau khi sửa đổi xong trong trình duyệt.",
 	"pywikibot-enter-namespace-number": "Xin vui lòng nhập số không gian tên:",
 	"pywikibot-enter-new-text": "Xin vui lòng nhập văn bản mới:",
-	"pywikibot-enter-category-name": "Xin vui lòng nhập tên thể loại:",
-	"pywikibot-enter-finished-browser": "Bấm Enter sau khi sửa đổi xong trong trình duyệt."
+	"pywikibot-enter-page-processing": "Nên xử lý trang nào?",
+	"pywikibot-enter-xml-filename": "Xin vui lòng nhập tên tập tin của bản sao lưu XML:"
 }

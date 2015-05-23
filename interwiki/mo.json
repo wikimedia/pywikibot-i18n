@@ -5,7 +5,7 @@
 			"Xqt"
 		]
 	},
-	"interwiki-modifying": "Робот: Модификат: %(modifying)s",
+	"interwiki-adding": "Робот: Адэугат: %(adding)s",
 	"interwiki-adding-modifying": "Робот: Адэугат: %(adding)s Модификат: %(modifying)s",
-	"interwiki-adding": "Робот: Адэугат: %(adding)s"
+	"interwiki-modifying": "Робот: Модификат: %(modifying)s"
 }

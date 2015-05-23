@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "ბოტის შეცვლა: %(modifying)s",
+	"interwiki-adding": "ბოტის დამატება: %(adding)s",
 	"interwiki-adding-modifying": "ბოტის დამატება: %(adding)s შეცვლა: %(modifying)s",
 	"interwiki-adding-removing": "ბოტის დამატება: %(adding)s წაშლა: %(removing)s",
 	"interwiki-adding-removing-modifying": "ბოტის დამატება: %(adding)s წაშლა: %(removing)s შეცვლა: %(modifying)s",
-	"interwiki-adding": "ბოტის დამატება: %(adding)s",
+	"interwiki-modifying": "ბოტის შეცვლა: %(modifying)s",
 	"interwiki-removing": "ბოტის წაშლა: %(removing)s",
 	"interwiki-removing-modifying": "ბოტის წაშლა: %(removing)s შეცვლა: %(modifying)s"
 }

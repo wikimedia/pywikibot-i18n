@@ -4,8 +4,8 @@
 			"Shirayuki"
 		]
 	},
-	"featured-good": "ロボットによる: 良質な記事へのリンク %(page)s",
-	"featured-list": "ロボットによる: 秀逸な一覧へのリンク %(page)s",
 	"featured-featured": "ロボットによる: 秀逸な記事へのリンク %(page)s",
-	"featured-former": "ロボットによる: %(page)s はかつて秀逸な記事でした"
+	"featured-former": "ロボットによる: %(page)s はかつて秀逸な記事でした",
+	"featured-good": "ロボットによる: 良質な記事へのリンク %(page)s",
+	"featured-list": "ロボットによる: 秀逸な一覧へのリンク %(page)s"
 }

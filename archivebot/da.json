@@ -5,9 +5,9 @@
 			"Tjernobyl"
 		]
 	},
-	"archivebot-older-than": "ældre end %(duration)s",
-	"archivebot-page-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} (%(why)s) til %(archives)s.",
-	"archivebot-archiveheader": "{{arkiv}}",
 	"archivebot-archive-full": "(ARKIV FULDT)",
-	"archivebot-archive-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} fra [[%(from)s]]."
+	"archivebot-archive-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} fra [[%(from)s]].",
+	"archivebot-archiveheader": "{{arkiv}}",
+	"archivebot-older-than": "ældre end %(duration)s",
+	"archivebot-page-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} (%(why)s) til %(archives)s."
 }

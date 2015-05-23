@@ -5,10 +5,10 @@
 			"VASANTH S.N."
 		]
 	},
-	"pywikibot-enter-page-processing": "ಯಾವ ಪುಟವನ್ನು  ಸಂಸ್ಕರಣೆ  ಮಾಡಬೇಕು?",
+	"pywikibot-enter-category-name": "ವರ್ಗದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ:",
 	"pywikibot-enter-file-links-processing": "ಚಿತ್ರ ಪುಟದ ಯಾವ ಕೊಂಡಿಗಳನ್ನು ಪ್ರಕ್ರಿಯಿಸಬೇಕು",
+	"pywikibot-enter-finished-browser": "ಬ್ರೌಸರ್ ಅಲ್ಲಿ ಮುಗಿದಾಗ enter ಒತ್ತಿ",
 	"pywikibot-enter-namespace-number": "ಅದರ ಸಂಖ್ಯೆಯಿಂದ ಒಂದು ಹೆಸರಿನ ನಮೂದಿಸಿ:",
 	"pywikibot-enter-new-text": "ಹೊಸ ಪಠ್ಯವನ್ನು ನಮೂದಿಸಿ:",
-	"pywikibot-enter-category-name": "ವರ್ಗದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ:",
-	"pywikibot-enter-finished-browser": "ಬ್ರೌಸರ್ ಅಲ್ಲಿ ಮುಗಿದಾಗ enter ಒತ್ತಿ"
+	"pywikibot-enter-page-processing": "ಯಾವ ಪುಟವನ್ನು  ಸಂಸ್ಕರಣೆ  ಮಾಡಬೇಕು?"
 }

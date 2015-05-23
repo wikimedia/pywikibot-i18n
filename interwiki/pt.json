@@ -4,12 +4,12 @@
 			"Hamilton Abreu"
 		]
 	},
-	"interwiki-modifying": "Robô: A modificar: %(modifying)s",
+	"interwiki-adding": "Robô: A adicionar: %(adding)s",
 	"interwiki-adding-modifying": "Robô: A adicionar: %(adding)s A modificar: %(modifying)s",
 	"interwiki-adding-removing": "Robô: A adicionar: %(adding)s A remover: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robô: A adicionar: %(adding)s A remover: %(removing)s A modificar: %(modifying)s",
-	"interwiki-adding": "Robô: A adicionar: %(adding)s",
+	"interwiki-modifying": "Robô: A modificar: %(modifying)s",
+	"interwiki-modifying-from": "Robô: A modificar %(from)s para %(modifying)s",
 	"interwiki-removing": "Robô: A remover: %(removing)s",
-	"interwiki-removing-modifying": "Robô: A remover: %(removing)s A modificar: %(modifying)s",
-	"interwiki-modifying-from": "Robô: A modificar %(from)s para %(modifying)s"
+	"interwiki-removing-modifying": "Robô: A remover: %(removing)s A modificar: %(modifying)s"
 }

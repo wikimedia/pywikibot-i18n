@@ -1,7 +1,7 @@
 {
 	"@metadata": [],
-	"solve_disambiguation-redirect-removed": "Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).",
-	"solve_disambiguation-redirect-resolved": "Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-links-removed": "Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).",
 	"solve_disambiguation-links-resolved": "Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s",
-	"solve_disambiguation-links-removed": "Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s)."
+	"solve_disambiguation-redirect-removed": "Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).",
+	"solve_disambiguation-redirect-resolved": "Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s"
 }

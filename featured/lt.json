@@ -4,8 +4,8 @@
 			"Hugo.arg"
 		]
 	},
-	"featured-good": "robotas: %(page)s yra vertingas straipsnis",
-	"featured-list": "robotas: %(page)s yra pavyzdinis sąrašas",
 	"featured-featured": "Bot: Pavyzdinis straipsnis %(page)s",
-	"featured-former": "robotas: %(page)s yra buvęs pavyzdiniu straipsniu"
+	"featured-former": "robotas: %(page)s yra buvęs pavyzdiniu straipsniu",
+	"featured-good": "robotas: %(page)s yra vertingas straipsnis",
+	"featured-list": "robotas: %(page)s yra pavyzdinis sąrašas"
 }

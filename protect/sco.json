@@ -4,9 +4,9 @@
 			"John Reid"
 		]
 	},
-	"protect-links": "Robot: Protectin aw pages linked fae %(page)s",
-	"protect-simple": "Robot: Protectin ae leet o files.",
 	"protect-category": "Robot: Protectin aw pages fae categorie %(cat)s",
+	"protect-images": "Robot: Protectin aw eemages oan page %(page)s",
+	"protect-links": "Robot: Protectin aw pages linked fae %(page)s",
 	"protect-ref": "Robot: Protectin aw pages referring fae %(page)s",
-	"protect-images": "Robot: Protectin aw eemages oan page %(page)s"
+	"protect-simple": "Robot: Protectin ae leet o files."
 }

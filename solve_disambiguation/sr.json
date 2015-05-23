@@ -4,11 +4,11 @@
 			"Rancher"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Роботизована вишезначна одредница: %(from)s – уклоњене везе",
-	"solve_disambiguation-redirect-resolved": "Роботизована вишезначна одредница: %(from)s – промењене везе у %(to)s",
+	"solve_disambiguation-adding-dn-template": "Роботизована вишезначна одредница: %(from)s – означено као „потребна стручна пажња“",
+	"solve_disambiguation-links-removed": "Роботизована вишезначна одредница: %(from)s – уклоњене везе.",
 	"solve_disambiguation-links-resolved": "Роботизована вишезначна одредница: %(from)s – промењене везе у %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Роботизована вишезначна одредница: %(from)s – означено као „потребна стручна пажња“",
-	"solve_disambiguation-adding-dn-template": "Роботизована вишезначна одредница: %(from)s – означено као „потребна стручна пажња“",
-	"solve_disambiguation-unknown-page": "(непознато)",
-	"solve_disambiguation-links-removed": "Роботизована вишезначна одредница: %(from)s – уклоњене везе."
+	"solve_disambiguation-redirect-removed": "Роботизована вишезначна одредница: %(from)s – уклоњене везе",
+	"solve_disambiguation-redirect-resolved": "Роботизована вишезначна одредница: %(from)s – промењене везе у %(to)s",
+	"solve_disambiguation-unknown-page": "(непознато)"
 }

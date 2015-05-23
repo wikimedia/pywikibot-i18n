@@ -5,9 +5,9 @@
 			"Kaare"
 		]
 	},
-	"delete-images": "Robot: Sletter alle billeder på siden %(page)s",
-	"delete-referring-pages": "Robot: Sletter alle sider som henviser fra %(page)s",
 	"delete-from-category": "Robot: Sletter alle sider fra kategorien %(page)s",
 	"delete-from-file": "Robot: Sletter en liste af sider.",
-	"delete-linked-pages": "Robot: Sletter alle sider som henvises fra %(page)s"
+	"delete-images": "Robot: Sletter alle billeder på siden %(page)s",
+	"delete-linked-pages": "Robot: Sletter alle sider som henvises fra %(page)s",
+	"delete-referring-pages": "Robot: Sletter alle sider som henviser fra %(page)s"
 }

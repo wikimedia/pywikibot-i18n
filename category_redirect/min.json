@@ -5,9 +5,9 @@
 			"Naval Scene"
 		]
 	},
-	"category_redirect-comment": "Bot pamaliharaan pangalihan kategori",
-	"category_redirect-change-category": "Robot: maganti kategori nan dialihan [[:%(oldCatLink)s|%(oldCatTitle)s]] manjadi [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: manambuahkan templat pamaliharaan pangalihan kategori",
+	"category_redirect-change-category": "Robot: maganti kategori nan dialihan [[:%(oldCatLink)s|%(oldCatTitle)s]] manjadi [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot pamaliharaan pangalihan kategori",
 	"category_redirect-edit-request": "Laman nan dilinduangi barikuik ko tadeteksi mamaraluan pambaruan untuak pautan kategori: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s tamasuak dalam %(oldcat)s, nan marupokan pangalihan ka %(newcat)s",
 	"category_redirect-fix-double": "Bot: Mampeloki pangalihan gando"

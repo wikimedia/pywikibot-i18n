@@ -7,15 +7,15 @@
 			"Sarrus"
 		]
 	},
-	"category-version-history": "Robot: Gemmer versionshistorikken for den tidligere %(oldcat)s",
-	"category-changing": "Robot: Ændrer %(oldcat)s til %(newcat)s",
 	"category-adding": "Robot: Tilføjer kategorien [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(også i %(alsocat)s)",
-	"category-was-disbanded": "Robot: Kategorien blev opløst",
-	"category-replacing": "Robot: Erstatter kategori %(oldcat)s med %(newcat)s",
+	"category-changing": "Robot: Ændrer %(oldcat)s til %(newcat)s",
+	"category-listifying": "Robot: Omdanner %(fromcat)s til liste ({{PLURAL:%(num)d|1 post|%(num)d poster}})",
 	"category-removing": "Robot: Fjerner fra %(oldcat)s",
-	"category-was-moved": "Robot: Flytter kategori til [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Robot: Flyttet fra %s. Forfattere: %s",
+	"category-replacing": "Robot: Erstatter kategori %(oldcat)s med %(newcat)s",
 	"category-section-title": "Sidehistorik fra den tidligere %(oldcat)s",
-	"category-listifying": "Robot: Omdanner %(fromcat)s til liste ({{PLURAL:%(num)d|1 post|%(num)d poster}})"
+	"category-version-history": "Robot: Gemmer versionshistorikken for den tidligere %(oldcat)s",
+	"category-was-disbanded": "Robot: Kategorien blev opløst",
+	"category-was-moved": "Robot: Flytter kategori til [[:Category:%(newcat)s|%(title)s]]"
 }

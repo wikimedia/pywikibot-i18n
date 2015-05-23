@@ -5,8 +5,8 @@
 			"Dj"
 		]
 	},
+	"pagefromfile-msg": "Bot: szócikkek automatikus importálása",
 	"pagefromfile-msg_bottom": "hozzáfűzés az aljához",
 	"pagefromfile-msg_force": "létező szöveg felülírva",
-	"pagefromfile-msg_top": "hozzáfűzés a tetejéhez",
-	"pagefromfile-msg": "Bot: szócikkek automatikus importálása"
+	"pagefromfile-msg_top": "hozzáfűzés a tetejéhez"
 }

@@ -6,10 +6,10 @@
 			"Xuacu"
 		]
 	},
-	"redirect-fix-double": "Bot: Iguando la redireición doble a %(to)s",
-	"redirect-remove-broken": "Bot: Redireición a una páxina desaniciada o que nun esiste",
+	"redirect-broken-redirect-template": "{{Destruir|La páxina a la que redirixe nun esiste|--~~~~}}",
 	"redirect-fix-broken-moved": "Bot: Arreglu de redireición frañada a la páxina de destín treslladada \"%(to)s\"",
+	"redirect-fix-double": "Bot: Iguando la redireición doble a %(to)s",
 	"redirect-fix-loop": "Bot: Iguando la redireición cíclica a %(to)s",
-	"redirect-remove-loop": "Bot: El destín de la redireición forma un bucle de redireición",
-	"redirect-broken-redirect-template": "{{Destruir|La páxina a la que redirixe nun esiste|--~~~~}}"
+	"redirect-remove-broken": "Bot: Redireición a una páxina desaniciada o que nun esiste",
+	"redirect-remove-loop": "Bot: El destín de la redireición forma un bucle de redireición"
 }

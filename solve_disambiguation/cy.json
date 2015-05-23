@@ -5,11 +5,11 @@
 			"Xxglennxx"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Gwahaniaethu gyda chymorth robot: %(from)s - Dolenni a dynnwyd",
-	"solve_disambiguation-redirect-resolved": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Newidiwyd dolenni i %(to)s",
+	"solve_disambiguation-adding-dn-template": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Nodwyd at sylw arbenigwr",
+	"solve_disambiguation-links-removed": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Tynnwyd dolenni.",
 	"solve_disambiguation-links-resolved": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Newidiwyd dolenni i %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Nodwyd at sylw arbenigwr",
-	"solve_disambiguation-adding-dn-template": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Nodwyd at sylw arbenigwr",
-	"solve_disambiguation-unknown-page": "(anhysbys)",
-	"solve_disambiguation-links-removed": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Tynnwyd dolenni."
+	"solve_disambiguation-redirect-removed": "Gwahaniaethu gyda chymorth robot: %(from)s - Dolenni a dynnwyd",
+	"solve_disambiguation-redirect-resolved": "Gwahaniaethu ystyr gyda chymorth robot: %(from)s - Newidiwyd dolenni i %(to)s",
+	"solve_disambiguation-unknown-page": "(anhysbys)"
 }

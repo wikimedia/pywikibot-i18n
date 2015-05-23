@@ -5,11 +5,11 @@
 			"KWiki"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Unesite naziv datoteke XML ispisa:",
-	"pywikibot-enter-page-processing": "Koja bi stranica trebala biti obrađena?",
+	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
 	"pywikibot-enter-file-links-processing": "Veze prema kojoj stranici da se obrade?",
+	"pywikibot-enter-finished-browser": "Pritisnite \"Enter\" kada završite u pregledniku.",
 	"pywikibot-enter-namespace-number": "Unesite broj imenskog prostora:",
 	"pywikibot-enter-new-text": "Unesite novi tekst:",
-	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
-	"pywikibot-enter-finished-browser": "Pritisnite \"Enter\" kada završite u pregledniku."
+	"pywikibot-enter-page-processing": "Koja bi stranica trebala biti obrađena?",
+	"pywikibot-enter-xml-filename": "Unesite naziv datoteke XML ispisa:"
 }

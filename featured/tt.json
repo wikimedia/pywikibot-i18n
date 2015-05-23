@@ -4,8 +4,8 @@
 			"Ajdar"
 		]
 	},
-	"featured-good": "Робот:%(page)s яхшы мәкалә",
-	"featured-list": "Робот: %(page)s сайланган исемлек",
 	"featured-featured": "Робот: %(page)s сайланган мәкалә",
-	"featured-former": "Робот:%(page)s элеккеге сайланган мәкалә"
+	"featured-former": "Робот:%(page)s элеккеге сайланган мәкалә",
+	"featured-good": "Робот:%(page)s яхшы мәкалә",
+	"featured-list": "Робот: %(page)s сайланган исемлек"
 }

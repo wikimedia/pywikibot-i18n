@@ -4,12 +4,12 @@
 			"Shirayuki"
 		]
 	},
-	"interwiki-modifying": "Edit summary when the bot modifies interwiki(s).\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes",
+	"interwiki-adding": "Edit summary when the bot adds interwiki(s).\n* %(adding)s is either an interwiki link or a comma-separated list of language codes",
 	"interwiki-adding-modifying": "Edit summary when the bot adds and modifies interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes",
 	"interwiki-adding-removing": "Edit summary when the bot adds and removes interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(removing)s - either an interwiki link or a comma-separated list of language codes",
 	"interwiki-adding-removing-modifying": "Edit summary when the bot adds, removes and modifies interwiki(s).\n* %(adding)s - either an interwiki link or a comma-separated list of language codes\n* %(removing)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes",
-	"interwiki-adding": "Edit summary when the bot adds interwiki(s).\n* %(adding)s is either an interwiki link or a comma-separated list of language codes",
+	"interwiki-modifying": "Edit summary when the bot modifies interwiki(s).\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes",
+	"interwiki-modifying-from": "Edit summary when the bot modifies one interwiki link.\n* %(from)s - an interwiki link which is modified to %(modifying)s interwiki link\n* %(modifying)s - an interwiki link",
 	"interwiki-removing": "Edit summary when the bot removes interwiki(s).\n* %(removing)s - either an interwiki link or a comma-separated list of language codes",
-	"interwiki-removing-modifying": "Edit summary when the bot removes and modifies interwiki(s).\n* %(removing)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes",
-	"interwiki-modifying-from": "Edit summary when the bot modifies one interwiki link.\n* %(from)s - an interwiki link which is modified to %(modifying)s interwiki link\n* %(modifying)s - an interwiki link"
+	"interwiki-removing-modifying": "Edit summary when the bot removes and modifies interwiki(s).\n* %(removing)s - either an interwiki link or a comma-separated list of language codes\n* %(modifying)s - either an interwiki link or a comma-separated list of language codes"
 }

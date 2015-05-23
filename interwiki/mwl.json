@@ -5,11 +5,11 @@
 			"Xqt"
 		]
 	},
-	"interwiki-modifying": "Robó Modeficando: %(modifying)s",
+	"interwiki-adding": "Robó Adicionando: %(adding)s",
 	"interwiki-adding-modifying": "Robó Adicionando: %(adding)s Modeficando: %(modifying)s",
 	"interwiki-adding-removing": "Robó Adicionando: %(adding)s Remobendo: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robó Adicionando: %(adding)s Remobendo: %(removing)s Modeficando: %(modifying)s",
-	"interwiki-adding": "Robó Adicionando: %(adding)s",
+	"interwiki-modifying": "Robó Modeficando: %(modifying)s",
 	"interwiki-removing": "Robó Remobendo: %(removing)s",
 	"interwiki-removing-modifying": "Robó Remobendo: %(removing)s Modeficando: %(modifying)s"
 }

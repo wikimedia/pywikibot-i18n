@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"category-changing": "Бот: %(oldcat)s дегенді түзетті",
 	"category-adding": "Бот: [[Санат:%(newcat)s]] үстеді",
 	"category-also-in": "(тағы да %(alsocat)s дегенде)",
-	"category-was-disbanded": "Бот: Санат тарқатылды",
+	"category-changing": "Бот: %(oldcat)s дегенді түзетті",
+	"category-listifying": "Бот: %(fromcat)s дегеннен (%(num)d буын) тізімдеді",
 	"category-removing": "Бот: %(oldcat)s дегеннен аластатты",
-	"category-was-moved": "Бот: Санат [[:Category:%(newcat)s|%(title)s]] дегенге жылжытылды",
-	"category-listifying": "Бот: %(fromcat)s дегеннен (%(num)d буын) тізімдеді"
+	"category-was-disbanded": "Бот: Санат тарқатылды",
+	"category-was-moved": "Бот: Санат [[:Category:%(newcat)s|%(title)s]] дегенге жылжытылды"
 }

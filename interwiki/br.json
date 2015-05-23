@@ -1,11 +1,11 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Robot kemmet: %(modifying)s",
+	"interwiki-adding": "Robot ouzhpennet: %(adding)s",
 	"interwiki-adding-modifying": "Robot ouzhpennet: %(adding)s kemmet: %(modifying)s",
 	"interwiki-adding-removing": "Robot ouzhpennet: %(adding)s tennet: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot ouzhpennet: %(adding)s tennet: %(removing)s kemmet: %(modifying)s",
-	"interwiki-adding": "Robot ouzhpennet: %(adding)s",
+	"interwiki-modifying": "Robot kemmet: %(modifying)s",
+	"interwiki-modifying-from": "Robot : O kemmañ %(from)s e %(modifying)s",
 	"interwiki-removing": "Robot tennet: %(removing)s",
-	"interwiki-removing-modifying": "Robot tennet: %(removing)s kemmet: %(modifying)s",
-	"interwiki-modifying-from": "Robot : O kemmañ %(from)s e %(modifying)s"
+	"interwiki-removing-modifying": "Robot tennet: %(removing)s kemmet: %(modifying)s"
 }

@@ -5,11 +5,11 @@
 			"아라"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "로봇의 도움을 받아 동음이의 처리: %(from)s - 링크 제거",
-	"solve_disambiguation-redirect-resolved": "로봇의 도움을 받아 동음이의 처리: %(from)s - %(to)s 문서로 링크 바꿈",
+	"solve_disambiguation-adding-dn-template": "로봇의 도움을 받아 동음이의 처리: %(from)s - 전문가의 검사가 필요로 표시함",
+	"solve_disambiguation-links-removed": "로봇의 도움을 받아 동음이의 처리: %(from)s - 링크를 제거했습니다.",
 	"solve_disambiguation-links-resolved": "로봇의 도움을 받아 동음이의 처리: %(from)s - %(to)s 문서로 링크 바꿈",
 	"solve_disambiguation-redirect-adding-dn-template": "로봇의 도움을 받아 동음이의 처리: %(from)s - 전문가의 검사가 필요로 표시함",
-	"solve_disambiguation-adding-dn-template": "로봇의 도움을 받아 동음이의 처리: %(from)s - 전문가의 검사가 필요로 표시함",
-	"solve_disambiguation-unknown-page": "(알 수 없음)",
-	"solve_disambiguation-links-removed": "로봇의 도움을 받아 동음이의 처리: %(from)s - 링크를 제거했습니다."
+	"solve_disambiguation-redirect-removed": "로봇의 도움을 받아 동음이의 처리: %(from)s - 링크 제거",
+	"solve_disambiguation-redirect-resolved": "로봇의 도움을 받아 동음이의 처리: %(from)s - %(to)s 문서로 링크 바꿈",
+	"solve_disambiguation-unknown-page": "(알 수 없음)"
 }

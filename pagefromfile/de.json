@@ -1,7 +1,7 @@
 {
 	"@metadata": [],
+	"pagefromfile-msg": "Bot: Automatischer Import von Artikeln",
 	"pagefromfile-msg_bottom": "ergänze am Ende",
 	"pagefromfile-msg_force": "bestehender Text überschrieben",
-	"pagefromfile-msg_top": "ergänze am Anfang",
-	"pagefromfile-msg": "Bot: Automatischer Import von Artikeln"
+	"pagefromfile-msg_top": "ergänze am Anfang"
 }

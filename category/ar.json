@@ -7,15 +7,15 @@
 			"Zaher kadour"
 		]
 	},
-	"category-version-history": "روبوت: حفظ تاريخ الإصدار للسابقة  %(oldcat)s",
-	"category-changing": "روبوت: تغيير  %(oldcat)s إلى %(newcat)s",
 	"category-adding": "روبوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(أيضا في %(alsocat)s)",
-	"category-was-disbanded": "بوت: التصنيف تم الاستغناء عنه",
-	"category-replacing": "بوت: استبدال التصنيف %(oldcat)s ب %(newcat)s",
+	"category-changing": "روبوت: تغيير  %(oldcat)s إلى %(newcat)s",
+	"category-listifying": "بوت: عرض من %(fromcat)s (%(num)d مدخلة)",
 	"category-removing": "بوت: إزالة من %(oldcat)s",
-	"category-was-moved": "روبوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "روبوت: نقل من %s. المؤلفون: %s",
+	"category-replacing": "بوت: استبدال التصنيف %(oldcat)s ب %(newcat)s",
 	"category-section-title": "تاريخ الصفحة للسابق %(oldcat)s",
-	"category-listifying": "بوت: عرض من %(fromcat)s (%(num)d مدخلة)"
+	"category-version-history": "روبوت: حفظ تاريخ الإصدار للسابقة  %(oldcat)s",
+	"category-was-disbanded": "بوت: التصنيف تم الاستغناء عنه",
+	"category-was-moved": "روبوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]"
 }

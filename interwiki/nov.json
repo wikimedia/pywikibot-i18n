@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robote Modifikad: %(modifying)s",
+	"interwiki-adding": "robote Adid: %(adding)s",
 	"interwiki-adding-modifying": "robote Adid: %(adding)s Modifikad: %(modifying)s",
 	"interwiki-adding-removing": "robote Adid: %(adding)s Ekartad: %(removing)s",
 	"interwiki-adding-removing-modifying": "robote Adid: %(adding)s Ekartad: %(removing)s Modifikad: %(modifying)s",
-	"interwiki-adding": "robote Adid: %(adding)s",
+	"interwiki-modifying": "robote Modifikad: %(modifying)s",
 	"interwiki-removing": "robote Ekartad: %(removing)s",
 	"interwiki-removing-modifying": "robote Ekartad: %(removing)s Modifikad: %(modifying)s"
 }

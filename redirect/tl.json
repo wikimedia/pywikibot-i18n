@@ -5,7 +5,7 @@
 		]
 	},
 	"redirect-fix-double": "Bot: Kinukumpuni ang nagkadalawang pagpapapunta sa %(to)s",
-	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Papuntahin]] sa isang pahinang nabura na o hindi na umiiral",
 	"redirect-fix-loop": "Robot: Kinukumpuni ang silo ng pagpapapunta sa %(to)s",
+	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Papuntahin]] sa isang pahinang nabura na o hindi na umiiral",
 	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Ang pagpapapunta sa ibang pook]] ay bumubuo ng nakalikaw na pagpapapunta"
 }

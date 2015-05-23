@@ -4,9 +4,9 @@
 			"Kolega2357"
 		]
 	},
-	"archivebot-older-than": "starije od",
-	"archivebot-page-summary": "{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} (%(why)s) u %(archives)s.",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-archive-full": "(ARHIVA JE PUNA)",
-	"archivebot-archive-summary": "{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} iz [[%(from)s]]."
+	"archivebot-archive-summary": "{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} iz [[%(from)s]].",
+	"archivebot-archiveheader": "{{talkarchive}}",
+	"archivebot-older-than": "starije od",
+	"archivebot-page-summary": "{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} (%(why)s) u %(archives)s."
 }

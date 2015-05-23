@@ -4,7 +4,7 @@
 			"StefanusRA"
 		]
 	},
-	"template-removing": "Bot: Mbusek {{PLURAL:%(num)d|cithakan|cithakan}}: %(list)s",
 	"template-changing": "Bot: Ngowahi {{PLURAL:%(num)d|cithakan|cithakan}}: %(list)s",
+	"template-removing": "Bot: Mbusek {{PLURAL:%(num)d|cithakan|cithakan}}: %(list)s",
 	"template-substituting": "Bot: Ngganti {{PLURAL:%(num)d|cithakan|cithakan}}: %(list)s"
 }

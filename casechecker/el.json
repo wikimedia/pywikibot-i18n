@@ -4,9 +4,9 @@
 			"Geraki"
 		]
 	},
-	"casechecker-replacement-summary": "Bot: Αντικαταστάσεις πεζών/κεφαλαίων:",
-	"casechecker-delete-summary": "Bot: Αυτή η ανακατεύθυνση περιέχει πανομοιότυπης εμφάνιση Κυριλλικά και Λατινικό γράμματα στον τίτλο",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Αυτή η ανακατεύθυνση οδηγούσε στο %(target)s",
-	"casechecker-rename": "Bot: μετονομασία μεικτών πεζών/κεφαλαίων"
+	"casechecker-delete-summary": "Bot: Αυτή η ανακατεύθυνση περιέχει πανομοιότυπης εμφάνιση Κυριλλικά και Λατινικό γράμματα στον τίτλο",
+	"casechecker-rename": "Bot: μετονομασία μεικτών πεζών/κεφαλαίων",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: Αντικαταστάσεις πεζών/κεφαλαίων:"
 }

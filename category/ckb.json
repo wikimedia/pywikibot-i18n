@@ -5,14 +5,14 @@
 			"Calak"
 		]
 	},
-	"category-version-history": "ڕۆبۆت: مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",
-	"category-changing": "ڕۆبۆت: گۆڕینی %(oldcat)s بۆ %(newcat)s",
 	"category-adding": "ڕۆبۆت: زیادکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ھەروەھا لە %(alsocat)s)",
-	"category-replacing": "ڕۆبۆت: دانانی پۆلی %(newcat)s لە جێگەی  %(oldcat)s",
+	"category-changing": "ڕۆبۆت: گۆڕینی %(oldcat)s بۆ %(newcat)s",
+	"category-listifying": "ڕۆبۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})",
 	"category-removing": "ڕۆبۆت: لابردن لە %(oldcat)s",
-	"category-was-moved": "ڕۆبۆت: پۆل گوازرایەوە بۆ [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "ڕۆبۆت: گوازرایەوە لە %s. دانەران: %s",
+	"category-replacing": "ڕۆبۆت: دانانی پۆلی %(newcat)s لە جێگەی  %(oldcat)s",
 	"category-section-title": "مێژووی پەڕەی %(oldcat)sی پێشوو",
-	"category-listifying": "ڕۆبۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})"
+	"category-version-history": "ڕۆبۆت: مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",
+	"category-was-moved": "ڕۆبۆت: پۆل گوازرایەوە بۆ [[:Category:%(newcat)s|%(title)s]]"
 }

@@ -4,8 +4,8 @@
 			"Revi"
 		]
 	},
+	"pagefromfile-msg": "봇: 문서를 자동으로 가져옴",
 	"pagefromfile-msg_bottom": "맨 아래에 추가",
 	"pagefromfile-msg_force": "기존 텍스트 덮어씀",
-	"pagefromfile-msg_top": "맨 위에 추가",
-	"pagefromfile-msg": "봇: 문서를 자동으로 가져옴"
+	"pagefromfile-msg_top": "맨 위에 추가"
 }

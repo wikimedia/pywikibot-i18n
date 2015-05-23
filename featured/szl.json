@@ -4,8 +4,8 @@
 			"Przemub"
 		]
 	},
-	"featured-good": "Robot: %(page)s je dobrym artiklem",
-	"featured-list": "Robot: %(page)s je dobrõ listõ.",
 	"featured-featured": "Robot: %(page)s je medalowym artiklem",
-	"featured-former": "Robot: %(page)s niy je medalowym artiklem"
+	"featured-former": "Robot: %(page)s niy je medalowym artiklem",
+	"featured-good": "Robot: %(page)s je dobrym artiklem",
+	"featured-list": "Robot: %(page)s je dobrõ listõ."
 }

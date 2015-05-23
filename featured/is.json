@@ -4,8 +4,8 @@
 			"Snævar"
 		]
 	},
-	"featured-good": "Vélmenni: %(page)s er gæðagrein",
-	"featured-list": "Vélmenni: %(page)s er gæðalisti",
 	"featured-featured": "Vélmenni: %(page)s er úrvalsgrein",
-	"featured-former": "Vélmenni: %(page)s er fyrrum úrvalsgrein"
+	"featured-former": "Vélmenni: %(page)s er fyrrum úrvalsgrein",
+	"featured-good": "Vélmenni: %(page)s er gæðagrein",
+	"featured-list": "Vélmenni: %(page)s er gæðalisti"
 }

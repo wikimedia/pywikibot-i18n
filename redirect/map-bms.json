@@ -4,9 +4,9 @@
 			"StefanusRA"
 		]
 	},
-	"redirect-fix-double": "Bot: Mbenerna pengalihan ganda maring %(to)s",
-	"redirect-remove-broken": "Robot: Pangalihan ming kaca sing ora ana utawa wis debusek",
 	"redirect-fix-broken-moved": "Robot:Ndandani pangalihan ruwag maring kaca target sing dipindah %(to)s",
+	"redirect-fix-double": "Bot: Mbenerna pengalihan ganda maring %(to)s",
 	"redirect-fix-loop": "Robot: Ndandani pengalihan dobel maring %(to)s",
+	"redirect-remove-broken": "Robot: Pangalihan ming kaca sing ora ana utawa wis debusek",
 	"redirect-remove-loop": "Robot: Target pangalihan marekna dadi pengalihan siklik"
 }

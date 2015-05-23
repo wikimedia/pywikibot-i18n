@@ -5,13 +5,13 @@
 			"Xqt"
 		]
 	},
-	"category-changing": "Kat-Bot: %(oldcat)s utwesselt",
 	"category-adding": "Kat-Bot: Kategorie [[:Category:%(newcat)s|%(newcat)s]] rin",
 	"category-also-in": "(ok in %(alsocat)s)",
-	"category-was-disbanded": "Kat-Bot: Kategorie is nu oplööst",
-	"category-replacing": "Bot: Kategorie %(oldcat)s gegen %(newcat)s utwesselt",
+	"category-changing": "Kat-Bot: %(oldcat)s utwesselt",
+	"category-listifying": "Bot: List von %(fromcat)s (%(num)d Sieden)",
 	"category-removing": "Kat-Bot: rut ut %(oldcat)s",
-	"category-was-moved": "Kat-Bot: Kategorie na [[:Category:%(newcat)s|%(title)s]] schaven",
 	"category-renamed": "Kat-Bot: herschaven von %s. Schriever: %s",
-	"category-listifying": "Bot: List von %(fromcat)s (%(num)d Sieden)"
+	"category-replacing": "Bot: Kategorie %(oldcat)s gegen %(newcat)s utwesselt",
+	"category-was-disbanded": "Kat-Bot: Kategorie is nu oplööst",
+	"category-was-moved": "Kat-Bot: Kategorie na [[:Category:%(newcat)s|%(title)s]] schaven"
 }

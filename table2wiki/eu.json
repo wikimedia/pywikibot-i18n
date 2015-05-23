@@ -4,6 +4,6 @@
 			"Subi"
 		]
 	},
-	"table2wiki-warnings": "Erabiltzaile batek kontrolatutako robota: Taularen sintaxia eguneratu da - {{PLURAL:count|Abisu 1|%(count)d abisu}}!",
-	"table2wiki-no-warning": "Erabiltzaile batek kontrolatutako robota: Taularen sintaxia eguneratua"
+	"table2wiki-no-warning": "Erabiltzaile batek kontrolatutako robota: Taularen sintaxia eguneratua",
+	"table2wiki-warnings": "Erabiltzaile batek kontrolatutako robota: Taularen sintaxia eguneratu da - {{PLURAL:count|Abisu 1|%(count)d abisu}}!"
 }

@@ -4,9 +4,9 @@
 			"Aswanas"
 		]
 	},
-	"casechecker-replacement-summary": "Robotas: Bylos pakeitimai:",
-	"casechecker-delete-summary": "Robotas: Šitame pavadinime šitas peradresavimas yra identiškas Kirilica ir lotynų raidėmis",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Šis peradresavimas naudojamas nukreipti į %(target)s",
-	"casechecker-rename": "Robotas: sumaišytų bylų pervardinimas"
+	"casechecker-delete-summary": "Robotas: Šitame pavadinime šitas peradresavimas yra identiškas Kirilica ir lotynų raidėmis",
+	"casechecker-rename": "Robotas: sumaišytų bylų pervardinimas",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Robotas: Bylos pakeitimai:"
 }

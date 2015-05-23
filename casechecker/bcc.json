@@ -4,9 +4,9 @@
 			"Baloch Afghanistan"
 		]
 	},
-	"casechecker-replacement-summary": "ربات: جایگزین‌های موردی:",
-	"casechecker-delete-summary": "ربات: این تغییرمسیر شامل حروف مشابه لاتین و سیریلیک در عنوانش است",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "این تغییرمسیر برای اشاره به %(target)s است",
-	"casechecker-rename": "ربات: تغییرنام ترکیبی از حروف بزرگ و کوچک"
+	"casechecker-delete-summary": "ربات: این تغییرمسیر شامل حروف مشابه لاتین و سیریلیک در عنوانش است",
+	"casechecker-rename": "ربات: تغییرنام ترکیبی از حروف بزرگ و کوچک",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "ربات: جایگزین‌های موردی:"
 }

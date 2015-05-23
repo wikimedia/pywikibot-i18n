@@ -7,9 +7,9 @@
 			"Macofe"
 		]
 	},
-	"archivebot-older-than": "mais velho que %(duration)s",
-	"archivebot-page-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s.",
-	"archivebot-archiveheader": "{{Arquivo de discussão}}",
 	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
-	"archivebot-archive-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} de [[%(from)s]]."
+	"archivebot-archive-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} de [[%(from)s]].",
+	"archivebot-archiveheader": "{{Arquivo de discussão}}",
+	"archivebot-older-than": "mais velho que %(duration)s",
+	"archivebot-page-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s."
 }

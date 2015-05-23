@@ -4,13 +4,13 @@
 			"McDutchie"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Per favor entra le nomine del file de extraction XML:",
-	"pywikibot-enter-page-processing": "Qual page debe esser tractate?",
+	"pywikibot-enter-category-name": "Per favor entra le nomine del categoria:",
 	"pywikibot-enter-file-links-processing": "Le ligamines a qual pagina de file debe esser tractate?",
+	"pywikibot-enter-finished-browser": "Preme Enter quando tu ha finite le modification in le navigator.",
 	"pywikibot-enter-namespace-number": "Per favor entra le numero de un spatio de nomines:",
 	"pywikibot-enter-new-text": "Per favor entra le nove texto:",
-	"pywikibot-enter-category-name": "Per favor entra le nomine del categoria:",
-	"pywikibot-enter-finished-browser": "Preme Enter quando tu ha finite le modification in le navigator.",
+	"pywikibot-enter-page-processing": "Qual page debe esser tractate?",
+	"pywikibot-enter-xml-filename": "Per favor entra le nomine del file de extraction XML:",
 	"pywikibot-fixes-html": "Robot: conversion/reparation de HTML",
 	"pywikibot-fixes-syntax": "Robot: Reparation de syntaxe wiki"
 }

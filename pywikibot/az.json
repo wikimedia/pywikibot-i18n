@@ -4,11 +4,11 @@
 			"AZISS"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Zəhmət olmasa, XML damp faylının adını daxil edin:",
-	"pywikibot-enter-page-processing": "Hansı səhifə emal edilməlidir?",
+	"pywikibot-enter-category-name": "Zəhmət olmasa, kateqoriyanın adını daxil edin:",
 	"pywikibot-enter-file-links-processing": "Şəkillərin hansı səhifəsinin istinadlarını emal etmək lazımdır?",
+	"pywikibot-enter-finished-browser": "Brauzerdə işinizi bitirdikdən sonra Enter düyməsinə basın.",
 	"pywikibot-enter-namespace-number": "Zəhmət olmasa, ad sahəsinin nömrəsini daxil edin:",
 	"pywikibot-enter-new-text": "Zəhmət olmasa, yeni mətni daxil edin:",
-	"pywikibot-enter-category-name": "Zəhmət olmasa, kateqoriyanın adını daxil edin:",
-	"pywikibot-enter-finished-browser": "Brauzerdə işinizi bitirdikdən sonra Enter düyməsinə basın."
+	"pywikibot-enter-page-processing": "Hansı səhifə emal edilməlidir?",
+	"pywikibot-enter-xml-filename": "Zəhmət olmasa, XML damp faylının adını daxil edin:"
 }

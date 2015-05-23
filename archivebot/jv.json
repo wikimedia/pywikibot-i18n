@@ -4,8 +4,8 @@
 			"NoiX180"
 		]
 	},
-	"archivebot-older-than": "luwih tuwa saka",
-	"archivebot-page-summary": "Bot: Ngarsipaké %(count)d {{PLURAL:%(count)d|lembar|lembar}} (%(why)s) nèng %(archives)s.",
 	"archivebot-archive-full": "(ARSIP JANGKEP)",
-	"archivebot-archive-summary": "Bot: Ngarsipaké %(count)d {{PLURAL:%(count)d|lembar|lembar}} saka [[%(from)s]]."
+	"archivebot-archive-summary": "Bot: Ngarsipaké %(count)d {{PLURAL:%(count)d|lembar|lembar}} saka [[%(from)s]].",
+	"archivebot-older-than": "luwih tuwa saka",
+	"archivebot-page-summary": "Bot: Ngarsipaké %(count)d {{PLURAL:%(count)d|lembar|lembar}} (%(why)s) nèng %(archives)s."
 }

@@ -5,7 +5,7 @@
 			"Od1n"
 		]
 	},
-	"welcome-welcome": "Bienvenue !",
 	"welcome-bad_username": "Bot : Ajout d'un nom d'utilisateur qui doit être vérifié",
-	"welcome-updating": "Bot : Mise à jour du journal"
+	"welcome-updating": "Bot : Mise à jour du journal",
+	"welcome-welcome": "Bienvenue !"
 }

@@ -4,9 +4,9 @@
 			"Minisarm"
 		]
 	},
-	"protect-links": "Robot: Protejat toate paginile care se leagă de %(page)s",
-	"protect-simple": "Robot: Protejat o listă de fișiere.",
 	"protect-category": "Robot: Protejat toate paginile din categoria %(cat)s",
+	"protect-images": "Robot: Protejat toate imaginile de pe pagina %(page)s",
+	"protect-links": "Robot: Protejat toate paginile care se leagă de %(page)s",
 	"protect-ref": "Robot: Protejat toate paginile referindu-se la %(page)s",
-	"protect-images": "Robot: Protejat toate imaginile de pe pagina %(page)s"
+	"protect-simple": "Robot: Protejat o listă de fișiere."
 }

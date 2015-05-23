@@ -5,9 +5,9 @@
 			"Rancher"
 		]
 	},
-	"category_redirect-comment": "Робот за одржување на пренасочени категории",
-	"category_redirect-change-category": "Робот: ја менува пренасочената категорија [[:%(oldCatLink)s|%(oldCatTitle)s]] во [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Робот: додава шаблон за пренасочена категорија за одржување",
+	"category_redirect-change-category": "Робот: ја менува пренасочената категорија [[:%(oldCatLink)s|%(oldCatTitle)s]] во [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Робот за одржување на пренасочени категории",
 	"category_redirect-edit-request": "Утврдено е дека на следниве заштитени страници треба да им се подноват категориските врски: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s е во %(oldcat)s, што е пренасочување кон %(newcat)s",
 	"category_redirect-fix-double": "Робот: Исправка на двојни пренасочувања"

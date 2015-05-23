@@ -4,7 +4,7 @@
 			"Robby"
 		]
 	},
-	"template-removing": "Bot: Ännert d'{{PLURAL:%(num)d|Schabloun|Schablounen}}: %(list)s",
 	"template-changing": "Bot: Ännert {{PLURAL:%(num)d|Schabloun|Schablounen}}: %(list)s",
+	"template-removing": "Bot: Ännert d'{{PLURAL:%(num)d|Schabloun|Schablounen}}: %(list)s",
 	"template-substituting": "Bot: Ersetzt d'{{PLURAL:%(num)d|Schabloun|Schablounen}}: %(list)s"
 }

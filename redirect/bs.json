@@ -5,10 +5,10 @@
 			"Edinwiki"
 		]
 	},
-	"redirect-fix-double": "Bot: Popravlja dvostruka preusmjerenja na %(to)s",
-	"redirect-remove-broken": " [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] na obrisanu ili nepostojeću stranicu",
+	"redirect-broken-redirect-template": "{{Brisanje}}",
 	"redirect-fix-broken-moved": "Bot: Neispravno preusmjerenje prema premještenoj stranici %(to)s",
+	"redirect-fix-double": "Bot: Popravlja dvostruka preusmjerenja na %(to)s",
 	"redirect-fix-loop": "Robot: Popravlja petlje preusmjerenja na %(to)s",
-	"redirect-remove-loop": " [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] pravi petlju na samo sebe",
-	"redirect-broken-redirect-template": "{{Brisanje}}"
+	"redirect-remove-broken": " [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] na obrisanu ili nepostojeću stranicu",
+	"redirect-remove-loop": " [[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjerenje]] pravi petlju na samo sebe"
 }

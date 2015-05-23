@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "Bot - oars: %(modifying)s",
+	"interwiki-adding": "Bot - derby: %(adding)s",
 	"interwiki-adding-modifying": "Bot - derby: %(adding)s - oars: %(modifying)s",
 	"interwiki-adding-removing": "Bot - derby: %(adding)s - fuort: %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot - derby: %(adding)s - fuort: %(removing)s - oars: %(modifying)s",
-	"interwiki-adding": "Bot - derby: %(adding)s",
+	"interwiki-modifying": "Bot - oars: %(modifying)s",
 	"interwiki-removing": "Bot - fuort: %(removing)s",
 	"interwiki-removing-modifying": "Bot - fuort: %(removing)s - oars: %(modifying)s"
 }

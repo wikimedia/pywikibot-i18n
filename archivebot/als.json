@@ -5,8 +5,8 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "elter wie",
-	"archivebot-page-summary": "Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) uff %(archives)s archiviere.",
 	"archivebot-archive-full": "(ARCHIVE FULL)",
-	"archivebot-archive-summary": "Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} vo [[%(from)s]] archiviere."
+	"archivebot-archive-summary": "Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} vo [[%(from)s]] archiviere.",
+	"archivebot-older-than": "elter wie",
+	"archivebot-page-summary": "Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) uff %(archives)s archiviere."
 }

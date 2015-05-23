@@ -8,9 +8,9 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "plus ancien que %(duration)s",
-	"archivebot-page-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s.",
-	"archivebot-archiveheader": "{{Archive de discussion}}",
 	"archivebot-archive-full": "(ARCHIVE SATURÉE)",
-	"archivebot-archive-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]]."
+	"archivebot-archive-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]].",
+	"archivebot-archiveheader": "{{Archive de discussion}}",
+	"archivebot-older-than": "plus ancien que %(duration)s",
+	"archivebot-page-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s."
 }

@@ -4,9 +4,9 @@
 			"John Reid"
 		]
 	},
-	"casechecker-replacement-summary": "Bot: Case Replacements:",
-	"casechecker-delete-summary": "Bot: This reguidal contains identical luikin Cyrillic n Latin letters in its title",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "This reguidal uised tae poynt til %(target)s",
-	"casechecker-rename": "Bot: mix't case rename"
+	"casechecker-delete-summary": "Bot: This reguidal contains identical luikin Cyrillic n Latin letters in its title",
+	"casechecker-rename": "Bot: mix't case rename",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: Case Replacements:"
 }

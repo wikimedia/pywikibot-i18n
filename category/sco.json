@@ -6,15 +6,15 @@
 			"Xqt"
 		]
 	},
-	"category-version-history": "Robot: Saving version histerie o former %(oldcat)s",
-	"category-changing": "Robot: Chyngin %(oldcat)s tae %(newcat)s",
 	"category-adding": "Robot: Eikin categerie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(in %(alsocat)s aes weel)",
-	"category-was-disbanded": "Bot: Categerie wis disbaundit",
-	"category-replacing": "Robot: Replacin categerie %(oldcat)s wi %(newcat)s",
+	"category-changing": "Robot: Chyngin %(oldcat)s tae %(newcat)s",
+	"category-listifying": "Robot: Leetifyin fae %(fromcat)s ({{PLURAL:%(num)d|1 entrie|%(num)d entries}})",
 	"category-removing": "Bot: Remuivin fae %(oldcat)s",
-	"category-was-moved": "Robot: Categerie wis muivit tae [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Robot: Muived fae %s. Authors: %s",
+	"category-replacing": "Robot: Replacin categerie %(oldcat)s wi %(newcat)s",
 	"category-section-title": "Page histerie o former %(oldcat)s",
-	"category-listifying": "Robot: Leetifyin fae %(fromcat)s ({{PLURAL:%(num)d|1 entrie|%(num)d entries}})"
+	"category-version-history": "Robot: Saving version histerie o former %(oldcat)s",
+	"category-was-disbanded": "Bot: Categerie wis disbaundit",
+	"category-was-moved": "Robot: Categerie wis muivit tae [[:Category:%(newcat)s|%(title)s]]"
 }

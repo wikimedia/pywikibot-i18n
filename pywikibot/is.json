@@ -4,10 +4,10 @@
 			"Snævar"
 		]
 	},
-	"pywikibot-enter-page-processing": "Hvaða síðu á að vinna við?",
+	"pywikibot-enter-category-name": "Vinsamlegast sláðu inn nafn flokksins:",
 	"pywikibot-enter-file-links-processing": "Tenglar til hverrar myndasíðu á að vinna við?",
+	"pywikibot-enter-finished-browser": "Ýttu á Enter þegar þú ert búinn í vafranum.",
 	"pywikibot-enter-namespace-number": "Vinsamlegast skrifaðu númer nafnrýmisins:",
 	"pywikibot-enter-new-text": "Vinsamlegast sláðu inn nýja textann:",
-	"pywikibot-enter-category-name": "Vinsamlegast sláðu inn nafn flokksins:",
-	"pywikibot-enter-finished-browser": "Ýttu á Enter þegar þú ert búinn í vafranum."
+	"pywikibot-enter-page-processing": "Hvaða síðu á að vinna við?"
 }

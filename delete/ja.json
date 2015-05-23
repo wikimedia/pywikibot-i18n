@@ -4,9 +4,9 @@
 			"Shirayuki"
 		]
 	},
-	"delete-images": "ロボットによる: ページ「%(page)s」上の画像をすべて削除",
-	"delete-referring-pages": "ロボットによる: 「%(page)s」を参照しているページをすべて削除",
 	"delete-from-category": "ロボットによる: カテゴリ「%(page)s」にあるページをすべて削除",
 	"delete-from-file": "ロボットによる: ページのリストを削除",
-	"delete-linked-pages": "ロボットによる: 「%(page)s」からリンクされているページをすべて削除"
+	"delete-images": "ロボットによる: ページ「%(page)s」上の画像をすべて削除",
+	"delete-linked-pages": "ロボットによる: 「%(page)s」からリンクされているページをすべて削除",
+	"delete-referring-pages": "ロボットによる: 「%(page)s」を参照しているページをすべて削除"
 }

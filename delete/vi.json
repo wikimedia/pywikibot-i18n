@@ -4,9 +4,9 @@
 			"Minh Nguyen"
 		]
 	},
-	"delete-images": "Bot: Xóa tất cả các hình ảnh khỏi trang “%(page)s”",
-	"delete-referring-pages": "Bot: Xóa tất cả các trang có liên kết đến “%(page)s”",
 	"delete-from-category": "Bot: Xóa tất cả các trang trong thể loại “%(page)s”",
 	"delete-from-file": "Bot: Xóa một danh sách trang",
-	"delete-linked-pages": "Bot: Xóa tất cả các trang được liên kết từ “%(page)s”"
+	"delete-images": "Bot: Xóa tất cả các hình ảnh khỏi trang “%(page)s”",
+	"delete-linked-pages": "Bot: Xóa tất cả các trang được liên kết từ “%(page)s”",
+	"delete-referring-pages": "Bot: Xóa tất cả các trang có liên kết đến “%(page)s”"
 }

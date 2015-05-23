@@ -4,12 +4,12 @@
 			"Haqmar"
 		]
 	},
-	"interwiki-modifying": "робот үҙгәртте: %(modifying)s",
+	"interwiki-adding": "робот өҫтәне: %(adding)s",
 	"interwiki-adding-modifying": "робот өҫтәне: %(adding)s; үҙгәртте: %(modifying)s",
 	"interwiki-adding-removing": "робот өҫтәне: %(adding)s; юйҙы: %(removing)s",
 	"interwiki-adding-removing-modifying": "робот өҫтәне: %(adding)s; юйҙы: %(removing)s; үҙгәртте: %(modifying)s",
-	"interwiki-adding": "робот өҫтәне: %(adding)s",
+	"interwiki-modifying": "робот үҙгәртте: %(modifying)s",
+	"interwiki-modifying-from": "робот  %(from)s интервикиһын %(modifying)s тип үҙгәртте",
 	"interwiki-removing": "робот юйҙы: %(removing)s",
-	"interwiki-removing-modifying": "робот юйҙы: %(removing)s; үҙгәртте: %(modifying)s",
-	"interwiki-modifying-from": "робот  %(from)s интервикиһын %(modifying)s тип үҙгәртте"
+	"interwiki-removing-modifying": "робот юйҙы: %(removing)s; үҙгәртте: %(modifying)s"
 }

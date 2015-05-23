@@ -4,11 +4,11 @@
 			"Умар"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "МаьӀна шордар ботан гӀоьнца: %(from)s — хьажоргаш дӀаяхар",
-	"solve_disambiguation-redirect-resolved": "Ботан гӀоьнца маьӀна шордар: %(from)s — хьажоргаш хийцар %(to)s тӀе",
+	"solve_disambiguation-adding-dn-template": "Ботан: %(from)s гӀоьнца маьӀна магор — экспертан терго оьшуш хилар бахьнехь",
+	"solve_disambiguation-links-removed": "Ботан гӀоьнца маьӀна магор: %(from)s — хьажоргаш дӀаяхар",
 	"solve_disambiguation-links-resolved": "МаьӀна шордар ботан гӀоьнца: %(from)s — хьажоргаш хийцар %(to)s тӀе",
 	"solve_disambiguation-redirect-adding-dn-template": "Ботан: %(from)s гӀоьнца маьӀна магор — экспертан терго оьшуш хилар бахьнехь",
-	"solve_disambiguation-adding-dn-template": "Ботан: %(from)s гӀоьнца маьӀна магор — экспертан терго оьшуш хилар бахьнехь",
-	"solve_disambiguation-unknown-page": "(йоьвзуш яц)",
-	"solve_disambiguation-links-removed": "Ботан гӀоьнца маьӀна магор: %(from)s — хьажоргаш дӀаяхар"
+	"solve_disambiguation-redirect-removed": "МаьӀна шордар ботан гӀоьнца: %(from)s — хьажоргаш дӀаяхар",
+	"solve_disambiguation-redirect-resolved": "Ботан гӀоьнца маьӀна шордар: %(from)s — хьажоргаш хийцар %(to)s тӀе",
+	"solve_disambiguation-unknown-page": "(йоьвзуш яц)"
 }

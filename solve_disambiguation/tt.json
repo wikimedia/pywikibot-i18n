@@ -4,11 +4,11 @@
 			"Ильнар"
 		]
 	},
-	"solve_disambiguation-redirect-removed": "Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Removed link(s)",
-	"solve_disambiguation-redirect-resolved": "Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-adding-dn-template": "Робот ярдәмендә: %(from)s — экспертның игътибарын сораучы дип билгеләнде",
+	"solve_disambiguation-links-removed": "Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Removed link(s)",
 	"solve_disambiguation-links-resolved": "Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Changed link(s) to %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Робот ярдәмендә: %(from)s — экспертның игътибарын сораучы дип билгеләнде",
-	"solve_disambiguation-adding-dn-template": "Робот ярдәмендә: %(from)s — экспертның игътибарын сораучы дип билгеләнде",
-	"solve_disambiguation-unknown-page": "(билгесез)",
-	"solve_disambiguation-links-removed": "Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Removed link(s)"
+	"solve_disambiguation-redirect-removed": "Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Removed link(s)",
+	"solve_disambiguation-redirect-resolved": "Бот ярдәмендә мәгънәләр киңәйтелмәсе: %(from)s - Changed link(s) to %(to)s",
+	"solve_disambiguation-unknown-page": "(билгесез)"
 }

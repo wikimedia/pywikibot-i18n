@@ -5,15 +5,15 @@
 			"Xqt"
 		]
 	},
-	"category-version-history": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s སྔོན་གི་བྱུང་འགྱུར་ཉར་འཚག་བྱེད་པ།",
-	"category-changing": "མི་གཟུགས་འཕྲུལ་ཆས་ : %(oldcat)s ནས་ %(newcat)s ལ་འགྱུར་བ་གཏོང་བཞིན་པ།",
 	"category-adding": "འཕྲུལ་ཆས་ཀྱི་མི།: ཁ་སྣོན་རྒྱག་པ། [[Category:%(newcat)s]]",
 	"category-also-in": "(ད་དུང་ཡང་གཞན་ཡོད་པ་ནི་ %(alsocat)s)",
-	"category-was-disbanded": "མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས་ཕྱིར་འབུད་པ།",
-	"category-replacing": "མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས། %(oldcat)s དང་ %(newcat)s བར་འཕོ་འགྱུར་བྱེད་བཞིན་པ།",
+	"category-changing": "མི་གཟུགས་འཕྲུལ་ཆས་ : %(oldcat)s ནས་ %(newcat)s ལ་འགྱུར་བ་གཏོང་བཞིན་པ།",
+	"category-listifying": "མི་གཟུགས་འཕྲུལ་ཆས།: %(fromcat)s ནས་ (%(num)d བར་གི་ཐོ་འགོད་རེའུ་མིག།)",
 	"category-removing": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s ནས་ ཕྱིར་འདོན་བཞིན་པ།",
-	"category-was-moved": "མི་གཟུགས་འཕྲུལ་ཆས་ ： སྡེ་ཚན་གནས་སྤོས་བྱས་པ་ [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%s ནས་སྤོ་བ།  རྩོམ་པ་པོ། ：%s",
+	"category-replacing": "མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས། %(oldcat)s དང་ %(newcat)s བར་འཕོ་འགྱུར་བྱེད་བཞིན་པ།",
 	"category-section-title": "དེ་སྔོན་གི་  %(oldcat)s ལོ་རྒྱུས་ཤོག་ངོས།",
-	"category-listifying": "མི་གཟུགས་འཕྲུལ་ཆས།: %(fromcat)s ནས་ (%(num)d བར་གི་ཐོ་འགོད་རེའུ་མིག།)"
+	"category-version-history": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s སྔོན་གི་བྱུང་འགྱུར་ཉར་འཚག་བྱེད་པ།",
+	"category-was-disbanded": "མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས་ཕྱིར་འབུད་པ།",
+	"category-was-moved": "མི་གཟུགས་འཕྲུལ་ཆས་ ： སྡེ་ཚན་གནས་སྤོས་བྱས་པ་ [[:Category:%(newcat)s|%(title)s]]"
 }

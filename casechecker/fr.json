@@ -4,9 +4,9 @@
 			"Gomoko"
 		]
 	},
-	"casechecker-replacement-summary": "Robot : Modifications de casse :",
-	"casechecker-delete-summary": "Robot : Cette redirection contient des lettres semblables en cyrillique et en latin dans son titre.",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Cette redirection pointait vers %(target)s",
-	"casechecker-rename": "Robot : renommage en casse mixte"
+	"casechecker-delete-summary": "Robot : Cette redirection contient des lettres semblables en cyrillique et en latin dans son titre.",
+	"casechecker-rename": "Robot : renommage en casse mixte",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Robot : Modifications de casse :"
 }

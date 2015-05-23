@@ -4,9 +4,9 @@
 			"Andriykopanytsia"
 		]
 	},
-	"delete-images": "Бот: Видалення усіх зображень із сторінки %(page)s",
-	"delete-referring-pages": "Бот: Видалення усіх сторінок, що відносяться до %(page)s",
 	"delete-from-category": "Бот: Видалення усіх сторінок з категорії %(page)s",
 	"delete-from-file": "Бот: Видалення списку сторінок.",
-	"delete-linked-pages": "Бот: Видалення усіх сторінок, пов'язаних із %(page)s"
+	"delete-images": "Бот: Видалення усіх зображень із сторінки %(page)s",
+	"delete-linked-pages": "Бот: Видалення усіх сторінок, пов'язаних із %(page)s",
+	"delete-referring-pages": "Бот: Видалення усіх сторінок, що відносяться до %(page)s"
 }

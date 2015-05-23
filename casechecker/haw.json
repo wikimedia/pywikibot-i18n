@@ -4,9 +4,9 @@
 			"Kolonahe"
 		]
 	},
-	"casechecker-replacement-summary": "Pako: Huapalapala kuapoia:",
-	"casechecker-delete-summary": "Pako: Loaʻa i kēia ʻaoʻao hoʻoili kekahi mau huapalapala Lākina a me Sīlilika likelua ma loko",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-delete-reason": "Ua kuhi kēia ʻaoʻao hoʻoili i %(target)s",
-	"casechecker-rename": "Pako: hōʻinoa hou me nā huapalapala wiliwili"
+	"casechecker-delete-summary": "Pako: Loaʻa i kēia ʻaoʻao hoʻoili kekahi mau huapalapala Lākina a me Sīlilika likelua ma loko",
+	"casechecker-rename": "Pako: hōʻinoa hou me nā huapalapala wiliwili",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Pako: Huapalapala kuapoia:"
 }

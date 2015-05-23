@@ -4,9 +4,9 @@
 			"IvanLanin"
 		]
 	},
-	"category_redirect-comment": "Bot pemeliharaan pengalihan kategori",
-	"category_redirect-change-category": "Robot: mengganti kategori yang dialihkan [[:%(oldCatLink)s|%(oldCatTitle)s]] menjadi [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Robot: menambahkan templat pemeliharaan pengalihan kategori",
+	"category_redirect-change-category": "Robot: mengganti kategori yang dialihkan [[:%(oldCatLink)s|%(oldCatTitle)s]] menjadi [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot pemeliharaan pengalihan kategori",
 	"category_redirect-edit-request": "Halaman yang dilindungi berikut terdeteksi memerlukan pembaruan untuk pranala kategori: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s termasuk dalam %(oldcat)s, yang merupakan pengalihan ke %(newcat)s",
 	"category_redirect-fix-double": "Bot: Memperbaiki pengalihan ganda"

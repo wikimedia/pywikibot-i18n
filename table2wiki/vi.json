@@ -4,6 +4,6 @@
 			"Minh Nguyen"
 		]
 	},
-	"table2wiki-warnings": "Bot có người điều khiển: Cập nhật cú pháp bảng – {{PLURAL:count|1|%(count)d}} cảnh báo!",
-	"table2wiki-no-warning": "Bot có người điều khiển: Cập nhật cú pháp bảng"
+	"table2wiki-no-warning": "Bot có người điều khiển: Cập nhật cú pháp bảng",
+	"table2wiki-warnings": "Bot có người điều khiển: Cập nhật cú pháp bảng – {{PLURAL:count|1|%(count)d}} cảnh báo!"
 }

@@ -7,13 +7,13 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Por favor introduza o nome do ficheiro XML:",
-	"pywikibot-enter-page-processing": "Que página deve ser processada?",
+	"pywikibot-enter-category-name": "Por favor, introduza o nome da categoria:",
 	"pywikibot-enter-file-links-processing": "Para qual página de ficheiro devem ser processadas as ligações?",
+	"pywikibot-enter-finished-browser": "Pressione Enter quando terminar no navegador",
 	"pywikibot-enter-namespace-number": "Por favor, introduza um domínio pelo seu número:",
 	"pywikibot-enter-new-text": "Por favor, introduza o novo texto:",
-	"pywikibot-enter-category-name": "Por favor, introduza o nome da categoria:",
-	"pywikibot-enter-finished-browser": "Pressione Enter quando terminar no navegador",
+	"pywikibot-enter-page-processing": "Que página deve ser processada?",
+	"pywikibot-enter-xml-filename": "Por favor introduza o nome do ficheiro XML:",
 	"pywikibot-fixes-html": "Robô: Corrigindo HTML",
 	"pywikibot-fixes-syntax": "Robô: Corrigindo sintaxe wiki"
 }

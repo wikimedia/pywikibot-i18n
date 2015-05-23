@@ -4,9 +4,9 @@
 			"Mucalexx"
 		]
 	},
-	"category_redirect-comment": "Bot zur Wartung voh Kategorieweiderloattungen",
-	"category_redirect-change-category": "Bot: Änderd weidergloaterde Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] auf [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Bot: Fiag Kategorieweiderloattungs-Vurlog fyr d' Wartung einé",
+	"category_redirect-change-category": "Bot: Änderd weidergloaterde Kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] auf [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot zur Wartung voh Kategorieweiderloattungen",
 	"category_redirect-edit-request": "D' fóigend gschytzden Seiten brauchen noh a Kategorielink-Aktualisiarung: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s befindt sé auf %(oldcat)s, dé noch %(newcat)s weiderloatt",
 	"category_redirect-fix-double": "Bot: Korrigiar dóppéde Weiderloattung"

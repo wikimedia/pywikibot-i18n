@@ -4,11 +4,11 @@
 			"Minisarm"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Vă rugăm să introduceți numele fișierului XML de extracție:",
-	"pywikibot-enter-page-processing": "Ce pagină ar trebui procesată?",
+	"pywikibot-enter-category-name": "Vă rugăm să introduceți numele categoriei:",
 	"pywikibot-enter-file-links-processing": "Legăturile către care fișier ar trebui procesate?",
+	"pywikibot-enter-finished-browser": "Apăsați Enter odată ce ați terminat cu navigatorul.",
 	"pywikibot-enter-namespace-number": "Vă rugăm să introduceți un spațiu de nume după numărul său:",
 	"pywikibot-enter-new-text": "Vă rugăm să introduceți noul text:",
-	"pywikibot-enter-category-name": "Vă rugăm să introduceți numele categoriei:",
-	"pywikibot-enter-finished-browser": "Apăsați Enter odată ce ați terminat cu navigatorul."
+	"pywikibot-enter-page-processing": "Ce pagină ar trebui procesată?",
+	"pywikibot-enter-xml-filename": "Vă rugăm să introduceți numele fișierului XML de extracție:"
 }

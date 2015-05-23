@@ -4,8 +4,8 @@
 			"V.narsikar"
 		]
 	},
-	"delete-images": "यंत्रमानव: या पानावरील सर्व चित्रे वगळत आहे%(page)s",
 	"delete-from-category": "%(page)sया वर्गातील सर्व पाने%(page)s वगळत आहे",
 	"delete-from-file": "यंत्रमानव:संचिकांची यादी वगळत आहे",
+	"delete-images": "यंत्रमानव: या पानावरील सर्व चित्रे वगळत आहे%(page)s",
 	"delete-linked-pages": "यंत्रमानव: या पानांशी दुवे असलेली सर्व%(page)sपाने वगळत आहे"
 }

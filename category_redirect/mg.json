@@ -4,9 +4,9 @@
 			"Jagwar"
 		]
 	},
-	"category_redirect-comment": "Rôbô mikojakoja ny fihodinan-tsokajy",
-	"category_redirect-change-category": "Rôbô : Fanovan any fihodinana [[:%(oldCatLink)s|%(oldCatTitle)s]] mankany [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "Rôbô : fanampiana endrika mampihodina ny sokajy ho an'ny fikojakojana.",
+	"category_redirect-change-category": "Rôbô : Fanovan any fihodinana [[:%(oldCatLink)s|%(oldCatTitle)s]] mankany [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Rôbô mikojakoja ny fihodinan-tsokajy",
 	"category_redirect-edit-request": "Mila fanavaozana ny rohin-tsokajy ireo pejy voaaro manaraka ireo : %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s dia ao amin'i %(oldcat)s, izay fihodinana mankany amin'i %(newcat)s",
 	"category_redirect-fix-double": "Rôbô : mamaha olana ny fihodinana mampihodina mankany amina fihodinana."

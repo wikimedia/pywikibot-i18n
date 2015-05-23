@@ -7,15 +7,15 @@
 			"Tchoř"
 		]
 	},
-	"category-version-history": "Robot: Ukládání historie verzí bývalé %(oldcat)s",
-	"category-changing": "Robot: Měním [[%(oldcat)s]]→[[%(newcat)s]]",
 	"category-adding": "Robot: Přidávám kategorii [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(také v %(alsocat)s)",
-	"category-was-disbanded": "Robot: kategorie byla vyprázdněna",
-	"category-replacing": "Robot: Nahrazení kategorie %(oldcat)s za %(newcat)s",
+	"category-changing": "Robot: Měním [[%(oldcat)s]]→[[%(newcat)s]]",
+	"category-listifying": "Robot: vytvoření soupisu obsahu kategorie %(fromcat)s (%(num)d položek)",
 	"category-removing": "Robot: odstranění kategorie %(oldcat)s",
-	"category-was-moved": "Robot: Kategorie přesunuta na [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Robot: Přesunuto z %s. Autoři: %s",
+	"category-replacing": "Robot: Nahrazení kategorie %(oldcat)s za %(newcat)s",
 	"category-section-title": "Historie verzí bývalé %(oldcat)s",
-	"category-listifying": "Robot: vytvoření soupisu obsahu kategorie %(fromcat)s (%(num)d položek)"
+	"category-version-history": "Robot: Ukládání historie verzí bývalé %(oldcat)s",
+	"category-was-disbanded": "Robot: kategorie byla vyprázdněna",
+	"category-was-moved": "Robot: Kategorie přesunuta na [[:Category:%(newcat)s|%(title)s]]"
 }

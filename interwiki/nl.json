@@ -6,12 +6,12 @@
 			"Siebrand"
 		]
 	},
-	"interwiki-modifying": "Robot: gewijzigd: %(modifying)s",
+	"interwiki-adding": "Robot: toegevoegd: %(adding)s",
 	"interwiki-adding-modifying": "Robot: toegevoegd: %(adding)s, gewijzigd: %(modifying)s",
 	"interwiki-adding-removing": "Robot: toegevoegd: %(adding)s, verwijderd: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot: toegevoegd: %(adding)s, verwijderd: %(removing)s, gewijzigd: %(modifying)s",
-	"interwiki-adding": "Robot: toegevoegd: %(adding)s",
+	"interwiki-modifying": "Robot: gewijzigd: %(modifying)s",
+	"interwiki-modifying-from": "Robot: interwiki gewijzigd van %(from)s naar %(modifying)s",
 	"interwiki-removing": "Robot: verwijderd: %(removing)s",
-	"interwiki-removing-modifying": "Robot: verwijderd: %(removing)s, gewijzigd: %(modifying)s",
-	"interwiki-modifying-from": "Robot: interwiki gewijzigd van %(from)s naar %(modifying)s"
+	"interwiki-removing-modifying": "Robot: verwijderd: %(removing)s, gewijzigd: %(modifying)s"
 }

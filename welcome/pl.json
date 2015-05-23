@@ -4,7 +4,7 @@
 			"Sp5uhe"
 		]
 	},
-	"welcome-welcome": "Witaj!",
 	"welcome-bad_username": "Robot dodał nazwę użytkownika, która wymaga sprawdzenia",
-	"welcome-updating": "Robot zaktualizował dziennik"
+	"welcome-updating": "Robot zaktualizował dziennik",
+	"welcome-welcome": "Witaj!"
 }

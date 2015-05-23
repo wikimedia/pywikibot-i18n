@@ -4,8 +4,8 @@
 			"E THP"
 		]
 	},
-	"featured-good": "بوت: %(page)s یاخشی مقاله‌دیر",
-	"featured-list": "بوت: %(page)s سئچیلمیش مقاله‌دیر",
 	"featured-featured": "بوت: %(page)sسئچیلمیش مقاله‌دیر",
-	"featured-former": "بوت: %(page)s کئشمیش سئچیلمیش مقاله‌دیر"
+	"featured-former": "بوت: %(page)s کئشمیش سئچیلمیش مقاله‌دیر",
+	"featured-good": "بوت: %(page)s یاخشی مقاله‌دیر",
+	"featured-list": "بوت: %(page)s سئچیلمیش مقاله‌دیر"
 }

@@ -4,8 +4,8 @@
 			"Basharh"
 		]
 	},
-	"category_redirect-change-category": "ܪܘܒܘܛ: ܫܘܚܠܦܐ ܕܣܕܪܐ ܕܨܘܝܒܐ [[:%(oldCatLink)s|%(oldCatTitle)s]] ܠ [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-add-template": "ܪܘܒܘܛ: ܬܘܣܦܬܐ ܕܩܠܒܐ ܕܨܘܝܒܐ ܕܣܕܪܐ ܠܚܕܬܘܬܐ",
+	"category_redirect-change-category": "ܪܘܒܘܛ: ܫܘܚܠܦܐ ܕܣܕܪܐ ܕܨܘܝܒܐ [[:%(oldCatLink)s|%(oldCatTitle)s]] ܠ [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-edit-request-item": "* %(title)s ܒ %(oldcat)s, ܘܗܘ ܨܘܝܒܐ ܠ %(newcat)s",
 	"category_redirect-fix-double": "ܪܘܒܘܛ: ܬܪܨܐ ܕܨܘܝܒܐ ܥܦܝܦܐ"
 }

@@ -4,6 +4,6 @@
 			"Xqt"
 		]
 	},
-	"table2wiki-warnings": "Bot kawalan pengguna: jadual syntax dikemaskinikan -{{PLURAL:count|1|%(count)d}} amaran!",
-	"table2wiki-no-warning": "Bot kawalan pengguna: jadual syntax dikemaskinikan"
+	"table2wiki-no-warning": "Bot kawalan pengguna: jadual syntax dikemaskinikan",
+	"table2wiki-warnings": "Bot kawalan pengguna: jadual syntax dikemaskinikan -{{PLURAL:count|1|%(count)d}} amaran!"
 }

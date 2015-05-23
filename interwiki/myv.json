@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "роботось полавтызеть: %(modifying)s",
+	"interwiki-adding": "роботось путызеть: %(adding)s",
 	"interwiki-adding-modifying": "роботось путызеть: %(adding)s полавтызеть: %(modifying)s",
 	"interwiki-adding-removing": "роботось путызеть: %(adding)s нардызеть: %(removing)s",
 	"interwiki-adding-removing-modifying": "роботось путызеть: %(adding)s нардызеть: %(removing)s полавтызеть: %(modifying)s",
-	"interwiki-adding": "роботось путызеть: %(adding)s",
+	"interwiki-modifying": "роботось полавтызеть: %(modifying)s",
 	"interwiki-removing": "роботось нардызеть: %(removing)s",
 	"interwiki-removing-modifying": "роботось нардызеть: %(removing)s полавтызеть: %(modifying)s"
 }

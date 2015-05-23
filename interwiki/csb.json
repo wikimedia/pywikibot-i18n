@@ -1,10 +1,10 @@
 {
 	"@metadata": [],
-	"interwiki-modifying": "robot pòprôwiô: %(modifying)s",
+	"interwiki-adding": "robot dodôwô: %(adding)s",
 	"interwiki-adding-modifying": "robot dodôwô: %(adding)s pòprôwiô: %(modifying)s",
 	"interwiki-adding-removing": "robot dodôwô: %(adding)s rëmô: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot dodôwô: %(adding)s rëmô: %(removing)s pòprôwiô: %(modifying)s",
-	"interwiki-adding": "robot dodôwô: %(adding)s",
+	"interwiki-modifying": "robot pòprôwiô: %(modifying)s",
 	"interwiki-removing": "robot rëmô: %(removing)s",
 	"interwiki-removing-modifying": "robot rëmô: %(removing)s pòprôwiô: %(modifying)s"
 }

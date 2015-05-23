@@ -4,12 +4,12 @@
 			"Klenje"
 		]
 	},
-	"interwiki-modifying": "Robot: o cambii: %(modifying)s",
+	"interwiki-adding": "Robot: o zonti: %(adding)s",
 	"interwiki-adding-modifying": "Robot: o zonti: %(adding)s o gjavi: %(modifying)s",
 	"interwiki-adding-removing": "Robot: o zonti: %(adding)s o gjavi: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot: o zonti: %(adding)s o gjavi: %(removing)s o cambii: %(modifying)s",
-	"interwiki-adding": "Robot: o zonti: %(adding)s",
+	"interwiki-modifying": "Robot: o cambii: %(modifying)s",
+	"interwiki-modifying-from": "Robot: o cambii %(from)s in %(modifying)s",
 	"interwiki-removing": "Robot: o gjavi: %(removing)s",
-	"interwiki-removing-modifying": "Robot: o gjavi: %(removing)s o cambii: %(modifying)s",
-	"interwiki-modifying-from": "Robot: o cambii %(from)s in %(modifying)s"
+	"interwiki-removing-modifying": "Robot: o gjavi: %(removing)s o cambii: %(modifying)s"
 }

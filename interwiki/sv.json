@@ -4,12 +4,12 @@
 			"Lokal Profil"
 		]
 	},
-	"interwiki-modifying": "Bot: Ändrar %(modifying)s",
+	"interwiki-adding": "Bot: Lägger till %(adding)s",
 	"interwiki-adding-modifying": "Bot: Lägger till %(adding)s; ändrar %(modifying)s",
 	"interwiki-adding-removing": "Bot: Lägger till %(adding)s; tar bort %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot: Lägger till %(adding)s; tar bort %(removing)s; ändrar %(modifying)s",
-	"interwiki-adding": "Bot: Lägger till %(adding)s",
+	"interwiki-modifying": "Bot: Ändrar %(modifying)s",
+	"interwiki-modifying-from": "Bot: Ändrar %(from)s till %(modifying)s",
 	"interwiki-removing": "Bot: Tar bort %(removing)s",
-	"interwiki-removing-modifying": "Bot: Tar bort %(removing)s; ändrar %(modifying)s",
-	"interwiki-modifying-from": "Bot: Ändrar %(from)s till %(modifying)s"
+	"interwiki-removing-modifying": "Bot: Tar bort %(removing)s; ändrar %(modifying)s"
 }

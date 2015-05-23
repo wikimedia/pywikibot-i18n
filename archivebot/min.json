@@ -4,8 +4,8 @@
 			"Luthfi94"
 		]
 	},
-	"archivebot-older-than": "labiah gaek dari",
-	"archivebot-page-summary": "Robot: Mangarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ka %(archives)s.",
 	"archivebot-archive-full": "(ARSIP PANUAH)",
-	"archivebot-archive-summary": "Robot: Mangarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]]."
+	"archivebot-archive-summary": "Robot: Mangarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]].",
+	"archivebot-older-than": "labiah gaek dari",
+	"archivebot-page-summary": "Robot: Mangarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ka %(archives)s."
 }

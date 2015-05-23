@@ -4,9 +4,9 @@
 			"Luthfi94"
 		]
 	},
-	"delete-images": "Robot: Mahapuih sado gambar pado laman %(page)s",
-	"delete-referring-pages": "Robot: Mahapuih sado laman nan mangarah dari %(page)s",
 	"delete-from-category": "Robot: Mahapuih sado laman dari kategori %(page)s",
 	"delete-from-file": "Robot: Mahapuih daftar berkas.",
-	"delete-linked-pages": "Robot: Mahapuih sado laman nan tatauik dari %(page)s"
+	"delete-images": "Robot: Mahapuih sado gambar pado laman %(page)s",
+	"delete-linked-pages": "Robot: Mahapuih sado laman nan tatauik dari %(page)s",
+	"delete-referring-pages": "Robot: Mahapuih sado laman nan mangarah dari %(page)s"
 }

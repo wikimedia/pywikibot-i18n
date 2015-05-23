@@ -4,8 +4,8 @@
 			"Beta16"
 		]
 	},
+	"pagefromfile-msg": "Bot: importazione automatica delle voci",
 	"pagefromfile-msg_bottom": "aggiungo in fondo",
 	"pagefromfile-msg_force": "sovrascritto il testo esistente",
-	"pagefromfile-msg_top": "aggiungo in cima",
-	"pagefromfile-msg": "Bot: importazione automatica delle voci"
+	"pagefromfile-msg_top": "aggiungo in cima"
 }

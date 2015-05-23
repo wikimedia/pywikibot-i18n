@@ -4,7 +4,7 @@
 			"Anakmalaysia"
 		]
 	},
-	"template-removing": "Robot: Menanggalkan {{PLURAL:%(num)d|templat|templat-templat}}: %(list)s",
 	"template-changing": "Robot: Menukar {{PLURAL:%(num)d|templat|templat-templat}}: %(list)s",
+	"template-removing": "Robot: Menanggalkan {{PLURAL:%(num)d|templat|templat-templat}}: %(list)s",
 	"template-substituting": "Robot: Menggantikan {{PLURAL:%(num)d|templat|templat-templat}}: %(list)s"
 }

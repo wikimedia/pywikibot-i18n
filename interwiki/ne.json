@@ -5,12 +5,12 @@
 			"सरोज कुमार ढकाल"
 		]
 	},
-	"interwiki-modifying": "रोबोट: %(modifying)s लाई परिवर्तन गर्दै",
+	"interwiki-adding": "रोबोट: %(adding)s थप्दै",
 	"interwiki-adding-modifying": "रोबोट: %(adding)s थप्दै; %(modifying)s परिवर्तन गर्दै",
 	"interwiki-adding-removing": "रोबोट: %(adding)s थप्दै; %(removing)s हटाउँदै",
 	"interwiki-adding-removing-modifying": "रोबोट: %(adding)s थप्दै; %(removing)s हटाउँदै; %(modifying)s परिवर्तन गर्दै",
-	"interwiki-adding": "रोबोट: %(adding)s थप्दै",
+	"interwiki-modifying": "रोबोट: %(modifying)s लाई परिवर्तन गर्दै",
+	"interwiki-modifying-from": "रोबोट: %(from)sलाई %(modifying)sमा परिवर्तन गर्दै",
 	"interwiki-removing": "रोबोट: %(removing)s हटाउँदै",
-	"interwiki-removing-modifying": "रोबोट: %(removing)s हटाउँदै; %(modifying)s परिवर्तन गर्दै",
-	"interwiki-modifying-from": "रोबोट: %(from)sलाई %(modifying)sमा परिवर्तन गर्दै"
+	"interwiki-removing-modifying": "रोबोट: %(removing)s हटाउँदै; %(modifying)s परिवर्तन गर्दै"
 }

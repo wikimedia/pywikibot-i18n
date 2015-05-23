@@ -5,7 +5,7 @@
 			"Rancher"
 		]
 	},
-	"welcome-welcome": "Добре дојдовте!",
 	"welcome-bad_username": "Робот: Додава корисничко име што треба да се провери",
-	"welcome-updating": "Робот: Подновува дневник"
+	"welcome-updating": "Робот: Подновува дневник",
+	"welcome-welcome": "Добре дојдовте!"
 }

@@ -7,9 +7,9 @@
 			"Xqt"
 		]
 	},
-	"archivebot-older-than": "älter als %(duration)s",
-	"archivebot-page-summary": "Bot: %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) nach %(archives)s archiviert.",
-	"archivebot-archiveheader": "{{Archiv}}",
 	"archivebot-archive-full": "(ARCHIV VOLL)",
-	"archivebot-archive-summary": "Bot: Archiviere %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} von [[%(from)s]]."
+	"archivebot-archive-summary": "Bot: Archiviere %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} von [[%(from)s]].",
+	"archivebot-archiveheader": "{{Archiv}}",
+	"archivebot-older-than": "älter als %(duration)s",
+	"archivebot-page-summary": "Bot: %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) nach %(archives)s archiviert."
 }

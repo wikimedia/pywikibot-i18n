@@ -5,8 +5,8 @@
 			"Xqt"
 		]
 	},
-	"featured-good": "bot: %(page)s ess enen jooden Atikkel",
-	"featured-list": "bot: %(page)s ess en joode Leß",
 	"featured-featured": "bot: %(page)s ess enen ußjezëijshneten Atikkel",
-	"featured-former": "Bot: %(page)s wor ens ene Atikel med en Ußzeischnung."
+	"featured-former": "Bot: %(page)s wor ens ene Atikel med en Ußzeischnung.",
+	"featured-good": "bot: %(page)s ess enen jooden Atikkel",
+	"featured-list": "bot: %(page)s ess en joode Leß"
 }

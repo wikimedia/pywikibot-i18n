@@ -6,13 +6,13 @@
 			"Xelgen"
 		]
 	},
-	"category-changing": "Ռոբոտ․ %(oldcat)s փոփոխվել է %(newcat)sով",
 	"category-adding": "Ռոբոտ․ Ավելացվել է [[:Category:%(newcat)s|%(newcat)s]] կատեգորիան",
 	"category-also-in": "(այդ թվում %(alsocat)s –ում)",
-	"category-was-disbanded": "Ռոբոտ․ Կատեգորիան լուծարված էր",
-	"category-replacing": "Ռոբոտ․ %(oldcat)s կատեգորիան փոխարինվել է %(newcat)s –ով։",
+	"category-changing": "Ռոբոտ․ %(oldcat)s փոփոխվել է %(newcat)sով",
+	"category-listifying": "Ռոբոտ․ Կազմում է ցանկը %(fromcat)s -ից (%(num)d տարր)",
 	"category-removing": "Ռոբոտ․ հեռացվել է %(oldcat)s -ից",
-	"category-was-moved": "Ռոբոտ․ Կատեգորիան տեղափոխվեց [[:Category:%(newcat)s|%(title)s]]",
 	"category-renamed": "Ռոբոտ․ Տեղափոխվել է %s֊ից։ Հեղինակներ՝ %s",
-	"category-listifying": "Ռոբոտ․ Կազմում է ցանկը %(fromcat)s -ից (%(num)d տարր)"
+	"category-replacing": "Ռոբոտ․ %(oldcat)s կատեգորիան փոխարինվել է %(newcat)s –ով։",
+	"category-was-disbanded": "Ռոբոտ․ Կատեգորիան լուծարված էր",
+	"category-was-moved": "Ռոբոտ․ Կատեգորիան տեղափոխվեց [[:Category:%(newcat)s|%(title)s]]"
 }

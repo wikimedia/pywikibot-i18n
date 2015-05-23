@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"commonscat-msg_change": "Robot: commonscatkoppeling gewijzigd van [[:Commons:Category:%(oldcat)s|%(oldcat)s]] naar [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

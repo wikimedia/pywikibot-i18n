@@ -4,9 +4,9 @@
 			"Purodha"
 		]
 	},
-	"category_redirect-comment": "Bot för de Saachjroppe ier Ömleidonge.",
-	"category_redirect-change-category": "Bot: Han de ömjeleidt Saachjropp [[:%(oldCatLink)s|%(oldCatTitle)s]] jääje de Saachjropp [[:%(newCatLink)s|%(newCatTitle)s]] jetuusch.",
 	"category_redirect-add-template": "Bot: Ömleidungsschalbon dobeijedonn.",
+	"category_redirect-change-category": "Bot: Han de ömjeleidt Saachjropp [[:%(oldCatLink)s|%(oldCatTitle)s]] jääje de Saachjropp [[:%(newCatLink)s|%(newCatTitle)s]] jetuusch.",
+	"category_redirect-comment": "Bot för de Saachjroppe ier Ömleidonge.",
 	"category_redirect-edit-request": "Hee di Sigge sin jeschötz un möße ier Saachjroppe odder Lingks op Saachjroppe aanjepaß krijje: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s es en %(oldcat)s, un dat es en Ömleidong op %(newcat)s",
 	"category_redirect-fix-double": "Bot: Dubbel Ömlëijdong fottjemaat."

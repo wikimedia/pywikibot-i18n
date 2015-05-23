@@ -5,14 +5,14 @@
 			"Gallaecio"
 		]
 	},
-	"pywikibot-enter-xml-filename": "Insira o nome do ficheiro de descarga XML:",
-	"pywikibot-enter-page-processing": "Que páxina se debe procesar?",
+	"pywikibot-enter-category-name": "Insira o nome da categoría:",
 	"pywikibot-enter-file-links-processing": "As ligazóns a que páxina de ficheiro se deben procesar?",
+	"pywikibot-enter-finished-browser": "Prema na tecla \"Intro\" cando remate no navegador.",
 	"pywikibot-enter-namespace-number": "Insira un espazo de nomes segundo o seu número:",
 	"pywikibot-enter-new-text": "Insira o novo texto:",
-	"pywikibot-enter-category-name": "Insira o nome da categoría:",
-	"pywikibot-enter-finished-browser": "Prema na tecla \"Intro\" cando remate no navegador.",
+	"pywikibot-enter-page-processing": "Que páxina se debe procesar?",
+	"pywikibot-enter-xml-filename": "Insira o nome do ficheiro de descarga XML:",
+	"pywikibot-fixes-fckeditor": "Robot: Corrixindo o HTML xerado polo editor gráfico.",
 	"pywikibot-fixes-html": "Robot: Convertendo e corrixindo o código HTML.",
-	"pywikibot-fixes-syntax": "Robot: Corrixindo a sintaxe MediaWiki.",
-	"pywikibot-fixes-fckeditor": "Robot: Corrixindo o HTML xerado polo editor gráfico."
+	"pywikibot-fixes-syntax": "Robot: Corrixindo a sintaxe MediaWiki."
 }

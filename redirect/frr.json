@@ -4,10 +4,10 @@
 			"Murma174"
 		]
 	},
-	"redirect-fix-double": "Bot: Ferbeedre dobelt widjerfeerang tu %(to)s",
-	"redirect-remove-broken": "Bot: Widjerfeerang tu en duad sidj.",
+	"redirect-broken-redirect-template": "{{Strik|Widjerfeerang uunstaken}}",
 	"redirect-fix-broken-moved": "Bot: Uunstaken widjerfeerang feert nü tu %(to)s",
+	"redirect-fix-double": "Bot: Ferbeedre dobelt widjerfeerang tu %(to)s",
 	"redirect-fix-loop": "Bot: Maaget widjerfeerangs-sleuf hial tu %(to)s",
-	"redirect-remove-loop": "Bot: Widjerfeerang üüb ham salew",
-	"redirect-broken-redirect-template": "{{Strik|Widjerfeerang uunstaken}}"
+	"redirect-remove-broken": "Bot: Widjerfeerang tu en duad sidj.",
+	"redirect-remove-loop": "Bot: Widjerfeerang üüb ham salew"
 }

@@ -5,14 +5,14 @@
 			"Xqt"
 		]
 	},
-	"category-version-history": "Bot: Memorisar la cronologia da versiuns da l'anteriura %(oldcat)s",
-	"category-changing": "Bot: Midar %(oldcat)s tar %(newcat)s",
 	"category-adding": "Bot: Agiunt la categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(era en %(alsocat)s)",
-	"category-was-disbanded": "Bot: La categoria è vegnida eliminada",
-	"category-replacing": "Bot: Remplazzar %(oldcat)s cun %(newcat)s",
+	"category-changing": "Bot: Midar %(oldcat)s tar %(newcat)s",
+	"category-listifying": "Bot: Glista dal cuntegn da %(fromcat)s ({{PLURAL:%(num)d|1 pagina|%(num)d paginas}})",
 	"category-removing": "Bot: Allontanar da %(oldcat)s",
-	"category-was-moved": "Bot: La categoria è vegnida spustada tar [[:Category:%(newcat)s|%(title)s]]",
+	"category-replacing": "Bot: Remplazzar %(oldcat)s cun %(newcat)s",
 	"category-section-title": "Cronologia da l'anteriura %(oldcat)s",
-	"category-listifying": "Bot: Glista dal cuntegn da %(fromcat)s ({{PLURAL:%(num)d|1 pagina|%(num)d paginas}})"
+	"category-version-history": "Bot: Memorisar la cronologia da versiuns da l'anteriura %(oldcat)s",
+	"category-was-disbanded": "Bot: La categoria è vegnida eliminada",
+	"category-was-moved": "Bot: La categoria è vegnida spustada tar [[:Category:%(newcat)s|%(title)s]]"
 }

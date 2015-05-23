@@ -5,9 +5,9 @@
 			"Kurniasan"
 		]
 	},
-	"redirect-fix-double": "Bot: Memperbetulkan pelencongan berganda ke %(to)s",
-	"redirect-remove-broken": "Robot: Melencong kepada laman yang terhapus atau tidak wujud",
 	"redirect-fix-broken-moved": "Robot: Membaiki lencongan yang terputus ke halaman sasaran yang terpindah iaitu %(to)s",
+	"redirect-fix-double": "Bot: Memperbetulkan pelencongan berganda ke %(to)s",
 	"redirect-fix-loop": "Robot: Membaiki gelung lencongan ke %(to)s",
+	"redirect-remove-broken": "Robot: Melencong kepada laman yang terhapus atau tidak wujud",
 	"redirect-remove-loop": "Robot: Sasaran lencongan membentuk gelung lencongan"
 }

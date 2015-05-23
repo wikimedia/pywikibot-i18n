@@ -4,12 +4,12 @@
 			"Servien"
 		]
 	},
-	"interwiki-modifying": "bot aanders: %(modifying)s",
+	"interwiki-adding": "bot derbie: %(adding)s",
 	"interwiki-adding-modifying": "bot derbie: %(adding)s aanders: %(modifying)s",
 	"interwiki-adding-removing": "bot derbie: %(adding)s derof: %(removing)s",
 	"interwiki-adding-removing-modifying": "bot derbie: %(adding)s deraof: %(removing)s aanders: %(modifying)s",
-	"interwiki-adding": "bot derbie: %(adding)s",
+	"interwiki-modifying": "bot aanders: %(modifying)s",
+	"interwiki-modifying-from": "Bot: wieziging van %(from)s naor %(modifying)s",
 	"interwiki-removing": "bot deraof: %(removing)s",
-	"interwiki-removing-modifying": "bot deraof: %(removing)s aanders: %(modifying)s",
-	"interwiki-modifying-from": "Bot: wieziging van %(from)s naor %(modifying)s"
+	"interwiki-removing-modifying": "bot deraof: %(removing)s aanders: %(modifying)s"
 }

@@ -4,8 +4,8 @@
 			"Умар"
 		]
 	},
-	"archivebot-older-than": "къена, оццулла",
-	"archivebot-page-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} (%(why)s) %(archives)s чура.",
 	"archivebot-archive-full": "(АРХИВ ЮЬЗЗИНА Ю)",
-	"archivebot-archive-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} [[%(from)s]] чура."
+	"archivebot-archive-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} [[%(from)s]] чура.",
+	"archivebot-older-than": "къена, оццулла",
+	"archivebot-page-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} (%(why)s) %(archives)s чура."
 }

@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"noreferences-add-tag": "Bot: Aggiungo il tag <references /> mancante"
+	"@metadata": {
+		"authors": [
+			"F. Cosoleto"
+		]
+	},
+	"noreferences-add-tag": "Bot: Aggiungo il tag <references /> mancante",
+	"noreferences-fix-tag": "Bot: Correggo sintassi dei tag <references />"
 }

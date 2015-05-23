@@ -4,8 +4,8 @@
 			"EileenSanda"
 		]
 	},
-	"featured-good": "Bottur: %(page)s er ein góð grein",
-	"featured-list": "Bottur: %(page)s er ein útvaldur listi",
 	"featured-featured": "Bottur: %(page)s er ein útvald grein",
-	"featured-former": "Bottur: %(page)s er ein fyrrverandi útvald grein"
+	"featured-former": "Bottur: %(page)s er ein fyrrverandi útvald grein",
+	"featured-good": "Bottur: %(page)s er ein góð grein",
+	"featured-list": "Bottur: %(page)s er ein útvaldur listi"
 }
