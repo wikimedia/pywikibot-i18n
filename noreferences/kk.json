@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"noreferences-add-tag": "Бот: Жетіспеген <references /> тегін қосуда",
+	"noreferences-fix-tag": "Бот: <references /> тегіндегі жарамсыз синтаксисті түзету"
+}

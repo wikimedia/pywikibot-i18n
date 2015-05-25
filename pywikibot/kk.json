@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"pywikibot-enter-category-name": "Санат атауын енгізіңіз:",
+	"pywikibot-enter-file-links-processing": "Файл беті сілтемелерін өңдеу керек пе?",
+	"pywikibot-enter-finished-browser": "Браузерде аяқтаған кезде Enter пернесін басыңыз.",
+	"pywikibot-enter-namespace-number": "Есім кеңістігін оның нөмері бойынша енгізіңіз:",
+	"pywikibot-enter-new-text": "Жаңа мәтін енгізіңіз:",
+	"pywikibot-enter-page-processing": "Қандай бет өңдеу керек?",
+	"pywikibot-fixes-html": "Робот: HTML түрлендірілуде/түзетілуде",
+	"pywikibot-fixes-syntax": "Робот: Уики синтаксисін түзетуде"
+}

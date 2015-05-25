@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Талқылау өзгертілді",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Талқылау жабылды",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "БОТ ХАБАРЛАМА",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Жаңа талқылау",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Хабарландырулар",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(адам өңдеуші табылмады)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - соңғы өңдеме жасаған [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Бот ескерту хабарламасы: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Талқылау түйіндемесін қосты: %(num)i жазба",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "тазартумен қоса талқылау түйіндемесін қосты: %(num)i жазба",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Талқылау түйіндемесі жаңаланды: %(num)i жазбадан %(page)s бетте"
+}

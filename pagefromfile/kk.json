@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"pagefromfile-msg": "Бот: Автоматтандырылған мақала импорттауы",
+	"pagefromfile-msg_bottom": "мәтіннің астыңғы жағында үстеңіз",
+	"pagefromfile-msg_force": "Бар мәтіннің үстінен жазу",
+	"pagefromfile-msg_top": "үстіңгі жағында үстеңіз"
+}

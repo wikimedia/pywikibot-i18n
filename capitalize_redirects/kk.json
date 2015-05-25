@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Бот: [[%(to)s]] дегенге бағыттағыш бетін бастау"
+}

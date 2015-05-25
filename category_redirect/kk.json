@@ -1,4 +1,12 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"category_redirect-add-template": "Бот: Санатқа бағыттайтын үлгі қосуда",
+	"category_redirect-change-category": "Bot: [[:%(oldCatLink)s|%(oldCatTitle)s]] дегеннен [[:%(newCatLink)s|%(newCatTitle)s]] бағыттайтын санатқа өзгерту",
+	"category_redirect-comment": "Санат бағыттауына қызымет ететін бот",
+	"category_redirect-edit-request": "Келесі қорғалған бет санат сілтемелерін жаңарту қажет ететін ретінде жойылады: %(itemlist)s",
 	"category_redirect-fix-double": "Бот: Шынжырлы айдатуды түзетті"
 }

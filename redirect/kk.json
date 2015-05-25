@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
 	"redirect-fix-double": "Бот: Шынжырлы айдатуды түзетті → %(to)s",
-	"redirect-remove-broken": "Бот: Айдату нысанасы жоқ болды"
+	"redirect-remove-broken": "Бот: Бағыттау беті жойылған не жоқ болды"
 }

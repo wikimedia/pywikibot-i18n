@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"delete-from-category": "Бот: %(page)s санатынан барлық беттерді аластауда",
+	"delete-from-file": "Бот: Беттер тізімін жоюда.",
+	"delete-images": "Бот: %(page)s санатынан барлық суреттерді аластауда",
+	"delete-linked-pages": "Бот: %(page)s бетінен сілтенген барлық беттерді жоюда.",
+	"delete-referring-pages": "Бот: %(page)s бетінен сілтенетін барлық беттерді жоюда"
+}

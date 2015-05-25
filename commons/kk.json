@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файлды]] [[:commons:File:%(commonsfile)s|ортаққорға]] тасымалданды.",
+	"commons-file-now-available": "Файл қазір [[:commons:File:%(commonsfile)s|Wikimedia Commons]] жобасында қолжетімді."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"archivebot-archive-full": "(МҰРАҒАТ ТОЛҒАН)",
+	"archivebot-archive-summary": "Бот: [[%[[%(from)s]] бетінен %(count)d {{PLURAL:%(count)d|тақырыпты|тақырыптарды}} мұрағаттауда.",
+	"archivebot-older-than": "%(duration)s-дан ескірек",
+	"archivebot-page-summary": "Бот: (%(why)s) бетінен %(archives)s бетіне %(count)d {{PLURAL:%(count)d|тақырыпты|тақырыптарды}} мұрағаттауда."
+}

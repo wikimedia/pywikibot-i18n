@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"featured-featured": "Бот: %(page)s беті таңдаулы мақала",
+	"featured-former": "Бот: %(page)s беті бұрынғы таңдаулы мақала",
+	"featured-good": "Бот: %(page)s беті жақсы мақала",
+	"featured-list": "Бот: %(page)s беті таңдаулы тізім"
+}

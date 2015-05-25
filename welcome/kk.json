@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"welcome-bad_username": "Бот: Тексеру қажет ететін қатысушы есімі қосылуда",
+	"welcome-updating": "Бот: Журналды жаңартуда",
+	"welcome-welcome": "Қош келдіңіз!"
+}

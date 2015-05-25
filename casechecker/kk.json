@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"casechecker-delete-summary": "Бот: Бұл бағыттау атауында бірдей кирилл және латын әріптерден тұрады",
+	"casechecker-rename": "Бот: аралас жағдайда қайта атау",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Бот: Регистрді алмастыру:"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"commonscat-msg_change": "Бот: Ортаққор санат сілтемелерін [[:Commons:Category:%(oldcat)s|%(oldcat)s]] дегеннен [[:Commons:Category:%(newcat)s|%(newcat)s]] дегенге өзгертті"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"makecat-create": "Бот: [[:Category:%(cat)s|]] санатын бастау не жаңарту"
+}
