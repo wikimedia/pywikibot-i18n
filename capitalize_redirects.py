@@ -382,6 +382,10 @@ msg = {
     'ta': {
         'capitalize_redirects-create-redirect': u'தானியங்கி: [[%(to)s]] இற்கு வழிமாற்றி ஒன்றினை உருவாக்கு',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'capitalize_redirects-create-redirect': u'బాటు : [[%(to)s]] కు దారిమార్పు రూపొందించు',
+    },
     # Author: Nullzero
     # Author: Octahedron80
     'th': {

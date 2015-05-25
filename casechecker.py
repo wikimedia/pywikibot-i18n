@@ -478,6 +478,14 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Bot: Ersätter versalisering',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'casechecker-delete-reason': u'ఈ దారిమార్పు %(target)s ను చూపేందుకు వాడతారు',
+        'casechecker-delete-summary': u'బాటు : ఈ దారిమార్పు పాఠ్యంలో సిరిలిక్, లాటిన్ అక్షరాలు శీర్షికను పోలి ఉన్నాయి',
+        'casechecker-rename': u'బాటు : ఆంఘ్ల పెద్దబడి-చిన్నబడి మిశ్రిత పేరుమార్పు',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'బాటు : ఆంగ్ల పెద్దబడి⇆చిన్నబడి మార్పిడిలు :',
+    },
     # Author: Octahedron80
     'th': {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',

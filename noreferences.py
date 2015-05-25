@@ -54,8 +54,10 @@ msg = {
         'noreferences-add-tag': u'Robot: дабаўлены адсутнічаючы тэг <references />',
     },
     # Author: EugeneZelenko
+    # Author: Red Winged Duck
     'be-x-old': {
         'noreferences-add-tag': u'Робат: дадаў адсутнічаючы тэг <references />',
+        'noreferences-fix-tag': u'Робат: выпраўленьне няслушнага сынтаксысу тэгу <references />',
     },
     # Author: DCLXVI
     'bg': {
@@ -128,6 +130,7 @@ msg = {
     # Author: Vivaelcelta
     'es': {
         'noreferences-add-tag': u'Bot: adición de etiqueta <references /> faltante',
+        'noreferences-fix-tag': u'Bot: corrección de sintaxis no válida de la etiqueta <references />',
     },
     # Author: Pikne
     'et': {
@@ -137,9 +140,11 @@ msg = {
     'eu': {
         'noreferences-add-tag': u'Bot-a: Falta den <references /> etiketa eransten',
     },
+    # Author: Reza1615
     # Author: ZxxZxxZ
     'fa': {
         'noreferences-add-tag': u'ربات: افزودن برچسب <references /> که فراموش شده بود',
+        'noreferences-fix-tag': u'ربات:اصلاح شیوه نوشتاری نادرست برچسب <references />',
     },
     # Author: Crt
     'fi': {
@@ -161,9 +166,11 @@ msg = {
     'frr': {
         'noreferences-add-tag': u'Bot: Ütjdruk <references /> waant',
     },
+    # Author: Banjo
     # Author: Toliño
     'gl': {
         'noreferences-add-tag': u'Bot: Engado a etiqueta <references />, que faltaba',
+        'noreferences-fix-tag': u'Bot: Arranxo da sintaxe da etiqueta <references />',
     },
     # Author: Jetlag
     'hak': {
@@ -200,8 +207,10 @@ msg = {
     'is': {
         'noreferences-add-tag': u'Vélmenni: Bæti við <references /> tákni',
     },
+    # Author: F. Cosoleto
     'it': {
         'noreferences-add-tag': u'Bot: Aggiungo il tag <references /> mancante',
+        'noreferences-fix-tag': u'Bot: Correggo sintassi dei tag <references />',
     },
     # Author: Shirayuki
     'ja': {
@@ -218,6 +227,7 @@ msg = {
     # Author: Purodha
     'ksh': {
         'noreferences-add-tag': u'Bot: Ene <references /> Befähl hät jefählt. Dobeijedonn.',
+        'noreferences-fix-tag': u'Bot: Donn en kappodde Süntx vum Befähl <references /> repereehre.',
     },
     # Author: Викиней
     'ky': {
@@ -226,6 +236,7 @@ msg = {
     # Author: Robby
     'lb': {
         'noreferences-add-tag': u'Bot: Tag <references /> dee gefeelt huet derbäigesat',
+        'noreferences-fix-tag': u'Bot: Net valabel Syntx vum Tag <references /> flécken',
     },
     # Author: Ooswesthoesbes
     'li': {
@@ -257,14 +268,17 @@ msg = {
     # Author: Bjankuloski06
     'mk': {
         'noreferences-add-tag': u'Робот: Додава отсутна ознака <references />',
+        'noreferences-fix-tag': u'Бот: Поправка на неважечка синтакса на ознаката <references />',
     },
     # Author: Praveenp
     'ml': {
         'noreferences-add-tag': u'യന്ത്രം: ഇല്ലാതെ പോയ <references /> ടാഗ് ചേർക്കുന്നു',
     },
+    # Author: Anakmalaysia
     # Author: Diagramma Della Verita
     'ms': {
         'noreferences-add-tag': u'Robot: Menambah tag  <references /> yang hilang',
+        'noreferences-fix-tag': u'Bot: Membetulkan sintaks tak sah untuk teg <references />',
     },
     # Author: Servien
     'nds-nl': {
@@ -278,18 +292,22 @@ msg = {
     'new': {
         'noreferences-add-tag': u'रोबट: मदूगु <references /> ट्याग तनाच्वँगु',
     },
+    # Author: Hansmuller
     # Author: Siebrand
     'nl': {
         'noreferences-add-tag': u'Robot: toevoeging ontbrekende <references /> tag',
+        'noreferences-fix-tag': u'Bot: repareer de onjuiste syntaxis van het <references /> merkje.',
     },
     # Author: Harald Khan
     # Author: Njardarlogar
     'nn': {
         'noreferences-add-tag': u'robot: la til manglande <references />-merke',
     },
+    # Author: Danmichaelo
     # Author: Nghtwlkr
     'no': {
         'noreferences-add-tag': u'Robot: Legger til manglende <references />-element',
+        'noreferences-fix-tag': u'Bot: Korrigerer <references />-syntaks',
     },
     # Author: Cedric31
     'oc': {
@@ -311,14 +329,17 @@ msg = {
     # Author: Vitorvicentevalente
     'pt': {
         'noreferences-add-tag': u'Robô: A adicionar a marca <references />',
+        'noreferences-fix-tag': u'Robô: Correção de sintaxe inválida da marca <references />',
     },
     # Author: Minisarm
     'ro': {
         'noreferences-add-tag': u'Robot: Adăugat tagul lipsă <references />',
     },
+    # Author: Okras
     # Author: Volkov
     'ru': {
         'noreferences-add-tag': u'бот добавил отсутствующий тег <references />',
+        'noreferences-fix-tag': u'Бот: Исправление неверного синтаксиса у <references />',
     },
     # Author: John Reid
     'sco': {
@@ -350,8 +371,10 @@ msg = {
         'noreferences-add-tag': u'Бот: додата ознака <references /> која недостаје',
     },
     # Author: Lokal Profil
+    # Author: WikiPhoenix
     'sv': {
         'noreferences-add-tag': u'Bot: Lägger till saknad <references />-tagg',
+        'noreferences-fix-tag': u'Bot: Fixar ogiltig syntax för taggen <references />',
     },
     # Author: Kwisha
     'sw': {
@@ -407,7 +430,9 @@ msg = {
         'noreferences-add-tag': u'באט: צולייגן פֿעלנדן <references /> טאַג',
     },
     # Author: Anakmalaysia
+    # Author: Liuxinyu970226
     'zh': {
         'noreferences-add-tag': u'机器人：添加缺少的<references />标签',
+        'noreferences-fix-tag': u'机器人：修复<references />标签的无效语法',
     },
 };

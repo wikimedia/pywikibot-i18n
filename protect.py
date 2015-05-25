@@ -9,6 +9,7 @@ msg = {
         'protect-simple': u'Bot: Protecting a list of files.',
     },
     # Author: Geoffrey "GEOFBOT" Mon
+    # Author: Sn1per
     # Author: Valhallasw
     # Author: Xqt
     'qqq': {

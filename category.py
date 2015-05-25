@@ -561,6 +561,7 @@ msg = {
     # Author: Dferg
     # Author: Fitoschido
     # Author: Invadinado
+    # Author: MarcoAurelio
     # Author: Mor
     # Author: Vivaelcelta
     # Author: Xqt
@@ -573,7 +574,8 @@ msg = {
         'category-renamed': u'Bot: movida de «%s». Autores: %s',
         'category-replacing': u'Bot: reemplazo de categoría %(oldcat)s por %(newcat)s',
         'category-section-title': u'Historial de la página de %(oldcat)s previos',
-        'category-version-history': u'Bot: guardado de historial de los %(oldcat)s previos',
+        'category-strip-cfd-templates': u'Bot: eliminando plantillas para acción completada',
+        'category-version-history': u'Bot: guardado de historial de la %(oldcat)s anterior',
         'category-was-disbanded': u'Bot: la categoría fue eliminada',
         'category-was-moved': u'Bot: categoría movida a «[[:Category:%(newcat)s|%(title)s]]»',
     },
@@ -935,6 +937,7 @@ msg = {
     },
     # Author: Beta16
     # Author: EdoDodo
+    # Author: Gianfranco
     # Author: Nemo bis
     # Author: Ricordisamoa
     # Author: Rippitippi
@@ -948,6 +951,7 @@ msg = {
         'category-renamed': u'Bot: Voce spostata da %s. Autori: %s',
         'category-replacing': u'Bot: Sostituzione di %(oldcat)s con %(newcat)s',
         'category-section-title': u'Cronologia della precedente %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: Rimozione di template CFD per intervenuto completamento dell\'azione',
         'category-version-history': u'Bot: salvo la cronologia della precedente %(oldcat)s',
         'category-was-disbanded': u'Bot: La categoria è stata eliminata',
         'category-was-moved': u'Bot: La categoria è stata sostituita da [[:Category:%(newcat)s|%(title)s]]',
@@ -1061,9 +1065,10 @@ msg = {
         'category-changing': u'Bot: %(oldcat)s ußjewääßelt jääje %(newcat)s',
         'category-listifying': u'Bot: Leß vun dä %(fromcat)s (%(num)d Enndrääsch)',
         'category-removing': u'Bot: uß de %(oldcat)s ußjedraare',
-        'category-renamed': u'Bot: hääjeholldt von %s. Schriiver: %s',
+        'category-renamed': u'Bot: hääjeholldt von %s. Schrihver: %s',
         'category-replacing': u'Bot: [[%(oldcat)s]] jääje [[%(newcat)s]] ußjetuusch.',
         'category-section-title': u'De ällder Version von de fröjere %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: Schmihß de älehdeschte Schablohn zom Fottschmihße uß dä Sigg.',
         'category-version-history': u'Bot: De ällder Version von de fröjere %(oldcat)s faßjehallde.',
         'category-was-disbanded': u'Bot: de Saachjropp is nu opjelööß',
         'category-was-moved': u'Bot: Saachjropp noh [[:Category:%(newcat)s|%(title)s]] jeschovve',
@@ -1291,6 +1296,7 @@ msg = {
         'category-renamed': u'Robot: Berpindah dari %s. Pengarang: %s',
         'category-replacing': u'Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s',
         'category-section-title': u'Sejarah versi bekas %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: Menyingkirkan templat CFD untuk tindakan yang selesai',
         'category-version-history': u'Robot: Menyimpan sejarah versi bekas %(oldcat)s',
         'category-was-disbanded': u'Bot: Kategori telah dibubarkan',
         'category-was-moved': u'Bot: Kategori telah dipindahkan ke [[:Category:%(newcat)s|%(title)s]]',
@@ -1412,6 +1418,7 @@ msg = {
         'category-renamed': u'Robot: hernoemd van %s. Auteurs: %s',
         'category-replacing': u'Robot: categorie %(oldcat)s is vervangen door %(newcat)s',
         'category-section-title': u'Paginageschiedenis van voormalige %(oldcat)s',
+        'category-strip-cfd-templates': u'Robot: categorieverwijderingssjablonen verwijderd voor afgeronde handeling',
         'category-version-history': u'Robot: versiegeschiedenis van voormalige %(oldcat)s opgeslagen',
         'category-was-disbanded': u'Robot: categorie is opgeheven',
         'category-was-moved': u'Robot: categorie is hernoemd naar [[:Category:%(newcat)s|%(title)s]]',
@@ -1439,6 +1446,7 @@ msg = {
         'category-renamed': u'bot: Flytta fra %s. Forfattere: %s',
         'category-replacing': u'Robot: Erstatter kategorien %(oldcat)s med %(newcat)s',
         'category-section-title': u'Sidehistorikk fra den eldre %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: Fjerner CFD-maler for avsluttede saker',
         'category-version-history': u'Robot: Lagrer versjonshistorikk fra den eldre %(oldcat)s',
         'category-was-disbanded': u'Robot: Kategorien ble oppløst',
         'category-was-moved': u'Robot: Kategorien ble flyttet til [[:Category:%(newcat)s|%(title)s]]',
@@ -1791,6 +1799,7 @@ msg = {
     # Author: JVRKPRASAD
     # Author: Naidugari Jayanna
     # Author: Veeven
+    # Author: రహ్మానుద్దీన్
     'te': {
         'category-adding': u'బాటు: [[:Category:%(newcat)s|%(newcat)s]] వర్గాన్ని చేర్చింది',
         'category-also-in': u'(%(alsocat)s లలో కూడా ఉంది)',
@@ -1800,6 +1809,7 @@ msg = {
         'category-renamed': u'బాట్: %s నుండి తరలించబడింది. రచయితలు:%s',
         'category-replacing': u'బాట్: %(oldcat)s వర్గాన్ని %(newcat)s తోటి మారుస్తున్నాం',
         'category-section-title': u'%(oldcat)s యొక్క పూర్వపు పేజీ చరితం',
+        'category-strip-cfd-templates': u'బాటు : పని పూర్తయేందుకు CFD మూసలను తొలగిస్తున్నాము',
         'category-version-history': u'బాట్: %(oldcat)s మాజీ చరిత్ర వెర్షన్ భద్రపరుస్తోంది',
         'category-was-disbanded': u'బాట్: వర్గం రద్దు చేయబడింది',
         'category-was-moved': u'బాట్: వర్గం అనేది [[:Category:%(newcat)s|%(title)s]] నకు తరలించారు',

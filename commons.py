@@ -451,6 +451,10 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Plik]] przeciepano do [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'Plik terozki dostympny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'commons-file-now-available': u'దస్త్రం ఇప్పుడు [[:commons:File:%(commonsfile)s|వికీమీడియా కామన్స్]] వద్ద లభ్యం.',
+    },
     # Author: AnakngAraw
     'tl': {
         'commons-file-moved': u'Nilipat ang [[:File:%(localfile)s|Talaksan]] papunta sa [[:commons:File:%(commonsfile)s|commons]].',

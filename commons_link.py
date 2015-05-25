@@ -262,6 +262,10 @@ msg = {
         'commons_link-cat-template-added': u'Bot: Inkludera commonscat-mall',
         'commons_link-template-added': u'Bot: Inkludera commons-mall',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'commons_link-cat-template-added': u'బాటు : commonscat మూసను జతపరుచు',
+    },
     # Author: Andriykopanytsia
     'uk': {
         'commons_link-cat-template-added': u'Робот: Включити шаблон commonscat',

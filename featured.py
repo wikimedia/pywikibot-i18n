@@ -558,6 +558,7 @@ msg = {
         'featured-list': u'Robot: %(page)s este o listă de calitate',
     },
     # Author: Rubin
+    # Author: Rubin16
     # Author: Volkov
     'ru': {
         'featured-featured': u'бот: избранная статья %(page)s',
@@ -628,6 +629,13 @@ msg = {
     # Author: Aswn
     'ta': {
         'featured-good': u'தானியங்கி: %(page)s ஒரு நல்ல கட்டுரையாகும்',
+    },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'featured-featured': u'బాటు : %(page)s విశేష వ్యాసం',
+        'featured-former': u'బాటు : %(page)s ఒక మాజీ విశేష వ్యాసం',
+        'featured-good': u'బాటు : %(page)s ఒక మంచి వ్యాసం',
+        'featured-list': u'బాటు : %(page)s విశేష సూచీ',
     },
     # Author: Nullzero
     # Author: Octahedron80

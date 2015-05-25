@@ -88,9 +88,11 @@ msg = {
         'weblinkchecker-summary': u'Bot: Prijavljam nedostupnu vanjsku vezu',
     },
     # Author: Anskar
+    # Author: Fitoschido
     # Author: Pitort
     'ca': {
         'weblinkchecker-archive_msg': u'S\'ha desat la pàgina web per Internet Arxive. Si us plau, considereu unir-vos a una versió arxivada apropiada: [%(URL)s].',
+        'weblinkchecker-badurl': u'L\'enllaç proporcionat no sembla ser un URL vàlid',
         'weblinkchecker-caption': u'Enllaç trencat',
         'weblinkchecker-report': u'Durant diverses execucions automàtiques, el bot ha comprovat que el següent enllaç extern no està disponible. Comproveu que l\'enllaç estigui realment trencat i corregiu-lo o retireu-lo.!',
         'weblinkchecker-summary': u'Robot: Informant d\'un enllaç extern inaccessible',
@@ -407,6 +409,10 @@ msg = {
         'weblinkchecker-caption': u'Pautan mati',
         'weblinkchecker-report': u'Ketika beberapa jalanan bot automatik, pautan luar yang berikut didapati tidak berkesan. Sila semak sama ada halaman sesawang yang dipauti itu sebenarnya ditutup, dan jika begitu, betulkan atau buang pautan itu.',
         'weblinkchecker-summary': u'Robot: Melaporkan pautan luar yang tidak berkesan',
+    },
+    # Author: Chrisportelli
+    'mt': {
+        'weblinkchecker-caption': u'Ħolqa mejta',
     },
     'nds': {
         'weblinkchecker-caption': u'Weblenk geiht nich mehr',

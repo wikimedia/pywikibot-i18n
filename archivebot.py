@@ -43,6 +43,11 @@ msg = {
         'archivebot-older-than': u'elter wie',
         'archivebot-page-summary': u'Bötli: Due %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) uff %(archives)s archiviere.',
     },
+    # Author: MarcoAurelio
+    'an': {
+        'archivebot-archive-full': u'(FICHERO COMPLETO)',
+        'archivebot-older-than': u'con una antiguidat de %(duration)s',
+    },
     # Author: DRIHEM
     'ar': {
         'archivebot-archive-full': u'(الأرشيف ممتلئ)',
@@ -911,8 +916,11 @@ msg = {
         'archivebot-older-than': u'%(duration)s முந்தையது',
     },
     # Author: Jprmvnvijay5
+    # Author: రహ్మానుద్దీన్
     'te': {
-        'archivebot-older-than': u'కన్నా పాతది',
+        'archivebot-archive-full': u'(ఆర్ఖైవ్ నిండినది)',
+        'archivebot-older-than': u'%(duration)s కన్నా పాతది',
+        'archivebot-page-summary': u'బాటు : %(count)d {{PLURAL:%(count)d|థ్రెడ్|థ్రెడ్లు}} (%(why)s) లను  %(archives)s కు ఆర్ఖైవ్ చేస్తున్నాము.',
     },
     # Author: MF-Warburg
     'tet': {

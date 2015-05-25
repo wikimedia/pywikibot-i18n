@@ -153,6 +153,7 @@ msg = {
         'pywikibot-enter-xml-filename': u'Unesite naziv datoteke XML ispisa:',
     },
     # Author: Alvaro Vidal-Abarca
+    # Author: Fitoschido
     # Author: Grondin
     # Author: Pitort
     # Author: Toniher
@@ -165,6 +166,8 @@ msg = {
         'pywikibot-enter-new-text': u'Si us plau introdueix el nou text :',
         'pywikibot-enter-page-processing': u'Quina pàgina ha de ser processada?',
         'pywikibot-enter-xml-filename': u'Si us plau introdueix el nom del fitxer abocador d\'XML .',
+        'pywikibot-fixes-fckeditor': u'Robot corregeix l\'editor d\'HTML',
+        'pywikibot-fixes-syntax': u'Robot corregeix la sintaxi wiki',
     },
     # Author: Умар
     'ce': {
@@ -279,6 +282,8 @@ msg = {
     },
     # Author: Armando-Martin
     # Author: Benfutbol10
+    # Author: Macofe
+    # Author: MarcoAurelio
     'es': {
         'pywikibot-enter-category-name': u'Introduce el nombre de la categoría:',
         'pywikibot-enter-file-links-processing': u'¿A qué página de archivo se deben procesar los enlaces?',
@@ -287,6 +292,8 @@ msg = {
         'pywikibot-enter-new-text': u'Escribe el nuevo texto:',
         'pywikibot-enter-page-processing': u'¿Qué página se debe procesar?',
         'pywikibot-enter-xml-filename': u'Por favor, introduce el nombre del archivo de descarga XML:',
+        'pywikibot-fixes-html': u'Robot: convirtiendo/arreglando HTML',
+        'pywikibot-fixes-syntax': u'Robot: arreglo de la sintaxis wiki',
     },
     # Author: Avjoska
     'et': {
@@ -468,6 +475,8 @@ msg = {
         'pywikibot-enter-page-processing': u'Hvaða síðu á að vinna við?',
     },
     # Author: Beta16
+    # Author: F. Cosoleto
+    # Author: Gianfranco
     # Author: Ricordisamoa
     'it': {
         'pywikibot-enter-category-name': u'Inserisci il nome della categoria:',
@@ -477,6 +486,9 @@ msg = {
         'pywikibot-enter-new-text': u'Inserisci il nuovo testo:',
         'pywikibot-enter-page-processing': u'Quale pagina deve essere elaborata?',
         'pywikibot-enter-xml-filename': u'Inserisci il nome del file del dump XML:',
+        'pywikibot-fixes-fckeditor': u'Robot: Correzione html rich editor',
+        'pywikibot-fixes-html': u'Bot: Conversioni/correzioni HTML',
+        'pywikibot-fixes-syntax': u'Bot: Correggo sintassi wiki',
     },
     # Author: Alex Shih-Han Lin
     # Author: Shirayuki
@@ -524,7 +536,14 @@ msg = {
         'pywikibot-enter-new-text': u'Jif dä neue Täx en:',
         'pywikibot-enter-page-processing': u'Wat för en Sigg sulle mer beärbeide?',
         'pywikibot-enter-xml-filename': u'Jif däm <i lang="en">XML-Dump</i> singe Dateiname en:',
+        'pywikibot-fixes-fckeditor': u'Bot: Donn et HTML vum FCK-editor repparehre',
         'pywikibot-fixes-html': u'Bot: vun HTML en Wikikood wandelle',
+        'pywikibot-fixes-syntax': u'Bot: Donn de Süntax vum Wikki repparehre',
+    },
+    # Author: George Animal
+    'ku': {
+        'pywikibot-enter-category-name': u'Ji kerema xwe re navê kategoriyê binivîse:',
+        'pywikibot-enter-new-text': u'Ji kerema xwe re nivîseke nû binivîse:',
     },
     # Author: Викиней
     'ky': {
@@ -629,6 +648,9 @@ msg = {
         'pywikibot-enter-new-text': u'Sila masukkan teks baru:',
         'pywikibot-enter-page-processing': u'Halaman yang manakah harus diproses?',
         'pywikibot-enter-xml-filename': u'Sila masukkan nama fail longgokan XML:',
+        'pywikibot-fixes-fckeditor': u'Robot: Membetulkan html rich-editor',
+        'pywikibot-fixes-html': u'Robot: Menukarkan/membetulkan HTML',
+        'pywikibot-fixes-syntax': u'Robot: Membetulkan sintaks wiki',
     },
     # Author: Servien
     'nds-nl': {
@@ -670,9 +692,11 @@ msg = {
         'pywikibot-enter-new-text': u'Geef de nieuwe tekst op:',
         'pywikibot-enter-page-processing': u'Welke pagina moet verwerkt worden?',
         'pywikibot-enter-xml-filename': u'Geef de bestandnaam van een XML-dump op:',
+        'pywikibot-fixes-fckeditor': u'Robot: HTML van tekstverwerker gecorrigeerd',
         'pywikibot-fixes-html': u'Bot: conversie/reparatie HTML',
         'pywikibot-fixes-syntax': u'Bot: reparatie wikisyntaxis',
     },
+    # Author: Danmichaelo
     # Author: Jon Harald Søby
     'no': {
         'pywikibot-enter-category-name': u'Skriv inn kategorinavnet:',
@@ -682,6 +706,9 @@ msg = {
         'pywikibot-enter-new-text': u'Skriv inn den nye teksten:',
         'pywikibot-enter-page-processing': u'Hvilken side skal behandles?',
         'pywikibot-enter-xml-filename': u'Skriv inn XML-dumpens filnavn:',
+        'pywikibot-fixes-fckeditor': u'Bot: Fikser HTML fra wysiwyg-editor',
+        'pywikibot-fixes-html': u'Bot: Konverterer/fikser HTML',
+        'pywikibot-fixes-syntax': u'Bot: Fikser wikisyntaks',
     },
     # Author: Leszek Krupiński
     # Author: Matma Rex
@@ -839,6 +866,7 @@ msg = {
         'pywikibot-enter-page-processing': u'Vilken sida ska behandlas?',
         'pywikibot-enter-xml-filename': u'Ange XML-dumpens filnamn:',
         'pywikibot-fixes-html': u'Bot: Konverterar/korrigerar HTML',
+        'pywikibot-fixes-syntax': u'Robot: Fixar wikisyntax',
     },
     # Author: Kwisha
     # Author: Stephenwanjau

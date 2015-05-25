@@ -524,6 +524,7 @@ msg = {
     },
     # Author: Dima st bk
     # Author: Rubin
+    # Author: Rubin16
     # Author: Volkov
     'ru': {
         'add_text-adding': u'Бот добавил: %(adding)s',

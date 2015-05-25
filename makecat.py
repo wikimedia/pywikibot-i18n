@@ -196,6 +196,10 @@ msg = {
     'sv': {
         'makecat-create': u'Bot: Skapande eller uppdatering av kategorin [[:Category:%(cat)s|]]',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'makecat-create': u'బాటు : [[:Category:%(cat)s|]] వర్గం సృష్టి లేదా తాజాకరణ',
+    },
     # Author: Andriykopanytsia
     'uk': {
         'makecat-create': u'Робот: Створення або оновлення категорії  [[:Category:%(cat)s|]]',

@@ -365,6 +365,10 @@ msg = {
     'ta': {
         'clean_sandbox-cleaned': u'தானியங்கி: தானாகவே சுத்தப்படுத்தப்பட்டது',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'clean_sandbox-cleaned': u'బాటు : తానంతటతానుగా శుభ్రపరచబడింది',
+    },
     # Author: Octahedron80
     'th': {
         'clean_sandbox-cleaned': u'บอต: เก็บกวาดโดยอัตโนมัติ',

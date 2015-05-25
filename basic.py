@@ -467,6 +467,10 @@ msg = {
     'ta': {
         'basic-changing': u'தானியங்கி: மாற்றம் ...',
     },
+    # Author: రహ్మానుద్దీన్
+    'te': {
+        'basic-changing': u'బాటు : మారుస్తోంది ...',
+    },
     # Author: MF-Warburg
     'tet': {
         'basic-changing': u'Bot: Muda ...',

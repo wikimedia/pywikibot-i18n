@@ -95,6 +95,18 @@ msg = {
     'mk': {
         'commonscat-msg_change': u'Бот: Ја менувам врската за категорија на Ризницата од [[:Commons:Category:%(oldcat)s|%(oldcat)s]] на [[:Commons:Category:%(newcat)s|%(newcat)s]]',
     },
+    # Author: Anakmalaysia
+    'ms': {
+        'commonscat-msg_change': u'Bot: Menukar pautan commonscat dari [[:Commons:Category:%(oldcat)s|%(oldcat)s]] ke [[:Commons:Category:%(newcat)s|%(newcat)s]]',
+    },
+    # Author: Siebrand
+    'nl': {
+        'commonscat-msg_change': u'Robot: commonscatkoppeling gewijzigd van [[:Commons:Category:%(oldcat)s|%(oldcat)s]] naar [[:Commons:Category:%(newcat)s|%(newcat)s]]',
+    },
+    # Author: Danmichaelo
+    'no': {
+        'commonscat-msg_change': u'Bot: Endrer commonscat-lenke fra [[:Commons:Category:%(oldcat)s|%(oldcat)s]] til [[:Commons:Category:%(newcat)s|%(newcat)s]]',
+    },
     # Author: Xqt
     'pdc': {
         'commonscat-msg_change': u'Waddefresser: commonscat Gleecher vun [[:Commons:Category:%(oldcat)s|%(oldcat)s]] nooch [[:Commons:Category:%(newcat)s|%(newcat)s]] geennert',
