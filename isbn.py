@@ -246,6 +246,10 @@ msg = {
     'jv': {
         'isbn-formatting': u'Bot: Mormat ISBN',
     },
+    # Author: Arystanbek
+    'kk': {
+        'isbn-formatting': u'Бот: ISBN код форматын өзгертуде',
+    },
     # Author: IRTC1015
     # Author: 아라
     'ko': {

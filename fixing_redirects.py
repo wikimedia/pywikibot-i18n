@@ -209,6 +209,10 @@ msg = {
     'jv': {
         'fixing_redirects-fixing': u'Bot: Mbeneraké pangalihan',
     },
+    # Author: Arystanbek
+    'kk': {
+        'fixing_redirects-fixing': u'Бот: Бағыттауларды түзету',
+    },
     # Author: Akoppad
     'kn': {
         'fixing_redirects-fixing': u'ಬೋಟ್: ಸ್ಥಿರೀಕರಿಸುವ ಪುನರ್ನಿರ್ದೇಶನಗಳು',

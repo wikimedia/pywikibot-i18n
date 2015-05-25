@@ -297,7 +297,13 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'ロボットによる: 大文字小文字の置換:',
     },
-    # Author: Hym411
+    # Author: Arystanbek
+    'kk': {
+        'casechecker-delete-summary': u'Бот: Бұл бағыттау атауында бірдей кирилл және латын әріптерден тұрады',
+        'casechecker-rename': u'Бот: аралас жағдайда қайта атау',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'Бот: Регистрді алмастыру:',
+    },
     # Author: IRTC1015
     # Author: Priviet
     # Author: Revi

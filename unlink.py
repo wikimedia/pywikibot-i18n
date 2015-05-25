@@ -182,6 +182,10 @@ msg = {
     'jv': {
         'unlink-unlinking': u'Bot: Medhot pranala "%s"',
     },
+    # Author: Arystanbek
+    'kk': {
+        'unlink-unlinking': u'Бот: «%s» бетінің сілтенуі болдырылмауда',
+    },
     # Author: IRTC1015
     # Author: 아라
     'ko': {

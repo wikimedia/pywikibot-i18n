@@ -319,7 +319,6 @@ msg = {
         'table2wiki-no-warning': u'Robot controlat de utilizator: sintaxa tabelului actualizată',
         'table2wiki-warnings': u'Robot controlat de utilizator: actualizat sintaxa tabelului — {{PLURAL:count|1 avertisment|%(count)d avertismente}}!',
     },
-    # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
     'ru': {

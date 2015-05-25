@@ -113,7 +113,10 @@ msg = {
     'it': {
         'makecat-create': u'Bot: La creazione o laggiornamento di categoria [[:Category:%(cat)s|]]',
     },
-    # Author: Hym411
+    # Author: Arystanbek
+    'kk': {
+        'makecat-create': u'Бот: [[:Category:%(cat)s|]] санатын бастау не жаңарту',
+    },
     # Author: IRTC1015
     # Author: Revi
     'ko': {

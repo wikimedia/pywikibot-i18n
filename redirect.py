@@ -519,9 +519,10 @@ msg = {
         'redirect-fix-double': u'რობოტი: ორმაგი გადამისამართების გასწორება → %(to)s',
         'redirect-remove-broken': u'რობოტი: გადამისამართება წაშლილ ან არარსებულ გვერდზე',
     },
+    # Author: Arystanbek
     'kk': {
         'redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті → %(to)s',
-        'redirect-remove-broken': u'Бот: Айдату нысанасы жоқ болды',
+        'redirect-remove-broken': u'Бот: Бағыттау беті жойылған не жоқ болды',
     },
     # Author: Cwt96
     # Author: IRTC1015
@@ -783,7 +784,6 @@ msg = {
         'redirect-remove-loop': u'Robot: Ținta redirecționării formează o buclă de redirecționare',
     },
     # Author: DCamer
-    # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
     # Author: Xqt

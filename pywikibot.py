@@ -503,6 +503,17 @@ msg = {
         'pywikibot-fixes-html': u'ロボットによる: HTML転換',
         'pywikibot-fixes-syntax': u'ロボットによる: wiki構文修正',
     },
+    # Author: Arystanbek
+    'kk': {
+        'pywikibot-enter-category-name': u'Санат атауын енгізіңіз:',
+        'pywikibot-enter-file-links-processing': u'Файл беті сілтемелерін өңдеу керек пе?',
+        'pywikibot-enter-finished-browser': u'Браузерде аяқтаған кезде Enter пернесін басыңыз.',
+        'pywikibot-enter-namespace-number': u'Есім кеңістігін оның нөмері бойынша енгізіңіз:',
+        'pywikibot-enter-new-text': u'Жаңа мәтін енгізіңіз:',
+        'pywikibot-enter-page-processing': u'Қандай бет өңдеу керек?',
+        'pywikibot-fixes-html': u'Робот: HTML түрлендірілуде/түзетілуде',
+        'pywikibot-fixes-syntax': u'Робот: Уики синтаксисін түзетуде',
+    },
     # Author: Akoppad
     # Author: VASANTH S.N.
     'kn': {
@@ -763,7 +774,6 @@ msg = {
     # Author: Dmitry Nikitin
     # Author: Eleferen
     # Author: Okras
-    # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
     'ru': {

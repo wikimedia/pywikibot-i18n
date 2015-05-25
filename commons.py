@@ -264,6 +264,11 @@ msg = {
         'commons-file-moved': u'[[:File:%(localfile)s|Berkas]] dipindhahaké nèng [[:commons:File:%(commonsfile)s|commons]].',
         'commons-file-now-available': u'Berkas saiki wis sumadhiya nèng [[:commons:File:%(commonsfile)s|Wikimedia Commons]].',
     },
+    # Author: Arystanbek
+    'kk': {
+        'commons-file-moved': u'[[:File:%(localfile)s|Файлды]] [[:commons:File:%(commonsfile)s|ортаққорға]] тасымалданды.',
+        'commons-file-now-available': u'Файл қазір [[:commons:File:%(commonsfile)s|Wikimedia Commons]] жобасында қолжетімді.',
+    },
     # Author: 아라
     'ko': {
         'commons-file-moved': u'[[:File:%(localfile)s|파일]]을 [[:commons:File:%(commonsfile)s|공용]]으로 옮겼습니다.',

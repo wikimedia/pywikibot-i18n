@@ -523,7 +523,6 @@ msg = {
         'add_text-adding': u'Robbot Stoche a mette %(adding)s',
     },
     # Author: Dima st bk
-    # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
     'ru': {

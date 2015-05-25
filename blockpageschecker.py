@@ -161,6 +161,10 @@ msg = {
     'ja': {
         'blockpageschecker-summary': u'ロボットによる: 失効したテンプレートを削除',
     },
+    # Author: Arystanbek
+    'kk': {
+        'blockpageschecker-summary': u'Бот: Ескірген үлгілерді жоюда',
+    },
     # Author: 아라
     'ko': {
         'blockpageschecker-summary': u'봇: 오래된 틀 삭제',
@@ -234,7 +238,6 @@ msg = {
     'ro': {
         'blockpageschecker-summary': u'Bot: Șters format învechit',
     },
-    # Author: Rubin
     # Author: Rubin16
     'ru': {
         'blockpageschecker-summary': u'Бот: удаление устаревшего шаблона',

@@ -135,7 +135,6 @@ msg = {
     'ja': {
         'spellcheck-checking': u'ロボット支援によるスペルチェック',
     },
-    # Author: Hym411
     # Author: Revi
     # Author: 아라
     'ko': {

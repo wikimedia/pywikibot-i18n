@@ -519,7 +519,12 @@ msg = {
     'ka': {
         'category_redirect-fix-double': u'რობოტი: ორმაგი გადამისამართების გასწორება',
     },
+    # Author: Arystanbek
     'kk': {
+        'category_redirect-add-template': u'Бот: Санатқа бағыттайтын үлгі қосуда',
+        'category_redirect-change-category': u'Bot: [[:%(oldCatLink)s|%(oldCatTitle)s]] дегеннен [[:%(newCatLink)s|%(newCatTitle)s]] бағыттайтын санатқа өзгерту',
+        'category_redirect-comment': u'Санат бағыттауына қызымет ететін бот',
+        'category_redirect-edit-request': u'Келесі қорғалған бет санат сілтемелерін жаңарту қажет ететін ретінде жойылады: %(itemlist)s',
         'category_redirect-fix-double': u'Бот: Шынжырлы айдатуды түзетті',
     },
     # Author: Akoppad

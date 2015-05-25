@@ -100,7 +100,10 @@ msg = {
     'ja': {
         'spamremove-remove': u'ロボットによる: 迷惑リンク削除 %(url)s',
     },
-    # Author: Hym411
+    # Author: Arystanbek
+    'kk': {
+        'spamremove-remove': u'%(url)s сайтынан спамдау сілтемелерін аластауда',
+    },
     # Author: Revi
     'ko': {
         'spamremove-remove': u'스팸 사이트 %(url)s 로의 링크 제거',

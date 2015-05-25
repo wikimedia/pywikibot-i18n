@@ -144,6 +144,13 @@ msg = {
         'unprotect-ref': u'Bot: sprotezione di tutte le pagine con link da %(page)s',
         'unprotect-simple': u'Bot: sprotezione di una lista di file.',
     },
+    # Author: Arystanbek
+    'kk': {
+        'unprotect-category': u'Бот: %(cat)s санатынан барлық беттерді қорғалуын болдырылмауда',
+        'unprotect-images': u'Бот:  %(page)s бетіндегі барлық суреттерді қорғалуын болдырылмауда',
+        'unprotect-links': u'Бот: %(page)s бетінен сілтенген барлық беттерді қорғалуын болдырылмауда.',
+        'unprotect-simple': u'Бот: Файлдар тізімін қорғалуы болдырылмауда.',
+    },
     # Author: IRTC1015
     'ko': {
         'unprotect-category': u'봇: %(cat)s 분류의 모든 문서를 보호 해제',

@@ -4,7 +4,6 @@ msg = {
     'en': {
         'revertbot-revert': u'Bot: Reverted to revision %(revid)s by %(author)s on %(timestamp)s',
     },
-    # Author: Geoffrey "GEOFBOT" Mon
     # Author: Sn1per
     'qqq': {
         'revertbot-revert': u'Edit summary when the bot reverts an edit. Parameters: revid %(revid)s, author %(author)s, timestamp %(timestamp)s',
@@ -110,7 +109,6 @@ msg = {
     'it': {
         'revertbot-revert': u'Bot: ripristinata la versione %(revid)s di %(author)s del %(timestamp)s',
     },
-    # Author: Hym411
     # Author: Revi
     'ko': {
         'revertbot-revert': u'봇: %(author)s의 %(timestamp)s 에 작성한 %(revid)s 판으로 되돌림',

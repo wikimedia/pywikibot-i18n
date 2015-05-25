@@ -548,11 +548,13 @@ msg = {
     'ka': {
         'solve_disambiguation-unknown-page': u'(უცნობი)',
     },
+    # Author: Arystanbek
     'kk': {
         'solve_disambiguation-links-removed': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).',
         'solve_disambiguation-links-resolved': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s',
         'solve_disambiguation-redirect-removed': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Removed link(s).',
         'solve_disambiguation-redirect-resolved': u'Айрықты мағыналарды бот көмегімен шешу: %(from)s - Changed link(s) to %(to)s',
+        'solve_disambiguation-unknown-page': u'(белгісіз)',
     },
     # Author: វ័ណថារិទ្ធ
     'km': {
@@ -856,6 +858,10 @@ msg = {
     # Author: Gazeb
     'rue': {
         'solve_disambiguation-unknown-page': u'(незнаме)',
+    },
+    # Author: NehalDaveND
+    'sa': {
+        'solve_disambiguation-unknown-page': u'(अज्ञातम्)',
     },
     # Author: Avicennasis
     # Author: John Reid

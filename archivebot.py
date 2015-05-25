@@ -535,6 +535,13 @@ msg = {
         'archivebot-older-than': u'D-aqbuṛ γef',
         'archivebot-page-summary': u'Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) γer %(archives)s.',
     },
+    # Author: Arystanbek
+    'kk': {
+        'archivebot-archive-full': u'(МҰРАҒАТ ТОЛҒАН)',
+        'archivebot-archive-summary': u'Бот: [[%[[%(from)s]] бетінен %(count)d {{PLURAL:%(count)d|тақырыпты|тақырыптарды}} мұрағаттауда.',
+        'archivebot-older-than': u'%(duration)s-дан ескірек',
+        'archivebot-page-summary': u'Бот: (%(why)s) бетінен %(archives)s бетіне %(count)d {{PLURAL:%(count)d|тақырыпты|тақырыптарды}} мұрағаттауда.',
+    },
     # Author: Xqt
     'km': {
         'archivebot-archiveheader': u'{{Talkarchive}}',
@@ -801,7 +808,6 @@ msg = {
     },
     # Author: Express2000
     # Author: Okras
-    # Author: Rubin
     # Author: Rubin16
     'ru': {
         'archivebot-archive-full': u'(АРХИВ ЗАПОЛНЕН)',

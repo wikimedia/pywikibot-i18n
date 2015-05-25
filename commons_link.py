@@ -164,7 +164,11 @@ msg = {
         'commons_link-cat-template-added': u'ロボットによる: テンプレートcommonscatを追加',
         'commons_link-template-added': u'ロボットによる: テンプレートcommonsを追加',
     },
-    # Author: Hym411
+    # Author: Arystanbek
+    'kk': {
+        'commons_link-cat-template-added': u'Бот: Сommonscat үлгісін кірістірді',
+        'commons_link-template-added': u'Бот: Сommons үлгісін кірістірді',
+    },
     # Author: Revi
     'ko': {
         'commons_link-cat-template-added': u'로봇: 공용분류 틀을 추가',

@@ -199,6 +199,10 @@ msg = {
     'jv': {
         'editarticle-edit': u'Sunting manual mawa bot: %(description)s',
     },
+    # Author: Arystanbek
+    'kk': {
+        'editarticle-edit': u'Бот арқылы қолмен өңдеу: %(description)s',
+    },
     # Author: Akoppad
     'kn': {
         'editarticle-edit': u'ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(ವಿವರಣೆ)s',

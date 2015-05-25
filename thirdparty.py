@@ -1044,6 +1044,21 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'რობოტი',
     },
+    # Author: Arystanbek
+    'kk': {
+        'thirdparty-drtrigonbot-sum_disc-notify-changed': u'Талқылау өзгертілді',
+        'thirdparty-drtrigonbot-sum_disc-notify-closed': u'Талқылау жабылды',
+        'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'БОТ ХАБАРЛАМА',
+        'thirdparty-drtrigonbot-sum_disc-notify-new': u'Жаңа талқылау',
+        'thirdparty-drtrigonbot-sum_disc-notify-notify': u'Хабарландырулар',
+        'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'(адам өңдеуші табылмады)',
+        'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span> - соңғы өңдеме жасаған [[User:%(user)s]] (%(time)s)',
+        'thirdparty-drtrigonbot-sum_disc-parse-warning': u':* Бот ескерту хабарламасы: %(page)s "\'\'%(warning)s\'\'"',
+        'thirdparty-drtrigonbot-sum_disc-summary-add': u'Талқылау түйіндемесін қосты: %(num)i жазба',
+        'thirdparty-drtrigonbot-sum_disc-summary-clean': u'тазартумен қоса талқылау түйіндемесін қосты: %(num)i жазба',
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
+        'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Талқылау түйіндемесі жаңаланды: %(num)i жазбадан %(page)s бетте',
+    },
     # Author: វ័ណថារិទ្ធ
     'km': {
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\nSummary generated from and at: %(sign)s</noinclude>',
@@ -1518,7 +1533,6 @@ msg = {
     },
     # Author: DrTrigon
     # Author: Express2000
-    # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
     'ru': {
@@ -1539,6 +1553,10 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Добавлен итог и скорректировано обсуждение: %(num)i записей',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'бот',
         'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Резюме обсуждения обновлено: %(num)i записей на %(page)s',
+    },
+    # Author: NehalDaveND
+    'sa': {
+        'thirdparty-drtrigonbot-sum_disc-summary-head': u'बॉट्',
     },
     # Author: John Reid
     'sco': {

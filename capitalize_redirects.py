@@ -231,6 +231,10 @@ msg = {
     'kab': {
         'capitalize_redirects-create-redirect': u'Aṛubut: Snulfud abeddel n webrid γer [[%(to)s]]',
     },
+    # Author: Arystanbek
+    'kk': {
+        'capitalize_redirects-create-redirect': u'Бот: [[%(to)s]] дегенге бағыттағыш бетін бастау',
+    },
     # Author: Akoppad
     'kn': {
         'capitalize_redirects-create-redirect': u'ರೋಬೋಟ್: [[%(ಗೆ)ರು ]] ಮರುನಿರ್ದೇಶನ    ರಚಿಸಿ',

@@ -111,6 +111,12 @@ msg = {
         'undelete-images': u'Bot: Ripristinare tutte le immagini sulla pagina %(page)s',
         'undelete-linked-pages': u'Bot: Recuperare tutte le pagine collegate da %(page)s',
     },
+    # Author: Arystanbek
+    'kk': {
+        'undelete-from-file': u'Бот: Беттер тізімін жоюды болдырмауда.',
+        'undelete-images': u'Бот: %(page)s бетінен барлық суреттердің жоюын болдырмауда',
+        'undelete-linked-pages': u'Бот: %(page)s бетінен сілтенген барлық беттердің жоюын болдырмауда',
+    },
     # Author: IRTC1015
     'ko': {
         'undelete-from-file': u'봇: 목록의 문서를 되살림',
