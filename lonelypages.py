@@ -165,7 +165,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'ロボットによる: 曖昧さ回避ページの追加',
         'lonelypages-comment-add-template': u'ロボットによる: 孤立したページへのテンプレート貼り付け',
     },
-    # Author: Hym411
+    # Author: Arystanbek
+    'kk': {
+        'lonelypages-comment-add-disambig-template': u'Бот: Айрық бет қосуда',
+        'lonelypages-comment-add-template': u'Бот: Жетім бет, үлгі қосу',
+    },
     # Author: IRTC1015
     # Author: Revi
     'ko': {

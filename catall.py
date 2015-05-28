@@ -231,6 +231,10 @@ msg = {
     'kab': {
         'catall-changing': u'Aṛubut: Azdam taggayin',
     },
+    # Author: Arystanbek
+    'kk': {
+        'catall-changing': u'Бот: Санаттарын өзгертуде',
+    },
     # Author: Akoppad
     'kn': {
         'catall-changing': u'ರೋಬೋಟ್:   ವರ್ಗಗಳನ್ನು  ಬದಲಾಯಿಸುವುದು',

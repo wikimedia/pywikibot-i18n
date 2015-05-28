@@ -8,7 +8,6 @@ msg = {
         'protect-ref': u'Bot: Protecting all pages referring from %(page)s',
         'protect-simple': u'Bot: Protecting a list of files.',
     },
-    # Author: Geoffrey "GEOFBOT" Mon
     # Author: Sn1per
     # Author: Valhallasw
     # Author: Xqt
@@ -268,7 +267,14 @@ msg = {
         'protect-ref': u'ロボットによる: 「%(page)s」を参照しているページをすべて保護',
         'protect-simple': u'ロボットによる: ファイルのリストを保護',
     },
-    # Author: Hym411
+    # Author: Arystanbek
+    'kk': {
+        'protect-category': u'Бот: %(cat)s санатындағы барлық беттерді қорғауда',
+        'protect-images': u'Бот:  %(page)s бетіндегі барлық суреттерді қорғауда',
+        'protect-links': u'Бот: %(page)s бетінен сілтенген барлық беттерді қорғауда',
+        'protect-ref': u'Бот: %(page)s бетінен жаңартылған барлық беттерді қорғауда',
+        'protect-simple': u'Бот: Файлдар тізімін қорғауда.',
+    },
     # Author: IRTC1015
     # Author: Revi
     'ko': {

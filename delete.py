@@ -440,6 +440,14 @@ msg = {
         'delete-linked-pages': u'Bot: Mbusak kabèh kaca sing kaubung saka %(page)s',
         'delete-referring-pages': u'Bot: Mbusak kabèh kaca sing ngarah saka %(page)s',
     },
+    # Author: Arystanbek
+    'kk': {
+        'delete-from-category': u'Бот: %(page)s санатынан барлық беттерді аластауда',
+        'delete-from-file': u'Бот: Беттер тізімін жоюда.',
+        'delete-images': u'Бот: %(page)s санатынан барлық суреттерді аластауда',
+        'delete-linked-pages': u'Бот: %(page)s бетінен сілтенген барлық беттерді жоюда.',
+        'delete-referring-pages': u'Бот: %(page)s бетінен сілтенетін барлық беттерді жоюда',
+    },
     # Author: Akoppad
     'kn': {
         'delete-from-category': u'ರೋಬೋಟ್: % (ಪುಟ) ಗಳ ವರ್ಗದಲ್ಲಿರು ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ',

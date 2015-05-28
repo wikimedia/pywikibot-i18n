@@ -220,6 +220,11 @@ msg = {
     'jv': {
         'noreferences-add-tag': u'Bot: Nambahaké tag <references /> sing ilang',
     },
+    # Author: Arystanbek
+    'kk': {
+        'noreferences-add-tag': u'Бот: Жетіспеген <references /> тегін қосуда',
+        'noreferences-fix-tag': u'Бот: <references /> тегіндегі жарамсыз синтаксисті түзету',
+    },
     # Author: 아라
     'ko': {
         'noreferences-add-tag': u'로봇: 없던 <references /> 태그 추가',

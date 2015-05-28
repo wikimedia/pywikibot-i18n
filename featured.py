@@ -374,6 +374,13 @@ msg = {
     'ka': {
         'featured-featured': u'ბოტი: რჩეული სტატიის ბმული გვერდისათვის %(page)s',
     },
+    # Author: Arystanbek
+    'kk': {
+        'featured-featured': u'Бот: %(page)s беті таңдаулы мақала',
+        'featured-former': u'Бот: %(page)s беті бұрынғы таңдаулы мақала',
+        'featured-good': u'Бот: %(page)s беті жақсы мақала',
+        'featured-list': u'Бот: %(page)s беті таңдаулы тізім',
+    },
     # Author: Akoppad
     'kn': {
         'featured-featured': u'ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ವಿಶೇಷ  ಲೇಖನ',
@@ -557,7 +564,6 @@ msg = {
         'featured-good': u'Robot: %(page)s este un articol bun',
         'featured-list': u'Robot: %(page)s este o listă de calitate',
     },
-    # Author: Rubin
     # Author: Rubin16
     # Author: Volkov
     'ru': {

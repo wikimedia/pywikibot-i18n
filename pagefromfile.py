@@ -202,7 +202,13 @@ msg = {
         'pagefromfile-msg_force': u'存在するテキストの上書き',
         'pagefromfile-msg_top': u'冒頭への追加',
     },
-    # Author: Hym411
+    # Author: Arystanbek
+    'kk': {
+        'pagefromfile-msg': u'Бот: Автоматтандырылған мақала импорттауы',
+        'pagefromfile-msg_bottom': u'мәтіннің астыңғы жағында үстеңіз',
+        'pagefromfile-msg_force': u'Бар мәтіннің үстінен жазу',
+        'pagefromfile-msg_top': u'үстіңгі жағында үстеңіз',
+    },
     # Author: Revi
     'ko': {
         'pagefromfile-msg': u'봇: 문서를 자동으로 가져옴',

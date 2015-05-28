@@ -381,6 +381,12 @@ msg = {
     'ka': {
         'welcome-welcome': u'კეთილი იყოს თქვენი მობრძანება!',
     },
+    # Author: Arystanbek
+    'kk': {
+        'welcome-bad_username': u'Бот: Тексеру қажет ететін қатысушы есімі қосылуда',
+        'welcome-updating': u'Бот: Журналды жаңартуда',
+        'welcome-welcome': u'Қош келдіңіз!',
+    },
     # Author: វ័ណថារិទ្ធ
     'km': {
         'welcome-welcome': u'សូមស្វាគមន៍!',
@@ -590,6 +596,10 @@ msg = {
         'welcome-bad_username': u'бот: добавлено подозрительное имя участника',
         'welcome-updating': u'бот: обновление журнала',
         'welcome-welcome': u'Добро пожаловать!',
+    },
+    # Author: NehalDaveND
+    'sa': {
+        'welcome-welcome': u'स्वागतम् !',
     },
     # Author: John Reid
     'sco': {

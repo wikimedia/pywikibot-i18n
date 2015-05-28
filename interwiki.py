@@ -899,12 +899,14 @@ msg = {
         'interwiki-removing': u'a rubut a ḍegger: %(removing)s',
         'interwiki-removing-modifying': u'a rubut a ḍegger: %(removing)s a senfel: %(modifying)s',
     },
+    # Author: Arystanbek
     'kk': {
         'interwiki-adding': u'Боттың үстегені: %(adding)s',
         'interwiki-adding-modifying': u'Боттың үстегені: %(adding)s түзеткені: %(modifying)s',
         'interwiki-adding-removing': u'Боттың үстегені: %(adding)s аластағаны: %(removing)s',
         'interwiki-adding-removing-modifying': u'Боттың үстегені: %(adding)s аластағаны: %(removing)s түзеткені: %(modifying)s',
         'interwiki-modifying': u'Боттың түзеткені: %(modifying)s',
+        'interwiki-modifying-from': u'Бот: %(from)s дегеннен %(modifying)s дегенге өзгертуде',
         'interwiki-removing': u'Боттың аластағаны: %(removing)s',
         'interwiki-removing-modifying': u'Боттың аластағаны: %(removing)s түзеткені: %(modifying)s',
     },

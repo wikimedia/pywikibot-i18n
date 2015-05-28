@@ -197,6 +197,10 @@ msg = {
     'jv': {
         'movepages-moving': u'Bot: Mindhahaké kaca',
     },
+    # Author: Arystanbek
+    'kk': {
+        'movepages-moving': u'Бот: Бетті жылжытты',
+    },
     # Author: Akoppad
     'kn': {
         'movepages-moving': u'ರೋಬೋಟ್: ಸರಿಸಲಾದ ಪುಟ',

@@ -98,6 +98,10 @@ msg = {
     'ja': {
         'selflink-remove': u'ロボットによる: 自己リンクの解除',
     },
+    # Author: Arystanbek
+    'kk': {
+        'selflink-remove': u'Бот: Өзіне сілтейтін сілтемелерді аластауда',
+    },
     # Author: 아라
     'ko': {
         'selflink-remove': u'봇: 자기링크 제거',

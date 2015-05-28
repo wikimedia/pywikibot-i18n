@@ -306,6 +306,11 @@ msg = {
         'cosmetic_changes-append': u'; panggantèn kosmètik',
         'cosmetic_changes-standalone': u'Bot: Panggantèn kosmètik',
     },
+    # Author: Arystanbek
+    'kk': {
+        'cosmetic_changes-append': u'; безендіру өзгерістері',
+        'cosmetic_changes-standalone': u'Бот: Безендіру өзгерістері',
+    },
     # Author: Akoppad
     'kn': {
         'cosmetic_changes-append': u'ಅಂದಗೊಳಿಸುವ ಬದಲಾವಣೆಗಳು',

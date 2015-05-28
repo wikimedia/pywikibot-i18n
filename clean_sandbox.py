@@ -216,6 +216,10 @@ msg = {
     'jv': {
         'clean_sandbox-cleaned': u'Bot: Diresiki sacara otomatis',
     },
+    # Author: Arystanbek
+    'kk': {
+        'clean_sandbox-cleaned': u'Бот: Автоматты түрде тазартты',
+    },
     # Author: 아라
     'ko': {
         'clean_sandbox-cleaned': u'로봇: 연습장을 자동으로 비움',

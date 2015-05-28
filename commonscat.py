@@ -75,6 +75,10 @@ msg = {
     'it': {
         'commonscat-msg_change': u'Bot: modifica il collegamento alla categoria di Commons da [[:Commons:Category:%(oldcat)s|%(oldcat)s]] a [[:Commons:Category:%(newcat)s|%(newcat)s]]',
     },
+    # Author: Arystanbek
+    'kk': {
+        'commonscat-msg_change': u'Бот: Ортаққор санат сілтемелерін [[:Commons:Category:%(oldcat)s|%(oldcat)s]] дегеннен [[:Commons:Category:%(newcat)s|%(newcat)s]] дегенге өзгертті',
+    },
     # Author: IRTC1015
     'ko': {
         'commonscat-msg_change': u'봇: 위키공용분류 링크를 [[:Commons:Category:%(oldcat)s|%(oldcat)s]]에서 [[:Commons:Category:%(newcat)s|%(newcat)s]]로 바꿈',
