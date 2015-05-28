@@ -4,5 +4,5 @@
 			"Shizhao"
 		]
 	},
-	"deledpimage-edit-summary": "Robot: Fix EDP image use: [[%s]]"
+	"remove_edp_images-edit-summary": "Robot: Fix EDP image use: [[%s]]"
 }
