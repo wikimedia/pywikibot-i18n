@@ -1,6 +1,11 @@
 {
   "name": "pywikibot-i18n",
   "version": "0.0.0",
+  "description": "Internationalization files for Pywikibot",
+  "repository": {
+	  "type": "git",
+	  "url": "https://gerrit.wikimedia.org/r/p/pywikibot/core.git"
+  },
   "scripts": {
     "test": "grunt test"
   },
