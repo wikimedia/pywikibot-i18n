@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
 	"pywikibot-enter-category-name": "Vă rugăm să introduceți numele categoriei:",
@@ -10,5 +11,7 @@
 	"pywikibot-enter-namespace-number": "Vă rugăm să introduceți un spațiu de nume după numărul său:",
 	"pywikibot-enter-new-text": "Vă rugăm să introduceți noul text:",
 	"pywikibot-enter-page-processing": "Ce pagină ar trebui procesată?",
-	"pywikibot-enter-xml-filename": "Vă rugăm să introduceți numele fișierului XML de extracție:"
+	"pywikibot-enter-xml-filename": "Vă rugăm să introduceți numele fișierului XML de extracție:",
+	"pywikibot-fixes-html": "Robot: Convertesc/corectez HTML",
+	"pywikibot-fixes-syntax": "Robot: Corectez sintaxa wiki"
 }

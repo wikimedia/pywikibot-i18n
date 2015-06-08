@@ -3,12 +3,13 @@
 		"authors": [
 			"Teslaton",
 			"Wizzard",
-			"Xqt"
+			"Xqt",
+			"Mikulas1"
 		]
 	},
 	"archivebot-archive-full": "(ARCHÍV JE PLNÝ)",
 	"archivebot-archive-summary": "Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} z [[%(from)s]].",
 	"archivebot-archiveheader": "{{Archív koniec}}",
-	"archivebot-older-than": "staršie ako",
+	"archivebot-older-than": "staršie ako %(duration)s",
 	"archivebot-page-summary": "Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} (%(why)s) do %(archives)s."
 }

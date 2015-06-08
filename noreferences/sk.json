@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wizzard"
+			"Wizzard",
+			"Mikulas1"
 		]
 	},
-	"noreferences-add-tag": "Robot doplnil chýbajúci tag <references />"
+	"noreferences-add-tag": "Robot doplnil chýbajúci tag <references />",
+	"noreferences-fix-tag": "Bot: Opraviť nesprávnu syntax <references />"
 }

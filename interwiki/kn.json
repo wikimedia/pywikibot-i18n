@@ -1,11 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Akoppad"
+			"Akoppad",
+			"Xqt"
 		]
 	},
-	"interwiki-modifying": "ರೋಬೋಟ್:ಮಾರ್ಪಡಿಸುವಿಕೆ % (ಮಾರ್ಪಡಿಸುವ)ಗಳು",
-	"interwiki-adding-modifying": "ರೋಬೋಟ್: (ಸೇರಿಸುವ)% s ಸೇರಿಸುವ; ಮಾರ್ಪಡಿಸುವಿಕೆ % (ಮಾರ್ಪಡಿಸುವ)ಗಳು",
-	"interwiki-adding-removing": "ರೋಬೋಟ್: (ಸೇರಿಸುವ)% s ಸೇರಿಸುವುದರಿಂದ; ತೆಗೆದುಹಾಕುವ:% (ತೆಗೆದುಹಾಕಿ) ರು",
-	"interwiki-adding-removing-modifying": "ರೋಬೋಟ್: ರು (ಸೇರಿಸುವ)% ಸೇರ್ಪಡೆ;% ತೆಗೆಯುವ (ತೆಗೆದುಹಾಕಿ) ರು;% ಮಾರ್ಪಡಿಸುವ (ಮಾರ್ಪಡಿಸುವ) ರು"
+	"interwiki-modifying": "ರೋಬೋಟ್:ಮಾರ್ಪಡಿಸುವಿಕೆ %(modifying)s ಗಳು"
 }

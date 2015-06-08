@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Akoppad"
+			"Akoppad",
+			"Xqt"
 		]
 	},
-	"capitalize_redirects-create-redirect": "ರೋಬೋಟ್: [[%(ಗೆ)ರು ]] ಮರುನಿರ್ದೇಶನ    ರಚಿಸಿ"
+	"capitalize_redirects-create-redirect": "ರೋಬೋಟ್: [[%(to)s]] ಮರುನಿರ್ದೇಶನ    ರಚಿಸಿ"
 }

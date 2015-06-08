@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"commonscat-msg_change": "Бот: commonscat-хьажорг хийцар [[:Commons:Category:%(oldcat)s|%(oldcat)s]] → [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

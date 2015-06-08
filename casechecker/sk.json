@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikulas1"
+		]
+	},
+	"casechecker-delete-reason": "Toto presmerovanie zvyklo smerovať na %(target)s",
+	"casechecker-delete-summary": "Bot: Toto presmerovanie obsahuje v názve rovnako vyzerajúce písmena latinky a cyriliky",
+	"casechecker-rename": "Bot: premenovanie zmiešaného názvu",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: úprava veľkých a malých písmen:"
+}

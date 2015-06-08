@@ -6,6 +6,6 @@
 	},
 	"archivebot-archive-full": "(АРХИВ ЮЬЗЗИНА Ю)",
 	"archivebot-archive-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} [[%(from)s]] чура.",
-	"archivebot-older-than": "къена, оццулла",
+	"archivebot-older-than": "%(duration)s нал къена",
 	"archivebot-page-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} (%(why)s) %(archives)s чура."
 }

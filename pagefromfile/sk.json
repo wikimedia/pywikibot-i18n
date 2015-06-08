@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mikulas1"
+		]
+	},
+	"pagefromfile-msg": "Bot: Automatizovaný import článkov",
+	"pagefromfile-msg_bottom": "priložiť na spodok stránky",
+	"pagefromfile-msg_force": "prepísaný existujúci text",
+	"pagefromfile-msg_top": "priložiť na začiatok"
+}

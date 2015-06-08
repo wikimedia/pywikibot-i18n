@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"noreferences-add-tag": "בוט: מוסיף תגית <references /> חסרה"
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"noreferences-add-tag": "בוט: מוסיף תגית <references /> חסרה",
+	"noreferences-fix-tag": "בוט: תיקון של תחביר בלתי־תקין של תג <references />"
 }

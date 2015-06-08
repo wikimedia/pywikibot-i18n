@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Akoppad"
+			"Akoppad",
+			"Xqt"
 		]
 	},
-	"featured-good": "ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ಉತ್ತಮ ಲೇಖನ",
-	"featured-list": "ರೋಬೋಟ್:% (ಪುಟ) ರು ವೈಶಿಷ್ಟ್ಯಗೊಳಿಸಿದ ಪಟ್ಟಿ",
-	"featured-featured": "ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ವಿಶೇಷ  ಲೇಖನ",
-	"featured-former": "ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ಮಾಜಿ ವಿಶೇಷ  ಲೇಖನ"
+	"featured-featured": "ರೋಬೋಟ್:%(page)s ಗಳು ವಿಶೇಷ  ಲೇಖನ",
+	"featured-former": "ರೋಬೋಟ್:%(page)s ಗಳು ಮಾಜಿ ವಿಶೇಷ  ಲೇಖನ",
+	"featured-good": "ರೋಬೋಟ್:%(page)s ಗಳು ಉತ್ತಮ ಲೇಖನ",
+	"featured-list": "ರೋಬೋಟ್:%(page)s ರು ವೈಶಿಷ್ಟ್ಯಗೊಳಿಸಿದ ಪಟ್ಟಿ"
 }

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Akoppad"
+			"Akoppad",
+			"Xqt"
 		]
 	},
 	"archivebot-archive-full": "(ಪೂರ್ಣ ಸಂಗ್ರಹ )",
-	"archivebot-older-than": "ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ"
+	"archivebot-older-than": "ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ %(duration)s"
 }

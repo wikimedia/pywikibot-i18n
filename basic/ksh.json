@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"basic-changing": "Bot: Änderung ..."
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"basic-changing": "Bot: Änderong&nbsp;…"
 }

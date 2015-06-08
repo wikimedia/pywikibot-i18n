@@ -13,6 +13,7 @@
 	"category-renamed": "бот: %s чура дихьа яьккхина. автораш: %s",
 	"category-replacing": "бот: хийцина категореш %(oldcat)s → %(newcat)s",
 	"category-section-title": "АгӀона истори хила %(oldcat)s чура",
+	"category-strip-cfd-templates": "Бот: болх чекхбаьлла CFD-кепаш дӀаяхар",
 	"category-version-history": "бот: историн верси Ӏалашъяр хиллачу %(oldcat)s чура",
 	"category-was-disbanded": "бот: категори дӀасайикъина",
 	"category-was-moved": "бот: категорин цӀе хийцина → [[:Category:%(newcat)s|%(title)s]]"

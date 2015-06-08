@@ -16,6 +16,6 @@
 	"pywikibot-enter-page-processing": "哪个页面需要处理？",
 	"pywikibot-enter-xml-filename": "请输入XML转储文件名称：",
 	"pywikibot-fixes-fckeditor": "机器人：修复富编辑器html",
-	"pywikibot-fixes-html": "機器人: 轉換HTML",
-	"pywikibot-fixes-syntax": "機器人: 修正wiki語法"
+	"pywikibot-fixes-html": "机器人：转换/修复HTML",
+	"pywikibot-fixes-syntax": "机器人：修复wiki语法"
 }

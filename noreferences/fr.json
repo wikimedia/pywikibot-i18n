@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Od1n"
+			"Od1n",
+			"Gomoko"
 		]
 	},
-	"noreferences-add-tag": "Robot : Ajout de la balise <references /> manquante"
+	"noreferences-add-tag": "Robot : Ajout de la balise <references /> manquante",
+	"noreferences-fix-tag": "Robot: Correction de la syntaxe non valide de la balise <references />"
 }

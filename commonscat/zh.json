@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"YFdyh000"
+			"YFdyh000",
+			"Liuxinyu970226"
 		]
 	},
-	"commonscat-msg_change": "機器人：更改 commonscat 連結，從 %(oldcat)s 至 %(newcat)s"
+	"commonscat-msg_change": "机器人：更改commonscat链接从[[:Commons:Category:%(oldcat)s|%(oldcat)s]]至[[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

@@ -4,7 +4,8 @@
 			"Anakmalaysia",
 			"Bencmq",
 			"Linforest",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Liuxinyu970226"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "替换%(tags)s标签",
@@ -14,7 +15,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "新讨论",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "通知",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s 最近编辑]（%(page_size)s字节）由%(user)s作出（%(time)s）",
-	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s所有讨论已完成（停止监测）——最近编辑由[[User:%(user)s]]作出（%(time)s）",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s所有讨论已完成（停止监测）——最近编辑由%(user)s作出（%(time)s）",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\n摘要由在%(sign)s生成</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "（没有发现人类编辑者）",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span>——最近编辑由[[User:%(user)s]]作出（%(time)s）",

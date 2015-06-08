@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Akoppad"
+			"Akoppad",
+			"Xqt"
 		]
 	},
-	"editarticle-edit": "ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(ವಿವರಣೆ)s"
+	"editarticle-edit": "ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(description)s"
 }

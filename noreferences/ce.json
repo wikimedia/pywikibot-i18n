@@ -4,5 +4,6 @@
 			"Умар"
 		]
 	},
-	"noreferences-add-tag": "бото тӀетоьхна йоцу тег <references />"
+	"noreferences-add-tag": "бото тӀетоьхна йоцу тег <references />",
+	"noreferences-fix-tag": "Бот:<references /> нийса йоцу синтаксис нисъяр"
 }
