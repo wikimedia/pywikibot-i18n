@@ -290,9 +290,9 @@ msg = {
     },
     # Author: Purodha
     'ksh': {
-        'template-changing': u'Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde verändert..',
-        'template-removing': u'Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde fottjeschmeße.',
-        'template-substituting': u'Bot: {{PLURAL:%(num)d|Di Schabloon|Di Schabloone|Kein Schabloone}} %(list)s wääde ußjewääßelt.',
+        'template-changing': u'Bot: {{PLURAL:%(num)d|Di Schablohn|Di Schablohne|Kein Schablohne}} %(list)s wääde verändert.',
+        'template-removing': u'Bot: {{PLURAL:%(num)d|Di Schablohn|Di Schablohne|Kein Schablohne}} %(list)s wähde fottjeschmeße.',
+        'template-substituting': u'Bot: {{PLURAL:%(num)d|Di Schablohn|Di Schablohne|Kein Schablohne}} %(list)s wähde ußjewääßelt.',
     },
     # Author: Викиней
     'ky': {

@@ -236,8 +236,9 @@ msg = {
         'capitalize_redirects-create-redirect': u'Бот: [[%(to)s]] дегенге бағыттағыш бетін бастау',
     },
     # Author: Akoppad
+    # Author: Xqt
     'kn': {
-        'capitalize_redirects-create-redirect': u'ರೋಬೋಟ್: [[%(ಗೆ)ರು ]] ಮರುನಿರ್ದೇಶನ    ರಚಿಸಿ',
+        'capitalize_redirects-create-redirect': u'ರೋಬೋಟ್: [[%(to)s]] ಮರುನಿರ್ದೇಶನ    ರಚಿಸಿ',
     },
     # Author: 아라
     'ko': {

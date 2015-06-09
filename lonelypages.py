@@ -258,6 +258,11 @@ msg = {
         'lonelypages-comment-add-disambig-template': u'Robot: Adding ae disambig page',
         'lonelypages-comment-add-template': u'Robot: Orphan page, eik template',
     },
+    # Author: Mikulas1
+    'sk': {
+        'lonelypages-comment-add-disambig-template': u'Bot: pridanie rozlišovacej stránky',
+        'lonelypages-comment-add-template': u'Bot: osirotená stránka, pridať šablónu',
+    },
     # Author: Milicevic01
     # Author: Rancher
     'sr': {

@@ -21,6 +21,10 @@ msg = {
     'br': {
         'commonscat-msg_change': u'Robot: O cheñch commonscat link eus[[:Commons:Category:%(oldcat)s|%(oldcat)s]] e [[:Commons:Category:%(newcat)s|%(newcat)s]]',
     },
+    # Author: Умар
+    'ce': {
+        'commonscat-msg_change': u'Бот: commonscat-хьажорг хийцар [[:Commons:Category:%(oldcat)s|%(oldcat)s]] → [[:Commons:Category:%(newcat)s|%(newcat)s]]',
+    },
     # Author: Mercy
     'cs': {
         'commonscat-msg_change': u'Robot změnil šablonu Commonscat z [[:Commons:Category:%(oldcat)s|%(oldcat)s]] na [[:Commons:Category:%(newcat)s|%(newcat)s]]',
@@ -149,8 +153,9 @@ msg = {
     'vi': {
         'commonscat-msg_change': u'Bot: Thay thế liên kết thể loại Commons [[:Commons:Category:%(oldcat)s|%(oldcat)s]] bằng [[:Commons:Category:%(newcat)s|%(newcat)s]]',
     },
+    # Author: Liuxinyu970226
     # Author: YFdyh000
     'zh': {
-        'commonscat-msg_change': u'機器人：更改 commonscat 連結，從 %(oldcat)s 至 %(newcat)s',
+        'commonscat-msg_change': u'机器人：更改commonscat链接从[[:Commons:Category:%(oldcat)s|%(oldcat)s]]至[[:Commons:Category:%(newcat)s|%(newcat)s]]',
     },
 };

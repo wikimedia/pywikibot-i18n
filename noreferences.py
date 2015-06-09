@@ -88,6 +88,7 @@ msg = {
     # Author: Умар
     'ce': {
         'noreferences-add-tag': u'бото тӀетоьхна йоцу тег <references />',
+        'noreferences-fix-tag': u'Бот:<references /> нийса йоцу синтаксис нисъяр',
     },
     # Author: Asoxor
     'ckb': {
@@ -154,9 +155,11 @@ msg = {
     'fo': {
         'noreferences-add-tag': u'Bottur: Leggur afturat vantandi <references /> tag',
     },
+    # Author: Gomoko
     # Author: Od1n
     'fr': {
         'noreferences-add-tag': u'Robot : Ajout de la balise <references /> manquante',
+        'noreferences-fix-tag': u'Robot: Correction de la syntaxe non valide de la balise <references />',
     },
     # Author: ChrisPtDe
     'frp': {
@@ -180,8 +183,10 @@ msg = {
     'haw': {
         'noreferences-add-tag': u'Lopako: Ke hoʻohui nei i ka lepili nele <references/>',
     },
+    # Author: Amire80
     'he': {
         'noreferences-add-tag': u'בוט: מוסיף תגית <references /> חסרה',
+        'noreferences-fix-tag': u'בוט: תיקון של תחביר בלתי־תקין של תג <references />',
     },
     # Author: Mayur
     'hi': {
@@ -225,9 +230,11 @@ msg = {
         'noreferences-add-tag': u'Бот: Жетіспеген <references /> тегін қосуда',
         'noreferences-fix-tag': u'Бот: <references /> тегіндегі жарамсыз синтаксисті түзету',
     },
+    # Author: Kwj2772
     # Author: 아라
     'ko': {
         'noreferences-add-tag': u'로봇: 없던 <references /> 태그 추가',
+        'noreferences-fix-tag': u'봇: 잘못된 <references /> 태그 문법을 수정',
     },
     # Author: Purodha
     'ksh': {
@@ -354,9 +361,11 @@ msg = {
     'sh': {
         'noreferences-add-tag': u'Bot: dodata odsutna oznaka <references />',
     },
+    # Author: Mikulas1
     # Author: Wizzard
     'sk': {
         'noreferences-add-tag': u'Robot doplnil chýbajúci tag <references />',
+        'noreferences-fix-tag': u'Bot: Opraviť nesprávnu syntax <references />',
     },
     # Author: Dbc334
     'sl': {

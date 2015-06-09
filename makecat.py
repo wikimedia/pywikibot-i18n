@@ -191,6 +191,10 @@ msg = {
     'sco': {
         'makecat-create': u'Robot: Cræftin or update o categerie [[:Category:%(cat)s|]]',
     },
+    # Author: Mikulas1
+    'sk': {
+        'makecat-create': u'Bot: Vytvorenie alebo aktualizácia kategórie (kategórií) [[:Category:%(cat)s|]]',
+    },
     # Author: Milicevic01
     'sr': {
         'makecat-create': u'Бот: прављење или аужурирање категорије [[:Category:%(cat)s|]]',

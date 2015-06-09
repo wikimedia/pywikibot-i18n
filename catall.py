@@ -244,8 +244,9 @@ msg = {
     'ko': {
         'catall-changing': u'봇: 분류를 바꿈',
     },
+    # Author: Purodha
     'ksh': {
-        'catall-changing': u'Bot: Saachjruppe tuusche of dobei donn',
+        'catall-changing': u'Bot: Saachjroppe tuusche of dobei donn',
     },
     # Author: George Animal
     'ku': {

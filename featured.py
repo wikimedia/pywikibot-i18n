@@ -382,11 +382,12 @@ msg = {
         'featured-list': u'Бот: %(page)s беті таңдаулы тізім',
     },
     # Author: Akoppad
+    # Author: Xqt
     'kn': {
-        'featured-featured': u'ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ವಿಶೇಷ  ಲೇಖನ',
-        'featured-former': u'ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ಮಾಜಿ ವಿಶೇಷ  ಲೇಖನ',
-        'featured-good': u'ರೋಬೋಟ್:% (ಪುಟ)ಗಳು ಉತ್ತಮ ಲೇಖನ',
-        'featured-list': u'ರೋಬೋಟ್:% (ಪುಟ) ರು ವೈಶಿಷ್ಟ್ಯಗೊಳಿಸಿದ ಪಟ್ಟಿ',
+        'featured-featured': u'ರೋಬೋಟ್:%(page)s ಗಳು ವಿಶೇಷ  ಲೇಖನ',
+        'featured-former': u'ರೋಬೋಟ್:%(page)s ಗಳು ಮಾಜಿ ವಿಶೇಷ  ಲೇಖನ',
+        'featured-good': u'ರೋಬೋಟ್:%(page)s ಗಳು ಉತ್ತಮ ಲೇಖನ',
+        'featured-list': u'ರೋಬೋಟ್:%(page)s ರು ವೈಶಿಷ್ಟ್ಯಗೊಳಿಸಿದ ಪಟ್ಟಿ',
     },
     # Author: 아라
     'ko': {

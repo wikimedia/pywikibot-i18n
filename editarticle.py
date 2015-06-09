@@ -204,8 +204,9 @@ msg = {
         'editarticle-edit': u'Бот арқылы қолмен өңдеу: %(description)s',
     },
     # Author: Akoppad
+    # Author: Xqt
     'kn': {
-        'editarticle-edit': u'ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(ವಿವರಣೆ)s',
+        'editarticle-edit': u'ರೋಬೋಟ್ ನೊಂದಿಗೆ ಮಾನವ ತಿದ್ದುಪಡಿ : %(description)s',
     },
     # Author: IRTC1015
     # Author: 아라

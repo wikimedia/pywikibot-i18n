@@ -255,6 +255,11 @@ msg = {
         'commons_link-cat-template-added': u'Robot: Incluide commynscat template',
         'commons_link-template-added': u'Robot: Incluide commyns template',
     },
+    # Author: Mikulas1
+    'sk': {
+        'commons_link-cat-template-added': u'Bot: Zahrnutie šablóny commonscat',
+        'commons_link-template-added': u'Bot: Zahrnutie šablóny commons',
+    },
     # Author: Milicevic01
     # Author: Rancher
     'sr': {

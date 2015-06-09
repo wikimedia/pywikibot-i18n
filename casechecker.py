@@ -460,6 +460,14 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
         'casechecker-replacement-summary': u'Bot: Case Replacements:',
     },
+    # Author: Mikulas1
+    'sk': {
+        'casechecker-delete-reason': u'Toto presmerovanie zvyklo smerovať na %(target)s',
+        'casechecker-delete-summary': u'Bot: Toto presmerovanie obsahuje v názve rovnako vyzerajúce písmena latinky a cyriliky',
+        'casechecker-rename': u'Bot: premenovanie zmiešaného názvu',
+        'casechecker-replacement-linklist': u'%(source)s→%(target)s',
+        'casechecker-replacement-summary': u'Bot: úprava veľkých a malých písmen:',
+    },
     # Author: Abshirdheere
     'so': {
         'casechecker-rename': u'Bot: iskudhaf la magaceeyey',

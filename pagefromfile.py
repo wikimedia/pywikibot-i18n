@@ -313,6 +313,13 @@ msg = {
         'pagefromfile-msg_force': u'существующий текст перезаписан',
         'pagefromfile-msg_top': u'добавление сверху',
     },
+    # Author: Mikulas1
+    'sk': {
+        'pagefromfile-msg': u'Bot: Automatizovaný import článkov',
+        'pagefromfile-msg_bottom': u'priložiť na spodok stránky',
+        'pagefromfile-msg_force': u'prepísaný existujúci text',
+        'pagefromfile-msg_top': u'priložiť na začiatok',
+    },
     # Author: Milicevic01
     'sr': {
         'pagefromfile-msg': u'Бот: аутоматски увоз чланака',

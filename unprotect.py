@@ -43,6 +43,14 @@ msg = {
         'unprotect-ref': u'Robot : O tilemel gwarezadur an holl bajennoù a ra dave da %(page)s',
         'unprotect-simple': u'Robot : O lemel gwarezadur ul listennad restroù.',
     },
+    # Author: Умар
+    'ce': {
+        'unprotect-category': u'Робот: %(cat)s категори чура массо агӀонашна гӀоралла дӀадаккхар',
+        'unprotect-images': u'бот: %(page)s агӀонгара массо суьрташ тӀера гӀаролла дӀадаккхар',
+        'unprotect-links': u'Бот: %(page)s агӀонца йолу массо агӀонийн тӀера гӀаролла дӀадаккхар',
+        'unprotect-ref': u'Бот: %(page)s агӀонца йолу массо агӀонийн тӀера гӀаролла дӀадаккхар',
+        'unprotect-simple': u'Бот: Файлийн могӀаман тӀера гӀаролла дӀадаккхар.',
+    },
     # Author: Juandev
     'cs': {
         'unprotect-category': u'Bot: Odemykám všechny stránky v kategorii %(cat)s',

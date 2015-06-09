@@ -31,6 +31,12 @@ msg = {
         'undelete-images': u'Robot : o tiverkañ dilamadur an holl skeudennoù diwar ar bajenn %(page)s")',
         'undelete-linked-pages': u'Robot : O tiverkañ dilamadur an holl bajennoù liammet adalek %(page)s',
     },
+    # Author: Умар
+    'ce': {
+        'undelete-from-file': u'бот: агӀонийн могӀам меттахӀоттор',
+        'undelete-images': u'бот: %(page)s агӀонгара массо суьрташ меттахӀоттор',
+        'undelete-linked-pages': u'бот: %(page)s юкъа йогӀу массо агӀонаш меттахӀоттор',
+    },
     # Author: Juandev
     'cs': {
         'undelete-from-file': u'Bot: Obnovuji seznam stránek',

@@ -540,13 +540,13 @@ msg = {
     },
     # Author: Purodha
     'ksh': {
-        'pywikibot-enter-category-name': u'Jif dä Saachjropp iere Naame en:',
+        'pywikibot-enter-category-name': u'Jif dä Saachjropp iere Nahme en:',
         'pywikibot-enter-file-links-processing': u'De Lengks op wat för en Datteisigg sull beärbeid wääde?',
-        'pywikibot-enter-finished-browser': u'Dröck de <i lang="en">Enter</i>-Taßß, wann de fäädesch beß em Brauser.',
+        'pywikibot-enter-finished-browser': u'Dröck de <i lang="en">Enter</i>-Taßß, wann de fähdesch bess em Brauser.',
         'pywikibot-enter-namespace-number': u'Jif de Nommer för dat Apachtemang en:',
         'pywikibot-enter-new-text': u'Jif dä neue Täx en:',
         'pywikibot-enter-page-processing': u'Wat för en Sigg sulle mer beärbeide?',
-        'pywikibot-enter-xml-filename': u'Jif däm <i lang="en">XML-Dump</i> singe Dateiname en:',
+        'pywikibot-enter-xml-filename': u'Jif däm <i lang="en" xml:lang="en" dir="ltr" title="Extensible Markup Language">XML</i>-<i lang="en" xml:lang="en" dir="ltr" title="„Dahesescherong“">dump</i>- singe Dateij_Nahme en:',
         'pywikibot-fixes-fckeditor': u'Bot: Donn et HTML vum FCK-editor repparehre',
         'pywikibot-fixes-html': u'Bot: vun HTML en Wikikood wandelle',
         'pywikibot-fixes-syntax': u'Bot: Donn de Süntax vum Wikki repparehre',
@@ -762,6 +762,7 @@ msg = {
         'pywikibot-fixes-syntax': u'Robô: Corrigindo sintaxe wiki',
     },
     # Author: Minisarm
+    # Author: Strainu
     'ro': {
         'pywikibot-enter-category-name': u'Vă rugăm să introduceți numele categoriei:',
         'pywikibot-enter-file-links-processing': u'Legăturile către care fișier ar trebui procesate?',
@@ -770,6 +771,8 @@ msg = {
         'pywikibot-enter-new-text': u'Vă rugăm să introduceți noul text:',
         'pywikibot-enter-page-processing': u'Ce pagină ar trebui procesată?',
         'pywikibot-enter-xml-filename': u'Vă rugăm să introduceți numele fișierului XML de extracție:',
+        'pywikibot-fixes-html': u'Robot: Convertesc/corectez HTML',
+        'pywikibot-fixes-syntax': u'Robot: Corectez sintaxa wiki',
     },
     # Author: Dmitry Nikitin
     # Author: Eleferen
@@ -969,7 +972,7 @@ msg = {
         'pywikibot-enter-page-processing': u'哪个页面需要处理？',
         'pywikibot-enter-xml-filename': u'请输入XML转储文件名称：',
         'pywikibot-fixes-fckeditor': u'机器人：修复富编辑器html',
-        'pywikibot-fixes-html': u'機器人: 轉換HTML',
-        'pywikibot-fixes-syntax': u'機器人: 修正wiki語法',
+        'pywikibot-fixes-html': u'机器人：转换/修复HTML',
+        'pywikibot-fixes-syntax': u'机器人：修复wiki语法',
     },
 };

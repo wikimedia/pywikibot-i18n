@@ -179,6 +179,10 @@ msg = {
     'sco': {
         'misspelling-fixing': u'Robot: Fixing misspeelt link til %(page)s',
     },
+    # Author: Mikulas1
+    'sk': {
+        'misspelling-fixing': u'Bot: Oprava chybného odkazu na %(page)s',
+    },
     # Author: Milicevic01
     'sr': {
         'misspelling-fixing': u'Бот: поправљена погрешна веза према %(page)s',

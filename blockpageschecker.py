@@ -171,7 +171,7 @@ msg = {
     },
     # Author: Purodha
     'ksh': {
-        'blockpageschecker-summary': u'Bot: En övverhollte Schabloon sull fottjeschmeße wääde.',
+        'blockpageschecker-summary': u'Bot: En övverhollte Schablohn sull fottjeschmeße wääde.',
     },
     # Author: Robby
     'lb': {

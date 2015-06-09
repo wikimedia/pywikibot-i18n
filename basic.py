@@ -267,8 +267,9 @@ msg = {
     'ko': {
         'basic-changing': u'로봇: 바꾸는 중...',
     },
+    # Author: Purodha
     'ksh': {
-        'basic-changing': u'Bot: Änderung ...',
+        'basic-changing': u'Bot: Änderong&nbsp;…',
     },
     # Author: George Animal
     'ku': {

@@ -189,7 +189,7 @@ msg = {
     'ce': {
         'archivebot-archive-full': u'(АРХИВ ЮЬЗЗИНА Ю)',
         'archivebot-archive-summary': u'Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} [[%(from)s]] чура.',
-        'archivebot-older-than': u'къена, оццулла',
+        'archivebot-older-than': u'%(duration)s нал къена',
         'archivebot-page-summary': u'Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} (%(why)s) %(archives)s чура.',
     },
     # Author: Asoxor
@@ -547,9 +547,10 @@ msg = {
         'archivebot-archiveheader': u'{{Talkarchive}}',
     },
     # Author: Akoppad
+    # Author: Xqt
     'kn': {
         'archivebot-archive-full': u'(ಪೂರ್ಣ ಸಂಗ್ರಹ )',
-        'archivebot-older-than': u'ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ',
+        'archivebot-older-than': u'ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ %(duration)s',
     },
     # Author: IRTC1015
     # Author: Kwj2772
@@ -845,6 +846,7 @@ msg = {
         'archivebot-archive-full': u'(ලේඛනාගාරය පරිපූර්ණයි)',
         'archivebot-older-than': u'වඩා වයස',
     },
+    # Author: Mikulas1
     # Author: Teslaton
     # Author: Wizzard
     # Author: Xqt
@@ -852,7 +854,7 @@ msg = {
         'archivebot-archive-full': u'(ARCHÍV JE PLNÝ)',
         'archivebot-archive-summary': u'Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} z [[%(from)s]].',
         'archivebot-archiveheader': u'{{Archív koniec}}',
-        'archivebot-older-than': u'staršie ako',
+        'archivebot-older-than': u'staršie ako %(duration)s',
         'archivebot-page-summary': u'Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} (%(why)s) do %(archives)s.',
     },
     # Author: Dbc334

@@ -1065,14 +1065,15 @@ msg = {
     },
     # Author: Akoppad
     # Author: VASANTH S.N.
+    # Author: Xqt
     'kn': {
         'thirdparty-drtrigonbot-sum_disc-notify-changed': u'ಚರ್ಚೆ ಬದಲಾಗಿದೆ',
         'thirdparty-drtrigonbot-sum_disc-notify-closed': u'ಚರ್ಚೆ ಮುಚ್ಚಲಾಗಿದೆ',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'ರೋಬೋಟ್ ಸಂದೇಶ',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'ಹೊಸ ಚರ್ಚೆ',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'ಪ್ರಕಟಣೆ',
-        'thirdparty-drtrigonbot-sum_disc-summary-add': u'ಚರ್ಚೆಯ ಸಾರಾಂಶ ಸೇರಿಸಲಾಗಿದೆ:% (no ) i  ನಮೂನೆಗಳು',
-        'thirdparty-drtrigonbot-sum_disc-summary-clean': u':% (num ) i  ನಮೂನೆಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ ಚರ್ಚೆಯ ಸಾರಾಂಶಕ್ಕೆ ಸೇರಿಸಿದ್ದಾರೆ',
+        'thirdparty-drtrigonbot-sum_disc-summary-add': u'ಚರ್ಚೆಯ ಸಾರಾಂಶ ಸೇರಿಸಲಾಗಿದೆ:%(num)i ನಮೂನೆಗಳು',
+        'thirdparty-drtrigonbot-sum_disc-summary-clean': u':%(num)i  ನಮೂನೆಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ ಚರ್ಚೆಯ ಸಾರಾಂಶಕ್ಕೆ ಸೇರಿಸಿದ್ದಾರೆ',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'ರೋಬೋಟ್',
     },
     # Author: 아라
@@ -1949,6 +1950,7 @@ msg = {
     # Author: Anakmalaysia
     # Author: Bencmq
     # Author: Linforest
+    # Author: Liuxinyu970226
     # Author: Yfdyh000
     'zh': {
         'thirdparty-drtrigonbot-subster-summary-mod': u'替换%(tags)s标签',
@@ -1958,7 +1960,7 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'新讨论',
         'thirdparty-drtrigonbot-sum_disc-notify-notify': u'通知',
         'thirdparty-drtrigonbot-sum_disc-parse': u':* %(notify)s: %(page_sections)s - [%(history_link)s 最近编辑]（%(page_size)s字节）由%(user)s作出（%(time)s）',
-        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s所有讨论已完成（停止监测）——最近编辑由[[User:%(user)s]]作出（%(time)s）',
+        'thirdparty-drtrigonbot-sum_disc-parse-closed': u':* %(notify)s: %(page)s所有讨论已完成（停止监测）——最近编辑由%(user)s作出（%(time)s）',
         'thirdparty-drtrigonbot-sum_disc-parse-end': u'<noinclude>\n\n摘要由在%(sign)s生成</noinclude>',
         'thirdparty-drtrigonbot-sum_disc-parse-nonhuman': u'（没有发现人类编辑者）',
         'thirdparty-drtrigonbot-sum_disc-parse-notify': u':* %(notify)s: <span class="plainlinks">[%(page_link)s %(page)s]</span>——最近编辑由[[User:%(user)s]]作出（%(time)s）',

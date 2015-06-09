@@ -385,6 +385,7 @@ msg = {
         'category-renamed': u'бот: %s чура дихьа яьккхина. автораш: %s',
         'category-replacing': u'бот: хийцина категореш %(oldcat)s → %(newcat)s',
         'category-section-title': u'АгӀона истори хила %(oldcat)s чура',
+        'category-strip-cfd-templates': u'Бот: болх чекхбаьлла CFD-кепаш дӀаяхар',
         'category-version-history': u'бот: историн верси Ӏалашъяр хиллачу %(oldcat)s чура',
         'category-was-disbanded': u'бот: категори дӀасайикъина',
         'category-was-moved': u'бот: категорин цӀе хийцина → [[:Category:%(newcat)s|%(title)s]]',
@@ -1027,15 +1028,16 @@ msg = {
         'category-was-moved': u'រូបូ៖ ចំណាត់ថ្នាក់ក្រុមត្រូវបានលុបចេញពី [[:Category:%(newcat)s|%(title)s]]',
     },
     # Author: Akoppad
+    # Author: Xqt
     'kn': {
         'category-adding': u'ರೋಬೋಟ್: [[:ವರ್ಗ:%(newcat)s|%(newcat)s]] ವರ್ಗಗಳನ್ನು ಸೇರಿಸುವುದು',
         'category-also-in': u'(ಇದರಲ್ಲಿಯು  %(alsocat)s)',
-        'category-changing': u'ರೋಬೋಟ್:%(oldcat)ಯನ್ನು % (newcat)ಗೆ ಬದಲಾಯಿಸುವುದು',
-        'category-removing': u'ರೋಬೋಟ್:  %(oldcat) ಇಂದ ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ',
+        'category-changing': u'ರೋಬೋಟ್:%(oldcat)s ಯನ್ನು %(newcat)s ಗೆ ಬದಲಾಯಿಸುವುದು',
+        'category-removing': u'ರೋಬೋಟ್:  %(oldcat)s ಇಂದ ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ',
         'category-renamed': u'ರೋಬೋಟ್: %s. Authors: %s ಇಂದ ಸರಿಸಲಾಗಿದೆ',
-        'category-replacing': u'ರೋಬೋಟ್: %(oldcat)ಯನ್ನು % (newcat)ಗೆ ಬದಲಾಯಿಸುವುದು',
-        'category-section-title': u'ಮಾಜಿ %(oldcat)ನ ಪುಟದ ಇತಿಹಾಸ',
-        'category-version-history': u'ರೋಬೋಟ್:   %(oldcat)ನ   ಮಾಜಿ  ಇತಿಹಾಸದ  ಆವೃತ್ತಿಯನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ',
+        'category-replacing': u'ರೋಬೋಟ್: %(oldcat)s ಯನ್ನು %(newcat)s ಗೆ ಬದಲಾಯಿಸುವುದು',
+        'category-section-title': u'ಮಾಜಿ %(oldcat)s ನ ಪುಟದ ಇತಿಹಾಸ',
+        'category-version-history': u'ರೋಬೋಟ್:   %(oldcat)s ನ   ಮಾಜಿ  ಇತಿಹಾಸದ  ಆವೃತ್ತಿಯನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ',
         'category-was-disbanded': u'ರೋಬೋಟ್: ವರ್ಗ ವಿಸರ್ಜಿಸಲಾಯಿತು',
         'category-was-moved': u'ರೋಬೋಟ್: ವರ್ಗವನ್ನು [[:Category:%(newcat)s|%(title)s]]ಗೆ  ಸರಿಸಲಾಗುತ್ತಿದೆ',
     },
@@ -1677,6 +1679,7 @@ msg = {
     'si': {
         'category-also-in': u'(%(alsocat)s තිබේ)',
     },
+    # Author: Mikulas1
     # Author: Teslaton
     # Author: Wizzard
     'sk': {
@@ -1688,6 +1691,7 @@ msg = {
         'category-renamed': u'Robot: Presunuté z %s. Autori: %s',
         'category-replacing': u'Robot nahradil kategóriu %(oldcat)s za %(newcat)s',
         'category-section-title': u'História verzií bývalej %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: Odstránenie CFD šablón pre ukončene akcie',
         'category-version-history': u'Robot: Uloženie histórie verzií bývalej %(oldcat)s',
         'category-was-disbanded': u'Robot: Kategória bola vyprázdnená',
         'category-was-moved': u'Kategória bola presunutá na [[:Category:%(newcat)s|%(title)s]]',
