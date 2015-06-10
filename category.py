@@ -31,6 +31,7 @@ msg = {
         'category-changing': u'Edit summary when the bot moves pages from one category to another. <code>%(oldcat)s</code> is the source category, <code>%(newcat)s</code> the target.',
         'category-listifying': u'Definition of [[mw:Manual:Pywikibot/category.py#Syntax|listify]] - make a list of all of the articles that are in a category.\n\n*Variable "%(fromcat)s" = the category to make a list of in the listify option.\n*Variable "%(num)d" is probably a number.\n*You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(num)d|1 entry|%(num)d entries}}</nowiki></code>)\nDo not translate the variables.',
         'category-removing': u'Edit summary. Parameters:\n* %(oldcat)s - old category name',
+        'category-renamed': u'Edit summary when a category was renamed.',
         'category-replacing': u'Edit summary. Parameters:\n* %(oldcat)s - old category name\n* %(newcat)s - new category name',
         'category-section-title': u'Section title for keeping page history',
         'category-strip-cfd-templates': u'Edit summary when CFD (Categories for deletion) templates are removed from the page\'s text following a move/keep action',
