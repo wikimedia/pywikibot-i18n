@@ -318,7 +318,7 @@ msg = {
     # Author: Purodha
     'ksh': {
         'casechecker-delete-reason': u'Heh di Ömleidung dähd op „%(target)s“ jonn.',
-        'casechecker-delete-summary': u'Böt: Di Ömleidong hät Kyrellesche un Lating Bohchschtahbe em Tettel, di ejaal ußsinn.',
+        'casechecker-delete-summary': u'Böt: Di Ömleidong hät Kyrellesche un Latingsche Bohchschtahbe en der Övverschreff, di alld_ejahl ußsinn.',
         'casechecker-rename': u'Bot: Jruß- un Kleinschreff, dä Siggetettel ömjenannt.',
         'casechecker-replacement-linklist': u'%(source)s&nbsp;→&nbsp;%(target)s',
         'casechecker-replacement-summary': u'Bot: Jruß- un Kleinschreff jetuusch:',

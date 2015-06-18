@@ -260,6 +260,10 @@ msg = {
         'category_redirect-edit-request-item': u'* %(title)s, %(newcat)s re hetanayışkar ita do %(oldcat)s\'',
         'category_redirect-fix-double': u'Robot: Sabıtkerdışê hetenayışê dıleti',
     },
+    # Author: राम प्रसाद जोशी
+    'dty': {
+        'category_redirect-edit-request': u'निम्न सुरक्षित पानाहरूमी और श्रेणी सम्पादनको आवश्यकता देखियाको छ: %(itemlist)s',
+    },
     # Author: Geraki
     # Author: Glavkos
     'el': {
@@ -685,12 +689,13 @@ msg = {
         'category_redirect-fix-double': u'Bot: dubbele deurverwiezingen verbeteren',
     },
     # Author: Njsubedi
+    # Author: राम प्रसाद जोशी
     # Author: सरोज कुमार ढकाल
     'ne': {
         'category_redirect-add-template': u'रोबोट: मर्मतको लागि श्रेणी अनुप्रेषण ढाँचा थप्दै',
         'category_redirect-change-category': u'रोबोट: श्रेणी अनुप्रेषण गर्दै [[:%(oldCatLink)s|%(oldCatTitle)s]] बाट [[:%(newCatLink)s|%(newCatTitle)s]] मा',
         'category_redirect-comment': u'श्रेणी अनुप्रेषण मर्मत रोबोट',
-        'category_redirect-edit-request': u'निम्न सुरक्षित पृष्ठहरुमा श्रेणीअरु सम्पादनको आवश्यकता देखिएको छ: %(itemlist)s',
+        'category_redirect-edit-request': u'निम्न सुरक्षित पृष्ठहरूमा अरु श्रेणी सम्पादनको आवश्यकता देखिएको छ: %(itemlist)s',
         'category_redirect-edit-request-item': u'* %(title)s , %(oldcat)s मा रहेको छ, जसलाई %(newcat)sमा अनुप्रेषण गरियो',
         'category_redirect-fix-double': u'रोबोट: दोहोरो रिडाइरेक्टहरू मिलाउँदै',
     },

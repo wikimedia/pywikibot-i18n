@@ -13,6 +13,11 @@ msg = {
     'ar': {
         'piper-edit-summary': u'روبوت: استبدال نص المقال من خلال %s',
     },
+    # Author: Metalhead64
+    # Author: Xqt
+    'de': {
+        'piper-edit-summary': u'Bot: Leite den Artikeltext durch %s',
+    },
     # Author: Huji
     'fa': {
         'piper-edit-summary': u'ربات: رد کردن متن مقاله از درون %s',

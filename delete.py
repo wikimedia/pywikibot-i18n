@@ -573,12 +573,13 @@ msg = {
         'delete-linked-pages': u'Bot: alle pagina\'s waor de pagina %(page)s naor verwis wörden vortedaon',
         'delete-referring-pages': u'Bot: alle pagina\'s die naor de pagina %(page)s verwiezen wörden vortedaon',
     },
+    # Author: राम प्रसाद जोशी
     # Author: सरोज कुमार ढकाल
     'ne': {
         'delete-from-category': u'रोबोट:  %(page)s श्रेणीमा रहेका सबै पृष्ठहरू मेट्दै',
         'delete-from-file': u'रोबोट: सूचीमा रहेका पृष्ठहरू मेट्दै',
         'delete-images': u'रोबोट:  %(page)s पृष्ठमा रहेका सबै तस्वीरहरु मेट्दै',
-        'delete-linked-pages': u'रोबोट:  %(page)s पृष्ठमा जोडिएका सबै पृष्ठहरु मेट्दै',
+        'delete-linked-pages': u'रोबोट:  %(page)s पृष्ठमा जोडिएका सबै पृष्ठहरू मेट्दै',
         'delete-referring-pages': u'रोबोट:  %(page)s ले जनाउने सबै पृष्ठहरू मेट्दै',
     },
     # Author: Eukesh

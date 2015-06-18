@@ -13,6 +13,10 @@ msg = {
     'ar': {
         'remove_edp_images-edit-summary': u'روبوت: إصلاح استخدام صورة EDP: [[%s]]',
     },
+    # Author: Metalhead64
+    'de': {
+        'remove_edp_images-edit-summary': u'Bot: Korrigiere EDP-Bildverwendung: [[%s]]',
+    },
     # Author: Shizhao
     'zh': {
         'remove_edp_images-edit-summary': u'Bot修正EDP图像用法：[[%s]]',

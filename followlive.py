@@ -13,6 +13,10 @@ msg = {
     'ar': {
         'followlive-blanking': u'تم الإفراغ، المحتوى كان \'%s\'',
     },
+    # Author: Metalhead64
+    'de': {
+        'followlive-blanking': u'Geleert, Inhalt war „%s“.',
+    },
     # Author: Hashar
     'fr': {
         'followlive-blanking': u'blanchit, le contenu était \'%s\'',
