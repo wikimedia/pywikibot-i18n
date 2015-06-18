@@ -3,7 +3,8 @@
 		"authors": [
 			"A1",
 			"Base",
-			"Тест"
+			"Тест",
+			"Ата"
 		]
 	},
 	"category-adding": "Робот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",
@@ -14,6 +15,7 @@
 	"category-renamed": "робот: перейменовано із %s. автори : %s",
 	"category-replacing": "Робот: заміна категорії %(oldcat)s на %(newcat)s",
 	"category-section-title": "Історія сторінки колишньої %(oldcat)s",
+	"category-strip-cfd-templates": "Бот: Вилучення CFD-шаблонів для завершених дій",
 	"category-version-history": "Робот: Збереження історії версій колишньої %(oldcat)s",
 	"category-was-disbanded": "Робот: категорія розформована",
 	"category-was-moved": "Робот: категорію перейменовано на [[:Category:%(newcat)s|%(title)s]]"

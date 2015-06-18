@@ -9,7 +9,7 @@
 	"category-changing": "automaton: mutans %(oldcat)s→%(newcat)s",
 	"category-removing": "automaton abdit %(oldcat)s",
 	"category-renamed": "automaton: mota ex %(oldcat)s. Auctores: %(authors)s",
-	"category-replacing": "automaton: mutans categoriam %(oldcat)s→[[%(newcat)s]]",
+	"category-replacing": "automaton: mutans categoriam %(oldcat)s→[[:Categoria:%(newcat)s]]",
 	"category-was-disbanded": "automaton: categoria dissoluta est",
 	"category-was-moved": "automaton: categoria mota est ad [[:Category:%(newcat)s|%(title)s]]"
 }

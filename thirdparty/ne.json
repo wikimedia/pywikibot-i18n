@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"सरोज कुमार ढकाल"
+			"सरोज कुमार ढकाल",
+			"राम प्रसाद जोशी"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "प्रतिस्थापन गर्दै %(tags)s tag(s)",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "छलफलमा परिवर्तनहरु छन्",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "छलफलमा परिवर्तनहरू छन्",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "छलफल बन्द गरियो",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "रोबोट सन्देश",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "नयाँ छलफल",

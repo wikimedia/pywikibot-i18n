@@ -4,7 +4,8 @@
 			"A1",
 			"Base",
 			"DixonD",
-			"Dmitry Nikitin"
+			"Dmitry Nikitin",
+			"Ата"
 		]
 	},
 	"pywikibot-enter-category-name": "Введіть ім'я категорії:",
@@ -14,6 +15,7 @@
 	"pywikibot-enter-new-text": "Введіть новий текст:",
 	"pywikibot-enter-page-processing": "Які сторінки потрібно переробити?",
 	"pywikibot-enter-xml-filename": "Будь ласка, введіть назву файлу дампу XML:",
+	"pywikibot-fixes-fckeditor": "Робот: Виправлення html після редактора форматованого тексту",
 	"pywikibot-fixes-html": "Бот: корекцiя HTML",
 	"pywikibot-fixes-syntax": "Бот: Корекцiя вiкi-синтаксису"
 }

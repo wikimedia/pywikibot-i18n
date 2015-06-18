@@ -4,7 +4,8 @@
 			"Ainali",
 			"Cybjit",
 			"Lokal Profil",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Jopparn"
 		]
 	},
 	"category-adding": "Bot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]",
@@ -15,6 +16,7 @@
 	"category-renamed": "Bot: Flyttad från %s. Författare: %s",
 	"category-replacing": "Bot: Ersätter kategorin %(oldcat)s med %(newcat)s",
 	"category-section-title": "Sidhistorik från tidigare %(oldcat)s",
+	"category-strip-cfd-templates": "Bot: Tar bort CFD-mallar för genomförda åtgärder",
 	"category-version-history": "Bot: Sparar versionshistorik från tidigare %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategorin upplöstes",
 	"category-was-moved": "Bot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]"

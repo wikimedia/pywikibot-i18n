@@ -4,7 +4,8 @@
 			"Cybjit",
 			"Lokal Profil",
 			"skorpan",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Jopparn"
 		]
 	},
 	"pywikibot-enter-category-name": "Ange kategorinamnet:",
@@ -14,6 +15,7 @@
 	"pywikibot-enter-new-text": "Skriv in den nya texten:",
 	"pywikibot-enter-page-processing": "Vilken sida ska behandlas?",
 	"pywikibot-enter-xml-filename": "Ange XML-dumpens filnamn:",
+	"pywikibot-fixes-fckeditor": "Robot: Åtgärdar Rich-editor-html",
 	"pywikibot-fixes-html": "Bot: Konverterar/korrigerar HTML",
 	"pywikibot-fixes-syntax": "Robot: Fixar wikisyntax"
 }
