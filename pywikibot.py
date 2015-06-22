@@ -64,6 +64,9 @@ msg = {
         'pywikibot-enter-new-text': u'Escribi\'l testu nuevu:',
         'pywikibot-enter-page-processing': u'¿Que páxina hai que procesar?',
         'pywikibot-enter-xml-filename': u'Escribi\'l nome del ficheru XML de volcáu:',
+        'pywikibot-fixes-fckeditor': u'Robó: Iguando HTML del editor de testu arriquecíu.',
+        'pywikibot-fixes-html': u'Robó: convirtiendo/iguando HTML',
+        'pywikibot-fixes-syntax': u'Robó: Iguando la sintaxis wiki',
     },
     # Author: AZISS
     'az': {
@@ -524,6 +527,7 @@ msg = {
         'pywikibot-enter-new-text': u'ಹೊಸ ಪಠ್ಯವನ್ನು ನಮೂದಿಸಿ:',
         'pywikibot-enter-page-processing': u'ಯಾವ ಪುಟವನ್ನು  ಸಂಸ್ಕರಣೆ  ಮಾಡಬೇಕು?',
     },
+    # Author: Alex00728
     # Author: IRTC1015
     # Author: Kwj2772
     # Author: Priviet
@@ -537,6 +541,7 @@ msg = {
         'pywikibot-enter-page-processing': u'어떤 문서를 처리하시겠습니까?',
         'pywikibot-enter-xml-filename': u'XML 덤프 파일 이름을 입력하세요:',
         'pywikibot-fixes-html': u'로봇: HTML 코드를 변환/교정함',
+        'pywikibot-fixes-syntax': u'봇: 위키 문법 고침',
     },
     # Author: Purodha
     'ksh': {
@@ -704,8 +709,8 @@ msg = {
         'pywikibot-enter-page-processing': u'Welke pagina moet verwerkt worden?',
         'pywikibot-enter-xml-filename': u'Geef de bestandnaam van een XML-dump op:',
         'pywikibot-fixes-fckeditor': u'Robot: HTML van tekstverwerker gecorrigeerd',
-        'pywikibot-fixes-html': u'Bot: conversie/reparatie HTML',
-        'pywikibot-fixes-syntax': u'Bot: reparatie wikisyntaxis',
+        'pywikibot-fixes-html': u'Robot: conversie/reparatie HTML',
+        'pywikibot-fixes-syntax': u'Robot: reparatie wikisyntaxis',
     },
     # Author: Danmichaelo
     # Author: Jon Harald Søby

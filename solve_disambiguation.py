@@ -819,7 +819,7 @@ msg = {
     },
     # Author: Ahmed-Najib-Biabani-Ibrahimkhel
     'ps': {
-        'solve_disambiguation-unknown-page': u'(ناڅرګند)',
+        'solve_disambiguation-unknown-page': u'(ناڅرگند)',
     },
     # Author: Hamilton Abreu
     # Author: Malafaya

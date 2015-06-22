@@ -33,6 +33,7 @@ msg = {
     # Author: Xuacu
     'ast': {
         'noreferences-add-tag': u'Bot: Amestando la etiqueta <references /> que falta',
+        'noreferences-fix-tag': u'Bot: Igua de sintaxis inválida na etiqueta <references />',
     },
     # Author: Ebrahimi-amir
     'az': {
@@ -308,7 +309,7 @@ msg = {
     # Author: Siebrand
     'nl': {
         'noreferences-add-tag': u'Robot: toevoeging ontbrekende <references /> tag',
-        'noreferences-fix-tag': u'Bot: repareer de onjuiste syntaxis van het <references /> merkje.',
+        'noreferences-fix-tag': u'Robot: onjuiste syntaxis van de tag <references /> gerepareerd',
     },
     # Author: Harald Khan
     # Author: Njardarlogar

@@ -145,6 +145,7 @@ msg = {
         'category-renamed': u'Bot: Movíu dende %s. Autores: %s',
         'category-replacing': u'Bot: Trocando la categoría %(oldcat)s por %(newcat)s',
         'category-section-title': u'Historial de páxina de %(oldcat)s anteriores',
+        'category-strip-cfd-templates': u'Bot: desaniciando les plantíes de categoríes a desaniciar pa l\'aición completada',
         'category-version-history': u'Bot: Guardando l\'historial de versiones de los %(oldcat)s anteriores',
         'category-was-disbanded': u'Bot: Desanicióse la categoría',
         'category-was-moved': u'Bot: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]',
