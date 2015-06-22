@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Metalhead64"
+			"Metalhead64",
+			"Xqt"
 		]
 	},
-	"piper-edit-summary": "Bot: Pfeife den Artikeltext durch %s"
+	"piper-edit-summary": "Bot: Leite den Artikeltext durch %s"
 }

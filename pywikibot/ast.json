@@ -10,5 +10,8 @@
 	"pywikibot-enter-namespace-number": "Escribi un espaciu de nomes pol so númberu:",
 	"pywikibot-enter-new-text": "Escribi'l testu nuevu:",
 	"pywikibot-enter-page-processing": "¿Que páxina hai que procesar?",
-	"pywikibot-enter-xml-filename": "Escribi'l nome del ficheru XML de volcáu:"
+	"pywikibot-enter-xml-filename": "Escribi'l nome del ficheru XML de volcáu:",
+	"pywikibot-fixes-fckeditor": "Robó: Iguando HTML del editor de testu arriquecíu.",
+	"pywikibot-fixes-html": "Robó: convirtiendo/iguando HTML",
+	"pywikibot-fixes-syntax": "Robó: Iguando la sintaxis wiki"
 }
