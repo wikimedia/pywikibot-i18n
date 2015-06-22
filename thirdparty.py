@@ -1339,10 +1339,11 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
         'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Overlegsamenvatting bie-ewörken: %(num)i regels in pagina %(page)s',
     },
+    # Author: राम प्रसाद जोशी
     # Author: सरोज कुमार ढकाल
     'ne': {
         'thirdparty-drtrigonbot-subster-summary-mod': u'प्रतिस्थापन गर्दै %(tags)s tag(s)',
-        'thirdparty-drtrigonbot-sum_disc-notify-changed': u'छलफलमा परिवर्तनहरु छन्',
+        'thirdparty-drtrigonbot-sum_disc-notify-changed': u'छलफलमा परिवर्तनहरू छन्',
         'thirdparty-drtrigonbot-sum_disc-notify-closed': u'छलफल बन्द गरियो',
         'thirdparty-drtrigonbot-sum_disc-notify-maintmsg': u'रोबोट सन्देश',
         'thirdparty-drtrigonbot-sum_disc-notify-new': u'नयाँ छलफल',
@@ -1598,6 +1599,10 @@ msg = {
         'thirdparty-drtrigonbot-sum_disc-summary-clean': u'Dodat je opis razgovora sa čišćenjem: %(num)i unosa',
         'thirdparty-drtrigonbot-sum_disc-summary-head': u'bot',
         'thirdparty-drtrigonbot-sum_disc-summary-mod': u'Opis razgovora je ažuriran: %(num)i unosa u %(page)s',
+    },
+    # Author: Vikoula5
+    'shy-latn': {
+        'thirdparty-drtrigonbot-sum_disc-parse-start': u'; %d. %B %Y',
     },
     # Author: පසිඳු කාවින්ද
     # Author: බිඟුවා

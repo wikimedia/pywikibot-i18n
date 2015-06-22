@@ -124,6 +124,10 @@ msg = {
         'protect-ref': u'Bot: Pelanê ke %(page)s de gıre benê pêrıne bışevekne',
         'protect-simple': u'Bot: Yew lista dosyeyan bışevekne.',
     },
+    # Author: राम प्रसाद जोशी
+    'dty': {
+        'protect-links': u'रोबोट:  %(page)s पनामी जोडियाका सबै पानाहरूलाई सुरक्षित गर्दै',
+    },
     # Author: Geraki
     # Author: Protnet
     'el': {
@@ -341,10 +345,11 @@ msg = {
         'protect-simple': u'Robot: Melindungi senarai fail.',
     },
     # Author: Njsubedi
+    # Author: राम प्रसाद जोशी
     'ne': {
         'protect-category': u'रोबोट:  %(cat)s वर्गमा रहेका सबै पृष्ठहरूलाई सुरक्षित गर्दै',
         'protect-images': u'रोबोट: %(page)s पृष्ठमा रहेका सबै तस्वीरहरु सुरक्षित गर्दै',
-        'protect-links': u'रोबोट:  %(page)s पृष्ठमा जोडिएका सबै पृष्ठहरुलाई सुरक्षा दिँदै',
+        'protect-links': u'रोबोट:  %(page)s पृष्ठमा जोडिएका सबै पृष्ठहरूलाई सुरक्षा गर्दै',
         'protect-ref': u'रोबोट:  %(page)s ले जनाउने सबै पृष्ठहरू सुरक्षित गर्दै',
         'protect-simple': u'रोबोट: फाइलहरूको सूची सुरक्षित गर्दै',
     },

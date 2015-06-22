@@ -929,11 +929,9 @@ msg = {
         'interwiki-removing-modifying': u'រ៉ូបូ ដកចេញ: %(removing)s កែសំរួល: %(modifying)s',
     },
     # Author: Akoppad
+    # Author: Xqt
     'kn': {
-        'interwiki-adding-modifying': u'ರೋಬೋಟ್: (ಸೇರಿಸುವ)% s ಸೇರಿಸುವ; ಮಾರ್ಪಡಿಸುವಿಕೆ % (ಮಾರ್ಪಡಿಸುವ)ಗಳು',
-        'interwiki-adding-removing': u'ರೋಬೋಟ್: (ಸೇರಿಸುವ)% s ಸೇರಿಸುವುದರಿಂದ; ತೆಗೆದುಹಾಕುವ:% (ತೆಗೆದುಹಾಕಿ) ರು',
-        'interwiki-adding-removing-modifying': u'ರೋಬೋಟ್: ರು (ಸೇರಿಸುವ)% ಸೇರ್ಪಡೆ;% ತೆಗೆಯುವ (ತೆಗೆದುಹಾಕಿ) ರು;% ಮಾರ್ಪಡಿಸುವ (ಮಾರ್ಪಡಿಸುವ) ರು',
-        'interwiki-modifying': u'ರೋಬೋಟ್:ಮಾರ್ಪಡಿಸುವಿಕೆ % (ಮಾರ್ಪಡಿಸುವ)ಗಳು',
+        'interwiki-modifying': u'ರೋಬೋಟ್:ಮಾರ್ಪಡಿಸುವಿಕೆ %(modifying)s ಗಳು',
     },
     # Author: IRTC1015
     # Author: 아라

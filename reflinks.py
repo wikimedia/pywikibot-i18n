@@ -212,7 +212,7 @@ msg = {
     # Author: Purodha
     'ksh': {
         'reflinks-autogen': u'automattesch aanjelaat',
-        'reflinks-comment': u'Dä Tettel es vun Bot faßjelaat un ußjedaach.',
+        'reflinks-comment': u'Di Övverschreff es vun enem Bot_Projramm faßjelaat un ußjedaach.',
         'reflinks-msg': u'Bot: Verweise krijje Nahme, öm kein dubelte ze krejje. Loor noh de [[%(manual)s|öff jschtallte Froore un dänne ier Antwoote]].',
     },
     # Author: Robby

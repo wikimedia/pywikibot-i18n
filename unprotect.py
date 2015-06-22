@@ -270,6 +270,14 @@ msg = {
         'unprotect-ref': u'Bot: Tar bort skydd från alla sidor som %(page)s refererar till',
         'unprotect-simple': u'Bot: Tar bort skydd från en lista över filer.',
     },
+    # Author: Ата
+    'uk': {
+        'unprotect-category': u'Бот: Зняття захисту з усіх сторінок з категорії %(cat)s',
+        'unprotect-images': u'Бот: Зняття захисту з усіх зображень на сторінці %(page)s',
+        'unprotect-links': u'Бот: Зняття захисту з усіх сторінок, пов\'язаних із %(page)s',
+        'unprotect-ref': u'Бот: Зняття захисту з усіх сторінок, які посилаються з %(page)s',
+        'unprotect-simple': u'Бот: Зняття захисту зі списку файлів.',
+    },
     # Author: Minh Nguyen
     'vi': {
         'unprotect-category': u'Bot: Mở khóa tất cả các trang trong thể loại “%(cat)s”',

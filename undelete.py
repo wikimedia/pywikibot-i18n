@@ -218,6 +218,12 @@ msg = {
         'undelete-images': u'Bot: Återställer alla bilder på sida %(page)s',
         'undelete-linked-pages': u'Bot: Återställer alla sidor länkade från %(page)s',
     },
+    # Author: Ата
+    'uk': {
+        'undelete-from-file': u'Бот: Відновлення списку сторінок',
+        'undelete-images': u'Бот: Відновлення усіх зображень на сторінці %(page)s',
+        'undelete-linked-pages': u'Бот: Відновлення усіх сторінок, пов\'язаних із %(page)s',
+    },
     # Author: Minh Nguyen
     'vi': {
         'undelete-from-file': u'Bot: Phục hồi một danh sách trang',

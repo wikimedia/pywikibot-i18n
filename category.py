@@ -1112,7 +1112,7 @@ msg = {
         'category-changing': u'automaton: mutans %(oldcat)s→%(newcat)s',
         'category-removing': u'automaton abdit %(oldcat)s',
         'category-renamed': u'automaton: mota ex %(oldcat)s. Auctores: %(authors)s',
-        'category-replacing': u'automaton: mutans categoriam %(oldcat)s→[[%(newcat)s]]',
+        'category-replacing': u'automaton: mutans categoriam %(oldcat)s→[[:Categoria:%(newcat)s]]',
         'category-was-disbanded': u'automaton: categoria dissoluta est',
         'category-was-moved': u'automaton: categoria mota est ad [[:Category:%(newcat)s|%(title)s]]',
     },
@@ -1762,6 +1762,7 @@ msg = {
     },
     # Author: Ainali
     # Author: Cybjit
+    # Author: Jopparn
     # Author: Lokal Profil
     # Author: WikiPhoenix
     'sv': {
@@ -1773,6 +1774,7 @@ msg = {
         'category-renamed': u'Bot: Flyttad från %s. Författare: %s',
         'category-replacing': u'Bot: Ersätter kategorin %(oldcat)s med %(newcat)s',
         'category-section-title': u'Sidhistorik från tidigare %(oldcat)s',
+        'category-strip-cfd-templates': u'Bot: Tar bort CFD-mallar för genomförda åtgärder',
         'category-version-history': u'Bot: Sparar versionshistorik från tidigare %(oldcat)s',
         'category-was-disbanded': u'Bot: Kategorin upplöstes',
         'category-was-moved': u'Bot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]',
@@ -1922,6 +1924,7 @@ msg = {
     },
     # Author: A1
     # Author: Base
+    # Author: Ата
     # Author: Тест
     'uk': {
         'category-adding': u'Робот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]',
@@ -1932,6 +1935,7 @@ msg = {
         'category-renamed': u'робот: перейменовано із %s. автори : %s',
         'category-replacing': u'Робот: заміна категорії %(oldcat)s на %(newcat)s',
         'category-section-title': u'Історія сторінки колишньої %(oldcat)s',
+        'category-strip-cfd-templates': u'Бот: Вилучення CFD-шаблонів для завершених дій',
         'category-version-history': u'Робот: Збереження історії версій колишньої %(oldcat)s',
         'category-was-disbanded': u'Робот: категорія розформована',
         'category-was-moved': u'Робот: категорію перейменовано на [[:Category:%(newcat)s|%(title)s]]',

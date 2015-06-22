@@ -328,7 +328,7 @@ msg = {
         'weblinkchecker-archive_msg': u'De Websick es em Internet Archive faßjehallde. Kannß jo felleijsj_obb_en Koppi doh verlengke, süsh hee: [%(URL)s].',
         'weblinkchecker-badurl': u'Dä aanjejovve Lengk süht nit wi en jölteje <i lang="ne" xml:lang="en" title="uniform resource locator">URL</i> uß.',
         'weblinkchecker-caption': u'Han enne kappodde Weblengk jefonge',
-        'weblinkchecker-report': u'Esch han bonge die Weblingks paa Mol jetschäck. Se han allemoolde nit jedon Doht ens donnoh loore, un dä Lengk reparreere odo eruß nämme.',
+        'weblinkchecker-report': u'Esch han bonge di Wäblengks paa Mohl jetschäck. Se han allemoolde nit jedon Doht ens donnoh loore, un dä Lengk reparrehre odo eruß nämme.',
         'weblinkchecker-summary': u'Bot: Ene Weblengk jeijt nit mih.',
     },
     # Author: George Animal
@@ -582,8 +582,10 @@ msg = {
         'weblinkchecker-caption': u'Ölü bağlantı',
         'weblinkchecker-summary': u'Robot: Kullanılamayan dış bağlantı rapor ediliyor',
     },
+    # Author: Ата
     'uk': {
         'weblinkchecker-archive_msg': u'Веб-сторінка була збережена у Internet Archive. Будь ласка, подумайте над заміною посилання на відповідну збережену версію: [%(URL)s].',
+        'weblinkchecker-badurl': u'Вказане посилання не схоже на дійсний URL',
         'weblinkchecker-caption': u'Недоступне зовнішнє посилання',
         'weblinkchecker-report': u'Протягом кількох автоматичних перевірок наступне зовнішнє посилання було недоступне. Будь ласка, перевірте чи посилання справді "мертве" і в такому випадку виправіть або видаліть його!',
         'weblinkchecker-summary': u'Бот: Сповіщення про мертві зовнішні посилання',

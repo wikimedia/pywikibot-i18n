@@ -867,6 +867,7 @@ msg = {
         'pywikibot-fixes-syntax': u'Бот: поправљена вики синтакса',
     },
     # Author: Cybjit
+    # Author: Jopparn
     # Author: Lokal Profil
     # Author: WikiPhoenix
     # Author: skorpan
@@ -878,6 +879,7 @@ msg = {
         'pywikibot-enter-new-text': u'Skriv in den nya texten:',
         'pywikibot-enter-page-processing': u'Vilken sida ska behandlas?',
         'pywikibot-enter-xml-filename': u'Ange XML-dumpens filnamn:',
+        'pywikibot-fixes-fckeditor': u'Robot: Åtgärdar Rich-editor-html',
         'pywikibot-fixes-html': u'Bot: Konverterar/korrigerar HTML',
         'pywikibot-fixes-syntax': u'Robot: Fixar wikisyntax',
     },
@@ -932,6 +934,7 @@ msg = {
     # Author: Base
     # Author: DixonD
     # Author: Dmitry Nikitin
+    # Author: Ата
     'uk': {
         'pywikibot-enter-category-name': u'Введіть ім\'я категорії:',
         'pywikibot-enter-file-links-processing': u'Посилання на які файли слід обробити?',
@@ -940,6 +943,7 @@ msg = {
         'pywikibot-enter-new-text': u'Введіть новий текст:',
         'pywikibot-enter-page-processing': u'Які сторінки потрібно переробити?',
         'pywikibot-enter-xml-filename': u'Будь ласка, введіть назву файлу дампу XML:',
+        'pywikibot-fixes-fckeditor': u'Робот: Виправлення html після редактора форматованого тексту',
         'pywikibot-fixes-html': u'Бот: корекцiя HTML',
         'pywikibot-fixes-syntax': u'Бот: Корекцiя вiкi-синтаксису',
     },

@@ -424,8 +424,10 @@ msg = {
         'noreferences-add-tag': u'Робот: <references /> дигән булмаган тег өстәлде',
     },
     # Author: Dim Grits
+    # Author: Ата
     'uk': {
         'noreferences-add-tag': u'Robot: Дадано відсутній тег <references />',
+        'noreferences-fix-tag': u'Бот: Виправлення неправильного синтаксису <references />',
     },
     # Author: Alunardon90
     'vec': {
