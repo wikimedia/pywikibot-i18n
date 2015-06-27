@@ -4,5 +4,5 @@
 			"Wisdom"
 		]
 	},
-	"archivebot-older-than": "%(хугацаа) -аас бусад"
+	"archivebot-older-than": "%(duration)s -аас бусад"
 }

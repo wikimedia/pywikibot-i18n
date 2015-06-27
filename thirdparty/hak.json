@@ -15,7 +15,6 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s：%(page)s所有討論完結（停止監察）-最後由%(user)s於%(time)s編寫",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\n摘要由在%(sign)s生成</noinclude></noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "（無發現人類編輯）",
-	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: %(page_sections)s - [%(history_link)s %(page)s] (由%(user)s於%(time)s更改%(page_size)s位元)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": ";%d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* 機械人警告信息：%(page)s\"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "添加討論摘要：%(num)i項",

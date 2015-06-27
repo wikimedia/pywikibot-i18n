@@ -10,7 +10,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "Skilaboð vélmennis",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Ný umræða",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Tilkynning",
-	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: [%(history_link)s síðustu breytingu] (%(page_size)s bæti) undir %(page sections)s eftir %(user)s (%(time)s).",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: [%(history_link)s síðustu breytingu] (%(page_size)s bæti) undir %(page_sections)s eftir %(user)s (%(time)s).",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: Umræðu á %(page)s er lokið. Síðasta breyting var eftir %(user)s (%(time)s).",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSkilaboð búin til frá: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(enginn mannlegur notandi fannst)",
