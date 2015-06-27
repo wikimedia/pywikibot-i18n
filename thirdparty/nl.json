@@ -14,7 +14,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Melding",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s laatste bewerking] (%(page_size)s bytes) door %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s alle overleggen zijn afgerond (bewaking gestopt) - laatste bewerking door %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSamenvatting gemaakt van en op: %s</noinclude>",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSamenvatting gemaakt van en op: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(geen menselijke redacteur gevonden)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - laatste bewerking door [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
