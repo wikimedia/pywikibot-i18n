@@ -4,5 +4,5 @@
 			"Hugo.arg"
 		]
 	},
-	"unlink-unlinking": "robotas: panaikinamos nuorodos į \"%s\""
+	"unlink-unlinking": "robotas: panaikinamos nuorodos į \"%(title)s\""
 }

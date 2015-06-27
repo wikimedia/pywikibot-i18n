@@ -4,5 +4,5 @@
 			"Jetlag"
 		]
 	},
-	"unlink-unlinking": "機械人： 斷開連結\" %s \""
+	"unlink-unlinking": "機械人： 斷開連結\" %(title)s \""
 }

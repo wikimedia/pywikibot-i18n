@@ -4,5 +4,5 @@
 			"Toliño"
 		]
 	},
-	"unlink-unlinking": "Bot: Quito a ligazón cara a \"%s\""
+	"unlink-unlinking": "Bot: Quito a ligazón cara a \"%(title)s\""
 }

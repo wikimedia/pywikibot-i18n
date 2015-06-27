@@ -4,5 +4,5 @@
 			"Snævar"
 		]
 	},
-	"unlink-unlinking": "Vélmenni: Aftengi \"%s\""
+	"unlink-unlinking": "Vélmenni: Aftengi \"%(title)s\""
 }

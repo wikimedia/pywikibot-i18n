@@ -4,5 +4,5 @@
 			"E THP"
 		]
 	},
-	"unlink-unlinking": "بوت: \" %s \" باغلانتی‌سی قالدیریلدی"
+	"unlink-unlinking": "بوت: \" %(title)s \" باغلانتی‌سی قالدیریلدی"
 }

@@ -4,5 +4,5 @@
 			"Abshirdheere"
 		]
 	},
-	"unlink-unlinking": "Bot: Tirtiris waxa la xiriira \"%s\""
+	"unlink-unlinking": "Bot: Tirtiris waxa la xiriira \"%(title)s\""
 }

@@ -4,5 +4,5 @@
 			"Haqmar"
 		]
 	},
-	"unlink-unlinking": "Робот: «%s» һылтаһын юйыу"
+	"unlink-unlinking": "Робот: «%(title)s» һылтаһын юйыу"
 }

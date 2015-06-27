@@ -5,5 +5,5 @@
 			"IRTC1015"
 		]
 	},
-	"unlink-unlinking": "봇: \"%s\" 링크 제거"
+	"unlink-unlinking": "봇: \"%(title)s\" 링크 제거"
 }

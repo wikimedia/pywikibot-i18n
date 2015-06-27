@@ -4,5 +4,5 @@
 			"Njardarlogar"
 		]
 	},
-	"unlink-unlinking": "robot: fjerna lenkje til «%s»"
+	"unlink-unlinking": "robot: fjerna lenkje til «%(title)s»"
 }

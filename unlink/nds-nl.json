@@ -4,5 +4,5 @@
 			"Servien"
 		]
 	},
-	"unlink-unlinking": "Bot: verwiezing naor \"%s\" vortedaon"
+	"unlink-unlinking": "Bot: verwiezing naor \"%(title)s\" vortedaon"
 }

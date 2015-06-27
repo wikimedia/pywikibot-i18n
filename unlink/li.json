@@ -4,5 +4,5 @@
 			"Ooswesthoesbes"
 		]
 	},
-	"unlink-unlinking": "Bot: wös verwiezing nao \"%s\""
+	"unlink-unlinking": "Bot: wös verwiezing nao \"%(title)s\""
 }

@@ -4,5 +4,5 @@
 			"ZxxZxxZ"
 		]
 	},
-	"unlink-unlinking": "ربات: از پیوند درآوردن «%s»"
+	"unlink-unlinking": "ربات: از پیوند درآوردن «%(title)s»"
 }

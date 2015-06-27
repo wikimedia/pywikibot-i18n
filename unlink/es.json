@@ -6,5 +6,5 @@
 			"Xqt"
 		]
 	},
-	"unlink-unlinking": "Robot: Desvinculación de «%s»"
+	"unlink-unlinking": "Robot: Desvinculación de «%(title)s»"
 }

@@ -4,5 +4,5 @@
 			"Lloffiwr"
 		]
 	},
-	"unlink-unlinking": "Robot: Yn datgysylltu \"%s\""
+	"unlink-unlinking": "Robot: Yn datgysylltu \"%(title)s\""
 }

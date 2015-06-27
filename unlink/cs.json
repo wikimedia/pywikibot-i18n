@@ -4,5 +4,5 @@
 			"Utar"
 		]
 	},
-	"unlink-unlinking": "Robot: Odlinkovávám \"%s\""
+	"unlink-unlinking": "Robot: Odlinkovávám \"%(title)s\""
 }

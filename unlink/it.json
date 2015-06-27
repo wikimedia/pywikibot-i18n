@@ -5,5 +5,5 @@
 			"Beta16"
 		]
 	},
-	"unlink-unlinking": "Bot: eliminazione collegamenti a \"%s\""
+	"unlink-unlinking": "Bot: eliminazione collegamenti a \"%(title)s\""
 }

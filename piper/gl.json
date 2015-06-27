@@ -4,5 +4,5 @@
 			"Gallaecio"
 		]
 	},
-	"piper-edit-summary": "Robot: Pasando o texto do artigo por %s."
+	"piper-edit-summary": "Robot: Pasando o texto do artigo por %(filters)s."
 }

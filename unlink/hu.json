@@ -4,5 +4,5 @@
 			"Dj"
 		]
 	},
-	"unlink-unlinking": "Bot: „%s” hivatkozás törlése"
+	"unlink-unlinking": "Bot: „%(title)s” hivatkozás törlése"
 }

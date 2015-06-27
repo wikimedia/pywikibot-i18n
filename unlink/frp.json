@@ -4,5 +4,5 @@
 			"ChrisPtDe"
 		]
 	},
-	"unlink-unlinking": "Robot : enléve lo lim « %s »"
+	"unlink-unlinking": "Robot : enléve lo lim « %(title)s »"
 }

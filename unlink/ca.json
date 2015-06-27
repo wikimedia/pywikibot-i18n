@@ -4,5 +4,5 @@
 			"Vriullop"
 		]
 	},
-	"unlink-unlinking": "Bot: desenllaçant \"%s\""
+	"unlink-unlinking": "Bot: desenllaçant \"%(title)s\""
 }

@@ -4,5 +4,5 @@
 			"Fulup"
 		]
 	},
-	"unlink-unlinking": "Robot: O tiliammañ \"%s\""
+	"unlink-unlinking": "Robot: O tiliammañ \"%(title)s\""
 }

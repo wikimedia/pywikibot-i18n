@@ -4,5 +4,5 @@
 			"Alex Khimich"
 		]
 	},
-	"piper-edit-summary": "Робот: Проведення тексту статті через %s"
+	"piper-edit-summary": "Робот: Проведення тексту статті через %(filters)s"
 }

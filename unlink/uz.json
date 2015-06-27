@@ -4,5 +4,5 @@
 			"CoderSI"
 		]
 	},
-	"unlink-unlinking": "Bot: \"%s\" havolasini oʻchirish"
+	"unlink-unlinking": "Bot: \"%(title)s\" havolasini oʻchirish"
 }

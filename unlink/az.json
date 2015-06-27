@@ -4,5 +4,5 @@
 			"AZISS"
 		]
 	},
-	"unlink-unlinking": "Bot: \"%s\" linkinin silinməsi"
+	"unlink-unlinking": "Bot: \"%(title)s\" linkinin silinməsi"
 }

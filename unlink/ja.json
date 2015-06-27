@@ -4,5 +4,5 @@
 			"Shirayuki"
 		]
 	},
-	"unlink-unlinking": "ロボットによる: リンクを解除中「%s」"
+	"unlink-unlinking": "ロボットによる: リンクを解除中「%(title)s」"
 }

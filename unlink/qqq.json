@@ -4,5 +4,5 @@
 			"Shirayuki"
 		]
 	},
-	"unlink-unlinking": "Used as edit summary. Variables:\n* %s - title of the page to unlink"
+	"unlink-unlinking": "Used as edit summary. Variables:\n* %(title)s - title of the page to unlink"
 }

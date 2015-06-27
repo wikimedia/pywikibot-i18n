@@ -4,5 +4,5 @@
 			"Bjankuloski06"
 		]
 	},
-	"unlink-unlinking": "Робот: Ја отстранува врската „%s“"
+	"unlink-unlinking": "Робот: Ја отстранува врската „%(title)s“"
 }

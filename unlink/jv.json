@@ -4,5 +4,5 @@
 			"NoiX180"
 		]
 	},
-	"unlink-unlinking": "Bot: Medhot pranala \"%s\""
+	"unlink-unlinking": "Bot: Medhot pranala \"%(title)s\""
 }

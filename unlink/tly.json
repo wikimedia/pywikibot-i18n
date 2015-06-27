@@ -4,5 +4,5 @@
 			"Гусейн"
 		]
 	},
-	"unlink-unlinking": "Робот: Сәбони моле «%s»"
+	"unlink-unlinking": "Робот: Сәбони моле «%(title)s»"
 }

@@ -4,5 +4,5 @@
 			"Siebrand"
 		]
 	},
-	"unlink-unlinking": "Robot: koppeling naar \"%s\" verwijderd"
+	"unlink-unlinking": "Robot: koppeling naar \"%(title)s\" verwijderd"
 }

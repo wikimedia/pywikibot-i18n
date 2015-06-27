@@ -4,5 +4,5 @@
 			"StefanusRA"
 		]
 	},
-	"unlink-unlinking": "Bot: ngeculna pranala \"%s\""
+	"unlink-unlinking": "Bot: ngeculna pranala \"%(title)s\""
 }

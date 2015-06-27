@@ -5,5 +5,5 @@
 			"Yfdyh000"
 		]
 	},
-	"unlink-unlinking": "机器人：断开“%s”链接"
+	"unlink-unlinking": "机器人：断开“%(title)s”链接"
 }
