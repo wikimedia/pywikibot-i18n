@@ -4,5 +4,5 @@
 			"Metalhead64"
 		]
 	},
-	"followlive-blanking": "Geleert, Inhalt war „%s“."
+	"followlive-blanking": "Geleert, Inhalt war „%(content)s“."
 }

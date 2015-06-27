@@ -4,5 +4,5 @@
 			"Daniel Herding"
 		]
 	},
-	"followlive-blanking": "wyczyszczony - zawartością było '%s'"
+	"followlive-blanking": "wyczyszczony - zawartością było '%(content)s'"
 }

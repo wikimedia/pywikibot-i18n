@@ -4,5 +4,5 @@
 			"Robby"
 		]
 	},
-	"followlive-blanking": "Eidelgemaach, Inhalt war '%s'."
+	"followlive-blanking": "Eidelgemaach, Inhalt war '%(content)s'."
 }

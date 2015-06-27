@@ -4,5 +4,5 @@
 			"Rotemliss"
 		]
 	},
-	"followlive-blanking": "清空，之前的內容是 '%s'"
+	"followlive-blanking": "清空，之前的內容是 '%(content)s'"
 }

@@ -4,5 +4,5 @@
 			"WindEwriX"
 		]
 	},
-	"followlive-blanking": "Пусто, содержание до очистки '%s'."
+	"followlive-blanking": "Пусто, содержание до очистки '%(content)s'."
 }

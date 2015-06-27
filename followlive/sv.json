@@ -4,5 +4,5 @@
 			"Siebrand Mazeland"
 		]
 	},
-	"followlive-blanking": "Robot tar bort innehåll på grund av '%s'"
+	"followlive-blanking": "Robot tar bort innehåll på grund av '%(content)s'"
 }

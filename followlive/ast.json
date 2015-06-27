@@ -4,5 +4,5 @@
 			"Xuacu"
 		]
 	},
-	"followlive-blanking": "Blanquiáu, el conteníu yera '%s'."
+	"followlive-blanking": "Blanquiáu, el conteníu yera '%(content)s'."
 }

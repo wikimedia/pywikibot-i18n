@@ -4,5 +4,5 @@
 			"Shizhao"
 		]
 	},
-	"remove_edp_images-edit-summary": "Bot修正EDP图像用法：[[%s]]"
+	"remove_edp_images-edit-summary": "Bot修正EDP图像用法：[[%(title)s]]"
 }

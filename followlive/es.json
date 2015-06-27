@@ -4,5 +4,5 @@
 			"Macofe"
 		]
 	},
-	"followlive-blanking": "Vaciada, el contenido era '%s'."
+	"followlive-blanking": "Vaciada, el contenido era '%(content)s'."
 }

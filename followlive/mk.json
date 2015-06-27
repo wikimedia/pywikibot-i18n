@@ -4,5 +4,5 @@
 			"Bjankuloski06"
 		]
 	},
-	"followlive-blanking": "Испразнето. Содржината беше „%s“."
+	"followlive-blanking": "Испразнето. Содржината беше „%(content)s“."
 }

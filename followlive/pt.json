@@ -4,5 +4,5 @@
 			"Leogregianin"
 		]
 	},
-	"followlive-blanking": "em branco - conteúdo é '%s'"
+	"followlive-blanking": "em branco - conteúdo é '%(content)s'"
 }

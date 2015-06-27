@@ -4,5 +4,5 @@
 			"Meno25"
 		]
 	},
-	"remove_edp_images-edit-summary": "روبوت: إصلاح استخدام صورة EDP: [[%s]]"
+	"remove_edp_images-edit-summary": "روبوت: إصلاح استخدام صورة EDP: [[%(title)s]]"
 }

@@ -4,5 +4,5 @@
 			"Alex Khimich"
 		]
 	},
-	"remove_edp_images-edit-summary": "Робот: Виправити використання EDP зображення: [[%s]]"
+	"remove_edp_images-edit-summary": "Робот: Виправити використання EDP зображення: [[%(title)s]]"
 }

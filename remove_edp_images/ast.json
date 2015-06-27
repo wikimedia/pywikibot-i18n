@@ -4,5 +4,5 @@
 			"Xuacu"
 		]
 	},
-	"remove_edp_images-edit-summary": "Robó: Iguar l'usu d'imaxes EDP: [[%s]]"
+	"remove_edp_images-edit-summary": "Robó: Iguar l'usu d'imaxes EDP: [[%(title)s]]"
 }

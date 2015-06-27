@@ -4,5 +4,5 @@
 			"Robby"
 		]
 	},
-	"remove_edp_images-edit-summary": "Bot: Verbessere vun der Benotzung vun EDP-Biller: [[%s]]"
+	"remove_edp_images-edit-summary": "Bot: Verbessere vun der Benotzung vun EDP-Biller: [[%(title)s]]"
 }

@@ -4,5 +4,5 @@
 			"Gallaecio"
 		]
 	},
-	"remove_edp_images-edit-summary": "Robot: Solucionar o uso de imaxes EDP: [[%s]]"
+	"remove_edp_images-edit-summary": "Robot: Solucionar o uso de imaxes EDP: [[%(title)s]]"
 }

@@ -4,5 +4,5 @@
 			"Metalhead64"
 		]
 	},
-	"remove_edp_images-edit-summary": "Bot: Korrigiere EDP-Bildverwendung: [[%s]]"
+	"remove_edp_images-edit-summary": "Bot: Korrigiere EDP-Bildverwendung: [[%(title)s]]"
 }

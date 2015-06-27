@@ -4,5 +4,5 @@
 			"Alex Khimich"
 		]
 	},
-	"followlive-blanking": "Очищено, вміст був '%s'."
+	"followlive-blanking": "Очищено, вміст був '%(content)s'."
 }

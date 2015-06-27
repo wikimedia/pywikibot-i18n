@@ -4,5 +4,5 @@
 			"Amire80"
 		]
 	},
-	"remove_edp_images-edit-summary": "רובוט: תיקון שימוש בתמונות של EDP‏: [[%s]]"
+	"remove_edp_images-edit-summary": "רובוט: תיקון שימוש בתמונות של EDP‏: [[%(title)s]]"
 }

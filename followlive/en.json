@@ -4,5 +4,5 @@
 			"Hashar"
 		]
 	},
-	"followlive-blanking": "Blanked, content was '%s'."
+	"followlive-blanking": "Blanked, content was '%(content)s'."
 }

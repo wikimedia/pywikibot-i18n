@@ -4,5 +4,5 @@
 			"Red Winged Duck"
 		]
 	},
-	"followlive-blanking": "Ачышчана, папярэдні зьмест быў «%s»."
+	"followlive-blanking": "Ачышчана, папярэдні зьмест быў «%(content)s»."
 }

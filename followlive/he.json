@@ -4,5 +4,5 @@
 			"Leogregianin"
 		]
 	},
-	"followlive-blanking": "רוקן, תוכן היה '%s'"
+	"followlive-blanking": "רוקן, תוכן היה '%(content)s'"
 }
