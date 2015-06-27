@@ -10,7 +10,7 @@
 	"category-changing": "Feranre %(oldcat)s tu %(newcat)s",
 	"category-listifying": "Bot: List faan %(fromcat)s (%(num)d iindracher)",
 	"category-removing": "Bot: Strik ütj %(oldcat)s",
-	"category-renamed": "Bot: Fersköwen faan %s. Autooren: %s.",
+	"category-renamed": "Bot: Fersköwen faan %(oldcat)s. Autooren: %(authors)s.",
 	"category-replacing": "Bot: Bütje kategorii %(oldcat)s ütj mä %(newcat)s",
 	"category-section-title": "Werjuunshistoore faan det ual %(oldcat)s",
 	"category-version-history": "Bot: Seekere werjuunshistoore faan det ual %(oldcat)s",

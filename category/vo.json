@@ -9,6 +9,6 @@
 	"category-also-in": "(i in %(alsocat)s)",
 	"category-changing": "Bot: Votükon: %(oldcat)s ad %(newcat)s",
 	"category-removing": "bot moükon se %(oldcat)s",
-	"category-renamed": "Bot: Petopätüköl de %s. Lautans: %s",
+	"category-renamed": "Bot: Petopätüköl de %(oldcat)s. Lautans: %(authors)s",
 	"category-was-moved": "bot petopätükon kladi lü [[:Category:%(newcat)s|%(title)s]]"
 }

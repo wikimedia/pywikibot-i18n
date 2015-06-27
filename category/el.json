@@ -11,7 +11,7 @@
 	"category-changing": "Ρομπότ: Αλλαγή %(oldcat)s σε %(newcat)s",
 	"category-listifying": "Ρομπότ: Καταλογοποίηση από %(fromcat)s (%(num)d καταχωρίσεις)",
 	"category-removing": "Ρομπότ: Αφαίρεση από την %(oldcat)s",
-	"category-renamed": "Ρομπότ: Μετακινήθηκε από %s. Συντάκτες: %s",
+	"category-renamed": "Ρομπότ: Μετακινήθηκε από %(oldcat)s. Συντάκτες: %(authors)s",
 	"category-replacing": "Ρομπότ: Αντικατάσταση της κατηγορίας %(oldcat)s με την %(newcat)s",
 	"category-section-title": "Ιστορικό της πρώην %(oldcat)s",
 	"category-version-history": "Ρομπότ: Αποθήκευση ιστορικού από την πρώην %(oldcat)s",

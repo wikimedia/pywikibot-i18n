@@ -11,7 +11,7 @@
 	"category-changing": "Робот: %(oldcat)s категорияһын %(newcat)s тип үҙгәртеү",
 	"category-listifying": "Робот: %(fromcat)s категорияһынан исемлек төҙөлә ({{PLURAL:%(num)d|элементтан}})",
 	"category-removing": "Робот:  %(oldcat)s категорияһынан сығарыу",
-	"category-renamed": "Робот:%s категорияһынан күсерелде. Авторҙар: %s",
+	"category-renamed": "Робот:%(oldcat)s категорияһынан күсерелде. Авторҙар: %(authors)s",
 	"category-replacing": "Робот: %(oldcat)s категорияһын %(newcat)s категорияһына алыштырыу",
 	"category-section-title": " Элекке %(oldcat)s категорияһын бит тарихы",
 	"category-version-history": "Робот: элекке %(oldcat)s категорияһындағы тарихты һаҡлау",

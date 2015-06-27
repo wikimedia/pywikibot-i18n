@@ -13,7 +13,7 @@
 	"category-changing": "Roboto: Ŝanĝado de %(oldcat)s al %(newcat)s",
 	"category-listifying": "Roboto: Listigado de %(fromcat)s (%(num)d ero{{PLURAL:%(num)d||j}})",
 	"category-removing": "Roboto: Forigado el %(oldcat)s",
-	"category-renamed": "Roboto: Movita el %s. Aŭtoroj: %s",
+	"category-renamed": "Roboto: Movita el %(oldcat)s. Aŭtoroj: %(authors)s",
 	"category-replacing": "Roboto: Anstataŭigo de kategorio %(oldcat)s per %(newcat)s",
 	"category-section-title": "Kronologio de iama %(oldcat)s",
 	"category-version-history": "Roboto: Konservado de kronologio de versioj de iama %(oldcat)s",

@@ -10,7 +10,7 @@
 	"category-changing": "ڕۆبۆت: گۆڕینی %(oldcat)s بۆ %(newcat)s",
 	"category-listifying": "ڕۆبۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})",
 	"category-removing": "ڕۆبۆت: لابردن لە %(oldcat)s",
-	"category-renamed": "ڕۆبۆت: گوازرایەوە لە %s. دانەران: %s",
+	"category-renamed": "ڕۆبۆت: گوازرایەوە لە %(oldcat)s. دانەران: %(authors)s",
 	"category-replacing": "ڕۆبۆت: دانانی پۆلی %(newcat)s لە جێگەی  %(oldcat)s",
 	"category-section-title": "مێژووی پەڕەی %(oldcat)sی پێشوو",
 	"category-version-history": "ڕۆبۆت: مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",

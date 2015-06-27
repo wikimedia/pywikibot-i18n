@@ -11,7 +11,7 @@
 	"category-changing": "Bötli: Due %(oldcat)s zue %(newcat)s ändere",
 	"category-listifying": "Bötli: Lischt us %(fromcat)s (%(num)d Yytreg)",
 	"category-removing": "Bötli: us %(oldcat)s  uusegnuu",
-	"category-renamed": "Bot: Verschobe vu %s. Autore: %s",
+	"category-renamed": "Bot: Verschobe vu %(oldcat)s. Autore: %(authors)s",
 	"category-replacing": "Bötli: Kategori %(oldcat)s uustuscht dur %(newcat)s",
 	"category-section-title": "Versionsgschicht vu dr urspringlige %(oldcat)s",
 	"category-version-history": "Bot: Versionsgschicht vu dr alte %(oldcat)s gsicheret",

@@ -9,7 +9,7 @@
 	"category-changing": "बॉट: %(oldcat)s कय जगही %(newcat)s जोड़त है",
 	"category-listifying": "रोबॉट: %(fromcat)s से listify ({{PLURAL:%(num)d|1 प्रविष्टि|%(num)d प्रविष्टियाँ}})",
 	"category-removing": "रोबॉट: %(oldcat)s से हटा रहा है",
-	"category-renamed": "रोबॉट: %s से स्थानांतरित। लेखक: %s",
+	"category-renamed": "रोबॉट: %(oldcat)s से स्थानांतरित। लेखक: %(authors)s",
 	"category-replacing": "रोबॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है",
 	"category-section-title": "पुरानी %(oldcat)s का पृष्ठ इतिहास",
 	"category-version-history": "बॉट: पुरान %(oldcat)s कय अवतरण इतिहास सहेजत है",

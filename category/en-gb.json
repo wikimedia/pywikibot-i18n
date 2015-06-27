@@ -9,7 +9,7 @@
 	"category-changing": "Bot: Changing %(oldcat)s to %(newcat)s",
 	"category-listifying": "Bot: Creating a list from %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "Bot: Removing from %(oldcat)s",
-	"category-renamed": "Bot: Moved from %s. Authors: %s",
+	"category-renamed": "Bot: Moved from %(oldcat)s. Authors: %(authors)s",
 	"category-replacing": "Bot: Replacing category %(oldcat)s with %(newcat)s",
 	"category-section-title": "Page history of former %(oldcat)s",
 	"category-version-history": "Bot: Saving version history of former %(oldcat)s",

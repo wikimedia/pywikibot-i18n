@@ -10,7 +10,7 @@
 	"category-changing": "로봇: %(oldcat)s에서 %(newcat)s(으)로 바꿈",
 	"category-listifying": "로봇: %(fromcat)s에서 목록화 ({{PLURAL:%(num)d|항목 1개|항목 %(num)d개}})",
 	"category-removing": "로봇: %(oldcat)s 제거",
-	"category-renamed": "봇: %s에서 옮겨짐. 편집자: %s",
+	"category-renamed": "봇: %(oldcat)s에서 옮겨짐. 편집자: %(authors)s",
 	"category-replacing": "로봇: %(oldcat)s(을)를 %(newcat)s(으)로 분류를 바꿈",
 	"category-section-title": "이전 %(oldcat)s의 문서 역사",
 	"category-version-history": "로봇: 이전 %(oldcat)s의 버전 역사를 저장",

@@ -15,7 +15,7 @@
 	"category-changing": "Bot: Modifico %(oldcat)s in %(newcat)s",
 	"category-listifying": "Bot: Lista del contento dalla %(fromcat)s (%(num)d pagine)",
 	"category-removing": "Bot: Rimozione da %(oldcat)s",
-	"category-renamed": "Bot: Voce spostata da %s. Autori: %s",
+	"category-renamed": "Bot: Voce spostata da %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Bot: Sostituzione di %(oldcat)s con %(newcat)s",
 	"category-section-title": "Cronologia della precedente %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Rimozione di template CFD per intervenuto completamento dell'azione",

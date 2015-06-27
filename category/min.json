@@ -10,7 +10,7 @@
 	"category-changing": "Bot: Mangganti %(oldcat)s ka %(newcat)s",
 	"category-listifying": "Bot: Mambuek dafta dari %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Mahapuih dari %(oldcat)s",
-	"category-renamed": "Bot: Mamindahan dari %s. Kontributor: %s",
+	"category-renamed": "Bot: Mamindahan dari %(oldcat)s. Kontributor: %(authors)s",
 	"category-replacing": "Bot: Maganti kategori %(oldcat)s jo %(newcat)s",
 	"category-section-title": "Versi tadahulu laman bekeh %(oldcat)s",
 	"category-version-history": "Robot: Manyimpan versi tadahulu bakeh %(oldcat)s",

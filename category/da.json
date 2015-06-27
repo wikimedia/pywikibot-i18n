@@ -12,7 +12,7 @@
 	"category-changing": "Robot: Ændrer %(oldcat)s til %(newcat)s",
 	"category-listifying": "Robot: Omdanner %(fromcat)s til liste ({{PLURAL:%(num)d|1 post|%(num)d poster}})",
 	"category-removing": "Robot: Fjerner fra %(oldcat)s",
-	"category-renamed": "Robot: Flyttet fra %s. Forfattere: %s",
+	"category-renamed": "Robot: Flyttet fra %(oldcat)s. Forfattere: %(authors)s",
 	"category-replacing": "Robot: Erstatter kategori %(oldcat)s med %(newcat)s",
 	"category-section-title": "Sidehistorik fra den tidligere %(oldcat)s",
 	"category-version-history": "Robot: Gemmer versionshistorikken for den tidligere %(oldcat)s",

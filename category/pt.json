@@ -11,7 +11,7 @@
 	"category-changing": "Robô: A modificar %(oldcat)s para %(newcat)s",
 	"category-listifying": "Robô: A listar a partir de %(fromcat)s (%(num)d entradas)",
 	"category-removing": "Robô: A remover de [[%(oldcat)s]]",
-	"category-renamed": "Bot: Movido de %s. Autores: %s",
+	"category-renamed": "Bot: Movido de %(oldcat)s. Autores: %(authors)s",
 	"category-replacing": "Robô: A substituir a categoria %(oldcat)s por %(newcat)s",
 	"category-section-title": "Histórico de versões da antiga %(oldcat)s",
 	"category-version-history": "Robô: A guardar histórico de versões da antiga %(oldcat)s",

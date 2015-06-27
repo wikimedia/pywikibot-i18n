@@ -15,7 +15,7 @@
 	"category-changing": "ربات: تغییر %(oldcat)s به %(newcat)s",
 	"category-listifying": "ربات: فهرست‌کردن از %(fromcat)s ({{PLURAL:%(num)d|یک عضو|%(num)d عضو}})",
 	"category-removing": "ربات: حذف از %(oldcat)s",
-	"category-renamed": "ربات: از %s منتقل شد. پدیدآورندگان: %s",
+	"category-renamed": "ربات: از %(oldcat)s منتقل شد. پدیدآورندگان: %(authors)s",
 	"category-replacing": "ربات: جایگزینی ردهٔ %(oldcat)s با %(newcat)s",
 	"category-section-title": "تاریخچهٔ صفحهٔ %(oldcat)s سابق",
 	"category-strip-cfd-templates": "ربات:حذف الگوی پیشنهاد حذف برای اتمام کار",

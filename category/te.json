@@ -12,7 +12,7 @@
 	"category-changing": "బాటు: %(oldcat)s వర్గాన్ని %(newcat)sకి మార్చింది",
 	"category-listifying": "బాట్: %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}}) నుండి జాబితా సేకరణ",
 	"category-removing": "బాట్: %(oldcat)s నుండి తొలగించడం",
-	"category-renamed": "బాట్: %s నుండి తరలించబడింది. రచయితలు:%s",
+	"category-renamed": "బాట్: %(oldcat)s నుండి తరలించబడింది. రచయితలు:%(authors)s",
 	"category-replacing": "బాట్: %(oldcat)s వర్గాన్ని %(newcat)s తోటి మారుస్తున్నాం",
 	"category-section-title": "%(oldcat)s యొక్క పూర్వపు పేజీ చరితం",
 	"category-strip-cfd-templates": "బాటు : పని పూర్తయేందుకు CFD మూసలను తొలగిస్తున్నాము",

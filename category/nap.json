@@ -8,7 +8,7 @@
 	"category-also-in": "(pure 'n %(alsocat)s)",
 	"category-changing": "Bot: Cagnanno 'e %(oldcat)s dint'a %(newcat)s",
 	"category-removing": "Bot: Luvann'a %(oldcat)s",
-	"category-renamed": "Bot: Spustata 'a %s. Auture: %s",
+	"category-renamed": "Bot: Spustata 'a %(oldcat)s. Auture: %(authors)s",
 	"category-replacing": "Bot: Rimpiazzanno categurìe %(oldcat)s cu %(newcat)s",
 	"category-section-title": "Cronologgia 'e primma %(oldcat)s",
 	"category-version-history": "Bot: Sarvanno 'a cronologgia d' 'e %(oldcat)s 'e primma",

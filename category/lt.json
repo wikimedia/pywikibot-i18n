@@ -13,7 +13,7 @@
 	"category-changing": "Robotas: Keičiama %(oldcat)s į %(newcat)s",
 	"category-listifying": "Robotas: Numeruoja nuo %(fromcat)s ({{PLURAL:%(num)d|1 įrašas|%(num)d įrašų}})",
 	"category-removing": "robotas: šalinama iš %(oldcat)s",
-	"category-renamed": "robotas: Perkelta iš %s. Autoriai: %s",
+	"category-renamed": "robotas: Perkelta iš %(oldcat)s. Autoriai: %(authors)s",
 	"category-replacing": "robotas: kategorija %(oldcat)s keičiama į %(newcat)s",
 	"category-section-title": "Puslapis istorija iš buvusio %(oldcat)s",
 	"category-version-history": "Robotas: Išsaugo ankstesnės %(oldcat)s istorijos  versiją",

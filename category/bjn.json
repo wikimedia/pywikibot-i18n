@@ -11,7 +11,7 @@
 	"category-changing": "Bot: Maubah %(oldcat)s manjadi %(newcat)s",
 	"category-listifying": "Bot: Maulah daptar matan %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Mahapus matan %(oldcat)s",
-	"category-renamed": "Bot: Mamindahakan matan %s. Pamakai: %s",
+	"category-renamed": "Bot: Mamindahakan matan %(oldcat)s. Pamakai: %(authors)s",
 	"category-replacing": "Bot: Mangganti tumbung %(oldcat)s lawan %(newcat)s",
 	"category-section-title": "Raralatan bahari tungkaran bakas %(oldcat)s",
 	"category-version-history": "Robot: Manyimpan raralatan bahari bakas %(oldcat)s",

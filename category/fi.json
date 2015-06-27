@@ -10,7 +10,7 @@
 	"category-changing": "Botti muutti luokan %(oldcat)s luokaksi %(newcat)s",
 	"category-listifying": "Botti listasi luokan %(fromcat)s (%(num)d jäsentä)",
 	"category-removing": "Botti poisti luokasta %(oldcat)s",
-	"category-renamed": "Botti siirsi luokan %s. Muokkaajat: %s",
+	"category-renamed": "Botti siirsi luokan %(oldcat)s. Muokkaajat: %(authors)s",
 	"category-replacing": "Botti korvasi luokan %(oldcat)s luokalla %(newcat)s",
 	"category-section-title": "Muutoshistoria entisestä luokasta %(oldcat)s",
 	"category-version-history": "Botti: Tallennetaan versiohistoria entisestä luokasta %(oldcat)s",

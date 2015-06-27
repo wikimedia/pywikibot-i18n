@@ -10,7 +10,7 @@
 	"category-changing": "Bor: Ngowahi %(oldcat)s dadi %(newcat)s",
 	"category-listifying": "Bot:Gawe daftar sekang %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "Bot: Mbusek sekang %(oldcat)s",
-	"category-renamed": "Robot: Mindahna sekang %s. Kontributor: %s",
+	"category-renamed": "Robot: Mindahna sekang %(oldcat)s. Kontributor: %(authors)s",
 	"category-replacing": "Bot: Ngganti kategori %(oldcat)s dadi %(newcat)s",
 	"category-section-title": "Riwayat kaca sekang kaca bekas %(oldcat)s",
 	"category-version-history": "Robot: Nyimpen riwayat versi sekang kaca bekas %(oldcat)s",

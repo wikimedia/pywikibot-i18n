@@ -9,7 +9,7 @@
 	"category-changing": "Robot: Înlocuit %(oldcat)s cu %(newcat)s",
 	"category-listifying": "Robot: Listare de la %(fromcat)s (%(num)d intrări)",
 	"category-removing": "Robot: Înlăturat din %(oldcat)s",
-	"category-renamed": "Robot: Mutat din %s. Autori: %s",
+	"category-renamed": "Robot: Mutat din %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Robot: Înlocuit categoria %(oldcat)s cu %(newcat)s",
 	"category-section-title": "Istoricul paginii pentru fosta %(oldcat)s",
 	"category-version-history": "Robot: Se salvează istoricul versiunilor pentru vechea %(oldcat)s",

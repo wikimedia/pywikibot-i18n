@@ -9,7 +9,7 @@
 	"category-changing": "Vélmenni: Breyti frá %(oldcat)s yfir í %(newcat)s",
 	"category-listifying": "Vélmenni: Bæti %(num)d {{PLURAL:%(num)d|færslu|færslum}} frá %(fromcat)s við listann.",
 	"category-removing": "Vélmenni: Fjarlægi [[%(oldcat)s]]",
-	"category-renamed": "Vélmenni: Færi frá %s. Höfundar: %s",
+	"category-renamed": "Vélmenni: Færi frá %(oldcat)s. Höfundar: %(authors)s",
 	"category-replacing": "Vélmenni: Skipti flokknum %(oldcat)s út fyrir %(newcat)s",
 	"category-section-title": "Breytingarskrá fyrri %(oldcat)s",
 	"category-version-history": "Vélmenni: Vista breytingaskrá fyrri %(oldcat)s",

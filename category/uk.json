@@ -12,7 +12,7 @@
 	"category-changing": "Робот: замінив %(oldcat)s на %(newcat)s",
 	"category-listifying": "Робот: складання списку %(fromcat)s з (%(num)d записів)",
 	"category-removing": "Робот: видалення з %(oldcat)s",
-	"category-renamed": "робот: перейменовано із %s. автори : %s",
+	"category-renamed": "робот: перейменовано із %(oldcat)s. автори : %(authors)s",
 	"category-replacing": "Робот: заміна категорії %(oldcat)s на %(newcat)s",
 	"category-section-title": "Історія сторінки колишньої %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: Вилучення CFD-шаблонів для завершених дій",

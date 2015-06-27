@@ -17,7 +17,7 @@
 	"category-changing": "Robot : modification de %(oldcat)s en %(newcat)s",
 	"category-listifying": "Robot : Listage de %(fromcat)s (%(num)d éléments)",
 	"category-removing": "Robot : Retiré depuis %(oldcat)s",
-	"category-renamed": "Robot : déplacé depuis %s. Auteurs: %s",
+	"category-renamed": "Robot : déplacé depuis %(oldcat)s. Auteurs: %(authors)s",
 	"category-replacing": "Robot : Remplacement de la catégorie %(oldcat)s par %(newcat)s",
 	"category-section-title": "Historique de page de l'ancien %(oldcat)s",
 	"category-strip-cfd-templates": "Robot : Suppression des modèles CFD pour l’action terminée",

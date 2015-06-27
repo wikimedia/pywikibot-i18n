@@ -9,7 +9,7 @@
 	"category-changing": "Bot: U %(oldcat)s Badala %(newcat)s",
 	"category-listifying": "Bot: Soo muujin %(fromcat)s ({{PLURAL:%(num)d|1 galid|%(num)d entries}})",
 	"category-removing": "Bot: Ka saaray %(oldcat)s",
-	"category-renamed": "Bot: Loo soo wareejiyey %s. qoraayaasha: %s",
+	"category-renamed": "Bot: Loo soo wareejiyey %(oldcat)s. qoraayaasha: %(authors)s",
 	"category-replacing": "Bot: Qayb %(oldcat)s Lagu badalay %(newcat)s",
 	"category-section-title": "Taariikhdii boggii hore %(oldcat)s",
 	"category-version-history": "Bot: Kaydiyaha qaariikhda ee horay usoo baxday %(oldcat)s",

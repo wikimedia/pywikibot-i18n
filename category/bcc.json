@@ -9,7 +9,7 @@
 	"category-changing": "ربات: ٹ\tگل داته بوت %(oldcat)s بی %(newcat)s",
 	"category-listifying": "ربات: فهرست‌کردن از %(fromcat)s ({{PLURAL:%(num)d|یک عضو|%(num)d عضو}})",
 	"category-removing": "ربات: حذف از %(oldcat)s",
-	"category-renamed": "ربات: از %s منتقل شد. پدیدآورندگان: %s",
+	"category-renamed": "ربات: از %(oldcat)s منتقل شد. پدیدآورندگان: %(authors)s",
 	"category-replacing": "ربات: جایگزینی ردهٔ %(oldcat)s با %(newcat)s",
 	"category-section-title": "تاریخچهٔ صفحهٔ %(oldcat)s سابق",
 	"category-version-history": "ربات: ذخیرهٔ تاریخچهٔ سابق %(oldcat)s",

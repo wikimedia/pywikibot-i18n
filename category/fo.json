@@ -9,7 +9,7 @@
 	"category-changing": "Bottur: Broytir %(oldcat)s til %(newcat)s",
 	"category-listifying": "Bottur: Umskapar frá %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "Bottur: Tekur burtur frá %(oldcat)s",
-	"category-renamed": "Bottur: Flutti frá %s. Høvundar: %s",
+	"category-renamed": "Bottur: Flutti frá %(oldcat)s. Høvundar: %(authors)s",
 	"category-replacing": "Bottur: Skiftir út bólk %(oldcat)s við %(newcat)s",
 	"category-section-title": "Síðusøgan hjá fyrrverandi %(oldcat)s",
 	"category-version-history": "Bottur: Goymir versjónssøgu fyri fyrrverandi %(oldcat)s",

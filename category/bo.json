@@ -10,7 +10,7 @@
 	"category-changing": "མི་གཟུགས་འཕྲུལ་ཆས་ : %(oldcat)s ནས་ %(newcat)s ལ་འགྱུར་བ་གཏོང་བཞིན་པ།",
 	"category-listifying": "མི་གཟུགས་འཕྲུལ་ཆས།: %(fromcat)s ནས་ (%(num)d བར་གི་ཐོ་འགོད་རེའུ་མིག།)",
 	"category-removing": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s ནས་ ཕྱིར་འདོན་བཞིན་པ།",
-	"category-renamed": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%s ནས་སྤོ་བ།  རྩོམ་པ་པོ། ：%s",
+	"category-renamed": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s ནས་སྤོ་བ།  རྩོམ་པ་པོ། ：%(authors)s",
 	"category-replacing": "མི་གཟུགས་འཕྲུལ་ཆས་ ：སྡེ་ཚན། ཁོང་གཏོགས། %(oldcat)s དང་ %(newcat)s བར་འཕོ་འགྱུར་བྱེད་བཞིན་པ།",
 	"category-section-title": "དེ་སྔོན་གི་  %(oldcat)s ལོ་རྒྱུས་ཤོག་ངོས།",
 	"category-version-history": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s སྔོན་གི་བྱུང་འགྱུར་ཉར་འཚག་བྱེད་པ།",

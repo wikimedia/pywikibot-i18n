@@ -11,7 +11,7 @@
 	"category-changing": "Robot: Canbio %(oldcat)s in %(newcat)s",
 	"category-listifying": "Robot: Creo ła lista da %(fromcat)s ({{PLURAL:%(num)d|1 voxe|%(num)d voxe}})",
 	"category-removing": "Robot: Cavo da %(oldcat)s",
-	"category-renamed": "Bot: Spostà da %s. Autori: %s",
+	"category-renamed": "Bot: Spostà da %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Robot: Canbio %(oldcat)s co %(newcat)s",
 	"category-section-title": "Cronołojia de ła preçedente %(oldcat)s",
 	"category-version-history": "Robot: salvo ła cronołojia de ła preçedente %(oldcat)s",

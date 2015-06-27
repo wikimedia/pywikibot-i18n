@@ -9,7 +9,7 @@
 	"category-changing": "Robot: Cambia %(oldcat)s a %(newcat)s",
 	"category-listifying": "Robot: Face lista de articulos in %(fromcat)s ({{PLURAL:%(num)d|1 entrata|%(num)d entratas}})",
 	"category-removing": "Robot: Removite de %(oldcat)s",
-	"category-renamed": "Robot: Transferite de %s. Autores: %s",
+	"category-renamed": "Robot: Transferite de %(oldcat)s. Autores: %(authors)s",
 	"category-replacing": "Robot: Reimplacia categoria %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historia del pagina del ancian %(oldcat)s",
 	"category-version-history": "Robot: Salveguarda le historia de versiones del ancian %(oldcat)s",

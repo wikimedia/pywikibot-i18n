@@ -9,7 +9,7 @@
 	"category-changing": "Boti %(oldcat)s, %(newcat)s deye vurna",
 	"category-listifying": "Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi",
 	"category-removing": "Boti %(oldcat)s' ra wederna",
-	"category-renamed": "Boti, Nuştoğ %s ra wedarna %s",
+	"category-renamed": "Boti, Nuştoğ %(oldcat)s ra wedarna %(authors)s",
 	"category-replacing": "Boti kategori %(oldcat)s, kategori da %(newcat)s'iya vurna",
 	"category-section-title": "Werênayışê pela da %(oldcat)s",
 	"category-version-history": "Boti qeydê verênayışê versiyoni ke %(oldcat)s",

@@ -14,7 +14,7 @@
 	"category-changing": "Bot: Ändere %(oldcat)s zu %(newcat)s",
 	"category-listifying": "Bot: Liste aus %(fromcat)s ({{PLURAL:num|1 Eintrag|%(num)d Einträge}})",
 	"category-removing": "Bot: Entferne aus %(oldcat)s",
-	"category-renamed": "Bot: Verschoben von %s. Autoren: %s",
+	"category-renamed": "Bot: Verschoben von %(oldcat)s. Autoren: %(authors)s",
 	"category-replacing": "Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s",
 	"category-section-title": "Versionsgeschichte der ursprünglichen %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Entferne CFD-Vorlagen für abgeschlossene Aktion",

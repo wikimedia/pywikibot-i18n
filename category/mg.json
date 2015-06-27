@@ -10,7 +10,7 @@
 	"category-changing": "Rôbô : fanovana avy amin'i %(oldcat)s ho an'i %(newcat)s",
 	"category-listifying": "Rôbô : fanaovana lisitra avy amin'i %(fromcat)s (zavatra %(num)d)",
 	"category-removing": "Rôbô : Nesorina tamin'i %(oldcat)s",
-	"category-renamed": "Rôbô : nanova toerana avy amin'i %s. Mpanoratra: %s",
+	"category-renamed": "Rôbô : nanova toerana avy amin'i %(oldcat)s. Mpanoratra: %(authors)s",
 	"category-replacing": "Rôbô : Fanovana anarana ny sokajy %(oldcat)s miaraka amin'i %(newcat)s",
 	"category-section-title": "Tantaram-pejin'ilay  %(oldcat)s taloha",
 	"category-version-history": "Rôbô: fitahirizana ny tantaran'ny versiona ny %(oldcat)s taloha",

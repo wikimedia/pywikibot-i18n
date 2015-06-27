@@ -9,7 +9,7 @@
 	"category-changing": "Bot: Ännere vu(n) %(oldcat)s op %(newcat)s",
 	"category-listifying": "Bot: Lëscht vun der %(fromcat)s (%(num)d Memberen)",
 	"category-removing": "Bot: Ewech huele vun %(oldcat)s",
-	"category-renamed": "Bot: Geréckelt vum %s. Auteuren: %s",
+	"category-renamed": "Bot: Geréckelt vum %(oldcat)s. Auteuren: %(authors)s",
 	"category-replacing": "Bot: Ersetze vun der Kategorie %(oldcat)s duerch %(newcat)s",
 	"category-section-title": "Versioune vun de virege(n) %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: CFD-Schablounen ewechgeholl fir ofgeschlossen Aktioun",

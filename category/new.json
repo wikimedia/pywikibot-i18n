@@ -8,7 +8,7 @@
 	"category-also-in": "(%(alsocat)sय् नं)",
 	"category-changing": "रोबोट: %(oldcat)sतयेत %(newcat)sस हिलाच्वंगु",
 	"category-removing": "रोबोट: %(oldcat)sनं त्वतकाच्वंगु",
-	"category-renamed": "रोबट: %sनं संकल। च्वमि: %s",
+	"category-renamed": "रोबट: %(oldcat)sनं संकल। च्वमि: %(authors)s",
 	"category-replacing": "रोबोट: पुचः %(oldcat)sयात %(newcat)sय् हिलाछ्वःगु दु",
 	"category-section-title": "पुलांगु %(oldcat)sया पौ इतिहास",
 	"category-version-history": "रोबोट: न्हापाया %(oldcat)s तयेगु संस्करण इतिहास स्वथनाच्वंगु",

@@ -11,7 +11,7 @@
 	"category-changing": "Robot: Zmena %(oldcat)s na %(newcat)s",
 	"category-listifying": "Robot: vytvorenie zoznamu obsahu kategórie %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položiek}})",
 	"category-removing": "Robot: Odstránenie z %(oldcat)s",
-	"category-renamed": "Robot: Presunuté z %s. Autori: %s",
+	"category-renamed": "Robot: Presunuté z %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Robot nahradil kategóriu %(oldcat)s za %(newcat)s",
 	"category-section-title": "História verzií bývalej %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Odstránenie CFD šablón pre ukončene akcie",

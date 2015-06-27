@@ -10,7 +10,7 @@
 	"category-changing": "Bot: Cambio %(oldcat)s por %(newcat)s",
 	"category-listifying": "Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})",
 	"category-removing": "Bot: Elimino desde \"%(oldcat)s\"",
-	"category-renamed": "Bot: Traslado desde \"%s\". Autores: %s",
+	"category-renamed": "Bot: Traslado desde \"%(oldcat)s\". Autores: %(authors)s",
 	"category-replacing": "Bot: Substitución da categoría \"%(oldcat)s\" pola categoría \"%(newcat)s\"",
 	"category-section-title": "Historial da antiga \"%(oldcat)s\"",
 	"category-strip-cfd-templates": "Robot: Eliminando os modelos das categorías para eliminar correspondentes á acción completada.",

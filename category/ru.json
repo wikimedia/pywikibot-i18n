@@ -17,7 +17,7 @@
 	"category-changing": "Бот изменил: %(oldcat)s на %(newcat)s",
 	"category-listifying": "бот: составляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s",
 	"category-removing": "бот: исключение из %(oldcat)s",
-	"category-renamed": "бот: перенёс из %s. авторы: %s",
+	"category-renamed": "бот: перенёс из %(oldcat)s. авторы: %(authors)s",
 	"category-replacing": "бот: замена категории %(oldcat)s на %(newcat)s",
 	"category-section-title": "История страницы из бывшей %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: Удаление CFD-шаблонов для завершённых действий",

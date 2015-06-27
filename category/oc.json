@@ -10,7 +10,7 @@
 	"category-changing": "Robòt : modificacion de %(oldcat)s en %(newcat)s",
 	"category-listifying": "Robòt : Listatge de %(fromcat)s (%(num)d elements)",
 	"category-removing": "Robòt : Levat dempuèi %(oldcat)s",
-	"category-renamed": "Robòt : desplaçat dempuèi %s. Autors: %s",
+	"category-renamed": "Robòt : desplaçat dempuèi %(oldcat)s. Autors: %(authors)s",
 	"category-replacing": "Robòt : Remplaçament de la categoria %(oldcat)s per %(newcat)s",
 	"category-section-title": "Istoric de pagina de l'ancian %(oldcat)s",
 	"category-version-history": "Robòt : Enregistrament de l'istoric de version de l'ancian %(oldcat)s",

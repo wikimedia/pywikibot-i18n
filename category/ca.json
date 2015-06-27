@@ -12,7 +12,7 @@
 	"category-changing": "Robot: canviant %(oldcat)s a %(newcat)s",
 	"category-listifying": "Robot: llistant de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entrades}})",
 	"category-removing": "Robot: Eliminant de %(oldcat)s",
-	"category-renamed": "Robot:  Mogut des de %s. Autors : %s",
+	"category-renamed": "Robot:  Mogut des de %(oldcat)s. Autors : %(authors)s",
 	"category-replacing": "Robot: Substitució de la categoria %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historial de la pàgina de %(oldcat)s previs",
 	"category-version-history": "Robot: guardant l'historial de versions dels %(oldcat)s previs",

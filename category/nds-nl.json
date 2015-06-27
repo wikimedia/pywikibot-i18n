@@ -9,7 +9,7 @@
 	"category-changing": "Bot: wieziging van %(oldcat)s naor %(newcat)s",
 	"category-listifying": "Bot: lieste van %(fromcat)s (%(num)d pagina's)",
 	"category-removing": "Bot: vortehaold uut %(oldcat)s",
-	"category-renamed": "Robot: herneumd van %s. Auteurs: %s",
+	"category-renamed": "Robot: herneumd van %(oldcat)s. Auteurs: %(authors)s",
 	"category-replacing": "Robot: kategorie %(oldcat)s is vervöngen deur %(newcat)s",
 	"category-section-title": "Paginageschiedenisse van veurmaolige %(oldcat)s",
 	"category-version-history": "Bot: versiegeschiedenisse van veurmaolige %(oldcat)s op-esleugen",

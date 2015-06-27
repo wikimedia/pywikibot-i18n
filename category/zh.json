@@ -13,7 +13,7 @@
 	"category-changing": "机器人：更改%(newcat)s至%(oldcat)s",
 	"category-listifying": "机器人：从%(fromcat)s提取列表(%(num)d个项目)",
 	"category-removing": "机器人：从%(oldcat)s中移除",
-	"category-renamed": "机器人：已从 %s 移动。原作者：%s",
+	"category-renamed": "机器人：已从 %(oldcat)s 移动。原作者：%(authors)s",
 	"category-replacing": "机器人：变更分类%(oldcat)s为%(newcat)s",
 	"category-section-title": "之前%(oldcat)s的页面历史",
 	"category-strip-cfd-templates": "机器人：从完整的操作中移除CFD模板",

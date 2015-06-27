@@ -10,7 +10,7 @@
 	"category-changing": "Робот: %(oldcat)s дәгиш кардә быә бә %(newcat)s",
 	"category-listifying": "Робот: %(fromcat)s (%(num)d әсосонку) сијоһи тумо бејдә",
 	"category-removing": "Робот: %(oldcat)s категоријәку истисно",
-	"category-renamed": "Робот: бардыше чыјо %s. мыәллифон: %s",
+	"category-renamed": "Робот: бардыше чыјо %(oldcat)s. мыәллифон: %(authors)s",
 	"category-replacing": "Робот: %(oldcat)s бә %(newcat)s әвәз карде",
 	"category-section-title": "Сәһифә тарихи че канәку %(oldcat)s",
 	"category-version-history": "Робот: Тарихи чы канә версијәку огәте %(oldcat)s",

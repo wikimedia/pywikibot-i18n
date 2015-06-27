@@ -12,7 +12,7 @@
 	"category-changing": "Robot: Měním [[%(oldcat)s]]→[[%(newcat)s]]",
 	"category-listifying": "Robot: vytvoření soupisu obsahu kategorie %(fromcat)s (%(num)d položek)",
 	"category-removing": "Robot: odstranění kategorie %(oldcat)s",
-	"category-renamed": "Robot: Přesunuto z %s. Autoři: %s",
+	"category-renamed": "Robot: Přesunuto z %(oldcat)s. Autoři: %(authors)s",
 	"category-replacing": "Robot: Nahrazení kategorie %(oldcat)s za %(newcat)s",
 	"category-section-title": "Historie verzí bývalé %(oldcat)s",
 	"category-version-history": "Robot: Ukládání historie verzí bývalé %(oldcat)s",

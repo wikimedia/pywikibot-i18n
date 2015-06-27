@@ -10,7 +10,7 @@
 	"category-changing": "Trigomiro: Cangé%(oldcat)s a %(newcat)s",
 	"category-listifying": "Trigomiro: listé da %(fromcat)s ({{PLURAL:%(num)d|1 vos|%(num)d vos}})",
 	"category-removing": "Trigomiro: Gavé da %(oldcat)s",
-	"category-renamed": "Trigomiro: Tramudà da %s. Autor: %s",
+	"category-renamed": "Trigomiro: Tramudà da %(oldcat)s. Autor: %(authors)s",
 	"category-replacing": "Trigomiro: Rampiass ëd la categorìa %(oldcat)s con %(newcat)s",
 	"category-section-title": "Stòria ëd pàgina dla veja %(oldcat)s",
 	"category-version-history": "Robot: Argistrassion ëd la stòria dle version dla veja %(oldcat)s",

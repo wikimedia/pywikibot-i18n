@@ -11,7 +11,7 @@
 	"category-changing": "Ռոբոտ․ %(oldcat)s փոփոխվել է %(newcat)sով",
 	"category-listifying": "Ռոբոտ․ Կազմում է ցանկը %(fromcat)s -ից (%(num)d տարր)",
 	"category-removing": "Ռոբոտ․ հեռացվել է %(oldcat)s -ից",
-	"category-renamed": "Ռոբոտ․ Տեղափոխվել է %s֊ից։ Հեղինակներ՝ %s",
+	"category-renamed": "Ռոբոտ․ Տեղափոխվել է %(oldcat)s֊ից։ Հեղինակներ՝ %(authors)s",
 	"category-replacing": "Ռոբոտ․ %(oldcat)s կատեգորիան փոխարինվել է %(newcat)s –ով։",
 	"category-was-disbanded": "Ռոբոտ․ Կատեգորիան լուծարված էր",
 	"category-was-moved": "Ռոբոտ․ Կատեգորիան տեղափոխվեց [[:Category:%(newcat)s|%(title)s]]"

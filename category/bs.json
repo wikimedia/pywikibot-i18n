@@ -10,7 +10,7 @@
 	"category-changing": "Bot: mijenja %(oldcat)s sa %(newcat)s",
 	"category-listifying": "Bot: Ispisuje iz %(fromcat)s (%(num)d stavki).",
 	"category-removing": "Bot: uklanja iz %(oldcat)s",
-	"category-renamed": "Robot: Premješteno iz %s. Autori: %s",
+	"category-renamed": "Robot: Premješteno iz %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Bot: Mijenja kategoriju %(oldcat)s sa %(newcat)s",
 	"category-section-title": "Historija stranice od prethodne %(oldcat)s.",
 	"category-version-history": "Bot: Sačuvana historija verzija od prethodne %(oldcat)s,",

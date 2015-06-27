@@ -10,7 +10,7 @@
 	"category-changing": "Bot: Menukar %(oldcat)s kepada %(newcat)s",
 	"category-listifying": "Bot: Menyenaraikan daripada %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Mengeluarkan daripada %(oldcat)s",
-	"category-renamed": "Robot: Berpindah dari %s. Pengarang: %s",
+	"category-renamed": "Robot: Berpindah dari %(oldcat)s. Pengarang: %(authors)s",
 	"category-replacing": "Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s",
 	"category-section-title": "Sejarah versi bekas %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Menyingkirkan templat CFD untuk tindakan yang selesai",

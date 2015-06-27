@@ -12,7 +12,7 @@
 	"category-changing": "روبوت: تغيير  %(oldcat)s إلى %(newcat)s",
 	"category-listifying": "بوت: عرض من %(fromcat)s (%(num)d مدخلة)",
 	"category-removing": "بوت: إزالة من %(oldcat)s",
-	"category-renamed": "روبوت: نقل من %s. المؤلفون: %s",
+	"category-renamed": "روبوت: نقل من %(oldcat)s. المؤلفون: %(authors)s",
 	"category-replacing": "بوت: استبدال التصنيف %(oldcat)s ب %(newcat)s",
 	"category-section-title": "تاريخ الصفحة للسابق %(oldcat)s",
 	"category-version-history": "روبوت: حفظ تاريخ الإصدار للسابقة  %(oldcat)s",
