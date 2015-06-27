@@ -6,7 +6,7 @@
 			"Ezagren"
 		]
 	},
-	"weblinkchecker-archive_msg": "Halaman web telah diselamatkan oleh Internet Archive. Silakan mempertimbangkan menghubungkan ke versi arsip yang sesuai: [%(URL)].",
+	"weblinkchecker-archive_msg": "Halaman web telah diselamatkan oleh Internet Archive. Silakan mempertimbangkan menghubungkan ke versi arsip yang sesuai: [%(URL)s].",
 	"weblinkchecker-caption": "Pranala mati",
 	"weblinkchecker-report": "Selama beberapa bot otomatis berjalan, pranala luar berikut menjadi tidak tersedia. Silakan memeriksa apakah pranala sebenarnya sedang turun dan memperbaiki atau menghapusnya dalam hal ini!",
 	"weblinkchecker-summary": "Bot: Pelaporan pranala luar yang tersedia"

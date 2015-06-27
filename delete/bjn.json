@@ -6,6 +6,6 @@
 	},
 	"delete-from-category": "Robot: Mahapus sabarataan tungkaran tumatan tumbung %(page)s",
 	"delete-from-file": "Bot: Mahapus daptar tungkaran.",
-	"delete-images": "Robot: Mahapus sabarataan gambar pada tungkaran %(page)",
+	"delete-images": "Robot: Mahapus sabarataan gambar pada tungkaran %(page)s",
 	"delete-referring-pages": "Robot: Mahapus sabarataan tungkaran nang ba-ampah tumatan %(page)s"
 }

@@ -6,7 +6,7 @@
 	},
 	"interwiki-adding": "Robbot Stoche a mette: %(adding)s",
 	"interwiki-adding-modifying": "Robbot Stoche a mette: %(adding)s Stoche a cange: %(modifying)s",
-	"interwiki-adding-removing": "Robbot Stoche a mette: %(adding)s Stoche a lève: %(modifying)s",
+	"interwiki-adding-removing": "Robbot Stoche a mette: %(adding)s Stoche a lève: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robbot Stoche a mette: %(adding)s Stoche a lève: %(removing)s Stoche a cange: %(modifying)s",
 	"interwiki-modifying": "Robbot Stoche a cange: %(modifying)s",
 	"interwiki-removing": "Robbot Stoche a lève: %(removing)s",
