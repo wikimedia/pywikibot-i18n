@@ -4,5 +4,5 @@
 			"Умар"
 		]
 	},
-	"unlink-unlinking": "бот: хьажорг дӀаяккхар «%s»"
+	"unlink-unlinking": "бот: хьажорг дӀаяккхар «%(title)s»"
 }

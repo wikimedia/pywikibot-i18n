@@ -4,5 +4,5 @@
 			"Purodha"
 		]
 	},
-	"unlink-unlinking": "Bot: Lenk op „%s“ fott nämme."
+	"unlink-unlinking": "Bot: Lenk op „%(title)s“ fott nämme."
 }

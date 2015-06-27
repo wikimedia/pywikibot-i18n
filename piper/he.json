@@ -4,5 +4,5 @@
 			"Amire80"
 		]
 	},
-	"piper-edit-summary": "רובוט: העברת טקסט הערך דרך %s"
+	"piper-edit-summary": "רובוט: העברת טקסט הערך דרך %(filters)s"
 }

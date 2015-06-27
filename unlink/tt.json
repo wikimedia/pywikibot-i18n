@@ -4,5 +4,5 @@
 			"Ilnur efende"
 		]
 	},
-	"unlink-unlinking": "Бот: сылтаманы бетерү «%s»"
+	"unlink-unlinking": "Бот: сылтаманы бетерү «%(title)s»"
 }

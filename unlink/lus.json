@@ -4,5 +4,5 @@
 			"RMizo"
 		]
 	},
-	"unlink-unlinking": "Khawlmi: \"%s\" zawmna phelh mek a ni"
+	"unlink-unlinking": "Khawlmi: \"%(title)s\" zawmna phelh mek a ni"
 }

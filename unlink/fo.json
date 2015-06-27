@@ -4,5 +4,5 @@
 			"EileenSanda"
 		]
 	},
-	"unlink-unlinking": "Bottur: Tekur burtur slóð til \"%s\""
+	"unlink-unlinking": "Bottur: Tekur burtur slóð til \"%(title)s\""
 }

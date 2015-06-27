@@ -4,5 +4,5 @@
 			"Alunardon90"
 		]
 	},
-	"unlink-unlinking": "Robot: Eliminasion cołegamenti a \"%s\""
+	"unlink-unlinking": "Robot: Eliminasion cołegamenti a \"%(title)s\""
 }

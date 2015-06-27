@@ -4,5 +4,5 @@
 			"John Reid"
 		]
 	},
-	"unlink-unlinking": "Robot: Onlinkin \"%s\""
+	"unlink-unlinking": "Robot: Onlinkin \"%(title)s\""
 }

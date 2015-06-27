@@ -5,5 +5,5 @@
 			"Objectivesea"
 		]
 	},
-	"unlink-unlinking": "Roboto: Malligas \"%s\""
+	"unlink-unlinking": "Roboto: Malligas \"%(title)s\""
 }

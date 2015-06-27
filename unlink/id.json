@@ -4,5 +4,5 @@
 			"Farras"
 		]
 	},
-	"unlink-unlinking": "Robot: Memutuskan tautan \"%s\""
+	"unlink-unlinking": "Robot: Memutuskan tautan \"%(title)s\""
 }

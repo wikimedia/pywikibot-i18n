@@ -4,5 +4,5 @@
 			"Purodha"
 		]
 	},
-	"unlink-unlinking": "Bot: Entlinke „%s“"
+	"unlink-unlinking": "Bot: Entlinke „%(title)s“"
 }

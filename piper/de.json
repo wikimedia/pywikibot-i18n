@@ -5,5 +5,5 @@
 			"Xqt"
 		]
 	},
-	"piper-edit-summary": "Bot: Leite den Artikeltext durch %s"
+	"piper-edit-summary": "Bot: Leite den Artikeltext durch %(filters)s"
 }

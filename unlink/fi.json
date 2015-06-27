@@ -1,4 +1,4 @@
 {
 	"@metadata": [],
-	"unlink-unlinking": "Botti poisti linkin sivulle \"%s\""
+	"unlink-unlinking": "Botti poisti linkin sivulle \"%(title)s\""
 }

@@ -4,5 +4,5 @@
 			"McDutchie"
 		]
 	},
-	"unlink-unlinking": "Robot: Disliga \"%s\""
+	"unlink-unlinking": "Robot: Disliga \"%(title)s\""
 }

@@ -4,5 +4,5 @@
 			"Anakmalaysia"
 		]
 	},
-	"unlink-unlinking": "Robot: Membuang pautan \"%s\""
+	"unlink-unlinking": "Robot: Membuang pautan \"%(title)s\""
 }

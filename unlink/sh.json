@@ -4,5 +4,5 @@
 			"Kolega2357"
 		]
 	},
-	"unlink-unlinking": "Bot: uklonjena veza „%s“"
+	"unlink-unlinking": "Bot: uklonjena veza „%(title)s“"
 }

@@ -5,5 +5,5 @@
 			"Volkov"
 		]
 	},
-	"unlink-unlinking": "бот: удаление ссылки «%s»"
+	"unlink-unlinking": "бот: удаление ссылки «%(title)s»"
 }

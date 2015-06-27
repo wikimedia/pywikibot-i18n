@@ -5,5 +5,5 @@
 			"Lokal Profil"
 		]
 	},
-	"unlink-unlinking": "Bot: Avlänkar \"%s\""
+	"unlink-unlinking": "Bot: Avlänkar \"%(title)s\""
 }

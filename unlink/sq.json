@@ -4,5 +4,5 @@
 			"Euriditi"
 		]
 	},
-	"unlink-unlinking": "Roboti: U fshi lidhja \"%s\""
+	"unlink-unlinking": "Roboti: U fshi lidhja \"%(title)s\""
 }

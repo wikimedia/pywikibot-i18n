@@ -4,5 +4,5 @@
 			"Ævar Arnfjörð Bjarmason"
 		]
 	},
-	"piper-edit-summary": "Vélmenni: Pípa texta síðunnar í gegnum %s"
+	"piper-edit-summary": "Vélmenni: Pípa texta síðunnar í gegnum %(filters)s"
 }

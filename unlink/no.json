@@ -1,4 +1,4 @@
 {
 	"@metadata": [],
-	"unlink-unlinking": "robot: fjerner lenke til \"%s\""
+	"unlink-unlinking": "robot: fjerner lenke til \"%(title)s\""
 }

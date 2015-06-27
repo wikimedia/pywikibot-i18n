@@ -4,5 +4,5 @@
 			"Kwisha"
 		]
 	},
-	"unlink-unlinking": "Roboti: Inatoa viungo \"%s\""
+	"unlink-unlinking": "Roboti: Inatoa viungo \"%(title)s\""
 }

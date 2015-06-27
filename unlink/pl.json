@@ -1,4 +1,4 @@
 {
 	"@metadata": [],
-	"unlink-unlinking": "Robot odlinkowuje \"%s\""
+	"unlink-unlinking": "Robot odlinkowuje \"%(title)s\""
 }

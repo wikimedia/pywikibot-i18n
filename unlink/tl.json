@@ -4,5 +4,5 @@
 			"AnakngAraw"
 		]
 	},
-	"unlink-unlinking": "Robot: Hindi ikinakawing ang \"%s\""
+	"unlink-unlinking": "Robot: Hindi ikinakawing ang \"%(title)s\""
 }

@@ -4,5 +4,5 @@
 			"Geraki"
 		]
 	},
-	"unlink-unlinking": "Ρομπότ: Αποσύνδεση του \"%s\""
+	"unlink-unlinking": "Ρομπότ: Αποσύνδεση του \"%(title)s\""
 }

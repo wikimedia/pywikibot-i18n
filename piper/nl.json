@@ -5,5 +5,5 @@
 			"Siebrand"
 		]
 	},
-	"piper-edit-summary": "Robot: paginatekst door %s geleid"
+	"piper-edit-summary": "Robot: paginatekst door %(filters)s geleid"
 }

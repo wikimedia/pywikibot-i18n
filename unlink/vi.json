@@ -4,5 +4,5 @@
 			"Minh Nguyen"
 		]
 	},
-	"unlink-unlinking": "Bot: Bỏ liên kết đến “%s”"
+	"unlink-unlinking": "Bot: Bỏ liên kết đến “%(title)s”"
 }

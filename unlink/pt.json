@@ -5,5 +5,5 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"unlink-unlinking": "Robô: A retirar ligações para \"%s\""
+	"unlink-unlinking": "Robô: A retirar ligações para \"%(title)s\""
 }

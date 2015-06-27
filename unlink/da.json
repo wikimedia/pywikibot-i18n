@@ -5,5 +5,5 @@
 			"MGA73"
 		]
 	},
-	"unlink-unlinking": "Robot: Fjerner henvisning til \"%s\""
+	"unlink-unlinking": "Robot: Fjerner henvisning til \"%(title)s\""
 }

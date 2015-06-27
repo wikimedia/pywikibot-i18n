@@ -4,5 +4,5 @@
 			"Arystanbek"
 		]
 	},
-	"unlink-unlinking": "Бот: «%s» бетінің сілтенуі болдырылмауда"
+	"unlink-unlinking": "Бот: «%(title)s» бетінің сілтенуі болдырылмауда"
 }

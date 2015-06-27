@@ -4,5 +4,5 @@
 			"Incelemeelemani"
 		]
 	},
-	"unlink-unlinking": "Robot: \" %s \" bağlantısı kaldırıldı"
+	"unlink-unlinking": "Robot: \" %(title)s \" bağlantısı kaldırıldı"
 }

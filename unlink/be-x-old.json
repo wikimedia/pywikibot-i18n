@@ -4,5 +4,5 @@
 			"EugeneZelenko"
 		]
 	},
-	"unlink-unlinking": "Робат: Выдаленьне спасылак на «%s»"
+	"unlink-unlinking": "Робат: Выдаленьне спасылак на «%(title)s»"
 }

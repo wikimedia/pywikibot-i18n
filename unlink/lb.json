@@ -4,5 +4,5 @@
 			"Robby"
 		]
 	},
-	"unlink-unlinking": "Bot: Entlinke vun \"%s\""
+	"unlink-unlinking": "Bot: Entlinke vun \"%(title)s\""
 }

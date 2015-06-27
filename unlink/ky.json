@@ -4,5 +4,5 @@
 			"Maksat"
 		]
 	},
-	"unlink-unlinking": "Бот: Шилтемени өчүрүү \"%s\""
+	"unlink-unlinking": "Бот: Шилтемени өчүрүү \"%(title)s\""
 }

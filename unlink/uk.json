@@ -4,5 +4,5 @@
 			"Dim Grits"
 		]
 	},
-	"unlink-unlinking": "Бот: Вилучення посилання \"%s\""
+	"unlink-unlinking": "Бот: Вилучення посилання \"%(title)s\""
 }

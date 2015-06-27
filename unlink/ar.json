@@ -5,5 +5,5 @@
 			"Zaher kadour"
 		]
 	},
-	"unlink-unlinking": "روبوت: إزالة وصلات \"%s\""
+	"unlink-unlinking": "روبوت: إزالة وصلات \"%(title)s\""
 }

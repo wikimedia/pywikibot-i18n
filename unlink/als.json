@@ -4,5 +4,5 @@
 			"Als-Holder"
 		]
 	},
-	"unlink-unlinking": "Bot: „%s“ entlinkt"
+	"unlink-unlinking": "Bot: „%(title)s“ entlinkt"
 }

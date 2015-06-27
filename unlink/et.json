@@ -4,5 +4,5 @@
 			"Pikne"
 		]
 	},
-	"unlink-unlinking": "Robot: eemaldatud link \"%s\""
+	"unlink-unlinking": "Robot: eemaldatud link \"%(title)s\""
 }

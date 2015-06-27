@@ -4,5 +4,5 @@
 			"Robby"
 		]
 	},
-	"piper-edit-summary": "Bot: Den Text vum Artikel duerch %s passéieren"
+	"piper-edit-summary": "Bot: Den Text vum Artikel duerch %(filters)s passéieren"
 }

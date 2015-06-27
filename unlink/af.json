@@ -4,5 +4,5 @@
 			"Naudefj"
 		]
 	},
-	"unlink-unlinking": "Robot: verwysing na \"%s\" verwyder"
+	"unlink-unlinking": "Robot: verwysing na \"%(title)s\" verwyder"
 }
