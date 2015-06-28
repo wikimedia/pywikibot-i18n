@@ -11,7 +11,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOTA MESAĜO",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nova diskuto",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Sciigo",
-	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [lasta redakto (%history_link)s] (%(page_size)s bajtoj) fare de %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [lasta redakto %(history_link)s] (%(page_size)s bajtoj) fare de %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s ĉiuj diskutoj finiĝis (supervido ĉesis) - laste redaktita de %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nResumo generiĝis el kaj ĉe: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(neniu homa redaktanto trovita)",
