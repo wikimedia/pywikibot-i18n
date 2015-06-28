@@ -98,10 +98,11 @@ msg = {
         'pagefromfile-msg_top': u'ergänze am Anfang',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'pagefromfile-msg': u'Bot: Αυτοματοποιημένη εισαγωγή λημμάτων',
-        'pagefromfile-msg_bottom': u'προσάρτηση στον πάτο',
-        'pagefromfile-msg_force': u'υπάρχον κείμενο αντικαταστάθηκε',
+        'pagefromfile-msg': u'Ρομπότ: Αυτοματοποιημένη εισαγωγή σελίδων',
+        'pagefromfile-msg_bottom': u'προσάρτηση στο κάτω μέρος',
+        'pagefromfile-msg_force': u'το υπάρχον κείμενο αντικαταστάθηκε',
         'pagefromfile-msg_top': u'προσάρτηση στην κορυφή',
     },
     # Author: Chase me ladies, I'm the Cavalry

@@ -50,8 +50,9 @@ msg = {
         'misspelling-fixing': u'Bot: korrigiere Link auf Falschschreibung: %(page)s',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'misspelling-fixing': u'Bot: Διόρθωση ανορθόγραφου συνδέσμου σε %(page)s',
+        'misspelling-fixing': u'Ρομπότ: Διόρθωση ανορθόγραφου συνδέσμου σε %(page)s',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

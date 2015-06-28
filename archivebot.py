@@ -22,11 +22,12 @@ msg = {
         'archivebot-page-summary': u'Summary message when the bot removes threads from a talk page for archiving.',
     },
     # Author: Csisc
+    # Author: Xqt
     'aeb': {
         'archivebot-archive-full': u'(الأرشيف ممتلئ)',
-        'archivebot-archive-summary': u'!el archivage mte3 %(count) {{PLURAL:%(count)d|thread|threads}} min [%(from)s]].',
+        'archivebot-archive-summary': u'!el archivage mte3 %(count)d {{PLURAL:%(count)d|thread|threads}} min [[%(from)s]].',
         'archivebot-older-than': u'أقدم من',
-        'archivebot-page-summary': u'el archivage mte3 %(count) {{PLURAL:%(count)d|thread|threads}} (%(why)s) ila %(archives)s.',
+        'archivebot-page-summary': u'el archivage mte3 %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) ila %(archives)s.',
     },
     # Author: Naudefj
     'af': {
@@ -254,9 +255,10 @@ msg = {
     },
     # Author: Geraki
     # Author: Glavkos
+    # Author: Protnet
     'el': {
         'archivebot-archive-full': u'(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)',
-        'archivebot-archive-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]]',
+        'archivebot-archive-summary': u'Ρομπότ: Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]] συνολικά.',
         'archivebot-older-than': u'παλαιότερο από %(duration)s',
         'archivebot-page-summary': u'Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s.',
     },
@@ -538,7 +540,7 @@ msg = {
     # Author: Arystanbek
     'kk': {
         'archivebot-archive-full': u'(МҰРАҒАТ ТОЛҒАН)',
-        'archivebot-archive-summary': u'Бот: [[%[[%(from)s]] бетінен %(count)d {{PLURAL:%(count)d|тақырыпты|тақырыптарды}} мұрағаттауда.',
+        'archivebot-archive-summary': u'Бот: [[%(from)s]] бетінен %(count)d {{PLURAL:%(count)d|тақырыпты|тақырыптарды}} мұрағаттауда.',
         'archivebot-older-than': u'%(duration)s-дан ескірек',
         'archivebot-page-summary': u'Бот: (%(why)s) бетінен %(archives)s бетіне %(count)d {{PLURAL:%(count)d|тақырыпты|тақырыптарды}} мұрағаттауда.',
     },
@@ -550,7 +552,7 @@ msg = {
     # Author: Xqt
     'kn': {
         'archivebot-archive-full': u'(ಪೂರ್ಣ ಸಂಗ್ರಹ )',
-        'archivebot-older-than': u'ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ %(duration)s',
+        'archivebot-older-than': u'ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ %(duration)s ಗಳು',
     },
     # Author: IRTC1015
     # Author: Kwj2772
@@ -656,8 +658,9 @@ msg = {
         'archivebot-page-summary': u'യന്ത്രം: %(count)d {{PLURAL:%(count)d|ചരട്|ചരടുകൾ}} (%(why)s)  %(archives)s എന്നതിലേയ്ക്ക് മാറ്റുന്നു.',
     },
     # Author: Wisdom
+    # Author: Xqt
     'mn': {
-        'archivebot-older-than': u'%(хугацаа) -аас бусад',
+        'archivebot-older-than': u'%(duration)s -аас бусад',
     },
     # Author: Kaajawa
     # Author: Xqt

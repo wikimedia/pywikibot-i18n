@@ -103,6 +103,10 @@ msg = {
     'mk': {
         'commonscat-msg_change': u'Бот: Ја менувам врската за категорија на Ризницата од [[:Commons:Category:%(oldcat)s|%(oldcat)s]] на [[:Commons:Category:%(newcat)s|%(newcat)s]]',
     },
+    # Author: Praveenp
+    'ml': {
+        'commonscat-msg_change': u'യന്ത്രം: [[:Commons:Category:%(oldcat)s|%(oldcat)s]] എന്നതിൽ നിന്ന് [[:Commons:Category:%(newcat)s|%(newcat)s]] എന്നതിലേക്ക് കോമൺസ്‌ക്യാറ്റ് കണ്ണി മാറ്റുന്നു',
+    },
     # Author: Anakmalaysia
     'ms': {
         'commonscat-msg_change': u'Bot: Menukar pautan commonscat dari [[:Commons:Category:%(oldcat)s|%(oldcat)s]] ke [[:Commons:Category:%(newcat)s|%(newcat)s]]',

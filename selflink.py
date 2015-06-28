@@ -49,8 +49,9 @@ msg = {
         'selflink-remove': u'Bot: Entferne Selbstlinks',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'selflink-remove': u'Bot: Αφαίρεση αυτοσυνδέσμων',
+        'selflink-remove': u'Ρομπότ: Αφαίρεση αυτοσυνδέσμων',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

@@ -57,8 +57,9 @@ msg = {
         'revertbot-revert': u'Bot: Zurückgesetzt auf die Version %(revid)s von %(author)s von %(timestamp)s',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'revertbot-revert': u'Bot: Επαναφορά στην έκδοση %(revid)s από τον %(author)s στις %(timestamp)s',
+        'revertbot-revert': u'Ρομπότ: Επαναφορά στην έκδοση %(revid)s από %(author)s στις %(timestamp)s',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

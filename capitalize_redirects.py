@@ -114,8 +114,9 @@ msg = {
         'capitalize_redirects-create-redirect': u'Boti pera [[%(to)s]] ke hetêna',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης [[%(to)s]]',
+        'capitalize_redirects-create-redirect': u'Ρομπότ: Δημιουργία ανακατεύθυνσης προς [[%(to)s]]',
     },
     # Author: Gloria sah
     'eml': {

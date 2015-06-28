@@ -59,8 +59,9 @@ msg = {
         'makecat-create': u'Bot: Kategoriye [[:Category:%(cat)s|]] vırazeno ya zi keno newe',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'makecat-create': u'Bot: Δημιουργία ή ενημέρωση της κατηγορίας [[:Category:%(cat)s|]]',
+        'makecat-create': u'Ρομπότ: Δημιουργία ή ενημέρωση της κατηγορίας [[:Category:%(cat)s|]]',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

@@ -778,6 +778,7 @@ msg = {
         'welcome-updating': u'机器人：更新日志',
         'welcome-welcome': u'欢迎！',
     },
+    # Author: Xqt
     'zh-yue': {
         'welcome-updating': u'Bot: 更新日誌',
         'welcome-welcome': u'歡迎',

@@ -147,7 +147,7 @@ msg = {
     },
     # Author: Siddhartha Ghai
     'hi': {
-        'unlink-unlinking': u'बॉट: "%s" की कड़ी हटा रहा है',
+        'unlink-unlinking': u'बॉट: "%s" की कड़ी हटा रहा है',
     },
     # Author: Dj
     'hu': {

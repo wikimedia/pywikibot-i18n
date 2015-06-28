@@ -261,13 +261,14 @@ msg = {
     },
     # Author: Geraki
     # Author: Glavkos
+    # Author: Protnet
     'el': {
-        'solve_disambiguation-adding-dn-template': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενός ειδικού',
-        'solve_disambiguation-links-removed': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν).',
-        'solve_disambiguation-links-resolved': u'Υποβοηθούμενη από ρομπότ αποσαφήνιση: %(from)s - Αλλαγή συνδέσμου(ων) στο %(to)s',
-        'solve_disambiguation-redirect-adding-dn-template': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ενος ειδικού',
-        'solve_disambiguation-redirect-removed': u'Υποβοηθούμενη αποσαφήνιση από ρομπότ: %(from)s - Σύνδεσμος(οι) αφαιρέθηκε(αν)',
-        'solve_disambiguation-redirect-resolved': u'Υποβοηθούμενη αποσαφήνιση από Ρομπότ: %(from)s - Σύνδεσμος(οι) αλλάχτηκε(αν) προς  %(to)s',
+        'solve_disambiguation-adding-dn-template': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ειδικού',
+        'solve_disambiguation-links-removed': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Ο(οι) σύνδεσμος(οι) αφαιρέθηκε(αν).',
+        'solve_disambiguation-links-resolved': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Αλλαγή συνδέσμου(ων) σε %(to)s',
+        'solve_disambiguation-redirect-adding-dn-template': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Επισημάνθηκε ως χρήζουσα της προσοχής ειδικού',
+        'solve_disambiguation-redirect-removed': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Ο(οι) σύνδεσμος(οι) αφαιρέθηκε(αν)',
+        'solve_disambiguation-redirect-resolved': u'Αποσαφήνιση υποβοηθούμενη από ρομπότ: %(from)s - Ο(οι) σύνδεσμος(οι) αλλάχτηκε(αν) σε %(to)s',
         'solve_disambiguation-unknown-page': u'(άγνωστο)',
     },
     # Author: Gloria sah
@@ -310,10 +311,11 @@ msg = {
     'eu': {
         'solve_disambiguation-unknown-page': u'(ezezaguna)',
     },
+    # Author: Ebraminio
     # Author: Huji
     # Author: ZxxZxxZ
     'fa': {
-        'solve_disambiguation-adding-dn-template': u'ابهام‌زدایی به کمک ربات: %(from)s - علامت‌زدن به عنوان نیازمند توجه متخصص',
+        'solve_disambiguation-adding-dn-template': u'ابهام‌زدایی به کمک ربات: %(from)s - علامت زدن به عنوان نیازمند توجه متخصص',
         'solve_disambiguation-links-removed': u'ابهام‌زدایی به کمک ربات: %(from)s - حذف پیوند(ها).',
         'solve_disambiguation-links-resolved': u'ابهام‌زدایی به کمک ربات: %(from)s - پیوند به [[%(to)s]]',
         'solve_disambiguation-redirect-adding-dn-template': u'ابهام‌زدایی به کمک ربات: %(from)s - علامت‌گذاری به عنوان نیازمند توجه متخصص',

@@ -153,9 +153,10 @@ msg = {
         'cosmetic_changes-append': u'; kozmetik vurnayışi',
         'cosmetic_changes-standalone': u'Boti vurnayışo kozmetik keno',
     },
+    # Author: Protnet
     'el': {
-        'cosmetic_changes-append': u'; διακοσμητικές αλλαγές',
-        'cosmetic_changes-standalone': u'Ρομπότ: διακοσμητικές αλλαγές',
+        'cosmetic_changes-append': u'· αισθητικές αλλαγές',
+        'cosmetic_changes-standalone': u'Ρομπότ: Αισθητικές αλλαγές',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

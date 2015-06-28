@@ -122,8 +122,9 @@ msg = {
         'basic-changing': u'Boto vurneno ...',
     },
     # Author: Glavkos
+    # Author: Protnet
     'el': {
-        'basic-changing': u'Bot: Αλλάζει ...',
+        'basic-changing': u'Ρομπότ: Αλλαγή ...',
     },
     # Author: Gloria sah
     'eml': {

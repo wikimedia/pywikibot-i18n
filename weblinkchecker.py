@@ -149,8 +149,10 @@ msg = {
         'weblinkchecker-summary': u'Bot: Teber gre de rapera xeberkerdış',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
         'weblinkchecker-archive_msg': u'Η ιστοσελίδα έχει αποθηκευτεί από το Internet Archive. Παρακαλούμε να εξετάσετε τη σύνδεση με μια κατάλληλη αρχειοθετημένη έκδοση:  [%(URL)s]',
+        'weblinkchecker-badurl': u'Ο σύνδεσμος που παρέχεται δεν φαίνεται να είναι έγκυρη διεύθυνση URL',
         'weblinkchecker-caption': u'Νεκρός σύνδεσμος',
         'weblinkchecker-report': u'Κατά την διάρκεια αρκετών αυτόματων ελέγχων ο ακόλουθος εξωτερικός σύνδεσμος βρέθηκε να είναι μη διαθέσιμος. Παρακαλούμε ελέγξτε αν ο σύνδεσμος είναι πράγματι νεκρός και διορθώστε τον ή αφαιρέστε τον σε αυτή την περίπτωση!',
         'weblinkchecker-summary': u'Ρομπότ: Αναφορά μη διαθέσιμου εξωτερικού σύνδεσμου',
@@ -286,8 +288,9 @@ msg = {
     # Author: ArdWar
     # Author: C5st4wr6ch
     # Author: Ezagren
+    # Author: Xqt
     'id': {
-        'weblinkchecker-archive_msg': u'Halaman web telah diselamatkan oleh Internet Archive. Silakan mempertimbangkan menghubungkan ke versi arsip yang sesuai: [%(URL)].',
+        'weblinkchecker-archive_msg': u'Halaman web telah diselamatkan oleh Internet Archive. Silakan mempertimbangkan menghubungkan ke versi arsip yang sesuai: [%(URL)s].',
         'weblinkchecker-caption': u'Pranala mati',
         'weblinkchecker-report': u'Selama beberapa bot otomatis berjalan, pranala luar berikut menjadi tidak tersedia. Silakan memeriksa apakah pranala sebenarnya sedang turun dan memperbaiki atau menghapusnya dalam hal ini!',
         'weblinkchecker-summary': u'Bot: Pelaporan pranala luar yang tersedia',

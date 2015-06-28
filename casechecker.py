@@ -144,12 +144,13 @@ msg = {
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
         'casechecker-delete-reason': u'Αυτή η ανακατεύθυνση οδηγούσε στο %(target)s',
-        'casechecker-delete-summary': u'Bot: Αυτή η ανακατεύθυνση περιέχει πανομοιότυπης εμφάνιση Κυριλλικά και Λατινικό γράμματα στον τίτλο',
-        'casechecker-rename': u'Bot: μετονομασία μεικτών πεζών/κεφαλαίων',
+        'casechecker-delete-summary': u'Ρομπότ: Αυτή η ανακατεύθυνση περιέχει πανομοιότυπης εμφάνιση Κυριλλικά και Λατινικά γράμματα στον τίτλο',
+        'casechecker-rename': u'Ρομπότ: μετονομασία μεικτής περίπτωσης Κυριλλικών/Λατινικών',
         'casechecker-replacement-linklist': u'%(source)s→%(target)s',
-        'casechecker-replacement-summary': u'Bot: Αντικαταστάσεις πεζών/κεφαλαίων:',
+        'casechecker-replacement-summary': u'Ρομπότ: Αντικαταστάσεις πεζών/κεφαλαίων:',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

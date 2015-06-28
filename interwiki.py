@@ -1556,10 +1556,11 @@ msg = {
         'interwiki-removing-modifying': u'Robot interwiki: Înlăturat: %(removing)s Modificat: %(modifying)s',
     },
     # Author: Hugo.arg
+    # Author: Xqt
     'roa-tara': {
         'interwiki-adding': u'Robbot Stoche a mette: %(adding)s',
         'interwiki-adding-modifying': u'Robbot Stoche a mette: %(adding)s Stoche a cange: %(modifying)s',
-        'interwiki-adding-removing': u'Robbot Stoche a mette: %(adding)s Stoche a lève: %(modifying)s',
+        'interwiki-adding-removing': u'Robbot Stoche a mette: %(adding)s Stoche a lève: %(removing)s',
         'interwiki-adding-removing-modifying': u'Robbot Stoche a mette: %(adding)s Stoche a lève: %(removing)s Stoche a cange: %(modifying)s',
         'interwiki-modifying': u'Robbot Stoche a cange: %(modifying)s',
         'interwiki-removing': u'Robbot Stoche a lève: %(removing)s',
@@ -2013,6 +2014,7 @@ msg = {
         'interwiki-removing': u'机器人：移除%(removing)s',
         'interwiki-removing-modifying': u'机器人：移除%(removing)s；修改%(modifying)s',
     },
+    # Author: Xqt
     'zh-classical': {
         'interwiki-adding': u'僕 增: %(adding)s',
         'interwiki-adding-modifying': u'僕 增: %(adding)s 修: %(modifying)s',
@@ -2022,6 +2024,7 @@ msg = {
         'interwiki-removing': u'僕 削: %(removing)s',
         'interwiki-removing-modifying': u'僕 削: %(removing)s 修: %(modifying)s',
     },
+    # Author: Xqt
     'zh-min-nan': {
         'interwiki-adding': u'bot ka-thiam: %(adding)s',
         'interwiki-adding-modifying': u'bot ka-thiam: %(adding)s siu-kái: %(modifying)s',

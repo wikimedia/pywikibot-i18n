@@ -80,8 +80,9 @@ msg = {
         'blockpageschecker-summary': u'Bot: Sablone tarixda verin besterneno',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'blockpageschecker-summary': u'Bot: Διαγραφή παρωχημένου πρότυπου',
+        'blockpageschecker-summary': u'Ρομπότ: Διαγραφή παρωχημένου πρότυπου',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {
