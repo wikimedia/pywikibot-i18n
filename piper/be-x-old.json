@@ -4,5 +4,5 @@
 			"Red Winged Duck"
 		]
 	},
-	"piper-edit-summary": "Робат: апрацоўка тэксту артыкула з дапамогай %s"
+	"piper-edit-summary": "Робат: апрацоўка тэксту артыкула з дапамогай %(filters)s"
 }

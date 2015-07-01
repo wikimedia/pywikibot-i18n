@@ -4,5 +4,5 @@
 			"Red Winged Duck"
 		]
 	},
-	"remove_edp_images-edit-summary": "Робат: выпраўленьне выкарыстаньня несвабоднага файла: [[%s]]"
+	"remove_edp_images-edit-summary": "Робат: выпраўленьне выкарыстаньня несвабоднага файла: [[%(title)s]]"
 }
