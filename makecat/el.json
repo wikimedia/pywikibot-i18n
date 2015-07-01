@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"makecat-create": "Bot: Δημιουργία ή ενημέρωση της κατηγορίας [[:Category:%(cat)s|]]"
+	"makecat-create": "Ρομπότ: Δημιουργία ή ενημέρωση της κατηγορίας [[:Category:%(cat)s|]]"
 }

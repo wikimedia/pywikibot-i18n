@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"ndashredir-create": "Bot: Δημιουργία ανακατεύθυνσης με ενωτικό στο [[%(title)s]]"
+	"ndashredir-create": "Ρομπότ: Δημιουργία ανακατεύθυνσης με ενωτικό προς [[%(title)s]]"
 }

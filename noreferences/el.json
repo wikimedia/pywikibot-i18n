@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"noreferences-add-tag": "Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε"
+	"noreferences-add-tag": "Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε",
+	"noreferences-fix-tag": "Ρομπότ: Διόρθωση μη έγκυρης σύνταξης της ετικέτας <references />"
 }

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chaojoker"
+			"Chaojoker",
+			"Xqt"
 		]
 	},
 	"delete-from-category": "Ռոբոտ․ %(page)s կատեգորիայի բոլոր էջերը ջնջվում են",

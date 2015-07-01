@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"pagefromfile-msg": "Bot: Αυτοματοποιημένη εισαγωγή λημμάτων",
-	"pagefromfile-msg_bottom": "προσάρτηση στον πάτο",
-	"pagefromfile-msg_force": "υπάρχον κείμενο αντικαταστάθηκε",
+	"pagefromfile-msg": "Ρομπότ: Αυτοματοποιημένη εισαγωγή σελίδων",
+	"pagefromfile-msg_bottom": "προσάρτηση στο κάτω μέρος",
+	"pagefromfile-msg_force": "το υπάρχον κείμενο αντικαταστάθηκε",
 	"pagefromfile-msg_top": "προσάρτηση στην κορυφή"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"misspelling-fixing": "Bot: Διόρθωση ανορθόγραφου συνδέσμου σε %(page)s"
+	"misspelling-fixing": "Ρομπότ: Διόρθωση ανορθόγραφου συνδέσμου σε %(page)s"
 }

@@ -6,6 +6,6 @@
 	},
 	"category-adding": "Bot: Kadegorie [[:Category:%(newcat)s|%(newcat)s] aigfiecht",
 	"category-also-in": "(aa in %(alsocat)s)",
-	"category-changing": "Bot: %(oldcat)s gä'ännat",
+	"category-changing": "Bot: %(oldcat)s gä'ännat nooch %(newcat)s",
 	"category-removing": "Bot: Aus %(oldcat)s rausgenumme"
 }

@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
-	"cosmetic_changes-append": "; διακοσμητικές αλλαγές",
-	"cosmetic_changes-standalone": "Ρομπότ: διακοσμητικές αλλαγές"
+	"@metadata": {
+		"authors": [
+			"Protnet"
+		]
+	},
+	"cosmetic_changes-append": "· αισθητικές αλλαγές",
+	"cosmetic_changes-standalone": "Ρομπότ: Αισθητικές αλλαγές"
 }

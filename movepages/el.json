@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"movepages-moving": "Μετακίνηση σελίδων με bot"
+	"@metadata": {
+		"authors": [
+			"Protnet"
+		]
+	},
+	"movepages-moving": "Ρομπότ: Μετακίνηση σελίδας"
 }

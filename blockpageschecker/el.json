@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"blockpageschecker-summary": "Bot: Διαγραφή παρωχημένου πρότυπου"
+	"blockpageschecker-summary": "Ρομπότ: Διαγραφή παρωχημένου πρότυπου"
 }

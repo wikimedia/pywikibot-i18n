@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Danmichaelo",
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Xqt"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "erstatter %(tags)s tagg(er)",

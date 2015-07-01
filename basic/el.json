@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Glavkos"
+			"Glavkos",
+			"Protnet"
 		]
 	},
-	"basic-changing": "Bot: Αλλάζει ..."
+	"basic-changing": "Ρομπότ: Αλλαγή ..."
 }

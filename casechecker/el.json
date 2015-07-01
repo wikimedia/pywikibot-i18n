@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
 	"casechecker-delete-reason": "Αυτή η ανακατεύθυνση οδηγούσε στο %(target)s",
-	"casechecker-delete-summary": "Bot: Αυτή η ανακατεύθυνση περιέχει πανομοιότυπης εμφάνιση Κυριλλικά και Λατινικό γράμματα στον τίτλο",
-	"casechecker-rename": "Bot: μετονομασία μεικτών πεζών/κεφαλαίων",
+	"casechecker-delete-summary": "Ρομπότ: Αυτή η ανακατεύθυνση περιέχει πανομοιότυπης εμφάνιση Κυριλλικά και Λατινικά γράμματα στον τίτλο",
+	"casechecker-rename": "Ρομπότ: μετονομασία μεικτής περίπτωσης Κυριλλικών/Λατινικών",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Bot: Αντικαταστάσεις πεζών/κεφαλαίων:"
+	"casechecker-replacement-summary": "Ρομπότ: Αντικαταστάσεις πεζών/κεφαλαίων:"
 }

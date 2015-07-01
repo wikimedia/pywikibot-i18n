@@ -2,14 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Geraki",
-			"Glavkos"
+			"Glavkos",
+			"Protnet"
 		]
 	},
-	"pywikibot-enter-category-name": "Παρακαλώ εισάγετε το όνομα της κατηγορίας:",
-	"pywikibot-enter-file-links-processing": "Συνδέσεις σε ποια σελίδα αρχείου να υποβληθούν σε επεξεργασία;",
+	"pywikibot-enter-category-name": "Παρακαλούμε εισαγάγετε το όνομα της κατηγορίας:",
+	"pywikibot-enter-file-links-processing": "Συνδέσεις προς ποια σελίδα αρχείου να υποβληθούν σε επεξεργασία;",
 	"pywikibot-enter-finished-browser": "Πιέστε το πλήκτρο Enter, όταν τελειώσει στο πρόγραμμα περιήγησης.",
-	"pywikibot-enter-namespace-number": "Παρακαλώ εισάγετε έναν ονοματοχώρο με τον αριθμό του:",
-	"pywikibot-enter-new-text": "Παρακαλώ πληκτρολογήστε το νέο κείμενο:",
+	"pywikibot-enter-namespace-number": "Παρακαλούμε εισαγάγετε ονοματοχώρο μέσω του αριθμού του:",
+	"pywikibot-enter-new-text": "Παρακαλούμε πληκτρολογήστε το νέο κείμενο:",
 	"pywikibot-enter-page-processing": "Ποια σελίδα να υποβληθεί σε επεξεργασία;",
-	"pywikibot-enter-xml-filename": "Παρακαλώ εισάγετε το όνομα του αρχείου XML:"
+	"pywikibot-enter-xml-filename": "Παρακαλούμε εισάγετε το όνομα του αρχείου XML:",
+	"pywikibot-fixes-fckeditor": "Ρομπότ: Επιδιόρθωση του html που προήλθε από εμπλουτισμένο επεξεργαστή",
+	"pywikibot-fixes-html": "Ρομπότ: Μετατροπή/επισκευή HTML",
+	"pywikibot-fixes-syntax": "Ρομπότ: Επιδιόρθωση σύνταξης wiki"
 }

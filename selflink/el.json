@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"selflink-remove": "Bot: Αφαίρεση αυτοσυνδέσμων"
+	"selflink-remove": "Ρομπότ: Αφαίρεση αυτοσυνδέσμων"
 }

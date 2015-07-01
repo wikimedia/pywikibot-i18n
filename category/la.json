@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"UV"
+			"UV",
+			"Xqt"
 		]
 	},
 	"category-adding": "automaton: addens categoriam [[:Category:%(newcat)s|%(newcat)s]]",

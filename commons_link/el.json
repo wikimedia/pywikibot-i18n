@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"commons_link-cat-template-added": "Robot: Προσθήκη προτύπου commonscat",
-	"commons_link-template-added": "Robot: Προσθήκη προτύπου commons"
+	"commons_link-cat-template-added": "Ρομπότ: Συμπερίληψη προτύπου commonscat",
+	"commons_link-template-added": "Ρομπότ: Συμπερίληψη προτύπου commons"
 }

@@ -4,14 +4,15 @@
 			"Armando-Martin",
 			"Benfutbol10",
 			"Macofe",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Fitoschido"
 		]
 	},
 	"pywikibot-enter-category-name": "Introduce el nombre de la categoría:",
 	"pywikibot-enter-file-links-processing": "¿A qué página de archivo se deben procesar los enlaces?",
 	"pywikibot-enter-finished-browser": "Presiona la tecla Enter cuando termine en el navegador.",
 	"pywikibot-enter-namespace-number": "Introduce un espacio de nombres según su número:",
-	"pywikibot-enter-new-text": "Escribe el nuevo texto:",
+	"pywikibot-enter-new-text": "Escribe el texto nuevo:",
 	"pywikibot-enter-page-processing": "¿Qué página se debe procesar?",
 	"pywikibot-enter-xml-filename": "Por favor, introduce el nombre del archivo de descarga XML:",
 	"pywikibot-fixes-html": "Robot: convirtiendo/arreglando HTML",

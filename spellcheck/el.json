@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Glavkos"
+			"Glavkos",
+			"Protnet"
 		]
 	},
-	"spellcheck-checking": "Ορθογραφικός έλεγχος βοηθούμενος από Bot"
+	"spellcheck-checking": "Ορθογραφικός έλεγχος υποβοηθούμενος από ρομπότ"
 }

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gazeb"
+			"Gazeb",
+			"Xqt"
 		]
 	},
 	"category-adding": "Робот: додаваня category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(тыж у %(alsocat)s)",
-	"category-changing": "Робот: зміна %(oldcat)s",
+	"category-changing": "Робот: зміна %(oldcat)s → %(newcat)s",
 	"category-listifying": "Робот: складаня списку %(fromcat)s з (%(num)d записів)",
 	"category-removing": "Робот: одстранїня з %(oldcat)s",
 	"category-replacing": "Робот: заміна катеґорії %(oldcat)s на %(newcat)s",

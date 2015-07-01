@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "僕:復修渡口 → %(to)s"
+}

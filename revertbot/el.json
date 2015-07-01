@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Geraki"
+			"Geraki",
+			"Protnet"
 		]
 	},
-	"revertbot-revert": "Bot: Επαναφορά στην έκδοση %(revid)s από τον %(author)s στις %(timestamp)s"
+	"revertbot-revert": "Ρομπότ: Επαναφορά στην έκδοση %(revid)s από %(author)s στις %(timestamp)s"
 }

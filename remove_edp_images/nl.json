@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"remove_edp_images-edit-summary": "Robot: correctie voor EDP-afbeelding, gebruik [[%(title)s]]"
+}

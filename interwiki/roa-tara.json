@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hugo.arg"
+			"Hugo.arg",
+			"Xqt"
 		]
 	},
 	"interwiki-adding": "Robbot Stoche a mette: %(adding)s",

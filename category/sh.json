@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kolega2357"
+			"Kolega2357",
+			"Xqt"
 		]
 	},
-	"category-adding": "Bot: dodato [[:Category:%(newcat)s|%(newcat",
+	"category-adding": "Bot: dodato [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(i u %(alsocat)s)",
 	"category-changing": "Bot: promijenjeno %(oldcat)s u %(newcat)s",
 	"category-listifying": "Bot: ispisuje iz %(fromcat)s (%(num)d stavki)",
