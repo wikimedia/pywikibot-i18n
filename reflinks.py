@@ -92,10 +92,11 @@ msg = {
         'reflinks-msg': u'Bot: Babetê mıracadê raşti (bıvêne [[%(manual)s|PZP]])',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
         'reflinks-autogen': u'δημιουργήθηκε αυτόματα',
-        'reflinks-comment': u'Τίτλος που δημιουργήθηκε από bot',
-        'reflinks-msg': u'Bot: Μετατροπή απλών αναφορών, χρησιμοποιώντας ονόματα ref για να αποφευχθούν διπλότυπες, δείτε το [[%(manual)s|FAQ]]',
+        'reflinks-comment': u'Τίτλος που δημιουργήθηκε από ρομπότ',
+        'reflinks-msg': u'Ρομπότ: Μετατροπή απλών αναφορών, χρησιμοποιώντας ονόματα ref για να αποφευχθούν διπλότυπα, βλ. [[%(manual)s|Συχνές Ερωτήσεις]]',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {
@@ -188,10 +189,11 @@ msg = {
     },
     # Author: C5st4wr6ch
     # Author: Ezagren
+    # Author: Xqt
     'id': {
         'reflinks-autogen': u'Software otomatis',
         'reflinks-comment': u'Judul yang dihasilkan bot',
-        'reflinks-msg': u'Bot: Mengubah referensi kosong, menggunakan nama ref untuk menghindari duplikat, lihat [[%(manual)|FAQ]]',
+        'reflinks-msg': u'Bot: Mengubah referensi kosong, menggunakan nama ref untuk menghindari duplikat, lihat [[%(manual)s|FAQ]]',
     },
     'it': {
         'reflinks-autogen': u'autogenerato',

@@ -72,8 +72,9 @@ msg = {
         'spellcheck-checking': u'Cerebnayoğê nuşteyanê bot-destegıni',
     },
     # Author: Glavkos
+    # Author: Protnet
     'el': {
-        'spellcheck-checking': u'Ορθογραφικός έλεγχος βοηθούμενος από Bot',
+        'spellcheck-checking': u'Ορθογραφικός έλεγχος υποβοηθούμενος από ρομπότ',
     },
     # Author: Blahma
     'eo': {

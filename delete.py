@@ -116,10 +116,11 @@ msg = {
         'delete-referring-pages': u'Робат: выдаліў усе старонкі, на якія спасылаецца %(page)s',
     },
     # Author: Ezagren
+    # Author: Xqt
     'bjn': {
         'delete-from-category': u'Robot: Mahapus sabarataan tungkaran tumatan tumbung %(page)s',
         'delete-from-file': u'Bot: Mahapus daptar tungkaran.',
-        'delete-images': u'Robot: Mahapus sabarataan gambar pada tungkaran %(page)',
+        'delete-images': u'Robot: Mahapus sabarataan gambar pada tungkaran %(page)s',
         'delete-referring-pages': u'Robot: Mahapus sabarataan tungkaran nang ba-ampah tumatan %(page)s',
     },
     # Author: Tauhid16
@@ -372,10 +373,11 @@ msg = {
         'delete-referring-pages': u'Bot: %(page)s oldalról mutató valamennyi hivatkozás törlése',
     },
     # Author: Chaojoker
+    # Author: Xqt
     'hy': {
         'delete-from-category': u'Ռոբոտ․ %(page)s կատեգորիայի բոլոր էջերը ջնջվում են',
         'delete-from-file': u'Ռոբոտ․ նիշքերի մի ցանկ է ջնջվում։',
-        'delete-images': u'Ռոբոտ․ %(page) էջ[եր]ի բոլոր պատկերները ջնջվում են',
+        'delete-images': u'Ռոբոտ․ %(page)s էջ[եր]ի բոլոր պատկերները ջնջվում են',
         'delete-linked-pages': u'Ռոբոտ․ %(page)s-ից հղված բոլոր էջերը ջնջվում են',
         'delete-referring-pages': u'Ռոբոտ․ %(page)s-ից հղվող բոլոր էջերը ջնջվում են',
     },

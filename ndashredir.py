@@ -88,8 +88,9 @@ msg = {
         'ndashredir-create': u'Boti [[%(title)s]] ra hetanayışi melumatê vıraşt',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'ndashredir-create': u'Bot: Δημιουργία ανακατεύθυνσης με ενωτικό στο [[%(title)s]]',
+        'ndashredir-create': u'Ρομπότ: Δημιουργία ανακατεύθυνσης με ενωτικό προς [[%(title)s]]',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

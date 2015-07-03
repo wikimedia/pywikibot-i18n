@@ -260,12 +260,13 @@ msg = {
     # Author: Evropi
     # Author: Geraki
     # Author: Glavkos
+    # Author: Protnet
     'el': {
         'redirect-fix-broken-moved': u'Ρομπότ: Διόρθωση σπασμένης ανακατεύθυνσης προς την μετακινημένη σελίδα στόχο %(to)s',
-        'redirect-fix-double': u'Ρομπότ: Διόρθωση διπλής ανακατεύθυνσης προς %(to)s',
-        'redirect-fix-loop': u'Ρομπότ: Διόρθωση βρόχου ανακατεύθυνσης στο %(to)s',
+        'redirect-fix-double': u'Ρομπότ: Διόρθωση διπλής ανακατεύθυνσης σε %(to)s',
+        'redirect-fix-loop': u'Ρομπότ: Διόρθωση βρόχου ανακατεύθυνσης σε %(to)s',
         'redirect-remove-broken': u'Ρομπότ: Ανακατεύθυνση σε μια σελίδα διαγεγραμμένη  ή ανύπαρκτη',
-        'redirect-remove-loop': u'Robot: Ανακατεύθυνση στόχου σχηματίζει έναν βρόγχο ανακατεύθυνσης',
+        'redirect-remove-loop': u'Ρομπότ: Ο προορισμός ανακατεύθυνσης σχηματίζει βρόγχο ανακατεύθυνσης',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {
@@ -1006,9 +1007,11 @@ msg = {
         'redirect-remove-broken': u'机器人：重定向到已删除或不存在的页面',
         'redirect-remove-loop': u'机器人：重定向目标构成循环',
     },
+    # Author: Xqt
     'zh-classical': {
         'redirect-fix-double': u'僕:復修渡口 → %(to)s',
     },
+    # Author: Xqt
     'zh-yue': {
         'redirect-fix-double': u'機械人：拉直連串跳轉 → %(to)s',
         'redirect-remove-broken': u'機械人：跳轉目標唔存在',

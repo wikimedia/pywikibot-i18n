@@ -85,9 +85,10 @@ msg = {
         'commons_link-template-added': u'Bot: Binde Commons-Vorlage ein',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
-        'commons_link-cat-template-added': u'Robot: Προσθήκη προτύπου commonscat',
-        'commons_link-template-added': u'Robot: Προσθήκη προτύπου commons',
+        'commons_link-cat-template-added': u'Ρομπότ: Συμπερίληψη προτύπου commonscat',
+        'commons_link-template-added': u'Ρομπότ: Συμπερίληψη προτύπου commons',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

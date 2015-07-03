@@ -76,6 +76,14 @@ msg = {
         'unprotect-ref': u'Bot: Gebe alle Seiten frei, die von %(page)s verweisen',
         'unprotect-simple': u'Bot: Gebe eine Liste mit Dateien frei.',
     },
+    # Author: Protnet
+    'el': {
+        'unprotect-category': u'Ρομπότ: Αφαίρεση προστασίας όλων των σελίδων από την κατηγορία %(cat)s',
+        'unprotect-images': u'Ρομπότ: Αφαίρεση προστασίας όλων των εικόνων στη σελίδα %(page)s',
+        'unprotect-links': u'Ρομπότ: Αφείρεση προστασίας όλων των σελίδων που συνδέονται από την %(page)s',
+        'unprotect-ref': u'Ρομπότ: Αφαίρεση προστασίας όλων των σελίδων που αναφέρονται από την %(page)s',
+        'unprotect-simple': u'Ρομπότ: Αφαίρεση προστασίας λίστας αρχείων.',
+    },
     # Author: KuboF
     'eo': {
         'unprotect-category': u'Roboto: Malprotekto de ĉiuj paĝoj de la kategorio %(cat)s',

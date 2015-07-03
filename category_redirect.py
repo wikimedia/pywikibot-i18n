@@ -266,10 +266,11 @@ msg = {
     },
     # Author: Geraki
     # Author: Glavkos
+    # Author: Protnet
     'el': {
-        'category_redirect-add-template': u'Ρομπότ: προσθήκη  πρότυπου κατηγορίας ανακατεύθυνσης για συντήρηση',
+        'category_redirect-add-template': u'Ρομπότ: Προσθήκη πρότυπου ανακατεύθυνσης κατηγορίας για συντήρηση',
         'category_redirect-change-category': u'Ρομπότ: αλλαγή ανακατευθυνόμενης κατηγορίας [[:%(oldCatLink)s|%(oldCatTitle)s]] σε [[:%(newCatLink)s|%(newCatTitle)s]]',
-        'category_redirect-comment': u'Κατηγορία ανακατεύθυνση συντήρησης ρομπότ',
+        'category_redirect-comment': u'Ρομπότ συντήρησης ανακατεύθυνσης κατηγορίας',
         'category_redirect-edit-request': u'Οι ακόλουθες προστατευμένες σελίδες έχουν ανιχνευθεί ως χρήζουσες ενημέρωσης στις συνδέσεις κατηγορίας: %(itemlist)s',
         'category_redirect-edit-request-item': u'Το %(title)s είναι στην %(oldcat)s, η οποία είναι ανακατεύθυνση στην %(newcat)s',
         'category_redirect-fix-double': u'Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης',

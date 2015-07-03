@@ -95,8 +95,9 @@ msg = {
     'diq': {
         'movepages-moving': u'Boti pela wedarne',
     },
+    # Author: Protnet
     'el': {
-        'movepages-moving': u'Μετακίνηση σελίδων με bot',
+        'movepages-moving': u'Ρομπότ: Μετακίνηση σελίδας',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

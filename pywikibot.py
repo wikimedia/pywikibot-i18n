@@ -249,14 +249,18 @@ msg = {
     },
     # Author: Geraki
     # Author: Glavkos
+    # Author: Protnet
     'el': {
-        'pywikibot-enter-category-name': u'Παρακαλώ εισάγετε το όνομα της κατηγορίας:',
-        'pywikibot-enter-file-links-processing': u'Συνδέσεις σε ποια σελίδα αρχείου να υποβληθούν σε επεξεργασία;',
+        'pywikibot-enter-category-name': u'Παρακαλούμε εισαγάγετε το όνομα της κατηγορίας:',
+        'pywikibot-enter-file-links-processing': u'Συνδέσεις προς ποια σελίδα αρχείου να υποβληθούν σε επεξεργασία;',
         'pywikibot-enter-finished-browser': u'Πιέστε το πλήκτρο Enter, όταν τελειώσει στο πρόγραμμα περιήγησης.',
-        'pywikibot-enter-namespace-number': u'Παρακαλώ εισάγετε έναν ονοματοχώρο με τον αριθμό του:',
-        'pywikibot-enter-new-text': u'Παρακαλώ πληκτρολογήστε το νέο κείμενο:',
+        'pywikibot-enter-namespace-number': u'Παρακαλούμε εισαγάγετε ονοματοχώρο μέσω του αριθμού του:',
+        'pywikibot-enter-new-text': u'Παρακαλούμε πληκτρολογήστε το νέο κείμενο:',
         'pywikibot-enter-page-processing': u'Ποια σελίδα να υποβληθεί σε επεξεργασία;',
-        'pywikibot-enter-xml-filename': u'Παρακαλώ εισάγετε το όνομα του αρχείου XML:',
+        'pywikibot-enter-xml-filename': u'Παρακαλούμε εισάγετε το όνομα του αρχείου XML:',
+        'pywikibot-fixes-fckeditor': u'Ρομπότ: Επιδιόρθωση του html που προήλθε από εμπλουτισμένο επεξεργαστή',
+        'pywikibot-fixes-html': u'Ρομπότ: Μετατροπή/επισκευή HTML',
+        'pywikibot-fixes-syntax': u'Ρομπότ: Επιδιόρθωση σύνταξης wiki',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {
@@ -285,6 +289,7 @@ msg = {
     },
     # Author: Armando-Martin
     # Author: Benfutbol10
+    # Author: Fitoschido
     # Author: Macofe
     # Author: MarcoAurelio
     'es': {
@@ -292,7 +297,7 @@ msg = {
         'pywikibot-enter-file-links-processing': u'¿A qué página de archivo se deben procesar los enlaces?',
         'pywikibot-enter-finished-browser': u'Presiona la tecla Enter cuando termine en el navegador.',
         'pywikibot-enter-namespace-number': u'Introduce un espacio de nombres según su número:',
-        'pywikibot-enter-new-text': u'Escribe el nuevo texto:',
+        'pywikibot-enter-new-text': u'Escribe el texto nuevo:',
         'pywikibot-enter-page-processing': u'¿Qué página se debe procesar?',
         'pywikibot-enter-xml-filename': u'Por favor, introduce el nombre del archivo de descarga XML:',
         'pywikibot-fixes-html': u'Robot: convirtiendo/arreglando HTML',
@@ -654,6 +659,9 @@ msg = {
         'pywikibot-enter-new-text': u'ദയവായി പുതിയ എഴുത്ത് നൽകുക:',
         'pywikibot-enter-page-processing': u'ഏത് താളാണ് ഉപയോഗിക്കേണ്ടത്?',
         'pywikibot-enter-xml-filename': u'ദയവായി എക്സ്.എം.എൽ. ഡമ്പിന്റെ ഫയൽനേം നൽകുക:',
+        'pywikibot-fixes-fckeditor': u'യന്ത്രം: വിപുല-തിരുത്തൽ എച്ച്.റ്റി.എം.എൽ. ശരിയാക്കുന്നു',
+        'pywikibot-fixes-html': u'യന്ത്രം: എച്ച്.റ്റി.എം.എൽ. മാറ്റുന്നു/ശരിയാക്കുന്നു',
+        'pywikibot-fixes-syntax': u'യന്ത്രം: വിക്കി എഴുത്തുരീതി ശരിയാക്കുന്നു',
     },
     # Author: Anakmalaysia
     'ms': {

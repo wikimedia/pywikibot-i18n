@@ -55,6 +55,12 @@ msg = {
         'undelete-images': u'Bot: Stelle alle Bilder auf der Seite %(page)s wieder her',
         'undelete-linked-pages': u'Bot: Stelle alle Seiten wieder her, die von %(page)s verlinkt sind',
     },
+    # Author: Protnet
+    'el': {
+        'undelete-from-file': u'Ρομπότ: Επαναφορά λίστας διαγεγραμμένων σελίδων',
+        'undelete-images': u'Ρομπότ: Επαναφορά όλων των διαγεγραμμένων εικόνων στη σελίδα %(page)s',
+        'undelete-linked-pages': u'Ρομπότ: Επαναφορά όλων των διαγεγραμμένων σελίδων που συνδέονται από την %(page)s',
+    },
     # Author: KuboF
     'eo': {
         'undelete-from-file': u'Roboto: Restarigado de listo de paĝoj',
@@ -152,6 +158,12 @@ msg = {
         'undelete-from-file': u'Бот: Отповикано бришење на список на страници',
         'undelete-images': u'Бот: Отповикано бришење на сите слики на страницата %(page)s',
         'undelete-linked-pages': u'Бот: Отповикано бришење на сите страници што водат од %(page)s',
+    },
+    # Author: Praveenp
+    'ml': {
+        'undelete-from-file': u'യന്ത്രം: പട്ടികയിലെ താളുകൾ പുനഃസ്ഥാപിക്കുന്നു',
+        'undelete-images': u'യന്ത്രം: %(page)s താളിലെ എല്ലാ ചിത്രങ്ങളും പുനഃസ്ഥാപിക്കുന്നു',
+        'undelete-linked-pages': u'യന്ത്രം: %(page)s എന്ന താളിൽ നിന്ന് കണ്ണി ചേർത്തിട്ടുള്ള എല്ലാ താളുകളും പുനഃസ്ഥാപിക്കുന്നു',
     },
     # Author: Anakmalaysia
     'ms': {

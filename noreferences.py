@@ -117,8 +117,10 @@ msg = {
         'noreferences-add-tag': u'Boti etiketo ke kemiyo <references /> o dekerd de',
     },
     # Author: Geraki
+    # Author: Protnet
     'el': {
         'noreferences-add-tag': u'Ρομπότ: προσθήκη ετικέτας <references /> που δεν υπήρχε',
+        'noreferences-fix-tag': u'Ρομπότ: Διόρθωση μη έγκυρης σύνταξης της ετικέτας <references />',
     },
     # Author: Chase me ladies, I'm the Cavalry
     'en-gb': {

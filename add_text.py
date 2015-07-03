@@ -447,8 +447,9 @@ msg = {
         'add_text-adding': u'रोबोट: थप्दै %(adding)s',
     },
     # Author: Eukesh
+    # Author: Xqt
     'new': {
-        'add_text-adding': u'%(adding)त तनाच्वंगु दु।',
+        'add_text-adding': u'%(adding)s त तनाच्वंगु दु।',
     },
     'nl': {
         'add_text-adding': u'Robot: toegevoegd %(adding)s',
@@ -627,8 +628,9 @@ msg = {
         'add_text-adding': u'робот кушты %(adding)s',
     },
     # Author: SuKhDug
+    # Author: Xqt
     'tyv': {
-        'add_text-adding': u'Немээр %(немелде)лер%',
+        'add_text-adding': u'Немээр %(adding)s лер%',
     },
     # Author: Tifinaghes
     'tzm': {
@@ -686,6 +688,7 @@ msg = {
     'zh': {
         'add_text-adding': u'机器人：添加%(adding)s',
     },
+    # Author: Xqt
     'zh-classical': {
         'add_text-adding': u'僕 增 %(adding)s',
     },
