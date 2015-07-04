@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Chase me ladies, I'm the Cavalry"
-		]
-	},
-	"makecat-create": "Bot: Creation or update of category [[:Category:%(cat)s|]]"
-}

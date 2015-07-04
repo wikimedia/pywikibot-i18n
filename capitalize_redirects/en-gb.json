@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Chase me ladies, I'm the Cavalry"
-		]
-	},
-	"capitalize_redirects-create-redirect": "Bot: Create redirect to [[%(to)s]]"
-}
