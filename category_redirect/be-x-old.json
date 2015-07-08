@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko"
+		]
+	},
+	"category_redirect-add-template": "Робат: дадаў шаблён перанакіраваньня катэгорыі",
+	"category_redirect-change-category": "Робат: зьмяніў перанакіраваную катэгорыю [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Робат падтрымкі перанакіраваньняў катэгорыяў",
+	"category_redirect-edit-request": "Наступныя абароненыя старонкі патрабуюць абнаўленьня спасылак на катэгорыю: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s знаходзіцца ў %(oldcat)s, якая перанакіраваная на %(newcat)s",
+	"category_redirect-fix-double": "Робат: выпраўленьне падвойнага перанакіраваньня"
+}

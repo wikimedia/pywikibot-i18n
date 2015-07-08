@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Chlämens",
+			"Als-Holder"
+		]
+	},
+	"delete-from-category": "Bötli: Due alli Syte in de Kategori %(page)s lösche",
+	"delete-from-file": "Bot: Lischt vu Syte glescht.",
+	"delete-images": "Bötli: due alli Bilder uff de Syte %(page)s lösche",
+	"delete-linked-pages": "Bötli: Due alli Syte, wo uff %(page)s verlinkt sin, lösche",
+	"delete-referring-pages": "Bötli: due alli Syte, wo uff %(page)s verwyyse, lösche"
+}

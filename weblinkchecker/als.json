@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"weblinkchecker-archive_msg": "D Websyte isch vum Internet Archive gspycheret wore. Bitte due u. U. en archivierti Version verlinke: [%(URL)s].",
+	"weblinkchecker-caption": "Tote Weblink",
+	"weblinkchecker-report": "Bi mehrere automatisierte Botlaif isch dä Weblink as nit verfiegbar erkännt wore. Bitte iberprief, eb s dr Link wirkli nimi git, un due ne korrigiere oder imfall uuseneh!",
+	"weblinkchecker-summary": "Bot: Nit verfiegbari Weblink ufzelle"
+}

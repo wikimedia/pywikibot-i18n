@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"undelete-from-file": "Робат: аднаўленьне сьпісу старонак",
+	"undelete-images": "Робат: аднаўленьне ўсіх выяваў на старонцы %(page)s",
+	"undelete-linked-pages": "Робат: аднаўленьне ўсіх старонак, на якія ёсьць спасылкі з %(page)s"
+}

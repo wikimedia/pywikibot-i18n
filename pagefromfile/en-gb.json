@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chase me ladies, I'm the Cavalry"
+		]
+	},
+	"pagefromfile-msg": "Bot: Automated import of articles",
+	"pagefromfile-msg_bottom": "appending text to the bottom of the page",
+	"pagefromfile-msg_force": "existing text overwritten",
+	"pagefromfile-msg_top": "prepending text to the top of the page"
+}

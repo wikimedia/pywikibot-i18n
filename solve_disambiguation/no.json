@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Laaknor",
+			"Nghtwlkr"
+		]
+	},
+	"solve_disambiguation-adding-dn-template": "Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp",
+	"solve_disambiguation-links-removed": "bot: Retter lenke til peker: %(from)s - Fjernet lenke(r)",
+	"solve_disambiguation-links-resolved": "bot: Retter lenke til peker: %(from)s - Endret lenke(r) til %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Robothjulpet løsing av flertydig lenke: %(from)s – trenger eksperthjelp",
+	"solve_disambiguation-redirect-removed": "bot: Endrer omdirigeringslenke: %(from)s - Fjernet lenke(r)",
+	"solve_disambiguation-redirect-resolved": "bot: Endrer omdirigeringslenke: %(from)s - Endret lenke(r) til %(to)s",
+	"solve_disambiguation-unknown-page": "(ukjent)"
+}

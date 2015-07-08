@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr"
+		]
+	},
+	"featured-featured": "bot: %(page)s er en utmerka artikkel",
+	"featured-former": "Bot: %(page)s er en tidligere utmerket artikkel",
+	"featured-good": "bot: %(page)s er en anbefalt artikkel",
+	"featured-list": "Bot: %(page)s er en utmerket liste"
+}

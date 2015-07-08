@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder",
+			"Xqt"
+		]
+	},
+	"redirect-broken-redirect-template": "{{delete}}Wyterleitig wo kaputt isch",
+	"redirect-fix-broken-moved": "Bot: Kaputtigi Wyterleitig uf di verschobe Ziilsyte %(to)s repariert",
+	"redirect-fix-double": "Bötli: Uflösig vun de doppleti Wyterleitig zue %(to)s",
+	"redirect-fix-loop": " Bot: Wyterleitigschlupf uf %(to)s korrigiert",
+	"redirect-remove-broken": "Bötli: Wyterleitigsziil git s nit",
+	"redirect-remove-loop": "Bot: Wyterleitig goht im ringrum"
+}

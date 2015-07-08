@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"spamremove-remove": "Выдаленьне спам-спасылак на сайт %(url)s"
+}

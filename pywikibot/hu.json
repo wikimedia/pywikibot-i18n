@@ -12,5 +12,7 @@
 	"pywikibot-enter-namespace-number": "Add meg a névteret a számával:",
 	"pywikibot-enter-new-text": "Add meg az új szöveget:",
 	"pywikibot-enter-page-processing": "Melyik lapot kell feldolgozni?",
-	"pywikibot-enter-xml-filename": "Add meg az XML dump fájl nevét:"
+	"pywikibot-enter-xml-filename": "Add meg az XML dump fájl nevét:",
+	"pywikibot-fixes-html": "Robot: HTML konvertálása/javítása",
+	"pywikibot-fixes-syntax": "Robot: Wiki jelölőnyelv javítása"
 }

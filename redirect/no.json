@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo"
+		]
+	},
+	"redirect-broken-redirect-template": "{{hurtigslett|Feilaktig omdirigering}}",
+	"redirect-fix-broken-moved": "bot: Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet",
+	"redirect-fix-double": "robot: Retter dobbel omdirigering til %(to)s",
+	"redirect-fix-loop": "Robot: Fikser omdirigeringsløkke til %(to)s",
+	"redirect-remove-broken": "Robot: Målet for omdirigeringen eksisterer ikke",
+	"redirect-remove-loop": "Robot: Målet for omdirigeringen danner en omdirigeringsløkke"
+}

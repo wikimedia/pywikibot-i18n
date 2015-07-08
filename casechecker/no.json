@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cocu"
+		]
+	},
+	"casechecker-delete-reason": "Denne omdirigeringen pekte tidligere på %(target)s",
+	"casechecker-delete-summary": "Robot: Denne omdirigeringen inneholder kyrilliske og latinske bokstaver i tittelen som er identiske av utseende",
+	"casechecker-rename": "Robot: Omdøping på grunn av blandede store og små bokstaver",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Robot: Erstatter versaler"
+}

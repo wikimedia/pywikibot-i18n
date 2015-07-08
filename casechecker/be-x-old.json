@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"casechecker-delete-reason": "Гэтае перанакіраваньне выкарыстоўваецца для ўказаньня на %(target)s",
+	"casechecker-delete-summary": "Робат: гэтае перанакіраваньне ўтрымлівае ў назьве сумесь кірылічных і лацінскіх літараў",
+	"casechecker-rename": "Робат: перайменаваньне зьмяшаных альфабэтаў",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Робат: замены рэгістру:"
+}

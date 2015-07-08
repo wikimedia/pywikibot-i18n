@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helland"
+		]
+	},
+	"undelete-from-file": "Gjenoppretter en liste med sider",
+	"undelete-images": "Robot: Gjenoppretter alle bilder på %(page)s",
+	"undelete-linked-pages": "Robot: Gjenoppretter alle sider lenket fra %(page)s"
+}

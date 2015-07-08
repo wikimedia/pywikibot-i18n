@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"DrTrigon",
+			"EugeneZelenko",
+			"Jim-by",
+			"Renessaince"
+		]
+	},
+	"thirdparty-drtrigonbot-subster-summary-mod": "замена %(tags)s цэтлікаў",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Абмеркаваньне зьмененае",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Абмеркаваньне закрытае",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ПАВЕДАМЛЕНЬНЕ РОБАТА",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Новае абмеркаваньне",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Абвяшчэньне",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s — [%(history_link)s апошняе рэдагаваньне] (%(page_size)s байт(ы/аў)) %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s усе абмеркаваньні скончаныя (сачэньне спыненае) — апошняе рэдагаваньне %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nСтворанае апісаньне з і на: %(sign)s</noinclude>",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(няма рэдагаваньняў зробленых чалавекам)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> — апошняе рэдагаваньне [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Папярэджаньне робата: %(page)s «''%(warning)s''»",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Дададзенае кароткае апісаньне абмеркаваньня: %(num)i запіс(ы/аў)",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Дададзенае апісаньне абмеркаваньня з папраўкамі: %(num)i запіс(ы/аў)",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "робат",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Абноўленае апісаньне абмеркаваньня: %(num)i запіс(ы/аў) у %(page)s"
+}

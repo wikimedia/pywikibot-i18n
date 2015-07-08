@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder",
+			"Xqt"
+		]
+	},
+	"interwiki-adding": "Bötli: Ygfüegt: %(adding)s",
+	"interwiki-adding-modifying": "Bötli: Ygfüegt: %(adding)s Gändret: %(modifying)s",
+	"interwiki-adding-removing": "Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bötli: Ygfüegt: %(adding)s Ussergnoh: %(removing)s Gändret: %(modifying)s",
+	"interwiki-modifying": "Bötli: Gändret: %(modifying)s",
+	"interwiki-modifying-from": "Bötli: Due %(from)s zue %(modifying)s ändere",
+	"interwiki-removing": "Bötli: Ussegnuu: %(removing)s",
+	"interwiki-removing-modifying": "Bötli: Ussegnuu: %(removing)s Gändret: %(modifying)s"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chase me ladies, I'm the Cavalry"
+		]
+	},
+	"featured-featured": "Bot: %(page)s is a Featured Article",
+	"featured-former": "Bot: %(page)s is a former Featured Article",
+	"featured-good": "Bot: %(page)s is a Good Article",
+	"featured-list": "Bot: %(page)s is a Featured List"
+}

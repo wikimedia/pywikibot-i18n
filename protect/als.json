@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"protect-category": "Bot: Alli Syten in dr Kategori %(cat)s gschitzt",
+	"protect-images": "Bot: Alli Bilder uf dr Syte %(page)s gschitzt",
+	"protect-links": "Bot: Due alli Syte, wu vu %(page)s verlinkt sin, schitze",
+	"protect-ref": "Bot: Alli Syte gschitzt, wu uf %(page)s verlinke",
+	"protect-simple": "Bot: E Lischt vu Dateie gschitzt."
+}

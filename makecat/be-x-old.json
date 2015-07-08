@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"makecat-create": "Робат: стварэньне або абнаўленьне катэгорыі [[:Category:%(cat)s|]]"
+}

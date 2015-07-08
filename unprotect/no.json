@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo"
+		]
+	},
+	"unprotect-category": "Bot: Fjerner beskyttelse fra sider i kategorien %(cat)s",
+	"unprotect-images": "Bot: Fjerner beskyttelse fra alle bilder på siden %(page)s",
+	"unprotect-links": "Bot: Fjerner beskyttelse fra alle sider lenket fra %(page)s",
+	"unprotect-ref": "Bot: Fjerner beskyttelse fra alle sider som peker til %(page)s",
+	"unprotect-simple": "Bot: Fjerner beskyttelse fra en liste av filer."
+}

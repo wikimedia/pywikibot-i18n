@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cocu"
+		]
+	},
+	"protect-category": "Robot: Beskytter alle sider i kategorien %(cat)s",
+	"protect-images": "Robot: Beskytter alle bilder på siden %(page)s",
+	"protect-links": "Robot: Beskytter alle sider som lenkes fra %(page)s",
+	"protect-ref": "Robot: Beskytter alle sider som lenker fra %(page)s",
+	"protect-simple": "Robot: Beskytter en liste av filer."
+}

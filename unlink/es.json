@@ -3,8 +3,9 @@
 		"authors": [
 			"Armando-Martin",
 			"Fitoschido",
-			"Xqt"
+			"Xqt",
+			"Macofe"
 		]
 	},
-	"unlink-unlinking": "Robot: Desvinculación de «%(title)s»"
+	"unlink-unlinking": "Bot: desvinculación de «%(title)s»"
 }

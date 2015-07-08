@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lokal Profil"
+		]
+	},
+	"welcome-bad_username": "Bot: Legger til et brukernavn som må sjekkes",
+	"welcome-updating": "Bot: Oppdaterer logg",
+	"welcome-welcome": "Velkommen!"
+}

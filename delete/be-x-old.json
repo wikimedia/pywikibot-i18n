@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Red Winged Duck"
+		]
+	},
+	"delete-from-category": "Робат: выдаліў усе старонкі з катэгорыі %(page)s",
+	"delete-from-file": "Робат: выдаленьне сьпісу старонак.",
+	"delete-images": "Робат: выдаліў усе выявы на старонцы %(page)s",
+	"delete-linked-pages": "Робат: выдаліў усе старонкі зьвязаныя з %(page)s",
+	"delete-referring-pages": "Робат: выдаліў усе старонкі, на якія спасылаецца %(page)s"
+}

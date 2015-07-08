@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko"
+		]
+	},
+	"template-changing": "Робат: зьмяніў{{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s",
+	"template-removing": "Робат: выдаліў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s",
+	"template-substituting": "Робат: падставіў {{PLURAL:%(num)d|шаблён|шаблёны|шаблёнаў}}: %(list)s"
+}

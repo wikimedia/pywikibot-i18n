@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gallaecio"
+			"Gallaecio",
+			"Elisardojm"
 		]
 	},
-	"followlive-blanking": "Baleirouse. Contiña «%(content)s»."
+	"followlive-blanking": "Baleirouse, contiña '%(content)s'."
 }

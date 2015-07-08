@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jim-by"
+		]
+	},
+	"solve_disambiguation-adding-dn-template": "Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — пазначаная як патрабуючая увагі экспэртаў",
+	"solve_disambiguation-links-removed": "Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — выдаленая спасылка(і).",
+	"solve_disambiguation-links-resolved": "Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — зьмененая спасылка(і) на %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — пазначаная як патрабуючая ўвагі экспэртаў",
+	"solve_disambiguation-redirect-removed": "Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — выдаленая спасылка(і)",
+	"solve_disambiguation-redirect-resolved": "Аўтаматычнае выпраўленьне неадназначнасьцяў: %(from)s — зьмененая спасылка(і) на %(to)s",
+	"solve_disambiguation-unknown-page": "(невядома)"
+}

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hashar"
+			"Hashar",
+			"Gomoko"
 		]
 	},
-	"followlive-blanking": "blanchit, le contenu était '%(content)s'"
+	"followlive-blanking": "blanchi, le contenu était '%(content)s'."
 }

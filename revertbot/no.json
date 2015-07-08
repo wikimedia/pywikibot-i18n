@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cocu"
+		]
+	},
+	"revertbot-revert": "Robot: Satte tilbake til versjon %(revid)s av %(author)s %(timestamp)s"
+}

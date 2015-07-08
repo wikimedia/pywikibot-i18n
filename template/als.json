@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Chlämens"
+		]
+	},
+	"template-changing": "Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ändere: %(list)s",
+	"template-removing": "Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} ussenee: %(list)s",
+	"template-substituting": "Bötli: Due d {{PLURAL:%(num)d|Vorlag|Vorlage}} usstuusche: %(list)s"
+}

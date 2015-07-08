@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chase me ladies, I'm the Cavalry"
+		]
+	},
+	"delete-from-category": "Bot: Deleting all pages from category %(page)s",
+	"delete-from-file": "Bot: Deleting a list of pages.",
+	"delete-images": "Bot: Deleting all images on page %(page)s",
+	"delete-linked-pages": "Bot: Deleting all pages linked from %(page)s",
+	"delete-referring-pages": "Bot: Deleting all pages referring from %(page)s"
+}

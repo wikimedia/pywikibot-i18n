@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Red Winged Duck"
+		]
+	},
+	"noreferences-add-tag": "Робат: дадаў адсутнічаючы тэг <references />",
+	"noreferences-fix-tag": "Робат: выпраўленьне няслушнага сынтаксысу тэгу <references />"
+}

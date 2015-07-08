@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chase me ladies, I'm the Cavalry"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|File]] moved to [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "File is now available on [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

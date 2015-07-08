@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "機械人：拉直連串跳轉 → %(to)s",
+	"redirect-remove-broken": "機械人：跳轉目標唔存在"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck",
+			"Renessaince"
+		]
+	},
+	"pywikibot-enter-category-name": "Калі ласка, увядзіце назву катэгорыі:",
+	"pywikibot-enter-file-links-processing": "Спасылкі на які файл патрэбна апрацаваць?",
+	"pywikibot-enter-finished-browser": "Націсьніце Enter, калі скончыце рэдагаваньне ў броўзэры.",
+	"pywikibot-enter-namespace-number": "Калі ласка, увядзіце нумар прасторы імёнаў:",
+	"pywikibot-enter-new-text": "Калі ласка, увядзіце новы тэкст:",
+	"pywikibot-enter-page-processing": "Якую старонку патрэбна апрацаваць?",
+	"pywikibot-enter-xml-filename": "Калі ласка, увядзіце назву файлу дампу XML:",
+	"pywikibot-fixes-fckeditor": "Робат: выпраўленьне html-разьметкі рэдактару ўзбагачанага тэксту",
+	"pywikibot-fixes-html": "Бот: карэкцыя HTML",
+	"pywikibot-fixes-syntax": "Бот выпраўляе вiкi-сынтаксiс"
+}

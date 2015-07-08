@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ex13"
+			"Ex13",
+			"Teoo3"
 		]
 	},
 	"redirect-fix-double": "Bot: Popravak dvostrukih preusmjeravanja → %(to)s",
-	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Preusmjeravanje] na obrisanu ili nepostojeću stranicu",
-	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: Cilj [[Wikipedia:Redirect|preusmjeravanja]] stvara petlju na sebe"
+	"redirect-remove-broken": "Bot: Preusmjereno na izbrisanu ili nepostojeću stranicu",
+	"redirect-remove-loop": "Bot: Cilj preusmjeravanja stvara petlju preusmjeravanja"
 }

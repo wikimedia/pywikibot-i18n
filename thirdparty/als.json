@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Chlämens",
+			"Als-Holder"
+		]
+	},
+	"thirdparty-drtrigonbot-subster-summary-mod": "%(tags)s tag(s) substituiert",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Diskussion veränderet",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskussion abgschlosse",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT MESSAGE",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nöii Diskussion",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Mitteilig",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s letschti Bearbeitig] (%(page_size)s Bytes) vo %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s alli Diskussione sin abgschlosse worde (Überwachig gstoppt) - letschti Bearbeitig vo %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nZämmefassig erstellt vo un um: %(sign)s</noinclude>",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(kei mänschliche Benutzer gfunde)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - letschti Bearbeitg vum [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Bötli Warnmäldig: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Diskussions-Zämmefassig dezuegfiegt (%(num)i Yyträg)",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Diskussions-Zämmefassig dezuegfiegt un uffgrüümt (%(num)i Yyträg)",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "Bötli:",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Diskussions-Zämmefassig aktualisiert (%(num)i Yyträg in %(page)s)"
+}

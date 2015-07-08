@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr"
+		]
+	},
+	"category_redirect-add-template": "Robot: legger til kategoriomdirigeringsmal for vedlikehold",
+	"category_redirect-change-category": "Robot: endre omdirigert kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] to [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Vedlikeholdsbot for kategoriomdirigering",
+	"category_redirect-edit-request": "Det har blitt oppdaget at følgende beskyttede sider krever oppdateringer til kategorilenker: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s",
+	"category_redirect-fix-double": "robot: Retter dobbel omdirigering"
+}

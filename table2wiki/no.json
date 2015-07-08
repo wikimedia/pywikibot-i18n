@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"table2wiki-no-warning": "bot: Konverter tabellsyntaks",
+	"table2wiki-warnings": "bot: Konverterer tabellsyntaks – {{PLURAL:count|1 advarsel|%(count)d advarsler}}!"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"pywikibot-enter-category-name": "Bitte gib dr Name vu dr Kategori yy:",
+	"pywikibot-enter-file-links-processing": "Vu wellere Dateisyte solle d Link bearbeitet wäre?",
+	"pywikibot-enter-finished-browser": "Druck noch eme Zuemache vum Browsewr uf «Enter».",
+	"pywikibot-enter-namespace-number": "Bitte gib d Nummere vum Namensruum yy:",
+	"pywikibot-enter-new-text": "Bitte gib dr nei Text yy:",
+	"pywikibot-enter-page-processing": "Weli Syte soll bearbeitet wäre?",
+	"pywikibot-enter-xml-filename": "Bitte gib dr Datename vum XML-Dump yy:"
+}

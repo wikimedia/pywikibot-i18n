@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Protnet"
+			"Protnet",
+			"Xqt"
 		]
 	},
 	"piper-edit-summary": "Ρομπότ: Διοχέτευση του κειμένου της σελίδας μέσω του %(filters)s"

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Chlämens",
+			"Xqt"
+		]
+	},
+	"table2wiki-no-warning": "Bötli: Tabellesyntax aktualisiert",
+	"table2wiki-warnings": "Bötli: Tabellesyntax aktualisiert - {{PLURAL:count|ei Warnig|%(count)d Warnige}}!"
+}

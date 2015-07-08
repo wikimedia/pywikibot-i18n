@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jim-by"
+		]
+	},
+	"welcome-bad_username": "Робат: дадаў імя карыстальніка, якое неабходна праверыць",
+	"welcome-updating": "Робат: журнал абнаўленьняў",
+	"welcome-welcome": "Вітаем!"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jim-by"
+		]
+	},
+	"featured-featured": "Робат: %(page)s — абраны артыкул",
+	"featured-former": "Робат: %(page)s зьяўляўся абраным артыкулам у мінулым",
+	"featured-good": "Робат: %(page)s зьяўляецца добрым артыкулам",
+	"featured-list": "Робат: %(page)s зьяўляецца абраных сьпісам"
+}

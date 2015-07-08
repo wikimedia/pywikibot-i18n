@@ -3,7 +3,8 @@
 		"authors": [
 			"C5st4wr6ch",
 			"Ilham151096",
-			"Ezagren"
+			"Ezagren",
+			"Kenrick95"
 		]
 	},
 	"pywikibot-enter-category-name": "Silakan masukkan nama kategori:",
@@ -12,5 +13,7 @@
 	"pywikibot-enter-namespace-number": "Silakan masukkan ruang nama berdasarkan nomornya:",
 	"pywikibot-enter-new-text": "Masukkan teks baru:",
 	"pywikibot-enter-page-processing": "Halaman yang harus diproses?",
-	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas XML dump:"
+	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas XML dump:",
+	"pywikibot-fixes-html": "Robot: Mengubah/memperbaiki HTML",
+	"pywikibot-fixes-syntax": "Robot: Memperbaiki sintaks wiki"
 }
