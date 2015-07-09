@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Danmichaelo"
-		]
-	},
-	"ndashredir-create": "Bot: Oppretter omdirigering med bindestrek til [[%(title)s]]"
-}

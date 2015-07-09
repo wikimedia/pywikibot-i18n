@@ -1,9 +1,0 @@
-{
-	"interwiki-adding": "robots Pridedama: %(adding)s",
-	"interwiki-adding-modifying": "robots Pridedama: %(adding)s Keitama: %(modifying)s",
-	"interwiki-adding-removing": "robots Pridedama: %(adding)s Trėnama: %(removing)s",
-	"interwiki-adding-removing-modifying": "robots Pridedama: %(adding)s Trėnama: %(removing)s Keitama: %(modifying)s",
-	"interwiki-modifying": "robots Keitama: %(modifying)s",
-	"interwiki-removing": "robots Trėnama: %(removing)s",
-	"interwiki-removing-modifying": "robots Trėnama: %(removing)s Keitama: %(modifying)s"
-}

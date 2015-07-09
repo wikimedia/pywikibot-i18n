@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Xqt"
-		]
-	},
-	"category-adding": "robote: Adid category [[:Category:%(newcat)s|%(newcat)s]]"
-}

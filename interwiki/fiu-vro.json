@@ -1,9 +1,0 @@
-{
-	"interwiki-adding": "robot manopandminõ: %(adding)s",
-	"interwiki-adding-modifying": "robot manopandminõ: %(adding)s tävvendämine: %(modifying)s",
-	"interwiki-adding-removing": "robot manopandminõ: %(adding)s ärqvõtminõ: %(removing)s",
-	"interwiki-adding-removing-modifying": "robot manopandminõ: %(adding)s ärqvõtminõ: %(removing)s tävvendämine: %(modifying)s",
-	"interwiki-modifying": "robot tävvendämine: %(modifying)s",
-	"interwiki-removing": "robot ärqvõtminõ: %(removing)s",
-	"interwiki-removing-modifying": "robot ärqvõtminõ: %(removing)s tävvendämine: %(modifying)s"
-}
