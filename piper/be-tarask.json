@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Xqt"
 		]
 	},
 	"piper-edit-summary": "Робат: апрацоўка тэксту артыкула з дапамогай %(filters)s"

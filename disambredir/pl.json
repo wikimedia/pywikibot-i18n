@@ -1,8 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Leszek Krupiński"
-        ]
-    },
-    "disambredir-msg": "Zmiana przekierowań na stronie ujednoznaczającej"
+	"@metadata": {
+		"authors": [
+			"Leszek Krupiński",
+			"Chrumps"
+		]
+	},
+	"disambredir-msg": "Zmiana przekierowań na stronie ujednoznaczniającej"
 }

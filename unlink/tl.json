@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"AnakngAraw"
+			"AnakngAraw",
+			"Jojit fb"
 		]
 	},
-	"unlink-unlinking": "Robot: Hindi ikinakawing ang \"%(title)s\""
+	"unlink-unlinking": "Bot:Tinanggal ang link na \"%(title)s\""
 }

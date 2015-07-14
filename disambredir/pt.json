@@ -1,8 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Leonardo Gregianin"
-        ]
-    },
-    "disambredir-msg": "Arrumando redirects na página de desambiguação"
+	"@metadata": {
+		"authors": [
+			"Leonardo Gregianin",
+			"Vitorvicentevalente"
+		]
+	},
+	"disambredir-msg": "Alteração de redirecionamentos numa página de desambiguação"
 }

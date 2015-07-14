@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Shinjiman"
 		]
 	},
 	"welcome-updating": "Bot: 更新日誌",
-	"welcome-welcome": "歡迎"
+	"welcome-welcome": "歡迎！"
 }

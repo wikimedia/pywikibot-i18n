@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Xqt"
 		]
 	},
 	"remove_edp_images-edit-summary": "Робат: выпраўленьне выкарыстаньня несвабоднага файла: [[%(title)s]]"
