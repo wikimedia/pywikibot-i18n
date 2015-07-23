@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rotemliss"
+			"Rotemliss",
+			"Liuxinyu970226"
 		]
 	},
-	"followlive-blanking": "清空，之前的內容是 '%(content)s'"
+	"followlive-blanking": "已清空，内容曾为“%(content)s”。"
 }

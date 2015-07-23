@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xelgen"
+			"Xelgen",
+			"Vahe Gharakhanyan"
 		]
 	},
 	"archivebot-archive-full": "(ԱՐԽԻՎԸ ԼՑՎԱԾ Է)",
-	"archivebot-older-than": "ավելի հին քան"
+	"archivebot-older-than": "ավելի հին քան %(duration)s"
 }

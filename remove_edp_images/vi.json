@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"remove_edp_images-edit-summary": "Bot: Sửa cách sử dụng hình EDP: [[%(title)s]]"
+}

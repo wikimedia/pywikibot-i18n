@@ -4,5 +4,5 @@
 			"Beta16"
 		]
 	},
-	"followlive-blanking": "Svuotata, il contenuto era '%s'."
+	"followlive-blanking": "Svuotata, il contenuto era '%(content)s'."
 }

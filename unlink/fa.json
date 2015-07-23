@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"ZxxZxxZ"
+			"ZxxZxxZ",
+			"Reza1615"
 		]
 	},
-	"unlink-unlinking": "ربات: از پیوند درآوردن «%(title)s»"
+	"unlink-unlinking": "ربات: از پیوند درآوردن \"%(title)s\""
 }

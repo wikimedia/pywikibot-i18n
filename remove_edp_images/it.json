@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"remove_edp_images-edit-summary": "Bot: correggo uso immagine EDP: [[%(title)s]]"
+}

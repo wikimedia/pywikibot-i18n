@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Daniel Herding"
+			"Daniel Herding",
+			"The Polish"
 		]
 	},
-	"followlive-blanking": "wyczyszczony - zawartością było '%(content)s'"
+	"followlive-blanking": "Wyczyszczony, zawartością było '%(content)s'."
 }

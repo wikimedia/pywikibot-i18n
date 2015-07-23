@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"piper-edit-summary": "Bot: passo il testo della voce attraverso %(filters)s"
+}

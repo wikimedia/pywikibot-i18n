@@ -5,7 +5,7 @@
 		]
 	},
 	"casechecker-delete-reason": "ХӀара дӀассахьажораг лелош ю %(target)s тӀе билгалоян",
-	"casechecker-delete-summary": "бот: ДӀассхьажораг латин а кириллица а йийна ю",
+	"casechecker-delete-summary": "бот: ДӀассхьажораг латин а, кириллица а йийна ю",
 	"casechecker-rename": "Бот: йийна регистр дӀассахьажор",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Бот: Хийцар регистр:"

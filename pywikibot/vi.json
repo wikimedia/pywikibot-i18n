@@ -10,5 +10,8 @@
 	"pywikibot-enter-namespace-number": "Xin vui lòng nhập số không gian tên:",
 	"pywikibot-enter-new-text": "Xin vui lòng nhập văn bản mới:",
 	"pywikibot-enter-page-processing": "Nên xử lý trang nào?",
-	"pywikibot-enter-xml-filename": "Xin vui lòng nhập tên tập tin của bản sao lưu XML:"
+	"pywikibot-enter-xml-filename": "Xin vui lòng nhập tên tập tin của bản sao lưu XML:",
+	"pywikibot-fixes-fckeditor": "Bot: Sửa mã HTML của trình soạn thảo có định dạng",
+	"pywikibot-fixes-html": "Bot: Chuyển đổi/sửa HTML",
+	"pywikibot-fixes-syntax": "Bot: Sửa cú pháp wiki"
 }
