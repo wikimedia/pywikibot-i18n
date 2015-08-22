@@ -30,6 +30,7 @@ module.exports = function ( grunt ) {
 			fixing_redirects: 'fixing_redirects/',
 			followlive: 'followlive/',
 			interwiki: 'interwiki/',
+			interwikidata: 'interwikidata/',
 			isbn: 'isbn/',
 			lonelypages: 'lonelypages/',
 			makecat: 'makecat/',
