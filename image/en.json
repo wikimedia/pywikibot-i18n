@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cyde Weys"
+        ]
+    },
+    "image-remove": "Bot: Removing image %(file)s",
+    "image-replace": "Bot: Replacing image %(old)s with %(new)s"
+}

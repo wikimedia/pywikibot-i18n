@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Filnik"
+        ]
+    },
+    "image-remove": "Bot: Rimuovo l'immagine %(file)s",
+    "image-replace": "Bot: Sostituisco l'immagine %(old)s con %(new)s"
+}

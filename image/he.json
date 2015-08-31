@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Leonardo Gregianin"
+        ]
+    },
+    "image-remove": "בוט: מסיר את התמונה %(file)s",
+    "image-replace": "בוט: מחליף את התמונה %(old)s בתמונה %(new)s"
+}
