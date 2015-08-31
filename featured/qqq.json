@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"John Vandenberg",
 			"Shirayuki"
 		]
 	},
-	"featured-former": "Used as edit summary. Variables:\n* %(page)s - page title"
+	"featured-featured": "Used as edit summary. Variables:\n* %(page)s - page title",
+	"featured-former": "Used as edit summary. Variables:\n* %(page)s - page title",
+	"featured-good": "Used as edit summary. Variables:\n* %(page)s - page title",
+	"featured-list": "Used as edit summary. Variables:\n* %(page)s - page title"
 }

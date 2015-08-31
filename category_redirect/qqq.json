@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Csisc",
+			"John Vandenberg",
 			"Shirayuki",
 			"Xqt"
 		]
 	},
 	"category_redirect-add-template": "Used as edit summary.",
 	"category_redirect-change-category": "Used as comment. Parameters:\n* %(oldCatLink)s - old category name\n* %(oldCatTitle)s - old category name\n* %(newCatLink)s - new category name\n* %(newCatTitle)s - new category name",
+	"category_redirect-comment": "Edit summary for maintenance notice of new redirects created.",
 	"category_redirect-edit-request": "Variables:\n* %(itemlists)s - list of edit requests (pages). Uses the message {{msg-pywikibot|Category redirect-edit-request-item}}.",
 	"category_redirect-edit-request-item": "Used as <code>%(itemlist)s</code> in {{msg-pywikibot|Category_redirect-edit-request}}.\n\nVariables:\n* %(title)s - page title\n* %(oldcat)s - old category name\n* %(newcat)s - new category name",
 	"category_redirect-fix-double": "Edit summary when the bot fixes double category redirects."
