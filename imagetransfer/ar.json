@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Meno25"
+        ]
+    },
+    "imagetransfer-file_page_message": "هذه الصورة تم نقلها من %(site)s. الوصف الأصلي كان:\n\n%(description)s",
+    "imagetransfer-nowcommons_notice": "الملف الآن متوفر في ويكيميديا كومنز."
+}

@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "alefzet"
+        ]
+    },
+    "imagetransfer-file_page_message": "Бұл сурет %(site)s дегеннен көшірілді. Түпнұсқа сипатттамасы былай болды:\n\n%(description)s",
+    "imagetransfer-nowcommons_notice": "Файлды енді Wikimedia Ортаққорынан қатынауға болады."
+}

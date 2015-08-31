@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "John Vandenberg"
+        ]
+    },
+    "imagetransfer-file_page_message": "File page contents after file is transfered.  Variables: %(site)s is the site it was copied from, and %(description)s is the file page description on the site it was copied from.",
+    "imagetransfer-nowcommons_notice": "nowcommons notice after file is transfered"
+}

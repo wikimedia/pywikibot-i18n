@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Leonardo Gregianin"
+        ]
+    },
+    "imagetransfer-file_page_message": "Questa immagine è stata copiata da %(site)s. La descrizione originale era:\n\n%(description)s",
+    "imagetransfer-nowcommons_notice": "L'immagine è adesso disponibile su Wikimedia Commons."
+}
