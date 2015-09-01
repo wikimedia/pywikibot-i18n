@@ -5,8 +5,8 @@
 		]
 	},
 	"unprotect-category": "Bot: Unprotecting all pages from category %(cat)s",
-	"unprotect-images": "Bot: Unprotecting all images on page %(page)s",
+	"unprotect-images": "Bot: Unprotecting all files on page %(page)s",
 	"unprotect-links": "Bot: Unprotecting all pages linked from %(page)s",
 	"unprotect-ref": "Bot: Unprotecting all pages referring from %(page)s",
-	"unprotect-simple": "Bot: Unprotecting a list of files."
+	"unprotect-simple": "Bot: Unprotecting a list of files"
 }
