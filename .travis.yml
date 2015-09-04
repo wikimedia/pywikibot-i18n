@@ -1,0 +1,22 @@
+language: python
+
+sudo: false
+
+python:
+  - '3.4'
+
+env:
+  - PYWIKIBOT2_NO_USER_CONFIG=2
+
+before_install:
+  - git clone https://github.com/wikimedia/pywikibot-core
+  - mkdir -p pywikibot-core/scripts/i18n
+  - touch pywikibot-core/scripts/i18n/__init__.py
+  - for item in *; do if [[ -d "$item" ]]; then cp -rp "$item" pywikibot-core/scripts/i18n; fi; done
+
+install:
+  - pip install six nose requests
+
+script:
+  - cd pywikibot-core
+  - nosetests --verbosity=2 tests.l10n_tests
