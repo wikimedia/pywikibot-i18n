@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Tavernier"
+        ]
+    },
+    "imagetransfer-file_page_message": "Cette image est copiée de %(site)s. La description originale était:\n\n%(description)s"
+}

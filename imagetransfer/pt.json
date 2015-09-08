@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Daniel Herding"
+        ]
+    },
+    "imagetransfer-file_page_message": "Esta imagem foi copiada de %(site)s. A descrição original foi:\n\n%(description)s",
+    "imagetransfer-nowcommons_notice": "Arquivo está agora na Wikimedia Commons."
+}
