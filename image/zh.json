@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Alex Shih-Han Lin"
+        ]
+    },
+    "image-remove": "機器人：移除圖像 %(file)s",
+    "image-replace": "機器人：取代圖像 %(old)s 至 %(new)s"
+}

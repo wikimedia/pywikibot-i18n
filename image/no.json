@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Christoffer (roboticuskhan)"
+        ]
+    },
+    "image-remove": "robot: fjerner bildet %(file)s",
+    "image-replace": "robot: erstatter bildet %(old)s med %(new)s"
+}

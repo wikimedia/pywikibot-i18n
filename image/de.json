@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Daniel Herding"
+        ]
+    },
+    "image-remove": "Bot: Entferne Bild %(file)s",
+    "image-replace": "Bot: Ersetze Bild %(old)s durch %(new)s"
+}

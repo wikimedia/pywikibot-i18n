@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Nicolas Dumazet"
+        ]
+    },
+    "image-remove": "Robot - Retirando imagen %(file)s",
+    "image-replace": "Robot - Reemplazando imagen %(old)s por %(new)s"
+}

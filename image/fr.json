@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Tavernier"
+        ]
+    },
+    "image-remove": "Bot: Enleve image %(file)s",
+    "image-replace": "Bot: Remplace image %(old)s par %(new)s"
+}

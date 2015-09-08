@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Woo-Jin Kim"
+        ]
+    },
+    "image-remove": "로봇 - %(file)s 그림을 제거",
+    "image-replace": "로봇 - 그림 %(old)s을 %(new)s로 치환"
+}

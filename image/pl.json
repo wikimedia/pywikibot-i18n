@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Leszek Krupiński"
+        ]
+    },
+    "image-remove": "Robot usuwa obraz %(file)s",
+    "image-replace": "Robot zamienia obraz %(old)s na %(new)s"
+}
