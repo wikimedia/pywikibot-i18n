@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"capitalize_redirects-create-redirect": "ロボットによる: リダイレクト作成 [[%(to)s]]"
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"capitalize_redirects-create-redirect": "ボットによる: リダイレクト作成 [[%(to)s]]"
 }

@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
 	"weblinkchecker-archive_msg": "Pagina web a fost salvată de Internet Archive. Puteți adăuga o legătură către versiunea arhivată potrivită: [%(URL)s].",
+	"weblinkchecker-badurl": "Legătura introdusă nu pare să fie un URL valid",
 	"weblinkchecker-caption": "Legătură moartă",
 	"weblinkchecker-report": "În timpul mai multor rulări automate ale robotului următoarea legătură externă a fost inaccesibilă. Verificați dacă legătura chiar este defectă, iar în acest caz reparați-o sau înlăturați-o!",
 	"weblinkchecker-summary": "Robot: Se raportează legătură externă indisponibilă"

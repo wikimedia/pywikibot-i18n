@@ -12,6 +12,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Discuție nouă",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notificare",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s ultima modificare] (%(page_size)s octeți) de %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s toate discuțiile s-au terminat (supravegherea a fost oprită) - ultima editare de %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\nRezumat generat din și la: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(nu s-a găsit un editor uman)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – ultima modificare de [[User:%(user)s]] (%(time)s)",

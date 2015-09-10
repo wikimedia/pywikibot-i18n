@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"replace-replacing": "ロボットによる: 文字置き換え %(description)s"
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"replace-replacing": "ボットによる: 文字置き換え %(description)s"
 }

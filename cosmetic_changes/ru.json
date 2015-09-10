@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
 	"cosmetic_changes-append": "; косметические изменения",
-	"cosmetic_changes-standalone": "бот: косметические изменения"
+	"cosmetic_changes-standalone": "Бот: косметические изменения"
 }

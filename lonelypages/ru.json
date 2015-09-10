@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"Amire80"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "Робот: Добавление страницы разрешения неоднозначности",
-	"lonelypages-comment-add-template": "Робот: страница-сироты, добавление шаблона"
+	"lonelypages-comment-add-disambig-template": "Бот: Добавление страницы разрешения неоднозначности",
+	"lonelypages-comment-add-template": "Бот: страница-сирота, добавление шаблона"
 }

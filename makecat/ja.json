@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"makecat-create": "ボットによる: [[:Category:%(cat)s|]] カテゴリを作成または更新"
+}

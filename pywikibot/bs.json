@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Edinwiki",
-			"KWiki"
+			"KWiki",
+			"Srdjan m"
 		]
 	},
 	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
@@ -11,5 +12,8 @@
 	"pywikibot-enter-namespace-number": "Unesite broj imenskog prostora:",
 	"pywikibot-enter-new-text": "Unesite novi tekst:",
 	"pywikibot-enter-page-processing": "Koja bi stranica trebala biti obrađena?",
-	"pywikibot-enter-xml-filename": "Unesite naziv datoteke XML ispisa:"
+	"pywikibot-enter-xml-filename": "Unesite naziv datoteke XML ispisa:",
+	"pywikibot-fixes-fckeditor": "Robot: Popravak html bogatog uređivača",
+	"pywikibot-fixes-html": "Robot: Pretvaranje/popravljanje HTML-a",
+	"pywikibot-fixes-syntax": "Robot: Popravljanje wiki sintakse"
 }

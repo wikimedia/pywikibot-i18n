@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"djvutext-creating": "ロボットによる: DjVuから抽出した文章でページを作成"
+	"djvutext-creating": "ボットによる: DjVu から抽出した文章でページを作成"
 }

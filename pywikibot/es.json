@@ -15,6 +15,7 @@
 	"pywikibot-enter-new-text": "Escribe el texto nuevo:",
 	"pywikibot-enter-page-processing": "¿Qué página se debe procesar?",
 	"pywikibot-enter-xml-filename": "Escribe el nombre de archivo del volcado XML:",
+	"pywikibot-fixes-fckeditor": "Robot: se corrige el html del editor enriquecido",
 	"pywikibot-fixes-html": "Robot: convirtiendo/arreglando HTML",
 	"pywikibot-fixes-syntax": "Robot: arreglo de la sintaxis wiki"
 }

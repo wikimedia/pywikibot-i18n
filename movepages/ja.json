@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"movepages-moving": "ロボットによる: ページの移動"
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"movepages-moving": "ボットによる: ページを移動"
 }

@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"featured-featured": "ロボットによる: 秀逸な記事へのリンク %(page)s",
-	"featured-former": "ロボットによる: %(page)s はかつて秀逸な記事でした",
-	"featured-good": "ロボットによる: 良質な記事へのリンク %(page)s",
-	"featured-list": "ロボットによる: 秀逸な一覧へのリンク %(page)s"
+	"featured-featured": "ボットによる: 秀逸な記事へのリンク %(page)s",
+	"featured-former": "ボットによる: 「%(page)s」はかつて秀逸な記事でした",
+	"featured-good": "ボットによる: 良質な記事へのリンク %(page)s",
+	"featured-list": "ボットによる: 秀逸な一覧へのリンク %(page)s"
 }

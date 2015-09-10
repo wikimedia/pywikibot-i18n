@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Edinwiki"
+			"Edinwiki",
+			"Semso98"
 		]
 	},
 	"weblinkchecker-archive_msg": "Ova stranica je arhivirana na \"Internet Archive\". Pokušajte staviti vezu prema arhiviranoj verziji ove stranice: [%(URL)s].",
+	"weblinkchecker-badurl": "Link koji ste ponudili ne izgleda kao valjan URL",
 	"weblinkchecker-caption": "Mrtav link",
 	"weblinkchecker-report": "Poslije nekoliko automatskih pokušaja bota, ustanovljeno je da je sljedeća vanjska veza nedostupna. Provjerite da li je veza zaista neispravna i zatim je ispravite ako je ovo slučaj!",
 	"weblinkchecker-summary": "Bot: Prijavljam nedostupnu vanjsku vezu"

@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
-	"undelete-from-file": "Robot: Restaurat o listă de pagini"
+	"undelete-from-file": "Robot: Restaurat o listă de pagini",
+	"undelete-images": "Robot: Recuperarea tuturor imaginilor din pagina %(page)s",
+	"undelete-linked-pages": "Robot: Recuperarea tuturor paginilor legate din %(page)s"
 }

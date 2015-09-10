@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"misspelling-fixing": "ロボットによる: 「%(page)s」へのリンクのスペル誤りを修正"
+	"misspelling-fixing": "ボットによる: 「%(page)s」へのリンクの誤字を修正"
 }

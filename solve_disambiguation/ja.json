@@ -3,14 +3,15 @@
 		"authors": [
 			"Fryed-peach",
 			"Shirayuki",
-			"Whym"
+			"Whym",
+			"Otokoume"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました",
-	"solve_disambiguation-links-removed": "ボット補助による曖昧さ回避: %(from)s - リンクを除去しました",
-	"solve_disambiguation-links-resolved": "ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました",
-	"solve_disambiguation-redirect-adding-dn-template": "ロボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付けしました",
-	"solve_disambiguation-redirect-removed": "ロボット補助による曖昧さ回避: %(from)s - リンクを除去しました",
-	"solve_disambiguation-redirect-resolved": "ロボット補助による曖昧さ回避: %(from)s - リンクを%(to)sに変更しました",
+	"solve_disambiguation-adding-dn-template": "ボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付け",
+	"solve_disambiguation-links-removed": "ボット補助による曖昧さ回避: %(from)s - リンクを除去",
+	"solve_disambiguation-links-resolved": "ボット補助による曖昧さ回避: %(from)s - リンクを「%(to)s」に変更",
+	"solve_disambiguation-redirect-adding-dn-template": "ボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付け",
+	"solve_disambiguation-redirect-removed": "ボット補助による曖昧さ回避: %(from)s - リンクを除去",
+	"solve_disambiguation-redirect-resolved": "ボット補助による曖昧さ回避: %(from)s - リンクを「%(to)s」に変更",
 	"solve_disambiguation-unknown-page": "(不明)"
 }

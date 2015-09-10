@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"revertbot-revert": "ボットによる: %(timestamp)s の %(author)s による版 %(revid)s を取り消し"
+}

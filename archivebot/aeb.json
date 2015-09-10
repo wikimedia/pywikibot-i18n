@@ -4,9 +4,5 @@
 			"Csisc",
 			"Xqt"
 		]
-	},
-	"archivebot-archive-full": "(الأرشيف ممتلئ)",
-	"archivebot-archive-summary": "!el archivage mte3 %(count)d {{PLURAL:%(count)d|thread|threads}} min [[%(from)s]].",
-	"archivebot-older-than": "أقدم من",
-	"archivebot-page-summary": "el archivage mte3 %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) ila %(archives)s."
+	}
 }

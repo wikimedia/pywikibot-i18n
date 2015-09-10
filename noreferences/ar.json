@@ -5,5 +5,6 @@
 			"Zaher kadour"
 		]
 	},
-	"noreferences-add-tag": "روبوت: إضافة وسم <references /> مفقود"
+	"noreferences-add-tag": "روبوت: إضافة وسم <references /> مفقود",
+	"noreferences-fix-tag": "بوت: تصحيح صيغة غير صحيحة لوسم <references />"
 }

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"unprotect-category": "بوت: إزالة حماية كل الصفحات من التصنيف %(cat)s",
+	"unprotect-images": "بوت: إزالة حماية كل الصور على الصفحة %(page)s",
+	"unprotect-links": "بوت: إزالة حماية كل الصفحات الموصولة من %(page)s",
+	"unprotect-ref": "بوت: إزالة حماية كل الصفحات التي ترجع من %(page)s",
+	"unprotect-simple": "بوت: إزالة حماية قائمة من الملفات."
+}

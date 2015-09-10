@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"commonscat-msg_change": "Bot: Promjenjena commonscat veza iz [[:Commons:Category:%(oldcat)s|%(oldcat)s]] u [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

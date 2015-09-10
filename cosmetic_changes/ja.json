@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
 	"cosmetic_changes-append": "; 細部の編集",
-	"cosmetic_changes-standalone": "ロボットによる: 細部の編集"
+	"cosmetic_changes-standalone": "ボットによる: 細部の編集"
 }

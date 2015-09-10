@@ -4,14 +4,7 @@
 			"Csisc"
 		]
 	},
-	"category-adding": "روبوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(أيضا في %(alsocat)s)",
-	"category-changing": "Robot: baddel %(oldcat)s il %(newcat)s",
 	"category-listifying": "بوت: عرض من %(fromcat)s (%(num)d مدخلة)",
-	"category-removing": "بوت: إزالة من %(oldcat)s",
-	"category-replacing": "روبوت: استبدال التصنيف %(oldcat)s ب %(newcat)s",
-	"category-section-title": "el historique mte3 el page fi %(oldcat)s 9dim",
-	"category-version-history": "Robot: sajjel el historique mte3 el versions mte3 el %(oldcat)s el 9dom",
-	"category-was-disbanded": "بوت: التصنيف تم الاستغناء عنه",
 	"category-was-moved": "روبوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]"
 }

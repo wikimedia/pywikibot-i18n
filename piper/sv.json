@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jopparn"
+		]
+	},
+	"piper-edit-summary": "Robot: Piping artikeltexten genom %(filters)s"
+}

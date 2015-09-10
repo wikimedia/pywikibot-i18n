@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
 	"reflinks-autogen": "مولد تلقائيا",
-	"reflinks-comment": "عنوان مولد بالبوت"
+	"reflinks-comment": "عنوان مولد بالبوت",
+	"reflinks-msg": "بوت: تحويل bare references، باستخدام أسماء المراجع لتجنب المكررات، انظر [[%(manual)s|FAQ]]"
 }

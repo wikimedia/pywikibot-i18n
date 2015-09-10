@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"undelete-from-file": "بوت: استرجاع قائمة من الصفحات",
+	"undelete-images": "بوت: استرجاع كل الصور على الصفحة %(page)s",
+	"undelete-linked-pages": "بوت: استرجاع كل الصفحات الموصولة من %(page)s"
+}

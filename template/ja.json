@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"template-changing": "ロボットによる: {{PLURAL:%(num)d|テンプレート}}の変更: %(list)s",
-	"template-removing": "ロボットによる: {{PLURAL:%(num)d|テンプレート}}の除去: %(list)s",
-	"template-substituting": "ロボットによる: {{PLURAL:%(num)d|テンプレート}}の展開: %(list)s"
+	"template-changing": "ボットによる: {{PLURAL:%(num)d|テンプレート}}を変更: %(list)s",
+	"template-removing": "ボットによる: {{PLURAL:%(num)d|テンプレート}}を除去: %(list)s",
+	"template-substituting": "ボットによる: {{PLURAL:%(num)d|テンプレート}}を展開: %(list)s"
 }

@@ -4,5 +4,6 @@
 			"Murma174"
 		]
 	},
-	"noreferences-add-tag": "Bot: Ütjdruk <references /> waant"
+	"noreferences-add-tag": "Bot: Ütjdruk <references /> waant",
+	"noreferences-fix-tag": "Bot: Korigiare det syntax faan di <references />-tag"
 }

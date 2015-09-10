@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Volkov",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Amire80"
 		]
 	},
-	"isbn-formatting": "бот: преобразование ISBN"
+	"isbn-formatting": "Бот: оформление ISBN"
 }

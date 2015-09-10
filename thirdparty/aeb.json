@@ -4,21 +4,7 @@
 			"Csisc"
 		]
 	},
-	"thirdparty-drtrigonbot-subster-summary-mod": "baddel %(tags)s tag(s)",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussion tbeddlet",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussion tsakret",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "رسالة روبوت",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Discussion jdida",
-	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notification",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) bi fadhl %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s el discussion el koll tsakrou (surveillance wfet) - e5er we7ed beddelha howa %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nrésumé ma'akhoudha min w 3la: %(sign)s</noinclude>",
-	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(7atta 3abd editeur lahou mawjoud)",
-	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - e5er wehed beddel hal page howa [[User:%(user)s]] fi (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* message ta7thir robot: %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-summary-add": "mola5ass' discussion tzed: %(num)i entrées",
-	"thirdparty-drtrigonbot-sum_disc-summary-clean": "mola5ass' discussion tzedet ma3a tandhim : %(num)i entrées",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "روبوت",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "résumé mte3 discussion mise-à-jour: %(num)i entrées en %(page)s"
 }

@@ -4,5 +4,5 @@
 			"Purodha"
 		]
 	},
-	"followlive-blanking": "Läddesch jemaat, drop schtund „%s“."
+	"followlive-blanking": "Läddesch jemaat, drop schtund „%(content)s“."
 }

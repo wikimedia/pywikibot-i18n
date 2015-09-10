@@ -3,6 +3,5 @@
 		"authors": [
 			"Csisc"
 		]
-	},
-	"capitalize_redirects-create-redirect": "روبوت: إنشاء تحويلة إلى [[%(to)s]]"
+	}
 }

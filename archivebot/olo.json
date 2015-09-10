@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"archivebot-archive-full": "(ARHIIVU TÄYZI)",
+	"archivebot-older-than": "vahnembi migu %(duration)s"
+}

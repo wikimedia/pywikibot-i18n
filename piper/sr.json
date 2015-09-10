@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"piper-edit-summary": "Бот: текст чланка прерађен кроз %(filters)s"
+}

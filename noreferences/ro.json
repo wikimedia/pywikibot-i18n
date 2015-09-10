@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
-	"noreferences-add-tag": "Robot: Adăugat tagul lipsă <references />"
+	"noreferences-add-tag": "Robot: Adăugat tagul lipsă <references />",
+	"noreferences-fix-tag": "Robot: Corectarea sintaxei invalide a tagului <references />"
 }

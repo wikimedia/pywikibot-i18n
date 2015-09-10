@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"noreferences-add-tag": "ロボットによる: <references /> タグの補完"
+	"noreferences-add-tag": "ボットによる: <references /> タグの補完",
+	"noreferences-fix-tag": "ボットによる: <references /> タグの無効な構文を修正"
 }

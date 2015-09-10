@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"remove_edp_images-edit-summary": "Robot: se corrige el uso de imagen de acuerdo a EDP: [[%(title)s]]"
+}

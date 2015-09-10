@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"commonscat-msg_change": "بوت: تغيير وصلة commonscat من [[:Commons:Category:%(oldcat)s|%(oldcat)s]] إلى [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

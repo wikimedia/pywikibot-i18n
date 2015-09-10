@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
-	"clean_sandbox-cleaned": "бот: очистка песочницы"
+	"clean_sandbox-cleaned": "Бот: Автоматически очищена"
 }

@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"catall-changing": "ロボットによる: カテゴリ変更"
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"catall-changing": "ボットによる: カテゴリ変更"
 }

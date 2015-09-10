@@ -4,12 +4,13 @@
 			"Fryed-peach",
 			"Shirayuki",
 			"Whym",
-			"Xqt"
+			"Xqt",
+			"Otokoume"
 		]
 	},
 	"archivebot-archive-full": "(過去ログ満杯)",
-	"archivebot-archive-summary": "ロボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}}を[[%(from)s]]より過去ログ化",
+	"archivebot-archive-summary": "ボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}}を[[%(from)s]]より過去ログ化",
 	"archivebot-archiveheader": "{{Talkarchive}}",
 	"archivebot-older-than": "%(duration)s以上経過",
-	"archivebot-page-summary": "ロボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}} (%(why)s) を%(archives)sへ過去ログ化"
+	"archivebot-page-summary": "ボットによる: %(count)d{{PLURAL:%(count)d|個のスレッド}} (%(why)s) を%(archives)sへ過去ログ化"
 }

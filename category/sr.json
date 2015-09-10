@@ -14,6 +14,7 @@
 	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s",
 	"category-replacing": "Бот: замењена категорија %(oldcat)s са %(newcat)s",
 	"category-section-title": "Историја раније верзије странице %(oldcat)s",
+	"category-strip-cfd-templates": "Бот: уклоњени CFD шаблони за извршене радње",
 	"category-version-history": "Бот: сачувана историја раније верзије странице %(oldcat)s",
 	"category-was-disbanded": "Бот: категорија је распуштена",
 	"category-was-moved": "Бот: категорија је премештена у [[:Category:%(newcat)s|%(title)s]]"

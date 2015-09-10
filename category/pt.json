@@ -14,6 +14,7 @@
 	"category-renamed": "Bot: Movido de %(oldcat)s. Autores: %(authors)s",
 	"category-replacing": "Robô: A substituir a categoria %(oldcat)s por %(newcat)s",
 	"category-section-title": "Histórico de versões da antiga %(oldcat)s",
+	"category-strip-cfd-templates": "Robô: Remoção de predefinições de discussão para ação concluída",
 	"category-version-history": "Robô: A guardar histórico de versões da antiga %(oldcat)s",
 	"category-was-disbanded": "Robô: A categoria foi eliminada",
 	"category-was-moved": "Robô: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]"

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"E THP"
+			"E THP",
+			"Koroğlu"
 		]
 	},
 	"delete-from-category": "بوت: %(page)s بؤلمه‌سینه عاید بوتون صحیفه‌‌لر سیلینیر",
 	"delete-from-file": "بوت: فايللارین سیياهیسی سیلینیر.",
 	"delete-images": "بوت: %(page)s صحیفه‌‌سینده‌کی بوتون شکیل‌لر سیلینیر",
-	"delete-linked-pages": "بوت: %(page)s صحیفه‌‌سیندن کئچید وئرن بوتون صحیفه‌‌لر سیلینیر",
-	"delete-referring-pages": "بوت: %(page)s صحیفه‌‌سینه کئچید وئرن بوتون صحیفه‌‌لر سیلینیر"
+	"delete-linked-pages": "روْبات: %(page)s صفحه‌‌سیندن باغلانتی وئرن بوتون صفحه‌‌لر سیلینیر",
+	"delete-referring-pages": "روْبات: %(page)s صفحه‌‌سینه باغلانتی وئرن بۆتون صفحه‌‌لر سیلینیر"
 }

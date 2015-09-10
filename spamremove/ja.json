@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"spamremove-remove": "ロボットによる: 迷惑リンク削除 %(url)s"
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"spamremove-remove": "迷惑サイトのリンクを削除 %(url)s"
 }

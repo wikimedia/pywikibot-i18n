@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"ndashredir-create": "ロボットによる: ハイフンで連結されたリダイレクトの作成 [[%(title)s]]"
+	"ndashredir-create": "ボットによる: ハイフンで連結されたリダイレクトの作成 [[%(title)s]]"
 }

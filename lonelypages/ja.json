@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "ロボットによる: 曖昧さ回避ページの追加",
-	"lonelypages-comment-add-template": "ロボットによる: 孤立したページへのテンプレート貼り付け"
+	"lonelypages-comment-add-disambig-template": "ボットによる: 曖昧さ回避ページを追加",
+	"lonelypages-comment-add-template": "ボットによる: 孤立したページへのテンプレート貼り付け"
 }

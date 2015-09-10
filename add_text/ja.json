@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"add_text-adding": "ロボットによる: %(adding)s を追加"
+	"add_text-adding": "ボットによる: %(adding)s を追加"
 }

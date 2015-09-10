@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"CERminator",
-			"Edinwiki"
+			"Edinwiki",
+			"Srdjan m"
 		]
 	},
 	"category-adding": "Bot: dodaje kategoriju [[:Category:%(newcat)s|%(newcat)s]]",
@@ -13,6 +14,7 @@
 	"category-renamed": "Robot: Premješteno iz %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Bot: Mijenja kategoriju %(oldcat)s sa %(newcat)s",
 	"category-section-title": "Historija stranice od prethodne %(oldcat)s.",
+	"category-strip-cfd-templates": "Bot: Uklanjanje CFD šablona za urađene radnje",
 	"category-version-history": "Bot: Sačuvana historija verzija od prethodne %(oldcat)s,",
 	"category-was-disbanded": "Bot: Kategorija je raspuštena",
 	"category-was-moved": "Bot: Kategorija je premještena u [[:Category:%(newcat)s|%(title)s]]"

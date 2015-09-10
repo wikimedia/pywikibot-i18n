@@ -2,17 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Amir a57",
-			"E THP"
+			"E THP",
+			"Ebrahimi-amir"
 		]
 	},
 	"category-adding": "بوت: [[بؤلمه:%(newcat)s]] آرتیریلیر",
 	"category-also-in": "(همچنین%(alsocat)s بؤلمه‌سینده)",
-	"category-changing": "بوت: %(oldcat)s بؤلمه‌سی%(newcat)s بؤلمه‌سی ایله ديَیشدیریلدی",
-	"category-listifying": "بوت:%(fromcat)s بولمه لریندن سیرا‌لانیر (%(num)d ائلئمئنت)",
-	"category-removing": "Bot: %(oldcat)s بؤلمه‌سیندن چیخاریلیر",
-	"category-renamed": "بوت: ذن %(oldcat)s داشیندی. یارادان: %(authors)s",
-	"category-replacing": "بوت: %(oldcat)s  بؤلمه‌سینی %(newcat)s ایله یئربه‌یئر ائله‌دیر",
-	"category-section-title": "صحیفه نین گئچمیشی %(oldcat)s سابیق",
+	"category-changing": "بوت: %(oldcat)s کؤهنه بؤلمه‌نی%(newcat)s یئنی بؤلمه‌ایله ديَیشدیریلدی",
+	"category-listifying": "بوت:%(fromcat)s بؤلمه لریندن سیرا‌لانیر (%(num)d المنت)",
+	"category-removing": "Bot: %(oldcat)s کؤهنه بؤلمه‌سیندن چیخاریلیر",
+	"category-renamed": "بوت:  %(oldcat)s دن داشیندی. یارادانلار: %(authors)s",
+	"category-replacing": "بوت: %(oldcat)s  کؤهنه بؤلمه‌نی %(newcat)s یئنی بؤلمه ایله دییشدیردی",
+	"category-section-title": "کؤهنه بؤلمه نین %(oldcat)s کچمیشی",
 	"category-version-history": "روبات: گئچمیشی قئدائتمک %(oldcat)s سابیق",
 	"category-was-disbanded": "بوت: بؤلمه لغو ائدیلدی",
 	"category-was-moved": "بوت: بؤلمه کؤچورولدو: [[:Category:%(newcat)s|%(title)s]]"

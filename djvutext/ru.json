@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Eleferen",
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
-	"djvutext-creating": "бот: создание страницы с текстом, извлечённым из DjVu"
+	"djvutext-creating": "Бот: создание страницы с текстом, извлечённым из DjVu"
 }

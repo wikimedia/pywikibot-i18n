@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"undelete-from-file": "Bot: Vraćanje obrisanog spiska stranica",
+	"undelete-images": "Bot: Vraćanje svih obrisanih slika na stranici %(page)s",
+	"undelete-linked-pages": "Bot: Vraćanje svih obrisanih stranica koje su linkovane sa stranice %(page)s"
+}

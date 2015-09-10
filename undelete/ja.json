@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"undelete-from-file": "ボットによる: ページのリストの削除を取り消し",
+	"undelete-images": "ボットによる: ページ「%(page)s」上のすべての画像の削除を取り消し",
+	"undelete-linked-pages": "ボットによる: 「%(page)s」からリンクされているすべてのページの削除を取り消し"
+}

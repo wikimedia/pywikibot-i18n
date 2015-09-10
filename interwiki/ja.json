@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Shirayuki",
-			"青子守歌"
+			"青子守歌",
+			"Otokoume"
 		]
 	},
-	"interwiki-adding": "ロボットによる: %(adding)sを追加",
-	"interwiki-adding-modifying": "ロボットによる: %(adding)sを追加、%(modifying)sを変更",
-	"interwiki-adding-removing": "ロボットによる: %(adding)sを追加、%(removing)sを除去",
-	"interwiki-adding-removing-modifying": "ロボットによる: %(adding)sを追加、%(removing)sを除去、%(modifying)sを変更",
-	"interwiki-modifying": "ロボットによる: %(modifying)sを変更",
-	"interwiki-modifying-from": "ロボットによる: %(from)sから%(modifying)sへ変更",
-	"interwiki-removing": "ロボットによる: %(removing)sを除去",
-	"interwiki-removing-modifying": "ロボットによる: %(removing)sを除去、%(modifying)sを変更"
+	"interwiki-adding": "ボットによる: %(adding)s を追加",
+	"interwiki-adding-modifying": "ボットによる: %(adding)s を追加、%(modifying)s を変更",
+	"interwiki-adding-removing": "ボットによる: %(adding)s を追加、%(removing)s を除去",
+	"interwiki-adding-removing-modifying": "ボットによる: %(adding)s を追加、%(removing)s を除去、%(modifying)s を変更",
+	"interwiki-modifying": "ボットによる: %(modifying)s を変更",
+	"interwiki-modifying-from": "ボットによる: %(from)s から %(modifying)s へ変更",
+	"interwiki-removing": "ボットによる: %(removing)s を除去",
+	"interwiki-removing-modifying": "ボットによる: %(removing)s を除去、%(modifying)s を変更"
 }

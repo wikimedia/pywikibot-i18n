@@ -13,6 +13,7 @@
 	"pywikibot-enter-new-text": "Унесите нови текст:",
 	"pywikibot-enter-page-processing": "Коју страницу желите да обрадите?",
 	"pywikibot-enter-xml-filename": "Унесите назив XML исписа:",
+	"pywikibot-fixes-fckeditor": "Бот: промењен HTML у вики синтаксу",
 	"pywikibot-fixes-html": "Бот: поправљен HTML",
 	"pywikibot-fixes-syntax": "Бот: поправљена вики синтакса"
 }

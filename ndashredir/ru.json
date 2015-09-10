@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Ignatus",
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
-	"ndashredir-create": "бот: создание перенаправления с дефисом на [[%(title)s]]"
+	"ndashredir-create": "Бот: создание перенаправления с дефисом на [[%(title)s]]"
 }

@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Volkov",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Amire80"
 		]
 	},
-	"category_redirect-add-template": "бот: добавление шаблона перенаправляющей категории для обслуживания",
-	"category_redirect-change-category": "бот: изменение перенаправляющей категории с [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Бот: добавление шаблона перенаправляющей категории для обслуживания",
+	"category_redirect-change-category": "Бот: изменение перенаправляющей категории с [[:%(oldCatLink)s|%(oldCatTitle)s]] на [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Бот, обслуживающий перенаправления категорий",
 	"category_redirect-edit-request": "Следующие защищенные страницы требуют обновления ссылок категорий: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s находится в %(oldcat)s, являющейся перенаправлением на %(newcat)s",
-	"category_redirect-fix-double": "бот: исправление двойного перенаправления"
+	"category_redirect-fix-double": "Бот: исправление двойного перенаправления"
 }

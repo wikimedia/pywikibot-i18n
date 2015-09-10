@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"piper-edit-summary": "Robot: Trecerea textului articolului prin %(filters)s"
+}

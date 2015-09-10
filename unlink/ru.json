@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Eleferen",
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
-	"unlink-unlinking": "бот: удаление ссылки «%(title)s»"
+	"unlink-unlinking": "Бот: удаление ссылки «%(title)s»"
 }

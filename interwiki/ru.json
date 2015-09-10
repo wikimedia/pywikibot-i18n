@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
-	"interwiki-adding": "бот добавил: %(adding)s",
-	"interwiki-adding-modifying": "бот добавил: %(adding)s изменил: %(modifying)s",
-	"interwiki-adding-removing": "бот добавил: %(adding)s удалил: %(removing)s",
-	"interwiki-adding-removing-modifying": "бот добавил: %(adding)s удалил: %(removing)s изменил: %(modifying)s",
-	"interwiki-modifying": "бот изменил: %(modifying)s",
-	"interwiki-modifying-from": "бот изменил: %(from)s на %(modifying)s",
-	"interwiki-removing": "бот удалил: %(removing)s",
-	"interwiki-removing-modifying": "бот удалил: %(removing)s изменил: %(modifying)s"
+	"interwiki-adding": "Бот: добавлено %(adding)s",
+	"interwiki-adding-modifying": "Бот: добавлено %(adding)s; изменено %(modifying)s",
+	"interwiki-adding-removing": "Бот: добавлено %(adding)s; удалено %(removing)s",
+	"interwiki-adding-removing-modifying": "Бот: добавлено %(adding)s; удалено %(removing)s; изменено %(modifying)s",
+	"interwiki-modifying": "Бот: изменено %(modifying)s",
+	"interwiki-modifying-from": "Бот: изменено с %(from)s на %(modifying)s",
+	"interwiki-removing": "Бот: удалено %(removing)s",
+	"interwiki-removing-modifying": "Бот: удалено %(removing)s; изменено %(modifying)s"
 }

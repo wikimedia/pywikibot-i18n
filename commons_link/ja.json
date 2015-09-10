@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"commons_link-cat-template-added": "ロボットによる: テンプレートcommonscatを追加",
-	"commons_link-template-added": "ロボットによる: テンプレートcommonsを追加"
+	"commons_link-cat-template-added": "ボットによる: commonscat テンプレートの追加",
+	"commons_link-template-added": "ボットによる: commons テンプレートの追加"
 }

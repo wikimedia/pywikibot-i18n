@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"spellcheck-checking": "ロボット支援によるスペルチェック"
+	"spellcheck-checking": "ボット支援によるスペルチェック"
 }

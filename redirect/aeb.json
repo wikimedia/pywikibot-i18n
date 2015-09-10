@@ -5,7 +5,5 @@
 		]
 	},
 	"redirect-fix-double": "بوت: تصليح تحويلة مزدوجة إلى %(to)s",
-	"redirect-fix-loop": "روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s",
-	"redirect-remove-broken": "تحويلة إلى صفحة محذوفة أو غير موجودة",
 	"redirect-remove-loop": "هدف التحويلة يصنع عقدة تحويل: Robot"
 }

@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
 	"weblinkchecker-archive_msg": "ウェブページはインターネットアーカイブに保存されました。アーカイブに保管された適切なバージョンにリンクすることを検討してください: [%(URL)s].",
+	"weblinkchecker-badurl": "提供されているリンクは、有効な URL ではないと思われます",
 	"weblinkchecker-caption": "リンク切れ",
 	"weblinkchecker-report": "ボットが何度か自動運行する間に、以下の外部リンクが利用不可能と判明しました。本当にリンク切れしているか確認してから、修復または除去してください!",
-	"weblinkchecker-summary": "ロボットによる: 利用できない外部リンクの報告"
+	"weblinkchecker-summary": "ボットによる: 利用できない外部リンクを報告"
 }

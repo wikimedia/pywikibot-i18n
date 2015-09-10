@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
-	"unlink-unlinking": "ロボットによる: リンクを解除中「%(title)s」"
+	"unlink-unlinking": "ボットによる: リンクを解除「%(title)s」"
 }

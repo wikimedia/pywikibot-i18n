@@ -7,12 +7,13 @@
 		]
 	},
 	"pywikibot-enter-category-name": "فضلاً ادخل إسم التصنيف:",
-	"pywikibot-enter-file-links-processing": "روابط للصورة التي يجب أن يتم معالجة الصفحة؟",
+	"pywikibot-enter-file-links-processing": "الوصلات التي ينبغي أن تتم معالجة صفحة الملف لها؟",
 	"pywikibot-enter-finished-browser": "اضغط Enter عند الانتهاء في المستعرض.",
 	"pywikibot-enter-namespace-number": "الرجاء إدخال مساحة اسم برقمه:",
 	"pywikibot-enter-new-text": "فضلاً ادخل النص الجديد:",
 	"pywikibot-enter-page-processing": "الصفحة التي ينبغي معالجتها؟",
 	"pywikibot-enter-xml-filename": "الرجاء إدخال اسم ملف تفريغ XML:",
+	"pywikibot-fixes-fckeditor": "روبوت: تصحيح rich-editor html",
 	"pywikibot-fixes-html": "روبوت: تحويل/تصليح HTML",
 	"pywikibot-fixes-syntax": "بوت: تصليح تهيئة الويكي"
 }

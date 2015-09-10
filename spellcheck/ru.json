@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Eleferen",
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
-	"spellcheck-checking": "орфография с помощью бота"
+	"spellcheck-checking": "проверка орфографии с помощью бота"
 }

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"unprotect-category": "Rôbô: Manala fiarovan'ny pejytao amin'ny sokajy %(cat)s",
+	"unprotect-images": "Rôbô: Manala fiarovan'ny sary rehetra ao amin'ny pejy %(page)s",
+	"unprotect-links": "Rôbô: Manala fiarovan'ny pejy rehetra voarohy ao amin'i %(page)s",
+	"unprotect-ref": "Rôbô: Manala fiarovan'ny pejy rehetra mampatsiahy an'i %(page)s",
+	"unprotect-simple": "Rôbô: Manala fiarovan'ny lisi-drakitra."
+}

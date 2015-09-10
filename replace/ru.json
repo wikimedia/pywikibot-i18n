@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov"
+			"Volkov",
+			"Amire80"
 		]
 	},
-	"replace-replacing": "бот: автоматизированная замена текста %(description)s"
+	"replace-replacing": "Бот: автоматизированная замена текста %(description)s"
 }

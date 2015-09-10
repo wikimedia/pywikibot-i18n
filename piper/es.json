@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"piper-edit-summary": "Robot: se canaliza el texto del artículo a través de %(filters)s"
+}

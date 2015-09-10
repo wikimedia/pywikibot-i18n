@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"revertbot-revert": "بوت: الاسترجاع غلى المراجعة %(revid)s بواسطة %(author)s في %(timestamp)s"
+}

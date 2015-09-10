@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Shirayuki",
-			"Whym"
+			"Whym",
+			"Otokoume"
 		]
 	},
-	"welcome-bad_username": "ロボットによる: チェックが必要な利用者名の報告",
-	"welcome-updating": "ロボットによる: 更新記録",
+	"welcome-bad_username": "ボットによる: チェックが必要な利用者名を報告",
+	"welcome-updating": "ボットによる: 更新記録",
 	"welcome-welcome": "ようこそ!"
 }

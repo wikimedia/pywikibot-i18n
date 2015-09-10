@@ -13,6 +13,7 @@
 	"category-renamed": "Rôbô : nanova toerana avy amin'i %(oldcat)s. Mpanoratra: %(authors)s",
 	"category-replacing": "Rôbô : Fanovana anarana ny sokajy %(oldcat)s miaraka amin'i %(newcat)s",
 	"category-section-title": "Tantaram-pejin'ilay  %(oldcat)s taloha",
+	"category-strip-cfd-templates": "Rôbô: manala ireo endrika CFD ho an'ny asa efa vita",
 	"category-version-history": "Rôbô: fitahirizana ny tantaran'ny versiona ny %(oldcat)s taloha",
 	"category-was-disbanded": "Rôbô : Voafafa ny sokajy",
 	"category-was-moved": "rôbô : sokajy nafindea tany amin'ny [[:Category:%(newcat)s|%(title)s]]"

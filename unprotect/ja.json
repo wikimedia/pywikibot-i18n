@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"unprotect-category": "ボットによる: カテゴリ「%(cat)s」にあるすべてのページの保護を取り消し",
+	"unprotect-images": "ボットによる: ページ「%(page)s」上のすべての画像の保護を取り消し",
+	"unprotect-links": "ボットによる: 「%(page)s」からリンクされているすべてのページの保護を取り消し",
+	"unprotect-ref": "ボットによる: 「%(page)s」を参照しているすべてののページの保護を取り消し",
+	"unprotect-simple": "ボットによる: ファイルのリストの保護を取り消し"
+}

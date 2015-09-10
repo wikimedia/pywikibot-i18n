@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Volkov",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Amire80"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Разрешение значений с помощью бота: %(from)s — помечена как требующая внимания эксперта",
-	"solve_disambiguation-links-removed": "Разрешение значений с помощью бота: %(from)s — удаление ссылок",
+	"solve_disambiguation-links-removed": "Разрешение значений с помощью бота: %(from)s — удаление ссылок.",
 	"solve_disambiguation-links-resolved": "Разрешение значений с помощью бота: %(from)s — изменение ссылок на %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Разрешение значений с помощью бота: %(from)s — помечена как требующая внимания эксперта",
 	"solve_disambiguation-redirect-removed": "Разрешение значений с помощью бота: %(from)s — удаление ссылок",

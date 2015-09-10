@@ -5,9 +5,6 @@
 		]
 	},
 	"category_redirect-add-template": "روبوت: إضافة قالب تحويل تصنيف للصيانة",
-	"category_redirect-change-category": "روبوت: تغيير التصنيف المحول [[:%(oldCatLink)s|%(oldCatTitle)s]] إلى [[:%(newCatLink)s|%(newCatTitle)s]]",
-	"category_redirect-comment": "بوت صيانة تحويلات التصانيف",
 	"category_redirect-edit-request": "الصفحات المحمية التالية تم كشفها كمحتاجة تحديثات لوصلات التصنيف: %(itemlist)s",
-	"category_redirect-edit-request-item": "* %(title)s في %(oldcat)s, وهو تحويل إلى %(newcat)s",
-	"category_redirect-fix-double": "بوت: إصلاح تحويلة مزدوجة"
+	"category_redirect-edit-request-item": "* %(title)s في %(oldcat)s, وهو تحويل إلى %(newcat)s"
 }
