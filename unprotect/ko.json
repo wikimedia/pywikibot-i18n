@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"IRTC1015"
+			"IRTC1015",
+			"Revi"
 		]
 	},
 	"unprotect-category": "봇: %(cat)s 분류의 모든 문서를 보호 해제",
 	"unprotect-images": "봇: %(page)s 문서에 사용된 모든 그림을 보호 해제",
 	"unprotect-links": "봇: %(page)s 문서에서 가리키는 모든 문서를 보호 해제",
 	"unprotect-ref": "봇: %(page)s 문서에서 가리키는 모든 문서를 보호 해제",
-	"unprotect-simple": "봇: 목록의 파일을 보호 해제"
+	"unprotect-simple": "봇: 파일 목록을 보호 해제"
 }

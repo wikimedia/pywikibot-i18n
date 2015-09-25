@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Huji"
-        ]
-    },
-    "image-remove": "ربات: برداشتن تصویر %(file)s",
-    "image-replace": "ربات: جایگزین کردن تصویر %(old)s با %(new)s"
+	"@metadata": {
+		"authors": [
+			"Huji"
+		]
+	},
+	"image-remove": "ربات: برداشتن تصویر %(file)s",
+	"image-replace": "ربات: جایگزین کردن تصویر %(old)s با %(new)s"
 }

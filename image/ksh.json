@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"image-remove": "Bot: dat Beld %(file)s weed fottjenumme.",
+	"image-replace": "Bot: dat Belld %(old)s wehd jähje et Belld %(new)s jetuusch."
+}

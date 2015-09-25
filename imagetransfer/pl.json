@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Leszek Krupiński"
-        ]
-    },
-    "imagetransfer-file_page_message": "Ten obraz został skopiowany z %(site)s. Oryginalny opis to:\n\n%(description)s",
-    "imagetransfer-nowcommons_notice": "Plik jest teraz dostępny na Wikimedia Commons."
+	"@metadata": {
+		"authors": [
+			"Leszek Krupiński"
+		]
+	},
+	"imagetransfer-file_page_message": "Ten obraz został skopiowany z %(site)s. Oryginalny opis to:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Plik jest teraz dostępny na Wikimedia Commons."
 }

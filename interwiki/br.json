@@ -1,11 +1,15 @@
 {
-	"@metadata": [],
-	"interwiki-adding": "Robot ouzhpennet: %(adding)s",
-	"interwiki-adding-modifying": "Robot ouzhpennet: %(adding)s kemmet: %(modifying)s",
-	"interwiki-adding-removing": "Robot ouzhpennet: %(adding)s tennet: %(removing)s",
-	"interwiki-adding-removing-modifying": "Robot ouzhpennet: %(adding)s tennet: %(removing)s kemmet: %(modifying)s",
-	"interwiki-modifying": "Robot kemmet: %(modifying)s",
-	"interwiki-modifying-from": "Robot : O kemmañ %(from)s e %(modifying)s",
-	"interwiki-removing": "Robot tennet: %(removing)s",
-	"interwiki-removing-modifying": "Robot tennet: %(removing)s kemmet: %(modifying)s"
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"interwiki-adding": "Robot : ouzhpennañ %(adding)s",
+	"interwiki-adding-modifying": "Robot : ouzhpennañ; kemmañ %(adding)s : %(modifying)s",
+	"interwiki-adding-removing": "Robot : ouzhpennañ %(adding)s; tennañ %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot : ouzhpennañ : %(adding)s ; tennañ: %(removing)s ; kemmañ %(modifying)s",
+	"interwiki-modifying": "Robot : kemmañ %(modifying)s",
+	"interwiki-modifying-from": "Robot : kemmañ %(from)s e %(modifying)s",
+	"interwiki-removing": "Robot :  tennañ %(removing)s",
+	"interwiki-removing-modifying": "Robot : tennañ %(removing)s; kemmañ %(modifying)s"
 }

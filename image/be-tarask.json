@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renessaince"
+		]
+	},
+	"image-remove": "Робат: выдаляю выяву %(file)s",
+	"image-replace": "Робат: замяняю выяву %(old)s на %(new)s"
+}

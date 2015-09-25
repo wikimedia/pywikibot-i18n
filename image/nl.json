@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "image-remove": "Bot: afbeelding %(file)s verwijderd",
-    "image-replace": "Bot: afbeelding %(old)s vervangen door %(new)s"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"image-remove": "Bot: afbeelding %(file)s verwijderd",
+	"image-replace": "Bot: afbeelding %(old)s vervangen door %(new)s"
 }

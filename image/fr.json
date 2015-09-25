@@ -1,9 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Tavernier"
-        ]
-    },
-    "image-remove": "Bot: Enleve image %(file)s",
-    "image-replace": "Bot: Remplace image %(old)s par %(new)s"
+	"@metadata": {
+		"authors": [
+			"Tavernier",
+			"Wladek92"
+		]
+	},
+	"image-remove": "Bot: supression d'images %(file)s",
+	"image-replace": "Bot: Remplace image %(old)s par %(new)s"
 }

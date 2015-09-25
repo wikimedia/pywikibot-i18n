@@ -5,7 +5,8 @@
 			"아라",
 			"IRTC1015",
 			"Kwj2772",
-			"Alex00728"
+			"Alex00728",
+			"Revi"
 		]
 	},
 	"pywikibot-enter-category-name": "분류 이름을 입력하세요:",
@@ -15,6 +16,7 @@
 	"pywikibot-enter-new-text": "새 텍스트를 입력하세요:",
 	"pywikibot-enter-page-processing": "어떤 문서를 처리하시겠습니까?",
 	"pywikibot-enter-xml-filename": "XML 덤프 파일 이름을 입력하세요:",
+	"pywikibot-fixes-fckeditor": "로봇: 리치 에디터 html 수정",
 	"pywikibot-fixes-html": "로봇: HTML 코드를 변환/교정함",
 	"pywikibot-fixes-syntax": "봇: 위키 문법 고침"
 }

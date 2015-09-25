@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"image-remove": "Bot: Bild %(file)s ewechgeholl",
+	"image-replace": "Bot: Ersetze vum Bild %(old)s duerch %(new)s"
+}

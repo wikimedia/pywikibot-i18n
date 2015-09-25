@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fulup"
+			"Fulup",
+			"Gwenn-Ael"
 		]
 	},
-	"isbn-formatting": "Robot : O furmadiñ an ISBN"
+	"isbn-formatting": "Robot : furmadiñ an ISBN"
 }

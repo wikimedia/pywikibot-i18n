@@ -1,9 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Sasa Stefanovic"
-        ]
-    },
-    "imagetransfer-file_page_message": "Ова слика је копирана са %(site)s. Оригинални опис је:\n\n%(description)s",
-    "imagetransfer-nowcommons_notice": "Слика је сада доступна и на Викимедија Остави."
+	"@metadata": {
+		"authors": [
+			"Sasa Stefanovic",
+			"Milicevic01"
+		]
+	},
+	"imagetransfer-file_page_message": "Ова слика је копирана са %(site)s. Оригинални опис је:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Слика је сада доступна на Викимедијиној Остави."
 }

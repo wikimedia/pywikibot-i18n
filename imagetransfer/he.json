@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Leonardo Gregianin"
-        ]
-    },
-    "imagetransfer-file_page_message": "תמונה זו הועתקה מהאתר %(site)s. תיאור הקובץ המקורי היה:\n\n%(description)s",
-    "imagetransfer-nowcommons_notice": "הקובץ זמין כעת בוויקישיתוף."
+	"@metadata": {
+		"authors": [
+			"Leonardo Gregianin"
+		]
+	},
+	"imagetransfer-file_page_message": "תמונה זו הועתקה מהאתר %(site)s. תיאור הקובץ המקורי היה:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "הקובץ זמין כעת בוויקישיתוף."
 }

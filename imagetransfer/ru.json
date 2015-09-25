@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Rubin"
-        ]
-    },
-    "imagetransfer-file_page_message": "Изображение было скопировано с %(site)s. Оригинальное описание содержало:\n\n%(description)s",
-    "imagetransfer-nowcommons_notice": "[[ВП:КБУ#Ф8|Ф.8]]: доступно на [[Викисклад]]е"
+	"@metadata": {
+		"authors": [
+			"Rubin"
+		]
+	},
+	"imagetransfer-file_page_message": "Изображение было скопировано с %(site)s. Оригинальное описание содержало:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "[[ВП:КБУ#Ф8|Ф.8]]: доступно на [[Викисклад]]е"
 }

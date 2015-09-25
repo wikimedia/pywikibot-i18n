@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fulup"
+			"Fulup",
+			"Gwenn-Ael"
 		]
 	},
 	"category-adding": "Robot : Oc'h ouzhpennañ ar rummad [[Category:%(newcat)s]]",
@@ -12,6 +13,7 @@
 	"category-renamed": "Robot : dilec'hiet adalek %(oldcat)s. Aozerien : %(authors)s",
 	"category-replacing": "Robot : Oc'h erlec'hiañ ar rummad %(oldcat)s gant %(newcat)s",
 	"category-section-title": "Pajenn istor stummoù kent ar %(oldcat)s",
+	"category-strip-cfd-templates": "Robot : tennañ ar patromoù CFD evit echuiñ an ober",
 	"category-version-history": "Robot: Oc'h enrollañ istor stummoù kent ar %(oldcat)s",
 	"category-was-disbanded": "Robot : Dilamet eo bet ar rummad",
 	"category-was-moved": "Robot : Rummad dilec'hiet da [[:Category:%(newcat)s|%(title)s]]"

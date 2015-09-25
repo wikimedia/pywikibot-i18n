@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck",
+			"Renessaince"
+		]
+	},
+	"imagetransfer-file_page_message": "Выява была скапіяваная з %(site)s. Арыгінальнае апісаньне:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Файл цяпер існуе ў Вікісховішчы."
+}

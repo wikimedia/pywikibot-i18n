@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "xqt"
-        ]
-    },
-    "checkimages-source-tag-comment": "Bot: Markiere mit {{[[Wikipedia:Dateiüberprüfung/Anleitung|DÜP]]}}, da keine Lizenzvorlage gefunden — bitte nicht entfernen, Informationen bald auf der Benutzerdiskussion des Uploaders.",
-    "checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme"
+	"@metadata": {
+		"authors": [
+			"xqt"
+		]
+	},
+	"checkimages-source-tag-comment": "Bot: Markiere mit {{[[Wikipedia:Dateiüberprüfung/Anleitung|DÜP]]}}, da keine Lizenzvorlage gefunden — bitte nicht entfernen, Informationen bald auf der Benutzerdiskussion des Uploaders.",
+	"checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme"
 }

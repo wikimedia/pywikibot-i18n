@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Dmitry Nikitin"
-        ]
-    },
-    "image-remove": "Бот: удалил файл %(file)s",
-    "image-replace": "Бот: Замена файла %(old)s на %(new)s"
+	"@metadata": {
+		"authors": [
+			"Dmitry Nikitin"
+		]
+	},
+	"image-remove": "Бот: удалил файл %(file)s",
+	"image-replace": "Бот: Замена файла %(old)s на %(new)s"
 }

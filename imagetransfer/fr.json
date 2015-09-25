@@ -1,8 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Tavernier"
-        ]
-    },
-    "imagetransfer-file_page_message": "Cette image est copiée de %(site)s. La description originale était:\n\n%(description)s"
+	"@metadata": {
+		"authors": [
+			"Tavernier",
+			"Gomoko"
+		]
+	},
+	"imagetransfer-file_page_message": "Cette image est copiée de %(site)s. La description originale était:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Le fichier est désormais disponible sur Wikimédia Commons."
 }

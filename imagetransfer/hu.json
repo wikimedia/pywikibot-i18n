@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "balasyum"
-        ]
-    },
-    "imagetransfer-file_page_message": "Kép másolása innen: %(site)s. Az eredeti leírás:\n\n%(description)s",
-    "imagetransfer-nowcommons_notice": "A fájl most már elérhető a Wikimedia Commonson"
+	"@metadata": {
+		"authors": [
+			"balasyum"
+		]
+	},
+	"imagetransfer-file_page_message": "Kép másolása innen: %(site)s. Az eredeti leírás:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "A fájl most már elérhető a Wikimedia Commonson"
 }

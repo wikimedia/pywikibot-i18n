@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Meno25"
-        ]
-    },
-    "image-remove": "روبوت - إزالة الصورة %(file)s",
-    "image-replace": "روبوت - استبدال الصورة %(old)s مع %(new)s"
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"image-remove": "روبوت - إزالة الصورة %(file)s",
+	"image-replace": "روبوت - استبدال الصورة %(old)s مع %(new)s"
 }

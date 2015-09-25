@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"image-remove": "Bot: Bildatei %(file)s wechnimen",
+	"image-replace": "Bot: Bildatei %(old)s mä %(new)s ütjbütjet"
+}

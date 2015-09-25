@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"imagetransfer-file_page_message": "Esta imaxe foi copiada de %(site)s. A descrición orixinal era:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "O ficheiro agora está dispoñible en Wikimedia Commons."
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"imagetransfer-file_page_message": "Сликава е прекопирана од %(site)s. Изворниот опис гласеше:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Податотеката сега е достапна на Ризницата."
+}

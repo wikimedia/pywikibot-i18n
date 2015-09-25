@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"image-remove": "Бот: Се отстранува сликата %(file)s",
+	"image-replace": "Бот: Се заменува сликата %(old)s со %(new)s"
+}

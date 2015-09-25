@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Aurimas Fischer"
-        ]
-    },
-    "image-remove": "robotas: Šalinamas vaizdas %(file)s",
-    "image-replace": "robotas: vaizdas %(old)s keičiamas į %(new)s"
+	"@metadata": {
+		"authors": [
+			"Aurimas Fischer"
+		]
+	},
+	"image-remove": "robotas: Šalinamas vaizdas %(file)s",
+	"image-replace": "robotas: vaizdas %(old)s keičiamas į %(new)s"
 }

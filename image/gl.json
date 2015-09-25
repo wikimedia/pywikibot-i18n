@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm"
+		]
+	},
+	"image-remove": "Bot: Eliminando a imaxen %(file)s",
+	"image-replace": "bot: Reemprazando a imaxen %(old)s por %(new)s"
+}

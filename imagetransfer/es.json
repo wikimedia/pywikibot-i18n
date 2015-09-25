@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"imagetransfer-file_page_message": "Esta imagen se copió de %(site)s. La descripción original era:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "El archivo ahora está disponible en Wikimedia Commons."
+}

@@ -8,5 +8,5 @@
 	"unprotect-images": "Bot: desprotección de tódalas imaxes da páxina %(page)s",
 	"unprotect-links": "Bot: desprotección de tódalas páxinas ligadas desde %(page)s",
 	"unprotect-ref": "Bot: desprotección de tódalas páxinas que ligan cara a %(page)s",
-	"unprotect-simple": "Bot: desprotección dunha lista de ficheiros."
+	"unprotect-simple": "Bot: desprotección dunha lista de ficheiros"
 }

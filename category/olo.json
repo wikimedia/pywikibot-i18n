@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"category-adding": "Bottu: Ližätäh kategourii [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(sežo kluasas %(alsocat)s)",
+	"category-removing": "Bottu: Otetah iäre kluasaspäi %(oldcat)s",
+	"category-section-title": "Sivuhistourii endizes joukospäi %(oldcat)s"
+}

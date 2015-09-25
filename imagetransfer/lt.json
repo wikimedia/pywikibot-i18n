@@ -1,9 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Aurimas Fischer"
-        ]
-    },
-    "imagetransfer-file_page_message": "Šis paveikslėlis buvo įkeltas iš %(site)s. Originalus aprašymas buvo:\n\n%(description)s",
-    "imagetransfer-nowcommons_notice": "Failas įkeltas į Wikimedia Commons projektą."
+	"@metadata": {
+		"authors": [
+			"Aurimas Fischer",
+			"Zygimantus"
+		]
+	},
+	"imagetransfer-file_page_message": "Šis paveikslėlis buvo įkeltas iš %(site)s. Originalus aprašymas buvo:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Failą galima pasiekti Vikitekoje."
 }

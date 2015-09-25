@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"checkimages-source-tag-comment": "Bot: se marca un archivo sin etiquetas recientemente subido",
+	"checkimages-source-notice-comment": "Robot: se solicita información de la fuente."
+}

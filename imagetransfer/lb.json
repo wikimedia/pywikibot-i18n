@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"imagetransfer-file_page_message": "Dëst Bild gouf vu(n) %(site)s kopéiert. D'Originalbeschreiwung war:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Fichier ass elo op Wikimedia Commons disponibel"
+}

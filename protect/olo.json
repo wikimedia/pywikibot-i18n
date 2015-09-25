@@ -4,5 +4,9 @@
 			"Mashoi7"
 		]
 	},
-	"protect-images": "Bottu: Vardoiččou kaikkii kuvii sivul %(page)s"
+	"protect-category": "Bottu: Suojatah kai sivut kategouries %(cat)s",
+	"protect-images": "Bottu: Vardoiččou kaikkii kuvii sivul %(page)s",
+	"protect-links": "Bottu: Suojatah kai sivut linkitetty sivuspäi %(page)s",
+	"protect-ref": "Bottu: Suojatah kai sivut, kudamat viitatah sivuh %(page)s",
+	"protect-simple": "Bottu: Suojatah failulistua"
 }

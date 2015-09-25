@@ -1,8 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shinjiman"
-        ]
-    },
-    "imagetransfer-nowcommons_notice": "ファイルはウィキメディア・コモンズにあります"
+	"@metadata": {
+		"authors": [
+			"Shinjiman",
+			"Sujiniku"
+		]
+	},
+	"imagetransfer-file_page_message": "この image は %(site)s からコピーされました。オリジナルの説明は、次の説明です:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "ファイルはウィキメディア・コモンズにあります"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"image-remove": "Rôbô: Manala sary %(file)s",
+	"image-replace": "Rôbô: Manolo sary %(old)s ho %(new)s"
+}

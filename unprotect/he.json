@@ -8,5 +8,5 @@
 	"unprotect-images": "בוט: מסיר הגנה מכל התמונות בדף %(page)s",
 	"unprotect-links": "בוט: מסיר הכנה מכל הדפים שמקושרים מהדף %(page)s",
 	"unprotect-ref": "בוט: מסיר הגנה מכל הדפים שמקשרים על %(page)s",
-	"unprotect-simple": "בוט: מסיר הגנה מרשימת קבצים."
+	"unprotect-simple": "בוט: מסיר הגנה מרשימת קבצים"
 }

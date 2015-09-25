@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Renessaince"
 		]
 	},
 	"unprotect-category": "Робат: зьняцьце абароны з усіх старонак з катэгорыі %(cat)s",
 	"unprotect-images": "Робат: зьняцьце абароны з усіх выяваў на старонцы %(page)s",
 	"unprotect-links": "Робат: зьняцьце абароны з усіх старонак, на якія ёсьць спасылкі з %(page)s",
 	"unprotect-ref": "Робат: зьняцьце абароны з усіх старонак, на якія ёсьць спасылкі з %(page)s",
-	"unprotect-simple": "Робат: зьняцьце абароны зь сьпісу файлаў."
+	"unprotect-simple": "Робат: зьняцьце абароны зь сьпісу файлаў"
 }

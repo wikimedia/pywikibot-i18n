@@ -15,6 +15,7 @@
 	"category-renamed": "Ρομπότ: Μετακινήθηκε από %(oldcat)s. Συντάκτες: %(authors)s",
 	"category-replacing": "Ρομπότ: Αντικατάσταση της κατηγορίας %(oldcat)s με την %(newcat)s",
 	"category-section-title": "Ιστορικό σελίδας της πρώην %(oldcat)s",
+	"category-strip-cfd-templates": "Ρομπότ: Αφαίρεση προτύπων κατηγοριών για διαγραφή ως ολοκλήρωση της ενέργειας",
 	"category-version-history": "Ρομπότ: Αποθήκευση ιστορικού εκδόσεων από την πρώην %(oldcat)s",
 	"category-was-disbanded": "Ρομπότ: Η κατηγορία διαλύθηκε",
 	"category-was-moved": "Ρομπότ: Η κατηγορία μετακινήθηκε στην [[:Category:%(newcat)s|%(title)s]]"

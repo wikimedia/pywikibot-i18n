@@ -10,5 +10,8 @@
 	"pywikibot-enter-namespace-number": "Ebarzhit un takad anvioù dre e niverenn",
 	"pywikibot-enter-new-text": "Ebarzhit an destenn nevez, mar plij:",
 	"pywikibot-enter-page-processing": "Gant peseurt pajenn e ranker plediñ ?",
-	"pywikibot-enter-xml-filename": "Ebarzhit anv ar restr eztennañ XML, mar plij:"
+	"pywikibot-enter-xml-filename": "Ebarzhit anv ar restr eztennañ XML, mar plij:",
+	"pywikibot-fixes-fckeditor": "Robot : Reizhañ HTML an embanner pinvidik",
+	"pywikibot-fixes-html": "Robot : Amdreiñ/reizhañ",
+	"pywikibot-fixes-syntax": "Robot : reizhañ wiki-ereadurezh"
 }

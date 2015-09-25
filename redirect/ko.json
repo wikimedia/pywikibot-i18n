@@ -3,10 +3,11 @@
 		"authors": [
 			"Cwt96",
 			"아라",
-			"IRTC1015"
+			"IRTC1015",
+			"Revi"
 		]
 	},
-	"redirect-broken-redirect-template": "{{ㅅ}}",
+	"redirect-broken-redirect-template": "{{삭제}}",
 	"redirect-fix-broken-moved": "봇: 옮겨진 %(to)s 문서를 가리키도록 끊긴 넘겨주기를 고침",
 	"redirect-fix-double": "봇: %(to)s 문서를 가리키도록 이중 넘겨주기 고침",
 	"redirect-fix-loop": "봇: %(to)s(으)로 재귀적인 넘겨주기 고침",

@@ -1,9 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Nicolas Dumazet"
-        ]
-    },
-    "checkimages-source-tag-comment": "로봇:라이선스 없음",
-    "checkimages-source-notice-comment": "로봇:라이선스 정보 요청"
+	"@metadata": {
+		"authors": [
+			"Nicolas Dumazet",
+			"Revi"
+		]
+	},
+	"checkimages-source-tag-comment": "로봇: 라이선스 없음",
+	"checkimages-source-notice-comment": "로봇: 라이선스 정보 요청"
 }

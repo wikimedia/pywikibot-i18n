@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "lin4h"
-        ]
-    },
-    "image-remove": "ロボットによる：画像削除 %(file)s",
-    "image-replace": "ロボットによる：画像置き換え %(old)s から %(new)s へ"
+	"@metadata": {
+		"authors": [
+			"lin4h"
+		]
+	},
+	"image-remove": "ロボットによる：画像削除 %(file)s",
+	"image-replace": "ロボットによる：画像置き換え %(old)s から %(new)s へ"
 }

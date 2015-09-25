@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "John Vandenberg"
-        ]
-    },
-    "image-remove": "Edit summary for removing an image",
-    "image-replace": "Edit summary for replacing an image"
+	"@metadata": {
+		"authors": [
+			"John Vandenberg"
+		]
+	},
+	"image-remove": "Edit summary for removing an image",
+	"image-replace": "Edit summary for replacing an image"
 }
