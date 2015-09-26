@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shizhao"
+			"Shizhao",
+			"Revi"
 		]
 	},
-	"remove_edp_images-edit-summary": "Robot: Fix EDP image use: [[%(title)s]]"
+	"remove_edp_images-edit-summary": "Bot: Fix EDP image use: [[%(title)s]]"
 }

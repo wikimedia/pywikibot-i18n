@@ -1,9 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Filnik"
-        ]
-    },
+	"@metadata": {
+		"authors": [
+			"Filnik",
+			"Revi"
+		]
+	},
     "checkimages-source-tag-comment": "Bot: Marking newly uploaded untagged file",
-    "checkimages-source-notice-comment": "Robot: Requesting source information."
+    "checkimages-source-notice-comment": "Bot: Requesting source information."
 }
