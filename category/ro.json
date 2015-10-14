@@ -12,6 +12,7 @@
 	"category-renamed": "Robot: Mutat din %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Robot: Înlocuit categoria %(oldcat)s cu %(newcat)s",
 	"category-section-title": "Istoricul paginii pentru fosta %(oldcat)s",
+	"category-strip-cfd-templates": "Robot: Eliminat formatele CFD pentru finalizarea acțiunii",
 	"category-version-history": "Robot: Se salvează istoricul versiunilor pentru vechea %(oldcat)s",
 	"category-was-disbanded": "Robot: Categoria a fost desființată",
 	"category-was-moved": "Robot: Categoria a fost mutată la [[:Category:%(newcat)s|%(title)s]]"

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fwolff"
+		]
+	},
+	"pywikibot-enter-finished-browser": "Druk Enter wanneer u klaar is in die blaaier.",
+	"pywikibot-enter-new-text": "Tik asb. die nuwe teks:",
+	"pywikibot-enter-page-processing": "Watter bladsy moet verwerk word?",
+	"pywikibot-enter-xml-filename": "Gee asb. die XML-lêer se naam:"
+}

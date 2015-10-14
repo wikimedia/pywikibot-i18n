@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"imagetransfer-file_page_message": "Hình này được sao chép từ %(site)s. Miêu tả gốc là:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Tập tin hiện có sẵn trên Wikimedia Commons."
+}

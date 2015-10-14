@@ -8,7 +8,7 @@
 		]
 	},
 	"casechecker-delete-reason": "이 넘겨주기는 %(target)s를 가리킵니다",
-	"casechecker-delete-summary": "봇: 이 넘겨주기는 제목에 키릴 문자 또는 라틴 문자를 포함합니다.",
+	"casechecker-delete-summary": "봇: 이 넘겨주기는 제목에 키릴 문자 또는 라틴 문자를 포함합니다",
 	"casechecker-rename": "로봇: 혼합된 대소문자의 이름을 바꿈",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "봇: 대소문자 교체:"

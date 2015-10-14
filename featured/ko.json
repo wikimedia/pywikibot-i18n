@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Revi"
 		]
 	},
-	"featured-featured": "로봇: %(page)s 문서는 알찬 글입니다",
-	"featured-former": "로봇: %(page)s 문서는 과거에 알찬 글이었습니다",
-	"featured-good": "로봇: %(page)s 문서는 좋은 글입니다",
-	"featured-list": "로봇: %(page)s 문서는 알찬 목록입니다"
+	"featured-featured": "봇: %(page)s 문서는 알찬 글입니다",
+	"featured-former": "봇: %(page)s 문서는 과거에 알찬 글이었습니다",
+	"featured-good": "봇: %(page)s 문서는 좋은 글입니다",
+	"featured-list": "봇: %(page)s 문서는 알찬 목록입니다"
 }

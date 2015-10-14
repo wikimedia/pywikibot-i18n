@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Marfuas"
+			"Marfuas",
+			"WikiPhoenix"
 		]
 	},
 	"unprotect-category": "Bot: Tar bort skydd från alla sidor i kategorin %(cat)s",
 	"unprotect-images": "Bot: Tar bort skydd från alla bilder på sidan %(page)s",
 	"unprotect-links": "Bot: Tar bort skydd från sidor som länkats från %(page)s",
 	"unprotect-ref": "Bot: Tar bort skydd från alla sidor som %(page)s refererar till",
-	"unprotect-simple": "Bot: Tar bort skydd från en lista över filer."
+	"unprotect-simple": "Bot: Tar bort skydd från en lista över filer"
 }

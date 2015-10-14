@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"image-remove": "Bot: Dời tập tin %(file)s",
+	"image-replace": "Bot: Thay hình %(old)s bằng %(new)s"
+}

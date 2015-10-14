@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"image-remove": "Bot: Desaniciando la imaxe %(file)s",
+	"image-replace": "Bot: Trocando la imaxe %(old)s por %(new)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"checkimages-source-tag-comment": "Bot: Đánh dấu một tập tin mới được tải lên mà chưa gắn thẻ",
+	"checkimages-source-notice-comment": "Bot: Yêu cầu thông tin nguồn gốc"
+}

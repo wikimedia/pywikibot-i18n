@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"imagetransfer-file_page_message": "Denna bild kopierades från %(site)s. Originalbeskrivningen var följande:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Filen finns nu tillgänglig på Wikimedia Commons."
+}

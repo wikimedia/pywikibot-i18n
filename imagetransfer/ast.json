@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"imagetransfer-file_page_message": "Esta imaxe copióse de %(site)s. La descripción orixinal era:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "El ficheru agora ta disponible en Wikimedia Commons."
+}

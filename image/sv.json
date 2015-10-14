@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"image-remove": "Bot: Tar bort bilden %(file)s",
+	"image-replace": "Bot: Ersätter bilden %(old)s med %(new)s"
+}

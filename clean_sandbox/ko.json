@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Revi"
 		]
 	},
-	"clean_sandbox-cleaned": "로봇: 연습장을 자동으로 비움"
+	"clean_sandbox-cleaned": "봇: 연습장을 자동으로 비움"
 }
