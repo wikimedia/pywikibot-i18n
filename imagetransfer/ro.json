@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"imagetransfer-file_page_message": "Această imagine a fost copiată de la %(site)s. Descrierea originală era:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Fișierul este acum disponibil la Wikimedia Commons."
+}

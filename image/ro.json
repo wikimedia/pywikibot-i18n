@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minisarm"
+		]
+	},
+	"image-remove": "Robot: Înlăturat imaginea %(file)s",
+	"image-replace": "Robot: Înlocuit imaginea %(old)s cu %(new)s"
+}

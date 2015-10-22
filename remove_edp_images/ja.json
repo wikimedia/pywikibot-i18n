@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Otokoume"
+			"Otokoume",
+			"Sujiniku"
 		]
 	},
-	"remove_edp_images-edit-summary": "ロボットによる: EDP の画像の使用を修正: [[%(title)s]]"
+	"remove_edp_images-edit-summary": "ボットによる: EDP の画像の使用を修正: [[%(title)s]]"
 }

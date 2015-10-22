@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"INS Pirat",
+			"Okras"
+		]
+	},
+	"checkimages-source-tag-comment": "Бот: Пометка недавно загруженных файлов без шаблонов лицензии",
+	"checkimages-source-notice-comment": "Бот: Запрос источника информации."
+}

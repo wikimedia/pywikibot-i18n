@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alex S.H. Lin"
+			"Alex S.H. Lin",
+			"Liuxinyu970226"
 		]
 	},
 	"checkimages-source-tag-comment": "機器人:標示新上傳且未包含必要資訊的檔案",
-	"checkimages-source-notice-comment": "機器人：告知用戶"
+	"checkimages-source-notice-comment": "机器人：正在请求来源信息。"
 }

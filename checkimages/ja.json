@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alex S.H. Lin"
+			"Alex S.H. Lin",
+			"Otokoume"
 		]
 	},
 	"checkimages-source-tag-comment": "ロボットによる:著作権情報なしの画像をタグ",
-	"checkimages-source-notice-comment": "ロボットによる:著作権情報明記のお願い"
+	"checkimages-source-notice-comment": "ボットによる: 著作権情報明記のお願い"
 }

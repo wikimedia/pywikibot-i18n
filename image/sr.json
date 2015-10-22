@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"image-remove": "Бот: уклоњена датотека %(file)s",
+	"image-replace": "Бот: датотека %(old)s замењена са %(new)s"
+}

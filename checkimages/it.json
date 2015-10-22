@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Filnik"
+			"Filnik",
+			"Beta16"
 		]
 	},
 	"checkimages-source-tag-comment": "Bot: Aggiungo unverified",
-	"checkimages-source-notice-comment": "Bot: Notifico l'unverified"
+	"checkimages-source-notice-comment": "Bot: richiedo informazioni sulla fonte"
 }

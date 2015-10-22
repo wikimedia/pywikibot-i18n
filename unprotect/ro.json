@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Strainu"
+			"Strainu",
+			"Minisarm"
 		]
 	},
 	"unprotect-category": "Robot:De-protejarea tuturor paginilor din categoria %(cat)s",
 	"unprotect-images": "Robot: De-protejarea tuturor imaginilor din pagina %(page)s",
 	"unprotect-links": "Robot: De-protejarea tuturor paginilor legate din %(page)s",
 	"unprotect-ref": "Robot: De-protejarea tuturor paginilor care trimit la %(page)s",
-	"unprotect-simple": "Robot: Deprotejarea unei serii de fișiere."
+	"unprotect-simple": "Robot: Deprotejat o listă de fișiere"
 }
