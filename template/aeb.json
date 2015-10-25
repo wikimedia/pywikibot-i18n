@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Csisc"
-		]
-	},
-	"template-substituting": "روبوت: نسخ {{PLURAL:%(num)d|القالب|القوالب}}: %(list)s"
-}

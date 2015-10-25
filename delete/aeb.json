@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Csisc"
-		]
-	},
-	"delete-referring-pages": "روبوت - حذف كل الصفحات الراجعة من %(page)s"
-}

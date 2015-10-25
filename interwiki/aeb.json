@@ -4,6 +4,5 @@
 			"Csisc"
 		]
 	},
-	"interwiki-modifying-from": "Robot: baddel %(from)s il %(modifying)s",
-	"interwiki-removing-modifying": "روبوت إزالة: %(removing)s تعديل: %(modifying)s"
+	"interwiki-modifying-from": "Robot: baddel %(from)s il %(modifying)s"
 }

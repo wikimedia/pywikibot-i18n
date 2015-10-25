@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Csisc"
-		]
-	},
-	"redirect-fix-double": "بوت: تصليح تحويلة مزدوجة إلى %(to)s",
-	"redirect-remove-loop": "هدف التحويلة يصنع عقدة تحويل: Robot"
-}
