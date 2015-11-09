@@ -2,9 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Filnik",
-			"Revi"
+			"Revi",
+			"Rotem Liss",
+			"xqt"
 		]
 	},
-    "checkimages-source-tag-comment": "Bot: Marking newly uploaded untagged file",
-    "checkimages-source-notice-comment": "Bot: Requesting source information."
+	"checkimages-deletion-comment": "Bot: Adding %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: File already on Commons, may be deleted",
+	"checkimages-doubles-head": "Duplicate file",
+	"checkimages-doubles-talk-comment": "Bot: Notify that the file already exists on Commons",
+	"checkimages-log-comment": "Bot: Updating the log",
+	"checkimages-no-license-head": "Image without license",
+	"checkimages-source-tag-comment": "Bot: Marking newly uploaded untagged file",
+	"checkimages-source-notice-comment": "Bot: Requesting source information.",
+	"checkimages-unknown-extension-head": "Unknown extension!",
+	"checkimages-unknown-extension-msg": "The %(file)s file seems to have a wrong extension, please check."
 }

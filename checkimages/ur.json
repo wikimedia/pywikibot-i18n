@@ -2,9 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Amir Sarabadani",
-			"Muhammad Shuaib"
+			"Muhammad Shuaib",
+			"xqt"
 		]
 	},
+	"checkimages-deletion-comment": "روبالہ: اضافہ %(adding)s",
+	"checkimages-log-comment": "روبالہ: تجدید نوشتہ",
+	"checkimages-no-license-head": "تصویر بدون اجازہ",
 	"checkimages-source-tag-comment": "خودکار: جدید اپلوڈ کردہ اور غیر ٹیگ شدہ فائل کی نشان زدگی",
-	"checkimages-source-notice-comment": "خودکار: درخواست ماخذ معلومات"
+	"checkimages-source-notice-comment": "خودکار: درخواست ماخذ معلومات",
+	"checkimages-unknown-extension-head": "نامعلوم توسیع!",
+	"checkimages-unknown-extension-msg": "ملف %(file)s کی توسیع شاید درست نہیں ہے، براہ کرم جانچ لیں۔"
 }

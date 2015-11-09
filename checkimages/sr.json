@@ -1,12 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
+			"Acamicamacaraca",
+			"BadDog",
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca",
-			"BadDog"
+			"xqt",
+			"zoranzoki21"
 		]
 	},
+	"checkimages-deletion-comment": "Бот: Додато %(adding)s",
+	"checkimages-doubles-head": "Дупликат датотеке",
+	"checkimages-doubles-talk-comment": "Бот: Обавештење да датотека већ постоји на Остави",
+	"checkimages-doubles-file-comment": "Бот: Датотека већ постоји на Остави",
+	"checkimages-log-comment": "Бот: Ажурирање дневника",
+	"checkimages-no-license-head": "Датотека без лиценце",
 	"checkimages-source-tag-comment": "Бот: означавам новоотпремљену неозначену датотеку",
-	"checkimages-source-notice-comment": "Бот: тражим извор информација."
+	"checkimages-source-notice-comment": "Бот: тражим извор информација.",
+	"checkimages-unknown-extension-head": "Непозната екстензија!",
+	"checkimages-unknown-extension-msg": "Изгледа да датотека %(file)s садржи погрешну екстензију.",
 }

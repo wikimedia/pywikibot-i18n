@@ -2,9 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Alex S.H. Lin",
-			"Otokoume"
+			"Daniel Herding",
+			"Filnik",
+			"Nicolas Dumazet",
+			"Otokoume",
+			"xqt"
 		]
 	},
+	"checkimages-deletion-comment": "ロボットによる: 追加 %(adding)s",
+	"checkimages-log-comment": "ロボットによる:更新",
 	"checkimages-source-tag-comment": "ボットによる:著作権情報なしのファイルを印付け",
 	"checkimages-source-notice-comment": "ボットによる: 著作権情報明記のお願い"
 }
