@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Hugo.arg",
-			"Xqt"
+			"Xqt",
+			"Sarvaturi"
 		]
 	},
-	"interwiki-adding": "robot junciennu: %(adding)s",
-	"interwiki-adding-modifying": "robot junciennu: %(adding)s canciannu: %(modifying)s",
-	"interwiki-adding-removing": "robot junciennu: %(adding)s livannu: %(removing)s",
-	"interwiki-adding-removing-modifying": "robot junciennu: %(adding)s livannu: %(removing)s canciannu: %(modifying)s",
+	"interwiki-adding": "robot juncennu: %(adding)s",
+	"interwiki-adding-modifying": "robot juncennu: %(adding)s canciannu: %(modifying)s",
+	"interwiki-adding-removing": "robot juncennu: %(adding)s livannu: %(removing)s",
+	"interwiki-adding-removing-modifying": "robot juncennu: %(adding)s livannu: %(removing)s canciannu: %(modifying)s",
 	"interwiki-modifying": "robot canciannu: %(modifying)s",
 	"interwiki-removing": "robot livannu: %(removing)s",
 	"interwiki-removing-modifying": "robot livannu: %(removing)s canciannu: %(modifying)s"

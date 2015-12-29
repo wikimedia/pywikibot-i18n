@@ -4,5 +4,5 @@
 			"Otokoume"
 		]
 	},
-	"commonscat-msg_change": "ボットによる: コモンズカテゴリリンクを [[:Commons:Category:%(oldcat)s|%(oldcat)s]] から [[:Commons:Category:%(newcat)s|%(newcat)s]] へ変更"
+	"commonscat-msg_change": "ボットによる: コモンズカテゴリリンク「[[:Commons:Category:%(oldcat)s|%(oldcat)s]]」を「[[:Commons:Category:%(newcat)s|%(newcat)s]]」へ変更"
 }

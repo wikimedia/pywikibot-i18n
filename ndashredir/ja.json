@@ -5,5 +5,5 @@
 			"Otokoume"
 		]
 	},
-	"ndashredir-create": "ボットによる: ハイフンで連結されたリダイレクトの作成 [[%(title)s]]"
+	"ndashredir-create": "ボットによる: ハイフンで連結されたリダイレクト「[[%(title)s]]」を作成"
 }

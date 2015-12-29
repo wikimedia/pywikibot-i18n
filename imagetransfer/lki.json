@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lakzon"
+		]
+	},
+	"imagetransfer-file_page_message": "تصویر از %(site)s کپی شده‌است.توضیحات اصلی ان این بود::\n\n%(description)s"
+}

@@ -7,9 +7,9 @@
 		]
 	},
 	"category_redirect-add-template": "ボットによる: メンテナンスのためカテゴリ転送テンプレートを追加",
-	"category_redirect-change-category": "ボットによる: 転送されているカテゴリ [[:%(oldCatLink)s|%(oldCatTitle)s]] を [[:%(newCatLink)s|%(newCatTitle)s]] へ変更",
+	"category_redirect-change-category": "ボットによる: 転送されているカテゴリ「[[:%(oldCatLink)s|%(oldCatTitle)s]]」を「[[:%(newCatLink)s|%(newCatTitle)s]]」へ変更",
 	"category_redirect-comment": "カテゴリ転送保守ボット",
 	"category_redirect-edit-request": "以下の保護されたページは、カテゴリリンクの更新が必要であると検出されました: %(itemlist)s",
-	"category_redirect-edit-request-item": "* %(title)sは、%(newcat)sへのリダイレクトである%(oldcat)sに入っています",
+	"category_redirect-edit-request-item": "* 「%(title)s」は、「%(newcat)s」へのリダイレクトである「%(oldcat)s」にカテゴリ分けされています",
 	"category_redirect-fix-double": "ボットによる: 二重転送の修正"
 }

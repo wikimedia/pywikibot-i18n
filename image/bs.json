@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"image-remove": "Bot: Uklanjanje datoteke %(file)s",
+	"image-replace": "Bot: Zamjenjivanje datoteke %(old)s sa %(new)s"
+}

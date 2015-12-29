@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Glavkos"
+		]
+	},
+	"image-remove": "Ρομπότ: Αφαίρεση εικόνας %(file)s",
+	"image-replace": "Ρομπότ: Αντικατάσταση εικόνας %(old)s με %(new)s"
+}

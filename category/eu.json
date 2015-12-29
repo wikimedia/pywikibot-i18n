@@ -9,8 +9,10 @@
 		]
 	},
 	"category-adding": "Robota: [[:Kategoria:%(newcat)s|%(newcat)s]] kategoria eransten",
+	"category-also-in": "(baita ere %(alsocat)s-en)",
 	"category-changing": "Robota: «%(oldcat)s» kategoria «%(newcat)s» kategoriara aldatzen",
 	"category-removing": "Robota: %(oldcat)s -tik ezabatzen",
 	"category-version-history": "Errobota: Antzinako %(oldcat)s bertsio historiala gordetzen",
+	"category-was-disbanded": "Bot: Kategoria ezabatu da",
 	"category-was-moved": "Robota: Kategoria [[:Category:%(newcat)s|%(title)s]]-ra mugitu da"
 }

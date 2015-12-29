@@ -5,7 +5,7 @@
 			"Otokoume"
 		]
 	},
-	"casechecker-delete-reason": "このリダイレクトは、%(target)s を指すために使用されます。",
+	"casechecker-delete-reason": "このリダイレクトは、「%(target)s」へ転送するために使用されます",
 	"casechecker-delete-summary": "ボットによる: このリダイレクトはページ名に同じ外観のキリル文字とラテン文字を含んでいます",
 	"casechecker-rename": "ボットによる: 大文字と小文字が混在する名前の変更",
 	"casechecker-replacement-linklist": "%(source)s → %(target)s",

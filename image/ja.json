@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"lin4h"
+			"lin4h",
+			"Otokoume"
 		]
 	},
-	"image-remove": "ロボットによる：画像削除 %(file)s",
-	"image-replace": "ロボットによる：画像置き換え %(old)s から %(new)s へ"
+	"image-remove": "ボットによる: 画像「%(file)s」を削除",
+	"image-replace": "ボットによる: 画像「%(old)s」を「%(new)s」へ置き換え"
 }

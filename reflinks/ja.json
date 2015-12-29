@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
 	"reflinks-autogen": "自動生成",
-	"reflinks-comment": "ボットが生成したタイトル"
+	"reflinks-comment": "ボットが生成したタイトル",
+	"reflinks-msg": "ボットによる: ref 名を使用した重複の回避のため、丸出しの脚注を変換, [[%(manual)s|FAQ]]を参照"
 }

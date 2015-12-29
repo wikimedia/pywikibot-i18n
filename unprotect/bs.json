@@ -8,5 +8,5 @@
 	"unprotect-images": "Bot: Vraćanje zaštićenja svih slika na stranici %(page)s",
 	"unprotect-links": "Bot: Vraćanje zaštićenja svih stranica koje su linkovane sa stranice %(page)s",
 	"unprotect-ref": "Bot: Vraćanje zaštićenja svih stranica prema kojim ima veza sa stranice %(page)s",
-	"unprotect-simple": "Bot: Uklonjena zaštita spiska datoteka."
+	"unprotect-simple": "Bot: Uklonjena zaštita spiska datoteka"
 }

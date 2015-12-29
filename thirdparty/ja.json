@@ -6,21 +6,21 @@
 			"Otokoume"
 		]
 	},
-	"thirdparty-drtrigonbot-subster-summary-mod": "%(tags)s件のタグの展開",
+	"thirdparty-drtrigonbot-subster-summary-mod": "%(tags)s件のタグを展開",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "議論が変更されました",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "議論終了",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "議論が終了しました",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ボットのメッセージ",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "新規議論",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "通知",
-	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - %(user)sによる[%(history_link)s 最新の編集] (%(page_size)sバイト) (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s すべての議論が終わりました (監視停止) - %(user)sによる最新の編集 (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - %(user)s による[%(history_link)s 最新の編集] (%(page_size)sバイト) (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s すべての議論が終わりました (監視停止) - %(user)s による最新の編集 (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nボットによる出力: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(人間の編集者は見つかりませんでした)",
-	"thirdparty-drtrigonbot-sum_disc-parse-notify": "* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - [[User:%(user)s]]による最新の編集 (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y-%m-%d",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": "* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - [[User:%(user)s]] による最新の編集 (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y年%m%d日",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* ボットによる警告メッセージ: %(page)s「''%(warning)s''」",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "議論の要約の追加: %(num)i件",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "議論の要約の追加および除去: %(num)i件",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "ボット",
-	"thirdparty-drtrigonbot-sum_disc-summary-mod": "議論の要約の更新: %(page)sで%(num)i件"
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "議論の要約の更新: %(page)s で%(num)i件"
 }

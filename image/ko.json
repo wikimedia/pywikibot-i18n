@@ -5,6 +5,6 @@
 			"Revi"
 		]
 	},
-	"image-remove": "로봇: %(file)s 파일을 제거",
-	"image-replace": "로봇: 그림 %(old)s을 %(new)s로 치환"
+	"image-remove": "봇: %(file)s 파일을 제거",
+	"image-replace": "봇: 그림 %(old)s을 %(new)s로 치환"
 }

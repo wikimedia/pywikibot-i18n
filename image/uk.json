@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia"
+		]
+	},
+	"image-remove": "Бот: видалення зображення %(file)s",
+	"image-replace": "Бот: заміна зображення %(old)s на %(new)s"
+}

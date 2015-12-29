@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand Mazeland"
+			"Siebrand Mazeland",
+			"Lokal Profil"
 		]
 	},
-	"followlive-blanking": "Robot tar bort innehåll på grund av '%(content)s'"
+	"followlive-blanking": "Rensad, innehållet var '%(content)s'."
 }

@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Умар"
+			"Умар",
+			"Исмаил Садуев"
 		]
 	},
-	"casechecker-delete-reason": "ХӀара дӀассахьажораг лелош ю %(target)s тӀе билгалоян",
+	"casechecker-delete-reason": "ХӀара дӀассахьажораг лелош ю %(target)s тӀе билгало ян",
 	"casechecker-delete-summary": "бот: ДӀассхьажораг латин а, кириллица а йийна ю",
 	"casechecker-rename": "Бот: йийна регистр дӀассахьажор",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",

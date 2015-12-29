@@ -3,12 +3,13 @@
 		"authors": [
 			"Jopparn",
 			"Lokal Profil",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Skalman"
 		]
 	},
 	"casechecker-delete-reason": "Denna omdirigering pekade tidigare på %(target)s",
 	"casechecker-delete-summary": "Bot: Denna omdirigering innehåller kyrilliska och latinska bokstäver i titeln som är identiska till utseende",
 	"casechecker-rename": "Bot: omdöpning på grund av blandning mellan kyrilliska och latin",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Bot: Ersätter versalisering"
+	"casechecker-replacement-summary": "Bot: Ersätter versalisering:"
 }

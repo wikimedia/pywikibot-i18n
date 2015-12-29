@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jopparn"
+			"Jopparn",
+			"Lokal Profil"
 		]
 	},
-	"piper-edit-summary": "Robot: Piping artikeltexten genom %(filters)s"
+	"piper-edit-summary": "Bot: Kör artikeltexten genom %(filters)s"
 }

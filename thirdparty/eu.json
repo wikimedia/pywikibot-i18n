@@ -4,10 +4,12 @@
 			"Fitoschido",
 			"Subi",
 			"Theklan",
-			"Unai Fdz. de Betoño"
+			"Unai Fdz. de Betoño",
+			"An13sa"
 		]
 	},
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Eztabaida aldatu da",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Eztabaida itxita",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT MEZUA",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Eztabaida berria",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Jakinarazpena",

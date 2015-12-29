@@ -4,5 +4,5 @@
 			"Otokoume"
 		]
 	},
-	"spamremove-remove": "迷惑サイトのリンクを削除 %(url)s"
+	"spamremove-remove": "迷惑サイトのリンク「%(url)s」を除去"
 }

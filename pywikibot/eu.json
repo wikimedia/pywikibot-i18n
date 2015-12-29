@@ -6,5 +6,7 @@
 	},
 	"pywikibot-enter-category-name": "Mesedez, sar ezazu kategoriaren izena:",
 	"pywikibot-enter-new-text": "Mesedez, sar ezazu testu berria:",
-	"pywikibot-enter-page-processing": "Zein orrialde prozesatu behar da?"
+	"pywikibot-enter-page-processing": "Zein orrialde prozesatu behar da?",
+	"pywikibot-fixes-html": "Bot: HTMLa bihurtzen/konpontzen",
+	"pywikibot-fixes-syntax": "Bot: Wiki-sintaxia zuzentzen"
 }

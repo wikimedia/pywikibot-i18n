@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"아라",
-			"Kwj2772"
+			"Kwj2772",
+			"Revi"
 		]
 	},
-	"noreferences-add-tag": "로봇: 없던 <references /> 태그 추가",
+	"noreferences-add-tag": "봇: 없던 <references /> 태그 추가",
 	"noreferences-fix-tag": "봇: 잘못된 <references /> 태그 문법을 수정"
 }

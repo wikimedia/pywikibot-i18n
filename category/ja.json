@@ -9,16 +9,16 @@
 			"Otokoume"
 		]
 	},
-	"category-adding": "ボットによる: カテゴリ追加 [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-also-in": "(%(alsocat)s にも入っています)",
-	"category-changing": "ボットによる: カテゴリ変更 %(oldcat)s → %(newcat)s",
-	"category-listifying": "ボットによる: %(fromcat)s からリスト化 ({{PLURAL:%(num)d|%(num)d件}})",
-	"category-removing": "ボットによる: [[%(oldcat)s]] を除去",
-	"category-renamed": "ボットによる: %(oldcat)s から移動。著者: %(authors)s",
-	"category-replacing": "ボットによる: カテゴリ変更 [[%(oldcat)s]] → [[%(newcat)s]]",
-	"category-section-title": "以前の %(oldcat)s のページ履歴",
+	"category-adding": "ボットによる: カテゴリ「[[:Category:%(newcat)s|%(newcat)s]]」を追加",
+	"category-also-in": "(「%(alsocat)s」にもカテゴリ分けされています)",
+	"category-changing": "ボットによる: カテゴリ「%(oldcat)s」を「%(newcat)s」へ変更",
+	"category-listifying": "ボットによる: 「%(fromcat)s」からリスト化 ({{PLURAL:%(num)d|%(num)d件}})",
+	"category-removing": "ボットによる: 「[[%(oldcat)s]]」を除去",
+	"category-renamed": "ボットによる: 「%(oldcat)s」から移動。作成者: %(authors)s",
+	"category-replacing": "ボットによる: カテゴリ「%(oldcat)s」を「%(newcat)s」へ変更",
+	"category-section-title": "以前の「%(oldcat)s」のページ履歴",
 	"category-strip-cfd-templates": "ボットによる: 完了したアクションの CFD テンプレートを削除",
-	"category-version-history": "ボットによる: 以前の %(oldcat)s の更新履歴の保存",
+	"category-version-history": "ボットによる: 以前の「%(oldcat)s」の更新履歴の保存",
 	"category-was-disbanded": "ボットによる: カテゴリを廃止",
-	"category-was-moved": "ボットによる: カテゴリを [[:Category:%(newcat)s|%(title)s]] へ移動"
+	"category-was-moved": "ボットによる: カテゴリを「[[:Category:%(newcat)s|%(title)s]]」へ移動"
 }

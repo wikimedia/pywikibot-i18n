@@ -4,5 +4,5 @@
 			"Otokoume"
 		]
 	},
-	"piper-edit-summary": "ロボットによる: %(filters)s を使用して記事のテキストをパイピング"
+	"piper-edit-summary": "ボットによる: 「%(filters)s」を使用して記事のテキストをパイピング"
 }

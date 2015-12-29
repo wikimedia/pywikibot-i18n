@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kurniasan"
+		]
+	},
+	"image-remove": "Bot: Membuang imej %(file)s",
+	"image-replace": "Bot: Menggantikan imej %(old)s dengan %(new)s"
+}

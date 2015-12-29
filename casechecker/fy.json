@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Elisardojm",
-			"Robin0van0der0vliet"
+			"Robin0van0der0vliet",
+			"Robin van der Vliet"
 		]
 	},
 	"casechecker-replacement-linklist": "%(source)s→%(target)s"

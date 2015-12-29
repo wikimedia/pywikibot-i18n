@@ -4,5 +4,5 @@
 			"Otokoume"
 		]
 	},
-	"replace-replacing": "ボットによる: 文字置き換え %(description)s"
+	"replace-replacing": "ボットによる: 文字を「%(description)s」で置換"
 }

@@ -6,6 +6,6 @@
 			"Otokoume"
 		]
 	},
-	"table2wiki-no-warning": "ボットによる: 表をHTMLからウィキ構文に更新",
-	"table2wiki-warnings": "ボットによる: 表をHTMLからウィキ構文に更新 - 警告 {{PLURAL:count|1|%(count)d}}"
+	"table2wiki-no-warning": "ボットによる: 表を HTML からウィキ構文に更新",
+	"table2wiki-warnings": "ボットによる: 表を HTML からウィキ構文に更新 - 警告 {{PLURAL:count|1|%(count)d}}"
 }

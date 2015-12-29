@@ -11,5 +11,6 @@
 	"pywikibot-enter-namespace-number": "Numreyê cı ra yew name cı kewê:",
 	"pywikibot-enter-new-text": "Nuşteyê newey cı kewê:",
 	"pywikibot-enter-page-processing": "Kamci pele wa bınuşiyo?",
-	"pywikibot-enter-xml-filename": "Nameyê yedegê dosya XMLi cı kewê:"
+	"pywikibot-enter-xml-filename": "Nameyê yedegê dosya XMLi cı kewê:",
+	"pywikibot-fixes-syntax": "Bot: Wiki-sentaks raşt ke"
 }

@@ -4,5 +4,6 @@
 			"Ahmed-Najib-Biabani-Ibrahimkhel"
 		]
 	},
-	"category-adding": "روباټ: وېشنيزه ورگډول [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "روباټ: وېشنيزه ورگډول [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(همداراز په %(alsocat)s کې)"
 }

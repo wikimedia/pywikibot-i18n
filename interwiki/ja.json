@@ -6,12 +6,12 @@
 			"Otokoume"
 		]
 	},
-	"interwiki-adding": "ボットによる: %(adding)s を追加",
-	"interwiki-adding-modifying": "ボットによる: %(adding)s を追加、%(modifying)s を変更",
-	"interwiki-adding-removing": "ボットによる: %(adding)s を追加、%(removing)s を除去",
-	"interwiki-adding-removing-modifying": "ボットによる: %(adding)s を追加、%(removing)s を除去、%(modifying)s を変更",
-	"interwiki-modifying": "ボットによる: %(modifying)s を変更",
-	"interwiki-modifying-from": "ボットによる: %(from)s から %(modifying)s へ変更",
-	"interwiki-removing": "ボットによる: %(removing)s を除去",
-	"interwiki-removing-modifying": "ボットによる: %(removing)s を除去、%(modifying)s を変更"
+	"interwiki-adding": "ボットによる: 「%(adding)s」を追加",
+	"interwiki-adding-modifying": "ボットによる: 「%(adding)s」を追加、「%(modifying)s」を変更",
+	"interwiki-adding-removing": "ボットによる: 「%(adding)s」を追加、「%(removing)s」を除去",
+	"interwiki-adding-removing-modifying": "ボットによる: 「%(adding)s」を追加、「%(removing)s」を除去、「%(modifying)s」を変更",
+	"interwiki-modifying": "ボットによる: 「%(modifying)s」を変更",
+	"interwiki-modifying-from": "ボットによる: 「%(from)s」を「%(modifying)s」へ変更",
+	"interwiki-removing": "ボットによる: 「%(removing)s」を除去",
+	"interwiki-removing-modifying": "ボットによる: 「%(removing)s」を除去、「%(modifying)s」を変更"
 }

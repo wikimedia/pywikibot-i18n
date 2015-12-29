@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Sarvaturi"
 		]
 	},
-	"category-adding": "robot: junciennu category [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "robot: juncennu category [[:Category:%(newcat)s|%(newcat)s]]"
 }

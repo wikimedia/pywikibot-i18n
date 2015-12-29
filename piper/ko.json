@@ -4,5 +4,5 @@
 			"Revi"
 		]
 	},
-	"piper-edit-summary": "로봇: %(filters)s 필터를 이용해 본문 텍스트 묶기"
+	"piper-edit-summary": "봇: %(filters)s 필터를 이용해 본문 텍스트 묶기"
 }

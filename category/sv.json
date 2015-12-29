@@ -5,18 +5,19 @@
 			"Cybjit",
 			"Lokal Profil",
 			"WikiPhoenix",
-			"Jopparn"
+			"Jopparn",
+			"Skalman"
 		]
 	},
 	"category-adding": "Bot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(också i %(alsocat)s)",
 	"category-changing": "Bot: Ändrar %(oldcat)s till %(newcat)s",
-	"category-listifying": "Bot: Skapar en lista från %(fromcat)s (%(num)d)",
+	"category-listifying": "Bot: Skapar en lista från %(fromcat)s (%(num)d st)",
 	"category-removing": "Bot: Tar bort från %(oldcat)s",
 	"category-renamed": "Bot: Flyttad från %(oldcat)s. Författare: %(authors)s",
 	"category-replacing": "Bot: Ersätter kategorin %(oldcat)s med %(newcat)s",
 	"category-section-title": "Sidhistorik från tidigare %(oldcat)s",
-	"category-strip-cfd-templates": "Bot: Tar bort CFD-mallar för genomförda åtgärder",
+	"category-strip-cfd-templates": "Bot: Tar bort raderingsmallar för genomförd åtgärd",
 	"category-version-history": "Bot: Sparar versionshistorik från tidigare %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategorin upplöstes",
 	"category-was-moved": "Bot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]"

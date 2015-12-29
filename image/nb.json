@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo"
+		]
+	},
+	"image-remove": "Bot: Fjerner bildet %(file)s",
+	"image-replace": "Bot: Erstatter bildet %(old)s med %(new)s"
+}

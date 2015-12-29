@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia"
+		]
+	},
+	"imagetransfer-file_page_message": "Зображення було скопійоване з %(site)s. Первісний опис був:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Файл тепер доступний на Вікісховищі."
+}

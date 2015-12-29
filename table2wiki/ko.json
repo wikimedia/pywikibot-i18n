@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Revi"
 		]
 	},
 	"table2wiki-no-warning": "사용자가 제어한 봇: 표 구문을 업데이트함",
-	"table2wiki-warnings": "사용자가 제어한 로봇: 테이블 구문을 업데이트했습니다! - {{PLURAL:count|경고 1개|경고 %(count)d개}}"
+	"table2wiki-warnings": "사용자가 제어한 봇: 테이블 구문을 업데이트했습니다! - {{PLURAL:count|경고 1개|경고 %(count)d개}}"
 }

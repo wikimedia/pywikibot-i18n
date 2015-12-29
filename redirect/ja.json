@@ -6,9 +6,9 @@
 			"Otokoume"
 		]
 	},
-	"redirect-fix-broken-moved": "ボットによる: 迷子のリダイレクトの転送先を「%(to)s」に修正",
-	"redirect-fix-double": "ボットによる: 二重転送の修正 → %(to)s",
-	"redirect-fix-loop": "ボットによる: リダイレクトのループの修正 → %(to)s",
+	"redirect-fix-broken-moved": "ボットによる: 迷子のリダイレクトの転送先を「%(to)s」へ修正",
+	"redirect-fix-double": "ボットによる: 「%(to)s」への二重転送を修正",
+	"redirect-fix-loop": "ボットによる: 「%(to)s」へのリダイレクトのループを修正",
 	"redirect-remove-broken": "ボットによる: 削除済みまたは存在しないページへのリダイレクト",
 	"redirect-remove-loop": "ボットによる: 転送先にあるリダイレクトのループを修正"
 }

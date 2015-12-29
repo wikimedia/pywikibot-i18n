@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Danmichaelo"
+		]
+	},
+	"imagetransfer-file_page_message": "Dette bildet ble kopiert fra %(site)s. Den originale beskrivelsen var:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Bildet er nå tilgjengelig på Wikimedia Commons."
+}

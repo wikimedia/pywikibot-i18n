@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"image-remove": "Bot: %(file)s irudia kentzen",
+	"image-replace": "Bot: %(new)s irudia %(old)s irudiaren ordez jartzen"
+}

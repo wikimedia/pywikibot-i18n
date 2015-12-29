@@ -4,5 +4,5 @@
 			"Otokoume"
 		]
 	},
-	"makecat-create": "ボットによる: [[:Category:%(cat)s|]] カテゴリを作成または更新"
+	"makecat-create": "ボットによる: カテゴリ「[[:Category:%(cat)s|]]」を作成または更新"
 }

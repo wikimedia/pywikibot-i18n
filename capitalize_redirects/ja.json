@@ -4,5 +4,5 @@
 			"Otokoume"
 		]
 	},
-	"capitalize_redirects-create-redirect": "ボットによる: リダイレクト作成 [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "ボットによる: 「[[%(to)s]]」へのリダイレクト作成"
 }

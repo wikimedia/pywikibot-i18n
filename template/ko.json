@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Revi"
 		]
 	},
-	"template-changing": "로봇: {{PLURAL:%(num)d|틀}} 바꿈: %(list)s",
-	"template-removing": "로봇: {{PLURAL:%(num)d|틀}} 제거: %(list)s",
-	"template-substituting": "로봇: {{PLURAL:%(num)d|틀}} 전개: %(list)s"
+	"template-changing": "봇: {{PLURAL:%(num)d|틀}} 바꿈: %(list)s",
+	"template-removing": "봇: {{PLURAL:%(num)d|틀}} 제거: %(list)s",
+	"template-substituting": "봇: {{PLURAL:%(num)d|틀}} 전개: %(list)s"
 }
