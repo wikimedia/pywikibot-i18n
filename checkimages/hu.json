@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Filnik"
+			"Filnik",
+			"Tacsipacsi"
 		]
 	},
-	"checkimages-source-tag-comment": "Robot: Frissen feltöltött licencsablon nélküli fájl megjelölése",
-	"checkimages-source-notice-comment": "Robot: Forrásinformáció kérése"
+	"checkimages-source-tag-comment": "Bot: Frissen feltöltött licencsablon nélküli fájl megjelölése",
+	"checkimages-source-notice-comment": "Bot: Forrásinformáció kérése"
 }

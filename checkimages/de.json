@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"xqt",
-			"Metalhead64"
+			"Metalhead64",
+			"Xqt"
 		]
 	},
-	"checkimages-source-tag-comment": "Bot: Markiere mit {{[[Wikipedia:Dateiüberprüfung/Anleitung|DÜP]]}}, da keine Lizenzvorlage gefunden — bitte nicht entfernen, Informationen bald auf der Benutzerdiskussion des Uploaders.",
+	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
 	"checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme."
 }
