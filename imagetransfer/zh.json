@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alex S.H. Lin"
+			"Alex S.H. Lin",
+			"Liuxinyu970226"
 		]
 	},
-	"imagetransfer-file_page_message": "本圖像從 %(site)s 複製，原始說明資料：\n\n%(description)s",
-	"imagetransfer-nowcommons_notice": "檔案已存在於維基共享資源。"
+	"imagetransfer-file_page_message": "此图片从%(site)s复制。原始描述内容为：\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "文件现已在维基共享资源可用。"
 }

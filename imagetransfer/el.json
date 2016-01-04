@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Glavkos"
+			"Glavkos",
+			"Geraki"
 		]
 	},
 	"imagetransfer-file_page_message": "Αυτή η εικόνα αντιγράφτηκε από  from %(site)s. Η αρχική περιγραφή ήταν:\n\n\n%(description)s",
-	"imagetransfer-nowcommons_notice": "Το αρχείο είναι τώρα διαθέσιμο στα Κοινά του Wikimedia."
+	"imagetransfer-nowcommons_notice": "Το αρχείο είναι τώρα διαθέσιμο στα Wikimedia Commons."
 }
