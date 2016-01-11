@@ -4,5 +4,13 @@
 			"संजीव कुमार"
 		]
 	},
-	"pywikibot-enter-xml-filename": "कृपया एक्स॰एम॰एल॰ फाइल नाम लिखें"
+	"pywikibot-enter-category-name": "कृपया श्रेणी का नाम लिखें:",
+	"pywikibot-enter-finished-browser": "जब ब्राउजर में समाप्त हो जाये तब एंटर बटन दबायें।",
+	"pywikibot-enter-namespace-number": "कृपया सम्बंधित संख्या द्वारा नामस्थान लिखें:",
+	"pywikibot-enter-new-text": "कृपया नया पाठ डालें:",
+	"pywikibot-enter-page-processing": "कौन सा पृष्ठ प्रक्रमणित किया जाना चाहिए?",
+	"pywikibot-enter-xml-filename": "कृपया एक्स॰एम॰एल॰ फाइल नाम लिखें",
+	"pywikibot-fixes-fckeditor": "बॉट: रिच-सम्पादक से ऍच॰टी॰एम॰एल॰ सुधार",
+	"pywikibot-fixes-html": "बॉट: ऍच॰टी॰एम॰एल॰ परिवर्तन/सुधार",
+	"pywikibot-fixes-syntax": "बॉट: विकि वाक्य-विन्यास सुधार"
 }

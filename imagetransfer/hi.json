@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"संजीव कुमार"
+		]
+	},
+	"imagetransfer-file_page_message": "यह चित्र %(site)s से प्रतिलिपि किया गया है। इसका मूल विवरण निम्नलिखित था:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "वर्तमान में यह चित्र विकिमीडिया कॉमन्स पर उपलब्ध है।"
+}

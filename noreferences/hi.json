@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mayur"
+			"Mayur",
+			"संजीव कुमार"
 		]
 	},
-	"noreferences-add-tag": "<references /> टैग जोड़ा"
+	"noreferences-add-tag": "<references /> टैग जोड़ा",
+	"noreferences-fix-tag": "बॉट: चिप्पि <references /> के अवैध वाक्य-विन्यास को ठीक करें।"
 }

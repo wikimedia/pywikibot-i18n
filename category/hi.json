@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siddhartha Ghai"
+			"Siddhartha Ghai",
+			"संजीव कुमार"
 		]
 	},
 	"category-adding": "बॉट: [[:Category:%(newcat)s|%(newcat)s]] श्रेणी जोड़ रहा है",
@@ -12,6 +13,7 @@
 	"category-renamed": "बॉट: %(oldcat)s से स्थानांतरित। लेखक: %(authors)s",
 	"category-replacing": "बॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है",
 	"category-section-title": "पुरानी %(oldcat)s का पृष्ठ इतिहास",
+	"category-strip-cfd-templates": "बॉट: कार्य पूर्ण होने के बाद श्रेणी-हटाने का साँचा हटाया जा रहा है।",
 	"category-version-history": "बॉट: पुरानी %(oldcat)s का अवतरण इतिहास सहेज रहा है",
 	"category-was-disbanded": "बॉट: श्रेणी समाप्त कर दी गयी",
 	"category-was-moved": "बॉट: श्रेणी को [[:Category:%(newcat)s|%(title)s]] पर स्थानांतरित किया गया"
