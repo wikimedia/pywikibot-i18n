@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"category-adding": "робот: хушрĕ category [[:Category:%(newcat)s|%(newcat)s]]"
+	"@metadata": {
+		"authors": [
+			"Chuvash2014"
+		]
+	},
+	"category-adding": "Бот: категори хушни [[:Category:%(newcat)s|%(newcat)s]]"
 }

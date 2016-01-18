@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|تصویر]] کو [[:commons:File:%(commonsfile)s|کومنز]] میں منتقل کر دیا گیا۔",
+	"commons-file-now-available": "اب تصویر [[:commons:File:%(commonsfile)s|ویکیمیڈیا کامنز]] پر دستیاب ہے۔"
+}

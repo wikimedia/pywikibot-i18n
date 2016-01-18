@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Salam"
+			"Salam",
+			"Chuvash2014"
 		]
 	},
-	"isbn-formatting": "робот: ISBN улӑштарни"
+	"isbn-formatting": "Бот: ISBN улӑштарни"
 }

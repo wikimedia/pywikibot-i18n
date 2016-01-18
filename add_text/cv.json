@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "робот хушрĕ %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Chuvash2014"
+		]
+	},
+	"add_text-adding": "Бот хушрĕ: %(adding)s"
 }

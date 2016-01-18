@@ -1,10 +1,14 @@
 {
-	"@metadata": [],
-	"interwiki-adding": "робот хушрĕ: %(adding)s",
-	"interwiki-adding-modifying": "робот хушрĕ: %(adding)s улăштарчĕ: %(modifying)s",
-	"interwiki-adding-removing": "робот хушрĕ: %(adding)s кăларса пăрахрĕ: %(removing)s",
-	"interwiki-adding-removing-modifying": "робот хушрĕ: %(adding)s кăларса пăрахрĕ: %(removing)s улăштарчĕ: %(modifying)s",
-	"interwiki-modifying": "робот улăштарчĕ: %(modifying)s",
-	"interwiki-removing": "робот кăларса пăрахрĕ: %(removing)s",
-	"interwiki-removing-modifying": "робот кăларса пăрахрĕ: %(removing)s улăштарчĕ: %(modifying)s"
+	"@metadata": {
+		"authors": [
+			"Chuvash2014"
+		]
+	},
+	"interwiki-adding": "Бот хушрĕ: %(adding)s",
+	"interwiki-adding-modifying": "Бот хушрĕ: %(adding)s; улăштарчĕ %(modifying)s",
+	"interwiki-adding-removing": "Бот хушрĕ: %(adding)s; кăларса пăрахрĕ: %(removing)s",
+	"interwiki-adding-removing-modifying": "Бот хушрĕ: %(adding)s; кăларса пăрахрĕ %(removing)s; улăштарчĕ %(modifying)s",
+	"interwiki-modifying": "Бот: улăштарчĕ %(modifying)s",
+	"interwiki-removing": "Бот: кăларса пăрахрĕ %(removing)s",
+	"interwiki-removing-modifying": "Бот: кăларса пăрахрĕ %(removing)s; улăштарчĕ %(modifying)s"
 }
