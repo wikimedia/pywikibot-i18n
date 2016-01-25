@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Abruozdielis]] bova parnešts i [[:commons:File:%(commonsfile)s|Vikiteka]].",
+	"commons-file-now-available": "Daba abruozdielis ī randams [[:commons:File:%(commonsfile)s|Vikitekuo]]."
+}
