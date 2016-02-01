@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Silovan"
+		]
+	},
+	"category-adding": "ბოტი: კატეგორიშ გეძინა [[:Category:%(newcat)s|%(newcat)s]]"
+}
