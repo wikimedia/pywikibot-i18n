@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Danmichaelo"
+			"Danmichaelo",
+			"SuperPotato"
 		]
 	},
-	"interwikidata-clean-summary": "Bot: Rydder vekk gamle interwikilenker"
+	"interwikidata-clean-summary": "Robot: Rydder vekk gamle interwikilenker"
 }

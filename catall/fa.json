@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"catall-changing": "ربات: تغییر رده‌ها"
+	"@metadata": {
+		"authors": [
+			"Dalba"
+		]
+	},
+	"catall-changing": "ربات: تغییردادن رده‌ها"
 }

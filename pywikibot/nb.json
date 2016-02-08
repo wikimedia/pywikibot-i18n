@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Danmichaelo",
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"SuperPotato"
 		]
 	},
 	"pywikibot-enter-category-name": "Skriv inn kategorinavnet:",
@@ -12,7 +13,7 @@
 	"pywikibot-enter-new-text": "Skriv inn den nye teksten:",
 	"pywikibot-enter-page-processing": "Hvilken side skal behandles?",
 	"pywikibot-enter-xml-filename": "Skriv inn XML-dumpens filnavn:",
-	"pywikibot-fixes-fckeditor": "Bot: Fikser HTML fra wysiwyg-editor",
-	"pywikibot-fixes-html": "Bot: Konverterer/fikser HTML",
-	"pywikibot-fixes-syntax": "Bot: Fikser wikisyntaks"
+	"pywikibot-fixes-fckeditor": "Robot: Fikser HTML fra wysiwyg-editor",
+	"pywikibot-fixes-html": "Robot: Konverterer/fikser HTML",
+	"pywikibot-fixes-syntax": "Robot: Fikser wikisyntaks"
 }

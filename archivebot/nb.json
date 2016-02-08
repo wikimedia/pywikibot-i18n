@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Xqt",
-			"Danmichaelo"
+			"Danmichaelo",
+			"SuperPotato"
 		]
 	},
 	"archivebot-archive-full": "(ARKIV FULLT)",
-	"archivebot-archive-summary": "Bot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].",
+	"archivebot-archive-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} fra [[%(from)s]].",
 	"archivebot-archiveheader": "{{Arkivert}}",
 	"archivebot-older-than": "eldre enn %(duration)s",
 	"archivebot-page-summary": "Bot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråder}} (%(why)s) til %(archives)s."

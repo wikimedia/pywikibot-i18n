@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Nghtwlkr",
-			"Danmichaelo"
+			"Danmichaelo",
+			"SuperPotato"
 		]
 	},
 	"noreferences-add-tag": "Robot: Legger til manglende <references />-element",
-	"noreferences-fix-tag": "Bot: Korrigerer <references />-syntaks"
+	"noreferences-fix-tag": "Robot: Korrigerer <references />-syntaks"
 }

@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"SuperPotato"
 		]
 	},
-	"interwiki-adding": "robot Legger til: %(adding)s",
-	"interwiki-adding-modifying": "robot Legger til: %(adding)s Endrer: %(modifying)s",
-	"interwiki-adding-removing": "robot Legger til: %(adding)s Fjerner: %(removing)s",
-	"interwiki-adding-removing-modifying": "robot Legger til: %(adding)s Fjerner: %(removing)s Endrer: %(modifying)s",
-	"interwiki-modifying": "robot Endrer: %(modifying)s",
+	"interwiki-adding": "Robot: Legger til: %(adding)s",
+	"interwiki-adding-modifying": "Robot: Legger til: %(adding)s Endrer: %(modifying)s",
+	"interwiki-adding-removing": "Robot: Legger til: %(adding)s Fjerner: %(removing)s",
+	"interwiki-adding-removing-modifying": "Robot: Legger til: %(adding)s Fjerner: %(removing)s Endrer: %(modifying)s",
+	"interwiki-modifying": "Robot: Endrer: %(modifying)s",
 	"interwiki-modifying-from": "Robot: Endrer %(from)s til %(modifying)s",
-	"interwiki-removing": "robot Fjerner: %(removing)s",
-	"interwiki-removing-modifying": "robot Fjerner: %(removing)s Endrer: %(modifying)s"
+	"interwiki-removing": "Robot: Fjerner: %(removing)s",
+	"interwiki-removing-modifying": "Robot: Fjerner: %(removing)s; Endrer: %(modifying)s"
 }

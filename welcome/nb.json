@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lokal Profil"
+			"Lokal Profil",
+			"SuperPotato"
 		]
 	},
-	"welcome-bad_username": "Bot: Legger til et brukernavn som må sjekkes",
-	"welcome-updating": "Bot: Oppdaterer logg",
+	"welcome-bad_username": "Robot: Legger til et brukernavn som må sjekkes",
+	"welcome-updating": "Robot: Oppdaterer logg",
 	"welcome-welcome": "Velkommen!"
 }

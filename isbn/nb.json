@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"SuperPotato"
 		]
 	},
-	"isbn-formatting": "robot: Formaterer ISBN"
+	"isbn-formatting": "Robot: Formaterer ISBN"
 }

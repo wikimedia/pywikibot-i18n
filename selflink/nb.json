@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"selflink-remove": "robot: fjerner selvlenker"
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"selflink-remove": "Robot: Fjerner selvlenker"
 }

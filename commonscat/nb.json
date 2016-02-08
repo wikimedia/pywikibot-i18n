@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Danmichaelo"
+			"Danmichaelo",
+			"SuperPotato"
 		]
 	},
-	"commonscat-msg_change": "Bot: Endrer commonscat-lenke fra [[:Commons:Category:%(oldcat)s|%(oldcat)s]] til [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Robot: Endrer commonscat-lenke fra [[:Commons:Category:%(oldcat)s|%(oldcat)s]] til [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

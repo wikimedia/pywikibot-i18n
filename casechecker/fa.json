@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Alirezaaa",
-			"Reza1615"
+			"Reza1615",
+			"Dalba"
 		]
 	},
 	"casechecker-delete-reason": "این تغییرمسیر برای اشاره به %(target)s است",
 	"casechecker-delete-summary": "ربات: این تغییرمسیر شامل حروف مشابه لاتین و سیریلیک در عنوانش است",
 	"casechecker-rename": "ربات: تغییرنام ترکیبی از حروف بزرگ و کوچک",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "ربات: جایگزین‌های موردی:"
+	"casechecker-replacement-summary": "ربات: اصلاح حروف بزرگ و کوچک:"
 }

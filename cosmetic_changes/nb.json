@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
 	"cosmetic_changes-append": "; kosmetiske endringer",
-	"cosmetic_changes-standalone": "Bot: Kosmetiske endringer"
+	"cosmetic_changes-standalone": "Robot: Kosmetiske endringer"
 }

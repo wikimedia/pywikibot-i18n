@@ -3,7 +3,8 @@
 		"authors": [
 			"Danmichaelo",
 			"Jon Harald Søby",
-			"Nghtwlkr"
+			"Nghtwlkr",
+			"SuperPotato"
 		]
 	},
 	"category-adding": "Robot: Legger til kategorien [[:Category:%(newcat)s|%(newcat)s]]",
@@ -11,10 +12,10 @@
 	"category-changing": "Robot: Endrer %(oldcat)s til %(newcat)s",
 	"category-listifying": "Robot: Gjør om kategorien %(fromcat)s til liste (%(num)d elementer)",
 	"category-removing": "Robot: Fjerner ifra %(oldcat)s",
-	"category-renamed": "bot: Flytta fra %(oldcat)s. Forfattere: %(authors)s",
+	"category-renamed": "Robot: Flyttet fra %(oldcat)s. Forfattere: %(authors)s",
 	"category-replacing": "Robot: Erstatter kategorien %(oldcat)s med %(newcat)s",
 	"category-section-title": "Sidehistorikk fra den eldre %(oldcat)s",
-	"category-strip-cfd-templates": "Bot: Fjerner CFD-maler for avsluttede saker",
+	"category-strip-cfd-templates": "Robot: Fjerner CFD-maler for avsluttede saker",
 	"category-version-history": "Robot: Lagrer versjonshistorikk fra den eldre %(oldcat)s",
 	"category-was-disbanded": "Robot: Kategorien ble oppløst",
 	"category-was-moved": "Robot: Kategorien ble flyttet til [[:Category:%(newcat)s|%(title)s]]"

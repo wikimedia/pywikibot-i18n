@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "robot Legger til %(adding)s"
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"add_text-adding": "Robot: Legger til %(adding)s"
 }

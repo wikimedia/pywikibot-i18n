@@ -3,13 +3,14 @@
 		"authors": [
 			"Danmichaelo",
 			"Jon Harald Søby",
-			"Xqt"
+			"Xqt",
+			"SuperPotato"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "erstatter %(tags)s tagg(er)",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Diskusjon endret",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskusjon stengt",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOTMELDING",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOTMELDING",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Ny diskusjon",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Varsel",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s – [%(history_link)s siste endring] (%(page_size)s byte) av %(user)s (%(time)s)",
@@ -18,9 +19,9 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ingen menneskelig bidragsyter funnet)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – siste endring av [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y-%m-%d",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Botadvarsel: %(page)s «''%(warning)s''»",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Robotadvarsel: %(page)s «''%(warning)s''»",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Diskusjonssammendrag lagt til: %(num)i oppføringer",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Diskusjonssammendrag lagt til med opprydning: %(num)i oppføringer",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Diskusjonssammendrag oppdatert: %(num)i oppføringer i %(page)s"
 }

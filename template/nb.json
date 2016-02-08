@@ -1,6 +1,10 @@
 {
-	"@metadata": [],
-	"template-changing": "bot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s",
-	"template-removing": "bot: Fjerner {{PLURAL:%(num)d|mal|maler}}: %(list)s",
-	"template-substituting": "bot: Erstatter {{PLURAL:%(num)d|mal|maler}}: %(list)s"
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"template-changing": "Robot: Endrer {{PLURAL:%(num)d|mal|maler}}: %(list)s",
+	"template-removing": "Robot: Fjerner {{PLURAL:%(num)d|mal|maler}}: %(list)s",
+	"template-substituting": "Robot: Erstatter {{PLURAL:%(num)d|mal|maler}}: %(list)s"
 }

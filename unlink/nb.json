@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"unlink-unlinking": "robot: fjerner lenke til \"%(title)s\""
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"unlink-unlinking": "Robot: Fjerner lenke til \"%(title)s\""
 }

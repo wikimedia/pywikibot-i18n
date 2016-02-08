@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Danmichaelo"
+			"Danmichaelo",
+			"SuperPotato"
 		]
 	},
-	"ndashredir-create": "Bot: Oppretter omdirigering med bindestrek til [[%(title)s]]"
+	"ndashredir-create": "Robot: Oppretter omdirigering med bindestrek til [[%(title)s]]"
 }

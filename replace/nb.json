@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"replace-replacing": "robot: automatisk teksterstatning: %(description)s"
+	"@metadata": {
+		"authors": [
+			"SuperPotato"
+		]
+	},
+	"replace-replacing": "Robot: automatisk teksterstatning: %(description)s"
 }
