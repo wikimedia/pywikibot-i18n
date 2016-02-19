@@ -7,16 +7,16 @@
 			"Ата"
 		]
 	},
-	"category-adding": "Робот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Бот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(також у %(alsocat)s)",
-	"category-changing": "Робот: замінив %(oldcat)s на %(newcat)s",
-	"category-listifying": "Робот: складання списку %(fromcat)s з (%(num)d записів)",
-	"category-removing": "Робот: видалення з %(oldcat)s",
-	"category-renamed": "робот: перейменовано із %(oldcat)s. автори : %(authors)s",
+	"category-changing": "Бот: замінив %(oldcat)s на %(newcat)s",
+	"category-listifying": "Робот: складання списку %(fromcat)s із ({{PLURAL:%(num)d|1 запису|%(num)d записів}})",
+	"category-removing": "Бот: видалення з %(oldcat)s",
+	"category-renamed": "Бот: перейменовано з %(oldcat)s. Автори: %(authors)s",
 	"category-replacing": "Робот: заміна категорії %(oldcat)s на %(newcat)s",
 	"category-section-title": "Історія сторінки колишньої %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: Вилучення CFD-шаблонів для завершених дій",
-	"category-version-history": "Робот: Збереження історії версій колишньої %(oldcat)s",
-	"category-was-disbanded": "Робот: категорія розформована",
-	"category-was-moved": "Робот: категорію перейменовано на [[:Category:%(newcat)s|%(title)s]]"
+	"category-version-history": "Бот: Збереження історії версій колишньої %(oldcat)s",
+	"category-was-disbanded": "Бот: категорія розформована",
+	"category-was-moved": "Бот: категорію перейменовано на [[:Category:%(newcat)s|%(title)s]]"
 }

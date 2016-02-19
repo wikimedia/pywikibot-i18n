@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Ата"
 		]
 	},
-	"blockpageschecker-summary": "Бот: видалення застарілих шаблонів"
+	"blockpageschecker-summary": "Бот: вилучення застарілого шаблону"
 }

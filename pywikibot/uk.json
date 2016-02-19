@@ -8,7 +8,7 @@
 			"Ата"
 		]
 	},
-	"pywikibot-enter-category-name": "Введіть ім'я категорії:",
+	"pywikibot-enter-category-name": "Введіть назву категорії:",
 	"pywikibot-enter-file-links-processing": "Посилання на які файли слід обробити?",
 	"pywikibot-enter-finished-browser": "Натисніть Enter, коли завершите редагування у браузері.",
 	"pywikibot-enter-namespace-number": "Введіть номер простору назв:",

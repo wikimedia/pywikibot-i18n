@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Тест"
+			"Тест",
+			"Ата"
 		]
 	},
-	"clean_sandbox-cleaned": "Робот: Автоматична очистка"
+	"clean_sandbox-cleaned": "Бот: Автоматична очистка"
 }

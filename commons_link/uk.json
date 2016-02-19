@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Ата"
 		]
 	},
-	"commons_link-cat-template-added": "Робот: Включити шаблон commonscat",
-	"commons_link-template-added": "Робот: Включити шаблон commons"
+	"commons_link-cat-template-added": "Бот: Включити шаблон commonscat",
+	"commons_link-template-added": "Бот: Включити шаблон commons"
 }

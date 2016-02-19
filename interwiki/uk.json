@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahonc"
+			"Ahonc",
+			"Ата"
 		]
 	},
-	"interwiki-adding": "робот додав: %(adding)s",
+	"interwiki-adding": "Бот: Додання %(adding)s",
 	"interwiki-adding-modifying": "робот додав: %(adding)s, змінив: %(modifying)s",
-	"interwiki-adding-removing": "робот додав: %(adding)s, вилучив: %(removing)s",
+	"interwiki-adding-removing": "Бот: Додання %(adding)s; вилучення %(removing)s",
 	"interwiki-adding-removing-modifying": "робот додав: %(adding)s, вилучив: %(removing)s, змінив: %(modifying)s",
 	"interwiki-modifying": "робот змінив: %(modifying)s",
 	"interwiki-modifying-from": "Робот: замінив %(from)s на %(modifying)s",

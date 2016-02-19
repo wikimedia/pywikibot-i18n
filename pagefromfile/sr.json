@@ -5,7 +5,7 @@
 		]
 	},
 	"pagefromfile-msg": "Бот: аутоматски увоз чланака",
-	"pagefromfile-msg_bottom": "прикачено на дно",
+	"pagefromfile-msg_bottom": "убачено на дну",
 	"pagefromfile-msg_force": "постојећи текст преснимљен",
-	"pagefromfile-msg_top": "прикачено на врх"
+	"pagefromfile-msg_top": "убачено на врху"
 }
