@@ -3,9 +3,11 @@
 		"authors": [
 			"Bellayet",
 			"Nasir8891",
-			"Xqt"
+			"Xqt",
+			"Aftabuzzaman"
 		]
 	},
 	"archivebot-archive-full": "(আর্কাইভ পূর্ণ)",
-	"archivebot-older-than": "পুরাতন"
+	"archivebot-archiveheader": "{{আলোচনার সংগ্রহশালা}}",
+	"archivebot-older-than": "%(duration)s বেশি পুরাতন"
 }

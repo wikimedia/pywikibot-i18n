@@ -12,6 +12,6 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "বিজ্ঞপ্তি",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - %(user)s কর্তৃক [%(history_link)s সর্বশেষ সম্পাদনা] (%(page_size)s বাইট) (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - [[User:%(user)s]] কর্তৃক সর্বশেষ সম্পাদনা (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* রোবট সতর্কতামূলক বার্তা: %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "রোবট"
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* বট সতর্কতামূলক বার্তা: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "বট"
 }

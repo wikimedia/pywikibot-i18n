@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "বট যোগ করছে %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"add_text-adding": "বট: যোগ করছে %(adding)s"
 }

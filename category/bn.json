@@ -7,10 +7,10 @@
 			"Aftabuzzaman"
 		]
 	},
-	"category-adding": "রোবট: বিষয়শ্রেণী [[:Category:%(newcat)s|%(newcat)s]] যোগ করছে",
+	"category-adding": "বট: বিষয়শ্রেণী [[:Category:%(newcat)s|%(newcat)s]] যোগ করছে",
 	"category-also-in": "(%(alsocat)s বিষয়শ্রেণীতেও আছে)",
-	"category-changing": "বট: %(oldcat)s পরিবর্তন করছে %(newcat)s এ",
-	"category-listifying": "বট: তালিকাভুক্ত করছে %(fromcat)s থেকে (%(num)dটি ভুক্তি)",
+	"category-changing": "বট: %(newcat)s-এ %(oldcat)s পরিবর্তন করছে",
+	"category-listifying": "বট: %(fromcat)s থেকে তালিকাভুক্ত করছে ({{PLURAL:%(num)d|১টি ভুক্তি|%(num)dটি ভুক্তি}})",
 	"category-removing": "বট: %(oldcat)s থেকে বিষয়শ্রেণী অপসারণ",
 	"category-replacing": "বট: %(oldcat)s কে %(newcat)s দ্বারা প্রতিস্থাপন করছে",
 	"category-was-moved": "বট: বিষয়শ্রেণী [[:Category:%(newcat)s|%(title)s]]-এ স্থানান্তরিত হয়েছে"
