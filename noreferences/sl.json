@@ -4,5 +4,6 @@
 			"Dbc334"
 		]
 	},
-	"noreferences-add-tag": "Robot: Dodajanje manjkajoče oznake <references />"
+	"noreferences-add-tag": "Robot: Dodajanje manjkajoče oznake <references />",
+	"noreferences-fix-tag": "Bot: Popravek neveljavne skladnje oznake <references />"
 }
