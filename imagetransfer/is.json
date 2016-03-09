@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"imagetransfer-file_page_message": "Þessi mynd var afrituð frá %(site)s. Upprunaleg lýsing var:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Skráin er núna tiltæk á Wikimedia Commons."
+}

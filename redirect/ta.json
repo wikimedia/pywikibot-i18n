@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"செல்வா"
+			"செல்வா",
+			"Maathavan"
 		]
 	},
+	"redirect-fix-double": "தானியங்கி: இரட்டை வழிமாற்றை %(to)s க்கு நகர்த்துகிறது",
 	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: நீக்கப்பட்ட அல்லது இல்லாத பக்கத்துக்கு [[Wikipedia:Redirect|வழிமாற்று]]"
 }
