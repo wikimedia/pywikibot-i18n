@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amir Sarabadani"
+			"Amir Sarabadani",
+			"Reza1615"
 		]
 	},
-	"imagetransfer-file_page_message": "تصویر از %(site)s کپی شده‌است.توضیحات اصلی ان این بود::\n\n%(description)s",
+	"imagetransfer-file_page_message": "تصویر از %(site)s کپی شده‌است که توضیحات اصلیش این بود:\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "پرونده اکنون در انبار است"
 }

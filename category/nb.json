@@ -10,7 +10,7 @@
 	"category-adding": "Robot: Legger til kategorien [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(også i %(alsocat)s)",
 	"category-changing": "Robot: Endrer %(oldcat)s til %(newcat)s",
-	"category-listifying": "Bot: Lager liste fra %(fromcat)s ({{PLURAL:%(num)d|ett element|%(num)d elementer}}",
+	"category-listifying": "Robot: Omdanner liste fra %(fromcat)s ({{PLURAL:%(num)d|ett element|%(num)d elementer}}",
 	"category-removing": "Robot: Fjerner ifra %(oldcat)s",
 	"category-renamed": "Robot: Flyttet fra %(oldcat)s. Forfattere: %(authors)s",
 	"category-replacing": "Robot: Erstatter kategorien %(oldcat)s med %(newcat)s",
