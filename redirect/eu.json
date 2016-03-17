@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"An13sa",
-			"Xabier Armendaritz"
+			"Xabier Armendaritz",
+			"MarcoAurelio"
 		]
 	},
+	"redirect-broken-redirect-template": "{{ezabatu|1=Bot-ak: hautsitako birzuzenketa}}",
 	"redirect-fix-double": "Robota: «%(to)s» orriranzko birbideratze bikoitza konpontzea"
 }

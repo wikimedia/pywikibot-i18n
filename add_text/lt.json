@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "robotas Pridedama %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"add_text-adding": "Robotas prideda %(adding)s"
 }

@@ -7,10 +7,11 @@
 			"Invadinado",
 			"Macofe",
 			"Vivaelcelta",
-			"Xqt"
+			"Xqt",
+			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{destruir|1=La página a la que redirige no existe}}",
+	"redirect-broken-redirect-template": "{{destruir|1=Bot: la página a la que ésta redirige no existe}}",
 	"redirect-fix-broken-moved": "Bot: arreglo la redirección rota hacia la página de destino trasladada \"%(to)s\"",
 	"redirect-fix-double": "Bot: arreglo de redirección doble a %(to)s",
 	"redirect-fix-loop": "Bot: arreglo de redirección infinita a %(to)s",
