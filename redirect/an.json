@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"redirect-broken-redirect-template": "{{Destruyir|1=Bot: endrecera trencata}}",
+	"redirect-fix-broken-moved": "Bot: apanyando endrecera trencata enta la páchina %(to)s",
+	"redirect-fix-double": "Bot: apanyando endrecera doble enta %(to)s"
+}
