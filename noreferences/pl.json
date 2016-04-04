@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sp5uhe"
+			"Sp5uhe",
+			"Woytecr"
 		]
 	},
-	"noreferences-add-tag": "Robot dodał brakujący znacznik <references />"
+	"noreferences-add-tag": "Robot dodał brakujący znacznik <references />",
+	"noreferences-fix-tag": "Bot: Poprawa błędnej składni w znaczniku <references />"
 }
