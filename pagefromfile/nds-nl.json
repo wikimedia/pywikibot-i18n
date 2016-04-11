@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"pagefromfile-msg": "Bot: t automaties invoeren van artikels",
+	"pagefromfile-msg_bottom": "onderan derbie ezet",
+	"pagefromfile-msg_force": "bestaonde tekste overschreven",
+	"pagefromfile-msg_top": "bovenan derbie ezet"
+}

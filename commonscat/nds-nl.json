@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"commonscat-msg_change": "Bot: commonscat-verwiezing ewiezigd van [[:Commons:Category:%(oldcat)s|%(oldcat)s]] naor [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

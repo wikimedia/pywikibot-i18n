@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"casechecker-delete-reason": "Disse deurverwiezing verwees naor %(target)s",
+	"casechecker-delete-summary": "Bot: in de naam van disse deurverwiezing staon Kyrilliese en Latiense letters die liek alleens bin",
+	"casechecker-rename": "Bot: heufdletters en kleine letters ewiezigd",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: wiezigingen in kleine letters en heufdletters:"
+}

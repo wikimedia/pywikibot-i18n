@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"unprotect-category": "Bot: beveiliging opheffen veur alle ziejen van kategorie %(cat)s",
+	"unprotect-images": "Bot: beveiliging opheffen veur alle bestaanden op zied %(page)s",
+	"unprotect-links": "Bot: beveiliging opheffen veur alle ziejen ekoppeld vanaof %(page)s",
+	"unprotect-ref": "Bot: beveiliging opheffen veur alle ziejen mit n koppeling vanaof %(page)s",
+	"unprotect-simple": "Bot: beveiliging opheffen veur n bestaandslieste"
+}

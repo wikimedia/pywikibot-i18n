@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"reflinks-autogen": "automaties an-emaakt",
+	"reflinks-comment": "Deur bot an-emaakten titel",
+	"reflinks-msg": "Bot: konverteren van rifferensies um duplikaoten te veurkoemen, kiek [[%(manual)s|hier]]"
+}

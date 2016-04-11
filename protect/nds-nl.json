@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"protect-category": "Bot: alle ziejen uut kategorie %(cat)s beveiligd",
+	"protect-images": "Bot: alle bestaanden gebruukt op %(page)s beveiligd",
+	"protect-links": "Bot: alle ziejen mit verwiezingen vanaof %(page)s beveiligd",
+	"protect-ref": "Bot: alle ziejen mit n verwiezing op %(page)s beveiligd",
+	"protect-simple": "Bot: lieste mit bestaanden beveiligd"
+}

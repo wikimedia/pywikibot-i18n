@@ -20,5 +20,5 @@
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Overlegsamenvatting derbie ezet: %(num)i regels",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Overlegsamenvatting derbie ezet, inklusief ankeren: %(num)i regels",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
-	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Overlegsamenvatting bie-ewörken: %(num)i regels in pagina %(page)s"
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Overlegsamenvatting bie-ewörken: %(num)i regels in zied %(page)s"
 }

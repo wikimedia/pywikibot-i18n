@@ -4,5 +4,6 @@
 			"Servien"
 		]
 	},
-	"noreferences-add-tag": "Bot: ontbrekende <references />-kode derbie ezet"
+	"noreferences-add-tag": "Bot: ontbrekende <references />-kode derbie ezet",
+	"noreferences-fix-tag": "Bot: verkeerde syntaxis van t etiket <references /> erippereerd"
 }

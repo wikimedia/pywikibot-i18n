@@ -6,9 +6,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{vort|Kapotte deurverwiezing of deurverwijzing naor vort-edaone pagina}}",
-	"redirect-fix-broken-moved": "Robot: kapotte deurverwiezing verbeterd deur anpassing naor herneumden doelzied %(to)s",
+	"redirect-fix-broken-moved": "Bot: kapotte deurverwiezing verbeterd deur anpassing naor herneumden doelzied %(to)s",
 	"redirect-fix-double": "Bot: dubbele deurverwiezing verbeterd naor %(to)s",
 	"redirect-fix-loop": "Bot: deurverwiessirkel naor %(to)s erepareerd",
-	"redirect-remove-broken": "Bot: de doelpagina van de deurverwiezing besteet niet",
+	"redirect-remove-broken": "Bot: de doelzied van de deurverwiezing besteet niet",
 	"redirect-remove-loop": "Bot: deurverwiezing verwis weer naor zichzelf"
 }

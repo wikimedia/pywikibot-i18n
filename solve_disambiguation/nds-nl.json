@@ -4,10 +4,10 @@
 			"Servien"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "Bot-ehölpen deurverwiespagina: %(from)s - hef de andacht van n expert neudig",
+	"solve_disambiguation-adding-dn-template": "Bot-ehölpen deurverwieszied: %(from)s - hef de andacht van n expert neudig",
 	"solve_disambiguation-links-removed": "Bot-ehölpen deurverwiezing: [[%(from)s]] - Verwiezing(en) vortedaon",
 	"solve_disambiguation-links-resolved": "Bot-ehölpen deurverwiezing: [[%(from)s]] - Verwiezing(en) ewiezigd naor %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Bot-ehölpen deurverwiespagina: %(from)s - hef de andacht van n expert neudig",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot-ehölpen deurverwieszied: %(from)s - hef de andacht van n expert neudig",
 	"solve_disambiguation-redirect-removed": "Bot-ehölpen oplossing veur deurverwiezing: [[%(from)s]] - Verwiezing(en) vortedaon",
 	"solve_disambiguation-redirect-resolved": "Bot-ehölpen oplossing veur deurverwiezing: [[%(from)s]] - Verwiezing(en) ewiezigd naor %(to)s",
 	"solve_disambiguation-unknown-page": "(onbekend)"

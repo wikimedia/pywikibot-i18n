@@ -5,7 +5,8 @@
 		]
 	},
 	"weblinkchecker-archive_msg": "Disse webstee steet op-esleugen in t Internet Archive. Overweeg te koppelen naor n zied uut t archief: [%(URL)s].",
+	"weblinkchecker-badurl": "t Lik derop dat de verwiezing gien geldig webadres is",
 	"weblinkchecker-caption": "Dooie verwiezing",
 	"weblinkchecker-report": "Uut enkele automatiese kontraoles bleek dat de uutgaonde verwiezing die hieronder steet onbereikbaor is. Kiek effen nao of de verwiezing inderdaod onbereikbaor is. Geerne disse tekste vortdoon nao n suksesvolle kontraole of naodat de uutgaonde verwiezing vortedaon of verbeterd is.",
-	"weblinkchecker-summary": "Robot: melding (tiejelik) onbereikbaore uutgaonde verwiezing"
+	"weblinkchecker-summary": "Bot: melding (tiejelik) onbereikbaore uutgaonde verwiezing"
 }

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"revertbot-revert": "Bot: weerummedreid naor versie %(revid)s deur %(author)s op %(timestamp)s"
+}

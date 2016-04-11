@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"image-remove": "Bot: aofbeelding %(file)s vortedaon",
+	"image-replace": "Bot: aofbeelding %(old)s vervöngen deur %(new)s"
+}
