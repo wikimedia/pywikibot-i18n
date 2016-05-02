@@ -3,7 +3,8 @@
 		"authors": [
 			"BeginaFelicysym",
 			"Sp5uhe",
-			"Xqt"
+			"Xqt",
+			"Mateon1"
 		]
 	},
 	"category-adding": "Robot dodał kategorię [[:Category:%(newcat)s|%(newcat)s]]",
@@ -14,6 +15,7 @@
 	"category-renamed": "Robot przenosi z %(oldcat)s. Autorzy: %(authors)s",
 	"category-replacing": "Robot zastąpił kategorię %(oldcat)s przez %(newcat)s",
 	"category-section-title": "Historia strony poprzedniej %(oldcat)s",
+	"category-strip-cfd-templates": "Robot: Usuwanie szablonów CFD dla zakończonej akcji",
 	"category-version-history": "Robot: Zapisywanie historii wersji poprzedniej %(oldcat)s",
 	"category-was-disbanded": "Robot usunął kategorię",
 	"category-was-moved": "Robot przeniósł kategorię do [[:Category:%(newcat)s|%(title)s]]"
