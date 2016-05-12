@@ -9,5 +9,5 @@
 	"unprotect-images": "机器人：取消保护页面%(page)s的所有图片",
 	"unprotect-links": "机器人：取消保护%(page)s链接的所有页面",
 	"unprotect-ref": "机器人：取消保护%(page)s提及的所有页面",
-	"unprotect-simple": "机器人：取消保护一个文件列表"
+	"unprotect-simple": "机器人：取消保护一列表的文件"
 }

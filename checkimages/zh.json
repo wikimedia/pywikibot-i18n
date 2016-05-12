@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Alex S.H. Lin",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Yfdyh000"
 		]
 	},
 	"checkimages-source-tag-comment": "机器人：标记新上传的未标记文件",
-	"checkimages-source-notice-comment": "机器人：正在请求来源信息。"
+	"checkimages-source-notice-comment": "机器人：请求来源信息。"
 }

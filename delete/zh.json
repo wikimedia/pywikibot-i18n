@@ -7,8 +7,8 @@
 		]
 	},
 	"delete-from-category": "机器人：删除所有来自%(page)s分类的页面",
-	"delete-from-file": "机器人：删除页面列表。",
+	"delete-from-file": "机器人：删除一列表的页面。",
 	"delete-images": "机器人：删除%(page)s页面上的所有图像",
-	"delete-linked-pages": "机器人：删除所有从%(page)s链接的页面",
+	"delete-linked-pages": "机器人：删除所有链接自%(page)s的页面",
 	"delete-referring-pages": "机器人：删除所有%(page)s提及的页面"
 }

@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tauhid16"
+			"Tauhid16",
+			"Bodhisattwa"
 		]
 	},
-	"delete-from-file": "বট: একটি পাতার তালিকা অপসারণ করা হচ্ছে।"
+	"delete-from-category": "বট: %(page)s বিষয়শ্রেণী থেকে সমস্ত পাতা অপসারিত হচ্ছে",
+	"delete-from-file": "বট: একটি পাতার তালিকা অপসারণ করা হচ্ছে।",
+	"delete-images": "বট: %(page)s পাতা থেকে সমস্ত চিত্র অপসারিত হচ্ছে",
+	"delete-linked-pages": "বট: %(page)s পাতা থেকে সংযুক্ত সমস্ত পাতা অপসারিত হচ্ছে"
 }

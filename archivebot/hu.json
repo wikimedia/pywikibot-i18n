@@ -3,12 +3,13 @@
 		"authors": [
 			"Dj",
 			"JulesWinnfield-hu",
-			"Xqt"
+			"Xqt",
+			"Tgr"
 		]
 	},
 	"archivebot-archive-full": "(MEGTELT)",
 	"archivebot-archive-summary": "Bot: {{PLURAL:%(count)d|Egy|%(count)d}} szakasz archiválása a [[%(from)s]] lapról.",
 	"archivebot-archiveheader": "{{Archív vitalap}}",
-	"archivebot-older-than": "régebbi, mint %(duration)s",
+	"archivebot-older-than": "régebbi mint %(duration)s",
 	"archivebot-page-summary": "Bot: {{PLURAL:%(count)d|Egy|%(count)d}} szakasz archiválása (%(why)s) a %(archives)s lapra."
 }

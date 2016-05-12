@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Aftab1995",
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"Bodhisattwa"
 		]
 	},
 	"featured-featured": "বট: %(page)s একটি নির্বাচিত নিবন্ধ",
+	"featured-former": "বট: %(page)s একটি প্রাক্তন নির্বাচিত নিবন্ধ",
 	"featured-good": "বট: %(page)s একটি ভালো নিবন্ধ",
 	"featured-list": "বট: %(page)s একটি নির্বাচিত তালিকা"
 }

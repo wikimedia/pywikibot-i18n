@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Yfdyh000"
 		]
 	},
-	"misspelling-fixing": "机器人：修复错误连接至%(page)s"
+	"misspelling-fixing": "机器人：修正至%(page)s的错误链接"
 }

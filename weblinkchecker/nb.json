@@ -6,7 +6,7 @@
 			"SuperPotato"
 		]
 	},
-	"weblinkchecker-archive_msg": "Denne nettsiden er lagra i Internet Archive. Vurder om lenka kan endres til å peke til en av de arkiverte versjonene: [%(URL)s].",
+	"weblinkchecker-archive_msg": "Denne nettsiden er lagret i Internet Archive. Vurder om lenka kan endres til å peke til en av de arkiverte versjonene: [%(URL)s].",
 	"weblinkchecker-badurl": "Lenken ser ikke ut til å være en gyldig nettadresse",
 	"weblinkchecker-caption": "Død lenke",
 	"weblinkchecker-report": "I løpet av flere automatiske botkjøringer ble følgende lenke funnet å være utilgjengelig. Sjekk om lenken faktisk er død, og fiks eller fjern den om det er tilfelle.",

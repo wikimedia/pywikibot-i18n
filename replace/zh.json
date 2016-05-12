@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"阿pp"
+			"阿pp",
+			"Liuxinyu970226"
 		]
 	},
-	"replace-replacing": "机器人：自动文本替换%(description)s"
+	"replace-replacing": "机器人：自动替换文本%(description)s"
 }

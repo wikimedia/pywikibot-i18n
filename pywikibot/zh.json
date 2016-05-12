@@ -10,11 +10,11 @@
 	},
 	"pywikibot-enter-category-name": "请输入分类名称：",
 	"pywikibot-enter-file-links-processing": "哪个文件的链接需要处理？",
-	"pywikibot-enter-finished-browser": "请在浏览器作业完成后按下Enter键。",
+	"pywikibot-enter-finished-browser": "当浏览器编辑结束时，请按回车键。",
 	"pywikibot-enter-namespace-number": "请输入命名空间编号：",
 	"pywikibot-enter-new-text": "请输入新文本：",
 	"pywikibot-enter-page-processing": "哪个页面需要处理？",
-	"pywikibot-enter-xml-filename": "请输入XML转储文件名称：",
+	"pywikibot-enter-xml-filename": "请输入XML转储的文件名：",
 	"pywikibot-fixes-fckeditor": "机器人：修复富编辑器html",
 	"pywikibot-fixes-html": "机器人：转换/修复HTML",
 	"pywikibot-fixes-syntax": "机器人：修复wiki语法"
