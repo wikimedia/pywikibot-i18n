@@ -5,5 +5,5 @@
 		]
 	},
 	"archivebot-archive-full": "(ARHĪVS PILNS)",
-	"archivebot-older-than": "vecāks par"
+	"archivebot-older-than": "vecāks par %(duration)s"
 }
