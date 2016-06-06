@@ -5,5 +5,5 @@
 		]
 	},
 	"commons-file-moved": "[[:File:%(localfile)s|Датотека]] је премештена у [[:commons:File:%(commonsfile)s|Оставу]].",
-	"commons-file-now-available": "Датотека је сада доступна на [[:commons:File:%(commonsfile)s|Остави]]."
+	"commons-file-now-available": "Датотека је сада доступна на [[:commons:File:%(commonsfile)s|Викиостави]]."
 }

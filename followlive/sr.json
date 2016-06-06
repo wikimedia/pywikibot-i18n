@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
-	"followlive-blanking": "Уклоњено све, садржај је био „%(content)s“."
+	"followlive-blanking": "Испражњено. Садржај је био „%(content)s“."
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
-	"selflink-remove": "Бот: уклоњени selflink-и"
+	"selflink-remove": "Бот: уклоњене самоодносне везе."
 }

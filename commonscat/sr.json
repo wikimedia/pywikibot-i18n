@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
-	"commonscat-msg_change": "Бот: промењена commonscat веза из [[:Commons:Category:%(oldcat)s|%(oldcat)s]] у [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Бот: промењена веза категорије у Остави из [[:Commons:Category:%(oldcat)s|%(oldcat)s]] у [[:Commons:Category:%(newcat)s|%(newcat)s]]."
 }

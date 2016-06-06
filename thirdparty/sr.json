@@ -7,20 +7,20 @@
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "замењене ознаке %(tags)s",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Разговор је измењен",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Разговор је затворен",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Измењен разговор",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Затворен разговор",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ПОРУКА БОТА",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Нови разговор",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Обавештење",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s – [%(history_link)s последња измена] (%(page_size)s бајтова) од %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s сви разговори су завршени (надзор је прекинут) – последња измена од %(user)s (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nОпис је генерисан из и у: %(sign)s</noinclude>",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s сви разговори су завршени (надзор је прекинут) – последња измена корисника %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nОпис је генерисан: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(није пронађен људски уредник)",
-	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – последња измена од [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> – последња измена корисника [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Упозорење бота: %(page)s „''%(warning)s''“",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Упозорење бота: %(page)s ''''%(warning)s''''",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Додат је опис разговора: %(num)i уноса",
-	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Додат је опис разговора са чишћењем: %(num)i уноса",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Додат је опис разговора уз чишћење: %(num)i уноса",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот",
-	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Опис разговора је ажуриран: %(num)i уноса на страници %(page)s"
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Ажуриран опис разговора: %(num)i уноса на страници %(page)s"
 }

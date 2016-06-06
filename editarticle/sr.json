@@ -5,5 +5,5 @@
 			"Rancher"
 		]
 	},
-	"editarticle-edit": "Ручно уређивање са ботом: %(description)s"
+	"editarticle-edit": "Ручно уређивање помоћу бота: %(description)s."
 }

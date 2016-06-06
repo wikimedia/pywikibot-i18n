@@ -5,5 +5,5 @@
 			"Rancher"
 		]
 	},
-	"capitalize_redirects-create-redirect": "Бот: направљено преусмерење на [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "Бот: направљено преусмерење до [[%(to)s]]."
 }

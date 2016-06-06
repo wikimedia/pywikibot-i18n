@@ -5,7 +5,7 @@
 			"Rancher"
 		]
 	},
-	"template-changing": "Бот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s",
-	"template-removing": "Бот: {{PLURAL:%(num)d|уклоњен шаблон|уклоњени шаблони}}: %(list)s",
-	"template-substituting": "Бот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s"
+	"template-changing": "Бот: {{PLURAL:%(num)d|промењен шаблон|промењени шаблони}}: %(list)s.",
+	"template-removing": "Бот: {{PLURAL:%(num)d|уклоњен шаблон|уклоњени шаблони}}: %(list)s.",
+	"template-substituting": "Бот: {{PLURAL:%(num)d|замењен шаблон|замењени шаблони}}: %(list)s."
 }

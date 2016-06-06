@@ -6,14 +6,14 @@
 			"Sasa Stefanovic"
 		]
 	},
-	"pywikibot-enter-category-name": "Унесите назив категорије:",
-	"pywikibot-enter-file-links-processing": "За које датотеке желите да обрадите везе?",
-	"pywikibot-enter-finished-browser": "Притисните Enter када завршите у прегледачу.",
+	"pywikibot-enter-category-name": "Унесите име категорије:",
+	"pywikibot-enter-file-links-processing": "Везе до које датотеке желите да обрадите?",
+	"pywikibot-enter-finished-browser": "Притисните Enter када завршите унос измена у прегледачу.",
 	"pywikibot-enter-namespace-number": "Унесите именски простор поред његовог броја:",
 	"pywikibot-enter-new-text": "Унесите нови текст:",
 	"pywikibot-enter-page-processing": "Коју страницу желите да обрадите?",
-	"pywikibot-enter-xml-filename": "Унесите назив XML исписа:",
-	"pywikibot-fixes-fckeditor": "Бот: промењен HTML у вики синтаксу",
-	"pywikibot-fixes-html": "Бот: поправљен HTML",
-	"pywikibot-fixes-syntax": "Бот: поправљена вики синтакса"
+	"pywikibot-enter-xml-filename": "Унесите име XML датотеке исписа стања:",
+	"pywikibot-fixes-fckeditor": "Бот: исправљен HTML уређивача обогаћеног текста.",
+	"pywikibot-fixes-html": "Бот: исправљен HTML.",
+	"pywikibot-fixes-syntax": "Бот: исправљена вики синтакса."
 }

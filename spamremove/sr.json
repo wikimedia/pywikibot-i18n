@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
-	"spamremove-remove": "Уклоњене везе према спам сајту %(url)s"
+	"spamremove-remove": "Уклоњене везе до спамерског сајта %(url)s."
 }

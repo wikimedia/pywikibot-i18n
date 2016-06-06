@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
-	"listpages-save-list": "Бот: сачуван генерисани списак страница"
+	"listpages-save-list": "Бот: сачуван генерисани списак страница."
 }

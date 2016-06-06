@@ -5,9 +5,9 @@
 			"Rancher"
 		]
 	},
-	"delete-from-category": "Бот: обрисане све странице из категорије %(page)s",
-	"delete-from-file": "Бот: обрисан списак страница.",
-	"delete-images": "Бот: обрисане све слике на страници %(page)s",
-	"delete-linked-pages": "Бот: обрисане све странице које потичу из %(page)s",
-	"delete-referring-pages": "Бот: обрисане све странице које потичу из %(page)s"
+	"delete-from-category": "Бот: избрисане све странице из категорије %(page)s.",
+	"delete-from-file": "Бот: избрисан списак страница.",
+	"delete-images": "Бот: избрисане све слике на страници %(page)s.",
+	"delete-linked-pages": "Бот: избрисане све странице повезане са %(page)s.",
+	"delete-referring-pages": "Бот: избрисане све странице које воде до %(page)s."
 }

@@ -5,6 +5,6 @@
 			"Rancher"
 		]
 	},
-	"noreferences-add-tag": "Бот: додата ознака <references /> која недостаје",
-	"noreferences-fix-tag": "Бот: поправљене неисправне синтаксе за ознаку <references />"
+	"noreferences-add-tag": "Бот: додата одсутна ознака <references />.",
+	"noreferences-fix-tag": "Бот: исправљена погрешна синтакса ознаке <references />."
 }

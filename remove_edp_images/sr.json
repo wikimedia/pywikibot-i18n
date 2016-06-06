@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Rancher"
 		]
 	},
-	"remove_edp_images-edit-summary": "Бот: поправљено коришћење EDP слике: [[%(title)s]]"
+	"remove_edp_images-edit-summary": "Бот: исправљено коришћење EDP слике: [[%(title)s]]."
 }
