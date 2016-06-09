@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Farras"
+			"Farras",
+			"Rachmat.Wahidi"
 		]
 	},
-	"welcome-bad_username": "Bot: Menambahkan nama pengguna yang perlu diperiksa",
-	"welcome-updating": "Bot: Memutakhirkan log",
-	"welcome-welcome": "Selamat datang"
+	"welcome-bad_username": "Bot: Menambahkan sebuah nama pengguna yang perlu diperiksa",
+	"welcome-updating": "Bot: Memperbarui log",
+	"welcome-welcome": "Selamat datang!"
 }

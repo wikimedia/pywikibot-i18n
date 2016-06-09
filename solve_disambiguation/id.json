@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"IvanLanin"
+			"IvanLanin",
+			"Rachmat.Wahidi"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "Disambiguasi berbantuan bot: %(from)s - Perlu perhatian pakar",
-	"solve_disambiguation-links-removed": "Disambiguasi berbantuan bot: %(from)s - Tautan dihapus",
-	"solve_disambiguation-links-resolved": "Disambiguasi berbantuan bot: %(from)s - Tautan diubah menjadi %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi berbantuan bot: %(from)s - Perlu perhatian pakar",
-	"solve_disambiguation-redirect-removed": "Disambiguasi berbantuan bot: %(from)s - Tautan dihapus",
-	"solve_disambiguation-redirect-resolved": "Disambiguasi berbantuan bot: %(from)s - Tautan diubah menjadi %(to)s",
-	"solve_disambiguation-unknown-page": "(tidak dikenal)"
+	"solve_disambiguation-adding-dn-template": "Disambiguasi bantuan bot: %(from)s - Ditandai karena membutuhkan perhatian pakar",
+	"solve_disambiguation-links-removed": "Disambiguasi bantuan bot: %(from)s - Pranala dihapus.",
+	"solve_disambiguation-links-resolved": "Disambiguasi bantuan bot: %(from)s - Pranala diubah menjadi %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Disambiguasi bantuan bot: %(from)s - Ditandai karena memerlukan perhatian pakar",
+	"solve_disambiguation-redirect-removed": "Disambiguasi bantuan bot: %(from)s - Pranala dihapus",
+	"solve_disambiguation-redirect-resolved": "Disambiguasi bantuan bot: %(from)s - Pranala diubah menjadi %(to)s",
+	"solve_disambiguation-unknown-page": "(tidak diketahui)"
 }

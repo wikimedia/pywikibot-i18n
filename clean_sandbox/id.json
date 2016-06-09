@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"clean_sandbox-cleaned": "Bot: Tata ulang"
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"clean_sandbox-cleaned": "Bot: Dibersihkan secara otomatis"
 }

@@ -1,11 +1,15 @@
 {
-	"@metadata": [],
-	"interwiki-adding": "bot Menambah: %(adding)s",
-	"interwiki-adding-modifying": "bot Menambah: %(adding)s Mengubah: %(modifying)s",
-	"interwiki-adding-removing": "bot Menambah: %(adding)s Membuang: %(removing)s",
-	"interwiki-adding-removing-modifying": "bot Menambah: %(adding)s Membuang: %(removing)s Mengubah: %(modifying)s",
-	"interwiki-modifying": "bot Mengubah: %(modifying)s",
-	"interwiki-modifying-from": "Robot: Mengubah %(from)s menjadi %(modifying)s",
-	"interwiki-removing": "bot Membuang: %(removing)s",
-	"interwiki-removing-modifying": "bot Membuang: %(removing)s Mengubah: %(modifying)s"
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"interwiki-adding": "Bot: Menambah %(adding)s",
+	"interwiki-adding-modifying": "Bot: Menambah %(adding)s; mengubah %(modifying)s",
+	"interwiki-adding-removing": "Bot: Menambah %(adding)s; menghapus %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Menambah %(adding)s; menghapus %(removing)s; mengubah %(modifying)s",
+	"interwiki-modifying": "Bot: Mengubah %(modifying)s",
+	"interwiki-modifying-from": "Bot: Mengubah %(from)s menjadi %(modifying)s",
+	"interwiki-removing": "Bot: Menghapus %(removing)s",
+	"interwiki-removing-modifying": "Bot: Menghapus %(removing)s; mengubah %(modifying)s"
 }

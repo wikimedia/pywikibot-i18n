@@ -3,12 +3,13 @@
 		"authors": [
 			"ArdWar",
 			"C5st4wr6ch",
-			"Ezagren"
+			"Ezagren",
+			"Rachmat.Wahidi"
 		]
 	},
-	"casechecker-delete-reason": "Pengalihan ini digunakan untuk menuju ke %(target)s",
-	"casechecker-delete-summary": "Bot: Pengalihan menggunakan aksara Kiril dan Latin yang identik",
-	"casechecker-rename": "Bot: campuran kasus mengubah nama",
+	"casechecker-delete-reason": "Pengalihan ini digunakan untuk merujuk ke %(target)s",
+	"casechecker-delete-summary": "Bot: Pengalihan ini menggunakan aksara Kiril dan Latin pada judulnya",
+	"casechecker-rename": "Bot: ganti kapitalisasi yang bercampur",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Bot: Kapitalisasi:"
+	"casechecker-replacement-summary": "Bot: Penggantian kapitalisasi:"
 }

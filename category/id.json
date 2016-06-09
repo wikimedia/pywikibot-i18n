@@ -3,18 +3,20 @@
 		"authors": [
 			"Farras",
 			"IvanLanin",
-			"Kenrick95"
+			"Kenrick95",
+			"Rachmat.Wahidi"
 		]
 	},
-	"category-adding": "Robot: Menambahkan kategori [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Bot: Menambahkan kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(juga dalam %(alsocat)s)",
-	"category-changing": "Robot: Mengubah %(oldcat)s menjadi %(newcat)s",
-	"category-listifying": "Bot: Membuat daftar dari %(fromcat)s (%(num)d entri)",
+	"category-changing": "Bot: Mengubah %(oldcat)s menjadi %(newcat)s",
+	"category-listifying": "Bot: Membuat daftar dari %(fromcat)s ({{PLURAL:%(num)d|satu entri|%(num)d entri}})",
 	"category-removing": "Bot: Menghapus dari %(oldcat)s",
 	"category-renamed": "Bot: Memindahkan dari %(oldcat)s. Kontributor: %(authors)s",
 	"category-replacing": "Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s",
 	"category-section-title": "Versi terdahulu halaman bekas %(oldcat)s",
-	"category-version-history": "Robot: Menyimpan versi terdahulu bekas %(oldcat)s",
-	"category-was-disbanded": "Bot: Kategori dipecah",
-	"category-was-moved": "Bot: Kategori dipindahkan ke [[:Category:%(newcat)s|%(title)s]]"
+	"category-strip-cfd-templates": "Bot: Menghapus templat usulan penghapusan kategori dari tindakan yang telah selesai",
+	"category-version-history": "Bot: Menyimpan versi terdahulu bekas %(oldcat)s",
+	"category-was-disbanded": "Bot: Kategori dibuang",
+	"category-was-moved": "Bot: Kategori dipindahkan ke [[:Kategori:%(newcat)s|%(title)s]]"
 }

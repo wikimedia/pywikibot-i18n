@@ -4,11 +4,13 @@
 			"ArdWar",
 			"C5st4wr6ch",
 			"Ezagren",
-			"Xqt"
+			"Xqt",
+			"Rachmat.Wahidi"
 		]
 	},
-	"weblinkchecker-archive_msg": "Halaman web telah diselamatkan oleh Internet Archive. Silakan mempertimbangkan menghubungkan ke versi arsip yang sesuai: [%(URL)s].",
+	"weblinkchecker-archive_msg": "Halaman web telah disimpan oleh Internet Archive. Silakan mempertimbangkan untuk menghubungkan ke versi arsip yang sesuai: [%(URL)s].",
+	"weblinkchecker-badurl": "Pranala yang diberikan tampaknya bulan URL yang sah",
 	"weblinkchecker-caption": "Pranala mati",
-	"weblinkchecker-report": "Selama beberapa bot otomatis berjalan, pranala luar berikut menjadi tidak tersedia. Silakan memeriksa apakah pranala sebenarnya sedang turun dan memperbaiki atau menghapusnya dalam hal ini!",
-	"weblinkchecker-summary": "Bot: Pelaporan pranala luar yang tersedia"
+	"weblinkchecker-report": "Selama beberapa bot otomatis berjalan, pranala luar berikut menjadi tidak tersedia. Periksa apakah pranala sebenarnya sedang tidak aktif dan perbaiki atau hapus dalam hal ini!",
+	"weblinkchecker-summary": "Bot: Melaporkan pranala luar yang tidak tersedia"
 }

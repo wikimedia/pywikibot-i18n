@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beeyan"
+			"Beeyan",
+			"Rachmat.Wahidi"
 		]
 	},
 	"checkimages-source-tag-comment": "Bot: Tandai berkas tanpa tag yang baru diunggah",
-	"checkimages-source-notice-comment": "Bot: Permintaan informasi sumber."
+	"checkimages-source-notice-comment": "Bot: Meminta informasi sumber."
 }

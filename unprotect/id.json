@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"unprotect-category": "Bot: Menghapus perlindungan seluruh halaman dalam kategori %(cat)s",
+	"unprotect-images": "Bot: Menghapus perlindungan semua berkas dalam halaman %(page)s",
+	"unprotect-links": "Bot: Menghapus perlindungan semua halaman yang terhubung dari %(page)s",
+	"unprotect-ref": "Bot: Menghapus perlindungan semua halaman yang mengarah dari %(page)s",
+	"unprotect-simple": "Bot: Menghapus perlindungan serangkaian berkas."
+}

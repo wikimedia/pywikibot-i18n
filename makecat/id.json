@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"C5st4wr6ch"
+			"C5st4wr6ch",
+			"Rachmat.Wahidi"
 		]
 	},
-	"makecat-create": "Robot: Pembuatan atau perubahan dari kategori [[:Category:%(cat)s|]]"
+	"makecat-create": "Bot: Pembuatan atau pembaruan kategori [[:Category:%(cat)s|]]"
 }

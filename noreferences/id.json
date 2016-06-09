@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Farras"
+			"Farras",
+			"Rachmat.Wahidi"
 		]
 	},
-	"noreferences-add-tag": "Robot: Menambahkan tag <references /> yang hilang"
+	"noreferences-add-tag": "Bot: Menambahkan tag <references /> yang hilang",
+	"noreferences-fix-tag": "Bot: Mengganti sintaksis tag <references /> yang tidak sah"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"image-remove": "Bot: Menghapus gambar %(file)s",
+	"image-replace": "Bot: Mengganti gambar %(old)s dengan %(new)s"
+}

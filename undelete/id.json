@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"undelete-from-file": "Bot: Membatalkan penghapusan daftar halaman",
+	"undelete-images": "Bot: Membatalkan penghapusan semua gambar dalam halaman %(page)s",
+	"undelete-linked-pages": "Bot: Membatalkan penghapusan semua halaman yang tertaut dari %(page)s"
+}

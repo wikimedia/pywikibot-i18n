@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Farras"
+			"Farras",
+			"Rachmat.Wahidi"
 		]
 	},
-	"unlink-unlinking": "Robot: Memutuskan tautan \"%(title)s\""
+	"unlink-unlinking": "Bot: Menghapus pranala \"%(title)s\""
 }

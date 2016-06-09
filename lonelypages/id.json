@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"ArdWar",
-			"C5st4wr6ch"
+			"C5st4wr6ch",
+			"Rachmat.Wahidi"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "Bot: Menambahkan halaman disambiguasi",
-	"lonelypages-comment-add-template": "Robot: Halaman yatim, menambahkan templat"
+	"lonelypages-comment-add-disambig-template": "Bot: Menambah satu halaman disambiguasi",
+	"lonelypages-comment-add-template": "Bot: Halaman yatim, menambahkan templat"
 }

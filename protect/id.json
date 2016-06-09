@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"C5st4wr6ch",
-			"Ezagren"
+			"Ezagren",
+			"Rachmat.Wahidi"
 		]
 	},
-	"protect-category": "Robot: Melindungi seluruh halaman dari kategori %(cat)s",
-	"protect-images": "Bot: Melindungi semua gambar pada halaman % (halaman)",
-	"protect-links": "Bot: Melindungi semua halaman yang terhubung dari % (halaman)",
-	"protect-ref": "Robot: Melindungi semua halaman yang mengarah dari %(page)s",
-	"protect-simple": "Bot: Melindungi daftar berkas."
+	"protect-category": "Bot: Melindungi seluruh halaman dalam kategori %(cat)s",
+	"protect-images": "Bot: Melindungi semua gambar dalam halaman %(page)s",
+	"protect-links": "Bot: Melindungi semua halaman yang terhubung dari %(page)s",
+	"protect-ref": "Bot: Melindungi semua halaman yang mengarah dari %(page)s",
+	"protect-simple": "Bot: Melindungi serangkaian berkas."
 }

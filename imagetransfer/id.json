@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"imagetransfer-file_page_message": "Gambar ini disalin dari %(site)s. Deskripsi sebelumnya adalah:\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Berkas sudah tersedia di Wikimedia Commons."
+}

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"C5st4wr6ch"
+			"C5st4wr6ch",
+			"Rachmat.Wahidi"
 		]
 	},
-	"misspelling-fixing": "Robot: Memperbaiki kesalahan ejaan ke %(page)s"
+	"misspelling-fixing": "Bot: Memperbaiki pranala salah eja ke %(page)s"
 }

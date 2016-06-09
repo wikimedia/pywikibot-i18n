@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "bot Menambah %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"add_text-adding": "Bot: Menambah %(adding)s"
 }

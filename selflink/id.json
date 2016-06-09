@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ezagren"
+			"Ezagren",
+			"Rachmat.Wahidi"
 		]
 	},
-	"selflink-remove": "Bot: Menghapus pranala sendiri"
+	"selflink-remove": "Bot: Menghapus pranala ke diri sendiri"
 }

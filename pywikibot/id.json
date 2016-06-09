@@ -4,16 +4,18 @@
 			"C5st4wr6ch",
 			"Ilham151096",
 			"Ezagren",
-			"Kenrick95"
+			"Kenrick95",
+			"Rachmat.Wahidi"
 		]
 	},
 	"pywikibot-enter-category-name": "Silakan masukkan nama kategori:",
-	"pywikibot-enter-file-links-processing": "Pranala ke halaman berkas mana yang harus diproses?",
-	"pywikibot-enter-finished-browser": "Tekan Enter setelah selesai di peramban.",
-	"pywikibot-enter-namespace-number": "Silakan masukkan ruang nama berdasarkan nomornya:",
+	"pywikibot-enter-file-links-processing": "Pranala ke halaman berkas manakah yang harus diproses?",
+	"pywikibot-enter-finished-browser": "Tekan Enter jika telah selesai di peramban web.",
+	"pywikibot-enter-namespace-number": "Silakan masukkan ruang nama menurut nomornya:",
 	"pywikibot-enter-new-text": "Masukkan teks baru:",
-	"pywikibot-enter-page-processing": "Halaman yang harus diproses?",
-	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas XML dump:",
-	"pywikibot-fixes-html": "Robot: Mengubah/memperbaiki HTML",
-	"pywikibot-fixes-syntax": "Robot: Memperbaiki sintaks wiki"
+	"pywikibot-enter-page-processing": "Halaman manakah yang harus diproses?",
+	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas timbunan XML:",
+	"pywikibot-fixes-fckeditor": "Bot: Memperbaiki html editor kaya",
+	"pywikibot-fixes-html": "Bot: Mengubah/memperbaiki HTML",
+	"pywikibot-fixes-syntax": "Bot: Memperbaiki sintaksis wiki"
 }

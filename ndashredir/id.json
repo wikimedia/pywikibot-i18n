@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Farras"
+			"Farras",
+			"Rachmat.Wahidi"
 		]
 	},
-	"ndashredir-create": "Bot: Membuat pengalihan hubung ke [[%(title)s]]"
+	"ndashredir-create": "Bot: Membuat pengalihan yang bertanda hubung ke [[%(title)s]]"
 }

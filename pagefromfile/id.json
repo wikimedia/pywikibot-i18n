@@ -1,6 +1,10 @@
 {
-	"@metadata": [],
-	"pagefromfile-msg": "Bot: Impor artikel automatis",
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"pagefromfile-msg": "Bot: Memasukkan artikel secara otomatis",
 	"pagefromfile-msg_bottom": "ditambahkan di bawah",
 	"pagefromfile-msg_force": "menimpa teks yang ada",
 	"pagefromfile-msg_top": "ditambahkan di atas"

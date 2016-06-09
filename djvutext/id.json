@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Farras"
+			"Farras",
+			"Rachmat.Wahidi"
 		]
 	},
-	"djvutext-creating": "Robot: Membuat halaman dengan teks yang diambil dari DjVu"
+	"djvutext-creating": "Bot: Membuat halaman dengan teks yang diambil dari DjVu"
 }

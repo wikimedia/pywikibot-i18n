@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rachmat.Wahidi"
+		]
+	},
+	"commonscat-msg_change": "Bot: Mengganti pranala commonscat dari [[:Commons:Category:%(oldcat)s|%(oldcat)s]] menjadi [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}
