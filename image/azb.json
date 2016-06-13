@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alp Er Tunqa"
+		]
+	},
+	"image-remove": "روْبات:  %(file)s عکسینی سیلمه",
+	"image-replace": "روْبات: %(old)s تصویری  %(new)s ایله دَییشدیریلدی"
+}
