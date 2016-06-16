@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"movepages-moving": "Robot přesunul stránku"
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"movepages-moving": "Robot: přesunutí stránky"
 }

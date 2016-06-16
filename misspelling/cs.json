@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Dvorapa"
 		]
 	},
-	"misspelling-fixing": "Robot: Opravuji pravopisně chybný odkaz na %(page)s"
+	"misspelling-fixing": "Robot: oprava pravopisně chybného odkazu na %(page)s"
 }

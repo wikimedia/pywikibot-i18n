@@ -5,13 +5,14 @@
 			"JAn Dudík",
 			"Jezevec",
 			"Spiffyk",
-			"Vks"
+			"Vks",
+			"Dvorapa"
 		]
 	},
 	"redirect-broken-redirect-template": "{{smazat|přerušené přesměrování}}",
-	"redirect-fix-broken-moved": "Robot: Oprava přerušeného přesměrování na přesunutou cílovou stránku %(to)s",
-	"redirect-fix-double": "Robot: Opravuji dvojité přesměrování na %(to)s",
-	"redirect-fix-loop": "Robot: Oprava smyčky přesměrování na %(to)s",
-	"redirect-remove-broken": "Robot: Přerušené přesměrování",
-	"redirect-remove-loop": "Robot: Cíl přesměrování tvoří smyčku"
+	"redirect-fix-broken-moved": "Robot: oprava přerušeného přesměrování na přesunutou cílovou stránku %(to)s",
+	"redirect-fix-double": "Robot: oprava dvojitého přesměrování na %(to)s",
+	"redirect-fix-loop": "Robot: oprava smyčky přesměrování na %(to)s",
+	"redirect-remove-broken": "Robot: přerušené přesměrování",
+	"redirect-remove-loop": "Robot: smyčka přesměrování"
 }

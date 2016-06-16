@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Utar"
+			"Utar",
+			"Dvorapa"
 		]
 	},
-	"djvutext-creating": "Robot: Vytvářím stránku s textem extrahovaným z DjVu"
+	"djvutext-creating": "Robot: vytvoření stránky s textem extrahovaným z DjVu"
 }

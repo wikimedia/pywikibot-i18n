@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mercy"
+			"Mercy",
+			"Dvorapa"
 		]
 	},
-	"commonscat-msg_change": "Robot změnil šablonu Commonscat z [[:Commons:Category:%(oldcat)s|%(oldcat)s]] na [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Robot: změna šablony Commonscat z [[:Commons:Category:%(oldcat)s|%(oldcat)s]] na [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

@@ -13,5 +13,5 @@
 	"category-section-title": "Riwaya kaca saka kaca bekas %(oldcat)s",
 	"category-version-history": "Bot: Nyimpen riwayat vèrsi saka kaca bekas %(oldcat)s",
 	"category-was-disbanded": "Bot: Katégori dibubaraké",
-	"category-was-moved": "Bot: Katégori dipindhahaké nèng [[:Category:%(newcat)s|%(title)s]]"
+	"category-was-moved": "Bot: Kategori dilih nyang [[:Kategori:%(newcat)s|%(title)s]]"
 }

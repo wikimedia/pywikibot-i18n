@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Chmee2",
-			"Juandev"
+			"Juandev",
+			"Dvorapa"
 		]
 	},
-	"pagefromfile-msg": "Bot: Automatizovaný import článků",
+	"pagefromfile-msg": "Robot: automatizovaný import článků",
 	"pagefromfile-msg_bottom": "připojit dole",
 	"pagefromfile-msg_force": "stávající text přepsán",
-	"pagefromfile-msg_top": "připojit na vrchol"
+	"pagefromfile-msg_top": "připojit nahoře"
 }

@@ -1,8 +1,12 @@
 {
-	"@metadata": [],
-	"delete-from-category": "Robot smazal obsah kategorie %(page)s",
-	"delete-from-file": "Robot smazal podle seznamu",
-	"delete-images": "Robot smazal všechny obrázky z %(page)s",
-	"delete-linked-pages": "Robot smazal vše odkazované z %(page)s",
-	"delete-referring-pages": "Robot smazal vše odkazující na %(page)s"
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"delete-from-category": "Robot: odebrání stránek z kategorie %(page)s",
+	"delete-from-file": "Robot: smazání stránek podle seznamu",
+	"delete-images": "Robot: smazání všech obrázků z %(page)s",
+	"delete-linked-pages": "Robot: smazání všech stránek odkazovaných z %(page)s",
+	"delete-referring-pages": "Robot: smazání všech stránek odkazujících na %(page)s"
 }

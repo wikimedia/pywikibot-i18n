@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"DemonioCZ",
-			"Mormegil"
+			"Mormegil",
+			"Dvorapa"
 		]
 	},
-	"protect-category": "Robot: Zamykám všechny stránky v kategorii %(cat)s",
-	"protect-images": "Robot: Zamykám všechny obrázky na stránce %(page)s",
-	"protect-links": "Robot: Zamykám všechny stránky odkazované z %(page)s",
-	"protect-ref": "Robot: Zamykám všechny stránky odkazující na %(page)s",
-	"protect-simple": "Robot: Zamykám seznam souborů."
+	"protect-category": "Robot: zamknutí všech stránek v kategorii %(cat)s",
+	"protect-images": "Robot: zamknutí všech obrázků na stránce %(page)s",
+	"protect-links": "Robot: zamknutí všech stránek odkazovaných z %(page)s",
+	"protect-ref": "Robot: zamknutí všech stránek odkazujících na %(page)s",
+	"protect-simple": "Robot: zamknutí souborů ze seznamu"
 }

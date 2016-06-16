@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aktron"
+			"Aktron",
+			"Dvorapa"
 		]
 	},
+	"imagetransfer-file_page_message": "Tento obrázek byl zkopírován z %(site)s. Původní popisek byl:\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "Soubor je nyní dostupný na Wikimedia Commons."
 }

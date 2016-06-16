@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tchoř"
+			"Tchoř",
+			"Dvorapa"
 		]
 	},
-	"spellcheck-checking": "Kontrola  překlepů s pomocí robota"
+	"spellcheck-checking": "Kontrola  překlepů za pomoci robota"
 }

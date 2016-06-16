@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "Robot přidal %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"add_text-adding": "Robot: přidáno %(adding)s"
 }

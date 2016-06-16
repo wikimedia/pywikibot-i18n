@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Spiffyk"
+			"Spiffyk",
+			"Dvorapa"
 		]
 	},
-	"category_redirect-add-template": "Robot: Přidávání šablony přesměrování kategorie kvůli údržbě",
-	"category_redirect-change-category": "Robot: Změňte přesměrovanou kategorii [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
-	"category_redirect-comment": "Robot na údržbu přesměrování kategorií",
-	"category_redirect-edit-request": "Následující chráněné stránky potřebují úpravu odkazů ke kategoriím: %(itemlist)s",
+	"category_redirect-add-template": "Robot: přidání šablony přesměrování kategorie kvůli údržbě",
+	"category_redirect-change-category": "Robot: změna přesměrované kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Robot k údržbě přesměrování kategorií",
+	"category_redirect-edit-request": "Následující zamčené stránky potřebují úpravu odkazů na kategorie: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s je v kategorii %(oldcat)s, která je přesměrovaná na %(newcat)s",
-	"category_redirect-fix-double": "Robot opravil dvojité přesměrování"
+	"category_redirect-fix-double": "Robot: opraveno dvojité přesměrování"
 }

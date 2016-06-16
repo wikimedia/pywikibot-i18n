@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"selflink-remove": "Robot odstranil odkaz na název článku"
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"selflink-remove": "Robot: odstranění odkazu na sebe sama"
 }

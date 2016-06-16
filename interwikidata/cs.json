@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Dvorapa"
 		]
 	},
-	"interwikidata-clean-summary": "Bot: Odstraňuji staré interwiki odkazy"
+	"interwikidata-clean-summary": "Robot: odstranění starých interwiki odkazů"
 }

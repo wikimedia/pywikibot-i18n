@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Spiffyk"
+			"Spiffyk",
+			"Dvorapa"
 		]
 	},
-	"basic-changing": "Robot: Měním ..."
+	"basic-changing": "Robot: změna ..."
 }

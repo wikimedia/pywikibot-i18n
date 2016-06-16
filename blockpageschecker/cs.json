@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mormegil"
+			"Mormegil",
+			"Dvorapa"
 		]
 	},
-	"blockpageschecker-summary": "Bot: Mažu zastaralou šablonu"
+	"blockpageschecker-summary": "Robot: smazání zastaralé šablony"
 }

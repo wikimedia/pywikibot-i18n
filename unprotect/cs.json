@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Juandev"
+			"Juandev",
+			"Dvorapa"
 		]
 	},
-	"unprotect-category": "Bot: Odemykám všechny stránky v kategorii %(cat)s",
-	"unprotect-images": "Bot: Odemykám všechny obrázky na stránce %(page)s",
-	"unprotect-links": "Bot: Odemykám všechny stránky na které je odkazováno ze %(page)s",
-	"unprotect-ref": "Bot: Odemykám všechny stránky, které jsou zmíněny na stránce %(page)s",
-	"unprotect-simple": "Bot: Odemykám seznam souborů"
+	"unprotect-category": "Robot: odemknutí všech stránek v kategorii %(cat)s",
+	"unprotect-images": "Robot: odemknutí všech souborů na stránce %(page)s",
+	"unprotect-links": "Robot: odemknutí všech stránek odkazovaných z %(page)s",
+	"unprotect-ref": "Robot: odemknutí všech stránek zmíněných na stránce %(page)s",
+	"unprotect-simple": "Robot: odemknutí souborů ze seznamu"
 }

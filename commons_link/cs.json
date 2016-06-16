@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
-	"commons_link-cat-template-added": "Robot přidal šablonu commonscat",
-	"commons_link-template-added": "Robot přidal šablonu commons"
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"commons_link-cat-template-added": "Robot: přidána šablona commonscat",
+	"commons_link-template-added": "Robot: přidána šablona commons"
 }

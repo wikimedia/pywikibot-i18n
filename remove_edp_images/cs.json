@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"remove_edp_images-edit-summary": "Robot: oprava použití obrázku dle [[wmf:Resolution:Licensing policy|EDP]]: [[%(title)s]]"
+}

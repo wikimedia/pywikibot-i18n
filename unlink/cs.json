@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Utar"
+			"Utar",
+			"Dvorapa"
 		]
 	},
-	"unlink-unlinking": "Robot: Odlinkovávám \"%(title)s\""
+	"unlink-unlinking": "Robot: odebrání odkazu na „%(title)s“"
 }

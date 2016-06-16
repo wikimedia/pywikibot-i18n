@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"fixing_redirects-fixing": "Robot opravil přesměrování"
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"fixing_redirects-fixing": "Robot: oprava přesměrování"
 }

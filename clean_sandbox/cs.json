@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"clean_sandbox-cleaned": "Uhrabání pískoviště"
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"clean_sandbox-cleaned": "Robot: úhrab pískoviště"
 }

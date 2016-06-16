@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Utar"
+			"Utar",
+			"Dvorapa"
 		]
 	},
-	"catall-changing": "Robot: Měním kategorie"
+	"catall-changing": "Robot: změna kategorií"
 }

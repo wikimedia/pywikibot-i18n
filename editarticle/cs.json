@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Spiffyk"
+			"Spiffyk",
+			"Dvorapa"
 		]
 	},
-	"editarticle-edit": "Ruční úprava s pomocí robota: %(description)s"
+	"editarticle-edit": "Ruční úprava za pomoci robota: %(description)s"
 }

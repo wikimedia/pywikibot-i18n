@@ -4,16 +4,18 @@
 			"JAn Dudík",
 			"Leanes",
 			"Matěj Suchánek",
-			"Tchoř"
+			"Tchoř",
+			"Dvorapa"
 		]
 	},
 	"pywikibot-enter-category-name": "Prosím, zadejte jméno kategorie:",
 	"pywikibot-enter-file-links-processing": "Odkazy na kterou stránku se souborem mají být zpracovány?",
-	"pywikibot-enter-finished-browser": "Po ukončení práce v prohlížeči zmáčněte Enter.",
+	"pywikibot-enter-finished-browser": "Po ukončení práce v prohlížeči zmáčkněte Enter.",
 	"pywikibot-enter-namespace-number": "Prosím, zadejte číslo jmenného prostoru:",
 	"pywikibot-enter-new-text": "Prosím zadejte nový text:",
 	"pywikibot-enter-page-processing": "Která stránka má být zpracována?",
 	"pywikibot-enter-xml-filename": "Zadejte jméno souboru s XML dumpem:",
-	"pywikibot-fixes-html": "převod/oprava HTML",
-	"pywikibot-fixes-syntax": "Oprava wikisyntaxe"
+	"pywikibot-fixes-fckeditor": "Robot: Oprava HTML z textového procesoru",
+	"pywikibot-fixes-html": "Robot: převod/oprava HTML",
+	"pywikibot-fixes-syntax": "Robot: oprava wikisyntaxe"
 }

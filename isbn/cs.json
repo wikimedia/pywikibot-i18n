@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dontlietome7"
+			"Dontlietome7",
+			"Dvorapa"
 		]
 	},
-	"isbn-formatting": "Robot: Formátování ISBN"
+	"isbn-formatting": "Robot: formátování ISBN"
 }

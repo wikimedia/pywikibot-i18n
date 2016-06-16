@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dvorapa"
+		]
+	},
+	"image-remove": "Robot: odstranění obrázku %(file)s",
+	"image-replace": "Robot: výměna obrázku %(old)s za %(new)s"
+}

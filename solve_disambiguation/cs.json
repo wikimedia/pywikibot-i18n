@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dontlietome7"
+			"Dontlietome7",
+			"Dvorapa"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka",
-	"solve_disambiguation-links-removed": "Odstranění linku na rozcestník [[%(from)s]] s použitím robota - Odstraněn(y) odkaz(y)",
-	"solve_disambiguation-links-resolved": "Odstranění linku na rozcestník [[%(from)s]] s použitím robota - Změněn(y) odkaz(y) na %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Robotem asistovaný rozcestník: %(from)s - Označeno, že vyžaduje pozornost odborníka",
-	"solve_disambiguation-redirect-removed": "Robot opravil přesměrování na %(from)s - Odstraněn(y) odkaz(y)",
-	"solve_disambiguation-redirect-resolved": "Robot opravil přesměrování na %(from)s - Změněn(y) odkaz(y) na %(to)s",
+	"solve_disambiguation-adding-dn-template": "Úprava rozcestníku za pomoci robota: %(from)s - označení, že je potřeba pozornost odborníka",
+	"solve_disambiguation-links-removed": "Úprava rozcestníku za pomoci robota: %(from)s - odstranění odkazu/ů",
+	"solve_disambiguation-links-resolved": "Úprava rozcestníku za pomoci robota: %(from)s - změna odkazu/ů na %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Úprava rozcestníku za pomoci robota: %(from)s - označení, že potřebuje pozornost odborníka",
+	"solve_disambiguation-redirect-removed": "Úprava rozcestníku za pomoci robota: %(from)s - odstranění odkazu/ů",
+	"solve_disambiguation-redirect-resolved": "Úprava rozcestníku za pomoci robota: %(from)s - změna odkazu/ů na %(to)s",
 	"solve_disambiguation-unknown-page": "(neznámé)"
 }

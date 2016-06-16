@@ -4,18 +4,20 @@
 			"Chmee2",
 			"Mormegil",
 			"Spiffyk",
-			"Tchoř"
+			"Tchoř",
+			"Dvorapa"
 		]
 	},
-	"category-adding": "Robot: Přidávám kategorii [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Robot: přidání kategorie [[:Kategorie:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(také v %(alsocat)s)",
-	"category-changing": "Robot: Měním [[%(oldcat)s]]→[[%(newcat)s]]",
-	"category-listifying": "Robot: vytvoření soupisu obsahu kategorie %(fromcat)s (%(num)d položek)",
+	"category-changing": "Robot: změna %(oldcat)s na %(newcat)s",
+	"category-listifying": "Robot: vytvoření seznamu z %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položek}})",
 	"category-removing": "Robot: odstranění kategorie %(oldcat)s",
-	"category-renamed": "Robot: Přesunuto z %(oldcat)s. Autoři: %(authors)s",
-	"category-replacing": "Robot: Nahrazení kategorie %(oldcat)s za %(newcat)s",
+	"category-renamed": "Robot: přesunuto z %(oldcat)s, autoři: %(authors)s",
+	"category-replacing": "Robot: nahrazení kategorie %(oldcat)s za %(newcat)s",
 	"category-section-title": "Historie verzí bývalé %(oldcat)s",
-	"category-version-history": "Robot: Ukládání historie verzí bývalé %(oldcat)s",
-	"category-was-disbanded": "Robot: kategorie byla vyprázdněna",
-	"category-was-moved": "Robot: Kategorie přesunuta na [[:Category:%(newcat)s|%(title)s]]"
+	"category-strip-cfd-templates": "Robot: odstranění šablony Přejmenovat kategorii po přesunu",
+	"category-version-history": "Robot: ukládání historie verzí bývalé %(oldcat)s",
+	"category-was-disbanded": "Robot: vyprázdnění kategorie",
+	"category-was-moved": "Robot: přesun kategorie na [[:Kategorie:%(newcat)s|%(title)s]]"
 }

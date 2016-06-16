@@ -3,10 +3,11 @@
 		"authors": [
 			"Matěj Suchánek",
 			"Spiffyk",
-			"Vks"
+			"Vks",
+			"Dvorapa"
 		]
 	},
-	"template-changing": "Robot: Upravuji {{PLURAL:%(num)d|šablonu|šablony|šablon}}: %(list)s",
-	"template-removing": "Robot: Odstraňuji {{PLURAL:%(num)d|šablonu|šablony|šablon}}: %(list)s",
-	"template-substituting": "Robot: Nahrazuji {{PLURAL:%(num)d|šablonu|šablony|šablon}}: %(list)s"
+	"template-changing": "Robot: úprava {{PLURAL:%(num)d|šablony|šablon}}: %(list)s",
+	"template-removing": "Robot: odstranění {{PLURAL:%(num)d|šablony|šablon}}: %(list)s",
+	"template-substituting": "Robot: nahrazení {{PLURAL:%(num)d|šablony|šablon}}: %(list)s"
 }
