@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Volkov",
-			"Amire80"
+			"Amire80",
+			"Mailman"
 		]
 	},
-	"movepages-moving": "Бот: перенёс страницу при помощи бота"
+	"movepages-moving": "Бот: страница перемещена"
 }

@@ -7,7 +7,7 @@
 		]
 	},
 	"casechecker-delete-reason": "Toto přesměrování vedlo na %(target)s",
-	"casechecker-delete-summary": "Robot: Toto přesměrování ve svém názvu obsahuje stejně vypadající znaky cyrilice a latinky",
+	"casechecker-delete-summary": "Robot: toto přesměrování ve svém názvu obsahuje stejně vypadající znaky cyrilice a latinky",
 	"casechecker-rename": "Robot: přejmenování kvůli smíchaným velikostem písmen",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Robot: změna velikosti písmen:"

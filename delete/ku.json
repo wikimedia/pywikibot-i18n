@@ -4,5 +4,6 @@
 			"George Animal"
 		]
 	},
+	"delete-from-category": "Robot: Hemû rûpelên kategoriya %(page)s jê dibe",
 	"delete-from-file": "Bot: Lîsteyeka rûpelan jê dibe."
 }
