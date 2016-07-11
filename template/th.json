@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"template-changing": "บอต: เปลี่ยน{{PLURAL:%(num)d|แม่แบบ|แม่แบบ}}: %(list)s",
+	"template-removing": "บอต: ลบ{{PLURAL:%(num)d|แม่แบบ|แม่แบบ}}: %(list)s",
+	"template-substituting": "บอต: ทดแทน{{PLURAL:%(num)d|แม่แบบ|แม่แบบ}}: %(list)s"
+}

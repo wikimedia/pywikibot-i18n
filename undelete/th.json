@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"undelete-from-file": "บอต: กู้คืนรายชื่อหน้า",
+	"undelete-images": "บอต: กูคืนรูปภาพทั้งหมดในหน้า %(page)s",
+	"undelete-linked-pages": "บอต: กู้คืนหน้าทั้งหมดที่ลิงก์จาก %(page)s"
+}

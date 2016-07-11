@@ -6,6 +6,8 @@
 		]
 	},
 	"archivebot-archive-full": "(กรุเต็ม)",
+	"archivebot-archive-summary": "บอต: เก็บถาวร %(count)d {{PLURAL:%(count)d|กระทู้|กระทู้}}จาก [[%(from)s]]",
 	"archivebot-archiveheader": "{{กรุ}}",
-	"archivebot-older-than": "เก่ากว่า %(duration)s"
+	"archivebot-older-than": "เก่ากว่า %(duration)s",
+	"archivebot-page-summary": "บอต: เก็บถาวร %(count)d {{PLURAL:%(count)d|กระทู้|กระทู้}} (%(why)s) ไปยัง %(archives)s"
 }

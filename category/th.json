@@ -6,9 +6,15 @@
 		]
 	},
 	"category-adding": "บอต: เพิ่มหมวดหมู่ [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-changing": "บอต: เปลี่ยนจาก %(oldcat)s ไปยัง %(newcat)s",
-	"category-removing": "บอต: ลบออกจาก %(oldcat)s",
-	"category-renamed": "บอต: ย้ายจาก %(oldcat)s ผู้เขียนเดิม:",
+	"category-also-in": "(เช่นเดียวกับใน %(alsocat)s)",
+	"category-changing": "บอต: เปลี่ยน %(oldcat)s ไปยัง %(newcat)s",
+	"category-listifying": "บอต: รวบรวมรายชื่อจาก %(fromcat)s ({{PLURAL:%(num)d|1 รายการ|%(num)d รายการ}})",
+	"category-removing": "บอต: ลบจาก %(oldcat)s",
+	"category-renamed": "บอต: ย้ายจาก %(oldcat)s ผู้เขียนเดิม: %(authors)s",
 	"category-replacing": "บอต: แทนที่หมวดหมู่ %(oldcat)s ด้วย %(newcat)s",
+	"category-section-title": "ประวัติหน้าเก่าของ %(oldcat)s",
+	"category-strip-cfd-templates": "บอต: ลบแม่แบบแจ้งลบสำหรับการปฏิบัติที่เสร็จสิ้นแล้ว",
+	"category-version-history": "บอตซ บันทึกรุ่นประวัติเก่าของ %(oldcat)s",
+	"category-was-disbanded": "บอต: หมวดหมู่ถูกยุบเลิก",
 	"category-was-moved": "บอต: หมวดหมู่ได้ย้ายไป [[:Category:%(newcat)s|%(title)s]]"
 }

@@ -17,7 +17,7 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nボットによる出力: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(人間の編集者は見つかりませんでした)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": "* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - [[User:%(user)s]] による最新の編集 (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y年%m%d日",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y年%B%d日",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* ボットによる警告メッセージ: %(page)s「''%(warning)s''」",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "議論の要約の追加: %(num)i件",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "議論の要約の追加および除去: %(num)i件",

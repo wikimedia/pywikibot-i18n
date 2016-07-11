@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"imagetransfer-file_page_message": "รูปภาพนี้เป็นสำเนาจาก %(site)s คำอธิบายดั้งเดิมมีดังนี้:\n\n%(description)s"
+}

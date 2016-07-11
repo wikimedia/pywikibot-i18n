@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"image-remove": "บอต: ลบรูปภาพ %(file)s",
+	"image-replace": "บอต: แทนที่รูปภาพ %(old)s ด้วย %(new)s"
+}

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nullzero"
+			"Nullzero",
+			"Octahedron80"
 		]
 	},
-	"basic-changing": "โรบอต: กำลังเปลี่ยน ..."
+	"basic-changing": "บอต: เปลี่ยน ..."
 }

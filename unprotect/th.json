@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Octahedron80"
+		]
+	},
+	"unprotect-category": "บอต: ปลดล็อกหน้าทั้งหมดจากหมวดหมู่ %(cat)s",
+	"unprotect-images": "บอต: ปลดล็อกไฟล์ทั้งหมดในหน้า %(page)s",
+	"unprotect-links": "บอต: ปลดล็อกหน้าทั้งหมดที่ลิงก์จาก %(page)s",
+	"unprotect-ref": "บอต: ปลดล็อกหน้าทั้งหมดที่ลิงก์ไป %(page)s",
+	"unprotect-simple": "บอต: ปลดล็อกรายชื่อไฟล์"
+}

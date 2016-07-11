@@ -16,7 +16,7 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\n요약을 만든 로봇과 시간: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(사람 편집자를 찾을 수 없습니다)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - [[User:%(user)s]] 사용자의 마지막 편집 (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y년 %m월 %d일",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y년 %B %d일.",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* 봇 경고 메시지: %(page)s \"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "토론 요약 추가: 항목 %(num)i개",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "토론 요약을 정리하여 추가: 항목 %(num)i개",
