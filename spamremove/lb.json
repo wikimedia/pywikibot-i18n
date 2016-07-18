@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Soued031"
 		]
 	},
-	"spamremove-remove": "Linken op Spam-Siten %(url)s ewechhuelen"
+	"spamremove-remove": "Linken op Spam-Sitten %(url)s ewechhuelen"
 }

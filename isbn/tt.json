@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zahidulla"
+			"Zahidulla",
+			"Ильнар"
 		]
 	},
-	"isbn-formatting": "Робот: ISBN үзгәртеп кору"
+	"isbn-formatting": "Бот: ISBN төзү"
 }
