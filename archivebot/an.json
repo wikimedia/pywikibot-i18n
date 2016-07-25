@@ -5,5 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(FICHERO COMPLETO)",
-	"archivebot-older-than": "con una antiguidat de %(duration)s"
+	"archivebot-archive-summary": "Bot: archivando %(count)d {{PLURAL:%(count)|filo|filos}} de [[%(from)s]].",
+	"archivebot-older-than": "con una antiguidat de %(duration)s",
+	"archivebot-page-summary": "Bot: archivando %(count)d {{PLURAL:%(count)d|filo|filos}} (%(why)s) en %(archives)s."
 }

@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"MarcoAurelio"
 		]
 	},
-	"category-adding": "Robot: Adhibito [[Category:%(newcat)s]]"
+	"category-adding": "Bot: adhibita a categoría «[[:Category:%(newcat)s|%(newcat)s]]»",
+	"category-also-in": "(tamién en %(alsocat)s)",
+	"category-changing": "Bot: treslado de «%(oldcat)s» a «%(newcat)s»",
+	"category-listifying": "Bot: lista d'a partir de %(fromcat)s ({{PLURAL:%(num)d|1 dentrada|%(num)d dentradas}})",
+	"category-removing": "Bot: eliminada de %(oldcat)s",
+	"category-renamed": "Bot: tresladada dende %(oldcat)s. Autor(s): %(authors)s",
+	"category-replacing": "Bot: reemplazo de categoría %(oldcat)s por %(newcat)s",
+	"category-section-title": "Historial d'a pachina de %(oldcat)s previos",
+	"category-strip-cfd-templates": "Bot: eliminando plantillas ta acción completada",
+	"category-version-history": "Bot: alzau de historial d'a %(oldcat)s anterior",
+	"category-was-disbanded": "Bot: a categoría estió eliminada",
+	"category-was-moved": "Bot: categoría tresladada a «[[:Category:%(newcat)s|%(title)s]]»"
 }

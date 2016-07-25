@@ -4,12 +4,13 @@
 			"Fitoschido",
 			"Sporeunai",
 			"VegaDark",
-			"Macofe"
+			"Macofe",
+			"MarcoAurelio"
 		]
 	},
 	"casechecker-delete-reason": "Esta redirección solía apuntar a %(target)s",
 	"casechecker-delete-summary": "Bot: esta redirección contiene en su título caracteres cirílicos y latinos que lucen idénticos",
-	"casechecker-rename": "Bot: renombramiento con mayúsculas/minúsculas combinadas",
+	"casechecker-rename": "Bot: renombrando página con diversos caracteres no uniformes",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Bot: reemplazo de mayúsculas/minúsculas:"
 }

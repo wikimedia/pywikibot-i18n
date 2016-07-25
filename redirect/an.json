@@ -4,7 +4,10 @@
 			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Destruyir|1=Bot: endrecera trencata}}",
+	"redirect-broken-redirect-template": "{{destruyir|1=Bot: a pachina a la quala ista reendreza no existe.}}",
 	"redirect-fix-broken-moved": "Bot: apanyando endrecera trencata enta la páchina %(to)s",
-	"redirect-fix-double": "Bot: apanyando endrecera doble enta %(to)s"
+	"redirect-fix-double": "Bot: apanyando endrecera dople enta %(to)s",
+	"redirect-fix-loop": "Bot: apanyo d'endrecera infinita a %(to)s",
+	"redirect-remove-broken": "Bot: reendreza a una pachina borrada u que no existe",
+	"redirect-remove-loop": "Bot: o destín d'a endrecera creya un bucle d'endrecera"
 }
