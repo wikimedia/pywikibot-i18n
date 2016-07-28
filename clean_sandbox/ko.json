@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"아라",
-			"Revi"
+			"Revi",
+			"IRTC1015"
 		]
 	},
-	"clean_sandbox-cleaned": "봇: 연습장을 자동으로 비움"
+	"clean_sandbox-cleaned": "봇: 자동으로 비움"
 }

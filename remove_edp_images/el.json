@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Protnet"
+			"Protnet",
+			"Geraki"
 		]
 	},
-	"remove_edp_images-edit-summary": "Ρομπότ: Επιδιόρθωση χρήσης εικόνας EDP: [[%(title)s]]"
+	"remove_edp_images-edit-summary": "Ρομπότ: Επιδιόρθωση εξαιρέσιμης χρήσης εικόνας: [[%(title)s]]"
 }

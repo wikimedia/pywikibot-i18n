@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Protnet",
-			"Glavkos"
+			"Glavkos",
+			"Geraki"
 		]
 	},
-	"cosmetic_changes-append": "· αισθητικές αλλαγές",
+	"cosmetic_changes-append": ".",
 	"cosmetic_changes-standalone": "Ρομπότ: Αισθητικές αλλαγές"
 }

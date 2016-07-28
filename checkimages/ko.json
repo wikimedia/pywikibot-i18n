@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Nicolas Dumazet",
-			"Revi"
+			"Revi",
+			"아라"
 		]
 	},
 	"checkimages-source-tag-comment": "봇: 새로 업로드된 태그 없는 파일을 표시",
-	"checkimages-source-notice-comment": "봇: 라이선스 정보 요청"
+	"checkimages-source-notice-comment": "봇: 자료 정보 요청."
 }
