@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Erdemaslancan",
-			"Mirzali"
+			"Mirzali",
+			"Kumkumuk"
 		]
 	},
 	"pywikibot-enter-category-name": "Nameyê kategoriye cı kewê:",
@@ -12,5 +13,7 @@
 	"pywikibot-enter-new-text": "Nuşteyê newey cı kewê:",
 	"pywikibot-enter-page-processing": "Kamci pele wa bınuşiyo?",
 	"pywikibot-enter-xml-filename": "Nameyê yedegê dosya XMLi cı kewê:",
+	"pywikibot-fixes-fckeditor": "Bot: zengin-editor html keno fiks",
+	"pywikibot-fixes-html": "Bot: HTML açarnayış/fiks kerdış",
 	"pywikibot-fixes-syntax": "Bot: Wiki-sentaks raşt ke"
 }

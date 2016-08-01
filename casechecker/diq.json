@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Marmase"
+			"Marmase",
+			"Kumkumuk"
 		]
 	},
-	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+	"casechecker-delete-reason": "Ena hetenayış %(target)s de kariyê bi",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: Weqa vurnayış:"
 }

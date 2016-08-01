@@ -9,5 +9,5 @@
 	},
 	"archivebot-archive-full": "(আর্কাইভ পূর্ণ)",
 	"archivebot-archiveheader": "{{আলোচনার সংগ্রহশালা}}",
-	"archivebot-older-than": "%(duration)s বেশি পুরাতন"
+	"archivebot-older-than": "%(duration)s ছেয়ে বেশি পুরাতন"
 }

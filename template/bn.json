@@ -5,5 +5,5 @@
 			"Aftabuzzaman"
 		]
 	},
-	"template-removing": "রোবট: {{PLURAL:%(num)d|টেমপ্লেট|টেমপ্লেটসমূহ}} অপসারণ করছে: %(list)s"
+	"template-removing": "বট: {{PLURAL:%(num)d|টেমপ্লেট|টেমপ্লেটসমূহ}} সরিয়েছে: %(list)s"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tauhid16"
+			"Tauhid16",
+			"Aftabuzzaman"
 		]
 	},
-	"pywikibot-enter-new-text": "দয়া নতুন বাক্য লিখুন:"
+	"pywikibot-enter-new-text": "দয়া করে নতুন বাক্য লিখুন:"
 }

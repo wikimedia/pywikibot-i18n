@@ -11,7 +11,9 @@
 	"category-also-in": "(%(alsocat)s বিষয়শ্রেণীতেও আছে)",
 	"category-changing": "বট: %(newcat)s-এ %(oldcat)s পরিবর্তন করছে",
 	"category-listifying": "বট: %(fromcat)s থেকে তালিকাভুক্ত করছে ({{PLURAL:%(num)d|১টি ভুক্তি|%(num)dটি ভুক্তি}})",
-	"category-removing": "বট: %(oldcat)s থেকে বিষয়শ্রেণী অপসারণ",
+	"category-removing": "বট: %(oldcat)s থেকে বিষয়শ্রেণী সরিয়েছে",
+	"category-renamed": "বট: %(oldcat)s থেকে স্থানান্তরিত। লেখকগণ: %(authors)s",
 	"category-replacing": "বট: %(oldcat)s কে %(newcat)s দ্বারা প্রতিস্থাপন করছে",
+	"category-section-title": "বিগত %(oldcat)s-এর পাতার ইতিহাস",
 	"category-was-moved": "বট: বিষয়শ্রেণী [[:Category:%(newcat)s|%(title)s]]-এ স্থানান্তরিত হয়েছে"
 }

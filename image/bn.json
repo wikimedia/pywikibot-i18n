@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bodhisattwa"
+			"Bodhisattwa",
+			"Aftabuzzaman"
 		]
 	},
-	"image-remove": "বট: চিত্র %(file)s অপসারিত হচ্ছে"
+	"image-remove": "বট: চিত্র %(file)s সরানো হচ্ছে"
 }

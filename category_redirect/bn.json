@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikitanvir"
+			"Wikitanvir",
+			"Aftabuzzaman"
 		]
 	},
 	"category_redirect-add-template": "বট: রক্ষণাবেক্ষণের জন্য বিষয়শ্রেণী পুনর্নির্দেশ টেমপ্লেট যোগ করছে",
+	"category_redirect-change-category": "বট: [[:%(oldCatLink)s|%(oldCatTitle)s]] থেকে [[:%(newCatLink)s|%(newCatTitle)s]]\n-এ পুনঃনির্দেশিত বিষয়শ্রেণী পরিবর্তন করেছে",
 	"category_redirect-comment": "বিষয়শ্রেণী পুনর্নির্দেশ রক্ষণাবেক্ষণ বট",
 	"category_redirect-fix-double": "বট: দ্বিপুনর্নির্দেশনা ঠিক করছে"
 }

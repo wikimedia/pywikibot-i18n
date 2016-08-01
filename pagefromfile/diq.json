@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mirzali"
+			"Mirzali",
+			"Kumkumuk"
 		]
 	},
+	"pagefromfile-msg": "Bot:wesiqeyan otomatik dekeno de",
 	"pagefromfile-msg_bottom": "peyniye de tam ke",
+	"pagefromfile-msg_force": "Mewcud metini sero",
 	"pagefromfile-msg_top": "Verêniye de tam ke"
 }
