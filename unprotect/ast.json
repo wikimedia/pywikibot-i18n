@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"MarcoAurelio"
 		]
 	},
 	"unprotect-category": "Bot: Desprotexendo toles páxines de la categoría %(cat)s",
 	"unprotect-images": "Bot: Desprotexendo toles imaxes de la páxina %(page)s",
 	"unprotect-links": "Bot: Desprotexendo toles páxines enllazaes dende %(page)s",
 	"unprotect-ref": "Bot: Desprotexendo toles páxines con referencia dende %(page)s",
-	"unprotect-simple": "Bot: Desprotexendo una llista de ficheros."
+	"unprotect-simple": "Bot: Desprotexendo una llista de ficheros"
 }

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"MarcoAurelio"
 		]
 	},
 	"checkimages-source-tag-comment": "Bot: Marcando un ficheru ensin etiquetes xubíu apocayá",
-	"checkimages-source-notice-comment": "Robot: Solicitando información de la fonte."
+	"checkimages-source-notice-comment": "Bot: Solicitando información de la fonte."
 }
