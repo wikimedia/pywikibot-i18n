@@ -5,7 +5,7 @@
 			"Revi"
 		]
 	},
-	"thirdparty-drtrigonbot-subster-summary-mod": "태그 %(tags)s개 전개",
+	"thirdparty-drtrigonbot-subster-summary-mod": "태그 %(tags)s개 풀어쓰기",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "토론 바꿈",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "토론 닫음",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "봇 메시지",
