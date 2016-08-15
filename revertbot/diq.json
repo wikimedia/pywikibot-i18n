@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirzali"
+		]
+	},
+	"revertbot-revert": "Bot: Hetê %(author)s ra %(timestamp)s de peyser gırewt era %(revid)s"
+}

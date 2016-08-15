@@ -4,5 +4,6 @@
 			"Kumkumuk"
 		]
 	},
-	"image-remove": "Bot: resimê %(file)s wedarne no"
+	"image-remove": "Bot: resimê %(file)s wedarne no",
+	"image-replace": "Bot: %(old)s resim %(new)s ya vurneya"
 }

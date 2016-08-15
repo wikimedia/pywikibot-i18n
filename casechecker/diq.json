@@ -6,6 +6,8 @@
 		]
 	},
 	"casechecker-delete-reason": "Ena hetenayış %(target)s de kariyê bi",
+	"casechecker-delete-summary": "Bot: zerrekê ena hetenayışê cı gorey elıfbaya kiril u latini weyneyêno",
+	"casechecker-rename": "Bot: fına name keno",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Bot: Weqa vurnayış:"
 }
