@@ -8,6 +8,6 @@
 	},
 	"archivebot-archive-full": "(АРХИВ ТУЛҒАН)",
 	"archivebot-archive-summary": "Робот: %(count)d {{PLURAL:%(count)d|тема}} архивланды. Алынған урын: [[%(from)s]].",
-	"archivebot-older-than": "%(duration) ҡарағанда, иҫкерәк",
+	"archivebot-older-than": "%(duration)s ҡарағанда, өлкәнерәк",
 	"archivebot-page-summary": "Робот: %(count)d {{PLURAL:%(count)d|тема}} (%(why)s) %(archives)s архивына ҡуйылды."
 }
