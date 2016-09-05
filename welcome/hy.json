@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xelgen"
+			"Xelgen",
+			"Աշոտ1997"
 		]
 	},
+	"welcome-bad_username": "Ռոբոտ։ Ավելացվում է ստուգման կարիք ունեցող մասնակցային անուն",
+	"welcome-updating": "Ռոբոտ: Գրանցամատյանի թարմացում",
 	"welcome-welcome": "Բարի՛ գալուստ"
 }

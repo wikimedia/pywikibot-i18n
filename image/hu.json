@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tacsipacsi"
+		]
+	},
+	"image-remove": "Bot: %(file)s kép eltávolítása",
+	"image-replace": "Bot: %(old)s kép cseréje erre: %(new)s"
+}

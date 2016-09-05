@@ -4,12 +4,13 @@
 			"Njsubedi",
 			"सरोज कुमार ढकाल",
 			"Xqt",
-			"Nirmal Dulal"
+			"Nirmal Dulal",
+			"राम प्रसाद जोशी"
 		]
 	},
 	"archivebot-archive-full": "(अभिलेख भरियो)",
 	"archivebot-archive-summary": "रोबोट : %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}को  [[%(from)s]]बाट अभिलेखिकरण गर्दै ।",
 	"archivebot-archiveheader": "{{Talkarchive}}",
 	"archivebot-older-than": "%(duration)s भन्दा पुरानो",
-	"archivebot-page-summary": "रोबोट: %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}} (%(why)s)लाई  %(archives)s मा अभिलेखिकरण गरिँदै ।"
+	"archivebot-page-summary": "रोबोट: %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरू}} (%(why)s)लाई  %(archives)s मा अभिलेखिकरण गरिदै ।"
 }

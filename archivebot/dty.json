@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"archivebot-archive-full": "(अभिलेख भरियो)",
+	"archivebot-older-than": "%(duration)s है पुरानु"
+}

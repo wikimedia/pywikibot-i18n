@@ -3,9 +3,12 @@
 		"authors": [
 			"An13sa",
 			"Xabier Armendaritz",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Sator"
 		]
 	},
 	"redirect-broken-redirect-template": "{{ezabatu|1=Bot-ak: hautsitako birzuzenketa}}",
-	"redirect-fix-double": "Robota: «%(to)s» orriranzko birbideratze bikoitza konpontzea"
+	"redirect-fix-double": "Robota: «%(to)s» orriranzko birbideratze bikoitza konpontzea",
+	"redirect-fix-loop": "Bot: Birzuzenketa ziklikoen konpontzea %(to)s",
+	"redirect-remove-broken": "Bot: Ezabatutako edo existitzen ez den orrialde batera birzuzendua."
 }

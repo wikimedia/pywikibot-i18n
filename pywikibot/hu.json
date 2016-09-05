@@ -13,6 +13,7 @@
 	"pywikibot-enter-new-text": "Add meg az új szöveget:",
 	"pywikibot-enter-page-processing": "Melyik lapot kell feldolgozni?",
 	"pywikibot-enter-xml-filename": "Add meg az XML dump fájl nevét:",
+	"pywikibot-fixes-fckeditor": "Bot: Vizuális szerkesztő HTML-jének javítása",
 	"pywikibot-fixes-html": "Robot: HTML konvertálása/javítása",
 	"pywikibot-fixes-syntax": "Robot: Wiki jelölőnyelv javítása"
 }

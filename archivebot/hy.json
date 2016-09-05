@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Xelgen",
-			"Vahe Gharakhanyan"
+			"Vahe Gharakhanyan",
+			"Աշոտ1997"
 		]
 	},
 	"archivebot-archive-full": "(ԱՐԽԻՎԸ ԼՑՎԱԾ Է)",
-	"archivebot-older-than": "ավելի հին քան %(duration)s"
+	"archivebot-archive-summary": "Ռոբոտ։ Արխիվացվում է %(count)d {{PLURAL:%(count)d|քննարկման բաժին|քննարկման բաժիններ}} [[%(from)s]]-ից",
+	"archivebot-older-than": "ավելի հին քան %(duration)s",
+	"archivebot-page-summary": "Ռոբոտ։ Արխիվացվում է %(count)d քննարկման բաժին (%(why)s) դեպի %(archives)s"
 }

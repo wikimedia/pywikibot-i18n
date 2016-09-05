@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"category-adding": "बोट: [[:Category:%(newcat)s|%(newcat)s]] श्रेणी थप्दाछ़",
+	"category-also-in": "(%(alsocat)s मी लै)",
+	"category-removing": "बोट: %(oldcat)s बठेइ हटौन्नाछ़"
+}

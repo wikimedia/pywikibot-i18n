@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Աշոտ1997"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Նիշքը]] տեղափոխվել է [[:commons:File:%(commonsfile)s|Վիքիպահեստ]]։",
+	"commons-file-now-available": "Նիշքը այժմ հասանելի է [[:commons:File:%(commonsfile)s|Վիքիպահեստում]]։"
+}
