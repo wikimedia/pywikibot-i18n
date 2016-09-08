@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Aftab1995",
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"আজিজ"
 		]
 	},
-	"noreferences-add-tag": "বট: অনুপস্থিত <references /> ট্যাগ যোগ করেছে"
+	"noreferences-add-tag": "বট: অনুপস্থিত <references /> ট্যাগ যোগ করেছে",
+	"noreferences-fix-tag": "বট: <reference /> ট্যাগের অবৈধ পদন্যাস (সিনট্যাক্স) ঠিক করুন"
 }

@@ -13,7 +13,7 @@
 	"pywikibot-enter-new-text": "فضلاً ادخل النص الجديد:",
 	"pywikibot-enter-page-processing": "الصفحة التي ينبغي معالجتها؟",
 	"pywikibot-enter-xml-filename": "الرجاء إدخال اسم ملف تفريغ XML:",
-	"pywikibot-fixes-fckeditor": "روبوت: تصحيح rich-editor html",
-	"pywikibot-fixes-html": "روبوت: تحويل/تصليح HTML",
+	"pywikibot-fixes-fckeditor": "بوت: تصحيح rich-editor html",
+	"pywikibot-fixes-html": "بوت: تحويل/تصليح HTML",
 	"pywikibot-fixes-syntax": "بوت: تصليح تهيئة الويكي"
 }

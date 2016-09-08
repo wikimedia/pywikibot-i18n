@@ -3,13 +3,14 @@
 		"authors": [
 			"DRIHEM",
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"Moud hosny"
 		]
 	},
 	"redirect-broken-redirect-template": "{{شطب|تحويلة مكسورة}}",
-	"redirect-fix-broken-moved": "الروبوت: إصلاح إعادة التوجيه المعطل لصفحة الهدف المحركة %(to)s",
+	"redirect-fix-broken-moved": "بوت: إصلاح إعادة التوجيه المعطل لصفحة الهدف المحركة %(to)s",
 	"redirect-fix-double": "بوت: تصليح تحويلة مزدوجة إلى %(to)s",
-	"redirect-fix-loop": "روبوت: تعديل حلقة إعادة التوجيه إلى %(to)s",
-	"redirect-remove-broken": "روبوت: تحويلة إلى صفحة محذوفة أو غير موجودة",
-	"redirect-remove-loop": "روبوت: هدف التحويلة يصنع عقدة تحويل"
+	"redirect-fix-loop": "بوت: تعديل حلقة إعادة التوجيه إلى %(to)s",
+	"redirect-remove-broken": "بوت: إعادة توجيه إلى صفحة محذوفة أو غير موجودة",
+	"redirect-remove-loop": "بوت: هدف التحويلة يصنع عقدة تحويل"
 }

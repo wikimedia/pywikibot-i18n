@@ -1,6 +1,10 @@
 {
-	"@metadata": [],
-	"pagefromfile-msg": "استيراد تلقائي للمقالات",
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"pagefromfile-msg": "بوت: استيراد تلقائي للمقالات",
 	"pagefromfile-msg_bottom": "كتابة على الأسفل",
 	"pagefromfile-msg_force": "تمت الكتابة على النص الموجود",
 	"pagefromfile-msg_top": "كتابة على الأعلى"
