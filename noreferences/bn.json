@@ -7,5 +7,5 @@
 		]
 	},
 	"noreferences-add-tag": "বট: অনুপস্থিত <references /> ট্যাগ যোগ করেছে",
-	"noreferences-fix-tag": "বট: <reference /> ট্যাগের অবৈধ পদন্যাস (সিনট্যাক্স) ঠিক করুন"
+	"noreferences-fix-tag": "বট: <reference /> ট্যাগের অবৈধ পদবিন্যাস ঠিক করেছে"
 }
