@@ -4,6 +4,8 @@
 			"Muhammad Shuaib"
 		]
 	},
+	"pywikibot-enter-category-name": "براہ کرم زمرہ کا نام درج کریں:",
 	"pywikibot-enter-new-text": "براہ کرم نیا متن درج کریں:",
-	"pywikibot-enter-page-processing": "کس صفحہ پر کام کرنا چاہیے؟"
+	"pywikibot-enter-page-processing": "کس صفحہ پر کام کرنا چاہیے؟",
+	"pywikibot-fixes-syntax": "روبہ: ویکی صیغہ کی درستی"
 }

@@ -4,12 +4,13 @@
 			"Giro720",
 			"Waldir",
 			"Xqt",
-			"Macofe"
+			"Macofe",
+			"Mansil"
 		]
 	},
-	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
+	"archivebot-archive-full": "(ARQUIVO CHEIO)",
 	"archivebot-archive-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} de [[%(from)s]].",
 	"archivebot-archiveheader": "{{Arquivo de discussão}}",
-	"archivebot-older-than": "mais velho que %(duration)s",
+	"archivebot-older-than": "mais antigo que %(duration)s",
 	"archivebot-page-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s."
 }

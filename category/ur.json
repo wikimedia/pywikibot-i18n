@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"category-adding": "روبالہ: جمع category [[:Category:%(newcat)s|%(newcat)s]]"
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"category-adding": "روبہ: اضافہ زمرہ [[:Category:%(newcat)s|%(newcat)s]]"
 }
