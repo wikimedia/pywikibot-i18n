@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luuva"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Thó-lūn piàn-keng--ah",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Thó-lūn kiat-sok--ah",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT SÌN-SEK",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Sin-ê Thó-lūn",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Thong-ti",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - %(user)s chò ê [%(history_link)s chòe-kīn pian-chi̍p] (%(page_size)s byte) (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
+}

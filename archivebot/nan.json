@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luuva"
+		]
+	},
+	"archivebot-archive-full": "(CHÛN-ÀN MÓA--AH)",
+	"archivebot-archive-summary": "Bot: Chiong [[%(from)s]] ê %(count)d kiāⁿ thó-lūn chûn-àn.",
+	"archivebot-older-than": "Chhiau-kòe %(duration)s kú",
+	"archivebot-page-summary": "Bot: Kā %(count)d kiāⁿ ê %(why)s chûn-àn tī %(archives)s."
+}
