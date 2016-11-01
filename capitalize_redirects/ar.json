@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
-	"capitalize_redirects-create-redirect": "روبوت: إنشاء تحويلة إلى [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "بوت: إنشاء تحويلة إلى [[%(to)s]]"
 }

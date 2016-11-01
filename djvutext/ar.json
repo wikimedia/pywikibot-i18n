@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
-	"djvutext-creating": "روبوت: إنشاء صفحة بنص مستخرج من DjVu"
+	"djvutext-creating": "بوت: إنشاء صفحة بنص مستخرج من DjVu"
 }

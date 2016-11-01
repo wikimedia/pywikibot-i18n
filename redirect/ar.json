@@ -4,13 +4,14 @@
 			"DRIHEM",
 			"Meno25",
 			"Zaher kadour",
-			"Moud hosny"
+			"Moud hosny",
+			"ديفيد"
 		]
 	},
 	"redirect-broken-redirect-template": "{{شطب|تحويلة مكسورة}}",
-	"redirect-fix-broken-moved": "بوت: إصلاح إعادة التوجيه المعطل لصفحة الهدف المحركة %(to)s",
+	"redirect-fix-broken-moved": "بوت: إصلاح تحويلة مزدوجة لصفحة الهدف المنقولة %(to)s",
 	"redirect-fix-double": "بوت: تصليح تحويلة مزدوجة إلى %(to)s",
-	"redirect-fix-loop": "بوت: تعديل حلقة إعادة التوجيه إلى %(to)s",
-	"redirect-remove-broken": "بوت: إعادة توجيه إلى صفحة محذوفة أو غير موجودة",
+	"redirect-fix-loop": "بوت: تعديل حلقة التحويلة إلى %(to)s",
+	"redirect-remove-broken": "بوت: تحويلة إلى صفحة محذوفة أو غير موجودة",
 	"redirect-remove-loop": "بوت: هدف التحويلة يصنع عقدة تحويل"
 }

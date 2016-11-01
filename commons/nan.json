@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luuva"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Tóng-àn]] sóa kòe tī [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Tóng-àn chiang tī [[:commons:File:%(commonsfile)s|Wikimedia Commons]] thang lī-ēng."
+}

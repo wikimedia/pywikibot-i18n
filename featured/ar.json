@@ -1,7 +1,11 @@
 {
-	"@metadata": [],
-	"featured-featured": "بوت: %(page)s هي مقالة مختارة",
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"featured-featured": "بوت: %(page)s مقالة مختارة",
 	"featured-former": "بوت: %(page)s مقالة مختارة سابقة",
-	"featured-good": "بوت: %(page)s هي مقالة جيدة",
-	"featured-list": "بوت: %(page)s هي قائمة مختارة"
+	"featured-good": "بوت: %(page)s مقالة جيدة",
+	"featured-list": "بوت: %(page)s قائمة مختارة"
 }

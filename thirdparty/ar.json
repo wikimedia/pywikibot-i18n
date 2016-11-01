@@ -3,7 +3,8 @@
 		"authors": [
 			"DRIHEM",
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "استبدال %(tags)s tag(s)",
@@ -15,12 +16,12 @@
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s آخر تعديل] (%(page_size)s بايت) من طرف %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s انتهت جميع النقاشات (توقفت المراقبة) - آخر تعديل تم من طرف %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nتم أنشاء التلخيص من طرف وعند: %(sign)s</noinclude>",
-	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(لم يعثر على أي محرر بشري)",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(لم يُعثَر على أي محرر بشري)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - آخر تعديل تم من طرف [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* رسالة تحذير الروبوت: %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-summary-add": "تم إضافة تلخيص للنقاس: %(num)i إدخالات",
-	"thirdparty-drtrigonbot-sum_disc-summary-clean": "تم إضافة ملخص النقاش مع التعديل: %(num)i إدخالات",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* رسالة تحذير البوت: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "تمت إضافة تلخيص للنقاس: %(num)i إدخالات",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "تمت إضافة ملخص النقاش مع التعديل: %(num)i إدخالات",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "بوت",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "تم تحديث ملخص النقاش: %(num)i إدخالات في %(page)s"
 }

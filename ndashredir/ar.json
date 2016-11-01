@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"DRIHEM"
+			"DRIHEM",
+			"ديفيد"
 		]
 	},
-	"ndashredir-create": "Bot: إنشاء واصلة إعادة توجيه إلى  [[%(title)s]]"
+	"ndashredir-create": "بوت: إنشاء واصلة تحويلة إلى [[%(title)s]]"
 }

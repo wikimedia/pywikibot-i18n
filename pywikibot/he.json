@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"Leonardo Gregianin"
+			"Leonardo Gregianin",
+			"Or"
 		]
 	},
 	"pywikibot-enter-category-name": "נא להזין את שם הקטגוריה:",
@@ -12,7 +13,7 @@
 	"pywikibot-enter-new-text": "נא להזין את הטקסט החדש:",
 	"pywikibot-enter-page-processing": "איזה דף יש לעבד?",
 	"pywikibot-enter-xml-filename": "נא להזין את שם קובץ ה־XML עם הדאמפ:",
-	"pywikibot-fixes-fckeditor": "רובוט: תיקון HTML מעורך עשיר",
+	"pywikibot-fixes-fckeditor": "בוט: תיקון HTML מעורך עשיר",
 	"pywikibot-fixes-html": "בוט: ממיר/מתקן HTML",
 	"pywikibot-fixes-syntax": "בוט: מתקן תחביר ויקי"
 }

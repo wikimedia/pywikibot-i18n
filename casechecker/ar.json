@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Maroen1990"
+			"Maroen1990",
+			"ديفيد"
 		]
 	},
 	"casechecker-delete-reason": "هذه التحويلة كانت تشير إلى %(target)s",
-	"casechecker-delete-summary": "بوت: هذه التحويلة تحتوي على حروف سيريلية ولا تينية متشابهة في عنوانها",
+	"casechecker-delete-summary": "بوت: هذه التحويلة تحتوي على حروف سيريلية ولاتينية متشابهة في عنوانها",
 	"casechecker-rename": "بوت: اسم لحالة مخلوطة",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "بوت: استبدالات الحالة:"

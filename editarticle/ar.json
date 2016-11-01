@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"editarticle-edit": "تعديل يدوي: %(description)s"
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"editarticle-edit": "تعديل يدوي ببوت: %(description)s"
 }

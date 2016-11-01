@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meno25"
+			"Meno25",
+			"ديفيد"
 		]
 	},
-	"revertbot-revert": "بوت: الاسترجاع غلى المراجعة %(revid)s بواسطة %(author)s في %(timestamp)s"
+	"revertbot-revert": "بوت: استرجاع إلى المراجعة %(revid)s بواسطة %(author)s في %(timestamp)s"
 }

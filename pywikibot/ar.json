@@ -3,14 +3,15 @@
 		"authors": [
 			"Meno25",
 			"TTMTT",
-			"Zanatos"
+			"Zanatos",
+			"ديفيد"
 		]
 	},
 	"pywikibot-enter-category-name": "فضلاً ادخل إسم التصنيف:",
 	"pywikibot-enter-file-links-processing": "الوصلات التي ينبغي أن تتم معالجة صفحة الملف لها؟",
 	"pywikibot-enter-finished-browser": "اضغط Enter عند الانتهاء في المستعرض.",
-	"pywikibot-enter-namespace-number": "الرجاء إدخال مساحة اسم برقمه:",
-	"pywikibot-enter-new-text": "فضلاً ادخل النص الجديد:",
+	"pywikibot-enter-namespace-number": "الرجاء إدخال نطاق برقمه:",
+	"pywikibot-enter-new-text": "فضلاً أدخل النص الجديد:",
 	"pywikibot-enter-page-processing": "الصفحة التي ينبغي معالجتها؟",
 	"pywikibot-enter-xml-filename": "الرجاء إدخال اسم ملف تفريغ XML:",
 	"pywikibot-fixes-fckeditor": "بوت: تصحيح rich-editor html",

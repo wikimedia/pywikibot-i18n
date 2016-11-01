@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
-	"interwiki-adding": "روبوت إضافة: %(adding)s",
-	"interwiki-adding-modifying": "روبوت إضافة: %(adding)s تعديل: %(modifying)s",
-	"interwiki-adding-removing": "روبوت إضافة: %(adding)s إزالة: %(removing)s",
-	"interwiki-adding-removing-modifying": "روبوت إضافة: %(adding)s إزالة: %(removing)s تعديل: %(modifying)s",
-	"interwiki-modifying": "روبوت تعديل: %(modifying)s",
-	"interwiki-modifying-from": "روبوت: تغيير  %(from)s إلى %(modifying)s",
-	"interwiki-removing": "روبوت إزالة: %(removing)s",
-	"interwiki-removing-modifying": "روبوت إزالة: %(removing)s تعديل: %(modifying)s"
+	"interwiki-adding": "بوت: إضافة %(adding)s",
+	"interwiki-adding-modifying": "بوت: إضافة %(adding)s تعديل: %(modifying)s",
+	"interwiki-adding-removing": "بوت: إضافة %(adding)s إزالة: %(removing)s",
+	"interwiki-adding-removing-modifying": "بوت: إضافة %(adding)s إزالة: %(removing)s تعديل: %(modifying)s",
+	"interwiki-modifying": "بوت: تعديل %(modifying)s",
+	"interwiki-modifying-from": "بوت: تغيير %(from)s إلى %(modifying)s",
+	"interwiki-removing": "بوت: إزالة %(removing)s",
+	"interwiki-removing-modifying": "بوت: إزالة %(removing)s تعديل: %(modifying)s"
 }

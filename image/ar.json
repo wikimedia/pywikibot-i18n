@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meno25"
+			"Meno25",
+			"ديفيد"
 		]
 	},
-	"image-remove": "روبوت - إزالة الصورة %(file)s",
-	"image-replace": "روبوت - استبدال الصورة %(old)s مع %(new)s"
+	"image-remove": "بوت: إزالة الصورة %(file)s",
+	"image-replace": "بوت: استبدال الصورة %(old)s مع %(new)s"
 }

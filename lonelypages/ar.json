@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meno25"
+			"Meno25",
+			"ديفيد"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "روبوت: إضافة صفحة توضيح",
-	"lonelypages-comment-add-template": "روبوت: صفحة يتيمة، إضافة قالب"
+	"lonelypages-comment-add-disambig-template": "بوت: إضافة صفحة توضيح",
+	"lonelypages-comment-add-template": "بوت: صفحة يتيمة، إضافة قالب"
 }

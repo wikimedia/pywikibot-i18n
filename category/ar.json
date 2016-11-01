@@ -4,19 +4,20 @@
 			"Aiman titi",
 			"DRIHEM",
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
-	"category-adding": "روبوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "بوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(أيضا في %(alsocat)s)",
-	"category-changing": "روبوت: تغيير  %(oldcat)s إلى %(newcat)s",
+	"category-changing": "بوت: تغيير %(oldcat)s إلى %(newcat)s",
 	"category-listifying": "بوت: عرض من %(fromcat)s (%(num)d مدخلة)",
 	"category-removing": "بوت: إزالة من %(oldcat)s",
 	"category-renamed": "روبوت: نقل من %(oldcat)s. المؤلفون: %(authors)s",
 	"category-replacing": "بوت: استبدال التصنيف %(oldcat)s ب %(newcat)s",
 	"category-section-title": "تاريخ الصفحة للسابق %(oldcat)s",
 	"category-strip-cfd-templates": "بوت: إزالة قوالب CFD للفعل الذي تم إكماله",
-	"category-version-history": "روبوت: حفظ تاريخ الإصدار للسابقة  %(oldcat)s",
+	"category-version-history": "بوت: حفظ تاريخ الإصدار للسابقة  %(oldcat)s",
 	"category-was-disbanded": "بوت: التصنيف تم الاستغناء عنه",
-	"category-was-moved": "روبوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]"
+	"category-was-moved": "بوت: التصنيف نقل إلى [[:Category:%(newcat)s|%(title)s]]"
 }

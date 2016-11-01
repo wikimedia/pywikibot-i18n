@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
 	"weblinkchecker-archive_msg": "صفحة الويب تم حفظها بواسطة أرشيف الإنترنت. من فضلك ضع في الاعتبار الوصل لنسخة مؤرشفة مناسبة: [%(URL)s].",
 	"weblinkchecker-badurl": "الوصلة الموفرة لا تبدو كأنها وصلة URL صحيحة",
-	"weblinkchecker-caption": "وصلة ميتة",
+	"weblinkchecker-caption": "وصلة مكسورة",
 	"weblinkchecker-report": "خلال عدة عمليات أوتوماتيكية من البوت الوصلة الخارجية التالية كانت غير متوفرة. من فضلك تحقق من أن الوصلة لا تعمل وأزلها أو أصلحها في هذه الحالة!",
 	"weblinkchecker-summary": "بوت: الإبلاغ عن وصلات خارجية غير متوفرة"
 }

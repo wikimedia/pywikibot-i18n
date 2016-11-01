@@ -12,6 +12,8 @@
 	"category-renamed": "Bot: Tùi %(oldcat)s sóa-ūi hó-sè. Chok-chiá: %(authors)s",
 	"category-replacing": "Bot: Chiong lūi-pia̍t %(oldcat)s thè-ōaⁿ chò %(newcat)s",
 	"category-section-title": "Chìn-chêng %(oldcat)s ê ia̍h-bīn le̍k-sú",
+	"category-strip-cfd-templates": "Bot: Sóa cháu CFD pang-bô͘ lâi goân-sêng chhau-chok",
+	"category-version-history": "Bot: Pó-chūn chêng %(oldcat)s ê pán-pún le̍k-sú",
 	"category-was-disbanded": "Bot: Lūi-pia̍t hông hòe-tû ah",
 	"category-was-moved": "Bot: Lūi-pia̍t hông sóa kòe [[:Lūi-pia̍t:%(newcat)s|%(title)s]]"
 }

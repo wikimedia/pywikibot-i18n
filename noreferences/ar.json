@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
-	"noreferences-add-tag": "روبوت: إضافة وسم <references /> مفقود",
+	"noreferences-add-tag": "بوت: إضافة وسم <references /> مفقود",
 	"noreferences-fix-tag": "بوت: تصحيح صيغة غير صحيحة لوسم <references />"
 }

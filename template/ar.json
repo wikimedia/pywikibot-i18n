@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
-	"template-changing": "روبوت: استبدال {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s",
-	"template-removing": "روبوت: إزالة {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s",
-	"template-substituting": "روبوت: نسخ {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s"
+	"template-changing": "بوت: استبدال {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s",
+	"template-removing": "بوت: إزالة {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s",
+	"template-substituting": "بوت: نسخ {{PLURAL:%(num)d|قالب|قوالب}}: %(list)s"
 }
