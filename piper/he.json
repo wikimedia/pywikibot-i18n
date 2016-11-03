@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Or"
 		]
 	},
-	"piper-edit-summary": "רובוט: העברת טקסט הערך דרך %(filters)s"
+	"piper-edit-summary": "בוט: העברת טקסט הערך דרך %(filters)s"
 }

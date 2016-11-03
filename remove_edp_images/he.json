@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Or"
 		]
 	},
-	"remove_edp_images-edit-summary": "רובוט: תיקון שימוש בתמונות של EDP‏: [[%(title)s]]"
+	"remove_edp_images-edit-summary": "בוט: תיקון שימוש בתמונות של EDP‏: [[%(title)s]]"
 }

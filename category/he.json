@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"ערן"
+			"ערן",
+			"Or"
 		]
 	},
 	"category-adding": "בוט: מוסיף את הקטגוריה [[:Category:%(newcat)s|%(newcat)s]]",
@@ -14,7 +15,7 @@
 	"category-replacing": "בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s",
 	"category-section-title": "גרסאות של %(oldcat)s הקודמת",
 	"category-strip-cfd-templates": "בוט: הסרת תבניות CFD לפעולה שהושלמה",
-	"category-version-history": "רובוט: שמירת היסטוריית גרסאות של %(oldcat)s הקודמת",
+	"category-version-history": "בוט: שמירת היסטוריית גרסאות של %(oldcat)s הקודמת",
 	"category-was-disbanded": "בוט: הקטגוריה פורקה",
 	"category-was-moved": "בוט: הקטגוריה הועברה לשם [[:Category:%(newcat)s|%(title)s]]"
 }
