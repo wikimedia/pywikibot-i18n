@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liashko"
+			"Liashko",
+			"Mechanizatar"
 		]
 	},
-	"archivebot-archive-full": "(ПОЎНЫ АРХІЎ)"
+	"archivebot-archive-full": "(ПОЎНЫ АРХІЎ)",
+	"archivebot-older-than": "старэй за %(duration)s"
 }

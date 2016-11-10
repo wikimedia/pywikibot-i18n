@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"noreferences-add-tag": "Robot: дабаўлены адсутнічаючы тэг <references />"
+	"@metadata": {
+		"authors": [
+			"Mechanizatar"
+		]
+	},
+	"noreferences-add-tag": "Робат: дададзены адсутнічаючы тэг <references />",
+	"noreferences-fix-tag": "Робат: выпраўлены няправільны сінтаксіс тэга <references />"
 }

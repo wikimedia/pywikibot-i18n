@@ -5,10 +5,11 @@
 			"Nedergard",
 			"Nike",
 			"Olli",
-			"Silvonen"
+			"Silvonen",
+			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Delete}}",
+	"redirect-broken-redirect-template": "{{Pikapoisto|1=|2=O2}}",
 	"redirect-fix-broken-moved": "Botti korjasi rikkinäisen ohjauksen siirrettyyn kohdesivuun %(to)s",
 	"redirect-fix-double": "Botti korjasi kaksinkertaisen ohjauksen sivulle %(to)s",
 	"redirect-fix-loop": "Botti korjasi ohjaussilmukan sivulle %(to)s",

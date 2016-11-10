@@ -4,5 +4,14 @@
 			"Luuva"
 		]
 	},
-	"pywikibot-enter-category-name": "Chiáⁿ phah ji̍p lūi-pia̍t miâ-hō:"
+	"pywikibot-enter-category-name": "Chiáⁿ phah ji̍p lūi-pia̍t miâ-hō:",
+	"pywikibot-enter-file-links-processing": "Liân kòe tó chi̍t kiāⁿ tóng-àn ê ia̍h-bīn su-iàu chhù-lí?",
+	"pywikibot-enter-finished-browser": "Goân-sêng ê sî-chūn tī liû-lám-khì lāi ji̍h Enter.",
+	"pywikibot-enter-namespace-number": "Chhián chiàu chi̍t-ê miâ-khong-kan su-ji̍p i-ê hō-bé:",
+	"pywikibot-enter-new-text": "Chhiáⁿ su-ji̍p sin bûn-jī:",
+	"pywikibot-enter-page-processing": "Tó chi̍t ia̍h sī su-iàu chhù-lí--ê?",
+	"pywikibot-enter-xml-filename": "Chhián su-ji̍p XML dump ê tóng-àn hō-miâ:",
+	"pywikibot-fixes-fckeditor": "Bot: Siu-lí rich-editor html",
+	"pywikibot-fixes-html": "Bot: Choán-ōaⁿ/siu-lí HTML",
+	"pywikibot-fixes-syntax": "Bot: Siu-lí wiki syntax"
 }

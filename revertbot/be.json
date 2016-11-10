@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mechanizatar"
+		]
+	},
+	"revertbot-revert": "Робат: Адкат да версіі %(revid)s аўтарства %(author)s ад %(timestamp)s"
+}

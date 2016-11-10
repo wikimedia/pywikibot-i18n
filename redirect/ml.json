@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Praveenp"
+			"Praveenp",
+			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{delete}}",
+	"redirect-broken-redirect-template": "{{മായ്ക്കുക}}",
 	"redirect-fix-broken-moved": "യന്ത്രം: മാറ്റപ്പെട്ട വിക്കിതാളായ %(to)s എന്നതിലേയ്ക്കുള്ള പൊട്ടിയ തിരിച്ചുവിടൽ ശരിയാക്കുന്നു",
 	"redirect-fix-double": "യന്ത്രം: %(to)s എന്നതിലോട്ടുള്ള ഇരട്ട തിരിച്ചുവിടൽ ശരിയാക്കുന്നു",
 	"redirect-fix-loop": "യന്ത്രം: %(to)s എന്നതിലോട്ടുണ്ടായിരുന്ന ചാക്രിക തിരിച്ചുവിടൽ ശരിയാക്കുന്നു",

@@ -4,11 +4,21 @@
 			"Luuva"
 		]
 	},
+	"thirdparty-drtrigonbot-subster-summary-mod": "thè-ōaⁿ %(tags)s tag",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Thó-lūn piàn-keng--ah",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Thó-lūn kiat-sok--ah",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT SÌN-SEK",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Sin-ê Thó-lūn",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Thong-ti",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - %(user)s chò ê [%(history_link)s chòe-kīn pian-chi̍p] (%(page_size)s byte) (%(time)s)",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s choân-pō͘ thé-lūn í-keng kiat-sok (kàm-sī thêng-chí) - siāng bóe pian-chi̍p chiá sī %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nSán-sêng kán-iàu tùi jî-chhiá tī: %(sign)s</noinclude>",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(bô chhōe tio̍h jîn-lūi pian-chi̍p-chiá)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - siāng bóe pian-chi̍p chiá [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y nî %B %d ji̍t.",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Bot kéng-kò sìn-sek: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Thé-lūn kán-iàu ka-thiam: %(num)i tiâu",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Thé-lūn kán-iàu ka-thiam kiam piàⁿ-sàu: %(num)i tiâu",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Thó-lūn kán-iàu kái-sin: %(num)i tiâu tī %(page)s lāi"
 }

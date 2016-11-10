@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Harvzsf"
+			"Harvzsf",
+			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{delete}}Nautod o nagbinalikbalik nga redirek.",
+	"redirect-broken-redirect-template": "{{Paraa|1=Nautod o nagbinalikbalik nga redirek.}}",
 	"redirect-fix-double": "Robot: Gin-ayad in nagduduha nga redirek → %(to)s",
 	"redirect-fix-loop": "Robot: Gin-aayad in redirek nga loop ngadto ha %(to)s",
 	"redirect-remove-broken": "Robot: Redirek ngadto hin ginpárà o waray-didâ nga pakli",
