@@ -3,11 +3,12 @@
 		"authors": [
 			"Imperadeiro98",
 			"Giro720",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
 	"casechecker-delete-reason": "Este redirecionamento é usado para apontar a %(target)s",
-	"casechecker-delete-summary": "Robô: Este redireccionamento contém caracteres cirílicos e latinos no seu título",
+	"casechecker-delete-summary": "Robô: Este redirecionamento contém caracteres cirílicos e latinos no título",
 	"casechecker-rename": "Robô: renomear com maiúsculas/minúsculas combinadas",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Robô: Modificações de casos:"

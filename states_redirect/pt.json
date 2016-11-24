@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jkb8"
+			"Jkb8",
+			"Hamilton Abreu"
 		]
 	},
-	"states_redirect-comment": "Bot: Criação de sigla do estado de redireccionamento"
+	"states_redirect-comment": "Robô: Criação de sigla do estado de redirecionamento"
 }
