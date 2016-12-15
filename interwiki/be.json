@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yury Tarasievich"
+			"Yury Tarasievich",
+			"Mechanizatar"
 		]
 	},
 	"interwiki-adding": "робат дадаў: %(adding)s",
@@ -9,6 +10,7 @@
 	"interwiki-adding-removing": "робат дадаў: %(adding)s выняў: %(removing)s",
 	"interwiki-adding-removing-modifying": "робат дадаў: %(adding)s выдаліў: %(removing)s змяніў: %(modifying)s",
 	"interwiki-modifying": "робат змяніў: %(modifying)s",
+	"interwiki-modifying-from": "Робат: зменена з %(from)s на %(modifying)s",
 	"interwiki-removing": "робат выняў: %(removing)s",
 	"interwiki-removing-modifying": "робат выдаліў: %(removing)s змяніў: %(modifying)s"
 }
