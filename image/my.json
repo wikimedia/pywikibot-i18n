@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ninjastrikers"
+		]
+	},
+	"image-remove": "ဘော့ - %(file)s ပုံကို ဖယ်ရှားနေသည်",
+	"image-replace": "ဘော့ - %(old)s ပုံအား %(new)s ဖြင့် အစားထိုးနေသည်"
+}

@@ -13,6 +13,7 @@
 	"pywikibot-enter-new-text": "Wpisz nowy tekst:",
 	"pywikibot-enter-page-processing": "Jaką stronę przetworzyć?",
 	"pywikibot-enter-xml-filename": "Wpisz nazwę pliku ze zrzutem w formacie XML:",
+	"pywikibot-fixes-fckeditor": "Robot: Poprawa kodu HTML z edytora tekstu sformatowanego",
 	"pywikibot-fixes-html": "Robot konwertuje/naprawia HTML",
 	"pywikibot-fixes-syntax": "Robot poprawia wiki-składnię"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ninjastrikers"
+		]
+	},
+	"imagetransfer-file_page_message": "ဤပုံအား %(site)s မှ ကူးယူထားသည်။ မူရင်းဖော်ပြချက်မှာ:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "ဖိုင်သည် ယခုအခါ ဝီကီမီဒီယာ ကွန်မွန်းတွင် ရရှိနိုင်ပြီ ဖြစ်သည်။"
+}

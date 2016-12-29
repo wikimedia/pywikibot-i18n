@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Sp5uhe",
-			"Ty221"
+			"Ty221",
+			"Woytecr"
 		]
 	},
 	"delete-from-category": "Robot usuwa wszystkie strony z kategorii %(page)s",
-	"delete-from-file": "Robot usuwa stony z listy.",
+	"delete-from-file": "Robot usuwa strony z listy.",
 	"delete-images": "Robot usunął wszystkie obrazy ze strony %(page)s",
 	"delete-linked-pages": "Robot usuwa wszystkie artykuły, do których linkuje %(page)s",
 	"delete-referring-pages": "Robot usuwa wszystkie strony, które linkują do %(page)s"

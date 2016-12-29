@@ -8,8 +8,8 @@
 	},
 	"category-also-in": "(noiuhqui ipan %(alsocat)s)",
 	"category-changing": "Tepozcuāyōllōtl: ōmopatlac %(oldcat)s īhuicpa %(newcat)s",
-	"category-removing": "Tepostekitkatl: Tlatlaìxpôpolwìlli ìpan %(oldcat)s",
-	"category-replacing": "Tepostekitkatl: Mìxpảtla tlaìxmatkàtlàlilòtl %(oldcat)s ìka %(newcat)s",
-	"category-was-disbanded": "Tepostekitkatl: Yi tlaìxpôpolòlli in tlaìxmatkàtlàlilòtl",
-	"category-was-moved": "Tepostekitkatl: In tlaìxmatkatlàlilòtl òmotitlan ìpan [[:Category:%(newcat)s|%(title)s]]"
+	"category-removing": "bot: Tlatlaixpohpolhulli ipan %(oldcat)s",
+	"category-replacing": "Bot: Mixpatla neneuhcayotl %(oldcat)meh ica %(newcat)meh",
+	"category-was-disbanded": "Bot: Ye oquipohpoloh in neneuhcayotl",
+	"category-was-moved": "Bot: In neneuhcayotl omihcuan ipan [[:Category:%(newcat)s|%(title)s]]"
 }
