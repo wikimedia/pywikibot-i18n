@@ -3,7 +3,8 @@
 		"authors": [
 			"Erdemaslancan",
 			"Mirzali",
-			"Kumkumuk"
+			"Kumkumuk",
+			"Gırd"
 		]
 	},
 	"pywikibot-enter-category-name": "Nameyê kategoriye cı kewê:",
@@ -12,7 +13,7 @@
 	"pywikibot-enter-namespace-number": "Numreyê cı ra yew name cı kewê:",
 	"pywikibot-enter-new-text": "Nuşteyê newey cı kewê:",
 	"pywikibot-enter-page-processing": "Kamci pele wa bınuşiyo?",
-	"pywikibot-enter-xml-filename": "Nameyê yedegê dosya XMLi cı kewê:",
+	"pywikibot-enter-xml-filename": "Namey yedegê dosya XMLi cıkewê:",
 	"pywikibot-fixes-fckeditor": "Bot: zengin-editor html keno fiks",
 	"pywikibot-fixes-html": "Bot: HTML açarnayış/fiks kerdış",
 	"pywikibot-fixes-syntax": "Bot: Wiki-sentaks raşt ke"
