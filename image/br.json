@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"image-remove": "Robot : o tiverkañ ar skeudenn %(file)s",
+	"image-replace": "Robot : oc'h erlec'hiañ ar skeudenn %(old)s gant %(new)s"
+}
