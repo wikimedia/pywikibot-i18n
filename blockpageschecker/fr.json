@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"blockpageschecker-summary": "Robot: Mise à jour des bandeaux de protection"
+	"@metadata": {
+		"authors": [
+			"Wladek92"
+		]
+	},
+	"blockpageschecker-summary": "Robot: Supression des modèles obsolètes"
 }
