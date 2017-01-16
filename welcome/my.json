@@ -4,5 +4,7 @@
 			"Ninjastrikers"
 		]
 	},
-	"welcome-welcome": "ကြိုဆိုပါသည်"
+	"welcome-bad_username": "ဘော့ - စစ်ဆေးရန် လိုအပ်သော အသုံးပြုအမည်တစ်ခု ပေါင်းထည့်နေသည်",
+	"welcome-updating": "ဘော့ - မှတ်တမ်းမွမ်းမံနေသည်",
+	"welcome-welcome": "ကြိုဆိုပါသည်!"
 }

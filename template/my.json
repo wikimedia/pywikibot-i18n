@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ninjastrikers"
+		]
+	},
+	"template-changing": "ဘော့ - {{PLURAL:%(num)d|တမ်းပလိတ်|တမ်းပလိတ်များ}} ပြောင်းလဲနေသည်:%(list)s",
+	"template-removing": "ဘော့ - {{PLURAL:%(num)d|တမ်းပလိတ်|တမ်းပလိတ်များ}} ဖယ်ရှားနေသည်: %(list)s",
+	"template-substituting": "ဘော့ - {{PLURAL:%(num)d|တမ်းပလိတ်|တမ်းပလိတ်များ}} အစားထိုးနေသည်: %(list)s"
+}
