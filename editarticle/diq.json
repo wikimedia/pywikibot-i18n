@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Erdemaslancan",
-			"Mirzali"
+			"Mirzali",
+			"Gırd"
 		]
 	},
-	"editarticle-edit": "Hesabê boti ra xo desti vurnayış: %(description)s"
+	"editarticle-edit": "Hesabê boti ra xo desti vırnayış: %(description)s"
 }
