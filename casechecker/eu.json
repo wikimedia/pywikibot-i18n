@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"An13sa"
 		]
 	},
-	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: letra larri/txikien ordezkapena"
 }

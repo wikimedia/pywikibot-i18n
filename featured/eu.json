@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"An13sa"
 		]
 	},
 	"featured-featured": "Bot: %(page)s nabarmendutako artikulua da",
+	"featured-former": "Bot: %(page)s ez da nabarmendutako artikulua",
 	"featured-good": "Bot: %(page)s artikulu ona da"
 }
