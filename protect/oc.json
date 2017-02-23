@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"protect-category": "Robòt : Protegís totas las paginas de la categoria %(cat)s",
+	"protect-images": "Robòt : Protegís totes los fichièrs sus la pagina %(page)s"
+}
