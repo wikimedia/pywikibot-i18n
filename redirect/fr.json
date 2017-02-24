@@ -6,10 +6,11 @@
 			"Gomoko",
 			"IAlex",
 			"Od1n",
-			"Xqt"
+			"Xqt",
+			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-r1}}",
+	"redirect-broken-redirect-template": "{{Suppression Immédiate|1=G8}}",
 	"redirect-fix-broken-moved": "Robot: Correction des redirections erronées vers une page cible %(to)s déplacée",
 	"redirect-fix-double": "Robot : répare une double redirection vers %(to)s",
 	"redirect-fix-loop": "Robot : répare une boucle de redirection sur %(to)s",

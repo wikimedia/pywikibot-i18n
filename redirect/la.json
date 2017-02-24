@@ -3,9 +3,11 @@
 		"authors": [
 			"MissPetticoats",
 			"UV",
-			"Xqt"
+			"Xqt",
+			"MarcoAurelio"
 		]
 	},
+	"redirect-broken-redirect-template": "{{Cito delenda|1=automaton: redirectio ad paginam quae non est.}}",
 	"redirect-fix-double": "automaton: rectificatio redirectionis duplicis → %(to)s",
 	"redirect-remove-broken": "automaton: redirectio ad paginam quae non est",
 	"redirect-remove-loop": "automaton: redirectio ad eundem titulum"
