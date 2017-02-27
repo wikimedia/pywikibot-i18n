@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Y-M D",
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Fulup"
 		]
 	},
-	"noreferences-add-tag": "Robot: Ouzhpennañ ar balizenn <references /> hag a vank",
-	"noreferences-fix-tag": "Robot : reizhañ ereadurezh direizh ar valizenn <references />"
+	"noreferences-add-tag": "Robot : Oc'h ouzhpennañ an dikedenn <references /> a vank",
+	"noreferences-fix-tag": "Robot : reizhañ ereadurezh direizh an dikedenn <references />"
 }
