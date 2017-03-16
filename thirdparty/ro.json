@@ -19,6 +19,7 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Mesaj de avertizare de la robot: %(page)s „''%(warning)s''”",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Adăugat rezumatul discuției: %(num)i intrări",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Sumarul discuției a fost adăugat după curățare: %(num)i intrări",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Rezumatul discuției actualizat: %(num)i intrări în %(page)s"
 }

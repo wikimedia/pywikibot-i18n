@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"revertbot-revert": "Bot: Revenit la versiunea %(revid)s scrisă de %(author)s pe %(timestamp)s"
+}
