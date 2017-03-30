@@ -8,7 +8,7 @@ module.exports = function ( grunt ) {
 
 	grunt.initConfig( {
 		banana: {
-			all: ['*/', '!node_modules/']
+			all: ['*/', '!log/', '!node_modules/']
 		}
 	} );
 
