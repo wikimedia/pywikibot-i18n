@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Erdemaslancan",
-			"Marmase"
+			"Marmase",
+			"Gırd"
 		]
 	},
 	"delete-from-category": "Boti kategori da %(page)s ra peley pêro besternay",
-	"delete-from-file": "Boto ju pera listi besterneno.",
+	"delete-from-file": "Bot: Yew list perran estereno.",
 	"delete-images": "Boti pela da %(page)s ra dosyay pêro besternay",
 	"delete-linked-pages": "Boti %(page)s rê gırey peran pêron besterneno.",
 	"delete-referring-pages": "Boti pela da %(page)s ra peley pêro besternay"

@@ -3,7 +3,8 @@
 		"authors": [
 			"Erdemaslancan",
 			"Gorizon",
-			"Mirzali"
+			"Mirzali",
+			"Asmen"
 		]
 	},
 	"redirect-broken-redirect-template": "{{bestere|m1}}",
@@ -11,5 +12,5 @@
 	"redirect-fix-double": "Boti Tespitê hetanayışê dıleti heta %(to)s",
 	"redirect-fix-loop": "Boti %(to)s rê hetanayışo dılet deke",
 	"redirect-remove-broken": "Robot: Yew pela ke esteriya ya zi çıniya, aye ser çarne",
-	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Hetenayış]] re formê etiketi vıraşt."
+	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: Hedefê [[Wikipedia:Redirect|Weçarnayış]]i etikentê weçarnayışi vırazeno."
 }
