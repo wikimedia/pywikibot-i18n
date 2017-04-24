@@ -3,12 +3,13 @@
 		"authors": [
 			"Marmase",
 			"Kumkumuk",
-			"Asmen"
+			"Asmen",
+			"Gırd"
 		]
 	},
 	"casechecker-delete-reason": "Eno weçarnayış seba ke %(target)i nuqte kero",
 	"casechecker-delete-summary": "Bot: zerrekê ena hetenayışê cı gorey elıfbaya kiril u latini weyneyêno",
 	"casechecker-rename": "Bot: fına name keno",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Bot: Weqa vurnayış:"
+	"casechecker-replacement-summary": "Bot: Weqa hewelnayışi:"
 }

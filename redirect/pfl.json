@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"redirect-broken-redirect-template": "{{Lösche|Bot: Defekte Weiterleitungen}}",
 	"redirect-fix-double": "Bot: E doppelte Waiterlaitung vabessat zu %(to)s"
 }
