@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siddhartha Ghai"
+			"Siddhartha Ghai",
+			"Jayprakash12345"
 		]
 	},
 	"unprotect-category": "बॉट: %(cat)s श्रेणी के सभी पृष्ठों से सुरक्षा हटा रहा है",
 	"unprotect-images": "बॉट: %(page)s पृष्ठ के सारे चित्रों से सुरक्षा हटा रहा है",
 	"unprotect-links": "बॉट: %(page)s से जुड़े सभी पृष्ठों से सुरक्षा हटा रहा है",
 	"unprotect-ref": "बॉट: %(page)s से जुड़े सभी पृष्ठ असुरक्षित कर रहा है",
-	"unprotect-simple": "बॉट: फ़ाइलों की सूची से सुरक्षा हटा रहा है।"
+	"unprotect-simple": "बॉट: फ़ाइलों की सूची से सुरक्षा हटा रहा है"
 }

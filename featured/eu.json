@@ -7,5 +7,6 @@
 	},
 	"featured-featured": "Bot: %(page)s nabarmendutako artikulua da",
 	"featured-former": "Bot: %(page)s ez da nabarmendutako artikulua",
-	"featured-good": "Bot: %(page)s artikulu ona da"
+	"featured-good": "Bot: %(page)s artikulu ona da",
+	"featured-list": "Bot: %(page)s nabarmendutako zerrenda bat da"
 }

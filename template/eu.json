@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Subi"
+		]
+	},
+	"template-changing": "Bot: {{PLURAL:%(num)d|Txantiloia|Txantiloiak}} aldatzen: %(list)s",
+	"template-removing": "Bot: {{PLURAL:%(num)d|Txantiloia|Txantiloiak}} kentzen: %(list)s",
+	"template-substituting": "Bot: {{PLURAL:%(num)d|Txantiloia|Txantiloiak}} ordezten: %(list)s"
+}
