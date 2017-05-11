@@ -4,5 +4,7 @@
 			"Subi"
 		]
 	},
+	"unprotect-category": "Bot: %(cat)s kategoriako orrialde guztiei babesa kentzen",
+	"unprotect-images": "Bot: %(page)s orrialdeko fitxategi guztiei babesa kentzen",
 	"unprotect-simple": "Bot: Fitxategi-zerrenda bati babesa kentzen."
 }

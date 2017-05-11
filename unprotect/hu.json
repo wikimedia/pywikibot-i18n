@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tacsipacsi"
+			"Tacsipacsi",
+			"Bináris"
 		]
 	},
 	"unprotect-category": "Bot: %(cat)s kategóriában szereplő összes lap védelmének feloldása",
 	"unprotect-images": "Bot: minden kép védelmének feloldása a(z) %(page)s lapon",
 	"unprotect-links": "Bot: a(z) „%(page)s” lapról hivatkozott összes lap védelmének feloldása",
+	"unprotect-ref": "Bot: a %(page)s lapra hivatkozó lapok védelmének feloldása",
 	"unprotect-simple": "Bot: Listán szereplő fájlok védelmének feloldása"
 }

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jayprakash12345"
+			"Jayprakash12345",
+			"Sfic"
 		]
 	},
-	"reflinks-autogen": "स्व-उत्पन्न",
-	"reflinks-comment": "बॉट उत्पन्न शीर्षक"
+	"reflinks-autogen": "स्वतःनिर्मित",
+	"reflinks-comment": "बॉट निर्मित शीर्षक"
 }
