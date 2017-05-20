@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Naudefj"
+			"Naudefj",
+			"Fwolff"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "vervanging van etiket(te) %(tags)s",
@@ -11,7 +12,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nuwe bespreking",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Kennisgewing",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nOpsomming gemaak van en op: %(sign)s</noinclude>",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Samevatting van bespreking bygevoeg: %(num)i reëls",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Samevatting van bespreking bygevoeg, asook skoongemaak: %(num)i reëls",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",

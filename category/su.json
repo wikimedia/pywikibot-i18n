@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"category-adding": "bot: Nambih category [[:Category:%(newcat)s|%(newcat)s]]"
+	"@metadata": {
+		"authors": [
+			"Uchup19"
+		]
+	},
+	"category-adding": "bot: Nambih category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(ogé dina %(alsocat)s)"
 }

@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiKaruhun"
+			"WikiKaruhun",
+			"Uchup19"
 		]
 	},
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Sawala dirobah",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Sawala ditutup",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "TALATAH BOT",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Sawala Anyar"
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Sawala Anyar",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Iber",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
 }
