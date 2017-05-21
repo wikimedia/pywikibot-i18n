@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "Bot: következő hozzáadása %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Urbalazs"
+		]
+	},
+	"add_text-adding": "Bot: hozzáadás: %(adding)s"
 }
