@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rachmat.Wahidi"
+			"Rachmat.Wahidi",
+			"Rachmat04"
 		]
 	},
 	"imagetransfer-file_page_message": "Gambar ini disalin dari %(site)s. Deskripsi sebelumnya adalah:\n%(description)s",

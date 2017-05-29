@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"C5st4wr6ch",
-			"Rachmat.Wahidi"
+			"Rachmat.Wahidi",
+			"Rachmat04"
 		]
 	},
 	"revertbot-revert": "Bot: Mengembalikan ke revisi %(revid)s oleh %(author)s pada %(timestamp)s"

@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"Vodnokon4e"
 		]
 	},
-	"category-adding": "Робот: Добавяне на категория [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-changing": "Робот: Променяне от %(oldcat)s на %(newcat)s",
-	"category-removing": "Робот: Премахване от %(oldcat)s",
-	"category-replacing": "Робот: Заменяне на категория %(oldcat)s с %(newcat)s"
+	"category-adding": "Бот: Добавяне на категория [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-changing": "Бот: Промяна от %(oldcat)s на %(newcat)s",
+	"category-removing": "Бот: Премахване от %(oldcat)s",
+	"category-replacing": "Бот: Замяна на категория %(oldcat)s с %(newcat)s"
 }

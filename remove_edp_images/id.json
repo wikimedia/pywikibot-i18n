@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rachmat.Wahidi"
+			"Rachmat.Wahidi",
+			"Rachmat04"
 		]
 	},
 	"remove_edp_images-edit-summary": "Bot: Memperbaiki penggunaan gambar EDP: [[%(title)s]]"

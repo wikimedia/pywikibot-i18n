@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vodnokon4e"
+		]
+	},
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}

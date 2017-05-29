@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rachmat.Wahidi"
+			"Rachmat.Wahidi",
+			"Rachmat04"
 		]
 	},
 	"interwiki-adding": "Bot: Menambah %(adding)s",

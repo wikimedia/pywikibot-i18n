@@ -3,7 +3,8 @@
 		"authors": [
 			"ArdWar",
 			"Farras",
-			"Rachmat.Wahidi"
+			"Rachmat.Wahidi",
+			"Rachmat04"
 		]
 	},
 	"delete-from-category": "Bot: Menghapus semua halaman dari kategori %(page)s",

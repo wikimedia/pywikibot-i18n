@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Farras",
-			"Rachmat.Wahidi"
+			"Rachmat.Wahidi",
+			"Rachmat04"
 		]
 	},
 	"template-changing": "Bot: Mengubah {{PLURAL:%(num)d|templat|templat}}: %(list)s",

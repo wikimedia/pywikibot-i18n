@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"IvanLanin",
-			"Rachmat.Wahidi"
+			"Rachmat.Wahidi",
+			"Rachmat04"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Disambiguasi bantuan bot: %(from)s - Ditandai karena membutuhkan perhatian pakar",

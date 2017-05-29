@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"Vodnokon4e"
 		]
 	},
-	"isbn-formatting": "Робот: Форматиране на ISBN"
+	"isbn-formatting": "Бот: Форматиране на ISBN"
 }

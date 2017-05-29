@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "Робот Добавяне %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Vodnokon4e"
+		]
+	},
+	"add_text-adding": "Бот: Добавяне на %(adding)s"
 }

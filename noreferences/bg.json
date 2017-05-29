@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"Vodnokon4e"
 		]
 	},
-	"noreferences-add-tag": "Робот: Добавяне на липсващ етикет <references />"
+	"noreferences-add-tag": "Бот: Добавяне на липсващ етикет <references />"
 }

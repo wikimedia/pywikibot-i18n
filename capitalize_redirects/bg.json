@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"Vodnokon4e"
 		]
 	},
-	"capitalize_redirects-create-redirect": "Робот: Създаване на пренасочване към [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "Бот: Създаване на пренасочване към [[%(to)s]]"
 }
