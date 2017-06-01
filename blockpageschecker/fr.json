@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wladek92"
+			"Wladek92",
+			"Urhixidur"
 		]
 	},
-	"blockpageschecker-summary": "Robot: Supression des modèles obsolètes"
+	"blockpageschecker-summary": "Robot: Suppression des modèles désuets"
 }
