@@ -4,7 +4,8 @@
 			"Gomoko",
 			"Romainhk",
 			"Tavernier",
-			"Urhixidur"
+			"Urhixidur",
+			"Wladek92"
 		]
 	},
 	"pywikibot-enter-category-name": "Veuillez entrer le nom de la catégorie:",
@@ -16,5 +17,5 @@
 	"pywikibot-enter-xml-filename": "Veuillez entrer le nom du fichier d'extraction XML:",
 	"pywikibot-fixes-fckeditor": "Robot : Correction du HTML de l’éditeur riche",
 	"pywikibot-fixes-html": "Robot: convertit/fixe HTML",
-	"pywikibot-fixes-syntax": "Bot: Corrige wiki-syntaxe"
+	"pywikibot-fixes-syntax": "Bot : Correction syntaxe wiki"
 }

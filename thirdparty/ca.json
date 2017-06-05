@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"SMP",
-			"Vriullop"
+			"Vriullop",
+			"Fitoschido"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "substituint etiqueta/es %(tags)s",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussió alterada",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussió tancada",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MISSATGE DE ROBOT",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nova discussió",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Discussió nova",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Notificació",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s; [%(history_link)s darrera modificació] (%(page_size)s octets) per %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s les discussions han acabat (vigilància aturada). Darrera modificació per %(user)s (%(time)s)",

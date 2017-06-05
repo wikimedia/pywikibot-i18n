@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Wladek92"
 		]
 	},
 	"reflinks-autogen": "auto-généré",
 	"reflinks-comment": "Titre généré automatiquement",
-	"reflinks-msg": "Bot: Correction des refs. mal formatées, suppression doublons en utilisant des références nommées (cf. [[%(manual)s|explications]])"
+	"reflinks-msg": "Bot : Conversion des références mal formatées, en utilisant les références nommées afin d'éviter les doublons, voir  [[%(manual)s|FAQ]]"
 }

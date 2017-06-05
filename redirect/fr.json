@@ -7,7 +7,8 @@
 			"IAlex",
 			"Od1n",
 			"Xqt",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Wladek92"
 		]
 	},
 	"redirect-broken-redirect-template": "{{Suppression Immédiate|1=G8}}",
@@ -15,5 +16,5 @@
 	"redirect-fix-double": "Robot : répare une double redirection vers %(to)s",
 	"redirect-fix-loop": "Robot : répare une boucle de redirection sur %(to)s",
 	"redirect-remove-broken": "[[WP:CSD#G8|G8]]: [[Wikipedia:Redirect|Redirection]] vers une page supprimée ou inexistante",
-	"redirect-remove-loop": "Bot: la cible de la redirection forme une boucle de redirection"
+	"redirect-remove-loop": "Bot : La cible de la redirection génère une boucle de redirection"
 }

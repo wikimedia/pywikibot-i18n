@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Tavernier",
-			"Wladek92"
+			"Wladek92",
+			"Urhixidur"
 		]
 	},
-	"image-remove": "Bot: supression d'images %(file)s",
-	"image-replace": "Bot: Remplace image %(old)s par %(new)s"
+	"image-remove": "Bot : Suppression de l’image %(file)s",
+	"image-replace": "Bot : Remplace l’image %(old)s par %(new)s"
 }

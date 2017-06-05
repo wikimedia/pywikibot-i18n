@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Nemo bis",
-			"Od1n"
+			"Od1n",
+			"Urhixidur"
 		]
 	},
-	"welcome-bad_username": "Bot : Ajout d'un nom d'utilisateur qui doit être vérifié",
-	"welcome-updating": "Bot : Mise à jour du journal",
+	"welcome-bad_username": "Bot : Ajout d’un nom d’utilisateur à vérifier",
+	"welcome-updating": "Bot : Mise à jour du journal",
 	"welcome-welcome": "Bienvenue !"
 }
