@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jayprakash12345"
+			"Jayprakash12345",
+			"Sfic"
 		]
 	},
 	"redirect-fix-broken-moved": "बॉट: स्थानांतरित लक्ष्य %(to)s पृष्ठ पर टूटी हुई रीडायरेक्ट को ठीक करना।",
 	"redirect-fix-double": "बॉट: %(to)s को दोहरे पुननिर्देशित ठीक किया।",
-	"redirect-fix-loop": "बॉट: %(to)s को पुननिर्देशित लूप ठीक किया।"
+	"redirect-fix-loop": "बॉट: %(to)s को पुननिर्देशित लूप ठीक किया।",
+	"redirect-remove-broken": "बॉट: हटाये गए या अनुपस्थित पृष्ठ पर अनुप्रेषित"
 }
