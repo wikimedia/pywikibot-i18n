@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"Bodhisattwa"
 		]
 	},
-	"reflinks-autogen": "স্বয়ংক্রিয় উত্পন্ন"
+	"reflinks-autogen": "স্বয়ংক্রিয় উত্পন্ন",
+	"reflinks-comment": "বট শিরোনাম উৎপন্ন করেছে"
 }
