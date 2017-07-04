@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"SMP"
+			"SMP",
+			"Ssola"
 		]
 	},
-	"basic-changing": "Bot: Canviant ..."
+	"basic-changing": "Robot: Canviant ..."
 }

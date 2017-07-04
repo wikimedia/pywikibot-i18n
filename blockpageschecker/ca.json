@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Alvaro Vidal-Abarca",
-			"Grondin"
+			"Grondin",
+			"Ssola"
 		]
 	},
-	"blockpageschecker-summary": "Bot: suprimint plantilla obsoleta"
+	"blockpageschecker-summary": "Robot: suprimint plantilla obsoleta"
 }
