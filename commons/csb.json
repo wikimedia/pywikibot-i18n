@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|Lopk]] òstôł przeniosłi do [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-now-available": "Lopk je terô przistãpny na [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+}

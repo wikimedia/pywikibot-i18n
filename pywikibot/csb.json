@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"pywikibot-enter-category-name": "Wpiszë miono kategòrëji",
+	"pywikibot-enter-file-links-processing": "Lënczi do starnë chtërnegò lopka mają byëc przerobione?",
+	"pywikibot-enter-finished-browser": "Wcësni Enter jak przezérnik òprzestanie robic.",
+	"pywikibot-enter-namespace-number": "Proszã wpisac numer ruma mionów:",
+	"pywikibot-enter-new-text": "Proszã wpisac nowi tekst:",
+	"pywikibot-enter-page-processing": "Jakô strana mô bëc przerobionô?",
+	"pywikibot-enter-xml-filename": "Proszã wpisac miono lopka ze zdrzucënkã w fòrmacë XML:",
+	"pywikibot-fixes-fckeditor": "Bòt: Pòprôwiô kòd html z tekstowégò sfòrmatowónegò editora",
+	"pywikibot-fixes-html": "Bòt: Kònwertëje/Pòprôwiô HTML",
+	"pywikibot-fixes-syntax": "Bòt: Pòprôwiô składniã wiki"
+}

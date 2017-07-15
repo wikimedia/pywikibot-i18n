@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Zjinaka w diskùsëji",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskùsëjô zamkłô",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "WIADŁO BÒTA",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nowô diskùsëjô",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Dôwanié wiédzë",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y-%m-%d %B",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bòt"
+}

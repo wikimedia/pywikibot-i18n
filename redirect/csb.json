@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"redirect-fix-broken-moved": "Bòt: Pòprôwiô złamóné przeczerownia przesëniãtich célów na starnã %(to)s",
+	"redirect-fix-double": "Bòt: Pòprôwiô dëbeltné przeczerowania do %(to)s",
+	"redirect-fix-loop": "Bòt: Pòprôwiô pãtlã przeczerowaniów do %(to)s",
+	"redirect-remove-broken": "Bòt: Przeczerowùje do rëmniãti abò nieegzystëjący starnë",
+	"redirect-remove-loop": "Bòt: Przeczerowùje z pãtlë przeczerowaniów"
+}

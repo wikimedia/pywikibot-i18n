@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(FÙL ARCHIWA)",
-	"archivebot-archive-summary": "Robòt: Archiwizacëjô %(count)d {{PLURAL:%(count)d|wątkù|wątków|wątków}} z [[%(from)s]].",
+	"archivebot-archive-summary": "Bòt: Archiwizacëjô %(count)d {{PLURAL:%(count)d|wątkù|wątków|wątków}} z [[%(from)s]].",
 	"archivebot-older-than": "stôrszé jak %(duration)s",
-	"archivebot-page-summary": "Robòt: Archiwizacëjô %(count)d {{PLURAL:%(count)d|wątkù|wątków|wątków}} (%(why)s) do %(archives)s."
+	"archivebot-page-summary": "Bòt: Archiwizacëjô %(count)d {{PLURAL:%(count)d|wątkù|wątków|wątków}} (%(why)s) do %(archives)s."
 }

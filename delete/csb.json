@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"delete-from-category": "Bòt: Rëmanié wszëtczich starnów z kategòrëji %(page)s",
+	"delete-from-file": "Bòt: Rëmanié starnów z lëstë.",
+	"delete-images": "Bòt: Rëmanié wszëtczich òbrôzków ze starnë %(page)s",
+	"delete-linked-pages": "Bòt: Rëmanié wszëtczich artiklów zlënkòwónych z %(page)s",
+	"delete-referring-pages": "Bòt: Rëmanié wszëtczich starnów lëkùjących do %(page)s"
+}

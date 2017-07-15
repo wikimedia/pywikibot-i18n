@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"image-remove": "Bòt: Rëmô òbrôzk %(file)s",
+	"image-replace": "Bòt: Zastãpôwô òbrôzk %(old)s na %(new)s"
+}

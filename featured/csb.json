@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"featured-featured": "Bòt: %(page)s je artiklã na medaliã",
+	"featured-former": "Bòt: %(page)s ju je artiklã na medaliã",
+	"featured-good": "Bòt: %(page)s je dobrim artiklã",
+	"featured-list": "Bòt: %(page)s są lëstą medaliową"
+}
