@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"template-changing": "Bòt: Zjinaka {{PLURAL:%(num)d|szablóna|szablónów:}} %(list)s",
+	"template-removing": "Bòt: Rëmniãcé {{PLURAL:%(num)d|szablóna|szablónów}}: %(list)s",
+	"template-substituting": "Bòt: Pòdmiana {{PLURAL:%(num)d|szablóna|szablónów}}: %(list)s"
+}

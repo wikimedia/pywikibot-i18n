@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"unprotect-category": "Bòt: Òdzychrowanié wszëtczich starnów z kategòrëji %(cat)s",
+	"unprotect-images": "Bòt: Òdzychrowanié wszëtczich lopków ze starnë %(page)s",
+	"unprotect-links": "Bòt: Òdzychrowanié wszëtczich artiklów zlënkòwónych z %(page)s",
+	"unprotect-ref": "Bòt: Òdzychrowanié wszëtczich starnów lëkùjących do %(page)s",
+	"unprotect-simple": "Bòt: Òdzychrowanié lopków z lëstë"
+}

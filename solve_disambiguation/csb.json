@@ -4,5 +4,11 @@
 			"Kaszeba"
 		]
 	},
+	"solve_disambiguation-adding-dn-template": "Bòt wespòmóg naprawã ùjednoznacznieniô %(from)s - nacéchòwanié jakno wëmôgającé bôczënka eksperta",
+	"solve_disambiguation-links-removed": "Bòt wespòmóg naprawã ùjednoznacznieniô: %(from)s - rëmanié lënka(ów).",
+	"solve_disambiguation-links-resolved": "Bòt wespòmóg naprawã ùjednoznacznieniô:%(from)s – zjinaka lënka(ów) do %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bòt wespòmóg naprawã ùjednoznacznieniô %(from)s - nacéchòwanié jakno wëmôgającé bôczënka eksperta",
+	"solve_disambiguation-redirect-removed": "Bòt wespòmóg naprawã ùjednoznacznieniô: %(from)s - rëmanié lënka(ów).",
+	"solve_disambiguation-redirect-resolved": "Bòt wespòmóg naprawã ùjednoznacznieniô:%(from)s – zjinaka lënka(ów) do %(to)s",
 	"solve_disambiguation-unknown-page": "(nieznônô)"
 }

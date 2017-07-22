@@ -4,5 +4,9 @@
 			"Kaszeba"
 		]
 	},
-	"weblinkchecker-caption": "Môrtwi lënk"
+	"weblinkchecker-archive_msg": "Zamkłosc nieprzistãpny starnë je zarchiwizowónô przez Internet Archive. Sprôwdzë czë je wôrtno lënkòwac do archiwalny wersëji starnë: %(URL)s",
+	"weblinkchecker-badurl": "Wpisóny lënk nie je pòprôwną adrésą URL",
+	"weblinkchecker-caption": "Môrtwi lënk",
+	"weblinkchecker-report": "Aùtomatnemù bòtowi ju czile razë nie darzëło sã òtemknąc negò bùtnowégò lënka. Proszã sprôwdzëc czë nen lënk pò prôwdze nie robi ë (jeżlë to mòżlëwé) gò skòrigòwac. Jeżlë nen lënk nie robi, proszã rozważëc jegò rëmniãcé.",
+	"weblinkchecker-summary": "Bòt: Zgłôszô nie robiący bùtnowi lënk"
 }
