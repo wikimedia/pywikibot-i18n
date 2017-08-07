@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Wladek92"
 		]
 	},
-	"listpages-save-list": "Robot : Enregistrer la liste des pages générée"
+	"listpages-save-list": "Robot : Enregistrer la liste générée des pages"
 }

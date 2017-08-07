@@ -6,10 +6,11 @@
 			"Gomoko",
 			"Grondin",
 			"Od1n",
-			"Hercule"
+			"Hercule",
+			"Wladek92"
 		]
 	},
-	"thirdparty-drtrigonbot-subster-summary-mod": "substitution des balises %(tags)s",
+	"thirdparty-drtrigonbot-subster-summary-mod": "substitution de balise(s) : %(tags)s",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussion modifiée",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussion fermée",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MESSAGE DU ROBOT",

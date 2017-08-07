@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Hashar",
-			"Gomoko"
+			"Gomoko",
+			"Wladek92"
 		]
 	},
-	"followlive-blanking": "blanchi, le contenu était '%(content)s'."
+	"followlive-blanking": "Effacé, le contenu était '%(content)s'."
 }

@@ -6,13 +6,14 @@
 			"Hashar",
 			"IAlex",
 			"Od1n",
-			"Urhixidur"
+			"Urhixidur",
+			"Wladek92"
 		]
 	},
 	"category_redirect-add-template": "Robot : ajout de modèle de redirection de catégorie pour maintenance",
 	"category_redirect-change-category": "Robot : Changement de la redirection de [[:%(oldCatLink)s|%(oldCatTitle)s]] pour [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Robot de maintenance des redirections de catégories",
-	"category_redirect-edit-request": "Les pages protégées suivantes ont été détectés comme nécessitant des mises à jour des liens de catégorie : %(itemlist)s",
+	"category_redirect-edit-request": "Les pages protégées suivantes ont été détectées comme nécessitant une mise à jour des liens de catégorie : %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s est dans %(oldcat)s, qui est une redirection vers %(newcat)s",
 	"category_redirect-fix-double": "Robot : répare une double redirection"
 }

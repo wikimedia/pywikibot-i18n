@@ -3,15 +3,16 @@
 		"authors": [
 			"Boniface",
 			"Od1n",
-			"Romainhk"
+			"Romainhk",
+			"Wladek92"
 		]
 	},
-	"interwiki-adding": "robot Ajoute : %(adding)s",
+	"interwiki-adding": "Robot : Ajout de %(adding)s",
 	"interwiki-adding-modifying": "Robot : Ajoute %(adding)s, Modifie %(modifying)s",
 	"interwiki-adding-removing": "Robot : Ajoute %(adding)s ; retire %(removing)s",
-	"interwiki-adding-removing-modifying": "Robot : Ajoute %(adding)s ; Retire %(removing)s ; Modifie %(modifying)s",
-	"interwiki-modifying": "robot Modifie %(modifying)s",
-	"interwiki-modifying-from": "Robot : modification de %(from)s à %(modifying)s",
-	"interwiki-removing": "robot Retire : %(removing)s",
-	"interwiki-removing-modifying": "robot Retire : %(removing)s Modifie : %(modifying)s"
+	"interwiki-adding-removing-modifying": "Robot : Ajout de %(adding)s ; Suppression de %(removing)s ; Modification de %(modifying)s",
+	"interwiki-modifying": "Robot : Modification de %(modifying)s",
+	"interwiki-modifying-from": "Robot : Modification de %(from)s en %(modifying)s",
+	"interwiki-removing": "Robot : Suppression de %(removing)s",
+	"interwiki-removing-modifying": "Robot : Suppression de %(removing)s; Modification de %(modifying)s"
 }

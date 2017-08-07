@@ -9,13 +9,14 @@
 			"Rastus Vernon",
 			"Romainhk",
 			"Sherbrooke",
-			"Xqt"
+			"Xqt",
+			"Wladek92"
 		]
 	},
 	"category-adding": "Robot : Ajout de la catégorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(également dans %(alsocat)s)",
 	"category-changing": "Robot : modification de %(oldcat)s en %(newcat)s",
-	"category-listifying": "Robot : Listage de %(fromcat)s (%(num)d éléments)",
+	"category-listifying": "Robot : Listage de %(fromcat)s ({{PLURAL:%(num)d|1 élément|%(num)d éléments}})",
 	"category-removing": "Robot : Retiré depuis %(oldcat)s",
 	"category-renamed": "Robot : déplacé depuis %(oldcat)s. Auteurs: %(authors)s",
 	"category-replacing": "Robot : Remplacement de la catégorie %(oldcat)s par %(newcat)s",
@@ -23,5 +24,5 @@
 	"category-strip-cfd-templates": "Robot : Suppression des modèles CFD pour l’action terminée",
 	"category-version-history": "Robot : Enregistrement de l'historique de version de l'ancien %(oldcat)s",
 	"category-was-disbanded": "Robot : La catégorie a été supprimée",
-	"category-was-moved": "Robot : la catégorie a été déplacé vers [[:Category:%(newcat)s|%(title)s]]"
+	"category-was-moved": "Robot : la catégorie a été déplacée vers [[:Category:%(newcat)s|%(title)s]]"
 }
