@@ -4,7 +4,8 @@
 			"Christian List",
 			"Kaare",
 			"Peter Alberti",
-			"Sarrus"
+			"Sarrus",
+			"Joedalton"
 		]
 	},
 	"category-adding": "Robot: Tilføjer kategorien [[:Category:%(newcat)s|%(newcat)s]]",
@@ -15,7 +16,8 @@
 	"category-renamed": "Robot: Flyttet fra %(oldcat)s. Forfattere: %(authors)s",
 	"category-replacing": "Robot: Erstatter kategori %(oldcat)s med %(newcat)s",
 	"category-section-title": "Sidehistorik fra den tidligere %(oldcat)s",
-	"category-version-history": "Robot: Gemmer versionshistorikken for den tidligere %(oldcat)s",
+	"category-strip-cfd-templates": "Bot: Fjerner CFD-skabeloner fra afsluttede sager",
+	"category-version-history": "Bot: Gemmer versionshistorikken for den tidligere %(oldcat)s",
 	"category-was-disbanded": "Robot: Kategorien blev opløst",
 	"category-was-moved": "Robot: Flytter kategori til [[:Category:%(newcat)s|%(title)s]]"
 }

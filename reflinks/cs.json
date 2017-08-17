@@ -8,5 +8,5 @@
 	},
 	"reflinks-autogen": "vytvořeno automaticky",
 	"reflinks-comment": "Název vygenerovaný robotem",
-	"reflinks-msg": "Robot: převedení holých odkazů pojmenováním referencí k eliminaci duplicit, viz [[%(manual)s|manuál]]"
+	"reflinks-msg": "Robot: přidání popisků k referencím, použití pojmenovaných referencí ke sloučení duplicit, viz [[%(manual)s|FAQ]]"
 }
