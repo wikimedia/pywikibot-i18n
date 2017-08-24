@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alchimista"
+			"Alchimista",
+			"MokaAkashiyaPT"
 		]
 	},
-	"commons-file-moved": "[[:File:%(localfile)s|File]] mobido para [[:commons:File:%(commonsfile)s|commons]].",
-	"commons-file-now-available": "L fexeiro stá agora ne l [[:commons:File:%(commonsfile)s|Wikimedia Commons]]"
+	"commons-file-moved": "[[:File:%(localfile)s|Fexeiro]] mobido pa l [[:commons:File:%(commonsfile)s|Commons]].",
+	"commons-file-now-available": "L fexeiro stá agora ne l [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
 }

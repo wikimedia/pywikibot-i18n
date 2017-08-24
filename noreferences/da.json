@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Kaare"
+			"Kaare",
+			"Joedalton"
 		]
 	},
-	"noreferences-add-tag": "Robot: Tilføjer manglende <references />-tag"
+	"noreferences-add-tag": "Robot: Tilføjer manglende <references />-tag",
+	"noreferences-fix-tag": "Robot: Korriger ugyldig syntaks for <references />-mærke"
 }

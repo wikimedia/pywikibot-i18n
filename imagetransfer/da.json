@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton"
+		]
+	},
+	"imagetransfer-file_page_message": "Dette billede blev kopieret fra %(site)s. Den originale beskrivelse var:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Filen er nu tilgængelig på Wikimedia Commons."
+}

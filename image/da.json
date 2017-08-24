@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton"
+		]
+	},
+	"image-remove": "Robot: Fjerner billedet %(file)s",
+	"image-replace": "Robot: Erstatter billedet %(old)s med %(new)s"
+}

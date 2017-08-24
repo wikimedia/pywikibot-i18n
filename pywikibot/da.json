@@ -3,7 +3,8 @@
 		"authors": [
 			"Christian List",
 			"Kaare",
-			"MGA73"
+			"MGA73",
+			"Joedalton"
 		]
 	},
 	"pywikibot-enter-category-name": "Skriv kategorinavnet:",
@@ -12,5 +13,8 @@
 	"pywikibot-enter-namespace-number": "Angiv et navnerum via dets nummer:",
 	"pywikibot-enter-new-text": "Skriv den nye tekst:",
 	"pywikibot-enter-page-processing": "Hvilken side skal behandles?",
-	"pywikibot-enter-xml-filename": "Skriv XML-dumpets filnavn:"
+	"pywikibot-enter-xml-filename": "Skriv XML-dumpets filnavn:",
+	"pywikibot-fixes-fckeditor": "Robot: Ret rich-editor HTML",
+	"pywikibot-fixes-html": "Robot: Konverter/ret HTML",
+	"pywikibot-fixes-syntax": "Robot: Ret wikisyntaks"
 }
