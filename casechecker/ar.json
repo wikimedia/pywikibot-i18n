@@ -8,7 +8,7 @@
 	},
 	"casechecker-delete-reason": "هذه التحويلة كانت تشير إلى %(target)s",
 	"casechecker-delete-summary": "بوت: هذه التحويلة تحتوي على حروف سيريلية ولاتينية متشابهة في عنوانها",
-	"casechecker-rename": "بوت: اسم لحالة مخلوطة",
+	"casechecker-rename": "بوت: قضية إعادة تسمية مختلطة",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "بوت: استبدالات الحالة:"
 }

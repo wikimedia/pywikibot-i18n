@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"Zaher kadour"
+			"Zaher kadour",
+			"ديفيد"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "توضيح بمساعدة بوت: %(from)s - التعليم كمحتاجة لانتباه خبير",
-	"solve_disambiguation-links-removed": "توضيح بمساعدة بوت: %(from)s - أزال الوصلة أو الوصلات.",
-	"solve_disambiguation-links-resolved": "توضيح بمساعدة بوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s",
+	"solve_disambiguation-links-removed": "توضيح بمساعدة بوت: %(from)s - أزال الوصلة(ات).",
+	"solve_disambiguation-links-resolved": "توضيح بمساعدة بوت: %(from)s - غير الوصلة(ات) إلى %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "توضيح بمساعدة بوت: %(from)s - التعليم كمحتاجة لانتباه خبير",
-	"solve_disambiguation-redirect-removed": "توضيح بمساعدة بوت: %(from)s - أزال الوصلة أو الوصلات",
-	"solve_disambiguation-redirect-resolved": "توضيح بمساعدة بوت: %(from)s - غير الوصلة أو الوصلات إلى %(to)s",
+	"solve_disambiguation-redirect-removed": "توضيح بمساعدة بوت: %(from)s - أزال الوصلة(ات)",
+	"solve_disambiguation-redirect-resolved": "توضيح بمساعدة بوت: %(from)s - غير الوصلة(ات) إلى %(to)s",
 	"solve_disambiguation-unknown-page": "(غير معروف)"
 }

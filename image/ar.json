@@ -6,5 +6,5 @@
 		]
 	},
 	"image-remove": "بوت: إزالة الصورة %(file)s",
-	"image-replace": "بوت: استبدال الصورة %(old)s مع %(new)s"
+	"image-replace": "بوت: استبدال الصورة %(old)s ب%(new)s"
 }

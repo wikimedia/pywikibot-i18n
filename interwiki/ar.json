@@ -7,11 +7,11 @@
 		]
 	},
 	"interwiki-adding": "بوت: إضافة %(adding)s",
-	"interwiki-adding-modifying": "بوت: إضافة %(adding)s تعديل: %(modifying)s",
-	"interwiki-adding-removing": "بوت: إضافة %(adding)s إزالة: %(removing)s",
-	"interwiki-adding-removing-modifying": "بوت: إضافة %(adding)s إزالة: %(removing)s تعديل: %(modifying)s",
+	"interwiki-adding-modifying": "بوت: إضافة %(adding)s، تعديل: %(modifying)s",
+	"interwiki-adding-removing": "بوت: إضافة %(adding)s، إزالة: %(removing)s",
+	"interwiki-adding-removing-modifying": "بوت: إضافة %(adding)s، إزالة %(removing)s، تعديل، %(modifying)s",
 	"interwiki-modifying": "بوت: تعديل %(modifying)s",
 	"interwiki-modifying-from": "بوت: تغيير %(from)s إلى %(modifying)s",
 	"interwiki-removing": "بوت: إزالة %(removing)s",
-	"interwiki-removing-modifying": "بوت: إزالة %(removing)s تعديل: %(modifying)s"
+	"interwiki-removing-modifying": "بوت: إزالة %(removing)s، تعديل: %(modifying)s"
 }

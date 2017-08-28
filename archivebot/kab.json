@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amazigh84"
+			"Amazigh84",
+			"Sayem AtVkm"
 		]
 	},
 	"archivebot-archive-full": "Aγbar iččuṛ",
 	"archivebot-archive-summary": "Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} sγuṛ [[%(from)s]].",
-	"archivebot-older-than": "D-aqbuṛ γef",
+	"archivebot-older-than": "D-aqbuṛ γef %(duration)s",
 	"archivebot-page-summary": "Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) γer %(archives)s."
 }

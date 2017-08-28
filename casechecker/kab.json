@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Belkacem77"
+		]
+	},
+	"casechecker-delete-reason": "Awelleh-agi yemmal-d %(target)s",
+	"casechecker-delete-summary": "Arubut: Awelle-agi yegber isekkilen i ttemcabin s tsirilikt d talatinit deg uzwel-is.",
+	"casechecker-rename": "Arubut: asnifel n yisem s tṛuzi n usekkil ixelḍen",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Arubut: Asemselsi n tṛuzi n usekkil"
+}
