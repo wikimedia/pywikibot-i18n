@@ -3,9 +3,10 @@
 		"authors": [
 			"Meno25",
 			"Zaher kadour",
-			"ديفيد"
+			"ديفيد",
+			"Framawiki"
 		]
 	},
-	"noreferences-add-tag": "بوت: إضافة وسم <references /> مفقود",
+	"noreferences-add-tag": "بوت: إضافة {{قا|مراجع}} مفقود لمقالة [[ويكيبيديا:مراجع|بمراجع]]",
 	"noreferences-fix-tag": "بوت: تصحيح صيغة غير صحيحة لوسم <references />"
 }
