@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIWUM PEŁNE)",
-	"archivebot-archive-summary": "Bot:Archiwizowańy %(count)d {{PLURAL:%(count)d|kůmyntarza|kůmyntarzy}} z [[%(from)s]].",
+	"archivebot-archive-summary": "Bot:Archiwizowańy %(count)d {{PLURAL:%(count)d|kůmyntarza|kůmyntarzy}} z [[%(from)s]]",
 	"archivebot-older-than": "starsze uod",
-	"archivebot-page-summary": "Bot:Archiwizowańy %(count)d {{PLURAL:%(count)d|kůmyntarza|kůmyntarzy}} (%(why)s) lo %(archives)s."
+	"archivebot-page-summary": "Bot:Archiwizowańy %(count)d {{PLURAL:%(count)d|kůmyntarza|kůmyntarzy}} (%(why)s) lo %(archives)s"
 }

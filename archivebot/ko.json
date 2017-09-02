@@ -8,8 +8,8 @@
 		]
 	},
 	"archivebot-archive-full": "(보존 가득참)",
-	"archivebot-archive-summary": "봇: [[%(from)s]]에서 {{PLURAL:%(count)d|스레드}} %(count)d개를 보존합니다.",
+	"archivebot-archive-summary": "봇: [[%(from)s]]에서 {{PLURAL:%(count)d|스레드}} %(count)d개를 보존합니다",
 	"archivebot-archiveheader": "{{보존}}",
 	"archivebot-older-than": "%(duration)s 보다 오래됨",
-	"archivebot-page-summary": "봇: {{PLURAL:%(count)d|스레드}} %(count)d개(%(why)s)를 %(archives)s에 보존합니다."
+	"archivebot-page-summary": "봇: {{PLURAL:%(count)d|스레드}} %(count)d개(%(why)s)를 %(archives)s에 보존합니다"
 }

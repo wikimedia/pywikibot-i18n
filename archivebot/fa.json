@@ -10,8 +10,8 @@
 		]
 	},
 	"archivebot-archive-full": "(بایگانی پر است)",
-	"archivebot-archive-summary": "ربات: بایگانی‌کردن %(count)d بحث از [[%(from)s]].",
+	"archivebot-archive-summary": "ربات: بایگانی‌کردن %(count)d بحث از [[%(from)s]]",
 	"archivebot-archiveheader": "{{بایگانی بحث}}",
 	"archivebot-older-than": "قدیمی‌تر از %(duration)s",
-	"archivebot-page-summary": "ربات: بایگانی‌کردن %(count)d بحث (%(why)s) در %(archives)s."
+	"archivebot-page-summary": "ربات: بایگانی‌کردن %(count)d بحث (%(why)s) در %(archives)s"
 }

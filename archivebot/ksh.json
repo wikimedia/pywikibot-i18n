@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(DAT ASCHIHV ES VOLL)",
-	"archivebot-archive-summary": "Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} vun [[%(from)s]] en et Aschihf jedonn.",
+	"archivebot-archive-summary": "Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} vun [[%(from)s]] en et Aschihf jedonn",
 	"archivebot-older-than": "älder wi %(duration)s",
-	"archivebot-page-summary": "Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} (%(why)s) en et Aschihf %(archives)s jedonn."
+	"archivebot-page-summary": "Bot:  %(count)d {{PLURAL:%(count)d|Nohreeschtefäddem|Nohreeschtefäddeme|Nohreeschtefäddeme}} (%(why)s) en et Aschihf %(archives)s jedonn"
 }

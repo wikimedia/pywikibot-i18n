@@ -6,5 +6,5 @@
 		]
 	},
 	"archivebot-older-than": "%(duration)s se purana",
-	"archivebot-page-summary": "Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s."
+	"archivebot-page-summary": "Robot: Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s"
 }

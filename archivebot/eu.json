@@ -7,7 +7,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARTXIBOA BETETA)",
-	"archivebot-archive-summary": "Bot: [[%(from)s]]-(e)ko %(count)d {{PLURAL:%(count)d|eztabaida|eztabaida}} artxibatzen.",
+	"archivebot-archive-summary": "Bot: [[%(from)s]]-(e)ko %(count)d {{PLURAL:%(count)d|eztabaida|eztabaida}} artxibatzen",
 	"archivebot-older-than": "%(duration)s baino zaharragoak",
-	"archivebot-page-summary": "Bot: %(archives)s-ra (%(why)s) %(count)d {{PLURAL:%(count)d|eztabaida|eztabaida}} artxibatzen."
+	"archivebot-page-summary": "Bot: %(archives)s-ra (%(why)s) %(count)d {{PLURAL:%(count)d|eztabaida|eztabaida}} artxibatzen"
 }

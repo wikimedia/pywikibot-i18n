@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(АРХИВ ПУР БЫӘ)",
-	"archivebot-archive-summary": "Архивасијә %(count)d {{PLURAL:%(count)d|мывзу|мывзујон}} де [[%(from)s]].",
+	"archivebot-archive-summary": "Архивасијә %(count)d {{PLURAL:%(count)d|мывзу|мывзујон}} де [[%(from)s]]",
 	"archivebot-older-than": "һәнијән синине чымисә",
-	"archivebot-page-summary": "Архивасијә %(count)d {{PLURAL:%(count)d|мывзу|мывзујон}} (%(why)s) бә %(archives)s."
+	"archivebot-page-summary": "Архивасијә %(count)d {{PLURAL:%(count)d|мывзу|мывзујон}} (%(why)s) бә %(archives)s"
 }

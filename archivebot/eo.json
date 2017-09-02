@@ -8,8 +8,8 @@
 		]
 	},
 	"archivebot-archive-full": "(plena arkivo)",
-	"archivebot-archive-summary": "Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} de [[%(from)s]].",
+	"archivebot-archive-summary": "Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} de [[%(from)s]]",
 	"archivebot-archiveheader": "{{Arkivo de diskutoj}}",
 	"archivebot-older-than": "pli malnova ol %(duration)s",
-	"archivebot-page-summary": "Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s."
+	"archivebot-page-summary": "Roboto: Arkivado de %(count)d {{PLURAL:%(count)d|fadeno|fadenoj}} (%(why)s) al %(archives)s"
 }

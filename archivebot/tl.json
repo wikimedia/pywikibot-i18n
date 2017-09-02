@@ -5,8 +5,8 @@
 		]
 	},
 	"archivebot-archive-full": "(PUNO NA ANG SINUPAN)",
-	"archivebot-archive-summary": "Robot: Nagsisinop ng %(count)d {{PLURAL:%(count)d|sinulid|mga sinulid}} mula sa [[%(from)s]].",
+	"archivebot-archive-summary": "Robot: Nagsisinop ng %(count)d {{PLURAL:%(count)d|sinulid|mga sinulid}} mula sa [[%(from)s]]",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-older-than": "mas luma kaysa",
-	"archivebot-page-summary": "Robot: Nagsisinop ng %(count)d {{PLURAL:%(count)d|sinulid|mga sinulid}} (%(why)s) sa %(archives)s."
+	"archivebot-page-summary": "Robot: Nagsisinop ng %(count)d {{PLURAL:%(count)d|sinulid|mga sinulid}} (%(why)s) sa %(archives)s"
 }

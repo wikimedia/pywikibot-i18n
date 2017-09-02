@@ -6,8 +6,8 @@
 		]
 	},
 	"archivebot-archive-full": "(ARHIV JE POLN)",
-	"archivebot-archive-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|razprave|razpravi|razprave|razprav}} s strani [[%(from)s]].",
+	"archivebot-archive-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|razprave|razpravi|razprave|razprav}} s strani [[%(from)s]]",
 	"archivebot-archiveheader": "{{Arhiviran-pogovor}}",
 	"archivebot-older-than": "starejše od %(duration)s",
-	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|razprave|razpravi|razprave|razprav}} (%(why)s) na %(archives)s."
+	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|razprave|razpravi|razprave|razprav}} (%(why)s) na %(archives)s"
 }

@@ -6,8 +6,8 @@
 		]
 	},
 	"archivebot-archive-full": "(АРХИВОТ Е НАПОЛНЕТ)",
-	"archivebot-archive-summary": "Архивирање на %(count)d {{PLURAL:%(count)d|нишка|нишки}} од [[%(from)s]].",
+	"archivebot-archive-summary": "Архивирање на %(count)d {{PLURAL:%(count)d|нишка|нишки}} од [[%(from)s]]",
 	"archivebot-archiveheader": "{{Разговор-архива}}",
 	"archivebot-older-than": "постаро од %(duration)s",
-	"archivebot-page-summary": "Архивирање на %(count)d {{PLURAL:%(count)d|нишка|нишки}} (%(why)s) во %(archives)s."
+	"archivebot-page-summary": "Архивирање на %(count)d {{PLURAL:%(count)d|нишка|нишки}} (%(why)s) во %(archives)s"
 }

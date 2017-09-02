@@ -6,7 +6,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARXİV DOLUDUR)",
-	"archivebot-archive-summary": "Bot: [[%(from)s]] tərəfindən arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}}.",
+	"archivebot-archive-summary": "Bot: [[%(from)s]] tərəfindən arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}}",
 	"archivebot-older-than": "köhnədir",
-	"archivebot-page-summary": "Bot: Arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}} (%(why)s) səbəbindən  %(archives)s yerləşdirilib."
+	"archivebot-page-summary": "Bot: Arxivləşdirilən %(count)d {{PLURAL:%(count)d|mövzu}} (%(why)s) səbəbindən  %(archives)s yerləşdirilib"
 }

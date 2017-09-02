@@ -10,5 +10,5 @@
 	"archivebot-archive-full": "ארכיון מלא",
 	"archivebot-archive-summary": "בוט: ארכוב %(count)d שיחות מ[[%(from)s]]",
 	"archivebot-older-than": "ישן מ%(duration)s",
-	"archivebot-page-summary": "ארכוב {{PLURAL:%(count)d|שיחה אחת|%(count)d שיחות}} (%(why)s) אל %(archives)s."
+	"archivebot-page-summary": "ארכוב {{PLURAL:%(count)d|שיחה אחת|%(count)d שיחות}} (%(why)s) אל %(archives)s"
 }

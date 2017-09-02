@@ -7,5 +7,5 @@
 	"archivebot-archive-full": "(ཡིག་མཛོད་ཕྱོགས་བསྡུས།)",
 	"archivebot-archive-summary": "མི་གཟུགས་འཕྲུལ་ཆས་ : ཡིག་མཛོད་ནང་གི་ %(count)d ཙམ་ཞིག་ [[%(from)s]] བགྲོ་གླེང་ནས།",
 	"archivebot-older-than": "གོང་དུ་",
-	"archivebot-page-summary": "མི་གཟུགས་འཕྲུལ་ཆས་ : ཡིག་མཛོད། %(count)d ཙམ་(%(why)s འདིར་གནས་སྤོས་ %(archives)s."
+	"archivebot-page-summary": "མི་གཟུགས་འཕྲུལ་ཆས་ : ཡིག་མཛོད། %(count)d ཙམ་(%(why)s འདིར་གནས་སྤོས་ %(archives)s"
 }

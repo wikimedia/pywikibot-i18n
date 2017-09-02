@@ -6,7 +6,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARGIEF VOL)",
-	"archivebot-archive-summary": "Robot: Argiveer %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpe}} vanaf [[%(from)s]].",
+	"archivebot-archive-summary": "Robot: Argiveer %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpe}} vanaf [[%(from)s]]",
 	"archivebot-older-than": "ouer as %(duration)s",
-	"archivebot-page-summary": "Robot: Argiveer %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpe}} (%(why)s) na %(archives)s."
+	"archivebot-page-summary": "Robot: Argiveer %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpe}} (%(why)s) na %(archives)s"
 }

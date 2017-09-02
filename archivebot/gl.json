@@ -7,8 +7,8 @@
 		]
 	},
 	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
-	"archivebot-archive-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} de [[%(from)s]].",
+	"archivebot-archive-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} de [[%(from)s]]",
 	"archivebot-archiveheader": "{{Arquivo}}",
 	"archivebot-older-than": "máis vello que %(duration)s",
-	"archivebot-page-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} (%(why)s) en %(archives)s."
+	"archivebot-page-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} (%(why)s) en %(archives)s"
 }

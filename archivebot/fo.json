@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARKIVIÐ ER FULT)",
-	"archivebot-archive-summary": "Bottur: Arkiverar %(count)d {{PLURAL:%(count)d|tráð|træðrir}} frá [[%(from)s]].",
+	"archivebot-archive-summary": "Bottur: Arkiverar %(count)d {{PLURAL:%(count)d|tráð|træðrir}} frá [[%(from)s]]",
 	"archivebot-older-than": "eldri enn",
-	"archivebot-page-summary": "Bottur: Arkiverar %(count)d {{PLURAL:%(count)d|tráð|træðrir}} (%(why)s) til %(archives)s."
+	"archivebot-page-summary": "Bottur: Arkiverar %(count)d {{PLURAL:%(count)d|tráð|træðrir}} (%(why)s) til %(archives)s"
 }

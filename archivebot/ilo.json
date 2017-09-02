@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(NAPUNNO TI PAGIDULINAN)",
-	"archivebot-archive-summary": "Iduldulin%(count)d thread(s) from [[%(from)s]].",
+	"archivebot-archive-summary": "Iduldulin%(count)d thread(s) from [[%(from)s]]",
 	"archivebot-older-than": "nadatdaan ngem",
-	"archivebot-page-summary": "Iduldulin %(count)d thread(s) (%(why)s) idiay %(archives)s."
+	"archivebot-page-summary": "Iduldulin %(count)d thread(s) (%(why)s) idiay %(archives)s"
 }

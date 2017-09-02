@@ -7,5 +7,5 @@
 	},
 	"archivebot-archive-full": "(ఆర్ఖైవ్ నిండినది)",
 	"archivebot-older-than": "%(duration)s కన్నా పాతది",
-	"archivebot-page-summary": "బాటు : %(count)d {{PLURAL:%(count)d|థ్రెడ్|థ్రెడ్లు}} (%(why)s) లను  %(archives)s కు ఆర్ఖైవ్ చేస్తున్నాము."
+	"archivebot-page-summary": "బాటు : %(count)d {{PLURAL:%(count)d|థ్రెడ్|థ్రెడ్లు}} (%(why)s) లను  %(archives)s కు ఆర్ఖైవ్ చేస్తున్నాము"
 }

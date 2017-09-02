@@ -6,7 +6,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ܐܪܫܝܦܐ ܡܠܝܐ)",
-	"archivebot-archive-summary": "ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} ܡܢ [[%(from)s]].",
+	"archivebot-archive-summary": "ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} ܡܢ [[%(from)s]]",
 	"archivebot-older-than": "ܥܬܝܩ ܡܢ",
-	"archivebot-page-summary": "ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} (%(why)s) ܠ %(archives)s."
+	"archivebot-page-summary": "ܐܪܫܦܬܐ %(count)d {{PLURAL:%(count)d|ܡܠܘܐܐ|ܡܠܘ̈ܐܐ}} (%(why)s) ܠ %(archives)s"
 }

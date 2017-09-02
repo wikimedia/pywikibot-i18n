@@ -7,8 +7,8 @@
 		]
 	},
 	"archivebot-archive-full": "(الأرشيف ممتلئ)",
-	"archivebot-archive-summary": "بوت: أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} من [[%(from)s]].",
+	"archivebot-archive-summary": "بوت: أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} من [[%(from)s]]",
 	"archivebot-archiveheader": "{{أرشيف نقاش}}",
 	"archivebot-older-than": "أقدم من %(duration)s",
-	"archivebot-page-summary": "بوت: أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} (%(why)s) إلى %(archives)s."
+	"archivebot-page-summary": "بوت: أرشفة %(count)d {{PLURAL:%(count)d|موضوع|مواضيع}} (%(why)s) إلى %(archives)s"
 }

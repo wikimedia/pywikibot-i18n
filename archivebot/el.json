@@ -7,7 +7,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)",
-	"archivebot-archive-summary": "Ρομπότ: Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]] συνολικά.",
+	"archivebot-archive-summary": "Ρομπότ: Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]] συνολικά",
 	"archivebot-older-than": "παλαιότερο από %(duration)s",
-	"archivebot-page-summary": "Ρομπότ:Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s."
+	"archivebot-page-summary": "Ρομπότ:Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s"
 }

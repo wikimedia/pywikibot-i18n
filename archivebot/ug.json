@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ئارخىپ لىق)",
-	"archivebot-archive-summary": "ماشىنا ئادەم: [[%(from)s]]دىن %(count)d {{PLURAL:%(count)d|جەريان|جەريان}}نى ئارخىپلاۋاتىدۇ.",
+	"archivebot-archive-summary": "ماشىنا ئادەم: [[%(from)s]]دىن %(count)d {{PLURAL:%(count)d|جەريان|جەريان}}نى ئارخىپلاۋاتىدۇ",
 	"archivebot-older-than": "كونا",
-	"archivebot-page-summary": "ماشىنا ئادەم: %(count)d {{PLURAL:%(count)d|جەريان|جەريان}} (%(why)s) نى %(archives)sغا ئاخىپلاۋاتىدۇ."
+	"archivebot-page-summary": "ماشىنا ئادەم: %(count)d {{PLURAL:%(count)d|جەريان|جەريان}} (%(why)s) نى %(archives)sغا ئاخىپلاۋاتىدۇ"
 }

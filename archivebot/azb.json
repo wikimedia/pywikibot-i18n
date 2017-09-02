@@ -7,7 +7,7 @@
 		]
 	},
 	"archivebot-archive-full": "(آرشیو دوْلودور)",
-	"archivebot-archive-summary": "آرشیو%(count)d {{PLURAL:%(count)d|دانیشیق|دانیشیق}} از [[%(from)s]].",
+	"archivebot-archive-summary": "آرشیو%(count)d {{PLURAL:%(count)d|دانیشیق|دانیشیق}} از [[%(from)s]]",
 	"archivebot-older-than": "%(duration)s-دن داها اسکی",
-	"archivebot-page-summary": "بوت: آرشیوائدیر: %(count)d باشلیق(%(why)s) بورایا: %(archives)s."
+	"archivebot-page-summary": "بوت: آرشیوائدیر: %(count)d باشلیق(%(why)s) بورایا: %(archives)s"
 }

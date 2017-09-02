@@ -7,7 +7,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARKIVA ËSHTË E MBUSHUR PLOT)",
-	"archivebot-archive-summary": "Roboti: Duke arkivuar %(count)d {{PLURAL:%(count)d|temën|temat}} nga [[%(from)s]].",
+	"archivebot-archive-summary": "Roboti: Duke arkivuar %(count)d {{PLURAL:%(count)d|temën|temat}} nga [[%(from)s]]",
 	"archivebot-older-than": "më e vjetër se",
-	"archivebot-page-summary": "Bot: Arkivimi i %(count)d {{PLURAL:%(count)d|temës|temave}} (%(why)s) në %(archives)s."
+	"archivebot-page-summary": "Bot: Arkivimi i %(count)d {{PLURAL:%(count)d|temës|temave}} (%(why)s) në %(archives)s"
 }
