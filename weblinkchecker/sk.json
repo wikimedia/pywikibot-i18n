@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"TomášPolonec"
 		]
 	},
 	"weblinkchecker-archive_msg": "Webová stránka je uložená v projekte Internet Archive. Zvážte prosím, či nepoužiť odkaz na príslušnú archivovanú verziu [%(URL)s].",
+	"weblinkchecker-badurl": "Uvedený odkaz za nezdá byť platným URL",
 	"weblinkchecker-caption": "Mŕtvy odkaz",
 	"weblinkchecker-report": "Počas niekoľkých automatických pokusov bol nasledovný externý odkaz nedostupný. Overte prosím, či je skutočne nedostupný a pokiaľ áno, opravte ho alebo odstráňte.",
 	"weblinkchecker-summary": "Robot: Nedostupný externý odkaz"

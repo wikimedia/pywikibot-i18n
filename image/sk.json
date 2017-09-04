@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"image-remove": "Bot: Odstránenie obrázka %(file)s",
+	"image-replace": "Bot: Nahradenie obrázka %(old)s za %(new)s"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"unprotect-category": "Bot: Odomknutie všetkých stránok v kategórii %(cat)s",
+	"unprotect-images": "Bot: Odomknutie všetkých súborov na stránke %(page)s",
+	"unprotect-links": "Bot: Odomknutie všetkých stránok, na ktoré sa odkazuje z %(page)s",
+	"unprotect-ref": "Bot: Odomknutie všetkých stránok spomenutých na stránke %(page)s",
+	"unprotect-simple": "Bot: Odomknutie súborov zo zoznamu"
+}

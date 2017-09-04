@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"revertbot-revert": "Bot: Revert na revíziu %(revid)s od %(author)s z %(timestamp)s"
+}

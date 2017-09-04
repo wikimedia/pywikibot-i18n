@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"remove_edp_images-edit-summary": "Bot: Oprava použitia obrázku podľa EDP: [[%(title)s]]"
+}

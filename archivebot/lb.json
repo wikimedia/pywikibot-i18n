@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIV VOLL)",
-	"archivebot-archive-summary": "Archivéierung vu(n) %(count)d {{PLURAL:%(count)d|Thread|Threads}} vu(n) [[%(from)s]]",
+	"archivebot-archive-summary": "Bot: Archivéierung vu(n) %(count)d {{PLURAL:%(count)d|Thread|Threads}} vu(n) [[%(from)s]]",
 	"archivebot-older-than": "méi al wéi %(duration)s",
-	"archivebot-page-summary": "%(count)d {{PLURAL:%(count)d|Thread|Threads}} (%(why)s) ginn an %(archives)s archivéiert"
+	"archivebot-page-summary": "Bot: %(count)d {{PLURAL:%(count)d|Thread|Threads}} (%(why)s) ginn an %(archives)s archivéiert"
 }

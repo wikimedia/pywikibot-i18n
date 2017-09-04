@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"TomášPolonec"
 		]
 	},
 	"pywikibot-enter-category-name": "Zadajte názov kategórie:",
@@ -10,5 +11,7 @@
 	"pywikibot-enter-namespace-number": "Zadajte číslo menného priestoru:",
 	"pywikibot-enter-new-text": "Zadajte nový text:",
 	"pywikibot-enter-page-processing": "Ktorá stránka má byť spracovaná?",
-	"pywikibot-enter-xml-filename": "Zadajte názov súboru s XML výpisom:"
+	"pywikibot-enter-xml-filename": "Zadajte názov súboru s XML výpisom:",
+	"pywikibot-fixes-html": "Bot: prevod/oprava HTML",
+	"pywikibot-fixes-syntax": "Bot: Oprava wikisyntaxe"
 }

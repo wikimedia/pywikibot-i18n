@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"TomášPolonec"
+		]
+	},
+	"piper-edit-summary": "Bot: Text článku prešiel cez %(filters)s"
+}

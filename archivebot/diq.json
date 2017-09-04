@@ -6,7 +6,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARŞİV PÊRO)",
-	"archivebot-archive-summary": "Boti [[%(from)s]] ra ke arşiv; pela da %(count)d {{PLURAL:%(count)d|pine|piney}} ra sernuşte  ",
+	"archivebot-archive-summary": "Boti [[%(from)s]] ra ke arşiv; pela da %(count)d {{PLURAL:%(count)d|pine|piney}} ra sernuşte",
 	"archivebot-archiveheader": "{{talk archive}}",
 	"archivebot-older-than": "tewr verên %(duration)s",
 	"archivebot-page-summary": "Boti %(count)d ke arşiv {{PLURAL:%(count)d|sernuşte|sernuşte}} (%(why)s) berd: %(archives)s"
