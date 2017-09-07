@@ -5,12 +5,13 @@
 			"Gomoko",
 			"Rastus Vernon",
 			"Ricordisamoa",
-			"Xqt"
+			"Xqt",
+			"Verdy p"
 		]
 	},
 	"archivebot-archive-full": "(ARCHIVE SATURÉE)",
-	"archivebot-archive-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} depuis [[%(from)s]]",
+	"archivebot-archive-summary": "Robot : archivage de %(count)d sujet{{PLURAL:%(count)d||s}} depuis [[%(from)s]]",
 	"archivebot-archiveheader": "{{Archive de discussion}}",
 	"archivebot-older-than": "plus ancien que %(duration)s",
-	"archivebot-page-summary": "Robot : Archivage de %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) vers %(archives)s"
+	"archivebot-page-summary": "Robot : archivage de %(count)d sujet{{PLURAL:%(count)d||s}} (%(why)s) vers %(archives)s"
 }

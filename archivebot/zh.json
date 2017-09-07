@@ -9,8 +9,8 @@
 		]
 	},
 	"archivebot-archive-full": "（存档已满）",
-	"archivebot-archive-summary": "机器人：存档来自[[%(from)s]]的%(count)d个{{PLURAL:%(count)d|讨论}}。",
+	"archivebot-archive-summary": "机器人：存档来自[[%(from)s]]的%(count)d个{{PLURAL:%(count)d|讨论}}",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-older-than": "早于%(duration)s",
-	"archivebot-page-summary": "机器人：存档%(count)d个{{PLURAL:%(count)d|帖子}}（%(why)s）至%(archives)s。"
+	"archivebot-page-summary": "机器人：存档%(count)d个{{PLURAL:%(count)d|帖子}}（%(why)s）至%(archives)s"
 }
