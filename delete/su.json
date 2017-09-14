@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Uchup19"
+		]
+	},
+	"delete-from-category": "Bot: Mupus sakum kaca ti kategori %(page)s",
+	"delete-from-file": "Bot: Mupus daftar kaca.",
+	"delete-images": "Bot: Mupus sakum gambar dina kaca %(page)s",
+	"delete-linked-pages": "Bot: Mupus sakum kaca nu numbu ti %(page)s",
+	"delete-referring-pages": "Bot: Mupus sakum kaca nu nojo ti %(page)s"
+}

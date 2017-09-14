@@ -10,5 +10,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "TALATAH BOT",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Sawala Anyar",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Iber",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Talatah paringetan bot: %(page)s \"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
 }

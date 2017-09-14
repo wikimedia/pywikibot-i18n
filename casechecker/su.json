@@ -5,6 +5,7 @@
 		]
 	},
 	"casechecker-delete-reason": "Ieu pangalihan dipaké ngarujuk ka %(target)s",
+	"casechecker-delete-summary": "Bot: Ieu alihan maké aksara Kiril jeung Latin dina judulna",
 	"casechecker-rename": "Bot: ganti kapitalisasi nu pacampur",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Bot: Gagantian kapitalisasi:"

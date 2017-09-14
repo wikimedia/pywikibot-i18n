@@ -4,12 +4,13 @@
 			"Grondin",
 			"Ricordisamoa",
 			"SMP",
-			"Xqt"
+			"Xqt",
+			"Abella"
 		]
 	},
 	"archivebot-archive-full": "(ARXIU PLE)",
-	"archivebot-archive-summary": "Robot: arxivant %(count)d {{PLURAL:%(count)d|fil|fils}} de discussió de [[%(from)s]]",
+	"archivebot-archive-summary": "Robot: {{PLURAL:%(count)d|S'està arxivant %(count)d fil|S'estan arxivant %(count)d fils}} procedents de [[%(from)s]]",
 	"archivebot-archiveheader": "{{Discussió arxivada}}",
 	"archivebot-older-than": "més antic que %(duration)s",
-	"archivebot-page-summary": "Robot: Arxivant %(count)d fils de discussió (%(why)s) a %(archives)s"
+	"archivebot-page-summary": "Robot: {{PLURAL:%(count)d|S'està arxivant %(count)d fil|S'estan arxivant %(count)d fils}} (%(why)s) a %(archives)s"
 }

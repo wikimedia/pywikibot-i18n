@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Uchup19"
+		]
+	},
+	"template-changing": "Bot: Ngarobah {{PLURAL:%(num)d|sacitakan|citakan}}: %(list)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Uchup19"
+		]
+	},
+	"noreferences-add-tag": "Bot: Nambahan tag <references /> nu leungit",
+	"noreferences-fix-tag": "Bot: Ngoméan sintaksis tag <references /> nu teu sah"
+}

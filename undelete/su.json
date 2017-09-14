@@ -4,5 +4,7 @@
 			"Uchup19"
 		]
 	},
-	"undelete-from-file": "Bot: Bolay pamupusan daptar kaca"
+	"undelete-from-file": "Bot: Bolay pamupusan daptar kaca",
+	"undelete-images": "Bot: Ngabolaykeun pamupusan sakum gambar dina kaca %(page)s",
+	"undelete-linked-pages": "Bot: Ngabolaykeun pamupusan sakum gambar nu numbu ti %(page)s"
 }

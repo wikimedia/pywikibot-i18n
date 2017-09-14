@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Uchup19"
+		]
+	},
+	"image-remove": "Bot: Mupus gambar %(file)s",
+	"image-replace": "Bot: Ngaganti gambar %(old)s ku %(new)s"
+}

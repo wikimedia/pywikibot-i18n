@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiKaruhun"
+			"WikiKaruhun",
+			"Uchup19"
 		]
 	},
-	"archivebot-archive-full": "(ARSIP PINUH)"
+	"archivebot-archive-full": "(ARSIP PINUH)",
+	"archivebot-older-than": "leuwih liwa batan %(duration)s",
+	"archivebot-page-summary": "Bot: Ngarsipkeun %(count)d {{PLURAL:%(count)d|salambaran|lambaran}} (%(why)s) ka %(archives)s"
 }
