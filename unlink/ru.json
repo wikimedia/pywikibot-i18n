@@ -3,8 +3,9 @@
 		"authors": [
 			"Eleferen",
 			"Volkov",
-			"Amire80"
+			"Amire80",
+			"Helpau"
 		]
 	},
-	"unlink-unlinking": "Бот: удаление ссылки «%(title)s»"
+	"unlink-unlinking": "Бот: удаление ссылки \"%(title)s\""
 }

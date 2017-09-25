@@ -4,5 +4,6 @@
 			"Muhammad Shuaib"
 		]
 	},
+	"imagetransfer-file_page_message": "یہ تصویر %(site)s سے ماخوذ ہے۔ اس کی اصل وضاحت حسب ذیل ہے:\n\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "اب فائل ویکیمیڈیا کامنز پر دستیاب ہے۔"
 }

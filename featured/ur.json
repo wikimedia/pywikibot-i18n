@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"featured-featured": "روبہ: %(page)s ایک منتخب مضمون ہے",
+	"featured-former": "روبہ: %(page)s ایک سابقہ منتخب مضمون ہے",
+	"featured-good": "روبہ: %(page)s بہترین مضمون ہے",
+	"featured-list": "روبہ: %(page)s ایک منتخب فہرست ہے"
+}

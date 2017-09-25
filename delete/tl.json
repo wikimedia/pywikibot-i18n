@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"AnakngAraw"
+			"AnakngAraw",
+			"Ianlopez1115"
 		]
 	},
 	"delete-from-category": "Robot: Binubura ang lahat ng mga pahina mula sa kategoryang %(page)s",
-	"delete-from-file": "Robot: Binubura ang isang listahan ng mga talaksan.",
+	"delete-from-file": "Bot: Binubura ang isang listahan ng mga pahina.",
 	"delete-images": "Robot: Binubura ang lahat ng mga larawan na nasa pahinang %(page)s",
 	"delete-linked-pages": "Robot: Binubura ang lahat ng mga pahinang nakakawing mula sa %(page)s",
 	"delete-referring-pages": "Robot: Binubura ang lahat ng mga pahinang tinutukoy mula sa %(page)s"

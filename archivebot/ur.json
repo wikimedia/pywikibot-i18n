@@ -6,5 +6,7 @@
 		]
 	},
 	"archivebot-archive-full": "(وثق پر ہے)",
-	"archivebot-archiveheader": "{{وثق تبادلۂ خیال}}"
+	"archivebot-archive-summary": "روبہ: [[%(from)s]] کے %(count)d {{PLURAL:%(count)d|موضوع|موضوعات}} کی وثق سازی",
+	"archivebot-archiveheader": "{{وثق تبادلۂ خیال}}",
+	"archivebot-older-than": "%(duration)s سے قدیم"
 }
