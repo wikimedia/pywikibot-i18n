@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Zoranzoki21"
 		]
 	},
 	"archivebot-archive-full": "(АРХИВА ЈЕ ПУНА)",
 	"archivebot-archive-summary": "Бот: {{PLURAL:%(count)d|архивирана %(count)d тема|архивиране %(count)d теме|архивирано %(count)d тема}} из [[%(from)s]]",
+	"archivebot-archiveheader": "{{страница архива}}",
 	"archivebot-older-than": "старије од %(duration)s",
 	"archivebot-page-summary": "Бот: {{PLURAL:%(count)d|архивирана %(count)d тема|архивиране %(count)d теме|архивирано %(count)d тема}} (%(why)s) у %(archives)s"
 }
