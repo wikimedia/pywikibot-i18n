@@ -1,5 +1,6 @@
 /*!
  * Grunt file
+ * https://gruntjs.com/api/grunt.file
  */
 
 /*jshint node:true */
