@@ -4,10 +4,11 @@
 			"Marmase",
 			"Kumkumuk",
 			"Asmen",
-			"Gırd"
+			"Gırd",
+			"Mirzali"
 		]
 	},
-	"casechecker-delete-reason": "Eno weçarnayış seba ke %(target)i nuqte kero",
+	"casechecker-delete-reason": "Eno serşıkıtış seba ke %(target)s nişan kero, gureniya",
 	"casechecker-delete-summary": "Bot: zerrekê ena hetenayışê cı gorey elıfbaya kiril u latini weyneyêno",
 	"casechecker-rename": "Bot: fına name keno",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
