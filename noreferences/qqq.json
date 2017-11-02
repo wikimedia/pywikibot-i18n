@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Csisc",
-			"Xqt"
+			"Xqt",
+			"Wladek92"
 		]
 	},
-	"noreferences-add-tag": "Edit summary when the bot adds a missing <code><references /></code> tag to the references section and if needed the section itself.\n\nDo not translate <code><references /></code>.",
+	"noreferences-add-tag": "Edit summary when the bot adds a missing <code><references /></code> tag to the references section and if needed the section itself.",
 	"noreferences-fix-tag": "Edit summary when the bot corrects the syntax of a <code><references /></code> tag.\n\nDo not translate <code><references /></code>."
 }
