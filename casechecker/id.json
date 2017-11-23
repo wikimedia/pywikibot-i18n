@@ -5,12 +5,13 @@
 			"C5st4wr6ch",
 			"Ezagren",
 			"Rachmat.Wahidi",
-			"Rachmat04"
+			"Rachmat04",
+			"Hidayatsrf"
 		]
 	},
 	"casechecker-delete-reason": "Pengalihan ini digunakan untuk merujuk ke %(target)s",
 	"casechecker-delete-summary": "Bot: Pengalihan ini menggunakan aksara Kiril dan Latin pada judulnya",
-	"casechecker-rename": "Bot: ganti kapitalisasi yang bercampur",
+	"casechecker-rename": "Bot: mengganti kapitalisasi yang bercampur",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Bot: Penggantian kapitalisasi:"
 }
