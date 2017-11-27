@@ -12,9 +12,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{destruir|1=Bot: la página a la que ésta redirige no existe}}",
-	"redirect-fix-broken-moved": "Bot: arreglo la redirección rota hacia la página de destino trasladada \"%(to)s\"",
-	"redirect-fix-double": "Bot: arreglo de redirección doble a %(to)s",
-	"redirect-fix-loop": "Bot: arreglo de redirección infinita a %(to)s",
-	"redirect-remove-broken": "Bot: Redirige a una página borrada o que no existe",
+	"redirect-fix-broken-moved": "Bot: corrección de redirección rota hacia la página de destino trasladada «%(to)s»",
+	"redirect-fix-double": "Bot: corrección de redirección doble a %(to)s",
+	"redirect-fix-loop": "Bot: corrección de redirección infinita a %(to)s",
+	"redirect-remove-broken": "Bot: redirige a una página borrada o que no existe",
 	"redirect-remove-loop": "Bot: el destino de la redirección crea un bucle de redirección"
 }

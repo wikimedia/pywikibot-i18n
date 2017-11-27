@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Erdemaslancan",
-			"Gırd"
+			"Gırd",
+			"Mirzali"
 		]
 	},
 	"featured-featured": "Boti pera %(page)s yew [[Wikipedia:Weş wesiqe|Weş wesiqeya]]",
-	"featured-former": "Boti pera %(page)s veror [[Wikipedia:Weş wesiqeya verên|Weş wesiqeya verênan]] ra yew biya",
+	"featured-former": "Bot: %(page)s yew meqaleyo verêno",
 	"featured-good": "Boti pera %(page)s yew [[Wikipedia:Wesiqaya qeliteyın|Nuşteyo qeliteyıno]]",
 	"featured-list": "Boti pera %(page)s yew [[Wikipedia:Weş listey|Weş listeya]]"
 }
