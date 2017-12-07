@@ -10,7 +10,7 @@
 	},
 	"category-adding": "Robot: přidání kategorie [[:Kategorie:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(také v %(alsocat)s)",
-	"category-changing": "Robot: změna %(oldcat)s na %(newcat)s",
+	"category-changing": "Robot: nahrazení kategorie %(oldcat)s",
 	"category-listifying": "Robot: vytvoření seznamu z %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položek}})",
 	"category-removing": "Robot: odstranění kategorie %(oldcat)s",
 	"category-renamed": "Robot: přesunuto z %(oldcat)s, autoři: %(authors)s",
