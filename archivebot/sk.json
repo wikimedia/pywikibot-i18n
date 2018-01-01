@@ -4,12 +4,13 @@
 			"Teslaton",
 			"Wizzard",
 			"Xqt",
-			"Mikulas1"
+			"Mikulas1",
+			"Kusavica"
 		]
 	},
 	"archivebot-archive-full": "(ARCHÍV JE PLNÝ)",
 	"archivebot-archive-summary": "Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} z [[%(from)s]]",
 	"archivebot-archiveheader": "{{Archív koniec}}",
 	"archivebot-older-than": "staršie ako %(duration)s",
-	"archivebot-page-summary": "Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} (%(why)s) do %(archives)s"
+	"archivebot-page-summary": "Bot: archivujem %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} (%(why)s) do %(archives)s"
 }
