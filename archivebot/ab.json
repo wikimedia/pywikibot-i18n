@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Андрей"
+		]
+	},
+	"archivebot-archive-full": "(АРХИВ ҬӘУП)",
+	"archivebot-archive-summary": "Бот: Архивтәра %(count)d {{PLURAL:%(count)d|темы|тем}} с [[%(from)s]]",
+	"archivebot-older-than": "еиҳабуп, %(duration)s аасҭа",
+	"archivebot-page-summary": "Бот: Архивтәра %(count)d {{PLURAL:%(count)d|темы|тем}} (%(why)s) в %(archives)s"
+}
