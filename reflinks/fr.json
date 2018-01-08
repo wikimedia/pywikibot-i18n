@@ -6,6 +6,6 @@
 		]
 	},
 	"reflinks-autogen": "auto-généré",
-	"reflinks-comment": "Titre généré automatiquement",
+	"reflinks-comment": "Titre généré par robot",
 	"reflinks-msg": "Bot : Conversion des références mal formatées, en utilisant les références nommées afin d'éviter les doublons, voir  [[%(manual)s|FAQ]]"
 }

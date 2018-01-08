@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Андрей"
+		]
+	},
+	"category-adding": "Бот: акатегориа ацҵара [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(иара убас %(alsocat)s аҟны)",
+	"category-changing": "Бот иаҧсахит: %(oldcat)s %(newcat)s ала"
+}
