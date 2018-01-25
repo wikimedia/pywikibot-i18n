@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jkb8"
+			"Jkb8",
+			"Athena in Wonderland"
 		]
 	},
-	"checkimages-source-tag-comment": "Bot: Marcação de um arquivo sem etiquetas recém-carregado",
+	"checkimages-source-tag-comment": "Robô: Marcação de um ficheiro sem etiquetas carregado recentemente",
 	"checkimages-source-notice-comment": "Robô: Solicitando informação sobre a fonte."
 }
