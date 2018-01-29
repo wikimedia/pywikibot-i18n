@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"spellcheck-checking": "Провера правописа помоћу бота."
+	"spellcheck-checking": "Провера правописа помоћу бота"
 }

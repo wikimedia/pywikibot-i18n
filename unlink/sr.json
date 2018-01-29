@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"unlink-unlinking": "Бот: уклоњена веза „%(title)s“."
+	"unlink-unlinking": "Бот: уклоњена веза „%(title)s“"
 }

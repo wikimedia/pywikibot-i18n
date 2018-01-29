@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"revertbot-revert": "Бот: враћено на измену %(revid)s корисника %(author)s од %(timestamp)s."
+	"revertbot-revert": "Бот: враћено на измену %(revid)s корисника %(author)s од %(timestamp)s"
 }

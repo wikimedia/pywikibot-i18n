@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"protect-category": "Бот: заштићене све странице из категорије %(cat)s.",
-	"protect-images": "Бот: заштићене све слике на страници %(page)s.",
-	"protect-links": "Бот: заштићене све странице повезане са %(page)s.",
-	"protect-ref": "Бот: заштићене све странице које воде до %(page)s.",
-	"protect-simple": "Бот: заштићен списак датотека."
+	"protect-category": "Бот: заштићене све странице из категорије %(cat)s",
+	"protect-images": "Бот: заштићене све слике на страници %(page)s",
+	"protect-links": "Бот: заштићене све странице повезане са %(page)s",
+	"protect-ref": "Бот: заштићене све странице које воде до %(page)s",
+	"protect-simple": "Бот: заштићен списак датотека"
 }

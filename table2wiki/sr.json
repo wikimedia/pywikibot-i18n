@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"table2wiki-no-warning": "Бот којим управља корисник: ажурирана синтакса табеле.",
+	"table2wiki-no-warning": "Бот којим управља корисник: ажурирана синтакса табеле",
 	"table2wiki-warnings": "Бот којим управља корисник: ажурирана синтакса табеле ({{PLURAL:count|1 упозорење|%(count)d упозорења|%(count)d упозорења}})."
 }

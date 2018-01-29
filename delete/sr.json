@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"delete-from-category": "Бот: избрисане све странице из категорије %(page)s.",
+	"delete-from-category": "Бот: избрисане све странице из категорије %(page)s",
 	"delete-from-file": "Бот: избрисан списак страница.",
-	"delete-images": "Бот: избрисане све слике на страници %(page)s.",
-	"delete-linked-pages": "Бот: избрисане све странице повезане са %(page)s.",
-	"delete-referring-pages": "Бот: избрисане све странице које воде до %(page)s."
+	"delete-images": "Бот: избрисане све слике на страници %(page)s",
+	"delete-linked-pages": "Бот: избрисане све странице повезане са %(page)s",
+	"delete-referring-pages": "Бот: избрисане све странице које воде до %(page)s"
 }

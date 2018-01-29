@@ -3,7 +3,8 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Sasa Stefanovic"
+			"Sasa Stefanovic",
+			"Acamicamacaraca"
 		]
 	},
 	"pywikibot-enter-category-name": "Унесите име категорије:",
@@ -14,6 +15,6 @@
 	"pywikibot-enter-page-processing": "Коју страницу желите да обрадите?",
 	"pywikibot-enter-xml-filename": "Унесите име XML датотеке исписа стања:",
 	"pywikibot-fixes-fckeditor": "Бот: исправљен HTML уређивача обогаћеног текста.",
-	"pywikibot-fixes-html": "Бот: исправљен HTML.",
-	"pywikibot-fixes-syntax": "Бот: исправљена вики синтакса."
+	"pywikibot-fixes-html": "Бот: исправљен HTML",
+	"pywikibot-fixes-syntax": "Бот: исправљена вики синтакса"
 }

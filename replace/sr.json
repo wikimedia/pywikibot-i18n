@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"replace-replacing": "Бот: аутоматски замењен текст %(description)s."
+	"replace-replacing": "Бот: аутоматски замењен текст %(description)s"
 }

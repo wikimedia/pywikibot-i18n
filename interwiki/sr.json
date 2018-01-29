@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"interwiki-adding": "Бот: додато %(adding)s.",
-	"interwiki-adding-modifying": "Бот: додато %(adding)s; измењено %(modifying)s.",
-	"interwiki-adding-removing": "Бот: додато %(adding)s; уклоњено %(removing)s.",
-	"interwiki-adding-removing-modifying": "Бот: додато %(adding)s; уклоњено %(removing)s; измењено %(modifying)s.",
-	"interwiki-modifying": "Бот: измењено %(modifying)s.",
-	"interwiki-modifying-from": "Бот: измењено %(from)s у %(modifying)s.",
-	"interwiki-removing": "Бот: уклоњено %(removing)s.",
-	"interwiki-removing-modifying": "Бот: уклоњено %(removing)s; измењено %(modifying)s."
+	"interwiki-adding": "Бот: додато %(adding)s",
+	"interwiki-adding-modifying": "Бот: додато %(adding)s; измењено %(modifying)s",
+	"interwiki-adding-removing": "Бот: додато %(adding)s; уклоњено %(removing)s",
+	"interwiki-adding-removing-modifying": "Бот: додато %(adding)s; уклоњено %(removing)s; измењено %(modifying)s",
+	"interwiki-modifying": "Бот: измењено %(modifying)s",
+	"interwiki-modifying-from": "Бот: измењено %(from)s у %(modifying)s",
+	"interwiki-removing": "Бот: уклоњено %(removing)s",
+	"interwiki-removing-modifying": "Бот: уклоњено %(removing)s; измењено %(modifying)s"
 }

@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"add_text-adding": "Бот: додато %(adding)s."
+	"add_text-adding": "Бот: додато %(adding)s"
 }

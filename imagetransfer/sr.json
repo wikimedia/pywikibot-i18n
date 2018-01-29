@@ -3,9 +3,10 @@
 		"authors": [
 			"Sasa Stefanovic",
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
 	"imagetransfer-file_page_message": "Датотека је копирана са %(site)s. Првобитни опис је гласио:\n\n%(description)s",
-	"imagetransfer-nowcommons_notice": "Датотека је сада доступна на Викиостави."
+	"imagetransfer-nowcommons_notice": "Датотека је сада доступна на Остави."
 }

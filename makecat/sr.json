@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"makecat-create": "Бот: направљена или ажурирана категорија [[:Category:%(cat)s|]]."
+	"makecat-create": "Бот: направљена или ажурирана категорија [[:Category:%(cat)s|]]"
 }

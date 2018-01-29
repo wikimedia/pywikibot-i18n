@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
 	"redirect-broken-redirect-template": "{{db-r1}}",
-	"redirect-fix-broken-moved": "Бот: исправљено неисправно преусмерење до премештене циљне странице %(to)s.",
-	"redirect-fix-double": "Бот: исправљена двострука преусмерења у %(to)s.",
-	"redirect-fix-loop": "Бот: исправљена петља преусмерења на %(to)s.",
-	"redirect-remove-broken": "Бот: преусмерење до избрисане или непостојеће странице.",
-	"redirect-remove-loop": "Бот: одредиште преусмерења образује петљу."
+	"redirect-fix-broken-moved": "Бот: исправљено неисправно преусмерење до премештене циљне странице %(to)s",
+	"redirect-fix-double": "Бот: исправљена двострука преусмерења у %(to)s",
+	"redirect-fix-loop": "Бот: исправљена петља преусмерења на %(to)s",
+	"redirect-remove-broken": "Бот: преусмерење до избрисане или непостојеће странице",
+	"redirect-remove-loop": "Бот: одредиште преусмерења образује петљу"
 }

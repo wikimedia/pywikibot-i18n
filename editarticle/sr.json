@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"editarticle-edit": "Ручно уређивање помоћу бота: %(description)s."
+	"editarticle-edit": "Ручно уређивање помоћу бота: %(description)s"
 }

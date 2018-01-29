@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Rancher"
+			"Rancher",
+			"Acamicamacaraca"
 		]
 	},
-	"casechecker-delete-reason": "Преусмерење је претходно водило до %(target)s.",
-	"casechecker-delete-summary": "Бот: преусмерење у наслову садржи ћирилична и латинична слова идентичног изгледа.",
-	"casechecker-rename": "Бот: преименовано са мешаним малим и великим словима.",
+	"casechecker-delete-reason": "Преусмерење је претходно водило до %(target)s",
+	"casechecker-delete-summary": "Бот: преусмерење у наслову садржи ћирилична и латинична слова идентичног изгледа",
+	"casechecker-rename": "Бот: преименовано са мешаним малим и великим словима",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Бот: замене малих и великих слова:"
 }
