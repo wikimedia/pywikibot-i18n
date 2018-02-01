@@ -20,7 +20,7 @@
 	"category-renamed": "Bot: trasladada desde %(oldcat)s. Autores: %(authors)s",
 	"category-replacing": "Bot: reemplazo de categoría %(oldcat)s por %(newcat)s",
 	"category-section-title": "Historial de la página de %(oldcat)s previos",
-	"category-strip-cfd-templates": "Bot: eliminando plantillas para acción completada",
+	"category-strip-cfd-templates": "Bot: eliminando plantillas de CFD por finalización de la discusión",
 	"category-version-history": "Bot: guardado de historial de la %(oldcat)s anterior",
 	"category-was-disbanded": "Bot: la categoría fue eliminada",
 	"category-was-moved": "Bot: categoría movida a «[[:Category:%(newcat)s|%(title)s]]»"
