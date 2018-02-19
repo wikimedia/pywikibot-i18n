@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Dbc334",
-			"Mateju"
+			"Mateju",
+			"Fanjiayi"
 		]
 	},
-	"redirect-broken-redirect-template": "{{delete}}",
+	"redirect-broken-redirect-template": "{{delete|[[wikipedia:wp:g1|g1]]}}",
 	"redirect-fix-broken-moved": "Robot: Popravljanje okvarjene povezave preusmeritve na premaknjeno ciljno stran %(to)s",
 	"redirect-fix-double": "Bot: Popravljanje dvojnih preusmeritev na %(to)s",
 	"redirect-fix-loop": "Robot: Popravljanje preusmeritvene zanke na %(to)s",
