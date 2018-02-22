@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"John Reid"
+			"John Reid",
+			"Sureshkhole"
 		]
 	},
-	"noreferences-add-tag": "Robot: Adding tint <references /> tag"
+	"noreferences-add-tag": "bot: जोडत आहे <संदर्भ /> tag"
 }

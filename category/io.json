@@ -1,10 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Malafaya"
+			"Malafaya",
+			"Joao Xavier"
 		]
 	},
 	"category-adding": "roboto adjuntas: category [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-changing": "roboto modifikas: %(oldcat)s",
+	"category-also-in": "(ank en %(alsocat)s)",
+	"category-changing": "roboto modifikas: %(oldcat)s a %(newcat)s",
+	"category-listifying": "Bot: Kreado di listi de %(fromcat)s ({{PLURAL:%(num)d|1 exemplaro|%(num)d exemplari}})",
+	"category-removing": "Bot: Eskarto de %(oldcat)s",
+	"category-renamed": "Bot: Movita de %(oldcat)s. Autori: %(authors)s",
+	"category-replacing": "Bot: Remplaso dil anciena %(oldcat)s kategorio per la nova %(newcat)s",
+	"category-section-title": "Kronologio dil anciena %(oldcat)s",
+	"category-strip-cfd-templates": "Bot: Removing CFD templates for completed action",
+	"category-version-history": "Bot: Prezervo di la kronologio dil antea %(oldcat)s versioni",
+	"category-was-disbanded": "Bot: Ica kategorio dispersesis",
 	"category-was-moved": "roboto: Kategorio movesis a(d) [[:Category:%(newcat)s|%(title)s]]"
 }
