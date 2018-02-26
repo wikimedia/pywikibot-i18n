@@ -1,8 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Leonardo Gregianin"
-        ]
-    },
-    "unusedfiles-comment": "Bot: images for elimination"
+	"@metadata": {
+		"authors": [
+			"Leonardo Gregianin",
+			"MarcoAurelio"
+		]
+	},
+	"unusedfiles-comment": "Bot: tagging file as orphaned"
 }
