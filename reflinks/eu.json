@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"EukeneFL"
 		]
 	},
 	"reflinks-autogen": "automatikoki sortua",
-	"reflinks-comment": "Botak sortutako izenburua"
+	"reflinks-comment": "Botak sortutako izenburua",
+	"reflinks-msg": "Bot: Erreferentzia sinpleak bihurtzen, erreferentzia izenak erabiliz bikoiztuak saihesteko, ikus [[%(manual)s|FAQ]]"
 }

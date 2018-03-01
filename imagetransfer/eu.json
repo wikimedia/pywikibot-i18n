@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"EukeneFL"
 		]
 	},
+	"imagetransfer-file_page_message": "%(site)s orrialdetik kopiatu da irudia. Jatorrizko deskripzioa hurrengoa zen:\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "Fitxategia Wikimedia Commonsen erabilgarri dago orain."
 }

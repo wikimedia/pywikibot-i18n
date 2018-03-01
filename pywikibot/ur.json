@@ -7,5 +7,6 @@
 	"pywikibot-enter-category-name": "براہ کرم زمرہ کا نام درج کریں:",
 	"pywikibot-enter-new-text": "براہ کرم نیا متن درج کریں:",
 	"pywikibot-enter-page-processing": "کس صفحہ پر کام کرنا چاہیے؟",
-	"pywikibot-fixes-syntax": "روبہ: ویکی صیغوں کی درستی"
+	"pywikibot-fixes-html": "خودکار: ایچ‌ٹی‌ایم‌ایل کی درستی",
+	"pywikibot-fixes-syntax": "خودکار: ویکی صیغوں کی درستی"
 }

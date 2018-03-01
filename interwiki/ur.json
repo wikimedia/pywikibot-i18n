@@ -4,12 +4,12 @@
 			"Muhammad Shuaib"
 		]
 	},
-	"interwiki-adding": "روبہ: اضافہ %(adding)s",
-	"interwiki-adding-modifying": "روبہ: اضافہ %(adding)s؛ ترمیم %(modifying)s",
-	"interwiki-adding-removing": "روبہ: اضافہ %(adding)s؛ حذف: %(removing)s",
-	"interwiki-adding-removing-modifying": "روبہ: اضافہ %(adding)s؛ حذف %(removing)s؛ ترمیم %(modifying)s",
-	"interwiki-modifying": "روبہ: ترمیم %(modifying)s",
-	"interwiki-modifying-from": "روبہ: تبدیلی %(from)s بجانب %(modifying)s",
-	"interwiki-removing": "روبہ: حذف %(removing)s",
-	"interwiki-removing-modifying": "روبہ: حذف %(removing)s؛ ترمیم %(modifying)s"
+	"interwiki-adding": "خودکار: اضافہ %(adding)s",
+	"interwiki-adding-modifying": "خودکار: اضافہ %(adding)s؛ ترمیم %(modifying)s",
+	"interwiki-adding-removing": "خودکار: اضافہ %(adding)s؛ حذف: %(removing)s",
+	"interwiki-adding-removing-modifying": "خودکار: اضافہ %(adding)s؛ حذف %(removing)s؛ ترمیم %(modifying)s",
+	"interwiki-modifying": "خودکار: ترمیم %(modifying)s",
+	"interwiki-modifying-from": "خودکار: %(from)s کی %(modifying)s کی جانب تبدیلی",
+	"interwiki-removing": "خودکار: حذف %(removing)s",
+	"interwiki-removing-modifying": "خودکار: حذف %(removing)s؛ ترمیم %(modifying)s"
 }

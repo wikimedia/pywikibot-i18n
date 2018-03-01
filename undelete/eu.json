@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"EukeneFL"
 		]
 	},
 	"undelete-from-file": "Bot: Orrialde-zerrenda bat berreskuratzen.",
-	"undelete-images": "Bot: %(page)s orrialdeko irudi guztiak berreskuratzen"
+	"undelete-images": "Bot: %(page)s orrialdeko irudi guztiak berreskuratzen",
+	"undelete-linked-pages": "Bot: %(page)s-(e)kin lotutako orrialde guztiak berreskuratzen"
 }

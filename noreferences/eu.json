@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"EukeneFL"
 		]
 	},
-	"noreferences-add-tag": "Bot-a: Falta den <references /> etiketa eransten"
+	"noreferences-add-tag": "Bot-a: Falta den <references /> etiketa eransten",
+	"noreferences-fix-tag": "Bot: Konpondu <references /> etiketako baliogabeko sintaxia"
 }

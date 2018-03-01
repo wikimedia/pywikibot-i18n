@@ -4,6 +4,6 @@
 			"Muhammad Shuaib"
 		]
 	},
-	"image-remove": "روبہ: حذف %(file)s",
-	"image-replace": "روبہ: %(old)s تصویر کی %(new)s سے تبدیلی"
+	"image-remove": "خودکار: حذف %(file)s",
+	"image-replace": "خودکار: %(old)s تصویر کی %(new)s سے تبدیلی"
 }

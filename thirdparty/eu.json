@@ -5,7 +5,8 @@
 			"Subi",
 			"Theklan",
 			"Unai Fdz. de Betoño",
-			"An13sa"
+			"An13sa",
+			"EukeneFL"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "%(tags)s etiketa(k) ordezten",
@@ -14,7 +15,15 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT MEZUA",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Eztabaida berria",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Jakinarazpena",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s last edit] (%(page_size)s bytes) %(user)s-(e)k eginda (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s eztabaida guztiak amaitu dira (gainbegiratzea eten da) - azken edizioa %(user)s-(e)k eginda (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nLaburpena sortua hemendik eta hemen: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ez da giza editorerik aurkitu)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - azken edizioa [[User:%(user)s]]-(e)k eginda (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %Y %B %d",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "bota"
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Botaren abisua: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Eztabaida laburpena gehituta: %(num)i sarrerak",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Eztabaida laburpena gehituta garbiketarekin: %(num)i sarrerak",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bota",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Eztabaida laburpena eguneratuta: %(num)i sarrerak %(page)s-(e)n"
 }

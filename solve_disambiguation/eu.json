@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"An13sa"
+			"An13sa",
+			"EukeneFL"
 		]
 	},
+	"solve_disambiguation-adding-dn-template": "Bot-lagundutako desambiguazioa: %(from)s - Adituen arreta behar bezala markatuta",
+	"solve_disambiguation-links-removed": "Bot-lagundutako desambiguazioa: %(from)s - Link(ak) ezabatua(k)",
+	"solve_disambiguation-links-resolved": "Bot-lagundutako desambiguazioa: %(from)s - Linka(k) %(to)s-tara aldatuta",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot-lagundutako desambiguazioa: %(from)s - Adituen arreta behar bezala markatuta",
+	"solve_disambiguation-redirect-removed": "Bot-lagundutako desambiguazioa: %(from)s - Linka(k) ezabatua(k)",
+	"solve_disambiguation-redirect-resolved": "Bot-lagundutako desambiguazioa: %(from)s - Linka(k) %(to)s-tara aldatuta",
 	"solve_disambiguation-unknown-page": "(ezezaguna)"
 }

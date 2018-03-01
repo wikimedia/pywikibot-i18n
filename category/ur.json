@@ -4,6 +4,6 @@
 			"Muhammad Shuaib"
 		]
 	},
-	"category-adding": "روبہ: اضافہ زمرہ [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-changing": "روبہ: %(oldcat)s کی %(newcat)s سے تبدیلی"
+	"category-adding": "خودکار: اضافہ زمرہ [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-changing": "خودکار: %(oldcat)s کی %(newcat)s سے تبدیلی"
 }

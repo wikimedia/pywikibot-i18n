@@ -2,9 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Subi",
-			"An13sa"
+			"An13sa",
+			"EukeneFL"
 		]
 	},
+	"casechecker-delete-reason": "Birzuzendatutako hau erabili da hurrengo %(target)s seinalatzeko",
+	"casechecker-delete-summary": "Bot: Birbideratze honek idazkera ziriliko eta latindar itxura berdina du bere tituluan",
+	"casechecker-rename": "Bot: kasu mistoa izenez aldatu",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Bot: letra larri/txikien ordezkapena"
 }

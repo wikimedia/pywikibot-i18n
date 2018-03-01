@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"EukeneFL"
 		]
 	},
 	"delete-from-category": "Bot: %(page)s kategoriako orrialde guztiak ezabatzen",
 	"delete-from-file": "Bot: Orrialde-zerrenda bat ezabatzen.",
-	"delete-images": "Bot: %(page)s orrialdeko irudi guztiak ezabatzen"
+	"delete-images": "Bot: %(page)s orrialdeko irudi guztiak ezabatzen",
+	"delete-linked-pages": "Bot: %(page)s-(e)kin lotutako orrialde guztiak ezabatzen",
+	"delete-referring-pages": "Bot: %(page)s-(e)tik datozen orrialde guztiak ezabatzen"
 }

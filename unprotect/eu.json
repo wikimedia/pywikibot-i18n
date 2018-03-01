@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"EukeneFL"
 		]
 	},
 	"unprotect-category": "Bot: %(cat)s kategoriako orrialde guztiei babesa kentzen",
 	"unprotect-images": "Bot: %(page)s orrialdeko fitxategi guztiei babesa kentzen",
+	"unprotect-links": "Bot: %(page)s-(e)kin lotutako orrialde guztiak desbabesten",
+	"unprotect-ref": "Bot: %(page)s-(e)kin lotutako orrialde guztiak desbabesten",
 	"unprotect-simple": "Bot: Fitxategi-zerrenda bati babesa kentzen."
 }

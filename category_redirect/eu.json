@@ -2,8 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"An13sa",
-			"Xabier Armendaritz"
+			"Xabier Armendaritz",
+			"EukeneFL"
 		]
 	},
+	"category_redirect-add-template": "Bot: Kategoria birzuzenketarako txantiloia gehitzea mantentze lanetarako",
+	"category_redirect-change-category": "Bot: Birbideratutako kategoria birbideratzen [[:%(oldCatLink)s|%(oldCatTitle)s]] hona [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Mentenimendu birbideratze kategoria bot-a",
+	"category_redirect-edit-request": "Hurrengo babestutako orriak detektatu dira kategoria-esteken eguneratzeak eskatzen dituzten moduan: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s hurrengo honetan %(oldcat)s, hona birbideratu dena %(newcat)s",
 	"category_redirect-fix-double": "Robota: Birbideratze bikoitza konpontzea"
 }

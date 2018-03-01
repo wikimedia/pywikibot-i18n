@@ -1,12 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"EukeneFL"
 		]
 	},
 	"pywikibot-enter-category-name": "Mesedez, sar ezazu kategoriaren izena:",
+	"pywikibot-enter-file-links-processing": "Zer fitxategirako linkak prozesatu beharko lirateke?",
+	"pywikibot-enter-finished-browser": "Arakatzailearekin amaitu eta gero sakatu ENTER",
+	"pywikibot-enter-namespace-number": "Mesedez idatzi izen-espazioa bere zenbakiarekin batera:",
 	"pywikibot-enter-new-text": "Mesedez, sar ezazu testu berria:",
 	"pywikibot-enter-page-processing": "Zein orrialde prozesatu behar da?",
+	"pywikibot-enter-xml-filename": "Sartu XML zaborrontzi-fitxategiaren izena:",
+	"pywikibot-fixes-fckeditor": "Bot: html editore-aberastua konpontzen",
 	"pywikibot-fixes-html": "Bot: HTMLa bihurtzen/konpontzen",
 	"pywikibot-fixes-syntax": "Bot: Wiki-sintaxia zuzentzen"
 }
