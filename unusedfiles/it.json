@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Filnik"
+			"Filnik",
+			"Beta16"
 		]
 	},
-	"unusedfiles-comment": "Bot: segnalo immagine orfana da eliminare"
+	"unusedfiles-comment": "Bot: contrassegno file come orfano"
 }
