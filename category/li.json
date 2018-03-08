@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pahles"
+			"Pahles",
+			"Ooswesthoesbes"
 		]
 	},
 	"category-adding": "Robot: debie category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ouch in %(alsocat)s)",
-	"category-changing": "Robot: verangering %(oldcat)s",
+	"category-changing": "Bot: verangering van %(oldcat)s nao %(newcat)s",
 	"category-listifying": "Robot: lies van %(fromcat)s (%(num)d pagina's)",
 	"category-removing": "Robot: eweggesjaf oet %(oldcat)s",
 	"category-replacing": "Robot: categorie %(oldcat)s is vervange door %(newcat)s",

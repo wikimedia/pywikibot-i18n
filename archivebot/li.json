@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Pahles",
-			"Xqt"
+			"Xqt",
+			"Ooswesthoesbes"
 		]
 	},
 	"archivebot-archive-full": "(ARSJIEF VOL)",
 	"archivebot-archive-summary": "Robot: %(count)d óngerwerp(e) gearchiveerd van [[%(from)s]]",
-	"archivebot-older-than": "auwer es",
+	"archivebot-older-than": "eljer es  %(duration)s",
 	"archivebot-page-summary": "Robot: %(count)d thread(s) gearchiveerd nao %(archives)s (%(why)s)"
 }

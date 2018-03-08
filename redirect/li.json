@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pahles"
+			"Pahles",
+			"Ooswesthoesbes"
 		]
 	},
 	"redirect-broken-redirect-template": "{{delete|Weisdoorverwiezing of doorverwiezing nao eweggesjafde pagina}}",
+	"redirect-fix-broken-moved": "Bot: verbaetert kepótte redirek door aanpassing nao verplaatsde doelpagina %(to)s",
 	"redirect-fix-double": "Robot: dobbel doorverwiezing aangepas nao %(to)s",
-	"redirect-remove-broken": "Robot: de doelpagina van de doorverwiezing besjteit neet",
-	"redirect-remove-loop": "Doorverwiezing vörmp 'n óneindige lus"
+	"redirect-fix-loop": "Bot: maak redirekkrink nao %(to)s",
+	"redirect-remove-broken": "Bot: doelpagina van de redirek besteit neet",
+	"redirect-remove-loop": "Bot: Redirek vörmp óninjigende lus"
 }

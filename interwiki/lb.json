@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Les Meloures"
 		]
 	},
 	"interwiki-adding": "Bot: Dobäi setzen: %(adding)s",
 	"interwiki-adding-modifying": "Bot: Dobäi setzen: %(adding)s Änneren: %(modifying)s",
-	"interwiki-adding-removing": "Bot: Dobäisetzen: %(adding)s Ewechhuelen: %(removing)s",
+	"interwiki-adding-removing": "Bot: Derbäisetzen: %(adding)s Ewechhuelen: %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot: Dobäi setzen: %(adding)s Ewech huelen: %(removing)s Änneren: %(modifying)s",
 	"interwiki-modifying": "Bot: Änneren: %(modifying)s",
 	"interwiki-modifying-from": "Bot: Ännere vu(n) %(from)s op %(modifying)s",
