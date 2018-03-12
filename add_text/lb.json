@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Les Meloures"
 		]
 	},
-	"add_text-adding": "Bot: Dobäi setzen %(adding)s"
+	"add_text-adding": "Bot: Derbäisetzen %(adding)s"
 }

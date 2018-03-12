@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Revi"
+			"Revi",
+			"Ykhwong"
 		]
 	},
-	"unusedfiles-comment": "봇: 삭제할 사진들"
+	"unusedfiles-comment": "봇: 파일을 외톨이로 표시"
 }
