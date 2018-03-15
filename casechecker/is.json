@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}

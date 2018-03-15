@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"protect-category": "Vélmenni: Vernda allar síður í flokknum %(cat)s",
+	"protect-images": "Vélmenni: Vernda allir myndir á síðu %(page)s",
+	"protect-links": "Vélmenni: Vernda allar síður sem tengt er í frá %(page)s",
+	"protect-ref": "Vélmenni: Vernda allar síður sem vísað er í frá %(page)s",
+	"protect-simple": "Vélmenni: Vernda lista yfir skrár."
+}

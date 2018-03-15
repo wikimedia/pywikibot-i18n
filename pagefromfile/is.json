@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"pagefromfile-msg_bottom": "bæta við neðst",
+	"pagefromfile-msg_force": "skrifa yfir núverandi texta",
+	"pagefromfile-msg_top": "bæta við efst"
+}

@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Snævar"
+			"Snævar",
+			"Sveinn í Felli"
 		]
 	},
 	"pywikibot-enter-category-name": "Vinsamlegast sláðu inn nafn flokksins:",
-	"pywikibot-enter-file-links-processing": "Tenglar til hverrar myndasíðu á að vinna við?",
+	"pywikibot-enter-file-links-processing": "Tengla á hvaða skráasíðu ætti að vinna með?",
 	"pywikibot-enter-finished-browser": "Ýttu á Enter þegar þú ert búinn í vafranum.",
 	"pywikibot-enter-namespace-number": "Vinsamlegast skrifaðu númer nafnrýmisins:",
 	"pywikibot-enter-new-text": "Vinsamlegast sláðu inn nýja textann:",
