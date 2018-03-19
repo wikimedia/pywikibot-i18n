@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"redirect-fix-loop": "Bot: Reparo di nefinita procedo ('loop') al %(to)s",
+	"redirect-remove-loop": "Bot: La emo di la ridirekto formacas nefinita procedo ('loop')"
+}
