@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Woytecr"
+			"Woytecr",
+			"DeRudySoulStorm"
 		]
 	},
-	"unusedfiles-comment": "Bot: zdjęcia do usunięcia"
+	"unusedfiles-comment": "Bot: oznaczanie pliku jako porzuconego"
 }
