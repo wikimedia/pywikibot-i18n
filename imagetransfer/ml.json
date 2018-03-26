@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp"
+		]
+	},
+	"imagetransfer-file_page_message": "ഈ ചിത്രം %(site)s സൈറ്റിൽ നിന്നും പകർത്തിയതാണ്. യഥാർത്ഥ വിവരണം:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "പ്രമാണം ഇപ്പോൾ വിക്കിമീഡിയ കോമൺസിൽ ലഭ്യമാണ്."
+}
