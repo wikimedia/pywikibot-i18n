@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Octahedron80"
+			"Octahedron80",
+			"Aefgh39622"
 		]
 	},
+	"checkimages-source-tag-comment": "บอต: ทำเครื่องหมายไฟล์ที่ไม่ได้ติดป้ายที่เพิ่งอัปโหลดใหม่",
 	"checkimages-source-notice-comment": "บอต: ร้องขอสารสนเทศแหล่งที่มา"
 }

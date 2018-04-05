@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Тест"
+			"Тест",
+			"Avatar6"
 		]
 	},
-	"movepages-moving": "Робот: перейменування сторінки"
+	"movepages-moving": "[[:mw:Pywikibot|Бот]]: перейменування сторінки"
 }

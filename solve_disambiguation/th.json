@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Octahedron80"
+			"Octahedron80",
+			"Aefgh39622"
 		]
 	},
+	"solve_disambiguation-adding-dn-template": "การแก้ความกำกวมโดยบอตช่วย: %(from)s - ทำเครื่องหมายว่าต้องการคำเตือนผู้เชี่ยวชาญ",
+	"solve_disambiguation-links-removed": "การแก้ความกำกวมโดยบอตช่วย: %(from)s - ลบลิงก์",
+	"solve_disambiguation-links-resolved": "การแก้ความกำกวมโดยบอตช่วย: %(from)s - เปลี่ยนลิงก์เป็น %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "การแก้ความกำกวมโดยบอตช่วย: %(from)s - ทำเครื่องหมายว่าต้องการคำเตือนผู้เชี่ยวชาญ",
+	"solve_disambiguation-redirect-removed": "การแก้ความกำกวมโดยบอตช่วย: %(from)s - ลบลิงก์",
+	"solve_disambiguation-redirect-resolved": "การแก้ความกำกวมโดยบอตช่วย: %(from)s - เปลี่ยนลิงก์เป็น %(to)s",
 	"solve_disambiguation-unknown-page": "(ไม่ทราบ)"
 }

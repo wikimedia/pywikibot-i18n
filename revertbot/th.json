@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"revertbot-revert": "บอต: ย้อนการแก้ไข %(revid)s โดย %(author)s เมื่อ %(timestamp)s"
+}

@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Nullzero",
-			"Octahedron80"
+			"Octahedron80",
+			"Aefgh39622"
 		]
 	},
-	"noreferences-add-tag": "บอต: เพิ่มแท็ก <references /> ที่หายไป"
+	"noreferences-add-tag": "บอต: เพิ่มแท็ก <references /> ที่หายไป",
+	"noreferences-fix-tag": "บอต: แก้ไวยากรณ์ของป้าย <references /> ที่ไม่ถูกต้อง"
 }

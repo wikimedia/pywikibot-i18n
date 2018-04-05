@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Dim Grits",
-			"Emaus"
+			"Emaus",
+			"Avatar6"
 		]
 	},
-	"featured-featured": "Робот: вибрана стаття %(page)s",
-	"featured-former": "Робот: %(page)s є колишньою вибраною статтею",
-	"featured-good": "Робот: добра стаття %(page)s",
+	"featured-featured": "Бот: вибрана стаття %(page)s",
+	"featured-former": "Бот: %(page)s є колишньою вибраною статтею",
+	"featured-good": "Бот: добра стаття %(page)s",
 	"featured-list": "Бот: %(page)s вибраний список"
 }

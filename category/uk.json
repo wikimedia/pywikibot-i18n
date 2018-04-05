@@ -4,7 +4,8 @@
 			"A1",
 			"Base",
 			"Тест",
-			"Ата"
+			"Ата",
+			"Avatar6"
 		]
 	},
 	"category-adding": "Бот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",
@@ -13,7 +14,7 @@
 	"category-listifying": "Робот: складання списку %(fromcat)s із ({{PLURAL:%(num)d|1 запису|%(num)d записів}})",
 	"category-removing": "Бот: видалення з %(oldcat)s",
 	"category-renamed": "Бот: перейменовано з %(oldcat)s. Автори: %(authors)s",
-	"category-replacing": "Робот: заміна категорії %(oldcat)s на %(newcat)s",
+	"category-replacing": "Бот: перекатегоризація з %(oldcat)s на %(newcat)s",
 	"category-section-title": "Історія сторінки колишньої %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: Вилучення CFD-шаблонів для завершених дій",
 	"category-version-history": "Бот: Збереження історії версій колишньої %(oldcat)s",

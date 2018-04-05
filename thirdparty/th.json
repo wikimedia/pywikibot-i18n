@@ -2,14 +2,25 @@
 	"@metadata": {
 		"authors": [
 			"Nullzero",
-			"Octahedron80"
+			"Octahedron80",
+			"Aefgh39622"
 		]
 	},
+	"thirdparty-drtrigonbot-subster-summary-mod": "กำลังทดแทน %(tags)s ป้าย",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "เปลี่ยนการอภิปรายแล้ว",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "ปิดการอภิปรายแล้ว",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ข้อความจากบอต",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "การอภิปรายใหม่",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "การแจ้งเตือน",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s การแก้ไขล่าสุด] (%(page_size)s ไบต์) โดย %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s การอภิปรายทั้งหมดสิ้นสุดแล้ว (หยุดการเฝ้าดูแล้ว) - แก้ไขล่าสุดโดย %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nข้อความสรุปสร้างขึ้นจากและ ณ เวลา: %(sign)s</noinclude>",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(ไม่พบผู้แก้ไขที่เป็นมนุษย์)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - แก้ไขล่าสุดโดย [[User:%(user)s]] (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* ข้อความเตือนจากบอต: %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "บอต"
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "เพิ่มสรุปการอภิปรายแล้ว: %(num)i รายการ",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "เพิ่มสรุปการอภิปรายพร้อมเก็บกวาดแล้ว: %(num)i รายการ",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "บอต",
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "เพิ่มสรุปการอภิปรายแล้ว: %(num)i รายการใน %(page)s หน้า"
 }

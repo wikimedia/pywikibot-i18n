@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Nullzero",
-			"Octahedron80"
+			"Octahedron80",
+			"Aefgh39622"
 		]
 	},
 	"category_redirect-add-template": "บอต: เพิ่มแม่แบบเปลี่ยนทางหมวดหมู่สำหรับการบำรุงรักษา",
 	"category_redirect-change-category": "บอต: เปลี่ยนหมวดหมู่ที่เปลี่ยนทาง [[:%(oldCatLink)s|%(oldCatTitle)s]] ไปยัง [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "บอตบำรุงรักษาหน้าเปลี่ยนทางหมวดหมู่",
+	"category_redirect-edit-request": "หน้าที่ถูกล็อกต่อไปนี้ได้ถูกตรวจพบว่าจำเป็นต้องปรับลิงก์หมวดหมู่: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s อยู่ใน %(oldcat)s ซึ่งเปลี่ยนทางไปยัง %(newcat)s",
 	"category_redirect-fix-double": "บอต: แก้หน้าเปลี่ยนทางซ้ำซ้อน"
 }

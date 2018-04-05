@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"commons-file-moved": "[[:File:%(localfile)s|ไฟล์นี้]]ถูกย้ายไปยัง[[:commons:File:%(commonsfile)s|คอมมอนส์]]แล้ว",
+	"commons-file-now-available": "ไฟล์นี้พร้อมใช้งานบน[[:commons:File:%(commonsfile)s|วิกิมีเดียคอมมอนส์]]แล้ว"
+}

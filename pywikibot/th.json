@@ -2,12 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Nullzero",
-			"Octahedron80"
+			"Octahedron80",
+			"Aefgh39622"
 		]
 	},
 	"pywikibot-enter-category-name": "กรุณาใส่ชื่อหมวดหมู่:",
+	"pywikibot-enter-file-links-processing": "ลิงก์ไปยังหน้าไฟล์ใดควรจะประมวลผล?",
 	"pywikibot-enter-finished-browser": "กด Enter เมื่อทำงานในเบราว์เซอร์เรียบร้อยแล้ว",
 	"pywikibot-enter-namespace-number": "กรุณาใส่หมายเลขของเนมสเปซ:",
 	"pywikibot-enter-new-text": "กรุณาใส่ข้อความใหม่:",
-	"pywikibot-enter-page-processing": "หน้าใดควรจะประมวลผล?"
+	"pywikibot-enter-page-processing": "หน้าใดควรจะประมวลผล?",
+	"pywikibot-enter-xml-filename": "โปรดป้อนชื่อไฟล์ดั๊มพ์ของ XML:",
+	"pywikibot-fixes-fckeditor": "บอต: แก้ html ของตัวแก้ไข rich",
+	"pywikibot-fixes-html": "บอต: แปลง/แก้ HTML",
+	"pywikibot-fixes-syntax": "บอต: แก้ไวยากรณ์วิกิ"
 }
