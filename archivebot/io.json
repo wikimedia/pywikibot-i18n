@@ -6,7 +6,6 @@
 	},
 	"archivebot-archive-full": "(ARKIVO PLENIGITA)",
 	"archivebot-archive-summary": "Bot: konservo %(count)d {{PLURAL:%(count)d|filo|fili}} de [[%(from)s]]",
-	"archivebot-archiveheader": "{{talk archive}}",
 	"archivebot-older-than": "plu anciena kam %(duration)s",
 	"archivebot-page-summary": "Bot: konservo di %(count)d {{PLURAL:%(count)d|filo|fili}} (%(why)s) al %(archives)s"
 }
