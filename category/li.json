@@ -10,7 +10,9 @@
 	"category-changing": "Bot: verangering van %(oldcat)s nao %(newcat)s",
 	"category-listifying": "Robot: lies van %(fromcat)s (%(num)d pagina's)",
 	"category-removing": "Robot: eweggesjaf oet %(oldcat)s",
+	"category-renamed": "Bot: verplaatsde van %(oldcat)s. Sjrievers: %(authors)s",
 	"category-replacing": "Robot: categorie %(oldcat)s is vervange door %(newcat)s",
+	"category-section-title": "Paginahistorie van veurmaolige %(oldcat)s",
 	"category-was-disbanded": "Robot: categorie is opgehöf",
 	"category-was-moved": "Robot: categorie is verplaats nao [[:Category:%(newcat)s|%(title)s]]"
 }

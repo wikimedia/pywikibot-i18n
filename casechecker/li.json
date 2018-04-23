@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"casechecker-delete-reason": "Deze redirek verwies nao %(target)s",
+	"casechecker-delete-summary": "Bot: deze redirek bevat identiek-oetzeendje Cyrillische en Letiens litters in de naam",
+	"casechecker-rename": "Bot: houflitters en klein litters verangerd",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Bot: verangere in klein litters en houflitters:"
+}
