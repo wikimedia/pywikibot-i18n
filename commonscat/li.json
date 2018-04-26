@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"commonscat-msg_change": "Bot: verangert commonscatlink van [[:Commons:Category:%(oldcat)s|%(oldcat)s]] nao [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

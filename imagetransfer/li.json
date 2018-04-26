@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"imagetransfer-file_page_message": "Dit plaetje is gekopieerd vanaaf %(site)s. De besjrieving dao waas:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Dit bestandj steit noe op Wikimedia Commons."
+}

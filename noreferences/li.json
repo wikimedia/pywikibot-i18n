@@ -4,5 +4,6 @@
 			"Ooswesthoesbes"
 		]
 	},
-	"noreferences-add-tag": "Bot: veug óntbraekendje tag <references /> tou"
+	"noreferences-add-tag": "Bot: veug óntbraekendje tag <references /> tou",
+	"noreferences-fix-tag": "Bot: maak ónjuuste syntaxis van label <references />"
 }

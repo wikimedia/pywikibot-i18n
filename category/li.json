@@ -13,6 +13,8 @@
 	"category-renamed": "Bot: verplaatsde van %(oldcat)s. Sjrievers: %(authors)s",
 	"category-replacing": "Robot: categorie %(oldcat)s is vervange door %(newcat)s",
 	"category-section-title": "Paginahistorie van veurmaolige %(oldcat)s",
+	"category-strip-cfd-templates": "Bot: haolt categoriewössjablone eweg veur aafgerunjde hanjeling",
+	"category-version-history": "Bot: sleit versiegesjiechte op van veurmaolige %(oldcat)s",
 	"category-was-disbanded": "Robot: categorie is opgehöf",
 	"category-was-moved": "Robot: categorie is verplaats nao [[:Category:%(newcat)s|%(title)s]]"
 }

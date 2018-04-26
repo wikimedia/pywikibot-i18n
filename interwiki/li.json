@@ -12,6 +12,7 @@
 	"interwiki-adding-removing": "Robot: d'rbie: %(adding)s eweg: %(removing)s",
 	"interwiki-adding-removing-modifying": "Robot: d'rbie: %(adding)s eweg: %(removing)s verangerd: %(modifying)s",
 	"interwiki-modifying": "Robot: verangerd: %(modifying)s",
+	"interwiki-modifying-from": "Bot: veranger van %(from)s nao %(modifying)s",
 	"interwiki-removing": "Robot: eweg: %(removing)s",
 	"interwiki-removing-modifying": "Robot: eweg: %(removing)s verangerd: %(modifying)s"
 }

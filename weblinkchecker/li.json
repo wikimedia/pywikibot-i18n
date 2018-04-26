@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"weblinkchecker-archive_msg": "Dees website is bewaard wore in 't Internet Arsjief. Euverwaeg te link nao 'n gearsjiveerde pagina: [%(URL)s].",
+	"weblinkchecker-badurl": "De link liek geine geljigen URL te zeen",
+	"weblinkchecker-caption": "Doeaje link",
+	"weblinkchecker-report": "Tiejes inkel autematise controles bleek de ongerstäönde externe link ónbereikbaar. Controleer of de link det ouch ech is. Haol dezen teks eweg nao 'n succesvol controle of nao 't eweghaole of verbaetere van de externe link.",
+	"weblinkchecker-summary": "Bot: meldj 'nen ónbereikbaren externe link"
+}

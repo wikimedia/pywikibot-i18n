@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"image-remove": "Bot: haolt plaetje %(file)s eweg",
+	"image-replace": "Bot: vervingk plaetje %(old)s veur %(new)s"
+}
