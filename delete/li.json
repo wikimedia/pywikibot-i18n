@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ooswesthoesbes"
+		]
+	},
+	"delete-from-category": "Bot: sjaf alle pagina's oet categorie %(page)s eweg",
+	"delete-from-file": "Bot: sjaf lies mit pagina's eweg.",
+	"delete-images": "Bot: sjaf alle plaetjes op pagina %(page)s eweg",
+	"delete-linked-pages": "Bot: sjaf alle pagina's gelink vanoet %(page)s eweg",
+	"delete-referring-pages": "Bot: sjaf alle pagina's verwiezendj nao %(page)s eweg"
+}

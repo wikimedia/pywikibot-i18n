@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Glavkos"
+			"Glavkos",
+			"Protnet"
 		]
 	},
-	"unusedfiles-comment": "Ρομπότ: εικόνες για διαγραφή"
+	"unusedfiles-comment": "Ρομπότ: σήμανση αρχείου ως ορφανό"
 }
