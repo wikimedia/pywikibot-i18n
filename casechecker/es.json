@@ -10,7 +10,7 @@
 	},
 	"casechecker-delete-reason": "Esta redirección solía apuntar a %(target)s",
 	"casechecker-delete-summary": "Bot: esta redirección contiene en su título caracteres cirílicos y latinos que lucen idénticos",
-	"casechecker-rename": "Bot: renombrando página con diversos caracteres no uniformes",
+	"casechecker-rename": "Robot: cambio de nombre con uso de mayúsculas mixto",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Bot: reemplazo de mayúsculas/minúsculas:"
+	"casechecker-replacement-summary": "Robot: sustitución de mayúsculas/minúsculas:"
 }

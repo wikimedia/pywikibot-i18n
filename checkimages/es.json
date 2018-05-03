@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
-	"checkimages-source-tag-comment": "Bot: se marca un archivo sin etiquetas recientemente subido",
-	"checkimages-source-notice-comment": "Bot: se solicita información de la fuente."
+	"checkimages-source-tag-comment": "Robot: se marca un archivo sin etiquetas recién cargado",
+	"checkimages-source-notice-comment": "Robot: se solicita información de la fuente."
 }

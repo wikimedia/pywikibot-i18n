@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Nicolas Dumazet",
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
-	"image-remove": "Bot: se elimina la imagen %(file)s",
+	"image-remove": "Robot: eliminación de la imagen %(file)s",
 	"image-replace": "bot: se reemplaza la imagen %(old)s por %(new)s"
 }

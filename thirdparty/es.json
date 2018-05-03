@@ -19,9 +19,9 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(no se encontró ningún editor humano)",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span>; última edición hecha por [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
-	"thirdparty-drtrigonbot-sum_disc-parse-warning": ": * Mensaje de advertencia del bot: %(page)s \"''%(warning)s''\"",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Mensaje de alerta del robot: %(page)s «''%(warning)s''»",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Añadido el resumen de la discusión: %(num)i entradas",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Añadido el resumen de la discusión con limpieza: %(num)i entradas",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Actualizando el resumen de la discusión: %(num)i entradas en %(page)s"
 }

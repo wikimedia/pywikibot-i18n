@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Invadinado",
-			"Ryo567"
+			"Ryo567",
+			"Fitoschido"
 		]
 	},
-	"ndashredir-create": "Bot: Creando redirecciones con guiones a «[[%(title)s]]»"
+	"ndashredir-create": "Robot: creación de redirección con guiones a «[[%(title)s]]»"
 }

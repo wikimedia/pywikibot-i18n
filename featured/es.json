@@ -4,8 +4,8 @@
 			"Fitoschido"
 		]
 	},
-	"featured-featured": "Bot: «%(page)s» es un artículo destacado",
-	"featured-former": "Bot: «%(page)s» ya no es un artículo destacado",
-	"featured-good": "Bot: «%(page)s» es un artículo bueno",
-	"featured-list": "Bot: «%(page)s» es una lista destacada"
+	"featured-featured": "Robot: «%(page)s» es un artículo destacado",
+	"featured-former": "Robot: «%(page)s» ya no es un artículo destacado",
+	"featured-good": "Robot: «%(page)s» es un artículo bueno",
+	"featured-list": "Robot: «%(page)s» es una lista destacada"
 }

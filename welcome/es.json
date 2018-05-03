@@ -7,7 +7,7 @@
 			"Vivaelcelta"
 		]
 	},
-	"welcome-bad_username": "Bot: adición de nombre de usuario que necesita revisión",
-	"welcome-updating": "Bot: actualización del registro",
+	"welcome-bad_username": "Robot: adición de nombre de usuario que debe revisarse",
+	"welcome-updating": "Robot: actualización del registro",
 	"welcome-welcome": "¡Bienvenido!"
 }

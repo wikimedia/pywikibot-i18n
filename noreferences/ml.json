@@ -4,5 +4,6 @@
 			"Praveenp"
 		]
 	},
-	"noreferences-add-tag": "യന്ത്രം: ഇല്ലാതെ പോയ <references /> ടാഗ് ചേർക്കുന്നു"
+	"noreferences-add-tag": "യന്ത്രം: ഇല്ലാതെ പോയ <references /> ടാഗ് ചേർക്കുന്നു",
+	"noreferences-fix-tag": "യന്ത്രം: അസാധുവായ <references /> ടാഗ് എഴുത്തുരീതി ശരിയാക്കുന്നു"
 }

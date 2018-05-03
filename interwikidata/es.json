@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
-	"interwikidata-clean-summary": "Bot: limpieza de enlaces interwiki viejos"
+	"interwikidata-clean-summary": "Robot: limpieza de enlaces interwiki viejos"
 }

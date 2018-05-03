@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Macofe",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Fitoschido"
 		]
 	},
-	"unusedfiles-comment": "Bot: se marcó el archivo como huérfano"
+	"unusedfiles-comment": "Robot: se marca el archivo como huérfano"
 }

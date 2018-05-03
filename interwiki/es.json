@@ -7,12 +7,12 @@
 			"Xqt"
 		]
 	},
-	"interwiki-adding": "Bot: adición de %(adding)s",
-	"interwiki-adding-modifying": "Bot: adición de %(adding)s; modificación de %(modifying)s",
-	"interwiki-adding-removing": "Bot: adición de %(adding)s; eliminación de %(removing)s",
+	"interwiki-adding": "Robot: adición de %(adding)s",
+	"interwiki-adding-modifying": "Robot: adición de %(adding)s; modificación de %(modifying)s",
+	"interwiki-adding-removing": "Robot: adición de %(adding)s; eliminación de %(removing)s",
 	"interwiki-adding-removing-modifying": "Bot: adición de %(adding)s; eliminación de %(removing)s; modificación de %(modifying)s",
-	"interwiki-modifying": "Bot: modificación de %(modifying)s",
-	"interwiki-modifying-from": "Bot: modificación de %(from)s por %(modifying)s",
-	"interwiki-removing": "Bot: eliminación de %(removing)s",
-	"interwiki-removing-modifying": "Bot: eliminación de %(removing)s; modificación de %(modifying)s"
+	"interwiki-modifying": "Robot: modificación de %(modifying)s",
+	"interwiki-modifying-from": "Robot: modificación de %(from)s por %(modifying)s",
+	"interwiki-removing": "Robot: eliminación de %(removing)s",
+	"interwiki-removing-modifying": "Robot: eliminación de %(removing)s; modificación de %(modifying)s"
 }

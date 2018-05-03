@@ -3,9 +3,10 @@
 		"authors": [
 			"Invadinado",
 			"Macofe",
-			"Vivaelcelta"
+			"Vivaelcelta",
+			"Fitoschido"
 		]
 	},
-	"noreferences-add-tag": "Bot: adición de etiqueta <references /> faltante",
-	"noreferences-fix-tag": "Bot: corrección de sintaxis no válida de la etiqueta <references />"
+	"noreferences-add-tag": "Robot: adición de etiqueta <references /> faltante",
+	"noreferences-fix-tag": "Robot: corrección de sintaxis no válida de la etiqueta <references />"
 }

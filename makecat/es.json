@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
-	"makecat-create": "Bot: creación o actualización de la categoría [[:Category:%(cat)s|]]"
+	"makecat-create": "Robot: creación o actualización de la categoría [[:Category:%(cat)s|]]"
 }
