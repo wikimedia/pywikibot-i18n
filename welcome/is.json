@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Snævar"
+			"Snævar",
+			"Sveinn í Felli"
 		]
 	},
 	"welcome-bad_username": "Vélmenni: Bæti við notendanafni sem þarf að athuga",
-	"welcome-updating": "Vélmenni: Uppfæri aðgerðarskrá",
+	"welcome-updating": "Vélmenni: Uppfæri atvikaskrá",
 	"welcome-welcome": "Velkomin!"
 }
