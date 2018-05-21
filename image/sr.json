@@ -3,9 +3,10 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"image-remove": "Бот: уклоњена датотека %(file)s",
-	"image-replace": "Бот: датотека %(old)s је замењена са %(new)s"
+	"image-remove": "Бот: уклањам датотеку %(file)s",
+	"image-replace": "Бот: замењујем датотеку %(old)s са %(new)s"
 }

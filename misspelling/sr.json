@@ -3,8 +3,9 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"misspelling-fixing": "Бот: исправљена погрешно написана веза до странице %(page)s"
+	"misspelling-fixing": "Бот: исправљам погрешно написану везу до странице %(page)s"
 }

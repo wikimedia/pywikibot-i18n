@@ -3,12 +3,13 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"delete-from-category": "Бот: избрисане све странице из категорије %(page)s",
-	"delete-from-file": "Бот: избрисан списак страница.",
-	"delete-images": "Бот: избрисане све слике на страници %(page)s",
-	"delete-linked-pages": "Бот: избрисане све странице повезане са %(page)s",
-	"delete-referring-pages": "Бот: избрисане све странице које воде до %(page)s"
+	"delete-from-category": "Бот: бришем све странице из категорије %(page)s",
+	"delete-from-file": "Бот: бришем списак страница.",
+	"delete-images": "Бот: бришем све слике на страници %(page)s",
+	"delete-linked-pages": "Бот: бришем све странице повезане са %(page)s",
+	"delete-referring-pages": "Бот: бришем све странице које воде до %(page)s"
 }

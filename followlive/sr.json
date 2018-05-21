@@ -3,8 +3,9 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"followlive-blanking": "Испражњено. Садржај је био „%(content)s“."
+	"followlive-blanking": "Испражњено, садржај је био „%(content)s“."
 }

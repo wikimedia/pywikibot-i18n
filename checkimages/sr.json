@@ -3,9 +3,10 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"checkimages-source-tag-comment": "Бот: маркирана новоотпремљена неозначена датотека",
-	"checkimages-source-notice-comment": "Бот: затражен извор информација."
+	"checkimages-source-tag-comment": "Бот: означавам новоотпремљену неозначену датотеку",
+	"checkimages-source-notice-comment": "Бот: тражим извор информација."
 }

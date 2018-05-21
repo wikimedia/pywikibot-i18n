@@ -6,7 +6,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{delete}}",
 	"redirect-fix-broken-moved": "Robot: Fixin broken reguidal til muived target page %(to)s",
 	"redirect-fix-double": "Bot: Fixin dooble reguidal til %(to)s",
 	"redirect-fix-loop": "Robot: Fixin reguidal luip til %(to)s",

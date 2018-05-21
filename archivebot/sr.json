@@ -3,12 +3,13 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"BadDog"
 		]
 	},
 	"archivebot-archive-full": "(АРХИВА ЈЕ ПУНА)",
-	"archivebot-archive-summary": "Бот: {{PLURAL:%(count)d|архивирана %(count)d тема|архивиране %(count)d теме|архивирано %(count)d тема}} из [[%(from)s]]",
+	"archivebot-archive-summary": "Бот: {{PLURAL:%(count)d|архивирам %(count)d тему|архивирам %(count)d теме|архивирам %(count)d тема}} из [[%(from)s]]",
 	"archivebot-archiveheader": "{{страница архива}}",
 	"archivebot-older-than": "старије од %(duration)s",
-	"archivebot-page-summary": "Бот: {{PLURAL:%(count)d|архивирана %(count)d тема|архивиране %(count)d теме|архивирано %(count)d тема}} (%(why)s) у %(archives)s"
+	"archivebot-page-summary": "Бот: {{PLURAL:%(count)d|архивирам %(count)d тему|архивирам %(count)d теме|архивирам %(count)d тема}} (%(why)s) у %(archives)s"
 }

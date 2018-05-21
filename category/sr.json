@@ -5,19 +5,20 @@
 			"Rancher",
 			"Xqt",
 			"Zoranzoki21",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"category-adding": "Бот: додата категорија [[:Категорија:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Бот: додајем категорију [[:Категорија:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(и у %(alsocat)s)",
-	"category-changing": "Бот: промењено %(oldcat)s у %(newcat)s",
-	"category-listifying": "Бот: исписано из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})",
-	"category-removing": "Бот: уклоњено из %(oldcat)s",
+	"category-changing": "Бот: мењам %(oldcat)s у %(newcat)s",
+	"category-listifying": "Бот: исписујем из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})",
+	"category-removing": "Бот: уклањам из %(oldcat)s",
 	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s",
-	"category-replacing": "Бот: замењена категорија %(oldcat)s са %(newcat)s",
+	"category-replacing": "Бот: замењујем категорију %(oldcat)s са %(newcat)s",
 	"category-section-title": "Историја раније верзије странице %(oldcat)s",
-	"category-strip-cfd-templates": "Бот: уклоњени CFD шаблони за извршену радњу",
-	"category-version-history": "Бот: сачувана историја раније верзије странице %(oldcat)s",
+	"category-strip-cfd-templates": "Бот: уклањам CFD шаблоне за извршену радњу",
+	"category-version-history": "Бот: чувам историју раније верзије странице %(oldcat)s",
 	"category-was-disbanded": "Бот: категорија је распуштена",
 	"category-was-moved": "Бот: категорија је премештена у [[:Категорија:%(newcat)s|%(title)s]]"
 }

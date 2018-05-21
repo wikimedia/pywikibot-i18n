@@ -3,8 +3,9 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"piper-edit-summary": "Бот: чланак је пропуштен кроз %(filters)s"
+	"piper-edit-summary": "Бот: прерађујем текст чланка кроз %(filters)s"
 }

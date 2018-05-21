@@ -3,13 +3,14 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"category_redirect-add-template": "Бот: додат шаблон за преусмерену категорију ради одржавања",
+	"category_redirect-add-template": "Бот: додајем шаблон за преусмерену категорију ради одржавања",
 	"category_redirect-change-category": "Бот: промењена преусмерена категорија [[:%(oldCatLink)s|%(oldCatTitle)s]] у [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Бот за одржавање преусмерених категорија",
 	"category_redirect-edit-request": "Следећим заштићеним страницама потребно је ажурирање веза категорија: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s",
-	"category_redirect-fix-double": "Бот: исправљена двострука преусмерења"
+	"category_redirect-fix-double": "Бот: исправљам двострука преусмерења"
 }

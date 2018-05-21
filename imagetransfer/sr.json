@@ -4,9 +4,10 @@
 			"Sasa Stefanovic",
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"imagetransfer-file_page_message": "Датотека је копирана са %(site)s. Првобитни опис је гласио:\n\n%(description)s",
+	"imagetransfer-file_page_message": "Ова датотека је копирана са %(site)s. Изворни опис је био:\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "Датотека је сада доступна на Остави."
 }

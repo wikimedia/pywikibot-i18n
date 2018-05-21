@@ -3,12 +3,13 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"protect-category": "Бот: заштићене све странице из категорије %(cat)s",
-	"protect-images": "Бот: заштићене све слике на страници %(page)s",
-	"protect-links": "Бот: заштићене све странице повезане са %(page)s",
-	"protect-ref": "Бот: заштићене све странице које воде до %(page)s",
-	"protect-simple": "Бот: заштићен списак датотека"
+	"protect-category": "Бот: штитим све странице из категорије %(cat)s",
+	"protect-images": "Бот: штитим све слике на страници %(page)s",
+	"protect-links": "Бот: штитим све странице повезане са %(page)s",
+	"protect-ref": "Бот: штитим све странице које воде до %(page)s",
+	"protect-simple": "Бот: штитим списак датотека"
 }

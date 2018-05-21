@@ -3,8 +3,9 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
-	"commonscat-msg_change": "Бот: промењена веза категорије у Остави из [[:Commons:Category:%(oldcat)s|%(oldcat)s]] у [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Бот: мењам везу категорије на Остави из [[:Commons:Category:%(oldcat)s|%(oldcat)s]] у [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

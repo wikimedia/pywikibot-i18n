@@ -3,11 +3,12 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
 	"casechecker-delete-reason": "Преусмерење је претходно водило до %(target)s",
-	"casechecker-delete-summary": "Бот: преусмерење у наслову садржи ћирилична и латинична слова идентичног изгледа",
+	"casechecker-delete-summary": "Бот: ово преусмерење садржи ћирилична и латинична слова идентичног изгледа у наслову",
 	"casechecker-rename": "Бот: преименовано са мешаним малим и великим словима",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Бот: замене малих и великих слова:"
