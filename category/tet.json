@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"MF-Warburg",
-			"Xqt"
+			"Xqt",
+			"Dvorapa"
 		]
 	},
 	"category-adding": "bot: tau tan [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(mós iha %(alsocat)s laran)",
 	"category-changing": "Bot: Muda %(oldcat)s ba %(newcat)s",
+	"category-replacing": "Bot: Muda %(oldcat)s ba %(newcat)s",
 	"category-was-moved": "Bot: Naran foun kategoria nian - [[:Category:%(newcat)s|%(title)s]]"
 }

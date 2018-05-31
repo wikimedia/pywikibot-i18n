@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Андрей"
+			"Андрей",
+			"Dvorapa"
 		]
 	},
 	"category-adding": "Бот: акатегориа ацҵара [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(иара убас %(alsocat)s аҟны)",
-	"category-changing": "Бот иаҧсахит: %(oldcat)s %(newcat)s ала"
+	"category-changing": "Бот иаҧсахит: %(oldcat)s %(newcat)s ала",
+	"category-replacing": "Бот иаҧсахит: %(oldcat)s %(newcat)s ала"
 }

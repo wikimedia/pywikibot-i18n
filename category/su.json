@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Uchup19"
+			"Uchup19",
+			"Dvorapa"
 		]
 	},
 	"category-adding": "bot: Nambih category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ogé dina %(alsocat)s)",
 	"category-changing": "Bot: Ngarobah %(oldcat)s jadi %(newcat)s",
+	"category-replacing": "Bot: Ngarobah %(oldcat)s jadi %(newcat)s",
 	"category-version-history": "Bot: Nyimpen vérsi jujutan bekas %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategori dipiceun",
 	"category-was-moved": "Bot: Kategori dialihkeun ka [[:Kategori:%(newcat)s|%(title)s]]"

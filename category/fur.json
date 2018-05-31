@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Klenje"
+			"Klenje",
+			"Dvorapa"
 		]
 	},
 	"category-adding": "Robot: o zonti category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ancje in %(alsocat)s)",
 	"category-changing": "Robot: o cambii %(oldcat)s in %(newcat)s",
-	"category-removing": "Robot: o gjavi di %(oldcat)s"
+	"category-removing": "Robot: o gjavi di %(oldcat)s",
+	"category-replacing": "Robot: o cambii %(oldcat)s in %(newcat)s"
 }

@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Dvorapa"
 		]
 	},
 	"category-adding": "Bot: Kadegorie [[:Category:%(newcat)s|%(newcat)s] aigfiecht",
 	"category-also-in": "(aa in %(alsocat)s)",
 	"category-changing": "Bot: %(oldcat)s gä'ännat nooch %(newcat)s",
-	"category-removing": "Bot: Aus %(oldcat)s rausgenumme"
+	"category-removing": "Bot: Aus %(oldcat)s rausgenumme",
+	"category-replacing": "Bot: %(oldcat)s gä'ännat nooch %(newcat)s"
 }

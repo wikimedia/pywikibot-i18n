@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Basharh",
-			"Man2fly2002"
+			"Man2fly2002",
+			"Dvorapa"
 		]
 	},
 	"category-adding": "ܪܘܒܘܛ: ܬܘܣܦܬܐ ܕܣܕܪܐ [[:Category:%(newcat)s|%(newcat)s]]",
@@ -11,6 +12,7 @@
 	"category-listifying": "ܪܘܒܘܛ: ܚܘܝ ܡܢ %(fromcat)s (%(num)d ܡܥܠܬܐ)",
 	"category-removing": "ܒܘܛ: ܠܚܝܐ ܡܢ %(oldcat)s",
 	"category-renamed": "ܪܘܒܘܛ: ܫܢܝ ܡܢ %(oldcat)s. ܣܝܘ̈ܡܐ: %(authors)s",
+	"category-replacing": "ܪܘܒܘܛ: ܫܘܚܠܦܐ %(oldcat)s ܠ %(newcat)s",
 	"category-version-history": "ܪܘܒܘܛ: ܠܒܟ ܣܝܩܘܡ ܡܦܩܢܘܬܐ ܠܩܕܡܝܬܐ %(oldcat)s",
 	"category-was-moved": "ܪܘܒܘܛ: ܣܕܪܐ ܐܫܬܢܝܬ ܠ [[:Category:%(newcat)s|%(title)s]]"
 }
