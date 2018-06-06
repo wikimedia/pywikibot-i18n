@@ -8,7 +8,7 @@
 	},
 	"category-adding": "a rubut ti merniwt: category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ula deg %(alsocat)s)",
-	"category-changing": "Aṛubut: Beddel %(oldcat)s γer %(newcat)s",
+
 	"category-listifying": "Aṛubut: Acraw sγuṛ %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "Arubut: Tukksa seg %(oldcat)s",
 	"category-renamed": "Aṛubut: yettwakkes si %(oldcat)s. Imeskaren: %(authors)s",

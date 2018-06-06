@@ -8,7 +8,7 @@
 	},
 	"category-adding": "Bot: Saachjropp [[:Category:%(newcat)s|%(newcat)s]] erinjedonn",
 	"category-also-in": "(och en dä %(alsocat)s)",
-	"category-changing": "Bot: %(oldcat)s ußjewääßelt jääje %(newcat)s",
+
 	"category-listifying": "Bot: Leß vun dä %(fromcat)s (%(num)d Enndrääsch)",
 	"category-removing": "Bot: uß de %(oldcat)s ußjedraare",
 	"category-renamed": "Bot: hääjeholldt von %(oldcat)s. Schrihver: %(authors)s",

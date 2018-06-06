@@ -10,7 +10,7 @@
 	},
 	"category-adding": "Roboto: Aldonado de kategorio [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ankaŭ en %(alsocat)s)",
-	"category-changing": "Roboto: Ŝanĝado de %(oldcat)s al %(newcat)s",
+
 	"category-listifying": "Roboto: Listigado de %(fromcat)s (%(num)d ero{{PLURAL:%(num)d||j}})",
 	"category-removing": "Roboto: Forigado el %(oldcat)s",
 	"category-renamed": "Roboto: Movita el %(oldcat)s. Aŭtoroj: %(authors)s",

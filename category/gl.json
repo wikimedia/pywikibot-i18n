@@ -7,7 +7,7 @@
 	},
 	"category-adding": "Bot: Engado a categoría \"[[:Category:%(newcat)s|%(newcat)s]]\"",
 	"category-also-in": "(tamén en %(alsocat)s)",
-	"category-changing": "Bot: Cambio %(oldcat)s por %(newcat)s",
+
 	"category-listifying": "Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})",
 	"category-removing": "Bot: Elimino desde \"%(oldcat)s\"",
 	"category-renamed": "Bot: Traslado desde \"%(oldcat)s\". Autores: %(authors)s",

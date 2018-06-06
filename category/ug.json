@@ -6,7 +6,7 @@
 	},
 	"category-adding": "ماشىنا ئادەم: [[:Category:%(newcat)s|%(newcat)s]] كاتېگورىيە قوشۇۋاتىدۇ",
 	"category-also-in": "(%(alsocat)s كاتېگورىيەدىمۇ بار)",
-	"category-changing": "ماشىنا ئادەم: %(oldcat)s دىن %(newcat)s غىچە ئۆزگەرتىۋاتىدۇ",
+
 	"category-listifying": "ماشىنا ئادەم: %(fromcat)sدىن ({{PLURAL:%(num)d|1 تۈر|%(num)d تۈر}}) تىزىمىنى ئاجرىتىۋاتىدۇ",
 	"category-removing": "ماشىنا ئادەم: %(oldcat)sدىن چىقىرىۋېتىۋاتىدۇ",
 	"category-replacing": "ماشىنا ئادەم: كاتېگورىيە %(oldcat)sنى %(newcat)sغا ئالماشتۇرىۋاتىدۇ",

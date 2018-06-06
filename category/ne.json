@@ -10,7 +10,7 @@
 	},
 	"category-adding": "रोबोट: श्रेणी [[:Category:%(newcat)s|%(newcat)s]] थप्दै",
 	"category-also-in": "(%(alsocat)s मा पनि)",
-	"category-changing": "रोबोट:%(oldcat)sलाई %(newcat)sमा परिवर्तन गर्दै",
+
 	"category-listifying": "बोट: %(fromcat)sबाट (%(num)d entries)मा सूचीकृत गर्दै",
 	"category-removing": "रोबोट: %(oldcat)sबाट हटाउँदै",
 	"category-renamed": "रोबोट: %(oldcat)sबाट सारियो। लेखकहरू: %(authors)s",

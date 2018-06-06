@@ -7,7 +7,7 @@
 	},
 	"category-adding": "automaton: addens categoriam [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(etiam in %(alsocat)s)",
-	"category-changing": "automaton: mutans %(oldcat)s→%(newcat)s",
+
 	"category-removing": "automaton abdit %(oldcat)s",
 	"category-renamed": "automaton: mota ex %(oldcat)s. Auctores: %(authors)s",
 	"category-replacing": "automaton: mutans categoriam %(oldcat)s→[[:Categoria:%(newcat)s]]",

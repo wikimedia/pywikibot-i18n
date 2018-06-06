@@ -7,7 +7,7 @@
 	},
 	"category-adding": "робот: тIетоьхна Категори [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(кхин %(alsocat)s) чохь",
-	"category-changing": "бото хийцина: %(oldcat)s → %(newcat)s",
+
 	"category-listifying": "бот: кхуллуш бу могӀам ({{PLURAL:%(num)d|элементах|элементашах}}) %(fromcat)s",
 	"category-removing": "бот: юкъара яккхар %(oldcat)s чура",
 	"category-renamed": "бот: %(oldcat)s чура дихьа яьккхина. автораш: %(authors)s",

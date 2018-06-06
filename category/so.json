@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Bot: Ku daris qayb [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(Sidoo kale %(alsocat)s)",
-	"category-changing": "Bot: U %(oldcat)s Badala %(newcat)s",
+
 	"category-listifying": "Bot: Soo muujin %(fromcat)s ({{PLURAL:%(num)d|1 galid|%(num)d entries}})",
 	"category-removing": "Bot: Ka saaray %(oldcat)s",
 	"category-renamed": "Bot: Loo soo wareejiyey %(oldcat)s. qoraayaasha: %(authors)s",

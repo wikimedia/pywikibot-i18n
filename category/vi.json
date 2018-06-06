@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Bot: Thêm thể loại [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(cũng trong %(alsocat)s)",
-	"category-changing": "Bot: Đổi %(oldcat)s thành %(newcat)s",
+
 	"category-listifying": "Bot: Danh sách hóa từ %(fromcat)s (%(num)d trang)",
 	"category-removing": "Bot: Dời khỏi %(oldcat)s",
 	"category-renamed": "Bot: Di chuyển từ %(oldcat)s. Tác giả: %(authors)s",

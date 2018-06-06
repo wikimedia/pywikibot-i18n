@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Machine: Addint categorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(anc in %(alsocat)s)",
-	"category-changing": "Machine: Alterant %(oldcat)s por %(newcat)s",
+
 	"category-listifying": "Machine: Listant de %(fromcat)s (%(num)d intradas)",
 	"category-removing": "Machine: Removent de %(oldcat)s",
 	"category-replacing": "Machine: Substituent categorie %(oldcat)s che %(newcat)s",

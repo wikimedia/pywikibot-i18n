@@ -5,6 +5,6 @@
 		]
 	},
 	"category-adding": "خودکار: اضافہ زمرہ [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-changing": "خودکار: %(oldcat)s کی %(newcat)s سے تبدیلی",
+
 	"category-replacing": "خودکار: زمرہ %(oldcat)s کی %(newcat)s سے تبدیلی"
 }

@@ -6,7 +6,7 @@
 	},
 	"category-adding": "ربات: افزودن ردهٔ [[:رده:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(همچنین بی %(alsocat)s)",
-	"category-changing": "ربات: ٹ\tگل داته بوت %(oldcat)s بی %(newcat)s",
+
 	"category-listifying": "ربات: فهرست‌کردن از %(fromcat)s ({{PLURAL:%(num)d|یک عضو|%(num)d عضو}})",
 	"category-removing": "ربات: حذف از %(oldcat)s",
 	"category-renamed": "ربات: از %(oldcat)s منتقل شد. پدیدآورندگان: %(authors)s",

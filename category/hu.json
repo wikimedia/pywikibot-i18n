@@ -9,7 +9,7 @@
 	},
 	"category-adding": "Bot: [[:Category:%(newcat)s]] hozzáadása bottal",
 	"category-also-in": "(a következőkben is: %(alsocat)s)",
-	"category-changing": "Bot: %(oldcat)s cseréje a következőre: %(newcat)s",
+
 	"category-listifying": "%(fromcat)s listázása bottal (%(num)d lap)",
 	"category-removing": "Bot: eltávolítás [[%(oldcat)s]] kategóriából",
 	"category-renamed": "Bot: átmozgatva innen: %(oldcat)s. Szerzők: %(authors)s",

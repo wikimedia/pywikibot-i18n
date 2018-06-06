@@ -6,7 +6,7 @@
 	},
 	"category-adding": "रोबोट: पुचः [[:Category:%(newcat)s|%(newcat)s]] तनाच्वंगु",
 	"category-also-in": "(%(alsocat)sय् नं)",
-	"category-changing": "रोबोट: %(oldcat)sतयेत %(newcat)sस हिलाच्वंगु",
+
 	"category-removing": "रोबोट: %(oldcat)sनं त्वतकाच्वंगु",
 	"category-renamed": "रोबट: %(oldcat)sनं संकल। च्वमि: %(authors)s",
 	"category-replacing": "रोबोट: पुचः %(oldcat)sयात %(newcat)sय् हिलाछ्वःगु दु",

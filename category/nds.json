@@ -7,7 +7,7 @@
 	},
 	"category-adding": "Kat-Bot: Kategorie [[:Category:%(newcat)s|%(newcat)s]] rin",
 	"category-also-in": "(ok in %(alsocat)s)",
-	"category-changing": "Kat-Bot: %(oldcat)s utwesselt",
+
 	"category-listifying": "Bot: List von %(fromcat)s (%(num)d Sieden)",
 	"category-removing": "Kat-Bot: rut ut %(oldcat)s",
 	"category-renamed": "Kat-Bot: herschaven von %(oldcat)s. Schriever: %(authors)s",

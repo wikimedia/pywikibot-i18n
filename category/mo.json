@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Робот: Адэугат category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(де асеменя ын %(alsocat)s)",
-	"category-changing": "Робот: Скимбат %(oldcat)s",
+
 	"category-removing": "Робот: Ынлэтурат дин %(oldcat)s",
 	"category-replacing": "Робот: Ынлокуит категория %(oldcat)s ку %(newcat)s",
 	"category-was-disbanded": "Робот: Категория а фост десфиинцатэ",

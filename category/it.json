@@ -12,7 +12,7 @@
 	},
 	"category-adding": "Bot: Aggiunta la categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(anche in %(alsocat)s)",
-	"category-changing": "Bot: Modifico %(oldcat)s in %(newcat)s",
+
 	"category-listifying": "Bot: Lista del contento dalla %(fromcat)s (%(num)d pagine)",
 	"category-removing": "Bot: Rimozione da %(oldcat)s",
 	"category-renamed": "Bot: spostata da %(oldcat)s. Autori: %(authors)s",

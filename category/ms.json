@@ -7,7 +7,7 @@
 	},
 	"category-adding": "Bot: Menambah kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(juga dalam %(alsocat)s)",
-	"category-changing": "Bot: Menukar %(oldcat)s kepada %(newcat)s",
+
 	"category-listifying": "Bot: Menyenaraikan daripada %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Mengeluarkan daripada %(oldcat)s",
 	"category-renamed": "Robot: Berpindah dari %(oldcat)s. Pengarang: %(authors)s",

@@ -8,7 +8,7 @@
 	},
 	"category-adding": "Bot: Manambah tumbung [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(jua dalam %(alsocat)s)",
-	"category-changing": "Bot: Maubah %(oldcat)s manjadi %(newcat)s",
+
 	"category-listifying": "Bot: Maulah daptar matan %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Mahapus matan %(oldcat)s",
 	"category-renamed": "Bot: Mamindahakan matan %(oldcat)s. Pamakai: %(authors)s",

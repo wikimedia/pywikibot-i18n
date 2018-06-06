@@ -10,7 +10,7 @@
 	},
 	"category-adding": "بوت: إضافة تصنيف [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(أيضا في %(alsocat)s)",
-	"category-changing": "بوت: تغيير %(oldcat)s إلى %(newcat)s",
+
 	"category-listifying": "بوت: عرض من %(fromcat)s (%(num)d مدخلة)",
 	"category-removing": "بوت: إزالة من %(oldcat)s",
 	"category-renamed": "بوت: نقل من %(oldcat)s، المؤلفون: %(authors)s",

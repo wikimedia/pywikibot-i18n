@@ -11,7 +11,7 @@
 	},
 	"category-adding": "Robota: [[:Kategoria:%(newcat)s|%(newcat)s]] kategoria eransten",
 	"category-also-in": "(baita ere %(alsocat)s-en)",
-	"category-changing": "Robota: «%(oldcat)s» kategoria «%(newcat)s» kategoriara aldatzen",
+
 	"category-listifying": "Bot: Hemendik zerrendatzen %(fromcat)s ({{PLURAL:%(num)d|sarrera 1|%(num)d sarrerak}})",
 	"category-removing": "Robota: %(oldcat)s -tik ezabatzen",
 	"category-renamed": "Bot: Hemendik mugituta %(oldcat)s. Egileak: %(authors)s",

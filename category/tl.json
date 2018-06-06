@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Robot: Nagdaragdag ng kategoryang [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(nasa loob din ng %(alsocat)s)",
-	"category-changing": "Robot: Binabago ang %(oldcat)s upang maging %(newcat)s",
+
 	"category-listifying": "Bot: Isinalilista mula sa %(fromcat)s (%(num)d entries)",
 	"category-removing": "Bot: Tinatanggal mula sa %(oldcat)s",
 	"category-replacing": "Robot: Pinapalitan ng kategoryang %(oldcat)s ng %(newcat)s",

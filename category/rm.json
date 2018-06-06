@@ -7,7 +7,7 @@
 	},
 	"category-adding": "Bot: Agiunt la categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(era en %(alsocat)s)",
-	"category-changing": "Bot: Midar %(oldcat)s tar %(newcat)s",
+
 	"category-listifying": "Bot: Glista dal cuntegn da %(fromcat)s ({{PLURAL:%(num)d|1 pagina|%(num)d paginas}})",
 	"category-removing": "Bot: Allontanar da %(oldcat)s",
 	"category-replacing": "Bot: Remplazzar %(oldcat)s cun %(newcat)s",

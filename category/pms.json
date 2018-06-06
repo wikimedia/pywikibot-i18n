@@ -7,7 +7,7 @@
 	},
 	"category-adding": "Trigomiro: Gionta dla categorìa [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ëdcò an %(alsocat)s)",
-	"category-changing": "Trigomiro: Cangé%(oldcat)s a %(newcat)s",
+
 	"category-listifying": "Trigomiro: listé da %(fromcat)s ({{PLURAL:%(num)d|1 vos|%(num)d vos}})",
 	"category-removing": "Trigomiro: Gavé da %(oldcat)s",
 	"category-renamed": "Trigomiro: Tramudà da %(oldcat)s. Autor: %(authors)s",

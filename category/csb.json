@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Bòt: Dodôwô kategòrëjã [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(téż w %(alsocat)s)",
-	"category-changing": "Bòt: Przenosy starnë z %(oldcat)s do %(newcat)s",
+
 	"category-listifying": "Bòt: Ùsôdzëł lëstã starnów w kategòrëji %(fromcat)s ({{PLURAL:%(num)d|1 starna|%(num)d starnë|%(num)d starnów}})",
 	"category-removing": "Bòt: Rëmnął z %(oldcat)s",
 	"category-renamed": "Bòt: Przenosy z %(oldcat)s. Ùsôdzcë: %(authors)sz",

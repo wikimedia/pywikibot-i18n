@@ -8,7 +8,7 @@
 	},
 	"category-adding": "!រ៉ូបូ: បន្ថែម category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ក៏មាននៅក្នុង %(alsocat)s)",
-	"category-changing": "Robot: កំពុងផ្លាស់ប្ដូរ %(oldcat)s",
+
 	"category-removing": "Bot: កំពុងដកចេញពី %(oldcat)s",
 	"category-replacing": "Robot: កំពុងផ្លាស់ប្ដូរ %(oldcat)s",
 	"category-was-moved": "រូបូ៖ ចំណាត់ថ្នាក់ក្រុមត្រូវបានលុបចេញពី [[:Category:%(newcat)s|%(title)s]]"

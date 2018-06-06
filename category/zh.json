@@ -10,7 +10,7 @@
 	},
 	"category-adding": "机器人：添加分类[[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "（也在%(alsocat)s）",
-	"category-changing": "机器人：更改%(newcat)s至%(oldcat)s",
+
 	"category-listifying": "机器人：从%(fromcat)s提取列表(%(num)d个项目)",
 	"category-removing": "机器人：从%(oldcat)s中移除",
 	"category-renamed": "机器人：从%(oldcat)s移动。作者：%(authors)s",

@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Bot: Kategorie derbäisetzen [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(och a(n) %(alsocat)s)",
-	"category-changing": "Bot: Ännere vu(n) %(oldcat)s op %(newcat)s",
+
 	"category-listifying": "Bot: Lëscht vun der %(fromcat)s (%(num)d Memberen)",
 	"category-removing": "Bot: Ewech huele vun %(oldcat)s",
 	"category-renamed": "Bot: Geréckelt vum %(oldcat)s. Auteuren: %(authors)s",

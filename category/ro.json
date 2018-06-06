@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Robot: Adăugat categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(de asemenea în %(alsocat)s)",
-	"category-changing": "Robot: Înlocuit %(oldcat)s cu %(newcat)s",
+
 	"category-listifying": "Robot: Listare de la %(fromcat)s (%(num)d intrări)",
 	"category-removing": "Robot: Înlăturat din %(oldcat)s",
 	"category-renamed": "Robot: Mutat din %(oldcat)s. Autori: %(authors)s",

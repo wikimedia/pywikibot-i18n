@@ -11,7 +11,7 @@
 	},
 	"category-adding": "Бот: додајем категорију [[:Категорија:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(и у %(alsocat)s)",
-	"category-changing": "Бот: мењам %(oldcat)s у %(newcat)s",
+
 	"category-listifying": "Бот: исписујем из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})",
 	"category-removing": "Бот: уклањам из %(oldcat)s",
 	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s",

@@ -7,7 +7,7 @@
 	},
 	"category-adding": "robot: la til kategorien [[Kategori:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(òg i %(alsocat)s)",
-	"category-changing": "robot: endra %(oldcat)s til %(newcat)s",
+
 	"category-removing": "robot: fjerna ifrå %(oldcat)s",
 	"category-replacing": "robot: byter ut kategorien %(oldcat)s med %(newcat)s",
 	"category-was-disbanded": "robot: kategorien vart løyst opp",

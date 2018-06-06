@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Vélmenni: Bæti við [[:Category:%(newcat)s]]",
 	"category-also-in": "(einnig í %(alsocat)s)",
-	"category-changing": "Vélmenni: Breyti frá %(oldcat)s yfir í %(newcat)s",
+
 	"category-listifying": "Vélmenni: Bæti %(num)d {{PLURAL:%(num)d|færslu|færslum}} frá %(fromcat)s við listann.",
 	"category-removing": "Vélmenni: Fjarlægi [[%(oldcat)s]]",
 	"category-renamed": "Vélmenni: Færi frá %(oldcat)s. Höfundar: %(authors)s",

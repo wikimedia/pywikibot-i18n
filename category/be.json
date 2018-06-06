@@ -10,7 +10,7 @@
 	},
 	"category-adding": "Робат: дадаў катэгорыю [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(таксама ў %(alsocat)s)",
-	"category-changing": "робат змяніў %(oldcat)s на %(newcat)s",
+
 	"category-replacing": "робат змяніў %(oldcat)s на %(newcat)s",
 	"category-was-disbanded": "Робат: катэгорыя расфарміраваная",
 	"category-was-moved": "робат перанёс катэгорыю ў [[:Category:%(newcat)s|%(title)s]]"

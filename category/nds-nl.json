@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Bot: kategorie [[:Category:%(newcat)s|%(newcat)s]] derbie edaon",
 	"category-also-in": "(oek in %(alsocat)s)",
-	"category-changing": "Bot: wieziging van %(oldcat)s naor %(newcat)s",
+
 	"category-listifying": "Bot: lieste van %(fromcat)s (%(num)d ziejen)",
 	"category-removing": "Bot: vortehaold uut %(oldcat)s",
 	"category-renamed": "Bot: herneumd van %(oldcat)s. Auteurs: %(authors)s",

@@ -9,7 +9,7 @@
 	},
 	"category-adding": "Bot: [[:Category:%(newcat)s|%(newcat)s]] kateqoriyası əlavə olunur",
 	"category-also-in": "(həmçinin %(alsocat)s kateqoriyasında)",
-	"category-changing": "Bot: %(oldcat)s kateqoriyası %(newcat)s kateqoriyasına dəyişdirildi",
+
 	"category-listifying": "Bot: %(fromcat)s üçün ({{PLURAL:%(num)d|elementdən}}) ibarət siyahı hazırlanır",
 	"category-removing": "Bot: %(oldcat)s kateqoriyasından istisna edilir",
 	"category-renamed": "Bot: %(oldcat)s tərəfindən yeri dəyişdirilib. Müəlliflər: %(authors)s",

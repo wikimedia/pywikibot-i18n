@@ -5,7 +5,7 @@
 			"Dvorapa"
 		]
 	},
-	"category-changing": "रोबोट : %(oldcat)s बदलाय रहलॊ छै.",
+
 	"category-listifying": "बोट : %(fromcat)s (%(num)d entries) सॆं बनैलॊ गेलॊ सूची",
 	"category-replacing": "रोबोट : %(oldcat)s बदलाय रहलॊ छै.",
 	"category-was-moved": "रोबोट : श्रेणी  [[:Category:%(newcat)s|%(title)s]] दन्नॆ भेजलॊ गेलै."

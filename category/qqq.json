@@ -13,7 +13,7 @@
 	},
 	"category-adding": "{{doc-important|Do not change \":Category:%(newcat)s\" so this message will work in any language.}}",
 	"category-also-in": "Translations to say that the current category is in more categories than the one we are coming from",
-	"category-changing": "Edit summary when the bot moves pages from one category to another. <code>%(oldcat)s</code> is the source category, <code>%(newcat)s</code> the target.",
+
 	"category-listifying": "Definition of [[mw:Manual:Pywikibot/category.py#Syntax|listify]] - make a list of all of the articles that are in a category.\n\n*Variable \"%(fromcat)s\" = the category to make a list of in the listify option.\n*Variable \"%(num)d\" is probably a number.\n*You may use PLURAL tag like (<code><nowiki>{{PLURAL:%(num)d|1 entry|%(num)d entries}}</nowiki></code>)\nDo not translate the variables.",
 	"category-removing": "Edit summary. Parameters:\n* %(oldcat)s - old category name",
 	"category-renamed": "Edit summary when a category was renamed.",

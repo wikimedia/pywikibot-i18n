@@ -7,7 +7,7 @@
 	},
 	"category-adding": "Robot: Manambahan kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(juo dalam %(alsocat)s)",
-	"category-changing": "Bot: Mangganti %(oldcat)s ka %(newcat)s",
+
 	"category-listifying": "Bot: Mambuek dafta dari %(fromcat)s (%(num)d entri)",
 	"category-removing": "Bot: Mahapuih dari %(oldcat)s",
 	"category-renamed": "Bot: Mamindahan dari %(oldcat)s. Kontributor: %(authors)s",

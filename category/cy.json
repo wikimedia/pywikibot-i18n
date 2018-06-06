@@ -8,7 +8,7 @@
 	},
 	"category-adding": "Robot: Yn ychwanegu [[:Category:%(newcat)s]]",
 	"category-also-in": "(hefyd yn %(alsocat)s)",
-	"category-changing": "Robot: Yn newid %(oldcat)s yn %(newcat)s",
+
 	"category-listifying": "Bot: Yn rhestru cynnwys %(fromcat)s (%(num)d o gofnodion)",
 	"category-removing": "Bot: Yn ei dynnu o %(oldcat)s",
 	"category-renamed": "Robot: Symudwyd o %(oldcat)s. Awduron: %(authors)s",

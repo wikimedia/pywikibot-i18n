@@ -6,7 +6,7 @@
 	},
 	"category-adding": "Robot: Agnaynayon ti kategoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(idiay pay %(alsocat)s)",
-	"category-changing": "Robot: Agsuksukat %(oldcat)s idiay %(newcat)s",
+
 	"category-listifying": "Robot: Agilislista manipud idiay %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "Robot: Agikikkat manipud idiay %(oldcat)s",
 	"category-replacing": "Robot: Suksukatan ti kategoria %(oldcat)s iti %(newcat)s",

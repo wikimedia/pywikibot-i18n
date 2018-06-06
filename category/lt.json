@@ -11,7 +11,7 @@
 	},
 	"category-adding": "Robotas: Pridedama kategorija [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(taip pat ir %(alsocat)s)",
-	"category-changing": "Robotas: Keičiama %(oldcat)s į %(newcat)s",
+
 	"category-listifying": "Robotas: Numeruoja nuo %(fromcat)s ({{PLURAL:%(num)d|1 įrašas|%(num)d įrašų}})",
 	"category-removing": "robotas: šalinama iš %(oldcat)s",
 	"category-renamed": "robotas: Perkelta iš %(oldcat)s. Autoriai: %(authors)s",
