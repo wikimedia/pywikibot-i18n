@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Csisc",
+			"Dvorapa",
 			"John Vandenberg",
 			"Shirayuki",
 			"Xqt"
@@ -12,5 +13,21 @@
 	"category_redirect-comment": "Edit summary for maintenance notice of new redirects created.",
 	"category_redirect-edit-request": "Variables:\n* %(itemlists)s - list of edit requests (pages). Uses the message {{msg-pywikibot|Category redirect-edit-request-item}}.",
 	"category_redirect-edit-request-item": "Used as <code>%(itemlist)s</code> in {{msg-pywikibot|Category_redirect-edit-request}}.\n\nVariables:\n* %(title)s - page title\n* %(oldcat)s - old category name\n* %(newcat)s - new category name",
-	"category_redirect-fix-double": "Edit summary when the bot fixes double category redirects."
+	"category_redirect-fix-double": "Edit summary when the bot fixes double category redirects.",
+	"category_redirect-log-added": "Log message indicating category redirect template was added to the category page.",
+	"category_redirect-log-add-failed": "Log message indicating category redirect template could not be added to the category page.",
+	"category_redirect-log-double": "Log message indicating category redirect chain was fixed.",
+	"category_redirect-log-failed": "Log message indicating category redirect chain could not be solved.",
+	"category_redirect-log-false-positive": "Log message indicating category page was not redirect.",
+	"category_redirect-log-ignoring": "Log message indicating category page is a redirect on purpose.",
+	"category_redirect-log-loop": "Log message indicating category redirect chain makes a loop.",
+	"category_redirect-log-moved": "Log message indicating pages found and moved from the redirected category.",
+	"category_redirect-log-move-error": "Log message indicating category contents could not be moved.",
+	"category_redirect-log-new": "Log page heading",
+	"category_redirect-log-not-loaded": "Log message indicating category page could not be loaded.",
+	"category_redirect-log-skipping": "Log message indicating bot is not ready to edit the page.",
+	"category_redirect-older-logs": "Link to older logs from the log page",
+	"category_redirect-problem-hard": "Log message indicating category redirect links to a non-category page.",
+	"category_redirect-problem-redirects": "Log message indicating category redirect redirects to a non-existing page.",
+	"category_redirect-problem-self-linked": "Log message indicating category redirect redirects to itself."
 }
