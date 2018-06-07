@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Robot: Pridanie kategórie [[: Kategória: %(newcat)s|%(newcat)s]]",
 	"category-also-in": "(aj v %(alsocat)s)",
-
 	"category-listifying": "Robot: vytvorenie zoznamu obsahu kategórie %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položiek}})",
 	"category-removing": "Robot: Odstránenie z %(oldcat)s",
 	"category-renamed": "Robot: Presunuté z %(oldcat)s. Autori: %(authors)s",

@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Rôbô: Nanampy [[:Category:%(newcat)s]]",
 	"category-also-in": "(ao amin'i %(alsocat)s koa)",
-
 	"category-listifying": "Rôbô : fanaovana lisitra avy amin'i %(fromcat)s (zavatra %(num)d)",
 	"category-removing": "Rôbô : Nesorina tamin'i %(oldcat)s",
 	"category-renamed": "Rôbô : nanova toerana avy amin'i %(oldcat)s. Mpanoratra: %(authors)s",

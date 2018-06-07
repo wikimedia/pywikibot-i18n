@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Робот: Категоријә зијод карде [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(һажыго бә %(alsocat)s)",
-
 	"category-listifying": "Робот: %(fromcat)s (%(num)d әсосонку) сијоһи тумо бејдә",
 	"category-removing": "Робот: %(oldcat)s категоријәку истисно",
 	"category-renamed": "Робот: бардыше чыјо %(oldcat)s. мыәллифон: %(authors)s",

@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Bot dodowo: category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tyż we %(alsocat)s)",
-
 	"category-listifying": "Robot tworzi lista kategoryji %(fromcat)s ({{PLURAL:%(num)d|1 zajta|%(num)d zajt}})",
 	"category-removing": "Robot wyciepuje ze %(oldcat)s",
 	"category-replacing": "Bot: Pomjyńo kategoryja %(oldcat)s ze %(newcat)s",

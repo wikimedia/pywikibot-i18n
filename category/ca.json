@@ -9,7 +9,6 @@
 	},
 	"category-adding": "Robot: Afegint la categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(també a %(alsocat)s)",
-
 	"category-listifying": "Robot: llistant de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entrades}})",
 	"category-removing": "Robot: Eliminant de %(oldcat)s",
 	"category-renamed": "Robot:  Mogut des de %(oldcat)s. Autors : %(authors)s",

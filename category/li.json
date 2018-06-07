@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Robot: debie category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ouch in %(alsocat)s)",
-
 	"category-listifying": "Robot: lies van %(fromcat)s (%(num)d pagina's)",
 	"category-removing": "Robot: eweggesjaf oet %(oldcat)s",
 	"category-renamed": "Bot: verplaatsde van %(oldcat)s. Sjrievers: %(authors)s",

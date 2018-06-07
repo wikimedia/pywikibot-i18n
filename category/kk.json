@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Бот: [[Санат:%(newcat)s]] үстеді",
 	"category-also-in": "(тағы да %(alsocat)s дегенде)",
-
 	"category-listifying": "Бот: %(fromcat)s дегеннен (%(num)d буын) тізімдеді",
 	"category-removing": "Бот: %(oldcat)s дегеннен аластатты",
 	"category-renamed": "Бот: %(oldcat)s дегеннен жылжытты. Авторлары: %(authors)s.",

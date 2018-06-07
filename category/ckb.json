@@ -7,7 +7,6 @@
 	},
 	"category-adding": "ڕۆبۆت: زیادکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ھەروەھا لە %(alsocat)s)",
-
 	"category-listifying": "ڕۆبۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})",
 	"category-removing": "ڕۆبۆت: لابردن لە %(oldcat)s",
 	"category-renamed": "ڕۆبۆت: گوازرایەوە لە %(oldcat)s. دانەران: %(authors)s",

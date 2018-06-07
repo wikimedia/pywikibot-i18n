@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Bot: dodaje kategoriju [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(također u %(alsocat)s)",
-
 	"category-listifying": "Bot: Ispisuje iz %(fromcat)s (%(num)d stavki).",
 	"category-removing": "Bot: uklanja iz %(oldcat)s",
 	"category-renamed": "Robot: Premješteno iz %(oldcat)s. Autori: %(authors)s",

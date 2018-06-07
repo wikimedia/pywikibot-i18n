@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Robot: Shtimi kategori [[: Category: %(newcat)s|% (newcat) s]]",
 	"category-also-in": "(Edhe në %(alsocat)s)",
-
 	"category-listifying": "Bot: Listifying nga %(fromcat)s, %(num)d",
 	"category-removing": "Bot: Heqja nga %(oldcat)s",
 	"category-renamed": "Roboti: Zhvendosur nga %(oldcat)s. Autorët: %(authors)s",

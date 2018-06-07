@@ -7,7 +7,6 @@
 	},
 	"category-adding": "ರೋಬೋಟ್: [[:ವರ್ಗ:%(newcat)s|%(newcat)s]] ವರ್ಗಗಳನ್ನು ಸೇರಿಸುವುದು",
 	"category-also-in": "(ಇದರಲ್ಲಿಯು  %(alsocat)s)",
-
 	"category-removing": "ರೋಬೋಟ್:  %(oldcat)s ಇಂದ ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ",
 	"category-renamed": "ರೋಬೋಟ್: %(oldcat)s. Authors: %(authors)s ಇಂದ ಸರಿಸಲಾಗಿದೆ",
 	"category-replacing": "ರೋಬೋಟ್: %(oldcat)s ಯನ್ನು %(newcat)s ಗೆ ಬದಲಾಯಿಸುವುದು",

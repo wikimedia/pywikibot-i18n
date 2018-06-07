@@ -6,7 +6,6 @@
 	},
 	"category-adding": "रोबॉट: [[:Category:%(newcat)s|%(newcat)s]] श्रेणी जोड़ीस",
 	"category-also-in": "(%(alsocat)s में भी)",
-
 	"category-listifying": "रोबॉट: %(fromcat)s से listify ({{PLURAL:%(num)d|1 प्रविष्टि|%(num)d प्रविष्टियाँ}})",
 	"category-removing": "रोबॉट: %(oldcat)s से हटा रहा है",
 	"category-renamed": "रोबॉट: %(oldcat)s से स्थानांतरित। लेखक: %(authors)s",

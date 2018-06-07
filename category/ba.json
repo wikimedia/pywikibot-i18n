@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Робот: [[:Category:%(newcat)s|%(newcat)s]] категорияһын өҫтәү",
 	"category-also-in": "(шулай уҡ %(alsocat)s категорияһында)",
-
 	"category-listifying": "Робот: %(fromcat)s категорияһынан исемлек төҙөлә ({{PLURAL:%(num)d|элементтан}})",
 	"category-removing": "Робот:  %(oldcat)s категорияһынан сығарыу",
 	"category-renamed": "Робот:%(oldcat)s категорияһынан күсерелде. Авторҙар: %(authors)s",

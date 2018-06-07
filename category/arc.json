@@ -8,7 +8,6 @@
 	},
 	"category-adding": "ܪܘܒܘܛ: ܬܘܣܦܬܐ ܕܣܕܪܐ [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ܐܦ ܒ %(alsocat)s)",
-
 	"category-listifying": "ܪܘܒܘܛ: ܚܘܝ ܡܢ %(fromcat)s (%(num)d ܡܥܠܬܐ)",
 	"category-removing": "ܒܘܛ: ܠܚܝܐ ܡܢ %(oldcat)s",
 	"category-renamed": "ܪܘܒܘܛ: ܫܢܝ ܡܢ %(oldcat)s. ܣܝܘ̈ܡܐ: %(authors)s",

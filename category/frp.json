@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Robot : apond la catègorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tot-pariér dedens %(alsocat)s)",
-
 	"category-listifying": "Robot : listâjo de %(fromcat)s ({{PLURAL:%(num)d|1 èlèment|%(num)d èlèments}})",
 	"category-removing": "Robot : enléve dês %(oldcat)s",
 	"category-replacing": "Robot : remplacement de la catègorie %(oldcat)s per %(newcat)s",

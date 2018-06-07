@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Botti lisäsi luokkaan [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(myös luokassa %(alsocat)s)",
-
 	"category-listifying": "Botti listasi luokan %(fromcat)s (%(num)d jäsentä)",
 	"category-removing": "Botti poisti luokasta %(oldcat)s",
 	"category-renamed": "Botti siirsi luokan %(oldcat)s. Muokkaajat: %(authors)s",

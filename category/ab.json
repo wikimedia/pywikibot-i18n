@@ -7,6 +7,5 @@
 	},
 	"category-adding": "Бот: акатегориа ацҵара [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(иара убас %(alsocat)s аҟны)",
-
 	"category-replacing": "Бот иаҧсахит: %(oldcat)s %(newcat)s ала"
 }

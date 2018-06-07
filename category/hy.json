@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Ռոբոտ․ Ավելացվել է [[:Category:%(newcat)s|%(newcat)s]] կատեգորիան",
 	"category-also-in": "(այդ թվում %(alsocat)s –ում)",
-
 	"category-listifying": "Ռոբոտ․ Կազմում է ցանկը %(fromcat)s -ից (%(num)d տարր)",
 	"category-removing": "Ռոբոտ․ հեռացվել է %(oldcat)s -ից",
 	"category-renamed": "Ռոբոտ․ Տեղափոխվել է %(oldcat)s֊ից։ Հեղինակներ՝ %(authors)s",

@@ -14,7 +14,6 @@
 	},
 	"category-adding": "Robot: adición de categoría «[[:Category:%(newcat)s|%(newcat)s]]»",
 	"category-also-in": "(también en %(alsocat)s)",
-
 	"category-listifying": "Bot: lista a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})",
 	"category-removing": "Robot: eliminada de %(oldcat)s",
 	"category-renamed": "Robot: trasladada desde %(oldcat)s. Autores: %(authors)s",

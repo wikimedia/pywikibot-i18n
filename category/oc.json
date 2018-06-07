@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Robòt: Apondre category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tanben dins %(alsocat)s)",
-
 	"category-listifying": "Robòt : Listatge de %(fromcat)s (%(num)d elements)",
 	"category-removing": "Robòt : Levat dempuèi %(oldcat)s",
 	"category-renamed": "Robòt : desplaçat dempuèi %(oldcat)s. Autors: %(authors)s",

@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Bottur: Leggur afturat bólkin [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(eisini í %(alsocat)s)",
-
 	"category-listifying": "Bottur: Umskapar frá %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "Bottur: Tekur burtur frá %(oldcat)s",
 	"category-renamed": "Bottur: Flutti frá %(oldcat)s. Høvundar: %(authors)s",

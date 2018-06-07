@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Bot: Nambah katégori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(uga nèng %(alsocat)s)",
-
 	"category-listifying": "Bot: Ndaptari saka %(fromcat)s ({{PLURAL:%(num)d|1 isi|%(num)d isi}})",
 	"category-removing": "Bot: Nyingkiraké saka %(oldcat)s",
 	"category-replacing": "Bot: Ngganti katégori %(oldcat)s karo %(newcat)s",

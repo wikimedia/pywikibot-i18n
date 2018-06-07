@@ -8,7 +8,6 @@
 	},
 	"category-adding": "بوت: [[بؤلمه:%(newcat)s]] آرتیریلیر",
 	"category-also-in": "(همچنین%(alsocat)s بؤلمه‌سینده)",
-
 	"category-listifying": "بوت:%(fromcat)s بؤلمه لریندن سیرا‌لانیر (%(num)d المنت)",
 	"category-removing": "Bot: %(oldcat)s کؤهنه بؤلمه‌سیندن چیخاریلیر",
 	"category-renamed": "بوت:  %(oldcat)s دن داشیندی. یارادانلار: %(authors)s",

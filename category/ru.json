@@ -15,7 +15,6 @@
 	},
 	"category-adding": "Бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(также в %(alsocat)s)",
-
 	"category-listifying": "Бот: составляется список из ({{PLURAL:%(num)d|элемента|элементов}}) %(fromcat)s",
 	"category-removing": "Бот: исключение из %(oldcat)s",
 	"category-renamed": "Бот: перенёс из %(oldcat)s. авторы: %(authors)s",

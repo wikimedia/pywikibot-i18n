@@ -6,7 +6,6 @@
 	},
 	"category-adding": "↓Robot: Daragdag ne ing kategoriang [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "↓(atiu mu rin king %(alsocat)s)",
-
 	"category-listifying": "↓Robot: Mitala ibat %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "↓Robot: Lalako ne keng %(oldcat)s",
 	"category-replacing": "↓Robot: Ing kategoriang %(oldcat)s alilan neng %(newcat)s",

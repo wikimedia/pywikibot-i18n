@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Bot: Nambah [[:Category:%(newcat)s]]",
 	"category-also-in": "(uga nang %(alsocat)s)",
-
 	"category-listifying": "Bot:Gawe daftar sekang %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
 	"category-removing": "Bot: Mbusek sekang %(oldcat)s",
 	"category-renamed": "Robot: Mindahna sekang %(oldcat)s. Kontributor: %(authors)s",

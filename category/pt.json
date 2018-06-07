@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Robô: A adicionar a categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(também em %(alsocat)s)",
-
 	"category-listifying": "Robô: A listar a partir de %(fromcat)s (%(num)d entradas)",
 	"category-removing": "Robô: A remover de [[%(oldcat)s]]",
 	"category-renamed": "Bot: Movido de %(oldcat)s. Autores: %(authors)s",

@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Robot : Oc'h ouzhpennañ ar rummad [[Category:%(newcat)s]]",
 	"category-also-in": "(ivez e %(alsocat)s)",
-
 	"category-listifying": "Robot : Roll eus %(fromcat)s (%(num)d pajenn)",
 	"category-removing": "Robot : Tennet diwar %(oldcat)s",
 	"category-renamed": "Robot : dilec'hiet adalek %(oldcat)s. Aozerien : %(authors)s",

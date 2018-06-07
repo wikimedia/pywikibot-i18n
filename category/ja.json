@@ -11,7 +11,6 @@
 	},
 	"category-adding": "ボットによる: カテゴリ「[[:Category:%(newcat)s|%(newcat)s]]」を追加",
 	"category-also-in": "(「%(alsocat)s」にもカテゴリ分けされています)",
-
 	"category-listifying": "ボットによる: 「%(fromcat)s」からリスト化 ({{PLURAL:%(num)d|%(num)d件}})",
 	"category-removing": "ボットによる: 「[[%(oldcat)s]]」を除去",
 	"category-renamed": "ボットによる: 「%(oldcat)s」から移動。作成者: %(authors)s",

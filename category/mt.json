@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Robot: Miżjuda l-kategorija [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(anki f'%(alsocat)s)",
-
 	"category-listifying": "Bot: Lista tal-kontenut minn %(fromcat)s (%(num)d paġna)",
 	"category-removing": "Bot: Tneħħija minn %(oldcat)s",
 	"category-replacing": "Bot: Sostituzzjoni tal-kategorija %(oldcat)s ma' %(newcat)s",

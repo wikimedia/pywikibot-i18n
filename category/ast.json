@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Bot: Amestando la categoría [[Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tamién en %(alsocat)s)",
-
 	"category-listifying": "Bot: Llistando de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entraes}})",
 	"category-removing": "Bot: Desaniciando de %(oldcat)s",
 	"category-renamed": "Bot: Movíu dende %(oldcat)s. Autores: %(authors)s",

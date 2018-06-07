@@ -9,7 +9,6 @@
 	},
 	"category-adding": "Robot dodał kategorię [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(również w %(alsocat)s)",
-
 	"category-listifying": "Robot utworzył listę stron w kategorii %(fromcat)s ({{PLURAL:%(num)d|1 strona|%(num)d strony|%(num)d stron}})",
 	"category-removing": "Robot usunął z kategorii %(oldcat)s",
 	"category-renamed": "Robot przenosi z %(oldcat)s. Autorzy: %(authors)s",

@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Lopako: Ke hoʻohui nei i ka mahele [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ma loko o %(alsocat)s nō hoʻi)",
-
 	"category-listifying": "Lopako: Ke papahana nei mai %(fromcat)s ({{PLURAL:%(num)d|1 manaʻo|%(num)d mau manaʻo}})",
 	"category-removing": "Lopako: Ke wehe nei mai %(oldcat)s",
 	"category-renamed": "Lopako: Ua hoʻoneʻe ʻia mai %(oldcat)s. Mea kākau: %(authors)s",

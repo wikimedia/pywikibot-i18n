@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Robot: kategorie [[:Category:%(newcat)s|%(newcat)s]] bygevoeg",
 	"category-also-in": "(ook in %(alsocat)s)",
-
 	"category-listifying": "Robot: lys van %(fromcat)s (%(num)d bladsye)",
 	"category-removing": "Robot: verwyder uit %(oldcat)s",
 	"category-replacing": "Robot: kategorie %(oldcat)s is vervang met %(newcat)s",

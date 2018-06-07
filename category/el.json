@@ -9,7 +9,6 @@
 	},
 	"category-adding": "Ρομπότ: Προσθήκη κατηγορίας [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(επίσης στην %(alsocat)s)",
-
 	"category-listifying": "Ρομπότ: Καταλογογράφηση από %(fromcat)s ({{PLURAL:%(num)d|1 καταχώριση|%(num)d καταχωρίσεις}})",
 	"category-removing": "Ρομπότ: Αφαίρεση από την %(oldcat)s",
 	"category-renamed": "Ρομπότ: Μετακινήθηκε από %(oldcat)s. Συντάκτες: %(authors)s",

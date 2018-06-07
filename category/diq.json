@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Bot: [[Kategoriye:%(newcat)s]] dekerd de",
 	"category-also-in": "(kategori da %(alsocat)s esto)",
-
 	"category-listifying": "Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi",
 	"category-removing": "Bot: %(oldcat)s ra dariyeno we",
 	"category-renamed": "Boti, Nuştoğ %(oldcat)s ra wedarna %(authors)s",

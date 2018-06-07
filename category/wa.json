@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Robot: radjouter l' categorye [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ossu dins %(alsocat)s)",
-
 	"category-listifying": "Robot: djivêye del categoreye «%(fromcat)s» ({{PLURAL:%(num)d|1 cayet|%(num)d cayets}})",
 	"category-removing": "Robot: disfaçaedje del categoreye «%(oldcat)s»",
 	"category-replacing": "Robot: replaecî l' categoreye «%(oldcat)s» avou «%(newcat)s»",

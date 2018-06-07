@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Robot: Xonto ła categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(anca in %(alsocat)s)",
-
 	"category-listifying": "Robot: Creo ła lista da %(fromcat)s ({{PLURAL:%(num)d|1 voxe|%(num)d voxe}})",
 	"category-removing": "Robot: Cavo da %(oldcat)s",
 	"category-renamed": "Bot: Spostà da %(oldcat)s. Autori: %(authors)s",

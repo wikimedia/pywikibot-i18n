@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Bot: Ergänz Kategorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(aa in %(alsocat)s)",
-
 	"category-listifying": "Bot: Listen aus %(fromcat)s (%(num)d Eihträg)",
 	"category-removing": "Bot: Entfern aus %(oldcat)s",
 	"category-replacing": "Bot: Ersetz  Kategorie %(oldcat)s durch %(newcat)s",

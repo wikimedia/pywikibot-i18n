@@ -10,7 +10,6 @@
 	},
 	"category-adding": "봇: [[:Category:%(newcat)s|%(newcat)s]] 분류 추가",
 	"category-also-in": "(%(alsocat)s에도 들어 있습니다)",
-
 	"category-listifying": "봇: %(fromcat)s에서 목록화 ({{PLURAL:%(num)d|항목 1개|항목 %(num)d개}})",
 	"category-removing": "봇: %(oldcat)s 제거",
 	"category-renamed": "봇: %(oldcat)s에서 이동됨. 저자: %(authors)s",

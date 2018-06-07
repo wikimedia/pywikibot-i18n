@@ -6,7 +6,6 @@
 	},
 	"category-adding": "機械人：添加分類[[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "（共樣也在%(alsocat)s）",
-
 	"category-listifying": "機械人：從%(fromcat)s提取列表(%(num)d條紀錄)",
 	"category-removing": "機械人：從[[%(oldcat)s]]肚移除",
 	"category-renamed": "機械人：移動自%(oldcat)s。編者：%(authors)s",

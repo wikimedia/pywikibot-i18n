@@ -8,7 +8,6 @@
 	},
 	"category-adding": "Bötli: Kategori [[:Category:%(newcat)s|%(newcat)s]] ergänzt",
 	"category-also-in": "(au in %(alsocat)s)",
-
 	"category-listifying": "Bötli: Lischt us %(fromcat)s (%(num)d Yytreg)",
 	"category-removing": "Bötli: us %(oldcat)s  uusegnuu",
 	"category-renamed": "Bot: Verschobe vu %(oldcat)s. Autore: %(authors)s",

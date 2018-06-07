@@ -7,7 +7,6 @@
 	},
 	"category-adding": "Робот: Төркем өстәү [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(шулай ук %(alsocat)s)",
-
 	"category-listifying": "Робот:  (%(num)d Элементтан исемлек төзелә) %(fromcat)s",
 	"category-removing": "Робот:  %(oldcat)s арасыннан аеру",
 	"category-replacing": "Робот: %(oldcat)s төркемен %(newcat)s төркеменә алмаштыру",

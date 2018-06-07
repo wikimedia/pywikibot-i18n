@@ -6,7 +6,6 @@
 	},
 	"category-adding": "Bot: Azzeccata 'a categurìa [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(pure 'n %(alsocat)s)",
-
 	"category-removing": "Bot: Luvann'a %(oldcat)s",
 	"category-renamed": "Bot: Spustata 'a %(oldcat)s. Auture: %(authors)s",
 	"category-replacing": "Bot: Rimpiazzanno categurìe %(oldcat)s cu %(newcat)s",
