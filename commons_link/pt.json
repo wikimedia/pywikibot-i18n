@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Giro720"
+			"Giro720",
+			"Hamilton Abreu"
 		]
 	},
 	"commons_link-cat-template-added": "Robô: Incluir predefinição commonscat",
-	"commons_link-template-added": "Robô: Incluir predefinição do Commons"
+	"commons_link-template-added": "Robô: Incluir predefinição da wiki Commons"
 }

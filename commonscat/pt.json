@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
-	"commonscat-msg_change": "Robô: A alterar ligação da categoria do Commons de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] para [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Robô: A alterar hiperligação da categoria da wiki Commons, de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] para [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

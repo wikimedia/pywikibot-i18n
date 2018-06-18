@@ -7,5 +7,5 @@
 	"archivebot-archive-full": "(FENO NY TAHIRY)",
 	"archivebot-archive-summary": "Rôbô: Fitahirizana ny thread %(count)d avy any amin'i [[%(from)s]]",
 	"archivebot-older-than": "antitra noho %(duration)s",
-	"archivebot-page-summary": "Rôbô : Fanatsofohana an-tahiry ny  %(count)d {{PLURAL:%(count)d||}} (%(why)s) mankany amin'ny %(archives)s"
+	"archivebot-page-summary": "Rôbô: Mitahiry {{PLURAL:%(count)d|lohahevitra|lohahevitra}} %(count)d %(why)s mankany amin'i %(archives)s"
 }
