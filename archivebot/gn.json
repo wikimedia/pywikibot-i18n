@@ -5,6 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(JEHAI'ATY CHOVI)",
-	"archivebot-older-than": "ymaguareve %(duration)s gui",
-	"archivebot-page-summary": "Bot: jehai'aty %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) oĩ %(archives)s"
+	"archivebot-archive-summary": "Bot: Oñemoĩ hína jehai'atýpe %(count)d {{PLURAL:%(count)d|inimbo|inimbokuéra}} oúva [[%(from)s]] pegua",
+	"archivebot-older-than": "hi'are amo %(duration)s",
+	"archivebot-page-summary": "Bot: Oñemoĩ hína jehai'atýpe %(count)d {{PLURAL:%(count)d|inimbo|inimbokuéra}} (%(why)s) oĩ %(archives)s rendápe"
 }

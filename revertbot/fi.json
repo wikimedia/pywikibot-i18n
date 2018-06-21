@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"01miki10"
+		]
+	},
+	"revertbot-revert": "Botti: Palautettiin versioon %(revid)s, jonka teki %(author)s %(timestamp)s"
+}

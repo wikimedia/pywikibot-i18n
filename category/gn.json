@@ -1,4 +1,18 @@
 {
-	"@metadata": [],
-	"category-adding": "bot: ojoapy category [[:Category:%(newcat)s|%(newcat)s]]"
+	"@metadata": {
+		"authors": [
+			"P. S. F. Freitas"
+		]
+	},
+	"category-adding": "Bot: ojoapy ñemohendápe [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(oĩ avei %(alsocat)s rendápe)",
+	"category-listifying": "Bot: tysýi %(fromcat)s guive ({{PLURAL:%(num)d|1 jeikeha|%(num)d jeikeha}})",
+	"category-removing": "Bot: Oñemboguéma %(oldcat)s pegua",
+	"category-renamed": "Bot: Osẽ %(oldcat)s rendágui. Ojapo: %(authors)s",
+	"category-replacing": "Bot: oñemoambue ñemohenda %(oldcat)s ko ipyahúva %(newcat)s",
+	"category-section-title": "Tembiasakue kuatiarogue %(oldcat)s mboyvegua rehegua",
+	"category-strip-cfd-templates": "Bot: Ojeipe'a hína CFD rembiecharã tembiapo oĩmbágui",
+	"category-version-history": "Bot: Oñeñongatu hína %(oldcat)s mboyvegua rembiasakue hembiapo",
+	"category-was-disbanded": "Bot: Oñemboguéma ko ñemohenda",
+	"category-was-moved": "Bot: Ojegueraha ko ñemohenda [[:Category:%(newcat)s|%(title)s]] rendápe"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"01miki10"
+		]
+	},
+	"image-remove": "Botti poisti kuvan %(file)s",
+	"image-replace": "Botti korvasi kuvan %(old)s kuvalla %(new)s"
+}

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pyscowicz"
+			"Pyscowicz",
+			"01miki10"
 		]
 	},
+	"imagetransfer-file_page_message": "Tämä kuva kopioitiin sivustolta %(site)s. Alkuperäinen kuvaus oli:\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "Tiedosto on nyt saatavilla Wikimedia Commonsissa."
 }
