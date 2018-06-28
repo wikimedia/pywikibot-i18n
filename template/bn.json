@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Aftab1995",
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"আফতাবুজ্জামান"
 		]
 	},
 	"template-removing": "বট: {{PLURAL:%(num)d|টেমপ্লেট|টেমপ্লেটসমূহ}} সরিয়েছে: %(list)s"

@@ -5,7 +5,7 @@
 			"Ninjastrikers"
 		]
 	},
-	"category-adding": "ရိုဘော့ - category [[:Category:%(newcat)s|%(newcat)s]]ကို ပေါင်းထည့်နေသည်",
+	"category-adding": "ဘော့ - category [[:Category:%(newcat)s|%(newcat)s]]ကို ပေါင်းထည့်နေသည်",
 	"category-also-in": "(%(alsocat)s တွင်လည်း)",
 	"category-listifying": "ဘော့ - %(fromcat)s (စာရင်းသွင်းမှု %(num)d ခု) မှ စာရင်းများကို ပြုစုနေသည်",
 	"category-removing": "ဘော့ - %(oldcat)s မှ ဖယ်ရှားနေသည်",

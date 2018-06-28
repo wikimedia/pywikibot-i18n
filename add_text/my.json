@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "ရိုဘော့က ပေါင်းထည့်နေသည် - %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Ninjastrikers"
+		]
+	},
+	"add_text-adding": "ဘော့: %(adding)s ကို ပေါင်းထည့်နေသည်"
 }
