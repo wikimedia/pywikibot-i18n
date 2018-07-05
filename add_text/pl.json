@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sp5uhe"
+			"Sp5uhe",
+			"DeRudySoulStorm"
 		]
 	},
-	"add_text-adding": "Robot dopisał: %(adding)s"
+	"add_text-adding": "Robot dodał %(adding)s"
 }

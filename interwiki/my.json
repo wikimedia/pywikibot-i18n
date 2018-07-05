@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hugo.arg",
-			"Lionslayer"
+			"Lionslayer",
+			"Ninjastrikers"
 		]
 	},
 	"interwiki-adding": "ရိုဘော့က ပေါင်းထည့်နေသည် - %(adding)s",
@@ -10,6 +11,7 @@
 	"interwiki-adding-removing": "ရိုဘော့ ပေါင်းထည့်နေသည် - %(adding)s ဖယ်ရှားနေသည် - %(removing)s",
 	"interwiki-adding-removing-modifying": "ရိုဘော့ ပေါင်းထည့်နေသည် - %(adding)s ဖယ်ရှားနေသည်: %(removing)s ပြင်ဆင်နေသည်: %(modifying)s",
 	"interwiki-modifying": "ရိုဘော့က တည်းဖြတ်နေသည် - %(modifying)s",
+	"interwiki-modifying-from": "ဘော့: %(from)s မှ %(modifying)s သို့ ပြင်ဆင်နေသည်",
 	"interwiki-removing": "ရိုဘော့က ဖယ်ရှားနေသည် - %(removing)s",
 	"interwiki-removing-modifying": "ရိုဘော့က ဖယ်ရှားနေသည် - %(removing)s တည်းဖြတ်နေသည် - %(modifying)s"
 }

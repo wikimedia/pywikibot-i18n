@@ -9,7 +9,11 @@
 	"category-also-in": "(%(alsocat)s တွင်လည်း)",
 	"category-listifying": "ဘော့ - %(fromcat)s (စာရင်းသွင်းမှု %(num)d ခု) မှ စာရင်းများကို ပြုစုနေသည်",
 	"category-removing": "ဘော့ - %(oldcat)s မှ ဖယ်ရှားနေသည်",
+	"category-renamed": "ဘော့: %(oldcat)s မှ ရွှေ့ပြောင်းခဲ့သည်။ ဆောင်ရွက်သူများ: %(authors)s",
 	"category-replacing": "ရိုဘော့ - %(oldcat)s ကို %(newcat)s ဖြင့် အစားထိုးနေသည်",
+	"category-section-title": "ယခင် %(oldcat)s ၏ စာမျက်နှာရာဇဝင်",
+	"category-strip-cfd-templates": "ဘော့: လုပ်ဆောင်ချက် ပြီးမြောက်ပြီးဖြစ်သော CFD တမ်းပလိတ်များကို ဖယ်ရှားနေသည်",
+	"category-version-history": "ဘော့: ယခင် %(oldcat)s ၏ မူကွဲရာဇဝင်များကို သိမ်းဆည်းနေသည်",
 	"category-was-disbanded": "ဘော့ - ကဏ္ဍကို ပယ်ဖျက်လိုက်သည်",
 	"category-was-moved": "ရိုဘော့ - ကဏ္ဍကို [[:Category:%(newcat)s|%(title)s]]သို့ ရွှေ့လိုက်သည်"
 }
