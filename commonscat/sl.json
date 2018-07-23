@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Janezdrilc"
+		]
+	},
+	"commonscat-msg_change": "Bot: Popravljena povezava iz [[:Commons:Category:%(oldcat)s|%(oldcat)s]] v [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

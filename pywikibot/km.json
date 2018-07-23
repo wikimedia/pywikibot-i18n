@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"pywikibot-enter-category-name": "សូមបញ្ចូលឈ្មោះចំណាត់ថ្នាក់ក្រុម៖",
+	"pywikibot-enter-file-links-processing": "តើតំណភ្ជាប់ទៅទំព័រឯកសារមួយណាគួរត្រូវបានដំណើរការ?",
+	"pywikibot-enter-finished-browser": "ចុច Enter ពេលបញ្ចប់ក្នុងកម្មវិធីរុករក។",
+	"pywikibot-enter-namespace-number": "សូមបញ្ចូលចន្លោះឈ្មោះដោយតួលេខរបស់វា៖",
+	"pywikibot-enter-new-text": "សូមបញ្ចូលអត្ថបទថ្មី៖",
+	"pywikibot-enter-page-processing": "តើទំព័រមួយណាគួរត្រូវបានដំណើរការ?",
+	"pywikibot-enter-xml-filename": "សូមបញ្ចូលឈ្មោះឯកសាររបស់ XML dump៖",
+	"pywikibot-fixes-fckeditor": "រ៉ូបូ៖ ជួសជុល html កម្មវិធីកែប្រែសម្បូរបែប",
+	"pywikibot-fixes-html": "រ៉ូបូ៖ បម្លែង/ជួសជុល HTML",
+	"pywikibot-fixes-syntax": "រ៉ូបូ៖ ជួសជុលវាក្យសម្ពន្ធវិគី"
+}

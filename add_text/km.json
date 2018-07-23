@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "រ៉ូបូ បន្ថែម %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"add_text-adding": "រ៉ូបូ ៖ បន្ថែម %(adding)s"
 }

@@ -1,10 +1,15 @@
 {
-	"@metadata": [],
-	"interwiki-adding": "រ៉ូបូ បន្ថែម: %(adding)s",
-	"interwiki-adding-modifying": "រ៉ូបូ បន្ថែម: %(adding)s កែសំរួល: %(modifying)s",
-	"interwiki-adding-removing": "រ៉ូបូ បន្ថែម: %(adding)s ដកចេញ: %(removing)s",
-	"interwiki-adding-removing-modifying": "រ៉ូបូ បន្ថែម: %(adding)s ដកចេញ: %(removing)s កែសំរួល: %(modifying)s",
-	"interwiki-modifying": "រ៉ូបូ កែសំរួល: %(modifying)s",
-	"interwiki-removing": "រ៉ូបូ ដកចេញ: %(removing)s",
-	"interwiki-removing-modifying": "រ៉ូបូ ដកចេញ: %(removing)s កែសំរួល: %(modifying)s"
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"interwiki-adding": "រ៉ូបូ៖ បន្ថែម %(adding)s",
+	"interwiki-adding-modifying": "រ៉ូបូ៖ បន្ថែម %(adding)s; កែសម្រួល %(modifying)s",
+	"interwiki-adding-removing": "រ៉ូបូ៖ បន្ថែម %(adding)s; ដកចេញ៖ %(removing)s",
+	"interwiki-adding-removing-modifying": "រ៉ូបូ៖ បន្ថែម %(adding)s; ដកចេញ %(removing)s; កែសម្រួល %(modifying)s",
+	"interwiki-modifying": "រ៉ូបូ៖ កែសម្រួល %(modifying)s",
+	"interwiki-modifying-from": "រ៉ូបូ៖ កែសម្រួល %(from)s ទៅ %(modifying)s",
+	"interwiki-removing": "រ៉ូបូ៖ ដកចេញ %(removing)s",
+	"interwiki-removing-modifying": "រ៉ូបូ៖ ដកចេញ %(removing)s; កែសម្រួល %(modifying)s"
 }
