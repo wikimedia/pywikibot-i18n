@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tweety"
+		]
+	},
+	"featured-featured": "خودڪار: %(page)s چونڊ مضمون آهي",
+	"featured-former": "خودڪار: %(page)s اڳوڻو چونڊ مضمون آهي",
+	"featured-good": "خودڪار: %(page)s بهترين مضمون آهي",
+	"featured-list": "خودڪار: %(page)s چونڊ فهرست آهي"
+}

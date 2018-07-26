@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wolf Rex"
+			"Wolf Rex",
+			"Bencemac"
 		]
 	},
-	"unusedfiles-comment": "Bot: törlendő képek"
+	"unusedfiles-comment": "Bot: fájlok árvának jelölése"
 }
