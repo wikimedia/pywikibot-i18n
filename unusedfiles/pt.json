@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Leonardo Gregianin",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
-	"unusedfiles-comment": "Robô: marcação de imagens para eliminação"
+	"unusedfiles-comment": "Robô: a etiquetar ficheiro como órfão"
 }
