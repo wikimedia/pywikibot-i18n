@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ninjastrikers"
+			"Ninjastrikers",
+			"Dr Lotus Black"
 		]
 	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "ဆွေးနွေးချက် ပြောင်းသွားသည်",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "ဆွေးနွေးချက် ပိတ်သိမ်းပြီး",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ဘော့ မက်ဆေ့",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "ဆွေးနွေးချက် အသစ်",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "အသိပေးချက်",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "ဘော့"
