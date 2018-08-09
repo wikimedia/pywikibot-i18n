@@ -3,10 +3,11 @@
 		"authors": [
 			"Avicennasis",
 			"John Reid",
-			"Xqt"
+			"Xqt",
+			"MarcoAurelio"
 		]
 	},
-	"redirect-fix-broken-moved": "Robot: Fixin broken reguidal til muived target page %(to)s",
+	"redirect-fix-broken-moved": "Bot: Fixin broken reguidal til muived target page %(to)s",
 	"redirect-fix-double": "Bot: Fixin dooble reguidal til %(to)s",
 	"redirect-fix-loop": "Robot: Fixin reguidal luip til %(to)s",
 	"redirect-remove-broken": "Robot: Reguidal til ae delytit or non-exeestent page",

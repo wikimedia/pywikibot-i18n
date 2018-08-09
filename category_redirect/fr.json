@@ -7,7 +7,8 @@
 			"IAlex",
 			"Od1n",
 			"Urhixidur",
-			"Wladek92"
+			"Wladek92",
+			"Gomoko"
 		]
 	},
 	"category_redirect-add-template": "Robot : ajout de modèle de redirection de catégorie pour maintenance",
@@ -15,5 +16,21 @@
 	"category_redirect-comment": "Robot de maintenance des redirections de catégories",
 	"category_redirect-edit-request": "Les pages protégées suivantes ont été détectées comme nécessitant une mise à jour des liens de catégorie : %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s est dans %(oldcat)s, qui est une redirection vers %(newcat)s",
-	"category_redirect-fix-double": "Robot : répare une double redirection"
+	"category_redirect-fix-double": "Robot : répare une double redirection",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] ajouté(s) à %(oldcat)s",
+	"category_redirect-log-add-failed": "* Échec d’ajout de [[%(ns)s%(template)s]] à %(oldcat)s",
+	"category_redirect-log-double": "* Double redirection corrigée : %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Échec : %(error)s",
+	"category_redirect-log-false-positive": "* Faux positif : %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ignorer %(oldcat)s",
+	"category_redirect-log-loop": "* Boucle de redirection depuis %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s : %(found)d trouvé, %(moved)d déplacé",
+	"category_redirect-log-move-error": "* %(oldcat)s: erreur dans move_contents",
+	"category_redirect-log-new": "Nouvelles redirections depuis le dernier rapport :",
+	"category_redirect-log-not-loaded": "* Impossible de charger %(oldcat)s ; ignoré",
+	"category_redirect-log-skipping": "* Sauter %(oldcat)s ; dans les périodes de calme",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Journaux plus anciens]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s est une redirection en dur vers %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s redirige vers %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s est une redirection auto-liée"
 }

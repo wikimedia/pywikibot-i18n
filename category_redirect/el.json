@@ -3,7 +3,8 @@
 		"authors": [
 			"Geraki",
 			"Glavkos",
-			"Protnet"
+			"Protnet",
+			"Nikosgranturismogt"
 		]
 	},
 	"category_redirect-add-template": "Ρομπότ: Προσθήκη πρότυπου ανακατεύθυνσης κατηγορίας για συντήρηση",
@@ -11,5 +12,21 @@
 	"category_redirect-comment": "Ρομπότ συντήρησης ανακατεύθυνσης κατηγορίας",
 	"category_redirect-edit-request": "Οι ακόλουθες προστατευμένες σελίδες έχουν ανιχνευθεί ως χρήζουσες ενημέρωσης στις συνδέσεις κατηγορίας: %(itemlist)s",
 	"category_redirect-edit-request-item": "Το %(title)s είναι στην %(oldcat)s, η οποία είναι ανακατεύθυνση στην %(newcat)s",
-	"category_redirect-fix-double": "Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης"
+	"category_redirect-fix-double": "Bot: επιδιόρθωση  διπλής-ανακατεύθυνσης",
+	"category_redirect-log-added": "* Προστέθηκαν [[%(ns)s%(template)s]] σε %(oldcat)s",
+	"category_redirect-log-add-failed": "* Αποτυχία προσθήκης [[%(ns)s%(template)s]] σε %(oldcat)s",
+	"category_redirect-log-double": "* Διορθώθηκε διπλή ανακατεύθυνση: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Αποτυχία: %(error)s",
+	"category_redirect-log-false-positive": "* Ψευδώς θετικό: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Αγνοώντας %(oldcat)s",
+	"category_redirect-log-loop": "* Γύρος ανακατεύθυνσης από το %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d βρέθηκαν, %(moved)d μετακινήθηκαν",
+	"category_redirect-log-move-error": "* %(oldcat)s: σφάλμα στο move_contents",
+	"category_redirect-log-new": "Νέες ανακατευθύνσεις από τη τελευταία αναφορά:",
+	"category_redirect-log-not-loaded": "* Αποτυχία φόρτωσης %(oldcat)s; αγνοείται",
+	"category_redirect-log-skipping": "* Παραβλέποντας %(oldcat)s, στη περίοδο απόψυξης",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Παλαιότερα μητρώα]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s είναι μια σκληρή ανακτεύθυνση προς το %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s ανακατευθύνει στο %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s είναι μια αυτοσυνδεόμενη ανακατεύθυνση"
 }
