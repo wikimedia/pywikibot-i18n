@@ -10,5 +10,21 @@
 	"category_redirect-comment": "Робот за одржување на пренасочени категории",
 	"category_redirect-edit-request": "Утврдено е дека на следниве заштитени страници треба да им се подноват категориските врски: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s е во %(oldcat)s, што е пренасочување кон %(newcat)s",
-	"category_redirect-fix-double": "Робот: Исправка на двојни пренасочувања"
+	"category_redirect-fix-double": "Робот: Исправка на двојни пренасочувања",
+	"category_redirect-log-added": "* Ставен [[%(ns)s%(template)s]] во %(oldcat)s",
+	"category_redirect-log-add-failed": "* Неуспешен обид за ставање на [[%(ns)s%(template)s]] во %(oldcat)s",
+	"category_redirect-log-double": "* Исправено двојно пренасочување: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Неуспешно: %(error)s",
+	"category_redirect-log-false-positive": "* Лажен погодок: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Занемарувам %(oldcat)s",
+	"category_redirect-log-loop": "* Јамка на пренасочување од %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: најдено %(found)d, преместено %(moved)d",
+	"category_redirect-log-move-error": "* %(oldcat)s: грешка во move_contents",
+	"category_redirect-log-new": "Нови пренасочувања од последниот извештај:",
+	"category_redirect-log-not-loaded": "* Не можев да ја вчитам %(oldcat)s; занемарувам",
+	"category_redirect-log-skipping": "* Прескокнувам %(oldcat)s; во период на одморање",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Постари дневници]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s е тврдо пренасочување кон %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s пренасочувак кон %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s е самоповрзано пренасочување"
 }

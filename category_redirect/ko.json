@@ -14,7 +14,7 @@
 	"category_redirect-edit-request-item": "* %(title)s은(는) %(newcat)s(으)로 넘겨주기한 %(oldcat)s에 속해 있습니다",
 	"category_redirect-fix-double": "봇: 이중 넘겨주기를 고침",
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] 틀을 %(oldcat)s에 추가함",
-	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] 항목을 %(oldcat)s에 추가하지 못했음",
+	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] 항목을 %(oldcat)s에 추가하지 못함",
 	"category_redirect-log-double": "* 이중 넘겨주기 수정: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** 실패: %(error)s",
 	"category_redirect-log-false-positive": "* 거짓 양성: %(oldcat)s",

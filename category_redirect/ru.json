@@ -3,7 +3,8 @@
 		"authors": [
 			"Volkov",
 			"Александр Сигачёв",
-			"Amire80"
+			"Amire80",
+			"Movses"
 		]
 	},
 	"category_redirect-add-template": "Бот: добавление шаблона перенаправляющей категории для обслуживания",
@@ -11,5 +12,11 @@
 	"category_redirect-comment": "Бот, обслуживающий перенаправления категорий",
 	"category_redirect-edit-request": "Следующие защищенные страницы требуют обновления ссылок категорий: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s находится в %(oldcat)s, являющейся перенаправлением на %(newcat)s",
-	"category_redirect-fix-double": "Бот: исправление двойного перенаправления"
+	"category_redirect-fix-double": "Бот: исправление двойного перенаправления",
+	"category_redirect-log-added": "* Добавлены [[%(ns)s%(template)s]] к %(oldcat)s",
+	"category_redirect-log-add-failed": "* Не удалось добавить [[%(ns)s%(template)s]] к %(oldcat)s",
+	"category_redirect-log-double": "* Исправлен двойной редирект: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Не удалось: %(error)s",
+	"category_redirect-log-ignoring": "* Игнорирование %(oldcat)s",
+	"category_redirect-log-new": "Новые редиректы с момента последнего отчёта:"
 }
