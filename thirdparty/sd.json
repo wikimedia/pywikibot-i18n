@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mehtab ahmed"
+			"Mehtab ahmed",
+			"Indus Asia"
 		]
 	},
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "بوٽ پيغام",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "نئون بحث",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "اطلاع",
+	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "ڪوبه انساني ايڊيٽر نه مليو",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "بوٽ"
 }

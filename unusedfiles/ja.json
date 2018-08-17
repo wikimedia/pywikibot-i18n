@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Otokoume"
+			"Otokoume",
+			"Gulpin"
 		]
 	},
-	"unusedfiles-comment": "ボットによる: 未使用ファイルを削除"
+	"unusedfiles-comment": "ボットによる: ファイルを孤立としてタグ付け"
 }
