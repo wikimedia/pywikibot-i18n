@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Christian List"
+			"Christian List",
+			"Dipsacus fullonum"
 		]
 	},
 	"reflinks-autogen": "autogeneret",
-	"reflinks-comment": "Bot genereret titel",
+	"reflinks-comment": "Botgenereret titel",
 	"reflinks-msg": "Robot: Konverterer nøgne referencer, ved hjælp af ref navne for at undgå dubletter, se [[%(manual)s|FAQ]]"
 }
