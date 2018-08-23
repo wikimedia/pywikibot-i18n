@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko",
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Renessaince"
 		]
 	},
 	"category_redirect-add-template": "Робат: дадаў шаблён перанакіраваньня катэгорыі",
@@ -16,5 +17,9 @@
 	"category_redirect-log-double": "* Выпраўленае падвойнае перанакіраваньне: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Не атрымалася: %(error)s",
 	"category_redirect-log-false-positive": "* Памылковае спрацоўваньне: %(oldcat)s",
-	"category_redirect-log-ignoring": "* Ігнаруем %(oldcat)s"
+	"category_redirect-log-ignoring": "* Ігнаруем %(oldcat)s",
+	"category_redirect-log-loop": "* Цыкль перанакіраваньняў з %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d знойдзена, %(moved)d перанесена",
+	"category_redirect-log-move-error": "* %(oldcat)s: памылка ў move_contents",
+	"category_redirect-log-new": "Новыя перанакіраваньні з часу апошняй справаздачы:"
 }
