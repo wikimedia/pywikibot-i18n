@@ -21,5 +21,10 @@
 	"category_redirect-log-loop": "* Цыкль перанакіраваньняў з %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d знойдзена, %(moved)d перанесена",
 	"category_redirect-log-move-error": "* %(oldcat)s: памылка ў move_contents",
-	"category_redirect-log-new": "Новыя перанакіраваньні з часу апошняй справаздачы:"
+	"category_redirect-log-new": "Новыя перанакіраваньні з часу апошняй справаздачы:",
+	"category_redirect-log-not-loaded": "* Не магу загрузіць %(oldcat)s; прапушчаныя",
+	"category_redirect-log-skipping": "* Прапушчаныя %(oldcat)s; на перазарадцы",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Старыя журналы]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s зьяўляецца цьвёрдым перанакіраваньнем на %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s перанакіроўвае на %(redpage)s"
 }
