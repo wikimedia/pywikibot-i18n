@@ -26,5 +26,6 @@
 	"category_redirect-log-skipping": "* Прапушчаныя %(oldcat)s; на перазарадцы",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Старыя журналы]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s зьяўляецца цьвёрдым перанакіраваньнем на %(page)s",
-	"category_redirect-problem-redirects": "# %(oldcat)s перанакіроўвае на %(redpage)s"
+	"category_redirect-problem-redirects": "# %(oldcat)s перанакіроўвае на %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s — перанакіраваньне само на сябе"
 }
