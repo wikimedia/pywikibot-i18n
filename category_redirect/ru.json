@@ -28,5 +28,6 @@
 	"category_redirect-log-skipping": "* Пропуск %(oldcat)s; сейчас восстанавливается",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Старые записи в журнале]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s является перенаправлением на страницу %(page)s",
-	"category_redirect-problem-redirects": "# %(oldcat)s является перенаправлением на %(redpage)s"
+	"category_redirect-problem-redirects": "# %(oldcat)s является перенаправлением на %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s является перенаправлением само на себя"
 }
