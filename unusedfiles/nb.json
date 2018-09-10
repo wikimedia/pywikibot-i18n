@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"SuperPotato"
+			"SuperPotato",
+			"Jon Harald Søby"
 		]
 	},
-	"unusedfiles-comment": "Robot: bilder for eliminering"
+	"unusedfiles-comment": "Robot: tagger fil som foreldreløs"
 }

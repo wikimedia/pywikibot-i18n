@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nghtwlkr",
-			"SuperPotato"
+			"SuperPotato",
+			"Jon Harald Søby"
 		]
 	},
 	"category_redirect-add-template": "Robot: legger til kategoriomdirigeringsmal for vedlikehold",
@@ -10,5 +11,21 @@
 	"category_redirect-comment": "Vedlikeholdsbot for kategoriomdirigering",
 	"category_redirect-edit-request": "Det har blitt oppdaget at følgende beskyttede sider krever oppdateringer til kategorilenker: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s",
-	"category_redirect-fix-double": "Robot: Retter dobbel omdirigering"
+	"category_redirect-fix-double": "Robot: Retter dobbel omdirigering",
+	"category_redirect-log-added": "* La til [[%(ns)s%(template)s]] på %(oldcat)s",
+	"category_redirect-log-add-failed": "* Kunne ikke legge til [[%(ns)s%(template)s]] på %(oldcat)s",
+	"category_redirect-log-double": "* Fikset dobbel omdirigering: %(oldcat)s → %(newcat)s → %(targetcat)s",
+	"category_redirect-log-failed": "** Feilet: %(error)s",
+	"category_redirect-log-false-positive": "* Falsk positiv: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ignorerer %(oldcat)s",
+	"category_redirect-log-loop": "* Omdirigeringssløyfe fra %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d funnet, %(moved)d flyttet",
+	"category_redirect-log-move-error": "* %(oldcat)s: feil i move_contents",
+	"category_redirect-log-new": "Nye omdirigeringer siden forrige rapport:",
+	"category_redirect-log-not-loaded": "* Kunne ikke laste %(oldcat)s; ignorerer",
+	"category_redirect-log-skipping": "* Hopper over %(oldcat)s; i venteperiode",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Eldre logger]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s er en hard omdirigering til %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s omdirigerer til %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s er en selvlenkende omdirigering"
 }

@@ -3,12 +3,13 @@
 		"authors": [
 			"Emperyan",
 			"Khutuck",
-			"Xqt"
+			"Xqt",
+			"By erdo can"
 		]
 	},
 	"archivebot-archive-full": "(TÜM ARŞİV)",
 	"archivebot-archive-summary": "Bot: Arşivliyor: [[%(from)s]] sayfasından %(count)d başlık",
 	"archivebot-archiveheader": "{{Arşiv alt}}",
-	"archivebot-older-than": "daha eski",
-	"archivebot-page-summary": "Bot: Arşivliyor: %(count)d başlık (%(why)s) buraya: %(archives)s"
+	"archivebot-older-than": "%(duration)s'dan daha eski",
+	"archivebot-page-summary": "Robot: Arşivliyor: %(count)d başlık (%(why)s) buraya: %(archives)s."
 }

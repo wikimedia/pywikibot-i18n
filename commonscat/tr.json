@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"By erdo can"
+		]
+	},
+	"commonscat-msg_change": "Bot: Commonscat bağlantısını [[:Commons:Category:%(oldcat)s|%(oldcat)s]]'dan [[:Commons:Category:%(newcat)s|%(newcat)s]]'e taşıyor"
+}

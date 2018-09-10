@@ -4,7 +4,8 @@
 			"Dferg",
 			"Fitoschido",
 			"Invadinado",
-			"Xqt"
+			"Xqt",
+			"Ktranz"
 		]
 	},
 	"category_redirect-add-template": "Robot: adición de plantilla de redirección de categorías por mantenimiento",
@@ -12,5 +13,21 @@
 	"category_redirect-comment": "Robot de mantenimento de categorías redirigidas",
 	"category_redirect-edit-request": "Se necesita actualizar los enlaces a categorías en estas páginas protegidas: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s está en %(oldcat)s, el cual redirecciona a %(newcat)s",
-	"category_redirect-fix-double": "Robot: arreglo de redirección doble"
+	"category_redirect-fix-double": "Robot: arreglo de redirección doble",
+	"category_redirect-log-added": "* Añadido [[%(ns)s%(template)s]] a %(oldcat)s",
+	"category_redirect-log-add-failed": "* Falló al añadirse [[%(ns)s%(template)s]] a %(oldcat)s",
+	"category_redirect-log-double": "* Reparada redirección-doble: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Falló: %(error)s",
+	"category_redirect-log-false-positive": "* Falso positivo: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ignorando %(oldcat)s",
+	"category_redirect-log-loop": "* Bucle de dirección desde %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d encontrado, %(moved)d movido",
+	"category_redirect-log-move-error": "* %(oldcat)s: error en move_contents",
+	"category_redirect-log-new": "Nuevas redirecciones desde el ultimo reporte:",
+	"category_redirect-log-not-loaded": "* No se pueden cargar %(oldcat)s; ignorando",
+	"category_redirect-log-skipping": "* Saltando %(oldcat)s; en el periodo de enfriamiento",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Registros viejos]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s es una redirección dura a %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s redirige a  %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s es una redirección auto-enlazada"
 }
