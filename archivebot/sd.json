@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tweety"
+		]
+	},
+	"archivebot-older-than": "%(duration)s کان پراڻا"
+}

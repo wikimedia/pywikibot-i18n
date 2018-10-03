@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aue Nai"
+		]
+	},
+	"category-adding": "ရုပ်စက်: ထပ်ဒၟံၚ် ကဏ္ဍ [[:ကဏ္ဍ:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(သီုအပ္ဍဲ %(alsocat)s)",
+	"category-removing": "ရုပ်စက်: ပတိတ်ဒၟံၚ်နူ %(oldcat)s",
+	"category-renamed": "ရုပ်စက်: ပတိတ်လဝ်နူ %(oldcat)s. ကဝိဂမၠိုၚ် %(authors)s",
+	"category-replacing": "ရုပ်စက်: ကလေၚ်စွံဒၟံၚ် ကဏ္ဍ%(oldcat)s ကေုာံ %(newcat)s",
+	"category-section-title": "လၟေၚ်မပြံၚ်လှာဲမုက်လိက် မဒှ်ကိုပ်ကၠာ %(oldcat)s"
+}

@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "robot radjouter %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Reptilien.19831209BE1"
+		]
+	},
+	"add_text-adding": "Robot : Radjoute %(adding)s"
 }

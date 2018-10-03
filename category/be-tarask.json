@@ -16,6 +16,8 @@
 	"category-replacing": "Робат: замена катэгорыі %(oldcat)s на %(newcat)s",
 	"category-section-title": "Гісторыя старонкі папярэдняе %(oldcat)s",
 	"category-strip-cfd-templates": "Робат: выдаленьне CFD-шаблёнаў для завяршэньня дзеяньня",
+	"category-strip-sort-keys": "Робат: выдаленьне ключоў сартаваньня для выкананага дзеяньня",
+	"category-strip-both": "Робат: выдаленьне шаблёнаў выдаленьня катэгорыяў і ключоў сартаваньня для завершаных дзеяньняў",
 	"category-version-history": "Робат: захаваньне гісторыі вэрсіяў папярэдняй %(oldcat)s",
 	"category-was-disbanded": "Робат: катэгорыя расфармаваная",
 	"category-was-moved": "Робат: катэгорыя перайменаваная ў [[:Category:%(newcat)s|%(title)s]]"

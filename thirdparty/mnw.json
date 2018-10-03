@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aue Nai"
+		]
+	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "သဳကၠဳ ပြံၚ်လှာဲလဝ်",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "သဳကၠဳ ကၟာတ်လဝ်",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "ပရၚ်သဳကၠဳ တၟိ",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "တင်မကဵုသမ္တီဂမၠိုင်",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s မဒါန်ကြဴ] (%(page_size)s bytes) by %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "ရုပ်စက်"
+}

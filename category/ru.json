@@ -10,7 +10,8 @@
 			"Александр Сигачёв",
 			"Dima st bk",
 			"Okras",
-			"Amire80"
+			"Amire80",
+			"Movses"
 		]
 	},
 	"category-adding": "Бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]",
@@ -21,6 +22,8 @@
 	"category-replacing": "Бот: замена категории %(oldcat)s на %(newcat)s",
 	"category-section-title": "История страницы из бывшей %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: Удаление CFD-шаблонов для завершённых действий",
+	"category-strip-sort-keys": "Бот: Удаление ключей сортировки для завершённых действий",
+	"category-strip-both": "Бот: Удаление CFD-шаблонов и ключей сортировки для завершённых действий",
 	"category-version-history": "Бот: сохранение истории версий из бывшей %(oldcat)s",
 	"category-was-disbanded": "Бот: категория расформирована",
 	"category-was-moved": "Бот: категория переименована в [[:Category:%(newcat)s|%(title)s]]"

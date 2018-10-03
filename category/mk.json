@@ -14,6 +14,8 @@
 	"category-replacing": "Робот: Ја заменувам категоријата %(oldcat)s со %(newcat)s",
 	"category-section-title": "Историја на поранешни верзии на %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: Отстранување на CFD-шаблони за извршено дејство",
+	"category-strip-sort-keys": "Бот: Отстранување на клучеви за подредување за извршено дејство",
+	"category-strip-both": "Бот: Отстранување на CFD-шаблони клучеви за подредување за извршено дејство",
 	"category-version-history": "Робот: Зачувува историја на поранешни верзии на %(oldcat)s",
 	"category-was-disbanded": "Робот: Категоријата е распуштена",
 	"category-was-moved": "Бот: Категоријата е преместена во [[:Category:%(newcat)s|%(title)s]]"

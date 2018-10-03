@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aue Nai"
+		]
+	},
+	"archivebot-older-than": "တြေံနူ %(duration)s",
+	"archivebot-page-summary": "ရုပ်စက်: ပတိုန်သမ္တီဒၟံၚ် %(count)d {{PLURAL:%(count)d|ဘပလ|ဘပလဂမၠိုၚ်}} (%(why)s) to %(archives)s"
+}

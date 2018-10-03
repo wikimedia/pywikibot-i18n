@@ -11,5 +11,8 @@
 	"category_redirect-comment": "カテゴリ転送保守ボット",
 	"category_redirect-edit-request": "以下の保護されたページは、カテゴリリンクの更新が必要であると検出されました: %(itemlist)s",
 	"category_redirect-edit-request-item": "* 「%(title)s」は、「%(newcat)s」へのリダイレクトである「%(oldcat)s」にカテゴリ分けされています",
-	"category_redirect-fix-double": "ボットによる: 二重転送の修正"
+	"category_redirect-fix-double": "ボットによる: 二重転送の修正",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] を %(oldcat)s に追加",
+	"category_redirect-log-add-failed": "* %(oldcat)s への [[%(ns)s%(template)s]] の追加に失敗",
+	"category_redirect-log-double": "* 二重転送を修正: %(oldcat)s -> %(newcat)s -> %(targetcat)s"
 }

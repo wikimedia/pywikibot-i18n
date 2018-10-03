@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aue Nai"
+		]
+	},
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}

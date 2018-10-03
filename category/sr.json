@@ -9,14 +9,14 @@
 			"BadDog"
 		]
 	},
-	"category-adding": "Бот: додајем категорију [[:Категорија:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Бот: додавање категорије [[:Категорија:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(и у %(alsocat)s)",
-	"category-listifying": "Бот: исписујем из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})",
-	"category-removing": "Бот: уклањам из %(oldcat)s",
+	"category-listifying": "Бот: исписивање из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})",
+	"category-removing": "Бот: уклањање из %(oldcat)s",
 	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s",
-	"category-replacing": "Бот: замењујем категорију %(oldcat)s са %(newcat)s",
+	"category-replacing": "Бот: замењивање категорије %(oldcat)s са %(newcat)s",
 	"category-section-title": "Историја раније верзије странице %(oldcat)s",
-	"category-strip-cfd-templates": "Бот: уклањам CFD шаблоне за извршену радњу",
+	"category-strip-cfd-templates": "Бот: уклањање CFD шаблона за извршену радњу",
 	"category-version-history": "Бот: чувам историју раније верзије странице %(oldcat)s",
 	"category-was-disbanded": "Бот: категорија је распуштена",
 	"category-was-moved": "Бот: категорија је премештена у [[:Категорија:%(newcat)s|%(title)s]]"

@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mehtab ahmed"
+			"Mehtab ahmed",
+			"Tweety"
 		]
 	},
+	"welcome-bad_username": "بوٽ: واپرائيندڙ نانءُ شامل ڪرڻ جيڪو جانچڻو هجي",
+	"welcome-updating": "بوٽ: لاگ تازا ڪرڻ",
 	"welcome-welcome": "ڀليڪار!"
 }
