@@ -17,6 +17,8 @@
 	"category-replacing": "Bot: Ersätter kategorin %(oldcat)s med %(newcat)s",
 	"category-section-title": "Sidhistorik från tidigare %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Tar bort raderingsmallar för genomförd åtgärd",
+	"category-strip-sort-keys": "Bot: Tar bort sorteringsnycklar för genomförd åtgärd",
+	"category-strip-both": "Bot: Tar bort CFD-mallar och sorteringsnycklar för genomförd åtgärd",
 	"category-version-history": "Bot: Sparar versionshistorik från tidigare %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategorin upplöstes",
 	"category-was-moved": "Bot: Kategori flyttades till [[:Category:%(newcat)s|%(title)s]]"

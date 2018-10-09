@@ -17,6 +17,8 @@
 	"category-replacing": "Robot: nahrazení kategorie %(oldcat)s za %(newcat)s",
 	"category-section-title": "Historie verzí bývalé %(oldcat)s",
 	"category-strip-cfd-templates": "Robot: odstranění šablony Přejmenovat kategorii po přesunu",
+	"category-strip-sort-keys": "Robot: odstranění šablony klíčů řazení po přesunu",
+	"category-strip-both": "Robot: odstranění šablony Přejmenovat kategorii a klíčů řazení po přesunu",
 	"category-version-history": "Robot: ukládání historie verzí bývalé %(oldcat)s",
 	"category-was-disbanded": "Robot: vyprázdnění kategorie",
 	"category-was-moved": "Robot: přesun kategorie na [[:Kategorie:%(newcat)s|%(title)s]]"
