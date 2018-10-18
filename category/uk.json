@@ -5,7 +5,8 @@
 			"Base",
 			"Тест",
 			"Ата",
-			"Avatar6"
+			"Avatar6",
+			"Movses"
 		]
 	},
 	"category-adding": "Бот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",
@@ -16,6 +17,7 @@
 	"category-replacing": "Бот: перекатегоризація з %(oldcat)s на %(newcat)s",
 	"category-section-title": "Історія сторінки колишньої %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: Вилучення CFD-шаблонів для завершених дій",
+	"category-strip-sort-keys": "Бот: Вилучення ключів сортування для завершених дій",
 	"category-version-history": "Бот: Збереження історії версій колишньої %(oldcat)s",
 	"category-was-disbanded": "Бот: категорія розформована",
 	"category-was-moved": "Бот: категорію перейменовано на [[:Category:%(newcat)s|%(title)s]]"
