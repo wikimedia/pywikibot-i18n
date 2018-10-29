@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siddhartha Ghai"
+			"Siddhartha Ghai",
+			"संजीव कुमार"
 		]
 	},
+	"solve_disambiguation-adding-dn-template": "बॉट-सहायक बहुविकल्पी: %(from)s - विशेषज्ञ के ध्यान की आवश्यकता के रूप में चिह्नित किया।",
+	"solve_disambiguation-links-removed": "बॉट-सहायक बहुविकल्पी: %(from)s - कड़ी(याँ) हटाई।",
+	"solve_disambiguation-links-resolved": "बॉट-सहायक बहुविकल्पी: %(from)s - %(to)s से कड़ी(याँ) बदली",
+	"solve_disambiguation-redirect-adding-dn-template": "बॉट-सहायक बहुविकल्पी: %(from)s - विशेषज्ञ के ध्यान की आवश्यकता के रूप में चिह्नित किया।",
+	"solve_disambiguation-redirect-removed": "बॉट-सहायक बहुविकल्पी: %(from)s - कड़ी(याँ) हटाई",
+	"solve_disambiguation-redirect-resolved": "बॉट-सहायक बहुविकल्पी: %(from)s - %(to)s से कड़ी(याँ) बदली",
 	"solve_disambiguation-unknown-page": "(अज्ञात)"
 }

@@ -2,13 +2,30 @@
 	"@metadata": {
 		"authors": [
 			"Mayur",
-			"Siddhartha Ghai"
+			"Siddhartha Ghai",
+			"संजीव कुमार"
 		]
 	},
-	"category_redirect-add-template": "बॉट: रखरखाव के लिए श्रेणी पुनर्प्रेषण साँचा जोड़ा गया",
+	"category_redirect-add-template": "बॉट: रखरखाव के लिए श्रेणी पुनर्प्रेषण साँचा जोड़ा जा रहा",
 	"category_redirect-change-category": "बॉट: पुनर्प्रेषित श्रेणी [[:%(oldCatLink)s|%(oldCatTitle)s]] की जगह [[:%(newCatLink)s|%(newCatTitle)s]] जोड़ी",
 	"category_redirect-comment": "श्रेणी पुनर्प्रेषण रखरखाव रोबॉट",
 	"category_redirect-edit-request": "निम्न सुरक्षित पृष्ठ पाए गए हैं जिनमें श्रेणियों को अद्यतित करने की आवश्यकता है: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s %(oldcat)s में है, जो %(newcat)s को पुनर्प्रेषित है",
-	"category_redirect-fix-double": "बॉट: दुगना पुनर्प्रेषण सही किया गया"
+	"category_redirect-fix-double": "बॉट: दुगना पुनर्प्रेषण सही किया गया",
+	"category_redirect-log-added": "* %(oldcat)s में [[%(ns)s%(template)s]] जोड़ा।",
+	"category_redirect-log-add-failed": "* %(oldcat)s में [[%(ns)s%(template)s]] जोड़ना असफल रहा।",
+	"category_redirect-log-double": "* द्वि-अनुप्रेषण ठीक किया: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** असफल: %(error)s",
+	"category_redirect-log-false-positive": "* असत्य सकारात्मक: %(oldcat)s",
+	"category_redirect-log-ignoring": "* उपेक्षित %(oldcat)s",
+	"category_redirect-log-loop": "* %(oldcat)s से अनुप्रेषण पाश",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d मिला, %(moved)d स्थानान्तरित किया",
+	"category_redirect-log-move-error": "* %(oldcat)s: स्थानान्तरन_सामग्री में त्रुटि",
+	"category_redirect-log-new": "पिछली बार देखने के पश्चात् नये अनुप्रेषण",
+	"category_redirect-log-not-loaded": "* %(oldcat)s को लोड नहीं कर सका; उपेक्षा कर रहा",
+	"category_redirect-log-skipping": "* %(oldcat)s छोड़ रहा; मुक्त समय में",
+	"category_redirect-older-logs": "'''[%(oldlogs)s पुराना लॉग]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s, %(page)s पर पूर्णतः अनुप्रेषित है।",
+	"category_redirect-problem-redirects": "# %(oldcat)s, %(redpage)s पर अनुप्रेषित होती है",
+	"category_redirect-problem-self-linked": "# %(oldcat)s अपने आप पर अनुप्रेषित हो रही है"
 }

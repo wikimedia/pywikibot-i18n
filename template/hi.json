@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siddhartha Ghai"
+			"Siddhartha Ghai",
+			"संजीव कुमार"
 		]
 	},
 	"template-changing": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} बदल रहा है: %(list)s",
-	"template-removing": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} हटा रहा है: %(list)s"
+	"template-removing": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} हटा रहा है: %(list)s",
+	"template-substituting": "बॉट: {{PLURAL:%(num)d|साँचा|साँचे}} स्थानापन: %(list)s"
 }
