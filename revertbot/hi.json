@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"संजीव कुमार"
+		]
+	},
+	"revertbot-revert": "बॉट: %(timestamp)s पर %(author)s के %(revid)s अवतरण में बदला"
+}
