@@ -6,5 +6,6 @@
 	},
 	"archivebot-archive-full": "မေါဝ်ကံင်ႋ ၰိုဲဆှ်",
 	"archivebot-archive-summary": "ဘော့: [[%(from)s]] ခဝ့်ၮါင်းပ္တုံၯံင် %(count)d {{PLURAL:%(count)d|thread|threads}} မေါဝ်ကံင်ႋယောဝ်ႋထါင်ႋ",
-	"archivebot-older-than": "%(duration)s ၰိုဲ လါင်းလီၰာၰံင်"
+	"archivebot-older-than": "%(duration)s ၰိုဲ လါင်းလီၰာၰံင်",
+	"archivebot-page-summary": "ဘော့:%(archives)s ထံင် %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) မဝ်ႋကံင်တုဂ်"
 }
