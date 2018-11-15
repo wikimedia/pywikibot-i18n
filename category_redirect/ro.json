@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
 	"category_redirect-add-template": "Robot: Adăugat formatul de întreținere pentru categorie redirecționată",
@@ -9,5 +10,19 @@
 	"category_redirect-comment": "Robot de întreținere a redirecționărilor de categorii",
 	"category_redirect-edit-request": "Următoarele pagini protejate au fost detectate ca necesitând actualizări la legăturile de categorie: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s se află în %(oldcat)s, care este o redirecționare către %(newcat)s",
-	"category_redirect-fix-double": "Robot: Reparat dubla redirecționare înspre"
+	"category_redirect-fix-double": "Robot: Reparat dubla redirecționare înspre",
+	"category_redirect-log-added": "* Am adăugat [[%(ns)s%(template)s]] la %(oldcat)s",
+	"category_redirect-log-add-failed": "* Nu am putut adăuga [[%(ns)s%(template)s]] la %(oldcat)s",
+	"category_redirect-log-double": "* Repar dubla redirecționare: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Eșuate: %(error)s",
+	"category_redirect-log-ignoring": "* Ignor %(oldcat)s",
+	"category_redirect-log-loop": "* Buclă de redirecționare de la %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d găsite, %(moved)d redenumite",
+	"category_redirect-log-move-error": "* %(oldcat)s: eroare în move_contents",
+	"category_redirect-log-new": "Redirecționări noi de la ultimul raport:",
+	"category_redirect-log-not-loaded": "* Nu pot încărca %(oldcat)s; o ignor",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Loguri mai vechi]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s este o redirecționare către %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s redirecționează către %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s este o redirecționare către sine însăși"
 }

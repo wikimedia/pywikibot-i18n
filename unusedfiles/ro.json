@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
-	"unusedfiles-comment": "Robot: imagini pentru eliminare"
+	"unusedfiles-comment": "Robot: etichetez fișierul ca orfan"
 }
