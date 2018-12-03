@@ -5,7 +5,8 @@
 			"Liuxinyu970226",
 			"Shizhao",
 			"Yfdyh000",
-			"阿pp"
+			"阿pp",
+			"A Chinese Wikipedian"
 		]
 	},
 	"category-adding": "机器人：添加分类[[:Category:%(newcat)s|%(newcat)s]]",
@@ -16,6 +17,8 @@
 	"category-replacing": "机器人：变更分类%(oldcat)s为%(newcat)s",
 	"category-section-title": "之前%(oldcat)s的页面历史",
 	"category-strip-cfd-templates": "机器人：完成操作时移除CFD模板",
+	"category-strip-sort-keys": "机器人：删除已完成动作的排序键",
+	"category-strip-both": "机器人：删除CFD模板并为完成的操作排序关键字",
 	"category-version-history": "机器人：保存之前%(oldcat)s的历史版本记录",
 	"category-was-disbanded": "机器人：分类已被解散",
 	"category-was-moved": "机器人：移动分类至[[:Category:%(newcat)s|%(title)s]]"
