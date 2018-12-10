@@ -5,5 +5,11 @@
 		]
 	},
 	"category-adding": "خودکار: اضافہ زمرہ [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-replacing": "خودکار: زمرہ %(oldcat)s کی %(newcat)s سے تبدیلی"
+	"category-also-in": "(%(alsocat)s میں بھی)",
+	"category-removing": "خودکار: حذف از %(oldcat)s",
+	"category-replacing": "خودکار: زمرہ %(oldcat)s کی %(newcat)s سے تبدیلی",
+	"category-section-title": "سابقہ %(oldcat)s کا تاریخچہ",
+	"category-strip-cfd-templates": "خودکار: کام کی تکمیل کے بعد حذف کا سانچہ ہٹایا",
+	"category-was-disbanded": "خودکار: زمرہ ختم کر دیا گیا",
+	"category-was-moved": "خودکار: زمرہ کو [[:زمرہ:%(newcat)s|%(title)s]] کی جانب منتقل کر دیا گیا"
 }

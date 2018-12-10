@@ -4,5 +4,9 @@
 			"Muhammad Shuaib"
 		]
 	},
-	"delete-from-file": "خودکار: صفحات کی فہرست سے صفحہ حذف کیا جا رہا ہے۔"
+	"delete-from-category": "خودکار: زمرہ %(page)s سے تمام صفحات حذف",
+	"delete-from-file": "خودکار: صفحات کی فہرست سے صفحہ حذف کیا جا رہا ہے۔",
+	"delete-images": "خودکار: صفحہ %(page)s کی تمام تصویریں حذف کی جا رہی ہیں",
+	"delete-linked-pages": "خودکار: %(page)s سے مربوط تمام صفحات کو حذف کیا جا رہا ہے",
+	"delete-referring-pages": "خودکار: %(page)s سے متعلق تمام صفحات کو حذف کیا جا رہا ہے"
 }

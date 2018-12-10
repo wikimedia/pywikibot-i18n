@@ -4,5 +4,7 @@
 			"Muhammad Shuaib"
 		]
 	},
+	"casechecker-rename": "خودکار: مخلوط حروف پر مشتمل نام کی تبدیلی",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "خودکار: چھوٹے بڑے حروف کی درستی"
 }
