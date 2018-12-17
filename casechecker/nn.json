@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+}
