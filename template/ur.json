@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"template-changing": "خودکار: تبدیلی {{PLURAL:%(num)d|سانچہ|سانچہ جات}}: %(list)s",
+	"template-removing": "خودکار: حذف {{PLURAL:%(num)d|سانچہ|سانچہ جات}}: %(list)s"
+}

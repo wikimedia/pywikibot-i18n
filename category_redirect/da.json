@@ -5,7 +5,8 @@
 			"Kaare",
 			"Peter Alberti",
 			"Sarrus",
-			"MGA73"
+			"MGA73",
+			"Saederup92"
 		]
 	},
 	"category_redirect-add-template": "Robot: Tilføjer kategoriomdirigeringsskabelon til vedligeholdelse",
@@ -13,5 +14,6 @@
 	"category_redirect-comment": "Robot til vedligeholdelse af kategoriomdirigeringer",
 	"category_redirect-edit-request": "Det er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s",
-	"category_redirect-fix-double": "Robot: Retter dobbelt omdirigering"
+	"category_redirect-fix-double": "Robot: Retter dobbelt omdirigering",
+	"category_redirect-log-ignoring": "* Ignorerer %(oldcat)s"
 }

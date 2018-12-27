@@ -4,5 +4,7 @@
 			"Muhammad Shuaib"
 		]
 	},
-	"undelete-from-file": "خودکار: متعدد صفحات کو بحال کیا جا رہا ہے"
+	"undelete-from-file": "خودکار: متعدد صفحات کو بحال کیا جا رہا ہے",
+	"undelete-images": "خودکار: صفحہ %(page)s کی تمام تصویروں کو بحال کیا جا رہا ہے",
+	"undelete-linked-pages": "خودکار: %(page)s سے مربوط تمام صفحات کو بحال کیا جا رہا ہے"
 }
