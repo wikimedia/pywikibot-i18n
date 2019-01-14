@@ -6,7 +6,8 @@
 			"Shirayuki",
 			"Whym",
 			"Xqt",
-			"Otokoume"
+			"Otokoume",
+			"Yusuke1109"
 		]
 	},
 	"category-adding": "ボットによる: カテゴリ「[[:Category:%(newcat)s|%(newcat)s]]」を追加",
@@ -17,6 +18,8 @@
 	"category-replacing": "ボットによる: カテゴリ「%(oldcat)s」を「%(newcat)s」へ変更",
 	"category-section-title": "以前の「%(oldcat)s」のページ履歴",
 	"category-strip-cfd-templates": "ボットによる: 完了したアクションの CFD テンプレートを削除",
+	"category-strip-sort-keys": "ボットによる: 完了したアクションのソートキーを削除",
+	"category-strip-both": "ボットによる: 完了したアクションの CFD テンプレートおよびソートキーを削除",
 	"category-version-history": "ボットによる: 以前の「%(oldcat)s」の更新履歴の保存",
 	"category-was-disbanded": "ボットによる: カテゴリを廃止",
 	"category-was-moved": "ボットによる: カテゴリを「[[:Category:%(newcat)s|%(title)s]]」へ移動"

@@ -6,7 +6,8 @@
 			"Тест",
 			"Ата",
 			"Avatar6",
-			"Movses"
+			"Movses",
+			"Piramidion"
 		]
 	},
 	"category-adding": "Бот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",
@@ -16,8 +17,9 @@
 	"category-renamed": "Бот: перейменовано з %(oldcat)s. Автори: %(authors)s",
 	"category-replacing": "Бот: перекатегоризація з %(oldcat)s на %(newcat)s",
 	"category-section-title": "Історія сторінки колишньої %(oldcat)s",
-	"category-strip-cfd-templates": "Бот: Вилучення CFD-шаблонів для завершених дій",
-	"category-strip-sort-keys": "Бот: Вилучення ключів сортування для завершених дій",
+	"category-strip-cfd-templates": "Бот: Вилучення CFD-шаблонів для завершення процедури",
+	"category-strip-sort-keys": "Бот: Вилучення ключів сортування для завершення процедури",
+	"category-strip-both": "Бот:Вилучення CFD-шаблонів та ключів сортування для завершення процедури",
 	"category-version-history": "Бот: Збереження історії версій колишньої %(oldcat)s",
 	"category-was-disbanded": "Бот: категорія розформована",
 	"category-was-moved": "Бот: категорію перейменовано на [[:Category:%(newcat)s|%(title)s]]"
