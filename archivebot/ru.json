@@ -4,12 +4,13 @@
 			"Express2000",
 			"Okras",
 			"Rubin16",
-			"Amire80"
+			"Amire80",
+			"Dvorapa"
 		]
 	},
 	"archivebot-archive-full": "(АРХИВ ЗАПОЛНЕН)",
-	"archivebot-archive-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|темы|тем}} с [[%(from)s]]",
+	"archivebot-archive-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|тема|темы|тем}} с [[%(from)s]]",
 	"archivebot-archiveheader": "{{Архив обсуждения}}",
 	"archivebot-older-than": "старше, чем %(duration)s",
-	"archivebot-page-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|темы|тем}} (%(why)s) в %(archives)s"
+	"archivebot-page-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|тема|темы|тем}} (%(why)s) в %(archives)s"
 }
