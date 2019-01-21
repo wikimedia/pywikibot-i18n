@@ -16,5 +16,15 @@
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] を %(oldcat)s に追加",
 	"category_redirect-log-add-failed": "* %(oldcat)s への [[%(ns)s%(template)s]] の追加に失敗",
 	"category_redirect-log-double": "* 二重転送を修正: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
-	"category_redirect-log-new": "前回のレポート以降の新しいリダイレクト:"
+	"category_redirect-log-false-positive": "* 誤検知: %(oldcat)s",
+	"category_redirect-log-ignoring": "* 「%(oldcat)s」を無視します",
+	"category_redirect-log-loop": "* 「%(oldcat)s」からのリダイレクトループです",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d件が見つかり、%(moved)d件が移動しました",
+	"category_redirect-log-new": "前回のレポート以降の新しいリダイレクト:",
+	"category_redirect-log-not-loaded": "* 「%(oldcat)s」を読み込めなかったため、無視します",
+	"category_redirect-log-skipping": "* クールダウン中のため、「%(oldcat)s」をスキップします",
+	"category_redirect-older-logs": "'''[%(oldlogs)s 過去の記録]'''",
+	"category_redirect-problem-hard": "# 「%(oldcat)s」はカテゴリページではない「%(page)s」へのリダイレクトです",
+	"category_redirect-problem-redirects": "# 「%(oldcat)s」は存在しないページ「%(redpage)s」へのリダイレクトです",
+	"category_redirect-problem-self-linked": "# 「%(oldcat)s」は自己リダイレクトです"
 }
