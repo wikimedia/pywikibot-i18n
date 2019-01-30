@@ -9,5 +9,6 @@
 	"category_redirect-comment": "בוט תחזוקת הפניות לקטגוריות",
 	"category_redirect-edit-request": "הדפים המוגנים הבאים זוהו כדפים שיש לעדכן בהם קישורים לקטגוריות: %(itemlist)s",
 	"category_redirect-edit-request-item": "* הדף %(title)s נמצא בקטגוריה %(oldcat)s, שמפנה ל%(newcat)s",
-	"category_redirect-fix-double": "בוט: מתקן הפניה כפולה"
+	"category_redirect-fix-double": "בוט: מתקן הפניה כפולה",
+	"category_redirect-log-added": "* נוספה [[%(ns)s%(template)s]] אל %(oldcat)s"
 }

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nullzero",
-			"Octahedron80"
+			"Octahedron80",
+			"Patsagorn Y."
 		]
 	},
 	"category-adding": "บอต: เพิ่มหมวดหมู่ [[:Category:%(newcat)s|%(newcat)s]]",
@@ -13,6 +14,7 @@
 	"category-replacing": "บอต: แทนที่หมวดหมู่ %(oldcat)s ด้วย %(newcat)s",
 	"category-section-title": "ประวัติหน้าเก่าของ %(oldcat)s",
 	"category-strip-cfd-templates": "บอต: ลบแม่แบบแจ้งลบสำหรับการปฏิบัติที่เสร็จสิ้นแล้ว",
+	"category-strip-sort-keys": "บอต: ลบกุญแจที่ปฏิบัติงานแล้ว",
 	"category-version-history": "บอตซ บันทึกรุ่นประวัติเก่าของ %(oldcat)s",
 	"category-was-disbanded": "บอต: หมวดหมู่ถูกยุบเลิก",
 	"category-was-moved": "บอต: หมวดหมู่ได้ย้ายไป [[:Category:%(newcat)s|%(title)s]]"

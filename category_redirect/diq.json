@@ -10,5 +10,9 @@
 	"category_redirect-comment": "Boti timarin da hetanayışi kategoriyan",
 	"category_redirect-edit-request": "Peleye ke stare deyê greye kategoriya re newe kerdış icab keno: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s, %(newcat)s re hetanayışkar ita do %(oldcat)s'",
-	"category_redirect-fix-double": "Robot: Sabıtkerdışê hetenayışê dıleti"
+	"category_redirect-fix-double": "Robot: Sabıtkerdışê hetenayışê dıleti",
+	"category_redirect-log-failed": "** Nêbi: %(error)s",
+	"category_redirect-log-false-positive": "* Xırabe pozitif: %(oldcat)s",
+	"category_redirect-log-ignoring": "* %(oldcat)s red ke",
+	"category_redirect-older-logs": "'''[%(oldlogs)s qeydên kehani]'''"
 }
