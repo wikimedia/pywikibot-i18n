@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Otokoume"
+			"Otokoume",
+			"本日晴天"
 		]
 	},
-	"revertbot-revert": "ボットによる: %(timestamp)s の %(author)s による版 %(revid)s を取り消し"
+	"revertbot-revert": "ボットによる: %(timestamp)s の %(author)s による版 %(revid)s へ差し戻し"
 }

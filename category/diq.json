@@ -3,7 +3,8 @@
 		"authors": [
 			"Erdemaslancan",
 			"Mirzali",
-			"Kumkumuk"
+			"Kumkumuk",
+			"Orbot707"
 		]
 	},
 	"category-adding": "Bot: [[Kategoriye:%(newcat)s]] dekerd de",
@@ -14,6 +15,8 @@
 	"category-replacing": "Bot: Kategoriya %(oldcat)s be %(newcat)s ra vuriyena",
 	"category-section-title": "Werênayışê pela da %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Seba karo biyaye ra şablonanê CFD wedare",
+	"category-strip-sort-keys": "Bot: Seba aksiyoni pêro kılitê kılmi wedareno",
+	"category-strip-both": "Bot: Seba aksiyoni pêro şablonanê CFD u kılitê kılmi wedareno",
 	"category-version-history": "Boti qeydê verênayışê versiyoni ke %(oldcat)s",
 	"category-was-disbanded": "Boti karkerdışe kategori qedina",
 	"category-was-moved": "Boti kategori name dê [[:Category:%(newcat)s|%(title)s]] ya ahûlnê"

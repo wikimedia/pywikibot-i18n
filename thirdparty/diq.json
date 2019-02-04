@@ -11,7 +11,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Persiyey racneya",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MESACE ROBOTİ",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Mınaqeşeyo newe",
-	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Mengene",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Tebliğ",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s vurnayışê verêni] (%(page_size)s bayto)  %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s werênayışi pêro (seyr kerdış) hewadeya - vurnayışe peyênê %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\n%(sign)s:Xulasa vıraziye </noinclude>",
