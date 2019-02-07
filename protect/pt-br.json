@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amgauna"
+		]
+	},
+	"protect-category": "Bot: Protegendo todas as páginas da categoria %(cat)s",
+	"protect-images": "Bot: Protegendo todas as imagens das páginas %(page)s",
+	"protect-links": "Bot: Protegendo todas as páginas ligadas a %(page)s",
+	"protect-ref": "Bot: Protegendo todas as páginas referenciadas em %(page)s",
+	"protect-simple": "Bot: Protegendo uma lista de arquivos."
+}

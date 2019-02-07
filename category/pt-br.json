@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu",
+			555
+		]
+	},
+	"category-adding": "Bot: Adicionando categoria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(também em %(alsocat)s)",
+	"category-listifying": "Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|uma entrada|%(num)d entradas}})",
+	"category-removing": "Bot: Removendo de [[%(oldcat)s]]",
+	"category-renamed": "Bot: Movido de %s. Autores: %s",
+	"category-replacing": "Bot: Trocando categoria %(oldcat)s por %(newcat)s",
+	"category-section-title": "Histórico de edições da categoria anterior (%(oldcat)s)",
+	"category-version-history": "Bot: Salvando histórico de edições da categoria anterior (%(oldcat)s)",
+	"category-was-disbanded": "Bot: Categoria dissolvida",
+	"category-was-moved": "Bot: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]"
+}

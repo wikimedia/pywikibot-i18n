@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			555
+		]
+	},
+	"template-changing": "Bot: Alterando {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s",
+	"template-removing": "Bot: Removendo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s",
+	"template-substituting": "Bot: Substituindo {{PLURAL:%(num)d|predefinição|predefinições}}: %(list)s"
+}

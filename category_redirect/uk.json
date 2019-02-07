@@ -24,5 +24,10 @@
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d знайдено, %(moved)d переміщено",
 	"category_redirect-log-move-error": "* %(oldcat)s: помилка у move_contents",
 	"category_redirect-log-new": "Нові перенаправлення з моменту останнього звіту:",
-	"category_redirect-log-not-loaded": "* Не вдалось завантажити %(oldcat)s; не беремо до уваги"
+	"category_redirect-log-not-loaded": "* Не вдалось завантажити %(oldcat)s; не беремо до уваги",
+	"category_redirect-log-skipping": "* Пропуск %(oldcat)s; на відновленні",
+	"category_redirect-older-logs": "'''[%(oldlogs)s старі журнали]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s є жорстким перенаправленням на %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s є перенаправленням на %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s є перенаправленням на само себе"
 }

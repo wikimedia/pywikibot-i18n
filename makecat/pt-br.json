@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amgauna"
+		]
+	},
+	"makecat-create": "Robot: Criação ou atualização de [[:Category:%(cat)s|Categoria]]"
+}

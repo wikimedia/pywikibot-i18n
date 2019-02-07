@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tooguether"
+		]
+	},
+	"pagefromfile-msg": "Robô: Importação automática de artigos",
+	"pagefromfile-msg_bottom": "adicionando no fim",
+	"pagefromfile-msg_force": "texto sobrescrito existente",
+	"pagefromfile-msg_top": "adicionado no topo"
+}

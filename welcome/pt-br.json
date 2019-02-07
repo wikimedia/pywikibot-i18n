@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luckas",
+			555
+		]
+	},
+	"welcome-bad_username": "Bot: Adicionando um nome de usuário que precisa ser verificado",
+	"welcome-updating": "Bot: Atualizando registro",
+	"welcome-welcome": "Bem-vindo!"
+}
