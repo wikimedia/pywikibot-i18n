@@ -5,7 +5,8 @@
 			"Huji",
 			"Ladsgroup",
 			"Reza1615",
-			"ZxxZxxZ"
+			"ZxxZxxZ",
+			"Dalba"
 		]
 	},
 	"pywikibot-enter-category-name": "لطفاً نام رده را وارد کنید:",
@@ -17,5 +18,5 @@
 	"pywikibot-enter-xml-filename": "لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:",
 	"pywikibot-fixes-fckeditor": "ربات: تصحیح اچ‌تی‌ام‌ال ویرایشگر پیشرفته",
 	"pywikibot-fixes-html": "ربات:تبدیل/تصحیح کدهای اچ‌تی‌ام‌ال",
-	"pywikibot-fixes-syntax": "ربات:تصحیح قالب ویکی‌نویسی"
+	"pywikibot-fixes-syntax": "ربات: اصلاح نحو ویکی"
 }

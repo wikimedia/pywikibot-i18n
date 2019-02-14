@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
-	"weblinkchecker-archive_msg": "Esta página web foi gravada na Internet Archive. Por favor, considere a ligação para a versão arquivada: [%(URL)s].",
-	"weblinkchecker-badurl": "A ligação fornecida não parece ser uma URL válida",
+	"weblinkchecker-archive_msg": "A página foi gravada pelo site Internet Archive. Pondere criar uma hiperligação para uma versão arquivada que seja adequada: [%(URL)s].",
+	"weblinkchecker-badurl": "A hiperligação fornecida não parece ser um URL válido",
 	"weblinkchecker-caption": "Ligação inativa",
-	"weblinkchecker-report": "Foi checado os links externos deste artigo por vários minutos. Alguém verifique por favor se a ligação estiver fora do ar e tente arrumá-lo ou removê-la!",
-	"weblinkchecker-summary": "Robô: A denunciar ligação externa inativa"
+	"weblinkchecker-report": "Foi detetado, durante várias execuções automáticas do robô, que a seguinte hiperligação externa estava indisponível. Verifique se a hiperligação está efetivamente em baixo e, se for esse o caso, corrija-a ou remova-a, por favor!",
+	"weblinkchecker-summary": "Robô: reportar hiperligação externa indisponível"
 }

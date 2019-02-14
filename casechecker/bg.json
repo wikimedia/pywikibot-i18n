@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vodnokon4e"
+			"Vodnokon4e",
+			"Vlad5250"
 		]
 	},
-	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+	"casechecker-rename": "Бот: преименуване с мешани големи/малки букви",
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "Бот: Замени на големи/малки букви:"
 }

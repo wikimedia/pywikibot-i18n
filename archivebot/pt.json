@@ -5,12 +5,13 @@
 			"Waldir",
 			"Xqt",
 			"Macofe",
-			"Mansil"
+			"Mansil",
+			"Hamilton Abreu"
 		]
 	},
 	"archivebot-archive-full": "(ARQUIVO CHEIO)",
-	"archivebot-archive-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} de [[%(from)s]]",
+	"archivebot-archive-summary": "Robô: arquivamento de %(count)d {{PLURAL:%(count)d|tópico|tópicos}} de [[%(from)s]]",
 	"archivebot-archiveheader": "{{Arquivo de discussão}}",
 	"archivebot-older-than": "mais antigo que %(duration)s",
-	"archivebot-page-summary": "Robô: A arquivar {{PLURAL:%(count)d|thread|threads}} (%(why)s) em %(archives)s"
+	"archivebot-page-summary": "Robô: arquivamento de %(count)d {{PLURAL:%(count)d|tópico|tópicos}} (%(why)s) em %(archives)s"
 }

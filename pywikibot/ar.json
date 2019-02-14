@@ -16,5 +16,6 @@
 	"pywikibot-enter-xml-filename": "الرجاء إدخال اسم ملف تفريغ XML:",
 	"pywikibot-fixes-fckeditor": "بوت: تصحيح rich-editor html",
 	"pywikibot-fixes-html": "بوت: تحويل/تصليح HTML",
-	"pywikibot-fixes-syntax": "بوت: تصليح تهيئة الويكي"
+	"pywikibot-fixes-syntax": "بوت: تصليح تهيئة الويكي",
+	"pywikibot-touch": "تحرير لمس بايثون ويكي بوت"
 }

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vodnokon4e"
+			"Vodnokon4e",
+			"Vlad5250"
 		]
 	},
-	"image-remove": "Бот: Премахване на картинка %(file)s"
+	"image-remove": "Бот: Премахване на картинка %(file)s",
+	"image-replace": "Бот: Заменяне на картинката %(old)s с %(new)s"
 }

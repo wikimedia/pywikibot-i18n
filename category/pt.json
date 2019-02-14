@@ -6,12 +6,12 @@
 			"Waldir"
 		]
 	},
-	"category-adding": "Robô: A adicionar a categoria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Robô: adição da categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(também em %(alsocat)s)",
-	"category-listifying": "Robô: A listar a partir de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})",
-	"category-removing": "Robô: A remover de %(oldcat)s",
-	"category-renamed": "Robô: Movida de %(oldcat)s. Autores: %(authors)s",
-	"category-replacing": "Robô: A substituir a categoria %(oldcat)s por %(newcat)s",
+	"category-listifying": "Robô: listagem dos artigos da categoria %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})",
+	"category-removing": "Robô: remoção da categoria %(oldcat)s",
+	"category-renamed": "Robô: movida de %(oldcat)s. Autores: %(authors)s",
+	"category-replacing": "Robô: substituição da categoria %(oldcat)s por %(newcat)s",
 	"category-section-title": "Histórico de versões da antiga %(oldcat)s",
 	"category-strip-cfd-templates": "Robô: Remoção de predefinições de discussão para ação concluída",
 	"category-strip-sort-keys": "Robô: Remoção de chaves de ordenação para ação concluída",

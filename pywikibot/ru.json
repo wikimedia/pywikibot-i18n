@@ -5,7 +5,8 @@
 			"Eleferen",
 			"Rubin16",
 			"Volkov",
-			"Okras"
+			"Okras",
+			"Movses"
 		]
 	},
 	"pywikibot-enter-category-name": "Пожалуйста, введите название категории:",
@@ -15,7 +16,8 @@
 	"pywikibot-enter-new-text": "Пожалуйста, введите новый текст:",
 	"pywikibot-enter-page-processing": "Какая страница должна обрабатываться?",
 	"pywikibot-enter-xml-filename": "Пожалуйста, введите имя файла дампа XML:",
-	"pywikibot-fixes-fckeditor": "Робот: Исправление HTML-кода редактора форматированного текста",
+	"pywikibot-fixes-fckeditor": "Бот: Исправление HTML-кода после редактора форматированного текста",
 	"pywikibot-fixes-html": "Бот: коррекция HTML",
-	"pywikibot-fixes-syntax": "Бот: Коррекция вики синтаксиса"
+	"pywikibot-fixes-syntax": "Бот: Коррекция вики синтаксиса",
+	"pywikibot-touch": "Правка Pywikibot"
 }

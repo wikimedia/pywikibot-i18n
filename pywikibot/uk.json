@@ -5,7 +5,8 @@
 			"Base",
 			"DixonD",
 			"Dmitry Nikitin",
-			"Ата"
+			"Ата",
+			"Movses"
 		]
 	},
 	"pywikibot-enter-category-name": "Введіть назву категорії:",
@@ -17,5 +18,6 @@
 	"pywikibot-enter-xml-filename": "Будь ласка, введіть назву файлу дампу XML:",
 	"pywikibot-fixes-fckeditor": "Робот: Виправлення html після редактора форматованого тексту",
 	"pywikibot-fixes-html": "Бот: корекцiя HTML",
-	"pywikibot-fixes-syntax": "Бот: Корекцiя вiкi-синтаксису"
+	"pywikibot-fixes-syntax": "Бот: Корекцiя вiкi-синтаксису",
+	"pywikibot-touch": "Правка Pywikibot"
 }

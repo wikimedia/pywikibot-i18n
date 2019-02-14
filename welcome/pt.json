@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Giro720",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
-	"welcome-bad_username": "Robô : A adicionar um nome de utilizador que precisa ser verificado",
-	"welcome-updating": "Robô: A atualizar registo",
+	"welcome-bad_username": "Robô : adição de um nome de utilizador que precisa de ser verificado",
+	"welcome-updating": "Robô: atualização de registo",
 	"welcome-welcome": "Bem-vindo(a)!"
 }

@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Xqt",
-			"Vodnokon4e"
+			"Vodnokon4e",
+			"Vlad5250"
 		]
 	},
 	"archivebot-archive-full": "(АРХИВЪТ Е ПЪЛЕН)",
-	"archivebot-archiveheader": "{{Архив беседа}}"
+	"archivebot-archiveheader": "{{Архив беседа}}",
+	"archivebot-older-than": "по-старо от %(duration)s"
 }

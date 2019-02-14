@@ -3,8 +3,9 @@
 		"authors": [
 			"Rubin16",
 			"Volkov",
-			"Dima st bk"
+			"Dima st bk",
+			"Movses"
 		]
 	},
-	"add_text-adding": "Бот добавил: %(adding)s"
+	"add_text-adding": "Бот: добавлено %(adding)s"
 }

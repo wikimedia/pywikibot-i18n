@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
-	"add_text-adding": "Robô: A adicionar %(adding)s"
+	"add_text-adding": "Robô: adição de %(adding)s"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
-	"blockpageschecker-summary": "Robô: A retirar predefinição de proteção"
+	"blockpageschecker-summary": "Robô: remoção de predefinição obsoleta"
 }

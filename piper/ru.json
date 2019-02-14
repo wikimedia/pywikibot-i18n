@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Movses"
 		]
 	},
-	"piper-edit-summary": "Робот: статья пропущена через %(filters)s"
+	"piper-edit-summary": "Бот: статья пропущена через %(filters)s"
 }

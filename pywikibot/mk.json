@@ -13,5 +13,6 @@
 	"pywikibot-enter-xml-filename": "Внесете го името на XML-складот:",
 	"pywikibot-fixes-fckeditor": "Робот: Исправка на збогатен HMTL",
 	"pywikibot-fixes-html": "Робот: Претворање/исправка на HTML",
-	"pywikibot-fixes-syntax": "Робот: Исправка на викисинтакса"
+	"pywikibot-fixes-syntax": "Робот: Исправка на викисинтакса",
+	"pywikibot-touch": "Ништовно уредување со Pywikibot"
 }

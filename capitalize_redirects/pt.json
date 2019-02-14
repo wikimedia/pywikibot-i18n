@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Giro720"
+			"Giro720",
+			"Hamilton Abreu"
 		]
 	},
-	"capitalize_redirects-create-redirect": "Robô: A criar redirecionamento para [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "Robô: criação de redirecionamento para [[%(to)s]]"
 }

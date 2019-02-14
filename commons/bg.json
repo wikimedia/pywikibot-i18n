@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"Vlad5250"
 		]
 	},
+	"commons-file-moved": "[[:File:%(localfile)s|Файлът]] е преместен на [[:commons:File:%(commonsfile)s|Общомедия]].",
 	"commons-file-now-available": "Файлът вече е наличен в [[:commons:File:%(commonsfile)s|Общомедия]]."
 }

@@ -7,9 +7,9 @@
 			"Hamilton Abreu"
 		]
 	},
-	"casechecker-delete-reason": "Este redirecionamento é usado para apontar a %(target)s",
-	"casechecker-delete-summary": "Robô: Este redirecionamento contém caracteres cirílicos e latinos no título",
-	"casechecker-rename": "Robô: renomear com maiúsculas/minúsculas combinadas",
+	"casechecker-delete-reason": "Este redirecionamento apontava para %(target)s",
+	"casechecker-delete-summary": "Robô: este redirecionamento contém caracteres cirílicos e latinos de aparência idêntica no título",
+	"casechecker-rename": "Robô: alteração do nome por mistura de alfabetos",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Robô: Modificações de casos:"
+	"casechecker-replacement-summary": "Robô: substituição de maiúsculas/minúsculas:"
 }
