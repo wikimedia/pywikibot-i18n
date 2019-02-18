@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250"
+			"Vlad5250",
+			"Vodnokon4e"
 		]
 	},
-	"editarticle-edit": "Ръчно редактиране с робот: %(description)s"
+	"editarticle-edit": "Ръчно редактиране с бот: %(description)s"
 }

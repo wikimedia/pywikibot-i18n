@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250"
+			"Vlad5250",
+			"Vodnokon4e"
 		]
 	},
-	"checkimages-source-notice-comment": "Робот: Търси източник на информацията."
+	"checkimages-source-notice-comment": "Бот: Търсене на източник на информацията."
 }

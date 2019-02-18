@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250"
+			"Vlad5250",
+			"Vodnokon4e"
 		]
 	},
-	"makecat-create": "Робот: Създаване или поднова на категорията [[:Category:%(cat)s|]]"
+	"makecat-create": "Бот: Създаване или актуализиране на категорията [[:Category:%(cat)s|]]"
 }
