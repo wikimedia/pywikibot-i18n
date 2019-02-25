@@ -7,7 +7,7 @@
 		]
 	},
 	"archivebot-archive-full": "(DIELLOÙ LEUN)",
-	"archivebot-archive-summary": "O tiellaouiñ %(count)d {{PLURAL:%(count)d|neudennad|neudennad}} adalek [[%(from)s]]",
+	"archivebot-archive-summary": "Robot : O tiellaouiñ %(count)d {{PLURAL:%(count)d|neudennad|neudennad}} adalek [[%(from)s]]",
 	"archivebot-older-than": "koshoc'h eget %(duration)s",
-	"archivebot-page-summary": "O tiellaouiñ %(count)d {{PLURAL:%(count)d|neudennad|neudennad}} (%(why)s) war-zu %(archives)s"
+	"archivebot-page-summary": "Robot : O tiellaouiñ %(count)d {{PLURAL:%(count)d|neudennad|neudennad}} (%(why)s) war-zu %(archives)s"
 }

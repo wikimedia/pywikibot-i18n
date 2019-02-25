@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"✓",
-			"Metalhead64"
+			"Metalhead64",
+			"Xqt"
 		]
 	},
 	"category_redirect-add-template": "Bot: Füge Kategorieweiterleitungs-Vorlage für die Wartung hinzu",
@@ -13,18 +14,18 @@
 	"category_redirect-fix-double": "Bot: Korrigiere doppelte Weiterleitung",
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] zu %(oldcat)s hinzugefügt",
 	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] konnte nicht zu %(oldcat)s hinzugefügt werden",
-	"category_redirect-log-double": "* Doppelte Weiterleitung behoben: %(oldcat)s → %(newcat)s → %(targetcat)s",
+	"category_redirect-log-double": "* Doppelte Weiterleitung korrigiert: %(oldcat)s → %(newcat)s → %(targetcat)s",
 	"category_redirect-log-failed": "** Fehlgeschlagen: %(error)s",
 	"category_redirect-log-false-positive": "* Falsch positiv: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignoriere %(oldcat)s",
 	"category_redirect-log-loop": "* Weiterleitungsschleife von %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d gefunden, %(moved)d verschoben",
 	"category_redirect-log-move-error": "* %(oldcat)s: Fehler in move_contents",
-	"category_redirect-log-new": "Neue Weiterleitungen seit der letzten Meldung:",
+	"category_redirect-log-new": "Neue Weiterleitungen seit dem letzten Bericht:",
 	"category_redirect-log-not-loaded": "* %(oldcat)s konnte nicht geladen werden; wird ignoriert",
-	"category_redirect-log-skipping": "* Überspringe %(oldcat)s; in der Abkühlphase",
+	"category_redirect-log-skipping": "* Überspringe %(oldcat)s; noch in der Wartezeit",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Ältere Logs]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s ist eine harte Weiterleitung auf %(page)s",
-	"category_redirect-problem-redirects": "# %(oldcat)s Weiterleitungen nach %(redpage)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s leitet nach %(redpage)s weiter",
 	"category_redirect-problem-self-linked": "# %(oldcat)s ist eine selbstverweisende Weiterleitung"
 }

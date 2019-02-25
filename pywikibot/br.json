@@ -13,5 +13,6 @@
 	"pywikibot-enter-xml-filename": "Ebarzhit anv ar restr eztennañ XML, mar plij:",
 	"pywikibot-fixes-fckeditor": "Robot : Reizhañ HTML an embanner pinvidik",
 	"pywikibot-fixes-html": "Robot : Amdreiñ/reizhañ",
-	"pywikibot-fixes-syntax": "Robot : reizhañ wiki-ereadurezh"
+	"pywikibot-fixes-syntax": "Robot : reizhañ wiki-ereadurezh",
+	"pywikibot-touch": "Kemm touchet gant Pywikibot"
 }

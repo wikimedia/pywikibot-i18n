@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Als-Chlämens"
+			"Als-Chlämens",
+			"Xqt"
 		]
 	},
 	"category_redirect-add-template": "Bötli: Due d Kategoriwyterleitigsvorlag für Wartigszweck dezue",
 	"category_redirect-change-category": "Bötli: due di wytergleiteti Kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] uff [[:%(newCatLink)s|%(newCatTitle)s]] ändere",
 	"category_redirect-comment": "Bötli zur Wartig vo Kategoriwyterleitige",
-	"category_redirect-edit-request": "Uff dänne gschütze Syte wo folge, isch feschtgstellt worde dass e Kategorielink-Aktualisierig notwändig isch: %(itemlist)s",
-	"category_redirect-edit-request-item": "* %(title)s befindet sich in %(oldcat)s, wo uff %(newcat)s wyterleite duet",
+	"category_redirect-edit-request": "Uff dänne gschütze Syte wo folge isch noo e Kategorielink-Aktualisierig notwändig: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s isch in %(oldcat)s, wo uff %(newcat)s wyterleite duet",
 	"category_redirect-fix-double": "Bötli: Uflösig vun de doppleti Wyterleitig"
 }

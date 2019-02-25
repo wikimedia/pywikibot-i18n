@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "Robot ouzhpennet %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Gwenn-Ael"
+		]
+	},
+	"add_text-adding": "Robot : Ouzhpennet %(adding)s"
 }

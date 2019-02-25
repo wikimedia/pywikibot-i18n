@@ -21,6 +21,6 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Robot mesacê ikazi: %(page)s \"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "%(num)i re xulasay werênayışi debyê.",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "%(num)i re xulasay werênayışi  debye de u timar bi",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "pelada %(page)s re %(num)i xulasay werênayışi kerd newe"
 }
