@@ -15,7 +15,7 @@
 	"category_redirect-log-add-failed": "* Неуспешен обид за ставање на [[%(ns)s%(template)s]] во %(oldcat)s",
 	"category_redirect-log-double": "* Исправено двојно пренасочување: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Неуспешно: %(error)s",
-	"category_redirect-log-false-positive": "* Лажен погодок: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Неочекувано непренасочување: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Занемарувам %(oldcat)s",
 	"category_redirect-log-loop": "* Јамка на пренасочување од %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: најдено %(found)d, преместено %(moved)d",

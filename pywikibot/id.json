@@ -18,5 +18,6 @@
 	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas timbunan XML:",
 	"pywikibot-fixes-fckeditor": "Bot: Memperbaiki html editor kaya",
 	"pywikibot-fixes-html": "Bot: Mengubah/memperbaiki HTML",
-	"pywikibot-fixes-syntax": "Bot: Memperbaiki sintaksis wiki"
+	"pywikibot-fixes-syntax": "Bot: Memperbaiki sintaksis wiki",
+	"pywikibot-touch": "Suntingan kosong Pywikibot"
 }

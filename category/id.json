@@ -16,6 +16,8 @@
 	"category-replacing": "Bot: Mengganti kategori %(oldcat)s dengan %(newcat)s",
 	"category-section-title": "Versi terdahulu halaman bekas %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Menghapus templat usulan penghapusan kategori dari tindakan yang telah selesai",
+	"category-strip-sort-keys": "Bot: Menghapus kunci sortiran pada tindakan yang telah selesai",
+	"category-strip-both": "Bot: Menghapus templat usulan penghapusan kategori dari tindakan yang telah selesai",
 	"category-version-history": "Bot: Menyimpan versi terdahulu bekas %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategori dibuang",
 	"category-was-moved": "Bot: Kategori dipindahkan ke [[:Kategori:%(newcat)s|%(title)s]]"

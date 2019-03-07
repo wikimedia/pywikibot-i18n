@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"imagetransfer-file_page_message": "Esta imagem foi copiada de %(site)s. A descrição original foi:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "O arquivo está agora na wiki Wikimedia Commons."
+}

@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Farras",
-			"Macofe"
+			"Macofe",
+			"Rachmat04"
 		]
 	},
 	"commons-file-moved": "[[:File:%(localfile)s|Berkas]] dipindahkan ke [[:commons:File:%(commonsfile)s|commons]].",
-	"commons-file-now-available": "Berkas ini sekarang tersedia di [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
+	"commons-file-now-available": "Berkas sekarang tersedia di [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
 }

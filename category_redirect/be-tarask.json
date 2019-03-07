@@ -16,7 +16,7 @@
 	"category_redirect-log-add-failed": "* Не атрымалася дадаць [[%(ns)s%(template)s]] да %(oldcat)s",
 	"category_redirect-log-double": "* Выпраўленае падвойнае перанакіраваньне: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Не атрымалася: %(error)s",
-	"category_redirect-log-false-positive": "* Памылковае спрацоўваньне: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Нечаканае неперанакіраваньне: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ігнаруем %(oldcat)s",
 	"category_redirect-log-loop": "* Цыкль перанакіраваньняў з %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d знойдзена, %(moved)d перанесена",

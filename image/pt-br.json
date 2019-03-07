@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"image-remove": "Robô: Mudando imagem %(file)s",
+	"image-replace": "Robô: Mudando imagem %(old)s para %(new)s"
+}

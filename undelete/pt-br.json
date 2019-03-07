@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"undelete-from-file": "Robô: Restando lista de páginas",
+	"undelete-images": "Robô: Restando  todas as imagens da página %(page)s",
+	"undelete-linked-pages": "Robô: Restando  todas as páginas ligadas a partir de %(page)s"
+}

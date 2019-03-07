@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			555
+			555,
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"pywikibot-enter-category-name": "Insira o nome da categoria:",
@@ -10,5 +11,9 @@
 	"pywikibot-enter-namespace-number": "Insira o número de espaço nominal:",
 	"pywikibot-enter-new-text": "Insira o novo texto:",
 	"pywikibot-enter-page-processing": "Qual página deve ser processada?",
-	"pywikibot-enter-xml-filename": "Insira o nome de arquivo do dump em XML:"
+	"pywikibot-enter-xml-filename": "Insira o nome de arquivo do dump em XML:",
+	"pywikibot-fixes-fckeditor": "Robô: Corrigindo o HTML gerado pelo editor visual.",
+	"pywikibot-fixes-html": "Robô: Conversão ou correção de HTML",
+	"pywikibot-fixes-syntax": "Robô: Correção da sintaxe wiki",
+	"pywikibot-touch": "Edição por toque de Pywikibot"
 }

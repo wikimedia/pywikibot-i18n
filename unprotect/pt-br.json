@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"unprotect-category": "Robô: Desprotegendo todos as páginas da categoria %(cat)s",
+	"unprotect-images": "Robô: Desprotegendo todas as imagens na página %(page)s.",
+	"unprotect-links": "Robô: Desprotegendo todas as páginas ligadas a %(page)s.",
+	"unprotect-ref": "Robô: Desprotegendo todas as páginas afluentes a %(page)s.",
+	"unprotect-simple": "Robô: Desprotegendo uma lista de ficheiros."
+}

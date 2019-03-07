@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Dianakc",
-			555
+			555,
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"weblinkchecker-archive_msg": "A página da web foi salva pelo \"Internet Archive\". Considere inserir link para uma versão arquivada adequada: [%(URL)s].",
+	"weblinkchecker-badurl": "A hiperligação fornecida não parece ser um URL válido",
 	"weblinkchecker-caption": "Link quebrado",
 	"weblinkchecker-report": "Durante várias execuções automáticas do robô, o seguinte endereço externo foi considerado indisponível. Verifique se está mesmo fora do ar e corrija-o ou remova-o nesse caso!",
 	"weblinkchecker-summary": "Bot: comunicando link externo indisponível"

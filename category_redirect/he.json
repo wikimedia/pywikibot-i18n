@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"YaronSh"
 		]
 	},
 	"category_redirect-add-template": "בוט: מוסיף תבנית הפניה לקטגוריה לשם תחזוקה",
@@ -10,5 +11,8 @@
 	"category_redirect-edit-request": "הדפים המוגנים הבאים זוהו כדפים שיש לעדכן בהם קישורים לקטגוריות: %(itemlist)s",
 	"category_redirect-edit-request-item": "* הדף %(title)s נמצא בקטגוריה %(oldcat)s, שמפנה ל%(newcat)s",
 	"category_redirect-fix-double": "בוט: מתקן הפניה כפולה",
-	"category_redirect-log-added": "* נוספה [[%(ns)s%(template)s]] אל %(oldcat)s"
+	"category_redirect-log-added": "* נוספה [[%(ns)s%(template)s]] אל %(oldcat)s",
+	"category_redirect-log-add-failed": "* ההוספה של [[%(ns)s%(template)s]] אל %(oldcat)s נכשלה",
+	"category_redirect-log-double": "* תוקנה הפניה כפולה %(oldcat)s ->‏ %(newcat)s ->‏ %(targetcat)s",
+	"category_redirect-log-failed": "** כשל: %(error)s"
 }

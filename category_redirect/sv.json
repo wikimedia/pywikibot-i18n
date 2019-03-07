@@ -15,7 +15,7 @@
 	"category_redirect-log-add-failed": "* Misslyckades att lägga till [[%(ns)s%(template)s]] i %(oldcat)s",
 	"category_redirect-log-double": "* Åtgärdade dubbel omdirigering: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Misslyckades: %(error)s",
-	"category_redirect-log-false-positive": "* Falsk positiv: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Oväntad icke-omdirigering: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignorerar %(oldcat)s",
 	"category_redirect-log-loop": "* Omdirigeringsloop från %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d hittades, %(moved)d flyttades",

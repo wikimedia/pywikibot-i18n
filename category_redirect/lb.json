@@ -10,5 +10,8 @@
 	"category_redirect-comment": "Bot fir den Ënnerhalt vu Viruleedunge vu Kategorien",
 	"category_redirect-edit-request": "Op dëse gespaarte Säite mussen nach Aktualiséierunge vun de Kategorie-Linke gemaach ginn: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ass an %(oldcat)s, déi eng Viruleedung op %(newcat)s ass",
-	"category_redirect-fix-double": "Bot: Duebel Viruleedung gefléckt"
+	"category_redirect-fix-double": "Bot: Duebel Viruleedung gefléckt",
+	"category_redirect-log-failed": "** Feeler: %(error)s",
+	"category_redirect-log-ignoring": "* Ignoréieren %(oldcat)s",
+	"category_redirect-log-new": "Nei Viruleedungen zanter dem leschte Rapport:"
 }
