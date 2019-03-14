@@ -16,7 +16,7 @@
 	"category_redirect-log-add-failed": "* Nebylo možné zařadit [[%(ns)s%(template)s]] do %(oldcat)s",
 	"category_redirect-log-double": "* Opraveno dvojité přesměrování: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Chyba: %(error)s",
-	"category_redirect-log-false-positive": "* Falešný nález: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Neočekávaná stránka místo přesměrování: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s vynechána",
 	"category_redirect-log-loop": "* Cyklus přesměrování z %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d nalezeno, %(moved)d přesunuto",

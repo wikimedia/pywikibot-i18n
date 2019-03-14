@@ -17,7 +17,7 @@
 	"category_redirect-log-add-failed": "* فشلت إضافة [[%(ns)s%(template)s]] إلى %(oldcat)s",
 	"category_redirect-log-double": "* تم تصحيح التحويلة المزدوجة : %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** فشل: %(error)s",
-	"category_redirect-log-false-positive": "* إيجابية كاذبة: %(oldcat)s",
+	"category_redirect-log-false-positive": "* غير تحويلة غير متوقعة: %(oldcat)s",
 	"category_redirect-log-ignoring": "* تجاهل %(oldcat)s",
 	"category_redirect-log-loop": "* تحويل حلقة من %(oldcat)s",
 	"category_redirect-log-moved": "* تم إيجاد %(oldcat)s: %(found)d، تم نقل %(moved)d",
