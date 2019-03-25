@@ -14,5 +14,6 @@
 	"category_redirect-log-added": "* נוספה [[%(ns)s%(template)s]] אל %(oldcat)s",
 	"category_redirect-log-add-failed": "* ההוספה של [[%(ns)s%(template)s]] אל %(oldcat)s נכשלה",
 	"category_redirect-log-double": "* תוקנה הפניה כפולה %(oldcat)s ->‏ %(newcat)s ->‏ %(targetcat)s",
-	"category_redirect-log-failed": "** כשל: %(error)s"
+	"category_redirect-log-failed": "** כשל: %(error)s",
+	"category_redirect-log-false-positive": "* בלתי־צפוי, לא דף הפניה: %(oldcat)s"
 }

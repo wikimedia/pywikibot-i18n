@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Avjoska"
+			"Avjoska",
+			"Pikne"
 		]
 	},
-	"pywikibot-enter-new-text": "Palun sisesta uus tekst:"
+	"pywikibot-enter-new-text": "Palun sisesta uus tekst:",
+	"pywikibot-touch": "Pywikiboti tühimuudatus"
 }

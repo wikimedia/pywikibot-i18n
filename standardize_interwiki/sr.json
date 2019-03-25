@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"BadDog"
 		]
 	},
-	"standardize_interwiki-comment": "Бот: Стандардизација међувикија"
+	"standardize_interwiki-comment": "Робот: Стандардизација међувикија"
 }
