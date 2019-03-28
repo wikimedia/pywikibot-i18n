@@ -18,7 +18,7 @@
 	"category_redirect-log-add-failed": "* Не удалось добавить [[%(ns)s%(template)s]] к %(oldcat)s",
 	"category_redirect-log-double": "* Исправлен двойной редирект: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Не удалось: %(error)s",
-	"category_redirect-log-false-positive": "* Ложное срабатывание: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Непредвиденное отсутствие перенаправления: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Игнорирование %(oldcat)s",
 	"category_redirect-log-loop": "* Цикл перенаправления с %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d найден, переименован в %(moved)d",

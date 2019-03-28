@@ -5,7 +5,8 @@
 			"Ahonc",
 			"Ата",
 			"Avatar6",
-			"Movses"
+			"Movses",
+			"Gzhegozh"
 		]
 	},
 	"category_redirect-add-template": "Бот: додав шаблон про перенаправлення категорії",
@@ -18,7 +19,7 @@
 	"category_redirect-log-add-failed": "* Не вдалось додати [[%(ns)s%(template)s]] до %(oldcat)s",
 	"category_redirect-log-double": "* Виправлено подвійне перенаправлення: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Не вдалось: %(error)s",
-	"category_redirect-log-false-positive": "* Помилкові спрацьовування: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Непередбачена відсутність перенаправлення: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ігнорування %(oldcat)s",
 	"category_redirect-log-loop": "* Петля перенаправлень з %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d знайдено, %(moved)d переміщено",
