@@ -16,7 +16,7 @@
 	"category_redirect-log-add-failed": "* Tede kerdışê [[%(ns)s%(template)s]] to %(oldcat)s nêbiyo",
 	"category_redirect-log-double": "* dılet redirekti aneweya: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Nêbi: %(error)s",
-	"category_redirect-log-false-positive": "* Xırabe pozitif: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Xırabe redirekt: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s red ke",
 	"category_redirect-log-loop": "%(oldcat)s ra redirektê doçi",
 	"category_redirect-log-moved": "* %(oldcat)s: vêniya  %(found)d,  berd %(moved)d",

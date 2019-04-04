@@ -16,5 +16,6 @@
 	"pywikibot-enter-xml-filename": "Inserisci il nome del file del dump XML:",
 	"pywikibot-fixes-fckeditor": "Robot: Correzione html rich editor",
 	"pywikibot-fixes-html": "Bot: Conversioni/correzioni HTML",
-	"pywikibot-fixes-syntax": "Bot: Correggo sintassi wiki"
+	"pywikibot-fixes-syntax": "Bot: Correggo sintassi wiki",
+	"pywikibot-touch": "Bot: modifica fittizia Pywikibot"
 }

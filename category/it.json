@@ -18,6 +18,8 @@
 	"category-replacing": "Bot: Sostituzione di %(oldcat)s con %(newcat)s",
 	"category-section-title": "Cronologia della precedente %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Rimozione di template CFD per intervenuto completamento dell'azione",
+	"category-strip-sort-keys": "Bot: rimuovo chiavi di ordinamento per l'azione completata",
+	"category-strip-both": "Bot: rimuovo template CFD e chiavi di ordinamento per l'azione completata",
 	"category-version-history": "Bot: salvo la cronologia della precedente %(oldcat)s",
 	"category-was-disbanded": "Bot: La categoria è stata eliminata",
 	"category-was-moved": "Bot: La categoria è stata sostituita da [[:Category:%(newcat)s|%(title)s]]"
