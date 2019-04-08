@@ -5,7 +5,8 @@
 			"Fitoschido",
 			"Invadinado",
 			"Xqt",
-			"Ktranz"
+			"Ktranz",
+			"Ovruni"
 		]
 	},
 	"category_redirect-add-template": "Robot: adición de plantilla de redirección de categorías por mantenimiento",
@@ -18,7 +19,7 @@
 	"category_redirect-log-add-failed": "* Falló al añadirse [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-double": "* Reparada redirección-doble: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Falló: %(error)s",
-	"category_redirect-log-false-positive": "* Falso positivo: %(oldcat)s",
+	"category_redirect-log-false-positive": "* No redireccionamiento inesperado: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignorando %(oldcat)s",
 	"category_redirect-log-loop": "* Bucle de dirección desde %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d encontrado, %(moved)d movido",

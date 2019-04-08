@@ -5,7 +5,8 @@
 			"Benfutbol10",
 			"Macofe",
 			"MarcoAurelio",
-			"Fitoschido"
+			"Fitoschido",
+			"Ovruni"
 		]
 	},
 	"pywikibot-enter-category-name": "Escribe el nombre de la categoría:",
@@ -17,5 +18,6 @@
 	"pywikibot-enter-xml-filename": "Escribe el nombre de archivo del volcado XML:",
 	"pywikibot-fixes-fckeditor": "Robot: se corrige el html del editor enriquecido",
 	"pywikibot-fixes-html": "Robot: convirtiendo/arreglando HTML",
-	"pywikibot-fixes-syntax": "Robot: arreglo de la sintaxis wiki"
+	"pywikibot-fixes-syntax": "Robot: arreglo de la sintaxis wiki",
+	"pywikibot-touch": "Edición táctil de Pywikibot"
 }
