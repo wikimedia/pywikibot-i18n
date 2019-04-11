@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"add_text-adding": "робат дадаў %(adding)s"
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"add_text-adding": "Робат: дадазена %(adding)s"
 }
