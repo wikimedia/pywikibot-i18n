@@ -15,6 +15,7 @@
 	"category_redirect-log-add-failed": "* C'hwitet eo bet ouzhpennañ [[%(ns)s%(template)s]] da %(oldcat)s",
 	"category_redirect-log-double": "*Adkas doubl reizhet : %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** C'hwitet: %(error)s",
+	"category_redirect-log-false-positive": "* Anadkas dic'hortoz : %(oldcat)s",
 	"category_redirect-log-ignoring": "Dianavezout %(oldcat)s",
 	"category_redirect-log-loop": "*Rodell adkas adalek %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d kavet, %(moved)d dilec'hiet",
@@ -23,6 +24,7 @@
 	"category_redirect-log-not-loaded": "*Ne c'haller kargañ %(oldcat)s ; dianavezet",
 	"category_redirect-log-skipping": "* Skipping %(oldcat)s; er prantadoù sioul",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Renabloù koshoc'h]'''",
+	"category_redirect-problem-hard": "# Un adkas kalet da %(page)s eo %(oldcat)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s a adkas da %(redpage)s",
 	"category_redirect-problem-self-linked": "# %(oldcat)s zo un adkas emliammet"
 }
