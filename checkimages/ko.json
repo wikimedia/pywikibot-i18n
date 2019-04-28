@@ -3,9 +3,14 @@
 		"authors": [
 			"Nicolas Dumazet",
 			"Revi",
+			"xqt",
 			"아라"
 		]
 	},
+	"checkimages-deletion-comment": "로봇 : %(adding)s 추가",
+	"checkimages-log-comment": "로봇:로그 업데이트",
 	"checkimages-source-tag-comment": "봇: 새로 업로드된 태그 없는 파일을 표시",
-	"checkimages-source-notice-comment": "봇: 자료 정보 요청."
+	"checkimages-source-notice-comment": "봇: 자료 정보 요청.",
+	"checkimages-unknown-extension-head": "잘못된 파일 형식",
+	"checkimages-unknown-extension-msg": "%(file)s의 파일 형식이 잘못되었습니다. 확인 바랍니다."
 }

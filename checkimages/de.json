@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"xqt",
+			"Filnik",
 			"Metalhead64",
 			"Xqt"
 		]
 	},
+	"checkimages-doubles-file-comment": "Bot: Datei liegt auf Commons",
+	"checkimages-doubles-head": "Datei-Duplikat",
+	"checkimages-log-comment": "Bot: schreibe Log",
+	"checkimages-no-license-head": "Bild ohne Lizenz",
 	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
 	"checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme."
 }

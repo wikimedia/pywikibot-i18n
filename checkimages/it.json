@@ -1,10 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
+			"Beta16",
 			"Filnik",
-			"Beta16"
+			"Rotem Liss",
+			"xqt"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: Aggiungo %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: File doppio, da cancellare",
+	"checkimages-doubles-head": "File doppio",
+	"checkimages-doubles-talk-comment": "Bot: Notifico il file doppio trovato",
+	"checkimages-log-comment": "Bot: Aggiorno il log",
+	"checkimages-no-license-head": "File senza licenza",
 	"checkimages-source-tag-comment": "Bot: Aggiungo unverified",
-	"checkimages-source-notice-comment": "Bot: richiedo informazioni sulla fonte"
+	"checkimages-source-notice-comment": "Bot: richiedo informazioni sulla fonte",
+	"checkimages-unknown-extension-head": "File non specificato",
+	"checkimages-unknown-extension-msg": "A quanto ci risulta, %(file)s sembra non essere un file utile all'enciclopedia. Se così non fosse, e' consigliato che tu scriva al mio programmatore. Grazie per l'attenzione. <u>Questo è un messaggio automatico di</u>"
 }

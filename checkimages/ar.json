@@ -1,9 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meno25"
+			"Meno25",
+			"xqt"
 		]
 	},
+	"checkimages-deletion-comment": "بوت: إضافة %(adding)s",
+	"checkimages-doubles-file-comment": "بوت: وسم ملف مكرر",
+	"checkimages-doubles-talk-comment": "بوت: ملف مكرر تم العثور عليه",
+	"checkimages-log-comment": "بوت: تحديث السجل",
+	"checkimages-no-license-head": "صورة بدون ترخيص",
 	"checkimages-source-tag-comment": "بوت: التعليم على ملف مرفوع حديثا غير موسوم",
-	"checkimages-source-notice-comment": "بوت: طلب معلومات المصدر."
+	"checkimages-source-notice-comment": "بوت: طلب معلومات المصدر.",
+	"checkimages-unknown-extension-head": "امتداد غير معروف!",
+	"checkimages-unknown-extension-msg": "الملف %(file)s يبدو أن امتداده خاطيء, من فضلك تحقق."
 }
