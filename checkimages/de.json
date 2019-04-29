@@ -6,10 +6,14 @@
 			"Xqt"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: Füge %(adding)s hinzu",
 	"checkimages-doubles-file-comment": "Bot: Datei liegt auf Commons",
 	"checkimages-doubles-head": "Datei-Duplikat",
+	"checkimages-doubles-talk-comment": "Bot: Benachrichtigung, dass die Datei bereits auf Commons vorhanden ist",
 	"checkimages-log-comment": "Bot: schreibe Log",
 	"checkimages-no-license-head": "Bild ohne Lizenz",
 	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
-	"checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme."
+	"checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme.",
+	"checkimages-unknown-extension-head": "Unbekannte Erweiterung!",
+	"checkimages-unknown-extension-msg": "Die Datei %(file)s scheint eine falsche Erweiterung zu haben. Bitte überprüfen."
 }

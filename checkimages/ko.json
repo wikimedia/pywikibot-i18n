@@ -4,13 +4,14 @@
 			"Nicolas Dumazet",
 			"Revi",
 			"xqt",
-			"아라"
+			"아라",
+			"Ykhwong"
 		]
 	},
-	"checkimages-deletion-comment": "로봇 : %(adding)s 추가",
-	"checkimages-log-comment": "로봇:로그 업데이트",
+	"checkimages-deletion-comment": "봇 : %(adding)s 추가",
+	"checkimages-log-comment": "봇: 기록 업데이트",
 	"checkimages-source-tag-comment": "봇: 새로 업로드된 태그 없는 파일을 표시",
 	"checkimages-source-notice-comment": "봇: 자료 정보 요청.",
-	"checkimages-unknown-extension-head": "잘못된 파일 형식",
-	"checkimages-unknown-extension-msg": "%(file)s의 파일 형식이 잘못되었습니다. 확인 바랍니다."
+	"checkimages-unknown-extension-head": "확장자를 알 수 없습니다!",
+	"checkimages-unknown-extension-msg": "%(file)s 파일 확장자가 잘못된 것 같습니다. 확인해 주십시오."
 }

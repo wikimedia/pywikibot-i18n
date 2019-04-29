@@ -21,7 +21,7 @@
 	"category_redirect-log-add-failed": "* Échec d’ajout de [[%(ns)s%(template)s]] à %(oldcat)s",
 	"category_redirect-log-double": "* Double redirection corrigée : %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Échec : %(error)s",
-	"category_redirect-log-false-positive": "* Faux positif : %(oldcat)s",
+	"category_redirect-log-false-positive": "* Sans redirection non attendue : %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignorer %(oldcat)s",
 	"category_redirect-log-loop": "* Boucle de redirection depuis %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s : %(found)d trouvé, %(moved)d déplacé",

@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kumkumuk"
+			"Kumkumuk",
+			"Mirzali"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: %(adding)s cı kerê",
+	"checkimages-doubles-file-comment": "Bot: Dosya commons ra belkiya esteriyaya",
+	"checkimages-doubles-head": "Dosyaya tekrarkerdiye",
+	"checkimages-doubles-talk-comment": "Bot: Na dosya xora commons de mewcuda",
+	"checkimages-log-comment": "Boti: Qeydan rocane kerê",
+	"checkimages-no-license-head": "Resımo bêlisans",
 	"checkimages-source-tag-comment": "Bot: bê tag dosyayanê neweyan bar kerdış keno",
-	"checkimages-source-notice-comment": "Bot: çımey rê malumat wazeno."
+	"checkimages-source-notice-comment": "Bot: çımey rê malumat wazeno.",
+	"checkimages-unknown-extension-head": "Derganiya nêzaniyayiye!",
+	"checkimages-unknown-extension-msg": "Derganiya dosya %(file)s xırabe asena, çım berzê cı."
 }
