@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Gzhegozh"
 		]
 	},
+	"checkimages-no-license-head": "Зображення без ліцензії",
 	"checkimages-source-tag-comment": "Бот: Помітка недавно завантажених файлів без шаблонів ліцензії",
-	"checkimages-source-notice-comment": "Бот: Запит джерела інформації."
+	"checkimages-source-notice-comment": "Бот: Запит джерела інформації.",
+	"checkimages-unknown-extension-head": "Невідомий додаток!"
 }

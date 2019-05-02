@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Renessaince"
+			"Renessaince",
+			"Red Winged Duck"
 		]
 	},
+	"checkimages-deletion-comment": "Робат: дадаваньне %(adding)s",
+	"checkimages-doubles-file-comment": "Робат: файл ужо ў Вікісховішчы, можа быць выдалены",
 	"checkimages-source-tag-comment": "Робат: пазначаю новазагружаны неадзначаны файл",
 	"checkimages-source-notice-comment": "Робат: запыт крыніцы інфармацыі."
 }

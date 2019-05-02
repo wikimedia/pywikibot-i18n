@@ -2,9 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Jkb8",
-			"Athena in Wonderland"
+			"Athena in Wonderland",
+			"Hamilton Abreu"
 		]
 	},
+	"checkimages-deletion-comment": "Robô: A adicionar %(adding)s",
+	"checkimages-doubles-file-comment": "Robô: O ficheiro já está na wiki Commons, poderá ser eliminado",
+	"checkimages-doubles-head": "Ficheiro duplicado",
+	"checkimages-doubles-talk-comment": "Robô: Notificar que o ficheiro já existe na wiki Commons",
+	"checkimages-log-comment": "Robô: A atualizar o registo",
+	"checkimages-no-license-head": "Imagem sem licença",
 	"checkimages-source-tag-comment": "Robô: Marcação de um ficheiro sem etiquetas carregado recentemente",
-	"checkimages-source-notice-comment": "Robô: Solicitando informação sobre a fonte."
+	"checkimages-source-notice-comment": "Robô: A pedir informação sobre a fonte.",
+	"checkimages-unknown-extension-head": "Extensão desconhecida!",
+	"checkimages-unknown-extension-msg": "O ficheiro %(file)s parece ter uma extensão incorreta; verifique-a, por favor."
 }

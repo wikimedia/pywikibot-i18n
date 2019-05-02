@@ -4,6 +4,14 @@
 			"Bjankuloski06"
 		]
 	},
+	"checkimages-deletion-comment": "Бот: Додава %(adding)s",
+	"checkimages-doubles-file-comment": "Бот: Податотеката е веќе на Ризницата, може да биде избришана",
+	"checkimages-doubles-head": "Дуплирана податотека",
+	"checkimages-doubles-talk-comment": "Бот: Известување дека податотеката веќе постои на Ризницата",
+	"checkimages-log-comment": "Бот: Поднова на дневникот",
+	"checkimages-no-license-head": "Слика без лиценца",
 	"checkimages-source-tag-comment": "Бот: Се означува новоподновената неозначена податотека",
-	"checkimages-source-notice-comment": "Робот: Бара извор на информациите."
+	"checkimages-source-notice-comment": "Робот: Бара извор на информациите.",
+	"checkimages-unknown-extension-head": "Непознат додаток!",
+	"checkimages-unknown-extension-msg": "Делува дека податотеката %(file)s има погрешна наставка. Проверете ја."
 }

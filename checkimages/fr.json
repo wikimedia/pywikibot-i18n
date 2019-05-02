@@ -4,7 +4,8 @@
 			"Gomoko",
 			"Siebrand Mazeland",
 			"Urhixidur",
-			"xqt"
+			"xqt",
+			"Wladek92"
 		]
 	},
 	"checkimages-deletion-comment": "Robot : Ajouté %(adding)s",
@@ -12,7 +13,7 @@
 	"checkimages-doubles-head": "Fichier dupliqué",
 	"checkimages-doubles-talk-comment": "Robot : Notifier que le fichier existe déjà sur Communs",
 	"checkimages-log-comment": "Robot: Mise à jour du journal",
-	"checkimages-no-license-head": "Fichier sans licence",
+	"checkimages-no-license-head": "Image sans licence",
 	"checkimages-source-tag-comment": "Robot : Marquage d’un fichier nouvellement téléversé non marqué",
 	"checkimages-source-notice-comment": "Robot : Demande d’information sur la source.",
 	"checkimages-unknown-extension-head": "Extension inconnue",
