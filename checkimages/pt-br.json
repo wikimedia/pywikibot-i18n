@@ -4,6 +4,14 @@
 			"Eduardo Addad de Oliveira"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: Adicionando %(adding)s",
+	"checkimages-doubles-file-comment": "Robô: O arquivo já está na wiki Commons, poderá ser eliminado",
+	"checkimages-doubles-head": "Arquivo duplicado",
+	"checkimages-doubles-talk-comment": "Robô: Notificar que o arquivo já existe na wiki Commons",
+	"checkimages-log-comment": "Robô: Atualizando registro",
+	"checkimages-no-license-head": "Imagem sem licença",
 	"checkimages-source-tag-comment": "Robô: Marcação de um arquivo sem etiquetas carregado recentemente",
-	"checkimages-source-notice-comment": "Robô: Solicitando informação sobre a fonte."
+	"checkimages-source-notice-comment": "Robô: Solicitando informação sobre a fonte.",
+	"checkimages-unknown-extension-head": "Extensão desconhecida!",
+	"checkimages-unknown-extension-msg": "O arquivo %(file)s parece ter uma extensão incorreta; verifique-a, por favor."
 }

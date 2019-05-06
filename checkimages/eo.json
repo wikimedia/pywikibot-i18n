@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"checkimages-doubles-head": "Duplikata dosiero",
+	"checkimages-no-license-head": "Bildo sen permesilo",
+	"checkimages-unknown-extension-head": "Nekonata dosiersufikso!",
+	"checkimages-unknown-extension-msg": "La dosiero %(file)s ŝajne havas malĝustan dosiersufikson; bonvolu kontroli."
+}

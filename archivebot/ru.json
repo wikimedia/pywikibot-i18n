@@ -5,12 +5,13 @@
 			"Okras",
 			"Rubin16",
 			"Amire80",
-			"Dvorapa"
+			"Dvorapa",
+			"Movses"
 		]
 	},
 	"archivebot-archive-full": "(АРХИВ ЗАПОЛНЕН)",
 	"archivebot-archive-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|тема|темы|тем}} с [[%(from)s]]",
 	"archivebot-archiveheader": "{{Архив обсуждения}}",
-	"archivebot-older-than": "старше, чем %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|старше}} чем %(duration)s",
 	"archivebot-page-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|тема|темы|тем}} (%(why)s) в %(archives)s"
 }

@@ -14,5 +14,5 @@
 	"category_redirect-edit-request": "Следећим заштићеним страницама потребно је ажурирање веза категорија: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s је у %(oldcat)s, а то је преусмерење на %(newcat)s",
 	"category_redirect-fix-double": "Бот: исправљам двострука преусмерења",
-	"category_redirect-log-new": "Нова преусмерења од задње пријаве:"
+	"category_redirect-log-new": "Нова преусмерења од последњег извештаја:"
 }

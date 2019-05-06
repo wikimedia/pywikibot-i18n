@@ -2,9 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"INS Pirat",
-			"Okras"
+			"Okras",
+			"Movses"
 		]
 	},
+	"checkimages-doubles-head": "Дубликат",
+	"checkimages-doubles-talk-comment": "Бот: Нотификация в случае уже существующего файла на Викискладе",
 	"checkimages-source-tag-comment": "Бот: Пометка недавно загруженных файлов без шаблонов лицензии",
-	"checkimages-source-notice-comment": "Бот: Запрос источника информации."
+	"checkimages-source-notice-comment": "Бот: Запрос источника информации.",
+	"checkimages-unknown-extension-head": "Неизвестное расширение!"
 }
