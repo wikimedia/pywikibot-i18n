@@ -9,6 +9,9 @@
 	"checkimages-doubles-file-comment": "Робат: файл ужо ў Вікісховішчы, можа быць выдалены",
 	"checkimages-doubles-head": "Файл-дублікат",
 	"checkimages-doubles-talk-comment": "Робат: паведамленьне, што файл ужо існуе ў Вікісховішчы",
+	"checkimages-log-comment": "Робат: абнаўленьне журналу",
+	"checkimages-no-license-head": "Выява безь ліцэнзіі",
 	"checkimages-source-tag-comment": "Робат: пазначаю новазагружаны неадзначаны файл",
-	"checkimages-source-notice-comment": "Робат: запыт крыніцы інфармацыі."
+	"checkimages-source-notice-comment": "Робат: запыт крыніцы інфармацыі.",
+	"checkimages-unknown-extension-head": "Невядомае пашырэньне!"
 }

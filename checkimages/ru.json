@@ -6,9 +6,14 @@
 			"Movses"
 		]
 	},
+	"checkimages-deletion-comment": "Бот: Добавление %(adding)s",
+	"checkimages-doubles-file-comment": "Бот: Файл уже на Викискладе, а потому может быть удалён",
 	"checkimages-doubles-head": "Дубликат",
 	"checkimages-doubles-talk-comment": "Бот: Нотификация в случае уже существующего файла на Викискладе",
+	"checkimages-log-comment": "Бот: Обновление журнала",
+	"checkimages-no-license-head": "Изображение без лицензии",
 	"checkimages-source-tag-comment": "Бот: Пометка недавно загруженных файлов без шаблонов лицензии",
 	"checkimages-source-notice-comment": "Бот: Запрос источника информации.",
-	"checkimages-unknown-extension-head": "Неизвестное расширение!"
+	"checkimages-unknown-extension-head": "Неизвестное расширение!",
+	"checkimages-unknown-extension-msg": "Файл %(file)s, возможно, имеет неверное расширение. Пожалуйста, проверьте."
 }
