@@ -10,6 +10,6 @@
 	"archivebot-archive-full": "(ARCHIV VOLL)",
 	"archivebot-archive-summary": "Bot: Archiviere %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} von [[%(from)s]]",
 	"archivebot-archiveheader": "{{Archiv}}",
-	"archivebot-older-than": "{{PLURAL:%(count)d|Älter}} als %(duration)s",
+	"archivebot-older-than": "älter als %(duration)s",
 	"archivebot-page-summary": "Bot: %(count)d {{PLURAL:count|Abschnitt|Abschnitte}} (%(why)s) nach %(archives)s archiviert"
 }
