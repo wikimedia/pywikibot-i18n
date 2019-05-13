@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"KuboF"
+			"KuboF",
+			"Mirin"
 		]
 	},
 	"unprotect-category": "Roboto: Malprotekto de ĉiuj paĝoj de la kategorio %(cat)s",
-	"unprotect-links": "Roboto: Malprotekto de ĉiuj paĝoj ligitaj de %(page)s"
+	"unprotect-images": "Roboto: Malprotektante ĉiujn dosierojn ĉe paĝo %(page)s",
+	"unprotect-links": "Roboto: Malprotekto de ĉiuj paĝoj ligitaj de %(page)s",
+	"unprotect-ref": "Roboto: Malprotektante ĉiun paĝon ligantan sin al %(page)s",
+	"unprotect-simple": "Roboto: Malprotektante liston de dosieroj"
 }

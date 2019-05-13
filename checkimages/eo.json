@@ -4,8 +4,14 @@
 			"Mirin"
 		]
 	},
+	"checkimages-deletion-comment": "Roboto: Aldonante %(adding)s",
+	"checkimages-doubles-file-comment": "Roboto: Dosiero jam ekzistas ĉe Komunejo, povas esti forigita",
 	"checkimages-doubles-head": "Duplikata dosiero",
+	"checkimages-doubles-talk-comment": "Robot: Sciigante ke la dosiero jam ekzistas ĉe Komunejo",
+	"checkimages-log-comment": "Roboto: Ĝisdatigante la protokolon",
 	"checkimages-no-license-head": "Bildo sen permesilo",
+	"checkimages-source-tag-comment": "Roboto: Markante ĵus alŝutitan senetikedan dosieron",
+	"checkimages-source-notice-comment": "Roboto: Petante por fonta informo.",
 	"checkimages-unknown-extension-head": "Nekonata dosiersufikso!",
 	"checkimages-unknown-extension-msg": "La dosiero %(file)s ŝajne havas malĝustan dosiersufikson; bonvolu kontroli."
 }

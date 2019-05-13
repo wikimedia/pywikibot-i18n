@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"noreferences-add-tag": "Roboto: Aldono de \"<references />\""
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"noreferences-add-tag": "Roboto: Aldono de \"<references />\"",
+	"noreferences-fix-tag": "Roboto: Korektante ne validan sintakson de etikedo <references />"
 }

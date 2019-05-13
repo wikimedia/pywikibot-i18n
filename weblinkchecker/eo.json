@@ -2,9 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Airon90",
-			"KuboF"
+			"KuboF",
+			"Mirin"
 		]
 	},
+	"weblinkchecker-archive_msg": "La retpaĝon konservis la Interreta Arkivo. Bonvolu konsideri ligadon al la enarkivigita versio: [%(URL)s].",
+	"weblinkchecker-badurl": "La provizita ligilo ŝajne ne estas valida retadreso",
 	"weblinkchecker-caption": "Neenretiĝa ligilo",
+	"weblinkchecker-report": "Dum pluraj aŭtomataj robotaj ruloj, la jena ekstera ligilo ne disponis. Bonvolu kontroli ĉu la ligilo fakte disponas, kaj korekti aŭ forigi ĝin se ĝi ne disponas.",
 	"weblinkchecker-summary": "Roboto: Raportita nedisponebla ekstera ligilo"
 }

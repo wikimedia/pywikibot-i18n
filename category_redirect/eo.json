@@ -3,7 +3,8 @@
 		"authors": [
 			"Airon90",
 			"Blahma",
-			"Objectivesea"
+			"Objectivesea",
+			"Mirin"
 		]
 	},
 	"category_redirect-add-template": "Roboto: Aldonado de ŝablono pri alidirekta kategorio por prizorgado",
@@ -11,5 +12,21 @@
 	"category_redirect-comment": "Zorga roboto pri kategoria alidirektado",
 	"category_redirect-edit-request": "La jenaj protektitaj paĝoj evidente bezonas ĝisdatigon de kategoriaj ligiloj: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s en %(oldcat)s, kiu estas alidirektilo al %(newcat)s",
-	"category_redirect-fix-double": "Roboto: Riparado de duobla alidirektilo"
+	"category_redirect-fix-double": "Roboto: Riparado de duobla alidirektilo",
+	"category_redirect-log-added": "* Aldonis [[%(ns)s%(template)s]] al %(oldcat)s",
+	"category_redirect-log-add-failed": "* Malsukcesis aldoni [[%(ns)s%(template)s]] al %(oldcat)s",
+	"category_redirect-log-double": "* Korektis duoblan alidirektadon: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Malsukcesis: %(error)s",
+	"category_redirect-log-false-positive": "* Neatendita ne-alidirekto: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ignorante %(oldcat)s",
+	"category_redirect-log-loop": "* Alidirekta ciklo ĉe %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d trovita(j), %(moved)d movita(j)",
+	"category_redirect-log-move-error": "* %(oldcat)s: eraro en move_contents",
+	"category_redirect-log-new": "Novaj alidirektadoj de post la lasta raporto:",
+	"category_redirect-log-not-loaded": "* Ne povis ŝargi %(oldcat)s; ignorante",
+	"category_redirect-log-skipping": "* Preterpasante %(oldcat)s; en malvarmiĝanta reĝimo",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Pli malnovaj protokoloj]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s alidirektiĝas al nekategorio %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s alidirektiĝas al %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s estas alidirektado al si"
 }

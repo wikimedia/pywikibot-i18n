@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"image-remove": "Roboto: Forigante bildon %(file)s",
+	"image-replace": "Roboto: Anstataŭigante bildon %(old)s per %(new)s"
+}

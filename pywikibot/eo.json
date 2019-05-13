@@ -4,7 +4,8 @@
 			"Blahma",
 			"Dmitry Nikitin",
 			"KuboF",
-			"Objectivesea"
+			"Objectivesea",
+			"Mirin"
 		]
 	},
 	"pywikibot-enter-category-name": "Bonvolu enmeti la nomon de kategorio:",
@@ -14,6 +15,8 @@
 	"pywikibot-enter-new-text": "Bonvolu enmeti la novan tekston:",
 	"pywikibot-enter-page-processing": "Kiu paĝo estu prilaborita?",
 	"pywikibot-enter-xml-filename": "Bonvolu enmeti la nomon de la XML-sekurkopia dosiero:",
+	"pywikibot-fixes-fckeditor": "Roboto: Korektante HTML-on de riĉa redaktilo",
 	"pywikibot-fixes-html": "Bot: koredtado de HTMLa teksto",
-	"pywikibot-fixes-syntax": "Bot: Korektado de vikia sintakso"
+	"pywikibot-fixes-syntax": "Bot: Korektado de vikia sintakso",
+	"pywikibot-touch": "tuŝa redakto de Pywikibot"
 }

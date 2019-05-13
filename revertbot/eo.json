@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"revertbot-revert": "Roboto: Malfaris al versio %(revid)s far %(author)s je %(timestamp)s"
+}
