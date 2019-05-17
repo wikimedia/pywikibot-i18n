@@ -13,6 +13,8 @@
 	"category-replacing": "Bot: Trocando la categoría %(oldcat)s por %(newcat)s",
 	"category-section-title": "Historial de páxina de %(oldcat)s anteriores",
 	"category-strip-cfd-templates": "Bot: desaniciando les plantíes de categoríes a desaniciar pa l'aición completada",
+	"category-strip-sort-keys": "Botː Desaniciando claves d'ordenación pa una aición completada",
+	"category-strip-both": "Botː Desaniciando plantíes CFD y claves d'ordenación pa una aición completada",
 	"category-version-history": "Bot: Guardando l'historial de versiones de los %(oldcat)s anteriores",
 	"category-was-disbanded": "Bot: Desanicióse la categoría",
 	"category-was-moved": "Bot: La categoría movióse a [[:Category:%(newcat)s|%(title)s]]"

@@ -17,7 +17,7 @@
 	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] 항목을 %(oldcat)s에 추가하지 못함",
 	"category_redirect-log-double": "* 이중 넘겨주기 수정: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** 실패: %(error)s",
-	"category_redirect-log-false-positive": "* 거짓 양성: %(oldcat)s",
+	"category_redirect-log-false-positive": "* 예기치 않은, 넘겨주기가 아닌 문서: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s 무시",
 	"category_redirect-log-loop": "* %(oldcat)s에서 넘겨주기 루프",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d 발견, %(moved)d 이동",
