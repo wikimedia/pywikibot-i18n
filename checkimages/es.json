@@ -2,9 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Macofe",
-			"Fitoschido"
+			"Fitoschido",
+			"Ryo567"
 		]
 	},
+	"checkimages-doubles-file-comment": "Bot: Archivo ya en Commons, puede ser eliminado",
+	"checkimages-doubles-head": "Archivo duplicado",
+	"checkimages-doubles-talk-comment": "Bot: Notifica que el archivo ya existe en Commons",
+	"checkimages-log-comment": "Bot: Actualizando el registro",
+	"checkimages-no-license-head": "Imagen sin licencia",
 	"checkimages-source-tag-comment": "Robot: se marca un archivo sin etiquetas recién cargado",
-	"checkimages-source-notice-comment": "Robot: se solicita información de la fuente."
+	"checkimages-source-notice-comment": "Robot: se solicita información de la fuente.",
+	"checkimages-unknown-extension-head": "¡Extensión desconocida!",
+	"checkimages-unknown-extension-msg": "El archivo %(file)s parece tener una extensión incorrecta, compruébalo."
 }
