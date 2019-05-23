@@ -12,6 +12,6 @@
 	"archivebot-archive-full": "(ARCHIV JE PLNÝ)",
 	"archivebot-archive-summary": "Robot: {{PLURAL:%(count)d|archivováno %(count)d vlákno|archivována %(count)d vlákna|archivováno %(count)d vláken}} z [[%(from)s]]",
 	"archivebot-archiveheader": "{{Archiv diskuse}}",
-	"archivebot-older-than": "starší než %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|starší|starší|starších}} než %(duration)s",
 	"archivebot-page-summary": "Robot: {{PLURAL:%(count)d|archivováno %(count)d vlákno|archivována %(count)d vlákna|archivováno %(count)d vláken}} (%(why)s) do %(archives)s"
 }

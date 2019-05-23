@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minisarm"
+			"Minisarm",
+			"Strainu"
 		]
 	},
+	"checkimages-log-comment": "Robot: Actualizez jurnalul",
 	"checkimages-source-tag-comment": "Robot: Marcat fișierul nou încărcat, neetichetat",
-	"checkimages-source-notice-comment": "Robot: Solicitat informații despre sursă."
+	"checkimages-source-notice-comment": "Robot: Solicitat informații despre sursă.",
+	"checkimages-unknown-extension-head": "Extensie necunoscută!",
+	"checkimages-unknown-extension-msg": "Fișierul %(file)s pare să aibă extensia greșită, va rugăm verificați."
 }
