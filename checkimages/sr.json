@@ -18,6 +18,6 @@
 	"checkimages-no-license-head": "Слика без лиценце",
 	"checkimages-source-tag-comment": "Бот: означавам новоотпремљену неозначену датотеку",
 	"checkimages-source-notice-comment": "Бот: тражим извор информација.",
-	"checkimages-unknown-extension-head": "Непознат додатак!"
-	"checkimages-unknown-extension-msg": "Изгледа да датотека %(file)s садржи погрешну екстензију.",
+	"checkimages-unknown-extension-head": "Непознат додатак!",
+	"checkimages-unknown-extension-msg": "Изгледа да датотека %(file)s садржи погрешну екстензију."
 }
