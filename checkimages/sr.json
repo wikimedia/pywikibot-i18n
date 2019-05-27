@@ -10,10 +10,9 @@
 		]
 	},
 	"checkimages-deletion-comment": "Бот: Додајем %(adding)s",
-	"checkimages-doubles-file-comment": "Бот: Датотека већ постоји на Остави, можда ће бити избрисана",
+	"checkimages-doubles-file-comment": "Бот: Датотека већ постоји на Остави",
 	"checkimages-doubles-head": "Дупликат датотеке",
 	"checkimages-doubles-talk-comment": "Бот: Обавештење о томе да датотека већ постоји на Остави",
-	"checkimages-doubles-file-comment": "Бот: Датотека већ постоји на Остави",
 	"checkimages-log-comment": "Бот: Ажурирање дневника",
 	"checkimages-no-license-head": "Слика без лиценце",
 	"checkimages-source-tag-comment": "Бот: означавам новоотпремљену неозначену датотеку",
