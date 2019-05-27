@@ -21,7 +21,7 @@ script:
   - cd pywikibot-build
   - nosetests --verbosity=2 tests.l10n_tests
 
- notifications:
+notifications:
   email:
     recipients:
       - pywikibot-commits@lists.wikimedia.org
