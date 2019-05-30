@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aswn"
+		]
+	},
+	"image-remove": "தானியங்கி:%(file)s படிமங்களை நீக்குதல்",
+	"image-replace": "தானியங்கி:%(old)s %(new)s இற்கு மாற்றப்படுகின்றது"
+}

@@ -1,13 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"செல்வா"
+			"செல்வா",
+			"Aswn"
 		]
 	},
-	"category-adding": "தானியங்கிஇணைப்பு category [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-also-in": "( %(alsocat)s உம் உள்ளது)",
+	"category-adding": "தானியங்கி:[[:பகுப்பு:%(newcat)s|%(newcat)s]] இணைத்தல்",
+	"category-also-in": "( %(alsocat)s-உம் உள்ளது)",
 	"category-listifying": "தானியக்கி: %(fromcat)s இல் இருந்து (%(num)d என்னும் உள்ளிடுகைகள்) -உக்கு பட்டியலிடப்படுகின்றது",
 	"category-removing": "தானியங்கி: %(oldcat)s இல் இருந்து நீக்குகின்றது",
 	"category-replacing": "தானியங்கி: வகைப்பாடு %(oldcat)s ஐ %(newcat)s ஆக மாற்றுகின்றன",
-	"category-was-moved": "தானியங்கி: வகைப்பாடு [[:Category:%(newcat)s|%(title)s]] உக்கு நகர்த்தப்பட்டது"
+	"category-was-disbanded": "தானியங்கி:பகுப்பு கலைக்கப்பட்டது",
+	"category-was-moved": "தானியங்கி: பகுப்பு [[:பகுப்பு:%(newcat)s|%(title)s]]-இற்கு நகர்த்தப்பட்டது"
 }

@@ -6,11 +6,12 @@
 			"Milicevic01",
 			"Rancher",
 			"xqt",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Xqt"
 		]
 	},
 	"checkimages-deletion-comment": "Бот: Додајем %(adding)s",
-	"checkimages-doubles-file-comment": "Бот: Датотека већ постоји на Остави",
+	"checkimages-doubles-file-comment": "Бот: Датотека већ постоји на Остави, можда ће бити избрисана",
 	"checkimages-doubles-head": "Дупликат датотеке",
 	"checkimages-doubles-talk-comment": "Бот: Обавештење о томе да датотека већ постоји на Остави",
 	"checkimages-log-comment": "Бот: Ажурирање дневника",

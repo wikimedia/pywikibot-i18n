@@ -5,5 +5,6 @@
 		]
 	},
 	"template-changing": "தானியங்கி:{{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} மாற்றப்பட்டது: %(list)s",
-	"template-removing": "தானியங்கி: {{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} நீக்கப்பட்டது: %(list)s"
+	"template-removing": "தானியங்கி: {{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} நீக்கப்பட்டது: %(list)s",
+	"template-substituting": "தானியங்கி:{{PLURAL:%(num)d|வார்ப்புரு|வார்ப்புருக்கள்}} மாற்றப்பட்டது: %(list)s"
 }
