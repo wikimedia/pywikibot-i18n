@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Baloch Afghanistan"
+			"Baloch Afghanistan",
+			"Sultanselim baloch"
 		]
 	},
 	"welcome-bad_username": "ربات: اضافه کردن یک نام کاربری است که نیاز به بررسی خواهد شد",
-	"welcome-updating": "ربات: به روز رسانی ورود به سیستم",
+	"welcome-updating": "ربات: مان بییگءِ پہ رۏچ کنگ",
 	"welcome-welcome": "وش آتگیت!"
 }

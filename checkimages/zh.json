@@ -7,11 +7,13 @@
 			"Liuxinyu970226",
 			"Rotem Liss",
 			"xqt",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Wildly boy"
 		]
 	},
 	"checkimages-deletion-comment": "機器人: 正在新增 %(adding)s",
 	"checkimages-log-comment": "機器人:更新記錄",
+	"checkimages-no-license-head": "没有许可声明的图片",
 	"checkimages-source-tag-comment": "机器人：标记新上传的未标记文件",
 	"checkimages-source-notice-comment": "机器人：请求来源信息。",
 	"checkimages-unknown-extension-head": "您上載的檔案格式可能有誤",
