@@ -5,13 +5,14 @@
 			"Siebrand Mazeland",
 			"Urhixidur",
 			"xqt",
-			"Wladek92"
+			"Wladek92",
+			"VIGNERON"
 		]
 	},
 	"checkimages-deletion-comment": "Robot : Ajouté %(adding)s",
-	"checkimages-doubles-file-comment": "Robot : Fichier déjà sur Communs, peut être supprimé",
+	"checkimages-doubles-file-comment": "Robot : Fichier déjà sur Commons, peut être supprimé",
 	"checkimages-doubles-head": "Fichier dupliqué",
-	"checkimages-doubles-talk-comment": "Robot : Notifier que le fichier existe déjà sur Communs",
+	"checkimages-doubles-talk-comment": "Robot : Notifier que le fichier existe déjà sur Commons",
 	"checkimages-log-comment": "Robot: Mise à jour du journal",
 	"checkimages-no-license-head": "Image sans licence",
 	"checkimages-source-tag-comment": "Robot : Marquage d’un fichier nouvellement téléversé non marqué",

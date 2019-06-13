@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Baloch Afghanistan"
+			"Baloch Afghanistan",
+			"FarsiNevis"
 		]
 	},
-	"table2wiki-no-warning": "ربات کنترل‌شده توسط کاربر: به‌روزرسانی ترکیب جدول",
+	"table2wiki-no-warning": "ربات کنترل‌شده توسط کاربر: ترکیب جدول، روزامد شد",
 	"table2wiki-warnings": "ربات کنترل‌شده توسط کاربر: به‌روز‌رسانی ترکیب جدول - {{PLURAL:count|۱ هشدار|%(count)d هشدار}}!"
 }

@@ -15,7 +15,7 @@
 	"pywikibot-enter-new-text": "Prosím zadejte nový text:",
 	"pywikibot-enter-page-processing": "Která stránka má být zpracována?",
 	"pywikibot-enter-xml-filename": "Zadejte jméno souboru s XML dumpem:",
-	"pywikibot-fixes-fckeditor": "Robot: Oprava HTML z textového procesoru",
+	"pywikibot-fixes-fckeditor": "Robot: oprava HTML z textového procesoru",
 	"pywikibot-fixes-html": "Robot: převod/oprava HTML",
 	"pywikibot-fixes-syntax": "Robot: oprava wikisyntaxe",
 	"pywikibot-touch": "Robot: prázdná editace Pywikibota"

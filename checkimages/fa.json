@@ -4,13 +4,14 @@
 			"Amir Sarabadani",
 			"Huji",
 			"Reza1615",
-			"xqt"
+			"xqt",
+			"FarsiNevis"
 		]
 	},
 	"checkimages-deletion-comment": "ربات: اضافه کردن %(adding)s",
 	"checkimages-doubles-file-comment": "ربات: برچسب زدن بر تصویر تکراری",
 	"checkimages-doubles-talk-comment": "ربات: تصویر تکراری یافت شد",
-	"checkimages-log-comment": "ربات: به‌روزرسانی سیاهه",
+	"checkimages-log-comment": "ربات: روزامدسازی سیاهه",
 	"checkimages-no-license-head": "تصویر بدون اجازہ",
 	"checkimages-source-tag-comment": "ربات: حق تکثیر تصویر تازه بارگذاری شده نامعلوم است.",
 	"checkimages-source-notice-comment": "ربات: درخواست منبع اطلاعات.",
