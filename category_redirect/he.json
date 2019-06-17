@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"YaronSh"
+			"YaronSh",
+			"Steeve815"
 		]
 	},
 	"category_redirect-add-template": "בוט: מוסיף תבנית הפניה לקטגוריה לשם תחזוקה",
@@ -15,5 +16,8 @@
 	"category_redirect-log-add-failed": "* ההוספה של [[%(ns)s%(template)s]] אל %(oldcat)s נכשלה",
 	"category_redirect-log-double": "* תוקנה הפניה כפולה %(oldcat)s ->‏ %(newcat)s ->‏ %(targetcat)s",
 	"category_redirect-log-failed": "** כשל: %(error)s",
-	"category_redirect-log-false-positive": "* בלתי־צפוי, לא דף הפניה: %(oldcat)s"
+	"category_redirect-log-false-positive": "* בלתי־צפוי, לא דף הפניה: %(oldcat)s",
+	"category_redirect-log-ignoring": "* מתעלם מ־%(oldcat)s",
+	"category_redirect-log-not-loaded": "* לא ניתן לטעון %(oldcat)s; מתעלם",
+	"category_redirect-problem-redirects": "# %(oldcat)s מפנה ל־%(redpage)s"
 }

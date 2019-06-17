@@ -3,10 +3,11 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-r1}}",
+	"redirect-broken-redirect-template": "{{Брзо брисање}}",
 	"redirect-fix-broken-moved": "Бот: исправљено неисправно преусмерење до премештене циљне странице %(to)s",
 	"redirect-fix-double": "Бот: исправљена двострука преусмерења у %(to)s",
 	"redirect-fix-loop": "Бот: исправљена петља преусмерења на %(to)s",
