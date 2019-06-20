@@ -1,12 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ninjastrikers"
+			"Ninjastrikers",
+			"Dr Lotus Black"
 		]
 	},
 	"category_redirect-add-template": "ဘော့ : ကဏ္ဍပြန်ညွှန်းတမ်းပလိတ်ကို ထိန်းသိမ်းရေးအတွက် ပေါင်းထည့်နေသည်",
 	"category_redirect-change-category": "ဘော့ : ပြန်ညွှန်းကဏ္ဍ [[:%(oldCatLink)s|%(oldCatTitle)s]] ကို [[:%(newCatLink)s|%(newCatTitle)s]] သို့ ပြောင်းလဲနေသည်",
 	"category_redirect-comment": "ပြန်ညွှန်းကဏ္ဍ ထိန်းသိမ်းရေးဘော့",
 	"category_redirect-edit-request-item": "* %(title)s သည် %(newcat)s သို့ ပြန်ညွှန်းထားသော %(oldcat)s တွင်ရှိသည်",
-	"category_redirect-fix-double": "ဘော့ - ပြန်ညွှန်းနှစ်ဆင့်အား ပြုပြင်နေသည်"
+	"category_redirect-fix-double": "ဘော့ - ပြန်ညွှန်းနှစ်ဆင့်အား ပြုပြင်နေသည်",
+	"category_redirect-log-failed": "** မအောင်မြင်ပါ: %(error)s",
+	"category_redirect-log-ignoring": "* လျစ်လျူရှုနေသည် %(oldcat)s",
+	"category_redirect-older-logs": "'''[%(oldlogs)s ပိုဟောင်းသောမှတ်တမ်းများ]'''"
 }

@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Ninjastrikers",
-			"NayiMuu"
+			"NayiMuu",
+			"Dr Lotus Black"
 		]
 	},
 	"archivebot-archive-full": "(မော်ကွန်း ပြည့်နေသည်)",
 	"archivebot-archive-summary": "ဘော့: [[%(from)s]] မှစ၍ %(count)d {{PLURAL:%(count)d|thread|threads}} မော်ကွန်းထိန်းခြင်း",
-	"archivebot-older-than": "%(duration)s ထက် ပို၍ဟောင်းသော",
+	"archivebot-older-than": "%(duration)s ထက် {{PLURAL:%(count)d|ပို၍ဟောင်းသော}}",
 	"archivebot-page-summary": "ဘော့:%(archives)s ထိ %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) မော်ကွန်းထိန်းခြင်း"
 }

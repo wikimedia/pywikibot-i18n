@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ninjastrikers"
+			"Ninjastrikers",
+			"Dr Lotus Black"
 		]
 	},
 	"casechecker-delete-reason": "ဤပြန်ညွှန်းသည် %(target)s သို့ညွှန်ရန် အသုံးပြုထားသည်",
 	"casechecker-delete-summary": "ဘော့: ဤပြန်ညွှန်း၏ ခေါင်းစီးတွင် Cyrillic နှင့် လက်တင်စာလုံးများနှင့် ဆင်တူသည်များ ပါဝင်သည်။",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s"
+	"casechecker-replacement-linklist": "%(source)s→%(target)s",
+	"casechecker-replacement-summary": "ဘော့: စာလုံးအကြီးအသေး အစားထိုးမှုများ:"
 }

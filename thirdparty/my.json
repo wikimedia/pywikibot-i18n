@@ -10,7 +10,10 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ဘော့ မက်ဆေ့",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "ဆွေးနွေးချက် အသစ်",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "အသိပေးချက်",
+	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s နောက်ဆုံး] (%(page_size)s bytes) တည်းဖြတ်သူမှာ %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "(လူသား တည်းဖြတ်သူ မတွေ့ရှိပါ)",
+	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - နောက်ဆုံးတည်းဖြတ်သူမှာ [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
+	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* ဘော့သတိပေးချက်မက်ဆေ့: %(page)s \"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "ဘော့"
 }
