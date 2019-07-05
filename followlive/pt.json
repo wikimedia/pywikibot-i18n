@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Leogregianin",
-			"Waldir"
+			"Waldir",
+			"Waldyrious"
 		]
 	},
 	"followlive-blanking": "Apagado, conteúdo era '%(content)s'."

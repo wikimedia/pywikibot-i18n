@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Baloch Afghanistan"
+			"Baloch Afghanistan",
+			"Sultanselim baloch"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "جانشانی برچسب(های) %(tags)s",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "گپ ٹ\tگل داته بوت",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "گپ بسته بوت",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "***پیام ربات***",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "***رباتء پیام***",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "نوکین گپ",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "اتلائیه",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s آخرین ویرایش] (%(page_size)s بایت) توسط %(user)s (%(time)s)",

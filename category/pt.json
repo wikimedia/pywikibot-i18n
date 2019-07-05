@@ -3,7 +3,8 @@
 		"authors": [
 			"555",
 			"Hamilton Abreu",
-			"Waldir"
+			"Waldir",
+			"Waldyrious"
 		]
 	},
 	"category-adding": "Robô: adição da categoria [[:Category:%(newcat)s|%(newcat)s]]",
