@@ -8,6 +8,6 @@
 	},
 	"archivebot-archive-full": "(ARTXIBOA BETETA)",
 	"archivebot-archive-summary": "Bot: [[%(from)s]]-(e)ko %(count)d {{PLURAL:%(count)d|eztabaida|eztabaida}} artxibatzen",
-	"archivebot-older-than": "%(duration)s baino zaharragoak",
+	"archivebot-older-than": "%(duration)s baino {{PLURAL:%(count)d|zaharragoak}}",
 	"archivebot-page-summary": "Bot: %(archives)s-ra (%(why)s) %(count)d {{PLURAL:%(count)d|eztabaida|eztabaida}} artxibatzen"
 }

@@ -18,6 +18,8 @@
 	"category_redirect-log-failed": "** כשל: %(error)s",
 	"category_redirect-log-false-positive": "* בלתי־צפוי, לא דף הפניה: %(oldcat)s",
 	"category_redirect-log-ignoring": "* מתעלם מ־%(oldcat)s",
+	"category_redirect-log-loop": "* לולאת הפנייה מהמיקום %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d נמצאו, %(moved)d הועברו",
 	"category_redirect-log-not-loaded": "* לא ניתן לטעון %(oldcat)s; מתעלם",
 	"category_redirect-problem-redirects": "# %(oldcat)s מפנה ל־%(redpage)s"
 }
