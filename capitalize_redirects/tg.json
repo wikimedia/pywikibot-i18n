@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"ToJack"
+		]
+	},
+	"capitalize_redirects-create-redirect": "Бот: Тағйири масир ба [[%(to)s]] эҷод мекунад."
+}

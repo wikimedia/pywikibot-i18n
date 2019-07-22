@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"ToJack"
+		]
+	},
+	"category-adding": "Бот: Иловаи гурӯҳ [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(ҳамчунин дар %(alsocat)s)"
+}

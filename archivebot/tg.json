@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"ToJack"
+		]
+	},
+	"archivebot-archive-full": "(БОЙГОНӢ ПУР ШУД)",
+	"archivebot-archive-summary": "Бот: Бойгонишуда %(count)d {{PLURAL:%(count)d|мавзӯъ}} аз [[%(from)s]]",
+	"archivebot-archiveheader": "{{бойгонии баҳс}}",
+	"archivebot-older-than": "{{PLURAL:%(count)d|калонтар}} аз %(duration)s",
+	"archivebot-page-summary": "Бот: Бойгонишавии %(count)d {{PLURAL:%(count)d|мавзӯъ|мавзӯъҳо}} (%(why)s) барои %(archives)s"
+}
