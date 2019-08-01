@@ -4,6 +4,9 @@
 			"ToJack"
 		]
 	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Тағйири баҳс",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Пӯшидани баҳс",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ПАЁМИ БОТ",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Баҳси нав",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Огоҳӣ",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот"

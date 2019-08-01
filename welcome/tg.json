@@ -4,5 +4,7 @@
 			"ToJack"
 		]
 	},
+	"welcome-bad_username": "Бот: Иловаи Номҳои корбароне, ки бояд тафтиш шаванд",
+	"welcome-updating": "Бот: Азнавсозии гузоришот",
 	"welcome-welcome": "Хуш омадед!"
 }

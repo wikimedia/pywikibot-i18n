@@ -9,6 +9,7 @@
 	"checkimages-deletion-comment": "בוט: מוסיף %(adding)s",
 	"checkimages-doubles-file-comment": "בוט: קובץ קיים כבר בוויקישיתוף, ייתכן שהוא יימחק",
 	"checkimages-doubles-head": "קובץ כפול",
+	"checkimages-doubles-talk-comment": "בוט: מודיע על קובץ שכבר קיים בוויקישיתוף",
 	"checkimages-log-comment": "בוט: עדכון יומן",
 	"checkimages-no-license-head": "תמונה ללא רשיון",
 	"checkimages-source-tag-comment": "בוט: סימון קובץ חדש שהועלה ללא תיוג",

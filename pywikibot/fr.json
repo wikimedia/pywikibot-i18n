@@ -6,7 +6,8 @@
 			"Tavernier",
 			"Urhixidur",
 			"Wladek92",
-			"Orikrin1998"
+			"Orikrin1998",
+			"Thibaut120094"
 		]
 	},
 	"pywikibot-enter-category-name": "Veuillez entrer le nom de la catégorie:",
@@ -19,5 +20,5 @@
 	"pywikibot-fixes-fckeditor": "Robot : Correction du HTML de l’éditeur riche",
 	"pywikibot-fixes-html": "Robot: convertit/fixe HTML",
 	"pywikibot-fixes-syntax": "Bot : Correction de la syntaxe wiki",
-	"pywikibot-touch": "Modification touchée par Pywikibot"
+	"pywikibot-touch": "Modification nulle par Pywikibot"
 }
