@@ -3,9 +3,18 @@
 		"authors": [
 			"Beeyan",
 			"Rachmat.Wahidi",
-			"Rachmat04"
+			"Rachmat04",
+			"ArlandGa"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: Menambah %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: Berkas yang sudah ada di Commons dapat dihapus",
+	"checkimages-doubles-head": "Berkas duplikat",
+	"checkimages-doubles-talk-comment": "Bot: Beri tahukan jika berkas sudah ada di Commons",
+	"checkimages-log-comment": "Bot: Memperbarui log",
+	"checkimages-no-license-head": "Gambar tanpa lisensi",
 	"checkimages-source-tag-comment": "Bot: Tandai berkas tanpa tag yang baru diunggah",
-	"checkimages-source-notice-comment": "Bot: Meminta informasi sumber."
+	"checkimages-source-notice-comment": "Bot: Meminta informasi sumber.",
+	"checkimages-unknown-extension-head": "Ekstensi yang tak dikenal!",
+	"checkimages-unknown-extension-msg": "Berkas %(file)s sepertinya memiliki ekstensi yang salah, mohon periksa."
 }

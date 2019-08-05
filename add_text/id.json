@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Rachmat.Wahidi",
-			"Rachmat04"
+			"Rachmat04",
+			"ArlandGa"
 		]
 	},
-	"add_text-adding": "Bot: Menambah %(adding)s"
+	"add_text-adding": "Bot: Menambahkan %(adding)s"
 }
