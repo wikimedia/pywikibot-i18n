@@ -4,5 +4,5 @@
 			"Xqt"
 		]
 	},
-	"category-adding": "ሎሌ: መጨመር [[Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "ሎሌ: መጨመር [[:Category:%(newcat)s|%(newcat)s]]"
 }

@@ -3,7 +3,8 @@
 		"authors": [
 			"Amire80",
 			"Leonardo Gregianin",
-			"Or"
+			"Or",
+			"YaronSh"
 		]
 	},
 	"pywikibot-enter-category-name": "נא להזין את שם הקטגוריה:",
@@ -15,5 +16,6 @@
 	"pywikibot-enter-xml-filename": "נא להזין את שם קובץ ה־XML עם הדאמפ:",
 	"pywikibot-fixes-fckeditor": "בוט: תיקון HTML מעורך עשיר",
 	"pywikibot-fixes-html": "בוט: ממיר/מתקן HTML",
-	"pywikibot-fixes-syntax": "בוט: מתקן תחביר ויקי"
+	"pywikibot-fixes-syntax": "בוט: מתקן תחביר ויקי",
+	"pywikibot-touch": "עריכה בנגיעה עם Pywikibot"
 }

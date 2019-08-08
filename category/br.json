@@ -5,7 +5,7 @@
 			"Gwenn-Ael"
 		]
 	},
-	"category-adding": "Robot : Oc'h ouzhpennañ ar rummad [[Category:%(newcat)s]]",
+	"category-adding": "Robot : Oc'h ouzhpennañ ar rummad [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ivez e %(alsocat)s)",
 	"category-listifying": "Robot : Roll eus %(fromcat)s ({{PLURAL:%(num)d|1 elfenn|%(num)d pajenn}})",
 	"category-removing": "Robot : Tennet diwar %(oldcat)s",

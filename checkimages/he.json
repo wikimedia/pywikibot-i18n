@@ -3,7 +3,8 @@
 		"authors": [
 			"Amire80",
 			"Erelon",
-			"Steeve815"
+			"Steeve815",
+			"YaronSh"
 		]
 	},
 	"checkimages-deletion-comment": "בוט: מוסיף %(adding)s",
@@ -14,5 +15,6 @@
 	"checkimages-no-license-head": "תמונה ללא רשיון",
 	"checkimages-source-tag-comment": "בוט: סימון קובץ חדש שהועלה ללא תיוג",
 	"checkimages-source-notice-comment": "בוט: בקשת מידע על מקור.",
-	"checkimages-unknown-extension-head": "הרחבה לא מוכרת!"
+	"checkimages-unknown-extension-head": "הרחבה לא מוכרת!",
+	"checkimages-unknown-extension-msg": "לקובץ %(file)s יש סיומת שגויה, נא לבדוק."
 }

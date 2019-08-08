@@ -5,7 +5,7 @@
 			"Xqt"
 		]
 	},
-	"category-adding": "འཕྲུལ་ཆས་ཀྱི་མི།: ཁ་སྣོན་རྒྱག་པ། [[Category:%(newcat)s]]",
+	"category-adding": "འཕྲུལ་ཆས་ཀྱི་མི།: ཁ་སྣོན་རྒྱག་པ། [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ད་དུང་ཡང་གཞན་ཡོད་པ་ནི་ %(alsocat)s)",
 	"category-listifying": "མི་གཟུགས་འཕྲུལ་ཆས།: %(fromcat)s ནས་ (%(num)d བར་གི་ཐོ་འགོད་རེའུ་མིག།)",
 	"category-removing": "མི་གཟུགས་འཕྲུལ་ཆས་ ：%(oldcat)s ནས་ ཕྱིར་འདོན་བཞིན་པ།",

@@ -1,4 +1,4 @@
 {
 	"@metadata": [],
-	"category-adding": "robot: manopandminõ [[Category:%(newcat)s]]"
+	"category-adding": "robot: manopandminõ [[:Category:%(newcat)s|%(newcat)s]]"
 }

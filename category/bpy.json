@@ -4,5 +4,5 @@
 			"Xqt"
 		]
 	},
-	"category-adding": "রোবট: তিলকরের থাক [[Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "রোবট: তিলকরের থাক [[:Category:%(newcat)s|%(newcat)s]]"
 }
