@@ -17,6 +17,8 @@
 	"category-replacing": "Бот: замењивање категорије %(oldcat)s са %(newcat)s",
 	"category-section-title": "Историја раније верзије странице %(oldcat)s",
 	"category-strip-cfd-templates": "Бот: уклањање CFD шаблона за извршену радњу",
+	"category-strip-sort-keys": "Бот: Уклањање кључева за сортирање за довршену радњу",
+	"category-strip-both": "Бот: уклањање CFD шаблона и кључева за сортирање за извршену радњу",
 	"category-version-history": "Бот: чувам историју раније верзије странице %(oldcat)s",
 	"category-was-disbanded": "Бот: категорија је распуштена",
 	"category-was-moved": "Бот: категорија је премештена у [[:Категорија:%(newcat)s|%(title)s]]"
