@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ajdar"
+			"Ajdar",
+			"Ерней"
 		]
 	},
-	"welcome-bad_username": "Робот:Шикле кулланучы исеме өстәлгән",
-	"welcome-updating": "Робот:Яңарту",
+	"welcome-bad_username": "Бот: шикле кулланучы исеме өстәлгән",
+	"welcome-updating": "Бот: көндәлекне яңарту",
 	"welcome-welcome": "Рәхим итегез!"
 }
