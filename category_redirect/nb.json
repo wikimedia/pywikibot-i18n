@@ -16,7 +16,7 @@
 	"category_redirect-log-add-failed": "* Kunne ikke legge til [[%(ns)s%(template)s]] på %(oldcat)s",
 	"category_redirect-log-double": "* Fikset dobbel omdirigering: %(oldcat)s → %(newcat)s → %(targetcat)s",
 	"category_redirect-log-failed": "** Feilet: %(error)s",
-	"category_redirect-log-false-positive": "* Falsk positiv: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Uventet ikke-omdirigering: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignorerer %(oldcat)s",
 	"category_redirect-log-loop": "* Omdirigeringssløyfe fra %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d funnet, %(moved)d flyttet",

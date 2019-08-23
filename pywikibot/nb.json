@@ -15,5 +15,6 @@
 	"pywikibot-enter-xml-filename": "Skriv inn XML-dumpens filnavn:",
 	"pywikibot-fixes-fckeditor": "Robot: Fikser HTML fra wysiwyg-editor",
 	"pywikibot-fixes-html": "Robot: Konverterer/fikser HTML",
-	"pywikibot-fixes-syntax": "Robot: Fikser wikisyntaks"
+	"pywikibot-fixes-syntax": "Robot: Fikser wikisyntaks",
+	"pywikibot-touch": "Pywikibot-nullredigering"
 }

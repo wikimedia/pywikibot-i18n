@@ -18,7 +18,7 @@
 	"category_redirect-log-add-failed": "* Није успело додавање [[%(ns)s%(template)s]] у %(oldcat)s",
 	"category_redirect-log-double": "* Поправљено дупло преусмерење: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Није успело: %(error)s",
-	"category_redirect-log-false-positive": "* Неочекивано не-преусмерење: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Неочекивано непреусмерење: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Игнорисање %(oldcat)s",
 	"category_redirect-log-loop": "* Преусмеравајућа петља од %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d пронађено, %(moved)d премештено",
@@ -27,7 +27,7 @@
 	"category_redirect-log-not-loaded": "* Није могуће учитати %(oldcat)s; игнорисање",
 	"category_redirect-log-skipping": "* Прескакање %(oldcat)s; у периоду обуставе",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Старији дневници]'''",
-	"category_redirect-problem-hard": "# %(oldcat)s је тешко преусмерење на %(page)s",
+	"category_redirect-problem-hard": "# %(oldcat)s је чврсто преусмерење на %(page)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s преусмерава на %(redpage)s",
-	"category_redirect-problem-self-linked": "# %(oldcat)s је самостално-повезано преусмерење"
+	"category_redirect-problem-self-linked": "# %(oldcat)s је самоповезано преусмерење"
 }
