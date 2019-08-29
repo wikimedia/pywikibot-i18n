@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luthfi94"
+			"Luthfi94",
+			"Iwan Novirion"
 		]
 	},
-	"editarticle-edit": "Penyuntingan manual dengan memakai Bot: %(description)s"
+	"editarticle-edit": "Panyuntiangan manual manggunoan Bot: %(description)s"
 }

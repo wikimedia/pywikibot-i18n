@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Luthfi94",
-			"Naval Scene"
+			"Naval Scene",
+			"Iwan Novirion"
 		]
 	},
 	"category-adding": "Robot: Manambahan kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(juo dalam %(alsocat)s)",
 	"category-listifying": "Bot: Mambuek dafta dari %(fromcat)s (%(num)d entri)",
-	"category-removing": "Bot: Mahapuih dari %(oldcat)s",
+	"category-removing": "Bot: Mangapuih dari %(oldcat)s",
 	"category-renamed": "Bot: Mamindahan dari %(oldcat)s. Kontributor: %(authors)s",
 	"category-replacing": "Bot: Maganti kategori %(oldcat)s jo %(newcat)s",
 	"category-section-title": "Versi tadahulu laman bekeh %(oldcat)s",

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luthfi94"
+			"Luthfi94",
+			"Iwan Novirion"
 		]
 	},
-	"replace-replacing": "Bot: Panggantian teks otomatis %(description)s"
+	"replace-replacing": "Bot: Panggantian teks otomatih %(description)s"
 }

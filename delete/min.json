@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luthfi94"
+			"Luthfi94",
+			"Iwan Novirion"
 		]
 	},
-	"delete-from-category": "Robot: Mahapuih sado laman dari kategori %(page)s",
+	"delete-from-category": "Bot: Mangapuih sado laman dari kategori %(page)s",
 	"delete-from-file": "Robot: Mahapuih daftar berkas.",
-	"delete-images": "Robot: Mahapuih sado gambar pado laman %(page)s",
-	"delete-linked-pages": "Robot: Mahapuih sado laman nan tatauik dari %(page)s",
-	"delete-referring-pages": "Robot: Mahapuih sado laman nan mangarah dari %(page)s"
+	"delete-images": "Bot: Mangapuih sado gambar pado laman %(page)s",
+	"delete-linked-pages": "Bot: Mangapuih sado laman nan tatauik dari %(page)s",
+	"delete-referring-pages": "Bot: Mangapuih sado laman nan mangarah dari %(page)s"
 }

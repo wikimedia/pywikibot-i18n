@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Luthfi94",
-			"Naval Scene"
+			"Naval Scene",
+			"Iwan Novirion"
 		]
 	},
 	"category_redirect-add-template": "Robot: manambuahkan templat pamaliharaan pangalihan kategori",
@@ -10,5 +11,5 @@
 	"category_redirect-comment": "Bot pamaliharaan pangalihan kategori",
 	"category_redirect-edit-request": "Laman nan dilinduangi barikuik ko tadeteksi mamaraluan pambaruan untuak pautan kategori: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s tamasuak dalam %(oldcat)s, nan marupokan pangalihan ka %(newcat)s",
-	"category_redirect-fix-double": "Bot: Mampeloki pangalihan gando"
+	"category_redirect-fix-double": "Bot: Mampeloki pangalihan ganda"
 }
