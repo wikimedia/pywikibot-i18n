@@ -16,7 +16,7 @@
 	"category_redirect-log-add-failed": "* Erro ó engadir [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-double": "* Corrección de redireccionamento dobre: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Fallou: %(error)s",
-	"category_redirect-log-false-positive": "* Falso positivo: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Non-redirección non esperada: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignorar %(oldcat)s",
 	"category_redirect-log-loop": "* Bucle de redireccións desde %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d atopadas, %(moved)d movidas",

@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Elisardojm"
+			"Elisardojm",
+			"Banjo"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: Engadindo %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: Ficheiro xa presente en Commons, pode que se elimine",
+	"checkimages-doubles-head": "Ficheiro duplicado",
+	"checkimages-doubles-talk-comment": "Bot: Notificar que o ficheiro xa existe en Commons",
+	"checkimages-log-comment": "Bot: Actualizando rexistro",
+	"checkimages-no-license-head": "Imaxe sen licenza",
 	"checkimages-source-tag-comment": "Bot: Marcando un ficheiro sen etiquetas recentemente subido",
-	"checkimages-source-notice-comment": "Bot: Solicitando información da fonte."
+	"checkimages-source-notice-comment": "Bot: Solicitando información da fonte.",
+	"checkimages-unknown-extension-head": "Extensión descoñecida!",
+	"checkimages-unknown-extension-msg": "O ficheiro %(file)s semella ter unha extensión incorrecta, por favor verifíqueo."
 }

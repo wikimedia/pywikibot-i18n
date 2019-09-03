@@ -3,12 +3,13 @@
 		"authors": [
 			"Toliño",
 			"Elisardojm",
-			"Xqt"
+			"Xqt",
+			"Banjo"
 		]
 	},
 	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
 	"archivebot-archive-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} de [[%(from)s]]",
 	"archivebot-archiveheader": "{{Arquivo}}",
-	"archivebot-older-than": "máis vello que %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|máis antigo}} que %(duration)s",
 	"archivebot-page-summary": "Arquivo %(count)d {{PLURAL:%(count)d|fío|fíos}} (%(why)s) en %(archives)s"
 }
