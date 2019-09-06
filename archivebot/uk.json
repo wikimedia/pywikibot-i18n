@@ -10,8 +10,8 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIVE FULL)",
-	"archivebot-archive-summary": "Архівування %(count)d {{PLURAL:%(count)d|теми|тем}} з [[%(from)s]]",
+	"archivebot-archive-summary": "Бот: Архівація %(count)d {{PLURAL:%(count)d|теми|тем}} з [[%(from)s]]",
 	"archivebot-archiveheader": "{{Архів обговорення}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|старше}} за %(duration)s",
-	"archivebot-page-summary": "Бот: Архівація %(count)d {{PLURAL:%(count)d|теми|тем}} (%(why)s) в %(archives)s"
+	"archivebot-page-summary": "Бот: Архівація %(count)d {{PLURAL:%(count)d|теми|тем}} (%(why)s) до %(archives)s"
 }
