@@ -3,11 +3,12 @@
 		"authors": [
 			"Geraki",
 			"Glavkos",
-			"Protnet"
+			"Protnet",
+			"Ah3kal"
 		]
 	},
 	"archivebot-archive-full": "(ΑΡΧΕΙΟ ΠΛΗΡΕΣ)",
 	"archivebot-archive-summary": "Ρομπότ: Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} από [[%(from)s]] συνολικά",
-	"archivebot-older-than": "παλαιότερο από %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|παλαιότερο|παλαιότερα}} από %(duration)s",
 	"archivebot-page-summary": "Ρομπότ:Αρχειοθέτηση %(count)d {{PLURAL:%(count)d|νήματος|νημάτων}} (%(why)s) σε %(archives)s"
 }
