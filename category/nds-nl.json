@@ -4,15 +4,17 @@
 			"Servien"
 		]
 	},
-	"category-adding": "Bot: kategorie [[:Category:%(newcat)s|%(newcat)s]] derbie edaon",
-	"category-also-in": "(oek in %(alsocat)s)",
-	"category-listifying": "Bot: lieste van %(fromcat)s (%(num)d ziejen)",
-	"category-removing": "Bot: vortehaold uut %(oldcat)s",
-	"category-renamed": "Bot: herneumd van %(oldcat)s. Auteurs: %(authors)s",
-	"category-replacing": "Bot: kategorie %(oldcat)s is vervöngen deur %(newcat)s",
-	"category-section-title": "Ziedgeschiedenisse van eerdere %(oldcat)s",
-	"category-strip-cfd-templates": "Bot: kategorie-vortdo-mallen deruut ehaold veur n haandeling die uutevoerd is",
-	"category-version-history": "Bot: versiegeschiedenisse van eerdere %(oldcat)s op-esleugen",
-	"category-was-disbanded": "Bot: kategorie besteet niet meer",
-	"category-was-moved": "Bot: kategorie is herneumd naor [[:Category:%(newcat)s|%(title)s]]"
+	"category-adding": "Bot: kategory [[:Category:%(newcat)s|%(newcat)s]] tovoogd",
+	"category-also-in": "(ouk in %(alsocat)s)",
+	"category-listifying": "Bot: lyste van %(fromcat)s (%(num)d syden)",
+	"category-removing": "Bot: vordsmeaten uut %(oldcat)s",
+	"category-renamed": "Bot: hernöömd van %(oldcat)s. Autöörs: %(authors)s",
+	"category-replacing": "Bot: kategory %(oldcat)s is vervüngen döär %(newcat)s",
+	"category-section-title": "Sydgeskydenisse van vöärmålige %(oldcat)s",
+	"category-strip-cfd-templates": "Bot: kategoryvordsmytmallen vordsmeaten vöär een afrunde handeling",
+	"category-strip-sort-keys": "Bot: smit sorteerslöätels vord vöär afhandelde akty",
+	"category-strip-both": "Bot: smit CFD-mallen en sorteerslöätels vord vöär afhandelde akty",
+	"category-version-history": "Bot: versygeskydenisse van vöärmålige %(oldcat)s seakerd",
+	"category-was-disbanded": "Bot: kategory besteyt neet meyr",
+	"category-was-moved": "Bot: kategory is hernöömd nå [[:Category:%(newcat)s|%(title)s]]"
 }

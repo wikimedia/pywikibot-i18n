@@ -4,9 +4,9 @@
 			"Servien"
 		]
 	},
-	"delete-from-category": "Bot: alle ziejen uut kategorie %(page)s wörden vortedaon",
-	"delete-from-file": "Bot: lieste mit ziejen wörden vortedaon.",
-	"delete-images": "Bot: alle media op de zied %(page)s wörden vortedaon",
-	"delete-linked-pages": "Bot: alle ziejen waor de zied %(page)s naor verwis wörden vortedaon",
-	"delete-referring-pages": "Bot: alle ziejen die naor de zied %(page)s verwiezen wörden vortedaon"
+	"delete-from-category": "Bot: alle syden uut kategory %(page)s wörden vordsmeaten",
+	"delete-from-file": "Bot: lyste mid syden wördt vordsmeaten.",
+	"delete-images": "Bot: alle media up de syde %(page)s wörden vordsmeaten",
+	"delete-linked-pages": "Bot: alle syden wår de syde %(page)s nå verwist wörden vordsmeaten",
+	"delete-referring-pages": "Bot: alle syden dee nå de syde %(page)s verwysen wörden vordsmeaten"
 }

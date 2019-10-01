@@ -4,6 +4,6 @@
 			"Servien"
 		]
 	},
-	"image-remove": "Bot: aofbeelding %(file)s vortedaon",
-	"image-replace": "Bot: aofbeelding %(old)s vervöngen deur %(new)s"
+	"image-remove": "Bot: afbealding %(file)s vordsmeaten",
+	"image-replace": "Bot: afbealding %(old)s vervüngen döär %(new)s"
 }

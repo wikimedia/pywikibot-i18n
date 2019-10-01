@@ -4,6 +4,14 @@
 			"Servien"
 		]
 	},
-	"checkimages-source-tag-comment": "Bot: niej bestaand zonder etiketten emarkeerd",
-	"checkimages-source-notice-comment": "Bot: verzeuk veur brongegevens."
+	"checkimages-deletion-comment": "Bot: tovoogd %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: bestand steyt al up Commons, kan vordsmeaten wörden",
+	"checkimages-doubles-head": "Dubbel bestand",
+	"checkimages-doubles-talk-comment": "Bot: meld dat et bestand al up Commons besteyt",
+	"checkimages-log-comment": "Bot: logbook bywarken",
+	"checkimages-no-license-head": "Afbealding sunder licensy",
+	"checkimages-source-tag-comment": "Bot: ny bestand sunder etiketten markeerd",
+	"checkimages-source-notice-comment": "Bot: versöök üm brongegeavens",
+	"checkimages-unknown-extension-head": "Unbekende ekstensy!",
+	"checkimages-unknown-extension-msg": "Et bestand %(file)s skynt een verkeyrde ekstensy te hebben, graege nåkyken."
 }

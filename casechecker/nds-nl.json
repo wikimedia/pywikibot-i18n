@@ -4,9 +4,9 @@
 			"Servien"
 		]
 	},
-	"casechecker-delete-reason": "Disse deurverwiezing verwees naor %(target)s",
-	"casechecker-delete-summary": "Bot: in de naam van disse deurverwiezing staon Kyrilliese en Latiense letters die liek alleens bin",
-	"casechecker-rename": "Bot: heufdletters en kleine letters ewiezigd",
+	"casechecker-delete-reason": "Disse döärverwysing verweys nå %(target)s",
+	"casechecker-delete-summary": "Bot: in de name van disse döärverwysing stån kyrilliske en latynske letters dee identik binnet",
+	"casechecker-rename": "Bot: höyvdletters en kleine letters wysigd",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Bot: wiezigingen in kleine letters en heufdletters:"
+	"casechecker-replacement-summary": "Bot: wysigingen in kleine letters en höyvdletters:"
 }

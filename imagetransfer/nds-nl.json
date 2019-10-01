@@ -4,6 +4,6 @@
 			"Servien"
 		]
 	},
-	"imagetransfer-file_page_message": "Aofbeelding ekopieerd vanaof %(site)s. De beschrieving daor was:\n\n%(description)s",
-	"imagetransfer-nowcommons_notice": "Dit bestaand steet noen op Wikimedia Commons."
+	"imagetransfer-file_page_message": "Afbealding kopieerd vanaf %(site)s. De beskryving dår was:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Dit bestand steyt nu up Wikimedia Commons."
 }

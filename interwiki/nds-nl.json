@@ -4,12 +4,12 @@
 			"Servien"
 		]
 	},
-	"interwiki-adding": "Bot derbie: %(adding)s",
-	"interwiki-adding-modifying": "Bot derbie: %(adding)s aanders: %(modifying)s",
-	"interwiki-adding-removing": "Bot derbie: %(adding)s deraof: %(removing)s",
-	"interwiki-adding-removing-modifying": "Bot derbie: %(adding)s deraof: %(removing)s aanders: %(modifying)s",
-	"interwiki-modifying": "Bot aanders: %(modifying)s",
-	"interwiki-modifying-from": "Bot: wieziging van %(from)s naor %(modifying)s",
-	"interwiki-removing": "Bot deraof: %(removing)s",
-	"interwiki-removing-modifying": "Bot deraof: %(removing)s aanders: %(modifying)s"
+	"interwiki-adding": "Bot: tovoogd: %(adding)s",
+	"interwiki-adding-modifying": "Bot: tovoogd: %(adding)s; wysigd: %(modifying)s",
+	"interwiki-adding-removing": "Bot: tovoogd: %(adding)s; vordsmeaten: %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: tovoogd: %(adding)s; vordsmeaten: %(removing)s; wysigd: %(modifying)s",
+	"interwiki-modifying": "Bot: wysigd: %(modifying)s",
+	"interwiki-modifying-from": "Bot: wysigd van %(from)s nå %(modifying)s",
+	"interwiki-removing": "Bot: vordsmeaten: %(removing)s",
+	"interwiki-removing-modifying": "Bot: vordsmeaten: %(removing)s; wysigd: %(modifying)s"
 }
