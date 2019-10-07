@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Emperyan",
-			"Khutuck"
+			"Khutuck",
+			"BaRaN6161 TURK"
 		]
 	},
+	"thirdparty-drtrigonbot-subster-summary-mod": "%(tags)s etiket(leri) değiştirilmesi",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Tartışma değiştirildi.",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Tartışma kapandı.",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOT İLETİ",

@@ -3,10 +3,19 @@
 		"authors": [
 			"Meelo",
 			"Captantrips",
-			"McAang"
+			"McAang",
+			"BaRaN6161 TURK"
 		]
 	},
 	"pywikibot-enter-category-name": "Lütfen kategori adını girin:",
+	"pywikibot-enter-file-links-processing": "Hangi dosya sayfasının bağlantıları işlenmeli?",
+	"pywikibot-enter-finished-browser": "Tarayıcıda bittiğinde Enter tuşuna basın.",
+	"pywikibot-enter-namespace-number": "Lütfen numarasına göre bir ad alanı girin:",
 	"pywikibot-enter-new-text": "Lütfen yeni metni girin:",
-	"pywikibot-fixes-html": "Robot: HTML'i dönüştürüyor/onarıyor"
+	"pywikibot-enter-page-processing": "Hangi sayfa işlenmeli?",
+	"pywikibot-enter-xml-filename": "Lütfen XML dökümü dosyasının adını girin:",
+	"pywikibot-fixes-fckeditor": "Bot: Zengin düzenleyici html'i düzeltme",
+	"pywikibot-fixes-html": "Robot: HTML'i dönüştürüyor/onarıyor",
+	"pywikibot-fixes-syntax": "Bot: wiki sözdizimini düzeltme",
+	"pywikibot-touch": "Pywikibot dokunma düzenleme"
 }

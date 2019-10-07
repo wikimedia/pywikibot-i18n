@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"unprotect-category": "Bot: Tüm sayfaların %(cat)s kategorisinden korunmaması",
+	"unprotect-images": "Bot: Tüm sayfaların %(page)s sayfalarından korunmaması",
+	"unprotect-links": "Bot: Tüm sayfaların %(page)s bağlantılardan korunmaması",
+	"unprotect-ref": "Bot: %(page)s atıfta bulunan tüm sayfaların korumasını kaldırma",
+	"unprotect-simple": "Bot: Bir dosya listesini korumanın kaldırılması"
+}

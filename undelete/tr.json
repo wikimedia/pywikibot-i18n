@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"undelete-from-file": "Bot: Bir sayfa listesinin geri alınması",
+	"undelete-images": "Bot: Sayfadaki tüm resimlerin geri alması %(page)s",
+	"undelete-linked-pages": "Bot: %(page)s ile bağlantılı tüm sayfaların geri alması"
+}

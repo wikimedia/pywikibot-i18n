@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"image-remove": "Bot: %(file)s görüntüsü çıkarılıyor",
+	"image-replace": "Bot: %(old)s'un yerine %(new)s görüntüsü değiştiriliyor"
+}

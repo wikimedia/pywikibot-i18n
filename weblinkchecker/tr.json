@@ -2,9 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Meelo",
-			"McAang"
+			"McAang",
+			"BaRaN6161 TURK"
 		]
 	},
+	"weblinkchecker-archive_msg": "Web sayfası İnternet Arşivi tarafından kaydedilmiştir. Lütfen uygun bir arşivlenmiş sürüme bağlanmayı düşünün: [%(URL)s].",
+	"weblinkchecker-badurl": "Sağlanan bağlantı geçerli bir URL gibi görünmüyor",
 	"weblinkchecker-caption": "Ölü bağlantı",
+	"weblinkchecker-report": "Birkaç otomatik bot çalıştırması sırasında, aşağıdaki harici bağlantının mevcut olmadığı bulundu. Lütfen bağlantının gerçekte aşağı olup olmadığını kontrol edin ve bu durumda düzeltin ya da kaldırın!",
 	"weblinkchecker-summary": "Robot: Kullanılamayan dış bağlantı rapor ediliyor"
 }
