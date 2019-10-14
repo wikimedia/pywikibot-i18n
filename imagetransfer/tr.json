@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"imagetransfer-file_page_message": "Bu resim %(site)s adresinden kopyalandı. Orijinal açıklama şuydu:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Dosya artık Wikimedia Commons'ta mevcuttur."
+}

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Khutuck"
+			"Khutuck",
+			"BaRaN6161 TURK"
 		]
 	},
-	"noreferences-add-tag": "Bot: Eksik <references /> etiketi ekleniyor"
+	"noreferences-add-tag": "Bot: Eksik <references /> etiketi ekleniyor",
+	"noreferences-fix-tag": "Bot: <references /> etiketinin geçersiz sözdizimini düzelt"
 }

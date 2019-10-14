@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"protect-category": "Bot: Tüm sayfaları %(cat)s kategorisinden koruma",
+	"protect-images": "Bot: Tüm resimler %(page)s sayfası koruma",
+	"protect-links": "Bot: %(page)s ile bağlantılı tüm sayfaları koruma",
+	"protect-ref": "Bot: Tüm sayfaların %(page)s'den referans olarak korunması",
+	"protect-simple": "Bot: Bir dosya listesini koruma."
+}

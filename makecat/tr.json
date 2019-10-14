@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"makecat-create": "Bot: Kategori oluşturma veya güncelleme [[:Category:%(cat)s|]]"
+}

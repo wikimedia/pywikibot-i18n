@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"revertbot-revert": "Bot: %(revid)s %(author)s %(timestamp)s üzerinde revizyona döndürüldü"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
+	"checkimages-deletion-comment": "Bot: Ekleniyor %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: Dosya zaten Commons'da, silinebilir",
+	"checkimages-doubles-head": "Yinelenen dosya",
+	"checkimages-doubles-talk-comment": "Bot: Dosyanın zaten Commons'ta bulunduğunu bildirme",
+	"checkimages-log-comment": "Bot: Günlüğü güncelleme",
+	"checkimages-no-license-head": "Lisanssız resim",
+	"checkimages-source-tag-comment": "Bot: Yeni yüklenen etiketsiz dosyayı işaretleme",
+	"checkimages-source-notice-comment": "Bot: Kaynak bilgisi talep ediliyor.",
+	"checkimages-unknown-extension-head": "Bilinmeyen uzantı!",
+	"checkimages-unknown-extension-msg": "%(file)s dosyası yanlış bir uzantıya sahip görünüyor, lütfen kontrol edin."
+}
