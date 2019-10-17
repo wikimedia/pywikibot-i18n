@@ -13,7 +13,7 @@
 	"category_redirect-edit-request-item": "* %(title)s, %(newcat)s'e yönlendirilen %(oldcat)s'te",
 	"category_redirect-fix-double": "Bot: Çift yönlendirme düzeltiliyor",
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] da %(oldcat)s eklendi",
-	"category_redirect-log-add-failed": "* Failed to add [[%(ns)s%(template)s]] da %(oldcat)s eklemeye başarısız oldu",
+	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] da %(oldcat)s eklemeye başarısız oldu",
 	"category_redirect-log-double": "* Sabit çift yönlendirme: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Başarısız: %(error)s",
 	"category_redirect-log-false-positive": "* Beklenmeyen yönlendirme: %(oldcat)s",
