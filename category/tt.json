@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Zahidulla",
-			"Ильнар"
+			"Ильнар",
+			"Ерней"
 		]
 	},
-	"category-adding": "Робот: Төркем өстәү [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Бот: [[:Category:%(newcat)s|%(newcat)s]] төркемен өстәү",
 	"category-also-in": "(шулай ук %(alsocat)s)",
 	"category-listifying": "Робот:  (%(num)d Элементтан исемлек төзелә) %(fromcat)s",
 	"category-removing": "Робот:  %(oldcat)s арасыннан аеру",
