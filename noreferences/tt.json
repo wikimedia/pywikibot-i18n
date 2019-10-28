@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ajdar"
+			"Ajdar",
+			"Ерней"
 		]
 	},
-	"noreferences-add-tag": "Робот: <references /> дигән булмаган тег өстәлде"
+	"noreferences-add-tag": "Бот: булмаган <references /> тамгасы өстәлде"
 }
