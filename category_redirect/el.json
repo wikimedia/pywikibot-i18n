@@ -17,7 +17,7 @@
 	"category_redirect-log-add-failed": "* Αποτυχία προσθήκης [[%(ns)s%(template)s]] σε %(oldcat)s",
 	"category_redirect-log-double": "* Διορθώθηκε διπλή ανακατεύθυνση: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Αποτυχία: %(error)s",
-	"category_redirect-log-false-positive": "* Ψευδώς θετικό: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Αναπάντεχη μη-ανακατεύθυνση: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Αγνοώντας %(oldcat)s",
 	"category_redirect-log-loop": "* Γύρος ανακατεύθυνσης από το %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d βρέθηκαν, %(moved)d μετακινήθηκαν",

@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Glavkos"
+			"Glavkos",
+			"Geraki"
 		]
 	},
+	"checkimages-deletion-comment": "Ρομπότ: Προσθήκη: %(adding)s",
+	"checkimages-log-comment": "Ρομπότ: Ενημέρωση αρχείου καταγραφής",
 	"checkimages-source-tag-comment": "Ρομπότ:Σήμανση πρόσφατα ανεβασμένων αρχείων χωρίς ετικέτα.",
 	"checkimages-source-notice-comment": "Ρομπότ: Αίτημα για πληροφορία πηγής"
 }
