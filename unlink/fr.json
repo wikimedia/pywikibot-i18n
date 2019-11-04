@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"unlink-unlinking": "Robot: Retire le lien \"%(title)s\""
+	"@metadata": {
+		"authors": [
+			"Verdy p"
+		]
+	},
+	"unlink-unlinking": "Robot : retire le lien « %(title)s »"
 }

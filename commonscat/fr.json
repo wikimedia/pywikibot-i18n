@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Xqt",
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
-	"commonscat-msg_change": "Robot: Changement du lien commonscat de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] à [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Robot : changement du lien commonscat de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] à [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

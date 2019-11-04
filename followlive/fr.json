@@ -3,8 +3,9 @@
 		"authors": [
 			"Hashar",
 			"Gomoko",
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
-	"followlive-blanking": "Effacé, le contenu était '%(content)s'."
+	"followlive-blanking": "Effacé, le contenu était « %(content)s »."
 }
