@@ -3,9 +3,11 @@
 		"authors": [
 			"Macofe",
 			"Fitoschido",
-			"Ryo567"
+			"Ryo567",
+			"MarcoAurelio"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: añadiendo %(adding)s",
 	"checkimages-doubles-file-comment": "Bot: Archivo ya en Commons, puede ser eliminado",
 	"checkimages-doubles-head": "Archivo duplicado",
 	"checkimages-doubles-talk-comment": "Bot: Notifica que el archivo ya existe en Commons",
