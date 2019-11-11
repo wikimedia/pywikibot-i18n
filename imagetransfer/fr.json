@@ -3,9 +3,10 @@
 		"authors": [
 			"Tavernier",
 			"Gomoko",
-			"Thibaut120094"
+			"Thibaut120094",
+			"Verdy p"
 		]
 	},
-	"imagetransfer-file_page_message": "Cette image est copiée de %(site)s. La description originale était:\n\n%(description)s",
+	"imagetransfer-file_page_message": "Cette image a été copiée de %(site)s. Sa description originale était :\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "Le fichier est désormais disponible sur Wikimedia Commons."
 }

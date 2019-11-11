@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
 	"casechecker-delete-reason": "Cette redirection pointait vers %(target)s",
-	"casechecker-delete-summary": "Robot : Cette redirection contient des lettres semblables en cyrillique et en latin dans son titre.",
+	"casechecker-delete-summary": "Robot :  cette redirection contient dans son titre des lettres similaires en cyrillique et en latin.",
 	"casechecker-rename": "Robot : renommage en casse mixte",
-	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Robot : Modifications de casse :"
+	"casechecker-replacement-linklist": "%(source)s → %(target)s",
+	"casechecker-replacement-summary": "Robot : modifications de casse :"
 }

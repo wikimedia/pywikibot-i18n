@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sherbrooke"
+			"Sherbrooke",
+			"Verdy p"
 		]
 	},
-	"isbn-formatting": "Robot : Mise en forme du ISBN"
+	"isbn-formatting": "Robot : mise en forme du numéro ISBN"
 }

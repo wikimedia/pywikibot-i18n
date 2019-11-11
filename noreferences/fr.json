@@ -4,9 +4,10 @@
 			"Od1n",
 			"Gomoko",
 			"Wladek92",
-			"Framawiki"
+			"Framawiki",
+			"Verdy p"
 		]
 	},
-	"noreferences-add-tag": "Robot : Ajout du modèle {{références}} manquant",
-	"noreferences-fix-tag": "Robot: Correction de la syntaxe non valide de la balise <references />"
+	"noreferences-add-tag": "Robot : ajout du modèle {{références}} manquant",
+	"noreferences-fix-tag": "Robot : correction de la syntaxe non valide de la balise <references />"
 }

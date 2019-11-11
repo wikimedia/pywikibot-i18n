@@ -3,9 +3,10 @@
 		"authors": [
 			"Tavernier",
 			"Wladek92",
-			"Urhixidur"
+			"Urhixidur",
+			"Verdy p"
 		]
 	},
-	"image-remove": "Bot : Suppression de l’image %(file)s",
-	"image-replace": "Bot : Remplace l’image %(old)s par %(new)s"
+	"image-remove": "Bot : retrait de l’image %(file)s",
+	"image-replace": "Bot : remplacement de l’image %(old)s par %(new)s"
 }

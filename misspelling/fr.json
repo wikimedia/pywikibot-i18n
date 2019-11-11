@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Maxim21"
+			"Maxim21",
+			"Verdy p"
 		]
 	},
-	"misspelling-fixing": "Robot : Réparation des liens mal orthographiés vers %(page)s"
+	"misspelling-fixing": "Robot : correction des liens mal orthographiés vers %(page)s"
 }

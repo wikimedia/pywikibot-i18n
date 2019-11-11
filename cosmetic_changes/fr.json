@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Boniface"
+			"Boniface",
+			"Verdy p"
 		]
 	},
-	"cosmetic_changes-append": "; changements de type cosmétique",
-	"cosmetic_changes-standalone": "Robot : Modifications de type cosmétique"
+	"cosmetic_changes-append": "; changements cosmétiques",
+	"cosmetic_changes-standalone": "Robot : modifications cosmétiques"
 }

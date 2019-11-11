@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
-	"pagefromfile-msg": "Robot : Import automatique d'articles",
-	"pagefromfile-msg_bottom": "rajouté en bas",
+	"pagefromfile-msg": "Robot : import automatique d’articles",
+	"pagefromfile-msg_bottom": "rajout en bas",
 	"pagefromfile-msg_force": "texte existant écrasé",
-	"pagefromfile-msg_top": "rajouté en haut"
+	"pagefromfile-msg_top": "rajout en haut"
 }

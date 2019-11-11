@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"Verdy p"
 		]
 	},
-	"djvutext-creating": "Robot : Création de la page avec le texte extrait depuis DjVu"
+	"djvutext-creating": "Robot : création de la page avec le texte extrait depuis DjVu"
 }

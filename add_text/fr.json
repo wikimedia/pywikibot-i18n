@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Od1n"
+			"Od1n",
+			"Verdy p"
 		]
 	},
-	"add_text-adding": "Robot : Ajoute %(adding)s"
+	"add_text-adding": "Robot : ajout de %(adding)s"
 }

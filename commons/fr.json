@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Romainhk"
+			"Romainhk",
+			"Verdy p"
 		]
 	},
-	"commons-file-moved": "[[:File:%(localfile)s|Fichier]] déplacé sur [[:commons:File:%(commonsfile)s|commons]].",
+	"commons-file-moved": "[[:File:%(localfile)s|Fichier]] déplacé sur [[:commons:File:%(commonsfile)s|Commons]].",
 	"commons-file-now-available": "Le fichier est maintenant disponible sur [[:commons:File:%(commonsfile)s|Wikimedia Commons]]."
 }

@@ -4,11 +4,12 @@
 			"Od1n",
 			"Romainhk",
 			"Urhixidur",
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
-	"featured-featured": "Bot : %(page)s est un article de qualité",
-	"featured-former": "Bot : %(page)s est un ancien article de qualité",
-	"featured-good": "Robot: %(page)s est un bon article",
-	"featured-list": "Bot : %(page)s est une liste de qualité"
+	"featured-featured": "Robot : %(page)s est un article de qualité",
+	"featured-former": "Robot : %(page)s est un ancien article de qualité",
+	"featured-good": "Robot : %(page)s est un bon article",
+	"featured-list": "Robot : %(page)s est une liste de qualité"
 }

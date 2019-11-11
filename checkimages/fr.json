@@ -6,17 +6,18 @@
 			"Urhixidur",
 			"xqt",
 			"Wladek92",
-			"VIGNERON"
+			"VIGNERON",
+			"Verdy p"
 		]
 	},
-	"checkimages-deletion-comment": "Robot : Ajouté %(adding)s",
-	"checkimages-doubles-file-comment": "Robot : Fichier déjà sur Commons, peut être supprimé",
+	"checkimages-deletion-comment": "Robot : ajout de %(adding)s",
+	"checkimages-doubles-file-comment": "Robot : fichier déjà sur Commons, peut être supprimé",
 	"checkimages-doubles-head": "Fichier dupliqué",
-	"checkimages-doubles-talk-comment": "Robot : Notifier que le fichier existe déjà sur Commons",
-	"checkimages-log-comment": "Robot: Mise à jour du journal",
+	"checkimages-doubles-talk-comment": "Robot : notification que le fichier existe déjà sur Commons",
+	"checkimages-log-comment": "Robot : mise à jour du journal",
 	"checkimages-no-license-head": "Image sans licence",
-	"checkimages-source-tag-comment": "Robot : Marquage d’un fichier nouvellement téléversé non marqué",
-	"checkimages-source-notice-comment": "Robot : Demande d’information sur la source.",
-	"checkimages-unknown-extension-head": "Extension inconnue",
+	"checkimages-source-tag-comment": "Robot : marquage d’un fichier nouvellement téléversé sans balise",
+	"checkimages-source-notice-comment": "Robot : demande d’informations sur la source.",
+	"checkimages-unknown-extension-head": "Extension inconnue !",
 	"checkimages-unknown-extension-msg": "Le fichier %(file)s semble avoir une mauvaise extension, veuillez vérifier."
 }

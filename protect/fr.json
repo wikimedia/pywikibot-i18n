@@ -3,10 +3,11 @@
 		"authors": [
 			"Linedwell",
 			"Romainhk",
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
-	"protect-category": "Robot : Protège toutes les pages de la catégorie %(cat)s",
+	"protect-category": "Robot : protection de toutes les pages de la catégorie %(cat)s",
 	"protect-images": "Robot : Protège toutes les images de la page %(page)s",
 	"protect-links": "Robot : Protège toutes les pages liées depuis %(page)s",
 	"protect-ref": "Robot : Protège toutes les pages référant à %(page)s",

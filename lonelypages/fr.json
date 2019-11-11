@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Linedwell"
+			"Linedwell",
+			"Verdy p"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "Robot : Ajout d'une page d'homonymie",
-	"lonelypages-comment-add-template": "Robot : Page orpheline, ajout de modèle"
+	"lonelypages-comment-add-disambig-template": "Robot : ajout d’une page d’homonymie",
+	"lonelypages-comment-add-template": "Robot : page orpheline, ajout de modèle"
 }
