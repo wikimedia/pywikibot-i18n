@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Mjälten"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: Lägger till %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: Filen finns redan hos Commons, kan tas bort",
+	"checkimages-doubles-head": "Duplikat",
+	"checkimages-doubles-talk-comment": "Bot: Meddela att filen redan finns hos Commons",
+	"checkimages-log-comment": "Bot: Uppdaterar loggen",
+	"checkimages-no-license-head": "Bild utan licens",
 	"checkimages-source-tag-comment": "Bot: Märker nyligen uppladdad omärkt fil",
-	"checkimages-source-notice-comment": "Bot: Begär källinformation."
+	"checkimages-source-notice-comment": "Bot: Begär källinformation.",
+	"checkimages-unknown-extension-head": "Obekant filändelse!",
+	"checkimages-unknown-extension-msg": "Filen %(file)s har fel filändelse"
 }
