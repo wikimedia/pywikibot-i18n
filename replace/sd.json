@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"KaleemBhatti"
+			"KaleemBhatti",
+			"Mehtab ahmed"
 		]
 	},
-	"replace-replacing": "خودڪار: خودڪار طور تي متن جي تبديلي %(description)s"
+	"replace-replacing": "بوٽ: پاڻمرادو متن جي تبديلي %(description)s"
 }
