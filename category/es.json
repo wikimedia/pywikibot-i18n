@@ -9,7 +9,8 @@
 			"Vivaelcelta",
 			"Xqt",
 			"MarcoAurelio",
-			"Macofe"
+			"Macofe",
+			"Ktranz"
 		]
 	},
 	"category-adding": "Robot: adición de categoría «[[:Category:%(newcat)s|%(newcat)s]]»",
@@ -20,6 +21,8 @@
 	"category-replacing": "Robot: sustitución de categoría %(oldcat)s por %(newcat)s",
 	"category-section-title": "Historial de la página de %(oldcat)s previos",
 	"category-strip-cfd-templates": "Bot: eliminando plantillas de CFD por finalización de la discusión",
+	"category-strip-sort-keys": "Bot: Eliminando clave de ordenamiento para acción finalizada",
+	"category-strip-both": "Bot: Eliminando plantilla CFD y claves de ordenamiento para acción finalizada",
 	"category-version-history": "Bot: guardado de historial de la %(oldcat)s anterior",
 	"category-was-disbanded": "Robot: la categoría fue eliminada",
 	"category-was-moved": "Robot: categoría trasladada a «[[:Category:%(newcat)s|%(title)s]]»"
