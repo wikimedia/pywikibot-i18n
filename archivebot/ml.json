@@ -6,6 +6,6 @@
 	},
 	"archivebot-archive-full": "(സഞ്ചയികാ വേദി)",
 	"archivebot-archive-summary": "യന്ത്രം: %(count)d {{PLURAL:%(count)d|ചരട്|ചരടുകൾ}} [[%(from)s]] എന്നതിൽ നിന്ന് മാറ്റുന്നു",
-	"archivebot-older-than": "%(duration)s എന്നതിലും പഴയവ",
+	"archivebot-older-than": "%(duration)s എന്നതിലും {{PLURAL:%(count)d|പഴയവ}}",
 	"archivebot-page-summary": "യന്ത്രം: %(count)d {{PLURAL:%(count)d|ചരട്|ചരടുകൾ}} (%(why)s)  %(archives)s എന്നതിലേയ്ക്ക് മാറ്റുന്നു"
 }

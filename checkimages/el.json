@@ -2,11 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Glavkos",
-			"Geraki"
+			"Geraki",
+			"GhotuoIncubator"
 		]
 	},
 	"checkimages-deletion-comment": "Ρομπότ: Προσθήκη: %(adding)s",
+	"checkimages-doubles-file-comment": "Ροπμότ: Το Αρχείο υπάρχει ήδη στο Wikimedia Commons, μαλλον θα διαγραφεί.",
+	"checkimages-doubles-head": "Διπλότυπο αρχείο",
+	"checkimages-doubles-talk-comment": "Ρομπότ: Ενημέρωση οτι το αρχείο υπάρχει ήδη στο Wikimedia Commons",
 	"checkimages-log-comment": "Ρομπότ: Ενημέρωση αρχείου καταγραφής",
+	"checkimages-no-license-head": "Εικόνα χωρίς άδεια χρήσης",
 	"checkimages-source-tag-comment": "Ρομπότ:Σήμανση πρόσφατα ανεβασμένων αρχείων χωρίς ετικέτα.",
-	"checkimages-source-notice-comment": "Ρομπότ: Αίτημα για πληροφορία πηγής"
+	"checkimages-source-notice-comment": "Ρομπότ: Αίτημα για πληροφορία πηγής",
+	"checkimages-unknown-extension-head": "Άγνωστη κατάληξη!",
+	"checkimages-unknown-extension-msg": "\nΤο %(file)s αρχείο φαίνεται οτι έχει λάθος κατάληξη, παρακαλώ ελέγξετε"
 }

@@ -4,6 +4,12 @@
 			"Praveenp"
 		]
 	},
+	"checkimages-deletion-comment": "യന്ത്രം: %(adding)s ചേർക്കുന്നു",
+	"checkimages-doubles-file-comment": "യന്ത്രം: പ്രമാണം മുമ്പേ തന്നെ കോമൺസിലുണ്ട്, മായ്ക്കാവുന്നതാണ്",
+	"checkimages-doubles-head": "ഇരട്ടിപ്പ് പ്രമാണം",
+	"checkimages-doubles-talk-comment": "യന്ത്രം: കോമൺസിൽ പ്രമാണം മുമ്പേ തന്നെ ഉണ്ടെന്ന് അറിയിക്കൽ",
+	"checkimages-log-comment": "യന്ത്രം: രേഖ പുതുക്കുന്നു",
+	"checkimages-no-license-head": "ഉപയോഗാനുമതി ഇല്ലാത്ത ചിത്രം",
 	"checkimages-source-tag-comment": "യന്ത്രം: പുതിയതായി അപ്‌ലോഡ് ചെയ്ത ടാഗ് ചെയ്യാത്ത പ്രമാണം അടയാളപ്പെടുത്തുന്നു",
 	"checkimages-source-notice-comment": "യന്ത്രം: സ്രോതസ്സ് വിവരങ്ങൾ അഭ്യർത്ഥിക്കുന്നു."
 }
