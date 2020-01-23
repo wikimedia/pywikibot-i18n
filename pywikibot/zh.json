@@ -5,7 +5,8 @@
 			"Anakmalaysia",
 			"Liuxinyu970226",
 			"Qiyue2001",
-			"Yfdyh000"
+			"Yfdyh000",
+			"VulpesVulpes825"
 		]
 	},
 	"pywikibot-enter-category-name": "请输入分类名称：",
@@ -17,5 +18,6 @@
 	"pywikibot-enter-xml-filename": "请输入XML转储的文件名：",
 	"pywikibot-fixes-fckeditor": "机器人：修复富编辑器html",
 	"pywikibot-fixes-html": "机器人：转换/修复HTML",
-	"pywikibot-fixes-syntax": "机器人：修复wiki语法"
+	"pywikibot-fixes-syntax": "机器人：修复wiki语法",
+	"pywikibot-touch": "Pywikibot做了小编辑"
 }

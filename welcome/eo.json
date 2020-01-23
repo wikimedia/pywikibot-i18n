@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Blahma",
-			"Objectivesea"
+			"Objectivesea",
+			"Robin van der Vliet"
 		]
 	},
-	"welcome-bad_username": "Roboto: Aldonas kontrolendan uzantonomon",
+	"welcome-bad_username": "Roboto: Aldonas kontrolendan uzantnomon",
 	"welcome-updating": "Roboto: Ĝisdatigas protokolon",
 	"welcome-welcome": "Bonvenon!"
 }

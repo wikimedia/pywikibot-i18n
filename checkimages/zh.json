@@ -8,10 +8,14 @@
 			"Rotem Liss",
 			"xqt",
 			"Yfdyh000",
-			"Wildly boy"
+			"Wildly boy",
+			"VulpesVulpes825"
 		]
 	},
 	"checkimages-deletion-comment": "機器人: 正在新增 %(adding)s",
+	"checkimages-doubles-file-comment": "机器人：文件已存在于维基共享资源上，可能会被删除",
+	"checkimages-doubles-head": "重复文件",
+	"checkimages-doubles-talk-comment": "机器人：通知该文件已存在于维基共享资源上",
 	"checkimages-log-comment": "機器人:更新記錄",
 	"checkimages-no-license-head": "没有许可声明的图片",
 	"checkimages-source-tag-comment": "机器人：标记新上传的未标记文件",
