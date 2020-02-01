@@ -1,10 +1,5 @@
 language: python
 
-sudo: false
-
-python:
-  - '3.4'
-
 env:
   - PYWIKIBOT2_NO_USER_CONFIG=2
 
