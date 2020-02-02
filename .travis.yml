@@ -1,7 +1,7 @@
 language: python
 
 env:
-  - PYWIKIBOT2_NO_USER_CONFIG=2
+  - PYWIKIBOT_NO_USER_CONFIG=2
 
 before_install:
   - git clone https://github.com/wikimedia/pywikibot pywikibot-build
