@@ -4,11 +4,12 @@
 			"Pedroca cerebral",
 			"Rodrigo codignoli",
 			555,
-			"Eduardo Addad de Oliveira"
+			"Eduardo Addad de Oliveira",
+			"Dr03ramos"
 		]
 	},
 	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
-	"archivebot-archive-summary": "Robô: arquivamento de %(count)d {{PLURAL:%(count)d|tópico|tópicos}} de [[%(from)s]]",
+	"archivebot-archive-summary": "Robô: Arquivando %(count)d {{PLURAL:%(count)d|tópico|tópicos}} de [[%(from)s]]",
 	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|mais velho}} que %(duration)s",
 	"archivebot-page-summary": "Robô: arquivamento de %(count)d {{PLURAL:%(count)d|tópico|tópicos}} (%(why)s) em %(archives)s"
