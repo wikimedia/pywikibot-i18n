@@ -5,17 +5,18 @@
 			"RajeshPandey",
 			"सरोज कुमार ढकाल",
 			"Nirmal Dulal",
-			"Nirajan pant"
+			"Nirajan pant",
+			"हिमाल सुबेदी"
 		]
 	},
-	"category-adding": "रोबोट: श्रेणी [[:Category:%(newcat)s|%(newcat)s]] थप्दै",
+	"category-adding": "यन्त्र: श्रेणी [[:Category:%(newcat)s|%(newcat)s]] थप्दै",
 	"category-also-in": "(%(alsocat)s मा पनि)",
 	"category-listifying": "बोट: %(fromcat)sबाट (%(num)d entries)मा सूचीकृत गर्दै",
-	"category-removing": "रोबोट: %(oldcat)sबाट हटाउँदै",
-	"category-renamed": "रोबोट: %(oldcat)sबाट सारियो। लेखकहरू: %(authors)s",
-	"category-replacing": "रोबोट: %(oldcat)s श्रेणलाई %(newcat)sसंग साट्दै",
+	"category-removing": "यन्त्र: %(oldcat)sबाट हटाउँदै",
+	"category-renamed": "यन्त्र: %(oldcat)sबाट सारियो। लेखकहरू: %(authors)s",
+	"category-replacing": "यन्त्र: %(oldcat)s श्रेणलाई %(newcat)sसँग साट्दै",
 	"category-section-title": "%(oldcat)sको पृष्ठ इतिहास",
-	"category-strip-cfd-templates": "बोट: सकिइसकेका कार्यहरूका CDF ढाँचाहरू हटाउँदै",
+	"category-strip-cfd-templates": "यन्त्र: सकिइसकेका कार्यहरूका सिडिइफ ढाँचाहरू हटाउँदै",
 	"category-version-history": "रोबोट:  %(oldcat)sको संस्करण इतिहास संग्रह गर्दै",
 	"category-was-disbanded": "बोट: श्रेणीलाई अनिषेधित गरियो",
 	"category-was-moved": "रोबोट: श्रेणीलाई  [[:Category:%(newcat)s|%(title)s]]मा सारियो"
