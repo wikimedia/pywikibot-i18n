@@ -16,6 +16,6 @@
 	"pywikibot-enter-xml-filename": "Lütfen XML dökümü dosyasının adını girin:",
 	"pywikibot-fixes-fckeditor": "Bot: Zengin düzenleyici html'i düzeltme",
 	"pywikibot-fixes-html": "Robot: HTML'i dönüştürüyor/onarıyor",
-	"pywikibot-fixes-syntax": "Bot: wiki sözdizimini düzeltme",
+	"pywikibot-fixes-syntax": "Bot: Viki sözdizimini düzeltme",
 	"pywikibot-touch": "Pywikibot dokunma düzenleme"
 }
