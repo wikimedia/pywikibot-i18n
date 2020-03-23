@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Praveenp"
+			"Praveenp",
+			"Jinoytommanjaly"
 		]
 	},
 	"category-adding": "യന്ത്രം: ചേർക്കുന്നു category [[:Category:%(newcat)s|%(newcat)s]]",
@@ -12,6 +13,8 @@
 	"category-replacing": "യന്ത്രം: %(oldcat)s എന്ന വർഗ്ഗം %(newcat)s എന്നതുപയോഗിച്ച് മാറ്റിച്ചേർക്കുന്നു",
 	"category-section-title": "പഴയ %(oldcat)s എന്നതിന്റെ  നാൾ ചരിത്രം",
 	"category-strip-cfd-templates": "യന്ത്രം: പ്രവൃത്തി പൂർത്തിയാക്കാൻ സി.എഫ്.ഡി. ഫലകങ്ങൾ നീക്കംചെയ്യുന്നു",
+	"category-strip-sort-keys": "യന്ത്രം: പൂർത്തിയാക്കിയ പ്രവർത്തനങ്ങളുടെ സോർട്ട് കീകൾ നീക്കംചെയ്യുന്നു",
+	"category-strip-both": "യന്ത്രം: പ്രവൃത്തി പൂർത്തിയാക്കാൻ സി.എഫ്.ഡി. ഫലകങ്ങൾ നീക്കംചെയ്യുന്നു",
 	"category-version-history": "യന്ത്രം: പഴയ %(oldcat)s എന്നതിന്റെ നാൾപ്പതിപ്പ് ചരിത്രം സേവ് ചെയ്യുന്നു",
 	"category-was-disbanded": "യന്ത്രം: വർഗ്ഗം ഒഴിവാക്കിയിരിക്കുന്നു",
 	"category-was-moved": "യന്ത്രം: വർഗ്ഗം [[:Category:%(newcat)s|%(title)s]] എന്നാക്കി മാറ്റിയിരിക്കുന്നു"

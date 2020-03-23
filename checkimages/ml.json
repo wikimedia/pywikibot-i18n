@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Praveenp"
+			"Praveenp",
+			"Jinoytommanjaly"
 		]
 	},
 	"checkimages-deletion-comment": "യന്ത്രം: %(adding)s ചേർക്കുന്നു",
@@ -11,5 +12,6 @@
 	"checkimages-log-comment": "യന്ത്രം: രേഖ പുതുക്കുന്നു",
 	"checkimages-no-license-head": "ഉപയോഗാനുമതി ഇല്ലാത്ത ചിത്രം",
 	"checkimages-source-tag-comment": "യന്ത്രം: പുതിയതായി അപ്‌ലോഡ് ചെയ്ത ടാഗ് ചെയ്യാത്ത പ്രമാണം അടയാളപ്പെടുത്തുന്നു",
-	"checkimages-source-notice-comment": "യന്ത്രം: സ്രോതസ്സ് വിവരങ്ങൾ അഭ്യർത്ഥിക്കുന്നു."
+	"checkimages-source-notice-comment": "യന്ത്രം: സ്രോതസ്സ് വിവരങ്ങൾ അഭ്യർത്ഥിക്കുന്നു.",
+	"checkimages-unknown-extension-head": "അജ്ഞാത വിപുലീകരണം!"
 }

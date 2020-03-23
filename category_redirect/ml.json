@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Praveenp"
+			"Praveenp",
+			"Jinoytommanjaly"
 		]
 	},
 	"category_redirect-add-template": "യന്ത്രം: പരിപാലനത്തിനായി വർഗ്ഗ തിരിച്ചുവിടൽ ഫലകം കൂട്ടിച്ചേർക്കുന്നു",
@@ -14,6 +15,9 @@
 	"category_redirect-log-add-failed": "* %(oldcat)s എന്നതിലേക്ക് [[%(ns)s%(template)s]] ചേർക്കൽ പരാജയപ്പെട്ടു",
 	"category_redirect-log-double": "* ഇരട്ട-തിരിച്ചുവിടൽ ശരിയാക്കി: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** പരാജയപ്പെട്ടു: %(error)s",
+	"category_redirect-log-false-positive": "* അപ്രതീക്ഷിത തിരിച്ചുവിടൽ അല്ലാത്തവ: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s അവഗണിക്കുന്നു",
+	"category_redirect-log-loop": "* %(oldcat)s ഇതിൽ നിന്ന് തിരിച്ചുവിട്ട ലൂപ്പ്",
+	"category_redirect-log-new": "അവസാന റിപ്പോർട്ടിന് ശേഷമുള്ള തിരിച്ചുവിടലുകൾ:",
 	"category_redirect-older-logs": "'''[%(oldlogs)s പഴയ രേഖകൾ]'''"
 }
