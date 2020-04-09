@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Xqt"
 		]
 	},
 	"category-adding": "Bot: adhibita a categoría «[[:Category:%(newcat)s|%(newcat)s]]»",

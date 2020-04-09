@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"cosmetic_changes-append": "; kozmetické zmeny",
 	"cosmetic_changes-standalone": "robot kozmetické zmeny"
 }

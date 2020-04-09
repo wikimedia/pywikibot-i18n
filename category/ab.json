@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Андрей",
-			"Dvorapa"
+			"Dvorapa",
+			"Андрей"
 		]
 	},
 	"category-adding": "Бот: акатегориа ацҵара [[:Category:%(newcat)s|%(newcat)s]]",

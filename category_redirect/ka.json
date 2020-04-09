@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"category_redirect-fix-double": "რობოტი: ორმაგი გადამისამართების გასწორება"
 }

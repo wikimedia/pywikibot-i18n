@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"category-adding": "Robots: Pridedama category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-removing": "Robots: Trėnama ėš %(oldcat)s",
 	"category-was-moved": "Robots: Kateguorėjė bova parvadėnta i [[:Category:%(newcat)s|%(title)s]]"

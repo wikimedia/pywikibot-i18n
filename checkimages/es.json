@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe",
 			"Fitoschido",
-			"Ryo567",
-			"MarcoAurelio"
+			"Macofe",
+			"MarcoAurelio",
+			"Ryo567"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: añadiendo %(adding)s",

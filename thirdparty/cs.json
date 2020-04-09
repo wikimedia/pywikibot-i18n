@@ -2,10 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Blahma",
+			"Dvorapa",
 			"Jezevec",
 			"Spiffyk",
-			"Tchoř",
-			"Dvorapa"
+			"Tchoř"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "nahrazuji značky %(tags)s",

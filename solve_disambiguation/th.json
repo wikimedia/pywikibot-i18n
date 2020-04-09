@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Octahedron80",
-			"Aefgh39622"
+			"Aefgh39622",
+			"Octahedron80"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "การแก้ความกำกวมโดยบอตช่วย: %(from)s - ทำเครื่องหมายว่าต้องการคำเตือนผู้เชี่ยวชาญ",

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
-			"IRTC1015"
+			"IRTC1015",
+			"아라"
 		]
 	},
 	"delete-from-category": "봇: %(page)s 분류의 모든 문서를 삭제",

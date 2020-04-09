@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"cosmetic_changes-append": "; kosmetiska ändringar",
 	"cosmetic_changes-standalone": "Bot: Kosmetiska ändringar"
 }

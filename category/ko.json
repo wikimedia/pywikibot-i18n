@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
+			"Garam",
 			"IRTC1015",
-			"Revi",
 			"Nuevo Paso",
-			"Garam"
+			"Revi",
+			"아라"
 		]
 	},
 	"category-adding": "봇: [[:Category:%(newcat)s|%(newcat)s]] 분류 추가",

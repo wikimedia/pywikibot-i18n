@@ -3,8 +3,8 @@
 		"authors": [
 			"Fitoschido",
 			"Invadinado",
-			"Vivaelcelta",
-			"Macofe"
+			"Macofe",
+			"Vivaelcelta"
 		]
 	},
 	"capitalize_redirects-create-redirect": "Robot: creación de redirección a [[%(to)s]]"

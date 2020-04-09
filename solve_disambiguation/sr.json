@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rancher",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"Rancher"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Разрешење значења помоћу бота: %(from)s – означено као „потребна пажња стручњака“",

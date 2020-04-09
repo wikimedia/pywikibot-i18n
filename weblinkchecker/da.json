@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Steenth",
-			"MGA73"
+			"MGA73",
+			"Steenth"
 		]
 	},
 	"weblinkchecker-archive_msg": "Websiden er blevet gemt af Internet Archive. Overvej sammenkædning til en passende arkiveret version: [%(URL)s].",

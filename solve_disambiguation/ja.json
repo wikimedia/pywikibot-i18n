@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
+			"Otokoume",
 			"Shirayuki",
-			"Whym",
-			"Otokoume"
+			"Whym"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "ボット補助による曖昧さ回避: %(from)s - 専門家のチェックが必要として印付け",

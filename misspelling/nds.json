@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"misspelling-fixing": "Bot: rut mit verkehrt schreven Lenk op %(page)s"
 }

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
-			"Amire80"
+			"Amire80",
+			"Okras"
 		]
 	},
 	"makecat-create": "Бот: Создание или обновление категории [[:Категория:%(cat)s|]]"

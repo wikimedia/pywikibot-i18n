@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"lin4h",
-			"Otokoume"
+			"Otokoume",
+			"lin4h"
 		]
 	},
 	"image-remove": "ボットによる: 画像「%(file)s」を削除",

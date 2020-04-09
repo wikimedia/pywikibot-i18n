@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"spamremove-remove": "إزالة الوصلات إلى موقع سبام %(url)s"
 }

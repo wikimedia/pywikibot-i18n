@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"cosmetic_changes-append": "; козметички промени",
 	"cosmetic_changes-standalone": "Бот: козметички промени"
 }

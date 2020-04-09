@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ezagren",
 			"Riemogerz",
-			"Xqt",
-			"Ezagren"
+			"Xqt"
 		]
 	},
 	"category-adding": "Bot: Manambah tumbung [[:Category:%(newcat)s|%(newcat)s]]",

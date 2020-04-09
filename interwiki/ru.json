@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov",
-			"Amire80"
+			"Amire80",
+			"Volkov"
 		]
 	},
 	"interwiki-adding": "Бот: добавлено %(adding)s",

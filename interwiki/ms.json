@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "bot menambah: %(adding)s",
 	"interwiki-adding-modifying": "bot menambah: %(adding)s mengubah: %(modifying)s",
 	"interwiki-adding-removing": "bot menambah: %(adding)s membuang: %(removing)s",

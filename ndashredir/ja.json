@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki",
-			"Otokoume"
+			"Otokoume",
+			"Shirayuki"
 		]
 	},
 	"ndashredir-create": "ボットによる: ハイフンで連結されたリダイレクト「[[%(title)s]]」を作成"

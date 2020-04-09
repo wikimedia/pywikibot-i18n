@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki",
-			"Otokoume"
+			"Otokoume",
+			"Shirayuki"
 		]
 	},
 	"weblinkchecker-archive_msg": "ウェブページはインターネットアーカイブに保存されました。アーカイブに保管された適切なバージョンにリンクすることを検討してください: [%(URL)s].",

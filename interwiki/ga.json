@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "róbat ag suimiú: %(adding)s",
 	"interwiki-adding-modifying": "róbat ag suimiú: %(adding)s ag mionathrú: %(modifying)s",
 	"interwiki-adding-removing": "róbat ag suimiú: %(adding)s ag baint: %(removing)s",

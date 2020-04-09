@@ -4,6 +4,14 @@
 			"Fulup"
 		]
 	},
+	"checkimages-deletion-comment": "Robot : Ouzhpennet %(adding)s",
+	"checkimages-doubles-file-comment": "Robot : emañ ar restr war Commons c'hoazh, gallout a ra bezañ diverket",
+	"checkimages-doubles-head": "Restr eilet",
+	"checkimages-doubles-talk-comment": "Robot : Kemmennadur emañ ar restr war Commons c'hoazh",
+	"checkimages-log-comment": "Robot : o hizivaat ar marilh",
+	"checkimages-no-license-head": "Skeudenn hep aotre-implijout",
 	"checkimages-source-tag-comment": "Robot : o verkañ ar restroù hep tikedenn pellgarget nevez zo",
-	"checkimages-source-notice-comment": "Robot : O klask titouroù a-zivout ar vammenn."
+	"checkimages-source-notice-comment": "Robot : O klask titouroù a-zivout ar vammenn.",
+	"checkimages-unknown-extension-head": "Astenn dianav !",
+	"checkimages-unknown-extension-msg": "Evit doare ez eus un astenn direizh gant ar restr %(file)s, gwiriañ mar plij."
 }

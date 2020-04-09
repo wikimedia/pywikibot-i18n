@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Iwan Novirion",
 			"Luthfi94",
-			"Naval Scene",
-			"Iwan Novirion"
+			"Naval Scene"
 		]
 	},
 	"redirect-fix-double": "Bot: Mampeloki pangalihan ganda ka %(to)s",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s",
 	"interwiki-adding-modifying": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s ພວມແປງ: %(modifying)s",
 	"interwiki-adding-removing": "ໂຣບົດ ພວມເພີ່ມ: %(adding)s ພວມລຶບ: %(removing)s",

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt",
-			"Dvorapa"
+			"Dvorapa",
+			"Xqt"
 		]
 	},
 	"category-adding": "Robot Rajoute: category [[:Category:%(newcat)s|%(newcat)s]]",

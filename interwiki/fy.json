@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Bot - derby: %(adding)s",
 	"interwiki-adding-modifying": "Bot - derby: %(adding)s - oars: %(modifying)s",
 	"interwiki-adding-removing": "Bot - derby: %(adding)s - fuort: %(removing)s",

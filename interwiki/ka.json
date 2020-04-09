@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "ბოტის დამატება: %(adding)s",
 	"interwiki-adding-modifying": "ბოტის დამატება: %(adding)s შეცვლა: %(modifying)s",
 	"interwiki-adding-removing": "ბოტის დამატება: %(adding)s წაშლა: %(removing)s",

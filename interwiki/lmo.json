@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Robot jontant: %(adding)s",
 	"interwiki-adding-modifying": "Robot jontant: %(adding)s modifiant: %(modifying)s",
 	"interwiki-adding-removing": "Robot jontant: %(adding)s trant via: %(removing)s",

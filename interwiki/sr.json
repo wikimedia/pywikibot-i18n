@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01",
-			"Rancher",
 			"Acamicamacaraca",
-			"BadDog"
+			"BadDog",
+			"Milicevic01",
+			"Rancher"
 		]
 	},
 	"interwiki-adding": "Бот: додајем %(adding)s",

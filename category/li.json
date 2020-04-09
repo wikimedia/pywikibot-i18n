@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pahles",
-			"Ooswesthoesbes"
+			"Ooswesthoesbes",
+			"Pahles"
 		]
 	},
 	"category-adding": "Robot: debie category [[:Category:%(newcat)s|%(newcat)s]]",

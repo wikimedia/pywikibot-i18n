@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"selflink-remove": "Бот: удалил заголовок-ссылку в тексте. см."
 }

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Klenje",
-			"Dvorapa"
+			"Dvorapa",
+			"Klenje"
 		]
 	},
 	"category-adding": "Robot: o zonti category [[:Category:%(newcat)s|%(newcat)s]]",

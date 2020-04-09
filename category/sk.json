@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mikulas1",
 			"Teslaton",
-			"Wizzard",
-			"Mikulas1"
+			"Wizzard"
 		]
 	},
 	"category-adding": "Robot: Pridanie kategórie [[: Kategória: %(newcat)s|%(newcat)s]]",

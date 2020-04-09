@@ -2,16 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"AZISS",
+			"Amire80",
+			"Dima st bk",
 			"Express2000",
 			"KorneySan",
+			"Movses",
+			"Okras",
 			"Rubin16",
 			"Volkov",
 			"Xqt",
-			"Александр Сигачёв",
-			"Dima st bk",
-			"Okras",
-			"Amire80",
-			"Movses"
+			"Александр Сигачёв"
 		]
 	},
 	"category-adding": "Бот: добавление категории [[:Category:%(newcat)s|%(newcat)s]]",

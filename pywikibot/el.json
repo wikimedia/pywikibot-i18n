@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Geraki",
+			"GhotuoIncubator",
 			"Glavkos",
-			"Protnet",
-			"GhotuoIncubator"
+			"Protnet"
 		]
 	},
 	"pywikibot-enter-category-name": "Παρακαλούμε εισαγάγετε το όνομα της κατηγορίας:",

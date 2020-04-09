@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s",
 	"interwiki-adding-modifying": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s (+/-): %(modifying)s",
 	"interwiki-adding-removing": "botígíí díí naaltsoos tʼáá bíniʼ łahgo áyiilaa (+): %(adding)s (-): %(removing)s",

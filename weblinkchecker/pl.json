@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Pio387",
+			"PiotrekD",
 			"Rezonansowy",
-			"Ty221",
 			"Saper",
 			"Sp5uhe",
-			"Pio387",
-			"PiotrekD"
+			"Ty221"
 		]
 	},
 	"weblinkchecker-archive_msg": "Zawartość niedostępnej strony została zarchiwizowana przez Internet Archive. Sprawdź czy nie warto podlinkować strony archiwalnej: %(URL)s",

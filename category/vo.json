@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"Malafaya",
-			"Xqt",
-			"Dvorapa"
+			"Xqt"
 		]
 	},
 	"category-adding": "Bot: läükon: category [[:Category:%(newcat)s|%(newcat)s]]",

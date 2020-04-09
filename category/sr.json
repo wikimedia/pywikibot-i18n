@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Acamicamacaraca",
+			"BadDog",
 			"Milicevic01",
 			"Rancher",
 			"Xqt",
-			"Zoranzoki21",
-			"Acamicamacaraca",
-			"BadDog"
+			"Zoranzoki21"
 		]
 	},
 	"category-adding": "Бот: додавање категорије [[:Категорија:%(newcat)s|%(newcat)s]]",

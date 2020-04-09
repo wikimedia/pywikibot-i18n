@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe",
-			"Fitoschido"
+			"Fitoschido",
+			"Macofe"
 		]
 	},
 	"followlive-blanking": "Vaciada. El contenido era «%(content)s»."

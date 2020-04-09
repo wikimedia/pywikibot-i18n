@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
+			"Joedalton",
 			"Kaare",
-			"MGA73",
-			"Joedalton"
+			"MGA73"
 		]
 	},
 	"pywikibot-enter-category-name": "Skriv kategorinavnet:",

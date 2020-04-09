@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "ربوت بیشتن: %(adding)s",
 	"interwiki-adding-modifying": "ربوت بیشتن: %(adding)s هکردن: %(modifying)s",
 	"interwiki-adding-removing": "ربوت بیشتن: %(adding)s بیتن: %(removing)s",

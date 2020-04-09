@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Spiffyk",
 			"Dvorapa",
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Spiffyk"
 		]
 	},
 	"featured-featured": "Robot: %(page)s je na seznamu nejlepších článků",

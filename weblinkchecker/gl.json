@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Elisardojm",
 			"Toliño",
-			"Vivaelcelta",
-			"Elisardojm"
+			"Vivaelcelta"
 		]
 	},
 	"weblinkchecker-archive_msg": "Internet Archive gardou a páxina web. Considere ligar cara á versión arquivada apropiada: [%(URL)s].",

@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
-			"Ricordisamoa",
 			"F. Cosoleto",
-			"Gianfranco"
+			"Gianfranco",
+			"Ricordisamoa"
 		]
 	},
 	"pywikibot-enter-category-name": "Inserisci il nome della categoria:",

@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"JAn Dudík",
 			"Leanes",
 			"Matěj Suchánek",
-			"Tchoř",
-			"Dvorapa"
+			"Tchoř"
 		]
 	},
 	"pywikibot-enter-category-name": "Prosím, zadejte jméno kategorie:",

@@ -2,11 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"An13sa",
+			"EukeneFL",
 			"Theklan",
 			"Unai Fdz. de Betoño",
 			"Xabier Armendaritz",
-			"Xqt",
-			"EukeneFL"
+			"Xqt"
 		]
 	},
 	"category-adding": "Robota: [[:Kategoria:%(newcat)s|%(newcat)s]] kategoria eransten",

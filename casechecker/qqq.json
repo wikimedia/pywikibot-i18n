@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"McDutchie",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"McDutchie"
 		]
 	},
 	"casechecker-delete-reason": "Reason for speedy deletion request added to the template when bot marks a redirect for deletion because the redirect contains identical looking Cyrillic and Latin letters in its title\n<code>%(target)s</code> is the redirect target.",

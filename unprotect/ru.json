@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Putnik",
-			"Okras"
+			"Okras",
+			"Putnik"
 		]
 	},
 	"unprotect-category": "Бот: снятие защиты со всех страниц из категории %(cat)s",

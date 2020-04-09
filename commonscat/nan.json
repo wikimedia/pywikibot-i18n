@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luuva",
-			"A-lú-mih"
+			"A-lú-mih",
+			"Luuva"
 		]
 	},
 	"commonscat-msg_change": "Bot: Chiong commonscat liân-kiat tùi [[:Commons:Category:%(oldcat)s|%(oldcat)s]] kái kòe [[:Commons:Category:%(newcat)s|%(newcat)s]]"

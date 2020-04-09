@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Dianakc",
-			555,
-			"Eduardo Addad de Oliveira"
+			"Eduardo Addad de Oliveira",
+			555
 		]
 	},
 	"weblinkchecker-archive_msg": "A página da web foi salva pelo \"Internet Archive\". Considere inserir link para uma versão arquivada adequada: [%(URL)s].",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "bot currit stiagh ec: %(adding)s",
 	"interwiki-adding-modifying": "bot currit stiagh ec: %(adding)s caghlaait ec: %(modifying)s",
 	"interwiki-adding-removing": "bot currit stiagh ec: %(adding)s scryssit magh ec: %(removing)s",

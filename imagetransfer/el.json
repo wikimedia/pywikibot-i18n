@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Glavkos",
-			"Geraki"
+			"Geraki",
+			"Glavkos"
 		]
 	},
 	"imagetransfer-file_page_message": "Αυτή η εικόνα αντιγράφτηκε από  from %(site)s. Η αρχική περιγραφή ήταν:\n\n\n%(description)s",

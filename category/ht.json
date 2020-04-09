@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"category-adding": "wobo: Ajoute category [[:Category:%(newcat)s|%(newcat)s]]"
 }

@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi",
 			"An13sa",
-			"EukeneFL"
+			"EukeneFL",
+			"Subi"
 		]
 	},
 	"casechecker-delete-reason": "Birzuzendatutako hau erabili da hurrengo %(target)s seinalatzeko",

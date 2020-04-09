@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
 			"Gusdud25",
 			"IRTC1015",
-			"Ykhwong"
+			"Ykhwong",
+			"아라"
 		]
 	},
 	"weblinkchecker-archive_msg": "웹 페이지가 인터넷 아카이브에 저장되어 있습니다. 적절한 아카이브한 버전으로 링크를 고려하세요: [%(URL)s].",

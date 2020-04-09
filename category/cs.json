@@ -2,11 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Chmee2",
+			"Dvorapa",
+			"Matěj Suchánek",
 			"Mormegil",
 			"Spiffyk",
-			"Tchoř",
-			"Dvorapa",
-			"Matěj Suchánek"
+			"Tchoř"
 		]
 	},
 	"category-adding": "Robot: přidání kategorie [[:Kategorie:%(newcat)s|%(newcat)s]]",

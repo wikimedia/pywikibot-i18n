@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Acamicamacaraca",
 			"Milicevic01",
-			"Rancher",
-			"Acamicamacaraca"
+			"Rancher"
 		]
 	},
 	"replace-replacing": "Бот: аутоматски замењен текст %(description)s"

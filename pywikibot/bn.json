@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tauhid16",
 			"Aftabuzzaman",
+			"Tahmid02016",
+			"Tauhid16",
 			"আফতাবুজ্জামান"
 		]
 	},
+	"pywikibot-enter-category-name": "বিষয়শ্রেণীর নাম প্রবেশ করান:",
 	"pywikibot-enter-new-text": "দয়া করে নতুন বাক্য লিখুন:"
 }

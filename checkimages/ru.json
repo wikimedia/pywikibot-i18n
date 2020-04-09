@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"INS Pirat",
-			"Okras",
-			"Movses"
+			"Movses",
+			"Okras"
 		]
 	},
 	"checkimages-deletion-comment": "Бот: Добавление %(adding)s",

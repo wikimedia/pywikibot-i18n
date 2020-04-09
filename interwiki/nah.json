@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "TepozcuayollotlTlamahxiltilli: %(adding)s",
 	"interwiki-adding-modifying": "TepozcuayollotlTlamahxiltilli: %(adding)s Tlapatlalli: %(modifying)s",
 	"interwiki-adding-removing": "TepozcuayollotlTlamahxiltilli: %(adding)s Tlaquixtilli: %(removing)s",

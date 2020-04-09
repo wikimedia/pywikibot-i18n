@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Crt",
-			"Olli",
-			"Harriv"
+			"Harriv",
+			"Olli"
 		]
 	},
 	"delete-from-category": "Botti: Poistetaan kaikki sivut luokasta %(page)s",

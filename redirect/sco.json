@@ -3,8 +3,8 @@
 		"authors": [
 			"Avicennasis",
 			"John Reid",
-			"Xqt",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Xqt"
 		]
 	},
 	"redirect-fix-broken-moved": "Bot: Fixin broken reguidal til muived target page %(to)s",

@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov",
-			"Okras",
 			"Amire80",
-			"Helpau"
+			"Helpau",
+			"Okras",
+			"Volkov"
 		]
 	},
 	"weblinkchecker-archive_msg": "Веб-страница сохранена в интернет-архиве. Используйте ссылку на соответствующую архивную версию: [%(URL)s].",

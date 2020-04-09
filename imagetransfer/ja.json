@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Otokoume",
 			"Shinjiman",
-			"Sujiniku",
-			"Otokoume"
+			"Sujiniku"
 		]
 	},
 	"imagetransfer-file_page_message": "この画像は「%(site)s」からコピーされました。元の説明は以下のとおりです:\n\n%(description)s",

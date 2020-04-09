@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"Matěj Suchánek",
-			"Tchoř",
-			"Dvorapa"
+			"Tchoř"
 		]
 	},
 	"ndashredir-create": "Robot: vytvoření přesměrování na [[%(title)s]]"

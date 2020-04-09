@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"DrTrigon",
 			"Express2000",
 			"Rubin16",
-			"Volkov",
-			"Amire80"
+			"Volkov"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "заменяются теги %(tags)s",

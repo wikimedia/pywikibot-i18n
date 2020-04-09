@@ -1,15 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ben McIlwain (CydeWeys)",
 			"Csisc",
+			"Dvorapa",
 			"Lloffiwr",
 			"Purodha",
 			"Shirayuki",
 			"Siebrand",
 			"Valhallasw",
-			"Xqt",
-			"Ben McIlwain (CydeWeys)",
-			"Dvorapa"
+			"Xqt"
 		]
 	},
 	"category-adding": "{{doc-important|Do not change \":Category:%(newcat)s\" so this message will work in any language.}}",

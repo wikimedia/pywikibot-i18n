@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki",
-			"Otokoume"
+			"Otokoume",
+			"Shirayuki"
 		]
 	},
 	"casechecker-delete-reason": "このリダイレクトは、「%(target)s」へ転送するために使用されます",

@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"makecat-create": "Bot: La creazione o laggiornamento di categoria [[:Category:%(cat)s|]]"
 }

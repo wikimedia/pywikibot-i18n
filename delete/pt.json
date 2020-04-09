@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alchimista",
-			"Xqt",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Xqt"
 		]
 	},
 	"delete-from-category": "Robô: A eliminar todas as páginas da categoria %(page)s",

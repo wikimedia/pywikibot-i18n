@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Rubin16",
-			"Volkov",
-			"Amire80"
+			"Volkov"
 		]
 	},
 	"featured-featured": "Бот: избранная статья %(page)s",

@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tchoř",
+			"Dvorapa",
 			"Juandev",
-			"Dvorapa"
+			"Tchoř"
 		]
 	},
 	"weblinkchecker-archive_msg": "Webová stránka je uložena v projektu Internet Archive. Prosím zvažte, zda neodkázat na patřičnou archivovanou verzi: [%(URL)s].",

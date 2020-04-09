@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand Mazeland",
-			"Siebrand"
+			"Siebrand",
+			"Siebrand Mazeland"
 		]
 	},
 	"piper-edit-summary": "Robot: paginatekst door %(filters)s geleid"

@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"spamremove-remove": "Entferne in Spam-Blacklist eingetragenen Weblink auf %(url)s"
 }

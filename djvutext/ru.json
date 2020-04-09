@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Eleferen",
-			"Volkov",
-			"Amire80"
+			"Volkov"
 		]
 	},
 	"djvutext-creating": "Бот: создание страницы с текстом, извлечённым из DjVu"

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
-			"IRTC1015"
+			"IRTC1015",
+			"아라"
 		]
 	},
 	"editarticle-edit": "봇으로 수동 편집: %(description)s"

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "робот темен: %(adding)s",
 	"interwiki-adding-modifying": "робот темен: %(adding)s вашталтен: %(modifying)s",
 	"interwiki-adding-removing": "робот темен: %(adding)s карангден: %(removing)s",

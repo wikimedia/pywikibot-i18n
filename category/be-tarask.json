@@ -3,9 +3,9 @@
 		"authors": [
 			"EugeneZelenko",
 			"Jim-by",
+			"Red Winged Duck",
 			"Renessaince",
-			"Wizardist",
-			"Red Winged Duck"
+			"Wizardist"
 		]
 	},
 	"category-adding": "Робат: дадаваньне category [[:Category:%(newcat)s|%(newcat)s]]",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "robot dinagdag: %(adding)s",
 	"interwiki-adding-modifying": "robot dinagdag: %(adding)s binago: %(modifying)s",
 	"interwiki-adding-removing": "robot dinagdag: %(adding)s tinanggal: %(removing)s",

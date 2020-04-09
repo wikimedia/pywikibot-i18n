@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"Mormegil",
-			"Spiffyk",
-			"Dvorapa"
+			"Spiffyk"
 		]
 	},
 	"capitalize_redirects-create-redirect": "Robot: vytvoření přesměrování na [[%(to)s]]"

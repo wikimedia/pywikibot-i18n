@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño",
+			"Elisardojm",
 			"Gallaecio",
-			"Elisardojm"
+			"Toliño"
 		]
 	},
 	"category-adding": "Bot: Engado a categoría \"[[:Category:%(newcat)s|%(newcat)s]]\"",

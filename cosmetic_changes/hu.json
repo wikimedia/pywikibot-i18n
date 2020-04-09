@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"cosmetic_changes-append": "; kozmetikai változtatások",
 	"cosmetic_changes-standalone": "Bot: kozmetikai változtatások"
 }

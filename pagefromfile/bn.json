@@ -3,8 +3,11 @@
 		"authors": [
 			"Aftab1995",
 			"Aftabuzzaman",
+			"Tahmid02016",
 			"আফতাবুজ্জামান"
 		]
 	},
-	"pagefromfile-msg": "বট: নিবন্ধের স্বয়ংক্রিয় আমদানি"
+	"pagefromfile-msg": "বট: নিবন্ধের স্বয়ংক্রিয় আমদানি",
+	"pagefromfile-msg_bottom": "শেষে যুক্ত করুন",
+	"pagefromfile-msg_top": "শুরুতে যুক্ত করুন"
 }

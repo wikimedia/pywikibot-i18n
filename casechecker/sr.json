@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01",
-			"Rancher",
 			"Acamicamacaraca",
-			"BadDog"
+			"BadDog",
+			"Milicevic01",
+			"Rancher"
 		]
 	},
 	"casechecker-delete-reason": "Преусмерење је претходно водило до %(target)s",

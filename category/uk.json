@@ -2,12 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"A1",
-			"Base",
-			"Тест",
-			"Ата",
 			"Avatar6",
+			"Base",
 			"Movses",
-			"Piramidion"
+			"Piramidion",
+			"Ата",
+			"Тест"
 		]
 	},
 	"category-adding": "Бот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",

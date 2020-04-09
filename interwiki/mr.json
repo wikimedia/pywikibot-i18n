@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "सांगकाम्याने वाढविले: %(adding)s",
 	"interwiki-adding-modifying": "सांगकाम्याने वाढविले: %(adding)s बदलले: %(modifying)s",
 	"interwiki-adding-removing": "सांगकाम्याने वाढविले: %(adding)s काढले: %(removing)s",

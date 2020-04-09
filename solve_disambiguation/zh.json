@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"阿pp",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"阿pp"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "机器人辅助消歧义：%(from)s - 已标记为需要专家关注",

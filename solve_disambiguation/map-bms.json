@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"StefanusRA",
-			"John Vandenberg"
+			"John Vandenberg",
+			"StefanusRA"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Disambiguasi \"sing direwangi bot\": %(from)s - ditandani nek kiye kuwe perlu ''perhatian sekang pakar''",

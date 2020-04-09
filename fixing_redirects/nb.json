@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fixing_redirects-fixing": "Robot: Retter omdirigeringer"
 }

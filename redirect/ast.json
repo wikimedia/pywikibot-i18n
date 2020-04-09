@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Esbardu",
+			"MarcoAurelio",
 			"Xqt",
-			"Xuacu",
-			"MarcoAurelio"
+			"Xuacu"
 		]
 	},
 	"redirect-broken-redirect-template": "{{Destruir|1=Bot: la páxina a la que redirixe nun esiste|2=--~~~~}}",

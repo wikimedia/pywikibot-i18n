@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"Kuvaly",
-			"Spiffyk",
-			"Dvorapa"
+			"Spiffyk"
 		]
 	},
 	"commons-file-moved": "[[:Soubor:%(localfile)s|Soubor]] byl přesunut na [[:commons:File:%(commonsfile)s|commons]].",

@@ -1,13 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Priviet",
-			"아라",
+			"Alex00728",
 			"IRTC1015",
 			"Kwj2772",
-			"Alex00728",
+			"Priviet",
 			"Revi",
-			"Ykhwong"
+			"Ykhwong",
+			"아라"
 		]
 	},
 	"pywikibot-enter-category-name": "분류 이름을 입력하세요:",

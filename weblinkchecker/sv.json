@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jopparn",
 			"Lokal Profil",
-			"Tor.klingberg",
-			"Jopparn"
+			"Tor.klingberg"
 		]
 	},
 	"weblinkchecker-archive_msg": "Webbsidan har sparats av Internet Archive. Överväg att länka till en lämplig arkiverad version: [%(URL)s].",

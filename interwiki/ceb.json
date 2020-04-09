@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "robot Gidugang: %(adding)s",
 	"interwiki-adding-modifying": "robot Gidugang: %(adding)s Gimodipikar: %(modifying)s",
 	"interwiki-adding-removing": "robot Gidugang: %(adding)s Gitangtang: %(removing)s",

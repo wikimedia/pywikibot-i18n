@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
-			"IRTC1015"
+			"IRTC1015",
+			"아라"
 		]
 	},
 	"misspelling-fixing": "봇: %(page)s 문서를 가리키는 링크의 오자를 고침"

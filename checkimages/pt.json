@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jkb8",
 			"Athena in Wonderland",
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Jkb8"
 		]
 	},
 	"checkimages-deletion-comment": "Robô: A adicionar %(adding)s",

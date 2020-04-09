@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
-			"Amire80"
+			"Amire80",
+			"Okras"
 		]
 	},
 	"protect-category": "Бот: Защита всех страниц из категории %(cat)s",

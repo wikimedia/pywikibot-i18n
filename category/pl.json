@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"BeginaFelicysym",
+			"Mateon1",
 			"Sp5uhe",
-			"Xqt",
-			"Mateon1"
+			"Xqt"
 		]
 	},
 	"category-adding": "Robot dodał kategorię [[:Category:%(newcat)s|%(newcat)s]]",

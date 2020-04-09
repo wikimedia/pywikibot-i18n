@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "robot la til: %(adding)s",
 	"interwiki-adding-modifying": "robot la til: %(adding)s endra: %(modifying)s",
 	"interwiki-adding-removing": "robot la til: %(adding)s fjerna: %(removing)s",

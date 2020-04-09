@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"editarticle-edit": "手動編集: %(description)s"
 }

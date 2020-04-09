@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Anskar",
-			"Pitort",
-			"Fitoschido"
+			"Fitoschido",
+			"Pitort"
 		]
 	},
 	"weblinkchecker-archive_msg": "S'ha desat la pàgina web per Internet Arxive. Si us plau, considereu unir-vos a una versió arxivada apropiada: [%(URL)s].",

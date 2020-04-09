@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"pagefromfile-msg": "ייבוא ערכים אוטומטי",
 	"pagefromfile-msg_bottom": "הוספה בתחתית הדף",
 	"pagefromfile-msg_force": "הטקסט הישן נמחק",

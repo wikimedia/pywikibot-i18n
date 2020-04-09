@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"welcome-bad_username": "Bot: Ergänze zu überprüfenden Benutzernamen",
 	"welcome-updating": "Bot: Aktualisiere Logdatei",
 	"welcome-welcome": "Herzlich willkommen!"

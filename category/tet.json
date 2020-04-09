@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"MF-Warburg",
-			"Xqt",
-			"Dvorapa"
+			"Xqt"
 		]
 	},
 	"category-adding": "bot: tau tan [[:Category:%(newcat)s|%(newcat)s]]",

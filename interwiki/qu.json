@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Rurana antacha Yapasqa: %(adding)s",
 	"interwiki-adding-modifying": "Rurana antacha Yapasqa: %(adding)s Hukchasqa: %(modifying)s",
 	"interwiki-adding-removing": "Rurana antacha Yapasqa: %(adding)s Qullusqa: %(removing)s",

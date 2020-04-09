@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"add_text-adding": "Robot interwiki: Adăugat %(adding)s"
 }

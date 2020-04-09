@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"image-replace": "Bot: Remplaso dil imajo %(old)s per %(new)s"
+}

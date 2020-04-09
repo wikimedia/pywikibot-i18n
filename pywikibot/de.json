@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Daniel Herding",
+			"Metalhead64",
 			"Se4598",
-			"Xqt",
-			"Metalhead64"
+			"Xqt"
 		]
 	},
 	"pywikibot-enter-category-name": "Bitte Name der Kategorie eingeben:",

@@ -3,11 +3,11 @@
 		"authors": [
 			"Beta16",
 			"EdoDodo",
+			"Gianfranco",
 			"Nemo bis",
 			"Ricordisamoa",
 			"Rippitippi",
-			"Xqt",
-			"Gianfranco"
+			"Xqt"
 		]
 	},
 	"category-adding": "Bot: Aggiunta la categoria [[:Category:%(newcat)s|%(newcat)s]]",

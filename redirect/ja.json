@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Otokoume",
 			"Shirayuki",
-			"赤の旋律",
-			"Otokoume"
+			"赤の旋律"
 		]
 	},
 	"redirect-fix-broken-moved": "ボットによる: 迷子のリダイレクトの転送先を「%(to)s」へ修正",

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Xqt"
 		]
 	},
 	"unlink-unlinking": "Robô: A retirar ligações para \"%(title)s\""

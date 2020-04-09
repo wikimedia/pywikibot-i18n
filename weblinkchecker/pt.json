@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente",
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Vitorvicentevalente"
 		]
 	},
 	"weblinkchecker-archive_msg": "A página foi gravada pelo site Internet Archive. Pondere criar uma hiperligação para uma versão arquivada que seja adequada: [%(URL)s].",

@@ -3,8 +3,8 @@
 		"authors": [
 			"Gomoko",
 			"Linedwell",
-			"Wladek92",
-			"Verdy p"
+			"Verdy p",
+			"Wladek92"
 		]
 	},
 	"delete-from-category": "Robot : suppression de toutes les pages de la catégorie %(page)s",

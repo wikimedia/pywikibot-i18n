@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"Matěj Suchánek",
 			"Spiffyk",
-			"Vks",
-			"Dvorapa"
+			"Vks"
 		]
 	},
 	"template-changing": "Robot: úprava {{PLURAL:%(num)d|šablony|šablon}}: %(list)s",

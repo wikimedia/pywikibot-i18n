@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "роботось путызеть: %(adding)s",
 	"interwiki-adding-modifying": "роботось путызеть: %(adding)s полавтызеть: %(modifying)s",
 	"interwiki-adding-removing": "роботось путызеть: %(adding)s нардызеть: %(removing)s",

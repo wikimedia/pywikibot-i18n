@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nicolas Dumazet",
+			"Fitoschido",
 			"Macofe",
-			"Fitoschido"
+			"Nicolas Dumazet"
 		]
 	},
 	"image-remove": "Robot: eliminación de la imagen %(file)s",

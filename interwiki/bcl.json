@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "robot minadugang: %(adding)s",
 	"interwiki-adding-modifying": "robot minadugang: %(adding)s minamodifikar: %(modifying)s",
 	"interwiki-adding-removing": "robot minadugang: %(adding)s minahali: %(removing)s",

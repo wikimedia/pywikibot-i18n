@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"category-adding": "робот: ватсаз category [[:Category:%(newcat)s|%(newcat)s]]"
 }

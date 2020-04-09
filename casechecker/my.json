@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ninjastrikers",
-			"Dr Lotus Black"
+			"Dr Lotus Black",
+			"Ninjastrikers"
 		]
 	},
 	"casechecker-delete-reason": "ဤပြန်ညွှန်းသည် %(target)s သို့ညွှန်ရန် အသုံးပြုထားသည်",

@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"DCLXVI",
-			"Vodnokon4e",
-			"Vlad5250"
+			"Vlad5250",
+			"Vodnokon4e"
 		]
 	},
 	"category-adding": "Бот: Добавяне на категория [[:Category:%(newcat)s|%(newcat)s]]",

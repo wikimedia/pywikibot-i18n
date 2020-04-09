@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"spellcheck-checking": "تدقيق إملائي بمساعدة البوت"
 }

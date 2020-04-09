@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"pagefromfile-msg": "Bot: Automatischer Import von Artikeln",
 	"pagefromfile-msg_bottom": "ergänze am Ende",
 	"pagefromfile-msg_force": "bestehender Text überschrieben",

@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"misspelling-fixing": "Bot: korrigiere Link auf Falschschreibung: %(page)s"
 }

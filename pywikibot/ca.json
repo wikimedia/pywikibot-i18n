@@ -2,12 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Alvaro Vidal-Abarca",
+			"Fitoschido",
 			"Grondin",
+			"Jaumeortola",
 			"Pitort",
 			"Toniher",
-			"XVEC",
-			"Fitoschido",
-			"Jaumeortola"
+			"XVEC"
 		]
 	},
 	"pywikibot-enter-category-name": "Si us plau introdueix el nom de la categoria :",

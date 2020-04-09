@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"ערן",
-			"Or"
+			"Or",
+			"ערן"
 		]
 	},
 	"category-adding": "בוט: מוסיף את הקטגוריה [[:Category:%(newcat)s|%(newcat)s]]",

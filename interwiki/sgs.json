@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "robots Pridedama: %(adding)s",
 	"interwiki-adding-modifying": "robots Pridedama: %(adding)s Keitama: %(modifying)s",
 	"interwiki-adding-removing": "robots Pridedama: %(adding)s Trėnama: %(removing)s",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"cosmetic_changes-append": "; athruithe cosmaideacha",
 	"cosmetic_changes-standalone": "Róbat: Athruithe cosmaideacha"
 }

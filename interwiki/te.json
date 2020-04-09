@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "యంత్రము  కలుపుతున్నది: %(adding)s",
 	"interwiki-adding-modifying": "యంత్రము  కలుపుతున్నది: %(adding)s మార్పులు చేస్తున్నది: %(modifying)s",
 	"interwiki-adding-removing": "యంత్రము  కలుపుతున్నది: %(adding)s తొలగిస్తున్నది: %(removing)s",

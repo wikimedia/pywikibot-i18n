@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Fitoschido",
 			"SMP",
-			"Vriullop",
-			"Fitoschido"
+			"Vriullop"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "substituint etiqueta/es %(tags)s",

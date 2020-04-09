@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aswanas",
 			"Homo",
-			"Hugo.arg",
-			"Aswanas"
+			"Hugo.arg"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Roboto pagalba pašalinta dviprasmybė:%(from)s - Pažymėta, kad reikia eksperto įvertinimo",

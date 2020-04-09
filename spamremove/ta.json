@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"spamremove-remove": "எரிதமாக இணைக்கப்பட்ட %(url)s இணையத்தளம் நீக்கப்பட்டது"
 }

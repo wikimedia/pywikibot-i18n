@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Woo-Jin Kim",
-			"Revi"
+			"Revi",
+			"Woo-Jin Kim"
 		]
 	},
 	"image-remove": "봇: %(file)s 파일을 제거",

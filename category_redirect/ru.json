@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov",
-			"Александр Сигачёв",
 			"Amire80",
+			"Marshmallych",
 			"Movses",
-			"Marshmallych"
+			"Volkov",
+			"Александр Сигачёв"
 		]
 	},
 	"category_redirect-add-template": "Бот: добавление шаблона перенаправляющей категории для обслуживания",

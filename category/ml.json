@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Praveenp",
-			"Jinoytommanjaly"
+			"Jinoytommanjaly",
+			"Praveenp"
 		]
 	},
 	"category-adding": "യന്ത്രം: ചേർക്കുന്നു category [[:Category:%(newcat)s|%(newcat)s]]",

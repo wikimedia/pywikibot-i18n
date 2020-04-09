@@ -3,8 +3,8 @@
 		"authors": [
 			"Evropi",
 			"Geraki",
-			"Xqt",
-			"Protnet"
+			"Protnet",
+			"Xqt"
 		]
 	},
 	"category-adding": "Ρομπότ: Προσθήκη κατηγορίας [[:Category:%(newcat)s|%(newcat)s]]",

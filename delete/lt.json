@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aswanas",
 			"Homo",
-			"Hugo.arg",
-			"Aswanas"
+			"Hugo.arg"
 		]
 	},
 	"delete-from-category": "robotas: Trinami visi puslapiai iš kategorijos %(page)s",

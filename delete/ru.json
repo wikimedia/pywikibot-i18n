@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Okras",
-			"Volkov",
-			"Amire80"
+			"Volkov"
 		]
 	},
 	"delete-from-category": "Бот: удаление всех страниц из категории %(page)s",

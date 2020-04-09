@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"cosmetic_changes-append": "; mutationes minores",
 	"cosmetic_changes-standalone": "automaton: mutationes minores"
 }

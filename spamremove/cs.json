@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Matěj Suchánek",
-			"Dvorapa"
+			"Dvorapa",
+			"Matěj Suchánek"
 		]
 	},
 	"spamremove-remove": "Odstranění odkazů na spamerskou stránku %(url)s"

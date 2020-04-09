@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"George Animal",
-			"Ghybu",
 			"Bikarhêner",
-			"Dvorapa"
+			"Dvorapa",
+			"George Animal",
+			"Ghybu"
 		]
 	},
 	"category-adding": "Robot:Zêdebike category [[:Category:%(newcat)s|%(newcat)s]]",

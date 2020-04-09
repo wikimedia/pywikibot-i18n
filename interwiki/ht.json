@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "wobo Ajoute: %(adding)s",
 	"interwiki-adding-modifying": "wobo Ajoute: %(adding)s Modifye: %(modifying)s",
 	"interwiki-adding-removing": "wobo Ajoute: %(adding)s Anlve: %(removing)s",

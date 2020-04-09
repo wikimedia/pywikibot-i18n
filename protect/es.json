@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
+			"Macofe",
 			"Sporeunai",
-			"VegaDark",
-			"Macofe"
+			"VegaDark"
 		]
 	},
 	"protect-category": "Bot: protección de todas las páginas de la categoría %(cat)s",

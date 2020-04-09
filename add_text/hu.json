@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Urbalazs",
-			"Bináris"
+			"Bináris",
+			"Urbalazs"
 		]
 	},
 	"add_text-adding": "Bot: %(adding)s hozzáadása"

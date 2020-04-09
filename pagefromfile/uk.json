@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"pagefromfile-msg": "Бот: Автоматичний імпорт статей",
 	"pagefromfile-msg_bottom": "додано знизу",
 	"pagefromfile-msg_force": "існуючий текст перезаписано",

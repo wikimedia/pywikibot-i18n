@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bugoslav",
 			"xqt",
-			"zoranzoki21",
-			"Bugoslav"
+			"zoranzoki21"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Dodajem %(adding)s"

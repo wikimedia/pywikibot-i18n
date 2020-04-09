@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Tavernier",
-			"Wladek92",
 			"Urhixidur",
-			"Verdy p"
+			"Verdy p",
+			"Wladek92"
 		]
 	},
 	"image-remove": "Bot : retrait de l’image %(file)s",

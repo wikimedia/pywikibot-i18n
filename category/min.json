@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Iwan Novirion",
 			"Luthfi94",
-			"Naval Scene",
-			"Iwan Novirion"
+			"Naval Scene"
 		]
 	},
 	"category-adding": "Robot: Manambahan kategori [[:Category:%(newcat)s|%(newcat)s]]",

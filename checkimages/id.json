@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"ArlandGa",
 			"Beeyan",
 			"Rachmat.Wahidi",
-			"Rachmat04",
-			"ArlandGa"
+			"Rachmat04"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Menambah %(adding)s",

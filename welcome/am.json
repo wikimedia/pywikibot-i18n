@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"welcome-bad_username": "Bot: Adding a username that needs to be checked",
 	"welcome-updating": "Bot: Updating log",
 	"welcome-welcome": "Welcome to Amharic Wikipedia!"

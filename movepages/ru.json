@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov",
 			"Amire80",
-			"Mailman"
+			"Mailman",
+			"Volkov"
 		]
 	},
 	"movepages-moving": "Бот: страница перемещена"

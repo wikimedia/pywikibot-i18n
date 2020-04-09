@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"unlink-unlinking": "בוט: מסיר קישורים לדף \"%(title)s\""
 }

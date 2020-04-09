@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"pagefromfile-msg": "Bot: automatesch huhjelaade",
 	"pagefromfile-msg_bottom": "un aanjehange",
 	"pagefromfile-msg_force": "un komplët ußjetuusch",

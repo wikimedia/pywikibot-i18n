@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"cosmetic_changes-append": "; gleenere Enneringe",
 	"cosmetic_changes-standalone": "Waddefresser: gleenere Enneringe"
 }

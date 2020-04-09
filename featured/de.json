@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"featured-featured": "Bot: %(page)s ist ein ausgezeichneter Artikel",
 	"featured-former": "Bot: %(page)s ist ein ehemaliger ausgezeichneter Artikel",
 	"featured-good": "Bot: %(page)s ist ein lesenswerter Artikel",

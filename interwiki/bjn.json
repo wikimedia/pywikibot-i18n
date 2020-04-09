@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "bot Manambah: %(adding)s",
 	"interwiki-adding-modifying": "bot Manambah: %(adding)s Ma'ubah: %(modifying)s",
 	"interwiki-adding-removing": "bot Manambah: %(adding)s Mambuang: %(removing)s",

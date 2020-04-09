@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Volkov",
 			"Dima st bk",
-			"Helpau"
+			"Helpau",
+			"Volkov"
 		]
 	},
 	"basic-changing": "Бот: изменение ..."

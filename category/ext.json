@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"category-adding": "Robó: Añiiu category [[:Category:%(newcat)s|%(newcat)s]]"
 }

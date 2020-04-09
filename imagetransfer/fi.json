@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pyscowicz",
-			"01miki10"
+			"01miki10",
+			"Pyscowicz"
 		]
 	},
 	"imagetransfer-file_page_message": "Tämä kuva kopioitiin sivustolta %(site)s. Alkuperäinen kuvaus oli:\n\n%(description)s",

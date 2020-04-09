@@ -2,11 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Cybjit",
-			"Lokal Profil",
-			"skorpan",
-			"WikiPhoenix",
 			"Jopparn",
-			"Mjälten"
+			"Lokal Profil",
+			"Mjälten",
+			"WikiPhoenix",
+			"skorpan"
 		]
 	},
 	"pywikibot-enter-category-name": "Ange kategorinamnet:",

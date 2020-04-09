@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Xuacu"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Amestando %(adding)s",

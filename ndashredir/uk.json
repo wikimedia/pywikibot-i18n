@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Base",
-			"Avatar6"
+			"Avatar6",
+			"Base"
 		]
 	},
 	"ndashredir-create": "Бот: створення перенаправлення з дефісом на [[%(title)s]]"

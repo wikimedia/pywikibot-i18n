@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Bot: következő hozzáadása: %(adding)s",
 	"interwiki-adding-modifying": "Bot: következő hozzáadása: %(adding)s következő módosítása: %(modifying)s",
 	"interwiki-adding-removing": "Bot: következő hozzáadása: %(adding)s következő eltávolítása: %(removing)s",

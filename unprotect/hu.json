@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tacsipacsi",
-			"Bináris"
+			"Bináris",
+			"Tacsipacsi"
 		]
 	},
 	"unprotect-category": "Bot: %(cat)s kategóriában szereplő összes lap védelmének feloldása",

@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sasa Stefanovic",
+			"Acamicamacaraca",
+			"BadDog",
 			"Milicevic01",
 			"Rancher",
-			"Acamicamacaraca",
-			"BadDog"
+			"Sasa Stefanovic"
 		]
 	},
 	"imagetransfer-file_page_message": "Ова датотека је копирана са %(site)s. Изворни опис је био:\n\n%(description)s",

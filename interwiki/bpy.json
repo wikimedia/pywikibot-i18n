@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "রোবট তিলকরের: %(adding)s",
 	"interwiki-adding-modifying": "রোবট তিলকরের: %(adding)s বদালার: %(modifying)s",
 	"interwiki-adding-removing": "রোবট তিলকরের: %(adding)s থেইকরের: %(removing)s",

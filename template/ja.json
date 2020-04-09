@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki",
-			"Otokoume"
+			"Otokoume",
+			"Shirayuki"
 		]
 	},
 	"template-changing": "ボットによる: {{PLURAL:%(num)d|テンプレート}}を変更: %(list)s",

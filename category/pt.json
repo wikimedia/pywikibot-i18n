@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"555",
 			"Hamilton Abreu",
 			"Waldir",
-			"Waldyrious"
+			"Waldyrious",
+			555
 		]
 	},
 	"category-adding": "Robô: adição da categoria [[:Category:%(newcat)s|%(newcat)s]]",

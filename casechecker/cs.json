@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
 			"Matěj Grabovský",
-			"Mormegil",
-			"Dvorapa"
+			"Mormegil"
 		]
 	},
 	"casechecker-delete-reason": "Toto přesměrování vedlo na %(target)s",

@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Huji",
-			"ZxxZxxZ",
+			"Dalba",
 			"Ebraminio",
-			"Dalba"
+			"Huji",
+			"ZxxZxxZ"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "ابهام‌زدایی به کمک ربات: %(from)s - علامت‌زدن به عنوان نیازمند توجه متخصص",

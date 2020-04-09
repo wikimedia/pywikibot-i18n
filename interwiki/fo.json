@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "bottur leggur aftrat: %(adding)s",
 	"interwiki-adding-modifying": "bottur leggur aftrat: %(adding)s broytur: %(modifying)s",
 	"interwiki-adding-removing": "bottur leggur aftrat: %(adding)s strikar: %(removing)s",

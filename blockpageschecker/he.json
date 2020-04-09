@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"blockpageschecker-summary": "בוט: מסיר תבנית שעבר זמנה"
 }

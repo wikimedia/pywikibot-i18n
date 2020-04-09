@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"featured-featured": "Bot: %(page)s as en auer a miaten guden artiikel",
 	"featured-former": "Bot: %(page)s wiar ans en auer a miaten guden artiikel",
 	"featured-good": "Bot: %(page)s as en guden artiikel",

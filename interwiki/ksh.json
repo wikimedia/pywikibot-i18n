@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Bot: dobëijedonn: %(adding)s",
 	"interwiki-adding-modifying": "Bot: dobëijedonn: %(adding)s ußjewääßelt: %(modifying)s",
 	"interwiki-adding-removing": "Bot: dobëijedonn: %(adding)s erußjenumme: %(removing)s",

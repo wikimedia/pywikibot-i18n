@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Ռոբոտը ավելացնում է․: %(adding)s",
 	"interwiki-adding-modifying": "Ռոբոտը ավելացնում է․: %(adding)s փոփոխում է․: %(modifying)s",
 	"interwiki-adding-removing": "Ռոբոտը ավելացնում է․: %(adding)s հեռացնում է․: %(removing)s",

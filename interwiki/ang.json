@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Robot ēcung: %(adding)s",
 	"interwiki-adding-modifying": "Robot ēcung: %(adding)s onhweorfung: %(modifying)s",
 	"interwiki-adding-removing": "Robot ēcung: %(adding)s fornimung: %(removing)s",

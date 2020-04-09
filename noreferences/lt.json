@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"noreferences-add-tag": "robotas: Pridedama trūkstama <references /> žymė"
 }

@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Od1n",
-			"Gomoko",
-			"Wladek92",
 			"Framawiki",
-			"Verdy p"
+			"Gomoko",
+			"Od1n",
+			"Verdy p",
+			"Wladek92"
 		]
 	},
 	"noreferences-add-tag": "Robot : ajout du modèle {{références}} manquant",

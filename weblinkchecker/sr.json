@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Acamicamacaraca",
 			"Milicevic01",
-			"Rancher",
 			"Obsuser",
-			"Acamicamacaraca"
+			"Rancher"
 		]
 	},
 	"weblinkchecker-archive_msg": "Веб-страница је сачувана на сајту Internet Archive (Wayback Machine). У чланак би требало ставити везу до одговарајуће архивиране верзије ([%(URL)s]), а потом са странице за разговор уклонити овај одељак.&#32;",

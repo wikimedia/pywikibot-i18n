@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"spamremove-remove": "מסיר קישורים לאתר ספאם %(url)s"
 }

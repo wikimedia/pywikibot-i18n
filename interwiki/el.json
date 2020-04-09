@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Ρομπότ: Προσθήκη: %(adding)s",
 	"interwiki-adding-modifying": "Ρομπότ: Προσθήκη: %(adding)s Τροποποίηση: %(modifying)s",
 	"interwiki-adding-removing": "Ρομπότ: Προσθήκη: %(adding)s Αφαίρεση: %(removing)s",

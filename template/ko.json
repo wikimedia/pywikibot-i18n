@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
-			"Revi"
+			"Revi",
+			"아라"
 		]
 	},
 	"template-changing": "봇: {{PLURAL:%(num)d|틀}} 바꿈: %(list)s",

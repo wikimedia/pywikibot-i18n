@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"replace-replacing": "Bot: Penggantian teks otomatis %(description)s"
 }

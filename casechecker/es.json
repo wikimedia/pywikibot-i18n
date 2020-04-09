@@ -2,10 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
-			"Sporeunai",
-			"VegaDark",
 			"Macofe",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Sporeunai",
+			"VegaDark"
 		]
 	},
 	"casechecker-delete-reason": "Esta redirección solía apuntar a %(target)s",

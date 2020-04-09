@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Peter Alberti",
-			"MGA73"
+			"MGA73",
+			"Peter Alberti"
 		]
 	},
 	"interwiki-adding": "Robot: Tilføjer %(adding)s",

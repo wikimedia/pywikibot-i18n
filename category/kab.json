@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amazigh84",
-			"Xqt",
-			"Belkacem77"
+			"Belkacem77",
+			"Xqt"
 		]
 	},
 	"category-adding": "a rubut ti merniwt: category [[:Category:%(newcat)s|%(newcat)s]]",

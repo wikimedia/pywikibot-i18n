@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"pagefromfile-msg": "Robot: Automatyczny import artykułów",
 	"pagefromfile-msg_bottom": "dodaj na dole",
 	"pagefromfile-msg_force": "aktualny tekst nadpisany",

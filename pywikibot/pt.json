@@ -2,10 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Alchimista",
+			"Hamilton Abreu",
 			"Leonardo Gregianin",
 			"Malafaya",
-			"Vitorvicentevalente",
-			"Hamilton Abreu"
+			"Vitorvicentevalente"
 		]
 	},
 	"pywikibot-enter-category-name": "Por favor, introduza o nome da categoria:",

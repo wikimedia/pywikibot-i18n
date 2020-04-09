@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"featured-featured": "ბოტი: რჩეული სტატიის ბმული გვერდისათვის %(page)s"
 }

@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"category-adding": "көдлвр: немв category [[:Category:%(newcat)s|%(newcat)s]]"
 }

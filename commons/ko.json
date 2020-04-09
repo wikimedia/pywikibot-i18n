@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라",
-			"Revi"
+			"Revi",
+			"아라"
 		]
 	},
 	"commons-file-moved": "[[:File:%(localfile)s|파일]]을 [[:commons:File:%(commonsfile)s|공용]]으로 이동했습니다.",

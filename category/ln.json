@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"category-adding": "bot: ebakísí category [[:Category:%(newcat)s|%(newcat)s]]"
 }

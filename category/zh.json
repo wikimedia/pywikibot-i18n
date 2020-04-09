@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"A Chinese Wikipedian",
 			"Anakmalaysia",
 			"Liuxinyu970226",
 			"Shizhao",
 			"Yfdyh000",
-			"阿pp",
-			"A Chinese Wikipedian"
+			"阿pp"
 		]
 	},
 	"category-adding": "机器人：添加分类[[:Category:%(newcat)s|%(newcat)s]]",

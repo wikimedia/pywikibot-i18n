@@ -1,13 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Farras",
-			"IvanLanin",
 			"Ezagren",
-			"Xqt",
-			"Rachmat.Wahidi",
+			"Farras",
 			"Hidayatsrf",
-			"Rachmat04"
+			"IvanLanin",
+			"Rachmat.Wahidi",
+			"Rachmat04",
+			"Xqt"
 		]
 	},
 	"redirect-broken-redirect-template": "{{db-r1}}",

@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Glavkos",
 			"Geraki",
-			"GhotuoIncubator"
+			"GhotuoIncubator",
+			"Glavkos"
 		]
 	},
 	"checkimages-deletion-comment": "Ρομπότ: Προσθήκη: %(adding)s",

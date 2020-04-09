@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Dbc334",
-			"Mateju",
-			"Fanjiayi"
+			"Fanjiayi",
+			"Mateju"
 		]
 	},
 	"redirect-fix-broken-moved": "Robot: Popravljanje okvarjene povezave preusmeritve na premaknjeno ciljno stran %(to)s",

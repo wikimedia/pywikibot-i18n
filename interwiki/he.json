@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "בוט מוסיף: %(adding)s",
 	"interwiki-adding-modifying": "בוט מוסיף: %(adding)s משנה: %(modifying)s",
 	"interwiki-adding-removing": "בוט מוסיף: %(adding)s מסיר: %(removing)s",

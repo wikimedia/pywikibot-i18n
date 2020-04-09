@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "Bot: Aigfiecht: %(adding)s",
 	"interwiki-adding-modifying": "Bot: Aigfiecht: %(adding)s Gä'ännat: %(modifying)s",
 	"interwiki-adding-removing": "Bot: Aigfiecht: %(adding)s Rausgenumme: %(removing)s",

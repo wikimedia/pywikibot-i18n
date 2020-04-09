@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand Mazeland",
-			"Lokal Profil"
+			"Lokal Profil",
+			"Siebrand Mazeland"
 		]
 	},
 	"followlive-blanking": "Rensad, innehållet var '%(content)s'."

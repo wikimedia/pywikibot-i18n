@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"DemonioCZ",
-			"Mormegil",
-			"Dvorapa"
+			"Dvorapa",
+			"Mormegil"
 		]
 	},
 	"protect-category": "Robot: zamknutí všech stránek v kategorii %(cat)s",

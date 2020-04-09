@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
-			"Dima st bk"
+			"Dima st bk",
+			"Okras"
 		]
 	},
 	"casechecker-delete-reason": "Это перенаправление используется для указания на %(target)s",

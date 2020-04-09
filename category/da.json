@@ -2,10 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
+			"Joedalton",
 			"Kaare",
 			"Peter Alberti",
-			"Sarrus",
-			"Joedalton"
+			"Sarrus"
 		]
 	},
 	"category-adding": "Robot: Tilføjer kategorien [[:Category:%(newcat)s|%(newcat)s]]",

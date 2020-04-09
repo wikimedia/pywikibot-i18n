@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Uchup19",
-			"Dvorapa"
+			"Dvorapa",
+			"Uchup19"
 		]
 	},
 	"category-adding": "bot: Nambih category [[:Category:%(newcat)s|%(newcat)s]]",

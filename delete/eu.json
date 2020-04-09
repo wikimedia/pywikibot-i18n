@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi",
-			"EukeneFL"
+			"EukeneFL",
+			"Subi"
 		]
 	},
 	"delete-from-category": "Bot: %(page)s kategoriako orrialde guztiak ezabatzen",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"interwiki-adding": "робот Нэмж байна: %(adding)s",
 	"interwiki-adding-modifying": "робот Нэмж байна: %(adding)s Өөрчилж байна: %(modifying)s",
 	"interwiki-adding-removing": "робот Нэмж байна: %(adding)s Арилгаж байна: %(removing)s",

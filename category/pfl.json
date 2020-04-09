@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt",
-			"Dvorapa"
+			"Dvorapa",
+			"Xqt"
 		]
 	},
 	"category-adding": "Bot: Kadegorie [[:Category:%(newcat)s|%(newcat)s] aigfiecht",

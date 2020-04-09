@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Nemo bis",
 			"Sn1per",
 			"Valhallasw",
-			"Xqt",
-			"Nemo bis"
+			"Xqt"
 		]
 	},
 	"protect-category": "Edit summary when the bot protects all pages from a category. Parameters:\n* %(cat)s - category name\nSee also:\n* {{msg-pywikibot|Delete-from-category}}",

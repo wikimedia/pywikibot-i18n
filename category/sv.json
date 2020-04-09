@@ -3,10 +3,10 @@
 		"authors": [
 			"Ainali",
 			"Cybjit",
-			"Lokal Profil",
-			"WikiPhoenix",
 			"Jopparn",
-			"Skalman"
+			"Lokal Profil",
+			"Skalman",
+			"WikiPhoenix"
 		]
 	},
 	"category-adding": "Bot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]",

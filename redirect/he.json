@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
+			"Or",
 			"YaronSh",
-			"ערן",
-			"Or"
+			"ערן"
 		]
 	},
 	"redirect-fix-broken-moved": "בוט: תיקון הפניה שבורה לדף היעד %(to)s, שהועבר",

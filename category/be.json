@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dvorapa",
+			"Mechanizatar",
 			"Xqt",
 			"Yury Tarasievich",
-			"Тест",
-			"Mechanizatar",
-			"Dvorapa"
+			"Тест"
 		]
 	},
 	"category-adding": "Робат: дадаў катэгорыю [[:Category:%(newcat)s|%(newcat)s]]",
