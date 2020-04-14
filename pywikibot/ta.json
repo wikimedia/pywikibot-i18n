@@ -4,5 +4,7 @@
 			"Aswn"
 		]
 	},
-	"pywikibot-enter-category-name": "பகுப்பின் பெயரை இடவும்:"
+	"pywikibot-enter-category-name": "பகுப்பின் பெயரை இடவும்:",
+	"pywikibot-enter-new-text": "புதிய உரையினை இடவும்:",
+	"pywikibot-enter-page-processing": "எந்த பக்கத்தினை செயலாக்கப்பட வேண்டும்?"
 }

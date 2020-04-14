@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aswn",
 			"Rotem Liss",
 			"Terrance M. Rengarasu",
 			"xqt"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Adding %(adding)s",
+	"checkimages-doubles-head": "இரட்டடிக்கப்பட்ட கோப்பு",
 	"checkimages-log-comment": "தானியங்கி:பட்டியலை இற்றைப்படுத்தல்",
 	"checkimages-source-tag-comment": "தானியங்கி:காப்புரிமை வழங்கப்படா படிமத்தை சுட்டுதல்",
 	"checkimages-source-notice-comment": "தானியங்கி:மூலம் வழங்கப்படா படிமத்தை சுட்டுதல்",
