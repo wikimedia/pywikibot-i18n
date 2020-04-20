@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joedalton"
+			"Joedalton",
+			"Steenth"
 		]
 	},
-	"unusedfiles-comment": "Bot: billeder for eliminering"
+	"unusedfiles-comment": "Robot: mærker fil som forældreløs"
 }

@@ -3,11 +3,12 @@
 		"authors": [
 			"Alunardon90",
 			"Candalua",
+			"Fierodelveneto",
 			"GatoSelvadego"
 		]
 	},
 	"delete-from-category": "Robot: Scansełasion de tute łe pajine da ła categoria %(page)s",
-	"delete-from-file": "Bot: Scansełasion de na lista de pagine.",
+	"delete-from-file": "Bot: Descançełasion de na lista de pàjine.",
 	"delete-images": "Robot: Scansełasion de tute łe imajini contegnude inte ła pajina %(page)s",
 	"delete-linked-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s",
 	"delete-referring-pages": "Robot: Scansełasion de tute łe pajine cołegade co riferimenti da %(page)s"

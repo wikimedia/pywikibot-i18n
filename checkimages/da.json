@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joedalton"
+			"Joedalton",
+			"Steenth"
 		]
 	},
+	"checkimages-deletion-comment": "Robot: Tilføjer %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: Filen findes allerede på Commons, kan slettes",
+	"checkimages-doubles-head": "Dupletfil",
+	"checkimages-doubles-talk-comment": "Bot: Meddeler at filen allerede findes på Commons",
+	"checkimages-log-comment": "Bot: Opdaterer loggen",
+	"checkimages-no-license-head": "Billede uden licens",
 	"checkimages-source-tag-comment": "Robot: Markerer netop overført umærket fil",
-	"checkimages-source-notice-comment": "Robot: Anmoder om kildeinformation."
+	"checkimages-source-notice-comment": "Robot: Anmoder om kildeinformation.",
+	"checkimages-unknown-extension-head": "Ukendt filendelse!",
+	"checkimages-unknown-extension-msg": "Filen %(file)s ser ud til at have gal filendelse, check venligst."
 }

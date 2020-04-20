@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
+			"Steenth",
 			"Tjernobyl"
 		]
 	},
 	"archivebot-archive-full": "(ARKIV FULDT)",
 	"archivebot-archive-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} fra [[%(from)s]]",
 	"archivebot-archiveheader": "{{arkiv}}",
-	"archivebot-older-than": "ældre end %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|ældre}} end %(duration)s",
 	"archivebot-page-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} (%(why)s) til %(archives)s"
 }

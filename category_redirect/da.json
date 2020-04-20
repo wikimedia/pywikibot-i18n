@@ -6,7 +6,8 @@
 			"MGA73",
 			"Peter Alberti",
 			"Saederup92",
-			"Sarrus"
+			"Sarrus",
+			"Steenth"
 		]
 	},
 	"category_redirect-add-template": "Robot: Tilføjer kategoriomdirigeringsskabelon til vedligeholdelse",
@@ -15,5 +16,20 @@
 	"category_redirect-edit-request": "Det er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s",
 	"category_redirect-fix-double": "Robot: Retter dobbelt omdirigering",
-	"category_redirect-log-ignoring": "* Ignorerer %(oldcat)s"
+	"category_redirect-log-added": "* Tilføj til [[%(ns)s%(template)s]] på %(oldcat)s",
+	"category_redirect-log-add-failed": "* Kunne ikke tilføje til [[%(ns)s%(template)s]] på %(oldcat)s",
+	"category_redirect-log-double": "* Ordner dobbelt omdirigering: %(oldcat)s → %(newcat)s → %(targetcat)s",
+	"category_redirect-log-failed": "** Fejlet: %(error)s",
+	"category_redirect-log-false-positive": "* Uventet ikke-omdirigering: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ignorerer %(oldcat)s",
+	"category_redirect-log-loop": "* Omdirigeringsløkke fra %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d fundet, %(moved)d flyttet",
+	"category_redirect-log-move-error": "* %(oldcat)s: fejl i move_contents",
+	"category_redirect-log-new": "Nye omdirigeringer siden sidste rapport:",
+	"category_redirect-log-not-loaded": "* Kunne ikke hente %(oldcat)s; ignorerer",
+	"category_redirect-log-skipping": "* Hopper over %(oldcat)s; i venteperiode",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Ældre log]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s er en hård omdirigering til %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s omdirigerer til %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s er en selvhenvisende omdirigering"
 }

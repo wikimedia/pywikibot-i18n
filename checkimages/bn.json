@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tahmid02016"
+			"Tahmid02016",
+			"আফতাবুজ্জামান"
 		]
 	},
 	"checkimages-deletion-comment": "বট: যোগ করছে %(adding)s",
 	"checkimages-no-license-head": "লাইসেন্সবিহীন চিত্র",
-	"checkimages-unknown-extension-head": "অজানা এক্সটেনশ!",
+	"checkimages-unknown-extension-head": "অজানা এক্সটেনশন!",
 	"checkimages-unknown-extension-msg": "%(file)s ফাইলে সম্ভবত ভুল এক্সটেনশন রয়েছে, অনুগ্রহপূর্বক দেখুন।"
 }

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"ToJack"
+		]
+	},
+	"template-changing": "Бот: Тағйири {{PLURAL:%(num)d|шаблон|шаблонҳо}}: %(list)s",
+	"template-removing": "Бот: Ҳазфи {{PLURAL:%(num)d|шаблон|шаблонҳо}}: %(list)s",
+	"template-substituting": "Бот: {{PLURAL:%(num)d|Шаблонро|Шаблонҳоро}} ворид дорад: %(list)s"
+}

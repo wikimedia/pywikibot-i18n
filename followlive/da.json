@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joedalton"
+			"Joedalton",
+			"Steenth"
 		]
 	},
-	"followlive-blanking": "Nullet ud, indholdet var »%(content)s«."
+	"followlive-blanking": "Nulstillet, indholdet var »%(content)s«."
 }

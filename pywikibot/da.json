@@ -4,7 +4,8 @@
 			"Christian List",
 			"Joedalton",
 			"Kaare",
-			"MGA73"
+			"MGA73",
+			"Steenth"
 		]
 	},
 	"pywikibot-enter-category-name": "Skriv kategorinavnet:",
@@ -16,5 +17,6 @@
 	"pywikibot-enter-xml-filename": "Skriv XML-dumpets filnavn:",
 	"pywikibot-fixes-fckeditor": "Robot: Ret rich-editor HTML",
 	"pywikibot-fixes-html": "Robot: Konverter/ret HTML",
-	"pywikibot-fixes-syntax": "Robot: Ret wikisyntaks"
+	"pywikibot-fixes-syntax": "Robot: Ret wikisyntaks",
+	"pywikibot-touch": "Pywikibot-nulredigering"
 }
