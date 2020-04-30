@@ -13,6 +13,8 @@
 	"category_redirect-edit-request": "以下受保护的页面被检测到需要更新分类链接：%(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s在%(oldcat)s中，是到%(newcat)s的重定向",
 	"category_redirect-fix-double": "机器人：修正双重重定向",
+	"category_redirect-log-added": "* 已添加[[%(ns)s%(template)s]]至%(oldcat)s",
+	"category_redirect-log-add-failed": "* 未能将[[%(ns)s%(template)s]]添加至%(oldcat)s",
 	"category_redirect-log-failed": "** 失败: %(error)s",
 	"category_redirect-log-ignoring": "*无视 %(oldcat)s中",
 	"category_redirect-problem-redirects": "# %(oldcat)s重定向至%(redpage)s"

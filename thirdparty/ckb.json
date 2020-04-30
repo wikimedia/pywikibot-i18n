@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Asoxor",
-			"Calak"
+			"Calak",
+			"ئارام بکر"
 		]
 	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "وتووێژ گۆڕدرا",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "وتووێژ داخرا",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "پەیامی ڕۆبۆت",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "لێدوانی نوێ",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "ئاگاداری",

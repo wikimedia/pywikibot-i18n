@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asoxor"
+			"Asoxor",
+			"ئارام بکر"
 		]
 	},
 	"delete-from-category": "ڕۆبۆت: سڕینەوەی گشت پەڕەکان لە پۆلی %(page)s",
+	"delete-from-file": "بۆت: سڕینەوەی پێڕستێک لە پەڕەکان",
 	"delete-images": "ڕۆبۆت: سڕینەوەی گشت وێنەکانی پەڕەی %(page)s"
 }
