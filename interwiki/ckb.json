@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Asoxor",
-			"Calak"
+			"Calak",
+			"ئارام بکر"
 		]
 	},
-	"interwiki-adding": "ڕۆبۆت: زیادکردنی %(adding)s",
-	"interwiki-adding-modifying": "ڕۆبۆت: زیادکردنی %(adding)s؛ چاکسازیی %(modifying)s",
-	"interwiki-adding-removing": "ڕۆبۆت: زیادکردنی %(adding)s؛ لابردنی: %(removing)s",
-	"interwiki-adding-removing-modifying": "ڕۆبۆت: زیادکردنی %(adding)s؛ لابردنی %(removing)s؛ چاکسازیی %(modifying)s",
-	"interwiki-modifying": "ڕۆبۆت: چاکسازیی %(modifying)s",
-	"interwiki-modifying-from": "ڕۆبۆت: گۆڕانی %(from)s بۆ %(modifying)s",
-	"interwiki-removing": "ڕۆبۆت: لابردنی %(removing)s",
-	"interwiki-removing-modifying": "ڕۆبۆت: لابردنی %(removing)s؛ چاکسازیی %(modifying)s"
+	"interwiki-adding": "بۆت: زیادکردنی %(adding)s",
+	"interwiki-adding-modifying": "بۆت: زیادکردنی %(adding)s؛ چاکسازیی %(modifying)s",
+	"interwiki-adding-removing": "بۆت: زیادکردنی %(adding)s؛ لابردنی: %(removing)s",
+	"interwiki-adding-removing-modifying": "بۆت: زیادکردنی %(adding)s؛ لابردنی %(removing)s؛ چاکسازیی %(modifying)s",
+	"interwiki-modifying": "بۆت: چاکسازیی %(modifying)s",
+	"interwiki-modifying-from": "بۆت: گۆڕانی %(from)s بۆ %(modifying)s",
+	"interwiki-removing": "بۆت: لابردنی %(removing)s",
+	"interwiki-removing-modifying": "بۆت: لابردنی %(removing)s؛ چاکسازیی %(modifying)s"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asoxor"
+			"Asoxor",
+			"ئارام بکر"
 		]
 	},
-	"replace-replacing": "ڕۆبۆت: لەجێدانانی خۆگەڕی دەق %(description)s"
+	"replace-replacing": "بۆت: لەجێدانانی خۆگەڕی دەق %(description)s"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asoxor"
+			"Asoxor",
+			"ئارام بکر"
 		]
 	},
-	"editarticle-edit": "چاکسازیی دەستی بە ڕۆبۆت: %(description)s"
+	"editarticle-edit": "چاکسازیی دەستی بە بۆت: %(description)s"
 }

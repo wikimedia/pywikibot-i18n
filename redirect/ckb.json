@@ -3,9 +3,10 @@
 		"authors": [
 			"Asoxor",
 			"Calak",
-			"Marmzok"
+			"Marmzok",
+			"ئارام بکر"
 		]
 	},
-	"redirect-fix-double": "ڕۆبۆت: چاکسازیی دووجار-ڕەوانەکردنەوە بۆ %(to)s",
-	"redirect-remove-broken": "ڕۆبۆت: ڕەوانەکەر بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە"
+	"redirect-fix-double": "بۆت: چاکسازیی دووجار-ڕەوانەکردنەوە بۆ %(to)s",
+	"redirect-remove-broken": "بۆت: ڕەوانەکەر بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە"
 }
