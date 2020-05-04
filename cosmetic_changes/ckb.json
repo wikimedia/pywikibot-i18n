@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asoxor"
+			"Asoxor",
+			"ئارام بکر"
 		]
 	},
 	"cosmetic_changes-append": "؛ دەستکاریی جوانکاری",
-	"cosmetic_changes-standalone": "ڕۆبۆت: دەستکاریی جوانکاری"
+	"cosmetic_changes-standalone": "بۆت: دەستکاریی جوانکاری"
 }

@@ -2,16 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Asoxor",
-			"Calak"
+			"Calak",
+			"ئارام بکر"
 		]
 	},
-	"category-adding": "ڕۆبۆت: زیادکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "بۆت: زیادکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ھەروەھا لە %(alsocat)s)",
-	"category-listifying": "ڕۆبۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})",
-	"category-removing": "ڕۆبۆت: لابردن لە %(oldcat)s",
-	"category-renamed": "ڕۆبۆت: گوازرایەوە لە %(oldcat)s. دانەران: %(authors)s",
-	"category-replacing": "ڕۆبۆت: دانانی پۆلی %(newcat)s لە جێگەی  %(oldcat)s",
+	"category-listifying": "بۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})",
+	"category-removing": "بۆت: لابردن لە %(oldcat)s",
+	"category-renamed": "بۆت: گوازرایەوە لە %(oldcat)s. دانەران: %(authors)s",
+	"category-replacing": "بۆت: دانانی پۆلی %(newcat)s لە جێگەی  %(oldcat)s",
 	"category-section-title": "مێژووی پەڕەی %(oldcat)sی پێشوو",
-	"category-version-history": "ڕۆبۆت: مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",
-	"category-was-moved": "ڕۆبۆت: پۆل گوازرایەوە بۆ [[:Category:%(newcat)s|%(title)s]]"
+	"category-version-history": "بۆت: مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",
+	"category-was-moved": "بۆت: پۆل گوازرایەوە بۆ [[:Category:%(newcat)s|%(title)s]]"
 }

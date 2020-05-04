@@ -4,5 +4,9 @@
 			"ئارام بکر"
 		]
 	},
+	"checkimages-deletion-comment": "بۆت: زیادکردنی %(adding)s",
+	"checkimages-doubles-head": "پەڕگەی دووپات",
+	"checkimages-log-comment": "بۆت: نوێکردنەوە لۆگ",
+	"checkimages-source-notice-comment": "بۆت: داواکردنی زانیاریی سەرچاوە.",
 	"checkimages-unknown-extension-head": "زیادکراوەی نەناسراو!"
 }

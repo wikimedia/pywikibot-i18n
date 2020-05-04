@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Asoxor",
-			"Calak"
+			"Calak",
+			"ئارام بکر"
 		]
 	},
-	"category_redirect-fix-double": "ڕۆبۆت: چاکسازیی دووجار-ڕەوانەکەر"
+	"category_redirect-fix-double": "بۆت: چاکسازیی دووجار-ڕەوانەکەر",
+	"category_redirect-log-ignoring": "* فەرامۆشکردنی %(oldcat)s"
 }

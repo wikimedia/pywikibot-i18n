@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asoxor"
+			"Asoxor",
+			"ئارام بکر"
 		]
 	},
-	"capitalize_redirects-create-redirect": "ڕۆبۆت: دروستکردنی ڕەوانەکردنەوە بۆ [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "بۆت: دروستکردنی ڕەوانەکردنەوە بۆ [[%(to)s]]"
 }
