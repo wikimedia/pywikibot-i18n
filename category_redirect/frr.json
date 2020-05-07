@@ -14,7 +14,7 @@
 	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] küd ei tu %(oldcat)s diartuden wurd",
 	"category_redirect-log-double": "* Dobelt widjerfeerang apheewen: %(oldcat)s → %(newcat)s → %(targetcat)s",
 	"category_redirect-log-failed": "** Skiafgingen: %(error)s",
-	"category_redirect-log-false-positive": "* Faalsk positiif: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Nian widjerfeerang: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Auergung %(oldcat)s",
 	"category_redirect-log-loop": "* Widjerfeerangssleuf faan %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d fünjen, %(moved)d fersköwen",

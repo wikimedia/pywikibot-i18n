@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"StanProg",
 			"Vlad5250",
 			"Vodnokon4e",
 			"Xqt"
@@ -8,5 +9,5 @@
 	},
 	"archivebot-archive-full": "(АРХИВЪТ Е ПЪЛЕН)",
 	"archivebot-archiveheader": "{{Архив беседа}}",
-	"archivebot-older-than": "по-старо от %(duration)s"
+	"archivebot-older-than": "{{PLURAL:%(count)d|по-старо}} от %(duration)s"
 }

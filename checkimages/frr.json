@@ -4,6 +4,14 @@
 			"Murma174"
 		]
 	},
+	"checkimages-deletion-comment": "Bot:Du %(adding)s diartu",
+	"checkimages-doubles-file-comment": "Detdiar datei leit üüb Commons, koon stregen wurd",
+	"checkimages-doubles-head": "Datei duplikaat",
+	"checkimages-doubles-talk-comment": "Bot: Bööd, dat detdiar datei al üüb Commons leit",
+	"checkimages-log-comment": "Bot: skriiw log",
+	"checkimages-no-license-head": "Bil saner lisens",
 	"checkimages-source-tag-comment": "Bot: Nei huuchschüürd datei saner lisens markiaret.",
-	"checkimages-source-notice-comment": "Bot: Bööd auer lisensen"
+	"checkimages-source-notice-comment": "Bot: Bööd auer lisensen",
+	"checkimages-unknown-extension-head": "Ünbekäänd ütjwidjang!",
+	"checkimages-unknown-extension-msg": "Det datei %(file)s hää woorskiinelk en ferkiard aanj. Luke diar noch ans efter."
 }

@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Alunardon90",
+			"Fierodelveneto",
 			"GatoSelvadego"
 		]
 	},
-	"thirdparty-drtrigonbot-subster-summary-mod": "sostitusion eticheta/e %(tags)s",
+	"thirdparty-drtrigonbot-subster-summary-mod": "sostitusion targheta/e %(tags)s",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discusion modifegà",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discusion sarà",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MESAJO DEL ROBOT",

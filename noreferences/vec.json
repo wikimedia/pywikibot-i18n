@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alunardon90"
+			"Alunardon90",
+			"Fierodelveneto"
 		]
 	},
-	"noreferences-add-tag": "Robot: Xonto ła eticheta <references /> mancante"
+	"noreferences-add-tag": "Bot: Xonto ła targheta <references /> che manca"
 }
