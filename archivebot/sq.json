@@ -3,11 +3,12 @@
 		"authors": [
 			"Euriditi",
 			"FatosMorina",
+			"Klein Muçi",
 			"Marinari"
 		]
 	},
-	"archivebot-archive-full": "(ARKIVA ËSHTË E MBUSHUR PLOT)",
-	"archivebot-archive-summary": "Roboti: Duke arkivuar %(count)d {{PLURAL:%(count)d|temën|temat}} nga [[%(from)s]]",
-	"archivebot-older-than": "më e vjetër se",
-	"archivebot-page-summary": "Bot: Arkivimi i %(count)d {{PLURAL:%(count)d|temës|temave}} (%(why)s) në %(archives)s"
+	"archivebot-archive-full": "(ARKIVA ËSHTË MBUSHUR PLOT)",
+	"archivebot-archive-summary": "Roboti: U {{PLURAL:%(count)d|arkivua|arkivuan}} %(count)d {{PLURAL:%(count)d|diskutim|diskutime}} nga faqja [[%(from)s]]",
+	"archivebot-older-than": "{{PLURAL:%(count)d|pa ndërveprim}} për më shumë se %(duration)s",
+	"archivebot-page-summary": "Roboti: U {{PLURAL:%(count)d|arkivua|arkivuan}} %(count)d {{PLURAL:%(count)d|diskutim|diskutime}} %(why)s te faqja %(archives)s"
 }
