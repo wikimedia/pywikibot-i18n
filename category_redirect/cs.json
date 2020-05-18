@@ -24,7 +24,7 @@
 	"category_redirect-log-new": "Nová přesměrování od posledního reportu:",
 	"category_redirect-log-not-loaded": "* Nebylo možné načíst %(oldcat)s; vynecháno",
 	"category_redirect-log-skipping": "* %(oldcat)s přeskočena; v závěrečné fázi",
-	"category_redirect-older-logs": "'''[%(oldlogs)s Starší logy]'''",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Starší záznamy]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s je natvrdo přesměrováno na %(page)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s je přesměrována na %(redpage)s",
 	"category_redirect-problem-self-linked": "# %(oldcat)s přesměrovává na sebe sama"
