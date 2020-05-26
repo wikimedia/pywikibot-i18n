@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Awangba Mangang"
+			"Awangba Mangang",
+			"꯴꯰꯴"
 		]
 	},
+	"welcome-bad_username": "ꯕꯣꯠ:ꯌꯦꯡꯁꯤꯟꯕ ꯈꯔꯥ ꯆꯪꯒꯗꯕ ꯁꯤꯖꯤꯟꯅꯔꯤꯕ ꯃꯃꯤꯡ ꯱ ꯍꯥꯞꯆꯤꯟꯂꯤ",
 	"welcome-updating": "ꯕꯣꯠ:ꯂꯣꯒ ꯅꯧꯊꯣꯛꯍꯟꯕ",
 	"welcome-welcome": "ꯂꯦꯡꯁꯤꯟꯕꯤꯔꯛꯁꯤ!"
 }

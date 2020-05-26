@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Amazigh84",
+			"K Messaoudi",
 			"Sayem AtVkm"
 		]
 	},
-	"archivebot-archive-full": "Aγbar iččuṛ",
-	"archivebot-archive-summary": "Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} sγuṛ [[%(from)s]]",
-	"archivebot-older-than": "D-aqbuṛ γef %(duration)s",
-	"archivebot-page-summary": "Aṛubut:Aγbar n % (count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) γer %(archives)s"
+	"archivebot-archive-full": "(Aɣbar iččur)",
+	"archivebot-archive-summary": "Aṛubut:Aɣbar n % (count)d {{PLURAL:%(count)d|thread|threads}} sγuṛ [[%(from)s]]",
+	"archivebot-older-than": "D-aqbuṛ ɣef %(duration)s",
+	"archivebot-page-summary": "Aṛubut:Aɣbar n % (count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) γer %(archives)s"
 }

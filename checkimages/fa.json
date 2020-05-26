@@ -10,6 +10,7 @@
 	},
 	"checkimages-deletion-comment": "ربات: اضافه کردن %(adding)s",
 	"checkimages-doubles-file-comment": "ربات: برچسب زدن بر تصویر تکراری",
+	"checkimages-doubles-head": "پرونده تکراری",
 	"checkimages-doubles-talk-comment": "ربات: تصویر تکراری یافت شد",
 	"checkimages-log-comment": "ربات: روزآمدسازی سیاهه",
 	"checkimages-no-license-head": "تصویر بدون اجازہ",

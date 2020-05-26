@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"K Messaoudi"
+		]
 	},
-	"add_text-adding": "a rubut ti merniwt %(adding)s"
+	"add_text-adding": "Aṛubut: Timerniwt %(adding)s"
 }

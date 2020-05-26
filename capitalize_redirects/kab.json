@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amazigh84"
+			"Amazigh84",
+			"K Messaoudi"
 		]
 	},
-	"capitalize_redirects-create-redirect": "Aṛubut: Snulfud abeddel n webrid γer [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "Aṛubut: Snulfu-d abeddel n ubrid ɣer [[%(to)s]]"
 }

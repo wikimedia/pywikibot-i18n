@@ -18,6 +18,8 @@
 	"category-replacing": "ربات: جایگزینی ردهٔ %(oldcat)s با %(newcat)s",
 	"category-section-title": "تاریخچهٔ قبلی %(oldcat)s",
 	"category-strip-cfd-templates": "ربات:حذف برچسب پیشنهاد حذف رده برای اتمام کار",
+	"category-strip-sort-keys": "ربات: حذف کلیدهای مرتب‌سازی برای عملیات انجام‌شده",
+	"category-strip-both": "ربات: حذف الگوهای نامزد برای حذف و کلیدهای مرتب‌سازی برای عملیات انجام‌شده",
 	"category-version-history": "ربات: ذخیره‌سازی تاریخچهٔ قبلی %(oldcat)s",
 	"category-was-disbanded": "ربات: رده خالی شد",
 	"category-was-moved": "ربات: رده به [[:رده:%(newcat)s|%(title)s]] منتقل شد"

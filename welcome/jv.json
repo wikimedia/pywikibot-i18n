@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Diki Ananta",
 			"NoiX180"
 		]
 	},
-	"welcome-bad_username": "Bot: Nambah jeneng panganggo sing kudu ditliti",
+	"welcome-bad_username": "Bot: Nambah jeneng naraguna sing kudu ditliti",
 	"welcome-updating": "Bot: Nganyari log",
 	"welcome-welcome": "Sugeng rawuh!"
 }

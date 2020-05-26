@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Diki Ananta",
 			"NoiX180"
 		]
 	},
-	"table2wiki-no-warning": "Boté panganggo: sintaks tabèl dianyari",
-	"table2wiki-warnings": "Boté panganggo: sintaks tabèl dianyari - {{PLURAL:count|1 pèngetan|%(count)d pèngetan}}!"
+	"table2wiki-no-warning": "Boté naraguna: sintaks tabèl dianyari",
+	"table2wiki-warnings": "Boté naraguna: sintaks tabèl dianyari - {{PLURAL:count|1 pèngetan|%(count)d pèngetan}}!"
 }

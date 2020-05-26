@@ -18,5 +18,6 @@
 	"pywikibot-enter-xml-filename": "لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:",
 	"pywikibot-fixes-fckeditor": "ربات: تصحیح اچ‌تی‌ام‌ال ویرایشگر پیشرفته",
 	"pywikibot-fixes-html": "ربات:تبدیل/تصحیح کدهای اچ‌تی‌ام‌ال",
-	"pywikibot-fixes-syntax": "ربات: اصلاح نحو ویکی"
+	"pywikibot-fixes-syntax": "ربات: اصلاح نحو ویکی",
+	"pywikibot-touch": "ویرایش سوری پای‌ویکی‌بات"
 }

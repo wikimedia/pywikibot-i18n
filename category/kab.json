@@ -3,13 +3,14 @@
 		"authors": [
 			"Amazigh84",
 			"Belkacem77",
+			"K Messaoudi",
 			"Xqt"
 		]
 	},
-	"category-adding": "a rubut ti merniwt: category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Aṛubut: Timerniwt n taggayt [[: Taggayt:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ula deg %(alsocat)s)",
-	"category-listifying": "Aṛubut: Acraw sγuṛ %(fromcat)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
-	"category-removing": "Arubut: Tukksa seg %(oldcat)s",
+	"category-listifying": "Aṛubut: Acraw sɣur %(fromcat)s ({{Asget:%(num)d|1 anekcum|%(num)d inekcam}})",
+	"category-removing": "Aṛubut: Tukksa seg %(oldcat)s",
 	"category-renamed": "Aṛubut: yettwakkes si %(oldcat)s. Imeskaren: %(authors)s",
 	"category-replacing": "Aṛubut: Asemselsi n taggayt %(oldcat)s s %(newcat)s",
 	"category-section-title": "Amazray n usebter n uqbuṛ %(oldcat)s",

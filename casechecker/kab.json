@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Belkacem77"
+			"Belkacem77",
+			"K Messaoudi"
 		]
 	},
-	"casechecker-delete-reason": "Awelleh-agi yemmal-d %(target)s",
-	"casechecker-delete-summary": "Arubut: Awelle-agi yegber isekkilen i ttemcabin s tsirilikt d talatinit deg uzwel-is.",
-	"casechecker-rename": "Arubut: asnifel n yisem s tṛuzi n usekkil ixelḍen",
+	"casechecker-delete-reason": "Awelleh-a yemmal-d %(target)s",
+	"casechecker-delete-summary": "Aṛubut: Awelle-a yegber isekkilen i ttemcabin s tsirilikt d tlatinit deg uzwel-is.",
+	"casechecker-rename": "Aṛubut: asnifel n yisem s truẓi n usekkil ixelḍen",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Arubut: Asemselsi n tṛuzi n usekkil"
+	"casechecker-replacement-summary": "Aṛubut: Asemselsi n truẓi n usekkil"
 }
