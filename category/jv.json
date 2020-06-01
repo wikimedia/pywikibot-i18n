@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Diki Ananta",
 			"NoiX180"
 		]
 	},
@@ -9,8 +10,8 @@
 	"category-listifying": "Bot: Ndaptari saka %(fromcat)s ({{PLURAL:%(num)d|1 isi|%(num)d isi}})",
 	"category-removing": "Bot: Nyingkiraké saka %(oldcat)s",
 	"category-replacing": "Bot: Ngganti katégori %(oldcat)s karo %(newcat)s",
-	"category-section-title": "Riwaya kaca saka kaca bekas %(oldcat)s",
-	"category-version-history": "Bot: Nyimpen riwayat vèrsi saka kaca bekas %(oldcat)s",
+	"category-section-title": "Sajarah kaca saka kaca tilas %(oldcat)s",
+	"category-version-history": "Bot: Nyimpen sajarah vèrsi saka kaca tilas %(oldcat)s",
 	"category-was-disbanded": "Bot: Katégori dibubaraké",
 	"category-was-moved": "Bot: Kategori dilih nyang [[:Kategori:%(newcat)s|%(title)s]]"
 }
