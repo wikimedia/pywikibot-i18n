@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kaleem Bhatti",
 			"Tweety"
 		]
 	},
+	"archivebot-archive-full": "آرڪائيو مڪمل",
 	"archivebot-older-than": "%(duration)s کان پراڻا"
 }
