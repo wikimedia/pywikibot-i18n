@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"Patriot Kur",
 			"Гусейн"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "Ым нышонон дәгиш бејдән %(tags)s",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Мызокирә дәгиш быә",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Мызокирә бастә быә",
-	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "РОБОТИ ХӘБӘ",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Нуә Мызокирә",
-	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Хәбәдо",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Mızokirə dəqiş bıə",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Mızokirə bastə bıə",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOTİ NOMƏ",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Tojə Mızokirə",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Votevon",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s охонә дәгиш] (%(page_size)s бајт) иштирокәкә %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s һәммәј мызокирон орохәјн (тәмшо орохәј) - иштирокәкәси охонә дәгиш %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nСәкыштә сохтә быә: %(sign)s</noinclude>",
@@ -19,6 +20,6 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Роботи чәшнави кардеј: %(page)s \"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Мызокирә сәкыштә зијод кардә быә: %(num)i нывыштәјон",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Сәкыштә зијод кардә быә ијән сәрост кардә быә мызокирә: %(num)i нывыштәјон",
-	"thirdparty-drtrigonbot-sum_disc-summary-head": "робот",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Мызокирә сәкыштә нуә кардә быә: %(num)i нывыштәјон бә %(page)s"
 }

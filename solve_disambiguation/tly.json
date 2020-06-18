@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Patriot Kur",
 			"Гусейн"
 		]
 	},
@@ -10,5 +11,5 @@
 	"solve_disambiguation-redirect-adding-dn-template": "Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Нышон ноә быә бәнә әһлихыбирә дығғәти тәләб кардејдә",
 	"solve_disambiguation-redirect-removed": "Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Тәмиз карде ситот(он)",
 	"solve_disambiguation-redirect-resolved": "Де робот-дастәгәти мәнон һәл кардеј: %(from)s - Changed link(s) to %(to)s",
-	"solve_disambiguation-unknown-page": "(номәлум)"
+	"solve_disambiguation-unknown-page": "(noməlum)"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Patriot Kur",
 			"Гусейн"
 		]
 	},
-	"add_text-adding": "Робот: Зијод кардә бе %(adding)s"
+	"add_text-adding": "Bot: Ziyod kardə bə %(adding)s"
 }

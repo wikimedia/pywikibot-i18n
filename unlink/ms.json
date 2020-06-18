@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Tofeiku"
 		]
 	},
-	"unlink-unlinking": "Robot: Membuang pautan \"%(title)s\""
+	"unlink-unlinking": "Bot: Menyahpaut \"%(title)s\""
 }
