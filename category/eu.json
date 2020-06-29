@@ -19,5 +19,5 @@
 	"category-strip-cfd-templates": "Bot: CFD ekintza burutzeko txantiloiak ezabatzen",
 	"category-version-history": "Errobota: Antzinako %(oldcat)s bertsio historiala gordetzen",
 	"category-was-disbanded": "Bot: Kategoria ezabatu da",
-	"category-was-moved": "Robota: Kategoria [[:Category:%(newcat)s|%(title)s]]-ra mugitu da"
+	"category-was-moved": "Robota: Kategoria «[[:Category:%(newcat)s|%(title)s]]» kategoriara aldatu da"
 }

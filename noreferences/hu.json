@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"BaRaN6161 TURK",
 			"Dj",
 			"Tacsipacsi"
 		]
 	},
-	"noreferences-add-tag": "Bot: hiányzó {{Források}} pótlása",
+	"noreferences-add-tag": "Bot: hiányzó <references /> pótlása",
 	"noreferences-fix-tag": "Bot: A <references /> hibás szintaxtisának javítása"
 }
