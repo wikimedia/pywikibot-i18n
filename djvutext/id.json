@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Farras",
+			"Hidayatsrf",
 			"Rachmat.Wahidi",
 			"Rachmat04"
 		]
 	},
-	"djvutext-creating": "Bot: Membuat halaman dengan teks yang diambil dari DjVu"
+	"djvutext-creating": "Bot: Membuat halaman dengan teks yang diekstrak dari DjVu"
 }

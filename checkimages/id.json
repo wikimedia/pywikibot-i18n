@@ -3,6 +3,7 @@
 		"authors": [
 			"ArlandGa",
 			"Beeyan",
+			"Hidayatsrf",
 			"Rachmat.Wahidi",
 			"Rachmat04"
 		]
@@ -15,6 +16,6 @@
 	"checkimages-no-license-head": "Gambar tanpa lisensi",
 	"checkimages-source-tag-comment": "Bot: Tandai berkas tanpa tag yang baru diunggah",
 	"checkimages-source-notice-comment": "Bot: Meminta informasi sumber.",
-	"checkimages-unknown-extension-head": "Ekstensi yang tak dikenal!",
+	"checkimages-unknown-extension-head": "Ekstensi tak dikenal!",
 	"checkimages-unknown-extension-msg": "Berkas %(file)s sepertinya memiliki ekstensi yang salah, mohon periksa."
 }
