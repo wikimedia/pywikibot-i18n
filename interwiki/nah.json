@@ -1,13 +1,15 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Akapochtli"
+		]
 	},
 	"interwiki-adding": "TepozcuayollotlTlamahxiltilli: %(adding)s",
 	"interwiki-adding-modifying": "TepozcuayollotlTlamahxiltilli: %(adding)s Tlapatlalli: %(modifying)s",
 	"interwiki-adding-removing": "TepozcuayollotlTlamahxiltilli: %(adding)s Tlaquixtilli: %(removing)s",
 	"interwiki-adding-removing-modifying": "TepozcuayollotlTlamahxiltilli: %(adding)s Tlaquixtilli: %(removing)s Tlapatlalli: %(modifying)s",
 	"interwiki-modifying": "TepozcuayollotlTlapatlalli: %(modifying)s",
-	"interwiki-modifying-from": "Tepozcuāyōllōtl: ōmopatlac %(from)s īhuicpa %(modifying)s",
+	"interwiki-modifying-from": "Tepozcuayollotl: omopatlac %(from)s ihuicpa %(modifying)s",
 	"interwiki-removing": "TepozcuayollotlTlaquixtilli: %(removing)s",
 	"interwiki-removing-modifying": "TepozcuayollotlTlaquixtilli: %(removing)s Tlapatlalli: %(modifying)s"
 }

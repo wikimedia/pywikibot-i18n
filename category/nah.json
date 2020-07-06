@@ -9,7 +9,7 @@
 	},
 	"category-also-in": "(noiuhqui ipan %(alsocat)s)",
 	"category-removing": "bot: Tlatlaixpohpolhulli ipan %(oldcat)s",
-	"category-replacing": "Tepozcuāyōllōtl: ōmopatlac %(oldcat)s īhuicpa %(newcat)s",
+	"category-replacing": "Tepozcuayollotl: omopatlac %(oldcat)s ihuicpa %(newcat)s",
 	"category-was-disbanded": "Bot: Ye oquipohpoloh in neneuhcayotl",
 	"category-was-moved": "Bot: In neneuhcayotl omihcuan ipan [[:Category:%(newcat)s|%(title)s]]"
 }
