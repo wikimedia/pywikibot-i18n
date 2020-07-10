@@ -11,5 +11,11 @@
 	"category_redirect-edit-request": "Các trang đã khóa sau cần phải cập nhật liên kết thể loại: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s đang thuộc %(oldcat)s, là thể loại đổi hướng đến %(newcat)s",
 	"category_redirect-fix-double": "Bot: Sửa thể loại đổi hướng kép",
-	"category_redirect-log-failed": "** Không thành công: %(error)s"
+	"category_redirect-log-added": "* Đã xếp [[%(ns)s%(template)s]] vào %(oldcat)s",
+	"category_redirect-log-add-failed": "* Thất bại khi xếp [[%(ns)s%(template)s]] vào %(oldcat)s",
+	"category_redirect-log-double": "* Đã sửa đổi hướng kép: %(oldcat)s → %(newcat)s → %(targetcat)s",
+	"category_redirect-log-failed": "** Không thành công: %(error)s",
+	"category_redirect-log-ignoring": "* Đã bỏ qua %(oldcat)s",
+	"category_redirect-log-loop": "* Vòng đổi hướng từ %(oldcat)s",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Nhật trình cũ hơn]'''"
 }

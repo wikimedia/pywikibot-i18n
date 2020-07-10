@@ -13,5 +13,6 @@
 	"pywikibot-enter-xml-filename": "Xin vui lòng nhập tên tập tin của bản sao lưu XML:",
 	"pywikibot-fixes-fckeditor": "Bot: Sửa mã HTML của trình soạn thảo có định dạng",
 	"pywikibot-fixes-html": "Bot: Chuyển đổi/sửa HTML",
-	"pywikibot-fixes-syntax": "Bot: Sửa cú pháp wiki"
+	"pywikibot-fixes-syntax": "Bot: Sửa cú pháp wiki",
+	"pywikibot-touch": "Pywikibot sửa đổi chạm"
 }
