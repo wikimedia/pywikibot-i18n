@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Srdjan m"
+			"Srdjan m",
+			"Srđan"
 		]
 	},
 	"piper-edit-summary": "Robot: Prerađivanje teksta članka kroz %(filters)s"

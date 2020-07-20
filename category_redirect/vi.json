@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ioe2015",
-			"Minh Nguyen"
+			"Minh Nguyen",
+			"Nguyễn Mạnh An"
 		]
 	},
 	"category_redirect-add-template": "Bot: Thêm bản mẫu đổi hướng thể loại để dễ bảo trì",
@@ -13,7 +14,7 @@
 	"category_redirect-fix-double": "Bot: Sửa thể loại đổi hướng kép",
 	"category_redirect-log-added": "* Đã xếp [[%(ns)s%(template)s]] vào %(oldcat)s",
 	"category_redirect-log-add-failed": "* Thất bại khi xếp [[%(ns)s%(template)s]] vào %(oldcat)s",
-	"category_redirect-log-double": "* Đã sửa đổi hướng kép: %(oldcat)s → %(newcat)s → %(targetcat)s",
+	"category_redirect-log-double": "%(oldcat)s* Đã sửa đổi hướng kép: %(oldcat)s → %(newcat)s → %(targetcat)s",
 	"category_redirect-log-failed": "** Không thành công: %(error)s",
 	"category_redirect-log-ignoring": "* Đã bỏ qua %(oldcat)s",
 	"category_redirect-log-loop": "* Vòng đổi hướng từ %(oldcat)s",

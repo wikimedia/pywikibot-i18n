@@ -3,7 +3,8 @@
 		"authors": [
 			"CERminator",
 			"Edinwiki",
-			"Srdjan m"
+			"Srdjan m",
+			"Srđan"
 		]
 	},
 	"category-adding": "Bot: dodaje kategoriju [[:Category:%(newcat)s|%(newcat)s]]",
