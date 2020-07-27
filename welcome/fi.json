@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"01miki10",
 			"Crt",
 			"Olli"
 		]
 	},
-	"welcome-bad_username": "Botti: Lisätään käyttäjätunnus, joka pitää tarkistaa",
+	"welcome-bad_username": "Botti: Lisätään käyttäjänimi, joka pitää tarkistaa",
 	"welcome-updating": "Botti päivitti lokia",
 	"welcome-welcome": "Tervetuloa!"
 }

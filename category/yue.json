@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Moon0319",
 			"Xqt"
 		]
 	},
-	"category-adding": "機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-was-disbanded": "機械人:類經已冇咗。",
+	"category-was-moved": "機械人:類經已畀人搬咗去[[:Category:%(newcat)s|%(title)s]]"
 }
