@@ -4,12 +4,13 @@
 			"BaRaN6161 TURK",
 			"By erdo can",
 			"Emperyan",
+			"Evrifaessa",
 			"Khutuck",
 			"Xqt"
 		]
 	},
-	"archivebot-archive-full": "(TÜM ARŞİV)",
-	"archivebot-archive-summary": "Bot: Arşivliyor: [[%(from)s]] sayfasından %(count)d başlık",
+	"archivebot-archive-full": "(ARŞİV DOLU)",
+	"archivebot-archive-summary": "Bot: [[%(from)s]] sayfasından %(count)d başlık arşivleniyor",
 	"archivebot-archiveheader": "{{Arşiv alt}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|eskisinden}} %(duration)s",
 	"archivebot-page-summary": "Robot: Arşivliyor: %(count)d başlık (%(why)s) buraya: %(archives)s."

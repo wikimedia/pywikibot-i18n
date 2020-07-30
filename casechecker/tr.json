@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"Evrifaessa"
 		]
 	},
 	"casechecker-delete-reason": "Bu yönlendirme %(target)s işaretine kullanılır",
 	"casechecker-delete-summary": "Bot: Bu yönlendirme, başlığında aynı görünümlü Kiril ve Latin harfleri içeriyor",
-	"casechecker-rename": "Bot: karışık dava yeniden adlandır",
+	"casechecker-rename": "Bot: karışık yeniden adlandırma davası",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
 	"casechecker-replacement-summary": "Bot: Kasa Değişimleri:"
 }
