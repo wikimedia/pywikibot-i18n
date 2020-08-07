@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"checkimages-deletion-comment": "Bot: Afegint %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: el fitxer que ja és a Commons, es pot suprimir",
+	"checkimages-doubles-head": "Arxiu duplicat",
+	"checkimages-doubles-talk-comment": "Bot: Notifica que l'arxiu ja existeix a Commons",
+	"checkimages-log-comment": "Bot: Actualitzant el registre",
+	"checkimages-no-license-head": "Imatge sense llicència",
+	"checkimages-source-tag-comment": "Bot: Marcant un arxiu recentment carregat sense etiquetes",
+	"checkimages-source-notice-comment": "Bot: se sol·licita informació de la font.",
+	"checkimages-unknown-extension-head": "Extensió desconeguda!",
+	"checkimages-unknown-extension-msg": "L'arxiu %(file)s sembla tenir una extensió incorrecta, comprova-ho."
+}
