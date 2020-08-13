@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Anskar",
-			"Grondin"
+			"Grondin",
+			"Mguix"
 		]
 	},
-	"add_text-adding": "Robot: afegint %(adding)s"
+	"add_text-adding": "Bot: afegint %(adding)s"
 }

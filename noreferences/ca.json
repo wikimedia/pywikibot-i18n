@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Grondin",
+			"Mguix",
 			"SMP"
 		]
 	},
-	"noreferences-add-tag": "Robot: afegint l'etiqueta <references /> que mancava"
+	"noreferences-add-tag": "Bot: afegint l'etiqueta <references /> que mancava",
+	"noreferences-fix-tag": "Bot: Corregiu la sintaxi no vàlida de l'etiqueta <references />"
 }

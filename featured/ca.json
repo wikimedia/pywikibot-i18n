@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Grondin",
+			"Mguix",
 			"SMP"
 		]
 	},
-	"featured-featured": "Bot: enllaç a article destacat per: %(page)s",
-	"featured-former": "Robot: %(page)s és un antic article de qualitat",
-	"featured-good": "Robot: %(page)s és un article bo",
-	"featured-list": "Robot: %(page)s és una llista de qualitat"
+	"featured-featured": "Bot: Enllaç a article destacat per: %(page)s",
+	"featured-former": "Bot: %(page)s és un antic article de qualitat",
+	"featured-good": "Bot: %(page)s és un article bo",
+	"featured-list": "Bot: %(page)s és una llista de qualitat"
 }

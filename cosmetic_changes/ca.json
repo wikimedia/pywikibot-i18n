@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
-			"Grondin"
+			"Grondin",
+			"Mguix"
 		]
 	},
 	"cosmetic_changes-append": "; canvis superficials",
-	"cosmetic_changes-standalone": "Robot: canvis superficials"
+	"cosmetic_changes-standalone": "Bot: canvis superficials"
 }

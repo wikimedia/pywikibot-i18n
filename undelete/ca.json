@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"undelete-from-file": "Bot: Anul·lació de l'eliminació d'una llista de pàgines",
+	"undelete-images": "Bot: Anul·lació de l'eliminació de totes les imatges de la pàgina  %(page)s",
+	"undelete-linked-pages": "Bot: Anul·lació de l'eliminació de totes les pàgines enllaçades des de %(page)s"
+}

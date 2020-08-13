@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"K Messaoudi"
+		]
+	},
+	"checkimages-deletion-comment": "Aṛubut: Timeriwt n %(adding)s",
+	"checkimages-doubles-file-comment": "Aṛubut: Afaylu ha-t-an yakan deg Commons, izmer ad ittwakkes",
+	"checkimages-doubles-head": "Afaylu uslig",
+	"checkimages-doubles-talk-comment": "Aṛubut: Lɣu dakken afaylu yella yakan deg Commons",
+	"checkimages-log-comment": "Aṛubut: Aleqqem n uɣmis",
+	"checkimages-no-license-head": "Tugna war turagt",
+	"checkimages-source-notice-comment": "Aṛubut: Tuttra n tulɣut ɣef uɣbalu",
+	"checkimages-unknown-extension-head": "Asiɣzef arussin!",
+	"checkimages-unknown-extension-msg": "Afaylu %(file)s yettban-d yesɛa asiɣzef ur nlaq ara, ttxil senqed."
+}

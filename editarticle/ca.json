@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mguix",
 			"SMP"
 		]
 	},
-	"editarticle-edit": "Edició manual amb robot: %(description)s"
+	"editarticle-edit": "Edició manual amb bot: %(description)s"
 }

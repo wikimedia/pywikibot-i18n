@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"remove_edp_images-edit-summary": "Bot: Es corregeix l'ús d'imatge d'acord amb EDP: [[%(title)s]]"
+}

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"Mguix"
 		]
 	},
-	"replace-replacing": "Robot: reemplaçament automàtic de text %(description)s"
+	"replace-replacing": "Bot: Reemplaçament automàtic de text %(description)s"
 }

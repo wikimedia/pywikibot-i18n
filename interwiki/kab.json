@@ -1,12 +1,15 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"K Messaoudi"
+		]
 	},
 	"interwiki-adding": "a rubut ti merniwt: %(adding)s",
 	"interwiki-adding-modifying": "a rubut ti merniwt: %(adding)s a senfel: %(modifying)s",
 	"interwiki-adding-removing": "a rubut ti merniwt: %(adding)s a ḍegger: %(removing)s",
 	"interwiki-adding-removing-modifying": "a rubut ti merniwt: %(adding)s a ḍegger: %(removing)s a senfel: %(modifying)s",
 	"interwiki-modifying": "a rubut a senfel: %(modifying)s",
+	"interwiki-modifying-from": "Aṛubut: Abeddel n %(from)s ɣer %(modifying)s",
 	"interwiki-removing": "a rubut a ḍegger: %(removing)s",
 	"interwiki-removing-modifying": "a rubut a ḍegger: %(removing)s a senfel: %(modifying)s"
 }

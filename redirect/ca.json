@@ -3,6 +3,7 @@
 		"authors": [
 			"BroOk",
 			"Grondin",
+			"Mguix",
 			"SMP",
 			"Vriullop"
 		]
@@ -12,5 +13,5 @@
 	"redirect-fix-double": "Bot: reparació de les redireccions dobles a %(to)s",
 	"redirect-fix-loop": "Bot: arreglant redirecció en bucle per %(to)s",
 	"redirect-remove-broken": "Bot: la pàgina a la qual redirecciona no existeix",
-	"redirect-remove-loop": "Robot: el destí de la redirecció crea un bucle de redirecció"
+	"redirect-remove-loop": "Bot: el destí de la redirecció crea un bucle de redirecció"
 }

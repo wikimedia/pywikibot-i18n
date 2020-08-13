@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"image-remove": "Bot: suprimint la imatge %(file)s",
+	"image-replace": "Bot: Reemplaçar la imatge %(old)s per %(new)s"
+}

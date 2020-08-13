@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Belkacem77"
+			"Belkacem77",
+			"K Messaoudi"
 		]
 	},
+	"weblinkchecker-badurl": "Aseɣwen i d-yettunefken ur d-ittban ara d URL ameɣtu",
 	"weblinkchecker-caption": "Aseɣwen yemmut",
 	"weblinkchecker-summary": "Arubut: Yemmal-d aseɣwen azɣray ur yettwakcamen ara"
 }

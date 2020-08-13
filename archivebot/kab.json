@@ -8,6 +8,6 @@
 	},
 	"archivebot-archive-full": "(Aɣbar iččur)",
 	"archivebot-archive-summary": "Aṛubut:Aɣbar n % (count)d {{PLURAL:%(count)d|thread|threads}} sγuṛ [[%(from)s]]",
-	"archivebot-older-than": "D-aqbuṛ ɣef %(duration)s",
+	"archivebot-older-than": "D-aqbur ɣef %(duration)s",
 	"archivebot-page-summary": "Aṛubut:Aɣbar n % (count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) γer %(archives)s"
 }

@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Belkacem77"
+			"Belkacem77",
+			"K Messaoudi"
 		]
 	},
+	"welcome-bad_username": "Aṛubut: Timerniwt n yisem n useqdac i yesran asenqed",
+	"welcome-updating": "Aṛubut: Aleqqem n uɣmis",
 	"welcome-welcome": "Anṣuf!"
 }

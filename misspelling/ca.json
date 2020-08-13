@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mguix",
 			"SMP"
 		]
 	},
-	"misspelling-fixing": "Robot: Corregint un enllaç mal escrit cap a %(page)s"
+	"misspelling-fixing": "Bot: Corregint un enllaç mal escrit cap a %(page)s"
 }

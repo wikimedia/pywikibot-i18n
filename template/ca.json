@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Grondin",
+			"Mguix",
 			"SMP"
 		]
 	},
-	"template-changing": "Robot: canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s",
-	"template-removing": "Robot: retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s",
-	"template-substituting": "Robot: substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s"
+	"template-changing": "Bot: canviant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s",
+	"template-removing": "Bot: retirant {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s",
+	"template-substituting": "Bot: substituint {{PLURAL:%(num)d|plantilla|plantilles}}: %(list)s"
 }

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"unprotect-category": "Bot: Supressió de la protecció de totes les pàgines de la categoria %(cat)s",
+	"unprotect-images": "Bot: Supressió de la protecció de tots els fitxers de la pàgina %(page)s",
+	"unprotect-links": "Bot: Supressió de la protecció de totes les pàgines que s'enllacen des de %(page)s",
+	"unprotect-ref": "Bot: Supressió de la protecció de totes les pàgines que enllacen cap a %(page)s",
+	"unprotect-simple": "Bot: Supressió de la protecció de una llista de fitxers"
+}

@@ -5,12 +5,12 @@
 			"SMP"
 		]
 	},
-	"category_redirect-add-template": "Robot: afegint plantilla de redirecció de categories per manteniment",
-	"category_redirect-change-category": "Robot: canvi de categoria redirigida: [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Bot: afegint plantilla de redirecció de categories per manteniment",
+	"category_redirect-change-category": "Bot: canvi de categoria redirigida: [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Bot de manteniment de categories redirigides",
 	"category_redirect-edit-request": "S'ha detectat que les següents pàgines protegides necessiten actualitzar les categories: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s està a %(oldcat)s, que és una redirecció a %(newcat)s",
-	"category_redirect-fix-double": "Bot: arreglant redirecció doble",
+	"category_redirect-fix-double": "Bot: Arreglant redirecció doble",
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] afegides(s) a %(oldcat)s",
 	"category_redirect-log-add-failed": "* Ha fallat en afegir-se [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-double": "* S'ha corregit una doble redirecció: %(oldcat)s -> %(newcat)s -> %(targetcat)s",

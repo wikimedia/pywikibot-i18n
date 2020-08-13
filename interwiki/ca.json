@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Grondin"
+			"Grondin",
+			"Mguix"
 		]
 	},
-	"interwiki-adding": "Robot afegeix: %(adding)s",
-	"interwiki-adding-modifying": "Robot afegeix: %(adding)s modifica: %(modifying)s",
-	"interwiki-adding-removing": "Robot afegeix: %(adding)s esborra: %(removing)s",
-	"interwiki-adding-removing-modifying": "Robot afegeix: %(adding)s esborra: %(removing)s modifica: %(modifying)s",
-	"interwiki-modifying": "Robot modifica: %(modifying)s",
-	"interwiki-modifying-from": "Robot: canviant %(from)s a %(modifying)s",
-	"interwiki-removing": "Robot esborra: %(removing)s",
-	"interwiki-removing-modifying": "Robot esborra: %(removing)s modifica: %(modifying)s"
+	"interwiki-adding": "Bot: Afegint %(adding)s",
+	"interwiki-adding-modifying": "Bot: Afegint %(adding)s; modificant %(modifying)s",
+	"interwiki-adding-removing": "Bot: Afegint %(adding)s; Esborrant %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Afegint %(adding)s; Esborrant %(removing)s; Modificant %(modifying)s",
+	"interwiki-modifying": "Bot: Modificant %(modifying)s",
+	"interwiki-modifying-from": "Bot: Canviant %(from)s a %(modifying)s",
+	"interwiki-removing": "Bot: Esborrant %(removing)s",
+	"interwiki-removing-modifying": "Bot: Esborrant %(removing)s; modificant %(modifying)s"
 }

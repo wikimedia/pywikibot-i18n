@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"K Messaoudi"
+		]
+	},
+	"delete-from-category": "Aṛubut: Tukksa n yisebtar akk seg taggayt %(page)s",
+	"delete-from-file": "Aṛubut: Tukksa n tebdart n yisebtar.",
+	"delete-images": "Aṛubut: Tukksa n tugniwin akk seg usebter %(page)s",
+	"delete-linked-pages": "Aṛubut: Tukksa n yisebtar akk i icudden seg %(page)s"
+}

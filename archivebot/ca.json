@@ -10,8 +10,8 @@
 		]
 	},
 	"archivebot-archive-full": "(ARXIU PLE)",
-	"archivebot-archive-summary": "Robot: {{PLURAL:%(count)d|S'està arxivant %(count)d fil|S'estan arxivant %(count)d fils}} procedents de [[%(from)s]]",
+	"archivebot-archive-summary": "Bot: {{PLURAL:%(count)d|S'està arxivant %(count)d fil|S'estan arxivant %(count)d fils}} procedents de [[%(from)s]]",
 	"archivebot-archiveheader": "{{Discussió arxivada}}",
 	"archivebot-older-than": "més antic{{PLURAL:%(count)d||s}} que %(duration)s",
-	"archivebot-page-summary": "Robot: {{PLURAL:%(count)d|S'està arxivant %(count)d fil|S'estan arxivant %(count)d fils}} (%(why)s) a %(archives)s"
+	"archivebot-page-summary": "Bot: {{PLURAL:%(count)d|S'està arxivant %(count)d fil|S'estan arxivant %(count)d fils}} (%(why)s) a %(archives)s"
 }

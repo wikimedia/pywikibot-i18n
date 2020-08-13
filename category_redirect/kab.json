@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"K Messaoudi"
+		]
+	},
+	"category_redirect-add-template": "Aṛubut: Timerniwt n tneɣruft n uwehhi n taggayt i useggem",
+	"category_redirect-change-category": "Aṛubut: Abeddel n uwehhi seg [[:%(oldCatLink)s|%(oldCatTitle)s]] ɣer [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Aṛubut n useggem n uwehhi n taggayin",
+	"category_redirect-edit-request-item": "*%(title)s ha-t-an deg %(oldcat)s i yellan d awehhi ɣer %(newcat)s",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] yettwarna ɣer %(oldcat)s",
+	"category_redirect-log-add-failed": "* Timerniwt n [[%(ns)s%(template)s]] ɣer %(oldcat)s ur teddi ara",
+	"category_redirect-log-failed": "** Yecceḍ: %(error)s",
+	"category_redirect-log-ignoring": "Anef i %(oldcat)s",
+	"category_redirect-log-move-error": "* %(oldcat)s: tuccḍa deg move_contents",
+	"category_redirect-log-new": "Awehhi amaynut seg uneqqis aneggaru:",
+	"category_redirect-log-not-loaded": "* D awezɣi usali n %(oldcat)s; anef-as",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Iɣmisen iqburen]'''",
+	"category_redirect-problem-redirects": "# %(oldcat)s iwehha ɣer %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s d awehhi ɣer yiman-is"
+}

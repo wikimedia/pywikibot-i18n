@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"K Messaoudi"
+		]
+	},
+	"image-remove": "Aṛubut: Tukksa n tugna %(file)s",
+	"image-replace": "Aṛubut: Abeddel n tugna %(old)s s %(new)s"
+}

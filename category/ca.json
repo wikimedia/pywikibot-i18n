@@ -8,17 +8,17 @@
 			"XVEC"
 		]
 	},
-	"category-adding": "Robot: Afegint la categoria [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Bot: Afegint la categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(també a %(alsocat)s)",
-	"category-listifying": "Robot: llistant de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entrades}})",
-	"category-removing": "Robot: Eliminant de %(oldcat)s",
-	"category-renamed": "Robot:  Mogut des de %(oldcat)s. Autors : %(authors)s",
-	"category-replacing": "Robot: Substitució de la categoria %(oldcat)s per %(newcat)s",
+	"category-listifying": "Bot: llistant de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entrades}})",
+	"category-removing": "Bot: Eliminant de %(oldcat)s",
+	"category-renamed": "Bot:  Mogut des de %(oldcat)s. Autors : %(authors)s",
+	"category-replacing": "Bot: Substitució de la categoria %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historial de la pàgina de %(oldcat)s previs",
-	"category-strip-cfd-templates": "Bot: eliminant plantilles de CFD per finalització de la discussió",
+	"category-strip-cfd-templates": "Bot: Eliminant plantilles de CFD per finalització de la discussió",
 	"category-strip-sort-keys": "Bot: Eliminant clau d'ordenament per a acció finalitzada",
 	"category-strip-both": "Bot: Eliminant plantilles de CFD i claus d'ordenament per acció completada",
-	"category-version-history": "Robot: guardant l'historial de versions dels %(oldcat)s previs",
-	"category-was-disbanded": "Robot: La categoria s'ha eliminat",
-	"category-was-moved": "Robot: La categoria s'ha mogut a [[:Category:%(newcat)s|%(title)s]]"
+	"category-version-history": "Bot: Guardant l'historial de versions dels %(oldcat)s previs",
+	"category-was-disbanded": "Bot: La categoria s'ha eliminat",
+	"category-was-moved": "Bot: La categoria s'ha mogut a [[:Category:%(newcat)s|%(title)s]]"
 }

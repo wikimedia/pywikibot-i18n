@@ -3,6 +3,7 @@
 		"authors": [
 			"Anskar",
 			"Fitoschido",
+			"Mguix",
 			"Pitort"
 		]
 	},
@@ -10,5 +11,5 @@
 	"weblinkchecker-badurl": "L'enllaç proporcionat no sembla ser un URL vàlid",
 	"weblinkchecker-caption": "Enllaç trencat",
 	"weblinkchecker-report": "Durant diverses execucions automàtiques, el bot ha comprovat que el següent enllaç extern no està disponible. Comproveu que l'enllaç estigui realment trencat i corregiu-lo o retireu-lo.!",
-	"weblinkchecker-summary": "Robot: Informant d'un enllaç extern inaccessible"
+	"weblinkchecker-summary": "Bot: Informant d'un enllaç extern inaccessible"
 }

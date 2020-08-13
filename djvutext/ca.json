@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Grondin",
-			"KRLS"
+			"KRLS",
+			"Mguix"
 		]
 	},
-	"djvutext-creating": "Robot: creació de pàgina amb text extret de DjVu"
+	"djvutext-creating": "Bot: creació de pàgina amb text extret de DjVu"
 }

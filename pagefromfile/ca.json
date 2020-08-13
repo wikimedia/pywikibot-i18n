@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
-			"Hiperpobla"
+			"Hiperpobla",
+			"Mguix"
 		]
 	},
-	"pagefromfile-msg": "Robot: importació automatitzada d’articles",
+	"pagefromfile-msg": "Bot: importació automatitzada d’articles",
 	"pagefromfile-msg_bottom": "Afegir a la part inferior",
 	"pagefromfile-msg_force": "Sobre-escriu el text existent",
 	"pagefromfile-msg_top": "Afegir a la part superior"

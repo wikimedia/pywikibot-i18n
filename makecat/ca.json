@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alvaro Vidal-Abarca"
+			"Alvaro Vidal-Abarca",
+			"Mguix"
 		]
 	},
-	"makecat-create": "Robot: creació o actualització de la categoria [[:Category:%(cat)s|]]"
+	"makecat-create": "Bot: creació o actualització de la categoria [[:Category:%(cat)s|]]"
 }

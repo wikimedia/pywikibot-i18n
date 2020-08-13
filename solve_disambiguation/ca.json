@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"McDutchie",
+			"Mguix",
 			"SMP"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "Desambiguació assistida per robot: %(from)s - Necessita la revisió d'un expert",
+	"solve_disambiguation-adding-dn-template": "Desambiguació assistida per bot: %(from)s - Necessita la revisió d'un expert",
 	"solve_disambiguation-links-removed": "Desambiguació assistida: %(from)s - Eliminant enllaç(os).",
 	"solve_disambiguation-links-resolved": "Bot:Desambiguació assistida: %(from)s - Canviant enllaç(os) per %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Desambiguació assistida per robot: %(from)s - Necessita la revisió d'un expert",
+	"solve_disambiguation-redirect-adding-dn-template": "Desambiguació assistida per bot: %(from)s - Necessita la revisió d'un expert",
 	"solve_disambiguation-redirect-removed": "Desambiguació assistida: %(from)s - Eliminant enllaç(os)",
 	"solve_disambiguation-redirect-resolved": "Desambiguació assistida: %(from)s - Canviant enllaç(os) a %(to)s",
 	"solve_disambiguation-unknown-page": "(desconegut)"

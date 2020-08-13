@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Mguix"
 		]
 	},
+	"imagetransfer-file_page_message": "Aquesta imatge va ser copiada de %(site)s. La descripció original era:\n\n%(description)s",
 	"imagetransfer-nowcommons_notice": "El fitxer ara és disponible a Wikimedia Commons."
 }
