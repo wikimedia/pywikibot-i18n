@@ -4,5 +4,10 @@
 			"Joao Xavier"
 		]
 	},
-	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s omna diskuti finabis (la surveyo anke finabis) - lasta redakto da %(user)s (%(time)s)"
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Diskuto finita",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "BOT-mesajo",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Nova Diskuto",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Avizo",
+	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s omna diskuti finabis (la surveyo anke finabis) - lasta redakto da %(user)s (%(time)s)",
+	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
 }

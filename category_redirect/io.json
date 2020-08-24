@@ -7,5 +7,8 @@
 	"category_redirect-add-template": "Bot: Adjuntado di shablono pri kategorio ridirektita, por manteno",
 	"category_redirect-change-category": "Bot: Chanjo di kategorio ridirektita [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "'Bot' por manteno dil ridirekto di kategorio",
-	"category_redirect-fix-double": "Bot: Reparo di duopla ridirektado"
+	"category_redirect-fix-double": "Bot: Reparo di duopla ridirektado",
+	"category_redirect-log-failed": "** Faliis: %(error)s",
+	"category_redirect-log-ignoring": "* Ignoras %(oldcat)s",
+	"category_redirect-log-not-loaded": "* Ne povis charjar %(oldcat)s; ignoresos"
 }

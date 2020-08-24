@@ -18,8 +18,8 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - иштирокәкәси охонә дәгиш [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Роботи чәшнави кардеј: %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-summary-add": "Мызокирә сәкыштә зијод кардә быә: %(num)i нывыштәјон",
-	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Сәкыштә зијод кардә быә ијән сәрост кардә быә мызокирә: %(num)i нывыштәјон",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Mızokirə сәкыштә ziyod kardə быә: %(num)i нывыштәјон",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Сәкыштә ziyod kardə быә ијән сәрост kardə быә mızokirə: %(num)i нывыштәјон",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot",
-	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Мызокирә сәкыштә нуә кардә быә: %(num)i нывыштәјон бә %(page)s"
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Mızokirə сәкыштә tojə kardə быә: %(num)i нывыштәјон бә %(page)s"
 }

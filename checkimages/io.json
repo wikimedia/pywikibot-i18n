@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"checkimages-deletion-comment": "Roboto:Adjuntas %(adding)s",
+	"checkimages-doubles-file-comment": "Bot:L'arkivo ja existas che Commons, posible ol efacesos",
+	"checkimages-doubles-head": "Duopligita arkivo",
+	"checkimages-no-license-head": "Imajo sen libera uzo-permiso",
+	"checkimages-unknown-extension-head": "Tipo di arkivo nekonocata!"
+}

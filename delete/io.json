@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"delete-from-category": "Bot: Efacanta omna pagini de la kategorio %(page)s",
+	"delete-from-file": "Bot: Efacanta listo di pagini.",
+	"delete-images": "Bot: Efacanta omna imaji de la pagino %(page)s"
+}
