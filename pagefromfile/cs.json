@@ -3,10 +3,11 @@
 		"authors": [
 			"Chmee2",
 			"Dvorapa",
-			"Juandev"
+			"Juandev",
+			"Patriccck"
 		]
 	},
-	"pagefromfile-msg": "Robot: automatizované nahrání stránek",
+	"pagefromfile-msg": "robot: automatizované nahrání stránek",
 	"pagefromfile-msg_bottom": "připojit dole",
 	"pagefromfile-msg_force": "stávající text přepsán",
 	"pagefromfile-msg_top": "připojit nahoře"

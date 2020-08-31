@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Alex Shih-Han Lin",
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"standardize_interwiki-comment": "Robot: standardizace interwiki"
+	"standardize_interwiki-comment": "robot: standardizace mezijazykových odkazů"
 }

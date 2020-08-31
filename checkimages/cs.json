@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"checkimages-deletion-comment": "Robot: přidání %(adding)s",
-	"checkimages-doubles-file-comment": "Robot: soubor již existuje na Commons a zde proto může být smazán",
+	"checkimages-deletion-comment": "robot: přidání %(adding)s",
+	"checkimages-doubles-file-comment": "robot: soubor již existuje na Commons a zde proto může být smazán",
 	"checkimages-doubles-head": "Duplicitní soubor",
-	"checkimages-doubles-talk-comment": "Robot: upozornění, že soubor již existuje na Commons",
-	"checkimages-log-comment": "Robot: aktualizace záznamu",
+	"checkimages-doubles-talk-comment": "robot: upozornění, že soubor již existuje na Commons",
+	"checkimages-log-comment": "robot: aktualizace záznamu",
 	"checkimages-no-license-head": "Obrázek bez licence",
-	"checkimages-source-tag-comment": "Robot: označení nově nahraných neoznačených souborů",
-	"checkimages-source-notice-comment": "Robot: chybí zdroj",
+	"checkimages-source-tag-comment": "robot: označení nově nahraných neoznačených souborů",
+	"checkimages-source-notice-comment": "robot: chybí zdroj",
 	"checkimages-unknown-extension-head": "Neznámá přípona!",
 	"checkimages-unknown-extension-msg": "Soubor %(file)s má možná chybnou příponu, zkontrolujte ji, prosím."
 }

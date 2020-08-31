@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"followlive-blanking": "Smazáno, obsah byl '%(content)s'"
+	"followlive-blanking": "smazáno, obsah byl '%(content)s'"
 }

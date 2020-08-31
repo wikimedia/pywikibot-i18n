@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"piper-edit-summary": "Robot: text článku prohnán skrz %(filters)s"
+	"piper-edit-summary": "robot: text článku prohnán skrz %(filters)s"
 }

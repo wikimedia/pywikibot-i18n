@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"replace-replacing": "Robot: automatické nahrazení textu %(description)s"
+	"replace-replacing": "robot: automatické nahrazení textu %(description)s"
 }

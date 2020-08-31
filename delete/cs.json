@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"delete-from-category": "Robot: odebrání stránek z kategorie %(page)s",
-	"delete-from-file": "Robot: smazání stránek podle seznamu",
-	"delete-images": "Robot: smazání všech obrázků z %(page)s",
-	"delete-linked-pages": "Robot: smazání všech stránek odkazovaných z %(page)s",
-	"delete-referring-pages": "Robot: smazání všech stránek odkazujících na %(page)s"
+	"delete-from-category": "robot: odebrání stránek z kategorie %(page)s",
+	"delete-from-file": "robot: smazání stránek podle seznamu",
+	"delete-images": "robot: smazání všech obrázků z %(page)s",
+	"delete-linked-pages": "robot: smazání všech stránek odkazovaných z %(page)s",
+	"delete-referring-pages": "robot: smazání všech stránek odkazujících na %(page)s"
 }

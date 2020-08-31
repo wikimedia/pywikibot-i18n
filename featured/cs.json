@@ -3,11 +3,13 @@
 		"authors": [
 			"Dvorapa",
 			"Matěj Suchánek",
+			"Patriccck",
+			"Robins7",
 			"Spiffyk"
 		]
 	},
-	"featured-featured": "Robot: %(page)s je na seznamu nejlepších článků",
-	"featured-former": "Robot: %(page)s býval na seznamu nejlepších článků",
-	"featured-good": "Robot: %(page)s je dobrý článek",
-	"featured-list": "Robot: %(page)s je na seznamu nejlepších seznamů"
+	"featured-featured": "robot: %(page)s je nejlepší článek",
+	"featured-former": "robot: %(page)s býval na seznamu nejlepších článků",
+	"featured-good": "robot: %(page)s je dobrý článek",
+	"featured-list": "robot: %(page)s je na seznamu nejlepších seznamů"
 }

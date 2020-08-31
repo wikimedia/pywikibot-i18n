@@ -3,8 +3,9 @@
 		"authors": [
 			"Dvorapa",
 			"Mormegil",
+			"Patriccck",
 			"Spiffyk"
 		]
 	},
-	"capitalize_redirects-create-redirect": "Robot: vytvoření přesměrování na [[%(to)s]]"
+	"capitalize_redirects-create-redirect": "robot: vytvoření přesměrování na „[[%(to)s]]“"
 }

@@ -3,12 +3,13 @@
 		"authors": [
 			"DemonioCZ",
 			"Dvorapa",
-			"Mormegil"
+			"Mormegil",
+			"Patriccck"
 		]
 	},
-	"protect-category": "Robot: zamknutí všech stránek v kategorii %(cat)s",
-	"protect-images": "Robot: zamknutí všech obrázků na stránce %(page)s",
-	"protect-links": "Robot: zamknutí všech stránek odkazovaných z %(page)s",
-	"protect-ref": "Robot: zamknutí všech stránek odkazujících na %(page)s",
-	"protect-simple": "Robot: zamknutí souborů ze seznamu"
+	"protect-category": "robot: zamknutí všech stránek v kategorii %(cat)s",
+	"protect-images": "robot: zamknutí všech obrázků na stránce %(page)s",
+	"protect-links": "robot: zamknutí všech stránek odkazovaných z %(page)s",
+	"protect-ref": "robot: zamknutí všech stránek odkazujících na %(page)s",
+	"protect-simple": "robot: zamknutí souborů ze seznamu"
 }

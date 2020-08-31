@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"commons_link-cat-template-added": "Robot: přidána šablona commonscat",
-	"commons_link-template-added": "Robot: přidána šablona commons"
+	"commons_link-cat-template-added": "robot: přidána šablona commonscat",
+	"commons_link-template-added": "robot: přidána šablona commons"
 }

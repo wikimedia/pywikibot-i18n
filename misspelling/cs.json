@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Patriccck"
 		]
 	},
-	"misspelling-fixing": "Robot: oprava pravopisně chybného odkazu na %(page)s"
+	"misspelling-fixing": "robot: oprava pravopisně chybného odkazu na %(page)s"
 }

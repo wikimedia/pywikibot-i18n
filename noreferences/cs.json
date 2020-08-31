@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"noreferences-add-tag": "Robot: doplnění chybějící značky <references />",
-	"noreferences-fix-tag": "Robot: oprava chybného použití značky <references />"
+	"noreferences-add-tag": "robot: doplnění chybějící značky <references />",
+	"noreferences-fix-tag": "robot: oprava chybného použití značky <references />"
 }

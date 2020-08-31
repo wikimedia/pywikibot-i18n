@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Patriccck"
 		]
 	},
-	"interwikidata-clean-summary": "Robot: odstranění starých interwiki odkazů"
+	"interwikidata-clean-summary": "robot: odstranění starých mezijazykových odkazů"
 }

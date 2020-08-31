@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
+			"Patriccck",
 			"Spiffyk"
 		]
 	},
-	"interwiki-adding": "Robot: přidání %(adding)s",
-	"interwiki-adding-modifying": "Robot: přidání %(adding)s; změna %(modifying)s",
-	"interwiki-adding-removing": "Robot: přidání %(adding)s; odebrání %(removing)s",
-	"interwiki-adding-removing-modifying": "Robot: přidání %(adding)s; odebrání %(removing)s; úprava %(modifying)s",
-	"interwiki-modifying": "Robot: úprava %(modifying)s",
-	"interwiki-modifying-from": "Robot: změna %(from)s na %(modifying)s",
-	"interwiki-removing": "Robot: odebrání %(removing)s",
-	"interwiki-removing-modifying": "Robot: odebrání %(removing)s; úprava %(modifying)s"
+	"interwiki-adding": "robot: přidání %(adding)s",
+	"interwiki-adding-modifying": "robot: přidání %(adding)s; změna %(modifying)s",
+	"interwiki-adding-removing": "robot: přidání %(adding)s; odebrání %(removing)s",
+	"interwiki-adding-removing-modifying": "robot: přidání %(adding)s; odebrání %(removing)s; úprava %(modifying)s",
+	"interwiki-modifying": "robot: úprava %(modifying)s",
+	"interwiki-modifying-from": "robot: změna %(from)s na %(modifying)s",
+	"interwiki-removing": "robot: odebrání %(removing)s",
+	"interwiki-removing-modifying": "robot: odebrání %(removing)s; úprava %(modifying)s"
 }

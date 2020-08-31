@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Patriccck"
 		]
 	},
-	"makecat-create": "Robot: vytvoření nebo aktualizace [[:Category:%(cat)s|kategorie %(cat)s]]"
+	"makecat-create": "robot: vytvoření nebo aktualizace „[[:Category:%(cat)s|kategorie %(cat)s]]“"
 }

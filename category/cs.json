@@ -5,21 +5,22 @@
 			"Dvorapa",
 			"Matěj Suchánek",
 			"Mormegil",
+			"Patriccck",
 			"Spiffyk",
 			"Tchoř"
 		]
 	},
-	"category-adding": "Robot: přidání kategorie [[:Kategorie:%(newcat)s|%(newcat)s]]",
+	"category-adding": "robot: přidání kategorie „[[:Kategorie:%(newcat)s|%(newcat)s]]“",
 	"category-also-in": "(také v %(alsocat)s)",
-	"category-listifying": "Robot: vytvoření seznamu z %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položek}})",
-	"category-removing": "Robot: odstranění kategorie %(oldcat)s",
-	"category-renamed": "Robot: přesunuto z %(oldcat)s, autoři: %(authors)s",
-	"category-replacing": "Robot: nahrazení kategorie %(oldcat)s za %(newcat)s",
+	"category-listifying": "robot: vytvoření seznamu z %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položek}})",
+	"category-removing": "robot: odstranění kategorie %(oldcat)s",
+	"category-renamed": "robot: přesunuto z %(oldcat)s, autoři: %(authors)s",
+	"category-replacing": "robot: nahrazení kategorie %(oldcat)s za %(newcat)s",
 	"category-section-title": "Historie verzí bývalé %(oldcat)s",
-	"category-strip-cfd-templates": "Robot: odstranění šablony Přejmenovat kategorii po přesunu",
-	"category-strip-sort-keys": "Robot: odstranění šablony klíčů řazení po přesunu",
-	"category-strip-both": "Robot: odstranění šablony Přejmenovat kategorii a klíčů řazení po přesunu",
-	"category-version-history": "Robot: ukládání historie verzí bývalé %(oldcat)s",
-	"category-was-disbanded": "Robot: vyprázdnění kategorie",
-	"category-was-moved": "Robot: přesun kategorie na [[:Kategorie:%(newcat)s|%(title)s]]"
+	"category-strip-cfd-templates": "robot: odstranění šablony Přejmenovat kategorii po přesunu",
+	"category-strip-sort-keys": "robot: odstranění šablony klíčů řazení po přesunu",
+	"category-strip-both": "robot: odstranění šablony Přejmenovat kategorii a klíčů řazení po přesunu",
+	"category-version-history": "robot: ukládání historie verzí bývalé %(oldcat)s",
+	"category-was-disbanded": "robot: vyprázdnění kategorie",
+	"category-was-moved": "robot: přesun kategorie na [[:Kategorie:%(newcat)s|%(title)s]]"
 }

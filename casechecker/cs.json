@@ -3,12 +3,13 @@
 		"authors": [
 			"Dvorapa",
 			"Matěj Grabovský",
-			"Mormegil"
+			"Mormegil",
+			"Patriccck"
 		]
 	},
 	"casechecker-delete-reason": "Toto přesměrování vedlo na %(target)s",
-	"casechecker-delete-summary": "Robot: toto přesměrování ve svém názvu obsahuje stejně vypadající znaky cyrilice a latinky",
-	"casechecker-rename": "Robot: přejmenování kvůli smíchaným velikostem písmen",
+	"casechecker-delete-summary": "robot: toto přesměrování ve svém názvu obsahuje stejně vypadající znaky cyrilice a latinky",
+	"casechecker-rename": "robot: přejmenování kvůli smíchaným velikostem písmen",
 	"casechecker-replacement-linklist": "%(source)s→%(target)s",
-	"casechecker-replacement-summary": "Robot: změna velikosti písmen:"
+	"casechecker-replacement-summary": "robot: změna velikosti písmen:"
 }

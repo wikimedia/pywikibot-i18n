@@ -6,12 +6,12 @@
 			"Spiffyk"
 		]
 	},
-	"category_redirect-add-template": "Robot: přidání šablony přesměrování kategorie kvůli údržbě",
-	"category_redirect-change-category": "Robot: změna přesměrované kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "robot: přidání šablony přesměrování kategorie kvůli údržbě",
+	"category_redirect-change-category": "robot: změna přesměrované kategorie [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Robot k údržbě přesměrování kategorií",
 	"category_redirect-edit-request": "Následující zamčené stránky potřebují úpravu odkazů na kategorie: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s je v kategorii %(oldcat)s, která je přesměrovaná na %(newcat)s",
-	"category_redirect-fix-double": "Robot: opraveno dvojité přesměrování",
+	"category_redirect-fix-double": "robot: opraveno dvojité přesměrování",
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] zařazena do %(oldcat)s",
 	"category_redirect-log-add-failed": "* Nebylo možné zařadit [[%(ns)s%(template)s]] do %(oldcat)s",
 	"category_redirect-log-double": "* Opraveno dvojité přesměrování: %(oldcat)s -> %(newcat)s -> %(targetcat)s",

@@ -3,10 +3,11 @@
 		"authors": [
 			"Chmee2",
 			"Dvorapa",
-			"Matěj Grabovský"
+			"Matěj Grabovský",
+			"Patriccck"
 		]
 	},
 	"reflinks-autogen": "vytvořeno automaticky",
 	"reflinks-comment": "Název vygenerovaný robotem",
-	"reflinks-msg": "Robot: přidání popisků k referencím, použití pojmenovaných referencí ke sloučení duplicit, viz [[%(manual)s|FAQ]]"
+	"reflinks-msg": "robot: přidání popisků k referencím, použití pojmenovaných referencí ke sloučení duplicit, viz [[%(manual)s|FAQ]]"
 }

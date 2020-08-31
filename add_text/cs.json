@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dvorapa"
+			"Dvorapa",
+			"Patriccck"
 		]
 	},
-	"add_text-adding": "Robot: přidáno %(adding)s"
+	"add_text-adding": "robot: přidáno %(adding)s"
 }

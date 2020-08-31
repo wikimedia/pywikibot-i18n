@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
-			"Juandev"
+			"Juandev",
+			"Patriccck"
 		]
 	},
-	"unprotect-category": "Robot: odemknutí všech stránek v kategorii %(cat)s",
-	"unprotect-images": "Robot: odemknutí všech souborů na stránce %(page)s",
-	"unprotect-links": "Robot: odemknutí všech stránek odkazovaných z %(page)s",
-	"unprotect-ref": "Robot: odemknutí všech stránek zmíněných na stránce %(page)s",
-	"unprotect-simple": "Robot: odemknutí souborů ze seznamu"
+	"unprotect-category": "robot: odemknutí všech stránek v kategorii %(cat)s",
+	"unprotect-images": "robot: odemknutí všech souborů na stránce %(page)s",
+	"unprotect-links": "robot: odemknutí všech stránek odkazovaných z %(page)s",
+	"unprotect-ref": "robot: odemknutí všech stránek zmíněných na stránce %(page)s",
+	"unprotect-simple": "robot: odemknutí souborů ze seznamu"
 }

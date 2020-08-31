@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
+			"Patriccck",
 			"Utar"
 		]
 	},
-	"unlink-unlinking": "Robot: odebrání odkazu na „%(title)s“"
+	"unlink-unlinking": "robot: odebrání odkazu na „%(title)s“"
 }

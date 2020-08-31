@@ -4,6 +4,7 @@
 			"Blahma",
 			"Dvorapa",
 			"Jezevec",
+			"Patriccck",
 			"Spiffyk",
 			"Tchoř"
 		]
@@ -21,8 +22,8 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - poslední editace uživatele [[User:%(user)s]] (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %e. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Varování robota: %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-summary-add": "Přidáno shrnutí diskuse: %(num)i příspěvků",
-	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Přidáno shrnutí diskuse s pročištěním: %(num)i příspěvků",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "přidáno shrnutí diskuse: %(num)i příspěvků",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "přidáno shrnutí diskuse s pročištěním: %(num)i příspěvků",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "robot",
-	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Upraveno shrnutí diskuse: %(num)i příspěvků na %(page)s stránkách"
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "upraveno shrnutí diskuse: %(num)i příspěvků na %(page)s stránkách"
 }

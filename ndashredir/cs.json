@@ -3,8 +3,9 @@
 		"authors": [
 			"Dvorapa",
 			"Matěj Suchánek",
+			"Patriccck",
 			"Tchoř"
 		]
 	},
-	"ndashredir-create": "Robot: vytvoření přesměrování na [[%(title)s]]"
+	"ndashredir-create": "robot: vytvoření přesměrování na „[[%(title)s]]“"
 }

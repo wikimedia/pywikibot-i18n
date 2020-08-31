@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
-			"Juandev"
+			"Juandev",
+			"Patriccck"
 		]
 	},
-	"undelete-from-file": "Robot: obnovení stránek ze seznamu smazaných stránek",
-	"undelete-images": "Robot: obnovení všech obrázků na stránce %(page)s",
-	"undelete-linked-pages": "Robot: obnovení všech stránek odkazovaných ze stránky %(page)s"
+	"undelete-from-file": "robot: obnovení stránek ze seznamu smazaných stránek",
+	"undelete-images": "robot: obnovení všech obrázků na stránce %(page)s",
+	"undelete-linked-pages": "robot: obnovení všech stránek odkazovaných ze stránky %(page)s"
 }
