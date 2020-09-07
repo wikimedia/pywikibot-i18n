@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Aldnonymous",
+			"Daud I.F. Argana",
 			"Ezagren",
 			"Farras",
 			"Rachmat.Wahidi",
@@ -11,6 +12,6 @@
 	},
 	"archivebot-archive-full": "(ARSIP PENUH)",
 	"archivebot-archive-summary": "Bot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} dari [[%(from)s]]",
-	"archivebot-older-than": "lebih lama dari %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|lebih lama}} dari %(duration)s",
 	"archivebot-page-summary": "Bot: Mengarsipkan %(count)d {{PLURAL:%(count)d|lembaran|lembaran}} (%(why)s) ke %(archives)s"
 }
