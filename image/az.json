@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Şeyx Şamil"
+		]
+	},
+	"image-remove": "Bot: %(file)s şəkli çıxarılır",
+	"image-replace": "Bot: Köhnə %(old)s şəkli yenisi %(new)s ilə əvəz edilir"
+}

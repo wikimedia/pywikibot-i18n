@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Cekli829",
-			"Ebrahimi-amir"
+			"Ebrahimi-amir",
+			"Şeyx Şamil"
 		]
 	},
-	"welcome-bad_username": "Bot: İstifadəçinin adını kontorol edilməsi lazım olanlara əlavə edir",
+	"welcome-bad_username": "Bot: İstifadəçi adını yoxlanılmalı olanlara əlavə edir",
 	"welcome-updating": "Bot: Qeyd etmə yeniləmə",
 	"welcome-welcome": "Xoş gəlmisiniz!"
 }

@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"AZISS"
+			"AZISS",
+			"Şeyx Şamil"
 		]
 	},
 	"weblinkchecker-archive_msg": "Veb səhifə Internet Archive-də saxlanmışdı. Uyğun arxiv versiyasına olan istinada diqqət verin: [%(URL)s].",
-	"weblinkchecker-caption": "İşləməyən istinad",
-	"weblinkchecker-report": "Avtomatlaşdırılmış yoxlama aparan bir neçə bot tərəfindən işləməyən xarici istinad tapılmışdır. Zəhmət olmasa, əmin olun ki, istinad əslində aşağıdakı kimidir və onu düzəltmək və ya işləmədiyi halda onu silmək lazımdır!",
-	"weblinkchecker-summary": "Bot: Xarici istinadın işləməməsi haqqında bildiriş"
+	"weblinkchecker-caption": "Ölü link",
+	"weblinkchecker-report": "Avtomatlaşdırılmış yoxlama aparan bir neçə bot tərəfindən işləməyən xarici link tapılmışdır. Zəhmət olmasa, əmin olun ki, link əslində aşağıdakı kimidir və onu düzəltmək və ya işləmədiyi halda onu silmək lazımdır!",
+	"weblinkchecker-summary": "Bot: Xarici linkin işləməməsi haqqında bildiriş"
 }

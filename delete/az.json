@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Khutuck",
-			"Vago"
+			"Vago",
+			"Şeyx Şamil"
 		]
 	},
 	"delete-from-category": "Bot: %(page)s kateqoriyasına aid bütün səhifələr silinir",
-	"delete-from-file": "Bot: Faylların siyahısı silinir.",
+	"delete-from-file": "Bot: Səhifə siyahısı silinir.",
 	"delete-images": "Bot: %(page)s səhifəsindəki bütün şəkillər silinir",
 	"delete-linked-pages": "Bot: %(page)s səhifəsindən keçid verən bütün səhifələr silinir",
 	"delete-referring-pages": "Bot: %(page)s səhifəsinə keçid verən bütün səhifələr silinir"
