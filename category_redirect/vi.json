@@ -16,7 +16,11 @@
 	"category_redirect-log-add-failed": "* Thất bại khi xếp [[%(ns)s%(template)s]] vào %(oldcat)s",
 	"category_redirect-log-double": "%(oldcat)s* Đã sửa đổi hướng kép: %(oldcat)s → %(newcat)s → %(targetcat)s",
 	"category_redirect-log-failed": "** Không thành công: %(error)s",
+	"category_redirect-log-false-positive": "* Trang không đổi hướng không ngờ: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Đã bỏ qua %(oldcat)s",
 	"category_redirect-log-loop": "* Vòng đổi hướng từ %(oldcat)s",
+	"category_redirect-log-move-error": "* %(oldcat)s: lỗi ở move_contents",
+	"category_redirect-log-new": "Các đổi hướng mới từ báo cáo cuối:",
+	"category_redirect-log-not-loaded": "* Không thể tải %(oldcat)s; bỏ qua",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Nhật trình cũ hơn]'''"
 }
