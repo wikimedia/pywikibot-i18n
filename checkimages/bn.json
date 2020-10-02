@@ -5,7 +5,8 @@
 			"আফতাবুজ্জামান"
 		]
 	},
-	"checkimages-deletion-comment": "বট: যোগ করছে %(adding)s",
+	"checkimages-deletion-comment": "বট: যোগ করেছে %(adding)s",
+	"checkimages-log-comment": "বট: লগ হালনাগাদ করেছে",
 	"checkimages-no-license-head": "লাইসেন্সবিহীন চিত্র",
 	"checkimages-unknown-extension-head": "অজানা এক্সটেনশন!",
 	"checkimages-unknown-extension-msg": "%(file)s ফাইলে সম্ভবত ভুল এক্সটেনশন রয়েছে, অনুগ্রহপূর্বক দেখুন।"

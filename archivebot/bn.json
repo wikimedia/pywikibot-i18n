@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Aftabuzzaman",
+			"Al Riaz Uddin Ripon",
 			"Bellayet",
 			"Nasir8891",
 			"Xqt",
@@ -10,5 +11,5 @@
 	},
 	"archivebot-archive-full": "(আর্কাইভ পূর্ণ)",
 	"archivebot-archiveheader": "{{আলোচনার সংগ্রহশালা}}",
-	"archivebot-older-than": "%(duration)s ছেয়ে বেশি পুরাতন"
+	"archivebot-older-than": "%(duration)s-এর চেয়ে বেশি {{PLURAL:%(count)d|পুরাতন}}"
 }
