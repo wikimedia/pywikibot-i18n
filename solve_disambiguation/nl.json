@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"MuratTheTurkish",
 			"Siebrand"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Robotgeholpen disambiguatie: %(from)s - heeft aandacht van een expert nodig",
-	"solve_disambiguation-links-removed": "Robotgeholpen doorverwijzing: [[%(from)s]] - Koppeling(en) verwijderd",
-	"solve_disambiguation-links-resolved": "Robotgeholpen doorverwijzing: [[%(from)s]] - Koppeling(en) gewijzigd naar %(to)s",
+	"solve_disambiguation-links-removed": "Robotgeholpen doorverwijzing: %(from)s - Koppeling(en) verwijderd",
+	"solve_disambiguation-links-resolved": "Robotgeholpen doorverwijzing: %(from)s - Koppeling(en) gewijzigd naar %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Robotgeholpen disambiguatie: %(from)s - heeft aandacht van een expert nodig",
-	"solve_disambiguation-redirect-removed": "Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Koppeling(en) verwijderd",
-	"solve_disambiguation-redirect-resolved": "Robotgeholpen oplossing voor doorverwijzing: [[%(from)s]] - Koppeling(en) gewijzigd naar %(to)s",
+	"solve_disambiguation-redirect-removed": "Robotgeholpen oplossing voor doorverwijzing: %(from)s - Koppeling(en) verwijderd",
+	"solve_disambiguation-redirect-resolved": "Robotgeholpen oplossing voor doorverwijzing: %(from)s - Koppeling(en) gewijzigd naar %(to)s",
 	"solve_disambiguation-unknown-page": "(onbekend)"
 }
