@@ -5,10 +5,10 @@
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "хуьйцуш ю тегаш %(tags)s",
-	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Дийцаре хийцаяла",
-	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Дийцаре дIачIаьгIна",
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Дийцар хийцаделла",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Дийцар дIачIаьгIна",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "РОБОТАН ХААМ",
-	"thirdparty-drtrigonbot-sum_disc-notify-new": "Керла дийцаре",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Керла дийцар",
 	"thirdparty-drtrigonbot-sum_disc-notify-notify": "ДӀахаийтарш",
 	"thirdparty-drtrigonbot-sum_disc-parse": ":* %(notify)s: %(page_sections)s - [%(history_link)s тӀаьххьара нисдар] (%(page_size)s байт) декъашхочо %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s массо дийцарш чекхдаьлла (тергам бар чекхдаьлла) - тӀаьххьара нисдар дина декъашхочо %(user)s (%(time)s)",

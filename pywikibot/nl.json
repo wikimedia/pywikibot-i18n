@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"McDutchie",
+			"Optilete",
 			"Siebrand"
 		]
 	},
@@ -14,5 +15,6 @@
 	"pywikibot-enter-xml-filename": "Geef de bestandnaam van een XML-dump op:",
 	"pywikibot-fixes-fckeditor": "Robot: HTML van tekstverwerker gecorrigeerd",
 	"pywikibot-fixes-html": "Robot: conversie/reparatie HTML",
-	"pywikibot-fixes-syntax": "Robot: reparatie wikisyntaxis"
+	"pywikibot-fixes-syntax": "Robot: reparatie wikisyntaxis",
+	"pywikibot-touch": "Pywikibot touch bewerking"
 }
