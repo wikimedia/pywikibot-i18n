@@ -3,7 +3,8 @@
 		"authors": [
 			"BaRaN6161 TURK",
 			"Emperyan",
-			"Khutuck"
+			"Khutuck",
+			"MuratTheTurkish"
 		]
 	},
 	"thirdparty-drtrigonbot-subster-summary-mod": "%(tags)s etiket(leri) değiştirilmesi",
@@ -11,7 +12,7 @@
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Tartışma kapandı.",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "ROBOT İLETİ",
 	"thirdparty-drtrigonbot-sum_disc-notify-new": "Yeni Tartışma",
-	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Bilgilendirme",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Bildirim",
 	"thirdparty-drtrigonbot-sum_disc-parse": "Bot:* %(notify)s: %(page_sections)s - [%(history_link)s son değişiklik] (%(page_size)s byte) kullanıcı %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-closed": ":* %(notify)s: %(page)s tüm tartışmalar sona erdi (izleme sonlandırıldı) - son değişiklik %(user)s (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "<noinclude>\n\nÖzet hazırlandı: %(sign)s</noinclude>",
