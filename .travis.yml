@@ -10,7 +10,7 @@ before_install:
   - for item in *; do if [[ -d "$item" ]]; then cp -rp "$item" pywikibot-build/scripts/i18n; fi; done
 
 install:
-  - pip install six nose requests
+  - pip install nose requests
 
 script:
   - cd pywikibot-build
