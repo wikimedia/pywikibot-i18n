@@ -24,7 +24,7 @@
 	"category_redirect-log-move-error": "* %(oldcat)s: خطأ في move_contents",
 	"category_redirect-log-new": "التحويلات الجديدة منذ التقرير الأخير:",
 	"category_redirect-log-not-loaded": "* تعذر تحميل %(oldcat)s; جارٍ التجاهل",
-	"category_redirect-log-skipping": "* تخطي %(oldcat)s; في فترة التباين",
+	"category_redirect-log-skipping": "* تخطي %(oldcat)s؛ في فترة التهدئة",
 	"category_redirect-older-logs": "'''[%(oldlogs)s أقدم السجلات]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s تحويلة صلبة إلى %(page)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s تحول إلى %(redpage)s",

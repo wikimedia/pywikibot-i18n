@@ -6,6 +6,6 @@
 	},
 	"archivebot-archive-full": "(LÁN-CARTLANNA)",
 	"archivebot-archive-summary": "Róbó: %(count)d {{PLURAL:%(count)d|snáth|snáithe}} a chur I gcartlann as [[%(from)s]]",
-	"archivebot-older-than": "níos sine ná %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|níos sine}} ná %(duration)s",
 	"archivebot-page-summary": "Róbó: %(count)d {{PLURAL:%(count)d|snáth|snáithe}} (%(why)s) a chur I gcartlann %(archives)s"
 }

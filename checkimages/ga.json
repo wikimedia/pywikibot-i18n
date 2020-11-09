@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alison",
 			"xqt"
 		]
 	},
@@ -8,7 +9,7 @@
 	"checkimages-log-comment": "Róbó: Cuir %(adding)s leis",
 	"checkimages-no-license-head": "Comhad gan ceadúnas",
 	"checkimages-source-tag-comment": "Róbó: Ag márcáil comhad nua-uaslódáilte gan ceadúnas",
-	"checkimages-source-notice-comment": "Róbó: Ag iarraidh eolais foinse.",
+	"checkimages-source-notice-comment": "Róbó: Faisnéis foinse a iarraidh.",
 	"checkimages-unknown-extension-head": "Iarmhír neamhaithnid!",
 	"checkimages-unknown-extension-msg": "Tá iarmhír mícheart ar an comhad %(file)s, scrúdaigh le d'thoil."
 }
