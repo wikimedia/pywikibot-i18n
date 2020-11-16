@@ -8,7 +8,7 @@
 		]
 	},
 	"category-adding": "Bot: [[Kategoriye:%(newcat)s]] dekerd de",
-	"category-also-in": "(kategori da %(alsocat)s esto)",
+	"category-also-in": "(kategoriye de %(alsocat)s esto)",
 	"category-listifying": "Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi",
 	"category-removing": "Bot: %(oldcat)s ra dariyeno we",
 	"category-renamed": "Boti, Nuştoğ %(oldcat)s ra wedarna %(authors)s",
@@ -18,6 +18,6 @@
 	"category-strip-sort-keys": "Bot: Seba aksiyoni pêro kılitê kılmi wedareno",
 	"category-strip-both": "Bot: Seba aksiyoni pêro şablonanê CFD u kılitê kılmi wedareno",
 	"category-version-history": "Boti qeydê verênayışê versiyoni ke %(oldcat)s",
-	"category-was-disbanded": "Boti karkerdışe kategori qedina",
-	"category-was-moved": "Boti kategori name dê [[:Category:%(newcat)s|%(title)s]] ya ahûlnê"
+	"category-was-disbanded": "Bot: Gurenayışê kategoriye qedêna",
+	"category-was-moved": "Bot: Kategoriye kırışiye be [[:Category:%(newcat)s|%(title)s]]"
 }
