@@ -18,7 +18,7 @@
 	"category_redirect-log-add-failed": "* %(oldcat)s への [[%(ns)s%(template)s]] の追加に失敗",
 	"category_redirect-log-double": "* 二重転送を修正: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** 失敗率: %(error)s",
-	"category_redirect-log-false-positive": "* 誤検知: %(oldcat)s",
+	"category_redirect-log-false-positive": "* 想定外の非リダイレクト: %(oldcat)s",
 	"category_redirect-log-ignoring": "* 「%(oldcat)s」を無視します",
 	"category_redirect-log-loop": "* 「%(oldcat)s」からのリダイレクトループです",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d件が見つかり、%(moved)d件が移動しました",
