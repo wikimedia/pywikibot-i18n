@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
-	"unprotect-category": "Robot : Suppression de la protection de toutes les pages de la catégorie %(cat)s",
-	"unprotect-images": "Robot : Suppression de la protection de toutes les images de la page %(page)s",
-	"unprotect-links": "Robot : Suppression de la protection de toutes les pages liées depuis %(page)s",
-	"unprotect-ref": "Robot : Suppression de la protection de toutes les pages faisant référence à %(page)s",
-	"unprotect-simple": "Robot : Suppression de la protection d’une liste de fichiers"
+	"unprotect-category": "Robot : suppression de la protection de toutes les pages de la catégorie %(cat)s",
+	"unprotect-images": "Robot : suppression de la protection de toutes les images de la page %(page)s",
+	"unprotect-links": "Robot : suppression de la protection de toutes les pages liées depuis %(page)s",
+	"unprotect-ref": "Robot : suppression de la protection de toutes les pages faisant référence à %(page)s",
+	"unprotect-simple": "Robot : suppression de la protection d’une liste de fichiers"
 }

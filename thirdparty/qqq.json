@@ -8,6 +8,7 @@
 			"McDutchie",
 			"Shirayuki",
 			"Siebrand",
+			"Verdy p",
 			"Xqt"
 		]
 	},
@@ -22,7 +23,7 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-end": "Message footer for bot report output. Parameters:\n* %(sign)s - signature and date (4 tildes, <code><nowiki>~~~~</nowiki></code>)\n\"From\" probably refers to the name of the bot and \"at\" probably refers to the timestamp.",
 	"thirdparty-drtrigonbot-sum_disc-parse-nonhuman": "Message part indicating the fact that no human editor is given for a page.",
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": "Message for reporting of interwiki notifications.",
-	"thirdparty-drtrigonbot-sum_disc-parse-start": "Message header for bot report output. Is just a timestamp format and language independent.\n\nTimestamp format markers are as in the \"strftime\" C function. See \"man 3 strftime\" on any Linux/Unix system, or [[w:strftime|strftime]]",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "Message header for bot report output. Is just a timestamp format and language independent.\n\nTimestamp format markers are as in the \"strftime\" C function. See \"man 3 strftime\" on any Linux/Unix system, or [[w:strftime|strftime]] ([https://en.cppreference.com/w/c/chrono/strftime online reference])\n\n; %d: day of the month as a decimal number (range [01,31])\n; %B: full month name, e.g. \"October\" (locale dependent)\n; %Y: full year as a decimal number, e.g. \"2020\"",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": "Message for reporting of unexpected behaviour or situations to the user.",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Summary line second part if there are additional results.",
 	"thirdparty-drtrigonbot-sum_disc-summary-clean": "Summary line second part if there are additional results and old get removed.",

@@ -8,8 +8,8 @@
 		]
 	},
 	"protect-category": "Robot : protection de toutes les pages de la catégorie %(cat)s",
-	"protect-images": "Robot : Protège toutes les images de la page %(page)s",
-	"protect-links": "Robot : Protège toutes les pages liées depuis %(page)s",
-	"protect-ref": "Robot : Protège toutes les pages référant à %(page)s",
-	"protect-simple": "Robot : Protège une liste de fichiers."
+	"protect-images": "Robot : protège toutes les images de la page %(page)s",
+	"protect-links": "Robot : protège toutes les pages liées depuis %(page)s",
+	"protect-ref": "Robot : protège toutes les pages référant à %(page)s",
+	"protect-simple": "Robot : protège une liste de fichiers."
 }

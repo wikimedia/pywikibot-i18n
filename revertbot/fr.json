@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
-	"revertbot-revert": "Robot : Revenu à la révision %(revid)s par %(author)s le %(timestamp)s"
+	"revertbot-revert": "Robot : restauration de la révision %(revid)s par %(author)s le %(timestamp)s"
 }

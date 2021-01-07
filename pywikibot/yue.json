@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hello903hello",
+			"Shinjiman"
+		]
+	},
+	"pywikibot-enter-category-name": "請輸入分類名：",
+	"pywikibot-enter-file-links-processing": "有邊啲檔案版嘅拎要處理？",
+	"pywikibot-enter-finished-browser": "喺瀏覽器完成編輯之後撳Enter掣。",
+	"pywikibot-enter-namespace-number": "請輸入空間名嘅冧巴：",
+	"pywikibot-enter-new-text": "請輸入新字：",
+	"pywikibot-enter-page-processing": "應該去處理邊版？",
+	"pywikibot-enter-xml-filename": "請輸入XML傾印嘅檔名：",
+	"pywikibot-fixes-fckeditor": "機械人：修正視覺編輯器HTML",
+	"pywikibot-fixes-html": "機械人：轉換/修正HTML",
+	"pywikibot-fixes-syntax": "機械人：修正wiki語法",
+	"pywikibot-touch": "Pywikibot touch編輯"
+}

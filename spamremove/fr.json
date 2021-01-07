@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Verdy p"
+		]
 	},
-	"spamremove-remove": "Suppression du lien blacklisté %(url)s"
+	"spamremove-remove": "Suppression du lien vers un site pollueur %(url)s"
 }

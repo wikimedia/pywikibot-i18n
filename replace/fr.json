@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Verdy p"
+		]
 	},
-	"replace-replacing": "Robot : Remplacement de texte automatisé %(description)s"
+	"replace-replacing": "Robot : remplacement de texte automatisé %(description)s"
 }

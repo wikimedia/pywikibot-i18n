@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Boniface",
-			"Od1n"
+			"Od1n",
+			"Verdy p"
 		]
 	},
-	"table2wiki-no-warning": "Robot : wikification de la syntaxe du tableau",
-	"table2wiki-warnings": "Robot : wikification syntaxe tableaux - {{PLURAL:count|1 avertissement|%(count)d avertissements}} !"
+	"table2wiki-no-warning": "Robot : wikification de la syntaxe du tableau",
+	"table2wiki-warnings": "Robot contrôlé par un utilisateur : syntaxe du tableau mise à jour – %(count)d avertissement{{PLURAL:count||s}} !"
 }

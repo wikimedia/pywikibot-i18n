@@ -3,10 +3,11 @@
 		"authors": [
 			"Nemo bis",
 			"Od1n",
-			"Urhixidur"
+			"Urhixidur",
+			"Verdy p"
 		]
 	},
-	"welcome-bad_username": "Bot : Ajout d’un nom d’utilisateur à vérifier",
-	"welcome-updating": "Bot : Mise à jour du journal",
-	"welcome-welcome": "Bienvenue !"
+	"welcome-bad_username": "Robot : ajout d’un nom d’utilisateur à vérifier",
+	"welcome-updating": "Robot : mise à jour du journal",
+	"welcome-welcome": "Bienvenue !"
 }

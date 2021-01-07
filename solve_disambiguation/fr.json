@@ -5,14 +5,15 @@
 			"IAlex",
 			"Od1n",
 			"Romainhk",
-			"Sherbrooke"
+			"Sherbrooke",
+			"Verdy p"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "Homonymie résolue à l’aide d'un robot : %(from)s - Marquée comme nécessitant l'avis d'un expert",
-	"solve_disambiguation-links-removed": "Homonymie résolue à l’aide du robot : %(from)s - Retrait du (des) lien(s).",
-	"solve_disambiguation-links-resolved": "Homonymie résolue à l’aide d'un robot : %(from)s - Modifications du (des) lien(s) vers %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Homonymie résolue à l’aide d'un robot : %(from)s - Marquée comme demandant l'avis d'un expert",
-	"solve_disambiguation-redirect-removed": "Homonymie résolue à l’aide d'un robot : %(from)s - Retrait du (des) lien(s)",
-	"solve_disambiguation-redirect-resolved": "Homonymie résolue à l’aide d'un robot : %(from)s - Modifications du (des) lien(s) vers %(to)s",
+	"solve_disambiguation-adding-dn-template": "Homonymie résolue à l’aide d’un robot : %(from)s – Marquée comme nécessitant l’avis d’un expert",
+	"solve_disambiguation-links-removed": "Homonymie résolue à l’aide d’un robot : %(from)s – Retrait du (des) lien(s).",
+	"solve_disambiguation-links-resolved": "Homonymie résolue à l’aide d’un robot : %(from)s – Modifications du (des) lien(s) vers %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Homonymie résolue à l’aide d’un robot : %(from)s – Marquée comme demandant l’avis d’un expert",
+	"solve_disambiguation-redirect-removed": "Homonymie résolue à l’aide d’un robot : %(from)s – Retrait du (des) lien(s)",
+	"solve_disambiguation-redirect-resolved": "Homonymie résolue à l’aide d’un robot : %(from)s – Modifications du (des) lien(s) vers %(to)s",
 	"solve_disambiguation-unknown-page": "(inconnu)"
 }
