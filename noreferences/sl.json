@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"noreferences-add-tag": "Robot: Dodajanje manjkajoče oznake <references />",
-	"noreferences-fix-tag": "Bot: Popravek neveljavne skladnje oznake <references />"
+	"noreferences-fix-tag": "Bot: popravek neveljavne skladnje značke <references />"
 }
