@@ -6,5 +6,5 @@
 		]
 	},
 	"commons-file-moved": "[[:File:%(localfile)s|Datoteka]] prestavljena v [[:commons:File:%(commonsfile)s|Zbirko]].",
-	"commons-file-now-available": "Datoteka je odslej na razpolago v [[:commons:File:%(commonsfile)s|Wikimedijini Zbirki]]."
+	"commons-file-now-available": "Datoteka je odslej na voljo v [[:commons:File:%(commonsfile)s|Wikimedijini zbirki]]."
 }
