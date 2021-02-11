@@ -7,9 +7,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{db-r1}}",
-	"redirect-fix-broken-moved": "বট: স্থানান্তরিত লক্ষ্য পাতা %(to)s-এ ভাঙা পুনর্নির্দেশ ঠিক করেছে",
-	"redirect-fix-double": "বট: %(to)s-এ দ্বিপুনর্নির্দেশনা ঠিক করেছে",
-	"redirect-fix-loop": "বট: %(to)s-এ পুনর্নির্দেশনা লুপ ঠিক করেছে",
+	"redirect-fix-broken-moved": "বট: স্থানান্তরিত পাতা %(to)s-এ করা ভাঙা পুনর্নির্দেশ ঠিক করেছে",
+	"redirect-fix-double": "বট: %(to)s পাতায় করা দ্বিপুনর্নির্দেশনা ঠিক করেছে",
+	"redirect-fix-loop": "বট: %(to)s-এ করা পুনর্নির্দেশনা লুপ ঠিক করেছে",
 	"redirect-remove-broken": "বট: অপসারিত বা অস্তিত্বহীন পাতায় পুনঃনির্দেশ",
 	"redirect-remove-loop": "বট: পুনঃনির্দেশ লুপ"
 }

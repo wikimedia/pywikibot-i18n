@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"redirect-broken-redirect-template": "{{CANCELLA|1=Bot: I seguenti redirect puntano a pagine inesistenti.}}"
+}

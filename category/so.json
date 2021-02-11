@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Abdullahi",
 			"Abshirdheere"
 		]
 	},
@@ -13,5 +14,5 @@
 	"category-section-title": "Taariikhdii boggii hore %(oldcat)s",
 	"category-version-history": "Bot: Kaydiyaha qaariikhda ee horay usoo baxday %(oldcat)s",
 	"category-was-disbanded": "Bot: Qaybtaan laga maarmay",
-	"category-was-moved": "Bot: Qaybtaan waxaa loo badalay [[:Category:%(newcat)s|%(title)s]]"
+	"category-was-moved": "Bot: Qaybta ayaa loo wareejiyay [[:Qaybta:%(newcat)s|%(title)s]]"
 }

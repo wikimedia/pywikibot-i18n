@@ -3,7 +3,8 @@
 		"authors": [
 			"Dvorapa",
 			"Matěj Suchánek",
-			"Patriccck"
+			"Patriccck",
+			"Patrik L."
 		]
 	},
 	"makecat-create": "robot: vytvoření nebo aktualizace „[[:Category:%(cat)s|kategorie %(cat)s]]“"

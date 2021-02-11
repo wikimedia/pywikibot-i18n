@@ -3,12 +3,13 @@
 		"authors": [
 			"Crt",
 			"Harriv",
+			"Nike",
 			"Silvonen"
 		]
 	},
 	"archivebot-archive-full": "(ARKISTO TÄYNNÄ)",
 	"archivebot-archive-summary": "Botti arkistoi %(count)d {{PLURAL:%(count)d|keskustelun|keskustelua}} sivulta [[%(from)s]]",
 	"archivebot-archiveheader": "{{Arkisto}}",
-	"archivebot-older-than": "vanhempi kuin %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|vanhempi}} kuin %(duration)s",
 	"archivebot-page-summary": "Botti arkistoi %(count)d {{PLURAL:%(count)d|keskustelun|keskustelua}} (%(why)s) arkistoon %(archives)s"
 }

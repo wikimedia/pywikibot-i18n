@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Wisdom",
-			"Xqt"
-		]
-	},
-	"archivebot-older-than": "%(duration)s -аас бусад"
-}

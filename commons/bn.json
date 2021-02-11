@@ -6,6 +6,6 @@
 			"আফতাবুজ্জামান"
 		]
 	},
-	"commons-file-moved": "[[:File:%(localfile)s|ফাইল]] [[:commons:File:%(commonsfile)s|কমন্সে]] সরানো হয়েছে।",
+	"commons-file-moved": "[[:File:%(localfile)s|ফাইল]] [[:commons:File:%(commonsfile)s|কমন্সে]] স্থানান্তর করা হয়েছে।",
 	"commons-file-now-available": "ফাইল বর্তমানে [[:commons:File:%(commonsfile)s|উইকিমিডিয়া কমন্সে]] উপলব্ধ রয়েছে।"
 }

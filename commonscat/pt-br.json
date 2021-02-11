@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eduardo Addad de Oliveira"
+			"Eduardo Addad de Oliveira",
+			"Eduardoaddad"
 		]
 	},
 	"commonscat-msg_change": "Robô: Mudando hiperligação da categoria da wiki Commons, de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] para [[:Commons:Category:%(newcat)s|%(newcat)s]]"

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"redirect-broken-redirect-template": "{{Suppression immédiate|1=Bot: Réedirige vers une autre page qui n'existe pas.}}"
+}

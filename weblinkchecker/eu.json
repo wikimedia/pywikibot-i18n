@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"EukeneFL",
-			"Theklan"
+			"Theklan",
+			"Xabier Armendaritz"
 		]
 	},
 	"weblinkchecker-archive_msg": "Webgunea Internet Archive-k gorde du. Kontutan hartu artxibatutako bertsio egokiarekin lotura:[%(URL)s].",
 	"weblinkchecker-badurl": "Emandako linkak ez du ematen baliozko URLa denik",
-	"weblinkchecker-caption": "Hildako lotura",
+	"weblinkchecker-caption": "Esteka hautsia",
 	"weblinkchecker-report": "Bot automatizatu askotan zehar hurrengo kanpoko estekak erabilgarri ez zeudela ikusi da. Mesedez, egiaztatu lotura hori benetan behekoa dela eta konpon ezazu, edo bestetik kendu ezazu!",
 	"weblinkchecker-summary": "Bot: Baliogabeko kanpo esteka salatu da"
 }
