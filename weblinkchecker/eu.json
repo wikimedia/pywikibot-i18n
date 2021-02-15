@@ -6,7 +6,7 @@
 			"Xabier Armendaritz"
 		]
 	},
-	"weblinkchecker-archive_msg": "Webgunea Internet Archive-k gorde du. Kontutan hartu artxibatutako bertsio egokiarekin lotura:[%(URL)s].",
+	"weblinkchecker-archive_msg": "Web orria Internet Archivek gorde du. Kontuan har ezazu ea ez ote den komeni bertsio artxibatu egoki bateranzko esteka ezartzea: [%(URL)s].",
 	"weblinkchecker-badurl": "Emandako linkak ez du ematen baliozko URLa denik",
 	"weblinkchecker-caption": "Esteka hautsia",
 	"weblinkchecker-report": "Bot automatizatu askotan zehar hurrengo kanpoko estekak erabilgarri ez zeudela ikusi da. Mesedez, egiaztatu lotura hori benetan behekoa dela eta konpon ezazu, edo bestetik kendu ezazu!",
