@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"MR973"
+		]
+	},
+	"image-remove": "Бот: %(file)s файлы алып ташланды",
+	"image-replace": "Бот: %(old)s файлы %(new)s менән алыштырыу"
+}

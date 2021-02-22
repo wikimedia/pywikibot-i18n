@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"MR973"
+		]
+	},
+	"checkimages-deletion-comment": "Бот: Өҫтәү %(adding)s",
+	"checkimages-doubles-file-comment": "Бот: Файл Викимилектә, шуға күрә алып ташланыуыла мөмкин",
+	"checkimages-doubles-head": "Дубликат",
+	"checkimages-doubles-talk-comment": "Бот: Нотификация Викимилектә булған файлдың осрағында",
+	"checkimages-log-comment": "Бот: Журналды яңыртыу",
+	"checkimages-no-license-head": "Лицензияһыҙ һүрәт",
+	"checkimages-source-notice-comment": "Бот: Мәғлүмәт сығанағына һорау.",
+	"checkimages-unknown-extension-head": "Билгеһеҙ киңәйтеү!",
+	"checkimages-unknown-extension-msg": "%(file)s файлы дөрөҫ киңәйтелеүе булмаҫҡа мөмкин, зинһар тикшерегеҙ."
+}

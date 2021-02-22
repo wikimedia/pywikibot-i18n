@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Avjoska"
+			"Avjoska",
+			"Pikne"
 		]
 	},
+	"solve_disambiguation-adding-dn-template": "Robotipõhine lingitäpsustus: %(from)s – märgitud tähelepanu vajavaks",
+	"solve_disambiguation-links-removed": "Robotipõhine lingitäpsustus: %(from)s – link eemaldatud",
+	"solve_disambiguation-links-resolved": "Robotipõhine lingitäpsustus: %(from)s → %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Robotipõhine lingitäpsustus: %(from)s – märgitud tähelepanu vajavaks",
+	"solve_disambiguation-redirect-removed": "Robotipõhine lingitäpsustus: %(from)s – link eemaldatud",
+	"solve_disambiguation-redirect-resolved": "Robotipõhine lingitäpsustus: %(from)s → %(to)s",
 	"solve_disambiguation-unknown-page": "(tundmatu)"
 }

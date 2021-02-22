@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Haqmar",
+			"MR973",
 			"Sagan",
 			"Xqt"
 		]
@@ -13,6 +14,9 @@
 	"category-renamed": "Робот:%(oldcat)s категорияһынан күсерелде. Авторҙар: %(authors)s",
 	"category-replacing": "Робот: %(oldcat)s категорияһын %(newcat)s категорияһына алыштырыу",
 	"category-section-title": " Элекке %(oldcat)s категорияһын бит тарихы",
+	"category-strip-cfd-templates": "Бот: Тамамланған ғәмәлдәр өсөн CFD-шаблондарҙы алып ташлау",
+	"category-strip-sort-keys": "Бот: Тамамланған ғәмәлдәр өсөн сорт асҡыстарын алып ташлау",
+	"category-strip-both": "Бот: Тамамланған ғәмәлдәр өсөн CFD-шаблондарын һәм сорт асҡыстарын алып ташлау",
 	"category-version-history": "Робот: элекке %(oldcat)s категорияһындағы тарихты һаҡлау",
 	"category-was-disbanded": "Робот: категория бөтөрөлдө",
 	"category-was-moved": "Робот: Категория исеме [[:Category:%(newcat)s|%(title)s]] тип үҙгәртелде"

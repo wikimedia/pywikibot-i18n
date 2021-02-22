@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Haqmar"
+			"Haqmar",
+			"MR973"
 		]
 	},
-	"noreferences-add-tag": "Робот: булмаған <references /> тегы өҫтәлде"
+	"noreferences-add-tag": "Робот: булмаған <references /> тегы өҫтәлде",
+	"noreferences-fix-tag": "Бот: <references /> өсөн дөрөҫ булмаған синтаксисты төҙәтеү"
 }

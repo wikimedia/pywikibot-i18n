@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aue Nai"
+			"Aue Nai",
+			"Htawmonzel"
 		]
 	},
-	"welcome-updating": "ရုပ်စက်: ပဂဵုလဟဵုဒၟံၚ် လံက်",
+	"welcome-bad_username": "ဘောတ်: စုတ် ညးလွပ် ဒဒှ် မနွံပၟိက် သ္ဒးစၟဳစၟတ်",
+	"welcome-updating": "ရုပ်စက်: ပဂဵုလဟဵုဒၟံင် လံက်",
 	"welcome-welcome": "ဒုင်တၠုင်ရအဴ"
 }

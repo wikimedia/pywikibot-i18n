@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"MR973"
+		]
+	},
+	"imagetransfer-file_page_message": "Һүрәт %(site)s күсерелгән. Оригиналь тасуирламаһы:\n\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Файл хәҙер Wikimedia Commons сайтында бар."
+}

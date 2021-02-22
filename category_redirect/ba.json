@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Haqmar"
+			"Haqmar",
+			"MR973"
 		]
 	},
 	"category_redirect-add-template": "Робот: категория йүнәлтеү ҡалыбын хеҙмәтләндереү өсөн өҫтәү",
@@ -9,5 +10,21 @@
 	"category_redirect-comment": "Категорияларҙы йүнәлтеү хеҙмәтен башҡарыусы робот",
 	"category_redirect-edit-request": "Түбәндәге һаҡланған биттәр категорияларҙың һылтанмаларын яңыртыуҙы һорай: %(itemlist)s",
 	"category_redirect-edit-request-item": "%(title)s, %(newcat)s категорияһына йүнәлтеү булған %(oldcat)s эсендә",
-	"category_redirect-fix-double": "Робот: Икеле йүнәлтеүҙе төҙәтеү"
+	"category_redirect-fix-double": "Робот: Икеле йүнәлтеүҙе төҙәтеү",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] (oldcat)s өҫтәлде",
+	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] %(oldcat)s өҫтәп булманы",
+	"category_redirect-log-double": "* Икеләтә-редирект төҙәтелде: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Уңышһыҙ: %(error)s",
+	"category_redirect-log-false-positive": "* Көтөлмәгән йүнәлтеү юҡ: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Иғтибар итмәү %(oldcat)s",
+	"category_redirect-log-loop": "* %(oldcat)s менән циклды йүнәлтеү",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d табылды, исеме үҙгәртелде %(moved)d",
+	"category_redirect-log-move-error": "* %(oldcat)s: move_contents хата",
+	"category_redirect-log-new": "Һуңғы отчеттан алып яңы редиректтар:",
+	"category_redirect-log-not-loaded": "* %(oldcat)s тейәп булманы; иғтибар итмәү",
+	"category_redirect-log-skipping": "* %(oldcat)s үткәреү; хәҙер тергеҙелә",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Иҫке яҙмалар журналда]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s %(page)s битенә йүнәлтелә",
+	"category_redirect-problem-redirects": "# %(oldcat)s %(redpage)s битенә йүнәлтелә",
+	"category_redirect-problem-self-linked": "# %(oldcat)s үҙ-үҙенә йүнәлтелә"
 }
