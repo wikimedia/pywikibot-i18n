@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": []
-	},
-	"featured-featured": "Botti: %(page)s on suositeltu artikkeli",
-	"featured-former": "Botti: %(page)s on entinen suositeltu artikkeli",
-	"featured-good": "Botti: %(page)s on hyvä artikkeli",
-	"featured-list": "Botti: %(page)s on suositeltu luettelo"
-}
