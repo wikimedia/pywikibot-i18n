@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Optilete",
-			"Siebrand"
+			"Siebrand",
+			"Valhallasw"
 		]
 	},
 	"category-adding": "Robot: categorie [[:Category:%(newcat)s|%(newcat)s]] toegevoegd",
@@ -13,7 +14,7 @@
 	"category-replacing": "Robot: categorie %(oldcat)s is vervangen door %(newcat)s",
 	"category-section-title": "Paginageschiedenis van voormalige %(oldcat)s",
 	"category-strip-cfd-templates": "Robot: categorieverwijderingssjablonen verwijderd voor afgeronde handeling",
-	"category-strip-sort-keys": "Bot: verwijder sorteersleutels voor afgeronde handeling",
+	"category-strip-sort-keys": "Robot: verwijder sorteersleutels voor afgeronde handeling",
 	"category-version-history": "Robot: versiegeschiedenis van voormalige %(oldcat)s opgeslagen",
 	"category-was-disbanded": "Robot: categorie is opgeheven",
 	"category-was-moved": "Robot: categorie is hernoemd naar [[:Category:%(newcat)s|%(title)s]]"

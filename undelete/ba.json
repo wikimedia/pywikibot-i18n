@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"MR973"
+		]
+	},
+	"undelete-from-file": "Бот: Биттәр исемлеген тергеҙеү",
+	"undelete-images": "Бот: %(page)s битендәге бөтә һүрәттәрҙе тергеҙеү",
+	"undelete-linked-pages": "Бот: %(page)s һылтанмалар ҡуйылған бөтә биттәрҙе тергеҙеү"
+}

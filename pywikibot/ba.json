@@ -2,14 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Haqmar",
+			"MR973",
 			"Sagan"
 		]
 	},
 	"pywikibot-enter-category-name": "Категория исемен яҙығыҙ:",
-	"pywikibot-enter-file-links-processing": "Рәсемдәрҙең ҡайһы битенә һылтанманы эшкәртергә?",
+	"pywikibot-enter-file-links-processing": "Файлдың ҡайһы битенә һылтанманмалар  эшкәртелергә тейеш?",
 	"pywikibot-enter-finished-browser": "Браузерҙа эш тамамланғандан һуң Enter төймәһенә баҫығыҙ.",
 	"pywikibot-enter-namespace-number": "Исем арауығы номерын яҙығыҙ:",
 	"pywikibot-enter-new-text": "Яңы текст яҙығыҙ:",
 	"pywikibot-enter-page-processing": "Ҡайһы бит эшкәртелергә тейеш?",
-	"pywikibot-enter-xml-filename": "Зинһар, XML дампы файлы исемен яҙығыҙ:"
+	"pywikibot-enter-xml-filename": "Зинһар, XML дампы файлы исемен яҙығыҙ:",
+	"pywikibot-fixes-fckeditor": "Бот: Интеграцияланған текст редакторынан һуң HTML-кодты төҙәтеү",
+	"pywikibot-fixes-html": "Бот: HTML үҙгәртеү/төҙәтеү",
+	"pywikibot-fixes-syntax": "Бот: Вики синтаксисты төҙәтеү",
+	"pywikibot-touch": "Pywikibot төҙәтмәһе"
 }

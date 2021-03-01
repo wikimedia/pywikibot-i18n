@@ -11,7 +11,7 @@
 	"category_redirect-edit-request": "Түбәндәге һаҡланған биттәр категорияларҙың һылтанмаларын яңыртыуҙы һорай: %(itemlist)s",
 	"category_redirect-edit-request-item": "%(title)s, %(newcat)s категорияһына йүнәлтеү булған %(oldcat)s эсендә",
 	"category_redirect-fix-double": "Робот: Икеле йүнәлтеүҙе төҙәтеү",
-	"category_redirect-log-added": "* [[%(ns)s%(template)s]] (oldcat)s өҫтәлде",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] %(oldcat)s өҫтәлде",
 	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] %(oldcat)s өҫтәп булманы",
 	"category_redirect-log-double": "* Икеләтә-редирект төҙәтелде: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Уңышһыҙ: %(error)s",
