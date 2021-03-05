@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Valhallasw"
+		]
+	},
+	"transferbot-summary": "Moved page from %(source)s",
+	"transferbot-target": "This page was moved from %(source)s. Its edit history can be viewed at %(history)s"
+}
