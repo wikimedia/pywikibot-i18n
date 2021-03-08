@@ -2,13 +2,30 @@
 	"@metadata": {
 		"authors": [
 			"Teslaton",
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
-	"category_redirect-add-template": "Robot: Pridanie šablóny presmerovania kategórie kvôli údržbe",
-	"category_redirect-change-category": "Robot: Zmeňte presmerovanú kategóriu [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
-	"category_redirect-comment": "Robot na údržbu presmerovaní kategórií",
-	"category_redirect-edit-request": "Nasledujúce zamknuté stránky vyžadujú úpravu odkazov ku kategóriám: %(itemlist)s",
+	"category_redirect-add-template": "Bot: Pridávanie šablóny presmerovania kategórie kvôli údržbe",
+	"category_redirect-change-category": "Bot: Zmena presmerovanej kategórie [[:%(oldCatLink)s|%(oldCatTitle)s]] do [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot na údržbu presmerovaní kategórií",
+	"category_redirect-edit-request": "Nasledujúce uzamknuté stránky vyžadujú úpravu odkazov ku kategóriám: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s je v kategórii %(oldcat)s, ktorá je presmerovaná na %(newcat)s",
-	"category_redirect-fix-double": "Robot opravil dvojité presmerovanie"
+	"category_redirect-fix-double": "Bot: Oprava dvojitého presmerovania",
+	"category_redirect-log-added": "* Pridané [[%(ns)s%(template)s]] do %(oldcat)s",
+	"category_redirect-log-add-failed": "* Pridávanie [[%(ns)s%(template)s]] do %(oldcat)s zlyhalo",
+	"category_redirect-log-double": "* Dvojité presmerovanie opravené: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Zlyhanie: %(error)s",
+	"category_redirect-log-false-positive": "* Nečakané nepresmerovanie: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ignorovanie %(oldcat)s",
+	"category_redirect-log-loop": "* Presmerovanie cyklu z %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d nájdené, %(moved)d presunuté",
+	"category_redirect-log-move-error": "* %(oldcat)s: chyba v move_contents",
+	"category_redirect-log-new": "Nové presmerovania od posledného hlásenia:",
+	"category_redirect-log-not-loaded": "* Nemožno načítať %(oldcat)s; ignorovanie",
+	"category_redirect-log-skipping": "* Preskočenie %(oldcat)s; v intervale pauzy",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Staršie záznamy]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s je tvrdé presmerovanie na %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s presmeruje na %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s je presmerovanie na seba"
 }

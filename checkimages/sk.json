@@ -1,9 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
+	"checkimages-deletion-comment": "Bot: Pridávanie %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: Súbor už je na Commons, môže byť vymazaný",
+	"checkimages-doubles-head": "Duplicitný súbor",
+	"checkimages-doubles-talk-comment": "Bot: Upozorni ak súbor už na Commons existuje",
+	"checkimages-log-comment": "Bot: Aktualizácia záznamu",
+	"checkimages-no-license-head": "Obrázok bez licencie",
 	"checkimages-source-tag-comment": "Bot: Označenie nových neoznačených súborov",
-	"checkimages-source-notice-comment": "Bot: Chýba zdroj"
+	"checkimages-source-notice-comment": "Bot: Požadovanie zdroja informácií.",
+	"checkimages-unknown-extension-head": "Neznáma prípona!"
 }

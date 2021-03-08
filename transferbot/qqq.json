@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Xqt"
 		]
 	},
-	"transferbot-summary": "Edit summary when the bot transfers a page from source page to target. Parameters:\n * %(source)s - link of the source page",
-	"transferbot-target": "A summary which is written to a target page when a content was copied from a source. Parameters:\n %(source)s - link of the source page\n * %(history)s - link of the edit history page"
+	"transferbot-summary": "Edit summary when the bot transfers a page from source page to target. Parameters:\n* %(source)s - link of the source page",
+	"transferbot-target": "A summary which is written to a target page when a content was copied from a source. Parameters:\n* %(source)s - link of the source page\n* %(history)s - link of the edit history page"
 }

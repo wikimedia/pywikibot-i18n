@@ -5,12 +5,13 @@
 			"Mikulas1",
 			"Teslaton",
 			"Wizzard",
-			"Xqt"
+			"Xqt",
+			"Yardom78"
 		]
 	},
 	"archivebot-archive-full": "(ARCHÍV JE PLNÝ)",
-	"archivebot-archive-summary": "Archivácia %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} z [[%(from)s]]",
+	"archivebot-archive-summary": "Bot: Archivácia vlákien: %(count)d z [[%(from)s]]",
 	"archivebot-archiveheader": "{{Archív koniec}}",
-	"archivebot-older-than": "staršie ako %(duration)s",
+	"archivebot-older-than": "%(count)d je/sú staršie ako %(duration)s",
 	"archivebot-page-summary": "Bot: archivujem %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} (%(why)s) do %(archives)s"
 }

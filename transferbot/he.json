@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"transferbot-summary": "הדף הועבר מ%(source)s",
+	"transferbot-target": "הדף הועבר מ%(source)s. אפשר לצפות בהיסטוריית העריכה שלו בדף %(history)s"
+}

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"Yardom78"
 		]
 	},
-	"add_text-adding": "Robot pridal %(adding)s"
+	"add_text-adding": "Bot: pridanie %(adding)s"
 }

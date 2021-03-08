@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"transferbot-summary": "Page déplacée depuis %(source)s",
+	"transferbot-target": "Cette page a été déplacée depuis %(source)s. Son historique de modification peut être vu sur %(history)s"
+}

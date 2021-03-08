@@ -3,18 +3,21 @@
 		"authors": [
 			"Mikulas1",
 			"Teslaton",
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
-	"category-adding": "Robot: Pridanie kategórie [[: Kategória: %(newcat)s|%(newcat)s]]",
+	"category-adding": "Bot: Pridanie kategórie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(aj v %(alsocat)s)",
-	"category-listifying": "Robot: vytvorenie zoznamu obsahu kategórie %(fromcat)s ({{PLURAL:%(num)d|1 položka|%(num)d položky|%(num)d položiek}})",
-	"category-removing": "Robot: Odstránenie z %(oldcat)s",
-	"category-renamed": "Robot: Presunuté z %(oldcat)s. Autori: %(authors)s",
-	"category-replacing": "Robot nahradil kategóriu %(oldcat)s za %(newcat)s",
-	"category-section-title": "História verzií bývalej %(oldcat)s",
-	"category-strip-cfd-templates": "Bot: Odstránenie CFD šablón pre ukončene akcie",
-	"category-version-history": "Robot: Uloženie histórie verzií bývalej %(oldcat)s",
-	"category-was-disbanded": "Robot: Kategória bola vyprázdnená",
-	"category-was-moved": "Kategória bola presunutá na [[:Category:%(newcat)s|%(title)s]]"
+	"category-listifying": "Bot: vytváranie zoznamu %(fromcat)s (počet záznamov: %(num)d)",
+	"category-removing": "Bot: Odstraňovanie z %(oldcat)s",
+	"category-renamed": "Bot: Presunuté z %(oldcat)s. Autori: %(authors)s",
+	"category-replacing": "Bot: Nahradzovanie kategórie %(oldcat)s za kategóriu %(newcat)s",
+	"category-section-title": "História verzií %(oldcat)s",
+	"category-strip-cfd-templates": "Bot: Odstraňovanie CFD šablón pre ukončené akcie",
+	"category-strip-sort-keys": "Bot: Odstraňovanie triediacich kľúčov pre ukončené akcie",
+	"category-strip-both": "Bot: Odstraňovanie CFD šablón a triediacich kľúčov pre ukončené akcie",
+	"category-version-history": "Bot: Ukladanie histórie verzií %(oldcat)s",
+	"category-was-disbanded": "Bot: Kategória bola zrušená",
+	"category-was-moved": "Bot: Kategória bola presunutá do [[:Category:%(newcat)s|%(title)s]]"
 }
