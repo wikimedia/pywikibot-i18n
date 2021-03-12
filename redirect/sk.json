@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Teslaton",
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
-	"redirect-fix-broken-moved": "Robot: Oprava porušeného presmerovania na presunutú cieľovú stránku %(to)s",
-	"redirect-fix-double": "Robot: Opravujem dvojité presmerovanie na %(to)s",
-	"redirect-fix-loop": "Robot: Oprava cyklického presmerovania na %(to)s",
-	"redirect-remove-broken": "Robot: Presmerovanie na neexistujúcu stránku",
-	"redirect-remove-loop": "Robot: Cieľ presmerovania tvorí slučku"
+	"redirect-fix-broken-moved": "Bot: Oprava porušeného presmerovania na presunutú cieľovú stránku %(to)s",
+	"redirect-fix-double": "Bot: Oprava dvojitého presmerovanie na %(to)s",
+	"redirect-fix-loop": "Bot: Oprava cyklického presmerovania na %(to)s",
+	"redirect-remove-broken": "Bot: Presmerovanie na vymazanú alebo neexistujúcu stránku",
+	"redirect-remove-loop": "Bot: Cieľ presmerovania tvorí slučku"
 }

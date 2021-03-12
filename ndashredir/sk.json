@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"Yardom78"
 		]
 	},
-	"ndashredir-create": "Robot: Vytvorenie spojovníkového presmerovania k [[%(title)s]]"
+	"ndashredir-create": "Robot: Vytváranie presmerovania na [[%(title)s]]"
 }

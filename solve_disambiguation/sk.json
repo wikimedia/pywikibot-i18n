@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Teslaton",
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Rozlíšenie za pomoci robota: %(from)s – Označené, že vyžaduje pozornosť odborníka",
 	"solve_disambiguation-links-removed": "Rozlíšenie za pomoci robota: %(from)s – Odstránené odkazy",
 	"solve_disambiguation-links-resolved": "Rozlíšenie za pomoci robota: %(from)s – zmenené odkazy na %(to)s",
 	"solve_disambiguation-redirect-adding-dn-template": "Rozlíšenie za pomoci robota: %(from)s – označené, že vyžaduje pozornosť odborníka",
-	"solve_disambiguation-redirect-removed": "Robot opravil presmerovanie na %(from)s – Odstránené odkazy",
-	"solve_disambiguation-redirect-resolved": "Robot opravil presmerovanie na %(from)s – Zmenené odkazy na %(to)s",
+	"solve_disambiguation-redirect-removed": "Bot: %(from)s – Odstránené odkazy",
+	"solve_disambiguation-redirect-resolved": "Bot: %(from)s – Zmenené odkazy na %(to)s",
 	"solve_disambiguation-unknown-page": "(neznáme)"
 }

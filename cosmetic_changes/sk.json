@@ -1,7 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Yardom78"
+		]
 	},
 	"cosmetic_changes-append": "; kozmetické zmeny",
-	"cosmetic_changes-standalone": "robot kozmetické zmeny"
+	"cosmetic_changes-standalone": "Bot: Kozmetické úpravy"
 }

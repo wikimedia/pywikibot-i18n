@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
-	"unprotect-category": "Bot: Odomknutie všetkých stránok v kategórii %(cat)s",
-	"unprotect-images": "Bot: Odomknutie všetkých súborov na stránke %(page)s",
-	"unprotect-links": "Bot: Odomknutie všetkých stránok, na ktoré sa odkazuje z %(page)s",
-	"unprotect-ref": "Bot: Odomknutie všetkých stránok spomenutých na stránke %(page)s",
-	"unprotect-simple": "Bot: Odomknutie súborov zo zoznamu"
+	"unprotect-category": "Bot: Odomykanie všetkých stránok v kategórii %(cat)s",
+	"unprotect-images": "Bot: Odomykanie všetkých súborov na stránke %(page)s",
+	"unprotect-links": "Bot: Odomykanie všetkých stránok, na ktoré sa odkazuje z %(page)s",
+	"unprotect-ref": "Bot: Odomykanie všetkých stránok spomenutých na stránke %(page)s",
+	"unprotect-simple": "Bot: Odomykanie zoznamu súborov"
 }

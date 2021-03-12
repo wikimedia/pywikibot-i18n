@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
 	"reflinks-autogen": "vytvorené automaticky",
 	"reflinks-comment": "Názov vygenerovaný botom",
-	"reflinks-msg": "Bot: pridanie popiskov referenciám na zabránenie duplicít, viď [[%(manual)s|FAQ]]"
+	"reflinks-msg": "Bot: Zmena čistých referencií použitím referenčných názvov na zabránenie duplicít, viď [[%(manual)s|FAQ]]"
 }

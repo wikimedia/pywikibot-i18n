@@ -1,13 +1,15 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Yardom78"
+		]
 	},
-	"interwiki-adding": "robot Pridal: %(adding)s",
-	"interwiki-adding-modifying": "robot Pridal: %(adding)s Zmenil: %(modifying)s",
-	"interwiki-adding-removing": "robot Pridal: %(adding)s Odobral: %(removing)s",
-	"interwiki-adding-removing-modifying": "robot Pridal: %(adding)s Odobral: %(removing)s Zmenil: %(modifying)s",
-	"interwiki-modifying": "robot Zmenil: %(modifying)s",
-	"interwiki-modifying-from": "Robot: Zmena %(from)s na %(modifying)s",
-	"interwiki-removing": "robot Odobral: %(removing)s",
-	"interwiki-removing-modifying": "robot Odobral: %(removing)s Zmenil: %(modifying)s"
+	"interwiki-adding": "Bot: Pridávanie %(adding)s",
+	"interwiki-adding-modifying": "Bot: Pridávanie %(adding)s; upravovanie %(modifying)s",
+	"interwiki-adding-removing": "Bot: Pridávanie %(adding)s; odstraňovanie %(removing)s",
+	"interwiki-adding-removing-modifying": "Bot: Pridávanie %(adding)s; odoberanie %(removing)s; úprava %(modifying)s",
+	"interwiki-modifying": "Bot: Úprava %(modifying)s",
+	"interwiki-modifying-from": "Bot: Úprava %(from)s na %(modifying)s",
+	"interwiki-removing": "Bot: Odstraňovanie %(removing)s",
+	"interwiki-removing-modifying": "Bot: Odstraňovanie %(removing)s; úprava %(modifying)s"
 }

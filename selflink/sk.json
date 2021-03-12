@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
-	"selflink-remove": "Bot: Odstránenie odkazu na článok, z ktorého sa odkazuje"
+	"selflink-remove": "Bot: Odstraňovanie odkazu na vlastný článok"
 }

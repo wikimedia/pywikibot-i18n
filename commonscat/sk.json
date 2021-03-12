@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mercy"
+			"Mercy",
+			"Yardom78"
 		]
 	},
-	"commonscat-msg_change": "Robot zmenil šablónu Commonscat z [[:Commons:Category:%(oldcat)s|%(oldcat)s]] na [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Bot: Zmena odkazu Commonscat z [[:Commons:Category:%(oldcat)s|%(oldcat)s]] na [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

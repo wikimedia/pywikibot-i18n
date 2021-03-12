@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
-	"image-remove": "Bot: Odstránenie obrázka %(file)s",
-	"image-replace": "Bot: Nahradenie obrázka %(old)s za %(new)s"
+	"image-remove": "Bot: Odstraňovanie obrázka %(file)s",
+	"image-replace": "Bot: Nahradzovanie obrázka %(old)s obrázkom %(new)s"
 }

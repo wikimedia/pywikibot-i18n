@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"Yardom78"
 		]
 	},
-	"djvutext-creating": "Robot: Vytvorenie stránky s textom extrahovaným z DjVu"
+	"djvutext-creating": "Bot: Vytváranie stránky s textom extrahovaným z DjVu"
 }

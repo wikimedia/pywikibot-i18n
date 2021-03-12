@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joseph"
+		]
+	},
+	"transferbot-summary": "Sayfayı %(source)s sayfasından taşıdı",
+	"transferbot-target": "Bu sayfa %(source)s sayfasından taşındı. Düzenleme geçmişi %(history)s sayfasından görülebilir."
+}

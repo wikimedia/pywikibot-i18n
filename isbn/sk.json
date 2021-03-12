@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
-	"isbn-formatting": "Robot: Formátovanie ISBN"
+	"isbn-formatting": "Bot: Formátovanie ISBN"
 }

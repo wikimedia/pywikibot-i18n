@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
 	"imagetransfer-file_page_message": "Tento obrázok bol skopírovaný z %(site)s. Pôvodný popis bol:\n\n%(description)s",
-	"imagetransfer-nowcommons_notice": "Súbor je teraz dostupný na Wikimedia Commons."
+	"imagetransfer-nowcommons_notice": "Súbor je teraz dostupný na Wikimédia Commons."
 }

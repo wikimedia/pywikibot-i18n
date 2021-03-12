@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"Yardom78"
 		]
 	},
-	"unlink-unlinking": "Robot: Odstránenie prepojenia na \"%(title)s\""
+	"unlink-unlinking": "Bot: Odstraňovanie prepojenia na \"%(title)s\""
 }

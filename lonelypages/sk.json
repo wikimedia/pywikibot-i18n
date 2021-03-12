@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mikulas1"
+			"Mikulas1",
+			"Yardom78"
 		]
 	},
-	"lonelypages-comment-add-disambig-template": "Bot: pridanie rozlišovacej stránky",
-	"lonelypages-comment-add-template": "Bot: osirotená stránka, pridať šablónu"
+	"lonelypages-comment-add-disambig-template": "Bot: Pridávanie rozlišovacej stránky",
+	"lonelypages-comment-add-template": "Bot: Osirotená stránka, pridať šablónu"
 }

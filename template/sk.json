@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"Yardom78"
 		]
 	},
-	"template-changing": "Robot: Úprava {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s",
-	"template-removing": "Robot: Odstránenie {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s",
-	"template-substituting": "Robot: Náhrada {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s"
+	"template-changing": "Bot: Úprava {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s",
+	"template-removing": "Bot: Odstraňovanie {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s",
+	"template-substituting": "Bot: Náhrada {{PLURAL:%(num)d|šablóny|šablón}}: %(list)s"
 }

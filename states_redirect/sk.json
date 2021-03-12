@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
-	"states_redirect-comment": "Bot: Vytvorenie presmerovania so skratkou štátu"
+	"states_redirect-comment": "Bot: Vytváranie presmerovania so skratkou štátu"
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton"
+			"Teslaton",
+			"Yardom78"
 		]
 	},
-	"replace-replacing": "Robot automaticky nahradil text: %(description)s"
+	"replace-replacing": "Bot: Nahradzovanie automatického textu %(description)s"
 }

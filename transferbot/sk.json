@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yardom78"
+		]
+	},
+	"transferbot-summary": "Presunutá stránka z %(source)s",
+	"transferbot-target": "Táto stránka bola presununá z %(source)s. Jej história úprav sa dá vidieť na %(history)s"
+}

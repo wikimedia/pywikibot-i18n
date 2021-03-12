@@ -3,17 +3,19 @@
 		"authors": [
 			"Kusavica",
 			"Teslaton",
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
 	"pywikibot-enter-category-name": "Zadajte názov kategórie:",
-	"pywikibot-enter-file-links-processing": "Odkazy na ktorú stránku so súborom majú býť spracované?",
+	"pywikibot-enter-file-links-processing": "Odkazy na ktorú stránku so súborom majú byť spracované?",
 	"pywikibot-enter-finished-browser": "Po ukončení činnosti v prehliadači stlačte Enter.",
 	"pywikibot-enter-namespace-number": "Zadajte číslo menného priestoru:",
 	"pywikibot-enter-new-text": "Zadajte nový text:",
 	"pywikibot-enter-page-processing": "Ktorá stránka má byť spracovaná?",
 	"pywikibot-enter-xml-filename": "Zadajte názov súboru s XML výpisom:",
-	"pywikibot-fixes-fckeditor": "Bot: opravujem html rich-editoru",
-	"pywikibot-fixes-html": "Bot: prevod/oprava HTML",
-	"pywikibot-fixes-syntax": "Bot: Oprava wikisyntaxe"
+	"pywikibot-fixes-fckeditor": "Bot: Oprava html rich-editoru",
+	"pywikibot-fixes-html": "Bot: Zmena/oprava HTML",
+	"pywikibot-fixes-syntax": "Bot: Oprava syntaxu wiki",
+	"pywikibot-touch": "Editovanie Pywikibotom"
 }

@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
-	"undelete-from-file": "Bot: Obnovenie stránok zo zoznamu zmazaných stránok",
-	"undelete-images": "Bot: Obnovenie všetkých obrázkov na stránke %(page)s",
-	"undelete-linked-pages": "Bot: Obnovenie všetkých stránok, na ktoré sa odkazuje zo stránky %(page)s"
+	"undelete-from-file": "Bot: Obnovovanie zoznamu stránok",
+	"undelete-images": "Bot: Obnovovanie všetkých obrázkov na stránke %(page)s",
+	"undelete-linked-pages": "Bot: Obnovovanie všetkých stránok, na ktoré sa odkazuje zo stránky %(page)s"
 }

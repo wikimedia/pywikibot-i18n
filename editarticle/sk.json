@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
-	"editarticle-edit": "Ručná úprava s pomocou robota: %(description)s"
+	"editarticle-edit": "Ručná úprava s pomocou bota: %(description)s"
 }

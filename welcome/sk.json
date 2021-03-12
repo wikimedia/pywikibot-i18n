@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
-	"welcome-bad_username": "Robot: Pridávam používateľské meno, ktoré je potrebné skontrolovať",
-	"welcome-updating": "Robot: Aktualizujem log",
+	"welcome-bad_username": "Bot: Pridávanie používateľského mena, ktoré je potrebné skontrolovať",
+	"welcome-updating": "Bot: Aktualizácia záznamu",
 	"welcome-welcome": "Vitajte!"
 }

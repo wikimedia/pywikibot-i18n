@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Sudo77(new)",
-			"Wizzard"
+			"Wizzard",
+			"Yardom78"
 		]
 	},
-	"delete-from-category": "Robot: Odstránenie všetkých strán z kategórie %(page)s",
-	"delete-from-file": "Robot: Mazanie zoznamu stránok.",
-	"delete-images": "Robot: Odstránenie všetkých obrázkov na stránke %(page)s",
-	"delete-linked-pages": "Robot zmazal všetko odkazované z %(page)s",
-	"delete-referring-pages": "Robot: Odstránenie všetkých strán s odkazom z %(page)s"
+	"delete-from-category": "Bot: Odstraňovanie všetkých strán z kategórie %(page)s",
+	"delete-from-file": "Bot: Mazanie zoznamu stránok.",
+	"delete-images": "Bot: Odstraňovanie všetkých obrázkov na stránke %(page)s",
+	"delete-linked-pages": "Bot: Mazanie všetkých stránok odkázaných zo stránky %(page)s",
+	"delete-referring-pages": "Bot: Odstraňovanie všetkých stránok s odkazom z %(page)s"
 }

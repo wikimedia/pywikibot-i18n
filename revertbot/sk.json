@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"TomášPolonec"
+			"TomášPolonec",
+			"Yardom78"
 		]
 	},
-	"revertbot-revert": "Bot: Revert na revíziu %(revid)s od %(author)s z %(timestamp)s"
+	"revertbot-revert": "Bot: Vrátenie na verziu %(revid)s od autora %(author)s z %(timestamp)s"
 }

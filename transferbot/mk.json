@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"transferbot-summary": "Преместена странца од %(source)s",
+	"transferbot-target": "Оваа страница е преместена од %(source)s. Нејзината историја на уредување можете да ја погледате на %(history)s"
+}
