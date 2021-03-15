@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naufal06"
+		]
+	},
+	"transferbot-summary": "Memindahkan halaman dari %(source)s",
+	"transferbot-target": "Halaman ini telah dipindahkan dari %(source)s. Sejarah penyuntingannya dapat dilihat di %(history)s"
+}
