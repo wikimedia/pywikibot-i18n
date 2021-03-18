@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mguix"
+		]
+	},
+	"transferbot-summary": "Pàgina moguda de %(source)s",
+	"transferbot-target": "Aquesta pàgina s'ha mogut de %(source)s. El seu historial d'edicions es pot veure a %(history)s"
+}
