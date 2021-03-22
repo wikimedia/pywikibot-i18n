@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"FF11"
+		]
+	},
+	"transferbot-summary": "Seite verschoben von %(source)s",
+	"transferbot-target": "Diese Seite wurde von %(source)s verschoben. Ihre Versionsgeschichte kann auf folgender Seite gesehen werden: %(history)s"
+}

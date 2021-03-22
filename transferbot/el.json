@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki"
+		]
+	},
+	"transferbot-summary": "Μετακίνηση σελίδας από %(source)s",
+	"transferbot-target": "Αυτή η σελίδα μετακινήθηκε από %(source)s. Το ιστορικό επεξεργασιών μπορεί να προσπελαστεί στην %(history)s"
+}
