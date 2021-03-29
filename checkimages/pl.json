@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chrumps",
 			"Mateon1",
 			"Woytecr"
 		]
 	},
 	"checkimages-source-tag-comment": "Robot: Oznaczanie ostatnio wysłanego nietagowanego pliku",
-	"checkimages-source-notice-comment": "Bot: Zapytanie o źródła informacji."
+	"checkimages-source-notice-comment": "Bot: Zapytanie o źródła informacji.",
+	"checkimages-unknown-extension-head": "Nieznane rozszerzenie!"
 }

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Tahmid02016",
 			"Wikitanvir"
 		]
 	},
-	"cosmetic_changes-append": "; কসমেটিক পরিবর্তন",
-	"cosmetic_changes-standalone": "বট: কসমেটিক পরিবর্তন"
+	"cosmetic_changes-append": "; সজ্জা পরিবর্তন",
+	"cosmetic_changes-standalone": "বট: সজ্জা পরিবর্তন"
 }

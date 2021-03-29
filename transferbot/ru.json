@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"transferbot-summary": "Переименованная страница из %(source)s",
+	"transferbot-target": "Эта страница была переименована из %(source)s. Её история правок может быть просмотрена на %(history)s"
+}
