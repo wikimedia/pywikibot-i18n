@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"QeneralĞasım",
 			"Гусейн"
 		]
 	},
-	"template-changing": "Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} әвәз карде: %(list)s",
-	"template-removing": "Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} тәмиз кардеј : %(list)s",
-	"template-substituting": "Робот: {{PLURAL:%(num)d|ғәлиб|ғәлибон}} әвәз карде: %(list)s"
+	"template-changing": "Robot: {{PLURAL:%(num)d|nımunə|nımunəyon}} əvəz karde: %(list)s",
+	"template-removing": "Robot: {{PLURAL:%(num)d|nımunə|nımunəyon}} təmiz kardey: %(list)s",
+	"template-substituting": "Robot: {{PLURAL:%(num)d|nımunə|nımunəyon}} əvəz karde: %(list)s"
 }
