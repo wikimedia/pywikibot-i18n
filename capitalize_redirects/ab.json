@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Pupsik-ipa",
 			"Андрей"
 		]
 	},
-	"capitalize_redirects-create-redirect": "Бот: иаҧҵоуп аиасра [[%(to)s]] ахь"
+	"capitalize_redirects-create-redirect": "Бот: иаԥҵоуп аиасра [[%(to)s]] ахь"
 }
