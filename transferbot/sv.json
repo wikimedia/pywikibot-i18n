@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sabelöga"
+		]
+	},
+	"transferbot-summary": "Flyttade sidan från %(source)s",
+	"transferbot-target": "Denna sida flyttades från %(source)s. Dess historik kan ses på %(history)s"
+}

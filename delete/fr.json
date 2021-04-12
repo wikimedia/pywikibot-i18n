@@ -7,9 +7,9 @@
 			"Wladek92"
 		]
 	},
-	"delete-from-category": "Robot : suppression de toutes les pages de la catégorie %(page)s",
+	"delete-from-category": "Robot : suppression de toutes les pages de la catégorie %(page)s",
 	"delete-from-file": "Robot : suppression d’une liste de pages.",
 	"delete-images": "Robot : suppression de toutes les images de la page %(page)s",
-	"delete-linked-pages": "Robot : supprime toutes les pages liées depuis %(page)s",
-	"delete-referring-pages": "Robot : supprime toutes les pages référencées par %(page)s"
+	"delete-linked-pages": "Robot : suppression de toutes les pages liées depuis %(page)s",
+	"delete-referring-pages": "Robot : suppression de toutes les pages référencées par %(page)s"
 }
