@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Anhn",
 			"Cybjit",
 			"Jopparn",
 			"Lokal Profil",
@@ -19,5 +20,5 @@
 	"pywikibot-fixes-fckeditor": "Bot: Åtgärdar Rich-editor-html",
 	"pywikibot-fixes-html": "Bot: Konverterar/korrigerar HTML",
 	"pywikibot-fixes-syntax": "Bot: Fixar wikisyntax",
-	"pywikibot-touch": "Pywikibot-nolleredigering"
+	"pywikibot-touch": "Pywikibot noll-redigering"
 }
