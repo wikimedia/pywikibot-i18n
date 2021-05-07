@@ -1,18 +1,10 @@
 {
-  "name": "pywikibot-i18n",
-  "version": "0.0.0",
-  "description": "Internationalization files for Pywikibot",
-  "repository": {
-	  "type": "git",
-	  "url": "https://gerrit.wikimedia.org/r/p/pywikibot/core.git"
-  },
+  "private": true,
   "scripts": {
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt": ">=1.3.0",
-    "grunt-cli": "0.1.13",
-    "grunt-banana-checker": "0.2.2"
+    "grunt": "1.4.0",
+    "grunt-banana-checker": "0.9.0"
   }
 }
-

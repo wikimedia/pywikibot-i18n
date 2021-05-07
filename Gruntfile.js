@@ -1,9 +1,3 @@
-/*!
- * Grunt file
- * https://gruntjs.com/api/grunt.file
- */
-
-/*jshint node:true */
 module.exports = function ( grunt ) {
 	grunt.loadNpmTasks( 'grunt-banana-checker' );
 
