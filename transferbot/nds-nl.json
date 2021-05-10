@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Servien"
+		]
+	},
+	"transferbot-summary": "Syde verplaatsd van %(source)s",
+	"transferbot-target": "Disse syde is verplaatsd van %(source)s. De bewarkgeskydenisse kün jy inseen by %(history)s"
+}

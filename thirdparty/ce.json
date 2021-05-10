@@ -4,7 +4,7 @@
 			"Умар"
 		]
 	},
-	"thirdparty-drtrigonbot-subster-summary-mod": "хуьйцуш ю тегаш %(tags)s",
+	"thirdparty-drtrigonbot-subster-summary-mod": "хуьйцуш йу тегаш %(tags)s",
 	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Дийцар хийцаделла",
 	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Дийцар дIачIаьгIна",
 	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "РОБОТАН ХААМ",
@@ -17,8 +17,8 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-notify": ":* %(notify)s: <span class=\"plainlinks\">[%(page_link)s %(page)s]</span> - декъашхочун [[User:%(user)s]] тӀаьххьара нисдар (%(time)s)",
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Роботан дӀахьедар: %(page)s \"''%(warning)s''\"",
-	"thirdparty-drtrigonbot-sum_disc-summary-add": "Дийцарийн дош тӀетоьхна: %(num)i дӀаяздар",
-	"thirdparty-drtrigonbot-sum_disc-summary-clean": "ЖамӀ тӀетоьхна а дийцаре нисдина: %(num)i дӀаяздарш",
+	"thirdparty-drtrigonbot-sum_disc-summary-add": "Дийцарийн дош тӀетоьхна: %(num)i дӀайаздар",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "ЖамӀ тӀетоьхна а дийцаре нисдина: %(num)i дӀайаздарш",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот",
-	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Дийцарийн дешнаш карладахар: %(num)i дӀаяздарш %(page)s"
+	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Дийцарийн дешнаш карладахар: %(num)i дӀайаздарш %(page)s"
 }

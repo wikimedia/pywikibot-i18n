@@ -8,12 +8,12 @@
 	"category-adding": "робот: тIетоьхна Категори [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(кхин %(alsocat)s) чохь",
 	"category-listifying": "бот: кхуллуш бу могӀам ({{PLURAL:%(num)d|элементах|элементашах}}) %(fromcat)s",
-	"category-removing": "бот: юкъара яккхар %(oldcat)s чуьра",
+	"category-removing": "бот: йукъара йаккхар %(oldcat)s чуьра",
 	"category-renamed": "бот: %(oldcat)s чуьра дихьа йаьккхина. автораш: %(authors)s",
 	"category-replacing": "бот: хийцина категореш %(oldcat)s → %(newcat)s",
 	"category-section-title": "АгӀона истори хила %(oldcat)s чура",
 	"category-strip-cfd-templates": "Бот: болх чекхбаьлла CFD-кепаш дӀаяхар",
-	"category-version-history": "бот: историн верси Ӏалашъяр хиллачу %(oldcat)s чура",
+	"category-version-history": "бот: историн верси Ӏалашйар хиллачу %(oldcat)s чуьра",
 	"category-was-disbanded": "бот: категори дӀасайикъина",
 	"category-was-moved": "бот: категорин цӀе хийцина → [[:Category:%(newcat)s|%(title)s]]"
 }
