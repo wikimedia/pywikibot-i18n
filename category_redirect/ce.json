@@ -7,7 +7,7 @@
 	"category_redirect-add-template": "бот: дӀасахьажош йолу кеп тӀетуьхина категореш болх баран",
 	"category_redirect-change-category": "бот: категореш дӀасахьажаяр хийцина [[:%(oldCatLink)s|%(oldCatTitle)s]] → [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Категореш дӀасахьажаяран болх бо бот",
-	"category_redirect-edit-request": "ТӀехьайогӀу гӀорала дина йолу агӀонийн хьажоргаш карлаяха еза категори: %(itemlist)s",
+	"category_redirect-edit-request": "ТӀехьайогӀу ларйина йолу агӀонийн категорин хьажоргаш карлайаха йеза: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s йу %(oldcat)s чохь, иза йу %(newcat)s тӀе дӀасахьажина",
-	"category_redirect-fix-double": "бот: шалха дӀасахьажинарг нисъяр"
+	"category_redirect-fix-double": "бот: шалха дӀасахьажинарг нисйар"
 }
