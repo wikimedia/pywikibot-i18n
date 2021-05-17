@@ -18,7 +18,7 @@
 	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-parse-warning": ":* Роботан дӀахьедар: %(page)s \"''%(warning)s''\"",
 	"thirdparty-drtrigonbot-sum_disc-summary-add": "Дийцарийн дош тӀетоьхна: %(num)i дӀайаздар",
-	"thirdparty-drtrigonbot-sum_disc-summary-clean": "ЖамӀ тӀетоьхна а дийцаре нисдина: %(num)i дӀайаздарш",
+	"thirdparty-drtrigonbot-sum_disc-summary-clean": "ЖамӀ тӀетоьхна а дийцар нисдина: %(num)i дӀайаздарш",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "бот",
 	"thirdparty-drtrigonbot-sum_disc-summary-mod": "Дийцарийн дешнаш карладахар: %(num)i дӀайаздарш %(page)s"
 }
