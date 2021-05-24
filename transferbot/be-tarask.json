@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renessaince"
+		]
+	},
+	"transferbot-summary": "Перанёс старонку з %(source)s",
+	"transferbot-target": "Гетая старонка была перанесеная з %(source)s. Ейную гісторыю рэдагаваньняў можна паглядзець на %(history)s"
+}

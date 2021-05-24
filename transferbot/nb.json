@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"transferbot-summary": "Flyttet side fra %(source)s",
+	"transferbot-target": "Denne siden ble flyttet fra %(source)s. Redigeringshistorikken kan ses på %(history)s"
+}
