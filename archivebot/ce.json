@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(АРХИВ ЙУЬЗЗИНА ЙУ)",
-	"archivebot-archive-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} [[%(from)s]] чура",
+	"archivebot-archive-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} [[%(from)s]] чуьра",
 	"archivebot-older-than": "%(duration)s нала {{PLURAL:%(count)d|къена}}",
-	"archivebot-page-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} (%(why)s) %(archives)s чура"
+	"archivebot-page-summary": "Архиваци %(count)d {{PLURAL:%(count)d|теман|темийн}} (%(why)s) %(archives)s чуьра"
 }

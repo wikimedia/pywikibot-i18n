@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Agent"
+		]
+	},
+	"transferbot-summary": "Página movida de %(source)s",
+	"transferbot-target": "Esta página fue movida de %(source)s. Su historial de editaciones puede ser vista en %(history)s"
+}

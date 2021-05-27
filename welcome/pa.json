@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"ArticleEditor404",
 			"Babanwalia",
 			"Raj Singh"
 		]
 	},
+	"welcome-bad_username": "ਬੋਟ: ਇੱਕ ਉਪਭੋਗਤਾ ਨਾਮ ਜੋੜਨਾ ਜਿਸਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ",
+	"welcome-updating": "ਬੋਟ: ਲਾਗ ਦਾ ਨਵੀਨੀਕਰਨ",
 	"welcome-welcome": "ਜੀ ਆਇਆਂ ਨੂੰ!"
 }
