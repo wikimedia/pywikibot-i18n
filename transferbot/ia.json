@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"transferbot-summary": "Pagina renominate ab %(source)s",
+	"transferbot-target": "Iste pagina ha essite renominate ab %(source)s. Su historia de modificationes pote esser vidite sur %(history)s"
+}

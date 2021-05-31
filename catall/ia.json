@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"McDutchie"
+		]
 	},
-	"catall-changing": "Bot: Alteration de categorias"
+	"catall-changing": "Robot: Alteration de categorias"
 }

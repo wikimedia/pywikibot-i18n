@@ -1,6 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"McDutchie"
+		]
 	},
-	"pagefromfile-msg": "Robot: Importation automatic de articulos"
+	"pagefromfile-msg": "Robot: Importation automatic de articulos",
+	"pagefromfile-msg_bottom": "adjungite al fin del pagina",
+	"pagefromfile-msg_force": "texto existente superscribite",
+	"pagefromfile-msg_top": "adjungite al initio del pagina"
 }

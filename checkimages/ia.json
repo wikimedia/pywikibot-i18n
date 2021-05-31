@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"checkimages-deletion-comment": "Robot: Addition de %(adding)s",
+	"checkimages-doubles-file-comment": "Robot: File es jam sur Commons, pote esser delite",
+	"checkimages-doubles-head": "File duplicate",
+	"checkimages-doubles-talk-comment": "Robot: Notifica que le file jam existe sur Commons",
+	"checkimages-log-comment": "Robot: Actualisa le registro",
+	"checkimages-no-license-head": "Imagine sin licentia",
+	"checkimages-source-tag-comment": "Robot: Marca un file novemente incargate sin etiquetta",
+	"checkimages-source-notice-comment": "Robot: Requesta information sur le fonte",
+	"checkimages-unknown-extension-head": "Extension incognite!",
+	"checkimages-unknown-extension-msg": "Le file %(file)s pare haber un extension incorrecte. Per favor verifica."
+}

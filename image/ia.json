@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"image-remove": "Robot: Remove imagine %(file)s",
+	"image-replace": "Robot: Reimplacia imagine %(old)s per %(new)s"
+}

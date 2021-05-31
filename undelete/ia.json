@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"undelete-from-file": "Robot: Restaura un lista de paginas",
+	"undelete-images": "Robot: Restaura tote le imagines sur le pagina %(page)s",
+	"undelete-linked-pages": "Robot: Restaura tote le paginas ligate ab %(page)s"
+}
