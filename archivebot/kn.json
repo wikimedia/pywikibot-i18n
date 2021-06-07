@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Akoppad",
-			"Xqt"
+			"Xqt",
+			"ಮಲ್ನಾಡಾಚ್ ಕೊಂಕ್ಣೊ"
 		]
 	},
 	"archivebot-archive-full": "(ಪೂರ್ಣ ಸಂಗ್ರಹ )",
-	"archivebot-older-than": "ಇದಕ್ಕಿಂತ ಹಳೆಯದಾದ %(duration)s ಗಳು"
+	"archivebot-older-than": "%(duration)s ಕ್ಕಿಂತ {{PLURAL:%(count)d|ಹಳೆಯ}}"
 }
