@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hhaboh162002"
+		]
+	},
+	"transferbot-summary": "نقلت الصفحة من %(source)s",
+	"transferbot-target": "نقلت هذه الصفحة من %(source)s. يمكن الاطلاع على تاريخ تعديلها في الصفحة %(history)s"
+}
