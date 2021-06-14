@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Juan90264"
+		]
+	},
+	"transferbot-summary": "Página movida de %(source)s",
+	"transferbot-target": "Esta página foi movida de %(source)s. Seu histórico de edição pode ser visto em %(history)s"
+}
