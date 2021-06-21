@@ -5,6 +5,8 @@
 			"Subi"
 		]
 	},
+	"checkimages-doubles-head": "Bikoiztutako fitxategia",
 	"checkimages-source-tag-comment": "Bot: Etiketarik gabeko fitxategi igo berria markatzen",
-	"checkimages-source-notice-comment": "Bot: jatorriaren informazioa eskatzen da."
+	"checkimages-source-notice-comment": "Bot: jatorriaren informazioa eskatzen da.",
+	"checkimages-unknown-extension-head": "Luzapen ezezaguna!"
 }
