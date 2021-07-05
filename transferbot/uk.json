@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"DDPAT"
+		]
+	},
+	"transferbot-summary": "Перейменована сторінка з %(source)s",
+	"transferbot-target": "Ця сторінка була перейменована з %(source)s. Її історія редагувань може бути переглянута на %(history)s"
+}

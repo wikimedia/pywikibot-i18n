@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Slepi"
+		]
+	},
+	"transferbot-summary": "Stránka přesunuta z %(source)s",
+	"transferbot-target": "Tato stránka byla přesunuta z %(source)s. Její historii úprav lze zobrazit na %(history)s"
+}

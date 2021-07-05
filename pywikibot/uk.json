@@ -3,6 +3,7 @@
 		"authors": [
 			"A1",
 			"Base",
+			"DDPAT",
 			"DixonD",
 			"Dmitry Nikitin",
 			"Movses",
@@ -19,5 +20,5 @@
 	"pywikibot-fixes-fckeditor": "Робот: Виправлення html після редактора форматованого тексту",
 	"pywikibot-fixes-html": "Бот: корекцiя HTML",
 	"pywikibot-fixes-syntax": "Бот: Корекцiя вiкi-синтаксису",
-	"pywikibot-touch": "Правка Pywikibot"
+	"pywikibot-touch": "Редагування Pywikibot"
 }
