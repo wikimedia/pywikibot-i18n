@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"transferbot-summary": "Sidj fersköwen faan %(source)s",
+	"transferbot-target": "Detdiar sidj as faan %(source)s fersköwen wurden. Hör histoore könst dü sä üüb: %(history)s"
+}
