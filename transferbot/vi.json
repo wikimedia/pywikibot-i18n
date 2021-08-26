@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vinhtantran"
+		]
+	},
+	"transferbot-summary": "Đã di chuyển trang từ %(source)s",
+	"transferbot-target": "Trang này được di chuyển từ %(source)s. Lịch sử sửa đổi của nó có thể xem tại %(history)s"
+}
