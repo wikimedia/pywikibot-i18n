@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"DDPAT",
 			"Dim Grits"
 		]
 	},
-	"unlink-unlinking": "Бот: Вилучення посилання \"%(title)s\""
+	"unlink-unlinking": "Бот: Вилучення посилання «%(title)s»"
 }

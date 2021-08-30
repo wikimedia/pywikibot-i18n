@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"DDPAT"
+		]
 	},
-	"basic-changing": "Бот: змінив ..."
+	"basic-changing": "Бот: змінив…"
 }

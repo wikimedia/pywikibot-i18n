@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ahonc",
+			"DDPAT",
 			"DixonD",
 			"Тест"
 		]
@@ -9,7 +10,7 @@
 	"solve_disambiguation-adding-dn-template": "Усунення неоднозначності за допомогою робота: %(from)s — Позначена як така, що потребує уваги експерта",
 	"solve_disambiguation-links-removed": "Виправлення посилання на багатозначність за допомогою бота: %(from)s вилучено",
 	"solve_disambiguation-links-resolved": "Виправлення посилання на багатозначність за допомогою бота: %(from)s змінено на %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Усунення неоднозначності за допомогою робота: %(from)s - Позначена як така, що потребує уваги експерта",
+	"solve_disambiguation-redirect-adding-dn-template": "Усунення неоднозначності за допомогою бота: %(from)s — Позначена як така, що потребує уваги експерта",
 	"solve_disambiguation-redirect-removed": "Виправлення посилання на багатозначність за допомогою бота: %(from)s вилучено",
 	"solve_disambiguation-redirect-resolved": "Виправлення посилання на багатозначність за допомогою бота: %(from)s змінено на %(to)s",
 	"solve_disambiguation-unknown-page": "(невідома)"
