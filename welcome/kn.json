@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Akoppad",
+			"Anoop rao",
 			"Nayvik"
 		]
 	},
-	"welcome-bad_username": "ರೋಬೋಟ್: ಸೇರಿಸಲಾಗುತ್ತಿರುವ  ಬಳಕೆದಾರಹೆಸರನ್ನು ಪರಿಶೀಲಿಸುವ   ಅಗತ್ಯವಿದೆ",
-	"welcome-updating": "ರೋಬೋಟ್: ದಾಖಲೆ ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ",
+	"welcome-bad_username": "ಬಾಟ್: ಸೇರಿಸಲಾಗುತ್ತಿರುವ ಬಳಕೆದಾರರ ಹೆಸರನ್ನು ಪರಿಶೀಲಿಸುವ ಅಗತ್ಯವಿದೆ",
+	"welcome-updating": "ಬಾಟ್: ದಾಖಲೆ ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ",
 	"welcome-welcome": "ಸುಸ್ವಾಗತ!"
 }
