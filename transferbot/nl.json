@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"transferbot-summary": "Pagina hernoemd van %(source)s",
+	"transferbot-target": "De vorige naam van deze pagina is %(source)s. De bewerkingsgeschiedenis ervan kan worden bekeken op %(history)s"
+}

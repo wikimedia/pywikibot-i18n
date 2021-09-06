@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"transferbot-summary": "Página movida de %(source)s",
+	"transferbot-target": "Esta página foi movida de %(source)s. O seu historial de edições pode ser visto em %(history)s"
+}

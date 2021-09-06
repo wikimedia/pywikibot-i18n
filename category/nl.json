@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Optilete",
 			"Siebrand",
 			"Valhallasw"
@@ -15,6 +16,7 @@
 	"category-section-title": "Paginageschiedenis van voormalige %(oldcat)s",
 	"category-strip-cfd-templates": "Robot: categorieverwijderingssjablonen verwijderd voor afgeronde handeling",
 	"category-strip-sort-keys": "Robot: verwijder sorteersleutels voor afgeronde handeling",
+	"category-strip-both": "Robot: CFD-sjablonen en sorteersleutels verwijderd voor afgeronde handeling",
 	"category-version-history": "Robot: versiegeschiedenis van voormalige %(oldcat)s opgeslagen",
 	"category-was-disbanded": "Robot: categorie is opgeheven",
 	"category-was-moved": "Robot: categorie is hernoemd naar [[:Category:%(newcat)s|%(title)s]]"

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Optilete",
 			"Siebrand",
 			"Valhallasw"
@@ -23,6 +24,7 @@
 	"category_redirect-log-move-error": "* %(oldcat)s: fout in het verplaatsen van inhoud (move_contents)",
 	"category_redirect-log-new": "Nieuwe doorverwijzingen sinds laatste rapport:",
 	"category_redirect-log-not-loaded": "* %(oldcat)s kon niet geladen worden; fout wordt genegeerd.",
+	"category_redirect-log-skipping": "* %(oldcat)s wordt overgeslagen; in afkoelperiode",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Oudere logboeken]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s is een doorverwijzing naar %(page)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s is een doorverwijzing naar niet-bestaande pagina %(redpage)s",
