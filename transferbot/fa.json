@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Darafsh"
+		]
+	},
+	"transferbot-summary": "انتقال صفحه از %(source)s",
+	"transferbot-target": "این صفحه از %(source)s منتقل شده. تاریخچهٔ آن از %(history)s قابل مشاهده است."
+}
