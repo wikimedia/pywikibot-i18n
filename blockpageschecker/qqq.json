@@ -2,5 +2,7 @@
 	"@metadata": {
 		"authors": []
 	},
-	"blockpageschecker-summary": "Edit summary for blockpageschecker report"
+	"blockpageschecker-adding": "Edit summary for blockpageschecker report when a template is added",
+	"blockpageschecker-modifying": "Edit summary for blockpageschecker script when a outdated template is updated",
+	"blockpageschecker-summary": "Edit summary for blockpageschecker script when a outdated template is removed"
 }

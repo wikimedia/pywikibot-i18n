@@ -1,4 +1,6 @@
 {
 	"@metadata": [],
+	"blockpageschecker-adding": "Bot: Adding page lock template",
+	"blockpageschecker-modifying": "Bot: Modify out-dated template",
 	"blockpageschecker-summary": "Bot: Deleting out-dated template"
 }
