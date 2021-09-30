@@ -2,8 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Andriykopanytsia",
+			"DDPAT",
 			"Ата"
 		]
 	},
+	"blockpageschecker-adding": "Бот: додавання шаблону блокування сторінки",
+	"blockpageschecker-modifying": "Бот: Змінити застарілий шаблон",
 	"blockpageschecker-summary": "Бот: вилучення застарілого шаблону"
 }

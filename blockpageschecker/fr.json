@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Gomoko",
 			"Urhixidur",
 			"Verdy p",
 			"Wladek92"
 		]
 	},
+	"blockpageschecker-adding": "Robot : Ajout du modèle de verrou de page",
+	"blockpageschecker-modifying": "Robot : Modification de modèle obsolète",
 	"blockpageschecker-summary": "Robot : suppression des modèles désuets"
 }
