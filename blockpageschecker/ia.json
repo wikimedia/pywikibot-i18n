@@ -6,5 +6,5 @@
 	},
 	"blockpageschecker-adding": "Robot: Addition de un patrono de serratura de pagina",
 	"blockpageschecker-modifying": "Robot: Modification de un patrono obsolete",
-	"blockpageschecker-summary": "Robot: Deletion de un patrono obsolete"
+	"blockpageschecker-deleting": "Robot: Deletion de un patrono obsolete"
 }

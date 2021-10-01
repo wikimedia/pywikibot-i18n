@@ -7,5 +7,5 @@
 	},
 	"blockpageschecker-adding": "Бот: добавление шаблона блокировки страницы",
 	"blockpageschecker-modifying": "Бот: изменение устаревшего шаблона",
-	"blockpageschecker-summary": "Бот: удаление устаревшего шаблона"
+	"blockpageschecker-deleting": "Бот: удаление устаревшего шаблона"
 }

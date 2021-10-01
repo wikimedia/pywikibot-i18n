@@ -9,5 +9,5 @@
 	},
 	"blockpageschecker-adding": "Robot : Ajout du modèle de verrou de page",
 	"blockpageschecker-modifying": "Robot : Modification de modèle obsolète",
-	"blockpageschecker-summary": "Robot : suppression des modèles désuets"
+	"blockpageschecker-deleting": "Robot : suppression des modèles désuets"
 }
