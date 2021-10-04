@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bjankuloski06"
+			"Bjankuloski06",
+			"Идеологист"
 		]
 	},
+	"blockpageschecker-adding": "Бот: Додавам предлошка за заклучена страница",
+	"blockpageschecker-modifying": "Бот: Изменете ја застарената предлошка",
 	"blockpageschecker-deleting": "Бот: Брише застарена предлошка"
 }
