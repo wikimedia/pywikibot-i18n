@@ -1,6 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Meno25"
+		]
 	},
+	"blockpageschecker-adding": "بوت: إضافة قالب الحماية للصفحة",
+	"blockpageschecker-modifying": "بوت: تعديل قالب قديم",
 	"blockpageschecker-deleting": "بوت: حذف قالب قديم"
 }

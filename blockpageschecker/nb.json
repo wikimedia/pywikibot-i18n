@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cocu"
+			"Cocu",
+			"Jon Harald Søby"
 		]
 	},
+	"blockpageschecker-adding": "Bot: Legger til beskyttelsesmal",
+	"blockpageschecker-modifying": "Bot: Endrer utdatert mal",
 	"blockpageschecker-deleting": "Robot: Sletter utdatert mal"
 }

@@ -11,7 +11,7 @@
 	"pywikibot-enter-file-links-processing": "الوصلات لأي صفحة ملف ينبغي أن تتم معالجتها؟",
 	"pywikibot-enter-finished-browser": "اضغط Enter عند الانتهاء في المتصفح.",
 	"pywikibot-enter-namespace-number": "الرجاء إدخال نطاق برقمه:",
-	"pywikibot-enter-new-text": "فضلاً أدخل النص الجديد:",
+	"pywikibot-enter-new-text": "فضلا أدخل النص الجديد:",
 	"pywikibot-enter-page-processing": "الصفحة التي تنبغي معالجتها؟",
 	"pywikibot-enter-xml-filename": "الرجاء إدخال اسم ملف تفريغ XML:",
 	"pywikibot-fixes-fckeditor": "بوت: تصحيح rich-editor html",

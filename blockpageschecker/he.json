@@ -1,6 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Amire80"
+		]
 	},
+	"blockpageschecker-adding": "בוט: הוספת תבנית נעילת דף",
+	"blockpageschecker-modifying": "בוט: שינוי תבנית מיושנת",
 	"blockpageschecker-deleting": "בוט: מסיר תבנית שעבר זמנה"
 }
