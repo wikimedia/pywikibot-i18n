@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"transferbot-summary": "Mutat pagina de la %(source)s",
+	"transferbot-target": "Pagina a fost mutată de la %(source)s. Istoricul său poate fi văzut la %(history)s"
+}
