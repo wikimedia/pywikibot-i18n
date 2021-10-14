@@ -7,5 +7,7 @@
 			"Ssola"
 		]
 	},
+	"blockpageschecker-adding": "Bot: afegint la plantilla de bloqueig de la pàgina",
+	"blockpageschecker-modifying": "Bot: modifiqueu la plantilla obsoleta",
 	"blockpageschecker-deleting": "Bot: suprimint plantilla obsoleta"
 }
