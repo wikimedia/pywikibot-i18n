@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Umar-askirason"
+		]
+	},
+	"category-adding": "Sakako: Kara rukuni [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(kuma a %(alsocat)s)",
+	"category-listifying": "Sakako: Zaiyanoowa daga %(fromcast)s ({{PLURAL:%(num)d|1 entry|%(num)d entries}})",
+	"category-removing": "Sakako: na cirewa daga %(oldcat)s",
+	"category-renamed": "Sakako: Ya Mayar daga %(oldscat). Mawallafa: %(mawallafi)s",
+	"category-replacing": "Sakako: Na canja Rukuni %(oldcat)s with %(newcats)"
+}

@@ -3,8 +3,11 @@
 		"authors": [
 			"Otokoume",
 			"Shirayuki",
+			"Weather Top Wizard",
 			"Whym"
 		]
 	},
+	"blockpageschecker-adding": "ボットによる：テンプレートページロックを追加",
+	"blockpageschecker-modifying": "ボットによる: 失効したテンプレートを削除に修正",
 	"blockpageschecker-deleting": "ボットによる: 失効したテンプレートを削除"
 }

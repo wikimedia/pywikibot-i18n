@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Umar-askirason"
+		]
+	},
+	"archivebot-archive-full": "(SAMU DUKA)",
+	"archivebot-archive-summary": "Sakago: Samuwar %(count)d {{PLURAL:%(count)d|thread|threads}} daga [[%(from)s]]",
+	"archivebot-older-than": "{{PLURAL:%(count)d|ya girmi}} da %(duration)s",
+	"archivebot-page-summary": "Sakago: Samarda %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) zuwa %(archives)s"
+}
