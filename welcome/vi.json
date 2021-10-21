@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Keo010122",
 			"Minh Nguyen"
 		]
 	},
 	"welcome-bad_username": "Bot: Thêm một tên người dùng cần được kiểm tra",
 	"welcome-updating": "Bot: Cập nhật nhật trình",
-	"welcome-welcome": "Hoan nghênh!"
+	"welcome-welcome": "Chào mừng bạn tham gia Wikipedia!"
 }

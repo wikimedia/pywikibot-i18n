@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"BukhariSaeed"
+			"BukhariSaeed",
+			"Mehtab ahmed"
 		]
 	},
-	"reflinks-autogen": "حوالو",
-	"reflinks-comment": "بوٽ خودڪار تخليق شده عنوان",
-	"reflinks-msg": "خودڪار: کليل حوالو جي درستي، مزيد ڄاڻ لاءِ [[%(manual)s|هتي]] ڈسو."
+	"reflinks-autogen": "پاڻمرادو-جُڙيل",
+	"reflinks-comment": "بوٽ پاران جوڙيل عنوان",
+	"reflinks-msg": "بوٽ: کليل حوالي جي درستگي، نقل کان پاسو ڪرڻ لاءِ حوالن جا نالا استعمال ڪندي، [[%(manual)s|ڪپس]] ڏسو."
 }
