@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"列维劳德"
 		]
 	},
-	"redirect-fix-double": "僕:復修渡口 → %(to)s"
+	"redirect-fix-double": "僕：復修%(to)s之渡口"
 }
