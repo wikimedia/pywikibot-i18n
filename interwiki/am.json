@@ -1,12 +1,14 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Abreham97"
+		]
 	},
-	"interwiki-adding": "ሎሌ መጨመር: %(adding)s",
-	"interwiki-adding-modifying": "ሎሌ መጨመር: %(adding)s ማስተካከል: %(modifying)s",
-	"interwiki-adding-removing": "ሎሌ መጨመር: %(adding)s ማስወገድ: %(removing)s",
-	"interwiki-adding-removing-modifying": "ሎሌ መጨመር: %(adding)s ማስወገድ: %(removing)s ማስተካከል: %(modifying)s",
-	"interwiki-modifying": "ሎሌ ማስተካከል: %(modifying)s",
-	"interwiki-removing": "ሎሌ ማስወገድ: %(removing)s",
-	"interwiki-removing-modifying": "ሎሌ ማስወገድ: %(removing)s ማስተካከል: %(modifying)s"
+	"interwiki-adding": "ሎሌ: መጨመር %(adding)s",
+	"interwiki-adding-modifying": "ሎሌ: መጨመር %(adding)s; ማስተካከ %(modifying)s",
+	"interwiki-adding-removing": "ሎሌ: መጨመር %(adding)s; ማስወገድ: %(removing)s",
+	"interwiki-adding-removing-modifying": "ሎሌ: መጨመር %(adding)s ማስወገድ; %(removing)s ማስተካከል; %(modifying)s",
+	"interwiki-modifying": "ሎሌ: ማስተካከል %(modifying)s",
+	"interwiki-removing": "ሎሌ: ማስወገድ  %(removing)s",
+	"interwiki-removing-modifying": "ሎሌ: ማስወገድ %(removing)s; ማስተካከል %(modifying)s"
 }
