@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"咽頭べさ"
+		]
+	},
+	"archivebot-archive-full": "(မော်ကွန်း ဗွေထိုꩻလဲဉ်းသွူ။)",
+	"archivebot-archive-summary": "ဗော့: အဝ်ႏ [[%(from)s]] စထွူတဲင် ထိန်ꩻသိမ်ꩻ %(count)d {{PLURAL:%(count)d|thread|threads}} မော်ကွန်း",
+	"archivebot-older-than": "%(duration)s ထက် {{PLURAL:%(count)d|ယလွိုထဲင်းဒါႏ}}",
+	"archivebot-page-summary": "ဗော့: %(archives)s ထိန်ꩻမော်ကွန်း ဗꩻ %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s)"
+}

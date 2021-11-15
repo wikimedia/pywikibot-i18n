@@ -10,6 +10,7 @@
 	"interwiki-adding-removing": "僕：增%(adding)s；削%(removing)s",
 	"interwiki-adding-removing-modifying": "僕：增%(adding)s；削%(removing)s；修%(modifying)s",
 	"interwiki-modifying": "僕：修%(modifying)s",
+	"interwiki-modifying-from": "僕：以%(modifying)s修%(from)s",
 	"interwiki-removing": "僕：削%(removing)s",
 	"interwiki-removing-modifying": "僕：削%(removing)s；修%(modifying)s"
 }

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"咽頭べさ"
+		]
+	},
+	"category-adding": "ဗော့: အဝ်ႏထဲမ်သော့ꩻ category [[:Category:%(newcat)s|%(newcat)s]]သွူ",
+	"category-also-in": "(%(alsocat)s ကိုလဲ့)",
+	"category-listifying": "ဗော့: %(fromcat)s အဝ်ႏ (သွင်ꩻစာႏရင်ႏ %(num)d ဗာႏ) အဝ်ႏရောမ်မာꩻ စာႏရင်ꩻဖိုင်ႏသွူ",
+	"category-removing": "ဗော့: အဝ်ႏ %(oldcat)s ဖုဲင်းထိုꩻဒျာႏသွူ",
+	"category-renamed": "ဗော့: တောမ်ႏ  %(oldcat)s အနေႏ အဝ်ႏသော့ꩻလုဲင်ႏ:  %(authors)s သွူ",
+	"category-strip-cfd-templates": "ဗော့: အဝ်ႏထိုမ်ႏ ခွုမ်မာꩻချက်ထွူလဲဉ်းဒါႏ CFD တမ်းပလေက်ဖိုင်ႏ",
+	"category-version-history": "ဗော့: အဝ်ႏသိမ်ꩻဒျာႏ %(oldcat)s မူဖြယ်ရာႏဇာႏဝင်ႏ ကရီးခါဖိုင်ႏသွူ။"
+}

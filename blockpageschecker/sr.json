@@ -3,9 +3,11 @@
 		"authors": [
 			"Acamicamacaraca",
 			"BadDog",
+			"Milicevic01",
 			"Rancher",
 			"Zoranzoki21"
 		]
 	},
+	"blockpageschecker-adding": "Бот: додат шаблон за закључане странице",
 	"blockpageschecker-deleting": "Бот: брисање застарелог шаблона"
 }
