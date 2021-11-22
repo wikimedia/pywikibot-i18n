@@ -4,5 +4,11 @@
 			"Ajeje Brazorf"
 		]
 	},
+	"thirdparty-drtrigonbot-sum_disc-notify-changed": "Discussioni canciata",
+	"thirdparty-drtrigonbot-sum_disc-notify-closed": "Discussioni chiuduta",
+	"thirdparty-drtrigonbot-sum_disc-notify-maintmsg": "MISSAGGIU DÛ BOT",
+	"thirdparty-drtrigonbot-sum_disc-notify-new": "Discussioni nova",
+	"thirdparty-drtrigonbot-sum_disc-notify-notify": "Nutìfica",
+	"thirdparty-drtrigonbot-sum_disc-parse-start": "; %d. %B %Y",
 	"thirdparty-drtrigonbot-sum_disc-summary-head": "bot"
 }

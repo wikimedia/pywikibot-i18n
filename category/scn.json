@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Sarvaturi",
 			"Xqt"
 		]
 	},
-	"category-adding": "robot: juncennu category [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "robot: juncennu category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(macari n %(alsocat)s)"
 }

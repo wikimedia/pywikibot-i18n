@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abreham97"
+		]
+	},
+	"archivebot-archive-full": "መዝገብ ሙሉ",
+	"archivebot-archive-summary": "ሎሌ: ምዝገባ %(count)d {{PLURAL:%(count)d|thread|threads}} ከ[[%(from)s]]",
+	"archivebot-older-than": "{{PLURAL:%(count)d|older}} than %(duration)s",
+	"archivebot-page-summary": "ሎሌ: ምዝገባ %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) to %(archives)s"
+}

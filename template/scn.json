@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf"
+		]
+	},
+	"template-changing": "Bot: Canciamentu di {{PLURAL:%(num)d|template}}: %(list)s"
+}
