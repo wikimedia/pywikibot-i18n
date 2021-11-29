@@ -3,6 +3,7 @@
 		"authors": [
 			"Asoxor",
 			"Calak",
+			"Muhammed taha",
 			"ئارام بکر"
 		]
 	},
@@ -13,6 +14,9 @@
 	"category-renamed": "بۆت: گوازرایەوە لە %(oldcat)s. دانەران: %(authors)s",
 	"category-replacing": "بۆت: دانانی پۆلی %(newcat)s لە جێگەی  %(oldcat)s",
 	"category-section-title": "مێژووی پەڕەی %(oldcat)sی پێشوو",
-	"category-version-history": "بۆت: مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",
+	"category-strip-cfd-templates": "بۆت: سڕینەوەی داڕێژەکانی پۆلەکان بۆ سڕینەوە بۆ ئەو کارانەی تەواو بوون",
+	"category-strip-sort-keys": "بۆت: سڕینەوەی کلیلەکانی ڕیزکردن بۆ کارە تەواوبووەکان",
+	"category-strip-both": "بۆت: سڕینەوەی داڕێژەکانی پۆلەکان بۆ سڕینەوە و کلیلەکانی ڕیزکردن بۆ کارە تەواوبووەکان",
+	"category-version-history": "بۆت: پاشکەوتکردنی مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",
 	"category-was-moved": "بۆت: پۆل گوازرایەوە بۆ [[:Category:%(newcat)s|%(title)s]]"
 }

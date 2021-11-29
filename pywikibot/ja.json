@@ -16,6 +16,5 @@
 	"pywikibot-enter-xml-filename": "XML ダンプのファイル名を入力:",
 	"pywikibot-fixes-fckeditor": "ボットによる: リッチエディターの html を修正",
 	"pywikibot-fixes-html": "ボットによる: HTML を転換・修正",
-	"pywikibot-fixes-syntax": "ボットによる: wiki 構文を修正",
-	"pywikibot-touch": "Pywikibot タッチ編集"
+	"pywikibot-fixes-syntax": "ボットによる: wiki 構文を修正"
 }
