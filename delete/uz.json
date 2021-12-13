@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zafar Shamsiddinov"
+		]
+	},
+	"delete-from-file": "Bot: sahifalar roʻyxatini oʻchirish.",
+	"delete-images": "Bot: %(page)s sahifasidagi barcha rasmlarni oʻchirish",
+	"delete-linked-pages": "%(page)sʼdan bog‘langan barcha sahifalar o‘chirish"
+}

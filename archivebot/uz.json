@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"CoderSI"
+			"CoderSI",
+			"Zafar Shamsiddinov"
 		]
 	},
 	"archivebot-archive-full": "(ARXIV TOʻLGAN)",
-	"archivebot-older-than": "koʻra eskiroq"
+	"archivebot-older-than": "{{PLURAL:%(count)d|older}} dan %(duration)s koʻra eskiroq",
+	"archivebot-page-summary": "Bot: %(count)d ta {{PLURAL:%(count)d|oqim|oqimlar}} (%(why)s) dan %(archives)s gacha arxivlash"
 }
