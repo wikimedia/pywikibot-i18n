@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf"
+		]
+	},
+	"archivebot-older-than": "cchiù {{PLURAL:%(count)d|vecchiu|vecchî}} di %(duration)s"
+}

@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Renessaince"
 		]
 	},
+	"blockpageschecker-adding": "Робат: даданьне шаблёну блякаваньня старонкі",
+	"blockpageschecker-modifying": "Робат: зьмена састарэлага шаблёну",
 	"blockpageschecker-deleting": "Робат: выдаленьне састарэлага шаблёну"
 }
