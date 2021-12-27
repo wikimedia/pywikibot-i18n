@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Omarov M."
+		]
+	},
+	"archivebot-archive-full": "(АРХИВ ЦӀУН БУГО)",
+	"archivebot-archive-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|тема}} [[%(from)s]]-алдаса",
+	"archivebot-older-than": "{{PLURAL:%(count)d|кӀудияб буго}} %(duration)s-алдаса",
+	"archivebot-page-summary": "Бот: Архивация %(count)d {{PLURAL:%(count)d|тема}} (%(why)s) %(archives)s-алде"
+}

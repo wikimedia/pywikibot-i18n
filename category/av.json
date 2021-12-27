@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Omarov M."
+		]
+	},
+	"category-adding": "Бот: [[:Category:%(newcat)s|%(newcat)s]] категория тӀадежубай",
+	"category-also-in": "(гьединго %(alsocat)s-алда)",
+	"category-listifying": "Бот: ГӀуцӀула сияхӀ ({{PLURAL:%(num)d|элементалдаса}}) %(fromcat)s",
+	"category-removing": "Бот: %(oldcat)s-алдаса гьоркьоса бахъи"
+}
