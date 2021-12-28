@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"An13sa",
 			"EukeneFL",
 			"Subi"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; aldaketa kosmetikoak",
 	"pywikibot-enter-category-name": "Mesedez, sar ezazu kategoriaren izena:",
 	"pywikibot-enter-file-links-processing": "Zer fitxategirako linkak prozesatu beharko lirateke?",
 	"pywikibot-enter-finished-browser": "Arakatzailearekin amaitu eta gero sakatu ENTER",

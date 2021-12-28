@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Dbc334",
-			"Irena Plahuta"
+			"Irena Plahuta",
+			"Mateju"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; oblikovne spremembe",
 	"pywikibot-enter-category-name": "Prosimo, vnesite ime kategorije:",
 	"pywikibot-enter-file-links-processing": "Povezava do katere strani datoteke naj bo obdelana?",
 	"pywikibot-enter-finished-browser": "Ko končate v brskalniku, pritisnite Enter.",

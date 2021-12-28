@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Asoxor",
 			"ئارام بکر"
 		]
 	},
+	"pywikibot-cosmetic-changes": "؛ دەستکاریی جوانکاری",
 	"pywikibot-fixes-html": "بۆت: گۆڕینی/چاککردنی ئەیچ تی ئێم ئێڵ",
 	"pywikibot-fixes-syntax": "بۆت: چاککردنی شێوازی نووسینی ویکی"
 }

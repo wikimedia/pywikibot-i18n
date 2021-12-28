@@ -6,9 +6,11 @@
 			"Fitoschido",
 			"Macofe",
 			"MarcoAurelio",
-			"Ovruni"
+			"Ovruni",
+			"Xqt"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; cambios superficiales",
 	"pywikibot-enter-category-name": "Escribe el nombre de la categoría:",
 	"pywikibot-enter-file-links-processing": "¿A qué página de archivo se deben procesar los enlaces?",
 	"pywikibot-enter-finished-browser": "Presiona la tecla Enter cuando termine en el navegador.",

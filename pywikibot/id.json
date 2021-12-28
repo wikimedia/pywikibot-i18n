@@ -1,14 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bennylin",
 			"C5st4wr6ch",
 			"Ezagren",
 			"Ilham151096",
 			"Kenrick95",
 			"Rachmat.Wahidi",
-			"Rachmat04"
+			"Rachmat04",
+			"Totosunarto"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; perubahan kosmetika",
 	"pywikibot-enter-category-name": "Silakan masukkan nama kategori:",
 	"pywikibot-enter-file-links-processing": "Pranala ke halaman berkas manakah yang harus diproses?",
 	"pywikibot-enter-finished-browser": "Tekan Enter jika telah selesai di peramban web.",

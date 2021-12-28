@@ -6,6 +6,7 @@
 			"Octahedron80"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; ปรับแต่งให้อ่านง่าย",
 	"pywikibot-enter-category-name": "กรุณาใส่ชื่อหมวดหมู่:",
 	"pywikibot-enter-file-links-processing": "ลิงก์ไปยังหน้าไฟล์ใดควรจะประมวลผล?",
 	"pywikibot-enter-finished-browser": "กด Enter เมื่อทำงานในเบราว์เซอร์เรียบร้อยแล้ว",

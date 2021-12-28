@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Siddhartha Ghai",
 			"संजीव कुमार"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; ऊपरी परिवर्तन",
 	"pywikibot-enter-category-name": "कृपया श्रेणी का नाम लिखें:",
 	"pywikibot-enter-file-links-processing": "कौनसा फाइल पृष्ठ संशोधित होना चाहिए की कड़ी जोड़ता है?",
 	"pywikibot-enter-finished-browser": "जब ब्राउजर में समाप्त हो जाये तब एंटर बटन दबायें।",

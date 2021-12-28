@@ -10,6 +10,7 @@
 			"skorpan"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; kosmetiska ändringar",
 	"pywikibot-enter-category-name": "Ange kategorinamnet:",
 	"pywikibot-enter-file-links-processing": "Länkar till vilken filsida ska behandlas?",
 	"pywikibot-enter-finished-browser": "Tryck på Enter när du är klar i webbläsaren.",

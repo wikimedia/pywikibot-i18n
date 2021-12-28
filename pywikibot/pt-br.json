@@ -3,9 +3,11 @@
 		"authors": [
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
+			"Giro720",
 			555
 		]
 	},
+	"pywikibot-cosmetic-changes": "; mudanças triviais",
 	"pywikibot-enter-category-name": "Insira o nome da categoria:",
 	"pywikibot-enter-file-links-processing": "Para qual imagem os links devem ser processados?",
 	"pywikibot-enter-finished-browser": "Pressione Enter ao concluir no navegador.",

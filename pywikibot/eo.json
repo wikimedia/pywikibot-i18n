@@ -5,9 +5,11 @@
 			"Dmitry Nikitin",
 			"KuboF",
 			"Mirin",
-			"Objectivesea"
+			"Objectivesea",
+			"Remux"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; kosmetikaj ŝanĝoj",
 	"pywikibot-enter-category-name": "Bonvolu enmeti la nomon de kategorio:",
 	"pywikibot-enter-file-links-processing": "Ligiloj al kiu dosieropaĝo estu prilaboritaj?",
 	"pywikibot-enter-finished-browser": "Post laborfino en la retumilo, premu Enter.",

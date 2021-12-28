@@ -2,11 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Als-Holder",
+			"Csisc",
 			"Fabian Neundorf",
+			"Macofe",
 			"TTMTT",
 			"Xqt"
 		]
 	},
+	"pywikibot-cosmetic-changes": "Summary message that will be appended to the normal edit summary when cosmetic changes are made on the fly.\n\n\"Cosmetic changes\" here means changes to the appearance of the page only, without any changes to the substance of the page.",
 	"pywikibot-enter-category-name": "Message displayed to the bot owner to enter the category name.",
 	"pywikibot-enter-file-links-processing": "Question displayed to the bot owner processing links to a given file page.",
 	"pywikibot-enter-finished-browser": "Message displayed to the bot owner to press Enter button when browser edits are finished.",

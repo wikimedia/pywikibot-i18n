@@ -3,10 +3,13 @@
 		"authors": [
 			"BaRaN6161 TURK",
 			"Captantrips",
+			"Khutuck",
 			"McAang",
-			"Meelo"
+			"Meelo",
+			"Stultiwikia"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; kozmetik değişiklikler",
 	"pywikibot-enter-category-name": "Lütfen kategori adını girin:",
 	"pywikibot-enter-file-links-processing": "Hangi dosya sayfasının bağlantıları işlenmeli?",
 	"pywikibot-enter-finished-browser": "Tarayıcıda bittiğinde Enter tuşuna basın.",

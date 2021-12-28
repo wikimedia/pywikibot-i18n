@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Als-Chlämens",
 			"Als-Holder"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; oberflächlichi Änderige",
 	"pywikibot-enter-category-name": "Bitte gib dr Name vu dr Kategori yy:",
 	"pywikibot-enter-file-links-processing": "Vu wellere Dateisyte solle d Link bearbeitet wäre?",
 	"pywikibot-enter-finished-browser": "Druck noch eme Zuemache vum Browsewr uf «Enter».",

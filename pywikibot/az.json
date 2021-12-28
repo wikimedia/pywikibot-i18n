@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"AZISS"
+			"AZISS",
+			"Khutuck",
+			"Vago"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; kosmetik dəyişmələr",
 	"pywikibot-enter-category-name": "Zəhmət olmasa, kateqoriyanın adını daxil edin:",
 	"pywikibot-enter-file-links-processing": "Şəkillərin hansı səhifəsinin istinadlarını emal etmək lazımdır?",
 	"pywikibot-enter-finished-browser": "Brauzerdə işinizi bitirdikdən sonra Enter düyməsinə basın.",

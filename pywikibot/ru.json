@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Dmitry Nikitin",
 			"Eleferen",
 			"Movses",
@@ -9,6 +10,7 @@
 			"Volkov"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; косметические изменения",
 	"pywikibot-enter-category-name": "Пожалуйста, введите название категории:",
 	"pywikibot-enter-file-links-processing": "Ссылки на какую страницу файла следует обработать?",
 	"pywikibot-enter-finished-browser": "Нажмите клавишу Enter, когда закончите вносить изменения в браузере.",

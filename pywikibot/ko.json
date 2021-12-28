@@ -10,6 +10,7 @@
 			"아라"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; 예쁘게 바꿈",
 	"pywikibot-enter-category-name": "분류 이름을 입력하세요:",
 	"pywikibot-enter-file-links-processing": "어떤 파일 문서로 연결된 링크를 처리하시겠습니까?",
 	"pywikibot-enter-finished-browser": "브라우저에서 작업이 끝나면 엔터 키를 누르세요.",

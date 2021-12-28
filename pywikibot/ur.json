@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"BukhariSaeed",
 			"Muhammad Shuaib"
 		]
 	},
+	"pywikibot-cosmetic-changes": "؛ تزئینی تبدیلیاں",
 	"pywikibot-enter-category-name": "براہ کرم زمرہ کا نام درج کریں:",
 	"pywikibot-enter-new-text": "براہ کرم نیا متن درج کریں:",
 	"pywikibot-enter-page-processing": "کس صفحہ پر کام کرنا چاہیے؟",

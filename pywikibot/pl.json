@@ -3,9 +3,11 @@
 		"authors": [
 			"Leszek Krupiński",
 			"Matma Rex",
+			"Sp5uhe",
 			"Woytecr"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; zmiany kosmetyczne",
 	"pywikibot-enter-category-name": "Wpisz nazwę kategorii:",
 	"pywikibot-enter-file-links-processing": "Linki do strony jakiego pliku mają być przetworzone?",
 	"pywikibot-enter-finished-browser": "Wciśnij Enter, gdy przeglądarka zakończy pracę.",

@@ -7,6 +7,7 @@
 			"Weather Top Wizard"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; 細部の編集",
 	"pywikibot-enter-category-name": "カテゴリ名を入力:",
 	"pywikibot-enter-file-links-processing": "どのファイルページヘのリンクを処理しますか?",
 	"pywikibot-enter-finished-browser": "終了したら Enter キーを押してください。",

@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Francesco Cosoleto",
+			"LexArt",
 			"Mechanizatar"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; дробныя змены",
 	"pywikibot-enter-category-name": "Калі ласка, увядзіце назву катэгорыі:",
 	"pywikibot-enter-namespace-number": "Калі ласка, увядзіце нумар прасторы імёнаў:",
 	"pywikibot-enter-new-text": "Калі ласка, увядзіце новы тэкст:",

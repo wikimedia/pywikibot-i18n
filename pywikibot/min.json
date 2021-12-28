@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bennylin",
 			"Luthfi94",
 			"Naval Scene"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; parubahan kosmetik",
 	"pywikibot-enter-category-name": "Masuakkan namo kategori:",
 	"pywikibot-enter-file-links-processing": "Pautan ka laman gambar manokah nan ka diproses?",
 	"pywikibot-enter-namespace-number": "Masuakkan ruang namo manuruik nomornyo:",

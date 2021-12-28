@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"JVRKPRASAD"
+			"JVRKPRASAD",
+			"Veeven"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; పైపై మార్పులు",
 	"pywikibot-enter-category-name": "దయచేసి వర్గం పేరు నమోదు చేయండి:",
 	"pywikibot-enter-file-links-processing": "లింకులు ఇది ఏ ఫైల్ పేజీకి సంవిధానం చేయాలి ?",
 	"pywikibot-enter-finished-browser": "బ్రౌజర్ లో పూర్తవగానే ఎంటర్ ప్రెస్ చేయండి.\n  .",

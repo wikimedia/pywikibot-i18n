@@ -9,6 +9,7 @@
 			"Xqt"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; cosmetic changes",
 	"pywikibot-enter-category-name": "Please enter the category name:",
 	"pywikibot-enter-file-links-processing": "Links to which file page should be processed?",
 	"pywikibot-enter-finished-browser": "Press Enter when finished in browser.",

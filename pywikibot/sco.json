@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Avicennasis",
 			"John Reid"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; cosmetic chynges",
 	"pywikibot-enter-category-name": "Please enter the category name:",
 	"pywikibot-enter-file-links-processing": "Links til whit file page shid be processed?",
 	"pywikibot-enter-finished-browser": "Press Enter whan finish't in browser.",

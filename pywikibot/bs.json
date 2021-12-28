@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"CERminator",
 			"Edinwiki",
 			"KWiki",
 			"Srdjan m",
 			"Srđan"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; kozmetičke promjene",
 	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
 	"pywikibot-enter-file-links-processing": "Veze prema kojoj stranici da se obrade?",
 	"pywikibot-enter-finished-browser": "Pritisnite \"Enter\" kada završite u pregledniku.",

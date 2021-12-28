@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Dmitry Nikitin",
+			"EugeneZelenko",
+			"Jim-by",
 			"Red Winged Duck",
 			"Renessaince"
 		]
 	},
+	"pywikibot-cosmetic-changes": "; касмэтычныя зьмены",
 	"pywikibot-enter-category-name": "Калі ласка, увядзіце назву катэгорыі:",
 	"pywikibot-enter-file-links-processing": "Спасылкі на які файл патрэбна апрацаваць?",
 	"pywikibot-enter-finished-browser": "Націсьніце Enter, калі скончыце рэдагаваньне ў броўзэры.",
