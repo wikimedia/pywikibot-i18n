@@ -5,5 +5,7 @@
 			"Vitorvicentevalente"
 		]
 	},
+	"blockpageschecker-adding": "Robô: a adicionar predefinição de bloqueio de página",
+	"blockpageschecker-modifying": "Robô: atualização de predefinição obsoleta",
 	"blockpageschecker-deleting": "Robô: remoção de predefinição obsoleta"
 }
