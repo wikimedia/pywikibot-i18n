@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alan Mena",
 			"Alvaro Vidal-Abarca",
 			"Fitoschido",
 			"Grondin",
@@ -11,7 +12,7 @@
 			"XVEC"
 		]
 	},
-	"pywikibot-cosmetic-changes": "; canvis superficials",
+	"pywikibot-cosmetic-changes": "; canvis estètics",
 	"pywikibot-enter-category-name": "Si us plau introdueix el nom de la categoria :",
 	"pywikibot-enter-file-links-processing": "Els enllaços a quina pàgina del fitxer s'haurien de processar?",
 	"pywikibot-enter-finished-browser": "Premeu Retorn quan hàgiu acabat amb el navegador.",

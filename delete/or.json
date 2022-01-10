@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Psubhashish",
 			"Shisir 1945"
 		]
 	},
@@ -8,5 +9,5 @@
 	"delete-from-file": "ରୋବଟ୍‌: ଗୋଟିଏ ଫାଇଲ୍‌ ତାଲିକା କଟା ହେଉଛି",
 	"delete-images": "ରୋବଟ୍‌: %(page)s ର ସବୁ ଛବି କଟା ହେଉଛି",
 	"delete-linked-pages": "ରୋବଟ୍‌: %(page)s ସହ ସଂଯୁକ୍ତ ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି",
-	"delete-referring-pages": "ରୋବଟ୍‌: %(page)s ରୁ ଉଦ୍ଧୃତ ସବୁ ପୃଷ୍ଟା କଟା ହେଉଛି"
+	"delete-referring-pages": "ବଟ୍‌: %(ପୃଷ୍ଠା) ସହ ଯୋଡ଼ା ସବୁ ପୃଷ୍ଠା ଲିଭାଉଛି"
 }
