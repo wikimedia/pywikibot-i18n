@@ -9,6 +9,7 @@
 	},
 	"category-adding": "Bot: Pridanie kategórie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(aj v %(alsocat)s)",
+	"category-clean": "Bot: Odstraňovanie kategórie %(category)s, ktorá už je v %(child)s",
 	"category-listifying": "Bot: vytváranie zoznamu %(fromcat)s (počet záznamov: %(num)d)",
 	"category-removing": "Bot: Odstraňovanie z %(oldcat)s",
 	"category-renamed": "Bot: Presunuté z %(oldcat)s. Autori: %(authors)s",

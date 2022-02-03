@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"ئارام بکر"
+		]
+	},
+	"image-remove": "بۆت: سڕینەوەی وێنەی %(file)s",
+	"image-replace": "بۆت: گۆڕینی وێنەی %(old)s بە %(new)s"
+}

@@ -7,5 +7,6 @@
 		]
 	},
 	"category_redirect-fix-double": "بۆت: چاکسازیی دووجار-ڕەوانەکەر",
+	"category_redirect-log-failed": "** شکستی ھێنا: %(error)s",
 	"category_redirect-log-ignoring": "* فەرامۆشکردنی %(oldcat)s"
 }
