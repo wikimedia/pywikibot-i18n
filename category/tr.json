@@ -3,6 +3,7 @@
 		"authors": [
 			"BaRaN6161 TURK",
 			"Emperyan",
+			"Hedda",
 			"Joseph",
 			"Khutuck",
 			"Stultiwikia",
@@ -11,6 +12,7 @@
 	},
 	"category-adding": "Bot: [[Kategori:%(newcat)s]] ekleniyor",
 	"category-also-in": "(%(alsocat)s kategorisinde de yer almaktadır)",
+	"category-clean": "Bot: Hâlihazırda %(child)s içinde yer alan %(category)s kategorisi kaldırılıyor",
 	"category-listifying": "Bot: %(fromcat)s sayfasından itibaren (%(num)d girdi) listeleniyor",
 	"category-removing": "Bot: %(oldcat)s kategorisinden kaldırılıyor",
 	"category-renamed": "Bot: %(oldcat)s konumundan taşındı. Yazarlar: %(authors)s",
