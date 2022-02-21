@@ -9,6 +9,7 @@
 	},
 	"category-adding": "Robô: adição da categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(também em %(alsocat)s)",
+	"category-clean": "Robô: remoção da categoria %(category)s que já está em %(child)s",
 	"category-listifying": "Robô: listagem dos artigos da categoria %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entradas}})",
 	"category-removing": "Robô: remoção da categoria %(oldcat)s",
 	"category-renamed": "Robô: movida de %(oldcat)s. Autores: %(authors)s",
