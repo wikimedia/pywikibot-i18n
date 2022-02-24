@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"DDPAT",
-			"Dim Grits"
+			"Dim Grits",
+			"Ice bulldog"
 		]
 	},
 	"unlink-unlinking": "Бот: Вилучення посилання «%(title)s»"
