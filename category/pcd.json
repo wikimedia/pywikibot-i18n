@@ -6,5 +6,5 @@
 		]
 	},
 	"category-adding": "Robot Rajoute: category [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-replacing": "Robot: Értire [[%(oldcat)s]] → [[%(newcat)s]]"
+	"category-replacing": "Robot: Értire « %(oldcat)s » → « %(newcat)s »"
 }

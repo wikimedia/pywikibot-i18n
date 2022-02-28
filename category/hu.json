@@ -10,7 +10,7 @@
 	"category-adding": "Bot: [[:Category:%(newcat)s]] hozzáadása bottal",
 	"category-also-in": "(a következőkben is: %(alsocat)s)",
 	"category-listifying": "%(fromcat)s listázása bottal (%(num)d lap)",
-	"category-removing": "Bot: eltávolítás [[%(oldcat)s]] kategóriából",
+	"category-removing": "Bot: eltávolítás %(oldcat)s kategóriából",
 	"category-renamed": "Bot: átmozgatva innen: %(oldcat)s. Szerzők: %(authors)s",
 	"category-replacing": "Bot: következő kategória cseréje: %(oldcat)s erre: %(newcat)s",
 	"category-section-title": "A megszűnt %(oldcat)s laptörténete",
