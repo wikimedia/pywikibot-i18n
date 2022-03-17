@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Lokal Profil",
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
-	"category_redirect-add-template": "Bot: lägger till kategoriomdirigeringsmall för underhåll",
+	"category_redirect-add-template": "Bot: Lägger till kategoriomdirigeringsmall för underhåll",
 	"category_redirect-change-category": "Bot: Ändrar omdirigerad kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] till [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Underhållsbot för kategoriomdirigeringar",
 	"category_redirect-edit-request": "Det har upptäckts att följande skyddade sidor kräver uppdateringar till kategorilänkar: %(itemlist)s",
