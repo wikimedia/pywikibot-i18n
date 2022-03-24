@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kumkumuk"
+			"Kumkumuk",
+			"Mirzali"
 		]
 	},
 	"image-remove": "Bot: resimê %(file)s wedarne no",
-	"image-replace": "Bot: %(old)s resim %(new)s ya vurneya"
+	"image-replace": "Bot: hur§endiya %(old)s de asayışê %(new)s vurriyeno"
 }
