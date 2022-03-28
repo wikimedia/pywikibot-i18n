@@ -3,9 +3,11 @@
 		"authors": [
 			"Luckas",
 			"Tuliouel",
+			"YuriNikolai",
 			555
 		]
 	},
+	"redirect-broken-redirect-template": "{{ER|R1|2=~~~~}}",
 	"redirect-fix-broken-moved": "Bot: consertando redirecionamento quebrado para página-alvo movida %(to)s",
 	"redirect-fix-double": "Bot: Corrigindo redirecionamento duplo para %(to)s",
 	"redirect-fix-loop": "Bot: Corrigindo ciclo de redirecionamentos para %(to)s",

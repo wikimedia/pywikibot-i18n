@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Leosls"
+			"Leosls",
+			"YuriNikolai"
 		]
 	},
+	"blockpageschecker-adding": "Bot: Adicionando predefinição de proteção de página",
+	"blockpageschecker-modifying": "Bot: Modificada predefinição obsoleta",
 	"blockpageschecker-deleting": "Bot: Retirando predefinição de proteção"
 }

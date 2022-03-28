@@ -4,11 +4,13 @@
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
 			"Hamilton Abreu",
+			"YuriNikolai",
 			555
 		]
 	},
 	"category-adding": "Bot: Adicionando categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(também em %(alsocat)s)",
+	"category-clean": "Bot: Removendo categoria %(category)s pois já está em %(child)s",
 	"category-listifying": "Bot: Listando a partir de %(fromcat)s ({{PLURAL:%(num)d|uma entrada|%(num)d entradas}})",
 	"category-removing": "Bot: Removendo de %(oldcat)s",
 	"category-renamed": "Bot: Movido de %s. Autores: %s",
