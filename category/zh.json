@@ -5,12 +5,14 @@
 			"Anakmalaysia",
 			"Liuxinyu970226",
 			"Shizhao",
+			"StarrySky",
 			"Yfdyh000",
 			"阿pp"
 		]
 	},
 	"category-adding": "机器人：添加分类[[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "（也在%(alsocat)s）",
+	"category-clean": "机器人：删除已在 %(child)s 中的分类 %(category)s",
 	"category-listifying": "机器人：列出“%(fromcat)s”的%(num)d项",
 	"category-removing": "机器人：从%(oldcat)s中移除",
 	"category-renamed": "机器人：从%(oldcat)s移动。作者：%(authors)s",
