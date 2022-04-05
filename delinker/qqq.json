@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Edit summary when the bot delinks a file due to its deletion. %(title)s contains the file title, %(user)s is the user name who has deleted the file and %(comment)s contains the deletion reason."
+}
