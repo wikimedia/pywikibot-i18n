@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Beta16",
 			"Gianfranco"
 		]
 	},
-	"undelete-from-file": "Bot: Ripristinare un elenco di pagine",
-	"undelete-images": "Bot: Ripristinare tutte le immagini sulla pagina %(page)s",
-	"undelete-linked-pages": "Bot: Recuperare tutte le pagine collegate da %(page)s"
+	"undelete-from-file": "Bot: ripristinato un elenco di pagine",
+	"undelete-images": "Bot: ripristinate tutte le immagini sulla pagina %(page)s",
+	"undelete-linked-pages": "Bot: ripristinate tutte le pagine collegate da %(page)s"
 }

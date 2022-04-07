@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Beta16",
 			"Nemo bis"
 		]
 	},
-	"djvutext-creating": "Bot: Creazione pagina con testo estratto da DjVu"
+	"djvutext-creating": "Bot: creata pagina con testo estratto da DjVu"
 }

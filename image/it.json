@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Beta16",
 			"Filnik"
 		]
 	},
-	"image-remove": "Bot: Rimuovo l'immagine %(file)s",
-	"image-replace": "Bot: Sostituisco l'immagine %(old)s con %(new)s"
+	"image-remove": "Bot: rimuovo l'immagine %(file)s",
+	"image-replace": "Bot: sostituisco l'immagine %(old)s con %(new)s"
 }

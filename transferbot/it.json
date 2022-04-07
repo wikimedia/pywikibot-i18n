@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"transferbot-summary": "Pagina spostata da %(source)s",
+	"transferbot-target": "Questa pagina è stata spostata da %(source)s. La sua cronologia può essere consultata in %(history)s"
+}

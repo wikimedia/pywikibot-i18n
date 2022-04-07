@@ -9,8 +9,8 @@
 	},
 	"redirect-broken-redirect-template": "{{Cancella subito|9}}",
 	"redirect-fix-broken-moved": "Bot: Correggo redirect errati alla pagina spostata %(to)s",
-	"redirect-fix-double": "Bot: Sistemo i redirect doppi a %(to)s",
+	"redirect-fix-double": "Bot: sistemo i redirect doppi a %(to)s",
 	"redirect-fix-loop": "Bot: sistemo ciclo di reindirizzamento a %(to)s",
-	"redirect-remove-broken": "Bot: Redirect a una pagina inesistente",
-	"redirect-remove-loop": "Bot: La destinazione del [[{{ns:project}}:Redirect|redirect]] rimanda alla pagina di partenza"
+	"redirect-remove-broken": "Bot: reindirizzamento a una pagina inesistente",
+	"redirect-remove-loop": "Bot: la destinazione del [[{{ns:project}}:Redirect|reindirizzamento]] rimanda alla pagina di partenza"
 }

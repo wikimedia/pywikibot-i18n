@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Beta16",
 			"Nemo bis"
 		]
 	},
-	"welcome-bad_username": "Bot: Aggiunto utente da controllare",
-	"welcome-updating": "Bot: Aggiorno il log",
+	"welcome-bad_username": "Bot: aggiunto utente da controllare",
+	"welcome-updating": "Bot: aggiornato il log",
 	"welcome-welcome": "Benvenuto/a!"
 }

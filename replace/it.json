@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Beta16"
+		]
 	},
-	"replace-replacing": "Bot: Sostituzione automatica %(description)s"
+	"replace-replacing": "Bot: sostituzione automatica %(description)s"
 }

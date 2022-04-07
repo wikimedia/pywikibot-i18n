@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Verdy p"
+		]
+	},
+	"delinker-delink": "Robot : le fichier [[%(title)s]] a été supprimé, comme demandé par [[:User:%(user)s]] : ''%(comment)s''."
+}
