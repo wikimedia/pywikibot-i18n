@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Mguix"
-		]
-	},
-	"piper-edit-summary": "Bot: Es canalitza el text de l'article a través de %(filters)s"
-}

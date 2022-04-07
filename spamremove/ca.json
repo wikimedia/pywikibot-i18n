@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"SMP"
-		]
-	},
-	"spamremove-remove": "Supressió d'enllaços cap al lloc web de spam %(url)s"
-}

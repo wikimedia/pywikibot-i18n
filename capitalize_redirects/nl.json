@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Siebrand"
-		]
-	},
-	"capitalize_redirects-create-redirect": "Robot: doorverwijzing gemaakt naar [[%(to)s]]"
-}

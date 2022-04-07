@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Aftabuzzaman",
-			"আফতাবুজ্জামান"
-		]
-	},
-	"casechecker-replacement-linklist": "%(source)s→%(target)s"
-}

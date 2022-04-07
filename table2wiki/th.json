@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Aefgh39622"
-		]
-	},
-	"table2wiki-no-warning": "บอตที่ควบคุมโดยผู้ใช้: ปรับไวยากรณ์ตาราง",
-	"table2wiki-warnings": "บอตที่ควบคุมโดยผู้ใช้: ปรับไวยากรณ์ตาราง - {{PLURAL:count|1 คำเตือน|%(count)d คำเตือน}}!"
-}

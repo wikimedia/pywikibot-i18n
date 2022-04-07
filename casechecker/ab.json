@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Андрей"
-		]
-	},
-	"casechecker-replacement-linklist": "%(source)s→%(target)s"
-}

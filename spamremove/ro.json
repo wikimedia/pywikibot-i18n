@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Strainu"
-		]
-	},
-	"spamremove-remove": "Eliminarea legăturilor către site-ul de spam %(url)s"
-}

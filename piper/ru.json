@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Amire80",
-			"Movses"
-		]
-	},
-	"piper-edit-summary": "Бот: статья пропущена через %(filters)s"
-}

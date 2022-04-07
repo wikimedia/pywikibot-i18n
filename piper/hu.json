@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Urbalazs"
-		]
-	},
-	"piper-edit-summary": "Bot: a bejegyzés szövegének átküldése ezen: %(filters)s"
-}

@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"John Vandenberg",
-			"Valhallasw"
-		]
-	},
-	"states_redirect-comment": "Given a set of locations in the US (such as [[w:Boston, Massachussettes]]), this bot creates a redirect which uses the state abbreviation, i.e. [[w:Boston, MA]]. This is the edit summary used while creating this redirect."
-}

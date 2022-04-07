@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Sp5uhe"
-		]
-	},
-	"table2wiki-no-warning": "Kontrolowany przez użytkownika robot poprawił składnię tabeli",
-	"table2wiki-warnings": "Kontrolowany przez użytkownika robot poprawił składnię tabeli – {{PLURAL:count||%(count)d ostrzeżeń!"
-}

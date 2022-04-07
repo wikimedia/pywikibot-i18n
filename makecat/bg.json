@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Vlad5250",
-			"Vodnokon4e"
-		]
-	},
-	"makecat-create": "Бот: Създаване или актуализиране на категорията [[:Category:%(cat)s|]]"
-}

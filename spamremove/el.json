@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Geraki"
-		]
-	},
-	"spamremove-remove": "Αφαίρεση συνδέσμων προς σπαμ ιστότοπο %(url)s"
-}

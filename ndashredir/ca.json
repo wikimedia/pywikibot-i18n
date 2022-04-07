@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"BroOk",
-			"Grondin"
-		]
-	},
-	"ndashredir-create": "Bot: creant redireccions amb guions a [[%(title)s]]"
-}

@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Siebrand"
-		]
-	},
-	"commons_link-cat-template-added": "Edit summary when the bot adds a template to a page that indicates a category exists on Wikimedia Commons about the page's topic.",
-	"commons_link-template-added": "Edit summary when the bot adds a template to a page that indicates a page (or gallery) exists on Wikimedia Commons about the page's topic."
-}

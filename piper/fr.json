@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Gomoko",
-			"Verdy p"
-		]
-	},
-	"piper-edit-summary": "Robot : passage du texte de l’article à travers %(filters)s"
-}

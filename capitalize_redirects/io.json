@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Joao Xavier"
-		]
-	},
-	"capitalize_redirects-create-redirect": "Bot: Krear ridirekto a [[%(to)s]]"
-}

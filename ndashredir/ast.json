@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Esbardu",
-			"Xuacu"
-		]
-	},
-	"ndashredir-create": "Bot: Creando redireición con guiones a [[%(title)s]]"
-}

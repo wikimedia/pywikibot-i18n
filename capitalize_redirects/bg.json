@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"DCLXVI",
-			"Vodnokon4e"
-		]
-	},
-	"capitalize_redirects-create-redirect": "Бот: Създаване на пренасочване към [[%(to)s]]"
-}

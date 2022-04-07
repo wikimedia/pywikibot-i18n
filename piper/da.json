@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Joedalton"
-		]
-	},
-	"piper-edit-summary": "Robot: Send artikelteksten igennem %(filters)s"
-}

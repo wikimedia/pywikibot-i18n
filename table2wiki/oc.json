@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Cedric31"
-		]
-	},
-	"table2wiki-no-warning": "Robòt : wikificacion de la sintaxi del tablèu",
-	"table2wiki-warnings": "Robòt : wikificacion sintaxi tablèus - {{PLURAL:count|1 avertiment|%(count)d avertiments}} !"
-}

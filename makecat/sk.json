@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Mikulas1",
-			"Yardom78"
-		]
-	},
-	"makecat-create": "Bot: Vytváranie alebo aktualizácia kategórie [[:Category:%(cat)s|]]"
-}

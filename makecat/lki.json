@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Lakzon"
-		]
-	},
-	"makecat-create": "ربات: ایجاد یا تصحیح رده [[:Category:%(cat)s|]]"
-}

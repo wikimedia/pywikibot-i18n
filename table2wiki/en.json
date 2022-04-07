@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Xqt"
-		]
-	},
-	"table2wiki-no-warning": "User-controlled bot: Table syntax updated",
-	"table2wiki-warnings": "User-controlled bot: Table syntax updated - {{PLURAL:count|1 warning|%(count)d warnings}}!"
-}

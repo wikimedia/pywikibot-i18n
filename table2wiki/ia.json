@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Xqt"
-		]
-	},
-	"table2wiki-no-warning": "Robot controlate: Syntaxe del tabella cambiate de HTML a Wiki",
-	"table2wiki-warnings": "Robot controlate: Syntaxe del tabella cambiate - {{PLURAL:count|1 advertimento|%(count)d advertimentos}}!"
-}

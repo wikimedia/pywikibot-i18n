@@ -1,6 +1,0 @@
-{
-	"@metadata": {
-		"authors": []
-	},
-	"makecat-create": "{{doc-important|Do not change \":Category:%(cat)s\" so this message will work in any language.}}\nEdit summary when the bot creates or updates a category.\n* %(cat)s - category name"
-}

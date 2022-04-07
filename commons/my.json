@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Ninjastrikers"
-		]
-	},
-	"commons-file-moved": "[[:File:%(localfile)s|ဖိုင်]]အား [[:commons:File:%(commonsfile)s|ကွန်မွန်း]] သို့ ရွှေ့ခဲ့သည်။",
-	"commons-file-now-available": "ဖိုင်သည် ယခုအခါ [[:commons:File:%(commonsfile)s|ဝီကီမီဒီယာ ကွန်မွန်း]]တွင် ရရှိနိုင်ပြီ ဖြစ်သည်။"
-}

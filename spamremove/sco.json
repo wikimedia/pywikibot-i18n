@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"John Reid"
-		]
-	},
-	"spamremove-remove": "Remuivin links til spammin steid %(url)s"
-}

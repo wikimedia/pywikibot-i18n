@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Eduardo Addad de Oliveira",
-			"Eduardoaddad"
-		]
-	},
-	"piper-edit-summary": "Robô: Analisando o texto do artigo através de %(filters)s."
-}

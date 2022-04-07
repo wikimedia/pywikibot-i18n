@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Minisarm"
-		]
-	},
-	"makecat-create": "Robot: Creat sau actualizat categoria [[:Category:%(cat)s|]]"
-}

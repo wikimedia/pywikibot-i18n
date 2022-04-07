@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Esbardu",
-			"Xuacu"
-		]
-	},
-	"capitalize_redirects-create-redirect": "Bot: Crear redireición a [[%(to)s]]"
-}

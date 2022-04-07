@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Homo"
-		]
-	},
-	"commons-file-moved": "[[:File:%(localfile)s|Failas]] perkeltas į [[:commons:File:%(commonsfile)s|Vikiteką]].",
-	"commons-file-now-available": "Failas įkeltas į [[:commons:File:%(commonsfile)s|Wikimedia Commons projektą]]."
-}

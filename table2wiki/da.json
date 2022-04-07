@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Kaare"
-		]
-	},
-	"table2wiki-no-warning": "Brugerkontrolleret robot: Tabelsyntaks opdateret",
-	"table2wiki-warnings": "Brugerkontrolleret robot: Tabelsyntaks opdateret – {{PLURAL:count|1 advarsel|%(count)d advarsler}}!"
-}

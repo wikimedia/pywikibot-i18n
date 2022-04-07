@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Bjankuloski06"
-		]
-	},
-	"makecat-create": "Робот: Создавање или поднова на категоријата [[:Category:%(cat)s|]]"
-}

@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Priyanka Jayaswal",
-			"Xqt"
-		]
-	},
-	"piper-edit-summary": "Edit summary when the bot munges article text.\n* %(filters)s - the use of this external filtering program."
-}

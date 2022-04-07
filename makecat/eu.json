@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Subi"
-		]
-	},
-	"makecat-create": "Bot: [[:Category:%(cat)s|]] kategoriaren sorrera edo eguneratzea"
-}

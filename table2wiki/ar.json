@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Xqt"
-		]
-	},
-	"table2wiki-no-warning": "بوت بواسطة مستخدم: تحديث تهيئة الجدول",
-	"table2wiki-warnings": "بوت بواسطة مستخدم: تحديث تهيئة الجدول - {{PLURAL:count|1 تحذير|%(count)d تحذير}}!"
-}

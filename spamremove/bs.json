@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Edinwiki"
-		]
-	},
-	"spamremove-remove": "Uklanjanje veza prema spam stranici %(url)s"
-}

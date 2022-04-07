@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Khutuck"
-		]
-	},
-	"table2wiki-no-warning": "Kullanıcı Kontrollü Bot: Tablo imlası güncellendi.",
-	"table2wiki-warnings": "Kullanıcı Kontrollü Bot: Tablo imlası güncellendi - {{PLURAL:count|1|%(count)d}} uyarı!"
-}

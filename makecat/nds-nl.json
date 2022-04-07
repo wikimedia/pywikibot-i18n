@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Servien"
-		]
-	},
-	"makecat-create": "Bot: anmaak of uutbreiding van kategorie [[:Category:%(cat)s|]]"
-}

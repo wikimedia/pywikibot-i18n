@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Kghbln"
-		]
-	},
-	"spamremove-remove": "Entferne in Spam-Negativliste eingetragenen Weblink auf %(url)s"
-}

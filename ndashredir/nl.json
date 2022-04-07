@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Siebrand"
-		]
-	},
-	"ndashredir-create": "Robot: doorverwijzing met afbreekteken naar [[%(title)s]] aangemaakt"
-}

@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Edinwiki"
-		]
-	},
-	"makecat-create": "Bot: Pravljenje i ažuriranje kategorije [[:Category:%(cat)s|]]"
-}

@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Verdy p"
-		]
-	},
-	"spamremove-remove": "Suppression du lien vers un site pollueur %(url)s"
-}

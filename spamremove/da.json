@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Christian List"
-		]
-	},
-	"spamremove-remove": "Fjerner links til spamside %(url)s"
-}

@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"TomášPolonec",
-			"Yardom78"
-		]
-	},
-	"piper-edit-summary": "Bot: Prevádzanie textu článku cez %(filters)s"
-}

@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Ævar Arnfjörð Bjarmason",
-			"Revi"
-		]
-	},
-	"piper-edit-summary": "Bot: Piping the article text through %(filters)s"
-}

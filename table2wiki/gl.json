@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Toliño"
-		]
-	},
-	"table2wiki-no-warning": "Bot: Actualizo a sintaxe da táboa",
-	"table2wiki-warnings": "Bot: Actualizo a sintaxe da táboa; {{PLURAL:count|1 aviso|%(count)d avisos}}!"
-}

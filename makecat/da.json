@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Christian List",
-			"MGA73"
-		]
-	},
-	"makecat-create": "Robot: Oprettelse eller opdatering af kategori [[:Category:%(cat)s|]]"
-}

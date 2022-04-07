@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Mguix",
-			"SMP"
-		]
-	},
-	"capitalize_redirects-create-redirect": "Bot: Crea una redirecció a [[%(to)s]]"
-}

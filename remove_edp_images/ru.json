@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Amire80",
-			"Movses"
-		]
-	},
-	"remove_edp_images-edit-summary": "Бот: Исправления использования изображений EDP: [[%(title)s]]"
-}

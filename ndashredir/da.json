@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Christian List"
-		]
-	},
-	"ndashredir-create": "Robot: Opretter omdirigering med bindestreg til [[%(title)s]]"
-}

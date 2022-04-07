@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Murma174"
-		]
-	},
-	"table2wiki-no-warning": "Bot: Tabelenformaat apwerket",
-	"table2wiki-warnings": "Bot: Tabelenformaat apwerket - {{PLURAL:count|1 wäärnang|%(count)d wäärnangen}}!"
-}

@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Michawiki"
-		]
-	},
-	"casechecker-replacement-linklist": "%(source)s→%(target)s"
-}

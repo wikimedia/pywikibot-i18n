@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Vitorvicentevalente"
-		]
-	},
-	"piper-edit-summary": "Robô: A analisar o texto do artigo através de %(filters)s."
-}

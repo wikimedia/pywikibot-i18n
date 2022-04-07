@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Rachmat.Wahidi",
-			"Rachmat04"
-		]
-	},
-	"piper-edit-summary": "Bot: Menyalurkan teks artikel melalui %(filters)s"
-}

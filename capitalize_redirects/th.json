@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Nullzero",
-			"Octahedron80"
-		]
-	},
-	"capitalize_redirects-create-redirect": "บอต: สร้างหน้าเปลี่ยนทางไปยัง %(to)s"
-}

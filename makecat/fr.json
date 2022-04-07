@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Verdy p",
-			"Wladek92"
-		]
-	},
-	"makecat-create": "Robot : création ou mise à jour de catégorie [[:Category:%(cat)s|]]"
-}

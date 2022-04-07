@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Edinwiki"
-		]
-	},
-	"table2wiki-no-warning": "Bot pod korisnkičkom kontrolom: Sintaksna tabela ažurirana.",
-	"table2wiki-warnings": "Bot pod korisničkom kontrolom: Sintaksna tabela ažurirana - {{PLURAL:count|1 upozorenje|%(count)d upozorenja}}!"
-}

@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Aswanas"
-		]
-	},
-	"makecat-create": "Robotas: Kategorijos sukūrimas arba atnaujinimas [[:Category:%(cat)s|]]"
-}

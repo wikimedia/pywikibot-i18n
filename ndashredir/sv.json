@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"VickyC"
-		]
-	},
-	"ndashredir-create": "Bot: Skapar omdirigering med bindestreck till [[%(title)s]]"
-}
