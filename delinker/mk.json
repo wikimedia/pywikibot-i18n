@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"delinker-delink": "Бот: Податотеката [[%(title)s]] е отстранета бидејќи е избришана од [[:User:%(user)s]]: ''%(comment)s''."
+}
