@@ -14,6 +14,7 @@
 	"pywikibot-enter-xml-filename": "Geef de bestaandsnaam van n XML-dump op:",
 	"pywikibot-fixes-fckeditor": "Bot: HTML van tekstverwarker verbeterd",
 	"pywikibot-fixes-html": "Bot: konversie/ripperasie HTML",
+	"pywikibot-fixes-isbn": "Bot: ISBN upmaked",
 	"pywikibot-fixes-syntax": "Bot: ripperasie wikisyntaxis",
 	"pywikibot-touch": "Pywikibot-nulbewarking"
 }

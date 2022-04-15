@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"JVRKPRASAD",
-			"Veeven"
+			"Veeven",
+			"రహ్మానుద్దీన్"
 		]
 	},
 	"pywikibot-cosmetic-changes": "; పైపై మార్పులు",
@@ -12,5 +13,6 @@
 	"pywikibot-enter-namespace-number": "ఒక నేమ్‌స్పేస్ దాని సంఖ్య ద్వారా ఎంటర్ చేయండి:\n:",
 	"pywikibot-enter-new-text": "దయచేసి కొత్త టెక్స్టు ఎంటర్ చెయ్యండి:",
 	"pywikibot-enter-page-processing": "ఏ పేజీ సంవిధానం చేయాలి ?",
-	"pywikibot-enter-xml-filename": "దయచేసి ఎక్స్‌ఎమ్‌ఎల్ డంప్ ఫైల్ పేరును నమోదు చేయండి:"
+	"pywikibot-enter-xml-filename": "దయచేసి ఎక్స్‌ఎమ్‌ఎల్ డంప్ ఫైల్ పేరును నమోదు చేయండి:",
+	"pywikibot-fixes-isbn": "బాటు : ISBN ను ఫార్మాట్ చేస్తున్నాము"
 }

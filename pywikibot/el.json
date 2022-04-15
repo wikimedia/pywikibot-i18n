@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Evropi",
 			"Geraki",
 			"GhotuoIncubator",
 			"Glavkos",
@@ -17,6 +18,7 @@
 	"pywikibot-enter-xml-filename": "Παρακαλούμε εισάγετε το όνομα του αρχείου XML:",
 	"pywikibot-fixes-fckeditor": "Ρομπότ: Επιδιόρθωση του html που προήλθε από εμπλουτισμένο επεξεργαστή",
 	"pywikibot-fixes-html": "Ρομπότ: Μετατροπή/επισκευή HTML",
+	"pywikibot-fixes-isbn": "Ρομπότ: Μορφοποίηση ISBN",
 	"pywikibot-fixes-syntax": "Ρομπότ: Επιδιόρθωση σύνταξης wiki",
 	"pywikibot-touch": "Πυβικιμποτ συνεισφορά αγγιγματος"
 }

@@ -11,5 +11,6 @@
 	"pywikibot-enter-namespace-number": "E ʻoluʻolu, e kikokiko i kekahi lewainoa kokoke i kāna helu:",
 	"pywikibot-enter-new-text": "E ʻoluʻolu, e kikokiko i ke kikokikona hou:",
 	"pywikibot-enter-page-processing": "Haʻaliu ka ʻaoʻao hea?",
-	"pywikibot-enter-xml-filename": "E kikokiko i ka inoa waihona o ka hoʻohanini hōkeo ʻikepili XML:"
+	"pywikibot-enter-xml-filename": "E kikokiko i ka inoa waihona o ka hoʻohanini hōkeo ʻikepili XML:",
+	"pywikibot-fixes-isbn": "Lopako: Ke hulu nei i ka ISBN"
 }

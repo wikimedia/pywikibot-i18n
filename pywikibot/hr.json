@@ -1,6 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Ex13"
+		]
 	},
-	"pywikibot-cosmetic-changes": "; kozmeticke promjene"
+	"pywikibot-cosmetic-changes": "; kozmeticke promjene",
+	"pywikibot-fixes-isbn": "Bot: Oblikovanje ISBN"
 }

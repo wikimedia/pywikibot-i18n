@@ -12,5 +12,6 @@
 	"pywikibot-enter-namespace-number": "Masuakkan ruang namo manuruik nomornyo:",
 	"pywikibot-enter-new-text": "Masuakkan teks baru:",
 	"pywikibot-enter-page-processing": "Laman manokah nan harus diproses?",
-	"pywikibot-enter-xml-filename": "Masuakkan namo Berkas sarok XML:"
+	"pywikibot-enter-xml-filename": "Masuakkan namo Berkas sarok XML:",
+	"pywikibot-fixes-isbn": "Bot: Mamformat ISBN"
 }

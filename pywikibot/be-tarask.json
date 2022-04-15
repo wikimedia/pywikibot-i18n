@@ -18,6 +18,7 @@
 	"pywikibot-enter-xml-filename": "Калі ласка, увядзіце назву файлу дампу XML:",
 	"pywikibot-fixes-fckeditor": "Робат: выпраўленьне html-разьметкі рэдактару ўзбагачанага тэксту",
 	"pywikibot-fixes-html": "Робат: карэкцыя HTML",
+	"pywikibot-fixes-isbn": "Робат: фарматаваньне ISBN",
 	"pywikibot-fixes-syntax": "Бот выпраўляе вiкi-сынтаксiс",
 	"pywikibot-touch": "Рэдагаваньне Pywikibot"
 }

@@ -3,7 +3,9 @@
 		"authors": [
 			"Armando-Martin",
 			"Benfutbol10",
+			"Dferg",
 			"Fitoschido",
+			"Invadinado",
 			"Macofe",
 			"MarcoAurelio",
 			"Ovruni",
@@ -20,6 +22,7 @@
 	"pywikibot-enter-xml-filename": "Escribe el nombre de archivo del volcado XML:",
 	"pywikibot-fixes-fckeditor": "Robot: se corrige el html del editor enriquecido",
 	"pywikibot-fixes-html": "Robot: convirtiendo/arreglando HTML",
+	"pywikibot-fixes-isbn": "Robot: formato de ISBN",
 	"pywikibot-fixes-syntax": "Robot: arreglo de la sintaxis wiki",
 	"pywikibot-touch": "Edición táctil de Pywikibot"
 }

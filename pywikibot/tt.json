@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Zahidulla",
-			"Ерней"
+			"Ерней",
+			"Ильнар"
 		]
 	},
 	"pywikibot-cosmetic-changes": "; бизәнү үзгәрешләре",
+	"pywikibot-fixes-isbn": "Бот: ISBN төзү",
 	"pywikibot-touch": "Pywikibot төзәтмәсе"
 }

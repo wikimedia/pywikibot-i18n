@@ -12,5 +12,6 @@
 	"pywikibot-enter-new-text": "Жаңа мәтін енгізіңіз:",
 	"pywikibot-enter-page-processing": "Қандай бет өңдеу керек?",
 	"pywikibot-fixes-html": "Робот: HTML түрлендірілуде/түзетілуде",
+	"pywikibot-fixes-isbn": "Бот: ISBN код форматын өзгертуде",
 	"pywikibot-fixes-syntax": "Робот: Уики синтаксисін түзетуде"
 }

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Karlis",
 			"Papuass",
 			"Silraks"
 		]
@@ -11,5 +12,6 @@
 	"pywikibot-enter-namespace-number": "Lūdzu, ievadiet vārdtelpu pēc tās numura:",
 	"pywikibot-enter-new-text": "Lūdzu, ievadiet jaunu tekstu:",
 	"pywikibot-enter-page-processing": "Kura lapa būtu jāapstrādā?",
+	"pywikibot-fixes-isbn": "Robots: ISBN formatējums",
 	"pywikibot-fixes-syntax": "Bots: Labo wiki sintaksi"
 }

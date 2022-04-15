@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ainali",
 			"Anhn",
 			"Cybjit",
 			"Jopparn",
@@ -20,6 +21,7 @@
 	"pywikibot-enter-xml-filename": "Ange XML-dumpens filnamn:",
 	"pywikibot-fixes-fckeditor": "Bot: Åtgärdar Rich-editor-html",
 	"pywikibot-fixes-html": "Bot: Konverterar/korrigerar HTML",
+	"pywikibot-fixes-isbn": "Bot: Formaterar ISBN",
 	"pywikibot-fixes-syntax": "Bot: Fixar wikisyntax",
 	"pywikibot-touch": "Pywikibot noll-redigering"
 }

@@ -5,6 +5,7 @@
 			"Joedalton",
 			"Kaare",
 			"MGA73",
+			"Peter Alberti",
 			"Steenth"
 		]
 	},
@@ -18,6 +19,7 @@
 	"pywikibot-enter-xml-filename": "Skriv XML-dumpets filnavn:",
 	"pywikibot-fixes-fckeditor": "Robot: Ret rich-editor HTML",
 	"pywikibot-fixes-html": "Robot: Konverter/ret HTML",
+	"pywikibot-fixes-isbn": "Robot: Formaterer ISBN",
 	"pywikibot-fixes-syntax": "Robot: Ret wikisyntaks",
 	"pywikibot-touch": "Pywikibot-nulredigering"
 }

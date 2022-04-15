@@ -11,5 +11,6 @@
 	"pywikibot-enter-namespace-number": "Vinarliga skriva eitt navnarúm við tilhoyrandi nummari:",
 	"pywikibot-enter-new-text": "Vinarliga skriva nýggja tekstin:",
 	"pywikibot-enter-page-processing": "Hvør síða skal viðgerast?",
-	"pywikibot-enter-xml-filename": "Vinarliga skriva XML fílunavnið hjá dump'inum:"
+	"pywikibot-enter-xml-filename": "Vinarliga skriva XML fílunavnið hjá dump'inum:",
+	"pywikibot-fixes-isbn": "Bottur: Formaterar ISBN"
 }

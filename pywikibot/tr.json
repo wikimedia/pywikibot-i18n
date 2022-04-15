@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"BaRaN6161 TURK",
+			"Emperyan",
 			"Captantrips",
 			"Khutuck",
 			"McAang",
 			"Meelo",
-			"Stultiwikia"
+			"Stultiwikia",
+			"Vito Genovese"
 		]
 	},
 	"pywikibot-cosmetic-changes": "; kozmetik değişiklikler",
@@ -19,6 +21,7 @@
 	"pywikibot-enter-xml-filename": "Lütfen XML dökümü dosyasının adını girin:",
 	"pywikibot-fixes-fckeditor": "Bot: Zengin düzenleyici html'i düzeltme",
 	"pywikibot-fixes-html": "Robot: HTML'i dönüştürüyor/onarıyor",
+	"pywikibot-fixes-isbn": "Bot: ISBN biçimlendiriliyor",
 	"pywikibot-fixes-syntax": "Bot: Viki sözdizimini düzeltme",
 	"pywikibot-touch": "Pywikibot dokunma düzenleme"
 }

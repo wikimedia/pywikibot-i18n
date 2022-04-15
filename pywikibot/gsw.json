@@ -12,5 +12,6 @@
 	"pywikibot-enter-namespace-number": "Bitte gib d Nummere vum Namensruum yy:",
 	"pywikibot-enter-new-text": "Bitte gib dr nei Text yy:",
 	"pywikibot-enter-page-processing": "Weli Syte soll bearbeitet wäre?",
-	"pywikibot-enter-xml-filename": "Bitte gib dr Datename vum XML-Dump yy:"
+	"pywikibot-enter-xml-filename": "Bitte gib dr Datename vum XML-Dump yy:",
+	"pywikibot-fixes-isbn": "Bot: ISBN formatiert"
 }

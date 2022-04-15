@@ -5,6 +5,7 @@
 			"C5st4wr6ch",
 			"Ezagren",
 			"Ilham151096",
+			"IvanLanin",
 			"Kenrick95",
 			"Rachmat.Wahidi",
 			"Rachmat04",
@@ -21,6 +22,7 @@
 	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas timbunan XML:",
 	"pywikibot-fixes-fckeditor": "Bot: Memperbaiki html editor kaya",
 	"pywikibot-fixes-html": "Bot: Mengubah/memperbaiki HTML",
+	"pywikibot-fixes-isbn": "Bot: Memformat ISBN",
 	"pywikibot-fixes-syntax": "Bot: Memperbaiki sintaksis wiki",
 	"pywikibot-touch": "Suntingan kosong Pywikibot"
 }

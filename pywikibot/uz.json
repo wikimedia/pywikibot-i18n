@@ -4,5 +4,6 @@
 			"CoderSI"
 		]
 	},
-	"pywikibot-cosmetic-changes": "; kosmetik oʻzgarishlar"
+	"pywikibot-cosmetic-changes": "; kosmetik oʻzgarishlar",
+	"pywikibot-fixes-isbn": "Bot: ISBNni formatlash"
 }

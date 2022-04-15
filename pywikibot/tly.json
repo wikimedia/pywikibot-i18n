@@ -11,5 +11,6 @@
 	"pywikibot-enter-namespace-number": "Зәһмәт ныбо, номон мәкон нумрә дәғандән:",
 	"pywikibot-enter-new-text": "Зәһмәт ныбо, нујә мәтн дәғандән:",
 	"pywikibot-enter-page-processing": "Кон гылә сәһифә бәпе емол кардә быбу?",
-	"pywikibot-enter-xml-filename": "Зәһмәт ныбо, бынывыштән XML дампи фајли ном:"
+	"pywikibot-enter-xml-filename": "Зәһмәт ныбо, бынывыштән XML дампи фајли ном:",
+	"pywikibot-fixes-isbn": "Робот: ISBN симо дәгиш карде"
 }

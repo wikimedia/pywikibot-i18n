@@ -14,5 +14,6 @@
 	"pywikibot-enter-xml-filename": "Proszã wpisac miono lopka ze zdrzucënkã w fòrmacë XML:",
 	"pywikibot-fixes-fckeditor": "Bòt: Pòprôwiô kòd html z tekstowégò sfòrmatowónegò editora",
 	"pywikibot-fixes-html": "Bòt: Kònwertëje/Pòprôwiô HTML",
+	"pywikibot-fixes-isbn": "Bòt: Fòrmatëje ISBN",
 	"pywikibot-fixes-syntax": "Bòt: Pòprôwiô składniã wiki"
 }

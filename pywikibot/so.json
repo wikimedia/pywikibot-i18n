@@ -11,5 +11,6 @@
 	"pywikibot-enter-namespace-number": "Fadlan gali namespace ee nambarkaan:",
 	"pywikibot-enter-new-text": "Fadlan gali qoraalka cusub",
 	"pywikibot-enter-page-processing": "Boggee ay tahay in laga shaqeeyo",
-	"pywikibot-enter-xml-filename": "Fadlan gali XML ee file ka dump's"
+	"pywikibot-enter-xml-filename": "Fadlan gali XML ee file ka dump's",
+	"pywikibot-fixes-isbn": "Bot: Habayn ISBN"
 }

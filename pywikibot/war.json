@@ -1,6 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Harvzsf"
+		]
 	},
-	"pywikibot-cosmetic-changes": "; kosmetiko nga mga pagbag-o"
+	"pywikibot-cosmetic-changes": "; kosmetiko nga mga pagbag-o",
+	"pywikibot-fixes-isbn": "Robot: Ginfoformat an ISBN"
 }

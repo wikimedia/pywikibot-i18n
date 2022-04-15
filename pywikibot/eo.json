@@ -4,6 +4,7 @@
 			"Blahma",
 			"Dmitry Nikitin",
 			"KuboF",
+			"Mihxil",
 			"Mirin",
 			"Objectivesea",
 			"Remux"
@@ -19,6 +20,7 @@
 	"pywikibot-enter-xml-filename": "Bonvolu enmeti la nomon de la XML-sekurkopia dosiero:",
 	"pywikibot-fixes-fckeditor": "Roboto: Korektante HTML-on de riĉa redaktilo",
 	"pywikibot-fixes-html": "Bot: koredtado de HTMLa teksto",
+	"pywikibot-fixes-isbn": "Roboto: Aranĝas la ISBN",
 	"pywikibot-fixes-syntax": "Bot: Korektado de vikia sintakso",
 	"pywikibot-touch": "tuŝa redakto de Pywikibot"
 }

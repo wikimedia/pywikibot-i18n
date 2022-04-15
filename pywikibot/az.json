@@ -13,5 +13,6 @@
 	"pywikibot-enter-namespace-number": "Zəhmət olmasa, ad sahəsinin nömrəsini daxil edin:",
 	"pywikibot-enter-new-text": "Zəhmət olmasa, yeni mətni daxil edin:",
 	"pywikibot-enter-page-processing": "Hansı səhifə emal edilməlidir?",
-	"pywikibot-enter-xml-filename": "Zəhmət olmasa, XML damp faylının adını daxil edin:"
+	"pywikibot-enter-xml-filename": "Zəhmət olmasa, XML damp faylının adını daxil edin:",
+	"pywikibot-fixes-isbn": "Bot: ISBN formatlandırılır"
 }

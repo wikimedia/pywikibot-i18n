@@ -4,5 +4,6 @@
 			"Cedric31"
 		]
 	},
-	"pywikibot-cosmetic-changes": "; cambiaments de tipe cosmetic"
+	"pywikibot-cosmetic-changes": "; cambiaments de tipe cosmetic",
+	"pywikibot-fixes-isbn": "Robot : Mesa en forma de l'ISBN"
 }

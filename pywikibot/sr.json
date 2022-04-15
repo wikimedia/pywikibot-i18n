@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Acamicamacaraca",
+			"BadDog",
 			"Kizule",
 			"Milicevic01",
 			"Rancher",
@@ -19,6 +20,7 @@
 	"pywikibot-enter-xml-filename": "Унесите име XML датотеке исписа стања:",
 	"pywikibot-fixes-fckeditor": "Бот: исправљен HTML уређивача обогаћеног текста.",
 	"pywikibot-fixes-html": "Бот: исправљен HTML",
+	"pywikibot-fixes-isbn": "Бот: обликујем ISBN",
 	"pywikibot-fixes-syntax": "Бот: исправљена вики синтакса",
 	"pywikibot-touch": "Пајвикибот свежа измена"
 }

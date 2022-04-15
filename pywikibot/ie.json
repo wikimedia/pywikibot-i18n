@@ -4,5 +4,6 @@
 			"Renan"
 		]
 	},
-	"pywikibot-cosmetic-changes": "; changes cosmetic"
+	"pywikibot-cosmetic-changes": "; changes cosmetic",
+	"pywikibot-fixes-isbn": "Machine: Formatant ISBN"
 }

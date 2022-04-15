@@ -11,5 +11,6 @@
 	"pywikibot-enter-namespace-number": "Monggo lebokna bilikjeneng nanggo nomere:",
 	"pywikibot-enter-new-text": "Monggo lebokna teks anyar:",
 	"pywikibot-enter-page-processing": "Kaca endi sing arep deproses ?",
-	"pywikibot-enter-xml-filename": "Monggo nglebokna jenengberkas dump XML:"
+	"pywikibot-enter-xml-filename": "Monggo nglebokna jenengberkas dump XML:",
+	"pywikibot-fixes-isbn": "Bot: Mbeneri format ISBN"
 }

@@ -16,5 +16,6 @@
 	"pywikibot-enter-xml-filename": "Prosimo, vstavite XML ime shranjene datoteke.",
 	"pywikibot-fixes-fckeditor": "Bot: Popravljanje HTML-ja urejevalnika",
 	"pywikibot-fixes-html": "Bot: Pretvorba/popravljanje HTML",
+	"pywikibot-fixes-isbn": "Robot: Oblikovanje ISBN",
 	"pywikibot-fixes-syntax": "Bot: Popravljanje wikiskladnje"
 }

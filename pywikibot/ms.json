@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Kurniasan"
 		]
 	},
 	"pywikibot-cosmetic-changes": "; perubahan kosmetik",
@@ -14,5 +15,6 @@
 	"pywikibot-enter-xml-filename": "Sila masukkan nama fail longgokan XML:",
 	"pywikibot-fixes-fckeditor": "Robot: Membetulkan html rich-editor",
 	"pywikibot-fixes-html": "Robot: Menukarkan/membetulkan HTML",
+	"pywikibot-fixes-isbn": "Bot: Memformatkan ISBN",
 	"pywikibot-fixes-syntax": "Robot: Membetulkan sintaks wiki"
 }

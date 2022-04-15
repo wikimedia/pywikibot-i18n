@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Htt",
 			"V.narsikar"
 		]
 	},
-	"pywikibot-cosmetic-changes": ";सौंदर्यवर्धक बदल"
+	"pywikibot-cosmetic-changes": ";सौंदर्यवर्धक बदल",
+	"pywikibot-fixes-isbn": "सांगकाम्या: आयएसबीएन स्वरूपण"
 }

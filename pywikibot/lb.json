@@ -15,5 +15,6 @@
 	"pywikibot-enter-xml-filename": "Gitt wgl. den Numm vum XML-Dump-Fichier an:",
 	"pywikibot-fixes-fckeditor": "Bot: Verbessere vu Rich-Editor-HTML",
 	"pywikibot-fixes-html": "Bot:HTML konvertéieren/verbesseren",
+	"pywikibot-fixes-isbn": "Bot: ISBN formatéiert",
 	"pywikibot-fixes-syntax": "Bot: Verbessere vun der Wiki-Syntax"
 }

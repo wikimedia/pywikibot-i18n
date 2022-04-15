@@ -5,6 +5,7 @@
 			"Gomoko",
 			"Orikrin1998",
 			"Romainhk",
+			"Sherbrooke",
 			"Tavernier",
 			"Thibaut120094",
 			"Urhixidur",
@@ -22,6 +23,7 @@
 	"pywikibot-enter-xml-filename": "Veuillez entrer le nom du fichier d'extraction XML :",
 	"pywikibot-fixes-fckeditor": "Robot : correction du HTML de l’éditeur riche",
 	"pywikibot-fixes-html": "Robot : conversion/correction du HTML",
+	"pywikibot-fixes-isbn": "Robot : mise en forme du numéro ISBN",
 	"pywikibot-fixes-syntax": "Bot : correction de la syntaxe wiki",
 	"pywikibot-touch": "Modification nulle par Pywikibot"
 }

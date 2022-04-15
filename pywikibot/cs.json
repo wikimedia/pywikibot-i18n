@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dontlietome7",
 			"Dvorapa",
 			"JAn Dudík",
 			"Leanes",
@@ -21,6 +22,7 @@
 	"pywikibot-enter-xml-filename": "Zadejte jméno souboru s XML dumpem:",
 	"pywikibot-fixes-fckeditor": "robot: oprava HTML z textového procesoru",
 	"pywikibot-fixes-html": "robot: převod/oprava HTML",
+	"pywikibot-fixes-isbn": "robot: formátování ISBN",
 	"pywikibot-fixes-syntax": "robot: oprava wikisyntaxe",
 	"pywikibot-touch": "robot: prázdná editace Pywikibota"
 }

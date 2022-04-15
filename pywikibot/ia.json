@@ -14,6 +14,7 @@
 	"pywikibot-enter-xml-filename": "Per favor entra le nomine del file de extraction XML:",
 	"pywikibot-fixes-fckeditor": "Robot: Reparation de HTML de editor ric",
 	"pywikibot-fixes-html": "Robot: conversion/reparation de HTML",
+	"pywikibot-fixes-isbn": "Robot: Formatation ISBN",
 	"pywikibot-fixes-syntax": "Robot: Reparation de syntaxe wiki",
 	"pywikibot-touch": "Modification causate per tocco de Pywikibot"
 }

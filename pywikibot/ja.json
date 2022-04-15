@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Alex Shih-Han Lin",
+			"Fryed-peach",
 			"Otokoume",
 			"Shirayuki",
 			"Weather Top Wizard"
@@ -17,5 +18,6 @@
 	"pywikibot-enter-xml-filename": "XML ダンプのファイル名を入力:",
 	"pywikibot-fixes-fckeditor": "ボットによる: リッチエディターの html を修正",
 	"pywikibot-fixes-html": "ボットによる: HTML を転換・修正",
+	"pywikibot-fixes-isbn": "ボットによる: ISBN の整形",
 	"pywikibot-fixes-syntax": "ボットによる: wiki 構文を修正"
 }

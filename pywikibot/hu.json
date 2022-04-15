@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dani",
 			"Dj",
 			"R-Joe",
 			"Tacsipacsi"
@@ -16,5 +17,6 @@
 	"pywikibot-enter-xml-filename": "Add meg az XML dump fájl nevét:",
 	"pywikibot-fixes-fckeditor": "Bot: Vizuális szerkesztő HTML-jének javítása",
 	"pywikibot-fixes-html": "Robot: HTML konvertálása/javítása",
+	"pywikibot-fixes-isbn": "Bot: ISBN formázása",
 	"pywikibot-fixes-syntax": "Robot: Wiki jelölőnyelv javítása"
 }

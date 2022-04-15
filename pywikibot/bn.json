@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Aftabuzzaman",
+			"Bellayet",
 			"Tahmid",
 			"Tahmid02016",
 			"Tauhid16",
@@ -11,5 +12,6 @@
 	},
 	"pywikibot-cosmetic-changes": "; সজ্জা পরিবর্তন",
 	"pywikibot-enter-category-name": "বিষয়শ্রেণীর নাম প্রবেশ করান:",
-	"pywikibot-enter-new-text": "দয়া করে নতুন বাক্য লিখুন:"
+	"pywikibot-enter-new-text": "দয়া করে নতুন বাক্য লিখুন:",
+	"pywikibot-fixes-isbn": "বট: আইএসবিএন বিন্যাস ঠিক করেছে"
 }

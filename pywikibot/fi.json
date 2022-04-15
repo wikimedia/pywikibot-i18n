@@ -12,5 +12,6 @@
 	"pywikibot-enter-finished-browser": "Paina enter, kun olet valmis selaimessa.",
 	"pywikibot-enter-namespace-number": "Kirjoita nimiavaruuden numero",
 	"pywikibot-enter-new-text": "Kirjoita uusi teksti",
-	"pywikibot-enter-page-processing": "Mikä sivu otetaan käsiteltäväksi?"
+	"pywikibot-enter-page-processing": "Mikä sivu otetaan käsiteltäväksi?",
+	"pywikibot-fixes-isbn": "Botti muotoili ISBN-tunnuksen"
 }

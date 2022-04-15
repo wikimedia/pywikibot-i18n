@@ -16,6 +16,7 @@
 	"pywikibot-enter-xml-filename": "Зинһар, XML дампы файлы исемен яҙығыҙ:",
 	"pywikibot-fixes-fckeditor": "Бот: Интеграцияланған текст редакторынан һуң HTML-кодты төҙәтеү",
 	"pywikibot-fixes-html": "Бот: HTML үҙгәртеү/төҙәтеү",
+	"pywikibot-fixes-isbn": "Робот: ISBN үҙгәртеү",
 	"pywikibot-fixes-syntax": "Бот: Вики синтаксисты төҙәтеү",
 	"pywikibot-touch": "Pywikibot төҙәтмәһе"
 }

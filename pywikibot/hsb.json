@@ -9,5 +9,6 @@
 	"pywikibot-enter-finished-browser": "Tłóč zapodawansku tastu po skónčenju wobhladowaka.",
 	"pywikibot-enter-namespace-number": "Prošu zapodaj čisło mjenoweho ruma:",
 	"pywikibot-enter-new-text": "Proš zapodaj nowy tekst:",
-	"pywikibot-enter-page-processing": "Kotra strona ma so předźěłać?"
+	"pywikibot-enter-page-processing": "Kotra strona ma so předźěłać?",
+	"pywikibot-fixes-isbn": "Boćik: ISBN so formatuje"
 }

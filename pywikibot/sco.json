@@ -12,5 +12,6 @@
 	"pywikibot-enter-namespace-number": "Please enter ae namespace bi its nummer:",
 	"pywikibot-enter-new-text": "Please enter the new tex:",
 	"pywikibot-enter-page-processing": "Whit page shid be processed?",
-	"pywikibot-enter-xml-filename": "Please enter the XML doump's filename:"
+	"pywikibot-enter-xml-filename": "Please enter the XML doump's filename:",
+	"pywikibot-fixes-isbn": "Robot: Formattin ISBN"
 }

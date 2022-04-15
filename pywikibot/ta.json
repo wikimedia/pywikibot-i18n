@@ -8,5 +8,6 @@
 	"pywikibot-cosmetic-changes": "; மேலோட்டமான மாற்றங்கள்",
 	"pywikibot-enter-category-name": "பகுப்பின் பெயரை இடவும்:",
 	"pywikibot-enter-new-text": "புதிய உரையினை இடவும்:",
-	"pywikibot-enter-page-processing": "எந்த பக்கத்தினை செயலாக்கப்பட வேண்டும்?"
+	"pywikibot-enter-page-processing": "எந்த பக்கத்தினை செயலாக்கப்பட வேண்டும்?",
+	"pywikibot-fixes-isbn": "தானியங்கி: ISBN ஐ வடிவமைத்தல்"
 }

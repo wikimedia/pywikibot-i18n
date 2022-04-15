@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"RajeshPandey",
 			"पर्वत सुबेदी",
 			"सरोज कुमार ढकाल"
 		]
@@ -14,5 +15,6 @@
 	"pywikibot-enter-page-processing": "कुन पृष्ठमा कार्य गर्ने हो ?",
 	"pywikibot-enter-xml-filename": "कृपया XML dumpको फाइलनाम खुलाउनुहोस्:",
 	"pywikibot-fixes-html": "बोट: HTML लाई परिवर्तन/मिलाउँदै",
+	"pywikibot-fixes-isbn": "रोबोट: ISBN मिलाउँदै",
 	"pywikibot-fixes-syntax": "बोट: विकी सिन्ट्याक्स मिलाउँदै"
 }

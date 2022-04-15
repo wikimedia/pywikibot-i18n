@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Lionslayer",
 			"Ninjastrikers"
 		]
 	},
@@ -10,5 +11,6 @@
 	"pywikibot-enter-new-text": "စာသားအသစ်ကို ကျေးဇူးပြု၍ ရိုက်ထည့်ပါ:",
 	"pywikibot-enter-page-processing": "မည်သည့် စာမျက်နှာကို လုပ်ဆောင်မည်နည်း",
 	"pywikibot-enter-xml-filename": "ကျေးဇူးပြု၍ XML dump ဖိုင်အမည်ကို ထည့်သွင်းပါ:",
-	"pywikibot-fixes-html": "ဘော့: HTML ပြောင်းလဲခြင်း/ပြင်ဆင်ခြင်း"
+	"pywikibot-fixes-html": "ဘော့: HTML ပြောင်းလဲခြင်း/ပြင်ဆင်ခြင်း",
+	"pywikibot-fixes-isbn": "ရိုဘော့ - ISBN နံပါတ်ကို ပုံစံချနေသည်"
 }

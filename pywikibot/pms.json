@@ -12,5 +12,6 @@
 	"pywikibot-enter-namespace-number": "Për piasì anseriss në spassi nominal con sò nùmer:",
 	"pywikibot-enter-new-text": "Për piasì, ch'a anserissa ël test neuv:",
 	"pywikibot-enter-page-processing": "Che pàgina a ventrìa traté?",
-	"pywikibot-enter-xml-filename": "Për piasì anseriss ël nòm ëd l'archivi XML dël dump:"
+	"pywikibot-enter-xml-filename": "Për piasì anseriss ël nòm ëd l'archivi XML dël dump:",
+	"pywikibot-fixes-isbn": "Trigomiro: Formassion ëd l'ISBN"
 }

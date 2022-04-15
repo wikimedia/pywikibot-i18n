@@ -11,5 +11,6 @@
 	"pywikibot-enter-namespace-number": "لطفاً شمارهٔ یک فضای نام را وارد کنید:",
 	"pywikibot-enter-new-text": "لطفاً متن جدید را وارد کنید:",
 	"pywikibot-enter-page-processing": "کدام صفحه باید پردازش شود؟",
-	"pywikibot-enter-xml-filename": "لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:"
+	"pywikibot-enter-xml-filename": "لطفاً نام پروندهٔ نسخه‌بردارى XML را وارد کنید:",
+	"pywikibot-fixes-isbn": "ربات: استانداردسازی شابک"
 }
