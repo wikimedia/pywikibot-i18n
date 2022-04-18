@@ -22,8 +22,8 @@
 	"pywikibot-enter-page-processing": "Quina pàgina ha de ser processada?",
 	"pywikibot-enter-xml-filename": "Si us plau introdueix el nom del fitxer abocador d'XML .",
 	"pywikibot-fixes-fckeditor": "Bot corregeix l'editor d'HTML",
-	"pywikibot-fixes-html": "Bot: Convertint/arreglant HTML",
 	"pywikibot-fixes-isbn": "Bot: Formatejant ISBN",
+	"pywikibot-fixes-html": "Bot: Convertint/arreglant HTML",
 	"pywikibot-fixes-syntax": "Bot corregeix la sintaxi wiki",
 	"pywikibot-touch": "Edició tàctil de Pywikibot"
 }

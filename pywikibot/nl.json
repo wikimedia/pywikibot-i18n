@@ -15,8 +15,8 @@
 	"pywikibot-enter-page-processing": "Welke pagina moet verwerkt worden?",
 	"pywikibot-enter-xml-filename": "Geef de bestandnaam van een XML-dump op:",
 	"pywikibot-fixes-fckeditor": "Robot: HTML van tekstverwerker gecorrigeerd",
-	"pywikibot-fixes-html": "Robot: conversie/reparatie HTML",
 	"pywikibot-fixes-isbn": "Robot: ISBN opgemaakt",
+	"pywikibot-fixes-html": "Robot: conversie/reparatie HTML",
 	"pywikibot-fixes-syntax": "Robot: reparatie wikisyntaxis",
 	"pywikibot-touch": "Pywikibot touch bewerking"
 }

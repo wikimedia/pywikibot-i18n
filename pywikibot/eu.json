@@ -16,7 +16,7 @@
 	"pywikibot-enter-page-processing": "Zein orrialde prozesatu behar da?",
 	"pywikibot-enter-xml-filename": "Sartu XML zaborrontzi-fitxategiaren izena:",
 	"pywikibot-fixes-fckeditor": "Bot: html editore-aberastua konpontzen",
-	"pywikibot-fixes-html": "Bot: HTMLa bihurtzen/konpontzen",
 	"pywikibot-fixes-isbn": "Robota: ISBNari formatua ematen",
+	"pywikibot-fixes-html": "Bot: HTMLa bihurtzen/konpontzen",
 	"pywikibot-fixes-syntax": "Bot: Wiki-sintaxia zuzentzen"
 }

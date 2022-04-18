@@ -13,8 +13,8 @@
 	"pywikibot-enter-page-processing": "Hün sidj skal bewerket wurd?",
 	"pywikibot-enter-xml-filename": "Du di datei-nööm faan't XML-dump iin:",
 	"pywikibot-fixes-fckeditor": "Bot: Korigiare Rich-Editor-HTML",
-	"pywikibot-fixes-html": "Bot: Konwertiare/korigiare HTML",
 	"pywikibot-fixes-isbn": "Bot: Formatiare ISBN",
+	"pywikibot-fixes-html": "Bot: Konwertiare/korigiare HTML",
 	"pywikibot-fixes-syntax": "Bot: Korigiare wiki-syntax",
 	"pywikibot-touch": "Pywikibot bewerket saner feranrang"
 }

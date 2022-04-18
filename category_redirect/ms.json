@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Tofeiku"
 		]
 	},
 	"category_redirect-add-template": "Robot: mengisikan templat pengalihan kategori untuk penyelenggaraan",
@@ -9,5 +10,6 @@
 	"category_redirect-comment": "Bot penyelenggaraan lencongan kategori",
 	"category_redirect-edit-request": "Laman-laman dilindungi yang berikut dikesan memerlukan kemaskini pada pautan kategori: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ada di dalam %(oldcat)s, iaitu lencongan ke %(newcat)s",
-	"category_redirect-fix-double": "Bot: Memperbetulkan pelencongan berganda"
+	"category_redirect-fix-double": "Bot: Memperbetulkan pelencongan berganda",
+	"category_redirect-log-new": "Lencongan baru sejak laporan terakhir:"
 }

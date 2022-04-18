@@ -17,8 +17,8 @@
 	"pywikibot-enter-page-processing": "Ktorá stránka má byť spracovaná?",
 	"pywikibot-enter-xml-filename": "Zadajte názov súboru s XML výpisom:",
 	"pywikibot-fixes-fckeditor": "Bot: Oprava html rich-editoru",
-	"pywikibot-fixes-html": "Bot: Zmena/oprava HTML",
 	"pywikibot-fixes-isbn": "Bot: Formátovanie ISBN",
+	"pywikibot-fixes-html": "Bot: Zmena/oprava HTML",
 	"pywikibot-fixes-syntax": "Bot: Oprava syntaxu wiki",
 	"pywikibot-touch": "Editovanie Pywikibotom"
 }

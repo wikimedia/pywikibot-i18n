@@ -16,7 +16,7 @@
 	"pywikibot-enter-page-processing": "หน้าใดควรจะประมวลผล?",
 	"pywikibot-enter-xml-filename": "โปรดป้อนชื่อไฟล์ดั๊มพ์ของ XML:",
 	"pywikibot-fixes-fckeditor": "บอต: แก้ html ของตัวแก้ไข rich",
-	"pywikibot-fixes-html": "บอต: แปลง/แก้ HTML",
 	"pywikibot-fixes-isbn": "บอต: จัดรูปแบบ ISBN",
+	"pywikibot-fixes-html": "บอต: แปลง/แก้ HTML",
 	"pywikibot-fixes-syntax": "บอต: แก้ไวยากรณ์วิกิ"
 }

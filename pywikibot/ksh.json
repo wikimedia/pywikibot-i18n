@@ -13,7 +13,7 @@
 	"pywikibot-enter-page-processing": "Wat för en Sigg sulle mer beärbeide?",
 	"pywikibot-enter-xml-filename": "Jif däm <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Extensible Markup Language\">XML</i>-<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"„Dahesescherong“\">dump</i>- singe Dateij_Nahme en:",
 	"pywikibot-fixes-fckeditor": "Bot: Donn et HTML vum FCK-editor repparehre",
-	"pywikibot-fixes-html": "Bot: vun HTML en Wikikood wandelle",
 	"pywikibot-fixes-isbn": "Bot: ISBN zerääsch jemaat.",
+	"pywikibot-fixes-html": "Bot: vun HTML en Wikikood wandelle",
 	"pywikibot-fixes-syntax": "Bot: Donn de Süntax vum Wikki repparehre"
 }

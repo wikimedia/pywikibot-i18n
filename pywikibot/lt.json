@@ -15,7 +15,7 @@
 	"pywikibot-enter-new-text": "Įveskite naują tekstą:",
 	"pywikibot-enter-page-processing": "Kuris puslapis turėtų būti tvarkomas?",
 	"pywikibot-enter-xml-filename": "Prašome įvesti XML iškelties failo vardą:\n:",
-	"pywikibot-fixes-html": "robotas: konvertuojamas/taisomas HTML",
 	"pywikibot-fixes-isbn": "Robotas: Formatuojamas ISBN",
+	"pywikibot-fixes-html": "robotas: konvertuojamas/taisomas HTML",
 	"pywikibot-fixes-syntax": "robotas: Taisoma wiki sintaksė"
 }

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"delinker-delink": "Бот: Файл [[%(title)s]] был убран, так как он был удалён участником [[:User:%(user)s]]: ''%(comment)s''."
+}

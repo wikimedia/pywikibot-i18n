@@ -16,8 +16,8 @@
 	"pywikibot-enter-page-processing": "Welche Seite soll bearbeitet werden?",
 	"pywikibot-enter-xml-filename": "Bitte gib den Dateinamen des XML-Dumps ein:",
 	"pywikibot-fixes-fckeditor": "Bot: Korrigiere Rich-Editor-HTML",
-	"pywikibot-fixes-html": "Bot: konvertiere/korrigiere HTML",
 	"pywikibot-fixes-isbn": "Bot: Formatiere ISBN",
+	"pywikibot-fixes-html": "Bot: konvertiere/korrigiere HTML",
 	"pywikibot-fixes-syntax": "Bot: Korrigiere Wiki-Syntax",
 	"pywikibot-touch": "Pywikibot Nulledit-Bearbeitung"
 }

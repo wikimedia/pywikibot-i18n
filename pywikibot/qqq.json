@@ -4,8 +4,8 @@
 			"Als-Holder",
 			"Csisc",
 			"Fabian Neundorf",
-			"Macofe",
 			"Lloffiwr",
+			"Macofe",
 			"TTMTT",
 			"Xqt"
 		]
@@ -19,8 +19,8 @@
 	"pywikibot-enter-page-processing": "Question displayed to the bot owner which page should be processed.",
 	"pywikibot-enter-xml-filename": "Message displayed to the bot owner to enter the XML dump's filename.",
 	"pywikibot-fixes-fckeditor": "Edit summary for fixes which convert HTML tags from FCK-editor to wiki syntax.",
-	"pywikibot-fixes-html": "Edit summary for the HTML fixes.",
 	"pywikibot-fixes-isbn": "Edit summary when the bot fixes [[w:International Standard Book Number|ISBN]] number formatting.",
+	"pywikibot-fixes-html": "Edit summary for the HTML fixes.",
 	"pywikibot-fixes-syntax": "Edit summary for the syntax and syntax-safe fixes.",
 	"pywikibot-touch": "Edit summary if the bot touches a page and the content changes by MediaWiki software."
 }

@@ -10,7 +10,7 @@
 	"pywikibot-enter-new-text": "براہ کرم نیا متن درج کریں:",
 	"pywikibot-enter-page-processing": "کس صفحہ پر کام کرنا چاہیے؟",
 	"pywikibot-fixes-fckeditor": "خودکار: رچ ایڈیٹر ایچ ٹی ایم ایل کی درستی",
-	"pywikibot-fixes-html": "خودکار: ایچ‌ٹی‌ایم‌ایل کی درستی",
 	"pywikibot-fixes-isbn": "خودکار: آئی‌ایس‌بی‌این کی ترتیب",
+	"pywikibot-fixes-html": "خودکار: ایچ‌ٹی‌ایم‌ایل کی درستی",
 	"pywikibot-fixes-syntax": "خودکار: ویکی صیغوں کی درستی"
 }

@@ -18,8 +18,8 @@
 	"pywikibot-enter-page-processing": "الصفحة التي تنبغي معالجتها؟",
 	"pywikibot-enter-xml-filename": "الرجاء إدخال اسم ملف تفريغ XML:",
 	"pywikibot-fixes-fckeditor": "بوت: تصحيح rich-editor html",
-	"pywikibot-fixes-html": "بوت: تحويل/تصليح HTML",
 	"pywikibot-fixes-isbn": "بوت: تنسيق ISBN",
+	"pywikibot-fixes-html": "بوت: تحويل/تصليح HTML",
 	"pywikibot-fixes-syntax": "بوت: تصليح تهيئة الويكي",
 	"pywikibot-touch": "تحرير لمس بايثون ويكي بوت"
 }

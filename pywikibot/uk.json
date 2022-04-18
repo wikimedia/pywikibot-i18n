@@ -21,8 +21,8 @@
 	"pywikibot-enter-page-processing": "Які сторінки потрібно переробити?",
 	"pywikibot-enter-xml-filename": "Будь ласка, введіть назву файлу дампу XML:",
 	"pywikibot-fixes-fckeditor": "Робот: Виправлення html після редактора форматованого тексту",
-	"pywikibot-fixes-html": "Бот: корекцiя HTML",
 	"pywikibot-fixes-isbn": "Робот: Форматування ISBN",
+	"pywikibot-fixes-html": "Бот: корекцiя HTML",
 	"pywikibot-fixes-syntax": "Бот: Корекцiя вiкi-синтаксису",
 	"pywikibot-touch": "Редагування Pywikibot"
 }

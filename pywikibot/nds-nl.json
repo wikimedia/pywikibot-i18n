@@ -13,8 +13,8 @@
 	"pywikibot-enter-page-processing": "Welke zied mut verwarkt wörden?",
 	"pywikibot-enter-xml-filename": "Geef de bestaandsnaam van n XML-dump op:",
 	"pywikibot-fixes-fckeditor": "Bot: HTML van tekstverwarker verbeterd",
-	"pywikibot-fixes-html": "Bot: konversie/ripperasie HTML",
 	"pywikibot-fixes-isbn": "Bot: ISBN upmaked",
+	"pywikibot-fixes-html": "Bot: konversie/ripperasie HTML",
 	"pywikibot-fixes-syntax": "Bot: ripperasie wikisyntaxis",
 	"pywikibot-touch": "Pywikibot-nulbewarking"
 }
