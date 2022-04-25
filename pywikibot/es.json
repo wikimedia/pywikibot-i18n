@@ -6,6 +6,7 @@
 			"Dferg",
 			"Fitoschido",
 			"Invadinado",
+			"Josuert",
 			"Macofe",
 			"MarcoAurelio",
 			"Ovruni",
@@ -21,7 +22,7 @@
 	"pywikibot-enter-page-processing": "¿Qué página se debe procesar?",
 	"pywikibot-enter-xml-filename": "Escribe el nombre de archivo del volcado XML:",
 	"pywikibot-fixes-fckeditor": "Robot: se corrige el html del editor enriquecido",
-	"pywikibot-fixes-isbn": "Robot: formato de ISBN",
+	"pywikibot-fixes-isbn": "Bot: formato de ISBN",
 	"pywikibot-fixes-html": "Robot: convirtiendo/arreglando HTML",
 	"pywikibot-fixes-syntax": "Robot: arreglo de la sintaxis wiki",
 	"pywikibot-touch": "Edición táctil de Pywikibot"

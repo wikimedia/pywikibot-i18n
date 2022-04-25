@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"StarrySky"
+		]
+	},
+	"delinker-delink": "Bot：文件 [[%(title)s]] 已被删除，因为它已被 [[:User:%(user)s]]:''%(comment)s'' 删除。"
+}
