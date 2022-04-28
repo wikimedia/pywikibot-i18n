@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"delinker-delink": "Robot: Le file [[%(title)s]] ha essite removite perque illo ha essite delite per [[:User:%(user)s]]: ''%(comment)s''."
+}
