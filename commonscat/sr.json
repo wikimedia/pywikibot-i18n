@@ -7,5 +7,5 @@
 			"Rancher"
 		]
 	},
-	"commonscat-msg_change": "Бот: мењам везу категорије на Остави из [[:Commons:Category:%(oldcat)s|%(oldcat)s]] у [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Бот: промењена веза категорије на Остави из [[:Commons:Category:%(oldcat)s|%(oldcat)s]] у [[:Commons:Category:%(newcat)s|%(newcat)s]]."
 }

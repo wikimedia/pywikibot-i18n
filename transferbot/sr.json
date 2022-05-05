@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"transferbot-summary": "Страница премештена са %(source)s",
+	"transferbot-target": "Страница премештена са %(source)s. Историја странице може се видети на %(history)s"
+}

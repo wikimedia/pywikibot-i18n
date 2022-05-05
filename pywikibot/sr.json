@@ -19,8 +19,8 @@
 	"pywikibot-enter-page-processing": "Коју страницу желите да обрадите?",
 	"pywikibot-enter-xml-filename": "Унесите име XML датотеке исписа стања:",
 	"pywikibot-fixes-fckeditor": "Бот: исправљен HTML уређивача обогаћеног текста.",
-	"pywikibot-fixes-isbn": "Бот: обликујем ISBN",
-	"pywikibot-fixes-html": "Бот: исправљен HTML",
-	"pywikibot-fixes-syntax": "Бот: исправљена вики синтакса",
-	"pywikibot-touch": "Пајвикибот свежа измена"
+	"pywikibot-fixes-isbn": "Бот: обликујем ISBN.",
+	"pywikibot-fixes-html": "Бот: исправљен HTML.",
+	"pywikibot-fixes-syntax": "Бот: исправљена вики синтакса.",
+	"pywikibot-touch": "Пајвикибот измена (освежавање)"
 }

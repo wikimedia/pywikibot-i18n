@@ -7,6 +7,6 @@
 			"Rancher"
 		]
 	},
-	"image-remove": "Бот: уклањам датотеку %(file)s",
-	"image-replace": "Бот: замењујем датотеку %(old)s са %(new)s"
+	"image-remove": "Бот: уклоњена слика %(file)s.",
+	"image-replace": "Бот: замењена слика %(old)s са %(new)s."
 }

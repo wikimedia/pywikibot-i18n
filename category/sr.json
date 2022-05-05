@@ -10,17 +10,18 @@
 			"Zoranzoki21"
 		]
 	},
-	"category-adding": "Бот: додавање категорије [[:Категорија:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Бот: додата категорија [[:Категорија:%(newcat)s|%(newcat)s]].",
 	"category-also-in": "(и у %(alsocat)s)",
+	"category-clean": "Бот: уклоњена категорија %(category)s која се већ налази у %(child)s.",
 	"category-listifying": "Бот: исписивање из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})",
-	"category-removing": "Бот: уклањање из %(oldcat)s",
-	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s",
-	"category-replacing": "Бот: замењивање категорије %(oldcat)s са %(newcat)s",
+	"category-removing": "Бот: уклоњено из %(oldcat)s.",
+	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s.",
+	"category-replacing": "Бот: замењена категорије %(oldcat)s са %(newcat)s.",
 	"category-section-title": "Историја раније верзије странице %(oldcat)s",
-	"category-strip-cfd-templates": "Бот: уклањање CFD шаблона за извршену радњу",
-	"category-strip-sort-keys": "Бот: Уклањање кључева за сортирање за довршену радњу",
-	"category-strip-both": "Бот: Уклањање CFD шаблона и кључева за сортирање за довршену радњу",
-	"category-version-history": "Бот: чувам историју раније верзије странице %(oldcat)s",
-	"category-was-disbanded": "Бот: категорија је распуштена",
-	"category-was-moved": "Бот: категорија је премештена у [[:Категорија:%(newcat)s|%(title)s]]"
+	"category-strip-cfd-templates": "Бот: уклоњен CFD шаблон за извршену радњу.",
+	"category-strip-sort-keys": "Бот: уклоњени кључеви за сортирање за довршену радњу.",
+	"category-strip-both": "Бот: уклоњен CFD шаблон и кључеви за сортирање за довршену радњу.",
+	"category-version-history": "Бот: сачувана историја раније верзије странице %(oldcat)s.",
+	"category-was-disbanded": "Бот: категорија је распуштена.",
+	"category-was-moved": "Бот: категорија премештена у [[:Категорија:%(newcat)s|%(title)s]]."
 }

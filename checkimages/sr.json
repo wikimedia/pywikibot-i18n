@@ -11,14 +11,14 @@
 			"xqt"
 		]
 	},
-	"checkimages-deletion-comment": "Бот: Додајем %(adding)s",
-	"checkimages-doubles-file-comment": "Бот: Датотека већ постоји на Остави, можда ће бити избрисана",
+	"checkimages-deletion-comment": "Бот: додат %(adding)s.",
+	"checkimages-doubles-file-comment": "Бот: датотека већ постоји на Остави; може се обрисати.",
 	"checkimages-doubles-head": "Дупликат датотеке",
-	"checkimages-doubles-talk-comment": "Бот: Обавештење о томе да датотека већ постоји на Остави",
-	"checkimages-log-comment": "Бот: Ажурирање дневника",
+	"checkimages-doubles-talk-comment": "Бот: обавештење о томе да датотека већ постоји на Остави.",
+	"checkimages-log-comment": "Бот: ажурирање дневника.",
 	"checkimages-no-license-head": "Слика без лиценце",
-	"checkimages-source-tag-comment": "Бот: означавам новоотпремљену неозначену датотеку",
-	"checkimages-source-notice-comment": "Бот: тражим извор информација.",
+	"checkimages-source-tag-comment": "Бот: означена новоотпремљена неозначена датотека.",
+	"checkimages-source-notice-comment": "Бот: нема извор информација.",
 	"checkimages-unknown-extension-head": "Непознат додатак!",
 	"checkimages-unknown-extension-msg": "Изгледа да датотека %(file)s садржи погрешну екстензију."
 }

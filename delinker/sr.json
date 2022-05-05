@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"delinker-delink": "Бот: датотека [[%(title)s]] ја уклоњена, пошто ју је обрисао [[:User:%(user)s]]: ''%(comment)s''."
+}

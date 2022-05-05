@@ -8,6 +8,7 @@
 			"Zoranzoki21"
 		]
 	},
-	"blockpageschecker-adding": "Бот: додат шаблон за закључане странице",
-	"blockpageschecker-deleting": "Бот: брисање застарелог шаблона"
+	"blockpageschecker-adding": "Бот: додат шаблон за закључане странице.",
+	"blockpageschecker-modifying": "Бот: измењен застарели шаблона.",
+	"blockpageschecker-deleting": "Бот: обрисан застарели шаблон."
 }
