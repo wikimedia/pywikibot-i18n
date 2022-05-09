@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Tomasdd",
 			"Zygimantus"
 		]
 	},
-	"checkimages-source-notice-comment": "Robotas: Prašoma šaltinio informacija."
+	"checkimages-source-notice-comment": "Robotas: Prašoma šaltinio informacija.",
+	"checkimages-unknown-extension-head": "Nežinomas plėtinys!"
 }
