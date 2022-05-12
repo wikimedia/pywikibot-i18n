@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bluehill",
 			"Garam",
 			"IRTC1015",
 			"Nuevo Paso",
@@ -15,7 +16,7 @@
 	"category-listifying": "봇: %(fromcat)s에서 목록화 ({{PLURAL:%(num)d|항목 1개|항목 %(num)d개}})",
 	"category-removing": "봇: %(oldcat)s 제거",
 	"category-renamed": "봇: %(oldcat)s에서 이동됨. 저자: %(authors)s",
-	"category-replacing": "봇: %(oldcat)s을(를) %(newcat)s(으)로 분류 대체함",
+	"category-replacing": "봇: 분류 %(oldcat)s을(를) %(newcat)s(으)로 대체함",
 	"category-section-title": "이전 %(oldcat)s의 문서 역사",
 	"category-strip-cfd-templates": "봇: 완료된 분류 삭제 토론에 관한 틀 제거",
 	"category-strip-sort-keys": "봇: 완료된 행위에 대한 정렬 키 제거",

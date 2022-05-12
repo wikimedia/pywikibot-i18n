@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"delinker-delink": "Bot: Fila [[%(title)s]] ble fjernet fordi den ble slettet av [[:User:%(user)s]]: ''%(comment)s''."
+}
