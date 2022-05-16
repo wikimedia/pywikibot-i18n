@@ -4,5 +4,9 @@
 			"Joao Xavier"
 		]
 	},
+	"protect-category": "Bot: Protektanta omna pagini che kategorio %(cat)s",
+	"protect-images": "Bot: Protektanta omna imaji de la pagino %(page)s",
+	"protect-links": "Bot: Protektanta omna pagini ligita de %(page)s",
+	"protect-ref": "Bot: Protektanta omna pagini citita de %(page)s",
 	"protect-simple": "Bot: Protektanta listo di pagini."
 }

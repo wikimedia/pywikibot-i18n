@@ -6,5 +6,15 @@
 	},
 	"pywikibot-cosmetic-changes": "; modifikuri por plubeligar",
 	"pywikibot-enter-category-name": "Voluntez informar la nomo di la kategorio:",
-	"pywikibot-enter-new-text": "Voluntez skribar la nova texto:"
+	"pywikibot-enter-file-links-processing": "Quala ligili a qual arkivo mustas traktesar?",
+	"pywikibot-enter-finished-browser": "Kliktez ''Enter'' pos finar che vua ret-navigilo.",
+	"pywikibot-enter-namespace-number": "Informez ''namespace'' segun olua numero:",
+	"pywikibot-enter-new-text": "Voluntez skribar la nova texto:",
+	"pywikibot-enter-page-processing": "Quala pagino mustas esar traktata?",
+	"pywikibot-enter-xml-filename": "Voluntez informar l'arkivo di ''dump'' XML:",
+	"pywikibot-fixes-fckeditor": "Bot: Reparar ''rich-editor'' html",
+	"pywikibot-fixes-isbn": "Bot: Ajustar ISBN",
+	"pywikibot-fixes-html": "Bot: Konverto/reparo di HTML",
+	"pywikibot-fixes-syntax": "Bot: Reparar sintaxo wiki",
+	"pywikibot-touch": "Redakturo uzanta Pywikibot"
 }

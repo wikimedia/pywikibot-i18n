@@ -4,5 +4,7 @@
 			"Joao Xavier"
 		]
 	},
+	"solve_disambiguation-adding-dn-template": "Bot por klarigar homonimi: %(from)s - Indikita kom bezonanta atenco di experto",
+	"solve_disambiguation-links-removed": "Klarigo di homonimi per ''bot'': %(from)s - ligilo/ligili efacita.",
 	"solve_disambiguation-unknown-page": "(Nekonocata)"
 }

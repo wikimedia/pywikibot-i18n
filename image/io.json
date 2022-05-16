@@ -4,5 +4,6 @@
 			"Joao Xavier"
 		]
 	},
+	"image-remove": "Bot: Efacanta imajo %(file)s",
 	"image-replace": "Bot: Remplaso dil imajo %(old)s per %(new)s"
 }

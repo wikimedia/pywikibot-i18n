@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"revertbot-revert": "Bot: Desfacita redakturo a la revizo %(revid)s da %(author)s ye %(timestamp)s"
+}

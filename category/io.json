@@ -7,6 +7,7 @@
 	},
 	"category-adding": "roboto adjuntas: category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ank en %(alsocat)s)",
+	"category-clean": "Bot: Efaco di kategorio %(category)s qua ja existas en %(child)s",
 	"category-listifying": "Bot: Kreado di listi de %(fromcat)s ({{PLURAL:%(num)d|1 exemplaro|%(num)d exemplari}})",
 	"category-removing": "Bot: Eskarto de %(oldcat)s",
 	"category-renamed": "Bot: Movita de %(oldcat)s. Autori: %(authors)s",

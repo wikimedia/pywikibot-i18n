@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"imagetransfer-file_page_message": "Ca imajo kopiesis de %(site)s. L'originala deskripto esis:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "L'arkivo nun esas disponebla che Wikimedia Commons."
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"commonscat-msg_change": "Bot: Modifikanta ligilo a commons de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] a(d) [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}
