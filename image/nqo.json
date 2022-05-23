@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lancine.kounfantoh.fofana"
+		]
+	},
+	"image-remove": "ߡߐ߰ߡߐ߮: ߓߘߊ߫ ߖߌ߬ߦߊ߬ߓߍ %(file)s ߛߋ߲߬ߓߐ߫",
+	"image-replace": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߖߌ߬ߦߊ߬ߓߍ߫ %(old)s ߣߐ߬ߘߐߓߌ߬ߟߊ ߞߊ߲߬ %(new)s ߟߊ߫"
+}

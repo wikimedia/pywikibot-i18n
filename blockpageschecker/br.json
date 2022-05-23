@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fohanno"
+			"Fohanno",
+			"Huñvreüs"
 		]
 	},
-	"blockpageschecker-deleting": "Robot : o tilemel ur gobari diamzeret"
+	"blockpageschecker-adding": "Robot: o c’houzhpennañ patrom prenn pajenn",
+	"blockpageschecker-modifying": "Robot: o kemmañ ur patrom diamzeret",
+	"blockpageschecker-deleting": "Robot : o tilemel ur patrom diamzeret"
 }

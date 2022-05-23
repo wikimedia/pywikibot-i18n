@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lancine.kounfantoh.fofana"
+		]
+	},
+	"delete-from-category": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߐߜߍ ߟߎ߬ ߓߍ߯ ߖߏ߰ߛߌ ߞߊ߲߬ ߦߌߟߡߊ %(page)s ߘߐ߫",
+	"delete-from-file": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߐߜߍ߫ ߛߙߍߘߍ ߟߎ߬ ߖߏ߰ߛߌ ߞߊ߲߬.",
+	"delete-images": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߐߜߍ %(page)s ߖߌ߬ߦߊ߬ߓߍ ߟߎ߬ ߓߍ߯ ߖߏ߰ߛߌ ߞߊ߲߬",
+	"delete-linked-pages": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߐߜߍ߫ ߟߎ߫ ߓߍ߯ ߖߏ߰ߛߌ ߞߊ߲߬ ߡߍ߲ ߛߘߌ߬ߜߋ߲ ߦߋ߫ %(page)s ߘߐ߫",
+	"delete-referring-pages": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߐߜߍ ߟߎ߬ ߓߍ߯ ߖߏ߰ߛߌ ߞߊ߲߬ ߡߍ߲ ߠߎ߬ ߦߟߌߡߊߛߙߋߦߊߣߍ߲߫ ߦߋ߫ %(page)s ߓߟߏ߫"
+}

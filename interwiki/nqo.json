@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lancine.kounfantoh.fofana"
+		]
+	},
+	"interwiki-adding": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߝߙߊ߬ߟߌ %(adding)s",
+	"interwiki-adding-modifying": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߝߙߊ߬ߟߌ %(adding)s; ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ %(modifying)s",
+	"interwiki-adding-removing": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߝߙߊ߬ߟߌ %(adding)s; ߛߋ߲߬ߓߐ߬ߟߌ %(removing)s",
+	"interwiki-adding-removing-modifying": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߝߙߊ߬ߟߌ %(adding)s; ߛߋ߲߬ߓߐ߬ߟߌ %(removing)s; ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ %(modifying)s",
+	"interwiki-modifying": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ %(modifying)s",
+	"interwiki-modifying-from": "ߡߐ߰ߡߐ߮: ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߫ ߣߐ %(from)s ߞߊ߬ ߥߊ߫ %(modifying)s",
+	"interwiki-removing": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߛߋ߲߬ߓߐ߬ߟߌ %(removing)s",
+	"interwiki-removing-modifying": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߛߋ߲߬ߓߐ߬ߟߌ %(removing)s; ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ %(modifying)s"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huñvreüs"
+		]
+	},
+	"transferbot-summary": "Dilec’hiet pajenn eus %(source)s",
+	"transferbot-target": "Dilec’hiet eo bet ar bajenn-mañ eus %(source)s. Gallout a reer gwelout istor he c’hemmoù war %(history)s"
+}

@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Fulup",
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Huñvreüs"
 		]
 	},
 	"category-adding": "Robot : Oc'h ouzhpennañ ar rummad [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ivez e %(alsocat)s)",
+	"category-clean": "Robot: o tilemel rummad %(category)s a zo rummataet e %(child)s dija",
 	"category-listifying": "Robot : Roll eus %(fromcat)s ({{PLURAL:%(num)d|1 elfenn|%(num)d pajenn}})",
 	"category-removing": "Robot : Tennet diwar %(oldcat)s",
 	"category-renamed": "Robot : dilec'hiet adalek %(oldcat)s. Aozerien : %(authors)s",

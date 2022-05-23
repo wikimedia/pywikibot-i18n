@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lancine.kounfantoh.fofana"
+		]
+	},
+	"category_redirect-fix-double": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲߫ ߓߊߟߌߟߌ ߘߐߓߍ߲߭ ߞߊ߲߬",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] ߓߘߊ߫ ߓߌ߬ߟߊ߬ %(oldcat)s ߟߊ߫",
+	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] ߓߌ߬ߟߊ߬ߟߌ ߓߘߊ߫ ߗߌߙߏ߲߫ %(oldcat)s ߟߊ߫",
+	"category_redirect-log-failed": "** ߗߌߙߏ߲ߠߌ߲: %(error)s",
+	"category_redirect-log-ignoring": "* %(oldcat)s ߡߊߓߌ߬ߟߊ߫",
+	"category_redirect-log-loop": "* ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲ ߞߐ߬ߘߙߍ ߞߊ߬ ߝߘߊ߫ %(oldcat)s ߟߊ߫",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d ߓߘߊ߫ ߛߐ߬ߘߐ߲߬߸ %(moved)d ߓߐ߫ ߊ߬ ߣߐ߭ ߘߐ߫"
+}

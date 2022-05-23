@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lancine.kounfantoh.fofana"
+		]
+	},
+	"archivebot-archive-full": "(ߛߓߍߞߘߐ ߓߘߊ߫ ߝߊ߫)",
+	"archivebot-archive-summary": "ߡߐ߰ߡߐ߮: %(count)d ߛߓߍߞߘߐߦߊ ߦߴߌ ߘߐ߫ {{PLURAL:%(count)dߝߐߡߊ|ߝߐߡߊ ߟߎ߫}} ߞߊ߬ ߝߘߊ߫ [[%(from)s]] ߟߊ߫",
+	"archivebot-older-than": "{{PLURAL:%(count)d|ߞߊߞߘߐ߬}} %(duration)s ߘߌ߫",
+	"archivebot-page-summary": "ߡߐ߰ߡߐ߮: %(count)d ߛߓߍߞߘߐߦߊ ߦߴߌ ߘߐ߫ {{PLURAL:%(count)dߝߐߡߊ|ߝߐߡߊ ߟߎ߫}} %(why)s %(archives)s ߘߌ߫"
+}

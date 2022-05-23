@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dnshitobu"
+		]
+	},
+	"archivebot-archive-full": "(KƆLIGU MAA PALIYA)",
+	"archivebot-archive-summary": "Bot: %(count)d {{PLURAL:%(count)d|thread|threads}} Zaŋ n niŋ kɔligu ni ka di yi la [[%(from)s]]"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huñvreüs"
+		]
+	},
+	"delinker-delink": "Robot: Dilamet eo bet restr [[%(title)s]], rak diverket eo bet gant [[:User:%(user)s]]: ''%(comment)s''."
+}
