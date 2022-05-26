@@ -5,5 +5,12 @@
 		]
 	},
 	"checkimages-deletion-comment": "ߡߐ߰ߡߐ߮: ߟߊ߫ ߝߙߊ߬ߟߌ %(adding)s",
-	"checkimages-doubles-file-comment": "ߡߐ߰ߡߐ߮: ߞߐߕߐ߮ ߦߋ߫ ߞߐߡߐ߲ߛ ߘߐ߫ ߞߘߐ߬ߡߊ߲߫߸ ߕߎ߬ߡߊ߬ߘߐ߫ ߊ߬ ߖߏ߰ߛߌ߬ߣߍ߲߫ ߘߌ߫ ߞߍ߫"
+	"checkimages-doubles-file-comment": "ߡߐ߰ߡߐ߮: ߞߐߕߐ߮ ߦߋ߫ ߞߐߡߐ߲ߛ ߘߐ߫ ߞߘߐ߬ߡߊ߲߫߸ ߕߎ߬ߡߊ߬ߘߐ߫ ߊ߬ ߖߏ߰ߛߌ߬ߣߍ߲߫ ߘߌ߫ ߞߍ߫",
+	"checkimages-doubles-head": "ߞߐߕߐ߯ ߓߊߟߌߣߍ߲",
+	"checkimages-doubles-talk-comment": "ߡߐ߰ߡߐ߮: ߦߟߌߣߐߦߊߟߌ ߞߏ߫ ߞߐߕߐ߮ ߦߋ߫ ߞߐߡߐ߲ߛ ߘߐ߫ ߞߘߐ߬ߡߊ߲߫",
+	"checkimages-log-comment": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߕߋ߬ߟߋ߲ ߠߊߞߎߘߦߊ ߞߊ߲߬",
+	"checkimages-source-tag-comment": "ߡߐ߰ߡߐ߮: ߟߊ߬ߦߟߍ߬ߣߍ߲߫ ߞߎ߬ߘߊ߫ ߕߊ߯ߦߙߐߒߕߊ߲ ߠߎ߬ ߣߐ߬ߣߐ ߦߴߌ ߘߐ߫",
+	"checkimages-source-notice-comment": "ߡߐ߰ߡߐ߮: ߓߐߖߎ ߞߎ߲߬ߠߊ߬ߝߏߣߌ߲ ߡߊߢߌ߬ߣߌ߲߬ߞߊ ߦߴߌ ߘߐ߫.",
+	"checkimages-unknown-extension-head": "ߘߐ߬ߦߟߌ߬ߥߊ߬ߟߌ߫ ߡߊߟߐ߲ߓߊߟߌ߹",
+	"checkimages-unknown-extension-msg": "ߊ߬ ߞߍߣߍ߲߫ ߦߋ߫ ߦߏ߫ ߘߐ߬ߦߟߌ߬ߥߊ߬ߟߌ߫ ߖߎ߮ ߟߋ߬ ߦߋ߫ ߞߐߕߐ߮ %(file)s ߟߊ߫߸ ߊ߬ ߝߛߍ߬ߝߛߍ߫ ߖߊ߰ߣߌ߲߫."
 }

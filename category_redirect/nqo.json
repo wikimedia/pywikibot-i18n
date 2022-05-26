@@ -4,11 +4,19 @@
 			"Lancine.kounfantoh.fofana"
 		]
 	},
+	"category_redirect-add-template": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲ ߦߌߟߡߊ ߞߙߊߞߏ ߝߊ߬ߙߊ ߞߊ߲߬ ߘߐ߰ߘߏ߲߬ߠߌ߲ ߞߊ߲ߡߊ߬",
+	"category_redirect-change-category": "ߡߐ߰ߡߐ߮: ߓߘߊ߫ ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߣߍ߲ ߠߎ߬ ߦߌߟߡߊ ߟߎ߬ ߡߊߝߊ߬ߟߋ߲߫ [[:%(oldCatLink)s|%(oldCatTitle)s]] ߞߊ߬ ߥߊ߫ [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "ߦߌߟߡߊ ߟߎ߬ ߟߊߞߎ߲߬ߛߌ߲߬ߠߌ߲ ߘߐ߰ߘߏ߲߬ߠߌ߲ ߡߐ߰ߡߐ߮",
 	"category_redirect-fix-double": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲߫ ߓߊߟߌߟߌ ߘߐߓߍ߲߭ ߞߊ߲߬",
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] ߓߘߊ߫ ߓߌ߬ߟߊ߬ %(oldcat)s ߟߊ߫",
 	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] ߓߌ߬ߟߊ߬ߟߌ ߓߘߊ߫ ߗߌߙߏ߲߫ %(oldcat)s ߟߊ߫",
 	"category_redirect-log-failed": "** ߗߌߙߏ߲ߠߌ߲: %(error)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s ߡߊߓߌ߬ߟߊ߫",
 	"category_redirect-log-loop": "* ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲ ߞߐ߬ߘߙߍ ߞߊ߬ ߝߘߊ߫ %(oldcat)s ߟߊ߫",
-	"category_redirect-log-moved": "* %(oldcat)s: %(found)d ߓߘߊ߫ ߛߐ߬ߘߐ߲߬߸ %(moved)d ߓߐ߫ ߊ߬ ߣߐ߭ ߘߐ߫"
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d ߓߘߊ߫ ߛߐ߬ߘߐ߲߬߸ %(moved)d ߓߐ߫ ߊ߬ ߣߐ߭ ߘߐ߫",
+	"category_redirect-log-not-loaded": "* ߕߍߣߊ߬ ߛߐ߲߬ ߠߊ߫ %(oldcat)s ߟߊߢߎ߲߫ ߠߊ߫; ߡߊ߬ߓߌ߬ߟߊ߬ߟߌ",
+	"category_redirect-log-skipping": "* ߜߊ߲߫ %(oldcat)s ߞߎ߲߬ߠߊ߫; ߥߛߎ߬ ߡߝߊߣߍ߲ ߠߊ߫",
+	"category_redirect-problem-hard": "# %(oldcat)s ߦߋ߫ ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲߫ ߜߍߟߍ߲ ߠߋ߬ ߘߌ߫ %(page)s ߘߐ߫",
+	"category_redirect-problem-redirects": "# %(oldcat)s ߓߘߊ߫ ߟߊߞߎ߲߬ߛߌ߲߫ %(redpage)s ߞߊ߲߬",
+	"category_redirect-problem-self-linked": "# %(oldcat)s ߦߋ߫ ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲ ߠߋ߬ ߘߌ߫ ߖߘߍ߬ߞߊߣߌ߲ ߞߊ߲߬"
 }

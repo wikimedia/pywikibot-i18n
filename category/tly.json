@@ -13,7 +13,7 @@
 	"category-renamed": "Робот: бардыше чыјо %(oldcat)s. мыәллифон: %(authors)s",
 	"category-replacing": "Робот: %(oldcat)s бә %(newcat)s әвәз карде",
 	"category-section-title": "Сәһифә тарихи че канәку %(oldcat)s",
-	"category-version-history": "Робот: Тарихи чы канә версијәку огәте %(oldcat)s",
+	"category-version-history": "Робот: Тарихи чы kanə версијәку огәте %(oldcat)s",
 	"category-was-disbanded": "Робот: категоријә ләғв кардә быә",
 	"category-was-moved": "Робот: категоријә тожәдан ном ноә быә [[:Category:%(newcat)s|%(title)s]]"
 }
