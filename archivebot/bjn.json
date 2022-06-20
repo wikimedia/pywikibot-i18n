@@ -9,6 +9,6 @@
 	},
 	"archivebot-archive-full": "(ARSIP LANGKAP)",
 	"archivebot-archive-summary": "Bot: Maarsipakan %(count)d {{PLURAL:%(count)d|lambaran|lambaran}} matan [[%(from)s]]",
-	"archivebot-older-than": "{{PLURAL:%(count)d|talawas}} pada %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|labih lawas}} pada %(duration)s",
 	"archivebot-page-summary": "Robot: Mangarsipakan %(count)d {{PLURAL:%(count)d|lambaran|lambaran}} (%(why)s) ka %(archives)s"
 }
