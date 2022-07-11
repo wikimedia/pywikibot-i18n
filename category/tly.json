@@ -14,6 +14,6 @@
 	"category-replacing": "Робот: %(oldcat)s бә %(newcat)s әвәз карде",
 	"category-section-title": "Сәһифә тарихи че канәку %(oldcat)s",
 	"category-version-history": "Робот: Тарихи чы kanə версијәку огәте %(oldcat)s",
-	"category-was-disbanded": "Робот: категоријә ләғв кардә быә",
-	"category-was-moved": "Робот: категоријә тожәдан ном ноә быә [[:Category:%(newcat)s|%(title)s]]"
+	"category-was-disbanded": "Bot: Kateqoriya ләғв кардә быә",
+	"category-was-moved": "Bot: Kateqoriya тожәдан ном ноә быә [[:Category:%(newcat)s|%(title)s]]"
 }

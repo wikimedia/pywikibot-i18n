@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Murma174"
+		]
+	},
+	"delinker-delink": "Bot: Det datei [[%(title)s]] as wechnimen wurden, auer hat stregen wurden as faan [[:User:%(user)s]]: ''%(comment)s''."
+}
