@@ -14,7 +14,7 @@
 		]
 	},
 	"pywikibot-cosmetic-changes": "; changements cosmétiques",
-	"pywikibot-enter-category-name": "Veuillez entrer le nom de la catégorie :",
+	"pywikibot-enter-category-name": "Veuillez saisir le nom de la catégorie :",
 	"pywikibot-enter-file-links-processing": "Liens vers la page de fichier qu’il faudrait traiter ?",
 	"pywikibot-enter-finished-browser": "Appuyez sur Entrée une fois que vous avez fini dans le navigateur.",
 	"pywikibot-enter-namespace-number": "Veuillez entrer un espace de noms par son numéro :",
