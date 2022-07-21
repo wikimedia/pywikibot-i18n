@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lancine.kounfantoh.fofana"
+			"Lancine.kounfantoh.fofana",
+			"ߒߓߋ߫ ߝߏߝߣߊ߫"
 		]
 	},
-	"noreferences-add-tag": "ߡߐ߰ߡߐ߮: ߦߋ߫ {{ߦߟߌߡߊߛߙߋ߫}} ߞߐߢߌ߬ߣߊ߬ߣߍ߲ ߠߎ߬ ߝߊ߬ߙߊ ߞߊ߲߬"
+	"noreferences-add-tag": "ߡߐ߰ߡߐ߮: ߦߋ߫ {{ߦߟߌߡߊߛߙߋ߫}} ߞߐߢߌ߬ߣߊ߬ߣߍ߲ ߠߎ߬ ߝߊ߬ߙߊ ߞߊ߲߬",
+	"noreferences-fix-tag": "ߡߐ߰ߡߐ߮: ߛߓߍߛߋ߲߫ ߓߍ߲߬ߓߊߟߌ ߟߎ߫ ߛߊߞߍߟߌ <references /> ߝߎ߲ߓߟߐ"
 }
