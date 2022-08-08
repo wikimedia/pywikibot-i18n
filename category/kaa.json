@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nurlan"
+		]
+	},
+	"category-adding": "Bot: Kategoriya qosıw[[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(taǵı %(alsocat)s)"
+}

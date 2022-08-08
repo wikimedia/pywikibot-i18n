@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nurlan"
+		]
+	},
+	"archivebot-archive-full": "(ARXIV TOLǴAN)",
+	"archivebot-archive-summary": "Bot: arxivlap atır %(count)d {{PLURAL:%(count)d|tema|temalar}} dan [[%(from)s]]",
+	"archivebot-older-than": "{{PLURAL:%(count)d|older}} dan %(duration)s qarapanda eskilew",
+	"archivebot-page-summary": "Bot: %(count)d dana {{PLURAL:%(count)d|aǵım|aǵımlar}} (%(why)s) dan %(archives)s deyin arxivlaw"
+}
