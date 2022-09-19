@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bgo eiu"
+		]
+	},
+	"transferbot-summary": "%(source)s توں بھیجیا صفحہ",
+	"transferbot-target": "ایہ پنتا %(source)s توں بھجیا گیا سی۔ اِسدا سنپادن اِتہاس %(history)s 'تے ویکھیا جا سکدا ہے"
+}

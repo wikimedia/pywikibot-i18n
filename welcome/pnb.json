@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bgo eiu",
 			"BukhariSaeed"
 		]
 	},
+	"welcome-bad_username": "بوٹ: اِکّ ورتونکار ناں جوڑنا جسدی جانچ کرن دی زرورت ہے",
+	"welcome-updating": "بوٹ: گال دا نوینیکرن",
 	"welcome-welcome": "جی آیاں نوں!"
 }
