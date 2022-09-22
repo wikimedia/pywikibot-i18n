@@ -7,8 +7,8 @@
 		]
 	},
 	"archivebot-archive-full": "(ARHIV JE POLN)",
-	"archivebot-archive-summary": "Bot: arhiviranje niti iz [[%(from)s]]",
+	"archivebot-archive-summary": "Bot: arhiviranje %(count)d {{PLURAL:%(count)d|niti|niti}} iz [[%(from)s]]",
 	"archivebot-archiveheader": "{{Arhiviran-pogovor}}",
-	"archivebot-older-than": "starejše od %(duration)s",
-	"archivebot-page-summary": "Bot: arhiviranje niti (%(why)s) na %(archives)s"
+	"archivebot-older-than": "{{PLURAL:%(count)d|starejše}} od %(duration)s",
+	"archivebot-page-summary": "Bot: arhiviranje %(count)d {{PLURAL:%(count)d|niti|niti}} (%(why)s) na %(archives)s"
 }
