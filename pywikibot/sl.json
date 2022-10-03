@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Dbc334",
+			"Eleassar",
 			"Irena Plahuta",
 			"Mateju"
 		]
@@ -9,7 +10,7 @@
 	"pywikibot-cosmetic-changes": "; oblikovne spremembe",
 	"pywikibot-enter-category-name": "Prosimo, vnesite ime kategorije:",
 	"pywikibot-enter-file-links-processing": "Povezava do katere strani datoteke naj bo obdelana?",
-	"pywikibot-enter-finished-browser": "Ko končate v brskalniku, pritisnite Enter.",
+	"pywikibot-enter-finished-browser": "Ko končate v brskalniku, pritisnite vnašalko (Enter).",
 	"pywikibot-enter-namespace-number": "Prosimo, vnesite številko imenskega prostora.",
 	"pywikibot-enter-new-text": "Prosimo, vnesite novo besedilo:",
 	"pywikibot-enter-page-processing": "Katera stran naj bo obdelana?",
