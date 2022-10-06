@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"GinawaSaHapon"
+		]
+	},
+	"blockpageschecker-adding": "Bot: Nagdadagdag ng padron sa pag-lock sa pahina",
+	"blockpageschecker-modifying": "Bot: Binabago ang lumang padron",
+	"blockpageschecker-deleting": "Bot: Binubura ang lumang padron"
+}

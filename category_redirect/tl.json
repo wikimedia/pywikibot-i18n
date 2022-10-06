@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"AnakngAraw"
+			"AnakngAraw",
+			"GinawaSaHapon"
 		]
 	},
-	"category_redirect-add-template": "Robot: nagdaragdag ng suleras na papunta sa ibang kategorya para sa pagpapanatili",
-	"category_redirect-change-category": "Robot: baguhin ang kategoryang pinapunta sa iba [[:%(oldCatLink)s| %(oldCatTitle)s|%(newCatLink)s|%(newCatTitle)s]]",
-	"category_redirect-comment": "Bot na tagapagpanatili ng pagpapapunta sa ibang kategorya",
-	"category_redirect-edit-request": "Ang sumusunod na nakaprutektang mga pahina ay napansing kailangan ng mga pagsasapanahon sa mga kawing na pangkategorya: %(itemlist)s",
+	"category_redirect-add-template": "Bot: Nagdadagdag ng padron sa pagturo sa kategorya para sa maintenance",
+	"category_redirect-change-category": "Bot: Binabago ang kategoryang tinuturo mula [[:%(oldCatLink)s|%(oldCatTitle)s]] papuntang [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Maintenance bot para sa mga pagturo sa kategorya",
+	"category_redirect-edit-request": "Na-detect ang mga sumusunod na protektadong pahina bilang mga nangangailangan ng update sa mga link sa kategorya: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s ay nasa loob ng %(oldcat)s, na isang pagpapapunta sa %(newcat)s",
 	"category_redirect-fix-double": "Bot: kinukumpuni ang nagkadalawang pagpapapunta sa iba"
 }

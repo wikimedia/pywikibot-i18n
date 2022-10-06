@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"GinawaSaHapon"
+		]
 	},
-	"add_text-adding": "robot dinagdag %(adding)s"
+	"add_text-adding": "Bot: Nagdadagdag ng %(adding)s"
 }
