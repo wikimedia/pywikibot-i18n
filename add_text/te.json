@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Chaduvari"
+		]
 	},
-	"add_text-adding": "యంత్రము  కలుపుతున్నది %(adding)s"
+	"add_text-adding": "బాట్: %(adding)s ను చేరుస్తోంది"
 }
