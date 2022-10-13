@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"blockpageschecker-adding": "Bot: Dodavanje predloška za zaključavanje stranice",
+	"blockpageschecker-modifying": "Bot: Izmjena zastarjelog predloška",
+	"blockpageschecker-deleting": "Bot: Brisanje zastarjelog predloška"
+}
