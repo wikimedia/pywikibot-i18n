@@ -9,7 +9,7 @@
 	"category-adding": "בוט: מוסיף את הקטגוריה [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(גם בקטגוריות %(alsocat)s)",
 	"category-clean": "בוט: מסיר את הקטגוריה %(category)s, שכבר קיימת בתוך %(child)s",
-	"category-listifying": "בוט: יוצר רשימה מהקטגוריה %(fromcat)s (%(num)d דפים)",
+	"category-listifying": "בוט: יוצר רשימה מהקטגוריה %(fromcat)s ({{PLURAL:%(num)d|רשומה אחת|%(num)d רשומות}})",
 	"category-removing": "בוט: מסיר את הדף מהקטגוריה %(oldcat)s",
 	"category-renamed": "בוט: הועבר מהשם %(oldcat)s. כותבים: %(authors)s",
 	"category-replacing": "בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s",
