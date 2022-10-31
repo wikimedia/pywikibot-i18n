@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"delinker-delink": "Bot: Datoteka [[%(title)s]] je bila odstranjena ali pa jo je izbrisal/a [[:User:%(user)s]]: ''%(comment)s''."
+}

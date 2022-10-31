@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"pagefromfile-msg": "Bot: samodejni uvoz člankov",
+	"pagefromfile-msg_bottom": "pripni na dno",
+	"pagefromfile-msg_force": "obstoječe besedilo prepisano",
+	"pagefromfile-msg_top": "pripni na vrh"
+}

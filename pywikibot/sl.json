@@ -18,5 +18,6 @@
 	"pywikibot-fixes-fckeditor": "Bot: Popravljanje HTML-ja urejevalnika",
 	"pywikibot-fixes-isbn": "Robot: Oblikovanje ISBN",
 	"pywikibot-fixes-html": "Bot: Pretvorba/popravljanje HTML",
-	"pywikibot-fixes-syntax": "Bot: Popravljanje wikiskladnje"
+	"pywikibot-fixes-syntax": "Bot: Popravljanje wikiskladnje",
+	"pywikibot-touch": "Ničelno urejanje Pywikibota"
 }

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"undelete-from-file": "Bot: obnova seznama strani",
+	"undelete-images": "Bot: obnova vseh slik na strani %(page)s",
+	"undelete-linked-pages": "Bot: obnova vseh strani, povezanih s strani %(page)s"
+}

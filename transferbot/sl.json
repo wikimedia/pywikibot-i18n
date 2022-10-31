@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"transferbot-summary": "Stran, prestavljena iz %(source)s",
+	"transferbot-target": "Ta stran je bila prestavljena iz %(source)s. Njeno zgodovino urejanja si lahko ogledate na %(history)s"
+}

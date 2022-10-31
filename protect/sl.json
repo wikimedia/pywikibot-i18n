@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"protect-category": "Bot: zaščita vseh strani v kategoriji %(cat)s",
+	"protect-images": "Bot: zaščita vseh slik na strani %(page)s",
+	"protect-links": "Bot: zaščita vseh strani, povezanih s strani %(page)s",
+	"protect-ref": "Bot: zaščita vseh strani, ki se povezujejo na stran %(page)s",
+	"protect-simple": "Bot: zaščita seznama datotek"
+}

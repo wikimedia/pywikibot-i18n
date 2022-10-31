@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"reflinks-autogen": "samodejno ustvarjeno",
+	"reflinks-comment": "Naslov, ki ga je ustvaril bot",
+	"reflinks-msg": "Bot: Pretvarjanje golih sklicev z uporabo imen referenc za preprečitev dvojnikov; glejte [[%(manual)s|dokumentacijo]]"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"revertbot-revert": "Bot: vrnitev na redakcijo %(revid)s %(author)s ob %(timestamp)s"
+}

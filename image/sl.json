@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"image-remove": "Bot: odstranjevanje slike %(file)s",
+	"image-replace": "Bot: nadomeščanje slike %(old)s z %(new)s"
+}

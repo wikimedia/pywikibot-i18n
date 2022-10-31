@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"unprotect-category": "Bot: odstranjevanje zaščite vseh strani v kategoriji %(cat)s",
+	"unprotect-images": "Bot: odstranjevanje zaščite vseh datotek na strani %(page)s",
+	"unprotect-links": "Bot: odstranjevanje vseh strani, povezanih iz %(page)s",
+	"unprotect-ref": "Bot: odstranjevanje zaščite vseh strani, povezanih iz %(page)s",
+	"unprotect-simple": "Bot: odstranjevanje zaščite seznama datotek"
+}

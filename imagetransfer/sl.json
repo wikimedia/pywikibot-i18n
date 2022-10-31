@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"imagetransfer-file_page_message": "Ta slika je bila skopirana iz %(site)s. Prvotni opis je bil:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Datoteka je zdaj na voljo v Wikimedijini zbirki."
+}
