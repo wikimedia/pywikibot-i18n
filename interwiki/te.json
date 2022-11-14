@@ -5,11 +5,11 @@
 		]
 	},
 	"interwiki-adding": "బాట్: %(adding)s ను చేరుస్తోంది",
-	"interwiki-adding-modifying": "యంత్రము  కలుపుతున్నది: %(adding)s మార్పులు చేస్తున్నది: %(modifying)s",
+	"interwiki-adding-modifying": "బాట్: %(adding)s ను చేరుస్తోంది; %(modifying)s ను సవరిస్తోంది",
 	"interwiki-adding-removing": "బాట్: %(adding)s చేరుస్తోంది; తొలగిస్తోంది: %(removing)s",
-	"interwiki-adding-removing-modifying": "యంత్రము  కలుపుతున్నది: %(adding)s తొలగిస్తున్నది: %(removing)s మార్పులు చేస్తున్నది: %(modifying)s",
-	"interwiki-modifying": "యంత్రము  మార్పులు చేస్తున్నది: %(modifying)s",
+	"interwiki-adding-removing-modifying": "బాట్: %(adding)s ను చేరుస్తోంది: %(removing)s ను తీసేస్తోంది: %(modifying)s ను సవరిస్తోంది",
+	"interwiki-modifying": "బాట్: %(modifying)s ను సవరిస్తోంది",
 	"interwiki-modifying-from": "బాటు: %(from)s వర్గాన్ని %(modifying)sకి మార్చింది",
-	"interwiki-removing": "యంత్రము  తొలగిస్తున్నది: %(removing)s",
-	"interwiki-removing-modifying": "యంత్రము  తొలగిస్తున్నది: %(removing)s మార్పులు చేస్తున్నది: %(modifying)s"
+	"interwiki-removing": "బాట్: %(removing)s ను తీసేస్తోంది",
+	"interwiki-removing-modifying": "బాట్: %(removing)s ను తీసేస్తోంది: %(modifying)s ను సవరిస్తోంది"
 }
