@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justman10000"
+		]
+	},
+	"delinker-delink": "Bot: Die Datei [[%(title)s]] wurde entfernt, da sie von [[:User:%(user)s]]: ''%(comment)s'' gelöscht wurde."
+}

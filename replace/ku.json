@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Balyozxane",
 			"Ghybu"
 		]
 	},
-	"replace-replacing": "Bot: Otomatîk nivîs guherandin %(description)s"
+	"replace-replacing": "Bot: Otomatîk nivîs guhartin %(description)s"
 }

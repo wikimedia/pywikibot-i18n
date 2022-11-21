@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Justman10000",
 			"Metalhead64"
 		]
 	},
+	"blockpageschecker-adding": "Bot: Vorlage für Seitensperre hinzufügen",
+	"blockpageschecker-modifying": "Bot: Veraltete Vorlage ändern",
 	"blockpageschecker-deleting": "Bot: Lösche veraltete Vorlage"
 }
