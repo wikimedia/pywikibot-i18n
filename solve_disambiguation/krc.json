@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"solve_disambiguation-adding-dn-template": "Ботну болушлугъу бла ангылам айрымы: %(from)s - Экспертни эсин бёлмеси керек болгъанча белгиленнгенди",
+	"solve_disambiguation-links-removed": "Ботну болушлугъу бла ангылам айрымы: %(from)s — Джибериу(ле) къоратылды.",
+	"solve_disambiguation-links-resolved": "Ботну болушлугъу бла ангылам айрымы: %(from)s — джибериу (ле) тюрлендирилиб %(to)s халгъа келтирилди",
+	"solve_disambiguation-redirect-adding-dn-template": "Ботну болушлугъу бла ангылам айрымы: %(from)s - Экспертни эсин бёлмеси керек болгъанча белгиленнгенди",
+	"solve_disambiguation-redirect-removed": "Ботну болушлгъу бла ангылам айрымы: %(from)s — Джибериу(ле) къоратылды",
+	"solve_disambiguation-redirect-resolved": "Ботну болушлугъу бла ангылам айрымы: %(from)s — джибериу (ле) тюрлендирилиб %(to)s халгъа келтирилди",
+	"solve_disambiguation-unknown-page": "(билинмеген)"
+}

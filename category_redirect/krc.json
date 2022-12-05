@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"category_redirect-add-template": "Бот: Къуллукъ ишле бардырыр ючюн категория джолландырыу шаблону къошулады",
+	"category_redirect-change-category": "Бот: Джолландырыу [[:%(oldCatLink)s|%(oldCatTitle)s]] категория [[:%(newCatLink)s|%(newCatTitle)s]] халгъа тюрлендириледи",
+	"category_redirect-comment": "Категорияны джолландырыуну къуллукъ ишлерин этген бот",
+	"category_redirect-edit-request": "Къорууламада болгъан бу бетледеги категория джибериулеге джангыртыу керекди: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s, %(newcat)s'-ге джолландырылгъан %(oldcat)s'-де",
+	"category_redirect-fix-double": "Бот: Экили джолландырыу тюзетиле турады",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] да %(oldcat)s къошулду",
+	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] да %(oldcat)s къошулуу тындырылмады",
+	"category_redirect-log-double": "* Экили джолландырыу тюзетилди: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Тындырылмады: %(error)s",
+	"category_redirect-log-false-positive": "* Сакъланмагъан джолландырыу: %(oldcat)s",
+	"category_redirect-log-ignoring": "* %(oldcat)s джокъ саналмасы",
+	"category_redirect-log-loop": "*%(oldcat)s къайнакъдан джолландырыу цикл",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d табылды, %(moved)d кёчюрюлдю",
+	"category_redirect-log-move-error": "* %(oldcat)s:  move_contents'-де халат",
+	"category_redirect-log-new": "Ахыр рапортдан бу заманнга дери джангы джолландырыула:",
+	"category_redirect-log-not-loaded": "* %(oldcat)s джюкленемеди; джокъ саналады",
+	"category_redirect-log-skipping": "* %(oldcat)s атлатылады; джангыртыу кёзюуюню ичиндеди",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Дагъыда эски логла]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s, %(page)s бетге зорлу джолландырыуду",
+	"category_redirect-problem-redirects": "# %(oldcat)s, %(redpage)s джолландырыуду",
+	"category_redirect-problem-self-linked": "# %(oldcat)s кеси кесине байламлы джолландырыуду"
+}

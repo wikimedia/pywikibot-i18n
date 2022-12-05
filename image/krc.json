@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"image-remove": "Бот: %(file)s суратны кетериу",
+	"image-replace": "Бот: %(old)s'-ну орнуна %(new)s сурат аушдурулады"
+}

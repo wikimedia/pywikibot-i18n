@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"transferbot-summary": "Бетни %(source)s бетден кёчюрдю",
+	"transferbot-target": "Бу бет %(source)s бетден кёчюрюлдю. Тюзетиу тарихи %(history)s бетден кёрюнеди."
+}

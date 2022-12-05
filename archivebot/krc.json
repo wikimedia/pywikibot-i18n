@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"archivebot-archive-full": "(АРХИВ ТОЛУДУ)",
+	"archivebot-archive-summary": "Бот: [[%(from)s]] бетден %(count)d башлыкъ архивленеди",
+	"archivebot-older-than": "{{PLURAL:%(count)d|эскисинден}} %(duration)s",
+	"archivebot-page-summary": "Бот: Архивленеди: %(count)d башлыкъ (%(why)s) былайгъа: %(archives)s."
+}

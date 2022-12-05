@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"pywikibot-cosmetic-changes": "; косметик тюрлениуле",
+	"pywikibot-enter-category-name": "Тилейбиз, категорияны атын киргизтигиз:",
+	"pywikibot-enter-file-links-processing": "Файлны къайсы бетине джибериуню джарашдырыргъа керекди?",
+	"pywikibot-enter-finished-browser": "Браузерде битсе, Enter тиекге басыгъыз.",
+	"pywikibot-enter-namespace-number": "Тилейбиз, номерине кёре ат аланны киргизтигиз:",
+	"pywikibot-enter-new-text": "Тилейбиз, джангы текст киргизтигиз:",
+	"pywikibot-enter-page-processing": "Къайсы бет джарашдырылыргъа керекди?",
+	"pywikibot-enter-xml-filename": "Тилейбиз, XML дампны файлыны атын киргизтигиз:",
+	"pywikibot-fixes-fckeditor": "Бот: Кенгертилген редактор html-ни тюзетиу",
+	"pywikibot-fixes-isbn": "Бот: ISBN джасау",
+	"pywikibot-fixes-html": "Бот: HTML-ни тюрленириу/тюзетиу",
+	"pywikibot-fixes-syntax": "Бот: Вики синтаксисни тюзетиу",
+	"pywikibot-touch": "Pywikibot сенсор тюзетиу"
+}

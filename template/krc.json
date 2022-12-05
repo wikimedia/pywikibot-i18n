@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"template-changing": "Бот:{{PLURAL:%(num)d|шаблон}} ауушдурулады: %(list)s",
+	"template-removing": "Бот:{{PLURAL:%(num)d|шаблон}} къоратылады: %(list)s",
+	"template-substituting": "Бот: {{PLURAL:%(num)d|шаблон}} кёчюрюледи: %(list)s"
+}

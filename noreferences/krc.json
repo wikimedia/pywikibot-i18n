@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"noreferences-add-tag": "Бот: Джетмеген <references /> белги къошулады",
+	"noreferences-fix-tag": "Бот: <references /> белгини терс синтаксисин тюзет"
+}

@@ -1,8 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Къарачайлы"
 		]
 	},
-	"category-adding": "робот: къошду category [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "робот: къошду category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(%(alsocat)s категорияда да)",
+	"category-clean": "Бот: %(child)s бар болгъан %(category)s категория кетериледи",
+	"category-listifying": "Бот: %(fromcat)s бетден башлаб (%(num)d кирди) тизмеленеди",
+	"category-removing": "Бот: %(oldcat)s категориясындан къоратылады",
+	"category-renamed": "Бот: %(oldcat)s къоратылды. Авторла: %(authors)s",
+	"category-replacing": "Бот: %(oldcat)s, %(newcat)s категория бла алмашдырылады",
+	"category-section-title": "Аллындагъы %(oldcat)s бетни тарихи",
+	"category-strip-cfd-templates": "Бот: Тамаланнган этиуле ючюн CFD-шаблонланы кетериу",
+	"category-strip-sort-keys": "Бот: Тамамланнган этиу ючюн айырыу ачхычланы кетериу",
+	"category-strip-both": "Бот: Тамаланнган этиуле ючюн CFD-шаблонла бла ачхычланы кетериу",
+	"category-version-history": "Бот: Эски %(oldcat)s версияны сакълау тарихи",
+	"category-was-disbanded": "Бот: Категория чачылды",
+	"category-was-moved": "Бот: Категория [[:Category:%(newcat)s|%(title)s]] кёчюрюлдю"
 }

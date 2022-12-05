@@ -2,14 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Hugo.arg",
-			"Xqt"
+			"Xqt",
+			"Къарачайлы"
 		]
 	},
-	"interwiki-adding": "робот къошду: %(adding)s",
+	"interwiki-adding": "Бот: Къошулады %(adding)s",
 	"interwiki-adding-modifying": "робот къошду: %(adding)s тюрлендирди: %(modifying)s",
-	"interwiki-adding-removing": "робот къошду: %(adding)s кетерди: %(removing)s",
+	"interwiki-adding-removing": "Бот: Къошулады %(adding)s; кетерди: %(removing)s",
 	"interwiki-adding-removing-modifying": "робот къошду: %(adding)s кетерди: %(removing)s тюрлендирди: %(modifying)s",
-	"interwiki-modifying": "робот тюрлендирди: %(modifying)s",
+	"interwiki-modifying": "Бот: Тюрлендирди %(modifying)s",
+	"interwiki-modifying-from": "Бот: %(from)s %(modifying)s болуб тюрлендириледи",
 	"interwiki-removing": "робот кетерди: %(removing)s",
 	"interwiki-removing-modifying": "робот кетерди: %(removing)s тюрлендирди: %(modifying)s"
 }

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"checkimages-deletion-comment": "Бот: Къошулады %(adding)s",
+	"checkimages-doubles-file-comment": "Бот: Файл алайсыз да Викигёзендеди, кетерирге боллукъду",
+	"checkimages-doubles-head": "Дубликат файл",
+	"checkimages-doubles-talk-comment": "Бот: Файлны алайсыз да Викигёзенде болгъанын билдириу",
+	"checkimages-log-comment": "Бот: Логну джангырт",
+	"checkimages-no-license-head": "Лицензиясыз сурат",
+	"checkimages-source-tag-comment": "Бот: Джангы джюкленнген белгисиз файлны белгилеу",
+	"checkimages-source-notice-comment": "Бот: Къайнакъ информация изленеди",
+	"checkimages-unknown-extension-head": "Билинмеген кенгериу!",
+	"checkimages-unknown-extension-msg": "%(file)s файлны джангылыч кенгериую болгъаннга ушайды, тилейбиз тинтигиз"
+}

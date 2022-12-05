@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"commonscat-msg_change": "Бот: Commonscat джибериуню [[:Commons:Category:%(oldcat)s|%(oldcat)s]]'дан [[:Commons:Category:%(newcat)s|%(newcat)s]]-ге кёчюрюледи"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"imagetransfer-file_page_message": "Бу сурат %(site)s адресден копияланды. Оригинал ачыкълама бу эди:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Файл энди Викигёзенден ачыкъды"
+}

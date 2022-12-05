@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"revertbot-revert": "Бот: %(revid)s %(author)s %(timestamp)s юсюнде версиягъа къайтарылды"
+}
