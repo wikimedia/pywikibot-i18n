@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Balyozxane",
 			"Bikarhêner",
 			"Dvorapa",
 			"George Animal",
 			"Ghybu"
 		]
 	},
-	"category-adding": "Robot:Zêdebike category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Bot: Kategorî tê zêdekirin [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(herwiha di %(alsocat)s)",
 	"category-removing": "Bot: Ji kategoriya %(oldcat)s tê rakirin",
 	"category-replacing": "Bot: %(oldcat)s wek %(newcat)s biguherîne",
