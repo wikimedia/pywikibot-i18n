@@ -4,5 +4,7 @@
 			"Toliño"
 		]
 	},
+	"blockpageschecker-adding": "Bot: Engado o modelo de bloqueo de páxina",
+	"blockpageschecker-modifying": "Bot: Modifico un modelo obsoleto",
 	"blockpageschecker-deleting": "Bot: Retiro un modelo obsoleto"
 }

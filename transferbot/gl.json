@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"transferbot-summary": "Páxina movida desde %(source)s",
+	"transferbot-target": "Esta páxina moveuse desdes %(source)s. O seu historial de edicións pódese ver en %(history)s"
+}

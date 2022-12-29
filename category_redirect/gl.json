@@ -11,7 +11,7 @@
 	"category_redirect-comment": "Bot de mantemento das redireccións de categorías",
 	"category_redirect-edit-request": "Detectáronse as seguintes páxinas protexidas que necesitan actualizar as categorías: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s está en %(oldcat)s, que é unha redirección cara a %(newcat)s",
-	"category_redirect-fix-double": "Bot: Arranxo a redirección dobre cara",
+	"category_redirect-fix-double": "Bot: Arranxo a redirección dobre",
 	"category_redirect-log-added": "* Engadido [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-add-failed": "* Erro ó engadir [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-double": "* Corrección de redireccionamento dobre: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
