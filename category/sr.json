@@ -12,7 +12,7 @@
 	},
 	"category-adding": "Бот: додата категорија [[:Категорија:%(newcat)s|%(newcat)s]].",
 	"category-also-in": "(и у %(alsocat)s)",
-	"category-clean": "Бот: уклоњена категорија %(category)s која се већ налази у %(child)s.",
+	"category-clean": "Бот: уклоњена категорија %(category)s, већ се налази у %(child)s.",
 	"category-listifying": "Бот: исписивање из %(fromcat)s ({{PLURAL:%(num)d|1 ставка|%(num)d ставке|%(num)d ставки}})",
 	"category-removing": "Бот: уклоњено из %(oldcat)s.",
 	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s.",
