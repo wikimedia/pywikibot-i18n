@@ -6,7 +6,7 @@
 		]
 	},
 	"delete-from-category": "Robot: Brisanje vseh strani v kategoriji %(page)s",
-	"delete-from-file": "Robot: brisanje seznama strani.",
+	"delete-from-file": "Bot: Izbris seznama strani.",
 	"delete-images": "Robot: Brisanje vseh slik na strani %(page)s",
 	"delete-linked-pages": "Bot: Brisanje vseh strani, s katerimi se povezuje %(page)s",
 	"delete-referring-pages": "Robot: Brisanje vseh strani, ki se povezujejo na %(page)s"
