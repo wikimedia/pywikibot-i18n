@@ -9,6 +9,7 @@
 	},
 	"category-adding": "Robot: categorie [[:Category:%(newcat)s|%(newcat)s]] toegevoegd",
 	"category-also-in": "(ook in %(alsocat)s)",
+	"category-clean": "Robot: Verwijdering van categorie %(category)s omdat deze al onder %(child)s staat",
 	"category-listifying": "Robot: lijst van %(fromcat)s (%(num)d pagina's)",
 	"category-removing": "Robot: verwijderd uit %(oldcat)s",
 	"category-renamed": "Robot: hernoemd van %(oldcat)s. Auteurs: %(authors)s",
