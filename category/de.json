@@ -12,7 +12,7 @@
 	},
 	"category-adding": "Bot: Ergänze Kategorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(auch in %(alsocat)s)",
-	"category-clean": "Bot: Entfernen der Kategorie %(category)s, die bereits in %(child)s enthalten ist",
+	"category-clean": "Bot: Entferne Kategorie %(category)s, weil sie bereits unter %(child)s ist",
 	"category-listifying": "Bot: Liste aus %(fromcat)s ({{PLURAL:num|1 Eintrag|%(num)d Einträge}})",
 	"category-removing": "Bot: Entferne aus %(oldcat)s",
 	"category-renamed": "Bot: Verschoben von %(oldcat)s. Autoren: %(authors)s",
