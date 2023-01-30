@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"imagetransfer-file_page_message": "Copïwyd y ddelwedd hon o %(site)s. Y disgrifiad gwreiddiol oedd:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Mae'r ffeil bellach ar gael ar Gomin Wikimedia."
+}

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Lloffiwr"
 		]
 	},
-	"cosmetic_changes-append": "; Newidiadau i ymddangosiad y dudalen",
-	"cosmetic_changes-standalone": "Robot: Newidiadau i ymddangosiad y dudalen"
+	"cosmetic_changes-append": "; newidiadau gwedd",
+	"cosmetic_changes-standalone": "Bot: Newidiadau i wedd y dudalen"
 }

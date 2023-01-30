@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"protect-category": "Bot: Yn diogelu pob tudalen yn y categori %(cat)s",
+	"protect-images": "Bot: Yn diogelu pob ffeil ar dudalen %(page)s",
+	"protect-links": "Bot: Yn diogelu pob dudalen wedi'u cysylltu o %(page)s",
+	"protect-ref": "Bot: Yn diogelu pob tudalen gyda chysylltiad o %(page)s",
+	"protect-simple": "Bot: Yn diogelu rhestr o ffeiliau"
+}

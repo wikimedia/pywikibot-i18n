@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Pwyll",
 			"Robin Owain"
 		]
 	},
 	"archivebot-archive-full": "(ARCHIF YN LLAWN)",
-	"archivebot-older-than": "hŷn na",
+	"archivebot-archive-summary": "Bot: Yn archifo %(count)d {{PLURAL:%(count)d|edefyn|edefyn}} o [[%(from)s]]",
+	"archivebot-older-than": "sy'n {{PLURAL:%(count)d|hŷn}} na %(duration)s",
 	"archivebot-page-summary": "Robot: Archifwyd %(count)d {{PLURAL:%(count)d|llinyn sgwrs|llinyn sgwrs}} (%(why)s) i'r %(archives)s"
 }

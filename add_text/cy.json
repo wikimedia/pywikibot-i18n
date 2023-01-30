@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Afalau"
+		]
 	},
-	"add_text-adding": "robot yn ychwanegu %(adding)s"
+	"add_text-adding": "Bot: Yn ychwanegu %(adding)s"
 }

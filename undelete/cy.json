@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"undelete-from-file": "Bot: Yn adfer rhestr o dudalennau",
+	"undelete-images": "Bot: Yn adfer pob delwedd ar dudalen %(page)s",
+	"undelete-linked-pages": "Bot: Yn dileu pob dudalen wedi'u cysylltu o %(page)s"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"commonscat-msg_change": "Bot: Yn newid dolen commonscat o [[:Commons:Category:%(oldcat)s|%(oldcat)s]] i [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

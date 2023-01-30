@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Robin Owain"
 		]
 	},
-	"noreferences-add-tag": "Robot: Wrthi'n ychwanegu tag <references /> coll"
+	"noreferences-add-tag": "Robot: Yn ychwanegu tag <references /> coll",
+	"noreferences-fix-tag": "Bot: Yn trwsio cystrawen annilys o'r tag <references />"
 }

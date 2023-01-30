@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"unprotect-category": "Bot: Yn dad-ddiogelu pob tudalen yn y categori %(cat)s",
+	"unprotect-images": "Bot: Yn dad-ddiogelu pob ffeil ar dudalen %(page)s",
+	"unprotect-links": "Bot: Yn dad-ddiogelu pob tudalen wedi'u cysylltu o %(page)s",
+	"unprotect-ref": "Bot: Yn dad-ddiogelu pob tudalen gyda chysylltiad o %(page)s",
+	"unprotect-simple": "Bot: Yn dad-ddiogelu rhestr o ffeiliau"
+}

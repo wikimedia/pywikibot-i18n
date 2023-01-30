@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"template-changing": "Bot: Yn newid {{PLURAL:%(num)d|nodyn|nodyn}}: %(list)s",
+	"template-removing": "Bot: Yn dileu {{PLURAL:%(num)d|nodyn|nodyn}}: %(list)s",
+	"template-substituting": "Bot: Yn amnewid {{PLURAL:%(num)d|nodyn|nodyn}}: %(list)s"
+}

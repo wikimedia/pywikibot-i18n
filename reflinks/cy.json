@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"reflinks-autogen": "wedi generadu'n awtomatig",
+	"reflinks-comment": "Teitl a gynhyrchir gan fot",
+	"reflinks-msg": "Bot: Yn newid cyfeiriadau moel, gan ddefnyddio enwau ref i osgoi cyfeiriadau dyblyg, gw. [[%(manual)s|Cwestiynau Cyffredin]]"
+}

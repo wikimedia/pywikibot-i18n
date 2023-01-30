@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"blockpageschecker-adding": "Bot: Yn ychwanegu nodyn cloi tudalen",
+	"blockpageschecker-modifying": "Bot: Yn addasu nodyn sydd wedi dyddio",
+	"blockpageschecker-deleting": "Bot: Yn dileu nodyn sydd wedi dyddio"
+}

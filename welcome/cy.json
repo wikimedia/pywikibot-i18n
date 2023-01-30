@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Robin Owain"
 		]
 	},
-	"welcome-bad_username": "Robot: Yn ychwanegu enwdefnyddiwr sydd angen ei wiro",
-	"welcome-updating": "Robot: Yn ychwanegu at y log",
+	"welcome-bad_username": "Robot: Wrthi'n ychwanegu enw defnyddiwr sydd angen ei wirio",
+	"welcome-updating": "Bot: Wrthi'n diweddaru'r log",
 	"welcome-welcome": "Croeso!"
 }

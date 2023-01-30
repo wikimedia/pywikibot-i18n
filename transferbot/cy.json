@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"transferbot-summary": "Wedi symud tudalen o %(source)s",
+	"transferbot-target": "Symudwyd y dudalen hon o %(source)s. Gellir gweld ei hanes golygu ar %(history)s"
+}

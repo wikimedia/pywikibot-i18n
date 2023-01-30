@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Lloffiwr",
 			"MarcoAurelio",
 			"Xqt",
@@ -8,7 +9,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{Dileu}}",
-	"redirect-fix-double": "Bot: Yn trwsio ailgyfeiriad dwbl i %(to)s",
-	"redirect-remove-broken": "Bot: Yn ailgyfeirio i dudalen a ddilëwyd neu nad yw ar gael",
-	"redirect-remove-loop": "Bot: Mae nod yr ailgyfeiriad yn ffurfio dolen ailgyfeirio"
+	"redirect-fix-broken-moved": "Bot: Yn trwsio ail-gyfeiriad toredig i dudalen darged %(to)s",
+	"redirect-fix-double": "Bot: Yn trwsio ail-gyfeiriad dwbl i %(to)s",
+	"redirect-fix-loop": "Bot: Yn trwsio dolen ail-gyfeirio i %(to)s",
+	"redirect-remove-broken": "Bot: Yn ail-gyfeirio i dudalen sydd wedi'i dileu neu ddim yn bodoli",
+	"redirect-remove-loop": "Bot: Mae'r targed ail-gyfeirio yn creu dolen ail-gyfeirio"
 }

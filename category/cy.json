@@ -1,19 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Lloffiwr",
 			"Robin Owain",
 			"Xxglennxx"
 		]
 	},
-	"category-adding": "Robot: Yn ychwanegu [[:Category:%(newcat)s]]",
+	"category-adding": "Bot: Yn ychwanegu [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(hefyd yn %(alsocat)s)",
+	"category-clean": "Bot: Yn dileu'r categori %(category)s, gan ei fod o dan %(child)s",
 	"category-listifying": "Bot: Yn rhestru cynnwys %(fromcat)s (%(num)d o gofnodion)",
 	"category-removing": "Bot: Yn ei dynnu o %(oldcat)s",
 	"category-renamed": "Robot: Symudwyd o %(oldcat)s. Awduron: %(authors)s",
 	"category-replacing": "Robot: Yn disodli'r categori %(oldcat)s gan y categori %(newcat)s",
 	"category-section-title": "Hanes tudalen y cyn-gategori %(oldcat)s",
-	"category-version-history": "Robot: Yn arbed pob fersiwn o hanes %(oldcat)s",
-	"category-was-disbanded": "Bot: Gwacawyd y categori",
-	"category-was-moved": "Robot: Symudwyd y categori i [[:Category:%(newcat)s|%(title)s]]"
+	"category-version-history": "Bot: Yn cadw fersiwn hanes o %(oldcat)s",
+	"category-was-disbanded": "Bot: Categori yn wag",
+	"category-was-moved": "Bot: Wedi symud y categori i [[:Category:%(newcat)s|%(title)s]]"
 }

@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Lloffiwr",
 			"Pwyll",
 			"Robin Owain"
 		]
 	},
-	"delete-from-category": "Robot: Yn dileu pob tudalen yn y categori %(page)s",
-	"delete-from-file": "Robot: Yn dileu rhestr o dudalennau.",
-	"delete-images": "Robot: Yn dileu pob delwedd ar y dudalen %(page)s",
-	"delete-linked-pages": "Robot: Yn dileu yr holl dudalennau wedi'u cysylltu o %(page)s",
-	"delete-referring-pages": "Robot: Yn dileu pob tudalen sydd a chysylltiad arno'n arwain at %(page)s"
+	"delete-from-category": "Bot: Yn dileu pob tudalen o'r categori %(page)s",
+	"delete-from-file": "Bot: Yn dileu rhestr o dudalennau.",
+	"delete-images": "Bot: Yn dileu pob delwedd ar dudalen %(page)s",
+	"delete-linked-pages": "Bot: Yn dileu pob dudalen wedi'u cysylltu o %(page)s",
+	"delete-referring-pages": "Bot: Yn diogelu pob tudalen gyda chysylltiad o %(page)s"
 }

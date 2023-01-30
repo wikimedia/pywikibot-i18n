@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"checkimages-deletion-comment": "Bot: Yn ychwanegu %(adding)s",
+	"checkimages-doubles-file-comment": "Bot: Mae'r ffeil eisoes ar Gomin, efallai y bydd yn cael ei dileu",
+	"checkimages-doubles-head": "Ffeil ddyblyg",
+	"checkimages-doubles-talk-comment": "Bot: Yn rhoi gwybod bod y ffeil eisoes yn bodoli ar Comin",
+	"checkimages-log-comment": "Bot: Yn diweddaru'r log",
+	"checkimages-no-license-head": "Delwedd heb drwydded",
+	"checkimages-source-tag-comment": "Bot: Yn marcio ffeil sydd newydd ei huwchlwytho ac heb ei thagio",
+	"checkimages-source-notice-comment": "Bot: Yn gofyn am wybodaeth ffynhonnell",
+	"checkimages-unknown-extension-head": "Estyniad anhysbys!",
+	"checkimages-unknown-extension-msg": "Gwiriwch nad yw'r ffeil %(file)s yn defnyddio estyniad anghywir."
+}

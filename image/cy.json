@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"image-remove": "Bot: Yn dileu delwedd %(file)s",
+	"image-replace": "Bot: Yn disodli delwedd %(old)s gyda %(new)s"
+}
