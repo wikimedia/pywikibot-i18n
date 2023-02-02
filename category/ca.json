@@ -4,12 +4,14 @@
 			"BroOk",
 			"Grondin",
 			"Mguix",
+			"Robertgarrigos",
 			"SMP",
 			"XVEC"
 		]
 	},
 	"category-adding": "Bot: Afegint la categoria [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(també a %(alsocat)s)",
+	"category-clean": "Bot: s'està eliminant la categoria %(category)s perquè ja és a %(child)s",
 	"category-listifying": "Bot: llistant de %(fromcat)s ({{PLURAL:%(num)d|1 entrada|%(num)d entrades}})",
 	"category-removing": "Bot: Eliminant de %(oldcat)s",
 	"category-renamed": "Bot:  Mogut des de %(oldcat)s. Autors : %(authors)s",

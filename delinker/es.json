@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"delinker-delink": "Bot: se retiró el archivo [[%(title)s]], borrado por [[:User:%(user)s]] por el siguiente motivo: ''%(comment)s''."
+}

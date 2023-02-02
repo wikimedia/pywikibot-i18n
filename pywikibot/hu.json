@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bináris",
 			"Dani",
 			"Dj",
 			"R-Joe",
@@ -8,7 +9,7 @@
 		]
 	},
 	"pywikibot-cosmetic-changes": "; kozmetikai változtatások",
-	"pywikibot-enter-category-name": "Add meg a kategória nevet:",
+	"pywikibot-enter-category-name": "Add meg a kategórianevet:",
 	"pywikibot-enter-file-links-processing": "Melyik fájlra mutató hivatkozásokat kell feldolgozni?",
 	"pywikibot-enter-finished-browser": "Nyomd meg az Entert, ha végeztél a böngészővel!",
 	"pywikibot-enter-namespace-number": "Add meg a névteret a számával:",
