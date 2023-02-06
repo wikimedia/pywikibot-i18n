@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
-	"replace-replacing": "Robot: automatisch tekst vervangen %(description)s"
+	"replace-replacing": "Robot: tekst automatisch vervangen: %(description)s"
 }

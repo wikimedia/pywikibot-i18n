@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
 	"welcome-bad_username": "Robot: te controleren gebruikersnaam toegevoegd",
-	"welcome-updating": "Robot: logboek bijwerken",
+	"welcome-updating": "Robot: logboek bijgewerkt",
 	"welcome-welcome": "Welkom!"
 }

@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
+	"blockpageschecker-adding": "Robot: sjabloon voor paginavergrendeling toegevoegd",
+	"blockpageschecker-modifying": "Robot: verouderd sjabloon gewijzigd",
 	"blockpageschecker-deleting": "Robot: verouderd sjabloon verwijderd"
 }

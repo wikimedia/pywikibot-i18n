@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
-	"unprotect-category": "Robot: beveiliging opheffen voor alle pagina's van categorie %(cat)s",
-	"unprotect-images": "Robot: beveiliging opheffen voor alle bestanden op pagina %(page)s",
-	"unprotect-links": "Robot: beveiliging opheffen voor alle pagina's gekoppeld vanaf %(page)s",
-	"unprotect-ref": "Robot: beveiliging opheffen voor alle pagina's met een koppeling vanaf %(page)s",
-	"unprotect-simple": "Robot: beveiliging opheffen voor een bestandlijst"
+	"unprotect-category": "Robot: beveiliging voor alle pagina's uit categorie %(cat)s opgeheven",
+	"unprotect-images": "Robot: beveiliging van alle bestanden op pagina %(page)s opgeheven",
+	"unprotect-links": "Robot: beveiliging van alle vanaf %(page)s gekoppelde pagina's opgeheven",
+	"unprotect-ref": "Robot: beveiliging van alle pagina's met een koppeling naar %(page)s opgeheven",
+	"unprotect-simple": "Robot: beveiliging van een lijst met bestanden opgeheven"
 }

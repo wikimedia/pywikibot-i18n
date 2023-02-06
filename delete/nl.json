@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
 	"delete-from-category": "Robot: alle pagina's uit categorie %(page)s worden verwijderd",
-	"delete-from-file": "Robot: lijst met pagina's wordt verwijderd.",
-	"delete-images": "Robot: alle media op pagina %(page)s worden verwijderd",
-	"delete-linked-pages": "Robot: alle pagina's waar de pagina %(page)s naar verwijst worden verwijderd",
-	"delete-referring-pages": "Robot: alle pagina's die naar de pagina %(page)s verwijzen worden verwijderd"
+	"delete-from-file": "Robot: lijst met pagina's verwijderd",
+	"delete-images": "Robot: alle afbeeldingen op pagina %(page)s verwijderd",
+	"delete-linked-pages": "Robot: alle pagina's waar %(page)s naar verwijst verwijderd",
+	"delete-referring-pages": "Robot: alle pagina's die naar %(page)s verwijzen verwijderd"
 }

@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
-	"template-changing": "Robot: vervangen {{PLURAL:%(num)d|sjabloon|sjablonen}}: %(list)s",
-	"template-removing": "Robot: verwijderen {{PLURAL:%(num)d|sjabloon|sjablonen}}: %(list)s",
-	"template-substituting": "Robot: substitueren {{PLURAL:%(num)d|sjabloon|sjablonen}}: %(list)s"
+	"template-changing": "Robot: {{PLURAL:%(num)d|sjabloon|sjablonen}} gewijzigd: %(list)s",
+	"template-removing": "Robot: {{PLURAL:%(num)d|sjabloon|sjablonen}} verwijderd: %(list)s",
+	"template-substituting": "Robot: {{PLURAL:%(num)d|sjabloon|sjablonen}} vervangen: %(list)s"
 }

@@ -10,6 +10,6 @@
 	"protect-category": "Robot : protection de toutes les pages de la catégorie %(cat)s",
 	"protect-images": "Robot : protège toutes les images de la page %(page)s",
 	"protect-links": "Robot : protège toutes les pages liées depuis %(page)s",
-	"protect-ref": "Robot : protège toutes les pages référant à %(page)s",
+	"protect-ref": "Robot : protège toutes les pages se référant à %(page)s",
 	"protect-simple": "Robot : protège une liste de fichiers."
 }

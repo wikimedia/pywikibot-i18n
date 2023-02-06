@@ -13,10 +13,10 @@
 	"pywikibot-enter-namespace-number": "Geef een naamruimtenummer op:",
 	"pywikibot-enter-new-text": "Geef de nieuwe tekst op:",
 	"pywikibot-enter-page-processing": "Welke pagina moet verwerkt worden?",
-	"pywikibot-enter-xml-filename": "Geef de bestandnaam van een XML-dump op:",
+	"pywikibot-enter-xml-filename": "Geef de bestandsnaam van een XML-dump op:",
 	"pywikibot-fixes-fckeditor": "Robot: HTML van tekstverwerker gecorrigeerd",
 	"pywikibot-fixes-isbn": "Robot: ISBN opgemaakt",
-	"pywikibot-fixes-html": "Robot: conversie/reparatie HTML",
-	"pywikibot-fixes-syntax": "Robot: reparatie wikisyntaxis",
-	"pywikibot-touch": "Pywikibot touch bewerking"
+	"pywikibot-fixes-html": "Robot: HTML omgezet/gecorrigeerd",
+	"pywikibot-fixes-syntax": "Robot: wiki-syntaxis gecorrigeerd",
+	"pywikibot-touch": "Nulbewerking van Pywikibot"
 }

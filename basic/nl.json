@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
-	"basic-changing": "Robot: bezig met wijzigen..."
+	"basic-changing": "Robot: gewijzigd ..."
 }

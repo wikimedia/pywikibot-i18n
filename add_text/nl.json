@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"McDutchie"
+		]
 	},
-	"add_text-adding": "Robot: toegevoegd %(adding)s"
+	"add_text-adding": "Robot: toegevoegd: %(adding)s"
 }

@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Daniel Herding"
+			"Daniel Herding",
+			"McDutchie"
 		]
 	},
-	"imagetransfer-file_page_message": "Afbeelding gekopieerd vanaf %(site)s. De beschrijving daar was:\n\n%(description)s",
-	"imagetransfer-nowcommons_notice": "Dit bestand staat nu op [[w:nl:Wikimedia Commons|Wikimedia Commons]]."
+	"imagetransfer-file_page_message": "Deze afbeelding is gekopieerd vanaf %(site)s. De oorspronkelijke beschrijving was:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Dit bestand staat nu op Wikimedia Commons."
 }

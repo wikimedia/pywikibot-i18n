@@ -1,19 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Optilete",
 			"Siebrand",
 			"Valhallasw"
 		]
 	},
 	"checkimages-deletion-comment": "Robot: toegevoegd: %(adding)s",
-	"checkimages-doubles-file-comment": "Robot: Bestand staat al op Commons, kan verwijderd worden",
+	"checkimages-doubles-file-comment": "Robot: bestand staat al op Commons, kan verwijderd worden",
 	"checkimages-doubles-head": "Dubbel bestand",
-	"checkimages-doubles-talk-comment": "Robot: Kennisgeving dat een bestand al op Commons staat",
-	"checkimages-log-comment": "Robot: logboek bijwerken",
+	"checkimages-doubles-talk-comment": "Robot: kennisgeving dat een bestand al op Commons staat",
+	"checkimages-log-comment": "Robot: logboek bijgewerkt",
 	"checkimages-no-license-head": "Bestand zonder licentie",
 	"checkimages-source-tag-comment": "Robot: nieuw bestand zonder labels gemarkeerd",
-	"checkimages-source-notice-comment": "Robot: verzoek om brongegevens.",
-	"checkimages-unknown-extension-head": "Onbekende bestandsextensie!",
-	"checkimages-unknown-extension-msg": "Het bestand '%(file)s' lijkt een verkeerde bestandsextensie te hebben. Kunt u dit controleren?"
+	"checkimages-source-notice-comment": "Robot: brongegevens opgevraagd",
+	"checkimages-unknown-extension-head": "Onbekende extensie!",
+	"checkimages-unknown-extension-msg": "Het bestand '%(file)s' lijkt een verkeerde bestandsnaamextensie te hebben. Kunt u dit controleren?"
 }

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Optilete",
 			"SPQRobin",
 			"Siebrand",
@@ -9,7 +10,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIEF VOL)",
-	"archivebot-archive-summary": "Robot: %(count)d  {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd van [[%(from)s]]",
+	"archivebot-archive-summary": "Robot: %(count)d onderwerp{{PLURAL:%(count)d||en}} gearchiveerd van [[%(from)s]]",
 	"archivebot-older-than": "{{PLURAL:%(count)d|ouder}} dan %(duration)s",
-	"archivebot-page-summary": "Robot: %(count)d {{PLURAL:%(count)d|onderwerp|onderwerpen}} gearchiveerd naar %(archives)s (%(why)s)"
+	"archivebot-page-summary": "Robot: %(count)d onderwerp{{PLURAL:%(count)d||en}} gearchiveerd in %(archives)s (%(why)s)"
 }

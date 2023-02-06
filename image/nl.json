@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
-	"image-remove": "Bot: afbeelding %(file)s verwijderd",
-	"image-replace": "Bot: afbeelding %(old)s vervangen door %(new)s"
+	"image-remove": "Robot: afbeelding %(file)s verwijderd",
+	"image-replace": "Robot: afbeelding %(old)s vervangen door %(new)s"
 }

@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
 	"reflinks-autogen": "automatisch aangemaakt",
 	"reflinks-comment": "Door robot aangemaakte titel",
-	"reflinks-msg": "Robot: converteren van referenties om duplicate te voorkomen, zie [[%(manual)s|FAQ]]"
+	"reflinks-msg": "Robot: kale referenties omgezet met gebruik van referentienamen om duplicaten te voorkomen, zie [[%(manual)s|FAQ]]"
 }

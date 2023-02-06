@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Krinkle",
+			"McDutchie",
 			"Siebrand"
 		]
 	},
 	"redirect-broken-redirect-template": "{{nuweg|Weesdoorverwijzing of doorverwijzing naar verwijderde pagina}}",
 	"redirect-fix-broken-moved": "Robot: kapotte doorverwijzing gecorrigeerd door aanpassing naar hernoemde doelpagina %(to)s",
 	"redirect-fix-double": "Robot: dubbele doorverwijzing gecorrigeerd naar %(to)s",
-	"redirect-fix-loop": "Robot: doorverwijscirkel naar %(to)s gerepareerd",
-	"redirect-remove-broken": "Robot: de doelpagina van de doorverwijzing bestaat niet",
-	"redirect-remove-loop": "[[WP:NW|NUWEG]]: [[Wikipedia:Doorverwijzing|Doorverwijzing]] vormt een oneindige lus"
+	"redirect-fix-loop": "Robot: doorverwijs-lus naar %(to)s gecorrigeerd",
+	"redirect-remove-broken": "Robot: doorverwijzing naar een verwijderde of niet-bestaande pagina",
+	"redirect-remove-loop": "Robot: het doel van de doorverwijzing vormt een doorverwijzingslus"
 }

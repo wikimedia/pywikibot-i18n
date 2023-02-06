@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Siebrand"
 		]
 	},
-	"pagefromfile-msg": "Robot: geautomatiseerde import",
+	"pagefromfile-msg": "Robot: geautomatiseerde import van artikelen",
 	"pagefromfile-msg_bottom": "onderaan toegevoegd",
 	"pagefromfile-msg_force": "bestaande tekst overschreven",
 	"pagefromfile-msg_top": "bovenaan toegevoegd"
