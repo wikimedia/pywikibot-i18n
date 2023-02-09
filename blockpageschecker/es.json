@@ -3,10 +3,11 @@
 		"authors": [
 			"Avengium",
 			"Fitoschido",
+			"MarcoAurelio",
 			"VegaDark"
 		]
 	},
 	"blockpageschecker-adding": "Bot: Añadiendo plantilla de bloqueo de página",
-	"blockpageschecker-modifying": "Bot: modificar plantilla obsoleta",
+	"blockpageschecker-modifying": "Bot: modificación de plantilla obsoleta",
 	"blockpageschecker-deleting": "Robot: borrado de plantilla obsoleta"
 }

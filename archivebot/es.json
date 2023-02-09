@@ -12,8 +12,8 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIVO LLENO)",
-	"archivebot-archive-summary": "Bot: archivando %(count)d {{PLURAL:%(count)d|hilo procedente|hilos procedentes}} de [[%(from)s]]",
+	"archivebot-archive-summary": "Bot: archivo de %(count)d {{PLURAL:%(count)d|hilo procedente|hilos procedentes}} de [[%(from)s]]",
 	"archivebot-archiveheader": "{{Archivo discusión}}",
 	"archivebot-older-than": "con una {{PLURAL:%(count)d|antigüedad}} de %(duration)s",
-	"archivebot-page-summary": "Bot: archivando %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s"
+	"archivebot-page-summary": "Bot: archivo de %(count)d {{PLURAL:%(count)d|hilo|hilos}} (%(why)s) en %(archives)s"
 }
