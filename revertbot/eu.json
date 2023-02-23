@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"EukeneFL"
+			"EukeneFL",
+			"Xabier Armendaritz"
 		]
 	},
-	"revertbot-revert": "Bot: Buelta emandako berrikusketa %(revid)s %(author)s-(e)k eginda %(timestamp)s-(e)n"
+	"revertbot-revert": "Bot: %(revid)s bertsiora lehengoratua. Egilea: %(author)s. Data: %(timestamp)s."
 }
