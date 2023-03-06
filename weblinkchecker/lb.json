@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Robby",
-			"Soued031"
+			"Soued031",
+			"Volvox"
 		]
 	},
 	"weblinkchecker-archive_msg": "D'Internetsäit gouf vum Internet Archive gespäichert. Iwwerleet Iech ob Dir e Link op eng vun den archivéierte Versiounen: [%(URL)s] maache wëllt:",
 	"weblinkchecker-badurl": "De Link deen uginn ass schéngt keng valabel URL ze sinn",
-	"weblinkchecker-caption": "Doudege Link",
+	"weblinkchecker-caption": "Futtisse Link",
 	"weblinkchecker-report": "Bei verschiddenen automateschen Tester vum Bot war dësen externe Link net disponibel. Kuckt wgl. no ob de Link wierklech net méi disponibel ass an an deem Fall fléckt de Link oder huelt en ewech!",
 	"weblinkchecker-summary": "Bot: Informatioun iwwer en externe Link deen net disponibel ass"
 }

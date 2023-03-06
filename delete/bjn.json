@@ -6,7 +6,7 @@
 		]
 	},
 	"delete-from-category": "Robot: Mahapus samunyaan laman tumatan tumbung %(page)s",
-	"delete-from-file": "Bot: Mahapus daptar tungkaran.",
+	"delete-from-file": "Bot: Mahapus daptar laman.",
 	"delete-images": "Robot: Mahapus samunyaan gambar pada laman %(page)s",
 	"delete-referring-pages": "Robot: Mahapus samunyaan laman nang ba-ampah tumatan %(page)s"
 }

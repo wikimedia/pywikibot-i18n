@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"djvutext-creating": "Bot: Opmaache vun enger Säit mam Text deen aus DjVu erausgeholl gouf"
+	"djvutext-creating": "Bot: Opmaache vun enger Säit mam Text, deen aus DjVu extrahéiert gouf"
 }

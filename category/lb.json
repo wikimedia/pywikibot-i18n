@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"category-adding": "Bot: Kategorie derbäisetzen [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(och a(n) %(alsocat)s)",
+	"category-clean": "Bot: Kategorie %(category)s ewechhuelen, well se schonn a %(child)s ass",
 	"category-listifying": "Bot: Lëscht vun der %(fromcat)s (%(num)d Memberen)",
 	"category-removing": "Bot: Ewech huele vun %(oldcat)s",
 	"category-renamed": "Bot: Geréckelt vum %(oldcat)s. Auteuren: %(authors)s",

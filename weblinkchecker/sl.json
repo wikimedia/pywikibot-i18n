@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"weblinkchecker-archive_msg": "Spletno stran je shranil Internet Archive. Prosimo, razmislite o povezavi na ustrezno arhivirano različico: [%(URL)s].",
