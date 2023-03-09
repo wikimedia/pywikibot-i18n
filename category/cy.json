@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Afalau",
+			"JonesT143",
 			"Lloffiwr",
 			"Robin Owain",
 			"Xxglennxx"
 		]
 	},
-	"category-adding": "Bot: Yn ychwanegu [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Bot: Yn ychwanegu'r categori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(hefyd yn %(alsocat)s)",
 	"category-clean": "Bot: Yn dileu'r categori %(category)s, gan ei fod o dan %(child)s",
 	"category-listifying": "Bot: Yn rhestru cynnwys %(fromcat)s (%(num)d o gofnodion)",
