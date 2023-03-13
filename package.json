@@ -4,7 +4,7 @@
 		"test": "grunt test"
 	},
 	"devDependencies": {
-		"grunt": "1.5.3",
+		"grunt": "1.6.1",
 		"grunt-banana-checker": "0.10.0"
 	}
 }
