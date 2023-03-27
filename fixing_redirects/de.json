@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Purodha"
+			"Purodha",
+			"Xqt"
 		]
 	},
-	"fixing_redirects-fixing": "Bot: Reparieren von Umleitungen"
+	"fixing_redirects-fixing": "Bot: Löse Weiterleitungen auf"
 }
