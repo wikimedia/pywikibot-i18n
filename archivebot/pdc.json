@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"archivebot-older-than": "{{PLURAL:%(count)d|elder}} ass %(duration)s"
+}
