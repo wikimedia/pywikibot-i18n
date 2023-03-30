@@ -4,5 +4,5 @@
 			"Xqt"
 		]
 	},
-	"delinker-delink": "Bot: The file [[%(title)s]] has been removed, as it has been deleted by [[:User:%(user)s]]: ''%(comment)s''."
+	"delinker-delink": "Bot: The file [[%(title)s]] has been removed, as it has been deleted by [[:User:%(user)s]]: ''%(comment)s''"
 }
