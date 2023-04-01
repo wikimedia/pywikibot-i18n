@@ -5,6 +5,7 @@
 			"Shinjiman"
 		]
 	},
+	"pywikibot-bot-prefix": "機械人：",
 	"pywikibot-enter-category-name": "請輸入分類名：",
 	"pywikibot-enter-file-links-processing": "有邊啲檔案版嘅拎要處理？",
 	"pywikibot-enter-finished-browser": "喺瀏覽器完成編輯之後撳Enter掣。",

@@ -10,6 +10,7 @@
 			"Zoranzoki21"
 		]
 	},
+	"pywikibot-bot-prefix": "Бот:",
 	"pywikibot-cosmetic-changes": "; козметичке измене",
 	"pywikibot-enter-category-name": "Унесите име категорије:",
 	"pywikibot-enter-file-links-processing": "Везе до које датотеке желите да обрадите?",

@@ -5,6 +5,7 @@
 			"Vodnokon4e"
 		]
 	},
+	"pywikibot-bot-prefix": "Бот:",
 	"pywikibot-cosmetic-changes": "; козметични промени",
 	"pywikibot-enter-category-name": "Моля, въведете името на категорията:",
 	"pywikibot-enter-new-text": "Моля, въведете новия текст:",

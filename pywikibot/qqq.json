@@ -10,6 +10,7 @@
 			"Xqt"
 		]
 	},
+	"pywikibot-bot-prefix": "Summary prefix for bot edits.",
 	"pywikibot-cosmetic-changes": "Summary message that will be appended to the normal edit summary when cosmetic changes are made on the fly.\n\n\"Cosmetic changes\" here means changes to the appearance of the page only, without any changes to the substance of the page.",
 	"pywikibot-enter-category-name": "Message displayed to the bot owner to enter the category name.",
 	"pywikibot-enter-file-links-processing": "Question displayed to the bot owner processing links to a given file page.",

@@ -8,6 +8,7 @@
 			"Vitorvicentevalente"
 		]
 	},
+	"pywikibot-bot-prefix": "Robô:",
 	"pywikibot-cosmetic-changes": "; mudanças triviais",
 	"pywikibot-enter-category-name": "Por favor, introduza o nome da categoria:",
 	"pywikibot-enter-file-links-processing": "Devem ser processadas as hiperligações para qual página de ficheiro?",

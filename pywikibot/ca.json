@@ -13,6 +13,7 @@
 			"XVEC"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; canvis estètics",
 	"pywikibot-enter-category-name": "Si us plau introdueix el nom de la categoria :",
 	"pywikibot-enter-file-links-processing": "Els enllaços a quina pàgina del fitxer s'haurien de processar?",

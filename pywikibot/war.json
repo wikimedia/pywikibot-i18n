@@ -4,6 +4,7 @@
 			"Harvzsf"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; kosmetiko nga mga pagbag-o",
 	"pywikibot-fixes-isbn": "Robot: Ginfoformat an ISBN"
 }

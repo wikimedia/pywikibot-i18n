@@ -9,6 +9,7 @@
 			"Steenth"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; kosmetiske ændringer",
 	"pywikibot-enter-category-name": "Skriv kategorinavnet:",
 	"pywikibot-enter-file-links-processing": "Links til hvilken fil side der skal behandles?",

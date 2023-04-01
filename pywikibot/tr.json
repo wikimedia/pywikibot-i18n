@@ -11,6 +11,7 @@
 			"Vito Genovese"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kozmetik değişiklikler",
 	"pywikibot-enter-category-name": "Lütfen kategori adını girin:",
 	"pywikibot-enter-file-links-processing": "Hangi dosya sayfasının bağlantıları işlenmeli?",

@@ -4,6 +4,7 @@
 			"ChrisPtDe"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; changement de tipo cosmètico",
 	"pywikibot-fixes-isbn": "Robot : misa en fôrma du ISBN"
 }

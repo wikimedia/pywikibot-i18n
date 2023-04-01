@@ -5,6 +5,7 @@
 			"John Reid"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; cosmetic chynges",
 	"pywikibot-enter-category-name": "Please enter the category name:",
 	"pywikibot-enter-file-links-processing": "Links til whit file page shid be processed?",

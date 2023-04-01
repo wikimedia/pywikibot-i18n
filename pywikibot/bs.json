@@ -8,6 +8,7 @@
 			"Srđan"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; kozmetičke promjene",
 	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
 	"pywikibot-enter-file-links-processing": "Veze prema kojoj stranici da se obrade?",

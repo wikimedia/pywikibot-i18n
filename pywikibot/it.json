@@ -7,6 +7,7 @@
 			"Ricordisamoa"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; modifiche estetiche",
 	"pywikibot-enter-category-name": "Inserisci il nome della categoria:",
 	"pywikibot-enter-file-links-processing": "File per cui devono essere elaborate le pagine che vi puntano",

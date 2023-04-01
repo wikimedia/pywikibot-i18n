@@ -4,6 +4,7 @@
 			"Mucalexx"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kósmeetische Änderrungen",
 	"pywikibot-fixes-isbn": "Bot: Formaatir ISBN"
 }

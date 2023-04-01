@@ -4,6 +4,7 @@
 			"Ex13"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kozmeticke promjene",
 	"pywikibot-fixes-isbn": "Bot: Oblikovanje ISBN"
 }

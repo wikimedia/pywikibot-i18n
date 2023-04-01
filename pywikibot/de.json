@@ -7,6 +7,7 @@
 			"Xqt"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kosmetische Änderungen",
 	"pywikibot-enter-category-name": "Bitte Name der Kategorie eingeben:",
 	"pywikibot-enter-file-links-processing": "Links zu welcher Dateiseite sollen bearbeitet werden?",

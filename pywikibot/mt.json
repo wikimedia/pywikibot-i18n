@@ -4,6 +4,7 @@
 			"Chrisportelli"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kosmetici bidliet",
 	"pywikibot-fixes-isbn": "Bot: Format ISBN"
 }

@@ -4,6 +4,7 @@
 			"Lam-ang"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; babassit laeng a panagsukat",
 	"pywikibot-fixes-isbn": "Robot: Agiporpormat ti ISBN"
 }

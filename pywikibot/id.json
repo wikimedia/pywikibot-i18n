@@ -12,6 +12,7 @@
 			"Totosunarto"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; perubahan kosmetika",
 	"pywikibot-enter-category-name": "Silakan masukkan nama kategori:",
 	"pywikibot-enter-file-links-processing": "Pranala ke halaman berkas manakah yang harus diproses?",

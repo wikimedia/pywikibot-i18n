@@ -11,6 +11,7 @@
 			"Александр Сигачёв"
 		]
 	},
+	"pywikibot-bot-prefix": "Бот:",
 	"pywikibot-cosmetic-changes": "; косметические изменения",
 	"pywikibot-enter-category-name": "Пожалуйста, введите название категории:",
 	"pywikibot-enter-file-links-processing": "Ссылки на какую страницу файла следует обработать?",

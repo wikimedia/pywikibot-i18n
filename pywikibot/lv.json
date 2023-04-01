@@ -6,6 +6,7 @@
 			"Silraks"
 		]
 	},
+	"pywikibot-bot-prefix": "Bots:",
 	"pywikibot-cosmetic-changes": "; kosmētiskās izmaiņas",
 	"pywikibot-enter-category-name": "Lūdzu, ievadiet kategorijas nosaukumu:",
 	"pywikibot-enter-file-links-processing": "Saites uz kuru faila lapu būtu jāapstrādā?",

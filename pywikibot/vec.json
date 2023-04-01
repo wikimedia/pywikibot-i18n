@@ -6,6 +6,7 @@
 			"GatoSelvadego"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; modifeghe esteteghe",
 	"pywikibot-fixes-isbn": "Robot: Formatasion del ISBN"
 }

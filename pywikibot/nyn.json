@@ -4,5 +4,6 @@
 			"Kakonjo"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-fixes-isbn": "Bot:ISBN neetebekanisa"
 }

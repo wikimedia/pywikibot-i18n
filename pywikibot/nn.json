@@ -5,6 +5,7 @@
 			"Njardarlogar"
 		]
 	},
+	"pywikibot-bot-prefix": "robot:",
 	"pywikibot-cosmetic-changes": "; kosmetiske endringar",
 	"pywikibot-fixes-isbn": "robot: formaterer ISBN"
 }

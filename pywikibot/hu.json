@@ -8,6 +8,7 @@
 			"Tacsipacsi"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kozmetikai változtatások",
 	"pywikibot-enter-category-name": "Add meg a kategórianevet:",
 	"pywikibot-enter-file-links-processing": "Melyik fájlra mutató hivatkozásokat kell feldolgozni?",

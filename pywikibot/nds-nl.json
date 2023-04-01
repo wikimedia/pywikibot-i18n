@@ -4,6 +4,7 @@
 			"Servien"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kosmetiske wysigingen",
 	"pywikibot-enter-category-name": "Geef de kategorienaam op:",
 	"pywikibot-enter-file-links-processing": "Verwiezingen naor welke bestaandszied mutten verwarkt wörden?",

@@ -5,6 +5,7 @@
 			"Als-Holder"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; oberflächlichi Änderige",
 	"pywikibot-enter-category-name": "Bitte gib dr Name vu dr Kategori yy:",
 	"pywikibot-enter-file-links-processing": "Vu wellere Dateisyte solle d Link bearbeitet wäre?",

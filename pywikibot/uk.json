@@ -12,6 +12,7 @@
 			"Тест"
 		]
 	},
+	"pywikibot-bot-prefix": "Бот:",
 	"pywikibot-cosmetic-changes": "; косметичні зміни",
 	"pywikibot-enter-category-name": "Введіть назву категорії:",
 	"pywikibot-enter-file-links-processing": "Посилання на які файли слід обробити?",

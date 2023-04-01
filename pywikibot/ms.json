@@ -5,6 +5,7 @@
 			"Kurniasan"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; perubahan kosmetik",
 	"pywikibot-enter-category-name": "Sila masukkan nama kategori:",
 	"pywikibot-enter-file-links-processing": "Pautan ke halaman fail yang manakah harus diproses?",

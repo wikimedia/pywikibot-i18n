@@ -12,6 +12,7 @@
 			"Tchoř"
 		]
 	},
+	"pywikibot-bot-prefix": "robot:",
 	"pywikibot-cosmetic-changes": "; kosmetické úpravy",
 	"pywikibot-enter-category-name": "Prosím, zadejte jméno kategorie:",
 	"pywikibot-enter-file-links-processing": "Odkazy na kterou stránku se souborem mají být zpracovány?",

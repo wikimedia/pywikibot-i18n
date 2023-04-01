@@ -4,6 +4,7 @@
 			"Pahles"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; cosmetische verangeringe",
 	"pywikibot-fixes-isbn": "Robot: ISBN opgemaak"
 }

@@ -7,6 +7,7 @@
 			"Xabier Armendaritz"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; aldaketa kosmetikoak",
 	"pywikibot-enter-category-name": "Mesedez, sar ezazu kategoriaren izena:",
 	"pywikibot-enter-file-links-processing": "Zer fitxategirako linkak prozesatu beharko lirateke?",

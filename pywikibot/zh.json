@@ -11,6 +11,7 @@
 			"Yfdyh000"
 		]
 	},
+	"pywikibot-bot-prefix": "机器人：",
 	"pywikibot-cosmetic-changes": "；整理源码",
 	"pywikibot-enter-category-name": "请输入分类名称：",
 	"pywikibot-enter-file-links-processing": "哪个文件的链接需要处理？",

@@ -10,6 +10,7 @@
 			"Remux"
 		]
 	},
+	"pywikibot-bot-prefix": "Roboto:",
 	"pywikibot-cosmetic-changes": "; kosmetikaj ŝanĝoj",
 	"pywikibot-enter-category-name": "Bonvolu enmeti la nomon de kategorio:",
 	"pywikibot-enter-file-links-processing": "Ligiloj al kiu dosieropaĝo estu prilaboritaj?",

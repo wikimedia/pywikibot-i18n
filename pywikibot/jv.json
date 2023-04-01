@@ -4,6 +4,7 @@
 			"NoiX180"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; owahan kosmètik",
 	"pywikibot-fixes-isbn": "Bot: Mormat ISBN"
 }

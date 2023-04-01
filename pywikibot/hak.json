@@ -5,6 +5,7 @@
 			"Jetlag"
 		]
 	},
+	"pywikibot-bot-prefix": "機械人：",
 	"pywikibot-cosmetic-changes": ";整潔化更改",
 	"pywikibot-enter-category-name": "請輸入分類名稱：",
 	"pywikibot-enter-file-links-processing": "哪隻圖像个連接需要處理？",

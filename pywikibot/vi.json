@@ -4,6 +4,7 @@
 			"Minh Nguyen"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; sửa cách trình bày",
 	"pywikibot-enter-category-name": "Xin vui lòng nhập tên thể loại:",
 	"pywikibot-enter-file-links-processing": "Nên xử lý các liên kết đến trang miêu tả tập tin nào?",

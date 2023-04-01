@@ -4,6 +4,7 @@
 			"George Animal"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-enter-category-name": "Ji kerema xwe re navê kategoriyê binivîse:",
 	"pywikibot-enter-new-text": "Ji kerema xwe re nivîseke nû binivîse:",
 	"pywikibot-fixes-isbn": "Robot:ISBN'ê format bike"

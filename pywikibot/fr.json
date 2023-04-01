@@ -13,6 +13,7 @@
 			"Wladek92"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot :",
 	"pywikibot-cosmetic-changes": "; changements cosmétiques",
 	"pywikibot-enter-category-name": "Veuillez saisir le nom de la catégorie :",
 	"pywikibot-enter-file-links-processing": "Liens vers la page de fichier qu’il faudrait traiter ?",

@@ -7,6 +7,7 @@
 			"Woytecr"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; zmiany kosmetyczne",
 	"pywikibot-enter-category-name": "Wpisz nazwę kategorii:",
 	"pywikibot-enter-file-links-processing": "Linki do strony jakiego pliku mają być przetworzone?",

@@ -9,6 +9,7 @@
 			"ديفيد"
 		]
 	},
+	"pywikibot-bot-prefix": "بوت:",
 	"pywikibot-cosmetic-changes": "، تغييرات تجميلية",
 	"pywikibot-enter-category-name": "فضلا أدخل اسم التصنيف:",
 	"pywikibot-enter-file-links-processing": "الوصلات لأي صفحة ملف ينبغي أن تتم معالجتها؟",

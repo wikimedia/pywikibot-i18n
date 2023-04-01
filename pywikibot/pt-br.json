@@ -7,6 +7,7 @@
 			555
 		]
 	},
+	"pywikibot-bot-prefix": "Robô:",
 	"pywikibot-cosmetic-changes": "; mudanças triviais",
 	"pywikibot-enter-category-name": "Insira o nome da categoria:",
 	"pywikibot-enter-file-links-processing": "Para qual imagem os links devem ser processados?",

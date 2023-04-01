@@ -4,6 +4,7 @@
 			"AnakngAraw"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; Kosmetiko pagbabago",
 	"pywikibot-fixes-isbn": "Robot: Inaayos ang anyo ng ISBN"
 }

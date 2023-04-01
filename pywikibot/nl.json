@@ -6,6 +6,7 @@
 			"Siebrand"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; cosmetische wijzigingen",
 	"pywikibot-enter-category-name": "Geef de categorienaam op:",
 	"pywikibot-enter-file-links-processing": "Koppelingen naar welke bestandspagina verwerken?",

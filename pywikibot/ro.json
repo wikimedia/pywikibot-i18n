@@ -5,6 +5,7 @@
 			"Strainu"
 		]
 	},
+	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; modificări cosmetice",
 	"pywikibot-enter-category-name": "Vă rugăm să introduceți numele categoriei:",
 	"pywikibot-enter-file-links-processing": "Legăturile către care fișier ar trebui procesate?",

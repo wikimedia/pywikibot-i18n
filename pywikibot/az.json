@@ -6,6 +6,7 @@
 			"Vago"
 		]
 	},
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kosmetik dəyişmələr",
 	"pywikibot-enter-category-name": "Zəhmət olmasa, kateqoriyanın adını daxil edin:",
 	"pywikibot-enter-file-links-processing": "Şəkillərin hansı səhifəsinin istinadlarını emal etmək lazımdır?",

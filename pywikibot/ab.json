@@ -4,5 +4,6 @@
 			"Fraxinus.cs"
 		]
 	},
+	"pywikibot-bot-prefix": "Абот:",
 	"pywikibot-fixes-isbn": "Абот: ISBN аиҿкаара"
 }

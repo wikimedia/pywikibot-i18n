@@ -5,6 +5,7 @@
 			"Ninjastrikers"
 		]
 	},
+	"pywikibot-bot-prefix": "ဘော့:",
 	"pywikibot-enter-category-name": "ကျေးဇူးပြု၍ ကဏ္ဍအမည် ရိုက်ထည့်ပါ:",
 	"pywikibot-enter-finished-browser": "ပြီးစီးပါက ဘရောက်ဇာတွင် Enter ကို နှိပ်ပါ။",
 	"pywikibot-enter-namespace-number": "အမည်ညွှန်းကို ယင်း၏ နံပါတ်အား ရိုက်ထည့်ပြီး ကျေးဇူးပြု၍ ထည့်သွင်းပါ:",

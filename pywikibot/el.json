@@ -8,6 +8,7 @@
 			"Protnet"
 		]
 	},
+	"pywikibot-bot-prefix": "Ρομπότ:",
 	"pywikibot-cosmetic-changes": ".",
 	"pywikibot-enter-category-name": "Παρακαλούμε εισαγάγετε το όνομα της κατηγορίας:",
 	"pywikibot-enter-file-links-processing": "Συνδέσεις προς ποια σελίδα αρχείου να υποβληθούν σε επεξεργασία;",
