@@ -4,9 +4,9 @@
 			"Snævar"
 		]
 	},
-	"redirect-fix-broken-moved": "Vélmenni: Laga brotna tilvísun á færðu síðuna %(to)s",
-	"redirect-fix-double": "Vélmenni: Lagfæri tvöfalda tilvísun → %(to)s",
-	"redirect-fix-loop": "Vélmenni: Lagfæri tilvísunar lykkju → %(to)s",
-	"redirect-remove-broken": "Vélmenni: Tilvísun bendir á síðu sem hefur verið eytt eða er ekki til",
-	"redirect-remove-loop": "Vélmenni: Tilvísun bendir á óendanlega tilvísunar lykkju"
+	"redirect-fix-broken-moved": "Laga brotna tilvísun á færðu síðuna %(to)s",
+	"redirect-fix-double": "Lagfæri tvöfalda tilvísun → %(to)s",
+	"redirect-fix-loop": "Lagfæri tilvísunar lykkju → %(to)s",
+	"redirect-remove-broken": "Tilvísun bendir á síðu sem hefur verið eytt eða er ekki til",
+	"redirect-remove-loop": "Tilvísun bendir á óendanlega tilvísunar lykkju"
 }

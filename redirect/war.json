@@ -6,8 +6,8 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{Paraa|1=Nautod o nagbinalikbalik nga redirek.}}",
-	"redirect-fix-double": "Robot: Gin-ayad in nagduduha nga redirek → %(to)s",
-	"redirect-fix-loop": "Robot: Gin-aayad in redirek nga loop ngadto ha %(to)s",
-	"redirect-remove-broken": "Robot: Redirek ngadto hin ginpárà o waray-didâ nga pakli",
-	"redirect-remove-loop": "Robot: An redirek nga ginkakadtoan naghihimo hin redirek nga loop"
+	"redirect-fix-double": "Gin-ayad in nagduduha nga redirek → %(to)s",
+	"redirect-fix-loop": "Gin-aayad in redirek nga loop ngadto ha %(to)s",
+	"redirect-remove-broken": "Redirek ngadto hin ginpárà o waray-didâ nga pakli",
+	"redirect-remove-loop": "An redirek nga ginkakadtoan naghihimo hin redirek nga loop"
 }

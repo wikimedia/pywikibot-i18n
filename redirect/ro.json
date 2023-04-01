@@ -5,9 +5,9 @@
 			"Minisarm"
 		]
 	},
-	"redirect-fix-broken-moved": "Robot: Corectat redirecționare greșită către pagina țintă redenumită %(to)s",
-	"redirect-fix-double": "Robot: Reparat dubla redirecționare înspre %(to)s",
-	"redirect-fix-loop": "Robot: Reparat bucla de redirecționare către %(to)s",
-	"redirect-remove-broken": "Robot: Redirecționare către o pagină ștearsă sau inexistentă",
-	"redirect-remove-loop": "Robot: Ținta redirecționării formează o buclă de redirecționare"
+	"redirect-fix-broken-moved": "Corectat redirecționare greșită către pagina țintă redenumită %(to)s",
+	"redirect-fix-double": "Reparat dubla redirecționare înspre %(to)s",
+	"redirect-fix-loop": "Reparat bucla de redirecționare către %(to)s",
+	"redirect-remove-broken": "Redirecționare către o pagină ștearsă sau inexistentă",
+	"redirect-remove-loop": "Ținta redirecționării formează o buclă de redirecționare"
 }

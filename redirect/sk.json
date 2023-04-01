@@ -6,9 +6,9 @@
 			"Yardom78"
 		]
 	},
-	"redirect-fix-broken-moved": "Bot: Oprava porušeného presmerovania na presunutú cieľovú stránku %(to)s",
-	"redirect-fix-double": "Bot: Oprava dvojitého presmerovanie na %(to)s",
-	"redirect-fix-loop": "Bot: Oprava cyklického presmerovania na %(to)s",
-	"redirect-remove-broken": "Bot: Presmerovanie na vymazanú alebo neexistujúcu stránku",
-	"redirect-remove-loop": "Bot: Cieľ presmerovania tvorí slučku"
+	"redirect-fix-broken-moved": "Oprava porušeného presmerovania na presunutú cieľovú stránku %(to)s",
+	"redirect-fix-double": "Oprava dvojitého presmerovanie na %(to)s",
+	"redirect-fix-loop": "Oprava cyklického presmerovania na %(to)s",
+	"redirect-remove-broken": "Presmerovanie na vymazanú alebo neexistujúcu stránku",
+	"redirect-remove-loop": "Cieľ presmerovania tvorí slučku"
 }

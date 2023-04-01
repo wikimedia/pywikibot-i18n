@@ -10,9 +10,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{sil|y1}}",
-	"redirect-fix-broken-moved": "Bot: Bozuk yönlendirmeyi %(to)s hedef sayfaya taşıdı",
-	"redirect-fix-double": "Bot: %(to)s sayfasına yönelik çift yönlendirme düzeltiliyor",
-	"redirect-fix-loop": "Bot: Yönlendirme döngüsünün %(to)s sabitlenmesi",
-	"redirect-remove-broken": "Bot: Silinen ya da var olmayan sayfaya olan yönlendirme",
-	"redirect-remove-loop": "Bot: Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor"
+	"redirect-fix-broken-moved": "Bozuk yönlendirmeyi %(to)s hedef sayfaya taşıdı",
+	"redirect-fix-double": "%(to)s sayfasına yönelik çift yönlendirme düzeltiliyor",
+	"redirect-fix-loop": "Yönlendirme döngüsünün %(to)s sabitlenmesi",
+	"redirect-remove-broken": "Silinen ya da var olmayan sayfaya olan yönlendirme",
+	"redirect-remove-loop": "Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor"
 }

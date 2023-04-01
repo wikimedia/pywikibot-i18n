@@ -9,9 +9,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{ek|przekierowanie do usuniętej lub nieistniejącej strony}}",
-	"redirect-fix-broken-moved": "Bot: Poprawa urwanych przekierowań - przeniesiono cel do %(to)s",
+	"redirect-fix-broken-moved": "Poprawa urwanych przekierowań - przeniesiono cel do %(to)s",
 	"redirect-fix-double": "Robot naprawił podwójne przekierowanie do %(to)s",
-	"redirect-fix-loop": "Robot: Naprawa pętli przekierowań do %(to)s",
-	"redirect-remove-broken": "Robot: przekierowanie do usuniętej lub nieistniejącej strony",
-	"redirect-remove-loop": "Robot: pętla przekierowań"
+	"redirect-fix-loop": "Naprawa pętli przekierowań do %(to)s",
+	"redirect-remove-broken": "przekierowanie do usuniętej lub nieistniejącej strony",
+	"redirect-remove-loop": "pętla przekierowań"
 }

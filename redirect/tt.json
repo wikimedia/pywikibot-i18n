@@ -4,9 +4,9 @@
 			"Ильнар"
 		]
 	},
-	"redirect-fix-broken-moved": "Бот: %(to)s күчерелгән максатлы битнең юлламасын төзәтү",
-	"redirect-fix-double": "Робот: икеле күчешне дөресләү → %(to)s",
-	"redirect-fix-loop": "Бот: %(to)s битенә юнәлтүче әйләнә сылтамасын төзәтү",
-	"redirect-remove-broken": "Бот: булмаган яки бетерелгән биткә юнәлтү",
-	"redirect-remove-loop": "Бот: юнәлтү әйләнә сылтама ясый"
+	"redirect-fix-broken-moved": "%(to)s күчерелгән максатлы битнең юлламасын төзәтү",
+	"redirect-fix-double": "икеле күчешне дөресләү → %(to)s",
+	"redirect-fix-loop": "%(to)s битенә юнәлтүче әйләнә сылтамасын төзәтү",
+	"redirect-remove-broken": "булмаган яки бетерелгән биткә юнәлтү",
+	"redirect-remove-loop": "юнәлтү әйләнә сылтама ясый"
 }

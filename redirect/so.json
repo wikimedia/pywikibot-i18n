@@ -4,9 +4,9 @@
 			"Abshirdheere"
 		]
 	},
-	"redirect-fix-broken-moved": "Bot: Dib u Sixidda qaldantay waxaa loo wareejiyey Bog kale %(to)s",
-	"redirect-fix-double": "Bot: Hagaajin u rogid labalaaban ee %(to)s",
-	"redirect-fix-loop": "Bot: Diyaarinta dib u bilaabista ee %(to)s",
-	"redirect-remove-broken": "Bot: U wareejin bog la tirtiray ama aan jirin",
-	"redirect-remove-loop": "Bot: Ujeedka u rogista bogga ee dhaqaaqa"
+	"redirect-fix-broken-moved": "Dib u Sixidda qaldantay waxaa loo wareejiyey Bog kale %(to)s",
+	"redirect-fix-double": "Hagaajin u rogid labalaaban ee %(to)s",
+	"redirect-fix-loop": "Diyaarinta dib u bilaabista ee %(to)s",
+	"redirect-remove-broken": "U wareejin bog la tirtiray ama aan jirin",
+	"redirect-remove-loop": "Ujeedka u rogista bogga ee dhaqaaqa"
 }

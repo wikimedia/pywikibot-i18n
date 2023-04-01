@@ -5,7 +5,7 @@
 		]
 	},
 	"redirect-fix-double": "Robot sprowjo tuplowane przekerowańa → %(to)s",
-	"redirect-fix-loop": "Robot: Naprawa mocki pukniyńć dŏ (to)s",
-	"redirect-remove-broken": "Robot: pukniyńcie dŏ wyciepanej zajty",
-	"redirect-remove-loop": "Robot: mocka pukniyńć"
+	"redirect-fix-loop": "Naprawa mocki pukniyńć dŏ (to)s",
+	"redirect-remove-broken": "pukniyńcie dŏ wyciepanej zajty",
+	"redirect-remove-loop": "mocka pukniyńć"
 }

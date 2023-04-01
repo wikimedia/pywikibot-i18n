@@ -5,7 +5,7 @@
 			"Teoo3"
 		]
 	},
-	"redirect-fix-double": "Bot: Popravak dvostrukih preusmjeravanja → %(to)s",
-	"redirect-remove-broken": "Bot: Preusmjereno na izbrisanu ili nepostojeću stranicu",
-	"redirect-remove-loop": "Bot: Cilj preusmjeravanja stvara petlju preusmjeravanja"
+	"redirect-fix-double": "Popravak dvostrukih preusmjeravanja → %(to)s",
+	"redirect-remove-broken": "Preusmjereno na izbrisanu ili nepostojeću stranicu",
+	"redirect-remove-loop": "Cilj preusmjeravanja stvara petlju preusmjeravanja"
 }

@@ -5,7 +5,7 @@
 			"Xqt"
 		]
 	},
-	"redirect-fix-double": "Robot: Pamasangan paugahan ganda ka %(to)s",
-	"redirect-remove-broken": "Robot: Paalihan ka tungkaran nang dihapus atawa kada ada",
-	"redirect-remove-loop": "Robot: Bidikan paalihan mahasilakan paalihan siklik"
+	"redirect-fix-double": "Pamasangan paugahan ganda ka %(to)s",
+	"redirect-remove-broken": "Paalihan ka tungkaran nang dihapus atawa kada ada",
+	"redirect-remove-loop": "Bidikan paalihan mahasilakan paalihan siklik"
 }

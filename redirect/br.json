@@ -11,5 +11,5 @@
 	"redirect-fix-double": "Kempennet adkas doubl gant robot → %(to)s",
 	"redirect-fix-loop": "Robot : O kempenn al lagadenn adkas war-zu %(to)s",
 	"redirect-remove-broken": "Robot : Ar bajenn ma vezer adkaset n'eus ket anezhi",
-	"redirect-remove-loop": "Robot: Stumm ur c'helc'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]"
+	"redirect-remove-loop": "Stumm ur c'helc'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]"
 }

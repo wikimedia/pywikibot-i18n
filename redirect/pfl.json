@@ -5,5 +5,5 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{Lösche|Bot: Defekte Weiterleitungen}}",
-	"redirect-fix-double": "Bot: E doppelte Waiterlaitung vabessat zu %(to)s"
+	"redirect-fix-double": "E doppelte Waiterlaitung vabessat zu %(to)s"
 }

@@ -6,9 +6,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{eliminar|Redirection a un pagina delite o non existente}}",
-	"redirect-fix-broken-moved": "Robot: Repara un redirection rupte verso un pagina renominate: %(to)s",
-	"redirect-fix-double": "Robot: reparation de duple redirection → %(to)s",
-	"redirect-fix-loop": "Robot: Repara redirection circular a %(to)s",
-	"redirect-remove-broken": "Robot: Redirection a un pagina delite o non existente",
-	"redirect-remove-loop": "Robot: Le destination del redirection forma un circulo de redirectiones"
+	"redirect-fix-broken-moved": "Repara un redirection rupte verso un pagina renominate: %(to)s",
+	"redirect-fix-double": "reparation de duple redirection → %(to)s",
+	"redirect-fix-loop": "Repara redirection circular a %(to)s",
+	"redirect-remove-broken": "Redirection a un pagina delite o non existente",
+	"redirect-remove-loop": "Le destination del redirection forma un circulo de redirectiones"
 }

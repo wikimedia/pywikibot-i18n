@@ -9,9 +9,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{radera|Trasig omdirigering}}",
-	"redirect-fix-broken-moved": "Bot: Reparerade trasig omdirigering till den flyttade målsidan %(to)s",
-	"redirect-fix-double": "Bot: Rättar dubbel omdirigering till %(to)s",
-	"redirect-fix-loop": "Bot: Fixar omdirigeringsloop till %(to)s",
-	"redirect-remove-broken": "Bot: Omdirigerar till en raderad eller en icke-existerande sida",
-	"redirect-remove-loop": "Bot: Målet för omdirigeringen bildar en omdirigeringsloop"
+	"redirect-fix-broken-moved": "Reparerade trasig omdirigering till den flyttade målsidan %(to)s",
+	"redirect-fix-double": "Rättar dubbel omdirigering till %(to)s",
+	"redirect-fix-loop": "Fixar omdirigeringsloop till %(to)s",
+	"redirect-remove-broken": "Omdirigerar till en raderad eller en icke-existerande sida",
+	"redirect-remove-loop": "Målet för omdirigeringen bildar en omdirigeringsloop"
 }

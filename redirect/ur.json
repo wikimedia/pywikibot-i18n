@@ -5,6 +5,6 @@
 			"Muhammad Shuaib"
 		]
 	},
-	"redirect-fix-broken-moved": "خودکار: درستی شکستہ رجوع مکرر بجانب منتقل شدہ ہدف صفحہ %(to)s",
-	"redirect-fix-double": "خودکار: درستی دوہرا رجوع مکرر بجانب %(to)s"
+	"redirect-fix-broken-moved": "درستی شکستہ رجوع مکرر بجانب منتقل شدہ ہدف صفحہ %(to)s",
+	"redirect-fix-double": "درستی دوہرا رجوع مکرر بجانب %(to)s"
 }

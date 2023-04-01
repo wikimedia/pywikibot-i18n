@@ -4,6 +4,6 @@
 			"Kwisha"
 		]
 	},
-	"redirect-fix-loop": "Boti: Inarekebisha tanzi la uelekezaji kwa %(to)s",
-	"redirect-remove-broken": "Boti: Uelekezaji kwa ukurasa uliofutwa au ambao haupatikani"
+	"redirect-fix-loop": "Inarekebisha tanzi la uelekezaji kwa %(to)s",
+	"redirect-remove-broken": "Uelekezaji kwa ukurasa uliofutwa au ambao haupatikani"
 }

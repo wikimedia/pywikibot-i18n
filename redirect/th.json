@@ -6,9 +6,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{ลบ|หน้าเปลี่ยนทางเสีย}}",
-	"redirect-fix-broken-moved": "บอต: แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s",
-	"redirect-fix-double": "บอต: แก้หน้าเปลี่ยนทางซ้ำซ้อนไปเป็น %(to)s",
-	"redirect-fix-loop": "บอต: แก้หน้าเปลี่ยนทางวนรอบไปเป็น %(to)s",
-	"redirect-remove-broken": "บอต: หน้าเปลี่ยนทางถูกลบหรือหน้าไม่มีอยู่",
-	"redirect-remove-loop": "บอต: หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ"
+	"redirect-fix-broken-moved": "แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s",
+	"redirect-fix-double": "แก้หน้าเปลี่ยนทางซ้ำซ้อนไปเป็น %(to)s",
+	"redirect-fix-loop": "แก้หน้าเปลี่ยนทางวนรอบไปเป็น %(to)s",
+	"redirect-remove-broken": "หน้าเปลี่ยนทางถูกลบหรือหน้าไม่มีอยู่",
+	"redirect-remove-loop": "หน้าเปลี่ยนทางทำให้เกิดการเปลี่ยนทางวนรอบ"
 }
