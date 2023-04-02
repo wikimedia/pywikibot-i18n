@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Valhallasw",
+			"Xqt"
+		]
+	},
+	"replicate_wiki-headline": "Pages that differ from original",
+	"replicate_wiki-missing-users": "Admins from original that are missing here",
+	"replicate_wiki-same-pages": "All important pages are the same",
+	"replicate_wiki-same-users": "All users from original are also present on this wiki",
+	"replicate_wiki-summary": "Bot: Wiki synchronization from %(source)s"
+}
