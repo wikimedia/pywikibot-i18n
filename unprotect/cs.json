@@ -3,6 +3,7 @@
 		"authors": [
 			"Dvorapa",
 			"Juandev",
+			"Matěj Suchánek",
 			"Patriccck",
 			"Patrik L."
 		]
@@ -10,6 +11,6 @@
 	"unprotect-category": "robot: odemknutí všech stránek v kategorii %(cat)s",
 	"unprotect-images": "robot: odemknutí všech souborů na stránce %(page)s",
 	"unprotect-links": "robot: odemknutí všech stránek odkazovaných z %(page)s",
-	"unprotect-ref": "robot: odemknutí všech stránek zmíněných na stránce %(page)s",
+	"unprotect-ref": "robot: odemknutí všech stránek odkazujících na %(page)s",
 	"unprotect-simple": "robot: odemknutí souborů ze seznamu"
 }

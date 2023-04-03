@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Amire80"
-		]
-	},
-	"delinker-delink": "בוט: הקובץ [[%(title)s]] הוסר, כיוון שנמחק על־ידי [[:User:%(user)s]]: ''%(comment)s''."
-}

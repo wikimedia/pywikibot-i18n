@@ -4,5 +4,5 @@
 			"Beta16"
 		]
 	},
-	"delinker-delink": "Bot: rimosso il file [[%(title)s]] poiché è stato cancellato da [[:User:%(user)s]]: ''%(comment)s''."
+	"delinker-delink": "Bot: rimosso il file [[%(title)s]] poiché è stato cancellato da [[:User:%(user)s]]: ''%(comment)s''"
 }

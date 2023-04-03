@@ -7,6 +7,6 @@
 	"unprotect-category": "Bot: sprotezione di tutte le pagine nella categoria %(cat)s",
 	"unprotect-images": "Bot: sprotezione di tutti i file contenuti nella pagina %(page)s",
 	"unprotect-links": "Bot: sprotezione di tutte le pagine collegate a %(page)s",
-	"unprotect-ref": "Bot: sprotezione di tutte le pagine con collegamenti da %(page)s",
+	"unprotect-ref": "Bot: sprotezione di tutte le pagine con collegamenti a %(page)s",
 	"unprotect-simple": "Bot: sprotezione di un elenco di file"
 }

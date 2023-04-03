@@ -8,6 +8,6 @@
 	"protect-category": "Bot: protezione di tutte le pagine nella categoria %(cat)s",
 	"protect-images": "Bot: protezione di tutte le immagini contenute nella pagina %(page)s",
 	"protect-links": "Bot: protezione di tutte le pagine collegate a %(page)s",
-	"protect-ref": "Bot: protezione di tutte le pagine con link da %(page)s",
+	"protect-ref": "Bot: protezione di tutte le pagine con link a %(page)s",
 	"protect-simple": "Bot: protezione di un elenco di file"
 }
