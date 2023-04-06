@@ -7,10 +7,10 @@
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Füge %(adding)s hinzu",
-	"checkimages-doubles-file-comment": "Bot: Datei liegt auf Commons",
+	"checkimages-doubles-file-comment": "Bot: Datei liegt bereits auf Commons, kann gelöscht werden",
 	"checkimages-doubles-head": "Datei-Duplikat",
 	"checkimages-doubles-talk-comment": "Bot: Benachrichtigung, dass die Datei bereits auf Commons vorhanden ist",
-	"checkimages-log-comment": "Bot: schreibe Log",
+	"checkimages-log-comment": "Bot: Aktualisiere das Log",
 	"checkimages-no-license-head": "Bild ohne Lizenz",
 	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
 	"checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme.",

@@ -8,6 +8,6 @@
 	"protect-category": "Bot: Protegint totes les pàgines de la categoria %(cat)s",
 	"protect-images": "Bot: Protegint totes les imatges de la pàgina %(page)s",
 	"protect-links": "Bot: Protegint totes les pàgines que s'enllacen des de %(page)s",
-	"protect-ref": "Bot: Protegint totes les pàgines amb referència des de  %(page)s",
+	"protect-ref": "Bot: Protegint totes les pàgines amb referència cap a  %(page)s",
 	"protect-simple": "Bot: Protegint una llista de fitxers."
 }

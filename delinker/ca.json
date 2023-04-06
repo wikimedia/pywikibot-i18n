@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mguix",
 			"Robertgarrigos"
 		]
 	},
-	"delinker-delink": "Bot: el fitxer [[%(title)s]] s'ha eliminat, ja que l'ha suprimit [[:User:%(user)s]]: ''%(comment)s''."
+	"delinker-delink": "Bot: el fitxer [[%(title)s]] s'ha eliminat, ja que l'ha suprimit [[:User:%(user)s]]: ''%(comment)s''"
 }

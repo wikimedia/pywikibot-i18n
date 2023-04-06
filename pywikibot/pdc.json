@@ -1,6 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Xqt"
+		]
 	},
+	"pywikibot-bot-prefix": "Waddefresser:",
 	"pywikibot-cosmetic-changes": "; gleenere Enneringe"
 }
