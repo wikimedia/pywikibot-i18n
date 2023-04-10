@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jeeputer"
+		]
+	},
+	"delinker-delink": "ربات: پروندهٔ [[%(title)s]] زدوده شده است؛ زیرا توسط [[User:%(user)s]] حذف شده است: ''%(comment)s''"
+}

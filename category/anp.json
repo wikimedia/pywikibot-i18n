@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Angpradesh",
-			"Dvorapa"
+			"Dvorapa",
+			"IND-ANP"
 		]
 	},
 	"category-listifying": "बोट : %(fromcat)s (%(num)d entries) सॆं बनैलॊ गेलॊ सूची",
-	"category-replacing": "रोबोट : %(oldcat)s बदलाय रहलॊ छै.",
+	"category-replacing": "बॉट: %(oldcat)s केरौ स्थान प %(newcat)s जोड़ी रहलौ छै",
 	"category-was-moved": "रोबोट : श्रेणी  [[:Category:%(newcat)s|%(title)s]] दन्नॆ भेजलॊ गेलै."
 }
