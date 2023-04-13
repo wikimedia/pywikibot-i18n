@@ -4,5 +4,5 @@
 			"Ghybu"
 		]
 	},
-	"redirect-fix-double": "Robot: Fixing double redirect to %(to)s"
+	"redirect-fix-double": "Fixing double redirect to %(to)s"
 }

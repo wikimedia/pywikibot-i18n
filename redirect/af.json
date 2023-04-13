@@ -5,8 +5,8 @@
 			"Xqt"
 		]
 	},
-	"redirect-fix-double": "Robot: dubbele aanstuur na %(to)s reggemaak",
-	"redirect-fix-loop": "Robot: sirkulêre aanstuur na %(to)s reggemaak",
-	"redirect-remove-broken": "Robot: Aanstuur na 'n geskrapte of nie-bestaande bladsy",
-	"redirect-remove-loop": "Robot: Aanstuur vorm 'n sirkulêre lus"
+	"redirect-fix-double": "dubbele aanstuur na %(to)s reggemaak",
+	"redirect-fix-loop": "sirkulêre aanstuur na %(to)s reggemaak",
+	"redirect-remove-broken": "Aanstuur na 'n geskrapte of nie-bestaande bladsy",
+	"redirect-remove-loop": "Aanstuur vorm 'n sirkulêre lus"
 }

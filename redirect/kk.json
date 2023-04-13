@@ -4,6 +4,6 @@
 			"Arystanbek"
 		]
 	},
-	"redirect-fix-double": "Бот: Шынжырлы айдатуды түзетті → %(to)s",
-	"redirect-remove-broken": "Бот: Бағыттау беті жойылған не жоқ болды"
+	"redirect-fix-double": "Шынжырлы айдатуды түзетті → %(to)s",
+	"redirect-remove-broken": "Бағыттау беті жойылған не жоқ болды"
 }

@@ -4,7 +4,7 @@
 			"Lam-ang"
 		]
 	},
-	"redirect-fix-double": "Robot: Agsimsimpa ti doble a baw-ing idiay %(to)s",
-	"redirect-remove-broken": "Robot: Baw-ing a mapan ti naikkat wenno awan a panid",
-	"redirect-remove-loop": "Robot: Ti baw-ing a puntaan ket agporma baw-ing a silo"
+	"redirect-fix-double": "Agsimsimpa ti doble a baw-ing idiay %(to)s",
+	"redirect-remove-broken": "Baw-ing a mapan ti naikkat wenno awan a panid",
+	"redirect-remove-loop": "Ti baw-ing a puntaan ket agporma baw-ing a silo"
 }

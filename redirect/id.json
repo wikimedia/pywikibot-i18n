@@ -11,9 +11,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{db-r1}}",
-	"redirect-fix-broken-moved": "Bot: Memperbaiki pengalihan rusak ke target halaman yang dipindahkan %(to)s",
-	"redirect-fix-double": "Bot: Memperbaiki pengalihan ganda ke %(to)s",
-	"redirect-fix-loop": "Bot: Memperbaiki pengalihan berulang ke %(to)s",
-	"redirect-remove-broken": "Bot: Pengalihan ke halaman yang dihapus atau yang tidak ada",
-	"redirect-remove-loop": "Bot: Target pengalihan menghasilkan pengalihan ikal"
+	"redirect-fix-broken-moved": "Memperbaiki pengalihan rusak ke target halaman yang dipindahkan %(to)s",
+	"redirect-fix-double": "Memperbaiki pengalihan ganda ke %(to)s",
+	"redirect-fix-loop": "Memperbaiki pengalihan berulang ke %(to)s",
+	"redirect-remove-broken": "Pengalihan ke halaman yang dihapus atau yang tidak ada",
+	"redirect-remove-loop": "Target pengalihan menghasilkan pengalihan ikal"
 }

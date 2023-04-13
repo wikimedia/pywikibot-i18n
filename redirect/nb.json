@@ -7,9 +7,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{hurtigslett|Feilaktig omdirigering}}",
-	"redirect-fix-broken-moved": "Robot: Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet",
-	"redirect-fix-double": "Robot: Retter dobbel omdirigering til %(to)s",
-	"redirect-fix-loop": "Robot: Fikser omdirigeringsløkke til %(to)s",
-	"redirect-remove-broken": "Robot: Målet for omdirigeringen eksisterer ikke",
-	"redirect-remove-loop": "Robot: Målet for omdirigeringen danner en omdirigeringsløkke"
+	"redirect-fix-broken-moved": "Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet",
+	"redirect-fix-double": "Retter dobbel omdirigering til %(to)s",
+	"redirect-fix-loop": "Fikser omdirigeringsløkke til %(to)s",
+	"redirect-remove-broken": "Målet for omdirigeringen eksisterer ikke",
+	"redirect-remove-loop": "Målet for omdirigeringen danner en omdirigeringsløkke"
 }

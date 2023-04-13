@@ -8,9 +8,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{삭제}}",
-	"redirect-fix-broken-moved": "봇: 이동된 %(to)s 문서를 가리키도록 끊긴 넘겨주기를 고침",
-	"redirect-fix-double": "봇: %(to)s 문서를 가리키도록 이중 넘겨주기 고침",
-	"redirect-fix-loop": "봇: %(to)s(으)로 재귀적인 넘겨주기 고침",
-	"redirect-remove-broken": "봇: 끊긴 넘겨주기",
-	"redirect-remove-loop": "봇: 넘겨주기 대상이 재귀적인 넘겨주기를 형성함"
+	"redirect-fix-broken-moved": "이동된 %(to)s 문서를 가리키도록 끊긴 넘겨주기를 고침",
+	"redirect-fix-double": "%(to)s 문서를 가리키도록 이중 넘겨주기 고침",
+	"redirect-fix-loop": "%(to)s(으)로 재귀적인 넘겨주기 고침",
+	"redirect-remove-broken": "끊긴 넘겨주기",
+	"redirect-remove-loop": "넘겨주기 대상이 재귀적인 넘겨주기를 형성함"
 }

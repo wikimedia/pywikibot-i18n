@@ -4,7 +4,7 @@
 			"Joao Xavier"
 		]
 	},
-	"redirect-fix-double": "Bot: Korektis duopla ridirekto a%(to)s",
-	"redirect-fix-loop": "Bot: Reparo di nefinita procedo ('loop') al %(to)s",
-	"redirect-remove-loop": "Bot: La emo di la ridirekto formacas nefinita procedo ('loop')"
+	"redirect-fix-double": "Korektis duopla ridirekto a%(to)s",
+	"redirect-fix-loop": "Reparo di nefinita procedo ('loop') al %(to)s",
+	"redirect-remove-loop": "La emo di la ridirekto formacas nefinita procedo ('loop')"
 }

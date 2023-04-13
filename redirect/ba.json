@@ -6,9 +6,9 @@
 			"Sagan"
 		]
 	},
-	"redirect-fix-broken-moved": "Бот: %(to)s күсерелгән маҡсатлы биттең йүнәлтеүен төҙәтеү",
-	"redirect-fix-double": "Робот:  %(to)s битенә икеле йүнәлтеүҙе төҙәтеү",
-	"redirect-fix-loop": "Робот: %(to)s битенә йүнәлтеүҙе төҙәтеү",
-	"redirect-remove-broken": "Робот: булмаған йәки юйылған биткә йүнәлтеү",
-	"redirect-remove-loop": "Робот: бер ҡайҙа ла йүнәлтелмәгән"
+	"redirect-fix-broken-moved": "%(to)s күсерелгән маҡсатлы биттең йүнәлтеүен төҙәтеү",
+	"redirect-fix-double": " %(to)s битенә икеле йүнәлтеүҙе төҙәтеү",
+	"redirect-fix-loop": "%(to)s битенә йүнәлтеүҙе төҙәтеү",
+	"redirect-remove-broken": "булмаған йәки юйылған биткә йүнәлтеү",
+	"redirect-remove-loop": "бер ҡайҙа ла йүнәлтелмәгән"
 }

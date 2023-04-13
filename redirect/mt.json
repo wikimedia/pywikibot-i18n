@@ -5,7 +5,7 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{Ħassar minnufih|9}}",
-	"redirect-fix-double": "Bot: Tranġar ta' rindirizz doppju lejn %(to)s",
-	"redirect-remove-broken": "Bot: Rindirizz lejn paġna mħassra jew li ma teżistix",
-	"redirect-remove-loop": "Bot: Id-destinazzjoni tar-rindirizz qiegħed jifforma ċiklu ta' rindirizzi"
+	"redirect-fix-double": "Tranġar ta' rindirizz doppju lejn %(to)s",
+	"redirect-remove-broken": "Rindirizz lejn paġna mħassra jew li ma teżistix",
+	"redirect-remove-loop": "Id-destinazzjoni tar-rindirizz qiegħed jifforma ċiklu ta' rindirizzi"
 }

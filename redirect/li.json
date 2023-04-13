@@ -5,9 +5,9 @@
 			"Pahles"
 		]
 	},
-	"redirect-fix-broken-moved": "Bot: verbaetert kepótte redirek door aanpassing nao verplaatsde doelpagina %(to)s",
-	"redirect-fix-double": "Robot: dobbel doorverwiezing aangepas nao %(to)s",
-	"redirect-fix-loop": "Bot: maak redirekkrink nao %(to)s",
-	"redirect-remove-broken": "Bot: doelpagina van de redirek besteit neet",
-	"redirect-remove-loop": "Bot: Redirek vörmp óninjigende lus"
+	"redirect-fix-broken-moved": "verbaetert kepótte redirek door aanpassing nao verplaatsde doelpagina %(to)s",
+	"redirect-fix-double": "dobbel doorverwiezing aangepas nao %(to)s",
+	"redirect-fix-loop": "maak redirekkrink nao %(to)s",
+	"redirect-remove-broken": "doelpagina van de redirek besteit neet",
+	"redirect-remove-loop": "Redirek vörmp óninjigende lus"
 }

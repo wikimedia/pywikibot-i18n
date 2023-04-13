@@ -5,7 +5,7 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{snøggsletting|dette er ei øydelagd omdirigering}}",
-	"redirect-fix-double": "robot: retta dobbel omdirigering → %(to)s",
-	"redirect-fix-loop": "robot: retta omdirigeringslykkje til %(to)s",
-	"redirect-remove-broken": "robot: målet for omdirigeringa finst ikkje"
+	"redirect-fix-double": "retta dobbel omdirigering → %(to)s",
+	"redirect-fix-loop": "retta omdirigeringslykkje til %(to)s",
+	"redirect-remove-broken": "målet for omdirigeringa finst ikkje"
 }

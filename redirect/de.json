@@ -7,9 +7,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{Löschen|Defekte Weiterleitung}}",
-	"redirect-fix-broken-moved": "Bot: Korrigiere defekte Weiterleitung auf Verschiebeziel %(to)s",
-	"redirect-fix-double": "Bot: Korrigiere doppelte Weiterleitung auf %(to)s",
-	"redirect-fix-loop": "Bot: Korrigiere Weiterleitungschleife auf %(to)s",
-	"redirect-remove-broken": "Bot: Weiterleitungsziel existiert nicht",
-	"redirect-remove-loop": "Bot: Weiterleitungsziel auf sich selbst"
+	"redirect-fix-broken-moved": "Korrigiere defekte Weiterleitung auf Verschiebeziel %(to)s",
+	"redirect-fix-double": "Korrigiere doppelte Weiterleitung auf %(to)s",
+	"redirect-fix-loop": "Korrigiere Weiterleitungschleife auf %(to)s",
+	"redirect-remove-broken": "Weiterleitungsziel existiert nicht",
+	"redirect-remove-loop": "Weiterleitungsziel auf sich selbst"
 }
