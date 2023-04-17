@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"transferbot-summary": "Puslapis perkeltas iš %(source)s",
+	"transferbot-target": "Šis puslapis buvo perkeltas iš %(source)s. Jo redagavimo istoriją galima peržiūrėti adresu %(history)s"
+}

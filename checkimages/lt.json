@@ -1,10 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
+			"Nokeoo",
 			"Tomasdd",
 			"Zygimantus"
 		]
 	},
+	"checkimages-deletion-comment": "Robotas: Pridedama %(adding)s",
+	"checkimages-doubles-file-comment": "Robotas: Failas jau yra Vikitekoje, gali būti ištrintas",
+	"checkimages-doubles-head": "Pasikartojantis failas",
+	"checkimages-doubles-talk-comment": "Robotas: Pranešta, kad failas jau yra Vikitekoje",
+	"checkimages-log-comment": "Robotas: Atnaujintas žurnalas",
+	"checkimages-no-license-head": "Vaizdas be licencijos",
 	"checkimages-source-notice-comment": "Robotas: Prašoma šaltinio informacija.",
-	"checkimages-unknown-extension-head": "Nežinomas plėtinys!"
+	"checkimages-unknown-extension-head": "Nežinomas plėtinys!",
+	"checkimages-unknown-extension-msg": "Atrodo, kad failas %(file)s turi netinkamą plėtinį, prašome patikrinti."
 }

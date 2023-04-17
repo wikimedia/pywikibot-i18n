@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aswanas"
+			"Aswanas",
+			"Nokeoo"
 		]
 	},
 	"protect-category": "Robotas: Išsaugomi visi puslapiai iš kategorijos %(cat)s",
 	"protect-images": "Robotas: Išsaugomos visos nuotraukos puslapyje %(page)s",
 	"protect-links": "Robotas: Išsaugomi visi puslapiai, į kuriuos yra nuoroda iš %(page)s",
-	"protect-ref": "Robotas: Išsaugomi visi puslapiai, į kuriuos yra nuoroda iš %(page)s",
+	"protect-ref": "Robotas: Apsaugomi visi puslapiai, su nuoroda į %(page)s",
 	"protect-simple": "Robotas: Išsaugomas failų sąrašas."
 }

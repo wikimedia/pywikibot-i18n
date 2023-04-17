@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Aswanas",
+			"Nokeoo",
 			"Zygimantus"
 		]
 	},
 	"unprotect-category": "Robotas: Nesaugomi visi puslapiai iš kategorijos %(cat)s",
 	"unprotect-images": "Robotas: Neaugomos visos nuotraukos puslapyje %(page)s",
 	"unprotect-links": "Robotas: Nesaugomi visi puslapiai, į kuriuos yra nuoroda iš %(page)s",
-	"unprotect-ref": "Robotas: Nesaugomi visi puslapiai, į kuriuos yra nuoroda iš %(page)s",
+	"unprotect-ref": "Robotas: Nebesaugomi visi puslapiai, nurodantys į %(page)s",
 	"unprotect-simple": "Robotas: Nesaugomas failų sąrašas"
 }

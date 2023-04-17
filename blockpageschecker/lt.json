@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aswanas"
+			"Aswanas",
+			"Nokeoo"
 		]
 	},
+	"blockpageschecker-adding": "Robotas: Pridedamas puslapio užrakinimo šablonas",
+	"blockpageschecker-modifying": "Robotas: Pakeistas pasenęs šablonas",
 	"blockpageschecker-deleting": "Bot: trina pasenusį šabloną"
 }

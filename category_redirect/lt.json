@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aswanas"
+			"Aswanas",
+			"Nokeoo"
 		]
 	},
 	"category_redirect-add-template": "Robotas: Prideda kategoriją nukreipti šabloną pataisymui",
@@ -9,5 +10,19 @@
 	"category_redirect-comment": "Kategorija nukreipia priežiūros robotą",
 	"category_redirect-edit-request": "Aptikta, kad sekantys apsaugoti puslapiai turi būti atnaujinti pagal kategorijos nuorodas: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s yra %(oldcat)s, kuris yra nukreipimas į %(newcat)s",
-	"category_redirect-fix-double": "robotas: Taisomas dvigubas peradresavimas"
+	"category_redirect-fix-double": "robotas: Taisomas dvigubas peradresavimas",
+	"category_redirect-log-added": "* Prie %(oldcat)s pridėta [[%(ns)s%(template)s]]",
+	"category_redirect-log-add-failed": "* Nepavyko pridėti [[%(ns)s%(template)s]] prie %(oldcat)s",
+	"category_redirect-log-double": "* Ištaisytas dvigubas peradresavimas: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Nepavyko: %(error)s",
+	"category_redirect-log-false-positive": "* Netikėtas neperadresavimas: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Nepaisoma %(oldcat)s",
+	"category_redirect-log-loop": "* Peradresavimo kilpa iš %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d rastas, %(moved)d perkeltas",
+	"category_redirect-log-move-error": "* %(oldcat)s: klaida move_contents",
+	"category_redirect-log-new": "Nauji peradresavimai nuo paskutinės ataskaitos:",
+	"category_redirect-log-not-loaded": "* Nepavyko įkelti %(oldcat)s; ignoruojama",
+	"category_redirect-log-skipping": "* Praleidžiama %(oldcat)s; atvėsimo laikotarpyje",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Senesni žurnalai]'''",
+	"category_redirect-problem-redirects": "# %(oldcat)s nukreipia į %(redpage)s"
 }

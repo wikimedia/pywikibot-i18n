@@ -1,6 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Nokeoo"
+		]
 	},
-	"noreferences-add-tag": "robotas: Pridedama trūkstama <references /> žymė"
+	"noreferences-add-tag": "robotas: Pridedama trūkstama <references /> žymė",
+	"noreferences-fix-tag": "Robotas: Ištaisyta netinkama žymos <references /> sintaksė"
 }

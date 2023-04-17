@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"delinker-delink": "Robotas: failas [[%(title)s]] buvo pašalintas, nes jį ištrynė [[:User:%(user)s]]: ''%(comment)s''"
+}
