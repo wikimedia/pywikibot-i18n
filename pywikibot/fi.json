@@ -3,9 +3,11 @@
 		"authors": [
 			"Crt",
 			"Nedergard",
+			"Pyscowicz",
 			"VezonThunder"
 		]
 	},
+	"pywikibot-bot-prefix": "Botti:",
 	"pywikibot-cosmetic-changes": "; kosmeettisia muutoksia",
 	"pywikibot-enter-category-name": "Kirjoita luokan nimi",
 	"pywikibot-enter-file-links-processing": "Mille tiedostosivulle vievät linkit tulee käsitellä?",

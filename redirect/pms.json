@@ -5,8 +5,8 @@
 			"Dragonòt"
 		]
 	},
-	"redirect-fix-broken-moved": "Coression ëd le ridiression nne bon-e a na pàgina ëd destinassion tramudà %(to)s",
-	"redirect-fix-double": "a coregg ridiression dobia a %(to)s",
+	"redirect-fix-broken-moved": "Coression ëd le ridiression lòfie a na pàgina ëd destinassion tramudà %(to)s",
+	"redirect-fix-double": "Coression ëd na ridiression dobia a %(to)s",
 	"redirect-fix-loop": "Coression dël sicl ëd ridiression a %(to)s",
 	"redirect-remove-broken": "Ridiression a na pàgina scancelà o ch'a esist nen",
 	"redirect-remove-loop": "La destinassion ëd la ridiression a forma un sicl ëd ridiression"
