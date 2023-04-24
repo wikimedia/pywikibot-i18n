@@ -7,15 +7,16 @@
 			"IAlex",
 			"MarcoAurelio",
 			"Od1n",
+			"SleaY",
 			"Verdy p",
 			"Wladek92",
 			"Xqt"
 		]
 	},
 	"redirect-broken-redirect-template": "{{Suppression Immédiate|1=G8}}",
-	"redirect-fix-broken-moved": "Robot : correction des redirections erronées vers la page déplacée cible %(to)s",
-	"redirect-fix-double": "Robot : correction d’une double redirection vers %(to)s",
-	"redirect-fix-loop": "Robot : correction d’une boucle de redirection sur %(to)s",
-	"redirect-remove-broken": "Robot : redirection vers une page supprimée ou inexistante",
-	"redirect-remove-loop": "Robot : la cible de la redirection génère une boucle de redirection"
+	"redirect-fix-broken-moved": "Correction des redirections erronées vers la page déplacée cible %(to)s",
+	"redirect-fix-double": "Correction d’une double redirection vers %(to)s",
+	"redirect-fix-loop": "Correction d’une boucle de redirection sur %(to)s",
+	"redirect-remove-broken": "Redirection vers une page supprimée ou inexistante",
+	"redirect-remove-loop": "La cible de la redirection génère une boucle de redirection"
 }

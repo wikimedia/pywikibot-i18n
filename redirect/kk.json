@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Arystanbek"
+			"Arystanbek",
+			"Batyrbek.kz"
 		]
 	},
 	"redirect-fix-double": "Шынжырлы айдатуды түзетті → %(to)s",
-	"redirect-remove-broken": "Бағыттау беті жойылған не жоқ болды"
+	"redirect-remove-broken": "Бағыттау беті жойылған немесе мұндай бет жоқ"
 }

@@ -3,11 +3,12 @@
 		"authors": [
 			"Aswanas",
 			"Hugo.arg",
-			"Mantak111"
+			"Mantak111",
+			"Nokeoo"
 		]
 	},
-	"redirect-fix-broken-moved": "Pataiso sugadintą nuorodą į perkeltą puslapį %(to)s",
-	"redirect-fix-double": "Taisomas dvigubas peradresavimas → %(to)s",
+	"redirect-fix-broken-moved": "Taisomi neveikiantys nukreipimai į tikslo puslapį %(to)s",
+	"redirect-fix-double": "Taisomi dvigubi peradresavimai į %(to)s",
 	"redirect-fix-loop": "Pataiso nukreipimo ciklą į %(to)s",
 	"redirect-remove-broken": "peradresavimas į ištrintą ar nesantį puslapį",
 	"redirect-remove-loop": "Nukreipimo tikslas formuoja nukreipimo ciklą"
