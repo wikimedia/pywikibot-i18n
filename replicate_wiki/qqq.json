@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"replicate_wiki-headline": "Headline for replication overview for pages that differ from source wiki",
+	"replicate_wiki-missing-users": "Headline for replication overview for users missing on target wiki",
+	"replicate_wiki-same-pages": "Text if no important pages differ from source",
+	"replicate_wiki-same-users": "Text if no user from original wiki is missing on target wiki",
+	"replicate_wiki-summary": "Edit summary when the bot transfers pages from a source wiki to target. Parameters:\n* %(source)s - name of the source wiki"
+}
