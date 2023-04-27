@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"replicate_wiki-headline": "Strani, ki se razlikujejo od izvirnika",
+	"replicate_wiki-missing-users": "Administratorji iz izvirnika, ki tukaj manjkajo",
+	"replicate_wiki-same-pages": "Vse pomembne strani so enake",
+	"replicate_wiki-same-users": "Vsi uporabniki iz izvirnika so prisotni tudi v tem vikiju",
+	"replicate_wiki-summary": "Bot: Vikisinhronizacija iz %(source)s"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Verdy p"
+		]
+	},
+	"replicate_wiki-headline": "Pages différentes de l’original",
+	"replicate_wiki-missing-users": "Administrateurs de l’original qui manquent ici",
+	"replicate_wiki-same-pages": "Toutes les pages importantes sont identiques",
+	"replicate_wiki-same-users": "Tous les utilisateurs de l’original sont également présents sur ce wiki",
+	"replicate_wiki-summary": "Bot : synchronisation du wiki à partir de %(source)s"
+}

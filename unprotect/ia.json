@@ -7,6 +7,6 @@
 	"unprotect-category": "Robot: Disprotege tote le paginas del categoria %(cat)s",
 	"unprotect-images": "Robot: Disprotege tote le files sur le pagina %(page)s",
 	"unprotect-links": "Robot: Disprotege tote le paginas ligate ab %(page)s",
-	"unprotect-ref": "Robot: Disprotege tote le paginas que refere a %(page)s",
+	"unprotect-ref": "Robot: Disprotection de tote le paginas que refere a %(page)s",
 	"unprotect-simple": "Robot: Disprotege un lista de files"
 }

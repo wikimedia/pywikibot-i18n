@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"replicate_wiki-headline": "דפים שונים מהמקור",
+	"replicate_wiki-missing-users": "מפעילים מהמקור שחסרים כאן",
+	"replicate_wiki-same-pages": "כל הדפים החשובים זהים",
+	"replicate_wiki-same-users": "כל המשתמשים מהמקור נמצאים גם בוויקי הזה",
+	"replicate_wiki-summary": "סנכרון ויקי מאתר %(source)s"
+}

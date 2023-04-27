@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"replicate_wiki-headline": "Paginas que differe del original",
+	"replicate_wiki-missing-users": "Administratores del original que manca hic",
+	"replicate_wiki-same-pages": "Tote le paginas importante es identic",
+	"replicate_wiki-same-users": "Tote le usatores del original es tamben presente sur iste wiki",
+	"replicate_wiki-summary": "Robot: Synchronisation wiki desde %(source)s"
+}
