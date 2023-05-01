@@ -6,13 +6,14 @@
 			"Nedergard",
 			"Nike",
 			"Olli",
+			"Pyscowicz",
 			"Silvonen"
 		]
 	},
 	"redirect-broken-redirect-template": "{{Pikapoisto|1=|2=O2}}",
-	"redirect-fix-broken-moved": "Botti korjasi rikkinäisen ohjauksen siirrettyyn kohdesivuun %(to)s",
-	"redirect-fix-double": "Botti korjasi kaksinkertaisen ohjauksen sivulle %(to)s",
-	"redirect-fix-loop": "Botti korjasi ohjaussilmukan sivulle %(to)s",
+	"redirect-fix-broken-moved": "Korjasi rikkinäisen ohjauksen siirrettyyn kohdesivuun %(to)s",
+	"redirect-fix-double": "Korjasi kaksinkertaisen ohjauksen sivulle %(to)s",
+	"redirect-fix-loop": "Korjasi ohjaussilmukan sivulle %(to)s",
 	"redirect-remove-broken": "Ohjaus poistetulle tai olemattomalle sivulle",
 	"redirect-remove-loop": "Ohjauksen kohde muodostaa ohjaussilmukan"
 }

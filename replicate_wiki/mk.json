@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"replicate_wiki-headline": "Страницата што се разликува од оригиналот",
+	"replicate_wiki-missing-users": "Администратори од оригиналот што недостасуваат овде",
+	"replicate_wiki-same-pages": "Сите важни страници се исти",
+	"replicate_wiki-same-users": "Сите корисници од оригиналот се присутни и на ова вики",
+	"replicate_wiki-summary": "Бот: Викиусогласување од %(source)s"
+}

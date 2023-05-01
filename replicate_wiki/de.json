@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justman10000"
+		]
+	},
+	"replicate_wiki-headline": "Seiten, die vom Original abweichen",
+	"replicate_wiki-missing-users": "Admins vom Original, die hier fehlen",
+	"replicate_wiki-same-pages": "Alle wichtigen Seiten sind die gleichen",
+	"replicate_wiki-same-users": "Alle Benutzer aus dem Original sind zudem in diesem Wiki vertreten",
+	"replicate_wiki-summary": "Bot: Wiki-Synchronisation von %(source)s"
+}
