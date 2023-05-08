@@ -4,5 +4,6 @@
 			"Milicevic01"
 		]
 	},
+	"replicate_wiki-same-pages": "Све важне странице су исте",
 	"replicate_wiki-summary": "Бот: усклађено са %(source)s."
 }
