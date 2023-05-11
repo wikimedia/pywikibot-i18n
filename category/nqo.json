@@ -6,7 +6,7 @@
 	},
 	"category-adding": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߦߌߟߡߊ [[:ߦߌߟߡߊ:%(newcat)s|%(newcat)s]] ߝߊ߬ߙߊ ߞߊ߲߬",
 	"category-also-in": "(ߊ߬ ߦߋ߫ ߝߣߊ߫ %(alsocat)s ߟߊ߫)",
-	"category-clean": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߦߌߟߡߊ %(category)s ߝߣߊ߫ ߛߋ߲߬ߓߐ ߞߊ߲߬ ߡߍ߲ ߦߋ߫%(child)s ߟߊ߫ ߞߘߐ߬ߡߊ߲߫",
+	"category-clean": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߦߌߟߡߊ %(category)s ߖߏ߰ߛߌ ߞߊ߲߬ ߓߊߏ߬ ߊ߬ ߦߋ߫ %(child)s ߟߊ߫ ߞߘߐ߬ߡߊ߲߫",
 	"category-listifying": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߛߙߍߘߍߦߊߟߌ ߞߊ߲߬ ߞߊ߬ ߝߘߊ߫ %(fromcat)s ߟߊ߫ ({{PLURAL:%(num)d|ߟߊ߬ߘߏ߲߬ߠߌ߲߬ 1|%(num)d ߟߊ߬ߘߏ߲߬ߠߌ߲ ߠߎ߬}})",
 	"category-removing": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߛߋ߲߬ߓߐ߬ߟߌ ߞߊ߲߬ ߞߊ߬ ߝߘߊ߫ %(oldcat)s ߟߊ߫",
 	"category-renamed": "ߡߐ߰ߡߐ߮: ߓߘߴߊ߬ ߓߐ߫ %(oldcat)s ߘߐ߫. ߛߓߍߦߟߊ ߟߎ߫: %(authors)s",

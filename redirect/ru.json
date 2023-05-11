@@ -3,13 +3,14 @@
 		"authors": [
 			"Amire80",
 			"DCamer",
+			"Okras",
 			"Rubin16",
 			"Volkov",
 			"Xqt"
 		]
 	},
 	"redirect-broken-redirect-template": "{{db-redirnone}}",
-	"redirect-fix-broken-moved": "исправление перенаправления на перемещенную целевую страницу %(to)s",
+	"redirect-fix-broken-moved": "Бот: Исправление неработающего перенаправления на перемещенную целевую страницу %(to)s",
 	"redirect-fix-double": "исправление двойного перенаправления на %(to)s",
 	"redirect-fix-loop": "исправление зацикленного перенаправления на %(to)s",
 	"redirect-remove-broken": "[[ВП:КБУ#П1|П1]] - перенаправление на удалённую или несуществующую страницу",
