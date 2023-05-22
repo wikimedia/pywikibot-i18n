@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"春春眠眠"
+		]
+	},
+	"delinker-delink": "Bot: ファイル[[%(title)s]]は、[[:User:%(user)s]]によって削除されたため除去されました: ''%(comment)s''"
+}
