@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aram",
+			"Asoxor",
+			"Calak",
+			"Marmzok",
+			"ئارام بکر"
+		]
+	},
+	"redirect-fix-double": "چاکسازیی دووجار-ڕەوانەکردنەوە بۆ %(to)s",
+	"redirect-remove-broken": "ڕەوانەکەر بۆ پەڕەیەکی سڕاوە یان پەڕەیەک کە بوونی نییە"
+}

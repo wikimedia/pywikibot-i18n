@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Whytheonlyone"
+		]
+	},
+	"archivebot-archive-full": "(ARCHIVO LLENO)",
+	"archivebot-archive-summary": "Bot: Archivando %(count) {{PLURAL:%(count)d|thread|threads}} desde [[%(from)s]]"
+}

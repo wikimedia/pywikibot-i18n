@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renessaince"
+		]
+	},
+	"delinker-delink": "Робат: файл [[%(title)s]] быў прыбраны, бо выдалены ўдзельнікам [[:User:%(user)s]]: ''%(comment)s''."
+}
