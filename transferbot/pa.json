@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"ArticleEditor404"
-		]
-	},
-	"transferbot-summary": "%(source)s ਤੋਂ ਭੇਜਿਆ ਪੇਜ",
-	"transferbot-target": "ਇਹ ਪੰਨਾ %(source)s ਤੋਂ ਭੇਜਿਆ ਗਿਆ ਸੀ. ਇਸਦਾ ਸੰਪਾਦਨ ਇਤਿਹਾਸ %(history)s 'ਤੇ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ"
-}

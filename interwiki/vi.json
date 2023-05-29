@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Keo010122",
 			"Minh Nguyen"
 		]
 	},
@@ -10,6 +11,6 @@
 	"interwiki-adding-removing-modifying": "Bot: Thêm %(adding)s; dời %(removing)s; sửa %(modifying)s",
 	"interwiki-modifying": "Bot: Sửa %(modifying)s",
 	"interwiki-modifying-from": "Bot: Đổi %(from)s thành %(modifying)s",
-	"interwiki-removing": "Bot: Dời %(removing)s",
+	"interwiki-removing": "Bot: Di chuyển %(removing)s",
 	"interwiki-removing-modifying": "Bot: Dời %(removing)s; sửa %(modifying)s"
 }

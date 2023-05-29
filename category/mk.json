@@ -8,7 +8,7 @@
 	},
 	"category-adding": "Робот: Додава [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(и во %(alsocat)s)",
-	"category-clean": "Бот: Отстранета категоријата %(category)s која веќе се наоѓа во %(child)s",
+	"category-clean": "Бот: Отстранета категоријата %(category)s бидејќи веќе е под %(child)s",
 	"category-listifying": "Робот: Попишувам од %(fromcat)s (%(num)d ставки)",
 	"category-removing": "Робот: Отстранувам од %(oldcat)s",
 	"category-renamed": "Робот: Преместено од %(oldcat)s. Автори: %(authors)s",
