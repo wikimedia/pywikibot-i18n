@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"delinker-delink": "Bot: Wedi dileu'r ffeil [[%(title)s]], gan ei bod wedi cael ei ddileu gan [[:User:%(user)s]]: ''%(comment)s''."
+}

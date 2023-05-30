@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"Vodnokon4e"
+		]
+	},
+	"redirect-fix-double": "Поправяне на двойно пренасочване към %(to)s"
+}
