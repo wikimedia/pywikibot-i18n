@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
+			"Keo010122",
 			"Minh Nguyen"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Thêm %(adding)s",
-	"checkimages-doubles-file-comment": "Bot: Tập tin đã tồn tại tại Commons, có thể bị xóa",
+	"checkimages-doubles-file-comment": "Bot: Tập tin đã tồn tại tại Commons, có thể đã bị xóa",
 	"checkimages-doubles-head": "Tập tin trùng lặp",
-	"checkimages-doubles-talk-comment": "Bot: Thông báo rằng tập tin đã tồn tại tại Commons",
+	"checkimages-doubles-talk-comment": "Bot: Thông báo tập tin đã tồn tại tại Commons",
 	"checkimages-log-comment": "Bot: Cập nhật nhật trình",
-	"checkimages-no-license-head": "Hình thiếu giấy phép",
-	"checkimages-source-tag-comment": "Bot: Đánh dấu một tập tin mới được tải lên mà chưa gắn thẻ",
-	"checkimages-source-notice-comment": "Bot: Yêu cầu thông tin nguồn gốc",
+	"checkimages-no-license-head": "Tập tin thiếu giấy phép",
+	"checkimages-source-tag-comment": "Bot: Đánh dấu tập tin mới tải lên chưa gắn thẻ",
+	"checkimages-source-notice-comment": "Bot: Yêu cầu thông tin nguồn gốc.",
 	"checkimages-unknown-extension-head": "Phần mở rộng không rõ!",
 	"checkimages-unknown-extension-msg": "Tên tập tin %(file)s hình như có phần mở rộng sai, xin hãy xem lại."
 }

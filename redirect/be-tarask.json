@@ -9,8 +9,8 @@
 	},
 	"redirect-broken-redirect-template": "{{Выдаліць|некарэктнае перанакіраваньне}}",
 	"redirect-fix-broken-moved": "Выпраўленьне перанакіраваньня на старонку, перанесеную ў %(to)s",
-	"redirect-fix-double": "выпраўленьне падвойнага перанакіраваньня → %(to)s",
-	"redirect-fix-loop": "Выпраўленьне перанакіраваньня на %(to)s",
+	"redirect-fix-double": "Выпраўленьне падвойнага перанакіраваньня → %(to)s",
+	"redirect-fix-loop": "Выпраўленьне зацыкленага перанакіраваньня на %(to)s",
 	"redirect-remove-broken": "мэта перанакіраваньня не існуе",
 	"redirect-remove-loop": "Пятля перанакіраваньняў"
 }

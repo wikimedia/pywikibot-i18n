@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Ice bulldog"
-		]
-	},
-	"delinker-delink": "Бот: файл [[%(title)s]] було видалено, оскільки він був видалений [[:User:%(user)s]]: ''%(comment)s''."
-}

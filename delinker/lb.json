@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Volvox"
-		]
-	},
-	"delinker-delink": "Bot: De Fichier [[%(title)s]] gouf geläscht, well e vum [[:User:%(user)s]] geläscht gouf: ''%(comment)s''."
-}

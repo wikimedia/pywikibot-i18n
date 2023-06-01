@@ -8,17 +8,17 @@
 			"Vinhtantran"
 		]
 	},
-	"category_redirect-add-template": "Bot: Thêm bản mẫu đổi hướng thể loại để dễ bảo trì",
-	"category_redirect-change-category": "Bot: Thay thể loại đã đổi hướng [[:%(oldCatLink)s|%(oldCatTitle)s]] bằng [[:%(newCatLink)s|%(newCatTitle)s]]",
-	"category_redirect-comment": "Bot theo dõi thể loại đổi hướng",
-	"category_redirect-edit-request": "Các trang đã khóa sau cần phải cập nhật liên kết thể loại: %(itemlist)s",
-	"category_redirect-edit-request-item": "* %(title)s đang thuộc %(oldcat)s, là thể loại đổi hướng đến %(newcat)s",
+	"category_redirect-add-template": "Bot: Thêm bản mẫu đổi hướng thể loại để bảo trì",
+	"category_redirect-change-category": "Bot: Di chuyển thể loại đã đổi hướng [[:%(oldCatLink)s|%(oldCatTitle)s]] sang [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bot bảo trì thể loại đổi hướng",
+	"category_redirect-edit-request": "Các trang đã khóa sau cần được cập nhật liên kết thể loại: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s nằm trong %(oldcat)s, là thể loại đổi hướng đến %(newcat)s",
 	"category_redirect-fix-double": "Bot: Sửa thể loại đổi hướng kép",
-	"category_redirect-log-added": "* Đã xếp [[%(ns)s%(template)s]] vào %(oldcat)s",
+	"category_redirect-log-added": "* Đã thêm [[%(ns)s%(template)s]] vào %(oldcat)s",
 	"category_redirect-log-add-failed": "* Thất bại khi xếp [[%(ns)s%(template)s]] vào %(oldcat)s",
-	"category_redirect-log-double": "%(oldcat)s* Đã sửa đổi hướng kép: %(oldcat)s → %(newcat)s → %(targetcat)s",
+	"category_redirect-log-double": "* Đã sửa đổi hướng kép: %(oldcat)s → %(newcat)s → %(targetcat)s",
 	"category_redirect-log-failed": "** Không thành công: %(error)s",
-	"category_redirect-log-false-positive": "* Trang không đổi hướng không ngờ: %(oldcat)s",
+	"category_redirect-log-false-positive": "* Trang không đổi hướng không xác định: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Đã bỏ qua %(oldcat)s",
 	"category_redirect-log-loop": "* Vòng đổi hướng từ %(oldcat)s",
 	"category_redirect-log-moved": "* %(oldcat)s: tìm thấy %(found)d, di chuyển %(moved)d",
@@ -27,7 +27,7 @@
 	"category_redirect-log-not-loaded": "* Không thể tải %(oldcat)s; bỏ qua",
 	"category_redirect-log-skipping": "* Bỏ qua %(oldcat)s; đang giảm nhiệt",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Nhật trình cũ hơn]'''",
-	"category_redirect-problem-hard": "# %(oldcat)s là một đổi hướng cứng đến %(page)s",
+	"category_redirect-problem-hard": "# %(oldcat)s đổi hướng cứng đến %(page)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s đổi hướng đến %(redpage)s",
-	"category_redirect-problem-self-linked": "# %(oldcat)s là một đổi hướng tới chính trang đó"
+	"category_redirect-problem-self-linked": "# %(oldcat)s đổi hướng tới chính nó"
 }

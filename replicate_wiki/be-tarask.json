@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Renessaince"
+		]
+	},
+	"replicate_wiki-headline": "Старонкі, якія адрозьніваюцца ад арыгіналу",
+	"replicate_wiki-missing-users": "Адміны з арыгіналу, якіх тут няма",
+	"replicate_wiki-same-pages": "Усе істотныя старонкі аднолькавыя",
+	"replicate_wiki-same-users": "Усе ўдзельнікі арыгінальнай вікі прысутнічаюць і ў гэтай",
+	"replicate_wiki-summary": "Робат: сынхранізацыя вікі з %(source)s"
+}

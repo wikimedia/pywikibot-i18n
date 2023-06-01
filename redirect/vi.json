@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Keo010122",
 			"Minh Nguyen"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Chờ xóa}}",
-	"redirect-fix-broken-moved": "Sửa đổi hướng sai; trang đích đã được di chuyển đến %(to)s",
+	"redirect-broken-redirect-template": "{{db-đh1}}",
+	"redirect-fix-broken-moved": "Sửa đổi hướng hỏng đến %(to)s",
 	"redirect-fix-double": "Giải quyết đổi hướng kép đến %(to)s",
 	"redirect-fix-loop": "Sửa vòng lặp đổi hướng đến %(to)s",
-	"redirect-remove-broken": "[[Wikipedia:Trang đổi hướng|Đổi hướng]] đến trang xóa hoặc không tồn tại",
-	"redirect-remove-loop": "[[Wikipedia:Trang đổi hướng|Đổi hướng]] qua lại"
+	"redirect-remove-broken": "Đổi hướng đến trang xóa hoặc không tồn tại",
+	"redirect-remove-loop": "Mục tiêu đổi hướng tạo thành vòng lặp"
 }

@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Duke of Wikipädia"
-		]
-	},
-	"delinker-delink": "Robô: O arquivo [[%(title)s]] foi removido, pois foi eliminado por [[:User:%(user)s]]: ''%(comment)s''."
-}

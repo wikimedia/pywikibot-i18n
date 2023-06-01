@@ -10,7 +10,7 @@
 	},
 	"category-adding": "Робат: дадаваньне category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(таксама ў %(alsocat)s)",
-	"category-clean": "Робат: Выдаленьне катэгорыі %(category)s, якая ўжо ёсьць у %(child)s",
+	"category-clean": "Робат: Выдаленьне катэгорыі %(category)s, бо яна ўжо ёсьць пад %(child)s",
 	"category-listifying": "Робат: ствараецца сьпіс з %(fromcat)s (%(num)d элемэнтаў)",
 	"category-removing": "Робат: выключэньне з %(oldcat)s",
 	"category-renamed": "Робат: перанесена з %(oldcat)s. Аўтары: %(authors)s",

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Keo010122"
+		]
+	},
+	"delinker-delink": "Bot: Xóa tập tin [[%(title)s]] bị xóa bởi [[:User:%(user)s]]: ''%(comment)s''"
+}

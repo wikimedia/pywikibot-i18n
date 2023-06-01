@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Hamilton Abreu"
-		]
-	},
-	"delinker-delink": "Robô: O ficheiro [[%(title)s]] foi removido, porque foi eliminado por [[:User:%(user)s]]: ''%(comment)s''."
-}

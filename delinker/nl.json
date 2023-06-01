@@ -1,8 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"McDutchie"
-		]
-	},
-	"delinker-delink": "Robot: de koppeling naar [[%(title)s]] is verwijderd, want dat bestand is verwijderd door [[:User:%(user)s]]: ''%(comment)s''"
-}

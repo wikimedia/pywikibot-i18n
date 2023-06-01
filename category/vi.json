@@ -1,15 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Keo010122",
 			"Minh Nguyen"
 		]
 	},
 	"category-adding": "Bot: Thêm thể loại [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(cũng trong %(alsocat)s)",
+	"category-clean": "Bot: Xóa thể loại %(category)s vì trang nằm trong thể loại con %(child)s",
 	"category-listifying": "Bot: Danh sách hóa từ %(fromcat)s (%(num)d trang)",
-	"category-removing": "Bot: Dời khỏi %(oldcat)s",
+	"category-removing": "Bot: Dời %(oldcat)s",
 	"category-renamed": "Bot: Di chuyển từ %(oldcat)s. Tác giả: %(authors)s",
-	"category-replacing": "Bot: Thay thể loại %(oldcat)s bằng %(newcat)s",
+	"category-replacing": "Bot: Di chuyển %(oldcat)s sang %(newcat)s",
 	"category-section-title": "Lịch sử các trang từng nằm trong %(oldcat)s",
 	"category-strip-cfd-templates": "Bot: Gỡ bản mẫu đề nghị xóa thể loại vì đã được giải quyết",
 	"category-strip-sort-keys": "Bot: Gỡ từ khóa sắp xếp vì tác vụ đã được giải quyết",

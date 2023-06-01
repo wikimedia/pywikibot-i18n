@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Keo010122"
+		]
+	},
+	"replicate_wiki-headline": "Các trang khác với bản gốc",
+	"replicate_wiki-same-pages": "Tất cả các trang quan trọng không khác nhau",
+	"replicate_wiki-same-users": "Tất cả người dùng từ bản gốc đều có mặt trên wiki này",
+	"replicate_wiki-summary": "Bot: Đồng bộ hóa từ %(source)s"
+}
