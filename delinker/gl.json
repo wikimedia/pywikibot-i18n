@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Bot: O ficheiro [[%(title)s]] foi eliminado, xa que foi eliminado por [[:User:%(user)s]]: ''%(comment)s''"
+}

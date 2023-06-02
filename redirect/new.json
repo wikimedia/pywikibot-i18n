@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eukesh",
+			"Xqt"
+		]
+	},
+	"redirect-fix-loop": "पुनर्निदेश लूपयात %(to)sय्‌ मिलय्‌यानाछ्वगु",
+	"redirect-remove-loop": "पुनर्निर्देशया लक्ष्यं पुनर्निदेश लूप दयेकी"
+}

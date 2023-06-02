@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwj2772",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "봇: [[:User:%(user)s]]이 파일을 삭제함에 따라 파일 [[%(title)s]]을 제거함: ''%(comment)s''"
+}

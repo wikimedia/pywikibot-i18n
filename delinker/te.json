@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chaduvari",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "బాట్: దస్త్రాన్ని [[:User:%(user)s]] తొలగించినందున, దాని [[%(title)s]] ను తీసేసాను: ''%(comment)s''"
+}

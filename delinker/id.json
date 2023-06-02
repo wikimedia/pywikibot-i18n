@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Daud I.F. Argana",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Bot: Berkas [[%(title)s]] telah dihapus, karena ia telah dihapus oleh [[:User:%(user)s]]: ''%(comment)s''"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geraki",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Bot: Το αρχείο [[%(title)s]] έχει αφαιρεθεί, καθώς έχει διαγραφεί από τον/την [[:User:%(user)s]]: ''%(comment)s''"
+}

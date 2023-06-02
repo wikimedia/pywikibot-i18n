@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lionslayer",
+			"Ninjastrikers",
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "%(to)s သို့ ပြန်ညွှန်းနှစ်ထပ်ဖြစ်နေသည်ကို ပြင်နေသည်",
+	"redirect-remove-loop": "ပြန်ညွှန်းသည် ယင်းကို ပြန်ညွှန်းခြင်းခံရသောကြောင့်  သံသရာလည်မှု ဖြစ်စေသည်။"
+}

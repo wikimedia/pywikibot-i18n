@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hedda",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Bot: [[%(title)s]] dosyası, [[:User:%(user)s]] tarafından silindiği için sayfadan kaldırıldı: ''%(comment)s''"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe",
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "rèpâre na redirèccion dobla de vers %(to)s",
+	"redirect-fix-loop": "rèpâre na boclla de redirèccion a %(to)s",
+	"redirect-remove-broken": "redirèccion de vers na pâge suprimâye ou ben pas ègzistenta",
+	"redirect-remove-loop": "la ciba de la redirèccion fôrme na boclla de redirèccion"
+}

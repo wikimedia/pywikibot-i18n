@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Iwan Novirion",
+			"Luthfi94",
+			"Naval Scene"
+		]
+	},
+	"redirect-fix-double": "Mampeloki pangalihan ganda ka %(to)s",
+	"redirect-remove-broken": "Pangaliahan ka laman nan dihapuih atau indak ado",
+	"redirect-remove-loop": "Target pangaliahan mahasilan pangaliahan bapusiang"
+}

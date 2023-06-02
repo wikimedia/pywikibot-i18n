@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kakonjo",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Bot: Fayiro [[%(title)s]] eyihirweho, nka oku esangwireho [[: Omukozesa:%(user)s]]: ''%(comment)s''"
+}

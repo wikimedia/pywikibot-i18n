@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Bot: L'arkivo [[%(title)s]] removesis, nam ol efacesis da [[:User:%(user)s]]: ''%(comment)s''"
+}

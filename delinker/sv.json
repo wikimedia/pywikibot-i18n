@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sabelöga",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "Bott: Filen [[%(title)s]] har tagits bort så den har raderats av [[:User:%(user)s]]: ''%(comment)s''"
+}

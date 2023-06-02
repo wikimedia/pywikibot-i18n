@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25",
+			"Xqt"
+		]
+	},
+	"delinker-delink": "بوت: الملف [[%(title)s]] تمت إزالته، حيث تم حذفه بواسطة [[:User:%(user)s]]: ''%(comment)s''"
+}
