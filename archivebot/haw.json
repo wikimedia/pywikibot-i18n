@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kolonahe"
+			"Kolonahe",
+			"Xqt"
 		]
 	},
 	"archivebot-archive-full": "(PIHA KA WAIHONAʻIKE)",
 	"archivebot-archive-summary": "Lopako: Ke papaʻa nei i %(count)d {{PLURAL:%(count)d|lopi|mau lopi}} mai [[%(from)s]]",
 	"archivebot-older-than": "kahiko aʻe ma mua o",
-	"archivebot-page-summary": "Lopako: Ke papaʻa nei i %(count)d {{PLURAL:%(count)d|lopi|mau lopi}} (%(why)s) i %(archives)s"
+	"archivebot-page-summary": "Ke papaʻa nei i %(count)d {{PLURAL:%(count)d|lopi|mau lopi}} (%(why)s) i %(archives)s"
 }

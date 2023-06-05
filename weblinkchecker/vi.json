@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Keo010122",
 			"Minh Nguyen"
 		]
 	},
 	"weblinkchecker-archive_msg": "Trang Web đã được Internet Archive lưu trữ. Xin vui lòng đặt liên kết đến bản lưu trữ: [%(URL)s].",
-	"weblinkchecker-badurl": "Hình như liên kết được cung cấp không phải là URL hợp lệ",
+	"weblinkchecker-badurl": "Liên kết được cung cấp có thể không phải là URL hợp lệ",
 	"weblinkchecker-caption": "Liên kết hỏng",
-	"weblinkchecker-report": "Bot tự động chạy vài lần mà không truy cập được liên kết bên ngoài sau. Xin vui lòng kiểm tra nó thực sự bị hỏng, và nếu vậy, xin sửa hoặc xóa liên kết.",
+	"weblinkchecker-report": "Bot tự động chạy vài lần mà không truy cập được liên kết bên ngoài sau. Vui lòng kiểm tra nó thực sự bị hỏng, và nếu vậy, xin sửa hoặc xóa liên kết.",
 	"weblinkchecker-summary": "Bot: Báo cáo liên kết bên ngoài không truy cập được"
 }

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yardom78",
-			"Xqt"
+			"Xqt",
+			"Yardom78"
 		]
 	},
 	"delinker-delink": "Bot: Súbor [[%(title)s]] bol vymazaný užívateľom [[%(user)s]]: \"%(comment)s\""
