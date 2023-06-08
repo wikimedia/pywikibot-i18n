@@ -12,7 +12,7 @@
 	"checkimages-log-comment": "Bot: Cập nhật nhật trình",
 	"checkimages-no-license-head": "Tập tin thiếu giấy phép",
 	"checkimages-source-tag-comment": "Bot: Đánh dấu tập tin mới tải lên chưa gắn thẻ",
-	"checkimages-source-notice-comment": "Bot: Yêu cầu thông tin nguồn gốc.",
+	"checkimages-source-notice-comment": "Bot: Yêu cầu thông tin nguồn gốc",
 	"checkimages-unknown-extension-head": "Phần mở rộng không rõ!",
 	"checkimages-unknown-extension-msg": "Tên tập tin %(file)s hình như có phần mở rộng sai, xin hãy xem lại."
 }
