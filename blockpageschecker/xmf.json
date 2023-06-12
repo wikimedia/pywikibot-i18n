@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Narazeni",
 			"Silovan"
 		]
 	},
+	"blockpageschecker-modifying": "ბოტი: მოჯვეშაფილი თანგიშ თირუა",
 	"blockpageschecker-deleting": "ბოტი: მოჯვეშე თანგეფიშ ლასუა"
 }

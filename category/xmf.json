@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Narazeni",
 			"Silovan"
 		]
 	},
-	"category-adding": "ბოტი: კატეგორიშ გეძინა [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "ბოტი: კატეგორიშ გეძინა [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(თაშნეშე %(alsocat)s-ით)"
 }

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "справив двоїте напрямлїня → %(to)s",
+	"redirect-remove-broken": "Напрямлїня на змазану або неекзістуючу сторінку",
+	"redirect-remove-loop": "Напрямлїня формує петлю напрямлїнь"
+}

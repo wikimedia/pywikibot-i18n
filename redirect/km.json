@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"redirect-fix-double": "ជួសជុលការបញ្ជួនបន្តទ្វេដងទៅ %(to)s",
+	"redirect-remove-loop": "គោលដៅបញ្ជួនបន្តបង្កើតរង្វិលជុំបញ្ជួនបន្ត"
+}

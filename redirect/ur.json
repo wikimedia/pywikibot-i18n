@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"redirect-fix-broken-moved": "درستی شکستہ رجوع مکرر بجانب منتقل شدہ ہدف صفحہ %(to)s",
+	"redirect-fix-double": "درستی دوہرا رجوع مکرر بجانب %(to)s"
+}

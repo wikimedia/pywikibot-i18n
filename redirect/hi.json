@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"redirect-fix-broken-moved": "स्थानांतरित लक्ष्य %(to)s पृष्ठ पर टूटी हुई रीडायरेक्ट को ठीक करना।",
+	"redirect-fix-double": "%(to)s को दोहरे पुननिर्देशित ठीक किया।",
+	"redirect-fix-loop": "%(to)s को पुननिर्देशित लूप ठीक किया।",
+	"redirect-remove-broken": "हटाये गए या अनुपस्थित पृष्ठ पर अनुप्रेषित",
+	"redirect-remove-loop": "अनुप्रेषण लक्ष्य एक अनुप्रेषण पाश बनाता है"
+}

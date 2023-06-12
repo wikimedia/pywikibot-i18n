@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Narazeni"
+		]
+	},
+	"delete-from-category": "ბოტი: არძა ხასჷლაშ ლასუა კატეგორიაშე %(page)s",
+	"delete-from-file": "ბოტი: ხასჷლეფიშ ერკებულიშ ლასუა",
+	"delete-images": "ბოტი: არძა სურათიშ ლასუა ხასჷლაშე %(page)s",
+	"delete-linked-pages": "ბოტი: ხასჷლაწკჷმა %(page)s მერსხილჷ არძა ხასჷლაშ ლასუა"
+}
