@@ -4,12 +4,13 @@
 			"C5st4wr6ch",
 			"Ezagren",
 			"Rachmat.Wahidi",
-			"Rachmat04"
+			"Rachmat04",
+			"Veracious"
 		]
 	},
 	"protect-category": "Bot: Melindungi seluruh halaman dalam kategori %(cat)s",
 	"protect-images": "Bot: Melindungi semua gambar dalam halaman %(page)s",
 	"protect-links": "Bot: Melindungi semua halaman yang terhubung dari %(page)s",
-	"protect-ref": "Bot: Melindungi semua halaman yang mengarah dari %(page)s",
+	"protect-ref": "Bot: Melindungi semua halaman yang mengarah ke %(page)s",
 	"protect-simple": "Bot: Melindungi serangkaian berkas"
 }

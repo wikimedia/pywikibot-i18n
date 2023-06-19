@@ -6,12 +6,13 @@
 			"IvanLanin",
 			"Kenrick95",
 			"Rachmat.Wahidi",
-			"Rachmat04"
+			"Rachmat04",
+			"Veracious"
 		]
 	},
 	"category-adding": "Bot: Menambahkan kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(juga dalam %(alsocat)s)",
-	"category-clean": "Bot: Menghapus kategori %(category)s yang sudah ada dalam %(child)s",
+	"category-clean": "Bot: Menghapus kategori %(category)s karena sudah ada dalam %(child)s",
 	"category-listifying": "Bot: Membuat daftar dari %(fromcat)s ({{PLURAL:%(num)d|satu entri|%(num)d entri}})",
 	"category-removing": "Bot: Menghapus dari %(oldcat)s",
 	"category-renamed": "Bot: Memindahkan dari %(oldcat)s. Kontributor: %(authors)s",

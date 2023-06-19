@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Veracious"
+		]
+	},
+	"replicate_wiki-headline": "Halaman yang berbeda dari aslinya",
+	"replicate_wiki-missing-users": "Pengurus asli yang tak ada di sini",
+	"replicate_wiki-same-pages": "Semua halaman penting adalah sama",
+	"replicate_wiki-same-users": "Semua pengguna dari yang asli juga ada di wiki ini",
+	"replicate_wiki-summary": "Bot: Sinkronisasi wiki dari %(source)s"
+}
