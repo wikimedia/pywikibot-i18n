@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"그냥기여자"
 		]
 	},
+	"replicate_wiki-headline": "원본과 다른 페이지",
 	"replicate_wiki-same-pages": "중요한 모든 문서가 동일합니다"
 }
