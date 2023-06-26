@@ -3,12 +3,13 @@
 		"authors": [
 			"Cosine02",
 			"Liuxinyu970226",
+			"U.T.",
 			"Yfdyh000"
 		]
 	},
 	"unprotect-category": "机器人：取消保护分类%(cat)s的所有页面",
 	"unprotect-images": "机器人：取消保护页面%(page)s的所有图片",
 	"unprotect-links": "机器人：取消保护%(page)s链接的所有页面",
-	"unprotect-ref": "机器人：取消保护%(page)s提及的所有页面",
+	"unprotect-ref": "机器人：取消保护指向%(page)s的所有页面",
 	"unprotect-simple": "机器人：取消保护一列文件"
 }

@@ -1,17 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
+			"Shahnoza",
 			"Sociologist",
 			"Zafar Shamsiddinov"
 		]
 	},
 	"category-adding": "Bot: Turkum qoʻshish [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(shunigdek %(alsocat)s)",
+	"category-clean": "Bot:%(category)s toifasini olib tashlash chunki u allaqachon %(child)s ostida",
 	"category-listifying": "Bot: %(fromcat)sʼdan roʻyxatga olish ({{PLURAL:%(num)d|1 ta qayd|%(num)d ta qayd}})",
 	"category-removing": "Bot: %(oldcat)sʼdan oʻchirish",
 	"category-renamed": "Bot: %(oldcat)sʼdan koʻchirilgan. Mualliflar: %(authors)s",
 	"category-replacing": "Bot:  %(oldcat)s toifasi %(newcat)s bilan almashtirish",
 	"category-section-title": "Sobiq %(oldcat)s sahifalari tarixi",
 	"category-strip-cfd-templates": "Bot: tugallangan harakat uchun CFD shablonlarini olib tashlash",
-	"category-strip-sort-keys": "Bot: Tugallangan amal uchun saralash tugmachalarini olib tashlash"
+	"category-strip-sort-keys": "Bot: Tugallangan amal uchun saralash tugmachalarini olib tashlash",
+	"category-strip-both": "Bot:CFD shablonini olib tashlash va tugallangan harakatlar uchun kalitlarni tartiblash",
+	"category-version-history": "Bot:Sobiq %(oldcat)s versiyasi tarixini saqlash",
+	"category-was-disbanded": "Bot: Turkum tarqatilgan"
 }
