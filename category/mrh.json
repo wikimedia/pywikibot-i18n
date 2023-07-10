@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teitei Para"
+		]
+	},
+	"category-adding": "Bot: category [[:Category:%(newcat)s|%(newcat)s]]kha a khô hai",
+	"category-also-in": "(%(alsocat)s liata chhao)"
+}

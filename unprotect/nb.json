@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Danmichaelo",
+			"Jon Harald Søby",
 			"SuperPotato"
 		]
 	},
 	"unprotect-category": "Robot: Fjerner beskyttelse fra sider i kategorien %(cat)s",
 	"unprotect-images": "Robot: Fjerner beskyttelse fra alle bilder på siden %(page)s",
 	"unprotect-links": "Robot: Fjerner beskyttelse fra alle sider lenket fra %(page)s",
-	"unprotect-ref": "Robot: Fjerner beskyttelse fra alle sider som peker til %(page)s",
+	"unprotect-ref": "Robot: Fjerner beskyttelse fra alle sider som refererer til %(page)s",
 	"unprotect-simple": "Robot: Fjerner beskyttelse fra en liste av filer"
 }

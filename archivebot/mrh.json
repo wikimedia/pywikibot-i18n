@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Teitei Para"
+		]
+	},
+	"archivebot-archive-full": "(ARCHIVE BIEPA)",
+	"archivebot-archive-summary": "Bot: [[%(from)s]] tawh pathao ta %(count)d {{PLURAL:%(count)d|thread|threads}} archive-pa",
+	"archivebot-older-than": "%(duration)s hlâta {{PLURAL:%(count)d|paroh viapa}}",
+	"archivebot-page-summary": "Bot:%(archives)s taih %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) archive-pa"
+}

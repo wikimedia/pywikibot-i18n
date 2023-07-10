@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"replicate_wiki-headline": "Sider som er forskjellige fra originalen",
+	"replicate_wiki-missing-users": "Administratorer fra originalen som mangler her",
+	"replicate_wiki-same-pages": "Alle viktige sider er like",
+	"replicate_wiki-same-users": "Alle brukere fra originalen er også til stede på denne wikien",
+	"replicate_wiki-summary": "Bot: Wikisynkronisering fra %(source)s"
+}
