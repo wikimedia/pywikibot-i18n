@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Lifeway",
 			"Xqt"
 		]
 	},
-	"category-adding": "робот: ешарен [[:Category:%(newcat)s]]"
+	"category-adding": "Бот: [[:Category:%(newcat)s]] категорийым ешарымаш"
 }

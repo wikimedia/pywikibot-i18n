@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Arystanbek"
+			"Arystanbek",
+			"Lifeway"
 		]
 	},
-	"pywikibot-bot-prefix": "Робот:",
+	"pywikibot-bot-prefix": "Бот:",
 	"pywikibot-cosmetic-changes": "; безендіру өзгерістері",
 	"pywikibot-enter-category-name": "Санат атауын енгізіңіз:",
 	"pywikibot-enter-file-links-processing": "Файл беті сілтемелерін өңдеу керек пе?",

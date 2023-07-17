@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Lifeway"
+		]
 	},
-	"add_text-adding": "робот ешарен %(adding)s"
+	"add_text-adding": "Бот ешарен: %(adding)s"
 }
