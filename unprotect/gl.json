@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Elisardojm"
+			"Elisardojm",
+			"Toliño"
 		]
 	},
-	"unprotect-category": "Bot: desprotección de tódalas páxinas da categoría %(cat)s",
-	"unprotect-images": "Bot: desprotección de tódalas imaxes da páxina %(page)s",
-	"unprotect-links": "Bot: desprotección de tódalas páxinas ligadas desde %(page)s",
-	"unprotect-ref": "Bot: desprotección de tódalas páxinas que ligan cara a %(page)s",
-	"unprotect-simple": "Bot: desprotección dunha lista de ficheiros"
+	"unprotect-category": "Bot: Desprotexo tódalas páxinas da categoría %(cat)s",
+	"unprotect-images": "Bot: Desprotexo tódalas imaxes da páxina %(page)s",
+	"unprotect-links": "Bot: Desprotexo tódalas páxinas ligadas desde %(page)s",
+	"unprotect-ref": "Bot: Desprotexo tódalas páxinas que ligan cara a %(page)s",
+	"unprotect-simple": "Bot: Desprotexo unha lista de ficheiros"
 }

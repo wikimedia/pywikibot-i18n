@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"replicate_wiki-headline": "Páxinas que difiren da orixinal",
+	"replicate_wiki-missing-users": "Administradores do orixinal que faltan aquí",
+	"replicate_wiki-same-pages": "Todas as páxinas importantes son iguais",
+	"replicate_wiki-same-users": "Todos os usuarios do orixinal tamén están presentes neste wiki",
+	"replicate_wiki-summary": "Bot: Sincronización wiki desde %(source)s"
+}

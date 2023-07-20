@@ -4,6 +4,9 @@
 			"Milicevic01"
 		]
 	},
+	"replicate_wiki-headline": "Странице које се разликују од оригинала",
+	"replicate_wiki-missing-users": "Админи из оригинала којих нема овде",
 	"replicate_wiki-same-pages": "Све важне странице су исте",
+	"replicate_wiki-same-users": "Сви корисници из оригинала су такође присутни на овом викију",
 	"replicate_wiki-summary": "Бот: усклађено са %(source)s."
 }
