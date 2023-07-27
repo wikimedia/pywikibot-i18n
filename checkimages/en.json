@@ -11,6 +11,8 @@
 	"checkimages-doubles-file-comment": "Bot: File already on Commons, may be deleted",
 	"checkimages-doubles-head": "Duplicate file",
 	"checkimages-doubles-talk-comment": "Bot: Notify that the file already exists on Commons",
+	"checkimages-forced-mode": "('''forced mode''')",
+	"checkimages-has-duplicates": "has the following duplicates%(force)s:",
 	"checkimages-log-comment": "Bot: Updating the log",
 	"checkimages-no-license-head": "Image without license",
 	"checkimages-source-tag-comment": "Bot: Marking newly uploaded untagged file",
