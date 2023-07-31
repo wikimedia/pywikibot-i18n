@@ -11,6 +11,8 @@
 	"checkimages-doubles-file-comment": "בוט: קובץ קיים כבר בוויקישיתוף, ייתכן שהוא יימחק",
 	"checkimages-doubles-head": "קובץ כפול",
 	"checkimages-doubles-talk-comment": "בוט: מודיע על קובץ שכבר קיים בוויקישיתוף",
+	"checkimages-forced-mode": "('''מצב מאולץ''')",
+	"checkimages-has-duplicates": "יש בה את הכפילויות הבאות%(force)s:",
 	"checkimages-log-comment": "בוט: עדכון יומן",
 	"checkimages-no-license-head": "תמונה ללא רשיון",
 	"checkimages-source-tag-comment": "בוט: סימון קובץ חדש שהועלה ללא תיוג",

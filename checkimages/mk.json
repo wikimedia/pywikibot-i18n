@@ -8,6 +8,8 @@
 	"checkimages-doubles-file-comment": "Бот: Податотеката е веќе на Ризницата, може да биде избришана",
 	"checkimages-doubles-head": "Дуплирана податотека",
 	"checkimages-doubles-talk-comment": "Бот: Известување дека податотеката веќе постои на Ризницата",
+	"checkimages-forced-mode": "(''''принуден режим'''')",
+	"checkimages-has-duplicates": "ги има следниве дупликати%(force)s:",
 	"checkimages-log-comment": "Бот: Поднова на дневникот",
 	"checkimages-no-license-head": "Слика без лиценца",
 	"checkimages-source-tag-comment": "Бот: Се означува новоподновената неозначена податотека",

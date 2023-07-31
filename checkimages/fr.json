@@ -14,6 +14,8 @@
 	"checkimages-doubles-file-comment": "Robot : fichier déjà sur Commons, peut être supprimé",
 	"checkimages-doubles-head": "Fichier dupliqué",
 	"checkimages-doubles-talk-comment": "Robot : notification que le fichier existe déjà sur Commons",
+	"checkimages-forced-mode": "('''mode forcé''')",
+	"checkimages-has-duplicates": "a les doublons suivants%(force)s :",
 	"checkimages-log-comment": "Robot : mise à jour du journal",
 	"checkimages-no-license-head": "Image sans licence",
 	"checkimages-source-tag-comment": "Robot : marquage d’un fichier nouvellement téléversé sans balise",

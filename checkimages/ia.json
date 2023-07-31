@@ -8,6 +8,8 @@
 	"checkimages-doubles-file-comment": "Robot: File es jam sur Commons, pote esser delite",
 	"checkimages-doubles-head": "File duplicate",
 	"checkimages-doubles-talk-comment": "Robot: Notifica que le file jam existe sur Commons",
+	"checkimages-forced-mode": "('''modo fortiate''')",
+	"checkimages-has-duplicates": "ha le sequente duplicatos%(force)s:",
 	"checkimages-log-comment": "Robot: Actualisa le registro",
 	"checkimages-no-license-head": "Imagine sin licentia",
 	"checkimages-source-tag-comment": "Robot: Marca un file novemente incargate sin etiquetta",

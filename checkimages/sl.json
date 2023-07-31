@@ -8,6 +8,8 @@
 	"checkimages-doubles-file-comment": "Bot: Datoteka je že v Zbirki, lahko se izbriše",
 	"checkimages-doubles-head": "Podvojena datoteka",
 	"checkimages-doubles-talk-comment": "Bot: obvestilo, da datoteka že obstaja v Zbirki",
+	"checkimages-forced-mode": "('''prisilni način''')",
+	"checkimages-has-duplicates": "ima naslednje dvojnike%(force)s:",
 	"checkimages-log-comment": "Bot: posodabljanje dnevnika",
 	"checkimages-no-license-head": "Slika brez licence",
 	"checkimages-source-tag-comment": "Bot: označevanje na novo naložene neoznačene datoteke",
