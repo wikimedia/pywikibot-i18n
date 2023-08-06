@@ -11,6 +11,7 @@
 	"checkimages-doubles-file-comment": "Bot: File already on Commons, may be deleted",
 	"checkimages-doubles-head": "Duplicate file",
 	"checkimages-doubles-talk-comment": "Bot: Notify that the file already exists on Commons",
+	"checkimages-doubles-talk-text": "Thank you for uploading %(upload)s. However, this file is a copy of %(image)s. The Bot has marked as a duplicate the file that was found to be least used or most recent. If you deem it more appropriate to leave the file marked as to be deleted immediately, feel free to delete the duplicate files and remove the deletion template from the one to be left. This is an automated message from %(bot)s.",
 	"checkimages-forced-mode": "('''forced mode''')",
 	"checkimages-has-duplicates": "has the following duplicates%(force)s:",
 	"checkimages-log-comment": "Bot: Updating the log",

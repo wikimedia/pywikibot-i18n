@@ -10,6 +10,7 @@
 	"checkimages-doubles-file-comment": "Edit summary used by the bot while it reports a problem in the file page",
 	"checkimages-doubles-head": "Head of the report given to the uploader",
 	"checkimages-doubles-talk-comment": "Edit summary used by the bot while it reports the problem in the uploader's talk page",
+	"checkimages-doubles-talk-text": "Uploader notification if the uploaded file has duplicates on image repository",
 	"checkimages-forced-mode": "Report is generated in force mode",
 	"checkimages-has-duplicates": "Report that an image has several duplicates",
 	"checkimages-log-comment": "Edit summary for the checkimages' report",
