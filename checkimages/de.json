@@ -10,7 +10,7 @@
 	"checkimages-doubles-file-comment": "Bot: Datei liegt bereits auf Commons, kann gelöscht werden",
 	"checkimages-doubles-head": "Datei-Duplikat",
 	"checkimages-doubles-talk-comment": "Bot: Benachrichtigung, dass die Datei bereits auf Commons vorhanden ist",
-	"checkimages-doubles-talk-text": "Vielen Dank für das Hochladen von %(upload)s. Diese Datei ist jedoch eine Kopie von %(image)s. Der Bot hat die Datei, die am wenigsten verwendet wurde oder aktuell war, als Duplikat markiert. Wenn Sie es für angebrachter halten, die Datei als sofort zu löschend markiert zu belassen, können Sie die doppelten Dateien löschen und die Löschvorlage von der zu belassenden Datei entfernen. Dies ist eine automatisierte Nachricht von %(bot)s.",
+	"checkimages-doubles-talk-text": "Vielen Dank für das Hochladen von %(upload)s. Diese Datei ist jedoch eine Kopie von:%(image)sDer Bot hat die Datei, die am wenigsten verwendet wurde oder aktuell war, als Duplikat markiert. Wenn Sie es für angebrachter halten, die Datei als sofort zu löschend markiert zu belassen, können Sie die doppelten Dateien löschen und die Löschvorlage von der zu belassenden Datei entfernen. Dies ist eine automatisierte Nachricht von %(bot)s.",
 	"checkimages-log-comment": "Bot: Aktualisiere das Log",
 	"checkimages-no-license-head": "Bild ohne Lizenz",
 	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
