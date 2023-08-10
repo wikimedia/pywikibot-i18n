@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ktchankt"
+			"Ktchankt",
+			"Winston Sung"
 		]
 	},
 	"interwiki-adding": "機械人 加: %(adding)s",

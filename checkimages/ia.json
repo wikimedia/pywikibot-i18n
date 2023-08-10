@@ -8,6 +8,7 @@
 	"checkimages-doubles-file-comment": "Robot: File es jam sur Commons, pote esser delite",
 	"checkimages-doubles-head": "File duplicate",
 	"checkimages-doubles-talk-comment": "Robot: Notifica que le file jam existe sur Commons",
+	"checkimages-doubles-talk-text": "Gratias pro haber incargate %(upload)s. Nonobstante, iste file es un copia de %(image)s. Le robot ha marcate como duplicato le file le minus usate o le plus recente. Si tu pensa que es plus appropriate lassar le file marcate como debente esser delite immediatemente, sia libere de deler le files duplicate e remover le patrono de deletion del file restante. Isto es un message automatic de %(bot)s.",
 	"checkimages-forced-mode": "('''modo fortiate''')",
 	"checkimages-has-duplicates": "ha le sequente duplicatos%(force)s:",
 	"checkimages-log-comment": "Robot: Actualisa le registro",
