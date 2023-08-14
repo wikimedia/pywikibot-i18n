@@ -8,6 +8,7 @@
 	"checkimages-doubles-file-comment": "Bot: Datoteka je že v Zbirki, lahko se izbriše",
 	"checkimages-doubles-head": "Podvojena datoteka",
 	"checkimages-doubles-talk-comment": "Bot: obvestilo, da datoteka že obstaja v Zbirki",
+	"checkimages-doubles-talk-text": "Hvala, ker ste naložili %(upload)s. Vendar je ta datoteka kopija :%(image)sBot je označil kot dvojnik datoteko, za katero je ugotovil, da je najmanj uporabljena ali najnovejša. Če se vam zdi datoteko, označeno za takojšnji izbris, primerneje pustiti, lahko izbrišete podvojene datoteke in odstranite predlogo za izbris iz tiste, ki jo želite pustiti. To je samodejno sporočilo %(bot)s.",
 	"checkimages-forced-mode": "('''prisilni način''')",
 	"checkimages-has-duplicates": "ima naslednje dvojnike%(force)s:",
 	"checkimages-log-comment": "Bot: posodabljanje dnevnika",

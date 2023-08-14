@@ -11,7 +11,7 @@
 	"checkimages-doubles-file-comment": "Bot: file già su Commons, può essere cancellato",
 	"checkimages-doubles-head": "File doppio",
 	"checkimages-doubles-talk-comment": "Bot: notifico il file doppio trovato",
-	"checkimages-doubles-talk-text": "Grazie per aver caricato %s(upload)s. Tuttavia, questo file risulta una copia di:%s(image)sIl Bot ha segnato come doppione il file che è risultato essere meno utilizzato o più recente. Nel caso ritenessi più appropriato lasciare il file segnalato come da cancellare immediatamente, sentiti libero di mettere in cancellazione i file doppi e togliere il template di cancellazione da quello da lasciare. Questo è un messaggio automatico di %(bot)s.",
+	"checkimages-doubles-talk-text": "Grazie per aver caricato %(upload)s. Tuttavia, questo file risulta una copia di: %(image)s. Il bot ha contrassegnato come duplicato il file che è risultato essere meno utilizzato o più recente. Nel caso ritenessi più appropriato mantenere il file segnalato come da cancellare immediatamente, sentiti libero di mettere in cancellazione i file doppi e togliere il template di cancellazione da quello da mantenere. Questo è un messaggio automatico di %(bot)s.",
 	"checkimages-log-comment": "Bot: aggiorno il log",
 	"checkimages-no-license-head": "File senza licenza",
 	"checkimages-source-tag-comment": "Bot: Aggiungo unverified",

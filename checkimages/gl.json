@@ -10,6 +10,7 @@
 	"checkimages-doubles-file-comment": "Bot: Ficheiro xa presente en Commons, pode que se elimine",
 	"checkimages-doubles-head": "Ficheiro duplicado",
 	"checkimages-doubles-talk-comment": "Bot: Notifico que o ficheiro xa existe en Commons",
+	"checkimages-doubles-talk-text": "Grazas para subir %(upload)s. Con todo, este ficheiro é unha copia de:%(image)sO bot marcou como duplicado o ficheiro menos utilizado ou máis recente. Se considera máis apropiado deixar o ficheiro marcado para a súa eliminación inmediata, sexa libre de borrar os ficheiros duplicados e quitar o modelo de borrado no ficheiro que vai quedar. Isto é unha mensaxe automatizada de %(bot)s.",
 	"checkimages-forced-mode": "('''modo forzado''')",
 	"checkimages-has-duplicates": "ten os seguintes duplicados%(force)s:",
 	"checkimages-log-comment": "Bot: Actualizo o rexistro",
