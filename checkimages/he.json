@@ -11,6 +11,7 @@
 	"checkimages-doubles-file-comment": "בוט: קובץ קיים כבר בוויקישיתוף, ייתכן שהוא יימחק",
 	"checkimages-doubles-head": "קובץ כפול",
 	"checkimages-doubles-talk-comment": "בוט: מודיע על קובץ שכבר קיים בוויקישיתוף",
+	"checkimages-doubles-talk-text": "תודה שהעלית את %(upload)s. עם זאת, הקובץ הזה הוא עותק של:%(image)sהבוט סימן בתור כפול את הקובץ שנמצא בשימוש הכי פחות או החדש ביותר. אם נראה לך נכון יותר להשאיר את הקובץ מסומן כקובץ שיש למחוק באופן מיידי, אין צורך להסס למחוק את הקבצים הכפולים ולהסיר את תבנית המחיקה מהקובץ שיישאר. זוהי הודעה אוטומטית מאת %(bot)s.",
 	"checkimages-forced-mode": "('''מצב מאולץ''')",
 	"checkimages-has-duplicates": "יש בה את הכפילויות הבאות%(force)s:",
 	"checkimages-log-comment": "בוט: עדכון יומן",
