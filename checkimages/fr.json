@@ -14,7 +14,7 @@
 	"checkimages-doubles-file-comment": "Robot : fichier déjà sur Commons, peut être supprimé",
 	"checkimages-doubles-head": "Fichier dupliqué",
 	"checkimages-doubles-talk-comment": "Robot : notification que le fichier existe déjà sur Commons",
-	"checkimages-doubles-talk-text": "Merci d’avoir téléchargé %(upload)s. Toutefois, ce fichier est une copie de %(image)s. Le robot a marqué comme doublon du fichier qui a été le moins utilisé ou le plus récent. Si vous pensez qu’il est plus approprié de laisser le fichier marqué comme devant être supprimé immédiatement, sentez-vous libre de supprimer les fichiers dupliqués et supprimer le modèle de suppression de celui à conserver. Ceci est un message automatique de %(bot)s.",
+	"checkimages-doubles-talk-text": "Merci d’avoir téléchargé %(upload)s. Toutefois, ce fichier est une copie de :%(image)sLe robot a marqué comme doublon du fichier qui a été le moins utilisé ou le plus récent. Si vous pensez qu’il est plus approprié de laisser le fichier marqué comme devant être supprimé immédiatement, sentez-vous libre de supprimer les fichiers dupliqués et supprimer le modèle de suppression de celui à conserver. Ceci est un message automatique de %(bot)s.",
 	"checkimages-forced-mode": "('''mode forcé''')",
 	"checkimages-has-duplicates": "a les doublons suivants%(force)s :",
 	"checkimages-log-comment": "Robot : mise à jour du journal",
