@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Baloch Afghanistan"
+			"Baloch Afghanistan",
+			"Moshtank"
 		]
 	},
 	"pywikibot-bot-prefix": "ربات:",
 	"pywikibot-cosmetic-changes": "؛ زیباسازی",
-	"pywikibot-enter-category-name": "لطفاً نام رده را وارد کنید:",
+	"pywikibot-enter-category-name": "تھرءِ ناما بہ لِکک:",
 	"pywikibot-enter-file-links-processing": "پیوند به کدام پرونده باید پردازش شود؟",
 	"pywikibot-enter-finished-browser": "هنگامی که در مرورگر پایان یافت دکمهٔ اینتر را بفشارید.",
 	"pywikibot-enter-namespace-number": "لطفاً شمارهٔ یک فضای نام را وارد کنید:",

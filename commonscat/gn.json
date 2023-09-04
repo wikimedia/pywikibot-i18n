@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"P. S. F. Freitas"
+		]
+	},
+	"commonscat-msg_change": "Bot: cambio de enlace «commonscat» de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] a [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}
