@@ -3,10 +3,11 @@
 		"authors": [
 			"Baloch Afghanistan",
 			"FarsiNevis",
+			"Moshtank",
 			"MuratTheTurkish"
 		]
 	},
-	"category_redirect-add-template": "ربات: افزودن الگوی ریدایرکت دسته برای نگهداری",
+	"category_redirect-add-template": "ربات: دستگ سرابندیءِ تَھران پہ دارگءِ واستا ھۏر کن",
 	"category_redirect-change-category": "ربات: تغییر ردهٔ تغییرمسیرداده‌شدهٔ [[:%(oldCatLink)s|%(oldCatTitle)s]] به [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "ربات نگهداری ردهٔ منتقل‌شده",
 	"category_redirect-edit-request": "این صفحه‌های محافظت‌شده به‌عنوان صفحه‌های نیازمند روزآمدسازی رده‌ها تشخیص داده شده‌اند: %(itemlist)s",

@@ -10,6 +10,7 @@
 	},
 	"category-adding": "بۆت: زیادکردنی پۆل [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(ھەروەھا لە %(alsocat)s)",
+	"category-clean": "بۆت: لابردنی پۆلی %(category)s چونکە ھەر ئێستا لەژێر %(child)s ھەیە",
 	"category-listifying": "بۆت: پێرستکردنی %(fromcat)s ({{PLURAL:%(num)d|١ بابەت|%(num)d بابەت}})",
 	"category-removing": "بۆت: لابردن لە %(oldcat)s",
 	"category-renamed": "بۆت: گوازرایەوە لە %(oldcat)s. دانەران: %(authors)s",
@@ -19,5 +20,6 @@
 	"category-strip-sort-keys": "بۆت: سڕینەوەی کلیلەکانی ڕیزکردن بۆ کارە تەواوبووەکان",
 	"category-strip-both": "بۆت: سڕینەوەی داڕێژەکانی پۆلەکان بۆ سڕینەوە و کلیلەکانی ڕیزکردن بۆ کارە تەواوبووەکان",
 	"category-version-history": "بۆت: پاشکەوتکردنی مێژووی پێداچوونەوەی %(oldcat)sی پێشوو",
+	"category-was-disbanded": "بۆت: پۆلەکە لێک ھەڵوەشاوەتەوە",
 	"category-was-moved": "بۆت: پۆل گوازرایەوە بۆ [[:Category:%(newcat)s|%(title)s]]"
 }

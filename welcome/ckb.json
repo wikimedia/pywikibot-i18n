@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aram",
 			"Asoxor",
 			"Calak",
 			"Muhammed taha"
 		]
 	},
 	"welcome-bad_username": "بۆت: ناوی بەکارھێنەرێک زیاد دەکات کە پێویستی بە پشکنین بێت.",
-	"welcome-updating": "بۆت: نوێکردنەوە لۆگ",
+	"welcome-updating": "بۆت: نوێکردنەوەی لۆگ",
 	"welcome-welcome": "بەخێربێیت!"
 }
