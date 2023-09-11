@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aram"
+		]
+	},
+	"delinker-delink": "بۆت: پەڕگەی [[%(title)s]] لابرا، چونکە لەلایەن [[:بەکارھێنەر:%(user)s]] سڕاوەتەوە: ''%(comment)s''"
+}
