@@ -3,14 +3,16 @@
 		"authors": [
 			"An13sa",
 			"EukeneFL",
+			"Juele",
 			"Theklan",
 			"Unai Fdz. de Betoño",
 			"Xabier Armendaritz",
 			"Xqt"
 		]
 	},
-	"category-adding": "Robota: [[:Kategoria:%(newcat)s|%(newcat)s]] kategoria eransten",
-	"category-also-in": "(baita ere %(alsocat)s-en)",
+	"category-adding": "Bot: [[:Category: %(newcat)s|% (newcat)s]] kategoria gehitzen",
+	"category-also-in": "(%(alsocat)s-en ere bai)",
+	"category-clean": "Bot: %(category)s kategoria ezabatzen da jada %(child)s azpian dagoelako",
 	"category-listifying": "Bot: Hemendik zerrendatzen %(fromcat)s ({{PLURAL:%(num)d|sarrera 1|%(num)d sarrerak}})",
 	"category-removing": "Robota: %(oldcat)s -tik ezabatzen",
 	"category-renamed": "Bot: Hemendik mugituta %(oldcat)s. Egileak: %(authors)s",

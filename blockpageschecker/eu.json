@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Juele",
 			"Theklan"
 		]
 	},
-	"blockpageschecker-deleting": "Bot: iraungitutako txantiloia ezabatzen"
+	"blockpageschecker-adding": "Bot: orrialdea blokeatzeko txantiloia gehitzen",
+	"blockpageschecker-modifying": "Bot: txantiloi zaharkitua aldatu",
+	"blockpageschecker-deleting": "Bot: Iraungitutako txantiloia ezabatzen"
 }
