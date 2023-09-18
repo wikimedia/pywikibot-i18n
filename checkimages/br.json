@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adriendelucca",
 			"Fulup"
 		]
 	},
@@ -8,6 +9,7 @@
 	"checkimages-doubles-file-comment": "Robot : emañ ar restr war Commons c'hoazh, gallout a ra bezañ diverket",
 	"checkimages-doubles-head": "Restr eilet",
 	"checkimages-doubles-talk-comment": "Robot : Kemmennadur emañ ar restr war Commons c'hoazh",
+	"checkimages-forced-mode": "('''mod forset''')",
 	"checkimages-log-comment": "Robot : o hizivaat ar marilh",
 	"checkimages-no-license-head": "Skeudenn hep aotre-implijout",
 	"checkimages-source-tag-comment": "Robot : o verkañ ar restroù hep tikedenn pellgarget nevez zo",
