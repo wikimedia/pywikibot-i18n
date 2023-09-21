@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Felipe L. Ewald"
+		]
+	},
+	"replicate_wiki-headline": "Páginas que diferem da original",
+	"replicate_wiki-missing-users": "Administradores do original que não estão aqui",
+	"replicate_wiki-same-pages": "Todas as páginas importantes são a mesma",
+	"replicate_wiki-same-users": "Todos os usuários do original também estão presentes nesta wiki",
+	"replicate_wiki-summary": "Bot: Sincronização da Wiki de %(source)s"
+}

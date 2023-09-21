@@ -2,13 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Eduardo Addad de Oliveira",
-			"Eduardoaddad"
+			"Eduardoaddad",
+			"Felipe L. Ewald"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Adicionando %(adding)s",
 	"checkimages-doubles-file-comment": "Robô: O arquivo já está na wiki Commons, poderá ser eliminado",
 	"checkimages-doubles-head": "Arquivo duplicado",
 	"checkimages-doubles-talk-comment": "Robô: Notificar que o arquivo já existe na wiki Commons",
+	"checkimages-doubles-talk-text": "Obrigado por fazer o upload de %(upload)s. No entanto, esse arquivo é uma cópia de: %(image)s. O Bot marcou como duplicato o arquivo que foi considerado menos usado ou mais recente. Se você considerar mais apropriado deixar o arquivo marcado para ser excluído imediatamente, sinta-se à vontade para excluir os arquivos duplicados e remover o modelo de exclusão do arquivo a ser deixado. Esta é uma mensagem automatizada de %(bot)s.",
+	"checkimages-forced-mode": "('''mode forçado''')",
+	"checkimages-has-duplicates": "tem os seguintes duplicados%(force)s:",
 	"checkimages-log-comment": "Robô: Atualizando registro",
 	"checkimages-no-license-head": "Imagem sem licença",
 	"checkimages-source-tag-comment": "Robô: Marcação de um arquivo sem etiquetas carregado recentemente",

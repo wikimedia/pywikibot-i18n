@@ -3,6 +3,7 @@
 		"authors": [
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
+			"Felipe L. Ewald",
 			"Giro720",
 			555
 		]
@@ -16,7 +17,7 @@
 	"pywikibot-enter-new-text": "Insira o novo texto:",
 	"pywikibot-enter-page-processing": "Qual página deve ser processada?",
 	"pywikibot-enter-xml-filename": "Insira o nome de arquivo do dump em XML:",
-	"pywikibot-fixes-fckeditor": "Robô: Corrigindo o HTML gerado pelo editor visual.",
+	"pywikibot-fixes-fckeditor": "Robô: Corrigindo o HTML gerado pelo editor visual",
 	"pywikibot-fixes-isbn": "Bot: Formatando ISBN",
 	"pywikibot-fixes-html": "Robô: Conversão ou correção de HTML",
 	"pywikibot-fixes-syntax": "Robô: Correção da sintaxe wiki",
