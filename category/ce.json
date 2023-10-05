@@ -10,7 +10,7 @@
 	"category-clean": "Бот: %(child)s чохь хӀинцале йолуш йолу %(category)s категори дӀайаккхар",
 	"category-listifying": "бот: кхуллуш бу могӀам ({{PLURAL:%(num)d|элементах|элементашах}}) %(fromcat)s",
 	"category-removing": "бот: йукъара йаккхар %(oldcat)s чуьра",
-	"category-renamed": "бот: %(oldcat)s чуьра дихьа йаьккхина. автораш: %(authors)s",
+	"category-renamed": "бот: %(oldcat)s чуьра дихьа йаьккхина. авторш: %(authors)s",
 	"category-replacing": "бот: хийцина категореш %(oldcat)s → %(newcat)s",
 	"category-section-title": "АгӀонан истори хила %(oldcat)s чуьра",
 	"category-strip-cfd-templates": "Бот: болх чекхбаьлла CFD-кепаш дӀайахар",

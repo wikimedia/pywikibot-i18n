@@ -1,6 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Angelika"
+		]
 	},
-	"category-adding": "робот: темен category [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "робот: темен category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-removing": "Бот: %(oldcat)s гӹц лыкмаш"
 }
