@@ -4,5 +4,6 @@
 			"Angelika"
 		]
 	},
-	"archivebot-archive-full": "(АРХИВ ЦИЦ ТЕМӸН)"
+	"archivebot-archive-full": "(АРХИВ ЦИЦ ТЕМӸН)",
+	"archivebot-older-than": "%(duration)s гӹц {{PLURAL:%(count)d|когорак}}"
 }

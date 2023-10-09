@@ -5,6 +5,7 @@
 			"Liuxinyu970226",
 			"VulpesVulpes825",
 			"XinuGod",
+			"Xyb",
 			"Yfdyh000"
 		]
 	},
@@ -16,18 +17,18 @@
 	"category_redirect-fix-double": "机器人：修正双重重定向",
 	"category_redirect-log-added": "* 已添加[[%(ns)s%(template)s]]至%(oldcat)s",
 	"category_redirect-log-add-failed": "* 未能将[[%(ns)s%(template)s]]添加至%(oldcat)s",
-	"category_redirect-log-double": "*修复双重重定向：%(oldcat)s->%(newcat)s->%(targetcat)s",
+	"category_redirect-log-double": "* 修复双重重定向：%(oldcat)s->%(newcat)s->%(targetcat)s",
 	"category_redirect-log-failed": "** 失败: %(error)s",
-	"category_redirect-log-false-positive": "*出乎意料的非重定向：%(oldcat)s",
-	"category_redirect-log-ignoring": "*无视 %(oldcat)s中",
-	"category_redirect-log-loop": "*从%(oldcat)s循环重定向",
-	"category_redirect-log-moved": "*%(oldcat)s：%(found)d被发现，%(moved)d已移动",
-	"category_redirect-log-move-error": "*%(oldcat)s：移动内容错误",
+	"category_redirect-log-false-positive": "* 出乎意料的非重定向：%(oldcat)s",
+	"category_redirect-log-ignoring": "* 忽略 %(oldcat)s",
+	"category_redirect-log-loop": "* 从%(oldcat)s循环重定向",
+	"category_redirect-log-moved": "* %(oldcat)s：找到%(found)d个，移动%(moved)d个",
+	"category_redirect-log-move-error": "* %(oldcat)s：移动内容错误",
 	"category_redirect-log-new": "从上次报告以来的新重定向：",
-	"category_redirect-log-not-loaded": "*无法加载%(oldcat)s；忽略",
-	"category_redirect-log-skipping": "*略过%(oldcat)s；在冷却期间",
+	"category_redirect-log-not-loaded": "* 无法加载%(oldcat)s；忽略",
+	"category_redirect-log-skipping": "* 略过%(oldcat)s；在冷却期间",
 	"category_redirect-older-logs": "'''[%(oldlogs)s 旧的日志]'''",
-	"category_redirect-problem-hard": "#%(oldcat)s很难重定向到%(page)s",
+	"category_redirect-problem-hard": "# %(oldcat)s是到%(page)s的硬重定向",
 	"category_redirect-problem-redirects": "# %(oldcat)s重定向至%(redpage)s",
-	"category_redirect-problem-self-linked": "#%(oldcat)s是一个自我链接重定向。"
+	"category_redirect-problem-self-linked": "# %(oldcat)s是自链接重定向"
 }

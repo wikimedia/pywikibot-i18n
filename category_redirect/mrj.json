@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Angelika"
+		]
+	},
+	"category_redirect-log-failed": "** Ӹш ли: %(error)s",
+	"category_redirect-log-ignoring": "* Игнорировани %(oldcat)s",
+	"category_redirect-log-not-loaded": "* Крузаш ӹш ли %(oldcat)s; игнорировани"
+}

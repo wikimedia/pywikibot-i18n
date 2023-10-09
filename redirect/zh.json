@@ -5,6 +5,7 @@
 			"Liangent",
 			"Linforest",
 			"Liuxinyu970226",
+			"Xyb",
 			"Yfdyh000",
 			"阿pp"
 		]
@@ -12,7 +13,7 @@
 	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "修正损坏重定向到已移动的目标页面%(to)s",
 	"redirect-fix-double": "修正双重重定向至%(to)s",
-	"redirect-fix-loop": "修正重定向循环至%(to)s",
+	"redirect-fix-loop": "修正循环重定向至%(to)s",
 	"redirect-remove-broken": "重定向到已删除或不存在的页面",
 	"redirect-remove-loop": "重定向目标构成循环"
 }

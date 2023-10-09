@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xyb"
+		]
+	},
+	"replicate_wiki-headline": "与原始页面不同的页面",
+	"replicate_wiki-missing-users": "此处缺少来自源头的管理员",
+	"replicate_wiki-same-pages": "所有重要页面都是相同的",
+	"replicate_wiki-same-users": "来自源头的所有用户也出现在这个 wiki 上",
+	"replicate_wiki-summary": "机器人：来自 %(source)s 的 Wiki 同步"
+}

@@ -10,5 +10,5 @@
 	"solve_disambiguation-redirect-adding-dn-template": "Ботан: %(from)s гӀоьнца маьӀна магор — экспертан терго оьшуш хилар бахьнехь",
 	"solve_disambiguation-redirect-removed": "МаьӀна шордар ботан гӀоьнца: %(from)s — хьажоргаш дӀайахар",
 	"solve_disambiguation-redirect-resolved": "Ботан гӀоьнца маьӀна шордар: %(from)s — хьажоргаш хийцар %(to)s тӀе",
-	"solve_disambiguation-unknown-page": "(йоьвзуш йац)"
+	"solve_disambiguation-unknown-page": "(Йевзаш йац)"
 }

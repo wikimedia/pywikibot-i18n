@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
+			"Xyb",
 			"YFdyh000",
 			"Yfdyh000"
 		]
 	},
-	"commonscat-msg_change": "机器人：更改commonscat的链接从[[:Commons:Category:%(oldcat)s|%(oldcat)s]]至[[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "机器人：将commonscat链接从[[:Commons:Category:%(oldcat)s|%(oldcat)s]]更改为[[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }
