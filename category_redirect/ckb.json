@@ -7,7 +7,26 @@
 			"ئارام بکر"
 		]
 	},
+	"category_redirect-add-template": "بۆت: زیادکردنی داڕێژەی ڕەوانەکەری پۆل بۆ چاکسازی",
+	"category_redirect-change-category": "بۆت: گۆڕینی پۆلی ڕەوانەکراو [[:%(oldCatLink)s|%(oldCatTitle)s]] بۆ [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "بۆتی چاکسازیی ڕەوانەکەری پۆل",
+	"category_redirect-edit-request": "ئەم پەڕە پارێزراوانەی خوارەوە دۆزرانەوە کە پێویستییان بە نوێکردنەوەی بەستەری پۆلەکان ھەیە: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s لەنێو %(oldcat)sدایە، کە ڕەوانەکەرێکە بۆ %(newcat)s",
 	"category_redirect-fix-double": "بۆت: چاکسازیی دووجار-ڕەوانەکەر",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] بۆ %(oldcat)s زیاد کرا",
+	"category_redirect-log-add-failed": "* زیادکردنی [[%(ns)s%(template)s]] بۆ %(oldcat)s شکستی ھێنا",
+	"category_redirect-log-double": "* چاکسازیی دوو جار ڕەوانەکردنەوە: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** شکستی ھێنا: %(error)s",
-	"category_redirect-log-ignoring": "* فەرامۆشکردنی %(oldcat)s"
+	"category_redirect-log-false-positive": "* ناڕەوانەکەرێکی چاوەڕواننەکراو: %(oldcat)s",
+	"category_redirect-log-ignoring": "* فەرامۆشکردنی %(oldcat)s",
+	"category_redirect-log-loop": "* ئەڵقەی ڕەوانەکەر لە %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d دۆزرایەوە، %(moved)d گوێزرایەوە",
+	"category_redirect-log-move-error": "* %(oldcat)s: ھەڵە لە move_contents",
+	"category_redirect-log-new": "ڕەوانەکەری نوێ لەوەتەی دوایین ڕاپۆڕت:",
+	"category_redirect-log-not-loaded": "* نەتوانرا %(oldcat)s بار بکرێت؛ فەرامۆش دەکرێ",
+	"category_redirect-log-skipping": "* %(oldcat)s دەپەڕێنرێ؛ لە ماوەی ساردبوونەوەدا",
+	"category_redirect-older-logs": "'''[%(oldlogs)s لۆگە کۆنترەکان]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s ڕەوانەکەرێکی ڕەقە بۆ %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s ڕەوانە دەکرێ بۆ %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s ڕەوانەکەرێکی بەستەردراو بە خۆی"
 }
