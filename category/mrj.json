@@ -5,6 +5,10 @@
 		]
 	},
 	"category-adding": "робот: темен category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(тенгеок %(alsocat)s-шты)",
+	"category-clean": "Бот: %(category)s категорим карангдымаш, кыды уже %(child)s-шты улы",
 	"category-removing": "Бот: %(oldcat)s гӹц лыкмаш",
-	"category-renamed": "Бот: %(oldcat)s гӹц ваштен. Авторвлӓ: %(authors)s"
+	"category-renamed": "Бот: %(oldcat)s гӹц ваштен. Авторвлӓ: %(authors)s",
+	"category-replacing": "Бот: %(newcat)s категорим %(oldcat)s вӓреш вашталтымаш",
+	"category-section-title": "Молнамшы %(oldcat)s гӹц страницӹн историжӹ"
 }
