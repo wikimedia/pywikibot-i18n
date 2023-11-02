@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"MarcoAurelio",
-			"Xuacu"
+			"Xuacu",
+			"YoaR"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Amestando %(adding)s",
-	"checkimages-doubles-file-comment": "Bot: Ficheru que yá ta en Commons, pué desaniciase",
+	"checkimages-doubles-file-comment": "Bot: Ficheru que yá ta en Commons, pue desaniciase",
 	"checkimages-doubles-head": "Ficheru duplicáu",
 	"checkimages-doubles-talk-comment": "Bot: Avisar de que'l ficheru yá esiste'n Commons",
 	"checkimages-log-comment": "Bot: Anovando'l rexistru",
