@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Avicennasis",
+			"CiphriusKane",
 			"John Reid",
 			"MarcoAurelio",
 			"Xqt"
@@ -10,6 +11,6 @@
 	"redirect-fix-broken-moved": "Fixin broken reguidal til muived target page %(to)s",
 	"redirect-fix-double": "Fixin dooble reguidal til %(to)s",
 	"redirect-fix-loop": "Fixin reguidal luip til %(to)s",
-	"redirect-remove-broken": "Reguidal til ae delytit or non-exeestent page",
+	"redirect-remove-broken": "Reguidal til ae deletit or non-existent page",
 	"redirect-remove-loop": "Reguidal tairget forms ae reguidal luip"
 }
