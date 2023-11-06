@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Avicennasis",
+			"CiphriusKane",
 			"John Reid",
 			"Xqt"
 		]
@@ -12,8 +13,8 @@
 	"category-removing": "Bot: Remuivin fae %(oldcat)s",
 	"category-renamed": "Robot: Muived fae %(oldcat)s. Authors: %(authors)s",
 	"category-replacing": "Robot: Replacin categerie %(oldcat)s wi %(newcat)s",
-	"category-section-title": "Page histerie o former %(oldcat)s",
-	"category-version-history": "Robot: Saving version histerie o former %(oldcat)s",
+	"category-section-title": "Page history o umwhile %(oldcat)s",
+	"category-version-history": "Bot: Saufin version history o umwhile %(oldcat)s",
 	"category-was-disbanded": "Bot: Categerie wis disbaundit",
 	"category-was-moved": "Robot: Categerie wis muivit tae [[:Category:%(newcat)s|%(title)s]]"
 }

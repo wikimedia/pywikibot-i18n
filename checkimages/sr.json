@@ -16,6 +16,7 @@
 	"checkimages-doubles-head": "Дупликат датотеке",
 	"checkimages-doubles-talk-comment": "Бот: обавештење о томе да датотека већ постоји на Остави.",
 	"checkimages-forced-mode": "('''форсирани режим''')",
+	"checkimages-has-duplicates": "има следеће дупликате%(force)s:",
 	"checkimages-log-comment": "Бот: ажурирање дневника.",
 	"checkimages-no-license-head": "Слика без лиценце",
 	"checkimages-source-tag-comment": "Бот: означена новоотпремљена неозначена датотека.",
