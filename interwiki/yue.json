@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"H78c67c",
 			"Ktchankt",
 			"Winston Sung"
 		]
@@ -10,7 +11,7 @@
 	"interwiki-adding-removing": "機械人 加: %(adding)s 減: %(removing)s",
 	"interwiki-adding-removing-modifying": "機械人 加: %(adding)s 減: %(removing)s 改: %(modifying)s",
 	"interwiki-modifying": "機械人 改: %(modifying)s",
-	"interwiki-modifying-from": "機械人：改緊%(from)s到%(modifying)s",
+	"interwiki-modifying-from": "機械人：改緊%(from)s做%(modifying)s",
 	"interwiki-removing": "機械人 減: %(removing)s",
 	"interwiki-removing-modifying": "機械人 減: %(removing)s 改: %(modifying)s"
 }

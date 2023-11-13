@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"H78c67c",
 			"Hello903hello",
 			"Moon0319",
 			"Winston Sung",
 			"Xqt"
 		]
 	},
-	"category-adding": "機械人: 加 category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "機械人：加分類[[:Category:%(newcat)s|%(newcat)s]]",
 	"category-was-disbanded": "機械人：呢個類唔再用",
-	"category-was-moved": "機械人：類經已畀人搬咗去[[:Category:%(newcat)s|%(title)s]]"
+	"category-was-moved": "機械人：個分類搬咗去[[:Category:%(newcat)s|%(title)s]]"
 }

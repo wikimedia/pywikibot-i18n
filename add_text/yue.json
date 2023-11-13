@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"H78c67c",
 			"Winston Sung"
 		]
 	},
-	"add_text-adding": "機械人 加 %(adding)s"
+	"add_text-adding": "機械人：加 %(adding)s"
 }
