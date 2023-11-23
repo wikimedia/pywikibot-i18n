@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ciell",
 			"HanV",
 			"McDutchie",
 			"Siebrand"
@@ -9,6 +10,6 @@
 	"protect-category": "Robot: alle pagina's uit categorie %(cat)s beveiligd",
 	"protect-images": "Robot: alle op %(page)s gebruikte bestanden beveiligd",
 	"protect-links": "Robot: alle pagina's met verwijzingen vanaf %(page)s beveiligd",
-	"protect-ref": "Bot: alle pagina's met een verwijzing naar %(page)s beveiligen",
+	"protect-ref": "Bot: alle pagina’s met een verwijzing naar %(page)s beveiligd",
 	"protect-simple": "Robot: lijst met bestanden beveiligd"
 }

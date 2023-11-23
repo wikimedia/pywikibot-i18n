@@ -9,6 +9,6 @@
 	"unprotect-category": "Robot: beveiliging voor alle pagina's uit categorie %(cat)s opgeheven",
 	"unprotect-images": "Robot: beveiliging van alle bestanden op pagina %(page)s opgeheven",
 	"unprotect-links": "Robot: beveiliging van alle vanaf %(page)s gekoppelde pagina's opgeheven",
-	"unprotect-ref": "Bot: beveiliging van alle pagina's met een koppeling naar %(page)s opheffen",
+	"unprotect-ref": "Robot: beveiliging van alle pagina’s met een koppeling naar %(page)s opgeheven",
 	"unprotect-simple": "Robot: beveiliging van een lijst met bestanden opgeheven"
 }

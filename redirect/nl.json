@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ciell",
 			"HanV",
 			"Krinkle",
 			"McDutchie",
@@ -8,9 +9,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{nuweg|Weesdoorverwijzing of doorverwijzing naar verwijderde pagina}}",
-	"redirect-fix-broken-moved": "kapotte doorverwijzing gecorrigeerd door aanpassing naar hernoemde doelpagina %(to)s",
-	"redirect-fix-double": "dubbele doorverwijzing gecorrigeerd naar %(to)s",
-	"redirect-fix-loop": "doorverwijs-lus naar %(to)s gecorrigeerd",
+	"redirect-fix-broken-moved": "Gebroken doorverwijzing gecorrigeerd door aanpassing naar hernoemde doelpagina %(to)s",
+	"redirect-fix-double": "Dubbele doorverwijzing gecorrigeerd tot %(to)s",
+	"redirect-fix-loop": "Doorverwijslus gecorrigeerd tot %(to)s",
 	"redirect-remove-broken": "Doorverwijzing naar een verwijderde of niet-bestaande pagina",
-	"redirect-remove-loop": "het doel van de doorverwijzing vormt een doorverwijzingslus"
+	"redirect-remove-loop": "Het doel van de doorverwijzing vormt een doorverwijslus"
 }

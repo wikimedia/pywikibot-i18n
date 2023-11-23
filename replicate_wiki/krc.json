@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"replicate_wiki-headline": "Оригиналдан башхалыкълары болгъан бет",
+	"replicate_wiki-missing-users": "Былайда болмагъан, оригиналдан администраторла",
+	"replicate_wiki-same-pages": "Бютеу магъаналы бетле бирчадыла",
+	"replicate_wiki-same-users": "Оригиналдагъы бютеу хайырланыучула, бу викиде да бардыла",
+	"replicate_wiki-summary": "Bot: %(source)s бла вики синхронизация"
+}

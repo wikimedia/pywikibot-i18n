@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ciell",
+			"McDutchie"
+		]
+	},
+	"replicate_wiki-headline": "Pagina’s die afwijken van het origineel",
+	"replicate_wiki-missing-users": "Moderators van het origineel die hier ontbreken",
+	"replicate_wiki-same-pages": "Alle belangrijke pagina’s zijn hetzelfde",
+	"replicate_wiki-same-users": "Alle gebruikers van het origineel zijn ook aanwezig op deze wiki",
+	"replicate_wiki-summary": "Bot: Wiki-synchronisatie van %(source)s"
+}

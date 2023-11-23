@@ -7,7 +7,7 @@
 	},
 	"category-adding": "робот: къошду category [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(%(alsocat)s категорияда да)",
-	"category-clean": "Бот: %(child)s бар болгъан %(category)s категория кетериледи",
+	"category-clean": "Бот: %(child)s бар болгъаны ючюн %(category)s категория кетериледи",
 	"category-listifying": "Бот: %(fromcat)s бетден башлаб (%(num)d кирди) тизмеленеди",
 	"category-removing": "Бот: %(oldcat)s категориясындан къоратылады",
 	"category-renamed": "Бот: %(oldcat)s къоратылды. Авторла: %(authors)s",
