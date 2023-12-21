@@ -5,5 +5,5 @@
 			"Upwinxp"
 		]
 	},
-	"delinker-delink": "Bot: Datoteka [[%(title)s]] je bila odstranjena ali pa jo je izbrisal/a [[:User:%(user)s]]: ''%(comment)s''"
+	"delinker-delink": "Bot: Datoteka [[%(title)s]] je bila odstranjena ali pa jo je izbrisal_a [[:User:%(user)s]]: ''%(comment)s''"
 }
