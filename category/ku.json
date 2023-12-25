@@ -10,7 +10,12 @@
 	},
 	"category-adding": "Bot: Kategorî tê zêdekirin [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(herwiha di %(alsocat)s)",
+	"category-clean": "Bot: Kategorî %(category)ş hat jêbirin ji ber ku ew binkategoriya %(child)s e",
+	"category-listifying": "Bot: Lîsteyeke rûpelan ({{Plural:%(num)d|1 gotar|%(num)d gotaran) ji %(fromcat)s hat çêkirin",
 	"category-removing": "Bot: Ji kategoriya %(oldcat)s tê rakirin",
+	"category-renamed": "Bot: Ji %(oldcat)s hat barkirin. Çêker: %(authors)s",
 	"category-replacing": "Bot: %(oldcat)s wek %(newcat)s biguherîne",
+	"category-section-title": "Dîroka rûpelê ya %(oldcat)s kevn",
+	"category-strip-cfd-templates": "Bot: Şablonên daxwazan ji bo aksiyonên temamkirî hat jêbirin",
 	"category-was-disbanded": "Bot: Bikaranîna kategorîye hat dawîkirin"
 }

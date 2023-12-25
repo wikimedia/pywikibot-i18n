@@ -1,8 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
+			"Balyozxane",
 			"Ghybu"
 		]
 	},
-	"category_redirect-fix-double": "Robot: Fixing double-redirect"
+	"category_redirect-add-template": "Bot: Şablona beralîkirina kategoriyê lê hat zêdekirin",
+	"category_redirect-change-category": "Bot: Kategorî ji [[:%(oldCatLink)s|%(oldCatTitle)s]] ber bi [[:%(newCatLink)s|%(newCatTitle)s]] ve hat beralîkirin",
+	"category_redirect-comment": "Bota sererastkirina beralîkirinên kategoriyan",
+	"category_redirect-edit-request": "Ev lîsteya rûpelên parastî hewce ne ku kategoriyan wan werin sererastkirin: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s di kategoriya %(oldcat)s de ye lê ev kategorî beralî dike %(newcat)s",
+	"category_redirect-fix-double": "Bot: Beralîkirina ducarî hat sererastkirin",
+	"category_redirect-log-added": "* Şablona [[%(ns)s%(template)s]] li rûpela %(oldcat)s hat zêdekirin",
+	"category_redirect-log-add-failed": "* Zêdekirina şablona [[%(ns)s%(template)s]] rûpela li %(oldcat)s têk çû",
+	"category_redirect-log-double": "* Beralîkirina ducarî hat sererastkirin: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Têk çû: %(error)s",
+	"category_redirect-log-false-positive": "* Ne-beralîkirina nehêvîkirî: %(oldcat)s",
+	"category_redirect-log-ignoring": "* %(oldcat)s tê tine hesibandin",
+	"category_redirect-log-loop": "* Çerxa beralîkirinê ji %(oldcat)s"
 }
