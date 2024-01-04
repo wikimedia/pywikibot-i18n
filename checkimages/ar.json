@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
+			"Sandra Hanbo",
 			"xqt"
 		]
 	},
@@ -9,6 +10,9 @@
 	"checkimages-doubles-file-comment": "بوت: الملف موجود في كومنز، يمكن حذفه",
 	"checkimages-doubles-head": "ملف مكرر",
 	"checkimages-doubles-talk-comment": "بوت: إخطار أن الملف موجود فعلا في كومنز",
+	"checkimages-doubles-talk-text": "شكرًا لتحميلك %(upload)s. ومع ذلك، هذا الملف عبارة عن نسخة من:%(image)s قام البوت بوضع علامة على الملف المكرر باعتباره الملف الأقل استخدامًا أو الأحدث. إذا رأيت أنه من المناسب ترك الملف محددًا بأنه سيتم حذفه على الفور، فلا تتردد في حذف الملفات المكررة وإزالة قالب الحذف من القالب الذي سيتم تركه. هذه رسالة تلقائية من %(bot)s.",
+	"checkimages-forced-mode": "('''الوضع القسري''')",
+	"checkimages-has-duplicates": "يحتوي على التكرارات التالية%(force)s:",
 	"checkimages-log-comment": "بوت: تحديث السجل",
 	"checkimages-no-license-head": "صورة بدون ترخيص",
 	"checkimages-source-tag-comment": "بوت: التعليم على ملف مرفوع حديثا غير موسوم",
