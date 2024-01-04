@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sandra Hanbo"
+		]
+	},
+	"replicate_wiki-headline": "صفحات تختلف عن الأصلية",
+	"replicate_wiki-missing-users": "الإداريون من الأصل المفقودون هنا",
+	"replicate_wiki-same-pages": "جميع الصفحات المهمة هي نفسها",
+	"replicate_wiki-same-users": "جميع المستخدمين من الأصل موجودون أيضًا على هذا الويكي",
+	"replicate_wiki-summary": "بوت: مزامنة الويكي من %(source)s"
+}

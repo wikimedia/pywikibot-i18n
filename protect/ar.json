@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meno25"
+			"Meno25",
+			"Sandra Hanbo"
 		]
 	},
 	"protect-category": "بوت: حماية كل الصفحات من التصنيف %(cat)s",
 	"protect-images": "بوت: حماية كل الصور في الصفحة %(page)s",
 	"protect-links": "بوت: حماية كل الصفحات الموصولة من %(page)s",
-	"protect-ref": "بوت: حماية كل الصفحات الراجعة من %(page)s",
+	"protect-ref": "بوت: رفع حماية كل الصفحات التي ترجع من %(page)s",
 	"protect-simple": "بوت: حماية قائمة من الملفات."
 }
