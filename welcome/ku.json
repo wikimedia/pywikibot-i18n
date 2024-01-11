@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Balyozxane",
 			"George Animal"
 		]
 	},
+	"welcome-bad_username": "Bot: navê bikarhêneriyê yê ku divê were kontrolkirin lê hat zêdekirin",
+	"welcome-updating": "Bot: Qeyd hat rojanekirin",
 	"welcome-welcome": "Tu bi xêr hatî!"
 }

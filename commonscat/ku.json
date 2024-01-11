@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Balyozxane"
+		]
+	},
+	"commonscat-msg_change": "Bot: Lînka commonscatê ji [[:Commons:Category:%(oldcat\n)s|%(oldcat)s]] bo [[:Commons:Category:%(newcat)s|%(newcat)s]] hat guhartin"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Balyozxane"
+		]
+	},
+	"template-changing": "Bot: {{PLURAL:%(num)d|şablon tê|şablonan tên}} guhartin: %(list)s",
+	"template-removing": "Bot: {{PLURAL:%(num)d|şablon tê|şablon tên}} rakirin: %(list)s",
+	"template-substituting": "Bot: subst: li pêşiya {{PLURAL:%(num)d|şablonê tê|şablonan tên}} zêdekirin: %(list)s"
+}

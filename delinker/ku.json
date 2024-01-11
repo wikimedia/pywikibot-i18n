@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Balyozxane"
+		]
+	},
+	"delinker-delink": "Bot: Dosyeya [[%(title)s]] hat rakirin ji ber ku ji aliyê [[:User:%(user)s]] ve hatiye jêbirin: ''%(comment)s''"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Balyozxane"
+		]
+	},
+	"image-remove": "Bot: Wêneyê %(file)s hat jêbirin",
+	"image-replace": "Bot: Wêneyê %(old)s bi %(new)s hat guhartin"
+}

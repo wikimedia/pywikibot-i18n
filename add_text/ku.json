@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Balyozxane"
+		]
 	},
-	"add_text-adding": "robot serzêde kirin %(adding)s"
+	"add_text-adding": "Bot: %(adding)s lê hat zêdekirin"
 }

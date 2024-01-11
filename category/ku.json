@@ -8,14 +8,18 @@
 			"Ghybu"
 		]
 	},
-	"category-adding": "Bot: Kategorî tê zêdekirin [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-also-in": "(herwiha di %(alsocat)s)",
-	"category-clean": "Bot: Kategorî %(category)ş hat jêbirin ji ber ku ew binkategoriya %(child)s e",
-	"category-listifying": "Bot: Lîsteyeke rûpelan ({{Plural:%(num)d|1 gotar|%(num)d gotaran) ji %(fromcat)s hat çêkirin",
-	"category-removing": "Bot: Ji kategoriya %(oldcat)s tê rakirin",
+	"category-adding": "Bot: Kategoriya [[:Category:%(newcat)s|%(newcat)s]] lê hat zêdekirin",
+	"category-also-in": "(herwiha di %(alsocat)s) de",
+	"category-clean": "Bot: Kategoriya %(category)s hat rakirin ji ber ku ew binkategoriya %(child)s e",
+	"category-listifying": "Bot: Lîsteyeke rûpelan ({{Plural:%(num)d|1 gotar|%(num)d gotaran}}) ji %(fromcat)s hat çêkirin",
+	"category-removing": "Bot: Ji kategoriya %(oldcat)s hat rakirin",
 	"category-renamed": "Bot: Ji %(oldcat)s hat barkirin. Çêker: %(authors)s",
-	"category-replacing": "Bot: %(oldcat)s wek %(newcat)s biguherîne",
+	"category-replacing": "Bot: %(oldcat)s wek %(newcat)s hat guhartin",
 	"category-section-title": "Dîroka rûpelê ya %(oldcat)s kevn",
-	"category-strip-cfd-templates": "Bot: Şablonên daxwazan ji bo aksiyonên temamkirî hat jêbirin",
-	"category-was-disbanded": "Bot: Bikaranîna kategorîye hat dawîkirin"
+	"category-strip-cfd-templates": "Bot: Şablonên daxwazan ji bo aksiyonên temamkirî hat rakirin",
+	"category-strip-sort-keys": "Bot: Ji bo aksiyonên temamkirî kilîdên rêzkirinê hat rakirin",
+	"category-strip-both": "Bot: Ji bo aksiyonên temamkirî şablonên daxwazan û kilîdên rêzkirinê hat jêbirin",
+	"category-version-history": "Bot: Dîroka rûpelê ya %(oldcat)s hat qeydkirin",
+	"category-was-disbanded": "Bot: Bikaranîna kategoriyê hat terikandin",
+	"category-was-moved": "Bot: Kategorî li rûpela [[:Category:%(newcat)s|%(title)s]] hat barkirin"
 }
