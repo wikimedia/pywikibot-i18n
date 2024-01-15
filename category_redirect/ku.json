@@ -18,7 +18,7 @@
 	"category_redirect-log-false-positive": "* Ne-beralîkirina nehêvîkirî: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s tê tine hesibandin",
 	"category_redirect-log-loop": "* Çerxa beralîkirinê ji %(oldcat)s",
-	"category_redirect-log-moved": "* %(oldcat)s: %(found)d hat dîtin, li %(moved)d hat barkirin",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d hat(in) dîtin, %(moved)d hat(in) barkirin",
 	"category_redirect-log-move-error": "* %(oldcat)s: barkirina naverokê têk çû",
 	"category_redirect-log-new": "Beralîkirinên nû ji rapora dawî ve:",
 	"category_redirect-log-not-loaded": "* Barkirina %(oldcat)s têk çû; tine tê hesibandin",
@@ -26,5 +26,5 @@
 	"category_redirect-older-logs": "'''[%(oldlogs)s Qeydên kevn]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s beralîkirineke hişk ji bo %(page)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s beralî dike %(redpage)s",
-	"category_redirect-problem-self-linked": "# %(oldcat)s ji xwe re beralî dike"
+	"category_redirect-problem-self-linked": "# %(oldcat)s beraliya xwe dike"
 }

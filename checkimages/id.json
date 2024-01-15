@@ -3,6 +3,7 @@
 		"authors": [
 			"ArlandGa",
 			"Beeyan",
+			"Daud I.F. Argana",
 			"Hidayatsrf",
 			"Rachmat.Wahidi",
 			"Rachmat04"
@@ -12,6 +13,9 @@
 	"checkimages-doubles-file-comment": "Bot: Berkas yang sudah ada di Commons dapat dihapus",
 	"checkimages-doubles-head": "Berkas duplikat",
 	"checkimages-doubles-talk-comment": "Bot: Beri tahukan jika berkas sudah ada di Commons",
+	"checkimages-doubles-talk-text": "Terima kasih telah mengunggah %(upload)s. Namun, berkas ini adalah salinan dari:%(image)sBot telah menandai sebagai duplikat berkas yang ditemukan paling jarang digunakan atau paling baru. Jika Anda menganggap lebih tepat untuk membiarkan berkas ditandai untuk segera dihapus, silakan hapus berkas duplikat dan hapus templat penghapusan dari berkas yang tersisa. Ini adalah pesan otomatis dari %(bot)s.",
+	"checkimages-forced-mode": "('''mode paksa''')",
+	"checkimages-has-duplicates": "memiliki duplikat%(force)s berikut:",
 	"checkimages-log-comment": "Bot: Memperbarui log",
 	"checkimages-no-license-head": "Gambar tanpa lisensi",
 	"checkimages-source-tag-comment": "Bot: Tandai berkas tanpa tag yang baru diunggah",

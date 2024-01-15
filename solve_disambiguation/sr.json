@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Acamicamacaraca",
+			"Milicevic01",
 			"Rancher"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "Разрешење значења помоћу бота: %(from)s – означено као „потребна пажња стручњака“",
-	"solve_disambiguation-links-removed": "Разрешење значења помоћу бота: %(from)s – уклоњене везе",
-	"solve_disambiguation-links-resolved": "Разрешење значења помоћу бота: %(from)s – промењене везе у %(to)s",
-	"solve_disambiguation-redirect-adding-dn-template": "Разрешење значења помоћу бота: %(from)s – означено као „потребна пажња стручњака“",
-	"solve_disambiguation-redirect-removed": "Разрешење значења помоћу бота: %(from)s – уклоњене везе",
-	"solve_disambiguation-redirect-resolved": "Разрешење значења помоћу бота: %(from)s – промењене везе у %(to)s",
+	"solve_disambiguation-adding-dn-template": "Рашчлањивање помоћу бота: %(from)s – означено као „потребна пажња стручњака”.",
+	"solve_disambiguation-links-removed": "Рашчлањивање помоћу бота: %(from)s – уклоњене везе.",
+	"solve_disambiguation-links-resolved": "Рашчлањивање помоћу бота: %(from)s у %(to)s.",
+	"solve_disambiguation-redirect-adding-dn-template": "Рашчлањивање помоћу бота: %(from)s – означено као „потребна пажња стручњака”.",
+	"solve_disambiguation-redirect-removed": "Рашчлањивање помоћу бота: %(from)s – уклоњене везе.",
+	"solve_disambiguation-redirect-resolved": "Рашчлањивање помоћу бота: %(from)s у %(to)s.",
 	"solve_disambiguation-unknown-page": "(непознато)"
 }
