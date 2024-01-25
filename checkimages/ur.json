@@ -6,9 +6,9 @@
 			"xqt"
 		]
 	},
-	"checkimages-deletion-comment": "روبالہ: اضافہ %(adding)s",
-	"checkimages-log-comment": "روبالہ: تجدید نوشتہ",
-	"checkimages-no-license-head": "تصویر بدون اجازہ",
+	"checkimages-deletion-comment": "خودکار: اضافہ %(adding)s",
+	"checkimages-log-comment": "خودکار: تجدید نوشتہ",
+	"checkimages-no-license-head": "تصویر بدون اجازت نامہ",
 	"checkimages-source-tag-comment": "خودکار: جدید اپلوڈ کردہ اور غیر ٹیگ شدہ فائل کی نشان زدگی",
 	"checkimages-source-notice-comment": "خودکار: درخواست ماخذ معلومات",
 	"checkimages-unknown-extension-head": "نامعلوم توسیع!",
