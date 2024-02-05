@@ -9,5 +9,5 @@
 	"delete-from-file": "Bot: Lîsteyeka rûpelan jê dibe.",
 	"delete-images": "Bot: Hemû wêneyên li rûpela %(page)s tê jêbirin",
 	"delete-linked-pages": "Bot: Hemû rûpelên bi lînkên ji rûpela %(page)s tên jêbirin",
-	"delete-referring-pages": "Bot: Hemû rûpelên ji %(page)s bi tehmînkirinê tên jêbirin"
+	"delete-referring-pages": "Bot: Hemû rûpelên li %(page)s tên behskirin hatin jêbirin"
 }

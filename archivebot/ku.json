@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARŞÎV TIJÎ YE)",
-	"archivebot-archive-summary": "Bot: %(count)d {{PLURAL:%(count)d|gotûbêj|gotûbêjan}} ji %(from)s hat arşîvkirin",
-	"archivebot-older-than": "ji %(duration)s {{PLURAL\n:%(count)d|kevntir}}",
-	"archivebot-page-summary": "Bot: {{PLURAL:%(count)d|gotûbêj|gotûbêjan}} li %(archives)s %(why)s hat arşîvkirin"
+	"archivebot-archive-summary": "Bot: %(count)d gotûbêj ji %(from)s {{PLURAL:%(count)d|hat|hatin}} arşîvkirin",
+	"archivebot-older-than": "ji %(duration)s {{PLURAL:%(count)d|kevntir}}",
+	"archivebot-page-summary": "Bot: %(count)d gotûbêj %(why)s li %(archives)s %(why)s {{PLURAL:%(count)d|hat|hatin}} arşîvkirin"
 }
