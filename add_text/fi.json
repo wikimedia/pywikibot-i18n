@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Samoasambia"
+		]
 	},
-	"add_text-adding": "Botti lisäsi %(adding)s"
+	"add_text-adding": "Botti: Lisätään %(adding)s"
 }
