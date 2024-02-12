@@ -7,7 +7,7 @@
 			"Xqt"
 		]
 	},
-	"interwiki-adding": "robot zêdekirin:%(adding)s",
+	"interwiki-adding": "Bot: %(adding)s lê hat zêdekirin",
 	"interwiki-adding-modifying": "robot serzêde kirin: %(adding)s guhêrandin: %(modifying)s",
 	"interwiki-adding-removing": "robot serzêde kirin: %(adding)s jêbirin: %(removing)s",
 	"interwiki-adding-removing-modifying": "robot serzêde kirin: %(adding)s jêbirin: %(removing)s guhêrandin: %(modifying)s",
