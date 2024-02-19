@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Alex S.H. Lin",
+			"Anterdc99",
 			"Daniel Herding",
 			"Filnik",
 			"Liuxinyu970226",
@@ -13,7 +14,7 @@
 			"xqt"
 		]
 	},
-	"checkimages-deletion-comment": "機器人: 正在新增 %(adding)s",
+	"checkimages-deletion-comment": "机器人：添加%(adding)s",
 	"checkimages-doubles-file-comment": "机器人：文件已存在于维基共享资源上，可能会被删除",
 	"checkimages-doubles-head": "重复文件",
 	"checkimages-doubles-talk-comment": "机器人：通知该文件已存在于维基共享资源上",
