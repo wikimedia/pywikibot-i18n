@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"category-adding": "僕: 增 category [[:Category:%(newcat)s|%(newcat)s]]"
+}
