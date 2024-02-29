@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dr1t jg",
 			"Nicolas Dumazet",
 			"Revi",
 			"Ykhwong",
@@ -12,6 +13,9 @@
 	"checkimages-doubles-file-comment": "봇: 파일이 이미 공용에 존재하므로 삭제될 수 있음",
 	"checkimages-doubles-head": "중복 파일",
 	"checkimages-doubles-talk-comment": "봇: 파일이 이미 공용에 존재함을 알림",
+	"checkimages-doubles-talk-text": "%(upload)s를 올려줘서 고마워. 그런데 이 파일은 %(image)s의 복제본이야. 봇이 덜 사용되거나 가장 최근의 파일을 복제본로 표시했어. 이 파일이 빠르게 제거되어야 함으로 표시하는 게 더 적절하다고 여기면, 복제본 파일을 제거하고 남겨질 파일에 제거 틀을 없애도 돼. 이것은 %(bot)s의 자동화된 문자임.",
+	"checkimages-forced-mode": "('''강제 모드''')",
+	"checkimages-has-duplicates": "다음의 복제본이 있음%(force)s:",
 	"checkimages-log-comment": "봇: 기록 업데이트",
 	"checkimages-no-license-head": "라이선스 없는 이미지",
 	"checkimages-source-tag-comment": "봇: 새로 업로드된 태그 없는 파일을 표시",
