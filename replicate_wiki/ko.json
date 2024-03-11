@@ -7,7 +7,7 @@
 		]
 	},
 	"replicate_wiki-headline": "원본과 다른 페이지",
-	"replicate_wiki-missing-users": "여기에 없는 원본 관리자",
+	"replicate_wiki-missing-users": "원본 위키에는 있으나 이곳에는 없는 관리자",
 	"replicate_wiki-same-pages": "중요한 모든 문서가 동일합니다",
 	"replicate_wiki-same-users": "원 위치의 모든 사용자는 이 위키에도 존재합니다",
 	"replicate_wiki-summary": "봇: %(source)s와 위키 동기화"

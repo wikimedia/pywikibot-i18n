@@ -6,7 +6,7 @@
 		]
 	},
 	"redirect-fix-broken-moved": "Beralîkirina şikestî li rûpela hedefê ya ku hatiye barkirin %(to)s hat rastkirin",
-	"redirect-fix-double": "Fixing double redirect to %(to)s",
+	"redirect-fix-double": "Beralîkirina ducarî li ser %(to)s hat sererastkirin",
 	"redirect-fix-loop": "Çerxa beralîkirinê li ser %(to)s hat rastkirin",
 	"redirect-remove-broken": "Beralîkirina li ser rûpeleke jêbirî yan jî ya ku tine ye",
 	"redirect-remove-loop": "Hedefa beralîkirinê çerxa beralîkirinê çêdike"

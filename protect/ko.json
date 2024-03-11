@@ -3,12 +3,13 @@
 		"authors": [
 			"Dr1t jg",
 			"IRTC1015",
-			"Revi"
+			"Revi",
+			"Ykhwong"
 		]
 	},
 	"protect-category": "봇: %(cat)s의 모든 문서를 보호",
 	"protect-images": "봇: %(page)s 문서에 사용된 모든 그림 보호",
 	"protect-links": "봇: %(page)s에 연결한 모든 문서 보호",
-	"protect-ref": "봇: %(page)s에 가리키는 모든 문서 보호",
+	"protect-ref": "봇: %(page)s 문서를 가리키는 모든 문서 보호",
 	"protect-simple": "봇: 파일의 목록을 보호합니다."
 }
