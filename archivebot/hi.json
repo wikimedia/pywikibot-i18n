@@ -8,6 +8,6 @@
 	},
 	"archivebot-archive-full": "(पुरालेख पूर्ण)",
 	"archivebot-archive-summary": "बॉट: %(count)d {{PLURAL:%(count)d|सूत्र|सूत्रों}} को [[%(from)s]] से संग्रहीत किया जा रहा है",
-	"archivebot-older-than": "%(duration)s से पुराना",
+	"archivebot-older-than": "%(duration)s से {{PLURAL:%(count)d|पुराना}}",
 	"archivebot-page-summary": "बॉट:%(count)d {{PLURAL:%(count)d|सूत्र|सूत्रों}} को (%(why)s) %(archives)s में संग्रहीत किया जा रहा है"
 }

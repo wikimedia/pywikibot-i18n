@@ -16,7 +16,7 @@
 	"category_redirect-log-add-failed": "* %(oldcat)s में [[%(ns)s%(template)s]] जोड़ना असफल रहा।",
 	"category_redirect-log-double": "* द्वि-अनुप्रेषण ठीक किया: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** असफल: %(error)s",
-	"category_redirect-log-false-positive": "* असत्य सकारात्मक: %(oldcat)s",
+	"category_redirect-log-false-positive": "* अप्रत्यासित गैर-अनुप्रेषित: %(oldcat)s",
 	"category_redirect-log-ignoring": "* उपेक्षित %(oldcat)s",
 	"category_redirect-log-loop": "* %(oldcat)s से अनुप्रेषण पाश",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d मिला, %(moved)d स्थानान्तरित किया",

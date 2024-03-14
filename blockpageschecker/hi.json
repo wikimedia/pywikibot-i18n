@@ -2,8 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Shubhamkanodia",
-			"Siddhartha Ghai"
+			"Siddhartha Ghai",
+			"संजीव कुमार"
 		]
 	},
+	"blockpageschecker-adding": "बॉट: पृष्ठ लॉक साँचा जोड़ा",
+	"blockpageschecker-modifying": "बॉट: पुराना पड़ा साँचा अद्यतन किया",
 	"blockpageschecker-deleting": "बॉट: पुराने साँचे को हटाया जा रहा है"
 }

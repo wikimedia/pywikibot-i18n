@@ -7,6 +7,7 @@
 	},
 	"category-adding": "बॉट: [[:Category:%(newcat)s|%(newcat)s]] श्रेणी जोड़ रहा है",
 	"category-also-in": "(%(alsocat)s में भी)",
+	"category-clean": "बॉट: %(category)s को हटाया जा रहा है क्योंकि यह इसके अंतर्गत %(child)s उपयोग में है।",
 	"category-listifying": "बॉट: %(fromcat)s से listify ({{PLURAL:%(num)d|1 प्रविष्टि|%(num)d प्रविष्टियाँ}})",
 	"category-removing": "बॉट: %(oldcat)s से हटा रहा है",
 	"category-renamed": "बॉट: %(oldcat)s से स्थानांतरित। लेखक: %(authors)s",
