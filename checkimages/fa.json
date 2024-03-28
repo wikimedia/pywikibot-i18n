@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Amir Sarabadani",
+			"Ebraminio",
 			"FarsiNevis",
 			"Huji",
 			"Reza1615",
@@ -17,5 +18,5 @@
 	"checkimages-source-tag-comment": "ربات: حق تکثیر تصویر تازه بارگذاری شده نامعلوم است.",
 	"checkimages-source-notice-comment": "ربات: درخواست منبع اطلاعات.",
 	"checkimages-unknown-extension-head": "بارگذاری تصاویر موجود در انبار",
-	"checkimages-unknown-extension-msg": "به نظر می‌آید تصویر %(file)s مسیر نادرستی داشته باشد لطفا بررسی کنید."
+	"checkimages-unknown-extension-msg": "به نظر می‌آید تصویر %(file)s مسیر نادرستی داشته باشد لطفاً بررسی کنید."
 }
