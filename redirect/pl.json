@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"BeginaFelicysym",
+			"Chrumps",
 			"Derbeth",
 			"Nemo bis",
 			"Sp5uhe",
@@ -12,6 +13,6 @@
 	"redirect-fix-broken-moved": "Poprawa urwanych przekierowań - przeniesiono cel do %(to)s",
 	"redirect-fix-double": "Robot naprawił podwójne przekierowanie do %(to)s",
 	"redirect-fix-loop": "Naprawa pętli przekierowań do %(to)s",
-	"redirect-remove-broken": "przekierowanie do usuniętej lub nieistniejącej strony",
+	"redirect-remove-broken": "Przekierowanie do usuniętej lub nieistniejącej strony",
 	"redirect-remove-loop": "pętla przekierowań"
 }
