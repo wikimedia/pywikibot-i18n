@@ -3,6 +3,7 @@
 		"authors": [
 			"Filnik",
 			"Metalhead64",
+			"TomatoCake",
 			"Xqt"
 		]
 	},
@@ -10,13 +11,13 @@
 	"checkimages-doubles-file-comment": "Bot: Datei liegt bereits auf Commons, kann gelöscht werden",
 	"checkimages-doubles-head": "Datei-Duplikat",
 	"checkimages-doubles-talk-comment": "Bot: Benachrichtigung, dass die Datei bereits auf Commons vorhanden ist",
-	"checkimages-doubles-talk-text": "Vielen Dank für das Hochladen von %(upload)s. Diese Datei ist jedoch eine Kopie von:%(image)sDer Bot hat die Datei, die am wenigsten verwendet wurde oder aktuell war, als Duplikat markiert. Wenn Sie es für angebrachter halten, die Datei als sofort zu löschend markiert zu belassen, können Sie die doppelten Dateien löschen und die Löschvorlage von der zu belassenden Datei entfernen. Dies ist eine automatisierte Nachricht von %(bot)s.",
-	"checkimages-forced-mode": "('''Zwangsmodus''')",
-	"checkimages-has-duplicates": "hat folgende Dubletten%(force)s:",
-	"checkimages-log-comment": "Bot: Aktualisiere das Log",
+	"checkimages-doubles-talk-text": "Vielen Dank für das Hochladen von %(upload)s. Diese Datei ist jedoch eine Kopie von:%(image)sDer Bot hat die Datei, die am wenigsten verwendet wurde oder aktuell war, als Duplikat markiert. Wenn du es für angebrachter hältst, die Datei als sofort zu löschend markiert zu belassen, kannst du die doppelten Dateien löschen und die Löschvorlage von der zu belassenden Datei entfernen. Dies ist eine automatisierte Nachricht von %(bot)s.",
+	"checkimages-forced-mode": "('''erzwungener Modus''')",
+	"checkimages-has-duplicates": "hat die folgenden Duplikate%(force)s:",
+	"checkimages-log-comment": "Bot: Log wird aktualisiert",
 	"checkimages-no-license-head": "Bild ohne Lizenz",
 	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
-	"checkimages-source-notice-comment": "Bot: Benachrichtigung über Lizenzprobleme.",
+	"checkimages-source-notice-comment": "Bot: Quellinformationen anfordern.",
 	"checkimages-unknown-extension-head": "Unbekannte Erweiterung!",
 	"checkimages-unknown-extension-msg": "Die Datei %(file)s scheint eine falsche Erweiterung zu haben. Bitte überprüfen."
 }
