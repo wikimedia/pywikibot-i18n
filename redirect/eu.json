@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"An13sa",
+			"Atzerritik",
 			"MarcoAurelio",
 			"Sator",
 			"Xabier Armendaritz"
 		]
 	},
-	"redirect-broken-redirect-template": "{{ezabatu|1=Bot-ak: hautsitako birzuzenketa}}",
+	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "%(to)s orrira doan hautsitako birzuzenketa konpontzen",
 	"redirect-fix-double": "«%(to)s» orriranzko birbideratze bikoitza konpontzea",
 	"redirect-fix-loop": "Birzuzenketa ziklikoen konpontzea %(to)s",
