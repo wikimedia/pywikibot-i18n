@@ -7,6 +7,6 @@
 	"unprotect-category": "Bot: D'Spär vun alle Säiten aus der Kategorie %(cat)s gouf opgehuewen",
 	"unprotect-images": "Bot: D'Spär fir all Biller op der Säit %(page)s ophiewen",
 	"unprotect-links": "Bot: D'Spär vun alle Säiten, déi vu(n) %(page)s verlinkt sinn, gouf opgehuewen",
-	"unprotect-ref": "Bot: D'Spär vun alle Säite, déi op d'Säit %(page)s linken, gouf opgehuewen",
+	"unprotect-ref": "Bot: D'Spär vun alle Säite, déi op d'Säit %(page)s referéieren, gouf opgehuewen",
 	"unprotect-simple": "Bot: D'Spär fir eng Lëscht vu Fichiere ophiewen"
 }
