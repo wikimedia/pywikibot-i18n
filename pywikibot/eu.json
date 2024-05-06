@@ -4,6 +4,7 @@
 			"An13sa",
 			"EukeneFL",
 			"Subi",
+			"Theklan",
 			"Xabier Armendaritz"
 		]
 	},
@@ -19,5 +20,6 @@
 	"pywikibot-fixes-fckeditor": "Bot: html editore-aberastua konpontzen",
 	"pywikibot-fixes-isbn": "Robota: ISBNari formatua ematen",
 	"pywikibot-fixes-html": "Bot: HTMLa bihurtzen/konpontzen",
-	"pywikibot-fixes-syntax": "Bot: Wiki-sintaxia zuzentzen"
+	"pywikibot-fixes-syntax": "Bot: Wiki-sintaxia zuzentzen",
+	"pywikibot-touch": "Pywikibot artikulua ukituz aldatu"
 }
