@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"GolyatGeri"
+		]
+	},
+	"delinker-delink": "Bot: Dosyay  [[%(title)s]] , be terefê [[:User:%(user)s]] ra esteriya coki ra perla ra dariyo: ''%(comment)s''"
+}

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"GolyatGeri",
 			"Kumkumuk",
 			"Mirzali"
 		]
@@ -8,6 +9,6 @@
 	"unprotect-category": "Bot: Pelanê kategoriya %(cat)s pêrıne nêşevekne",
 	"unprotect-images": "Bot: Dosyanê ke pela %(page)s derê pêrıne nêşevekne",
 	"unprotect-links": "Bot: Pelanê ke %(page)s ra gıre biyê pêrıne nêşevekne",
-	"unprotect-ref": "Bot: Pelanê ke %(page)s de gıre benê pêrıne nêşevekne",
+	"unprotect-ref": "Bot: Pelanê ke %(page)s de çıme benê  pêrıne nêşevekne",
 	"unprotect-simple": "Bot: Yew lista dosyeyan bışevekne."
 }

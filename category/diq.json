@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Erdemaslancan",
+			"GolyatGeri",
 			"Kumkumuk",
 			"Mirzali",
 			"Orbot707"
@@ -9,6 +10,7 @@
 	},
 	"category-adding": "Bot: [[Kategoriye:%(newcat)s]] dekerd de",
 	"category-also-in": "(kategoriye de %(alsocat)s esto)",
+	"category-clean": "Bot: Kategoriye %(category)s berd çıkı hora  %(child)s bın de est o",
 	"category-listifying": "Boti per da %(fromcat)s ra nata ( ({{PLURAL:%(num)d|1 deqerden|%(num)d deqerdeni}}) liste kerdi",
 	"category-removing": "Bot: %(oldcat)s ra dariyeno we",
 	"category-renamed": "Boti, Nuştoğ %(oldcat)s ra wedarna %(authors)s",
