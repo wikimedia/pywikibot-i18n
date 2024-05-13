@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Njsubedi"
+			"Njsubedi",
+			"हिमाल सुबेदी"
 		]
 	},
-	"misspelling-fixing": "रोबोट: %(page)s को लागि हिज्जे बिग्रिएका लिङ्क सुधार गर्दै"
+	"misspelling-fixing": "बोट: %(page)s को लागि हिज्जे बिग्रिएका कडी सुधार गर्दै"
 }
