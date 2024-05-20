@@ -11,10 +11,11 @@
 	"pywikibot-enter-category-name": "कृपया श्रेणीको नाम प्रविष्ठ गर्नुहोस् :",
 	"pywikibot-enter-file-links-processing": "फाइल पृष्ठ सम्पादन गर्नु पर्ने लक्ष्यको लिङ्क ?",
 	"pywikibot-enter-finished-browser": "ब्राउजरमा सकिएपछि इन्टर थिच्नुहोला ।",
-	"pywikibot-enter-namespace-number": "कृपया नामपद सङ्ख्याको रुपमा राख्नुहोला :",
+	"pywikibot-enter-namespace-number": "कृपया नेमस्पेस सङ्ख्याको रूपमा प्रविष्ठ गर्नुहोस्:",
 	"pywikibot-enter-new-text": "कृपया नयाँ पाठ प्रविष्ठ गर्नुहोस् :",
 	"pywikibot-enter-page-processing": "कुन पृष्ठमा कार्य गर्ने हो ?",
 	"pywikibot-enter-xml-filename": "कृपया XML dumpको फाइलनाम खुलाउनुहोस्:",
+	"pywikibot-fixes-fckeditor": "रोबोट: रिच-एडिटर एचटिएमएल मिलाउँदै",
 	"pywikibot-fixes-isbn": "रोबोट: ISBN मिलाउँदै",
 	"pywikibot-fixes-html": "बोट: HTML लाई परिवर्तन/मिलाउँदै",
 	"pywikibot-fixes-syntax": "बोट: विकी सिन्ट्याक्स मिलाउँदै"

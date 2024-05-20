@@ -5,5 +5,7 @@
 			"सरोज कुमार ढकाल"
 		]
 	},
-	"blockpageschecker-deleting": "बोट : काम नलाग्ने ढाँचाहरू मेट्दै"
+	"blockpageschecker-adding": "रोबोट: पृष्ठ ताल्चा टेम्पल्लेट थप्दै",
+	"blockpageschecker-modifying": "रोबोट: पुराना टेम्प्लेटहरू परिमार्जन गर्दै",
+	"blockpageschecker-deleting": "रोबोट : काम नलाग्ने ढाँचाहरू मेट्दै"
 }

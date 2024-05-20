@@ -9,8 +9,8 @@
 		]
 	},
 	"archivebot-archive-full": "(अभिलेख भरियो)",
-	"archivebot-archive-summary": "रोबोट : %(count)d {{PLURAL:%(count)d|थ्रेड|थ्रेडहरु}}को  [[%(from)s]]बाट अभिलेखिकरण गर्दै ।",
+	"archivebot-archive-summary": "रोबोट: [[%(from)s]] बाट Archiving %(count)d {{PLURAL:%(count)d|thread|threads}} अभिलेख गर्दै",
 	"archivebot-archiveheader": "{{Talkarchive}}",
-	"archivebot-older-than": "%(duration)s भन्दा पुरानो",
-	"archivebot-page-summary": "रोबोट: %(count)d, {{PLURAL:%(count)d|थ्रेड|थ्रेडहरू}} (%(why)s)लाई  %(archives)s मा अभिलेखिकरण गरिदै ।"
+	"archivebot-older-than": "{{PLURAL:%(count)d|older}}  %(duration)s भन्दा पुरानो",
+	"archivebot-page-summary": "रोबोट:  %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) लाई  %(archives)s मा अभिलेख गर्दै"
 }

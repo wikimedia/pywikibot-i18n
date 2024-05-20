@@ -7,5 +7,5 @@
 	},
 	"template-changing": "रोबोट:  {{PLURAL:%(num)d|टेम्प्लेट|टेम्प्लेटहरू}}: %(list)s परिवर्तन गर्दै",
 	"template-removing": "रोबोट: हटाउँदै{{PLURAL:%(num)d|टेम्पल्लेट|टेम्पल्लेटहरू}}: %(list)s",
-	"template-substituting": "रोबोट: {{PLURAL:%(num)d|ढाँचा|ढाँचारू}} विस्थापन गर्दै: %(list)s"
+	"template-substituting": "रोबोट: {{PLURAL:%(num)d|ढाँचा|ढाँचाहरू}} विस्थापन गर्दै: %(list)s"
 }
