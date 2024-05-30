@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Adriendelucca"
+			"Adriendelucca",
+			"Huñvreüs"
 		]
 	},
 	"replicate_wiki-headline": "Pajennoù disheñvel diouzh an hini orin",
+	"replicate_wiki-missing-users": "Merourien eus orin a vank amañ",
 	"replicate_wiki-same-pages": "An holl bajennoù a-bouez a zo heñvel",
+	"replicate_wiki-same-users": "Emañ an holl implijerien eus orin er wiki-mañ ivez",
 	"replicate_wiki-summary": "Robot: Goubredañ ar wiki diwar %(source)s"
 }

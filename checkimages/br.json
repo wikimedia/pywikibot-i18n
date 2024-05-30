@@ -2,14 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Adriendelucca",
-			"Fulup"
+			"Fulup",
+			"Huñvreüs"
 		]
 	},
 	"checkimages-deletion-comment": "Robot : Ouzhpennet %(adding)s",
 	"checkimages-doubles-file-comment": "Robot : emañ ar restr war Commons c'hoazh, gallout a ra bezañ diverket",
 	"checkimages-doubles-head": "Restr eilet",
 	"checkimages-doubles-talk-comment": "Robot : Kemmennadur emañ ar restr war Commons c'hoazh",
+	"checkimages-doubles-talk-text": "Trugarez deoc'h da vezañ pellgaset %(upload)s. Met un eilstumm a:%(image)s eo ar restr-mañ. Merket en deus ar robot ar restr implijet an nebeutañ pe an nevesañ evel un eilstumm. Ma kavit dereatoc’h lezel ar restr merket evel da vezañ diverket raktal, diverkit ar restroù eilet ha dilamit al patrom diverkañ diouzh an hini a chomo. Ur gemennadenn emgefre eus %(bot)s eo homañ.",
 	"checkimages-forced-mode": "('''mod forset''')",
+	"checkimages-has-duplicates": "en deus an eilvedadoù%(force)s da heul:",
 	"checkimages-log-comment": "Robot : o hizivaat ar marilh",
 	"checkimages-no-license-head": "Skeudenn hep aotre-implijout",
 	"checkimages-source-tag-comment": "Robot : o verkañ ar restroù hep tikedenn pellgarget nevez zo",
