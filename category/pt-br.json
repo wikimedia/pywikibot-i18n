@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			555,
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
 			"Hamilton Abreu",
-			"YuriNikolai",
-			555
+			"YuriNikolai"
 		]
 	},
 	"category-adding": "Bot: Adicionando categoria [[:Category:%(newcat)s|%(newcat)s]]",

@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Prilopes",
-			555
+			555,
+			"Prilopes"
 		]
 	},
 	"delete-from-category": "Bot: Apagando todas as páginas da categoria %(page)s",

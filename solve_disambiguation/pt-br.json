@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"He7d3r",
-			555
+			555,
+			"He7d3r"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "Desambiguação assistida por bot: %(from)s - Marcado como precisando de atenção especializada",
