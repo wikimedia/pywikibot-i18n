@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Ignatgg"
 		]
 	},
 	"protect-category": "Бот: Захист всіх сторінок з категорії %(cat)s",
 	"protect-images": "Бот: Захист всіх зображень на сторінці %(page)s",
 	"protect-links": "Бот: Захист усіх сторінок, пов'язаних із %(page)s",
-	"protect-ref": "Бот: Захист всіх сторінок, які посилаються з %(page)s",
-	"protect-simple": "Бот: Захист списку файлів."
+	"protect-ref": "Бот: захищає всі сторінки, які посилаються на %(page)s",
+	"protect-simple": "Бот: Захистити список файлів."
 }

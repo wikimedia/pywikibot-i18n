@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ignatgg"
+		]
+	},
+	"replicate_wiki-headline": "Сторінки, які відрізняються від оригіналу",
+	"replicate_wiki-missing-users": "Адміни з оригіналу, яких тут немає",
+	"replicate_wiki-same-pages": "Усі важливі сторінки однакові",
+	"replicate_wiki-same-users": "Усі користувачі з оригіналу також присутні на цій вікі",
+	"replicate_wiki-summary": "Бот: Wiki-синхронізація з %(source)s"
+}
