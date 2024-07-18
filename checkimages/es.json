@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
+			"Jorgito",
 			"Macofe",
 			"MarcoAurelio",
 			"Ryo567"
@@ -11,6 +12,9 @@
 	"checkimages-doubles-file-comment": "Bot: el archivo ya está en Commons y puede ser eliminado",
 	"checkimages-doubles-head": "Archivo duplicado",
 	"checkimages-doubles-talk-comment": "Bot: Notifica que el archivo ya existe en Commons",
+	"checkimages-doubles-talk-text": "Gracias por subir %(upload)s. Sin embargo, este archivo es una copia de:%(image)sEl Bot ha marcado como un duplicado el archivo que se determinó que es menos usado o más reciente. Si consideras más apropiado mantener el archivo marcado para ser borrado inmediatamente, siéntete libre de borrar los archivos duplicados y eliminar la plantilla de borrado del que es para mantener. Este es un mensaje automatizado de %(bot)s.",
+	"checkimages-forced-mode": "('''modo forzado''')",
+	"checkimages-has-duplicates": "tiene los siguientes duplicados%(force)s:",
 	"checkimages-log-comment": "Bot: Actualizando el registro",
 	"checkimages-no-license-head": "Imagen sin licencia",
 	"checkimages-source-tag-comment": "Bot: se marca un archivo sin etiquetas recién cargado",

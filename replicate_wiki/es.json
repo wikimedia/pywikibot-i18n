@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jorgito"
+		]
+	},
+	"replicate_wiki-headline": "Páginas que difieren del original",
+	"replicate_wiki-missing-users": "Administradores de la original que faltan aquí",
+	"replicate_wiki-same-pages": "Todas las páginas importantes son iguales",
+	"replicate_wiki-same-users": "Todos los usuarios de la wiki original están presentes también en esta wiki",
+	"replicate_wiki-summary": "Sincronización de la wiki desde %(source)s"
+}
