@@ -9,9 +9,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{Брзо брисање|[[ВП:КББ|П1]]}}",
-	"redirect-fix-broken-moved": "исправљено неисправно преусмерење до премештене циљне странице %(to)s",
-	"redirect-fix-double": "исправљена двострука преусмерења у %(to)s.",
-	"redirect-fix-loop": "исправљена петља преусмерења на %(to)s.",
+	"redirect-fix-broken-moved": "исправљено неисправно преусмерење из %(from)s до премештене одредишне странице %(to)s.",
+	"redirect-fix-double": "исправљено двоструко преусмерење из %(from)s у %(to)s.",
+	"redirect-fix-loop": "исправљена петља преусмерења из %(from)s у %(to)s.",
 	"redirect-remove-broken": "преусмерено на избрисану или непостојећу страницу.",
 	"redirect-remove-loop": "одредиште преусмерења образује петљу."
 }

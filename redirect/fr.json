@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Assorted-Interests",
 			"Boniface",
 			"Crochet.david",
 			"Gomoko",
@@ -14,9 +15,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{Suppression Immédiate|1=G8}}",
-	"redirect-fix-broken-moved": "Correction des redirections erronées vers la page déplacée cible %(to)s",
-	"redirect-fix-double": "Correction d’une double redirection vers %(to)s",
-	"redirect-fix-loop": "Correction d’une boucle de redirection sur %(to)s",
+	"redirect-fix-broken-moved": "Correction des redirections erronées depuis %(from)s vers la page déplacée cible %(to)s",
+	"redirect-fix-double": "Correction d’une double redirection depuis %(from)s vers %(to)s",
+	"redirect-fix-loop": "Correction d’une boucle de redirection depuis %(from)s sur %(to)s",
 	"redirect-remove-broken": "Redirection vers une page supprimée ou inexistante",
 	"redirect-remove-loop": "La cible de la redirection génère une boucle de redirection"
 }
