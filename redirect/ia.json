@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Karmwiki",
 			"McDutchie",
 			"Xqt"
 		]
 	},
 	"redirect-broken-redirect-template": "{{eliminar|Redirection a un pagina delite o non existente}}",
-	"redirect-fix-broken-moved": "Reparation de un redirection rupte verso le pagina renominate %(to)s",
-	"redirect-fix-double": "Reparation de un duple redirection a %(to)s",
+	"redirect-fix-broken-moved": "Reparante redirection rupte ab %(from\n)s al pagina movite %(to)s",
+	"redirect-fix-double": "Reparante redirectiones duple ab %(from)s a %(to)s",
 	"redirect-fix-loop": "Reparation de un bucla de redirectiones a %(to)s",
 	"redirect-remove-broken": "Redirection a un pagina delite o non existente",
 	"redirect-remove-loop": "Le destination del redirection forma un circulo de redirectiones"
