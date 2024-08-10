@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Eleferen",
+			"Helpau",
+			"Volkov"
+		]
+	},
+	"unlink-unlinking": "Бот: удаление ссылки \"%(title)s\""
+}

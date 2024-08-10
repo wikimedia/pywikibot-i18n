@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"DDPAT",
+			"Dim Grits",
+			"Ice bulldog"
+		]
+	},
+	"unlink-unlinking": "Бот: Вилучення посилання «%(title)s»"
+}
