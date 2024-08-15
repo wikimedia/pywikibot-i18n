@@ -13,7 +13,7 @@
 	"category-listifying": "Robot : Roll eus %(fromcat)s ({{PLURAL:%(num)d|1 elfenn|%(num)d pajenn}})",
 	"category-removing": "Robot : Tennet diwar %(oldcat)s",
 	"category-renamed": "Robot : dilec'hiet adalek %(oldcat)s. Aozerien : %(authors)s",
-	"category-replacing": "Robot : Oc'h erlec'hiañ ar rummad %(oldcat)s gant %(newcat)s",
+	"category-replacing": "Robot : Oc'h erlec'hiañ %(newcat)s ouzh ar rummad %(oldcat)s",
 	"category-section-title": "Pajenn istor stummoù kent ar %(oldcat)s",
 	"category-strip-cfd-templates": "Robot : tennañ ar patromoù CFD evit echuiñ an ober",
 	"category-strip-sort-keys": "Robot : tennañ an alc'hwezioù evit echuiñ an ober",
