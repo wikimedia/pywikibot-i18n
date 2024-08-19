@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Andriykopanytsia",
 			"Ignatgg"
 		]
@@ -9,5 +10,5 @@
 	"protect-images": "Бот: Захист всіх зображень на сторінці %(page)s",
 	"protect-links": "Бот: Захист усіх сторінок, пов'язаних із %(page)s",
 	"protect-ref": "Бот: захищає всі сторінки, які посилаються на %(page)s",
-	"protect-simple": "Бот: Захистити список файлів."
+	"protect-simple": "Бот: Захист списку файлів."
 }

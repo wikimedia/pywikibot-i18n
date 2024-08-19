@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Ceirios"
 		]
 	},
 	"image-remove": "Bot: Yn dileu delwedd %(file)s",

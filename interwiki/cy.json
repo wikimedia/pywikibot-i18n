@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Ceirios"
 		]
 	},
 	"interwiki-adding": "Bot: Yn ychwanegu %(adding)s",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Ceirios"
 		]
 	},
 	"unprotect-category": "Bot: Yn dad-ddiogelu pob tudalen yn y categori %(cat)s",

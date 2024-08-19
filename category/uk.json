@@ -15,7 +15,6 @@
 	},
 	"category-adding": "Бот: додав категорію [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(також у %(alsocat)s)",
-	"category-clean": "Бот: Видалення категорії %(category)s, тому що вона вже належить до %(child)s",
 	"category-listifying": "Бот: складання списку %(fromcat)s із ({{PLURAL:%(num)d|1 запису|%(num)d записів}})",
 	"category-removing": "Бот: видалення з %(oldcat)s",
 	"category-renamed": "Бот: перейменовано з %(oldcat)s. Автори: %(authors)s",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Ceirios"
 		]
 	},
 	"template-changing": "Bot: Yn newid {{PLURAL:%(num)d|nodyn|nodyn}}: %(list)s",

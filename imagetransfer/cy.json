@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Ceirios"
 		]
 	},
 	"imagetransfer-file_page_message": "Copïwyd y ddelwedd hon o %(site)s. Y disgrifiad gwreiddiol oedd:\n\n%(description)s",

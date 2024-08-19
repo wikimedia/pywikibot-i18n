@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Ceirios"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Yn ychwanegu %(adding)s",

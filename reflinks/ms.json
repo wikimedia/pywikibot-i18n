@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Hakimi97"
 		]
 	},
 	"reflinks-autogen": "hasilan automatik",
 	"reflinks-comment": "Tajuk hasilan bot",
-	"reflinks-msg": "Bot: Menukarkan rujukan kosong, menggunakan nama ref untuk mengelakkan duplikasi, rujuk [[%(manual)s|FAQ]]"
+	"reflinks-msg": "Bot: Menukarkan rujukan telanjang, menggunakan nama ref untuk mengelakkan duplikasi, rujuk [[%(manual)s|FAQ]]"
 }
