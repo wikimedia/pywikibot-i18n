@@ -3,7 +3,8 @@
 		"authors": [
 			"Meno25",
 			"Sandra Hanbo",
-			"xqt"
+			"xqt",
+			"علاء"
 		]
 	},
 	"checkimages-deletion-comment": "بوت: إضافة %(adding)s",
@@ -18,5 +19,5 @@
 	"checkimages-source-tag-comment": "بوت: التعليم على ملف مرفوع حديثا غير موسوم",
 	"checkimages-source-notice-comment": "بوت: طلب معلومات المصدر.",
 	"checkimages-unknown-extension-head": "امتداد غير معروف!",
-	"checkimages-unknown-extension-msg": "الملف %(file)s يبدو أن امتداده خاطيء، من فضلك تحقق."
+	"checkimages-unknown-extension-msg": "الملف %(file)s يبدو أن امتداده خاطئ، من فضلك تحقق."
 }
