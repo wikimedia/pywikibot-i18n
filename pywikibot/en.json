@@ -19,8 +19,8 @@
 	"pywikibot-enter-page-processing": "Which page should be processed?",
 	"pywikibot-enter-xml-filename": "Please enter the XML dump's filename:",
 	"pywikibot-fixes-fckeditor": "Bot: Fixing rich-editor html",
-	"pywikibot-fixes-isbn": "Bot: Formatting ISBN",
 	"pywikibot-fixes-html": "Bot: Converting/fixing HTML",
+	"pywikibot-fixes-isbn": "Bot: Formatting ISBN",
 	"pywikibot-fixes-syntax": "Bot: Fixing wiki syntax",
 	"pywikibot-touch": "Pywikibot touch edit"
 }
