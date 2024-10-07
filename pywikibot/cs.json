@@ -22,8 +22,8 @@
 	"pywikibot-enter-page-processing": "Která stránka má být zpracována?",
 	"pywikibot-enter-xml-filename": "Zadejte jméno souboru s XML dumpem:",
 	"pywikibot-fixes-fckeditor": "robot: oprava HTML z textového procesoru",
-	"pywikibot-fixes-isbn": "robot: formátování ISBN",
 	"pywikibot-fixes-html": "robot: převod/oprava HTML",
+	"pywikibot-fixes-isbn": "robot: formátování ISBN",
 	"pywikibot-fixes-syntax": "robot: oprava wikisyntaxe",
 	"pywikibot-touch": "robot: prázdná editace Pywikibota"
 }

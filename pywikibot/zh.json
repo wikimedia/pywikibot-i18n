@@ -22,8 +22,8 @@
 	"pywikibot-enter-page-processing": "哪个页面需要处理？",
 	"pywikibot-enter-xml-filename": "请输入XML转储的文件名：",
 	"pywikibot-fixes-fckeditor": "机器人：修复富编辑器html",
-	"pywikibot-fixes-isbn": "机器人：格式化ISBN",
 	"pywikibot-fixes-html": "机器人：转换/修复HTML",
+	"pywikibot-fixes-isbn": "机器人：格式化ISBN",
 	"pywikibot-fixes-syntax": "机器人：修复wiki语法",
 	"pywikibot-touch": "Pywikibot做了小编辑"
 }

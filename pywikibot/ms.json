@@ -15,7 +15,7 @@
 	"pywikibot-enter-page-processing": "Halaman yang manakah harus diproses?",
 	"pywikibot-enter-xml-filename": "Sila masukkan nama fail longgokan XML:",
 	"pywikibot-fixes-fckeditor": "Robot: Membetulkan html rich-editor",
-	"pywikibot-fixes-isbn": "Bot: Memformatkan ISBN",
 	"pywikibot-fixes-html": "Robot: Menukarkan/membetulkan HTML",
+	"pywikibot-fixes-isbn": "Bot: Memformatkan ISBN",
 	"pywikibot-fixes-syntax": "Robot: Membetulkan sintaks wiki"
 }

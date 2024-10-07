@@ -4,13 +4,14 @@
 			"Cwt96",
 			"IRTC1015",
 			"Revi",
+			"Ykhwong",
 			"아라"
 		]
 	},
 	"redirect-broken-redirect-template": "{{삭제}}",
-	"redirect-fix-broken-moved": "이동된 %(to)s 문서를 가리키도록 끊긴 넘겨주기를 고침",
-	"redirect-fix-double": "%(to)s 문서를 가리키도록 이중 넘겨주기 고침",
-	"redirect-fix-loop": "%(to)s(으)로 재귀적인 넘겨주기 고침",
+	"redirect-fix-broken-moved": "%(from)s에서 이동된 %(to)s 대상 문서를 가리키도록 끊긴 넘겨주기를 고침",
+	"redirect-fix-double": "%(from)s에서 %(to)s 문서를 가리키도록 이중 넘겨주기를 고침",
+	"redirect-fix-loop": "%(from)s에서 %(to)s 문서로 재귀적인 넘겨주기를 고침",
 	"redirect-remove-broken": "끊긴 넘겨주기",
 	"redirect-remove-loop": "넘겨주기 대상이 재귀적인 넘겨주기를 형성함"
 }

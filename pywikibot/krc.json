@@ -14,8 +14,8 @@
 	"pywikibot-enter-page-processing": "Къайсы бет джарашдырылыргъа керекди?",
 	"pywikibot-enter-xml-filename": "Тилейбиз, XML дампны файлыны атын киргизтигиз:",
 	"pywikibot-fixes-fckeditor": "Бот: Кенгертилген редактор html-ни тюзетиу",
-	"pywikibot-fixes-isbn": "Бот: ISBN джасау",
 	"pywikibot-fixes-html": "Бот: HTML-ни тюрленириу/тюзетиу",
+	"pywikibot-fixes-isbn": "Бот: ISBN джасау",
 	"pywikibot-fixes-syntax": "Бот: Вики синтаксисни тюзетиу",
 	"pywikibot-touch": "Pywikibot сенсор тюзетиу"
 }

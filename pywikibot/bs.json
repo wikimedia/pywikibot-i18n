@@ -18,7 +18,7 @@
 	"pywikibot-enter-page-processing": "Koja bi stranica trebala biti obrađena?",
 	"pywikibot-enter-xml-filename": "Unesite naziv datoteke XML ispisa:",
 	"pywikibot-fixes-fckeditor": "Robot: Popravak html bogatog uređivača",
-	"pywikibot-fixes-isbn": "Bot: Oblikovanje ISBN",
 	"pywikibot-fixes-html": "Robot: Pretvaranje/popravljanje HTML-a",
+	"pywikibot-fixes-isbn": "Bot: Oblikovanje ISBN",
 	"pywikibot-fixes-syntax": "Robot: Popravljanje wiki sintakse"
 }

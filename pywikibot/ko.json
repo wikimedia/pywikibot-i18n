@@ -20,8 +20,8 @@
 	"pywikibot-enter-page-processing": "어떤 문서를 처리하시겠습니까?",
 	"pywikibot-enter-xml-filename": "XML 덤프 파일 이름을 입력하세요:",
 	"pywikibot-fixes-fckeditor": "봇: 리치 에디터 html 수정",
-	"pywikibot-fixes-isbn": "봇: ISBN 형식 수정",
 	"pywikibot-fixes-html": "봇: HTML 코드를 변환/교정함",
+	"pywikibot-fixes-isbn": "봇: ISBN 형식 수정",
 	"pywikibot-fixes-syntax": "봇: 위키 문법 고침",
 	"pywikibot-touch": "Pywikibot 터치 편집"
 }

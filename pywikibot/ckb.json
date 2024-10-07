@@ -12,7 +12,7 @@
 	"pywikibot-enter-finished-browser": "کاتێک لە وێبگەڕەکە تەواو بوو، ئینتەر داگرە.",
 	"pywikibot-enter-new-text": "تکایە دەقە نوێیەکە داخل بکە:",
 	"pywikibot-enter-page-processing": "کام پەڕە پێویستە پێواژۆ بکرێت؟",
-	"pywikibot-fixes-isbn": "بۆت: ڕاستکردنەوەی شێوازی ISBN",
 	"pywikibot-fixes-html": "بۆت: گۆڕینی/چاککردنی ئەیچ تی ئێم ئێڵ",
+	"pywikibot-fixes-isbn": "بۆت: ڕاستکردنەوەی شێوازی ISBN",
 	"pywikibot-fixes-syntax": "بۆت: چاککردنی شێوازی نووسینی ویکی"
 }

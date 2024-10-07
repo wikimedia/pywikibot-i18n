@@ -18,8 +18,8 @@
 	"pywikibot-enter-page-processing": "Pa dudalen ddylem ei phrosesu?",
 	"pywikibot-enter-xml-filename": "Nodwch enwffeil y gronfa XML",
 	"pywikibot-fixes-fckeditor": "Bot: Yn trwsio  html y golygydd-richtext",
-	"pywikibot-fixes-isbn": "Robot: Yn fformatio'r rhif ISBN",
 	"pywikibot-fixes-html": "Bot: Yn trosi/trwsio HTML",
+	"pywikibot-fixes-isbn": "Robot: Yn fformatio'r rhif ISBN",
 	"pywikibot-fixes-syntax": "Bot: Yn trwsio cystrawen wici",
 	"pywikibot-touch": "Golygiad cyffwrdd Pywikibot"
 }

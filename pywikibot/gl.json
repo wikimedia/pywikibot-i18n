@@ -16,8 +16,8 @@
 	"pywikibot-enter-page-processing": "Que páxina se debe procesar?",
 	"pywikibot-enter-xml-filename": "Insira o nome do ficheiro de descarga XML:",
 	"pywikibot-fixes-fckeditor": "Robot: Corrixindo o HTML xerado polo editor gráfico.",
-	"pywikibot-fixes-isbn": "Bot: Dou formato ISBN",
 	"pywikibot-fixes-html": "Robot: Convertendo e corrixindo o código HTML.",
+	"pywikibot-fixes-isbn": "Bot: Dou formato ISBN",
 	"pywikibot-fixes-syntax": "Robot: Corrixindo a sintaxe MediaWiki.",
 	"pywikibot-touch": "Edición de toque de Pywikibot"
 }

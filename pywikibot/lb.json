@@ -15,7 +15,7 @@
 	"pywikibot-enter-page-processing": "Watfir eng Säit soll verschafft ginn?",
 	"pywikibot-enter-xml-filename": "Gitt wgl. den Numm vum XML-Dump-Fichier an:",
 	"pywikibot-fixes-fckeditor": "Bot: Verbessere vu Rich-Editor-HTML",
-	"pywikibot-fixes-isbn": "Bot: ISBN formatéieren",
 	"pywikibot-fixes-html": "Bot:HTML konvertéieren/verbesseren",
+	"pywikibot-fixes-isbn": "Bot: ISBN formatéieren",
 	"pywikibot-fixes-syntax": "Bot: Verbessere vun der Wiki-Syntax"
 }

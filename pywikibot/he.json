@@ -17,8 +17,8 @@
 	"pywikibot-enter-page-processing": "איזה דף יש לעבד?",
 	"pywikibot-enter-xml-filename": "נא להזין את שם קובץ ה־XML עם הדאמפ:",
 	"pywikibot-fixes-fckeditor": "בוט: תיקון HTML מעורך עשיר",
-	"pywikibot-fixes-isbn": "בוט: מעצב מסת״ב",
 	"pywikibot-fixes-html": "בוט: ממיר/מתקן HTML",
+	"pywikibot-fixes-isbn": "בוט: מעצב מסת״ב",
 	"pywikibot-fixes-syntax": "בוט: מתקן תחביר ויקי",
 	"pywikibot-touch": "עריכה בנגיעה עם Pywikibot"
 }

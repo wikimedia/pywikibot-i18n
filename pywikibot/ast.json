@@ -15,8 +15,8 @@
 	"pywikibot-enter-page-processing": "¿Que páxina hai que procesar?",
 	"pywikibot-enter-xml-filename": "Escribi'l nome del ficheru XML de volcáu:",
 	"pywikibot-fixes-fckeditor": "Robó: Iguando HTML del editor de testu arriquecíu.",
-	"pywikibot-fixes-isbn": "Bot: Dando formatu ISBN",
 	"pywikibot-fixes-html": "Robó: convirtiendo/iguando HTML",
+	"pywikibot-fixes-isbn": "Bot: Dando formatu ISBN",
 	"pywikibot-fixes-syntax": "Robó: Iguando la sintaxis wiki",
 	"pywikibot-touch": "Edición de toque de Pywikibot"
 }

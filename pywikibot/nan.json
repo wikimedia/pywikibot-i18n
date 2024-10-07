@@ -15,7 +15,7 @@
 	"pywikibot-enter-page-processing": "Tó chi̍t ia̍h sī su-iàu chhù-lí--ê?",
 	"pywikibot-enter-xml-filename": "Chhián su-ji̍p XML dump ê tóng-àn hō-miâ:",
 	"pywikibot-fixes-fckeditor": "Bot: Siu-lí rich-editor html",
-	"pywikibot-fixes-isbn": "Bot: ISBN kè-sek chéng-lí",
 	"pywikibot-fixes-html": "Bot: Choán-ōaⁿ/siu-lí HTML",
+	"pywikibot-fixes-isbn": "Bot: ISBN kè-sek chéng-lí",
 	"pywikibot-fixes-syntax": "Bot: Siu-lí wiki syntax"
 }
