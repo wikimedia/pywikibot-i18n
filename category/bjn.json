@@ -12,7 +12,7 @@
 	"category-removing": "Bot: Mahapus matan %(oldcat)s",
 	"category-renamed": "Bot: Mamindahakan matan %(oldcat)s. Pamakai: %(authors)s",
 	"category-replacing": "Bot: Mangganti tumbung %(oldcat)s lawan %(newcat)s",
-	"category-section-title": "Raralatan bahari tungkaran bakas %(oldcat)s",
+	"category-section-title": "Riwayat laman bakas %(oldcat)s",
 	"category-version-history": "Robot: Manyimpan raralatan bahari bakas %(oldcat)s",
 	"category-was-disbanded": "Bot: Tumbung dipacah",
 	"category-was-moved": "Bot: Tumbung dipindahakan ka [[:Category:%(newcat)s|%(title)s]]"
