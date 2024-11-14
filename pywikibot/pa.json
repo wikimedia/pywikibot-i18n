@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Cabal",
 			"Tow"
 		]
 	},
 	"pywikibot-enter-category-name": "ਸ਼੍ਰੇਣੀ ਦਾ ਨਾਂ ਭਰੋ:",
-	"pywikibot-enter-new-text": "ਨਵੀਂ ਲਿਖਤ ਭਰੋ:"
+	"pywikibot-enter-new-text": "ਨਵੀਂ ਲਿਖਤ ਭਰੋ:",
+	"pywikibot-fixes-syntax": "ਬੋਟ: ਵਿਕੀ ਵਾਕ-ਵਿਉਂਤ ਨੂੰ ਠੀਕ ਕਰ ਰਿਹਾ ਹੈ"
 }
