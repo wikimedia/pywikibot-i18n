@@ -9,9 +9,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{شطب|تحويلة مكسورة}}",
-	"redirect-fix-broken-moved": "إصلاح تحويلة مزدوجة لصفحة الهدف المنقولة %(to)s",
-	"redirect-fix-double": "تصليح تحويلة مزدوجة إلى %(to)s",
-	"redirect-fix-loop": "تعديل حلقة التحويلة إلى %(to)s",
+	"redirect-fix-broken-moved": "إصلاح التحويلة المكسورة من %(from)s إلى صفحة الهدف المنقولة %(to)s",
+	"redirect-fix-double": "إصلاح التحويلة المزدوجة من %(from)s إلى %(to)s",
+	"redirect-fix-loop": "إصلاح حلقة التحويلة من %(from)s إلى %(to)s",
 	"redirect-remove-broken": "تحويلة إلى صفحة محذوفة أو غير موجودة",
 	"redirect-remove-loop": "هدف التحويلة يصنع عقدة تحويل"
 }
