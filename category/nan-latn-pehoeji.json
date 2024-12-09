@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"category-adding": "Bot: Ka-thiam lūi [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(oa-ná tī %(alsocat)s)",
+	"category-listifying": "Bot: Tùi %(fromcat)s chè-chō lia̍t-toaⁿ (hâm %(num)d hāng)",
+	"category-removing": "Bot: Tùi %(oldcat)s sàu-tû",
+	"category-renamed": "Bot: Tùi %(oldcat)s sóa-ūi hó-sè. Chok-chiá: %(authors)s",
+	"category-replacing": "Bot: Kā lūi-pia̍t %(oldcat)s thè-ōaⁿ chò %(newcat)s",
+	"category-section-title": "Chìn-chêng %(oldcat)s ê ia̍h-bīn le̍k-sú",
+	"category-strip-cfd-templates": "Bot: Sóa cháu CFD pang-bô͘ lâi goân-sêng chhau-chok",
+	"category-version-history": "Bot: Pó-chūn chêng %(oldcat)s ê pán-pún le̍k-sú",
+	"category-was-disbanded": "Bot: Lūi-pia̍t hông hòe-tû ah",
+	"category-was-moved": "Bot: Lūi-pia̍t hông sóa kòe [[:Lūi-pia̍t:%(newcat)s|%(title)s]]"
+}
