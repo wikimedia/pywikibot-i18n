@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Winston Sung",
 			"Xqt"
 		]
 	},
-	"add_text-adding": "bot ka-thiam %(adding)s"
+	"add_text-adding": "Bot: Ka-thiam %(adding)s"
 }

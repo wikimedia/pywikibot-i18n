@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"A-lú-mih",
-			"Luuva"
+			"Luuva",
+			"Winston Sung"
 		]
 	},
-	"category-adding": "Bot: Ka-thiam lūi-pia̍t [[:Lūi-pia̍t:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Bot: Ka-thiam lūi [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(oa-ná tī %(alsocat)s)",
 	"category-listifying": "Bot: Tùi %(fromcat)s chè-chō lia̍t-toaⁿ (hâm %(num)d hāng)",
 	"category-removing": "Bot: Tùi %(oldcat)s sàu-tû",
