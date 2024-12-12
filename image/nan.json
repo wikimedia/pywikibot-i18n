@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"A-lú-mih",
+			"Luuva"
+		]
+	},
+	"image-remove": "Bot: Thiah tiāu iáⁿ-siōng %(file)s",
+	"image-replace": "Bot: Kā iáⁿ-siōng %(old)s thè-ōaⁿ chò %(new)s"
+}

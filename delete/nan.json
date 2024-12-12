@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"A-lú-mih",
+			"Luuva"
+		]
+	},
+	"delete-from-category": "Bot: Thâi tiāu choân-pō͘ sio̍k %(page)s lūi-pia̍t ê ia̍h-bīn",
+	"delete-from-file": "Bot: Thâi tiāu chi̍t-ê lia̍t-toaⁿ ê ia̍h-bīn",
+	"delete-images": "Bot: Thâi tiāu choân-pō͘ %(page)s ia̍h téng-bīn ê tô͘",
+	"delete-linked-pages": "Bot: Thâi tiāu choân-pō͘ tùi %(page)s liân--chhut-khì ê ia̍h-bīn",
+	"delete-referring-pages": "Bot: Thâi tiāu choân-pō͘ tī %(page)s téng-bīn chí-bêng ê ia̍h-bīn"
+}

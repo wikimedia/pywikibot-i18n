@@ -2,11 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"A-lú-mih",
-			"Luuva",
-			"Winston Sung"
+			"Luuva"
 		]
 	},
-	"category_redirect-add-template": "Bot: Ka-thiam lūi choán-ia̍h pang-bô͘ lâi pang-chō͘ koán-kò͘",
+	"category_redirect-add-template": "Bot: Ka-thiam lūi-pia̍t choán-ia̍h pang-bô͘ lâi pang-chō͘ koán-kò͘",
 	"category_redirect-change-category": "Bot: Chiong í-keng choán-ia̍h ê [[:%(oldCatLink)s|%(oldCatTitle)s]] kái kòe [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Lūi-pia̍t choán-ia̍h koán-kò͘ bot",
 	"category_redirect-edit-request": "Í-hā siū pó-hō͘ ê ia̍h-bīn í-keng hông phòaⁿ-toàn lūi-pia̍t ê liân-kiat ū su-iàu kái-sin: %(itemlist)s",
