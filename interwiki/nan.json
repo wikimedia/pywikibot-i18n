@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"A-lú-mih",
+			"Luuva",
+			"Xqt"
+		]
+	},
+	"interwiki-adding": "bot ka-thiam: %(adding)s",
+	"interwiki-adding-modifying": "bot ka-thiam: %(adding)s siu-kái: %(modifying)s",
+	"interwiki-adding-removing": "bot ka-thiam: %(adding)s thiah-tû: %(removing)s",
+	"interwiki-adding-removing-modifying": "bot ka-thiam: %(adding)s thiah-tû: %(removing)s siu-kái: %(modifying)s",
+	"interwiki-modifying": "bot siu-kái: %(modifying)s",
+	"interwiki-modifying-from": "Bot: Chiong %(from)s siu-kái chò %(modifying)s",
+	"interwiki-removing": "bot thiah-tû: %(removing)s",
+	"interwiki-removing-modifying": "bot thiah-tû: %(removing)s siu-kái: %(modifying)s"
+}

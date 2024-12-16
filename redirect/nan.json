@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"A-lú-mih",
+			"Luuva"
+		]
+	},
+	"redirect-fix-broken-moved": "Siu-chèng hāi--khì ê choán-ia̍h kòe khì bo̍k-phiau ia̍h %(to)s",
+	"redirect-fix-double": "Siu-chèng siang têng ê choán-ia̍h kòe %(to)s",
+	"redirect-fix-loop": "Siu-chèng choán-ia̍h loop kòe %(to)s",
+	"redirect-remove-broken": "Choán-ia̍h thàng kòe í-keng thâi tiāu he̍k-chiá bô chûn-chāi ê ia̍h-bīn",
+	"redirect-remove-loop": "Choán-ia̍h bo̍k-phiu kò͘-sêng liáu choán-ia̍h loop"
+}

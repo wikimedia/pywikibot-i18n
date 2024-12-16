@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"A-lú-mih",
+			"Luuva"
+		]
+	},
+	"solve_disambiguation-adding-dn-template": "Bot pang-chān ê khu-pia̍t: %(from)s - Má-kuh chò su-iàu choan-ka chù-ì",
+	"solve_disambiguation-links-removed": "Bot pang-chān ê khu-pia̍t: %(from)s - Piàn tiāu liân-kiat.",
+	"solve_disambiguation-links-resolved": "Bot pang-chān ê khu-pia̍t: %(from)s - Kái-piàn liân-kiat kòe %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Bot pang-chān ê khu-pia̍t: %(from)s - Má-kuh chò su-iàu choan-ka chù-ì",
+	"solve_disambiguation-redirect-removed": "Bot pang-chān ê khu-pia̍t: %(from)s - piàⁿ tiāu liân-kiat",
+	"solve_disambiguation-redirect-resolved": "Bot pang-chān ê khu-pia̍t: %(from)s - Kái-piàn liân-kiat kòe %(to)s",
+	"solve_disambiguation-unknown-page": "(iáu m̄-chai)"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"A-lú-mih",
+			"Luuva"
+		]
+	},
+	"template-changing": "Bot: Kài-piàn %(num)d-ê pang-bô͘: %(list)s",
+	"template-removing": "Bot: Piàⁿ tiāu %(num)d-ê pang-bô͘: %(list)s",
+	"template-substituting": "Bot: Thè-ōaⁿ %(num)d-ê pâng-bô͘: %(list)s"
+}
