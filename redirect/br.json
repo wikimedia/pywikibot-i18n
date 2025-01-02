@@ -5,12 +5,13 @@
 			"Fohanno",
 			"Fulup",
 			"Gwenn-Ael",
+			"Huñvreüs",
 			"Y-M D"
 		]
 	},
-	"redirect-fix-broken-moved": "O reizhañ an adkasoù torret war-zu ar bajenn bal %(to)s",
-	"redirect-fix-double": "Dresañ an adkas doubl da %(to)s",
-	"redirect-fix-loop": "O tresañ al lagadenn adkas war-zu %(to)s",
+	"redirect-fix-broken-moved": "Reizhet adkas torret eus %(from)s war-zu ar bajenn bal %(to)s",
+	"redirect-fix-double": "Dreset adkas doubl eus %(from)s da %(to)s",
+	"redirect-fix-loop": "Reizhet ar boukl adkas eus %(from)s da %(to)s",
 	"redirect-remove-broken": "Adkas war-zu ur bajenn n'eus ket anezhi pe a zo bet dilamet",
 	"redirect-remove-loop": "Stumm ur c'helc'h-tro born zo gant an [[Wikipedia:Redirect|adkas]]"
 }
