@@ -8,7 +8,7 @@
 	},
 	"checkimages-deletion-comment": "Robot : Ouzhpennet %(adding)s",
 	"checkimages-doubles-file-comment": "Robot : emañ ar restr war Commons c'hoazh, gallout a ra bezañ diverket",
-	"checkimages-doubles-head": "Restr eilet",
+	"checkimages-doubles-head": "Restr doubl",
 	"checkimages-doubles-talk-comment": "Robot : Kemmennadur emañ ar restr war Commons c'hoazh",
 	"checkimages-doubles-talk-text": "Trugarez deoc'h da vezañ pellgaset %(upload)s. Met un eilstumm a:%(image)s eo ar restr-mañ. Merket en deus ar robot ar restr implijet an nebeutañ pe an nevesañ evel un eilstumm. Ma kavit dereatoc’h lezel ar restr merket evel da vezañ diverket raktal, diverkit ar restroù eilet ha dilamit al patrom diverkañ diouzh an hini a chomo. Ur gemennadenn emgefre eus %(bot)s eo homañ.",
 	"checkimages-forced-mode": "('''mod forset''')",
