@@ -13,7 +13,9 @@
 	"category-renamed": "Bot: Movita de %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Bot: Remplaso dil anciena %(oldcat)s kategorio per la nova %(newcat)s",
 	"category-section-title": "Kronologio dil anciena %(oldcat)s",
-	"category-strip-cfd-templates": "Bot: Removing CFD templates for completed action",
+	"category-strip-cfd-templates": "Bot: Efacanta shabloni CFD por agadi kompletigita",
+	"category-strip-sort-keys": "Bot: Efacanta abrevio-klavi (''short keys'') por agadi kompletigita",
+	"category-strip-both": "Bot: Efacanta diskuto-modeli CFD ed abrevio-klavi (''short keys'') por agado kompletigita",
 	"category-version-history": "Bot: Prezervo di la kronologio dil antea %(oldcat)s versioni",
 	"category-was-disbanded": "Bot: Ica kategorio dispersesis",
 	"category-was-moved": "roboto: Kategorio movesis a(d) [[:Category:%(newcat)s|%(title)s]]"
