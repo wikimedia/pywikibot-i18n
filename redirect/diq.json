@@ -9,8 +9,8 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{bestere|m1}}",
-	"redirect-fix-broken-moved": "Hetenayışe xırabi hedefe pela %(to)s vurneno",
-	"redirect-fix-double": "Boti Tespitê şıkıtena dıleti heta %(to)s",
+	"redirect-fix-broken-moved": "Hetenayışe xırabi hedefe pela %(from)s heta %(to)s vurneno",
+	"redirect-fix-double": "Boti Tespitê şıkıtena dıleti heta %(from)s nerde heta %(to)s",
 	"redirect-fix-loop": "%(from)s ra  %(to)s rê şıkıtışo dılet deke",
 	"redirect-remove-broken": "Era yew pela ke esteriya ya zi çıniya, aye ser çarne",
 	"redirect-remove-loop": "[[WP:CSD#G8|G8]]: Hedefê [[Wikipedia:Redirect|Weçarnayış]]i etiken dê  weçarnayışi vırazeno."
