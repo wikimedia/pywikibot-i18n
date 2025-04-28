@@ -7,8 +7,19 @@
 	"category_redirect-add-template": "Bot: Adjuntado di shablono pri kategorio ridirektita, por manteno",
 	"category_redirect-change-category": "Bot: Chanjo di kategorio ridirektita [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "'Bot' por manteno dil ridirekto di kategorio",
+	"category_redirect-edit-request": "Trovesis ke la sequanta pagini protektita bezonas aktualigo di ligili a kategorii: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s esas en %(oldcat)s, qua esas ridirekto a %(newcat)s",
 	"category_redirect-fix-double": "Bot: Reparo di duopla ridirektado",
+	"category_redirect-log-added": "* Adjuntita [[%(ns)s%(template)s]] a %(oldcat)s",
+	"category_redirect-log-add-failed": "* Faliis adjuntar [[%(ns)s%(template)s]] a %(oldcat)s",
+	"category_redirect-log-double": "* Korektigesis duopla ridirekto: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Faliis: %(error)s",
+	"category_redirect-log-false-positive": "* Neexpektita manko di ridirekto: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignoras %(oldcat)s",
-	"category_redirect-log-not-loaded": "* Ne povis charjar %(oldcat)s; ignoresos"
+	"category_redirect-log-loop": "* Nefinita ridirekto de %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: trovesis %(found)d, movesis %(moved)d",
+	"category_redirect-log-move-error": "* %(oldcat)s: eroro che move_contents",
+	"category_redirect-log-new": "Nova ridirekti depos la lasta raporto:",
+	"category_redirect-log-not-loaded": "* Ne povis charjar %(oldcat)s; ignoresos",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Anciena protokoli (''logs'')]'''"
 }
