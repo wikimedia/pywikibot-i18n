@@ -9,9 +9,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{nuweg|Weesdoorverwijzing of doorverwijzing naar verwijderde pagina}}",
-	"redirect-fix-broken-moved": "Gebroken doorverwijzing gecorrigeerd door aanpassing naar hernoemde doelpagina %(to)s",
-	"redirect-fix-double": "Dubbele doorverwijzing gecorrigeerd tot %(to)s",
-	"redirect-fix-loop": "Doorverwijslus gecorrigeerd tot %(to)s",
+	"redirect-fix-broken-moved": "Gebroken doorverwijzing gecorrigeerd door aanpassing van %(from)s naar doelpagina %(to)s",
+	"redirect-fix-double": "Dubbele doorverwijzing gecorrigeerd van %(from)s naar %(to)s",
+	"redirect-fix-loop": "Doorverwijslus gecorrigeerd van %(from)s naar %(to)s",
 	"redirect-remove-broken": "Doorverwijzing naar een verwijderde of niet-bestaande pagina",
 	"redirect-remove-loop": "Het doel van de doorverwijzing vormt een doorverwijslus"
 }
