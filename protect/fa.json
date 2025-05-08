@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Alirezaaa",
-			"Beginneruser"
+			"Beginneruser",
+			"Darafsh"
 		]
 	},
 	"protect-category": "ربات:حفاظت تمام صفحه‌های رده %(cat)s",
 	"protect-images": "ربات: حفاظت از تمام تصاویر به کار رفته در %(page)s",
 	"protect-links": "ربات:حفاظت تمام صفحه‌هایی که در %(page)s پیوند شده‌اند.",
-	"protect-ref": "ربات:حفاظت تمام صفحه‌هایی که به %(page)s پیوند داده‌اند",
+	"protect-ref": "ربات: حفاظت از همهٔ صفحه‌هایی که به %(page)s ارجاع می‌دهند",
 	"protect-simple": "ربات: درحال حفاظت کردن فهرستی از پرونده‌ها"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"imagetransfer-file_page_message": "دا انځور له %(site)s څخه لمېسل شوی وو. ار سپيناو يې دا وو:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "دوتنه اوس په ويکيمېډيا خونديځ کې د لاسرسي وړ ده."
+}

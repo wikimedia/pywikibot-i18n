@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"image-remove": "روباټ: انځور %(file)s لرې کول",
+	"image-replace": "روباټ:%(old)s انځور په %(new)s بدلول"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Darafsh"
+		]
+	},
+	"replicate_wiki-headline": "صفحه‌هایی که با نسخهٔ اصلی تفاوت دارند",
+	"replicate_wiki-missing-users": "مدیرانی از نسخهٔ اصلی که اینجا وجود ندارند",
+	"replicate_wiki-same-pages": "همهٔ صفحه‌های مهم یکسان هستند",
+	"replicate_wiki-same-users": "همهٔ کاربران نسخهٔ اصلی در این ویکی نیز حضور دارند",
+	"replicate_wiki-summary": "ربات: همگام‌سازی ویکی از %(source)s"
+}

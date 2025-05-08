@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
-	"archivebot-archive-full": "(خونديځ ډک دی)"
+	"archivebot-archive-full": "(خونديځ ډک دی)",
+	"archivebot-archive-summary": "روباټ: د [[%(from)s]] د %(count)d {{PLURAL:%(count)d|سرليکې|سرليکو}} خونديځول",
+	"archivebot-older-than": "له %(duration)s {{PLURAL:%(count)d|زړې}}"
 }

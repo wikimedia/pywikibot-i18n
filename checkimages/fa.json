@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Amir Sarabadani",
+			"Darafsh",
 			"Ebrahim",
 			"Ebraminio",
 			"FarsiNevis",
@@ -14,6 +15,9 @@
 	"checkimages-doubles-file-comment": "ربات: برچسب زدن بر تصویر تکراری",
 	"checkimages-doubles-head": "پرونده تکراری",
 	"checkimages-doubles-talk-comment": "ربات: تصویر تکراری یافت شد",
+	"checkimages-doubles-talk-text": "سپاس از بارگذاری %(upload)s. با این‌حال، این پرونده نسخه‌ای کپی از این پرونده است: %(image)s ربات، پرونده‌ای را که کم‌استفاده‌تر یا جدیدتر بوده به‌عنوان پروندهٔ تکراری نشان کرده است. اگر صلاح می‌دانی که بهتر است پروندهٔ علامت‌خورده برای حذف فوری باقی بماند، آزاد هستی که پرونده‌های تکراری را حذف و الگوی حذف را از پروندهٔ باقی‌مانده برداری. این پیام به‌صورت خودکار توسط %(bot)s ارسال شده است.",
+	"checkimages-forced-mode": "('''حالت اجباری''')",
+	"checkimages-has-duplicates": "دارای تکراری‌های زیر است%(force)s:",
 	"checkimages-log-comment": "ربات: روزآمدسازی سیاهه",
 	"checkimages-no-license-head": "تصویر بدون اجازہ",
 	"checkimages-source-tag-comment": "ربات: حق تکثیر تصویر تازه بارگذاری شده نامعلوم است.",

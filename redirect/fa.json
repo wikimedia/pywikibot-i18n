@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Alirezaaa",
+			"Darafsh",
 			"Ebraminio",
 			"Huji",
 			"Mjbmr",
@@ -11,9 +12,9 @@
 		]
 	},
 	"redirect-broken-redirect-template": "{{حذف سریع|بن بست|bot=yes}}",
-	"redirect-fix-broken-moved": "اصلاح تغییرمسیرهای خراب به صفحهٔ انتقال‌یافتهٔ هدف %(to)s",
-	"redirect-fix-double": "اصلاح تغییرمسیر دوتایی به %(to)s",
-	"redirect-fix-loop": "رفع حلقه در تغییرمسیر به %(to)s",
+	"redirect-fix-broken-moved": "در حال اصلاح تغییر مسیر خراب از %(from)s به صفحهٔ هدف منتقل‌شده %(to)s",
+	"redirect-fix-double": "در حال اصلاح تغییرمسیر دوتایی از %(from)s به %(to)s",
+	"redirect-fix-loop": "در حال اصلاح حلقهٔ تغییرمسیر از %(from)s به %(to)s",
 	"redirect-remove-broken": "تغییرمسیر به صفحهٔ ناموجود یا حذف‌شده",
-	"redirect-remove-loop": "مقصد تغییرمسیر یک تغییرمسیر حلقه‌ای ایجاد می‌کند"
+	"redirect-remove-loop": "هدف تغییرمسیر یک حلقهٔ تغییرمسیر ایجاد می‌کند"
 }
