@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Leo"
+		]
+	},
+	"replicate_wiki-headline": "Orijinalinden farklı sayfalar",
+	"replicate_wiki-missing-users": "Burada eksik olan orijinal hizmetliler",
+	"replicate_wiki-same-pages": "Tüm önemli sayfalar aynıdır",
+	"replicate_wiki-same-users": "Orijinalden tüm kullanıcılar bu viki'de de mevcuttur",
+	"replicate_wiki-summary": "Bot: %(source)s'dan Viki senkronizasyonu"
+}

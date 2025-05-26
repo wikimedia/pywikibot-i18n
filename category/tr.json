@@ -6,13 +6,14 @@
 			"Hedda",
 			"Joseph",
 			"Khutuck",
+			"Leo",
 			"Stultiwikia",
 			"Vito Genovese"
 		]
 	},
 	"category-adding": "Bot: [[Kategori:%(newcat)s]] ekleniyor",
 	"category-also-in": "(%(alsocat)s kategorisinde de yer almaktadır)",
-	"category-clean": "Bot: Hâlihazırda %(child)s içinde yer alan %(category)s kategorisi kaldırılıyor",
+	"category-clean": "Bot: %(category)s kategorisi kaldırılıyor çünkü zaten %(child)s kategorisinin altında",
 	"category-listifying": "Bot: %(fromcat)s sayfasından itibaren (%(num)d girdi) listeleniyor",
 	"category-removing": "Bot: %(oldcat)s kategorisinden kaldırılıyor",
 	"category-renamed": "Bot: %(oldcat)s konumundan taşındı. Yazarlar: %(authors)s",

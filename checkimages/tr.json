@@ -1,13 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"Leo"
 		]
 	},
 	"checkimages-deletion-comment": "Bot: Ekleniyor %(adding)s",
 	"checkimages-doubles-file-comment": "Bot: Dosya zaten Commons'da, silinebilir",
 	"checkimages-doubles-head": "Yinelenen dosya",
 	"checkimages-doubles-talk-comment": "Bot: Dosyanın zaten Commons'ta bulunduğunu bildirme",
+	"checkimages-doubles-talk-text": "%(upload)s dosyasını yüklediğiniz için teşekkür ederiz. Ancak, bu dosya şunun bir kopyasıdır:%(image)sBot, en az kullanılan veya en son bulunan dosyayı bir kopya olarak işaretledi. Dosyayı hemen silinecek şekilde işaretlemeyi daha uygun görüyorsanız, kopya dosyaları silmekten ve silinecek şablondan silme şablonunu kaldırmaktan çekinmeyin. Bu, %(bot)s tarafından gönderilen otomatik bir mesajdır.",
+	"checkimages-forced-mode": "('''zorunlu mod''')",
+	"checkimages-has-duplicates": "aşağıdaki kopyalara sahiptir%(force)s:",
 	"checkimages-log-comment": "Bot: Günlüğü güncelleme",
 	"checkimages-no-license-head": "Lisanssız resim",
 	"checkimages-source-tag-comment": "Bot: Yeni yüklenen etiketsiz dosyayı işaretleme",

@@ -4,15 +4,16 @@
 			"BaRaN6161 TURK",
 			"Emperyan",
 			"Khutuck",
+			"Leo",
 			"Stultiwikia",
 			"Vito Genovese",
 			"Xqt"
 		]
 	},
 	"redirect-broken-redirect-template": "{{sil|y1}}",
-	"redirect-fix-broken-moved": "Bozuk yönlendirmeyi %(to)s hedef sayfaya taşıdı",
-	"redirect-fix-double": "%(to)s sayfasına yönelik çift yönlendirme düzeltiliyor",
-	"redirect-fix-loop": "Yönlendirme döngüsünün %(to)s sabitlenmesi",
-	"redirect-remove-broken": "Silinen ya da var olmayan sayfaya olan yönlendirme",
+	"redirect-fix-broken-moved": "%(from)s'den taşınan hedef sayfa %(to)s'ye bozuk yönlendirme düzeltiliyor",
+	"redirect-fix-double": "%(from)s'den %(to)s'ye çift yönlendirmeyi düzeltme",
+	"redirect-fix-loop": "%(from)s'den %(to)s'ye yönlendirme döngüsünün düzeltilmesi",
+	"redirect-remove-broken": "Silinmiş veya var olmayan bir sayfaya yönlendirme",
 	"redirect-remove-loop": "Yönlendirme hedefi bir yönlendirme döngüsü oluşturuyor"
 }
