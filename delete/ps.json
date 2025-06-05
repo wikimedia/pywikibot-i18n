@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"delete-from-category": "روباټ: د %(page)s وېشنيزې څخه ټول مخونه ړنگول",
+	"delete-from-file": "روباټ: د مخونو يو لړليک ړنگول.",
+	"delete-images": "روباټ: د %(page)s مخ ټول انځورونه ړنگول",
+	"delete-linked-pages": "روباټ: د %(page)s سره تړل‌شوي ټول مخونه ړنگول",
+	"delete-referring-pages": "روباټ: %(page)s سره تړاو لرونکي ټول مخونه ړنگول"
+}
