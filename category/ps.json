@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
 	"category-adding": "روباټ: وېشنيزه ورگډول [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-also-in": "(همداراز په %(alsocat)s کې)"
+	"category-also-in": "(همداراز په %(alsocat)s کې)",
+	"category-clean": "روباټ: وېشنيزه لرې‌کول %(category)s ځکه چې له مخکې په %(child)s کې شته"
 }

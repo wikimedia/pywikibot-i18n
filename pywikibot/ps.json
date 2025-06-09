@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"pywikibot-bot-prefix": "روباټ:",
+	"pywikibot-cosmetic-changes": "؛سينگاري بدلونونه",
+	"pywikibot-enter-category-name": "مهرباني وکړئ د وېشنيزې نوم دننه کړئ:",
+	"pywikibot-enter-file-links-processing": "د کومې دوتنې مخ وېبتړنې بايد پرمخ يوړل شي؟",
+	"pywikibot-enter-finished-browser": "کله چې ښوونگر کې پای ته ورسېږي؛ نو Enter کېکاږئ.",
+	"pywikibot-enter-namespace-number": "مهرباني وکړئ نوم‌تشيال د هغې د شمېرې له مخې دننه کړئ:",
+	"pywikibot-enter-new-text": "مهرباني وکړئ نوی ليک دننه کړئ:",
+	"pywikibot-enter-page-processing": "کوم مخ بايد پرمخ يوړل شي؟",
+	"pywikibot-enter-xml-filename": "مهرباني وکړئ د اېکس‌اېم‌اېل انبار دوتنې‌نوم دننه کړئ:",
+	"pywikibot-fixes-fckeditor": "روباټ: د بډايه سمونگر اېچ‌ټي‌اېم‌اېل سمول",
+	"pywikibot-fixes-html": "روباټ: د اېچ‌ټي‌اېم‌اېل بدلول/سمول",
+	"pywikibot-fixes-isbn": "روباټ: آی‌اېس‌بي‌اېن بڼل",
+	"pywikibot-fixes-syntax": "روباټ: ويکي غونډلپوهه سمول",
+	"pywikibot-touch": "پی‌ويکي‌باټ لاس‌لگی سمون"
+}

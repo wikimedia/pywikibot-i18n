@@ -7,5 +7,6 @@
 	},
 	"archivebot-archive-full": "(خونديځ ډک دی)",
 	"archivebot-archive-summary": "روباټ: د [[%(from)s]] د %(count)d {{PLURAL:%(count)d|سرليکې|سرليکو}} خونديځول",
-	"archivebot-older-than": "له %(duration)s {{PLURAL:%(count)d|زړې}}"
+	"archivebot-older-than": "له %(duration)s {{PLURAL:%(count)d|زړې}}",
+	"archivebot-page-summary": "روباټ:د %(count)d {{PLURAL:%(count)d\n|سرليکې|سرليکو}} (%(why)s) ته %(archives)s خونديځول"
 }
