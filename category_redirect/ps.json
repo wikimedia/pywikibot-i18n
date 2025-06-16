@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"category_redirect-fix-double": "روباټ: غبرگ مخگرځ سکول",
+	"category_redirect-log-added": "* %(oldcat)s ته [[%(ns)s%(template)s]] ورگډه‌شوه",
+	"category_redirect-log-add-failed": "%(oldcat)s ته [[%(ns)s%(template)s]] ورگډه نشوه",
+	"category_redirect-log-double": "* د غبرگ مخگرځ سمول: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** ناکام شو: %(error)s",
+	"category_redirect-log-false-positive": "* ناڅاپي نامخگرځ:  %(oldcat)s"
+}

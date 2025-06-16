@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"checkimages-doubles-head": "دوه‌گونې دوتنه",
+	"checkimages-doubles-talk-comment": "روباټ: خبر ورکړی چې دوتنه له مخکې په خونديځ کې شته",
+	"checkimages-forced-mode": "(''''زورمنلی ونگ‌ډول'''')",
+	"checkimages-has-duplicates": "لاندې دوه‌گوني %(force)s لري:",
+	"checkimages-log-comment": "روباټ: يادښت هممهاله کول",
+	"checkimages-no-license-head": "بې منښتليکه انځور",
+	"checkimages-source-tag-comment": "روباټ: نوی راپورته‌شوې بې‌نښلنه دوتنه نښه‌کول",
+	"checkimages-source-notice-comment": "روباټ: د سرچینې مالومات غوښتل.",
+	"checkimages-unknown-extension-head": "ناپېژانده غځونه!"
+}
