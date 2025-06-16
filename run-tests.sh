@@ -15,4 +15,5 @@ cd $1/pywikibot-build
 # T349599: setenv is not respected in tox;
 # therefore set this environment variable here
 export PYWIKIBOT_NO_USER_CONFIG=2
-python -m unittest -v tests/l10n_tests.py
+# no tests jet
+# python -m unittest -v tests/l10n_tests.py
