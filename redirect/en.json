@@ -4,7 +4,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "Fixing broken redirect from %(from)s to moved target page %(to)s",
 	"redirect-fix-double": "Fixing double redirect from %(from)s to %(to)s",
 	"redirect-fix-loop": "Fixing redirect loop from %(from)s to %(to)s",

@@ -11,7 +11,6 @@
 	},
 	"archivebot-archive-full": "Appended to the summary.",
 	"archivebot-archive-summary": "Summary message when the bot adds threads to the archive",
-	"archivebot-archiveheader": "{{doc-important|Only use your deletion template like <code><nowiki>{{talk archive}}</nowiki></code> which exist on your local project.}}\nNOTE TO TRANSLATOR: This should only be translated by someone on the Wikipedia of your language code. Thank you.\n\nTemplate that will be put on new archive pages as the header.\n\nNOTE: If this system message is not given for a language code, an archiving bot might not be supported on your site.",
 	"archivebot-older-than": "\"duration\" is the localized form of the elapsed time.\n{{Identical|Older than}}\n\"count\" can be used to make a plural from \"older\"",
 	"archivebot-page-summary": "Summary message when the bot removes threads from a talk page for archiving"
 }
