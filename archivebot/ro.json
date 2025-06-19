@@ -8,7 +8,6 @@
 	},
 	"archivebot-archive-full": "(ARHIVĂ COMPLETĂ)",
 	"archivebot-archive-summary": "Robot: Se arhivează %(count)d discuții de la [[%(from)s]]",
-	"archivebot-archiveheader": "{{Arhivă}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|mai vechi}} de %(duration)s",
 	"archivebot-page-summary": "Robot: Se arhivează %(count)d discuții (%(why)s) în %(archives)s"
 }

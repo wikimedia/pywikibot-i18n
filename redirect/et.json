@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Pikne"
-		]
-	},
-	"redirect-fix-broken-moved": "parandatud ümbersuunamine teisaldatud sihtleheküljele %(to)s",
-	"redirect-fix-double": "parandatud kahekordne ümbersuunamine leheküljele %(to)s"
-}

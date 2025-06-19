@@ -9,7 +9,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Брзо брисање|[[ВП:КББ|П1]]}}",
 	"redirect-fix-broken-moved": "исправљено неисправно преусмерење из %(from)s до премештене одредишне странице %(to)s.",
 	"redirect-fix-double": "исправљено двоструко преусмерење из %(from)s у %(to)s.",
 	"redirect-fix-loop": "исправљена петља преусмерења из %(from)s у %(to)s.",

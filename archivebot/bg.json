@@ -8,6 +8,5 @@
 		]
 	},
 	"archivebot-archive-full": "(АРХИВЪТ Е ПЪЛЕН)",
-	"archivebot-archiveheader": "{{Архив беседа}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|по-старо}} от %(duration)s"
 }

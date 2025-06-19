@@ -6,7 +6,6 @@
 			"আফতাবুজ্জামান"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "স্থানান্তরিত পাতা %(to)s-এ করা ভাঙা পুনর্নির্দেশ ঠিক করেছে",
 	"redirect-fix-double": "%(to)s পাতায় করা দ্বিপুনর্নির্দেশনা ঠিক করেছে",
 	"redirect-fix-loop": "%(to)s-এ করা পুনর্নির্দেশনা লুপ ঠিক করেছে",

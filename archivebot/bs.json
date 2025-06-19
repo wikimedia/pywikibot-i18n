@@ -8,7 +8,6 @@
 	},
 	"archivebot-archive-full": "(ARHIVA PUNA)",
 	"archivebot-archive-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} sa stranice [[%(from)s]]",
-	"archivebot-archiveheader": "{{Razgovor arhiva}}",
 	"archivebot-older-than": "starije od %(duration)s",
 	"archivebot-page-summary": "Arhiviranje %(count)d {{PLURAL:%(count)d|teme|teme|tema}} (%(why)s) u arhivu %(archives)s"
 }

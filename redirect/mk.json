@@ -6,7 +6,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db|[[ВП:КББ|O8]]}}",
 	"redirect-fix-broken-moved": "Исправка на прекинато пренасочување кон преместена целна страница %(to)s",
 	"redirect-fix-double": "Исправка на двојни пренасочувања → %(to)s",
 	"redirect-fix-loop": "Поправа јамка на пренасочување кон %(to)s",

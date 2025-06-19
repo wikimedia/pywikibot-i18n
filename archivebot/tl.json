@@ -7,7 +7,6 @@
 	},
 	"archivebot-archive-full": "(PUNO NA TAGUAN)",
 	"archivebot-archive-summary": "Bot: Tinatago ang %(count)d {{PLURAL:%(count)d|usapan|(na) usapan}} mula sa [[%(from)s]]",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|mas luma}} pa sa %(duration)s",
 	"archivebot-page-summary": "Bot: Tinatago ang %(count)d {{PLURAL:%(count)d|usapan|(na) usapan}} (%(why)s) sa %(archives)s"
 }

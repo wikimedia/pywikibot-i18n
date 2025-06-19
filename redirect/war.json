@@ -5,7 +5,6 @@
 			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Paraa|1=Nautod o nagbinalikbalik nga redirek.}}",
 	"redirect-fix-double": "Gin-ayad in nagduduha nga redirek → %(to)s",
 	"redirect-fix-loop": "Gin-aayad in redirek nga loop ngadto ha %(to)s",
 	"redirect-remove-broken": "Redirek ngadto hin ginpárà o waray-didâ nga pakli",

@@ -6,7 +6,6 @@
 			"Sarrus"
 		]
 	},
-	"redirect-broken-redirect-template": "{{slet}}",
 	"redirect-fix-broken-moved": "Retter brudt omdirigering til flyttet målside %(to)s",
 	"redirect-fix-double": "Retter dobbelt omdirigering til %(to)s",
 	"redirect-fix-loop": "Retter omdirigeringsløkke til %(to)s",

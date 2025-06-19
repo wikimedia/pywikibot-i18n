@@ -9,7 +9,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-redirnone}}",
 	"redirect-fix-broken-moved": "Бот: Исправление неработающего перенаправления на перемещенную целевую страницу %(to)s",
 	"redirect-fix-double": "исправление двойного перенаправления на %(to)s",
 	"redirect-fix-loop": "исправление зацикленного перенаправления на %(to)s",

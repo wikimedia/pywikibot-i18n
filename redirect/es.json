@@ -11,7 +11,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{destruir|1=Bot: la página a la que ésta redirige no existe}}",
 	"redirect-fix-broken-moved": "corrección de redirección rota hacia la página de destino trasladada «%(to)s»",
 	"redirect-fix-double": "corrección de redirección doble a %(to)s",
 	"redirect-fix-loop": "corrección de redirección infinita a %(to)s",

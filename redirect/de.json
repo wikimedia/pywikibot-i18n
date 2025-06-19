@@ -8,7 +8,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Löschen|Defekte Weiterleitung}}",
 	"redirect-fix-broken-moved": "Korrigiere defekte Weiterleitung von %(from)s auf Verschiebeziel %(to)s",
 	"redirect-fix-double": "Korrigiere doppelte Weiterleitung von %(from)s auf %(to)s",
 	"redirect-fix-loop": "Korrigiere Weiterleitungschleife von %(from)s auf %(to)s",

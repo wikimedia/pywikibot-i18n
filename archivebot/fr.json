@@ -11,7 +11,6 @@
 	},
 	"archivebot-archive-full": "(ARCHIVE SATURÉE)",
 	"archivebot-archive-summary": "Robot : archivage de %(count)d sujet{{PLURAL:%(count)d||s}} depuis [[%(from)s]]",
-	"archivebot-archiveheader": "{{Archive de discussion}}",
 	"archivebot-older-than": "plus ancien{{PLURAL:%(count)d||s}} que %(duration)s",
 	"archivebot-page-summary": "Robot : archivage de %(count)d sujet{{PLURAL:%(count)d||s}} (%(why)s) vers %(archives)s"
 }

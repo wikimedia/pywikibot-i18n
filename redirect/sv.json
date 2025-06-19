@@ -8,7 +8,6 @@
 			"WikiPhoenix"
 		]
 	},
-	"redirect-broken-redirect-template": "{{radera|Trasig omdirigering}}",
 	"redirect-fix-broken-moved": "Reparerade trasig omdirigering till den flyttade målsidan %(to)s",
 	"redirect-fix-double": "Rättar dubbel omdirigering till %(to)s",
 	"redirect-fix-loop": "Fixar omdirigeringsloop till %(to)s",

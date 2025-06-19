@@ -6,7 +6,6 @@
 			"SuperPotato"
 		]
 	},
-	"redirect-broken-redirect-template": "{{hurtigslett|Feilaktig omdirigering}}",
 	"redirect-fix-broken-moved": "Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet",
 	"redirect-fix-double": "Retter dobbel omdirigering til %(to)s",
 	"redirect-fix-loop": "Fikser omdirigeringsløkke til %(to)s",

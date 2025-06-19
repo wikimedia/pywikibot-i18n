@@ -10,7 +10,6 @@
 			"阿pp"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "修正损坏重定向%(from)s到已移动的目标页面%(to)s",
 	"redirect-fix-double": "修正双重重定向%(from)s至%(to)s",
 	"redirect-fix-loop": "修正循环重定向%(from)s至%(to)s",

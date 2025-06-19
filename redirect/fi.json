@@ -10,7 +10,6 @@
 			"Silvonen"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Pikapoisto|1=|2=O2}}",
 	"redirect-fix-broken-moved": "Korjasi rikkinäisen ohjauksen siirrettyyn kohdesivuun %(to)s",
 	"redirect-fix-double": "Korjasi kaksinkertaisen ohjauksen sivulle %(to)s",
 	"redirect-fix-loop": "Korjasi ohjaussilmukan sivulle %(to)s",

@@ -7,7 +7,6 @@
 			"Ximo17"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Cancella subito|9}}",
 	"redirect-fix-broken-moved": "Correggo reindirizzamento interrotto da %(from)s alla pagina spostata %(to)s",
 	"redirect-fix-double": "Sistemo i reindirizzamenti doppi da %(from)s a %(to)s",
 	"redirect-fix-loop": "Correggo ciclo di reindirizzamento da %(from)s a %(to)s",

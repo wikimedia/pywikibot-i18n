@@ -7,7 +7,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "Riparas rompitan alidirekton al movita celpaĝo %(to)s",
 	"redirect-fix-double": "Riparas duoblan alidirekton al %(to)s",
 	"redirect-fix-loop": "Riparas ciklan alidirektilon al %(to)s",

@@ -11,7 +11,6 @@
 			"جواد"
 		]
 	},
-	"redirect-broken-redirect-template": "{{حذف سریع|بن بست|bot=yes}}",
 	"redirect-fix-broken-moved": "در حال اصلاح تغییر مسیر خراب از %(from)s به صفحهٔ هدف منتقل‌شده %(to)s",
 	"redirect-fix-double": "در حال اصلاح تغییرمسیر دوتایی از %(from)s به %(to)s",
 	"redirect-fix-loop": "در حال اصلاح حلقهٔ تغییرمسیر از %(from)s به %(to)s",

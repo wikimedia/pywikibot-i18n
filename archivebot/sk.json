@@ -11,7 +11,6 @@
 	},
 	"archivebot-archive-full": "(ARCHÍV JE PLNÝ)",
 	"archivebot-archive-summary": "Bot: Archivácia vlákien: %(count)d z [[%(from)s]]",
-	"archivebot-archiveheader": "{{Archív koniec}}",
 	"archivebot-older-than": "%(count)d je/sú staršie ako %(duration)s",
 	"archivebot-page-summary": "Bot: archivujem %(count)d {{PLURAL:%(count)d|vlákno|vlákna|vlákien}} (%(why)s) do %(archives)s"
 }

@@ -9,7 +9,6 @@
 			"Ty221"
 		]
 	},
-	"redirect-broken-redirect-template": "{{ek|przekierowanie do usuniętej lub nieistniejącej strony}}",
 	"redirect-fix-broken-moved": "Poprawa urwanych przekierowań - przeniesiono cel do %(to)s",
 	"redirect-fix-double": "Robot naprawił podwójne przekierowanie do %(to)s",
 	"redirect-fix-loop": "Naprawa pętli przekierowań do %(to)s",

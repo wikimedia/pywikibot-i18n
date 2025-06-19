@@ -6,7 +6,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Brisanje}}",
 	"redirect-fix-broken-moved": "Neispravno preusmjerenje prema premještenoj stranici %(to)s",
 	"redirect-fix-double": "Popravlja dvostruka preusmjerenja na %(to)s",
 	"redirect-fix-loop": "Popravlja petlje preusmjerenja na %(to)s",

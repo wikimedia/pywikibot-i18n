@@ -5,7 +5,6 @@
 			"Purodha"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Schmieß fott|1=Di [[Wikipedia:Ömleijdung|Ömlëijdong]] jeiht noh nörjendswoh hen.}}",
 	"redirect-fix-broken-moved": "De kappodde Ömleidong op de ömjenannte Sigg %(to)s es reppareert.",
 	"redirect-fix-double": "[[Special:Doubleredirects|Dubbel Ömlëijdong]] fottjemaat → %(to)s",
 	"redirect-fix-loop": "En Reih vun Ömleidonge jeng em Kreis eröm. Op %(to)s jescheck.",

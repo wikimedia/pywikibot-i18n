@@ -8,7 +8,6 @@
 	},
 	"archivebot-archive-full": "(ARCHIVE FUL)",
 	"archivebot-archive-summary": "Bot: Archivin %(count)d {{PLURAL:%(count)d|thread|threads}} fae [[%(from)s]]",
-	"archivebot-archiveheader": "{{Talk archive}}",
 	"archivebot-older-than": "aulder than %(duration)s",
 	"archivebot-page-summary": "Bot: Archivin %(count)d {{PLURAL:%(count)d|thread|threads}} (%(why)s) til %(archives)s"
 }

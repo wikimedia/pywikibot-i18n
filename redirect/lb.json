@@ -7,7 +7,6 @@
 			"Volvox"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Läschen|1=Defekt Viruleedung}}",
 	"redirect-fix-broken-moved": "Futtis Viruleedung op déi geréckelt Zilsäit %(to)s gouf gefléckt",
 	"redirect-fix-double": "Duebel Viruleedung gefléckt → %(to)s",
 	"redirect-fix-loop": "Verbesserung vun der Viruleedungsschleef op %(to)s",

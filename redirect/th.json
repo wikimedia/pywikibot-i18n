@@ -5,7 +5,6 @@
 			"Octahedron80"
 		]
 	},
-	"redirect-broken-redirect-template": "{{ลบ|หน้าเปลี่ยนทางเสีย}}",
 	"redirect-fix-broken-moved": "แก้หน้าเปลี่ยนทางเสียไปยังหน้าเป้าหมายการย้าย %(to)s",
 	"redirect-fix-double": "แก้หน้าเปลี่ยนทางซ้ำซ้อนไปเป็น %(to)s",
 	"redirect-fix-loop": "แก้หน้าเปลี่ยนทางวนรอบไปเป็น %(to)s",

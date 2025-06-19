@@ -10,7 +10,6 @@
 	},
 	"archivebot-archive-full": "(ARCHIWUM PEŁNE)",
 	"archivebot-archive-summary": "Robot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} z [[%(from)s]]",
-	"archivebot-archiveheader": "{{archiwum}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|starszy|starszych|starsze}} niż %(duration)s",
 	"archivebot-page-summary": "Bot: Archiwizacja %(count)d {{PLURAL:%(count)d|wątku|wątków|wątków}} (%(why)s) do %(archives)s"
 }

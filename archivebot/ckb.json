@@ -11,7 +11,6 @@
 	},
 	"archivebot-archive-full": "(ئەرشیڤ پڕە)",
 	"archivebot-archive-summary": "بۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} لە [[%(from)s]]",
-	"archivebot-archiveheader": "{{ئەرشیڤی وتووێژ}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|کۆنتر}} لە %(duration)s",
 	"archivebot-page-summary": "بۆت: ئەرشیڤکردنی %(count)d {{PLURAL:%(count)d|بابەت|بابەت}} (%(why)s) بۆ %(archives)s"
 }

@@ -7,7 +7,6 @@
 			"YuriNikolai"
 		]
 	},
-	"redirect-broken-redirect-template": "{{ER|R1|2=~~~~}}",
 	"redirect-fix-broken-moved": "consertando redirecionamento quebrado para página-alvo movida %(to)s",
 	"redirect-fix-double": "Corrigindo redirecionamento duplo para %(to)s",
 	"redirect-fix-loop": "Corrigindo ciclo de redirecionamentos para %(to)s",

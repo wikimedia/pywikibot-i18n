@@ -10,7 +10,6 @@
 	},
 	"archivebot-archive-full": "(ARQUIVO COMPLETO)",
 	"archivebot-archive-summary": "Bot: arquivo de %(count)d {{PLURAL:%(count)d|fío|fíos}} de [[%(from)s]]",
-	"archivebot-archiveheader": "{{Arquivo}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|máis antigo}} que %(duration)s",
 	"archivebot-page-summary": "Bot: arquivo de %(count)d {{PLURAL:%(count)d|fío|fíos}} (%(why)s) en %(archives)s"
 }

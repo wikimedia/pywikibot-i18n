@@ -8,7 +8,6 @@
 			"Xxglennxx"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Dileu}}",
 	"redirect-fix-broken-moved": "Yn trwsio ail-gyfeiriad toredig i dudalen darged %(to)s",
 	"redirect-fix-double": "Yn trwsio ail-gyfeiriad dwbl i %(to)s",
 	"redirect-fix-loop": "Yn trwsio dolen ail-gyfeirio i %(to)s",

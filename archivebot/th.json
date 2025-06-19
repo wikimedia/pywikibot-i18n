@@ -8,7 +8,6 @@
 	},
 	"archivebot-archive-full": "(กรุเต็ม)",
 	"archivebot-archive-summary": "บอต: เก็บ %(count)d {{PLURAL:%(count)d|หัวข้อ}} ลงกรุ จาก [[%(from)s]]",
-	"archivebot-archiveheader": "{{กรุ}}",
 	"archivebot-older-than": "%(count)d เก่ากว่า %(duration)s",
 	"archivebot-page-summary": "บอต: เก็บ %(count)d {{PLURAL:%(count)d|หัวข้อ}} (%(why)s) ไปยัง %(archives)s"
 }

@@ -4,7 +4,6 @@
 			"MarcoAurelio"
 		]
 	},
-	"redirect-broken-redirect-template": "{{destruyir|1=Bot: a pachina a la quala ista reendreza no existe.}}",
 	"redirect-fix-broken-moved": "apanyando endrecera trencata enta la páchina %(to)s",
 	"redirect-fix-double": "apanyando endrecera dople enta %(to)s",
 	"redirect-fix-loop": "apanyo d'endrecera infinita a %(to)s",

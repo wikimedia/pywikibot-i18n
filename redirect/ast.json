@@ -7,7 +7,6 @@
 			"Xuacu"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Destruir|1=Bot: la páxina a la que redirixe nun esiste|2=--~~~~}}",
 	"redirect-fix-broken-moved": "Arreglu de redireición frañada a la páxina de destín treslladada \"%(to)s\"",
 	"redirect-fix-double": "Iguando la redireición doble a %(to)s",
 	"redirect-fix-loop": "Iguando la redireición cíclica a %(to)s",

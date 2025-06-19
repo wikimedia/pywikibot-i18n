@@ -5,7 +5,6 @@
 			"Minh Nguyen"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-đh1}}",
 	"redirect-fix-broken-moved": "Sửa đổi hướng hỏng đến %(to)s",
 	"redirect-fix-double": "Giải quyết đổi hướng kép đến %(to)s",
 	"redirect-fix-loop": "Sửa vòng lặp đổi hướng đến %(to)s",

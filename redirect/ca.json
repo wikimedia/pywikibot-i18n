@@ -8,7 +8,6 @@
 			"Vriullop"
 		]
 	},
-	"redirect-broken-redirect-template": "{{db-r1}}",
 	"redirect-fix-broken-moved": "Reparació de les redireccions trencades per moure-les a %(to)s",
 	"redirect-fix-double": "reparació de les redireccions dobles a %(to)s",
 	"redirect-fix-loop": "arreglant redirecció en bucle per %(to)s",

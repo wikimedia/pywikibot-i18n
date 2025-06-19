@@ -11,7 +11,6 @@
 	},
 	"archivebot-archive-full": "(MEGTELT)",
 	"archivebot-archive-summary": "Bot: {{PLURAL:%(count)d|Egy|%(count)d}} szakasz archiválása a [[%(from)s]] lapról",
-	"archivebot-archiveheader": "{{Archív vitalap}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|régebbi|régebbiek}}, mint %(duration)s",
 	"archivebot-page-summary": "Bot: {{PLURAL:%(count)d|Egy|%(count)d}} szakasz archiválása (%(why)s) a %(archives)s lapra"
 }

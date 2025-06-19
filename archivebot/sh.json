@@ -7,7 +7,6 @@
 	},
 	"archivebot-archive-full": "(ARHIVA JE PUNA)",
 	"archivebot-archive-summary": "{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} iz [[%(from)s]]",
-	"archivebot-archiveheader": "{{talkarchive}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|starije}} od %(duration)s",
 	"archivebot-page-summary": "{{PLURAL:%(count)d|Arhivirana %(count)d tema|Arhivirane %(count)d teme|Arhivirano %(count)d tema}} (%(why)s) u %(archives)s"
 }

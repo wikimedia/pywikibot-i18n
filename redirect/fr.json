@@ -14,7 +14,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-broken-redirect-template": "{{Suppression Immédiate|1=G8}}",
 	"redirect-fix-broken-moved": "Correction des redirections erronées depuis %(from)s vers la page déplacée cible %(to)s",
 	"redirect-fix-double": "Correction d’une double redirection depuis %(from)s vers %(to)s",
 	"redirect-fix-loop": "Correction d’une boucle de redirection depuis %(from)s sur %(to)s",

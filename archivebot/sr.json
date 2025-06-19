@@ -11,7 +11,6 @@
 	},
 	"archivebot-archive-full": "(АРХИВА ЈЕ ПУНА)",
 	"archivebot-archive-summary": "Бот: {{PLURAL:%(count)d|архивирање %(count)d теме|архивирање %(count)d теме|архивирање %(count)d тема}} из [[%(from)s]].",
-	"archivebot-archiveheader": "{{страница архива}}",
 	"archivebot-older-than": "{{PLURAL:%(count)d|старије}} од %(duration)s",
 	"archivebot-page-summary": "Бот: {{PLURAL:%(count)d|архивирање %(count)d теме|архивирање %(count)d теме|архивирање %(count)d тема}} (%(why)s) у %(archives)s"
 }

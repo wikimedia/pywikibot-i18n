@@ -11,7 +11,6 @@
 			"Vks"
 		]
 	},
-	"redirect-broken-redirect-template": "{{smazat|přerušené přesměrování}}",
 	"redirect-fix-broken-moved": "oprava přerušeného přesměrování na přesunutou cílovou stránku %(to)s",
 	"redirect-fix-double": "oprava dvojitého přesměrování na „%(to)s“",
 	"redirect-fix-loop": "oprava smyčky přesměrování na %(to)s",
