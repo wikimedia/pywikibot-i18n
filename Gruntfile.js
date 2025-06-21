@@ -11,4 +11,3 @@ module.exports = function ( grunt ) {
 	grunt.registerTask( 'test', ['lint'] );
 	grunt.registerTask( 'default', ['test'] );
 };
-

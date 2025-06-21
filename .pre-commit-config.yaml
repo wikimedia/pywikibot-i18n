@@ -1,0 +1,41 @@
+default_install_hook_types:
+  - commit-msg
+  - pre-commit
+repos:
+  - repo: meta
+    hooks:
+      - id: check-hooks-apply
+      - id: check-useless-excludes
+  - repo: https://gitlab.wikimedia.org/repos/ci-tools/commit-message-validator
+    rev: v2.1.0
+    hooks:
+      - id: commit-message-validator
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-added-large-files
+        args:
+          - --maxkb=100
+      - id: check-case-conflict
+      - id: check-executables-have-shebangs
+      - id: check-json
+      - id: check-merge-conflict
+      - id: check-shebang-scripts-are-executable
+      - id: check-vcs-permalinks
+      - id: check-yaml
+      - id: destroyed-symlinks
+      - id: detect-private-key
+      - id: double-quote-string-fixer
+      - id: end-of-file-fixer
+      - id: fix-byte-order-marker
+      - id: mixed-line-ending
+      - id: pretty-format-json
+        # list required for tab
+        args: ["--autofix", "--indent", "\t", "--no-ensure-ascii"]
+        exclude: ^package(-lock)?.json
+      - id: pretty-format-json
+        args: ["--autofix", "--indent", "\t", "--no-ensure-ascii", "--no-sort-keys"]
+        exclude: ^.+/.+\.json
+      - id: trailing-whitespace
+        args:
+          - --markdown-linebreak-ext=rst
