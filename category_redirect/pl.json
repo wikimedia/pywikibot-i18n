@@ -12,6 +12,6 @@
 	"category_redirect-edit-request": "Następujące zabezpieczone strony wykryto jako wymagające naprawy kategorii: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s jest w %(oldcat)s, która jest przekierowaniem do %(newcat)s",
 	"category_redirect-fix-double": "Robot naprawił podwójne przekierowanie",
-	"category_redirect-log-added": "* Dodano [[%(ns)s%(template)s]] do %(oldcat)s",
-	"category_redirect-log-add-failed": "* Dodawanie [[%(ns)s%(template)s]] do %(oldcat)s nie powiodło się"
+	"category_redirect-log-add-failed": "* Dodawanie [[%(ns)s%(template)s]] do %(oldcat)s nie powiodło się",
+	"category_redirect-log-added": "* Dodano [[%(ns)s%(template)s]] do %(oldcat)s"
 }

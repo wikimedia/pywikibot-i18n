@@ -14,8 +14,8 @@
 	"checkimages-has-duplicates": "har følgende duplikater%(force)s:",
 	"checkimages-log-comment": "Bot: Oppdaterer loggen",
 	"checkimages-no-license-head": "Bilde uten lisens",
-	"checkimages-source-tag-comment": "Robot: Markerer den nylig opplastet umarkerte filen",
 	"checkimages-source-notice-comment": "Robot: Spør etter kilde informasjon.",
+	"checkimages-source-tag-comment": "Robot: Markerer den nylig opplastet umarkerte filen",
 	"checkimages-unknown-extension-head": "Ukjent filendelse!",
 	"checkimages-unknown-extension-msg": "Fila %(file)s ser ut til å ha gal filendelse, vennligst sjekk."
 }

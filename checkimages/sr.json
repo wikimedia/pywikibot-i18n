@@ -20,8 +20,8 @@
 	"checkimages-has-duplicates": "има следеће дупликате%(force)s:",
 	"checkimages-log-comment": "Бот: ажурирање дневника.",
 	"checkimages-no-license-head": "Слика без лиценце",
-	"checkimages-source-tag-comment": "Бот: означена новоотпремљена неозначена датотека.",
 	"checkimages-source-notice-comment": "Бот: нема извор информација.",
+	"checkimages-source-tag-comment": "Бот: означена новоотпремљена неозначена датотека.",
 	"checkimages-unknown-extension-head": "Непознат додатак!",
 	"checkimages-unknown-extension-msg": "Изгледа да датотека %(file)s садржи погрешну екстензију."
 }

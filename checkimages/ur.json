@@ -9,8 +9,8 @@
 	"checkimages-deletion-comment": "خودکار: اضافہ %(adding)s",
 	"checkimages-log-comment": "خودکار: تجدید نوشتہ",
 	"checkimages-no-license-head": "تصویر بدون اجازت نامہ",
-	"checkimages-source-tag-comment": "خودکار: جدید اپلوڈ کردہ اور غیر ٹیگ شدہ فائل کی نشان زدگی",
 	"checkimages-source-notice-comment": "خودکار: درخواست ماخذ معلومات",
+	"checkimages-source-tag-comment": "خودکار: جدید اپلوڈ کردہ اور غیر ٹیگ شدہ فائل کی نشان زدگی",
 	"checkimages-unknown-extension-head": "نامعلوم توسیع!",
 	"checkimages-unknown-extension-msg": "ملف %(file)s کی توسیع شاید درست نہیں ہے، براہ کرم جانچ لیں۔"
 }

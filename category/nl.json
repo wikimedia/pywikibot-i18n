@@ -15,9 +15,9 @@
 	"category-renamed": "Robot: hernoemd van %(oldcat)s. Auteurs: %(authors)s",
 	"category-replacing": "Robot: categorie %(oldcat)s is vervangen door %(newcat)s",
 	"category-section-title": "Paginageschiedenis van voormalige %(oldcat)s",
+	"category-strip-both": "Robot: CFD-sjablonen en sorteersleutels verwijderd voor afgeronde handeling",
 	"category-strip-cfd-templates": "Robot: categorieverwijderingssjablonen verwijderd voor afgeronde handeling",
 	"category-strip-sort-keys": "Robot: sorteersleutels verwijderd voor afgeronde handeling",
-	"category-strip-both": "Robot: CFD-sjablonen en sorteersleutels verwijderd voor afgeronde handeling",
 	"category-version-history": "Robot: versiegeschiedenis van voormalige %(oldcat)s opgeslagen",
 	"category-was-disbanded": "Robot: categorie is opgeheven",
 	"category-was-moved": "Robot: de categorie is hernoemd tot [[:Category:%(newcat)s|%(title)s]]"

@@ -10,8 +10,8 @@
 	"checkimages-doubles-talk-comment": "Bot: meld dat et bestand al up Commons besteyt",
 	"checkimages-log-comment": "Bot: logbook bywarken",
 	"checkimages-no-license-head": "Afbealding sunder licensy",
-	"checkimages-source-tag-comment": "Bot: ny bestand sunder etiketten markeerd",
 	"checkimages-source-notice-comment": "Bot: versöök üm brongegeavens",
+	"checkimages-source-tag-comment": "Bot: ny bestand sunder etiketten markeerd",
 	"checkimages-unknown-extension-head": "Unbekende ekstensy!",
 	"checkimages-unknown-extension-msg": "Et bestand %(file)s skynt een verkeyrde ekstensy te hebben, graege nåkyken."
 }

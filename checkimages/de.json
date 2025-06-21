@@ -16,8 +16,8 @@
 	"checkimages-has-duplicates": "hat die folgenden Duplikate%(force)s:",
 	"checkimages-log-comment": "Bot: Log wird aktualisiert",
 	"checkimages-no-license-head": "Bild ohne Lizenz",
-	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
 	"checkimages-source-notice-comment": "Bot: Quellinformationen anfordern.",
+	"checkimages-source-tag-comment": "Bot: Markiere zur Dateiüberprüfung, da keine Lizenzvorlage gefunden.",
 	"checkimages-unknown-extension-head": "Unbekannte Erweiterung!",
 	"checkimages-unknown-extension-msg": "Die Datei %(file)s scheint eine falsche Erweiterung zu haben. Bitte überprüfen."
 }

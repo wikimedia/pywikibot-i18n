@@ -11,9 +11,9 @@
 	"category-renamed": "Bot: hernöömd van %(oldcat)s. Autöörs: %(authors)s",
 	"category-replacing": "Bot: kategory %(oldcat)s is vervüngen döär %(newcat)s",
 	"category-section-title": "Sydgeskydenisse van vöärmålige %(oldcat)s",
+	"category-strip-both": "Bot: smit CFD-mallen en sorteerslöätels vord vöär afhandelde akty",
 	"category-strip-cfd-templates": "Bot: kategoryvordsmytmallen vordsmeaten vöär een afrunde handeling",
 	"category-strip-sort-keys": "Bot: smit sorteerslöätels vord vöär afhandelde akty",
-	"category-strip-both": "Bot: smit CFD-mallen en sorteerslöätels vord vöär afhandelde akty",
 	"category-version-history": "Bot: versygeskydenisse van vöärmålige %(oldcat)s seakerd",
 	"category-was-disbanded": "Bot: kategory besteyt neet meyr",
 	"category-was-moved": "Bot: kategory is hernöömd nå [[:Category:%(newcat)s|%(title)s]]"

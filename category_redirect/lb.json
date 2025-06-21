@@ -15,8 +15,8 @@
 	"category_redirect-log-failed": "** Feeler: %(error)s",
 	"category_redirect-log-ignoring": "* Ignoréieren %(oldcat)s",
 	"category_redirect-log-loop": "* Viruleedungsschläif vun %(oldcat)s",
-	"category_redirect-log-moved": "* %(oldcat)s: %(found)d fonnt, %(moved)d geréckelt",
 	"category_redirect-log-move-error": "* %(oldcat)s: Feeler a move_contents",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d fonnt, %(moved)d geréckelt",
 	"category_redirect-log-new": "Nei Viruleedungen zanter dem leschte Rapport:",
 	"category_redirect-log-not-loaded": "* %(oldcat)s konnt net gelueden ginn; gëtt ignoréiert",
 	"category_redirect-problem-redirects": "# %(oldcat)s leet op %(redpage)s virun"

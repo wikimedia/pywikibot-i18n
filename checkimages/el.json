@@ -12,8 +12,8 @@
 	"checkimages-doubles-talk-comment": "Ρομπότ: Ενημέρωση οτι το αρχείο υπάρχει ήδη στο Wikimedia Commons",
 	"checkimages-log-comment": "Ρομπότ: Ενημέρωση αρχείου καταγραφής",
 	"checkimages-no-license-head": "Εικόνα χωρίς άδεια χρήσης",
-	"checkimages-source-tag-comment": "Ρομπότ:Σήμανση πρόσφατα ανεβασμένων αρχείων χωρίς ετικέτα.",
 	"checkimages-source-notice-comment": "Ρομπότ: Αίτημα για πληροφορία πηγής",
+	"checkimages-source-tag-comment": "Ρομπότ:Σήμανση πρόσφατα ανεβασμένων αρχείων χωρίς ετικέτα.",
 	"checkimages-unknown-extension-head": "Άγνωστη κατάληξη!",
 	"checkimages-unknown-extension-msg": "\nΤο %(file)s αρχείο φαίνεται οτι έχει λάθος κατάληξη, παρακαλώ ελέγξετε"
 }

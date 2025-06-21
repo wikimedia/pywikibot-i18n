@@ -14,8 +14,8 @@
 	"checkimages-has-duplicates": "aşağıdaki kopyalara sahiptir%(force)s:",
 	"checkimages-log-comment": "Bot: Günlüğü güncelleme",
 	"checkimages-no-license-head": "Lisanssız resim",
-	"checkimages-source-tag-comment": "Bot: Yeni yüklenen etiketsiz dosyayı işaretleme",
 	"checkimages-source-notice-comment": "Bot: Kaynak bilgisi talep ediliyor.",
+	"checkimages-source-tag-comment": "Bot: Yeni yüklenen etiketsiz dosyayı işaretleme",
 	"checkimages-unknown-extension-head": "Bilinmeyen uzantı!",
 	"checkimages-unknown-extension-msg": "%(file)s dosyası yanlış bir uzantıya sahip görünüyor, lütfen kontrol edin."
 }

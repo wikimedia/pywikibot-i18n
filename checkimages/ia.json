@@ -13,8 +13,8 @@
 	"checkimages-has-duplicates": "ha le sequente duplicatos%(force)s:",
 	"checkimages-log-comment": "Robot: Actualisa le registro",
 	"checkimages-no-license-head": "Imagine sin licentia",
-	"checkimages-source-tag-comment": "Robot: Marca un file novemente incargate sin etiquetta",
 	"checkimages-source-notice-comment": "Robot: Requesta information sur le fonte",
+	"checkimages-source-tag-comment": "Robot: Marca un file novemente incargate sin etiquetta",
 	"checkimages-unknown-extension-head": "Extension incognite!",
 	"checkimages-unknown-extension-msg": "Le file %(file)s pare haber un extension incorrecte. Per favor verifica."
 }

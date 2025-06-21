@@ -10,8 +10,8 @@
 	"checkimages-doubles-talk-comment": "Bot: Bööd, dat detdiar datei al üüb Commons leit",
 	"checkimages-log-comment": "Bot: skriiw log",
 	"checkimages-no-license-head": "Bil saner lisens",
-	"checkimages-source-tag-comment": "Bot: Nei huuchschüürd datei saner lisens markiaret.",
 	"checkimages-source-notice-comment": "Bot: Bööd auer lisensen",
+	"checkimages-source-tag-comment": "Bot: Nei huuchschüürd datei saner lisens markiaret.",
 	"checkimages-unknown-extension-head": "Ünbekäänd ütjwidjang!",
 	"checkimages-unknown-extension-msg": "Det datei %(file)s hää woorskiinelk en ferkiard aanj. Luke diar noch ans efter."
 }

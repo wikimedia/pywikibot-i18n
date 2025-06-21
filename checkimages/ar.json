@@ -16,8 +16,8 @@
 	"checkimages-has-duplicates": "يحتوي على التكرارات التالية%(force)s:",
 	"checkimages-log-comment": "بوت: تحديث السجل",
 	"checkimages-no-license-head": "صورة بدون ترخيص",
-	"checkimages-source-tag-comment": "بوت: التعليم على ملف مرفوع حديثا غير موسوم",
 	"checkimages-source-notice-comment": "بوت: طلب معلومات المصدر.",
+	"checkimages-source-tag-comment": "بوت: التعليم على ملف مرفوع حديثا غير موسوم",
 	"checkimages-unknown-extension-head": "امتداد غير معروف!",
 	"checkimages-unknown-extension-msg": "الملف %(file)s يبدو أن امتداده خاطئ، من فضلك تحقق."
 }

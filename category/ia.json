@@ -12,9 +12,9 @@
 	"category-renamed": "Robot: Transferite de %(oldcat)s. Autores: %(authors)s",
 	"category-replacing": "Robot: Reimplacia categoria %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historia del pagina del ancian %(oldcat)s",
+	"category-strip-both": "Robot: Remove patronos CFD e claves de ordinamento pro le action concludite",
 	"category-strip-cfd-templates": "Robot: Remove patronos CFD pro le action concludite",
 	"category-strip-sort-keys": "Robot: Remove claves de ordinamento pro le action concludite",
-	"category-strip-both": "Robot: Remove patronos CFD e claves de ordinamento pro le action concludite",
 	"category-version-history": "Robot: Salveguarda le historia de versiones del ancian %(oldcat)s",
 	"category-was-disbanded": "Robot: Le categoria ha essite dissolvite",
 	"category-was-moved": "Robot: Categoria renominate a [[:Category:%(newcat)s|%(title)s]]"

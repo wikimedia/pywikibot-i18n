@@ -15,8 +15,8 @@
 	"checkimages-has-duplicates": "en deus an eilvedadoù%(force)s da heul:",
 	"checkimages-log-comment": "Robot : o hizivaat ar marilh",
 	"checkimages-no-license-head": "Skeudenn hep aotre-implijout",
-	"checkimages-source-tag-comment": "Robot : o verkañ ar restroù hep tikedenn pellgarget nevez zo",
 	"checkimages-source-notice-comment": "Robot : O klask titouroù a-zivout ar vammenn.",
+	"checkimages-source-tag-comment": "Robot : o verkañ ar restroù hep tikedenn pellgarget nevez zo",
 	"checkimages-unknown-extension-head": "Astenn dianav !",
 	"checkimages-unknown-extension-msg": "Evit doare ez eus un astenn direizh gant ar restr %(file)s, gwiriañ mar plij."
 }

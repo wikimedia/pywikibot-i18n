@@ -10,8 +10,8 @@
 	"checkimages-deletion-comment": "Bot: Adding %(adding)s",
 	"checkimages-doubles-head": "இரட்டடிக்கப்பட்ட கோப்பு",
 	"checkimages-log-comment": "தானியங்கி:பட்டியலை இற்றைப்படுத்தல்",
-	"checkimages-source-tag-comment": "தானியங்கி:காப்புரிமை வழங்கப்படா படிமத்தை சுட்டுதல்",
 	"checkimages-source-notice-comment": "தானியங்கி:மூலம் வழங்கப்படா படிமத்தை சுட்டுதல்",
+	"checkimages-source-tag-comment": "தானியங்கி:காப்புரிமை வழங்கப்படா படிமத்தை சுட்டுதல்",
 	"checkimages-unknown-extension-head": "இனங்காணப்படாத கோப்பு நீட்சி!",
 	"checkimages-unknown-extension-msg": "%(file)s இனங்காணப்படாத கோப்பு நீட்சியை கொண்டுள்ளது தயவு செய்து ஒரு முறை சரி பார்க்கவும்"
 }

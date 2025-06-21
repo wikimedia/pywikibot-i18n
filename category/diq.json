@@ -16,9 +16,9 @@
 	"category-renamed": "Boti, Nuştoğ %(oldcat)s ra wedarna %(authors)s",
 	"category-replacing": "Bot: Kategoriya %(oldcat)s be %(newcat)s ra vuriyena",
 	"category-section-title": "Werênayışê pela da %(oldcat)s",
+	"category-strip-both": "Bot: Seba aksiyoni pêro şablonanê CFD u kılitê kılmi wedareno",
 	"category-strip-cfd-templates": "Bot: Seba karo biyaye ra şablonanê CFD wedare",
 	"category-strip-sort-keys": "Bot: Seba aksiyoni pêro kılitê kılmi wedareno",
-	"category-strip-both": "Bot: Seba aksiyoni pêro şablonanê CFD u kılitê kılmi wedareno",
 	"category-version-history": "Boti qeydê verênayışê versiyoni ke %(oldcat)s",
 	"category-was-disbanded": "Bot: Gurenayışê kategoriye qedêna",
 	"category-was-moved": "Bot: Kategoriye kırışiye be [[:Category:%(newcat)s|%(title)s]]"

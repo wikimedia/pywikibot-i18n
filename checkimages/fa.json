@@ -20,8 +20,8 @@
 	"checkimages-has-duplicates": "دارای تکراری‌های زیر است%(force)s:",
 	"checkimages-log-comment": "ربات: روزآمدسازی سیاهه",
 	"checkimages-no-license-head": "تصویر بدون اجازہ",
-	"checkimages-source-tag-comment": "ربات: حق تکثیر تصویر تازه بارگذاری شده نامعلوم است.",
 	"checkimages-source-notice-comment": "ربات: درخواست منبع اطلاعات.",
+	"checkimages-source-tag-comment": "ربات: حق تکثیر تصویر تازه بارگذاری شده نامعلوم است.",
 	"checkimages-unknown-extension-head": "بارگذاری تصاویر موجود در انبار",
 	"checkimages-unknown-extension-msg": "به نظر می‌آید تصویر %(file)s مسیر نادرستی داشته باشد لطفاً بررسی کنید."
 }

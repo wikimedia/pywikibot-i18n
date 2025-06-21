@@ -17,9 +17,9 @@
 	"category-renamed": "Bot:  Mogut des de %(oldcat)s. Autors : %(authors)s",
 	"category-replacing": "Bot: Substitució de la categoria %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historial de la pàgina de %(oldcat)s previs",
+	"category-strip-both": "Bot: Eliminant plantilles de CFD i claus d'ordenament per acció completada",
 	"category-strip-cfd-templates": "Bot: Eliminant plantilles de CFD per finalització de la discussió",
 	"category-strip-sort-keys": "Bot: Eliminant clau d'ordenament per a acció finalitzada",
-	"category-strip-both": "Bot: Eliminant plantilles de CFD i claus d'ordenament per acció completada",
 	"category-version-history": "Bot: Guardant l'historial de versions dels %(oldcat)s previs",
 	"category-was-disbanded": "Bot: La categoria s'ha eliminat",
 	"category-was-moved": "Bot: La categoria s'ha mogut a [[:Category:%(newcat)s|%(title)s]]"

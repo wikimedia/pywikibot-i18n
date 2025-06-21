@@ -15,8 +15,8 @@
 	"checkimages-has-duplicates": "ten os seguintes duplicados%(force)s:",
 	"checkimages-log-comment": "Bot: Actualizo o rexistro",
 	"checkimages-no-license-head": "Imaxe sen licenza",
-	"checkimages-source-tag-comment": "Bot: Marco un ficheiro sen etiquetas recentemente subido",
 	"checkimages-source-notice-comment": "Bot: Solicito información da fonte.",
+	"checkimages-source-tag-comment": "Bot: Marco un ficheiro sen etiquetas recentemente subido",
 	"checkimages-unknown-extension-head": "Extensión descoñecida!",
 	"checkimages-unknown-extension-msg": "O ficheiro %(file)s semella ter unha extensión incorrecta; por favor, verifíqueo."
 }

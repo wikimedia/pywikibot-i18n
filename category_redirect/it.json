@@ -11,8 +11,8 @@
 	"category_redirect-edit-request": "Le seguenti pagine protette sono state individuate come bisognose di aggiornamenti per i link alle categorie: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s è in %(oldcat)s, che è un redirect verso %(newcat)s",
 	"category_redirect-fix-double": "Bot: Sistemo i redirect doppi",
-	"category_redirect-log-added": "* Aggiunto [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-add-failed": "* Impossibile aggiungere [[%(ns)s%(template)s]] a %(oldcat)s",
+	"category_redirect-log-added": "* Aggiunto [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-double": "* Corretto doppio-redirect: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
 	"category_redirect-log-failed": "** Errore: %(error)s",
 	"category_redirect-log-not-loaded": "* Impossibile caricare %(oldcat)s; ignoro"

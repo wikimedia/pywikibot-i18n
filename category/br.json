@@ -15,9 +15,9 @@
 	"category-renamed": "Robot : dilec'hiet adalek %(oldcat)s. Aozerien : %(authors)s",
 	"category-replacing": "Robot : Oc'h erlec'hiañ %(newcat)s ouzh ar rummad %(oldcat)s",
 	"category-section-title": "Pajenn istor stummoù kent ar %(oldcat)s",
+	"category-strip-both": "Robot : tennañ ar patromoù CFD hag an doareoù alc'hwezioù evit echuiñ an ober",
 	"category-strip-cfd-templates": "Robot : tennañ ar patromoù CFD evit echuiñ an ober",
 	"category-strip-sort-keys": "Robot : tennañ an alc'hwezioù evit echuiñ an ober",
-	"category-strip-both": "Robot : tennañ ar patromoù CFD hag an doareoù alc'hwezioù evit echuiñ an ober",
 	"category-version-history": "Robot: Oc'h enrollañ istor stummoù kent ar %(oldcat)s",
 	"category-was-disbanded": "Robot : Dilamet eo bet ar rummad",
 	"category-was-moved": "Robot : Rummad dilec'hiet da [[:Category:%(newcat)s|%(title)s]]"

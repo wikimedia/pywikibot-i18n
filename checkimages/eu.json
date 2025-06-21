@@ -9,7 +9,7 @@
 	"checkimages-doubles-head": "Bikoiztutako fitxategia",
 	"checkimages-log-comment": "Bot-a: Erregistroa eguneratzen",
 	"checkimages-no-license-head": "Lizentziarik gabeko irudia",
-	"checkimages-source-tag-comment": "Bot: Etiketarik gabeko fitxategi igo berria markatzen",
 	"checkimages-source-notice-comment": "Bot: jatorriaren informazioa eskatzen da.",
+	"checkimages-source-tag-comment": "Bot: Etiketarik gabeko fitxategi igo berria markatzen",
 	"checkimages-unknown-extension-head": "Luzapen ezezaguna!"
 }

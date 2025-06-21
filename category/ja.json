@@ -19,9 +19,9 @@
 	"category-renamed": "ボットによる: 「%(oldcat)s」から移動。作成者: %(authors)s",
 	"category-replacing": "ボットによる: カテゴリ「%(oldcat)s」を「%(newcat)s」へ変更",
 	"category-section-title": "以前の「%(oldcat)s」のページ履歴",
+	"category-strip-both": "ボットによる: 完了した操作の CFD テンプレートおよびソートキーを除去",
 	"category-strip-cfd-templates": "ボットによる: 完了した操作の CFD テンプレートを除去",
 	"category-strip-sort-keys": "ボットによる: 完了した操作のソートキーを除去",
-	"category-strip-both": "ボットによる: 完了した操作の CFD テンプレートおよびソートキーを除去",
 	"category-version-history": "ボットによる: 以前の「%(oldcat)s」の更新履歴の保存",
 	"category-was-disbanded": "ボットによる: カテゴリを廃止",
 	"category-was-moved": "ボットによる: カテゴリを「[[:Category:%(newcat)s|%(title)s]]」へ移動"

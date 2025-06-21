@@ -14,9 +14,9 @@
 	"category-renamed": "Robot: Prestavljanje z %(oldcat)s. Avtorji: %(authors)s",
 	"category-replacing": "Robot: Zamenjava kategorije %(oldcat)s z/s %(newcat)s",
 	"category-section-title": "Zgodovina strani nekdanje %(oldcat)s",
+	"category-strip-both": "Bot: odstranjevanje predlog CFD in razvrstilnih ključev za opravljeno dejanje",
 	"category-strip-cfd-templates": "Bot: Odstranjevanje predlog CFD za opravljeno dejanje",
 	"category-strip-sort-keys": "Bot: odstranjevanje razvrstilnih ključev za opravljeno dejanje",
-	"category-strip-both": "Bot: odstranjevanje predlog CFD in razvrstilnih ključev za opravljeno dejanje",
 	"category-version-history": "Robot: Shranjevanje zgodovine različic nekdanje %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategorija je bila razpuščena",
 	"category-was-moved": "Robot: Kategorija je bila prestavljena na [[:Category:%(newcat)s|%(title)s]]"

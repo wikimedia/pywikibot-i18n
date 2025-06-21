@@ -14,9 +14,9 @@
 	"category-renamed": "Bot: Traslado desde \"%(oldcat)s\". Autores: %(authors)s",
 	"category-replacing": "Bot: Substitución da categoría \"%(oldcat)s\" pola categoría \"%(newcat)s\"",
 	"category-section-title": "Historial da antiga \"%(oldcat)s\"",
+	"category-strip-both": "Botː Eliminación de modelos de conversa e claves de ordenación para a acción concluída",
 	"category-strip-cfd-templates": "Robot: Eliminando os modelos das categorías para eliminar correspondentes á acción completada.",
 	"category-strip-sort-keys": "Botː Eliminando claves de ordenación para a acción concluída",
-	"category-strip-both": "Botː Eliminación de modelos de conversa e claves de ordenación para a acción concluída",
 	"category-version-history": "Bot: Gardo o historial de versións da antiga \"%(oldcat)s\"",
 	"category-was-disbanded": "Bot: A categoría foi eliminada",
 	"category-was-moved": "Bot: A categoría trasladouse a \"[[:Category:%(newcat)s|%(title)s]]\""

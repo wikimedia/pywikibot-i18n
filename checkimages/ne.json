@@ -6,8 +6,8 @@
 		]
 	},
 	"checkimages-deletion-comment": "रोबोट: थप्दै %(adding)s",
-	"checkimages-source-tag-comment": "रोबोट: भर्खर अपलोड गरिएका अनङ्कित फाइलहरूलाई चिन्हित गरिँदै",
 	"checkimages-source-notice-comment": "रोबोट: स्रोत जानकारी माग गरिँदै।",
+	"checkimages-source-tag-comment": "रोबोट: भर्खर अपलोड गरिएका अनङ्कित फाइलहरूलाई चिन्हित गरिँदै",
 	"checkimages-unknown-extension-head": "अज्ञात एक्सटेन्सन !",
 	"checkimages-unknown-extension-msg": "%(file)s  फाइलको एक्सटेन्सन गलत रहेको देखिन्छ, कृपया जाँच गर्नुहोस्।"
 }

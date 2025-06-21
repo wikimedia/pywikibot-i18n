@@ -6,7 +6,7 @@
 	},
 	"category_redirect-add-template": "خودکار: اضافہ سانچہ {{زمرہ رجوع مکرر}}",
 	"category_redirect-fix-double": "خودکار: درستی دوہرا رجوع مکرر",
-	"category_redirect-log-added": "* %(oldcat)s میں [[%(ns)s%(template)s]] کا اضافہ",
 	"category_redirect-log-add-failed": "* %(oldcat)s میں [[%(ns)s%(template)s]] کا اضافہ نہیں ہوا",
+	"category_redirect-log-added": "* %(oldcat)s میں [[%(ns)s%(template)s]] کا اضافہ",
 	"category_redirect-log-not-loaded": "* %(oldcat)s لوڈ نہیں ہو سکی اس لیے اسے نظر انداز کیا جا رہا ہے"
 }
