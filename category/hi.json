@@ -13,9 +13,9 @@
 	"category-renamed": "बॉट: %(oldcat)s से स्थानांतरित। लेखक: %(authors)s",
 	"category-replacing": "बॉट: %(oldcat)s की जगह %(newcat)s जोड़ रहा है",
 	"category-section-title": "पुरानी %(oldcat)s का पृष्ठ इतिहास",
+	"category-strip-both": "बॉट: कठिन कार्य के लिए क्रमित कुँजी और हटाने योग्य श्रेणियों के साँचे हटा रहा",
 	"category-strip-cfd-templates": "बॉट: कार्य पूर्ण होने के बाद श्रेणी-हटाने का साँचा हटाया जा रहा है।",
 	"category-strip-sort-keys": "बॉट: कठिन कार्य के लिए क्रमित कुँजी हटा रहा",
-	"category-strip-both": "बॉट: कठिन कार्य के लिए क्रमित कुँजी और हटाने योग्य श्रेणियों के साँचे हटा रहा",
 	"category-version-history": "बॉट: पुरानी %(oldcat)s का अवतरण इतिहास सहेज रहा है",
 	"category-was-disbanded": "बॉट: श्रेणी समाप्त कर दी गयी",
 	"category-was-moved": "बॉट: श्रेणी को [[:Category:%(newcat)s|%(title)s]] पर स्थानांतरित किया गया"

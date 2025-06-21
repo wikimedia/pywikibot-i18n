@@ -15,9 +15,9 @@
 	"category-renamed": "בוט: הועבר מהשם %(oldcat)s. כותבים: %(authors)s",
 	"category-replacing": "בוט מחליף את הקטגוריה %(oldcat)s בקטגוריה %(newcat)s",
 	"category-section-title": "גרסאות של %(oldcat)s הקודמת",
+	"category-strip-both": "בוט: הסרת תבניות CFD ומפתחות מיון לפעולות שהושלמו",
 	"category-strip-cfd-templates": "בוט: הסרת תבניות CFD לפעולה שהושלמה",
 	"category-strip-sort-keys": "בוט: הסרת מפתחות מיון עבור פעולות שהושלמו",
-	"category-strip-both": "בוט: הסרת תבניות CFD ומפתחות מיון לפעולות שהושלמו",
 	"category-version-history": "בוט: שמירת היסטוריית גרסאות של %(oldcat)s הקודמת",
 	"category-was-disbanded": "בוט: הקטגוריה פורקה",
 	"category-was-moved": "בוט: הקטגוריה הועברה לשם [[:Category:%(newcat)s|%(title)s]]"

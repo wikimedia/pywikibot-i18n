@@ -11,8 +11,8 @@
 	"checkimages-doubles-talk-comment": "Bot: Meddela att filen redan finns hos Commons",
 	"checkimages-log-comment": "Bot: Uppdaterar loggen",
 	"checkimages-no-license-head": "Bild utan licens",
-	"checkimages-source-tag-comment": "Bot: Märker nyligen uppladdad omärkt fil",
 	"checkimages-source-notice-comment": "Bot: Begär källinformation.",
+	"checkimages-source-tag-comment": "Bot: Märker nyligen uppladdad omärkt fil",
 	"checkimages-unknown-extension-head": "Obekant filändelse!",
 	"checkimages-unknown-extension-msg": "Filen %(file)s har fel filändelse"
 }

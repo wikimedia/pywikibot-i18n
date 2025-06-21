@@ -13,8 +13,8 @@
 	"checkimages-has-duplicates": "ima naslednje dvojnike%(force)s:",
 	"checkimages-log-comment": "Bot: posodabljanje dnevnika",
 	"checkimages-no-license-head": "Slika brez licence",
-	"checkimages-source-tag-comment": "Bot: označevanje na novo naložene neoznačene datoteke",
 	"checkimages-source-notice-comment": "Bot: zahteva za podatke o izvoru.",
+	"checkimages-source-tag-comment": "Bot: označevanje na novo naložene neoznačene datoteke",
 	"checkimages-unknown-extension-head": "Neznana razširitev!",
 	"checkimages-unknown-extension-msg": "Zdi se, da ima datoteka %(file)s napačno končnico; prosimo, preverite."
 }

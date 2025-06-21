@@ -16,9 +16,9 @@
 	"category-renamed": "Bot: Movido de %s. Autores: %s",
 	"category-replacing": "Bot: Trocando categoria %(oldcat)s por %(newcat)s",
 	"category-section-title": "Histórico de edições da categoria anterior (%(oldcat)s)",
+	"category-strip-both": "Robô: Remoção de predefinições de discussão e chaves de ordenação para ação concluída",
 	"category-strip-cfd-templates": "Robô: Remoção de predefinições de discussão para ação concluída",
 	"category-strip-sort-keys": "Robô: Remoção de chaves de ordenação para ação concluída",
-	"category-strip-both": "Robô: Remoção de predefinições de discussão e chaves de ordenação para ação concluída",
 	"category-version-history": "Bot: Salvando histórico de edições da categoria anterior (%(oldcat)s)",
 	"category-was-disbanded": "Bot: Categoria dissolvida",
 	"category-was-moved": "Bot: A categoria foi movida para [[:Category:%(newcat)s|%(title)s]]"

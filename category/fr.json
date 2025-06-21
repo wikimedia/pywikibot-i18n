@@ -22,9 +22,9 @@
 	"category-renamed": "Robot : déplacé depuis %(oldcat)s. Auteurs : %(authors)s",
 	"category-replacing": "Robot : remplacement de la catégorie %(oldcat)s par %(newcat)s",
 	"category-section-title": "Historique de l’ancienne page %(oldcat)s",
+	"category-strip-both": "Robot : suppression des modèles CFD et des clés de tri pour l’action terminée",
 	"category-strip-cfd-templates": "Robot : suppression des modèles CFD pour l’action terminée",
 	"category-strip-sort-keys": "Robot : suppression des clés de tri pour l’action terminée",
-	"category-strip-both": "Robot : suppression des modèles CFD et des clés de tri pour l’action terminée",
 	"category-version-history": "Robot : enregistrement de l’historique des versions de l’ancienne %(oldcat)s",
 	"category-was-disbanded": "Robot : la catégorie a été supprimée",
 	"category-was-moved": "Robot : la catégorie a été déplacée vers [[:Category:%(newcat)s|%(title)s]]"

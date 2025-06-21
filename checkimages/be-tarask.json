@@ -14,8 +14,8 @@
 	"checkimages-has-duplicates": "мае гэткія дублікаты%(force)s:",
 	"checkimages-log-comment": "Робат: абнаўленьне журналу",
 	"checkimages-no-license-head": "Выява безь ліцэнзіі",
-	"checkimages-source-tag-comment": "Робат: пазначаю новазагружаны неадзначаны файл",
 	"checkimages-source-notice-comment": "Робат: запыт крыніцы інфармацыі.",
+	"checkimages-source-tag-comment": "Робат: пазначаю новазагружаны неадзначаны файл",
 	"checkimages-unknown-extension-head": "Невядомае пашырэньне!",
 	"checkimages-unknown-extension-msg": "Падобна, файл %(file)s мае няслушнае пашырэньне, калі ласка, праверце."
 }

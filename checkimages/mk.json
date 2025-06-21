@@ -13,8 +13,8 @@
 	"checkimages-has-duplicates": "ги има следниве дупликати%(force)s:",
 	"checkimages-log-comment": "Бот: Поднова на дневникот",
 	"checkimages-no-license-head": "Слика без лиценца",
-	"checkimages-source-tag-comment": "Бот: Се означува новоподновената неозначена податотека",
 	"checkimages-source-notice-comment": "Робот: Бара извор на информациите.",
+	"checkimages-source-tag-comment": "Бот: Се означува новоподновената неозначена податотека",
 	"checkimages-unknown-extension-head": "Непознат додаток!",
 	"checkimages-unknown-extension-msg": "Делува дека податотеката %(file)s има погрешна наставка. Проверете ја."
 }

@@ -15,8 +15,8 @@
 	"checkimages-has-duplicates": "Report that an image has several duplicates",
 	"checkimages-log-comment": "Edit summary for the checkimages' report",
 	"checkimages-no-license-head": "The header of a report if an image has no license",
-	"checkimages-source-tag-comment": "Edit summary for untagged user talk notice",
 	"checkimages-source-notice-comment": "Edit summary for adding source tag",
+	"checkimages-source-tag-comment": "Edit summary for untagged user talk notice",
 	"checkimages-unknown-extension-head": "The header of the unknown extension's message report",
 	"checkimages-unknown-extension-msg": "Message that will be shown if the bot finds an unknown extension"
 }

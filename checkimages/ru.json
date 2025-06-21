@@ -16,8 +16,8 @@
 	"checkimages-has-duplicates": "имеет следующие дубликаты%(force)s:",
 	"checkimages-log-comment": "Бот: Обновление журнала",
 	"checkimages-no-license-head": "Изображение без лицензии",
-	"checkimages-source-tag-comment": "Бот: Пометка недавно загруженных файлов без шаблонов лицензии",
 	"checkimages-source-notice-comment": "Бот: Запрос источника информации.",
+	"checkimages-source-tag-comment": "Бот: Пометка недавно загруженных файлов без шаблонов лицензии",
 	"checkimages-unknown-extension-head": "Неизвестное расширение!",
 	"checkimages-unknown-extension-msg": "Файл %(file)s, возможно, имеет неверное расширение. Пожалуйста, проверьте."
 }

@@ -8,7 +8,7 @@
 	"checkimages-deletion-comment": "Bot: %(adding)s dobäisetzen",
 	"checkimages-forced-mode": "('''Zwangsmodus''')",
 	"checkimages-no-license-head": "Bild ouni Lizenz",
-	"checkimages-source-tag-comment": "Bot: Nei eropgelueden net markéierte Fichier markéieren",
 	"checkimages-source-notice-comment": "Bot: Quellinformatioun ufroen",
+	"checkimages-source-tag-comment": "Bot: Nei eropgelueden net markéierte Fichier markéieren",
 	"checkimages-unknown-extension-head": "Onbekannt Erweiderung!"
 }

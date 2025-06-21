@@ -13,8 +13,8 @@
 	"checkimages-has-duplicates": "бу %(force)s дубликатлары барды:",
 	"checkimages-log-comment": "Бот: Логну джангырт",
 	"checkimages-no-license-head": "Лицензиясыз сурат",
-	"checkimages-source-tag-comment": "Бот: Джангы джюкленнген белгисиз файлны белгилеу",
 	"checkimages-source-notice-comment": "Бот: Къайнакъ информация изленеди",
+	"checkimages-source-tag-comment": "Бот: Джангы джюкленнген белгисиз файлны белгилеу",
 	"checkimages-unknown-extension-head": "Билинмеген кенгериу!",
 	"checkimages-unknown-extension-msg": "%(file)s файлны джангылыч кенгериую болгъаннга ушайды, тилейбиз тинтигиз"
 }

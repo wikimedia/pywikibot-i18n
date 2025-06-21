@@ -16,8 +16,8 @@
 	"checkimages-has-duplicates": "heeft de volgende duplicaten%(force)s:",
 	"checkimages-log-comment": "Robot: logboek bijgewerkt",
 	"checkimages-no-license-head": "Bestand zonder licentie",
-	"checkimages-source-tag-comment": "Robot: nieuw bestand zonder labels gemarkeerd",
 	"checkimages-source-notice-comment": "Robot: brongegevens opgevraagd",
+	"checkimages-source-tag-comment": "Robot: nieuw bestand zonder labels gemarkeerd",
 	"checkimages-unknown-extension-head": "Onbekende extensie!",
 	"checkimages-unknown-extension-msg": "Het bestand '%(file)s' lijkt een verkeerde bestandsnaamextensie te hebben. Kunt u dit controleren?"
 }

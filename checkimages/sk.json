@@ -11,8 +11,8 @@
 	"checkimages-doubles-talk-comment": "Bot: Upozorni ak súbor už na Commons existuje",
 	"checkimages-log-comment": "Bot: Aktualizácia záznamu",
 	"checkimages-no-license-head": "Obrázok bez licencie",
-	"checkimages-source-tag-comment": "Bot: Označenie nových neoznačených súborov",
 	"checkimages-source-notice-comment": "Bot: Požadovanie zdroja informácií.",
+	"checkimages-source-tag-comment": "Bot: Označenie nových neoznačených súborov",
 	"checkimages-unknown-extension-head": "Neznáma prípona!",
 	"checkimages-unknown-extension-msg": "Súbor %(file)s vyzerá, že má nesprávnu príponu, prosím o kontrolu."
 }

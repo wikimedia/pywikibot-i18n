@@ -16,8 +16,8 @@
 	"checkimages-doubles-talk-comment": "Bot: コモンズにそのファイルがすでにあると知らせる",
 	"checkimages-log-comment": "ロボットによる:更新",
 	"checkimages-no-license-head": "ライセンスのない画像",
-	"checkimages-source-tag-comment": "ボットによる:著作権情報なしのファイルを印付け",
 	"checkimages-source-notice-comment": "ボットによる: 著作権情報明記のお願い",
+	"checkimages-source-tag-comment": "ボットによる:著作権情報なしのファイルを印付け",
 	"checkimages-unknown-extension-head": "不明の拡張子です。",
 	"checkimages-unknown-extension-msg": "%(file)s ファイルの拡張子が正しいかどうか確認してください。"
 }

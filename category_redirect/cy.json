@@ -13,8 +13,8 @@
 	"category_redirect-edit-request": "Darganfu bod angen diweddariadau i ddolenni'r categori ar y tudalennau canlynol: %(itemlist)s",
 	"category_redirect-edit-request-item": "* Mae %(title)s i'w gael yn %(oldcat)s, sydd yn ailgyfeirio i %(newcat)s",
 	"category_redirect-fix-double": "Bot: Yn datrys ail-gyfeiriad dwbl",
-	"category_redirect-log-added": "* Wedi ychwanegu [[%(ns)s%(template)s]] i %(oldcat)s",
 	"category_redirect-log-add-failed": "* Wedi methu ychwanegu [[%(ns)s%(template)s]] i %(oldcat)s",
+	"category_redirect-log-added": "* Wedi ychwanegu [[%(ns)s%(template)s]] i %(oldcat)s",
 	"category_redirect-log-ignoring": "* Yn anwybyddu %(oldcat)s",
 	"category_redirect-log-loop": "* Dolen ail-gyfeirio o %(oldcat)s"
 }

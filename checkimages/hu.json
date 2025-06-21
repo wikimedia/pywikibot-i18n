@@ -11,8 +11,8 @@
 	"checkimages-deletion-comment": "Robot:\"%(adding)s\" hozzáadása",
 	"checkimages-log-comment": "Robot: A napló frissítése",
 	"checkimages-no-license-head": "Licenc nélküli kép",
-	"checkimages-source-tag-comment": "Bot: Frissen feltöltött licencsablon nélküli fájl megjelölése",
 	"checkimages-source-notice-comment": "Bot: Forrásinformáció kérése",
+	"checkimages-source-tag-comment": "Bot: Frissen feltöltött licencsablon nélküli fájl megjelölése",
 	"checkimages-unknown-extension-head": "Ismeretlen kiterjesztésű fájl",
 	"checkimages-unknown-extension-msg": "A %(file)s fájlnak rossz a kiterjesztése, kérlek ellenőrízd."
 }

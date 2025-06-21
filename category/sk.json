@@ -15,9 +15,9 @@
 	"category-renamed": "Bot: Presunuté z %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Bot: Nahradzovanie kategórie %(oldcat)s za kategóriu %(newcat)s",
 	"category-section-title": "História verzií %(oldcat)s",
+	"category-strip-both": "Bot: Odstraňovanie CFD šablón a triediacich kľúčov pre ukončené akcie",
 	"category-strip-cfd-templates": "Bot: Odstraňovanie CFD šablón pre ukončené akcie",
 	"category-strip-sort-keys": "Bot: Odstraňovanie triediacich kľúčov pre ukončené akcie",
-	"category-strip-both": "Bot: Odstraňovanie CFD šablón a triediacich kľúčov pre ukončené akcie",
 	"category-version-history": "Bot: Ukladanie histórie verzií %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategória bola zrušená",
 	"category-was-moved": "Bot: Kategória bola presunutá do [[:Category:%(newcat)s|%(title)s]]"

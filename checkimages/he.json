@@ -16,8 +16,8 @@
 	"checkimages-has-duplicates": "יש בה את הכפילויות הבאות%(force)s:",
 	"checkimages-log-comment": "בוט: עדכון יומן",
 	"checkimages-no-license-head": "תמונה ללא רשיון",
-	"checkimages-source-tag-comment": "בוט: סימון קובץ חדש שהועלה ללא תיוג",
 	"checkimages-source-notice-comment": "בוט: בקשת מידע על מקור.",
+	"checkimages-source-tag-comment": "בוט: סימון קובץ חדש שהועלה ללא תיוג",
 	"checkimages-unknown-extension-head": "הרחבה לא מוכרת!",
 	"checkimages-unknown-extension-msg": "לקובץ %(file)s יש סיומת שגויה, נא לבדוק."
 }

@@ -13,9 +13,9 @@
 	"category-renamed": "Bot: Di chuyển từ %(oldcat)s. Tác giả: %(authors)s",
 	"category-replacing": "Bot: Thay thể loại %(oldcat)s bằng %(newcat)s",
 	"category-section-title": "Lịch sử các trang từng nằm trong %(oldcat)s",
+	"category-strip-both": "Bot: Gỡ bản mẫu đề nghị xóa thể loại vì đã được giải quyết",
 	"category-strip-cfd-templates": "Bot: Gỡ bản mẫu đề nghị xóa thể loại vì đã được giải quyết",
 	"category-strip-sort-keys": "Bot: Gỡ từ khóa sắp xếp vì tác vụ đã được giải quyết",
-	"category-strip-both": "Bot: Gỡ bản mẫu đề nghị xóa thể loại vì đã được giải quyết",
 	"category-version-history": "Bot: Lưu lịch sử phiên bản của các trang từng nằm trong %(oldcat)s",
 	"category-was-disbanded": "Bot: Thể loại bị giải tán",
 	"category-was-moved": "Bot: Di chuyển thể loại qua [[:Category:%(newcat)s|%(title)s]]"

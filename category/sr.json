@@ -19,9 +19,9 @@
 	"category-renamed": "Бот: премештено из %(oldcat)s. Аутори: %(authors)s.",
 	"category-replacing": "Бот: замењена категорије %(oldcat)s са %(newcat)s.",
 	"category-section-title": "Историја раније верзије странице %(oldcat)s",
+	"category-strip-both": "Бот: уклоњен CFD шаблон и кључеви за сортирање за довршену радњу.",
 	"category-strip-cfd-templates": "Бот: уклоњен CFD шаблон за извршену радњу.",
 	"category-strip-sort-keys": "Бот: уклоњени кључеви за сортирање за довршену радњу.",
-	"category-strip-both": "Бот: уклоњен CFD шаблон и кључеви за сортирање за довршену радњу.",
 	"category-version-history": "Бот: сачувана историја раније верзије странице %(oldcat)s.",
 	"category-was-disbanded": "Бот: категорија је распуштена.",
 	"category-was-moved": "Бот: категорија премештена у [[:Категорија:%(newcat)s|%(title)s]]."

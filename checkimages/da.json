@@ -11,8 +11,8 @@
 	"checkimages-doubles-talk-comment": "Bot: Meddeler at filen allerede findes på Commons",
 	"checkimages-log-comment": "Bot: Opdaterer loggen",
 	"checkimages-no-license-head": "Billede uden licens",
-	"checkimages-source-tag-comment": "Robot: Markerer netop overført umærket fil",
 	"checkimages-source-notice-comment": "Robot: Anmoder om kildeinformation.",
+	"checkimages-source-tag-comment": "Robot: Markerer netop overført umærket fil",
 	"checkimages-unknown-extension-head": "Ukendt filendelse!",
 	"checkimages-unknown-extension-msg": "Filen %(file)s ser ud til at have gal filendelse, check venligst."
 }

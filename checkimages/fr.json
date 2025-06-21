@@ -19,8 +19,8 @@
 	"checkimages-has-duplicates": "a les doublons suivants%(force)s :",
 	"checkimages-log-comment": "Robot : mise à jour du journal",
 	"checkimages-no-license-head": "Image sans licence",
-	"checkimages-source-tag-comment": "Robot : marquage d’un fichier nouvellement téléversé sans balise",
 	"checkimages-source-notice-comment": "Robot : demande d’informations sur la source.",
+	"checkimages-source-tag-comment": "Robot : marquage d’un fichier nouvellement téléversé sans balise",
 	"checkimages-unknown-extension-head": "Extension inconnue !",
 	"checkimages-unknown-extension-msg": "Le fichier %(file)s semble avoir une mauvaise extension, veuillez vérifier."
 }

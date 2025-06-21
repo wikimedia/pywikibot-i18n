@@ -13,9 +13,9 @@
 	"category-renamed": "Bot: Fersköwen faan %(oldcat)s. Autooren: %(authors)s.",
 	"category-replacing": "Bot: Bütje kategorii %(oldcat)s ütj mä %(newcat)s",
 	"category-section-title": "Werjuunshistoore faan det ual %(oldcat)s",
+	"category-strip-both": "Bot: Nem CFD-föörlaagen an sortiarkaier wech, wan det aktjuun tu aanj as",
 	"category-strip-cfd-templates": "Bot: Nem CFD-föörlaagen wech, wan det aktjuun tu aanj as",
 	"category-strip-sort-keys": "Bot: Nem sortiarkaier wech, wan det aktjuun tu aanj as",
-	"category-strip-both": "Bot: Nem CFD-föörlaagen an sortiarkaier wech, wan det aktjuun tu aanj as",
 	"category-version-history": "Bot: Seekere werjuunshistoore faan det ual %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategorii as apliaset wurden",
 	"category-was-moved": "Bot: Kategorii as fersköwen wurden tu [[:Category:%(newcat)s|%(title)s]]"

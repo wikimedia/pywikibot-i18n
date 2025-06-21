@@ -18,9 +18,9 @@
 	"category-renamed": "robot: přesunuto z %(oldcat)s, autoři: %(authors)s",
 	"category-replacing": "robot: nahrazení kategorie %(oldcat)s za %(newcat)s",
 	"category-section-title": "Historie verzí bývalé %(oldcat)s",
+	"category-strip-both": "robot: odstranění šablony Přejmenovat kategorii a klíčů řazení po přesunu",
 	"category-strip-cfd-templates": "robot: odstranění šablony Přejmenovat kategorii po přesunu",
 	"category-strip-sort-keys": "robot: odstranění šablony klíčů řazení po přesunu",
-	"category-strip-both": "robot: odstranění šablony Přejmenovat kategorii a klíčů řazení po přesunu",
 	"category-version-history": "robot: ukládání historie verzí bývalé %(oldcat)s",
 	"category-was-disbanded": "robot: vyprázdnění kategorie",
 	"category-was-moved": "robot: přesun kategorie na [[:Kategorie:%(newcat)s|%(title)s]]"

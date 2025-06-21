@@ -12,9 +12,9 @@
 	"category-renamed": "ߡߐ߰ߡߐ߮: ߓߘߴߊ߬ ߓߐ߫ %(oldcat)s ߘߐ߫. ߛߓߍߦߟߊ ߟߎ߫: %(authors)s",
 	"category-replacing": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߦߌߟߡߊ %(oldcat)s ߣߐ߬ߘߐߓߌ߬ߟߊ ߞߊ߲߬ %(newcat)s ߟߊ߫",
 	"category-section-title": "ߞߐߜߍ ߖߙߎߡߎ߲߫ %(oldcat)s ߘߐ߬ߝߐ",
+	"category-strip-both": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߙߊߞߏ CFD ߣߌ߫ ߢߣߊߕߐߡߐ߲ߠߌ߲ ߞߏ߲ߢߌ߲ ߠߎ߬ ߛߋ߲߬ߓߐ ߞߊ߲߬ ߘߐ߬ߓߛߏ߬ߟߌ߫ ߘߝߊߣߍ߲ ߠߎ߬ ߟߊ߫",
 	"category-strip-cfd-templates": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߙߊߞߏ CFD ߛߋ߲߬ߓߐ ߞߊ߲߬ ߘߐ߬ߓߛߏ߬ߟߌ ߘߝߊ߫ ߞߊ߲ ߡߊ߬.",
 	"category-strip-sort-keys": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߢߣߊߕߐߡߐ߲ߠߌ߲ ߞߏ߲ߢߌ߲ ߛߋ߲߬ߓߐ ߞߊ߲߬ ߘߐ߬ߓߛߏ߬ߟߌ߫ ߘߝߊߣߍ߲ ߠߎ߬ ߟߊ߫",
-	"category-strip-both": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߞߙߊߞߏ CFD ߣߌ߫ ߢߣߊߕߐߡߐ߲ߠߌ߲ ߞߏ߲ߢߌ߲ ߠߎ߬ ߛߋ߲߬ߓߐ ߞߊ߲߬ ߘߐ߬ߓߛߏ߬ߟߌ߫ ߘߝߊߣߍ߲ ߠߎ߬ ߟߊ߫",
 	"category-version-history": "ߡߐ߰ߡߐ߮: ߦߋ߫ ߦߌߟߡߊ ߘߐ߬ߝߐ ߟߊߞߎ߲߬ߘߎ ߞߊ߲߬ ߖߙߎߡߎ߲߫ %(oldcat)s ߘߌ߫",
 	"category-was-disbanded": "ߡߐ߰ߡߐ߮: ߦߌߟߡߊ ߓߘߊ߫ ߖߏ߲߫",
 	"category-was-moved": "ߡߐ߰ߡߐ߮: ߦߌߟߡߊ ߓߘߊ߫ ߓߴߊ߬ ߣߐ߭ ߘߐ߫ ߞߊ߬ ߥߊ߫ [[:ߦߌߟߡߊ:%(newcat)s|%(title)s]]"

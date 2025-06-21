@@ -13,9 +13,9 @@
 	"category-renamed": "Bot: Nilipat mula %(oldcat)s. May-akda: %(authors)s",
 	"category-replacing": "Bot; Pinapalitan ang kategorya %(oldcat)s ng %(newcat)s",
 	"category-section-title": "Nakaraan ng dating %(oldcat)s",
+	"category-strip-both": "Bot: Tinatanggal ang mga padron na CFD at sort key para sa mga natapos na'ng gawain",
 	"category-strip-cfd-templates": "Bot: Tinatanggal ang mga padron na CFD para sa mga natapos na'ng gawain",
 	"category-strip-sort-keys": "Bot: Tinatanggal ang mga sort key para sa mga natapos na'ng gawain",
-	"category-strip-both": "Bot: Tinatanggal ang mga padron na CFD at sort key para sa mga natapos na'ng gawain",
 	"category-version-history": "Bot: Sine-save ang nakaraang bersyon ng dating %(oldcat)s",
 	"category-was-disbanded": "Bot: Hinati-hati na ang kategorya",
 	"category-was-moved": "Bot: Nilipat ang kategorya sa [[:Category:%(newcat)s|%(title)s]]"

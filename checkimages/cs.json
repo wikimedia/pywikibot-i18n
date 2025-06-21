@@ -12,8 +12,8 @@
 	"checkimages-doubles-talk-comment": "robot: upozornění, že soubor již existuje na Commons",
 	"checkimages-log-comment": "robot: aktualizace záznamu",
 	"checkimages-no-license-head": "Obrázek bez licence",
-	"checkimages-source-tag-comment": "robot: označení nově nahraných neoznačených souborů",
 	"checkimages-source-notice-comment": "robot: chybí zdroj",
+	"checkimages-source-tag-comment": "robot: označení nově nahraných neoznačených souborů",
 	"checkimages-unknown-extension-head": "Neznámá přípona!",
 	"checkimages-unknown-extension-msg": "Soubor %(file)s má možná chybnou příponu, zkontrolujte ji, prosím."
 }

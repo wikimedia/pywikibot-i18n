@@ -16,9 +16,9 @@
 	"category-renamed": "Roboto: Movita el %(oldcat)s. Aŭtoroj: %(authors)s",
 	"category-replacing": "Roboto: Anstataŭigo de kategorio %(oldcat)s per %(newcat)s",
 	"category-section-title": "Kronologio de iama %(oldcat)s",
+	"category-strip-both": "Roboto: Forigante ŝablonon Forigindaj Kategorioj kaj ordigajn ŝlosilojn pro kompletigita ago",
 	"category-strip-cfd-templates": "Roboto: Forigante ŝablonon Forigindaj Kategorioj pro kompletigita ago",
 	"category-strip-sort-keys": "Roboto: Forigante ordigan ŝlosilon pro kompletigita ago",
-	"category-strip-both": "Roboto: Forigante ŝablonon Forigindaj Kategorioj kaj ordigajn ŝlosilojn pro kompletigita ago",
 	"category-version-history": "Roboto: Konservado de kronologio de versioj de iama %(oldcat)s",
 	"category-was-disbanded": "Roboto: Kategorio estas anstataŭigita",
 	"category-was-moved": "Roboto: Kategorio estas movita al [[:Category:%(newcat)s|%(title)s]]"

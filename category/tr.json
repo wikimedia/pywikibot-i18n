@@ -19,9 +19,9 @@
 	"category-renamed": "Bot: %(oldcat)s konumundan taşındı. Yazarlar: %(authors)s",
 	"category-replacing": "Bot: %(oldcat)s, %(newcat)s kategorisiyle değiştiriliyor",
 	"category-section-title": "Önceki %(oldcat)s sayfasının geçmişi",
+	"category-strip-both": "Bot: KS şablonlarını kaldırma ve tamamlanan eylem için anahtarları sıralama",
 	"category-strip-cfd-templates": "Bot: Tamamlanan eylem için KS şablonlarını kaldırma",
 	"category-strip-sort-keys": "Bot: Tamamlanan işlem için sıralama tuşlarını kaldırma",
-	"category-strip-both": "Bot: KS şablonlarını kaldırma ve tamamlanan eylem için anahtarları sıralama",
 	"category-version-history": "Bot: Eski %(oldcat)s sürümünün kaydetme tarihi",
 	"category-was-disbanded": "Bot: Kategorinin kullanımı sona erdirildi",
 	"category-was-moved": "Bot: Kategori [[:Category:%(newcat)s|%(title)s]] adına taşındı"

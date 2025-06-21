@@ -20,9 +20,9 @@
 	"category-renamed": "Edit summary when a category was renamed.",
 	"category-replacing": "Edit summary. Parameters:\n* %(oldcat)s - old category name\n* %(newcat)s - new category name",
 	"category-section-title": "Section title for keeping page history",
+	"category-strip-both": "Edit summary when both CFD (Categories for deletion) templates and sort keys are removed from the page's text following a move/keep action",
 	"category-strip-cfd-templates": "Edit summary when CFD (Categories for deletion) templates are removed from the page's text following a move/keep action",
 	"category-strip-sort-keys": "Edit summary when sort keys are removed from the page's text following a move/keep action",
-	"category-strip-both": "Edit summary when both CFD (Categories for deletion) templates and sort keys are removed from the page's text following a move/keep action",
 	"category-version-history": "Edit summary when the bot saves page' version history while category moving",
 	"category-was-disbanded": "Used as reason for deletion of the category.",
 	"category-was-moved": "{{doc-important|Do not translate \"[[:Category:%(newcat)s|%(title)s]]\"}}"

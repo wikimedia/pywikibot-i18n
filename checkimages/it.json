@@ -14,8 +14,8 @@
 	"checkimages-doubles-talk-text": "Grazie per aver caricato %(upload)s. Tuttavia, questo file risulta una copia di: %(image)s. Il bot ha contrassegnato come duplicato il file che è risultato essere meno utilizzato o più recente. Nel caso ritenessi più appropriato mantenere il file segnalato come da cancellare immediatamente, sentiti libero di mettere in cancellazione i file doppi e togliere il template di cancellazione da quello da mantenere. Questo è un messaggio automatico di %(bot)s.",
 	"checkimages-log-comment": "Bot: aggiorno il log",
 	"checkimages-no-license-head": "File senza licenza",
-	"checkimages-source-tag-comment": "Bot: Aggiungo unverified",
 	"checkimages-source-notice-comment": "Bot: richiedo informazioni sulla fonte",
+	"checkimages-source-tag-comment": "Bot: Aggiungo unverified",
 	"checkimages-unknown-extension-head": "Estensione sconosciuta!",
 	"checkimages-unknown-extension-msg": "Il file %(file)s sembra che abbia un'estensione non corretta, verifica."
 }

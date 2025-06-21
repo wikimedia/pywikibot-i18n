@@ -18,9 +18,9 @@
 	"category-renamed": "Bot: Hemendik mugituta %(oldcat)s. Egileak: %(authors)s",
 	"category-replacing": "Bot: %(oldcat)s kategoria %(newcat)s-(e)ngatik ordezkatu",
 	"category-section-title": "Ohiko %(oldcat)s-(e)n orrialde historia",
+	"category-strip-both": "Bot: CFD txantiloiak eta ordenatzeko-irizpideak kentzeko amaitutako ekintzentzat",
 	"category-strip-cfd-templates": "Bot: CFD ekintza burutzeko txantiloiak ezabatzen",
 	"category-strip-sort-keys": "Bot: amaitutako ekintzetarako ordenatze-giltzak kentzen",
-	"category-strip-both": "Bot: CFD txantiloiak eta ordenatzeko-irizpideak kentzeko amaitutako ekintzentzat",
 	"category-version-history": "Errobota: Antzinako %(oldcat)s bertsio historiala gordetzen",
 	"category-was-disbanded": "Bot: Kategoria ezabatu da",
 	"category-was-moved": "Robota: Kategoria «[[:Category:%(newcat)s|%(title)s]]» kategoriara aldatu da"

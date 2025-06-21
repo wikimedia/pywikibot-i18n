@@ -18,9 +18,9 @@
 	"category-renamed": "Bot: Verschoben von %(oldcat)s. Autoren: %(authors)s",
 	"category-replacing": "Bot: Ersetze Kategorie %(oldcat)s durch %(newcat)s",
 	"category-section-title": "Versionsgeschichte der ursprünglichen %(oldcat)s",
+	"category-strip-both": "Bot: Entferne Lösch-Vorlagen und Sortierschlüssel für die abgeschlossene Aktion",
 	"category-strip-cfd-templates": "Bot: Entferne Lösch-Vorlagen für abgeschlossene Aktion",
 	"category-strip-sort-keys": "Bot: Entferne Sortierschlüssel für die abgeschlossene Aktion",
-	"category-strip-both": "Bot: Entferne Lösch-Vorlagen und Sortierschlüssel für die abgeschlossene Aktion",
 	"category-version-history": "Bot: Sichere Versionsgeschichte der alten %(oldcat)s",
 	"category-was-disbanded": "Bot: Kategorie wurde aufgelöst",
 	"category-was-moved": "Bot: Kategorie wurde nach [[:Category:%(newcat)s|%(title)s]] verschoben"

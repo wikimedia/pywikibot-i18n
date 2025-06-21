@@ -16,9 +16,9 @@
 	"category-renamed": "بوت: نقل من %(oldcat)s، المؤلفون: %(authors)s",
 	"category-replacing": "بوت: استبدال التصنيف %(oldcat)s ب %(newcat)s",
 	"category-section-title": "تاريخ الصفحة للسابق %(oldcat)s",
+	"category-strip-both": "بوت: إزالة قوالب تصنيفات للحذف ومفاتيح الترتيب للفعل المكتمل",
 	"category-strip-cfd-templates": "بوت: إزالة قوالب تصنيفات للحذف للفعل الذي تم إكماله",
 	"category-strip-sort-keys": "بوت: إزالة مفاتيح الفرز للإجراء المكتمل",
-	"category-strip-both": "بوت: إزالة قوالب تصنيفات للحذف ومفاتيح الترتيب للفعل المكتمل",
 	"category-version-history": "بوت: حفظ تاريخ الإصدار للسابقة %(oldcat)s",
 	"category-was-disbanded": "بوت: التصنيف تم الاستغناء عنه",
 	"category-was-moved": "بوت: التصنيف نُقل إلى [[:Category:%(newcat)s|%(title)s]]"

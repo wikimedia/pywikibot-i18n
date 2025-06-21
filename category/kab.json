@@ -15,9 +15,9 @@
 	"category-renamed": "Aṛubut: yettwakkes si %(oldcat)s. Imeskaren: %(authors)s",
 	"category-replacing": "Aṛubut: Asemselsi n taggayt %(oldcat)s s %(newcat)s",
 	"category-section-title": "Amazray n usebter n uqbuṛ %(oldcat)s",
+	"category-strip-both": "Aṛubut: Tukksa n tneɣrufin CFD d tsura n ufran i tigawt yemmden",
 	"category-strip-cfd-templates": "Aṛubut: Tukksa n tneɣrufin CFD i tigawt yemmden",
 	"category-strip-sort-keys": "Aṛubut: Tukksa n tsura n ufran i tigawt yemmden",
-	"category-strip-both": "Aṛubut: Tukksa n tneɣrufin CFD d tsura n ufran i tigawt yemmden",
 	"category-version-history": "Aṛubut: Ssekles amezruy n llqem aqbuṛ %(oldcat)s",
 	"category-was-disbanded": "Aṛubut: Taggayt tettwakkes",
 	"category-was-moved": "Aṛubut: Taggayt tbeddel amḍiq γer [[:Category:%(newcat)s|%(title)s]]"
