@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Farorud",
 			"ToJack"
 		]
 	},
 	"category-adding": "Бот: Иловаи гурӯҳ [[:Category:%(newcat)s|%(newcat)s]]",
-	"category-also-in": "(ҳамчунин дар %(alsocat)s)"
+	"category-also-in": "(ҳамчунин дар %(alsocat)s)",
+	"category-clean": "Бот: Ҳазфи гурӯҳи %(category)s, ки аллакай ҳаст дар %(child)s"
 }
