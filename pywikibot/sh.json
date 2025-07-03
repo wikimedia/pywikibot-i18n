@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aca",
 			"Kolega2357"
 		]
 	},
 	"pywikibot-cosmetic-changes": "; kozmetičke izmjene",
 	"pywikibot-enter-category-name": "Unesite naziv kategorije:",
-	"pywikibot-enter-finished-browser": "Pritisnite enter kada završite u pregledaču.",
+	"pywikibot-enter-finished-browser": "Pritisnite Enter kad završite unos izmjena u pregledniku.",
 	"pywikibot-enter-namespace-number": "Unesite imenski prostor pored njegovog broja:",
 	"pywikibot-enter-new-text": "Unesite novi tekst:",
 	"pywikibot-enter-page-processing": "Koja stranica treba da se obradi?",
