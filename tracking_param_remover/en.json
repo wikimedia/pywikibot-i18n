@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
 	"tracking_param_remover-removing": "Bot: Removing tracking parameters from URLs"
 }
