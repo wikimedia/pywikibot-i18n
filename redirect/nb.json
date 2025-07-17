@@ -6,9 +6,9 @@
 			"SuperPotato"
 		]
 	},
-	"redirect-fix-broken-moved": "Fikser ødelagte omdirigeringer til %(to)s som har blitt flyttet",
-	"redirect-fix-double": "Retter dobbel omdirigering til %(to)s",
-	"redirect-fix-loop": "Fikser omdirigeringsløkke til %(to)s",
+	"redirect-fix-broken-moved": "Fikser ødelagte omdirigeringer fra %(from)s til den flyttede siden %(to)s",
+	"redirect-fix-double": "Fikser dobbel omdirigering fra %(from)s til %(to)s",
+	"redirect-fix-loop": "Fikser omdirigeringsløkke fra %(from)s til %(to)s",
 	"redirect-remove-broken": "Målet for omdirigeringen eksisterer ikke",
 	"redirect-remove-loop": "Målet for omdirigeringen danner en omdirigeringsløkke"
 }
