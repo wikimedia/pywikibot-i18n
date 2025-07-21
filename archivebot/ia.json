@@ -5,7 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIVO PLEN)",
-	"archivebot-archive-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} ab [[%(from)s]]",
+	"archivebot-archive-summary": "Robot: Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} de [[%(from)s]]",
 	"archivebot-older-than": "{{PLURAL:%(count)d|plus ancian}} que %(duration)s",
-	"archivebot-page-summary": "Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} (%(why)s) verso %(archives)s"
+	"archivebot-page-summary": "Robot: Archivation de %(count)d {{PLURAL:%(count)d|discussion|discussiones}} (%(why)s) in %(archives)s"
 }

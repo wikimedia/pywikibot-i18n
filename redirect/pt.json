@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"B3rnas",
 			"Hamilton Abreu",
 			"Luckas",
 			"Malafaya",
 			"Xqt"
 		]
 	},
-	"redirect-fix-broken-moved": "A corrigir redirecionamento quebrado para página alvo movida %(to)s",
-	"redirect-fix-double": "A corrigir o redirecionamento duplo para %(to)s",
-	"redirect-fix-loop": "A corrigir o ciclo de redirecionamentos para %(to)s",
+	"redirect-fix-broken-moved": "Correção do redireccionamento interrompido de %(from)s para a página de destino movida %(to)s",
+	"redirect-fix-double": "Correção do duplo redireccionamento de %(from)s para %(to)s",
+	"redirect-fix-loop": "Correção do ciclo de redireccionamento de %(from)s para %(to)s",
 	"redirect-remove-broken": "Redirecionamento para uma página eliminada ou inexistente",
 	"redirect-remove-loop": "O destino do redirecionamento cria um ciclo de redirecionamentos"
 }

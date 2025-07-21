@@ -8,5 +8,5 @@
 	"weblinkchecker-badurl": "Le ligamine fornite non pare esser un adresse URL valide",
 	"weblinkchecker-caption": "Ligamine defuncte",
 	"weblinkchecker-report": "Durante plure sessiones automatic, le robot ha constatate que le sequente ligamine externe non es disponibile. Per favor confirma que le ligamine de facto es defuncte, e in caso de si, repara o elimina lo!",
-	"weblinkchecker-summary": "Robot: Reporto de un ligamine externe non functionante"
+	"weblinkchecker-summary": "Robot: Signalamento de un ligamine externe que non functiona"
 }

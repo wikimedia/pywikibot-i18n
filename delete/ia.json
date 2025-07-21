@@ -6,7 +6,7 @@
 	},
 	"delete-from-category": "Robot: Deletion de tote le paginas presente in categoria %(page)s",
 	"delete-from-file": "Robot: Deletion de un lista de paginas.",
-	"delete-images": "Robot: Deletion de tote le imagines in le pagina %(page)s",
+	"delete-images": "Robot: Deletion de tote le imagines sur le pagina %(page)s",
 	"delete-linked-pages": "Robot: Deletion de tote le paginas ligate ab %(page)s",
-	"delete-referring-pages": "Robot: Deletion de tote le paginas que refere ab %(page)s"
+	"delete-referring-pages": "Robot: Deletion de tote le paginas referentiate per %(page)s"
 }

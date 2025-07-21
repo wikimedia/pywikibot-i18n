@@ -4,6 +4,6 @@
 			"McDutchie"
 		]
 	},
-	"noreferences-add-tag": "Robot: Adder le etiquetta <references /> mancante",
-	"noreferences-fix-tag": "Robot: Repara syntaxe invalide del etiquetta <references />"
+	"noreferences-add-tag": "Robot: Addition del etiquetta <references /> mancante",
+	"noreferences-fix-tag": "Robot: Reparation del syntaxe invalide del etiquetta <references />"
 }

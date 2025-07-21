@@ -5,16 +5,16 @@
 		]
 	},
 	"checkimages-deletion-comment": "Robot: Addition de %(adding)s",
-	"checkimages-doubles-file-comment": "Robot: File es jam sur Commons, pote esser delite",
+	"checkimages-doubles-file-comment": "Robot: Le file se trova ja sur Commons, pote esser delite",
 	"checkimages-doubles-head": "File duplicate",
-	"checkimages-doubles-talk-comment": "Robot: Notifica que le file jam existe sur Commons",
+	"checkimages-doubles-talk-comment": "Robot: Notification que le file se trova ja sur Commons",
 	"checkimages-doubles-talk-text": "Gratias pro haber incargate %(upload)s. Nonobstante, iste file es un copia de:%(image)sLe robot ha marcate como duplicato le file le minus usate o le plus recente. Si tu pensa que es plus appropriate lassar le file marcate como debente esser delite immediatemente, sia libere de deler le files duplicate e remover le patrono de deletion del file restante. Isto es un message automatic de %(bot)s.",
 	"checkimages-forced-mode": "('''modo fortiate''')",
 	"checkimages-has-duplicates": "ha le sequente duplicatos%(force)s:",
-	"checkimages-log-comment": "Robot: Actualisa le registro",
+	"checkimages-log-comment": "Robot: Actualisation del registro",
 	"checkimages-no-license-head": "Imagine sin licentia",
-	"checkimages-source-notice-comment": "Robot: Requesta information sur le fonte",
-	"checkimages-source-tag-comment": "Robot: Marca un file novemente incargate sin etiquetta",
+	"checkimages-source-notice-comment": "Robot: Requesta de information sur le fonte",
+	"checkimages-source-tag-comment": "Robot: Marcage de un file novemente incargate sin etiquetta",
 	"checkimages-unknown-extension-head": "Extension incognite!",
 	"checkimages-unknown-extension-msg": "Le file %(file)s pare haber un extension incorrecte. Per favor verifica."
 }

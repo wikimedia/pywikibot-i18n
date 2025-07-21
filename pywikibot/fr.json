@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Boniface",
+			"Derugon",
 			"Gomoko",
 			"Orikrin1998",
 			"Romainhk",
@@ -25,6 +26,6 @@
 	"pywikibot-fixes-fckeditor": "Robot : correction du HTML de l’éditeur riche",
 	"pywikibot-fixes-html": "Robot : conversion/correction du HTML",
 	"pywikibot-fixes-isbn": "Robot : mise en forme du numéro ISBN",
-	"pywikibot-fixes-syntax": "Bot : correction de la syntaxe wiki",
+	"pywikibot-fixes-syntax": "Robot : correction de la syntaxe wiki",
 	"pywikibot-touch": "Modification nulle par Pywikibot"
 }

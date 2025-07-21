@@ -4,9 +4,9 @@
 			"McDutchie"
 		]
 	},
-	"protect-category": "Robot: Protege tote le paginas in categoria %(cat)s",
-	"protect-images": "Robot: Protege tote le imagines in le pagina %(page)s",
-	"protect-links": "Robot: Protege tote le paginas ligate ab %(page)s",
+	"protect-category": "Robot: Protection de tote le paginas del categoria %(cat)s",
+	"protect-images": "Robot: Protection de tote le imagines sur le pagina %(page)s",
+	"protect-links": "Robot: Protection de tote le paginas ligate desde %(page)s",
 	"protect-ref": "Robot: Protection de tote le paginas que refere a %(page)s",
-	"protect-simple": "Robot: Protege un lista de files"
+	"protect-simple": "Robot: Protection de un lista de files."
 }

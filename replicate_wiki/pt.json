@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"B3rnas"
+		]
+	},
+	"replicate_wiki-headline": "Páginas que diferem do original",
+	"replicate_wiki-missing-users": "Administradores do original que não estão aqui",
+	"replicate_wiki-same-pages": "Todas as páginas importantes são as mesmas",
+	"replicate_wiki-same-users": "Todos os utilizadores do original estão também presentes nesta wiki",
+	"replicate_wiki-summary": "Bot: Sincronização Wiki a partir de %(source)s"
+}

@@ -4,5 +4,5 @@
 			"McDutchie"
 		]
 	},
-	"revertbot-revert": "Robot: Revertite al version %(revid)s per %(author)s le %(timestamp)s"
+	"revertbot-revert": "Robot: Reversion al version %(revid)s per %(author)s le %(timestamp)s"
 }

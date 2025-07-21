@@ -4,7 +4,7 @@
 			"McDutchie"
 		]
 	},
-	"undelete-from-file": "Robot: Restaura un lista de paginas",
-	"undelete-images": "Robot: Restaura tote le imagines sur le pagina %(page)s",
-	"undelete-linked-pages": "Robot: Restaura tote le paginas ligate ab %(page)s"
+	"undelete-from-file": "Robot: Restauration de un lista de paginas",
+	"undelete-images": "Robot: Restauration de tote le imagines sur le pagina %(page)s",
+	"undelete-linked-pages": "Robot: Restauration de tote le paginas ligate ab %(page)s"
 }

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Derugon",
 			"Tavernier",
 			"Urhixidur",
 			"Verdy p",
 			"Wladek92"
 		]
 	},
-	"image-remove": "Bot : retrait de l’image %(file)s",
-	"image-replace": "Bot : remplacement de l’image %(old)s par %(new)s"
+	"image-remove": "Robot : retrait de l’image %(file)s",
+	"image-replace": "Robot : remplacement de l’image %(old)s par %(new)s"
 }

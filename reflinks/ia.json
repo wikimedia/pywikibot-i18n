@@ -6,5 +6,5 @@
 	},
 	"reflinks-autogen": "generate automaticamente",
 	"reflinks-comment": "Titulo generate per robot",
-	"reflinks-msg": "Robot: Corrige referentias sin formato, attribuente nomines pro evitar duplicatos; vide le [[%(manual)s|FAQ]]"
+	"reflinks-msg": "Robot: Correction de referentias sin formato, attribuente nomines pro evitar duplicatos; vide le [[%(manual)s|FAQ]]"
 }

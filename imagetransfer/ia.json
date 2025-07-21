@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Martijn Dekker"
+			"Martijn Dekker",
+			"McDutchie"
 		]
 	},
-	"imagetransfer-file_page_message": "Iste imagine esseva copiate de %(site)s. Le description original esseva:\n\n%(description)s",
-	"imagetransfer-nowcommons_notice": "Le file es ora disponibile in Wikimedia Commons."
+	"imagetransfer-file_page_message": "Iste imagine ha essite copiate de %(site)s. Le description original esseva:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Le file es ora disponibile sur Wikimedia Commons."
 }

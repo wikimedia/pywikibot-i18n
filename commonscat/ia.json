@@ -4,5 +4,5 @@
 			"McDutchie"
 		]
 	},
-	"commonscat-msg_change": "Robot: Cambia ligamine commonscat de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] a [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Robot: Cambio de ligamine commonscat de [[:Commons:Category:%(oldcat)s|%(oldcat)s]] a [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

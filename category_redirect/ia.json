@@ -4,12 +4,12 @@
 			"McDutchie"
 		]
 	},
-	"category_redirect-add-template": "Robot: Adde patrono de redirection de categoria pro mantenentia",
-	"category_redirect-change-category": "Robot: Cambia le categoria redirigite [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-add-template": "Robot: Addition de un patrono de redirection de categoria pro mantenentia",
+	"category_redirect-change-category": "Robot: Cambio del categoria redirigite [[:%(oldCatLink)s|%(oldCatTitle)s]] a [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Robot pro mantener redirectiones de categorias",
 	"category_redirect-edit-request": "Le sequente paginas protegite require actualisationes de ligamines a categorias: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s es in %(oldcat)s, que es un redirection a %(newcat)s",
-	"category_redirect-fix-double": "Robot: Repara redirection duple",
+	"category_redirect-fix-double": "Robot: Reparation de un redirection duple",
 	"category_redirect-log-add-failed": "* Non poteva adder [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] addite a %(oldcat)s",
 	"category_redirect-log-double": "* Duple redirection corrigite: %(oldcat)s -> %(newcat)s -> %(targetcat)s",

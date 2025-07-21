@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Athena in Wonderland",
+			"B3rnas",
 			"Hamilton Abreu",
 			"Jkb8"
 		]
@@ -10,6 +11,9 @@
 	"checkimages-doubles-file-comment": "Robô: O ficheiro já está na wiki Commons, poderá ser eliminado",
 	"checkimages-doubles-head": "Ficheiro duplicado",
 	"checkimages-doubles-talk-comment": "Robô: Notificar que o ficheiro já existe na wiki Commons",
+	"checkimages-doubles-talk-text": "Obrigado por carregar %(upload)s. No entanto, este ficheiro é uma cópia de:%(image)sO Bot marcou como duplicado o ficheiro que foi considerado menos utilizado ou mais recente. Se considerar mais apropriado deixar o ficheiro marcado para ser apagado imediatamente, sinta-se à vontade para apagar os ficheiros duplicados e remover o modelo de apagamento do ficheiro a ser deixado. Esta é uma mensagem automática de %(bot)s.",
+	"checkimages-forced-mode": "(‘’'modo forçado'‘’)",
+	"checkimages-has-duplicates": "tem os seguintes duplicados%(force)s:",
 	"checkimages-log-comment": "Robô: A atualizar o registo",
 	"checkimages-no-license-head": "Imagem sem licença",
 	"checkimages-source-notice-comment": "Robô: A pedir informação sobre a fonte.",
