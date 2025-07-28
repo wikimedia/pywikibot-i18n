@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinamoonroll"
+		]
+	},
+	"delete-from-category": "Bot: Ngapus kaca makasami saking soroh %(page)s",
+	"delete-from-file": "Bot: Ngapus lis kaca.",
+	"delete-images": "Bot: Ngapus gambar makasami ring kaca %(page)s",
+	"delete-linked-pages": "Bot: Ngapus samian kaca sané kataut saking %(page)s",
+	"delete-referring-pages": "Bot: Ngapus samian kaca sané nujuang saking %(page)s"
+}

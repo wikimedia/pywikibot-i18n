@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinamoonroll"
+		]
+	},
+	"archivebot-archive-full": "(ARSIP JANGKEP)",
+	"archivebot-archive-summary": "Bot: Ngarsip %(count)d {{PLURAL:%(count)d|utas}} saking [[%(from)s]]",
+	"archivebot-older-than": "{{PLURAL:%(count)d|lawas}} saking %(duration)s",
+	"archivebot-page-summary": "Bot: Ngarsip %(count)d {{PLURAL:%(count)d|utas}} (%(why)s) ka %(archive)s"
+}

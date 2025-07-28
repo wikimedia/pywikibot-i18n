@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinamoonroll"
+		]
+	},
+	"image-remove": "Bot: Ngicalang gambar %(file)s",
+	"image-replace": "Bot: Ngentosin gambar %(old)s antuk %(new)s"
+}

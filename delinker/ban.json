@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinamoonroll"
+		]
+	},
+	"delinker-delink": "Bot: Berkas [[%(title)s]] sampun kaapus, santukan sampun kaapus olih [[:User:%(user)s]]: ''%(comment)s''."
+}
