@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"EagerLin",
+			"Jetlag"
+		]
+	},
+	"pywikibot-bot-prefix": "機械人：",
+	"pywikibot-cosmetic-changes": ";整潔化更改",
+	"pywikibot-enter-category-name": "請輸入分類名稱：",
+	"pywikibot-enter-file-links-processing": "哪隻圖像个連接需要處理？",
+	"pywikibot-enter-finished-browser": "搞掂後請撳下Enter鍵。",
+	"pywikibot-enter-namespace-number": "請輸入名字空間編號：",
+	"pywikibot-enter-new-text": "請輸入新文字：",
+	"pywikibot-enter-page-processing": "哪隻頁面需要處理？",
+	"pywikibot-enter-xml-filename": "請輸入XML Dump个文件名稱：",
+	"pywikibot-fixes-isbn": "機械人：格式化ISBN"
+}
