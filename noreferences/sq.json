@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Euriditi"
+			"Euriditi",
+			"Xhulianoo"
 		]
 	},
-	"noreferences-add-tag": "Roboti: Duke shtuar etiketën <references /> që mungon"
+	"noreferences-add-tag": "Bot: Shtimi i etiketave të munguara <references />"
 }

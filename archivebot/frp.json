@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"ChrisPtDe",
+			"L'Arpetani",
 			"Xqt"
 		]
 	},
 	"archivebot-archive-full": "(ARCH·IVES PLÊNES)",
 	"archivebot-archive-summary": "Robot : arch·ivâjo de %(count)d {{PLURAL:%(count)d|fil de discussion|fils de discussion}} dês [[%(from)s]]",
-	"archivebot-older-than": "ples viely que",
+	"archivebot-older-than": "més ancian{{PLURAL:%(count)d||s}} que %(duration)s",
 	"archivebot-page-summary": "Robot : arch·ivâjo de %(count)d {{PLURAL:%(count)d|fil de discussion|fils de discussion}} (%(why)s) de vers %(archives)s"
 }

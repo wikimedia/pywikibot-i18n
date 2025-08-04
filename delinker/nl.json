@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Ciell",
-			"HanV"
+			"HanV",
+			"McDutchie"
 		]
 	},
-	"delinker-delink": "Bot: het bestand [[%(title)s]] is verwijderd, want dat bestand is verwijderd door [[:User:%(user)s]]: ''%(comment)s''"
+	"delinker-delink": "Robot: het bestand [[%(title)s]] is verwijderd, want dat bestand is gewist door [[:User:%(user)s]]: ''%(comment)s''"
 }

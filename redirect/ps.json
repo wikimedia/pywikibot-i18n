@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"redirect-fix-broken-moved": "د  %(from)s څخه %(to)s ته د موخې وړ مخ لېږدونې مات شوی مخگرځ اوارول",
+	"redirect-fix-double": "له %(from)s ته %(to)s د غبرگ مخگرځ اوارول",
+	"redirect-fix-loop": "د %(from)s ته %(to)s د کړۍ مخگرځ اوارول",
+	"redirect-remove-broken": "يو ړنگ‌شوي يا نشت مخ ته مخگرځ",
+	"redirect-remove-loop": "مخگرځ موخه يو مخگرځ کړۍ جوړوي"
+}
