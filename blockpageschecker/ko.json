@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Suleiman the Magnificent Television",
 			"Ykhwong",
 			"아라"
 		]
 	},
-	"blockpageschecker-adding": "봇: 페이지 잠금 틀 추가",
+	"blockpageschecker-adding": "봇: 문서 잠금 틀 추가",
 	"blockpageschecker-deleting": "봇: 오래된 틀 삭제",
 	"blockpageschecker-modifying": "봇: 오래된 틀 수정"
 }

@@ -4,12 +4,13 @@
 			"Dr1t jg",
 			"Nicolas Dumazet",
 			"Revi",
+			"Suleiman the Magnificent Television",
 			"Ykhwong",
 			"xqt",
 			"아라"
 		]
 	},
-	"checkimages-deletion-comment": "봇 : %(adding)s 추가",
+	"checkimages-deletion-comment": "봇: %(adding)s 추가",
 	"checkimages-doubles-file-comment": "봇: 파일이 이미 공용에 존재하므로 삭제될 수 있음",
 	"checkimages-doubles-head": "중복 파일",
 	"checkimages-doubles-talk-comment": "봇: 파일이 이미 공용에 존재함을 알림",
