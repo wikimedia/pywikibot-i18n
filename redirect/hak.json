@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jetlag",
+			"Xqt"
+		]
+	},
+	"redirect-fix-broken-moved": "機械人：修復損壞个重定向頁到移動目標頁面 %(to)s",
+	"redirect-fix-double": "修正雙重定向至%(to)s",
+	"redirect-fix-loop": "修復重定向迴圈至%(to)s",
+	"redirect-remove-broken": "重定向到已刪除或毋存在个頁面",
+	"redirect-remove-loop": "重定向目標構成循環"
+}
