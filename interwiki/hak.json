@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jetlag"
+		]
+	},
+	"interwiki-adding": "機械人：新增%(adding)s",
+	"interwiki-adding-modifying": "機械人：增加%(adding)s、修改%(modifying)s",
+	"interwiki-adding-removing": "機械人：新增%(adding)s、刪除%(removing)s",
+	"interwiki-adding-removing-modifying": "機械人：添加%(adding)s、刪除%(removing)s、修改%(modifying)s",
+	"interwiki-modifying": "機械人：修改%(modifying)s",
+	"interwiki-modifying-from": "機械人：更換%(from)s至%(modifying)s",
+	"interwiki-removing": "機械人：刪除%(removing)s",
+	"interwiki-removing-modifying": "機械人：刪除%(removing)s、修改%(modifying)s"
+}

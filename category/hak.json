@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jetlag"
+		]
+	},
+	"category-adding": "機械人：添加分類[[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "（共樣也在%(alsocat)s）",
+	"category-listifying": "機械人：從%(fromcat)s提取列表(%(num)d條紀錄)",
+	"category-removing": "機械人：從「%(oldcat)s」肚移除",
+	"category-renamed": "機械人：移動自%(oldcat)s。編者：%(authors)s",
+	"category-replacing": "機械人：分類由%(oldcat)s替換成%(newcat)s",
+	"category-section-title": "%(oldcat)s个頁面歷史",
+	"category-version-history": "機械人：儲存緊%(oldcat)s个歷史記錄",
+	"category-was-disbanded": "機械人：分類已放棄使用",
+	"category-was-moved": "機械人：分類轉移到[[:Category:%(newcat)s|%(title)s]]"
+}
