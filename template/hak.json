@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jetlag"
+		]
+	},
+	"template-changing": "機械人更改%(num)d個模板：%(list)s",
+	"template-removing": "機械人刪除%(num)d個模板：%(list)s",
+	"template-substituting": "機械人替換%(num)d個模板：%(list)s"
+}

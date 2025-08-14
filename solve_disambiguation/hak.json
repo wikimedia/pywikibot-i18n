@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jetlag"
+		]
+	},
+	"solve_disambiguation-adding-dn-template": "機械人輔助消除歧義：%(from)s  - 標記為需要專家關注",
+	"solve_disambiguation-links-removed": "機械人輔助消除歧義：%(from)s - 移除鏈接。",
+	"solve_disambiguation-links-resolved": "機械人輔助消除歧義：%(from)s - 連接改為%(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "機械人輔助消除歧義：%(from)s - 標記為需要專家關注",
+	"solve_disambiguation-redirect-removed": "機械人輔助消除歧義：%(from)s - 刪除鏈接",
+	"solve_disambiguation-redirect-resolved": "機械人輔助消除歧義：%(from)s - 連接改為%(to)s",
+	"solve_disambiguation-unknown-page": "(吂知)"
+}

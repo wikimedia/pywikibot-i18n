@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jetlag"
+		]
+	},
+	"category_redirect-add-template": "機械人：增加分類重定向模板供維護",
+	"category_redirect-change-category": "機械人：更改分類重定向由[[:%(oldCatLink)s|%(oldCatTitle)s]]至[[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "分類重定向機械人",
+	"category_redirect-edit-request": "以下被保護頁面已經被檢測到要更新分類連結：%(itemlist)s",
+	"category_redirect-edit-request-item": "%(title)s係在%(oldcat)s，遐係一隻連結到%(newcat)s个重定向",
+	"category_redirect-fix-double": "機械人：修復雙重重定向"
+}
