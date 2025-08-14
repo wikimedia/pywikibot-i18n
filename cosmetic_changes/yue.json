@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"JeffreyKim"
+			"JeffreyKim",
+			"Ktchankt"
 		]
 	},
-	"cosmetic_changes-standalone": "機器人：整容變化"
+	"cosmetic_changes-standalone": "機械人：整容變化"
 }
