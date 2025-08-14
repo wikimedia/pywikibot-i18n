@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jetlag"
+			"Jetlag",
+			"Winston Sung"
 		]
 	},
 	"solve_disambiguation-adding-dn-template": "機械人輔助消除歧義：%(from)s  - 標記為需要專家關注",

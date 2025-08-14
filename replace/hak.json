@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jetlag"
+			"Jetlag",
+			"Winston Sung"
 		]
 	},
 	"replace-replacing": "機械人：自動替換文字%(description)s"

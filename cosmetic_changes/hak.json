@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jetlag"
+			"Jetlag",
+			"Winston Sung"
 		]
 	},
-	"cosmetic_changes-append": ";整潔化更改",
 	"cosmetic_changes-standalone": "機械人：整潔化"
 }

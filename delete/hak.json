@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"EagerLin",
-			"Jetlag"
+			"Jetlag",
+			"Winston Sung"
 		]
 	},
 	"delete-from-category": "機械人：刪除所有来自%(page)s分類个頁面",

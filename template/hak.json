@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jetlag"
+			"Jetlag",
+			"Winston Sung"
 		]
 	},
 	"template-changing": "機械人更改%(num)d個模板：%(list)s",

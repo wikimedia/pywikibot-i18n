@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jetlag"
+			"Jetlag",
+			"Winston Sung"
 		]
 	},
 	"welcome-bad_username": "機械人：添加需要檢查个用戶名",
