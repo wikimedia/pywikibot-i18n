@@ -3,13 +3,15 @@
 		"authors": [
 			"Geraki",
 			"GhotuoIncubator",
-			"Glavkos"
+			"Glavkos",
+			"Jimkats"
 		]
 	},
 	"checkimages-deletion-comment": "Ρομπότ: Προσθήκη: %(adding)s",
 	"checkimages-doubles-file-comment": "Ροπμότ: Το Αρχείο υπάρχει ήδη στο Wikimedia Commons, μαλλον θα διαγραφεί.",
 	"checkimages-doubles-head": "Διπλότυπο αρχείο",
 	"checkimages-doubles-talk-comment": "Ρομπότ: Ενημέρωση οτι το αρχείο υπάρχει ήδη στο Wikimedia Commons",
+	"checkimages-has-duplicates": "έχει τα ακόλουθα διπλότυπα %(force)s:",
 	"checkimages-log-comment": "Ρομπότ: Ενημέρωση αρχείου καταγραφής",
 	"checkimages-no-license-head": "Εικόνα χωρίς άδεια χρήσης",
 	"checkimages-source-notice-comment": "Ρομπότ: Αίτημα για πληροφορία πηγής",

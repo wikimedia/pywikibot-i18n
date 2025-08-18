@@ -4,12 +4,13 @@
 			"Evropi",
 			"Geraki",
 			"Glavkos",
+			"Jimkats",
 			"Protnet"
 		]
 	},
-	"redirect-fix-broken-moved": "Διόρθωση σπασμένης ανακατεύθυνσης προς την μετακινημένη σελίδα στόχο %(to)s",
-	"redirect-fix-double": "Διόρθωση διπλής ανακατεύθυνσης σε %(to)s",
-	"redirect-fix-loop": "Διόρθωση βρόχου ανακατεύθυνσης σε %(to)s",
+	"redirect-fix-broken-moved": "Διόρθωση σπασμένης ανακατεύθυνσης από %(from)s προς την μετακινημένη σελίδα στόχο %(to)s",
+	"redirect-fix-double": "Διόρθωση διπλής ανακατεύθυνσης από %(from)s προς %(to)s",
+	"redirect-fix-loop": "Διόρθωση βρόχου ανακατεύθυνσης από %(from)s προς %(to)s",
 	"redirect-remove-broken": "Ανακατεύθυνση σε μια σελίδα διαγεγραμμένη  ή ανύπαρκτη",
 	"redirect-remove-loop": "Ο προορισμός ανακατεύθυνσης σχηματίζει βρόγχο ανακατεύθυνσης"
 }

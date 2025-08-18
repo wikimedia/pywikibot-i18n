@@ -3,13 +3,14 @@
 		"authors": [
 			"Evropi",
 			"Geraki",
+			"Jimkats",
 			"Protnet",
 			"Xqt"
 		]
 	},
 	"category-adding": "Ρομπότ: Προσθήκη κατηγορίας [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(επίσης στην %(alsocat)s)",
-	"category-clean": "Bot: Αφαίρεση κατηγορίας %(category)s που βρίσκεται ήδη στην %(child)s",
+	"category-clean": "Bot: Αφαίρεση κατηγορίας %(category)s επειδή βρίσκεται ήδη υπό την %(child)s",
 	"category-listifying": "Ρομπότ: Καταλογογράφηση από %(fromcat)s ({{PLURAL:%(num)d|1 καταχώριση|%(num)d καταχωρίσεις}})",
 	"category-removing": "Ρομπότ: Αφαίρεση από την %(oldcat)s",
 	"category-renamed": "Ρομπότ: Μετακινήθηκε από %(oldcat)s. Συντάκτες: %(authors)s",
