@@ -21,7 +21,6 @@
 	"category_redirect-log-false-positive": "Log message indicating category page was not redirect.",
 	"category_redirect-log-ignoring": "Log message indicating category page is a redirect on purpose.",
 	"category_redirect-log-loop": "Log message indicating category redirect chain makes a loop.",
-	"category_redirect-log-move-error": "Log message indicating category contents could not be moved.",
 	"category_redirect-log-moved": "Log message indicating pages found and moved from the redirected category.",
 	"category_redirect-log-new": "Log page heading",
 	"category_redirect-log-not-loaded": "Log message indicating category page could not be loaded.",
