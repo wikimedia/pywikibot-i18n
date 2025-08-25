@@ -19,7 +19,6 @@
 	"category_redirect-log-false-positive": "* Nečakané nepresmerovanie: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignorovanie %(oldcat)s",
 	"category_redirect-log-loop": "* Presmerovanie cyklu z %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: chyba v move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d nájdené, %(moved)d presunuté",
 	"category_redirect-log-new": "Nové presmerovania od posledného hlásenia:",
 	"category_redirect-log-not-loaded": "* Nemožno načítať %(oldcat)s; ignorovanie",

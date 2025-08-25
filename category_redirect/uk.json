@@ -22,7 +22,6 @@
 	"category_redirect-log-false-positive": "* Непередбачена відсутність перенаправлення: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ігнорування %(oldcat)s",
 	"category_redirect-log-loop": "* Петля перенаправлень з %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: помилка у move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d знайдено, %(moved)d переміщено",
 	"category_redirect-log-new": "Нові перенаправлення з моменту останнього звіту:",
 	"category_redirect-log-not-loaded": "* Не вдалось завантажити %(oldcat)s; не беремо до уваги",

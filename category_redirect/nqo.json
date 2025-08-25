@@ -17,7 +17,6 @@
 	"category_redirect-log-false-positive": "* ߟߊ߬ߞߎ߲߬ߠߌ߲߬-ߓߊߟߌߦߊ߫ ߘߐߞߐ߬ߣߐ߲߬ߓߊߟߌ: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s ߡߊߓߌ߬ߟߊ߫",
 	"category_redirect-log-loop": "* ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲ ߞߐ߬ߘߙߍ ߞߊ߬ ߝߘߊ߫ %(oldcat)s ߟߊ߫",
-	"category_redirect-log-move-error": "* %(oldcat)s: ߝߌ߬ߟߌ ߦߋ߫ move_contents ߘߐ߫",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d ߓߘߊ߫ ߛߐ߬ߘߐ߲߬߸ %(moved)d ߓߐ߫ ߊ߬ ߣߐ߭ ߘߐ߫",
 	"category_redirect-log-new": "ߟߊ߬ߞߎ߲߬ߛߌ߲߬ߠߌ߲߫ ߞߎߘߊ߫ ߞߊ߬ߦߌ߯ ߘߊ߲߬ߕߍ߰ߟߌ߫ ߞߐ߯ߟߕߊ ߡߊ߬",
 	"category_redirect-log-not-loaded": "* ߕߍߣߊ߬ ߛߐ߲߬ ߠߊ߫ %(oldcat)s ߟߊߢߎ߲߫ ߠߊ߫; ߡߊ߬ߓߌ߬ߟߊ߬ߟߌ",

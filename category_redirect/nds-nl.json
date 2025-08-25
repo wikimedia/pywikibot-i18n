@@ -17,7 +17,6 @@
 	"category_redirect-log-false-positive": "* Unverwachtede neet-döärverwysing: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Negeert %(oldcat)s",
 	"category_redirect-log-loop": "* Döärverwysingslüsse van %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: faut in move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d vünden, %(moved)d hernöömd",
 	"category_redirect-log-new": "Nye döärverwysingen sinds et lätste rapport:",
 	"category_redirect-log-not-loaded": "* %(oldcat)s kun neet laden wörden; wördt negeerd",

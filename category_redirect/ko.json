@@ -20,7 +20,6 @@
 	"category_redirect-log-false-positive": "* 예기치 않은, 넘겨주기가 아닌 문서: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s 무시",
 	"category_redirect-log-loop": "* %(oldcat)s에서 넘겨주기 루프",
-	"category_redirect-log-move-error": "* %(oldcat)s: move_contents에 오류가 있음",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d 발견, %(moved)d 이동",
 	"category_redirect-log-new": "마지막 보고 이후 새로운 넘겨주기:",
 	"category_redirect-log-not-loaded": "* %(oldcat)s 항목을 불러오지 못해 무시함",

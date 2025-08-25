@@ -18,7 +18,6 @@
 	"category_redirect-log-false-positive": "* Ne-beralîkirina nehêvîkirî: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s tê tine hesibandin",
 	"category_redirect-log-loop": "* Çerxa beralîkirinê ji %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: barkirina naverokê têk çû",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d hat(in) dîtin, %(moved)d hat(in) barkirin",
 	"category_redirect-log-new": "Beralîkirinên nû ji rapora dawî ve:",
 	"category_redirect-log-not-loaded": "* Barkirina %(oldcat)s têk çû; tine tê hesibandin",

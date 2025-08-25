@@ -19,7 +19,6 @@
 	"category_redirect-log-false-positive": "* Unerwartete Nicht-Weiterleitung: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignoriere %(oldcat)s",
 	"category_redirect-log-loop": "* Weiterleitungsschleife von %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: Fehler in move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d gefunden, %(moved)d verschoben",
 	"category_redirect-log-new": "Neue Weiterleitungen seit dem letzten Bericht:",
 	"category_redirect-log-not-loaded": "* %(oldcat)s konnte nicht geladen werden; wird ignoriert",

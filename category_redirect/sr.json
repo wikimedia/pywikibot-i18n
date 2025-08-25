@@ -23,7 +23,6 @@
 	"category_redirect-log-false-positive": "* Неочекивано непреусмерење: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Игнорисање %(oldcat)s",
 	"category_redirect-log-loop": "* Преусмеравајућа петља од %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: грешка у move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d пронађено, %(moved)d премештено",
 	"category_redirect-log-new": "Нова преусмерења од последњег извештаја:",
 	"category_redirect-log-not-loaded": "* Није могуће учитати %(oldcat)s; игнорисање",

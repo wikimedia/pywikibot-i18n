@@ -18,7 +18,6 @@
 	"category_redirect-log-false-positive": "* Неочекувано непренасочување: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Занемарувам %(oldcat)s",
 	"category_redirect-log-loop": "* Јамка на пренасочување од %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: грешка во move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: најдено %(found)d, преместено %(moved)d",
 	"category_redirect-log-new": "Нови пренасочувања од последниот извештај:",
 	"category_redirect-log-not-loaded": "* Не можев да ја вчитам %(oldcat)s; занемарувам",

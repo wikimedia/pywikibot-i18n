@@ -12,7 +12,6 @@
 	"category_redirect-log-added": "* [[%(ns)s%(template)s]] yettwarna ɣer %(oldcat)s",
 	"category_redirect-log-failed": "** Yecceḍ: %(error)s",
 	"category_redirect-log-ignoring": "Anef i %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: tuccḍa deg move_contents",
 	"category_redirect-log-new": "Awehhi amaynut seg uneqqis aneggaru:",
 	"category_redirect-log-not-loaded": "* D awezɣi usali n %(oldcat)s; anef-as",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Iɣmisen iqburen]'''",

@@ -25,7 +25,6 @@
 	"category_redirect-log-false-positive": "* Non-redirection inattendue : %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ignore %(oldcat)s",
 	"category_redirect-log-loop": "* Boucle de redirection depuis %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s : erreur dans move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s : %(found)d trouvé, %(moved)d déplacé",
 	"category_redirect-log-new": "Nouvelles redirections depuis le dernier rapport :",
 	"category_redirect-log-not-loaded": "* Impossible de charger %(oldcat)s ; ignoré",

@@ -19,7 +19,6 @@
 	"category_redirect-log-false-positive": "* Нечаканае неперанакіраваньне: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Ігнаруем %(oldcat)s",
 	"category_redirect-log-loop": "* Цыкль перанакіраваньняў з %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: памылка ў move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d знойдзена, %(moved)d перанесена",
 	"category_redirect-log-new": "Новыя перанакіраваньні з часу апошняй справаздачы:",
 	"category_redirect-log-not-loaded": "* Не магу загрузіць %(oldcat)s; прапушчаныя",

@@ -8,7 +8,7 @@
 		]
 	},
 	"weblinkchecker-archive_msg": "這個網頁已經畀互聯網檔案館（Internet Archive）保存。請為該網頁挑選一個適合鏈接个存檔版本: [%(URL)s]。",
-	"weblinkchecker-caption": "失效鏈接",
+	"weblinkchecker-caption": "失效連結",
 	"weblinkchecker-report": "自動運行个機械人發現下列外部連結可能已經無用。請幫助檢查，修復或移除有問題个連結。",
 	"weblinkchecker-summary": "機械人：報告無效个外部連結"
 }

@@ -20,7 +20,6 @@
 	"category_redirect-log-false-positive": "* Neočekávaná stránka místo přesměrování: %(oldcat)s",
 	"category_redirect-log-ignoring": "* %(oldcat)s vynechána",
 	"category_redirect-log-loop": "* Cyklus přesměrování z %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: chyba v move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d nalezeno, %(moved)d přesunuto",
 	"category_redirect-log-new": "Nová přesměrování od posledního reportu:",
 	"category_redirect-log-not-loaded": "* Nebylo možné načíst %(oldcat)s; vynecháno",

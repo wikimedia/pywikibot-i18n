@@ -18,7 +18,6 @@
 	"category_redirect-log-false-positive": "* Nepričakovana nepreusmeritev: %(oldcat)s",
 	"category_redirect-log-ignoring": "* Prezrtje %(oldcat)s",
 	"category_redirect-log-loop": "* Preusmeritvena zanka iz %(oldcat)s",
-	"category_redirect-log-move-error": "* %(oldcat)s: napaka v move_contents",
 	"category_redirect-log-moved": "* %(oldcat)s: %(found)d najdeno, %(moved)d prestavljeno",
 	"category_redirect-log-new": "Nove preusmeritve od zadnjega poročila:",
 	"category_redirect-log-not-loaded": "* Ni bilo mogoče naložiti %(oldcat)s; prezrtje",
