@@ -4,5 +4,5 @@
 			"Jon Harald Søby"
 		]
 	},
-	"tracking_param_remover-removing": "Edit summary used for a bot that removes tracking parameters from URLs"
+	"tracking_param_remover-removing": "Edit summary used for a bot that removes tracking parameters (such as [[w:en:UTM parameters|UTM parameters]]) from URLs"
 }
