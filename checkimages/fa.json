@@ -7,11 +7,12 @@
 			"Ebraminio",
 			"FarsiNevis",
 			"Huji",
+			"LordProfo",
 			"Reza1615",
 			"xqt"
 		]
 	},
-	"checkimages-deletion-comment": "ربات: اضافه کردن %(adding)s",
+	"checkimages-deletion-comment": "ربات: افزودن %(adding)s",
 	"checkimages-doubles-file-comment": "ربات: برچسب زدن بر تصویر تکراری",
 	"checkimages-doubles-head": "پرونده تکراری",
 	"checkimages-doubles-talk-comment": "ربات: تصویر تکراری یافت شد",
