@@ -1,15 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChrisPtDe"
+			"ChrisPtDe",
+			"L'Arpetani"
 		]
 	},
 	"category-adding": "Robot : apond la catègorie [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(tot-pariér dedens %(alsocat)s)",
+	"category-clean": "Robot : enlèva la catègorie %(category)s qu'est ja cllassiêe dens %(child)s",
 	"category-listifying": "Robot : listâjo de %(fromcat)s ({{PLURAL:%(num)d|1 èlèment|%(num)d èlèments}})",
 	"category-removing": "Robot : enléve dês %(oldcat)s",
+	"category-renamed": "Robot : dèplaciê dês %(oldcat)s. Ôtors : %(authors)s",
 	"category-replacing": "Robot : remplacement de la catègorie %(oldcat)s per %(newcat)s",
 	"category-section-title": "Historico de les vèrsions de la vielye %(oldcat)s",
+	"category-strip-both": "Robot : suprèssion dos modèlos CFD et des cllâfs de tri por l'accion achavonâye",
+	"category-strip-cfd-templates": "Robot : suprèssion dos modèlos CFD por l'accion achavonâye",
+	"category-strip-sort-keys": "Robot : suprèssion des cllâfs de tri por l'accion achavonâye",
 	"category-version-history": "Robot : encartâjo de l’historico de les vèrsions de la vielye %(oldcat)s",
 	"category-was-disbanded": "Robot : la catègorie est étâye suprimâye",
 	"category-was-moved": "Robot : catègorie dèplaciêye vers [[:Category:%(newcat)s|%(title)s]]"

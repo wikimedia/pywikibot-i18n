@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"blockpageschecker-adding": "Robot : aponse du modèlo de blocâjo de pâge",
+	"blockpageschecker-deleting": "Robot : suprèssion d'un modèlo obsolèto",
+	"blockpageschecker-modifying": "Robot : modificacion d'un modèlo obsolèto"
+}

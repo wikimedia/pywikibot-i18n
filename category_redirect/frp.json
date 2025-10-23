@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChrisPtDe"
+			"ChrisPtDe",
+			"L'Arpetani"
 		]
 	},
 	"category_redirect-add-template": "Robot : apond lo modèlo de redirèccion de catègorie por mantegnence",
@@ -9,5 +10,19 @@
 	"category_redirect-comment": "Robot de mantegnence de les redirèccions de catègories",
 	"category_redirect-edit-request": "Cetes pâges protègiêyes sont étâyes dècelâyes coment èyent fôta de les mises a jorn des lims de catègorie : %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s est dedens %(oldcat)s qu’est na redirèccion de vers %(newcat)s",
-	"category_redirect-fix-double": "Robot : rèpâre na redirèccion dobla"
+	"category_redirect-fix-double": "Robot : rèpâre na redirèccion dobla",
+	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] s'at pas povu apondre a %(oldcat)s",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] apondu(s) a %(oldcat)s",
+	"category_redirect-log-double": "* Dobla redirèccion corregiêe : %(oldcat)s → %(newcat)s → %(targetcat)s",
+	"category_redirect-log-failed": "** Èchèque : %(error)s",
+	"category_redirect-log-false-positive": "* Nan-redirection emprèvua : %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ignorant %(oldcat)s",
+	"category_redirect-log-loop": "* Boclla de redirection dês %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s : %(found)d trovâ, %(moved)d dèplaciê",
+	"category_redirect-log-new": "Novèles redirèccions dês lo dèrriér rapôrt :",
+	"category_redirect-log-not-loaded": "* %(oldcat)s s'at pas povu chargiér ; ignorâ",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Jornals més ancians]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s est una redirèccion en dur vers %(page)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s redirige vers %(redpage)s",
+	"category_redirect-problem-self-linked": "# %(oldcat)s est una redirèccion vers èle-méma"
 }

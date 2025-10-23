@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"checkimages-deletion-comment": "Robot : apond %(adding)s",
+	"checkimages-doubles-file-comment": "Robot : fichiér ja sur Commons, pôt étre suprimâ",
+	"checkimages-doubles-head": "Fichiér duplicâ",
+	"checkimages-doubles-talk-comment": "Robot : notificacion que lo fichiér ègziste ja sur Commons",
+	"checkimages-forced-mode": "('''môdo forciê''')"
+}
