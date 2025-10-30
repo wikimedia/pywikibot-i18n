@@ -5,6 +5,6 @@
 			"Xqt"
 		]
 	},
-	"redirect-fix-double": "Doppelte Weiderleiding nooch %(to)s gennert",
+	"redirect-fix-double": "Doppelte Weiderleiding vun %(from)s nooch %(to)s gennert",
 	"redirect-remove-broken": "Kaputte Weiderleiding"
 }

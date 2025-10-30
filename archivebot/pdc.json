@@ -5,5 +5,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIV FOL)",
-	"archivebot-older-than": "{{PLURAL:%(count)d|elder}} ass %(duration)s"
+	"archivebot-archive-summary": "Waddefresser: Archivier %(count)d {{PLURAL:%(count)d|Gschwetz-Blechke|Gschwetz-Blechke}} vun [[%(from)s]]",
+	"archivebot-older-than": "{{PLURAL:%(count)d|elder}} ass %(duration)s",
+	"archivebot-page-summary": "Waddefresser: %(count)d {{PLURAL:%(count)d|Abschnitt|Abschnitte}} (%(why)s) no %(archives)s archivier"
 }
