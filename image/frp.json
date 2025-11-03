@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"image-remove": "Robot : retrèt de l'émâge %(file)s",
+	"image-replace": "Robot : remplacement de l'émâge %(old)s per %(new)s"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"reflinks-autogen": "ôto-gènèrâ",
+	"reflinks-comment": "Titro produit per robot",
+	"reflinks-msg": "Robot : convèrsion des rèfèrences mâl formatées, en sèrvant los noms des rèfèrences por èvitar los doblens, vêre [[%(manual)s|FAQ]]"
+}

@@ -1,10 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChrisPtDe"
+			"ChrisPtDe",
+			"L'Arpetani"
 		]
 	},
 	"pywikibot-bot-prefix": "Robot:",
 	"pywikibot-cosmetic-changes": "; changement de tipo cosmètico",
-	"pywikibot-fixes-isbn": "Robot : misa en fôrma du ISBN"
+	"pywikibot-enter-category-name": "Mèrci d'arrapar lo nom de la catègorie :",
+	"pywikibot-enter-file-links-processing": "Lims vers la pâge de fichiér que fôt trètar ?",
+	"pywikibot-enter-finished-browser": "Apoyéd sur Entrâye quand vos éd feni dens lo navegator.",
+	"pywikibot-enter-namespace-number": "Mèrci d'entrar un èspâço de noms per son numerô :",
+	"pywikibot-enter-new-text": "Mèrci d'entrar lo novél tèxto :",
+	"pywikibot-enter-page-processing": "Quinta pâge fôt trètar ?",
+	"pywikibot-enter-xml-filename": "Mèrci d'entrar lo nom du fichiér d'èxtraccion XML :",
+	"pywikibot-fixes-fckeditor": "Robot : corrèccion de l'èditor d'HTML",
+	"pywikibot-fixes-html": "Robot : convèrsion/corrèccion de l'HTML",
+	"pywikibot-fixes-isbn": "Robot : misa en fôrma du ISBN",
+	"pywikibot-fixes-syntax": "Robot : corrèccion de la sintaxe vouiqui",
+	"pywikibot-touch": "Modificacion nula per Pywikibot"
 }

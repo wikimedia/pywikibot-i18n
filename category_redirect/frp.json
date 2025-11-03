@@ -21,6 +21,7 @@
 	"category_redirect-log-moved": "* %(oldcat)s : %(found)d trovâ, %(moved)d dèplaciê",
 	"category_redirect-log-new": "Novèles redirèccions dês lo dèrriér rapôrt :",
 	"category_redirect-log-not-loaded": "* %(oldcat)s s'at pas povu chargiér ; ignorâ",
+	"category_redirect-log-skipping": "* Sôte %(oldcat)s ; dens una pèrioda de calmo",
 	"category_redirect-older-logs": "'''[%(oldlogs)s Jornals més ancians]'''",
 	"category_redirect-problem-hard": "# %(oldcat)s est una redirèccion en dur vers %(page)s",
 	"category_redirect-problem-redirects": "# %(oldcat)s redirige vers %(redpage)s",

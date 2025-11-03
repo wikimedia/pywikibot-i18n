@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"transferbot-summary": "Page dèplaciêe dês %(source)s",
+	"transferbot-target": "Ceta pâge at étâ dèplaciêe dês %(source)s. Son historico de modificacion pôt étre vu sur %(history)s."
+}

@@ -8,5 +8,13 @@
 	"checkimages-doubles-file-comment": "Robot : fichiér ja sur Commons, pôt étre suprimâ",
 	"checkimages-doubles-head": "Fichiér duplicâ",
 	"checkimages-doubles-talk-comment": "Robot : notificacion que lo fichiér ègziste ja sur Commons",
-	"checkimages-forced-mode": "('''môdo forciê''')"
+	"checkimages-doubles-talk-text": "Marci d'avêr tèlèchargiê %(upload)s. Mas ceti fichiér est una copia de :%(image)sLe robot at marcâ coment doublon lo fichiér qu'at étâ lo muens utilisâ ou lo més rècent. Se vos pensâd qu'o est més apopriâ de lèssiér lo fichiér marcâ coment devent étre suprimâ imèdiatament, vos povéd suprimar los fichiérs recopiyês pués lo modèlo de suprèssion de celi a consèrvar. O est un mèssâjo ôtomatico de %(bot)s.",
+	"checkimages-forced-mode": "('''môdo forciê''')",
+	"checkimages-has-duplicates": "at cetos doblens%(force)s :",
+	"checkimages-log-comment": "Robot : betâye a jorn du jornal",
+	"checkimages-no-license-head": "Émâge sen licence",
+	"checkimages-source-notice-comment": "Robot : demanda d'enformacions sur la sôrsa.",
+	"checkimages-source-tag-comment": "Robot : marcâjo d'un fichiér dês pou de temps tèlèvèrsâ sen ètiquèta",
+	"checkimages-unknown-extension-head": "Èxtension encognua !",
+	"checkimages-unknown-extension-msg": "Lo fichiér %(file)s semble avêr una èxtension na valida, mèrci de controlar."
 }

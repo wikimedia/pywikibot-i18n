@@ -6,6 +6,7 @@
 			"Xqt"
 		]
 	},
+	"redirect-fix-broken-moved": "Corrèccion des redirèccions fôsses dês %(from)s vers la pâge dèpllaciêe ciba %(to)s",
 	"redirect-fix-double": "Rèpâre na redirèccion dobla dês %(from)s vers %(to)s",
 	"redirect-fix-loop": "Rèpâre na boclla de redirèccion dês %(from)s sur %(to)s",
 	"redirect-remove-broken": "redirèccion de vers na pâge suprimâye ou ben pas ègzistenta",

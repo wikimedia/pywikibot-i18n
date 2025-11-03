@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"unprotect-category": "Robot : suprèssion de la protèccion de totes les pâges de la catègorie %(cat)s",
+	"unprotect-images": "Robot : suprèssion de la protèccion de totes les émâges de la pâge %(page)s",
+	"unprotect-links": "Robot : suprèssion de la protèccion de totes les pâges lliyêes dês %(page)s",
+	"unprotect-ref": "Robot : suprèssion de la protèccion de totes les pâges que font rèfèrence a %(page)s",
+	"unprotect-simple": "Robot : suprèssion de la protèccion d'una lista de fichiérs"
+}

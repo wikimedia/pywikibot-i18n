@@ -14,7 +14,7 @@
 	"category_redirect-change-category": "Bot: cambio de categoría redirigida de «[[:%(oldCatLink)s|%(oldCatTitle)s]]» a «[[:%(newCatLink)s|%(newCatTitle)s]]»",
 	"category_redirect-comment": "Robot de mantenimento de categorías redirigidas",
 	"category_redirect-edit-request": "Se necesita actualizar los enlaces a categorías en estas páginas protegidas: %(itemlist)s",
-	"category_redirect-edit-request-item": "* %(title)s está en %(oldcat)s, el cual redirige a %(newcat)s",
+	"category_redirect-edit-request-item": "* %(title)s está en %(oldcat)s, la cual redirige a %(newcat)s",
 	"category_redirect-fix-double": "Robot: arreglo de redirección doble",
 	"category_redirect-log-add-failed": "* Error al tratar de añadir [[%(ns)s%(template)s]] a %(oldcat)s",
 	"category_redirect-log-added": "* Se añadió [[%(ns)s%(template)s]] a %(oldcat)s",

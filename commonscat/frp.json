@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"commonscat-msg_change": "Robot : changement du lim commonscat dês [[:Commons:Category:%(oldcat)s|%(oldcat)s]] vers [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+}

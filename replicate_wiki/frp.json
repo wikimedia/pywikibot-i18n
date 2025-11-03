@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"replicate_wiki-headline": "Pâges difèrentes de l'originâl",
+	"replicate_wiki-missing-users": "Administrators de l'originâl que mancont icé",
+	"replicate_wiki-same-pages": "Totes les pâges importantes sont pariéres",
+	"replicate_wiki-same-users": "Tôs los usanciérs de l'originâl sont asse-ben presents sur ceti wiki",
+	"replicate_wiki-summary": "Robot : sincronisacion du wiki dês %(source)s"
+}

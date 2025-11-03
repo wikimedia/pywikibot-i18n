@@ -8,6 +8,6 @@
 	"delete-from-category": "Robot : suprime totes les pâges de la catègorie %(page)s",
 	"delete-from-file": "Robot : suprèssion d’una lista de pâges.",
 	"delete-images": "Robot : suprime totes les émâges sur la pâge %(page)s",
-	"delete-linked-pages": "Robot : suprime totes les pâges liyêyes dês %(page)s",
+	"delete-linked-pages": "Robot : suprime totes les pâges lliyêyes dês %(page)s",
 	"delete-referring-pages": "Robot : suprime totes les pâges que s’en refèront a %(page)s"
 }

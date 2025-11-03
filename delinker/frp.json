@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"SaldırganSincap"
+		]
+	},
+	"delinker-delink": "Robot : lo fichiér [[%(title)s]] at étâ reteriê câr il at étâ suprimâ per [[:User:%(user)s]] : ''%(comment)s''."
+}

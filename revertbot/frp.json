@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"revertbot-revert": "Robot : rèstôracion de la rèvision %(revid)s per %(author)s lo %(timestamp)s"
+}

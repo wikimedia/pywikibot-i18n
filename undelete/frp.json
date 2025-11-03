@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"undelete-from-file": "Robot : suprèssion d’una lista de pâges.",
+	"undelete-images": "Robot : rèstôracion de totes les émâges de la pâge %(page)s",
+	"undelete-linked-pages": "Robot : rèstôracion de totes les pâges lliyêes a %(page)s"
+}

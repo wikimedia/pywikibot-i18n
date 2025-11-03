@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"L'Arpetani"
+		]
+	},
+	"weblinkchecker-archive_msg": "La pâge at étâ sôvagouardâye dens lo Internet Archive. Mèrci d'y lliyér vers yona des vèrsions archivées : [%(URL)s].",
+	"weblinkchecker-badurl": "Lo lim forni semble pas étre una URL valida",
+	"weblinkchecker-caption": "Lim môrt",
+	"weblinkchecker-report": "Durent de patrolyes per un robot, lo lim siuvent ére inaccèssiblo. Mèrci de controlar se lo lim est bien môrt, et dens ceti câs adobâd-y ou reteriéd-y !",
+	"weblinkchecker-summary": "Robot : signalament d'un lim èxtèrno inaccèssiblo"
+}
