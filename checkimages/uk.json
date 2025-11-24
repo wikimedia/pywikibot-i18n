@@ -4,6 +4,7 @@
 			"Andriykopanytsia",
 			"Gzhegozh",
 			"Ignatgg",
+			"MonX94",
 			"Movses"
 		]
 	},
@@ -11,6 +12,9 @@
 	"checkimages-doubles-file-comment": "Бот: Файл вже у Вікісховищі, тому може бути видалений",
 	"checkimages-doubles-head": "Дублікат",
 	"checkimages-doubles-talk-comment": "Бот: сповістити, що файл вже існує у Вікісховищі",
+	"checkimages-doubles-talk-text": "Дякуємо за завантаження %(upload)s. Однак, цей файл є копією: %(image)s. Бот позначив як дублікат файл, який було виявлено найменш використовуваним або найновішим. Якщо ви вважаєте за доцільніше залишити файл позначеним як такий, що має бути видалений негайно, можете видалити дублікати файлів та видалити шаблон видалення з того, що залишився. Це автоматичне повідомлення від %(bot)s.",
+	"checkimages-forced-mode": "('''примусовий режим''')",
+	"checkimages-has-duplicates": "має такі дублікати %(force)s:",
 	"checkimages-log-comment": "Бот: Оновлення журналу",
 	"checkimages-no-license-head": "Зображення без ліцензії",
 	"checkimages-source-notice-comment": "Бот: Запит джерела інформації.",

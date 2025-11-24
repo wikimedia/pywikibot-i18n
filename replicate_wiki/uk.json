@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"MonX94"
+		]
+	},
+	"replicate_wiki-headline": "Сторінки, що відрізняються від оригіналу",
+	"replicate_wiki-missing-users": "Адміністратори з оригінальної вікі, яких тут немає",
+	"replicate_wiki-same-pages": "Усі важливі сторінки однакові за змістом",
+	"replicate_wiki-same-users": "Усі користувачі з оригіналу також присутні в цій вікі",
+	"replicate_wiki-summary": "Бот: Синхронізація вікі з %(source)s"
+}
