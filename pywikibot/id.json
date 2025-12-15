@@ -7,6 +7,7 @@
 			"Ilham151096",
 			"IvanLanin",
 			"Kenrick95",
+			"Penyuwangi",
 			"Rachmat.Wahidi",
 			"Rachmat04",
 			"Totosunarto"
@@ -21,7 +22,7 @@
 	"pywikibot-enter-new-text": "Masukkan teks baru:",
 	"pywikibot-enter-page-processing": "Halaman manakah yang harus diproses?",
 	"pywikibot-enter-xml-filename": "Silakan masukkan nama berkas timbunan XML:",
-	"pywikibot-fixes-fckeditor": "Bot: Memperbaiki html editor kaya",
+	"pywikibot-fixes-fckeditor": "Bot: Memperbaiki html penyunting kaya",
 	"pywikibot-fixes-html": "Bot: Mengubah/memperbaiki HTML",
 	"pywikibot-fixes-isbn": "Bot: Memformat ISBN",
 	"pywikibot-fixes-syntax": "Bot: Memperbaiki sintaksis wiki",
