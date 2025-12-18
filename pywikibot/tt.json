@@ -3,10 +3,11 @@
 		"authors": [
 			"Zahidulla",
 			"Ерней",
+			"Ильгиз",
 			"Ильнар"
 		]
 	},
-	"pywikibot-bot-prefix": "Бот:",
+	"pywikibot-bot-prefix": "Робот:",
 	"pywikibot-cosmetic-changes": "; бизәнү үзгәрешләре",
 	"pywikibot-fixes-isbn": "Бот: ISBN төзү",
 	"pywikibot-touch": "Pywikibot төзәтмәсе"
