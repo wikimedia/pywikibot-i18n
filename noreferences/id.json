@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Farras",
+			"Penyuwangi",
 			"Rachmat.Wahidi",
 			"Rachmat04"
 		]
 	},
-	"noreferences-add-tag": "Bot: Menambahkan tag <references /> yang hilang",
-	"noreferences-fix-tag": "Bot: Mengganti sintaksis tag <references /> yang tidak sah"
+	"noreferences-add-tag": "Bot: Menambahkan tanda <references /> yang hilang",
+	"noreferences-fix-tag": "Bot: Mengganti sintaksis tanda <references /> yang tidak sah"
 }

@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Pio387",
-			"The Polish"
+			"The Polish",
+			"Woytecr"
 		]
 	},
 	"unprotect-category": "Robot odbezpiecza wszystkie strony z kategorii %(cat)s",
 	"unprotect-images": "Robot odbezpiecza wszystkie pliki na stronie %(page)s",
 	"unprotect-links": "Robot odbezpiecza wszystkie artykuły, do których linkuje %(page)s",
-	"unprotect-ref": "Robot odbezpiecza wszystkie strony, które linkują do %(page)s",
+	"unprotect-ref": "Robot odbezpiecza wszystkie strony, które odwołują się do %(page)s",
 	"unprotect-simple": "Robot odbezpiecza pliki z listy"
 }

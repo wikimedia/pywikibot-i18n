@@ -6,12 +6,13 @@
 			"Derbeth",
 			"Nemo bis",
 			"Sp5uhe",
-			"Ty221"
+			"Ty221",
+			"Woytecr"
 		]
 	},
-	"redirect-fix-broken-moved": "Poprawa urwanych przekierowań - przeniesiono cel do %(to)s",
-	"redirect-fix-double": "Robot naprawił podwójne przekierowanie do %(to)s",
-	"redirect-fix-loop": "Naprawa pętli przekierowań do %(to)s",
+	"redirect-fix-broken-moved": "Poprawa urwanych przekierowań z %(from)s do przeniesionej strony docelowej %(to)s",
+	"redirect-fix-double": "Naprawa podwójnego przekierowania z %(from)s do %(to)s",
+	"redirect-fix-loop": "Naprawa pętli przekierowań z %(from)s do %(to)s",
 	"redirect-remove-broken": "Przekierowanie do usuniętej lub nieistniejącej strony",
 	"redirect-remove-loop": "pętla przekierowań"
 }
