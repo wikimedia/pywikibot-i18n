@@ -3,12 +3,13 @@
 		"authors": [
 			"Jopparn",
 			"Lokal Profil",
+			"Stefan2255",
 			"WikiPhoenix"
 		]
 	},
 	"protect-category": "Bot: Skydda alla sidor i kategori %(cat)s",
 	"protect-images": "Bot: Skyddar alla bilder på sida %(page)s",
 	"protect-links": "Bot: Skyddar alla sidor länkade från %(page)s",
-	"protect-ref": "Bot: Skydda alla sidor som hänvisar från %(page)s",
+	"protect-ref": "Bot: Skyddar alla sidor som hänvisar till %(page)s",
 	"protect-simple": "Bot: Skyddar en lista över filer."
 }

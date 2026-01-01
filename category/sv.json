@@ -7,12 +7,13 @@
 			"Lokal Profil",
 			"Sabelöga",
 			"Skalman",
+			"Stefan2255",
 			"WikiPhoenix"
 		]
 	},
 	"category-adding": "Bot: Lägger till kategori [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(också i %(alsocat)s)",
-	"category-clean": "Bot: Tar bort kategori %(category)s som redan finns i %(child)s",
+	"category-clean": "Bot: Tar bort kategori %(category)s eftersom den redan är under %(child)s",
 	"category-listifying": "Bot: Skapar en lista från %(fromcat)s (%(num)d st)",
 	"category-removing": "Bot: Tar bort från %(oldcat)s",
 	"category-renamed": "Bot: Flyttad från %(oldcat)s. Författare: %(authors)s",

@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Mjälten",
+			"Stefan2255",
 			"WikiPhoenix"
 		]
 	},
@@ -9,6 +10,9 @@
 	"checkimages-doubles-file-comment": "Bot: Filen finns redan hos Commons, kan tas bort",
 	"checkimages-doubles-head": "Duplikat",
 	"checkimages-doubles-talk-comment": "Bot: Meddela att filen redan finns hos Commons",
+	"checkimages-doubles-talk-text": "Tack för att du laddade upp %(upload)s. Den här filen är dock en kopia av:%(image)sBotten har markerat den fil som visade sig vara minst använd eller den senaste som en dubblett. Om du anser det lämpligare att lämna filen markerad som att den ska raderas omedelbart, kan du gärna radera dubblettfilerna och ta bort borttagningsmallen från den som ska lämnas kvar. Detta är ett automatiskt meddelande från %(bot)s.",
+	"checkimages-forced-mode": "('''tvångsläge''')",
+	"checkimages-has-duplicates": "har följande dubbletter%(force)s:",
 	"checkimages-log-comment": "Bot: Uppdaterar loggen",
 	"checkimages-no-license-head": "Bild utan licens",
 	"checkimages-source-notice-comment": "Bot: Begär källinformation.",

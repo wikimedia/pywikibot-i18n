@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stefan2255"
+		]
+	},
+	"replicate_wiki-headline": "Sidor som skiljer sig från originalet",
+	"replicate_wiki-missing-users": "Administratörer från originalet som saknas här",
+	"replicate_wiki-same-pages": "Alla viktiga sidor är likadana",
+	"replicate_wiki-same-users": "Alla användare från originalet finns också på denna wiki",
+	"replicate_wiki-summary": "Bot: Wiki-synkronisering från %(source)s"
+}
