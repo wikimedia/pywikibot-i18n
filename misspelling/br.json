@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Huñvreüs"
 		]
 	},
-	"misspelling-fixing": "Robot : Prientiñ al liammoù n'int reizhskrivet mat war-zu %(page)s"
+	"misspelling-fixing": "Robot : O reizhañ al liammoù faziek war-zu %(page)s"
 }
