@@ -1,7 +1,12 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Marcin Cieslak",
+			"Xqt"
+		]
+	},
 	"weblinkchecker-archive_msg": "The web page has been saved by the Internet Archive. Please consider linking to an appropriate archived version: [%(URL)s].",
-	"weblinkchecker-badurl": "The link provided does not seem to be a valid URL",
+	"weblinkchecker-badurl": "The link provided does not seem to be a valid URL: [%(URL)s]",
 	"weblinkchecker-caption": "Dead link",
 	"weblinkchecker-report": "During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!",
 	"weblinkchecker-summary": "Bot: Reporting unavailable external link"
