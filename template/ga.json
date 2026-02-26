@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"template-changing": "Bota: Ag athrú {{PLURAL:%(num)d|teimpléad|teimpléid}}: %(list)s",
+	"template-removing": "Bota: Ag baint {{PLURAL:%(num)d|teimpléad|teimpléid}}: %(list)s",
+	"template-substituting": "Bota: Ag cur {{PLURAL:%(num)d|teimpléad|teimpléid}} in ionad: %(list)s"
+}

@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aindriu80",
 			"Alison",
 			"Xqt"
 		]
 	},
-	"redirect-fix-double": "Ag socrú athsheolta dúbailte → %(to)s",
-	"redirect-remove-broken": "Targaid athsheoladh ar iarraidh"
+	"redirect-fix-broken-moved": "Ag socrú atreoraithe briste ó %(from)s go dtí an leathanach sprice aistrithe %(to)s",
+	"redirect-fix-double": "Ag socrú atreoraithe dúbailte ó %(from)s go %(to)s",
+	"redirect-fix-loop": "Ag socrú lúb atreoraithe ó %(from)s go %(to)s",
+	"redirect-remove-broken": "Targaid athsheoladh ar iarraidh",
+	"redirect-remove-loop": "Cruthaíonn sprioc atreoraithe lúb atreoraithe"
 }

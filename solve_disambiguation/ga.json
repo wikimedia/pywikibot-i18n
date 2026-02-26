@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"solve_disambiguation-adding-dn-template": "Díbhríocht le cúnamh bota: %(from)s - Marcáilte mar rud a bhfuil aird shaineolach ag teastáil uaidh",
+	"solve_disambiguation-links-removed": "Dí-athbhríú le cúnamh bota: %(from)s - Baineadh nasc(anna).",
+	"solve_disambiguation-links-resolved": "Dí-athbhríú le cúnamh bota: %(from)s - Athraíodh nasc(anna) go %(to)s",
+	"solve_disambiguation-redirect-adding-dn-template": "Díbhríocht le cúnamh bota: %(from)s - Marcáilte mar rud a bhfuil aird shaineolach ag teastáil uaidh",
+	"solve_disambiguation-redirect-removed": "Dí-athbhríú le cúnamh bota: %(from)s - Naisc bainte",
+	"solve_disambiguation-redirect-resolved": "Dí-athbhríú le cúnamh bota: %(from)s - Athraíodh nasc(anna) go %(to)s",
+	"solve_disambiguation-unknown-page": "(anaithnid)"
+}

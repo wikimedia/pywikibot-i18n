@@ -1,6 +1,21 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Aindriu80"
+		]
 	},
-	"category-adding": "róbat: ag suimiú category [[:Category:%(newcat)s|%(newcat)s]]"
+	"category-adding": "róbat: ag suimiú category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(i %(alsocat)s freisin)",
+	"category-clean": "Bota: Ag baint catagóir %(category)s mar go bhfuil sé faoi %(child)s cheana féin",
+	"category-listifying": "Bota: Ag liostáil ó %(fromcat)s ({{PLURAL:%(num)d|1 iontráil|%(num)d iontrálacha}})",
+	"category-removing": "Bota: Ag baint as %(oldcat)s",
+	"category-renamed": "Bota: Bogtha ó %(oldcat)s. Údair: %(authors)s",
+	"category-replacing": "Bota: Catagóir %(oldcat)s á chur in ionad %(newcat)s",
+	"category-section-title": "Stair leathanaigh de shean-%(oldcat)s",
+	"category-strip-both": "Bota: Teimpléid CFD agus eochracha sórtála a bhaint le haghaidh gníomh críochnaithe",
+	"category-strip-cfd-templates": "Bota: Teimpléid CFD á mbaint as gníomh críochnaithe",
+	"category-strip-sort-keys": "Bota: Eochracha sórtála á n-úsáid le haghaidh gníomh críochnaithe",
+	"category-version-history": "Bota: Stair leaganacha de shean-%(oldcat)s á sábháil",
+	"category-was-disbanded": "Bota: Scaoileadh an chatagóir",
+	"category-was-moved": "Bota: Bogadh an chatagóir go [[:Catagóir:%(newcat)s|%(title)s]]"
 }

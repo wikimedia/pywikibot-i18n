@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"replicate_wiki-headline": "Leathanaigh atá difriúil ón mbunleagan",
+	"replicate_wiki-missing-users": "Riarthóirí ón mbunleagan atá ar iarraidh anseo",
+	"replicate_wiki-same-pages": "Tá na leathanaigh thábhachtacha uile mar an gcéanna",
+	"replicate_wiki-same-users": "Tá gach úsáideoir ón mbunleagan i láthair ar an vicí seo freisin.",
+	"replicate_wiki-summary": "Bota: Sioncrónú Vicí ó %(source)s"
+}

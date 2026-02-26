@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"image-remove": "Bota: Íomhá %(file)s á bhaint",
+	"image-replace": "Bota: Íomhá %(old)s á chur in ionad %(new)s"
+}

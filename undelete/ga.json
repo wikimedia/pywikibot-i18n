@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"undelete-from-file": "Bota: Liosta leathanach a athscriosadh",
+	"undelete-images": "Bota: Ag athscriosadh na n-íomhánna ar leathanach %(page)s",
+	"undelete-linked-pages": "Bota: Ag athscriosadh gach leathanach atá nasctha ó %(page)s"
+}

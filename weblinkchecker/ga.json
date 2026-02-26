@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"weblinkchecker-archive_msg": "Tá an leathanach gréasáin sábháilte ag Cartlann an Idirlín. Smaoinigh, le do thoil, ar nasc a dhéanamh le leagan cartlannaithe cuí: [%(URL)s].",
+	"weblinkchecker-badurl": "Ní cosúil gur URL bailí é an nasc a cuireadh ar fáil: [%(URL)s]",
+	"weblinkchecker-caption": "Nasc marbh",
+	"weblinkchecker-report": "Le linn roinnt ritheanna uathoibrithe bota, thángthas ar an nasc seachtrach seo a leanas nach raibh ar fáil. Seiceáil le do thoil an bhfuil an nasc síos i ndáiríre agus socraigh nó bain é sa chás sin!",
+	"weblinkchecker-summary": "Bota: Nasc seachtrach nach bhfuil ar fáil a thuairisciú"
+}

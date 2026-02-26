@@ -1,7 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Aindriu80"
+		]
 	},
+	"welcome-bad_username": "Bota: Ainm úsáideora á chur leis a gcaithfear a sheiceáil",
 	"welcome-updating": "Bot: Log a thabhairt suas chun dáta",
 	"welcome-welcome": "Fáilte!"
 }

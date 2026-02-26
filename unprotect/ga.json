@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"unprotect-category": "Bota: Ag baint cosaint as gach leathanach ó chatagóir %(cat)s",
+	"unprotect-images": "Bota: Ag baint cosaint de na comhaid uile ar leathanach %(page)s",
+	"unprotect-links": "Bota: Ag baint cosaint de na leathanaigh uile atá nasctha ó %(page)s",
+	"unprotect-ref": "Bota: Ag baint cosaint de gach leathanach a thagraíonn do %(page)s",
+	"unprotect-simple": "Bota: Liosta comhad á dhíchosaint"
+}

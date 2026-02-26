@@ -1,11 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aindriu80",
 			"Alison",
 			"xqt"
 		]
 	},
 	"checkimages-deletion-comment": "Róbó: Cuir %s leis",
+	"checkimages-doubles-file-comment": "Bota: Comhad atá ar Commons cheana féin, d'fhéadfaí é a scriosadh",
+	"checkimages-doubles-head": "Comhad dúblach",
+	"checkimages-doubles-talk-comment": "Bota: Fógra a thabhairt go bhfuil an comhad ann cheana féin ar Commons",
+	"checkimages-doubles-talk-text": "Go raibh maith agat as %(upload)s a uaslódáil. Mar sin féin, is cóip de:%(image)s an comhad seo. Tá an Bot tar éis an comhad is lú úsáide nó is déanaí a mharcáil mar dhúblach. Más fearr leat an comhad a fhágáil marcáilte le scriosadh láithreach, is féidir leat na comhaid dhúblacha a scriosadh agus an teimpléad scriosta a bhaint den cheann atá fágtha. Is teachtaireacht uathoibrithe í seo ó %(bot)s.",
+	"checkimages-forced-mode": "('''mód éigeantach''')",
+	"checkimages-has-duplicates": "tá na dúblaigh seo a leanas %(force)s ann:",
 	"checkimages-log-comment": "Róbó: Cuir %(adding)s leis",
 	"checkimages-no-license-head": "Comhad gan ceadúnas",
 	"checkimages-source-notice-comment": "Róbó: Faisnéis foinse a iarraidh.",

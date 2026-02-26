@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"imagetransfer-file_page_message": "Cóipeáladh an íomhá seo ó %(site)s. Seo an cur síos bunaidh:\n\n%(description)s",
+	"imagetransfer-nowcommons_notice": "Tá an comhad ar fáil anois ar Wikimedia Commons."
+}

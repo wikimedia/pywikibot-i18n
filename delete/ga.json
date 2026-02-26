@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"delete-from-category": "Bota: Ag scriosadh gach leathanach ó chatagóir %(page)s",
+	"delete-from-file": "Bota: Liosta leathanach á scriosadh.",
+	"delete-images": "Bota: Ag scriosadh gach íomhá ar leathanach %(page)s",
+	"delete-linked-pages": "Bota: Ag scriosadh gach leathanach nasctha ó %(page)s",
+	"delete-referring-pages": "Bota: Ag scriosadh gach leathanach a thagraíonn ó %(page)s"
+}

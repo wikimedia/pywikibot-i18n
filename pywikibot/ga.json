@@ -1,6 +1,21 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Aindriu80"
+		]
 	},
-	"pywikibot-cosmetic-changes": "; athruithe cosmaideacha"
+	"pywikibot-bot-prefix": "Bota:",
+	"pywikibot-cosmetic-changes": "; athruithe cosmaideacha",
+	"pywikibot-enter-category-name": "Cuir isteach ainm na catagóire le do thoil:",
+	"pywikibot-enter-file-links-processing": "Naisc chuig cén leathanach comhaid ba chóir a phróiseáil?",
+	"pywikibot-enter-finished-browser": "Brúigh Iontráil nuair a bheidh tú críochnaithe sa bhrabhsálaí.",
+	"pywikibot-enter-namespace-number": "Cuir isteach ainmspás de réir a uimhreach:",
+	"pywikibot-enter-new-text": "Cuir isteach an téacs nua le do thoil:",
+	"pywikibot-enter-page-processing": "Cén leathanach ba chóir a phróiseáil?",
+	"pywikibot-enter-xml-filename": "Cuir isteach ainm comhaid an dumpála XML le do thoil:",
+	"pywikibot-fixes-fckeditor": "Bota: Ag socrú html an eagarthóra shaibhir",
+	"pywikibot-fixes-html": "Bota: HTML á thiontú/á shocrú",
+	"pywikibot-fixes-isbn": "Bota: Formáidiú ISBN",
+	"pywikibot-fixes-syntax": "Bota: Ag socrú comhréir vicí",
+	"pywikibot-touch": "Eagarthóireacht tadhaill Pywikibot"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"transferbot-summary": "Leathanach bogtha ó %(source)s",
+	"transferbot-target": "Bogadh an leathanach seo ó %(source)s. Is féidir a stair eagarthóireachta a fheiceáil ag %(history)s"
+}

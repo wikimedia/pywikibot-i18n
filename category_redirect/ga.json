@@ -1,6 +1,28 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Aindriu80"
+		]
 	},
-	"category_redirect-fix-double": "Róbó: Ag socrú athsheolta dúbailte"
+	"category_redirect-add-template": "Bota: Teimpléad atreoraithe catagóire á chur leis le haghaidh cothabhála",
+	"category_redirect-change-category": "Bota: Athraigh an chatagóir atreoraithe [[:%(oldCatLink)s|%(oldCatTitle)s]] go [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bota cothabhála atreoraithe catagóire",
+	"category_redirect-edit-request": "Braitheadh ​​​​go bhfuil gá le nuashonruithe ar naisc chatagóire sna leathanaigh chosanta seo a leanas: %(itemlist)s",
+	"category_redirect-edit-request-item": "* Tá %(title)s i %(oldcat)s, ar athsheoladh chuig %(newcat)s é",
+	"category_redirect-fix-double": "Róbó: Ag socrú athsheolta dúbailte",
+	"category_redirect-log-add-failed": "* Theip ar [[%(ns)s%(template)s]] a chur le %(oldcat)s",
+	"category_redirect-log-added": "* Cuireadh [[%(ns)s%(template)s]] le %(oldcat)s",
+	"category_redirect-log-double": "* Athsheoladh dúbailte socraithe: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** Theip air: %(error)s",
+	"category_redirect-log-false-positive": "* Neamh-atreorú gan choinne: %(oldcat)s",
+	"category_redirect-log-ignoring": "* Ag neamhaird %(oldcat)s",
+	"category_redirect-log-loop": "* Lúb atreoraithe ó %(oldcat)s",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d aimsithe, %(moved)d bogtha",
+	"category_redirect-log-new": "Atreoruithe nua ó thuarascáil dheireanach:",
+	"category_redirect-log-not-loaded": "* Níorbh fhéidir %(oldcat)s a luchtú; ag déanamh neamhaird de",
+	"category_redirect-log-skipping": "* Ag scipeáil %(oldcat)s; sa tréimhse fuaraithe",
+	"category_redirect-older-logs": "'''[%(oldlogs)s Logaí níos sine]'''",
+	"category_redirect-problem-hard": "# Is atreorú crua chuig %(page)s é %(oldcat)s",
+	"category_redirect-problem-redirects": "# %(oldcat)s atreoraíonn chuig %(redpage)s",
+	"category_redirect-problem-self-linked": "# Is atreorú féinnasctha é %(oldcat)s"
 }

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"delinker-delink": "Bota: Baineadh an comhad [[%(title)s]], mar gur scrios [[:Úsáideoir:%(user)s]] é: ''%(comment)s''"
+}
