@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Elphie",
 			"McDutchie",
 			"Optilete",
 			"Siebrand",
@@ -20,5 +21,5 @@
 	"category-strip-sort-keys": "Robot: sorteersleutels verwijderd voor afgeronde handeling",
 	"category-version-history": "Robot: versiegeschiedenis van voormalige %(oldcat)s opgeslagen",
 	"category-was-disbanded": "Robot: categorie is opgeheven",
-	"category-was-moved": "Robot: de categorie is hernoemd tot [[:Category:%(newcat)s|%(title)s]]"
+	"category-was-moved": "Robot: de categorie is hernoemd naar [[:Category:%(newcat)s|%(title)s]]"
 }

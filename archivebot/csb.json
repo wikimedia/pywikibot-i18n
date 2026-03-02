@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
 	"archivebot-archive-full": "(FÙL ARCHIWA)",
 	"archivebot-archive-summary": "Bòt: Archiwizacëjô %(count)d {{PLURAL:%(count)d|wątkù|wątków|wątków}} z [[%(from)s]]",
-	"archivebot-older-than": "stôrszé jak %(duration)s",
+	"archivebot-older-than": "{{PLURAL:%(count)d|stôrszé}} jak %(duration)s",
 	"archivebot-page-summary": "Bòt: Archiwizacëjô %(count)d {{PLURAL:%(count)d|wątkù|wątków|wątków}} (%(why)s) do %(archives)s"
 }
