@@ -1,10 +1,9 @@
 {
 	"private": true,
 	"scripts": {
-		"test": "grunt test"
+		"test": "banana-checker add_text archivebot basic blockpageschecker category category_redirect checkimages clean_sandbox commonscat cosmetic_changes delete delinker djvutext fixing_redirects image imagetransfer interwiki interwikidata listpages misspelling movepages noreferences pagefromfile protect pywikibot redirect reflinks replace replicate_wiki revertbot solve_disambiguation template tracking_param_remover transferbot undelete unlink unprotect unusedfiles weblinkchecker welcome"
 	},
 	"devDependencies": {
-		"grunt": "1.6.1",
 		"grunt-banana-checker": "0.13.0"
 	}
 }
