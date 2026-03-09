@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"protect-category": "Bot: All Säiten aus der Kategorie %(cat)s spären",
-	"protect-images": "Bot: All Biller op der Säit %(page)s spären",
-	"protect-links": "Bot: All Säite spären déi vun der Säit %(page)s verlinkt sinn",
-	"protect-ref": "Bot: All Säite spären, déi op d'Säit %(page)s referéieren",
+	"protect-category": "Bot: All Säiten aus der Kategorie %(cat)s protegéieren",
+	"protect-images": "Bot: All Biller op der Säit %(page)s protegéieren",
+	"protect-links": "Bot: All Säite protegéieren, déi vu(n) %(page)s aus verlinkt sinn",
+	"protect-ref": "Bot: All Säite protegéieren, déi op d'Säit %(page)s referéieren",
 	"protect-simple": "Bot: Eng Lëscht vu Fichiere spären."
 }
