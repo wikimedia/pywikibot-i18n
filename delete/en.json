@@ -6,6 +6,7 @@
 			"Xqt"
 		]
 	},
+	"delete-broken-redirect": "Bot: Delete redirect to deleted page %(page)s",
 	"delete-from-category": "Bot: Deleting all pages from category %(page)s",
 	"delete-from-file": "Bot: Deleting a list of pages.",
 	"delete-images": "Bot: Deleting all images on page %(page)s",
