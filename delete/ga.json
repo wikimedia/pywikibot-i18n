@@ -4,6 +4,7 @@
 			"Aindriu80"
 		]
 	},
+	"delete-broken-redirect": "Bota: Scrios atreorú chuig leathanach scriosta %(page)s",
 	"delete-from-category": "Bota: Ag scriosadh gach leathanach ó chatagóir %(page)s",
 	"delete-from-file": "Bota: Liosta leathanach á scriosadh.",
 	"delete-images": "Bota: Ag scriosadh gach íomhá ar leathanach %(page)s",

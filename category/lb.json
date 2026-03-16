@@ -5,9 +5,9 @@
 			"Volvox"
 		]
 	},
-	"category-adding": "Bot: Kategorie derbäisetzen [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-adding": "Bot: Kategorie [[:Category:%(newcat)s|%(newcat)s]] derbäigesat",
 	"category-also-in": "(och a(n) %(alsocat)s)",
-	"category-clean": "Bot: Kategorie %(category)s ewechhuelen, well se schonn a %(child)s ass",
+	"category-clean": "Bot: Kategorie %(category)s ewechgeholl, well se schonn a(n) %(child)s ass",
 	"category-listifying": "Bot: Lëscht vun der %(fromcat)s (%(num)d Memberen)",
 	"category-removing": "Bot: Ewech huele vun %(oldcat)s",
 	"category-renamed": "Bot: Geréckelt vum %(oldcat)s. Auteuren: %(authors)s",

@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Les Meloures",
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"add_text-adding": "Bot: Derbäisetzen %(adding)s"
+	"add_text-adding": "Bot: %(adding)s derbäigesat"
 }

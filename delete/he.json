@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Yona b"
 		]
 	},
+	"delete-broken-redirect": "בוט: מחיקת הפניה לדף המחוק %(page)s",
 	"delete-from-category": "בוט: מוחק את כל הדפים מהקטגוריה %(page)s.",
 	"delete-from-file": "בוט: מוחק רשימת דפים.",
 	"delete-images": "בוט: מוחק את כל התמונות בדף %(page)s.",

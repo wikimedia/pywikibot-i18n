@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Alex Shih-Han Lin",
+			"GuoPC",
 			"Liuxinyu970226",
 			"Xyb"
 		]
 	},
-	"image-remove": "机器人：正在删除图像 %(file)s",
+	"image-remove": "机器人：正在移除图像%(file)s",
 	"image-replace": "机器人：将图片%(old)s替换为%(new)s"
 }

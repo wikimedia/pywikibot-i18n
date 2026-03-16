@@ -4,6 +4,7 @@
 			"Toliño"
 		]
 	},
+	"delete-broken-redirect": "Bot: Borro a redirección cara á páxina eliminada \"%(page)s\"",
 	"delete-from-category": "Bot: Borro todas as páxinas da categoría \"%(page)s\"",
 	"delete-from-file": "Bot: Borro unha lista de páxinas.",
 	"delete-images": "Bot: Borro todas as imaxes da páxina \"%(page)s\"",

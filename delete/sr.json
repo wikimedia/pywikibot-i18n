@@ -7,6 +7,7 @@
 			"Rancher"
 		]
 	},
+	"delete-broken-redirect": "Бот: обрисано покварено преусмерење %(page)s.",
 	"delete-from-category": "Бот: обрисане све странице из категорије %(page)s.",
 	"delete-from-file": "Бот: обрисане странице из списка.",
 	"delete-images": "Бот: обрисане све слике на страници %(page)s.",

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"blockpageschecker-deleting": "Bot: Vereelste Schabloun gouf geläscht"
+	"blockpageschecker-deleting": "Bot: Vereelzt Schabloun geläscht",
+	"blockpageschecker-modifying": "Bot: Vereelzt Schabloun geännert"
 }

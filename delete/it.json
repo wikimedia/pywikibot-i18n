@@ -7,6 +7,7 @@
 			"Ricordisamoa"
 		]
 	},
+	"delete-broken-redirect": "Bot: cancella il reindirizzamento alla pagina cancellata %(page)s",
 	"delete-from-category": "Bot: cancellazione di tutte le pagine dalla categoria %(page)s",
 	"delete-from-file": "Bot: cancello un elenco di pagine.",
 	"delete-images": "Bot: cancellazione di tutte le immagini contenute nella pagina %(page)s",
