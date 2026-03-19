@@ -5,6 +5,7 @@
 			"Siebrand"
 		]
 	},
+	"delete-broken-redirect": "Robot: Verwijder de doorverwijzing naar de verwijderde pagina %(page)s",
 	"delete-from-category": "Robot: alle pagina's uit categorie %(page)s worden verwijderd",
 	"delete-from-file": "Robot: lijst met pagina's verwijderd",
 	"delete-images": "Robot: alle afbeeldingen op pagina %(page)s verwijderd",
