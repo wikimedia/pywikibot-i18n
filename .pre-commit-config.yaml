@@ -7,7 +7,7 @@ repos:
       - id: check-hooks-apply
       - id: check-useless-excludes
   - repo: https://gitlab.wikimedia.org/repos/ci-tools/commit-message-validator
-    rev: v2.1.0
+    rev: v2.2.0
     hooks:
       - id: commit-message-validator
   - repo: https://github.com/pre-commit/pre-commit-hooks
