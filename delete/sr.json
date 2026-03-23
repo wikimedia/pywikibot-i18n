@@ -12,5 +12,5 @@
 	"delete-from-file": "Бот: обрисане странице из списка.",
 	"delete-images": "Бот: обрисане све слике на страници %(page)s.",
 	"delete-linked-pages": "Бот: обрисане све странице повезане са %(page)s.",
-	"delete-referring-pages": "Бот: обрисане све странице које воде до %(page)s."
+	"delete-referring-pages": "Бот: обрисана страница која води до %(page)s."
 }
