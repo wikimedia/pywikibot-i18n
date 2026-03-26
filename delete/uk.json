@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andriykopanytsia"
+			"Andriykopanytsia",
+			"Repakr"
 		]
 	},
+	"delete-broken-redirect": "Бот: Видалення перенаправлень на видалену сторінку %(page)s",
 	"delete-from-category": "Бот: Видалення усіх сторінок з категорії %(page)s",
 	"delete-from-file": "Бот: Видалення списку сторінок.",
 	"delete-images": "Бот: Видалення усіх зображень із сторінки %(page)s",
