@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Pecha-Tsewang",
 			"Phurbutsering"
 		]
 	},
 	"archivebot-archive-full": "(ཡིག་མཛོད་ཕྱོགས་བསྡུས།)",
-	"archivebot-archive-summary": "མི་གཟུགས་འཕྲུལ་ཆས་ : ཡིག་མཛོད་ནང་གི་ %(count)d ཙམ་ཞིག་ [[%(from)s]] བགྲོ་གླེང་ནས།",
-	"archivebot-older-than": "གོང་དུ་",
-	"archivebot-page-summary": "མི་གཟུགས་འཕྲུལ་ཆས་ : ཡིག་མཛོད། %(count)d ཙམ་(%(why)s འདིར་གནས་སྤོས་ %(archives)s"
+	"archivebot-archive-summary": "འཕྲུལ་མི།: [[%(from)s]] ནས་ {{PLURAL:%(count)d|གླེང་སྐུད་ %(count)d|གླེང་སྐུད་ཁག་ %(count)d}} ཡིག་ཚགས་སུ་འཇུག་བཞིན་པ།",
+	"archivebot-older-than": "%(duration)s ལས་ {{PLURAL:%(count)d|རྙིང་པ།}}",
+	"archivebot-page-summary": "འཕྲུལ་མི།: %(archives)s ནང་དུ་ {{PLURAL:%(count)d|གླེང་སྐུད་ %(count)d|གླེང་སྐུད་ཁག %(count)d}} (%(why)s) ཡིག་ཚགས་སུ་འཇུག་བཞིན་པ།"
 }

@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Joseph",
-			"Khutuck"
+			"Khutuck",
+			"Leo"
 		]
 	},
+	"delete-broken-redirect": "Bot: Silinen sayfaya yönlendirmeyi sil %(page)s",
 	"delete-from-category": "Bot: %(page)s kategorisindeki tüm sayfalar siliniyor.",
 	"delete-from-file": "Robot: Bir liste sayfa siliniyor.",
 	"delete-images": "Bot: %(page)s sayfasındaki tüm dosyalar siliniyor.",

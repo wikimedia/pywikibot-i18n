@@ -6,6 +6,7 @@
 			"SuperPotato"
 		]
 	},
+	"delete-broken-redirect": "Bot: Sletter omdirigering til den slettede siden %(page)s",
 	"delete-from-category": "Robot: Sletter alle sider i kategorien %(page)s",
 	"delete-from-file": "Robot: Sletter en liste over sider.",
 	"delete-images": "Robot: Sletter alle bilder på siden %(page)s",
