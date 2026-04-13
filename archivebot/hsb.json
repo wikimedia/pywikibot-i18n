@@ -6,5 +6,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARCHIWA POŁNA)",
-	"archivebot-older-than": "starši hač"
+	"archivebot-archive-summary": "Bot: {{PLURAL:%(count)d|archiwuje so %(count)d nitka|archiwujetej so %(count)d nitce|archiwuja so %(count)d nitki|archiwuje so %(count)d nitkow}} z [[%(from)s]]",
+	"archivebot-older-than": "{{PLURAL:%(count)d|starši|staršej|starše|staršich}} hač %(duration)s",
+	"archivebot-page-summary": "Bot: {{PLURAL:%(count)d|archiwuje so %(count)d nitka|archiwujetej so %(count)d nitce|archiwuja so %(count)d nitki|archiwuje so %(count)d nitkow}} (%(why)s) do %(archives)s"
 }
