@@ -6,11 +6,11 @@
 			"Xabier Armendaritz"
 		]
 	},
-	"solve_disambiguation-adding-dn-template": "Botez lagundutako desanbiguazioa: %(from)s - Adituen arreta behar duela markatuta",
-	"solve_disambiguation-links-removed": "Bot-lagundutako desambiguazioa: %(from)s - Link(ak) ezabatua(k)",
-	"solve_disambiguation-links-resolved": "Bot-lagundutako desambiguazioa: %(from)s - Linka(k) %(to)s-tara aldatuta",
-	"solve_disambiguation-redirect-adding-dn-template": "Botez lagundutako desanbiguazioa: %(from)s - Adituen arreta behar duela markatuta",
-	"solve_disambiguation-redirect-removed": "Bot-lagundutako desambiguazioa: %(from)s - Linka(k) ezabatua(k)",
-	"solve_disambiguation-redirect-resolved": "Bot-lagundutako desambiguazioa: %(from)s - Linka(k) %(to)s-tara aldatuta",
+	"solve_disambiguation-adding-dn-template": "Botek lagundutako desanbiguazioa: «%(from)s». Adituen arreta behar duela markatuta",
+	"solve_disambiguation-links-removed": "Botek lagundutako desanbiguazioa: «%(from)s» orriranzko estekak ezabatu dira",
+	"solve_disambiguation-links-resolved": "Botek lagundutako desanbiguazioa: «%(from)s» orriranzko estekak «%(to)s» orrirantz aldatu dira",
+	"solve_disambiguation-redirect-adding-dn-template": "Botek lagundutako desanbiguazioa: «%(from)s». Adituen arreta behar duela markatuta",
+	"solve_disambiguation-redirect-removed": "Botek lagundutako desanbiguazioa: «%(from)s» orriranzko estekak ezabatu dira",
+	"solve_disambiguation-redirect-resolved": "Botek lagundutako desanbiguazioa: «%(from)s» orriranzko estekak «%(to)s» orrirantz aldatu dira",
 	"solve_disambiguation-unknown-page": "(ezezaguna)"
 }

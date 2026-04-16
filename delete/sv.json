@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Lokal Profil",
+			"Michael FOSS",
 			"WikiPhoenix"
 		]
 	},
+	"delete-broken-redirect": "Bot: Ta bort omdirigering till borttagen sida %(page)s",
 	"delete-from-category": "Bot: Tar bort alla sidor i kategori %(page)s",
 	"delete-from-file": "Bot: Raderar en lista över sidor.",
 	"delete-images": "Bot: Tar bort alla bilder på sida %(page)s",

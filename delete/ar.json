@@ -6,6 +6,7 @@
 			"ديفيد"
 		]
 	},
+	"delete-broken-redirect": "البوت: حذف إعادة التوجيه إلى الصفحة المحذوفة %(page)s",
 	"delete-from-category": "بوت - حذف كل الصفحات من التصنيف %(page)s",
 	"delete-from-file": "بوت: حذف قائمة من الصفحات.",
 	"delete-images": "بوت: حذف كل الصور في الصفحة %(page)s",

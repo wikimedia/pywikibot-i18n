@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Subi"
+			"Subi",
+			"Xabier Armendaritz"
 		]
 	},
 	"interwiki-adding": "robota Erantsia: %(adding)s",
@@ -9,7 +10,7 @@
 	"interwiki-adding-removing": "robota Erantsia: %(adding)s Ezabatua: %(removing)s",
 	"interwiki-adding-removing-modifying": "robota Erantsia: %(adding)s Ezabatua: %(removing)s Aldatua: %(modifying)s",
 	"interwiki-modifying": "robota Aldatua: %(modifying)s",
-	"interwiki-modifying-from": "Bot: %(from)s(e)tik %(modifying)s(e)ra aldatzen",
+	"interwiki-modifying-from": "Bota lanean: «%(from)s» estekaren ordez, «%(modifying)s»",
 	"interwiki-removing": "robota Ezabatua: %(removing)s",
 	"interwiki-removing-modifying": "robota Ezabatua: %(removing)s Aldatua: %(modifying)s"
 }
