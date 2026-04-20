@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"IRTC1015",
+			"Tensama0415",
 			"아라"
 		]
 	},
+	"delete-broken-redirect": "봇: 삭제된 문서 %(page)s(으)로의 넘겨주기 삭제",
 	"delete-from-category": "봇: %(page)s 분류의 모든 문서를 삭제",
 	"delete-from-file": "봇: 목록의 문서를 삭제",
 	"delete-images": "봇: %(page)s 문서에 사용된 모든 그림 삭제",
