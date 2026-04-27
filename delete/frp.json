@@ -5,6 +5,7 @@
 			"L'Arpetani"
 		]
 	},
+	"delete-broken-redirect": "Robot: Suprimar la redirèccion vèrs la pâge suprimâye %(page)s",
 	"delete-from-category": "Robot : suprime totes les pâges de la catègorie %(page)s",
 	"delete-from-file": "Robot : suprèssion d’una lista de pâges.",
 	"delete-images": "Robot : suprime totes les émâges sur la pâge %(page)s",

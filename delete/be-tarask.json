@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko",
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Ucukor"
 		]
 	},
+	"delete-broken-redirect": "Робат: Выдаленьне перанакіроўваньня на выдаленую старонку %(page)s",
 	"delete-from-category": "Робат: выдаліў усе старонкі з катэгорыі %(page)s",
 	"delete-from-file": "Робат: выдаленьне сьпісу старонак.",
 	"delete-images": "Робат: выдаліў усе выявы на старонцы %(page)s",

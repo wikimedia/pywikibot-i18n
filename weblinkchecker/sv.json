@@ -3,11 +3,12 @@
 		"authors": [
 			"Jopparn",
 			"Lokal Profil",
+			"Sabelöga",
 			"Tor.klingberg"
 		]
 	},
 	"weblinkchecker-archive_msg": "Webbsidan har sparats av Internet Archive. Överväg att länka till en lämplig arkiverad version: [%(URL)s].",
-	"weblinkchecker-badurl": "Den angedda länken verkar inte vara en giltig URL",
+	"weblinkchecker-badurl": "Den angivna länken verkar inte vara en giltig URL: [%(URL)s]",
 	"weblinkchecker-caption": "Död länk",
 	"weblinkchecker-report": "Följande externa länk har inte kunnat nås under flera försök av en automatisk bot. Var vänlig kontrollera om länken faktiskt är nere, och korrigera eller ta bort den i så fall.",
 	"weblinkchecker-summary": "Bot: Rapporterar otillgänglig extern länk"
