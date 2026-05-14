@@ -4,6 +4,7 @@
 			"McDutchie"
 		]
 	},
+	"delete-broken-redirect": "Robot: Deletion de un redirection al pagina delite %(page)s",
 	"delete-from-category": "Robot: Deletion de tote le paginas presente in categoria %(page)s",
 	"delete-from-file": "Robot: Deletion de un lista de paginas.",
 	"delete-images": "Robot: Deletion de tote le imagines sur le pagina %(page)s",
