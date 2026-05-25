@@ -3,12 +3,13 @@
 		"authors": [
 			"Otokoume",
 			"Shirayuki",
+			"Tensama0415",
 			"赤の旋律"
 		]
 	},
-	"redirect-fix-broken-moved": "迷子のリダイレクトの転送先を「%(to)s」へ修正",
-	"redirect-fix-double": "「%(to)s」への二重転送を修正",
-	"redirect-fix-loop": "「%(to)s」へのリダイレクトのループを修正",
+	"redirect-fix-broken-moved": "迷子のリダイレクトの転送先を「%(from)s」から「%(to)s」へ修正",
+	"redirect-fix-double": "「%(from)s」から「%(to)s」への二重転送を修正",
+	"redirect-fix-loop": "「%(from)s」から「%(to)s」へのリダイレクトのループを修正",
 	"redirect-remove-broken": "削除済みまたは存在しないページへのリダイレクト",
 	"redirect-remove-loop": "転送先にあるリダイレクトのループを修正"
 }
