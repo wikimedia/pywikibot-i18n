@@ -5,5 +5,5 @@
 			"Siebrand"
 		]
 	},
-	"commonscat-msg_change": "Robot: commonscat-koppeling veranderd van [[:Commons:Category:%(oldcat)s|%(oldcat)s]] in [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Robot: commonscat-koppeling gewijzigd van [[:Commons:Category:%(oldcat)s|%(oldcat)s]] in [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }

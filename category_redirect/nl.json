@@ -8,7 +8,7 @@
 		]
 	},
 	"category_redirect-add-template": "Robot: categorie-doorverwijzingssjabloon toegevoegd voor onderhoud",
-	"category_redirect-change-category": "Robot: doorverwezen categorie veranderd van [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-change-category": "Robot: doorverwezen categorie gewijzigd van [[:%(oldCatLink)s|%(oldCatTitle)s]] in [[:%(newCatLink)s|%(newCatTitle)s]]",
 	"category_redirect-comment": "Onderhoudsrobot voor categoriedoorverwijzing",
 	"category_redirect-edit-request": "Voor de volgende beveiligde pagina's moeten de categoriekoppelingen aangepast worden: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s staat in %(oldcat)s, een doorverwijzing naar %(newcat)s",
