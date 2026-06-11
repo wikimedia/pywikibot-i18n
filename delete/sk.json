@@ -6,6 +6,7 @@
 			"Yardom78"
 		]
 	},
+	"delete-broken-redirect": "Bot: Zmazanie presmerovania na zmazanú stránku %(page)s",
 	"delete-from-category": "Bot: Odstraňovanie všetkých strán z kategórie %(page)s",
 	"delete-from-file": "Bot: Mazanie zoznamu stránok.",
 	"delete-images": "Bot: Odstraňovanie všetkých obrázkov na stránke %(page)s",

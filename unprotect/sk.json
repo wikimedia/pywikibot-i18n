@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"TomášPolonec",
+			"Wizzard",
 			"Yardom78"
 		]
 	},
 	"unprotect-category": "Bot: Odomykanie všetkých stránok v kategórii %(cat)s",
 	"unprotect-images": "Bot: Odomykanie všetkých súborov na stránke %(page)s",
 	"unprotect-links": "Bot: Odomykanie všetkých stránok, na ktoré sa odkazuje z %(page)s",
-	"unprotect-ref": "Bot: Odomykanie všetkých stránok spomenutých na stránke %(page)s",
+	"unprotect-ref": "Bot: Odomykanie všetkých stránok odkazujúcich na %(page)s",
 	"unprotect-simple": "Bot: Odomykanie zoznamu súborov"
 }

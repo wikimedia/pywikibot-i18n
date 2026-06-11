@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Username1233219128"
+			"Username1233219128",
+			"Wizzard"
 		]
 	},
-	"replicate_wiki-same-users": "Všetci používatelia z pôvodnej wiki sú prítomní aj na tejto wiki"
+	"replicate_wiki-headline": "Stránky, ktoré sa líšia od originálu",
+	"replicate_wiki-missing-users": "Správcovia z originálu, ktorí tu chýbajú",
+	"replicate_wiki-same-pages": "Všetky dôležité stránky sú rovnaké",
+	"replicate_wiki-same-users": "Všetci používatelia z pôvodnej wiki sú prítomní aj na tejto wiki",
+	"replicate_wiki-summary": "Bot: Synchronizácia wiki z %(source)s"
 }

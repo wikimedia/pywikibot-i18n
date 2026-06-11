@@ -3,11 +3,12 @@
 		"authors": [
 			"Teslaton",
 			"TomášPolonec",
+			"Wizzard",
 			"Yardom78"
 		]
 	},
 	"weblinkchecker-archive_msg": "Webová stránka je uložená v projekte Internet Archive. Zvážte prosím, či nepoužiť odkaz na príslušnú archivovanú verziu [%(URL)s].",
-	"weblinkchecker-badurl": "Uvedený odkaz za nezdá byť platnou adresou URL",
+	"weblinkchecker-badurl": "Uvedený odkaz sa nezdá byť platnou adresou URL: [%(URL)s]",
 	"weblinkchecker-caption": "Mŕtvy odkaz",
 	"weblinkchecker-report": "Počas niekoľkých automatických pokusov bol nasledovný externý odkaz nedostupný. Overte prosím, či je skutočne nedostupný a pokiaľ áno, opravte ho alebo odstráňte.",
 	"weblinkchecker-summary": "Bot: Nahlasovanie nedostupného externého odkazu"

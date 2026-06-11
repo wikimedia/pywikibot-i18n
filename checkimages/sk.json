@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"TomášPolonec",
+			"Wizzard",
 			"Yardom78"
 		]
 	},
@@ -9,6 +10,9 @@
 	"checkimages-doubles-file-comment": "Bot: Súbor už je na Commons, môže byť vymazaný",
 	"checkimages-doubles-head": "Duplicitný súbor",
 	"checkimages-doubles-talk-comment": "Bot: Upozorni ak súbor už na Commons existuje",
+	"checkimages-doubles-talk-text": "Ďakujeme za nahranie súboru %(upload)s. Tento súbor je však kópiou:%(image)sBot označil ako duplikát ten súbor, ktorý sa javil ako najmenej používaný alebo najnovší. Ak považuješ za vhodnejšie ponechať súbor označený na okamžité zmazanie, pokojne zmaž duplicitné súbory a zo súboru, ktorý má zostať, odstráň šablónu na zmazanie. Toto je automatická správa od %(bot)s.",
+	"checkimages-forced-mode": "('''vynútený režim''')",
+	"checkimages-has-duplicates": "má nasledujúce duplikáty%(force)s:",
 	"checkimages-log-comment": "Bot: Aktualizácia záznamu",
 	"checkimages-no-license-head": "Obrázok bez licencie",
 	"checkimages-source-notice-comment": "Bot: Požadovanie zdroja informácií.",

@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"TomášPolonec",
+			"Wizzard",
 			"Yardom78"
 		]
 	},
 	"protect-category": "Bot: Uzamykanie všetkých stránok v kategórii %(cat)s",
 	"protect-images": "Bot: Uzamykanie všetkých obrázkov na stránke %(page)s",
 	"protect-links": "Bot: Uzamykanie všetkých stránok, na ktoré sa odkazuje z %(page)s",
-	"protect-ref": "Bot: Uzamykanie všetkých stránok, ktoré odkazujú na %(page)s",
+	"protect-ref": "Bot: Zamykanie všetkých stránok odkazujúcich na %(page)s",
 	"protect-simple": "Bot: Uzamykanie zoznamu súborov."
 }
