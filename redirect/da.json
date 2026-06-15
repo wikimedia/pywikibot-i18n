@@ -3,12 +3,13 @@
 		"authors": [
 			"Christian List",
 			"Kaare",
-			"Sarrus"
+			"Sarrus",
+			"Steenth"
 		]
 	},
-	"redirect-fix-broken-moved": "Retter brudt omdirigering til flyttet målside %(to)s",
-	"redirect-fix-double": "Retter dobbelt omdirigering til %(to)s",
-	"redirect-fix-loop": "Retter omdirigeringsløkke til %(to)s",
+	"redirect-fix-broken-moved": "Retter brudt omdirigering fra %(from)s til flyttet målside %(to)s",
+	"redirect-fix-double": "Retter dobbelt omdirigering fra %(from)s til %(to)s",
+	"redirect-fix-loop": "Retter omdirigeringsløkke fra %(from)s til %(to)s",
 	"redirect-remove-broken": "Omdirigering til en slettet eller ikke-eksisterende side",
 	"redirect-remove-loop": "Målet for omdirigeringen danner en omdirigeringsløkke"
 }

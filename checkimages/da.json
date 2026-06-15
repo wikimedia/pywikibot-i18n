@@ -5,14 +5,17 @@
 			"Steenth"
 		]
 	},
-	"checkimages-deletion-comment": "Robot: Tilføjer %(adding)s",
+	"checkimages-deletion-comment": "Bot: Tilføjer %(adding)s",
 	"checkimages-doubles-file-comment": "Bot: Filen findes allerede på Commons, kan slettes",
 	"checkimages-doubles-head": "Dupletfil",
 	"checkimages-doubles-talk-comment": "Bot: Meddeler at filen allerede findes på Commons",
+	"checkimages-doubles-talk-text": "Tak for at du uploadede %(upload)s. Denne fil er dog en kopi af:%(image)s. Botten har markeret den fil, der blev fundet at være mindst brugt eller den nyeste, som en duplikat. Hvis du finder det mere passende at lade filen være markeret som slettet med det samme, er du velkommen til at slette duplikatfilerne og fjerne sletteskabelonen fra den, der skal efterlades. Dette er en automatisk besked fra %(bot)s.",
+	"checkimages-forced-mode": "('''tvungen tilstand''')",
+	"checkimages-has-duplicates": "har følgende dubletter%(force)s:",
 	"checkimages-log-comment": "Bot: Opdaterer loggen",
 	"checkimages-no-license-head": "Billede uden licens",
-	"checkimages-source-notice-comment": "Robot: Anmoder om kildeinformation.",
-	"checkimages-source-tag-comment": "Robot: Markerer netop overført umærket fil",
+	"checkimages-source-notice-comment": "Bot: Anmoder om kildeoplysninger.",
+	"checkimages-source-tag-comment": "Bot: Markerer netop overført umærket fil",
 	"checkimages-unknown-extension-head": "Ukendt filendelse!",
 	"checkimages-unknown-extension-msg": "Filen %(file)s ser ud til at have gal filendelse, check venligst."
 }

@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"MGA73"
+			"MGA73",
+			"Steenth"
 		]
 	},
-	"misspelling-fixing": "Robot: Retter forkert stavede henvisninger til %(page)s"
+	"misspelling-fixing": "Bot: Retter forkert stavede henvisninger til %(page)s"
 }

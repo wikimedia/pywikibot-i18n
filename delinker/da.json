@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Steenth"
+		]
+	},
+	"delinker-delink": "Bot: Filen [[%(title)s]] er blevet fjernet, da den er blevet slettet af [[:User:%(user)s]]: ''%(comment)s''"
+}

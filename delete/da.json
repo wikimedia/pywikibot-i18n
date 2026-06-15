@@ -3,12 +3,14 @@
 		"authors": [
 			"Christian List",
 			"Kaare",
+			"Steenth",
 			"Tjernobyl"
 		]
 	},
-	"delete-from-category": "Robot: Sletter alle sider fra kategorien %(page)s",
-	"delete-from-file": "Robot: Sletter en liste af sider.",
-	"delete-images": "Robot: Sletter alle billeder på siden %(page)s",
-	"delete-linked-pages": "Robot: Sletter alle sider som henvises fra %(page)s",
-	"delete-referring-pages": "Robot: Sletter alle sider som henviser fra %(page)s"
+	"delete-broken-redirect": "Bot: Slet omdirigering til slettet side %(page)s",
+	"delete-from-category": "Bot: Sletter alle sider fra kategorien %(page)s",
+	"delete-from-file": "Bot: Sletter en liste af sider.",
+	"delete-images": "Bot: Sletter alle billeder på siden %(page)s",
+	"delete-linked-pages": "Bot: Sletter alle sider som henvises fra %(page)s",
+	"delete-referring-pages": "Bot: Sletter alle sider som henviser fra %(page)s"
 }

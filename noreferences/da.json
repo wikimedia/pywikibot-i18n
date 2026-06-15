@@ -3,9 +3,10 @@
 		"authors": [
 			"Christian List",
 			"Joedalton",
-			"Kaare"
+			"Kaare",
+			"Steenth"
 		]
 	},
-	"noreferences-add-tag": "Robot: Tilføjer manglende <references />-tag",
-	"noreferences-fix-tag": "Robot: Korriger ugyldig syntaks for <references />-mærke"
+	"noreferences-add-tag": "Bot: Tilføjer manglende <references />-tag",
+	"noreferences-fix-tag": "Bot: Korriger ugyldig syntaks for <references />-tag"
 }

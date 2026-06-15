@@ -10,12 +10,12 @@
 			"Steenth"
 		]
 	},
-	"category_redirect-add-template": "Robot: Tilføjer kategoriomdirigeringsskabelon til vedligeholdelse",
-	"category_redirect-change-category": "Robot: Ændrer omdirigeret kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] til [[:%(newCatLink)s|%(newCatTitle)s]]",
-	"category_redirect-comment": "Robot til vedligeholdelse af kategoriomdirigeringer",
+	"category_redirect-add-template": "Bot: Tilføjer kategoriomdirigeringsskabelon til vedligeholdelse",
+	"category_redirect-change-category": "Bot: Ændrer omdirigeret kategori [[:%(oldCatLink)s|%(oldCatTitle)s]] til [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Vedligeholdelsesbot for kategoriomdirigering",
 	"category_redirect-edit-request": "Det er opdaget, at følgende beskyttede sider kræver opdatering af kategorilinks: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s er i %(oldcat)s, som er en omdirigering til %(newcat)s",
-	"category_redirect-fix-double": "Robot: Retter dobbelt omdirigering",
+	"category_redirect-fix-double": "Bot: Retter dobbelt omdirigering",
 	"category_redirect-log-add-failed": "* Kunne ikke tilføje til [[%(ns)s%(template)s]] på %(oldcat)s",
 	"category_redirect-log-added": "* Tilføj til [[%(ns)s%(template)s]] på %(oldcat)s",
 	"category_redirect-log-double": "* Ordner dobbelt omdirigering: %(oldcat)s → %(newcat)s → %(targetcat)s",

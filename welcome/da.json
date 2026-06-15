@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Sarrus"
+			"Sarrus",
+			"Steenth"
 		]
 	},
-	"welcome-bad_username": "Robot: Tilføjer et brugernavn, der skal kontrolleres",
-	"welcome-updating": "Robot: Opdaterer log",
+	"welcome-bad_username": "Bot: Tilføjer et brugernavn, der skal kontrolleres",
+	"welcome-updating": "Bot: Opdaterer log",
 	"welcome-welcome": "Velkommen!"
 }

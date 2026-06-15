@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joedalton"
+			"Joedalton",
+			"Steenth"
 		]
 	},
-	"image-remove": "Robot: Fjerner billedet %(file)s",
-	"image-replace": "Robot: Erstatter billedet %(old)s med %(new)s"
+	"image-remove": "Bot: Fjerner billedet %(file)s",
+	"image-replace": "Bot: Erstatter billedet %(old)s med %(new)s"
 }

@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Christian List"
+			"Christian List",
+			"Steenth"
 		]
 	},
-	"blockpageschecker-deleting": "Robot: Sletning af forældet skabelon"
+	"blockpageschecker-adding": "Bot: Tilføjelse af beskyttelsesskabelon",
+	"blockpageschecker-deleting": "Bot: Sletning af forældet skabelon",
+	"blockpageschecker-modifying": "Bot: Rediger forældet skabelon"
 }

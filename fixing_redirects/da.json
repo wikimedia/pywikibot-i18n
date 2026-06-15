@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Sarrus"
+			"Sarrus",
+			"Steenth"
 		]
 	},
-	"fixing_redirects-fixing": "Robot: Retter omdirigeringer"
+	"fixing_redirects-fixing": "Bot: Retter omdirigeringer"
 }

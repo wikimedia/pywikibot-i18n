@@ -9,18 +9,18 @@
 			"Steenth"
 		]
 	},
-	"pywikibot-bot-prefix": "Robot:",
+	"pywikibot-bot-prefix": "Bot:",
 	"pywikibot-cosmetic-changes": "; kosmetiske ændringer",
 	"pywikibot-enter-category-name": "Skriv kategorinavnet:",
-	"pywikibot-enter-file-links-processing": "Links til hvilken fil side der skal behandles?",
-	"pywikibot-enter-finished-browser": "Tryk Enter når browserredigeringerne er færdige.",
+	"pywikibot-enter-file-links-processing": "Links til hvilken filside der skal behandles?",
+	"pywikibot-enter-finished-browser": "Tryk Enter, når du er færdig i browseren.",
 	"pywikibot-enter-namespace-number": "Angiv et navnerum via dets nummer:",
 	"pywikibot-enter-new-text": "Skriv den nye tekst:",
 	"pywikibot-enter-page-processing": "Hvilken side skal behandles?",
 	"pywikibot-enter-xml-filename": "Skriv XML-dumpets filnavn:",
-	"pywikibot-fixes-fckeditor": "Robot: Ret rich-editor HTML",
-	"pywikibot-fixes-html": "Robot: Konverter/ret HTML",
-	"pywikibot-fixes-isbn": "Robot: Formaterer ISBN",
-	"pywikibot-fixes-syntax": "Robot: Ret wikisyntaks",
+	"pywikibot-fixes-fckeditor": "Bot: Retter rich-editor HTML",
+	"pywikibot-fixes-html": "Bot: Konvertering/rettelse af HTML",
+	"pywikibot-fixes-isbn": "Bot: Formatering af ISBN",
+	"pywikibot-fixes-syntax": "Bot: Retter wiki-syntaks",
 	"pywikibot-touch": "Pywikibot-nulredigering"
 }

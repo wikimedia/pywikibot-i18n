@@ -7,7 +7,7 @@
 		]
 	},
 	"archivebot-archive-full": "(ARKIV FULDT)",
-	"archivebot-archive-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} fra [[%(from)s]]",
+	"archivebot-archive-summary": "Bot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} fra [[%(from)s]]",
 	"archivebot-older-than": "{{PLURAL:%(count)d|ældre}} end %(duration)s",
-	"archivebot-page-summary": "Robot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} (%(why)s) til %(archives)s"
+	"archivebot-page-summary": "Bot: Arkiverer %(count)d {{PLURAL:%(count)d|tråd|tråde}} (%(why)s) til %(archives)s"
 }

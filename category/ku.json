@@ -19,7 +19,7 @@
 	"category-strip-both": "Bot: Ji bo aksiyonên temamkirî şablonên daxwazan û kilîdên rêzkirinê hat jêbirin",
 	"category-strip-cfd-templates": "Bot: Şablonên daxwazan ji bo aksiyonên temamkirî hat rakirin",
 	"category-strip-sort-keys": "Bot: Ji bo aksiyonên temamkirî kilîdên rêzkirinê hat rakirin",
-	"category-version-history": "Bot: Dîroka rûpelê ya %(oldcat)s hat qeydkirin",
+	"category-version-history": "Bot: Tarîxa rûpelê ya %(oldcat)s hat qeydkirin",
 	"category-was-disbanded": "Bot: Bikaranîna kategoriyê hat terikandin",
 	"category-was-moved": "Bot: Kategorî li rûpela [[:Category:%(newcat)s|%(title)s]] hat barkirin"
 }

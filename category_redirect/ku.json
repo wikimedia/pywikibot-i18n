@@ -6,7 +6,7 @@
 		]
 	},
 	"category_redirect-add-template": "Bot: Şablona beralîkirina kategoriyê lê hat zêdekirin",
-	"category_redirect-change-category": "Bot: Kategorî ji [[:%(oldCatLink)s|%(oldCatTitle)s]] ber bi [[:%(newCatLink)s|%(newCatTitle)s]] ve hat beralîkirin",
+	"category_redirect-change-category": "Bot: Kategoriya beralîkirî ji [[:%(oldCatLink)s|%(oldCatTitle)s]] ber bi [[:%(newCatLink)s|%(newCatTitle)s]] ve hat guhartin",
 	"category_redirect-comment": "Bota sererastkirina beralîkirinên kategoriyan",
 	"category_redirect-edit-request": "Ev lîsteya rûpelên parastî hewce ne ku kategoriyan wan werin sererastkirin: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s di kategoriya %(oldcat)s de ye lê ev kategorî beralî dike %(newcat)s",

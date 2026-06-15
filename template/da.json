@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Christian List"
+			"Christian List",
+			"Steenth"
 		]
 	},
-	"template-changing": "Robot: Ændrer {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s",
-	"template-removing": "Robot: Fjerner {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s",
-	"template-substituting": "Robot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s"
+	"template-changing": "Bot: Ændrer {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s",
+	"template-removing": "Bot: Fjerner {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s",
+	"template-substituting": "Bot: Erstatter {{PLURAL:%(num)d|skabelon|skabeloner}}: %(list)s"
 }

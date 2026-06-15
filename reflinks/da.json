@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Dipsacus fullonum"
+			"Dipsacus fullonum",
+			"Steenth"
 		]
 	},
 	"reflinks-autogen": "autogeneret",
 	"reflinks-comment": "Botgenereret titel",
-	"reflinks-msg": "Robot: Konverterer nøgne referencer, ved hjælp af ref navne for at undgå dubletter, se [[%(manual)s|FAQ]]"
+	"reflinks-msg": "Bot: Konverterer nøgne referencer, ved hjælp af ref navne for at undgå dubletter, se [[%(manual)s|FAQ]]"
 }

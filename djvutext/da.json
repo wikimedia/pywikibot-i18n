@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Peter Alberti"
+			"Peter Alberti",
+			"Steenth"
 		]
 	},
-	"djvutext-creating": "Robot: Opretter side med tekst fra DjVu"
+	"djvutext-creating": "Bot: Opretter side med tekst fra DjVu"
 }

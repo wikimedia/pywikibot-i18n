@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"MGA73"
+			"MGA73",
+			"Steenth"
 		]
 	},
-	"undelete-from-file": "Robot: Gendanner en liste af sider",
-	"undelete-images": "Robot: Gendanner alle billeder på side %(page)s",
-	"undelete-linked-pages": "Robot: Gendanner alle sider der henvises til fra %(page)s"
+	"undelete-from-file": "Bot: Gendanner en liste af sider",
+	"undelete-images": "Bot: Gendanner alle billeder på side %(page)s",
+	"undelete-linked-pages": "Bot: Gendanner alle sider der henvises til fra %(page)s"
 }

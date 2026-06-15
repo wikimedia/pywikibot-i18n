@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Sarrus"
+			"Sarrus",
+			"Steenth"
 		]
 	},
-	"replace-replacing": "Robot: Automatisk erstatning af tekst: %(description)s"
+	"replace-replacing": "Bot: Automatisk erstatning af tekst: %(description)s"
 }

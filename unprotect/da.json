@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"MGA73"
+			"MGA73",
+			"Steenth"
 		]
 	},
-	"unprotect-category": "Robot: Fjerner beskyttelsen fra alle sider i kategorien %(cat)s",
-	"unprotect-images": "Robot: Fjerner beskyttelsen fra alle billeder på siden %(page)s",
-	"unprotect-links": "Robot: Fjerner beskyttelsen fra alle sider som henvises til fra %(page)s",
-	"unprotect-ref": "Robot: Fjerner beskyttelsen fra alle sider som henviser til %(page)s",
-	"unprotect-simple": "Robot: Fjerner beskyttelsen fra en liste af filer."
+	"unprotect-category": "Bot: Fjerner beskyttelsen fra alle sider i kategorien %(cat)s",
+	"unprotect-images": "Bot: Fjerner beskyttelsen fra alle billeder på siden %(page)s",
+	"unprotect-links": "Bot: Fjerner beskyttelsen fra alle sider som henvises til fra %(page)s",
+	"unprotect-ref": "Bot: Fjerner beskyttelsen fra alle sider som henviser til %(page)s",
+	"unprotect-simple": "Bot: Fjerner beskyttelsen fra en liste af filer."
 }

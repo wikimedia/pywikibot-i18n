@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Christian List"
+			"Christian List",
+			"Steenth"
 		]
 	},
-	"revertbot-revert": "Robot: Gendanner til version %(revid)s af %(author)s den %(timestamp)s"
+	"revertbot-revert": "Bot: Gendanner til version %(revid)s af %(author)s den %(timestamp)s"
 }

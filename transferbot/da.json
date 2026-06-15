@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Steenth"
+		]
+	},
+	"transferbot-summary": "Flyttede side fra %(source)s",
+	"transferbot-target": "Denne side blev flyttet fra %(source)s. Dens redigeringshistorik kan ses på %(history)s"
+}

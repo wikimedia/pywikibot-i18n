@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Kaare"
+			"Kaare",
+			"Steenth"
 		]
 	},
-	"add_text-adding": "Robot: Tilføjer %(adding)s"
+	"add_text-adding": "Bot: Tilføjer %(adding)s"
 }

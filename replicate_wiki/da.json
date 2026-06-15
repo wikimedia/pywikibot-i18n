@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Steenth"
+		]
+	},
+	"replicate_wiki-headline": "Sider, der er forskellige fra originalen",
+	"replicate_wiki-missing-users": "Administratorer fra originalen, der mangler her",
+	"replicate_wiki-same-pages": "Alle vigtige sider er ens",
+	"replicate_wiki-same-users": "Alle brugere fra originalen er også til stede på denne wiki",
+	"replicate_wiki-summary": "Bot: Wiki-synkronisering fra %(source)s"
+}
