@@ -5,5 +5,5 @@
 		]
 	},
 	"archivebot-archive-full": "(ארכיוו פֿול)",
-	"archivebot-older-than": "עלטער פֿון %(duration)s"
+	"archivebot-older-than": "{{PLURAL:%(count)d|עלטער}} ווי %(duration)s"
 }
