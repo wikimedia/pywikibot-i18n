@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"شاه زمان پټان"
 		]
 	},
 	"interwiki-adding": "روباټ زیاتول: %(adding)s",
@@ -9,6 +10,7 @@
 	"interwiki-adding-removing": "روباټ زیاتول: %(adding)s لرې کول: %(removing)s",
 	"interwiki-adding-removing-modifying": "روباټ زیاتول: %(adding)s لرې کول: %(removing)s بدلول: %(modifying)s",
 	"interwiki-modifying": "روباټ بدلول: %(modifying)s",
+	"interwiki-modifying-from": "روباټ: له %(from)s څخه %(modifying)s ته بدلول",
 	"interwiki-removing": "روباټ لرې کول: %(removing)s",
 	"interwiki-removing-modifying": "روباټ لرې کول: %(removing)s بدلول: %(modifying)s"
 }
