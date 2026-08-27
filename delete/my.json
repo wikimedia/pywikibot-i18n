@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kalixlouiis",
 			"Ninjastrikers"
 		]
 	},
+	"delete-broken-redirect": "ဘော့ - ဖျက်လိုက်ပြီးသော စာမျက်နှာ %(page)s သို့ ပြန်ညွှန်းထားမှုကို ဖျက်ပစ်ခြင်း",
 	"delete-from-category": "ဘော့ - ကဏ္ဍ %(page)s မှ စာမျက်နှာများ အားလုံးကို ဖျက်နေသည်",
 	"delete-from-file": "ဘော့ - စာမျက်နှာများ စာရင်းကို ဖျက်နေသည်",
 	"delete-images": "ဘော့ - %(page)s စာမျက်နှာရှိ ပုံများအားလုံးကို ဖျက်နေသည်",
