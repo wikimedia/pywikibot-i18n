@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
-	"welcome-bad_username": "Bòt: Dodôwanié miona brëkòwnika, chtërnô wëmôgô sprôwdzeniô",
+	"welcome-bad_username": "Bòt: Dodôwanié miona brëkòwnika, chtërnô wëmôgô sprawdzeniô",
 	"welcome-updating": "Bòt: Zaktualnienié dniownika",
 	"welcome-welcome": "Witôj!"
 }

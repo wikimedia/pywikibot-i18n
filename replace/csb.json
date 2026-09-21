@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
-	"replace-replacing": "Bòt: Aùtomatno nadpisôł tekst %(description)s"
+	"replace-replacing": "Bòt: Aùtomatno zastãpił tekst %(description)s"
 }

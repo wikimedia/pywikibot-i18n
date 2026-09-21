@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
-	"revertbot-revert": "Bòt: Copniãto do wersëji %(revid)s ùsôdztwa %(author)s z %(timestamp)s"
+	"revertbot-revert": "Bòt: Copniãto do wersje %(revid)s ùsôdztwa %(author)s z %(timestamp)s"
 }

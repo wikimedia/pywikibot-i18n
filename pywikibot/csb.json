@@ -1,20 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
 	"pywikibot-bot-prefix": "Bòt:",
 	"pywikibot-cosmetic-changes": "; kòsmeticzné zmianë",
-	"pywikibot-enter-category-name": "Wpiszë miono kategòrëji",
-	"pywikibot-enter-file-links-processing": "Lënczi do starnë chtërnegò lopka mają bëc przerobione?",
-	"pywikibot-enter-finished-browser": "Wcësni Enter jak przezérnik òprzestanie robic.",
+	"pywikibot-enter-category-name": "Wpiszë miono kategòrie",
+	"pywikibot-enter-file-links-processing": "Lënczi do starnë chtërnégò lopka mają bëc przerobioné?",
+	"pywikibot-enter-finished-browser": "Wcësni Enter jak przezérnik òprzestani robic.",
 	"pywikibot-enter-namespace-number": "Proszã wpisac numer ruma mionów:",
 	"pywikibot-enter-new-text": "Proszã wpisac nowi tekst:",
-	"pywikibot-enter-page-processing": "Jakô strana mô bëc przerobionô?",
-	"pywikibot-enter-xml-filename": "Proszã wpisac miono lopka ze zdrzucënkã w fòrmacë XML:",
-	"pywikibot-fixes-fckeditor": "Bòt: Pòprôwiô kòd html z tekstowégò sfòrmatowónegò editora",
+	"pywikibot-enter-page-processing": "Jakô starna mô bëc przerobionô?",
+	"pywikibot-enter-xml-filename": "Proszã wpisac miono lopka ze zdrzëcënkã w fòrmace XML:",
+	"pywikibot-fixes-fckeditor": "Bòt: Pòprôwiô kòd html z tekstowégò sfòrmatowónégò editora",
 	"pywikibot-fixes-html": "Bòt: Kònwertëje/Pòprôwiô HTML",
 	"pywikibot-fixes-isbn": "Bòt: Fòrmatëje ISBN",
-	"pywikibot-fixes-syntax": "Bòt: Pòprôwiô składniã wiki"
+	"pywikibot-fixes-syntax": "Bòt: Pòprôwiô skłôdniã wiki"
 }

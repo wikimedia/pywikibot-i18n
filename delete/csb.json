@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
-	"delete-from-category": "Bòt: Rëmanié wszëtczich starnów z kategòrëji %(page)s",
+	"delete-from-category": "Bòt: Rëmanié wszëtczich starnów z kategòrie %(page)s",
 	"delete-from-file": "Bòt: Rëmanié starnów z lëstë.",
 	"delete-images": "Bòt: Rëmanié wszëtczich òbrôzków ze starnë %(page)s",
-	"delete-linked-pages": "Bòt: Rëmanié wszëtczich artiklów zlënkòwónych z %(page)s",
-	"delete-referring-pages": "Bòt: Rëmanié wszëtczich starnów lëkùjących do %(page)s"
+	"delete-linked-pages": "Bòt: Rëmanié wszëtczich artiklów zlënkòwónëch z %(page)s",
+	"delete-referring-pages": "Bòt: Rëmanié wszëtczich starnów lënkùjącëch do %(page)s"
 }

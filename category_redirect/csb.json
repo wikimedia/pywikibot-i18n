@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
-	"category_redirect-add-template": "Bòt: Dodónô szablóna przeczerowaniô do kategòrëji",
-	"category_redirect-change-category": "Bòt: Zmienioné przeczerowanié do kategòrëji z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
-	"category_redirect-comment": "Bòt pòrządkùjący przeczerowania do kategòrëjów",
-	"category_redirect-edit-request": "Nôslédné zazychrowóné starnë òstałe wëkrëté do pòprôwczi lënków kategòrëji: %(itemlist)s",
-	"category_redirect-edit-request-item": "* %(title)s je w %(oldcat)s, chtërnô je przeczerowaniém do %(newcat)s",
-	"category_redirect-fix-double": "Bòt: Pòprôwił dëbeltné przeczerowanie"
+	"category_redirect-add-template": "Bòt: Dodónô szablóna przeczérowaniô do kategòrie",
+	"category_redirect-change-category": "Bòt: Zmienioné przeczérowanié do kategòrie z [[:%(oldCatLink)s|%(oldCatTitle)s]] na [[:%(newCatLink)s|%(newCatTitle)s]]",
+	"category_redirect-comment": "Bòt pòrządkùjący przeczérowania do kategòriów",
+	"category_redirect-edit-request": "Nôslédné zazychrowóné starnë òstałe wëkrité do pòprôwczi lënków kategòrie: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s je w %(oldcat)s, chtërnô je przeczérowanim do %(newcat)s",
+	"category_redirect-fix-double": "Bòt: Pòprôwił dëbeltné przeczérowanié"
 }

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
-	"protect-category": "Bòt: Zazychrowanié wszëtczich starnów z kategòrëji %(cat)s",
+	"protect-category": "Bòt: Zazychrowanié wszëtczich starnów z kategòrie %(cat)s",
 	"protect-images": "Bòt: Zazychrowanié wszëtczich òbrôzków ze starnë %(page)s",
-	"protect-links": "Bòt: Zazychrowanié wszëtczich artiklów zlënkòwónych z %(page)s",
+	"protect-links": "Bòt: Zazychrowanié wszëtczich artiklów zlënkòwónëch z %(page)s",
 	"protect-ref": "Bòt: Zazychrowanié wszëtczich starnów lëkùjących do %(page)s",
 	"protect-simple": "Bòt: Zazychrowanié starnów z lëstë."
 }

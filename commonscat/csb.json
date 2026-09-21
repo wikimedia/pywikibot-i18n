@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Orbitminis"
 		]
 	},
-	"commonscat-msg_change": "Bòt: Zjinaka lënka do kategòrëji commons z [[:Commons:Category:%(oldcat)s|%(oldcat)s]] na [[:Commons:Category:%(newcat)s|%(newcat)s]]"
+	"commonscat-msg_change": "Bòt: Zjinaka lënka do kategòrie commons z [[:Commons:Category:%(oldcat)s|%(oldcat)s]] na [[:Commons:Category:%(newcat)s|%(newcat)s]]"
 }
