@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"ᱯᱨᱚᱯᱷᱮᱥᱥᱚᱨ"
+		]
+	},
+	"archivebot-archive-full": "(ᱥᱟᱱᱟᱢ ᱵᱟᱺᱫᱤᱢᱮ)",
+	"archivebot-archive-summary": "ᱵᱚᱴ: %(count)d {{PLURAL:%(count)d|ᱜᱟᱯᱟᱞᱢᱟᱨᱟᱣ|ᱜᱟᱯᱟᱞᱢᱟᱨᱟᱣ ᱠᱚ}} [[%(from)s]] ᱠᱷᱚᱱ ᱵᱟᱺᱫᱤᱜ ᱠᱟᱱᱟ",
+	"archivebot-older-than": "%(duration)s ᱠᱷᱚᱱ {{PLURAL:%(count)d|ᱢᱟᱨᱮᱭᱟ}}",
+	"archivebot-page-summary": "ᱵᱚᱴ: %(count)d {{PLURAL:%(count)d|ᱜᱟᱯᱟᱞᱢᱟᱨᱟᱣ|ᱜᱟᱯᱟᱞᱢᱟᱨᱟᱣ ᱠᱚ}} (%(why)s) ᱤᱫᱤᱛᱮ %(archives)s ᱨᱮ ᱵᱟᱺᱫᱤᱜ ᱠᱟᱱᱟ"
+}
