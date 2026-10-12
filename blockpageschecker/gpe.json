@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yaw tuba"
+		]
+	},
+	"blockpageschecker-adding": "Bot: Edey Add page lock template",
+	"blockpageschecker-deleting": "Bot: Edey delete out-dated template",
+	"blockpageschecker-modifying": "Bot: Modify out-dated template"
+}

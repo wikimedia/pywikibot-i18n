@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yaw tuba"
+		]
+	},
+	"category-adding": "Bot: Edey add category [[:Category:%(newcat)s|%(newcat)s]]",
+	"category-also-in": "(sana dey insyd %(alsocat)s)"
+}
