@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
-	"weblinkchecker-caption": "مردہ جوڑ"
+	"weblinkchecker-archive_msg": "ویب صفحہ Internet Archive نے محفوظ کر گھدا ہے۔ براہ کرم مناسب آرکائیو تھئے نسخے نال لنک کرݨ دا خیال رکھو: [%(URL)s]۔",
+	"weblinkchecker-badurl": "ݙتا گیا لنک درست URL نئیں لڳدا: [%(URL)s]",
+	"weblinkchecker-caption": "مردہ جوڑ",
+	"weblinkchecker-report": "بوٹ دی کئی خودکار رناں دوران تھلے ݙتا گیا ٻاہرلا لنک دستیاب نئیں ملیا۔ براہ کرم ݙیکھو جے لنک واقعی بند ہے تے اوں صورت وچ ایں کوں ٹھیک یا ہٹا ݙیو!",
+	"weblinkchecker-summary": "بوٹ: دستیاب نئیں ہوݨ آلے ٻاہرلے لنک دی رپورٹ کریندا پئے"
 }

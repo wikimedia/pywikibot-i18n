@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"template-changing": "روباټ: {{PLURAL:%(num)d|کينډۍ}}: %(list)s بدلول",
+	"template-removing": "روباټ: {{PLURAL:%(num)d|کينډۍ}}: %(list)s لرې‌کول",
+	"template-substituting": "روباټ: {{PLURAL:%(num)d|کينډۍ}}: %(list)s ځايناستول"
+}

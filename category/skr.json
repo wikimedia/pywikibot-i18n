@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"category-adding": "بوٹ: زمرہ [[:Category:%(newcat)s|%(newcat)s]] شامل کریندا پئے",
+	"category-also-in": "(%(alsocat)s وچ وی)",
+	"category-clean": "بوٹ: زمرہ %(category)s ہٹائیندا پئے کیوں جو اے پہلے توں %(child)s دے وچ ہے",
+	"category-listifying": "بوٹ: %(fromcat)s توں لسٹ بݨیندا پئے ({{PLURAL:%(num)d|1 اندراج|%(num)d اندراجات}})",
+	"category-removing": "بوٹ: %(oldcat)s توں ہٹائیندا پئے",
+	"category-renamed": "بوٹ: %(oldcat)s توں منتقل تھیا۔ لکھاری: %(authors)s",
+	"category-replacing": "بوٹ: زمرہ %(oldcat)s کوں %(newcat)s نال تبدیل کریندا پئے",
+	"category-section-title": "سابقہ %(oldcat)s دے صفحے دی تاریخ",
+	"category-strip-both": "بوٹ: مکمل کارروائی واسطے CFD ٹیمپلیٹ تے ترتیب کنجیاں ہٹائیندا پئے",
+	"category-strip-cfd-templates": "بوٹ: مکمل کارروائی واسطے CFD ٹیمپلیٹ ہٹائیندا پئے",
+	"category-strip-sort-keys": "بوٹ: مکمل کارروائی واسطے ترتیب کنجیاں ہٹائیندا پئے",
+	"category-version-history": "بوٹ: سابقہ %(oldcat)s دی ورژن تاریخ محفوظ کریندا پئے",
+	"category-was-disbanded": "بوٹ: زمرہ توڑ ݙتا ڳیا",
+	"category-was-moved": "بوٹ: زمرہ [[:Category:%(newcat)s|%(title)s]] ول منتقل تھیا"
+}

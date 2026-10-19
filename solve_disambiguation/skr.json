@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
+	"solve_disambiguation-adding-dn-template": "بوٹ معاون ابہام زدائی: %(from)s - ماہر دی توجہ دی لوڑ ہئی نشان زد",
+	"solve_disambiguation-links-removed": "بوٹ معاون ابہام زدائی: %(from)s - لنک ہٹا ݙتے گئے",
+	"solve_disambiguation-links-resolved": "بوٹ معاون ابہام زدائی: %(from)s - لنک %(to)s ول تبدیل کیتے گئے",
+	"solve_disambiguation-redirect-adding-dn-template": "بوٹ معاون ابہام زدائی: %(from)s - ماہر دی توجہ دی لوڑ ہئی نشان زد",
+	"solve_disambiguation-redirect-removed": "بوٹ معاون ابہام زدائی: %(from)s - لنک ہٹا ݙتے گئے",
+	"solve_disambiguation-redirect-resolved": "بوٹ معاون ابہام زدائی: %(from)s - لنک %(to)s ول تبدیل کیتے گئے",
 	"solve_disambiguation-unknown-page": "(نامعلوم)"
 }

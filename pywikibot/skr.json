@@ -1,9 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
 	"pywikibot-bot-prefix": "ٻوٹ:",
-	"pywikibot-enter-new-text": "نویں عبارت درج کرو، مہربانی ہوسی:"
+	"pywikibot-cosmetic-changes": "; کاسمیٹک تبدیلیاں",
+	"pywikibot-enter-category-name": "مہربانی کر کے زمرے دا ناں لکھو:",
+	"pywikibot-enter-file-links-processing": "کیڑھے فائل صفحے دے لنک پروسیس کیتے ونڄݨ؟",
+	"pywikibot-enter-finished-browser": "جڈاں براؤزر وچ کم مک جاوے تاں Enter دٻاو۔",
+	"pywikibot-enter-namespace-number": "مہربانی کر کے ناں تھاں اپݨے نمبر دے نال لکھو:",
+	"pywikibot-enter-new-text": "نویں عبارت درج کرو، مہربانی ہوسی:",
+	"pywikibot-enter-page-processing": "کیڑھا صفحہ پروسیس کیتا ونڄے؟",
+	"pywikibot-enter-xml-filename": "مہربانی کر کے XML ڈمپ دی فائل دا ناں لکھو:",
+	"pywikibot-fixes-fckeditor": "بوٹ: رچ-ایڈیٹر html کوں ٹھیک کریندا پئے",
+	"pywikibot-fixes-html": "بوٹ: HTML کوں تبدیل/ٹھیک کریندا پئے",
+	"pywikibot-fixes-isbn": "بوٹ: ISBN فارمیٹ کریندا پئے",
+	"pywikibot-fixes-syntax": "بوٹ: ویکی نحو کوں ٹھیک کریندا پئے",
+	"pywikibot-touch": "پائیویکیبوٹ ٹچ ترامیم"
 }

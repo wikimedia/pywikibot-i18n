@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
-	"pagefromfile-msg_bottom": "تلے تلے لا ݙتے"
+	"pagefromfile-msg": "بوٹ: مضموناں دی خودکار درآمد",
+	"pagefromfile-msg_bottom": "تلے تلے لا ݙتے",
+	"pagefromfile-msg_force": "موجودہ متن اوور رائٹ تھیا",
+	"pagefromfile-msg_top": "اتے لاوݨ"
 }

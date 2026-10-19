@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"revertbot-revert": "بوٹ: %(timestamp)s تے %(author)s والے نسخے %(revid)s ول واپس کیتا گیا"
+}

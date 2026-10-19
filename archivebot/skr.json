@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
-	"archivebot-archive-full": "(آرکائیو پر ہے)"
+	"archivebot-archive-full": "(آرکائیو پر ہے)",
+	"archivebot-archive-summary": "بوٹ: %(count)d {{PLURAL:%(count)d|تھریڈ|تھریڈز}} [[%(from)s]] توں آرکائیو کریندا پئے",
+	"archivebot-older-than": "%(duration)s توں {{PLURAL:%(count)d|پراݨا|پراݨے}}",
+	"archivebot-page-summary": "بوٹ: %(count)d {{PLURAL:%(count)d|تھریڈ|تھریڈز}} (%(why)s) %(archives)s ول آرکائیو کریندا پئے"
 }

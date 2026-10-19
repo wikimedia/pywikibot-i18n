@@ -1,8 +1,29 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
-	"category_redirect-fix-double": "بوٹ:ݙوری رجوع کوں ٹھیک کریندا پئے"
+	"category_redirect-add-template": "بوٹ: دیکھ بھال واسطے زمرے دا ریڈائریکٹ ٹیمپلیٹ شامل کریندا پئے",
+	"category_redirect-change-category": "بوٹ: ریڈائریکٹ تھئے زمرے [[:%(oldCatLink)s|%(oldCatTitle)s]] کوں [[:%(newCatLink)s|%(newCatTitle)s]] ول تبدیل کریندا پئے",
+	"category_redirect-comment": "زمرے دے ریڈائریکٹ دی دیکھ بھال آلا بوٹ",
+	"category_redirect-edit-request": "تھلے ݙتے گئے محفوظ صفحے دریافت تھئے ہن جنھاں کوں زمرے دے لنک دی تازہ کاری دی لوڑ ہے: %(itemlist)s",
+	"category_redirect-edit-request-item": "* %(title)s %(oldcat)s وچ ہے، جیڑھا %(newcat)s دا ریڈائریکٹ ہے",
+	"category_redirect-fix-double": "بوٹ:ݙوری رجوع کوں ٹھیک کریندا پئے",
+	"category_redirect-log-add-failed": "* [[%(ns)s%(template)s]] کوں %(oldcat)s وچ شامل کرݨ وچ ناکامی",
+	"category_redirect-log-added": "* [[%(ns)s%(template)s]] کوں %(oldcat)s وچ شامل کیتا ڳیا",
+	"category_redirect-log-double": "* ڈبل ریڈائریکٹ ٹھیک کیتا ڳیا: %(oldcat)s -> %(newcat)s -> %(targetcat)s",
+	"category_redirect-log-failed": "** ناکامی: %(error)s",
+	"category_redirect-log-false-positive": "* غیر متوقع غیر ریڈائریکٹ: %(oldcat)s",
+	"category_redirect-log-ignoring": "* %(oldcat)s کوں نظر انداز کریندا پئے",
+	"category_redirect-log-loop": "* %(oldcat)s توں ریڈائریکٹ دا چکر",
+	"category_redirect-log-moved": "* %(oldcat)s: %(found)d ملیئے، %(moved)d منتقل تھئے",
+	"category_redirect-log-new": "پچھلی رپورٹ توں نویں ریڈائریکٹ:",
+	"category_redirect-log-not-loaded": "* %(oldcat)s لوڈ نہ تھی سڳیا؛ نظر انداز کریندا پئے",
+	"category_redirect-log-skipping": "* %(oldcat)s کوں چھوڑ ݙتا ڳیا؛ کول ڈاؤن دی مدت وچ ہے",
+	"category_redirect-older-logs": "'''[%(oldlogs)s پرانے لاگز]'''",
+	"category_redirect-problem-hard": "# %(oldcat)s %(page)s دا ہارڈ ریڈائریکٹ ہے",
+	"category_redirect-problem-redirects": "# %(oldcat)s %(redpage)s ول ریڈائریکٹ کریندا پئے",
+	"category_redirect-problem-self-linked": "# %(oldcat)s خود ول ریڈائریکٹ تھیا ہویا لنک ہے"
 }

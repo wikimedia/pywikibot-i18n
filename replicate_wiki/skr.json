@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"replicate_wiki-headline": "او صفحے جنہاں اصل توں فرق ہووے",
+	"replicate_wiki-missing-users": "اصل والے منتظمین جنہاں ایتھے گم ہن",
+	"replicate_wiki-same-pages": "سارے اہم صفحے ہکو جہے ہن",
+	"replicate_wiki-same-users": "اصل والے سارے ورتن آلے وی ایں ویکی تے موجود ہن",
+	"replicate_wiki-summary": "بوٹ: %(source)s توں ویکی مطابقت"
+}

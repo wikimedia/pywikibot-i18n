@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"delete-broken-redirect": "بوٹ: حذف تھئے صفحے %(page)s ول ریڈائریکٹ کوں حذف کریندا پئے",
+	"delete-from-category": "بوٹ: زمرے %(page)s توں سارے صفحے حذف کریندا پئے",
+	"delete-from-file": "بوٹ: صفحیاں دی ہک لسٹ حذف کریندا پئے۔",
+	"delete-images": "بوٹ: صفحے %(page)s توں ساریاں تصویریں حذف کریندا پئے",
+	"delete-linked-pages": "بوٹ: صفحے %(page)s توں لنک تھئے سارے صفحے حذف کریندا پئے",
+	"delete-referring-pages": "بوٹ: صفحے %(page)s توں حوالہ ݙیوݨ والے سارے صفحے حذف کریندا پئے"
+}

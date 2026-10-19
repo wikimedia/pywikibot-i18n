@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
+	"welcome-bad_username": "بوٹ: ہک صارف نام شامل کریندا پئے جیندی جانچ دی لوڑ ہے",
 	"welcome-updating": "بوٹ:تازہ لاگ",
 	"welcome-welcome": "ست بسم اللہ!"
 }

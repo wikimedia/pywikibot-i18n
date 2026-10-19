@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"template-changing": "بوٹ: {{PLURAL:%(num)d|ٹیمپلیٹ|ٹیمپلیٹ}} تبدیل کریندا پئے: %(list)s",
+	"template-removing": "بوٹ: {{PLURAL:%(num)d|ٹیمپلیٹ|ٹیمپلیٹ}} ہٹائیندا پئے: %(list)s",
+	"template-substituting": "بوٹ: {{PLURAL:%(num)d|ٹیمپلیٹ|ٹیمپلیٹ}} دا متبادل بݨیندا پئے: %(list)s"
+}

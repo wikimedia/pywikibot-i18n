@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"checkimages-deletion-comment": "بوٹ: %(adding)s شامل کریندا پئے",
+	"checkimages-doubles-file-comment": "بوٹ: فائل پہلے توں کامنز تے موجود ہے، حذف تھی سڳدی ہے",
+	"checkimages-doubles-head": "دوہری فائل",
+	"checkimages-doubles-talk-comment": "بوٹ: اطلاع ݙیندا پئے جو فائل پہلے توں کامنز تے موجود ہے",
+	"checkimages-doubles-talk-text": "%(upload)s اپلوڈ کرݨ دا شکریہ۔ پر ایہ فائل %(image)s دی نقل ہے۔ بوٹ نے او فائل دوہری نشان زد کیتی ہے جیڑھی گھٹ توں گھٹ ورتی گئی یا سب توں نویں ملی ہے۔ جے تساں ایہ مناسب سمجھدے ہو جو فائل کوں فوری حذف واسطے نشان زد رہݨ ݙتا ونجے، تاں دوہری فائلاں حذف کر ݙیو تے جیڑھی رکھݨی ہے اوندے توں حذف دا ٹیمپلیٹ ہٹا ݙیو۔ ایہ %(bot)s دا خودکار پیغام ہے۔",
+	"checkimages-forced-mode": "('''مجبوری موڈ''')",
+	"checkimages-has-duplicates": "تھلے ݙتے گئے دوہرے%(force)s رکھدی ہے:",
+	"checkimages-log-comment": "بوٹ: لاگ کوں تازہ کریندا پئے",
+	"checkimages-no-license-head": "لائسنس دے بغیر تصویر",
+	"checkimages-source-notice-comment": "بوٹ: ماخذ دی معلومات دی درخواست کریندا پئے۔",
+	"checkimages-source-tag-comment": "بوٹ: نویں اپلوڈ تھئی بغیر ٹیگ آلی فائل کوں نشان زد کریندا پئے۔",
+	"checkimages-unknown-extension-head": "نامعلوم ایکسٹینشن!",
+	"checkimages-unknown-extension-msg": "%(file)s فائل دی ایکسٹینشن غلط لڳدی پئی ہے، مہربانی کر کے چیک کرو۔"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"image-remove": "بوٹ: تصویر %(file)s ہٹائیندا پئے",
+	"image-replace": "بوٹ: تصویر %(old)s کوں %(new)s نال تبدیل کریندا پئے"
+}

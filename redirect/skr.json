@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tauqeerkhansurani"
+		]
+	},
+	"redirect-fix-broken-moved": "%(from)s توں منتقل تھئے ہدف صفحے %(to)s ول ٹٹے ریڈائریکٹ کوں ٹھیک کریندا پئے",
+	"redirect-fix-double": "%(from)s توں %(to)s ول دوہرے ریڈائریکٹ کوں ٹھیک کریندا پئے",
+	"redirect-fix-loop": "%(from)s توں %(to)s ول ریڈائریکٹ لوپ کوں ٹھیک کریندا پئے",
+	"redirect-remove-broken": "حذف تھئے یا غیر موجود صفحے ول ریڈائریکٹ",
+	"redirect-remove-loop": "ریڈائریکٹ ہدف ریڈائریکٹ لوپ بݨیندا پئے"
+}

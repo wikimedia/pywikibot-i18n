@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
-	"interwiki-adding": "بوٹ: رَلیندا پئے %(adding)s"
+	"interwiki-adding": "بوٹ: رَلیندا پئے %(adding)s",
+	"interwiki-adding-modifying": "بوٹ: %(adding)s شامل کریندا پئے؛ %(modifying)s کوں تبدیل کریندا پئے",
+	"interwiki-adding-removing": "بوٹ: %(adding)s شامل کریندا پئے؛ ہٹائیندا پئے: %(removing)s",
+	"interwiki-adding-removing-modifying": "بوٹ: %(adding)s شامل کریندا پئے؛ %(removing)s ہٹائیندا پئے؛ %(modifying)s کوں تبدیل کریندا پئے",
+	"interwiki-modifying": "بوٹ: %(modifying)s کوں تبدیل کریندا پئے",
+	"interwiki-modifying-from": "بوٹ: %(from)s کوں %(modifying)s ول تبدیل کریندا پئے",
+	"interwiki-removing": "بوٹ: %(removing)s ہٹائیندا پئے",
+	"interwiki-removing-modifying": "بوٹ: %(removing)s ہٹائیندا پئے؛ %(modifying)s کوں تبدیل کریندا پئے"
 }
