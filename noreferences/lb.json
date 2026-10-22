@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"noreferences-add-tag": "Bot: Tag <references /> dee gefeelt huet derbäigesat",
+	"noreferences-add-tag": "Bot: Feelende <references />-Tag derbäigesat",
 	"noreferences-fix-tag": "Bot: Net valabel Syntx vum Tag <references /> flécken"
 }
