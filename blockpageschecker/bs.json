@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Edinwiki"
+			"Edinwiki",
+			"Panasko"
 		]
 	},
-	"blockpageschecker-deleting": "Bot: Brisanje zastarijelog šablona"
+	"blockpageschecker-adding": "Bot: Dodavanje predloška za zaključavanje stranice",
+	"blockpageschecker-deleting": "Bot: Brisanje zastarijelog šablona",
+	"blockpageschecker-modifying": "Bot: Izmjena zastarjelog predloška"
 }

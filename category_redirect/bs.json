@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"CERminator",
-			"Edinwiki"
+			"Edinwiki",
+			"Panasko"
 		]
 	},
 	"category_redirect-add-template": "Bot: dodaje šablon preusmjerenja kategorije radi održavanja",
@@ -10,5 +11,6 @@
 	"category_redirect-comment": "Bot za održavanje preusmjeravanja kategorije",
 	"category_redirect-edit-request": "Sljedeće zaštićene stranice su otkrivene a koje trebaju ažuriranje linkova kategorija: %(itemlist)s",
 	"category_redirect-edit-request-item": "* %(title)s je u %(oldcat)s, koja je preusmjerenje na %(newcat)s",
-	"category_redirect-fix-double": "Bot: Popravlja dvostruka preusmjerenja"
+	"category_redirect-fix-double": "Bot: Popravlja dvostruka preusmjerenja",
+	"category_redirect-log-add-failed": "* Dodavanje [[%(ns)s%(template)s]] u %(oldcat)s nije uspjelo"
 }

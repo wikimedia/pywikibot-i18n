@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Edinwiki",
+			"Panasko",
 			"Semso98",
 			"Srdjan m",
 			"Srđan"
 		]
 	},
 	"weblinkchecker-archive_msg": "Ova veb-stranica arhivirana je na Internet Archiveu. Preporučujemo da stavite link do odgovarajuće arhivirane verzije: [%(URL)s].",
-	"weblinkchecker-badurl": "Navedeni link ne djeluje kao ispravan URL",
+	"weblinkchecker-badurl": "Navedeni link ne djeluje kao ispravan URL: [%(URL)s]",
 	"weblinkchecker-caption": "Mrtav link",
 	"weblinkchecker-report": "Poslije nekoliko automatskih pokušaja bota, ustanovljeno je da je sljedeći vanjski link nedostupan. Provjerite je li link zaista neispravan i, ako je tako, ispravite ga ili ga uklonite!",
 	"weblinkchecker-summary": "Bot: Prijavljujem nedostupni vanjski link"

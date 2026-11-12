@@ -3,18 +3,22 @@
 		"authors": [
 			"CERminator",
 			"Edinwiki",
+			"Panasko",
 			"Srdjan m",
 			"Srđan"
 		]
 	},
 	"category-adding": "Bot: dodaje kategoriju [[:Category:%(newcat)s|%(newcat)s]]",
 	"category-also-in": "(također u %(alsocat)s)",
+	"category-clean": "Bot: Uklanjanje kategorije %(category)s jer je već pod kategorijom %(child)s",
 	"category-listifying": "Bot: Ispisuje iz %(fromcat)s (%(num)d stavki).",
 	"category-removing": "Bot: uklanja iz %(oldcat)s",
 	"category-renamed": "Robot: Premješteno iz %(oldcat)s. Autori: %(authors)s",
 	"category-replacing": "Bot: Mijenja kategoriju %(oldcat)s sa %(newcat)s",
 	"category-section-title": "Historija stranice od prethodne %(oldcat)s.",
+	"category-strip-both": "Bot: Uklanjanje CFD predložaka i ključeva sortiranja za završenu radnju",
 	"category-strip-cfd-templates": "Bot: Uklanjanje CFD šablona za urađene radnje",
+	"category-strip-sort-keys": "Bot: Uklanjanje ključeva sortiranja za završenu radnju",
 	"category-version-history": "Bot: Sačuvana historija verzija od prethodne %(oldcat)s,",
 	"category-was-disbanded": "Bot: Kategorija je raspuštena",
 	"category-was-moved": "Bot: Kategorija je premještena u [[:Category:%(newcat)s|%(title)s]]"

@@ -3,10 +3,12 @@
 		"authors": [
 			"Alirezaaa",
 			"Beginneruser",
+			"Darafsh",
 			"Ladsgroup",
 			"ZxxZxxZ"
 		]
 	},
+	"delete-broken-redirect": "ربات: حذف، تغییرمسیر به صفحهٔ حذف‌شده %(page)s",
 	"delete-from-category": "ربات: حذف تمام صفحه‌های ردهٔ %(page)s",
 	"delete-from-file": "ربات: درحال‌حذف فهرستی از صفحه‌ها.",
 	"delete-images": "ربات: حذف همهٔ تصاویر صفحهٔ %(page)s",

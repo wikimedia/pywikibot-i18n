@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Panasko"
+		]
+	},
+	"replicate_wiki-headline": "Stranice koje se razlikuju od originala",
+	"replicate_wiki-missing-users": "Administratori iz originala koji ovdje nedostaju",
+	"replicate_wiki-same-pages": "Sve važne stranice su iste",
+	"replicate_wiki-same-users": "Svi korisnici sa originala prisutni su i na ovom wikiju"
+}

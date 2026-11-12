@@ -1,10 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Panasko",
 			"Srdjan m",
 			"Srđan"
 		]
 	},
+	"checkimages-doubles-head": "Duplikat datoteke",
+	"checkimages-doubles-talk-comment": "Bot: Pošalji obavijest da datoteka već postoji na Commonsu",
+	"checkimages-forced-mode": "('''prinudni režim''')",
+	"checkimages-log-comment": "Bot: Ažuriranje zapisnika",
+	"checkimages-no-license-head": "Slika bez licence",
 	"checkimages-source-notice-comment": "Bot: Zahtijeva se informacija o izvoru.",
-	"checkimages-source-tag-comment": "Bot: Označavanje novoposlane neoznačene datoteke"
+	"checkimages-source-tag-comment": "Bot: Označavanje novoposlane neoznačene datoteke",
+	"checkimages-unknown-extension-head": "Nepoznata ekstenzija!"
 }
