@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"555",
+			"Felipe L. Ewald",
 			"Prilopes"
 		]
 	},
+	"delete-broken-redirect": "Bot: Excluir o redirecionamento para a página excluída %(page)s",
 	"delete-from-category": "Bot: Apagando todas as páginas da categoria %(page)s",
 	"delete-from-file": "Bot: Apagando uma listagem de páginas.",
 	"delete-images": "Bot: Apagando todas as imagens da página %(page)s",
